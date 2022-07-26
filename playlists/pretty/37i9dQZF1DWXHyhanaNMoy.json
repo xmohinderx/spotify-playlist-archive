@@ -1,13 +1,33 @@
 {
-  "description": "Een xxclusieve nieuwe track van Bokoesam!",
-  "num_followers": 300965,
+  "description": "Weer een xclusieve nieuwe track van Bokoesam! 'Outside' feat. Architrackz ",
+  "num_followers": 300995,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcwMDAwMCwwMDAwMDQ3ODAwMDAwMTgyMzIzOTZiOTYwMDAwMDE4MjI1YmY4YWU2",
+  "snapshot_id": "MTY1ODc4NjQwMCwwMDAwMDQ3OTAwMDAwMTgyMzc1ZmM3YWIwMDAwMDE4MjM0NzUwZTFj",
   "tracks": [
+    {
+      "added_at": "2022-07-25 22:00:00",
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/3ZPWoeM33VGg8mFopTBihQ"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Outside (feat. Architrackz)",
+      "url": "https://open.spotify.com/track/1BNJ9qClLhDJuMdliul9ae"
+    },
     {
       "added_at": "2022-07-24 22:00:00",
       "album": {

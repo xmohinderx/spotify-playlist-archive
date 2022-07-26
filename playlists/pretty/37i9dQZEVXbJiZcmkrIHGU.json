@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2107357,
+  "num_followers": 2107718,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzExOTc3MjQzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEyMDczNTA1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Layla (Dutch Version)",
         "url": "https://open.spotify.com/album/0FzJ3c7iD03TfPeRnsrgwu"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "MIXED FEELINGS",
         "url": "https://open.spotify.com/album/1ldWJtQGYdE34MP627RCBc"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2q7jpVfCtcuRwcur9nQeuC"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Beautiful Girl",
         "url": "https://open.spotify.com/album/2dG0GF5ikINJmc7nTRKSBk"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2XRn6Qu0Wd1KvOND8JbaTx"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
@@ -81,27 +81,43 @@
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Letztes Mal",
-        "url": "https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE"
+        "name": "Ticket nach Ketama (feat. Liaze)",
+        "url": "https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV"
       },
       "artists": [
         {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
         },
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Liaze",
+          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Letztes Mal",
-      "url": "https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD"
+      "duration_ms": 184500,
+      "name": "Ticket nach Ketama (feat. Liaze)",
+      "url": "https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        }
+      ],
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/7luOpgE6z2jUos0U6uVwc4"
@@ -125,39 +141,111 @@
       "url": "https://open.spotify.com/track/2cg9zDi0rvj3HjKxvv2tvY"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+        "name": "Letztes Mal",
+        "url": "https://open.spotify.com/album/0R5Kegf7xSgEDNiW6kswoE"
       },
       "artists": [
         {
-          "name": "Die Zipfelbuben",
-          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 180157,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+      "duration_ms": 165781,
+      "name": "Letztes Mal",
+      "url": "https://open.spotify.com/track/7k6aVgrtJqNTMVqk5yMWKD"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Nachts wach",
+        "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Nachts wach",
+      "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Kleiner Prinz",
+        "url": "https://open.spotify.com/album/4YITfxc90E7TGp1WSgWUAf"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 147560,
+      "name": "Kleiner Prinz",
+      "url": "https://open.spotify.com/track/0y8lwLPXBsenbF5WAZhlbL"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8"
+      },
+      "artists": [
+        {
+          "name": "Theo Junior",
+          "url": "https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Ups & Downs",
+      "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Boys Do Cry",
+        "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "duration_ms": 111146,
+      "name": "Commitment Issues",
+      "url": "https://open.spotify.com/track/3tjoq1CMR4YtSUegC5sbU8"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
@@ -177,107 +265,7 @@
       "url": "https://open.spotify.com/track/5dj7Il9BkdU1gMfIveNrVH"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Ticket nach Ketama (feat. Liaze)",
-        "url": "https://open.spotify.com/album/1VzaGDvMcgi3PbBZhfrbLV"
-      },
-      "artists": [
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
-        },
-        {
-          "name": "Liaze",
-          "url": "https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Ticket nach Ketama (feat. Liaze)",
-      "url": "https://open.spotify.com/track/7KWwQ8SokgUDO7es6Q4ZGW"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Kleiner Prinz",
-        "url": "https://open.spotify.com/album/4YITfxc90E7TGp1WSgWUAf"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 147560,
-      "name": "Kleiner Prinz",
-      "url": "https://open.spotify.com/track/0y8lwLPXBsenbF5WAZhlbL"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl"
-      },
-      "artists": [
-        {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
-        }
-      ],
-      "duration_ms": 157615,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Boys Do Cry",
-        "url": "https://open.spotify.com/album/1lIjKOmyguCKZFuPyDZp6h"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 111146,
-      "name": "Commitment Issues",
-      "url": "https://open.spotify.com/track/3tjoq1CMR4YtSUegC5sbU8"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/6TWKnFXOEU0AOXe8pSUnS8"
-      },
-      "artists": [
-        {
-          "name": "Theo Junior",
-          "url": "https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Ups & Downs",
-      "url": "https://open.spotify.com/track/53g6tgjn3Ex6o3Q8hcIxkG"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "In Liebe, Ion",
         "url": "https://open.spotify.com/album/4mrRHYvj9Ae90O8gPZLPtE"
@@ -301,27 +289,39 @@
       "url": "https://open.spotify.com/track/35DkXhxqTMiQB582tfjowU"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Nachts wach",
-        "url": "https://open.spotify.com/album/2Ei8muZiExgEPlRfLskcaE"
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl"
       },
       "artists": [
         {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Nachts wach",
-      "url": "https://open.spotify.com/track/0g2leZuI3jD5pRsrRIDvYe"
+      "duration_ms": 157615,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -337,27 +337,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Belly Dancer",
-        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Belly Dancer",
-      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Percocet Party",
         "url": "https://open.spotify.com/album/47nHXYjntjPhI7lf8lVCLH"
@@ -377,7 +357,7 @@
       "url": "https://open.spotify.com/track/3JXdzlvJJrKlmfBfoCLsOo"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Ohne Benzin",
         "url": "https://open.spotify.com/album/44qXZ6KEzcKrp9E9jaxpH0"
@@ -393,7 +373,27 @@
       "url": "https://open.spotify.com/track/3a0F2N6rXJSibQTp77xH4f"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Belly Dancer",
+        "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Belly Dancer",
+      "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "LEBENSLANG (HBz Remix)",
         "url": "https://open.spotify.com/album/1jW5P0yu4tE2EUwJWNkfRs"
@@ -437,7 +437,59 @@
       "url": "https://open.spotify.com/track/4FXX4P3dxc1JMBx5wVRJ5N"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
         "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
@@ -461,59 +513,7 @@
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
@@ -541,7 +541,23 @@
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/1uJ0u1MAN1yfCnc2O7edPO"
+      },
+      "artists": [
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
+        }
+      ],
+      "duration_ms": 148973,
+      "name": "AUSMACHT",
+      "url": "https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
@@ -577,59 +593,59 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Du & Ich",
-        "url": "https://open.spotify.com/album/7hK938ASLeyRG9Pj47D93U"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 149946,
-      "name": "Du & Ich",
-      "url": "https://open.spotify.com/track/7envzfD0MG4X4ELYAYSHu4"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Karussell",
-        "url": "https://open.spotify.com/album/3Dfx1KFbOkFXBWQGL7U0MD"
+        "name": "FALLIN",
+        "url": "https://open.spotify.com/album/6DIHHKh7V9eJ2s4YJAifqU"
       },
       "artists": [
         {
-          "name": "Azet",
-          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "FALLIN",
+      "url": "https://open.spotify.com/track/6XuiITnbtOxMbvSc2NmUM8"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Zuna",
-          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Karussell",
-      "url": "https://open.spotify.com/track/1YcuhTZfBHeyo9wVdNRiRR"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "1996",
-        "url": "https://open.spotify.com/album/1uJ0u1MAN1yfCnc2O7edPO"
-      },
-      "artists": [
-        {
-          "name": "Emilio",
-          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
-        }
-      ],
-      "duration_ms": 148973,
-      "name": "AUSMACHT",
-      "url": "https://open.spotify.com/track/6sDfeHgrQvvBFdg88Qq8TM"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Rain In Ibiza",
         "url": "https://open.spotify.com/album/034jdvpqZ6172bXix4BEmN"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Je M'appelle",
         "url": "https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ"
@@ -669,27 +685,7 @@
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "I Believe",
         "url": "https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv"
@@ -705,7 +701,7 @@
       "url": "https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
@@ -725,7 +721,43 @@
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Du & Ich",
+        "url": "https://open.spotify.com/album/7hK938ASLeyRG9Pj47D93U"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "duration_ms": 149946,
+      "name": "Du & Ich",
+      "url": "https://open.spotify.com/track/7envzfD0MG4X4ELYAYSHu4"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Karussell",
+        "url": "https://open.spotify.com/album/3Dfx1KFbOkFXBWQGL7U0MD"
+      },
+      "artists": [
+        {
+          "name": "Azet",
+          "url": "https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Karussell",
+      "url": "https://open.spotify.com/track/1YcuhTZfBHeyo9wVdNRiRR"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz"
@@ -741,43 +773,7 @@
       "url": "https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "COACHELLA",
-        "url": "https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX"
-      },
-      "artists": [
-        {
-          "name": "The Ironix",
-          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
-        },
-        {
-          "name": "Nullzweizwei",
-          "url": "https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW"
-        }
-      ],
-      "duration_ms": 166095,
-      "name": "COACHELLA",
-      "url": "https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
@@ -801,7 +797,27 @@
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "COACHELLA",
+        "url": "https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX"
+      },
+      "artists": [
+        {
+          "name": "The Ironix",
+          "url": "https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm"
+        },
+        {
+          "name": "Nullzweizwei",
+          "url": "https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW"
+        }
+      ],
+      "duration_ms": 166095,
+      "name": "COACHELLA",
+      "url": "https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "61 Grad (Deep House RMX)",
         "url": "https://open.spotify.com/album/1nKs8Er1df14iV7EHSydim"
@@ -821,43 +837,7 @@
       "url": "https://open.spotify.com/track/5gRXyFtArVXYk8OOSWIXBO"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Steig Ein",
-        "url": "https://open.spotify.com/album/1Y7pSMIkdhaqcKBIO1frSd"
-      },
-      "artists": [
-        {
-          "name": "NGEE",
-          "url": "https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V"
-        }
-      ],
-      "duration_ms": 159315,
-      "name": "Steig Ein",
-      "url": "https://open.spotify.com/track/2ar8oO1CZE0GjnxFTlg5Va"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Ein Gutes Schlechtes Vorbild",
-        "url": "https://open.spotify.com/album/5nTAk9Wf5zHJPFkUJWMH6a"
-      },
-      "artists": [
-        {
-          "name": "SDP",
-          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
-        },
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Die sch\u00f6nsten Tage",
-      "url": "https://open.spotify.com/track/2ERn9fVsix3AyuVv7UN6RC"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -877,39 +857,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
       },
       "artists": [
         {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
-      "album": {
-        "name": "Weg von mir",
-        "url": "https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Weg von mir",
-      "url": "https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso"
-    },
-    {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
         "name": "Sommergewitter",
         "url": "https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP"
@@ -925,20 +889,60 @@
       "url": "https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ"
     },
     {
-      "added_at": "2022-07-24 11:27:23",
+      "added_at": "2022-07-25 14:11:45",
       "album": {
-        "name": "FALLIN",
-        "url": "https://open.spotify.com/album/6DIHHKh7V9eJ2s4YJAifqU"
+        "name": "Weg von mir",
+        "url": "https://open.spotify.com/album/2YZ136w4VENx6JTJ3cIoE6"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Weg von mir",
+      "url": "https://open.spotify.com/track/0h14I7cPYi1RZG6GmVpMso"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "HIGH (feat. Claudia Valentina)",
+        "url": "https://open.spotify.com/album/7MNhKR78JxxQh9TwgOTxBM"
       },
       "artists": [
         {
           "name": "CRO",
           "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
         }
       ],
-      "duration_ms": 151133,
-      "name": "FALLIN",
-      "url": "https://open.spotify.com/track/6XuiITnbtOxMbvSc2NmUM8"
+      "duration_ms": 168093,
+      "name": "HIGH (feat. Claudia Valentina)",
+      "url": "https://open.spotify.com/track/72H4lwbSuX8xjyJseUC5Ux"
+    },
+    {
+      "added_at": "2022-07-25 14:11:45",
+      "album": {
+        "name": "Ein Gutes Schlechtes Vorbild",
+        "url": "https://open.spotify.com/album/5nTAk9Wf5zHJPFkUJWMH6a"
+      },
+      "artists": [
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Die sch\u00f6nsten Tage",
+      "url": "https://open.spotify.com/track/2ERn9fVsix3AyuVv7UN6RC"
     }
   ],
   "unique_name": "Top 50 - Germany",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128503,
+  "num_followers": 128497,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzUzNixjOTYwMzU2OTc4NWVhMmRjZTRlYmQwMTU1NDc4ZThiNDI0Njg1Nzk2",
+  "snapshot_id": "MzUzOCxiOGYxMTE0MDcwNGMxMzQ0NDM4OTdiMzI2ODc1N2FmZWYwNjdiNzNm",
   "tracks": [
+    {
+      "added_at": "2022-07-25 17:04:25",
+      "album": {
+        "name": "Agony District",
+        "url": "https://open.spotify.com/album/2xcGif7Oz4N0k5XtvDWNU6"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2XROdt9KOkQNxN6Ugq3z3m"
+    },
     {
       "added_at": "2022-07-22 16:38:37",
       "album": {
@@ -1107,26 +1123,6 @@
       "duration_ms": 226303,
       "name": "Dance",
       "url": "https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc"
-    },
-    {
-      "added_at": "2022-05-13 16:38:21",
-      "album": {
-        "name": "Maze",
-        "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "PHIA",
-          "url": "https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Maze",
-      "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

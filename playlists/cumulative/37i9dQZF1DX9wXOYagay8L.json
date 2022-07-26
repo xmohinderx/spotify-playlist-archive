@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH?si=oq2ijsCBQEy6ace2WNnU4A\">Nakhane</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI?si=6srq37UuRV-1WNthe4gHeg\">Mlindo The Vocalist</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -53,6 +53,28 @@
       "duration_ms": 284776,
       "name": "10K",
       "url": "https://open.spotify.com/track/77jr85pzR4YjCaK76WCPs0"
+    },
+    {
+      "album": {
+        "name": "Abelungu",
+        "url": "https://open.spotify.com/album/2VIQm1GmXG8iZUXytiydxJ"
+      },
+      "artists": [
+        {
+          "name": "Diezel Smoke",
+          "url": "https://open.spotify.com/artist/0hQEcRSi3aKAYzRuOo7ZF5"
+        },
+        {
+          "name": "Chad Da Don",
+          "url": "https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264192,
+      "name": "Abelungu",
+      "url": "https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7"
     },
     {
       "album": {
@@ -1311,7 +1333,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 210938,
       "name": "iType Yami",
       "url": "https://open.spotify.com/track/0g1HarKnAqvwSA63KzQC8e"
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 246263,
       "name": "Jerusalema (TikTok Classics Ballad Version)",
       "url": "https://open.spotify.com/track/4XyP6kuLftVy5u8L5nVed7"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 180200,
       "name": "Joanna",
       "url": "https://open.spotify.com/track/4cpMTAs1WGz3s9erEGLbQI"
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 237176,
       "name": "Kwenzekile",
       "url": "https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J"
@@ -1911,6 +1933,28 @@
       "duration_ms": 247688,
       "name": "Lilizela",
       "url": "https://open.spotify.com/track/7II1jN6iXtWsSt1e27wLVB"
+    },
+    {
+      "album": {
+        "name": "Lindokuhle",
+        "url": "https://open.spotify.com/album/4sq8XzfN0wJOyI35ou9M8j"
+      },
+      "artists": [
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Lotto (feat. Ami Faku)",
+      "url": "https://open.spotify.com/track/3e8K6g0QtTZ1Go4suzaK5c"
     },
     {
       "album": {
@@ -2721,6 +2765,32 @@
       "duration_ms": 285343,
       "name": "Ntab'ezimnyama",
       "url": "https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m"
+    },
+    {
+      "album": {
+        "name": "Ntate Mogolo",
+        "url": "https://open.spotify.com/album/1XU46BxPlHip6ElVHCqI0x"
+      },
+      "artists": [
+        {
+          "name": "Dr Malinga",
+          "url": "https://open.spotify.com/artist/1PPLLXnpoIzsgpH1fu0Gu7"
+        },
+        {
+          "name": "Seven Step",
+          "url": "https://open.spotify.com/artist/7huIKPqSXtNttCCgl7EnKb"
+        },
+        {
+          "name": "Lebo MusiQ",
+          "url": "https://open.spotify.com/artist/2cL61PI3E5os67hmK4P8HD"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336919,
+      "name": "Ntate Mogolo",
+      "url": "https://open.spotify.com/track/0Ml4TMjBKedGGoAoARCGIu"
     },
     {
       "album": {
@@ -3855,6 +3925,40 @@
       "duration_ms": 321071,
       "name": "VN 2 MY EX",
       "url": "https://open.spotify.com/track/2ObtcbTdH53xGEAhIYOGvY"
+    },
+    {
+      "album": {
+        "name": "Voicemail",
+        "url": "https://open.spotify.com/album/1jpct6JMzUuQRCvCe0ASwS"
+      },
+      "artists": [
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        },
+        {
+          "name": "Lwah Ndlunkulu",
+          "url": "https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1"
+        },
+        {
+          "name": "Siya Ntuli",
+          "url": "https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc"
+        },
+        {
+          "name": "Xowla",
+          "url": "https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278049,
+      "name": "Voicemail",
+      "url": "https://open.spotify.com/track/6l4EAi2hbZU9TfZWHUzDBE"
     },
     {
       "album": {

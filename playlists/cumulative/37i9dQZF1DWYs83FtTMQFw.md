@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Fivio Foreign & The Kid LAROI, Drake, and Post Malone
 
-711 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+712 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Holy Smokes](https://open.spotify.com/track/3EpF150nXMSNjiH0bbmXIL) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Holy Smokes \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/0TysZSXUKnqnQMeY40eaqg) | 3:01 | 2021-07-17 | 2021-11-20 |
 | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/track/02D7cBNL1rpCkvTja8S1ns) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [HOLY TRINITY \(feat\. Rich The Kid\)](https://open.spotify.com/album/0ev0saRGsMUB9MxtWZnliz) | 2:35 | 2022-07-22 |  |
 | [HOME](https://open.spotify.com/track/2WnPietHTd9hrIPbZnpoHL) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [HOME](https://open.spotify.com/album/3AQ0Ynvbg6lixOuNtuw5zo) | 2:54 | 2022-02-18 | 2022-06-11 |
+| [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-25 |  |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-29 |  |
 | [Hood Melody \(feat\. Youngboy Never Broke Again\)](https://open.spotify.com/track/3fUKv3kIexMFOmYsUYvbXJ) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 3:28 | 2021-03-19 | 2021-04-30 |
 | [Hot Boy Bling \(feat\. Jack Harlow & Lil Durk\)](https://open.spotify.com/track/3qTHxCUwefoOR0jiwCRcQN) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CB5](https://open.spotify.com/album/2mTRsFeFo7zou6PWFLT03v) | 3:00 | 2020-11-20 | 2020-12-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 30332,
+  "num_followers": 30387,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMTg0OSwwMDAwMDAwMDM3NzA0NmE1MTBmNzE1YzQ2YTJmMzgwMjZlMTQ2MmRi",
+  "snapshot_id": "MTY1ODc5ODUyNSwwMDAwMDAwMGY3YzQ3NmE5OGYzMWU0YzY3ZTc3NGFiNjU1N2Y0ZDMy",
   "tracks": [
     {
       "added_at": "2022-07-08 14:39:01",
@@ -223,6 +223,26 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
         "name": "Sisters & Brothers",
         "url": "https://open.spotify.com/album/37ISHphkeOt1OZXVr5WK2r"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Don't Explain",
-        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 313093,
-      "name": "I'll Take Care Of You",
-      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -283,62 +283,6 @@
       "duration_ms": 251360,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/2dAm3t3HT91qhKEgZFhzmv"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Carolina Confessions",
-        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
-      },
-      "artists": [
-        {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
-        }
-      ],
-      "duration_ms": 384373,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/1FjjqjCi8StDDQdHY5sGSZ"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "The Thrill Is Gone",
-      "url": "https://open.spotify.com/track/6gRGLfswEsfpy1UxHEyP6X"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Promise of a Brand New Day",
-        "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Singing the Blues",
-      "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -363,130 +307,78 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
       },
       "artists": [
         {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
         }
       ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Better Than Home",
-        "url": "https://open.spotify.com/album/64AW0lS2mVcLb8oe3HHl1I"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 356359,
-      "name": "Tell Her You Belong To Me",
-      "url": "https://open.spotify.com/track/6iKCoJA86prAgEL3Xr3ETF"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
-      },
-      "artists": [
-        {
-          "name": "Shanice Green",
-          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
-        }
-      ],
-      "duration_ms": 226131,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 209919,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "What Am I To You?",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx"
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
       "artists": [
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO"
+      "duration_ms": 313093,
+      "name": "I'll Take Care Of You",
+      "url": "https://open.spotify.com/track/644oQEcMNmA3ABAOrfY7k3"
     },
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Live At Blues Alley",
-        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
+        "name": "Promise of a Brand New Day",
+        "url": "https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q"
       },
       "artists": [
         {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 349066,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
+      "duration_ms": 225026,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1"
     },
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "On Every Street (Remaster)",
-        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/1FjjqjCi8StDDQdHY5sGSZ"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 359333,
-      "name": "You and Your Friend",
-      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
+      "duration_ms": 301133,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/6gRGLfswEsfpy1UxHEyP6X"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -551,90 +443,18 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
+        "name": "Carolina Confessions",
+        "url": "https://open.spotify.com/album/6RVN0MPUbYBiYm2Otf6Li2"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
         }
       ],
-      "duration_ms": 300373,
-      "name": "Stay Around A Little Longer (feat. B.B. King)",
-      "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "He Was a Friend of Mine",
-        "url": "https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag"
-      },
-      "artists": [
-        {
-          "name": "Tom Freund",
-          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "He Was a Friend of Mine",
-      "url": "https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Hope And Desire",
-        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
-      },
-      "artists": [
-        {
-          "name": "Susan Tedeschi",
-          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Loving You Is Sweeter Than Ever",
-      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
-      },
-      "artists": [
-        {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/5y6ddyAGfDYyY9vAvTfv5X"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/3fPzrf8jirArIu9CV2r4cN"
+      "duration_ms": 384373,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/2sF0R0NyjRfgbPdpUtX9p6"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -659,54 +479,118 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Mike Farris",
-          "url": "https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o"
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
         }
       ],
-      "duration_ms": 289266,
-      "name": "I Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D"
+      "duration_ms": 226131,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
     },
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
       },
       "artists": [
         {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
         }
       ],
-      "duration_ms": 344973,
-      "name": "Country Boy",
-      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Better Than Home",
+        "url": "https://open.spotify.com/album/64AW0lS2mVcLb8oe3HHl1I"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 356359,
+      "name": "Tell Her You Belong To Me",
+      "url": "https://open.spotify.com/track/6iKCoJA86prAgEL3Xr3ETF"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "On Every Street (Remaster)",
+        "url": "https://open.spotify.com/album/0ORgLm6BMFVpLGS4Q5SKMZ"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "You and Your Friend",
+      "url": "https://open.spotify.com/track/7LXxMApcyuh5A3sod0nV5s"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Live At Blues Alley",
+        "url": "https://open.spotify.com/album/1w72yNvC0RLKYHkm41TXqy"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 349066,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/0bjE6lnzcIAnRy26goCqXs"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+      "duration_ms": 300373,
+      "name": "Stay Around A Little Longer (feat. B.B. King)",
+      "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -723,102 +607,6 @@
       "duration_ms": 289960,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/6dEtTt8266eoCPhgaD2iDw"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Let Me Down Easy",
-        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "I Know - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 368186,
-      "name": "In From The Cold",
-      "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
-    },
-    {
-      "added_at": "2022-07-08 14:39:01",
-      "album": {
-        "name": "From the Cradle",
-        "url": "https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Third Degree",
-      "url": "https://open.spotify.com/track/1th2vwXpgv6prxxHbVccV9"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -843,18 +631,18 @@
     {
       "added_at": "2022-07-08 14:39:01",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "Dinah Washington Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+      "duration_ms": 218866,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/1XvYu65mJCje87BXSRFbE8"
     },
     {
       "added_at": "2022-07-08 14:39:01",
@@ -871,6 +659,222 @@
       "duration_ms": 264506,
       "name": "Country Girl",
       "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Let Me Down Easy",
+        "url": "https://open.spotify.com/album/05yGqviixZlZrmRiLyz563"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 209919,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Hope And Desire",
+        "url": "https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Loving You Is Sweeter Than Ever",
+      "url": "https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2kFK4iDjsStJ0fgFjZOfag"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/4aGp4qppOAsR9adlled9Sy"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "In The Basement: The Chess Recordings",
+        "url": "https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pie DeSanto",
+          "url": "https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "Slip-In Mules",
+      "url": "https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "I Know - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5lV9iUQzwQWo1gZMGjkeGl"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "What Am I To You?",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Don't Explain",
+        "url": "https://open.spotify.com/album/0b9pdQ9aJApcnIZ1OLZF7h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/0Uu9jiyQ0PE7LGpGs5SA7F"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Jigsaw Heart",
+        "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
+      },
+      "artists": [
+        {
+          "name": "Eden Brent",
+          "url": "https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx"
+        }
+      ],
+      "duration_ms": 250946,
+      "name": "Better This Way",
+      "url": "https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2"
+    },
+    {
+      "added_at": "2022-07-08 14:39:01",
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6l70T5SN4Aj6NahLKauc6b"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "No Other Way",
+      "url": "https://open.spotify.com/track/1KuNsc2Q2URrA9Xb1XnfLJ"
     }
   ],
   "unique_name": "Home at Last",

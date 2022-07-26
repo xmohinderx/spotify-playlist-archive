@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,809 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,011 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 22 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 |
 | 23 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
 | 24 | [愛とか恋とか](https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [愛とか恋とか](https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ) | 3:52 |
-| 25 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 |
-| 26 | [たましいの居場所](https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [たましいの居場所](https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l) | 3:21 |
+| 25 | [たましいの居場所](https://open.spotify.com/track/5D16E22MJJyKesh9PrJf2L) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [たましいの居場所](https://open.spotify.com/album/7Gy6jvTXkSgx5oEbaWBt1l) | 3:21 |
+| 26 | [Decision](https://open.spotify.com/track/28zFjzWhW87CSuGtn9PHJZ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Decision](https://open.spotify.com/album/0ZbngirqcVnHwtTygqjwZn) | 3:22 |
 | 27 | [This Kiss](https://open.spotify.com/track/40DAmimMs6oT7dsScFTCBC) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [This Kiss](https://open.spotify.com/album/2xJ9ttPAKlrV7k9X9JDXHO) | 4:20 |
 | 28 | [花瓶](https://open.spotify.com/track/3S5obhtZyw30dJ2lfCualn) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0WAltRUelTPVhbvhJCIF6d) | 3:27 |
 | 29 | [惑う糸](https://open.spotify.com/track/340zG7IKPHFjEFgzq9MFYx) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [惑う糸](https://open.spotify.com/album/4HUzZrrySRzQKmHw6eca8C) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 |
 | 50 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 |
 
-Snapshot ID: `MTY1ODY3NDgwMCwwMDAwMDMzOTAwMDAwMTgyMzBiOGU1ZTQwMDAwMDE4MjJkMDQwM2Q4`
+Snapshot ID: `MTY1ODc4NDI4MywwMDAwMDMzYTAwMDAwMTgyMzczZjdhNzUwMDAwMDE4MjJkMDQwM2Q4`

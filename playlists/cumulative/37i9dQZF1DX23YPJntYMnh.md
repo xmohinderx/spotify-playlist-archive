@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Certain Shade of Green](https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/7C2w3hUOkQ3Dn14cv6ILwA) | 3:11 | 2020-01-08 | 2022-07-25 |
+| [A Certain Shade of Green](https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/7C2w3hUOkQ3Dn14cv6ILwA) | 3:11 | 2020-01-08 |  |
 | [All Mixed Up](https://open.spotify.com/track/18ZOH3KKu5Elt5ysocFyX4) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:59 | 2020-01-08 |  |
 | [Always On The Run](https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:53 | 2020-01-08 |  |
 | [Ambush](https://open.spotify.com/track/6hHrv8AMpsc5tWuBTuKSAt) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [Tailwinds..](https://open.spotify.com/album/6aeh05WyBjH2gkpuVObUuE) | 1:03 | 2020-05-29 | 2022-02-05 |
@@ -98,7 +98,7 @@
 | [What I Got](https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:50 | 2020-01-08 |  |
 | [What Time Is It?](https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:49 | 2020-01-08 |  |
 | [Who Really Are the Monsters?](https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Raise Vibration](https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH) | 5:19 | 2022-02-04 | 2022-05-06 |
-| [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2020-01-08 |  |
+| [Wrong Way](https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 2:16 | 2020-01-08 | 2022-07-26 |
 | [You Know That](https://open.spotify.com/track/0TKz5gQUDPeHSyEHBCnsMP) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Go Faster](https://open.spotify.com/album/6C33RIIcD7Q0Sx0APSfpm5) | 3:56 | 2022-02-04 | 2022-04-21 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

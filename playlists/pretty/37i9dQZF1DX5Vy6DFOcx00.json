@@ -1,12 +1,12 @@
 {
   "description": "little miss 2 die 4 ",
-  "num_followers": 2084019,
+  "num_followers": 2090588,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODU5NzA2NSwwMDAwMDM2MDAwMDAwMTgyMmMxNmMzMDIwMDAwMDE4MWRlN2FjMjc3",
+  "snapshot_id": "MTY1ODc1MzUxOSwwMDAwMDM2MTAwMDAwMTgyMzU2YTBmNGYwMDAwMDE4MWRlN2FjMjc3",
   "tracks": [
     {
       "added_at": "2022-07-06 19:20:22",
@@ -23,6 +23,22 @@
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+    },
+    {
+      "added_at": "2022-07-21 20:00:00",
+      "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2022-07-07 16:59:53",
@@ -87,22 +103,6 @@
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
-    },
-    {
-      "added_at": "2022-07-21 20:00:00",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2022-07-23 17:24:25",
@@ -333,24 +333,20 @@
       "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-07-06 18:58:12",
       "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+        "name": "SNAP (High and Fast)",
+        "url": "https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP"
       },
       "artists": [
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 162875,
-      "name": "Love Lost",
-      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
+      "duration_ms": 135902,
+      "name": "SNAP - High and Fast",
+      "url": "https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS"
     },
     {
       "added_at": "2022-07-06 18:58:12",
@@ -441,22 +437,6 @@
       "url": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz"
     },
     {
-      "added_at": "2022-07-06 18:58:12",
-      "album": {
-        "name": "SNAP (High and Fast)",
-        "url": "https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 135902,
-      "name": "SNAP - High and Fast",
-      "url": "https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS"
-    },
-    {
       "added_at": "2022-05-03 03:42:48",
       "album": {
         "name": "Dizzy up the Girl",
@@ -471,6 +451,26 @@
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
     },
     {
       "added_at": "2022-04-20 06:33:10",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
+      "added_at": "2022-04-20 06:33:10",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
+    },
+    {
       "added_at": "2022-06-24 13:08:04",
       "album": {
         "name": "Bustdown Rollie Avalanche",
@@ -575,6 +591,22 @@
       "duration_ms": 267920,
       "name": "Consume (feat. Goon Des Garcons)",
       "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+    },
+    {
+      "added_at": "2022-07-12 21:38:18",
+      "album": {
+        "name": "WHO CARES?",
+        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "THE SHADE",
+      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
       "added_at": "2022-06-27 13:20:00",
@@ -641,38 +673,6 @@
       "url": "https://open.spotify.com/track/4qY6XV17tyJdpAgo9JoCLA"
     },
     {
-      "added_at": "2022-04-20 06:33:10",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2022-07-12 21:38:18",
-      "album": {
-        "name": "WHO CARES?",
-        "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "THE SHADE",
-      "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
-    },
-    {
       "added_at": "2022-07-06 01:01:57",
       "album": {
         "name": "Bad Habit",
@@ -705,38 +705,6 @@
       "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
     },
     {
-      "added_at": "2022-07-20 18:39:55",
-      "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 196458,
-      "name": "because i liked a boy",
-      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "it\u2019s ok!",
-        "url": "https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 185890,
-      "name": "it's ok!",
-      "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
-    },
-    {
       "added_at": "2022-07-05 20:40:08",
       "album": {
         "name": "Starboy",
@@ -751,6 +719,22 @@
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
+    },
+    {
+      "added_at": "2022-07-14 17:08:30",
+      "album": {
+        "name": "Maybe My Soulmate Died",
+        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
+      },
+      "artists": [
+        {
+          "name": "iamnotshane",
+          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
+        }
+      ],
+      "duration_ms": 114375,
+      "name": "Maybe My Soulmate Died",
+      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
     },
     {
       "added_at": "2022-05-15 21:11:58",
@@ -789,22 +773,6 @@
       "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
     },
     {
-      "added_at": "2022-07-14 17:08:30",
-      "album": {
-        "name": "Maybe My Soulmate Died",
-        "url": "https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL"
-      },
-      "artists": [
-        {
-          "name": "iamnotshane",
-          "url": "https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as"
-        }
-      ],
-      "duration_ms": 114375,
-      "name": "Maybe My Soulmate Died",
-      "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
-    },
-    {
       "added_at": "2022-06-24 13:08:04",
       "album": {
         "name": "Breakfast",
@@ -835,6 +803,38 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "it\u2019s ok!",
+        "url": "https://open.spotify.com/album/4w7M4EslHGIRR3etqWniTX"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 185890,
+      "name": "it's ok!",
+      "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
+    },
+    {
+      "added_at": "2022-07-20 18:39:55",
+      "album": {
+        "name": "emails i can't send",
+        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 196458,
+      "name": "because i liked a boy",
+      "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
     },
     {
       "added_at": "2022-07-07 16:59:53",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     },
     {
+      "added_at": "2022-05-31 14:24:36",
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
       "added_at": "2022-06-13 13:41:26",
       "album": {
         "name": "FOUR (Deluxe)",
@@ -1183,22 +1199,6 @@
       "duration_ms": 115138,
       "name": "#miles",
       "url": "https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi"
-    },
-    {
-      "added_at": "2022-05-31 14:24:36",
-      "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2022-06-17 15:51:42",
@@ -1347,22 +1347,6 @@
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/4cHKd6qPMR1TMx55KHlida"
-    },
-    {
-      "added_at": "2022-07-07 16:59:53",
-      "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
     },
     {
       "added_at": "2022-06-22 15:22:10",

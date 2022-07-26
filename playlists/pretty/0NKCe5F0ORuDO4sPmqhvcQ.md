@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,310 likes - 91 songs - 5 hr 7 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,311 likes - 92 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 89 | [The End](https://open.spotify.com/track/1jcde8M1qCE1peeOMkqNyy) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:28 |
 | 90 | [Wax](https://open.spotify.com/track/180haH4wvnFeoccfbPCY8w) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Wax](https://open.spotify.com/album/2b1onoouCLKHNpESqAUGFW) | 4:18 |
 | 91 | [Do It Again](https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy) | [Frison](https://open.spotify.com/artist/6rdBjC3pWmC5dKZkqgUOrP), [Dash30](https://open.spotify.com/artist/55eCRqfYWfk2QJWjIrPPXC) | [Daydream](https://open.spotify.com/album/6qVMdlnLSvSZr9o8WK4uN9) | 3:05 |
+| 92 | [Pick Yourself Up](https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 3:24 |
 
-Snapshot ID: `OTg3NCwwODBhOWRjMTJhZjkyMjA3MjFhZGZiMTM5YTBjNGY3NDc4NmViNTg4`
+Snapshot ID: `OTg3NSw1NjBmNjA3NTJiZDNmNDM0OGJkYWI0MTY2NjFiMTdjN2JiNjQwNjE2`

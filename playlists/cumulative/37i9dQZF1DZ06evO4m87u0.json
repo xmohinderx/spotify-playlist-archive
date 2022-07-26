@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207040,
+      "name": "Nova Baby",
+      "url": "https://open.spotify.com/track/5S7kFUo496CoItemffWQb9"
+    },
+    {
+      "album": {
         "name": "Attack & Release",
         "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 205600,
       "name": "Oceans & Streams",
       "url": "https://open.spotify.com/track/0RRS27vZj5U0N2eIBctL4K"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/2W1OhZFB3uGJ3FpU19BpvZ"

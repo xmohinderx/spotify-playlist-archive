@@ -4,7 +4,7 @@
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Armin van Buuren &amp; Maia Wright
 
-194 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
+195 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/2VKYZJ3lSyTEDXrKo18ci6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [HELLO 2K22](https://open.spotify.com/track/50iCAV06s0g1cPOoZSNR77) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn) | [HELLO 2K22](https://open.spotify.com/album/6TAXMd648Ma2FmiEY6w9gN) | 3:25 | 2022-06-30 |  |
 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 | 2022-07-21 |  |
 | [Hey Lover](https://open.spotify.com/track/7C1npwzT9RhSwSsSVWECHb) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [WeDisappear](https://open.spotify.com/album/4w9lDjMD7wopSiYLBVsDgI) | 4:01 | 2022-06-09 | 2022-07-01 |
+| [High On Music](https://open.spotify.com/track/78yjnax7e26RPgjpHxVEAN) | [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [High On Music](https://open.spotify.com/album/1Kbc7ZyTZP2mkWpCDErCdi) | 2:25 | 2022-07-25 |  |
 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/1r8Y3er5sLDfD9rVFRhhyz) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Hold Me Close \(Vintage Culture Remix\)](https://open.spotify.com/album/4yhwVlnIOdgGmhmbaaCROg) | 3:47 | 2022-06-23 |  |
 | [Hold Me Close \- Vintage Culture Remix](https://open.spotify.com/track/2SUtI7BZmrIKZpRC4rVjc7) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Human Learning \(Remixes, Pt\. 1\)](https://open.spotify.com/album/1EwsOmuBJQLv2CcJkEdnD2) | 3:47 | 2022-06-09 | 2022-06-24 |
 | [Hold On To Your Heart](https://open.spotify.com/track/5p2ilHbZd8Utsprba4QaXS) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE), [Amelia Fox](https://open.spotify.com/artist/3I4pqS75HcWouwU39LjRdM) | [WeDisappear](https://open.spotify.com/album/4w9lDjMD7wopSiYLBVsDgI) | 4:29 | 2022-06-09 | 2022-07-08 |

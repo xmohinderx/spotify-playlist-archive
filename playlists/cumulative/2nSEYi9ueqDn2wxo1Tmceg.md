@@ -4,12 +4,13 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-102 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+103 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1995](https://open.spotify.com/track/2VClwPpZUCKuJEN9acH7nA) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD) | [Mercury](https://open.spotify.com/album/7LCvb7UtkTLBcQA45BwPIQ) | 3:55 | 2022-06-16 |  |
 | [All The Junk On The Outskirts](https://open.spotify.com/track/71AnYfkhkjnBYGw4ryoGZR) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [All The Junk On The Outskirts](https://open.spotify.com/album/5oCuWvBnDMXdbUZ916XWAD) | 3:38 | 2022-06-08 |  |
+| [All These Things](https://open.spotify.com/track/5k0FUO0GmHOELaM8tJlmjP) | [DC Gore](https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6) | [All These Things](https://open.spotify.com/album/2X2wOUf1d0tdAxWMN6U3sm) | 4:30 | 2022-07-25 |  |
 | [Andrea](https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 5:39 | 2022-06-08 | 2022-06-17 |
 | [Androgynous](https://open.spotify.com/track/2Nt3eMQmFQKUxpeprIxIlW) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Androgynous](https://open.spotify.com/album/3VMXNlsJNUrKuJu5bFTJvJ) | 3:32 | 2022-07-13 |  |
 | [Anima](https://open.spotify.com/track/2wrGTAittO2Kh4DI1H5kX1) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty) | [Tresor](https://open.spotify.com/album/78lZv9dM7CBDIblhnVAXH7) | 3:18 | 2022-07-06 |  |

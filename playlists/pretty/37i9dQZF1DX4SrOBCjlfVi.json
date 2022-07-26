@@ -1,49 +1,13 @@
 {
   "description": "All the New Joints featuring Nardo Wick, Lil Uzi Vert, and Megan Thee Stallion. Cover: Nardo Wick",
-  "num_followers": 174136,
+  "num_followers": 174236,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUxNjM0MCwwMDAwMDBlZTAwMDAwMTgyMjc0NzAwYjYwMDAwMDE4MjFjYWM1OTIz",
+  "snapshot_id": "MTY1ODc3ODA5MiwwMDAwMDBlZjAwMDAwMTgyMzZlMTAzYjgwMDAwMDE4MjFjYWM1OTIz",
   "tracks": [
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "SPACE CADET",
-        "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 166690,
-      "name": "SPACE CADET",
-      "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
-    },
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
@@ -99,6 +63,42 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "SPACE CADET",
+        "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 166690,
+      "name": "SPACE CADET",
+      "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
     },
     {
       "added_at": "2022-07-22 04:00:00",

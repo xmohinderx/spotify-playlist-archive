@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124586,
+      "name": "10 Sleepy Pandas",
+      "url": "https://open.spotify.com/track/4wQmNZWej3NHi8XeQvy4mL"
+    },
+    {
+      "album": {
         "name": "Animal Songs",
         "url": "https://open.spotify.com/album/36tbGzLkVELzT9bF5SUus0"
       },
@@ -153,6 +171,24 @@
       "duration_ms": 152022,
       "name": "Animal Sounds Song",
       "url": "https://open.spotify.com/track/1GZLVOiMleNK19yYOHSWTE"
+    },
+    {
+      "album": {
+        "name": "Animal Playtime",
+        "url": "https://open.spotify.com/album/7qLeFNZVZHv8hRXyoxVtxL"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Animal Sounds Song",
+      "url": "https://open.spotify.com/track/017JgLqh1BQMvhOYG4kRtQ"
     },
     {
       "album": {

@@ -4222,6 +4222,24 @@
     },
     {
       "album": {
+        "name": "Tu / You",
+        "url": "https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142511,
+      "name": "Tu / You",
+      "url": "https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0"
+    },
+    {
+      "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
       },

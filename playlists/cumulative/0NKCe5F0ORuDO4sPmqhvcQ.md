@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-271 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+272 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [OTW](https://open.spotify.com/track/6P7TP6ifKNaIp0y59Q3pCF) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:52 | 2021-12-07 | 2022-01-08 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-18 | 2022-02-05 |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 |  |
+| [Pick Yourself Up](https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 3:24 | 2022-07-25 |  |
 | [pieces](https://open.spotify.com/track/5lIOCSamrX9G9BieD9tDl8) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [pieces](https://open.spotify.com/album/052yq9mMuoKXsIQKKk0zzp) | 2:28 | 2022-02-28 | 2022-03-31 |
 | [Pillow Talk](https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Pillow Talk](https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR) | 3:00 | 2022-07-15 |  |
 | [PLAY WITH FIRE](https://open.spotify.com/track/5f5LhZkpLnqUbwqPXeOSoH) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 2:50 | 2022-02-28 | 2022-04-19 |

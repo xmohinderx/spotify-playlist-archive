@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41ePM6C85zfhtOuTEfuooq">Charlene Meulenberg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-52 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
+53 songs - 2 hr 47 min - [published](https://open.spotify.com/playlist/6em251h4Qy6i0PaiBqmC9I)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Driver Seat](https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Driver Seat](https://open.spotify.com/album/2jhH69NOhQ7yZEtBgxANsj) | 2:24 | 2022-05-29 |  |
 | [Emotional](https://open.spotify.com/track/09a4XeVIPNsXSM91WkvOFe) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [Emotional](https://open.spotify.com/album/7m7RlX0aZW7TIjLH24Pv1N) | 2:50 | 2022-05-29 |  |
 | [Esta Noche](https://open.spotify.com/track/67v9RxHvSKpuKAMiayfXYP) | [Denise Faro](https://open.spotify.com/artist/2FtfhftN2XCuRFblobGGDX) | [Esta Noche](https://open.spotify.com/album/1wO5BYi995trUEdWvfSk61) | 3:21 | 2022-05-29 |  |
-| [Falling Fast](https://open.spotify.com/track/2jiV48bpvHRnxhnvjiU7G1) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/058E68fxknsRcGsDKP3xRV) | 3:03 | 2022-05-29 |  |
+| [Falling Fast](https://open.spotify.com/track/0VsMUwqiV7vQpTBcyQFJiN) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/6SrZvzG41xmPawJTZSxfiQ) | 3:03 | 2022-07-25 |  |
+| [Falling Fast](https://open.spotify.com/track/2jiV48bpvHRnxhnvjiU7G1) | [April Darby](https://open.spotify.com/artist/3hYoiohAx0QaaQ6bKfBmyq) | [Falling Fast](https://open.spotify.com/album/058E68fxknsRcGsDKP3xRV) | 3:03 | 2022-05-29 | 2022-07-26 |
 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 | 2022-05-29 |  |
 | [Friends Online](https://open.spotify.com/track/2yiBmShIPmx7UqotxC25gd) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:42 | 2022-05-29 |  |
 | [Heartbeat](https://open.spotify.com/track/6rs9noqED5d5SRVfK5evQC) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Sydnee Carter](https://open.spotify.com/artist/2URnDoxQb8QV2GlfMVDy99) | [Heartbeat](https://open.spotify.com/album/3gzilPfL1qhPsSKjJ4RYlO) | 3:41 | 2022-05-29 |  |

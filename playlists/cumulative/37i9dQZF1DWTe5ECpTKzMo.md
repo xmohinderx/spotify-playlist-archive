@@ -4,7 +4,7 @@
 
 > Solo éxitos locales pasados, chapados en oro\. Foto: Cartel de Santa, Millonario
 
-55 songs - 3 hr 31 min - not published yet
+55 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6rR9impfdl0qRPEpFRtBnL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

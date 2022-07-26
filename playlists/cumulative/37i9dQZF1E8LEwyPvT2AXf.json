@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-04-13",
-  "description": "With Adele, Daniel Merriweather, Olivia Dean, James Smith and more",
+  "description": "With Adele, Jenna Raine, Haley Reinhart, James Smith and more",
   "name": "When We Were Young Radio",
   "published_playlist_ids": [
     "4unVIKdkTCDXOJosfpD9UD"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 158539,
       "name": "24/5",
       "url": "https://open.spotify.com/track/6rbusyA3DqbX30SLn7aofn"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 177322,
       "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
       "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
@@ -797,13 +797,13 @@
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
+          "name": "Lauren Spencer Smith",
           "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 215980,
       "name": "Back to Friends",
       "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
@@ -1251,7 +1251,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 202426,
       "name": "Boyfriend Jeans",
       "url": "https://open.spotify.com/track/1eyE8XoM9mN4jvp8lI4ukJ"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 227800,
       "name": "Call Me When It's Over",
       "url": "https://open.spotify.com/track/3pg8SqwcnJgHPcnWBY9tVB"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 214282,
       "name": "City Shoes",
       "url": "https://open.spotify.com/track/0lURC42VjGAjvmIi1NQLAa"
@@ -2063,7 +2063,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 220506,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/1JZkTZEXkLvkR2oQ9PSKuO"
@@ -2189,7 +2189,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 210194,
       "name": "Don't Let Me Let You Go",
       "url": "https://open.spotify.com/track/1btcnFy1GQuA9sj3as6eTi"
@@ -2261,7 +2261,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 243200,
       "name": "Don't You Remember",
       "url": "https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -2824,6 +2824,24 @@
     },
     {
       "album": {
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/6hH99L5UB20li6rryqbCCU"
+      },
+      "artists": [
+        {
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Firestone - Acoustic",
+      "url": "https://open.spotify.com/track/2CbpdzHsUwm6HzbjzRLYLW"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 258025,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/5BpmwiKR6ns1EtfCQRpNUc"
@@ -3279,7 +3297,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 191386,
       "name": "Give a Little Love",
       "url": "https://open.spotify.com/track/43lsf1x1zOWZikgqAMQD54"
@@ -3459,7 +3477,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 235936,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF"
@@ -3683,7 +3701,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
@@ -3737,7 +3755,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 200560,
       "name": "Heart Like Yours",
       "url": "https://open.spotify.com/track/1ym2ZnNbIV6TB4YUjAl2Z5"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 198381,
       "name": "Hearts Ain't Gonna Lie - Acoustic",
       "url": "https://open.spotify.com/track/1JqsgbX7Btg8mQsbsZ8oUj"
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 230266,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
@@ -4145,7 +4163,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 200620,
       "name": "Home",
       "url": "https://open.spotify.com/track/4OsBjrJQbPSMAqdjLBaGOt"
@@ -4253,7 +4271,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 271226,
       "name": "Hometown Glory",
       "url": "https://open.spotify.com/track/19QzuPTNZHJ2SEu5LCQTGI"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "How To Love Me",
       "url": "https://open.spotify.com/track/70bhxGCCsZUwCNNQVZEdf2"
@@ -4505,7 +4523,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "I Am Falling in Love",
       "url": "https://open.spotify.com/track/6w0hYR4t6m3AYgCDh29t9K"
@@ -4631,7 +4649,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 163960,
       "name": "I Don't Wanna Love Somebody Else",
       "url": "https://open.spotify.com/track/5XY2CyLE68jlt7nNj5ygVh"
@@ -4649,7 +4667,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 223786,
       "name": "I Don't Wanna See You with Her",
       "url": "https://open.spotify.com/track/2EfuOKbUFQHvv7zlmGL3iM"
@@ -4729,7 +4747,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
@@ -5269,7 +5287,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 303653,
       "name": "If By Chance",
       "url": "https://open.spotify.com/track/21dpBHPTV7ythCHBI6Slcw"
@@ -5655,7 +5673,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 249186,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/1XcXLeFN4JNpUTeGnUPCWj"
@@ -5785,7 +5803,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 176320,
       "name": "Issues",
       "url": "https://open.spotify.com/track/7vu0JkJh0ldukEYbTVcqd0"
@@ -6005,7 +6023,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 197373,
       "name": "Just Like A Child",
       "url": "https://open.spotify.com/track/73B39JQSjAl1bddnj7u8PB"
@@ -6189,7 +6207,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 258373,
       "name": "Leaving You",
       "url": "https://open.spotify.com/track/122xzEJqAEVprD7qIUtVa5"
@@ -6669,7 +6687,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 220866,
       "name": "Lookalike",
       "url": "https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN"
@@ -6723,7 +6741,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 276066,
       "name": "Lost Boy",
       "url": "https://open.spotify.com/track/0zMzyHAeMvwq5CRstru1Fp"
@@ -6741,7 +6759,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 267933,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/7rdGrVIoqwPWOULauvglio"
@@ -6813,7 +6831,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 403044,
       "name": "Love Is A Game",
       "url": "https://open.spotify.com/track/2j3GxEsbNYNeEzz86wDY4J"
@@ -7199,7 +7217,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 316240,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
@@ -7297,7 +7315,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 239000,
       "name": "Make It Back to Me",
       "url": "https://open.spotify.com/track/6IBtkq1AGJUkGiUZ1SHFel"
@@ -7431,7 +7449,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 246840,
       "name": "Make You Feel My Love - Live at WXPN",
       "url": "https://open.spotify.com/track/3NYceIpgRH9enVfWVxeLbB"
@@ -7525,7 +7543,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 203906,
       "name": "Melt My Heart To Stone",
       "url": "https://open.spotify.com/track/1Ujuabe6tYXRDgmTk9j3K9"
@@ -7615,7 +7633,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 227065,
       "name": "Million Years Ago",
       "url": "https://open.spotify.com/track/0ijHEBUBXIJPp5ubUkDLQi"
@@ -7763,7 +7781,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 389107,
       "name": "My Little Love",
       "url": "https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy"
@@ -7879,7 +7897,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 236746,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW"
@@ -8081,7 +8099,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 202586,
       "name": "Never Seen Anything \"Quite Like You\"",
       "url": "https://open.spotify.com/track/71qNRlNDnPahvATE7Zl4Nw"
@@ -8409,7 +8427,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -8583,7 +8601,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 283266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt"
@@ -8601,7 +8619,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 199584,
       "name": "Paper Hearts",
       "url": "https://open.spotify.com/track/4X8jImpljCdt2eDge8OzoQ"
@@ -9103,7 +9121,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 224585,
       "name": "Put A Little Love On Me",
       "url": "https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78"
@@ -9283,7 +9301,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 251413,
       "name": "Revolution - Acoustic Version",
       "url": "https://open.spotify.com/track/5bCB9TA16z9DEHw0jiABBo"
@@ -9959,7 +9977,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-03",
+      "date_removed": null,
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB"
@@ -10367,7 +10385,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
@@ -10421,7 +10439,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -10569,7 +10587,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 217974,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB"
@@ -10823,7 +10841,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 207973,
       "name": "Superficial Love",
       "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
@@ -10949,7 +10967,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 251701,
       "name": "Sweetest Devotion",
       "url": "https://open.spotify.com/track/10tHyoc3wSA5scOVZuMcFm"
@@ -11057,7 +11075,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 237464,
       "name": "TALK ME DOWN",
       "url": "https://open.spotify.com/track/0nRuVPZx2iA3KWR4xSzryl"
@@ -11781,7 +11799,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
@@ -11875,7 +11893,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 403961,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ"
@@ -11929,7 +11947,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 217297,
       "name": "To Make You Feel My Love",
       "url": "https://open.spotify.com/track/5geYcomfyH7gQUZenaZj1o"
@@ -12131,7 +12149,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -12607,7 +12625,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/1IWv7yYMFplrKaZDUldFJn"
@@ -12647,7 +12665,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 219186,
       "name": "Water And A Flame (feat. Adele)",
       "url": "https://open.spotify.com/track/6FZjUIfR6vEEg1bT9elJlf"
@@ -12821,7 +12839,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-02",
+      "date_removed": null,
       "duration_ms": 230346,
       "name": "What's in Your Eyes (feat. Tilde Vinther)",
       "url": "https://open.spotify.com/track/37K3kGMQEfhEtyIBv3QkOf"
@@ -13329,7 +13347,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 248986,
       "name": "Wrong Direction",
       "url": "https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo"

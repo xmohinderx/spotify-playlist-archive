@@ -1,12 +1,12 @@
 {
   "description": "Get your spirits up and manage your mood any time of the day",
-  "num_followers": 591,
+  "num_followers": 602,
   "original_name": "Mutima ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA2ODg4NywwMDAwMDAwNTAwMDAwMTgxOTU2NWQzZjUwMDAwMDE4MTRjYjczZDM3",
+  "snapshot_id": "MTY1ODczNDczNCwwMDAwMDAwNjAwMDAwMTgyMzQ0YjZhZjEwMDAwMDE4MTRjYjczZDM3",
   "tracks": [
     {
       "added_at": "2022-06-06 07:52:52",
@@ -23,6 +23,22 @@
       "duration_ms": 269386,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Kibunomu",
+        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Mugabi",
+          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
+        }
+      ],
+      "duration_ms": 166897,
+      "name": "Naki",
+      "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
     },
     {
       "added_at": "2022-06-24 11:08:07",
@@ -63,22 +79,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Kibunomu",
-        "url": "https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp"
-      },
-      "artists": [
-        {
-          "name": "Kenneth Mugabi",
-          "url": "https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "Naki",
-      "url": "https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "Pity Party",
         "url": "https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y"
       },
@@ -107,6 +107,22 @@
       "duration_ms": 213375,
       "name": "Ndi Mukyala",
       "url": "https://open.spotify.com/track/1VynzKBT8c9amEWZPBwZZO"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "WANO",
+        "url": "https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t"
+      },
+      "artists": [
+        {
+          "name": "NTAATE",
+          "url": "https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "WANO",
+      "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -183,22 +199,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "WANO",
-        "url": "https://open.spotify.com/album/3XIZCSSFUdzPvxMJOcC32t"
-      },
-      "artists": [
-        {
-          "name": "NTAATE",
-          "url": "https://open.spotify.com/artist/2pjlyuBujBWpkiqpoZTOB9"
-        }
-      ],
-      "duration_ms": 211069,
-      "name": "WANO",
-      "url": "https://open.spotify.com/track/7smBB3wQQe6eGZMMVVF4mv"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "So Wok",
         "url": "https://open.spotify.com/album/49KgzdtouSFVzNDjGc4s3l"
       },
@@ -249,6 +249,38 @@
       "url": "https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ"
     },
     {
+      "added_at": "2022-07-25 07:38:54",
+      "album": {
+        "name": "Blue Detail",
+        "url": "https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz"
+      },
+      "artists": [
+        {
+          "name": "Dreventy",
+          "url": "https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3"
+        }
+      ],
+      "duration_ms": 166807,
+      "name": "Grand Pa",
+      "url": "https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
+      },
+      "artists": [
+        {
+          "name": "Meddy",
+          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
+        }
+      ],
+      "duration_ms": 238888,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
+    },
+    {
       "added_at": "2022-06-06 07:52:52",
       "album": {
         "name": "Webale",
@@ -283,6 +315,38 @@
       "duration_ms": 232500,
       "name": "One Life",
       "url": "https://open.spotify.com/track/4YYf1EHe0xR4xss7owlpzj"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "AFRICAN MUSIC",
+        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
+      },
+      "artists": [
+        {
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "BAMUTUTTE",
+      "url": "https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "The Book of Kirya",
+        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "The Blue Dress Song",
+      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -331,22 +395,6 @@
       "duration_ms": 181000,
       "name": "Nkwegomba",
       "url": "https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
-      },
-      "artists": [
-        {
-          "name": "Meddy",
-          "url": "https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64"
-        }
-      ],
-      "duration_ms": 238888,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -407,38 +455,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "AFRICAN MUSIC",
-        "url": "https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E"
-      },
-      "artists": [
-        {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
-        }
-      ],
-      "duration_ms": 179439,
-      "name": "BAMUTUTTE",
-      "url": "https://open.spotify.com/track/2sZ4GjmmmpDqhQHg4MwxJM"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "The Book of Kirya",
-        "url": "https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "The Blue Dress Song",
-      "url": "https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "Kukaliba",
         "url": "https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD"
       },
@@ -451,6 +467,22 @@
       "duration_ms": 233560,
       "name": "Kukaliba",
       "url": "https://open.spotify.com/track/5q4BS8l70bcV9zHfw8yLgr"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Kapeesa",
+        "url": "https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp"
+      },
+      "artists": [
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        }
+      ],
+      "duration_ms": 229590,
+      "name": "Kapeesa",
+      "url": "https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -579,70 +611,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Kapeesa",
-        "url": "https://open.spotify.com/album/2pxRmxOxuTYP6WhiQMQpsp"
-      },
-      "artists": [
-        {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
-        }
-      ],
-      "duration_ms": 229590,
-      "name": "Kapeesa",
-      "url": "https://open.spotify.com/track/60scLv2PhYUcdsVQr78YlM"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Omukwano",
-        "url": "https://open.spotify.com/album/2asyqwl9c5SBhRcauia0Pi"
-      },
-      "artists": [
-        {
-          "name": "Aybrah",
-          "url": "https://open.spotify.com/artist/2LjrN4oipZgtk6t5678kt6"
-        },
-        {
-          "name": "Naava Grey",
-          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
-        }
-      ],
-      "duration_ms": 173075,
-      "name": "Omukwano",
-      "url": "https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Niwe Akeine",
-        "url": "https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE"
-      },
-      "artists": [
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        },
-        {
-          "name": "Denesi",
-          "url": "https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6"
-        },
-        {
-          "name": "Walter Yt",
-          "url": "https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Legeza",
-      "url": "https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "Mukama Yamba",
         "url": "https://open.spotify.com/album/6jszbfelt6NdHu0ncj3cdy"
       },
@@ -679,6 +647,110 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
+        "name": "Omutima",
+        "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
+      },
+      "artists": [
+        {
+          "name": "Lydia Jazmine",
+          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
+        }
+      ],
+      "duration_ms": 163243,
+      "name": "Omutima",
+      "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Niwe Akeine",
+        "url": "https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE"
+      },
+      "artists": [
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        },
+        {
+          "name": "Denesi",
+          "url": "https://open.spotify.com/artist/2j5qvgoDULdbdLaFfb1Ap6"
+        },
+        {
+          "name": "Walter Yt",
+          "url": "https://open.spotify.com/artist/1M3yIJrAXh63N36XijhgfA"
+        }
+      ],
+      "duration_ms": 206117,
+      "name": "Legeza",
+      "url": "https://open.spotify.com/track/4FragLnXmS8EJA9WPLr9fW"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "BoBV",
+        "url": "https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7"
+      },
+      "artists": [
+        {
+          "name": "Lukas Blacc",
+          "url": "https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel"
+        },
+        {
+          "name": "Likkle Bangi",
+          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Kukaliba",
+        "url": "https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD"
+      },
+      "artists": [
+        {
+          "name": "Rema namakula",
+          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
+        }
+      ],
+      "duration_ms": 202056,
+      "name": "Muchuzi",
+      "url": "https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
+        "name": "Omukwano",
+        "url": "https://open.spotify.com/album/2asyqwl9c5SBhRcauia0Pi"
+      },
+      "artists": [
+        {
+          "name": "Aybrah",
+          "url": "https://open.spotify.com/artist/2LjrN4oipZgtk6t5678kt6"
+        },
+        {
+          "name": "Naava Grey",
+          "url": "https://open.spotify.com/artist/4Dvh0aMCIBySKye4a8O2UB"
+        }
+      ],
+      "duration_ms": 173075,
+      "name": "Omukwano",
+      "url": "https://open.spotify.com/track/2ssKMZuANIm0fFMrofWovC"
+    },
+    {
+      "added_at": "2022-06-06 07:52:52",
+      "album": {
         "name": "King Saha Biri Biri",
         "url": "https://open.spotify.com/album/383eCArtodpJRwqbU1Ubab"
       },
@@ -707,38 +779,6 @@
       "duration_ms": 193410,
       "name": "Wandiisa Ki",
       "url": "https://open.spotify.com/track/46MwoLINORNKPyqIILxsAo"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Kukaliba",
-        "url": "https://open.spotify.com/album/306oZUKME7u2xQ9eIa5cdD"
-      },
-      "artists": [
-        {
-          "name": "Rema namakula",
-          "url": "https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr"
-        }
-      ],
-      "duration_ms": 202056,
-      "name": "Muchuzi",
-      "url": "https://open.spotify.com/track/4LAHC8YHdw0IEQZNDUagmD"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "Omutima",
-        "url": "https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY"
-      },
-      "artists": [
-        {
-          "name": "Lydia Jazmine",
-          "url": "https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM"
-        }
-      ],
-      "duration_ms": 163243,
-      "name": "Omutima",
-      "url": "https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW"
     },
     {
       "added_at": "2022-06-06 07:52:52",
@@ -839,26 +879,6 @@
     {
       "added_at": "2022-06-06 07:52:52",
       "album": {
-        "name": "Zik Zak",
-        "url": "https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1"
-      },
-      "artists": [
-        {
-          "name": "Ancient Astronauts",
-          "url": "https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN"
-        },
-        {
-          "name": "MoRoots",
-          "url": "https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ"
-        }
-      ],
-      "duration_ms": 225010,
-      "name": "Tebamanyi",
-      "url": "https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
         "name": "HERE THEY COME",
         "url": "https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR"
       },
@@ -891,30 +911,6 @@
       "duration_ms": 200000,
       "name": "I Hope",
       "url": "https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G"
-    },
-    {
-      "added_at": "2022-06-06 07:52:52",
-      "album": {
-        "name": "BoBV",
-        "url": "https://open.spotify.com/album/4q4mssAJ2NaWCENz8vIRj7"
-      },
-      "artists": [
-        {
-          "name": "Lukas Blacc",
-          "url": "https://open.spotify.com/artist/5tXsoJIgKCCzvGawhVNCel"
-        },
-        {
-          "name": "Likkle Bangi",
-          "url": "https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/0GIFfCmvv0eO8dHnOG241U"
     }
   ],
   "unique_name": "Mutima ",

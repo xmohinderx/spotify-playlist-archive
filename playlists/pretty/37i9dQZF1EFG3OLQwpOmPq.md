@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 40 | [mexico city](https://open.spotify.com/track/34Y7LIhSelCjmzJUZHBEOn) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:27 |
 | 41 | [Golden Roses](https://open.spotify.com/track/6CLvWzSVYzYNO2ePEqaQNl) | [Emily Zeck](https://open.spotify.com/artist/696x5uEm1nV6xucEZNAbzH) | [Blissful Ignorance](https://open.spotify.com/album/6teRzD3N6CNwWYHgHQyOPc) | 3:28 |
 | 42 | [Autopilot](https://open.spotify.com/track/4CF3Z1OmJLwSIqt3l8tdsR) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj) | [Autopilot](https://open.spotify.com/album/1Fj4667loGqnXZmuV8Ky5E) | 3:15 |
-| 43 | [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 |
-| 44 | [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 |
+| 43 | [Yours for the Night](https://open.spotify.com/track/3veOoTKXPdnXe5OyDyi8lS) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Worthy](https://open.spotify.com/album/6zbmQwwE1ootZFV4iAU2aD) | 3:13 |
+| 44 | [Not Your Baby](https://open.spotify.com/track/7LnHlo1rCs71sFwqYHntVj) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Cappa](https://open.spotify.com/artist/1LCPvGsQVJUQE8oyIRihHh) | [Not Your Baby](https://open.spotify.com/album/1RIfhmMrslY6PJsre7QTY8) | 3:34 |
 | 45 | [just another day](https://open.spotify.com/track/2erFH1t2iDTJLSHPz8D03F) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 2](https://open.spotify.com/album/6UiPYjrJQaApMa78xGRe3q) | 2:22 |
 | 46 | [Red Rover](https://open.spotify.com/track/6omoJ2EWNrB7iwFKogOsBV) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Red Rover](https://open.spotify.com/album/5h10WaA0OwtGyq2u1pZkb4) | 3:06 |
 | 47 | [good stuff](https://open.spotify.com/track/6TBMFvQnjLcJCch1trUgtr) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [good stuff](https://open.spotify.com/album/6vqizk2b1jWTBkjUT0tUBb) | 3:11 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc2NDUyMDEsMDAwMDAwMDAzZjgxZTFhNTQwMjlmNzMyMTQxNDJjY2JhYjFhNGNiMg==`
+Snapshot ID: `Mjc2NDY2NDEsMDAwMDAwMDBjZGI2ZWU3NTlmNGIyMTkwODIzODQxYjdjYjRlM2NkMg==`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-887 songs - 1 day 23 hr 50 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+888 songs - 1 day 23 hr 53 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Baila Pa Mi](https://open.spotify.com/track/2GS9AEoOjgbztBfIbCJ2mr) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Baila Pa Mi](https://open.spotify.com/album/5UnOLBXoGj0MKejGINxn24) | 2:40 | 2022-07-17 |  |
 | [Bailamos](https://open.spotify.com/track/0mAinALNSl5TurTs9ZPUMp) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Bailamos](https://open.spotify.com/album/57ZU8aB5wPjYmMBfa1SKcB) | 2:53 | 2021-04-19 | 2021-07-06 |
 | [Baise le monde](https://open.spotify.com/track/3XAtvKDjSweKY7Hxx6K6ou) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:45 | 2021-11-21 | 2021-12-05 |
+| [Balade à deux](https://open.spotify.com/track/57acLvkLlixZ4wm6DBhLEu) | [Mastu](https://open.spotify.com/artist/4V9vRZSqYVOgad1sDuDPHb) | [Balade à deux](https://open.spotify.com/album/641gaOBAPvtEVBd5NQX0gs) | 2:57 | 2022-07-25 |  |
 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-05-28 |  |
 | [Balistique](https://open.spotify.com/track/0D5Zo7q1vYJ4XCZ0beyZFg) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 3:07 | 2022-01-29 | 2022-01-31 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-10 |  |
@@ -616,7 +617,7 @@
 | [Ouais Ouais \(feat\. Hamza\)](https://open.spotify.com/track/1pGALYFcP57BOFtaqRDG7a) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [17%](https://open.spotify.com/album/0opPqJa8MofqpFXI7Eti8z) | 3:24 | 2021-09-19 | 2021-09-26 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Outro](https://open.spotify.com/track/0rLLENEBErAJjcTFTnQxhq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:35 | 2021-12-05 | 2022-01-14 |
-| [Outété](https://open.spotify.com/track/6hVOBUdubnXycTHmwBjkUO) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Diamant](https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX) | 3:05 | 2022-07-09 |  |
+| [Outété](https://open.spotify.com/track/6hVOBUdubnXycTHmwBjkUO) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Diamant](https://open.spotify.com/album/3Bed6tESm55ctwZVLAQMNX) | 3:05 | 2022-07-09 | 2022-07-26 |
 | [P A S C O M M E Ç A](https://open.spotify.com/track/2t5YWn2kJJqJDOihrvxXiq) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:58 | 2021-11-21 | 2021-11-22 |
 | [Pablo](https://open.spotify.com/track/0KifVydMFjrwl53BPjhS0o) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Pablo](https://open.spotify.com/album/1pU0VS9klvCOCdoEkjQfOW) | 3:07 | 2022-07-06 | 2022-07-08 |
 | [Pandémie](https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:34 | 2022-02-05 | 2022-02-18 |

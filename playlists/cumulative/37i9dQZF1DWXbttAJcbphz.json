@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Libra Scale",
+        "url": "https://open.spotify.com/album/2qqB7RaEdn2Lkte4St3Ban"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323933,
+      "name": "Champagne Life",
+      "url": "https://open.spotify.com/track/7p8l7HiPoz90dg423iURKW"
+    },
+    {
+      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2FXGUAESmG5l9YPrzWPvHI"
       },
@@ -295,7 +313,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 226693,
       "name": "Finding My Way Back",
       "url": "https://open.spotify.com/track/1wCJ3JIsNaJK0MYct4Kmrv"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 223093,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 219080,
       "name": "Location",
       "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "Love and War",
       "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2020-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 204169,
       "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
       "url": "https://open.spotify.com/track/7AZiZMup0bLK5f4A2jRMpP"

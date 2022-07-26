@@ -4,7 +4,7 @@
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-74 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/7ygepro0wQuN7eTDhQQ742)
+75 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/7ygepro0wQuN7eTDhQQ742)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Strange Things Happening Every Day](https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Rosetta Tharpe Vol\. 2 1942\-1944](https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f) | 2:47 | 2022-04-06 |  |
 | [Stupid Cupid](https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:13 | 2022-04-06 |  |
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-04-06 |  |
-| [That's Alright Mama](https://open.spotify.com/track/1e3tmr0u5TcqM1bVGqU1um) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's Alright Mama](https://open.spotify.com/album/5XB5BT2mqznRRSJjIoEKLB) | 2:20 | 2022-04-06 |  |
+| [That's All Right](https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 2:56 | 2022-07-25 |  |
+| [That's Alright Mama](https://open.spotify.com/track/1e3tmr0u5TcqM1bVGqU1um) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's Alright Mama](https://open.spotify.com/album/5XB5BT2mqznRRSJjIoEKLB) | 2:20 | 2022-04-06 | 2022-07-26 |
 | [Think](https://open.spotify.com/track/6V4oqRo1Nvp9jeu6gV0W0E) | [The "5" Royales](https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI) | [Dedicated To You](https://open.spotify.com/album/7CFAzK3e8ovuy65huJlMxh) | 2:36 | 2022-04-06 |  |
 | [Too Much](https://open.spotify.com/track/5muOhtmFnII1fXPT7DUZEJ) | [Bernard Hardison](https://open.spotify.com/artist/52ROpvjECtlkc31taYLikI) | [The Best of Republic Records Volume I \- Soul Blue](https://open.spotify.com/album/02eWaB3ZUuq7W7oKKugt4v) | 2:23 | 2022-04-06 |  |
 | [Traveling Riverside Blues](https://open.spotify.com/track/3pS6HIZimRIBMrQU6vRfpp) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:47 | 2022-04-06 |  |

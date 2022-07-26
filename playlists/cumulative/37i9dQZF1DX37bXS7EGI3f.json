@@ -185,7 +185,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 543760,
       "name": "aas",
       "url": "https://open.spotify.com/track/1j6IDMyTNiXmM7AjDpEQ80"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 372640,
       "name": "Asleep in the Deep - Instrumental",
       "url": "https://open.spotify.com/track/5im6c5xrmQxrexc5vQEh9O"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Black Venom",
       "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 364048,
       "name": "Burial",
       "url": "https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 253919,
       "name": "Chambers of Fire",
       "url": "https://open.spotify.com/track/0t6hb4sQPxJQAAB7iYPrpt"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 403500,
       "name": "Dark Ages",
       "url": "https://open.spotify.com/track/59hn7nAe5d8GlRJCAX2xII"
@@ -1627,7 +1627,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 311333,
       "name": "De praestigiis daemonum",
       "url": "https://open.spotify.com/track/6IuEZP4xEic3DYKpXW5OEZ"
@@ -1895,7 +1895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 237031,
       "name": "Dismantled",
       "url": "https://open.spotify.com/track/3NshiUUbu0W7EHseNmiuAv"
@@ -2018,6 +2018,24 @@
     },
     {
       "album": {
+        "name": "Tabula Rasa",
+        "url": "https://open.spotify.com/album/2CZ9tJdRdhw4HeH6s9GaOQ"
+      },
+      "artists": [
+        {
+          "name": "Set and Setting",
+          "url": "https://open.spotify.com/artist/5MDD6ObIICvtWZcMmHrwts"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429093,
+      "name": "Ecdysis",
+      "url": "https://open.spotify.com/track/3f8cF7lcekpfs0Ww58nunV"
+    },
+    {
+      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/1s8WAKE6VnNPW5Mdud6nQF"
       },
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 265213,
       "name": "EDM (E-Dependent Mind)",
       "url": "https://open.spotify.com/track/1XUxOG4MhpHiKpZbKZdNdK"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 310773,
       "name": "Electric Sun",
       "url": "https://open.spotify.com/track/1Lut7VOwl82gWkLuBrKGo6"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
@@ -2123,6 +2141,24 @@
       "duration_ms": 328148,
       "name": "En Route To Mayhem",
       "url": "https://open.spotify.com/track/6Limlq29b8C9GxABDC4iaw"
+    },
+    {
+      "album": {
+        "name": "En souvenir des jours que nous n'aurons pas v\u00e9cus",
+        "url": "https://open.spotify.com/album/4JE4e06FES56xLC1Byz7wN"
+      },
+      "artists": [
+        {
+          "name": "WuW",
+          "url": "https://open.spotify.com/artist/66aBc6jaQsqwDVbmGs5wsB"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431253,
+      "name": "En souvenir des jours que nous n'aurons pas v\u00e9cus",
+      "url": "https://open.spotify.com/track/5r8CpcGojoowvB0RbBX0Vg"
     },
     {
       "album": {
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 328613,
       "name": "Et blekt lys lyder",
       "url": "https://open.spotify.com/track/1AbIKgq2PZ7aNQQo747VyY"
@@ -2977,7 +3013,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 366483,
       "name": "God Is Silent",
       "url": "https://open.spotify.com/track/5vNUsB8wOj4RptqPxf6dwV"
@@ -3157,7 +3193,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 368973,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl"
@@ -3671,7 +3707,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 442500,
       "name": "Kanangra",
       "url": "https://open.spotify.com/track/0nnXaJ7aMUeBsHzhhaFehw"
@@ -4619,7 +4655,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 182479,
       "name": "My Shadow Self",
       "url": "https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK"
@@ -5225,7 +5261,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 323680,
       "name": "Pagan, Pt. 2",
       "url": "https://open.spotify.com/track/1nNG2Ds6UMZc62N7o7372T"
@@ -5315,7 +5351,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 221088,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/1dmIum3DdBarWHvUr4k6Ko"
@@ -5351,7 +5387,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 312362,
       "name": "Pixel Heart: Verdant",
       "url": "https://open.spotify.com/track/2SF67CdGk5vDgUKjXyjkHV"
@@ -5495,7 +5531,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 348857,
       "name": "Quasars in the Distance",
       "url": "https://open.spotify.com/track/538ByUterZ6J3PAov1frBO"
@@ -5863,7 +5899,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 279520,
       "name": "Rubicon Artist",
       "url": "https://open.spotify.com/track/3juiyd3mGgN9LkPeNV3xfB"
@@ -5907,7 +5943,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 273402,
       "name": "Satellite (feat. Owane & Paul Wardingham)",
       "url": "https://open.spotify.com/track/0Rc85jwdOT7IBXpsgEKRAh"
@@ -5943,7 +5979,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 345366,
       "name": "Sea of Suns",
       "url": "https://open.spotify.com/track/6jpq049BDvR4hUYmyNJeIo"
@@ -5961,7 +5997,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 276400,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/3rVrbisqmkrfOVpfl9Plgj"
@@ -6199,7 +6235,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 258428,
       "name": "Skylla - Instrumental",
       "url": "https://open.spotify.com/track/2mKZ1F66nAC7KmzRbPGhO6"
@@ -6253,7 +6289,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 194539,
       "name": "Solar - Instrumental",
       "url": "https://open.spotify.com/track/06bzdP9Ri9JjwrGtW3vyva"
@@ -6831,7 +6867,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 184360,
       "name": "The Eye of Ra",
       "url": "https://open.spotify.com/track/79d72HkT6mQVkeeYmoswIa"
@@ -7217,7 +7253,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 244906,
       "name": "The Stoic",
       "url": "https://open.spotify.com/track/1xl1IlOHK55PlGECBp1xPS"
@@ -7253,7 +7289,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 334773,
       "name": "The Ungrounding",
       "url": "https://open.spotify.com/track/1jEZtz2b03ZxZcT1KBmI8Z"
@@ -7529,7 +7565,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 243840,
       "name": "Troya (Gates Open)",
       "url": "https://open.spotify.com/track/4G9l5AlsJ6ZthF2cyoFmdo"
@@ -7659,7 +7695,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 385631,
       "name": "Unmasking the Jesper",
       "url": "https://open.spotify.com/track/3WLORcI6m4ddhvPx6CSQPQ"
@@ -7977,7 +8013,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 294666,
       "name": "Wayward Sun",
       "url": "https://open.spotify.com/track/4sZge3EvkjsAxEV3Jev1k1"
@@ -8049,7 +8085,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 264888,
       "name": "We're Still Here",
       "url": "https://open.spotify.com/track/7CME4cSHQBk0gPFuUjq56D"
@@ -8259,7 +8295,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 320415,
       "name": "Wired For Madness, Pt. 1.1 (Bring It On)",
       "url": "https://open.spotify.com/track/5Gdgx8sxajwAUykuwha8dj"

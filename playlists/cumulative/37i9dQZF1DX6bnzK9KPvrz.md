@@ -4,7 +4,7 @@
 
 > The essential tracks from The Weeknd.
 
-84 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
+85 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/6uoeuT1V3h46eQ4ThAisl4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Call Out My Name](https://open.spotify.com/track/4MPTj8lMMvxLwT3EwuXFop) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 3:48 | 2021-11-23 |  |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2021-11-23 |  |
 | [Crew Love](https://open.spotify.com/track/0TiC3GtlMCskf2hIUIBcDV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take Care \(Deluxe\)](https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh) | 3:28 | 2021-11-23 | 2022-01-08 |
-| [D.D.](https://open.spotify.com/track/7eZ7ODAt9cALYnWLO8F6Fd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:35 | 2021-11-23 |  |
+| [D.D.](https://open.spotify.com/track/7eZ7ODAt9cALYnWLO8F6Fd) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 4:35 | 2021-11-23 | 2022-07-26 |
 | [Dark Times](https://open.spotify.com/track/6J7PIkhtHwmFjPLq0SyuPj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:20 | 2021-11-23 | 2022-02-11 |
 | [Dawn FM](https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 1:36 | 2022-01-07 | 2022-02-11 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2021-11-23 |  |
@@ -66,7 +66,7 @@
 | [Power is Power \(feat\. The Weeknd & Travis Scott\)](https://open.spotify.com/track/4cbdPT6uaBOgOQe3fLMofl) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Game of Thrones](https://open.spotify.com/artist/22JdJVovP3pV9XkGTih01c) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:31 | 2021-11-23 |  |
 | [Pray For Me \(with Kendrick Lamar\)](https://open.spotify.com/track/4ofvoCdXq99vpMZO4Cfp8x) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Pray For Me \(with Kendrick Lamar\)](https://open.spotify.com/album/1mESN9Zy0787YRMuLqOY4j) | 3:31 | 2021-11-23 |  |
 | [Pretty](https://open.spotify.com/track/0ei3uNcwJOiUocuks1vWcb) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Kiss Land](https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO) | 6:15 | 2021-11-23 | 2022-01-08 |
-| [Privilege](https://open.spotify.com/track/26Fqtv4Aa7kyd1WWGHai6A) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 2:50 | 2021-11-23 |  |
+| [Privilege](https://open.spotify.com/track/26Fqtv4Aa7kyd1WWGHai6A) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 2:50 | 2021-11-23 | 2022-07-26 |
 | [Professional](https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Kiss Land](https://open.spotify.com/album/3hhDpPtCFuQbppwYgsVhMO) | 6:08 | 2021-11-23 | 2022-01-08 |
 | [Reminder](https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:38 | 2021-11-23 | 2022-02-11 |
 | [Reminder \- Remix](https://open.spotify.com/track/7F1LWA9sIlTorHUo4amGqk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Reminder \(Remix\)](https://open.spotify.com/album/6B3VYsWUR2xf7HptOO2fpr) | 3:41 | 2021-11-23 | 2022-01-08 |
@@ -79,7 +79,7 @@
 | [Six Feet Under](https://open.spotify.com/track/4mU5iXHeLgbR94siF7p1sY) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:57 | 2021-11-23 | 2022-02-11 |
 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 | 2021-11-23 |  |
 | [Starboy](https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:50 | 2021-11-23 |  |
-| [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 | 2021-11-23 | 2022-01-08 |
+| [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 | 2021-11-23 |  |
 | [Starry Eyes](https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 2:28 | 2022-01-07 | 2022-02-11 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-07 | 2022-02-11 |
 | [Take My Breath \- Single Version](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-11-23 |  |
@@ -92,5 +92,6 @@
 | [Wasted Times](https://open.spotify.com/track/72TyiiduRmczEbDIEtKQdR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69) | 3:40 | 2021-11-23 |  |
 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 | 2021-11-23 | 2022-01-08 |
 | [Wicked Games](https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:23 | 2021-11-23 |  |
+| [You Right](https://open.spotify.com/track/0IakguBBeTUsAILmugkEam) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [You Right](https://open.spotify.com/album/18yAP4zwFlTwep9rQZChVa) | 3:06 | 2022-07-25 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

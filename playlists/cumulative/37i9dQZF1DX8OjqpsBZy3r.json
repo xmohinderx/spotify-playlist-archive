@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Carrying Your Love",
+        "url": "https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP"
+      },
+      "artists": [
+        {
+          "name": "David Morris",
+          "url": "https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155206,
+      "name": "Carrying Your Love",
+      "url": "https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc"
+    },
+    {
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11"
       },

@@ -6,26 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDYyODViMzAzYzVkNzQwMjY2Y2EyYzcxMjliYjYxNzM4",
+  "snapshot_id": "MCwwMDAwMDAwMGNlNjRlYjFiZDlhZTdjZjQyNzQwOWM0N2M5OGE2ZjY3",
   "tracks": [
     {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "The Act of Forgiveness",
-        "url": "https://open.spotify.com/album/4eXtyuPhKBy2YKVDGD7lh7"
-      },
-      "artists": [
-        {
-          "name": "Scarypoolparty",
-          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Daily Dose of Her Smile",
-      "url": "https://open.spotify.com/track/0HSP7ZVGYEKBsVhCOraYlQ"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "I Only Want to Live Once",
         "url": "https://open.spotify.com/album/7AQHLGuRwBK22p67rzjpBT"
@@ -41,23 +25,7 @@
       "url": "https://open.spotify.com/track/2EscWPj75ELytpBJg4Ep2d"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Clark Kent",
-        "url": "https://open.spotify.com/album/0ajJ0yEBsEm1PToYaPN4dO"
-      },
-      "artists": [
-        {
-          "name": "Sub-Radio",
-          "url": "https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Clark Kent",
-      "url": "https://open.spotify.com/track/4JjjZzCCFjmAqS4N433LkB"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "I Love You Always Forever",
         "url": "https://open.spotify.com/album/1T8HVcB3qkARA9BROKBakC"
@@ -73,23 +41,23 @@
       "url": "https://open.spotify.com/track/54jNyBpI8H1rG5Q2jsp892"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Automatic World",
-        "url": "https://open.spotify.com/album/79Foi5rbXxqT4gHUpzZtqa"
+        "name": "The Act of Forgiveness",
+        "url": "https://open.spotify.com/album/4eXtyuPhKBy2YKVDGD7lh7"
       },
       "artists": [
         {
-          "name": "The Brummies",
-          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+          "name": "Scarypoolparty",
+          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
         }
       ],
-      "duration_ms": 178689,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/7tsLU1zDxBoirPO8NzbNbt"
+      "duration_ms": 212480,
+      "name": "Daily Dose of Her Smile",
+      "url": "https://open.spotify.com/track/0HSP7ZVGYEKBsVhCOraYlQ"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "Coffee In The Morning",
         "url": "https://open.spotify.com/album/7vuTgz3gupvBivoxgjVotW"
@@ -109,7 +77,39 @@
       "url": "https://open.spotify.com/track/2c0qyVO5rojPGzIT9HoHNp"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Eternal Reach",
+        "url": "https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61"
+      },
+      "artists": [
+        {
+          "name": "The Brummies",
+          "url": "https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA"
+        }
+      ],
+      "duration_ms": 179762,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/2V32elgqnsRtN7h1AVPwVS"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/6uIwnCt78WORJMSfacNs0M"
+      },
+      "artists": [
+        {
+          "name": "Lee DeWyze",
+          "url": "https://open.spotify.com/artist/1KNNZV9twnpQBqyUoGvWA6"
+        }
+      ],
+      "duration_ms": 218888,
+      "name": "Victims Of The Night",
+      "url": "https://open.spotify.com/track/7eave69StwO0Ap3iKnvYjz"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "Singles 2020 - 2021",
         "url": "https://open.spotify.com/album/1P3o6luZikVwr1ZGZVgyEQ"
@@ -125,155 +125,23 @@
       "url": "https://open.spotify.com/track/2YFWdYtMJEgKKbmnIVNCpR"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Streetlights on Mars",
-        "url": "https://open.spotify.com/album/4Phbk3EGQx6cwzGj8hSUbk"
+        "name": "Harmony House",
+        "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
       "artists": [
         {
-          "name": "Jackson Penn",
-          "url": "https://open.spotify.com/artist/0RIQOtjWn0zYKSKfDYgukS"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 190996,
-      "name": "Streetlights on Mars 2.0",
-      "url": "https://open.spotify.com/track/4AZmAX2JPk9emXJcMyTqKu"
+      "duration_ms": 263080,
+      "name": "Crying on the Dancefloor",
+      "url": "https://open.spotify.com/track/76rMrk4t6Cmg2EXR7VV8xs"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Lost in Translation",
-        "url": "https://open.spotify.com/album/3aseaPhBkeijpDLithtcA1"
-      },
-      "artists": [
-        {
-          "name": "Antwaun Stanley",
-          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
-        },
-        {
-          "name": "Tyler Duncan",
-          "url": "https://open.spotify.com/artist/1UUtAIL4wczhYJpz1ETPV4"
-        }
-      ],
-      "duration_ms": 218987,
-      "name": "Lost in Translation",
-      "url": "https://open.spotify.com/track/5gtWojaNb3Ty0iekU2gcze"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/2HgDqnzBLMmY3s5ejhBmRn"
-      },
-      "artists": [
-        {
-          "name": "Saint Slumber",
-          "url": "https://open.spotify.com/artist/35rPDAvcHOnhrMVmqhQ6BM"
-        }
-      ],
-      "duration_ms": 184344,
-      "name": "INFINITE",
-      "url": "https://open.spotify.com/track/2tl6BIlMisletkkYL87Idw"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Enjoy the Ride",
-        "url": "https://open.spotify.com/album/7zVPwJKkmzcOQiaEIPdnqq"
-      },
-      "artists": [
-        {
-          "name": "Riley Baron",
-          "url": "https://open.spotify.com/artist/49qDP2hJvGwi2PKVzUHdkW"
-        }
-      ],
-      "duration_ms": 236876,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/5TvvGHGB4QEwjs7FGmsTbq"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Mystic Truth",
-        "url": "https://open.spotify.com/album/4aRsRX6d1fiy118XVFPzRT"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Starjumper",
-      "url": "https://open.spotify.com/track/0jAlxwXcjKNaFKoOiBCdiW"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "The Mathematics of Nature",
-        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
-      },
-      "artists": [
-        {
-          "name": "Matthew Chaim",
-          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
-        }
-      ],
-      "duration_ms": 363841,
-      "name": "Winter/Fall",
-      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Some Days",
-        "url": "https://open.spotify.com/album/41h758KnVXqlXgGWKQppyy"
-      },
-      "artists": [
-        {
-          "name": "Mree",
-          "url": "https://open.spotify.com/artist/3K8cGxW088HVyhFSGWJJcX"
-        }
-      ],
-      "duration_ms": 221123,
-      "name": "Some Days",
-      "url": "https://open.spotify.com/track/3HAhiAaTsr733iuWQdaawf"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "When It Rains",
-        "url": "https://open.spotify.com/album/5xJWYqLL7uK6BODgAfaLsa"
-      },
-      "artists": [
-        {
-          "name": "Mr. Popular",
-          "url": "https://open.spotify.com/artist/1Enk9yh0hOg40eG0343rl5"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/6hlgx0DEqPvQPd6dBpt5hV"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Silver Crane",
-        "url": "https://open.spotify.com/album/1ufCvsEshySWoAvaWRVMbl"
-      },
-      "artists": [
-        {
-          "name": "Fly By Midnight",
-          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
-        }
-      ],
-      "duration_ms": 178208,
-      "name": "The Ad Above Your Head",
-      "url": "https://open.spotify.com/track/20hfy1spAEJDcQlS7uxhyI"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "Stranger in My Head",
         "url": "https://open.spotify.com/album/5OwlRbBaXiqNIPAWEeOU68"
@@ -289,59 +157,23 @@
       "url": "https://open.spotify.com/track/6v6cUseBFbR5J7UNl6VVHP"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+        "name": "When It Rains",
+        "url": "https://open.spotify.com/album/5xJWYqLL7uK6BODgAfaLsa"
       },
       "artists": [
         {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Mr. Popular",
+          "url": "https://open.spotify.com/artist/1Enk9yh0hOg40eG0343rl5"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Renegade (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+      "duration_ms": 157500,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/6hlgx0DEqPvQPd6dBpt5hV"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "supposed to",
-        "url": "https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "supposed to",
-      "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
-      "album": {
-        "name": "Sugarcoated",
-        "url": "https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/53P1pAGKQNXZCb6RaQncFZ"
-    },
-    {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A"
@@ -361,87 +193,139 @@
       "url": "https://open.spotify.com/track/4QlkNEiOQGYcc9t2q2EgEE"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "January Flower (Acoustic)",
-        "url": "https://open.spotify.com/album/6rtg0W12CU7ZcgjCnTU9ix"
+        "name": "Midnight Afternoon",
+        "url": "https://open.spotify.com/album/34REIVomLlsMJahtUVG4uG"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "The Lagoons",
+          "url": "https://open.spotify.com/artist/3oK9o2DLbk1VEda7KOMotd"
         }
       ],
-      "duration_ms": 200598,
-      "name": "Anywhere With You - Acoustic",
-      "url": "https://open.spotify.com/track/7MG9LH4YajDf8X8ilLtron"
+      "duration_ms": 159186,
+      "name": "Love To Love You",
+      "url": "https://open.spotify.com/track/1AaEW0qAoNgLlJBEf64v62"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/78eaGps4Ui3AeMInZuTQE3"
+        "name": "Emotional Distancing",
+        "url": "https://open.spotify.com/album/6Rr69vYgaAh2NQp4fBvY60"
       },
       "artists": [
         {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+          "name": "Victoria IX",
+          "url": "https://open.spotify.com/artist/5R8eKj6Y4suW4qTEdQcT5C"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0wgqJvYssk2bISW9QSm7HR"
+      "duration_ms": 195250,
+      "name": "Like Like",
+      "url": "https://open.spotify.com/track/1hh3SLgUYj7jyNSxrzBKaY"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Attachment",
-        "url": "https://open.spotify.com/album/1m6V8jXHsSMers3Ce137D2"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/12ehvPg4PDufuo4FhfAWgr"
       },
       "artists": [
         {
-          "name": "Peter Thomas",
-          "url": "https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr"
+          "name": "Brothertiger",
+          "url": "https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE"
         }
       ],
-      "duration_ms": 213575,
-      "name": "If You're Happy Now",
-      "url": "https://open.spotify.com/track/2JJWg2GZAxJLwABftQtSbm"
+      "duration_ms": 290000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1gczbgaCmw15h3ZG4awluK"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/0FDS1ZM1usi02SXh3ecNHQ"
+        "name": "Happy About Everything Else...",
+        "url": "https://open.spotify.com/album/1yaDEDojbdqDCeOspFEieV"
       },
       "artists": [
         {
-          "name": "milk.",
-          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+          "name": "Fly By Midnight",
+          "url": "https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ"
+        },
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
         }
       ],
-      "duration_ms": 260527,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/3O6FKYk4NiNkTnNJCO1rdV"
+      "duration_ms": 176974,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/3GmKMMegOOLPByBUzRxqCS"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/2DEINnJXlyEVt6WoO2ifJJ"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6tw7TyC4sZMrEomXECGqrd"
       },
       "artists": [
         {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+          "name": "Betcha",
+          "url": "https://open.spotify.com/artist/3pT3KTodKJRyqpxoXINfQh"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/6CRdV62bzSPhYBsElBpK06"
+      "duration_ms": 237012,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/6h3JuVibuWissgTLeueGFz"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Almond Eyes",
+        "url": "https://open.spotify.com/album/6eaw3onrYLNw6mCj4CNkRg"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Almond Eyes",
+      "url": "https://open.spotify.com/track/5YPvKuxR3nJDL2jCKC5lVj"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/1WJeg3WKNG6AidPaPZIV7C"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 258269,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/5R6O4vRHf16CX3hODGYAlW"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "The Mathematics of Nature",
+        "url": "https://open.spotify.com/album/0uBZBBhGxyYXJCPhE2lU2W"
+      },
+      "artists": [
+        {
+          "name": "Matthew Chaim",
+          "url": "https://open.spotify.com/artist/70JkpECHBzs79FOYemfHwk"
+        }
+      ],
+      "duration_ms": 363841,
+      "name": "Winter/Fall",
+      "url": "https://open.spotify.com/track/2s152GUETF2NZdSYYhwnk9"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
       "album": {
         "name": "Glue",
         "url": "https://open.spotify.com/album/4k3pqlmyL93ZLg15ImAlut"
@@ -457,52 +341,168 @@
       "url": "https://open.spotify.com/track/6KlnHl4ehm8q5HZ73U1Gsp"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Brush Fire",
-        "url": "https://open.spotify.com/album/7mBfHve9VcKTmeoIglIt8N"
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/3ojy5a1Thuhepyn1X6TYy7"
       },
       "artists": [
         {
-          "name": "Sierra Eagleson",
-          "url": "https://open.spotify.com/artist/44QpdEMnHG1Lb3PXZwDZg3"
+          "name": "Jackson Wooten",
+          "url": "https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Brush Fire",
-      "url": "https://open.spotify.com/track/6MZXLaRNRZN6ZxpwOJd7mX"
+      "duration_ms": 325178,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/5Ca5lh6Ft0XwjicOh5seKk"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Verona (Stripped)",
-        "url": "https://open.spotify.com/album/6ZWjXMzBK32nKZOleKqIJ6"
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/1Gk99OUwQr21aTX3dYpdN7"
       },
       "artists": [
         {
-          "name": "Geographer",
-          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
+          "name": "Alto Moon",
+          "url": "https://open.spotify.com/artist/2W4YmwLWetZICb80JxlNwS"
         }
       ],
-      "duration_ms": 280624,
-      "name": "Verona - Stripped",
-      "url": "https://open.spotify.com/track/5uCpr4HMUwQJxMrgRXbKdd"
+      "duration_ms": 193654,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/6GQW2wFDWUwxuc1eraV99O"
     },
     {
-      "added_at": "2022-07-18 04:00:00",
+      "added_at": "2022-07-25 04:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/1GJEq8UNYIrhk2yhSPctg7"
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/3GyXvioodpElN76XJCO7Rg"
       },
       "artists": [
         {
-          "name": "Tarn PK",
-          "url": "https://open.spotify.com/artist/0o5jOQbBI6oSsI0U6OT41X"
+          "name": "HAWAI",
+          "url": "https://open.spotify.com/artist/12U5ghSGneiWfShCRoUn7n"
         }
       ],
-      "duration_ms": 264705,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/2KOj175rjiHhP7APNgfVOg"
+      "duration_ms": 234612,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/5Amo3NayRA4QHSsh819Id2"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Attachment",
+        "url": "https://open.spotify.com/album/1m6V8jXHsSMers3Ce137D2"
+      },
+      "artists": [
+        {
+          "name": "Peter Thomas",
+          "url": "https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr"
+        }
+      ],
+      "duration_ms": 213575,
+      "name": "If You're Happy Now",
+      "url": "https://open.spotify.com/track/2JJWg2GZAxJLwABftQtSbm"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "I Never Knew",
+        "url": "https://open.spotify.com/album/7wwTyOz2jJI0VxTnWZZ4iI"
+      },
+      "artists": [
+        {
+          "name": "Hardcastle",
+          "url": "https://open.spotify.com/artist/6L95H90mXRQPcFar4Q7tAm"
+        }
+      ],
+      "duration_ms": 215837,
+      "name": "I Never Knew",
+      "url": "https://open.spotify.com/track/3rAj9szI49Snd5vBCkHSe4"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Renegade (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "What's It Like Over There?",
+        "url": "https://open.spotify.com/album/5pQd4CjocXnv5aLizqHCMu"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 243532,
+      "name": "The Way We Say Goodbye",
+      "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "supposed to",
+        "url": "https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "supposed to",
+      "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Enjoy the Ride",
+        "url": "https://open.spotify.com/album/7zVPwJKkmzcOQiaEIPdnqq"
+      },
+      "artists": [
+        {
+          "name": "Riley Baron",
+          "url": "https://open.spotify.com/artist/49qDP2hJvGwi2PKVzUHdkW"
+        }
+      ],
+      "duration_ms": 236876,
+      "name": "Enjoy the Ride",
+      "url": "https://open.spotify.com/track/5TvvGHGB4QEwjs7FGmsTbq"
+    },
+    {
+      "added_at": "2022-07-25 04:00:00",
+      "album": {
+        "name": "Virginia",
+        "url": "https://open.spotify.com/album/4tByU6h1rUWwVnA7Er4DMC"
+      },
+      "artists": [
+        {
+          "name": "Hope Cross",
+          "url": "https://open.spotify.com/artist/4Xx9TF0GqtSr72BnneJ8OJ"
+        }
+      ],
+      "duration_ms": 337426,
+      "name": "Virginia",
+      "url": "https://open.spotify.com/track/0rhY13KyKIgPhrEez3Xp2m"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

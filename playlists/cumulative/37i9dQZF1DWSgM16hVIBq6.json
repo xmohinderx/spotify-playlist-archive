@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 315266,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0Bf3bLtRSlpXl5l5MuzZd6"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 309586,
       "name": "Ahora Quien - Salsa Version",
       "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
@@ -175,6 +175,28 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "album": {
+        "name": "De Vuelta A Casa",
+        "url": "https://open.spotify.com/album/22N2pYZpb2MlkZT29OARmC"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Chyno Miranda",
+          "url": "https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "Antivirus",
+      "url": "https://open.spotify.com/track/5YxHt7H46QWZLLCyhXG35Q"
     },
     {
       "album": {
@@ -309,7 +331,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 279360,
       "name": "Cambio de Piel",
       "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
@@ -331,7 +353,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 250497,
       "name": "Canci\u00f3n para Rub\u00e9n",
       "url": "https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p"
@@ -495,7 +517,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 230040,
       "name": "Como Le Gusta a Tu Cuerpo (feat. Michel Tel\u00f3)",
       "url": "https://open.spotify.com/track/0jT7DDqYbpOik6iun6ydUL"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
@@ -887,7 +909,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 223466,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/2J68vaH7pv2IpxH1vnIpXN"
@@ -905,7 +927,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 255080,
       "name": "El Hombre Divertido",
       "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
@@ -2251,7 +2273,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 378013,
       "name": "Qu\u00e9 Pasa Loco",
       "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"

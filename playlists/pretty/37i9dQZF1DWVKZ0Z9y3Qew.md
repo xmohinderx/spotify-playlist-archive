@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 ### [Ripple Effect: PNW](https://open.spotify.com/playlist/37i9dQZF1DWVKZ0Z9y3Qew)
 
-> Pacific Northwest music breaking waves\. Cover, Umi
+> Pacific Northwest music breaking waves\. Cover, TeZATalks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [Jewelry](https://open.spotify.com/track/28VcLhWvQFgR3YteVzrLzK) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Jewelry](https://open.spotify.com/album/4RRrr37kwq0813Z6Pm2hUU) | 3:22 |
 | 50 | [SHE WOULD LOVE THAT](https://open.spotify.com/track/40lp6f3o1CPNDjU5l7Xzja) | [Lambo Lawson](https://open.spotify.com/artist/6HnrYvpXigJijRpCyzcKqf) | [PHOENIX](https://open.spotify.com/album/5Jfx4doVYXwi7uiquFWnVA) | 2:57 |
 
-Snapshot ID: `MTY1ODUyMDA5NiwwMDAwMDAxYTAwMDAwMTgyMjc4MDRmYzIwMDAwMDE4MTAzYjI3OTk3`
+Snapshot ID: `MTY1ODc4OTg1NywwMDAwMDAxYjAwMDAwMTgyMzc5NDg3N2MwMDAwMDE4MjM3OTQyYjdl`

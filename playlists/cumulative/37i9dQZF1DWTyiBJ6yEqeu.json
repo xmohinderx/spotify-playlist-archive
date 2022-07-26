@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 204626,
       "name": "25 million",
       "url": "https://open.spotify.com/track/6wrl9ZxvrC8mqDM45ucz4b"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-07",
+      "date_removed": null,
       "duration_ms": 162711,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2nCL4jSUB2iLfySrjVTWgj"
@@ -741,6 +741,24 @@
       "duration_ms": 189851,
       "name": "Black Ball",
       "url": "https://open.spotify.com/track/1tmsPlyvzDETLv08Wp5cuY"
+    },
+    {
+      "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/6ASew3RZGJJ5igghbU9lX2"
+      },
+      "artists": [
+        {
+          "name": "Disfigure",
+          "url": "https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208901,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo"
     },
     {
       "album": {
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 140869,
       "name": "commas",
       "url": "https://open.spotify.com/track/3CV5fTPdh7g5XOwjeXGmDJ"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "F.N",
       "url": "https://open.spotify.com/track/0UPBidRYcgJ2mjZlk08V8x"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 151358,
       "name": "FALLEN STAR (feat. Y2K)",
       "url": "https://open.spotify.com/track/2e3XcLWd1SzB5jlJu53blm"
@@ -3979,7 +3997,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 258299,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8"
@@ -4307,6 +4325,32 @@
       "duration_ms": 119133,
       "name": "Jocelyn Flores",
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "album": {
+        "name": "Juggernaut",
+        "url": "https://open.spotify.com/album/4ZfMuGfPgeF8eXPPgInL2J"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Joznez",
+          "url": "https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs"
+        },
+        {
+          "name": "Kataem",
+          "url": "https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187472,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/6p4IkQ6dMSWMGNdlvGjyho"
     },
     {
       "album": {
@@ -4967,7 +5011,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 173333,
       "name": "Loading",
       "url": "https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV"
@@ -5301,7 +5345,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
@@ -5319,7 +5363,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 155054,
       "name": "MARCELINE",
       "url": "https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX"
@@ -5922,6 +5966,24 @@
     },
     {
       "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "album": {
         "name": "MVP",
         "url": "https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx"
       },
@@ -6267,7 +6329,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 180066,
       "name": "No Time (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/1vicAuW47ccp1l5mYmaWi7"
@@ -7749,7 +7811,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 212859,
       "name": "Royalty - Wiguez & Alltair Remix",
       "url": "https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S"
@@ -8927,7 +8989,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 171466,
       "name": "Tell Me When",
       "url": "https://open.spotify.com/track/3seNgTXZyWtj5wfXCEjX35"
@@ -10113,7 +10175,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 178153,
       "name": "What\u2019s Next",
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"

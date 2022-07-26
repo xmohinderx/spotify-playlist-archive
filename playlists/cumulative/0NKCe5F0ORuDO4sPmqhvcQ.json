@@ -3632,6 +3632,28 @@
     },
     {
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204369,
+      "name": "Pick Yourself Up",
+      "url": "https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn"
+    },
+    {
+      "album": {
         "name": "pieces",
         "url": "https://open.spotify.com/album/052yq9mMuoKXsIQKKk0zzp"
       },

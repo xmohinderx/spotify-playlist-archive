@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Babylon\(베이빌론\)\)
 
-82 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
+83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/0kvpJtsvIoyFKt5gsRYiS9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blood Sign](https://open.spotify.com/track/7uNZkJWibKfa0tTPQ058qW) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [One Ordinary Day \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3ZQ8KyTqp298sj29BvsGgA) | 3:33 | 2022-05-28 | 2022-07-06 |
 | [Call Me Now](https://open.spotify.com/track/4U0r1RHTcs0RuQLDBpu4MI) | [Lee Ju Chun](https://open.spotify.com/artist/15v1aovRbcGMoYIMmI8Vp2) | [Call Me Now](https://open.spotify.com/album/0FWlnVs2jB8EQrDqHQR38U) | 3:42 | 2022-07-07 |  |
 | [Charging](https://open.spotify.com/track/2hbA6LMP7MrvXLXxgIbzaQ) | [Kiehl](https://open.spotify.com/artist/3booMg3lbOEj85POfZ61mV) | [Charging](https://open.spotify.com/album/2AmKqz3rPk7M0m5O8EBKXh) | 3:30 | 2022-05-28 |  |
+| [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/10NqQvj01uof2GLwLi3oA2) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 | 2022-07-25 |  |
 | [D\-day \(Feat\. GIRIBOY\)](https://open.spotify.com/track/15LVXIWDmQA7mLUnLJn1AF) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:31 | 2022-05-28 | 2022-06-10 |
 | [Dang](https://open.spotify.com/track/2OEeCgbcjrEo5mkXnc17iv) | [HAN HEEJUN](https://open.spotify.com/artist/3XMcOeSNjiIPC033PUTSbi), [DeAndre](https://open.spotify.com/artist/6cRaQkqVc3CqVtuE25ZVK8), [그렉](https://open.spotify.com/artist/0LTTvbTIWZk7uA0I4Ax7je) | [Dang](https://open.spotify.com/album/7a9AU8c7VLlGdDfjgfysOV) | 3:37 | 2022-05-28 |  |
 | [DATE NiTE \(feat\. Yoonmirae\)](https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:37 | 2022-05-28 | 2022-07-06 |

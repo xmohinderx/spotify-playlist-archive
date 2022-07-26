@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 140432,
       "name": "Don't Know Why",
       "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 573373,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/0i5F1upWs4HJht6e8J0GT5"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 495360,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
@@ -425,6 +425,24 @@
       "duration_ms": 290555,
       "name": "God Bless The Child",
       "url": "https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU"
+    },
+    {
+      "album": {
+        "name": "Gran Pilastro",
+        "url": "https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Deval",
+          "url": "https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65000,
+      "name": "Gran Pilastro",
+      "url": "https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L"
     },
     {
       "album": {
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 312266,
       "name": "Pensativa",
       "url": "https://open.spotify.com/track/4rc7E9z2tn20daQb49JXmw"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 409017,
       "name": "Semblanzas un r\u00edo - Nueva versi\u00f3n",
       "url": "https://open.spotify.com/track/0wG6vtZGSiK7KcytOoxfSV"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 332000,
       "name": "Setembro",
       "url": "https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 201996,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/3Tr1go8VXvaqy9FDPyB2CB"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 213386,
       "name": "Stormy Weather",
       "url": "https://open.spotify.com/track/6ffJxrVKkPVW4hiRoiteB2"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 212614,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/4e8rnF7O2uQJOACAwuGKCX"

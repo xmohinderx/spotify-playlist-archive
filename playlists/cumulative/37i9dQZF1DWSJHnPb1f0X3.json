@@ -3341,7 +3341,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 136614,
       "name": "Good Ones",
       "url": "https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D"
@@ -4987,7 +4987,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 226975,
       "name": "Kill Me Slowly",
       "url": "https://open.spotify.com/track/5IaCQ33KniLNTUBkD1YaU7"
@@ -5997,7 +5997,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 224000,
       "name": "Met Him Last Night - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/0mHz9vqcznnfUcLqfQb3kd"
@@ -6359,7 +6359,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 165853,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/2t7nM6kZZ3JTSheTwVlAAR"
@@ -6851,7 +6851,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 190217,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
@@ -8881,6 +8881,24 @@
       "duration_ms": 191553,
       "name": "Summer in Brooklyn",
       "url": "https://open.spotify.com/track/6fhaIRGSyzsLwyXuEtJeTS"
+    },
+    {
+      "album": {
+        "name": "WET TENNIS",
+        "url": "https://open.spotify.com/album/1u54eF07irCSSssyDG67R2"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158549,
+      "name": "Summer In New York",
+      "url": "https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q"
     },
     {
       "album": {

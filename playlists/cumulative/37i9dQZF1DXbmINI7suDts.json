@@ -218,6 +218,24 @@
     },
     {
       "album": {
+        "name": "Blue Detail",
+        "url": "https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz"
+      },
+      "artists": [
+        {
+          "name": "Dreventy",
+          "url": "https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166807,
+      "name": "Grand Pa",
+      "url": "https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5"
+    },
+    {
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324"
       },
@@ -915,7 +933,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 225010,
       "name": "Tebamanyi",
       "url": "https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn"

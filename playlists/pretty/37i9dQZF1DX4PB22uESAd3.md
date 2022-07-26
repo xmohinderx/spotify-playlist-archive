@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 
 > The artists who laid the groundwork for Rock & Roll\. Cover: Sister Rosetta Tharpe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,437 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,549 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 3 | [Smokestack Lightnin'](https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 3:08 |
 | 4 | [Rocket 88 \- Single Version](https://open.spotify.com/track/0qWGLMQwo57IabwNksvwGa) | [Jackie Brenston & His Delta Cats](https://open.spotify.com/artist/2ucOV7b445I6Dl6OFN71aN) | [Chess Pieces: The Very Best Of Chess Records](https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv) | 2:49 |
 | 5 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
-| 6 | [That's Alright Mama](https://open.spotify.com/track/1e3tmr0u5TcqM1bVGqU1um) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's Alright Mama](https://open.spotify.com/album/5XB5BT2mqznRRSJjIoEKLB) | 2:20 |
+| 6 | [That's All Right](https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right Mama](https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N) | 2:56 |
 | 7 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
 | 8 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
 | 9 | [Hang up My Rock and Roll Shoes](https://open.spotify.com/track/1L6JGepB2558f8XSYsw36G) | [Chuck Willis](https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE) | [I Remember Chuck Willis \(US Internet Release\)](https://open.spotify.com/album/00sUHXj82zGyIxUCJCLm8u) | 2:19 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PB22uESAd3.md) - [plain]
 | 73 | [Lucky Lips](https://open.spotify.com/track/2QD6hlIGUAqJuTzAw0eVTW) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:09 |
 | 74 | [Lucille](https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:23 |
 
-Snapshot ID: `MTY1ODQ5OTMxMywwMDAwMDAwNDAwMDAwMTgyMjY0MzJmODUwMDAwMDE3ZjkzNDQ2ZjEz`
+Snapshot ID: `MTY1ODc3NjM0OSwwMDAwMDAwNTAwMDAwMTgyMzZjNjZiYTkwMDAwMDE3ZjkzNDQ2ZjEz`

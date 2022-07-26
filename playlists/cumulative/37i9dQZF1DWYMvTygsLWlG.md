@@ -4,7 +4,7 @@
 
 > Some of the worlds most beautiful love songs.
 
-260 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
+261 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Every Breath You Take](https://open.spotify.com/track/16fzReMJmcLlBccnZCTZNS) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/5vLIfhDpTmdyQ0YrlnXzSr) | 4:11 | 2021-02-01 |  |
 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 | 2021-10-16\* | 2021-11-19 |
 | [Everything](https://open.spotify.com/track/00sPD3dShAg2v5BFDwgjlO) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Everything \(Int'l DMD Maxi\)](https://open.spotify.com/album/5SUoSr8i3eXVMqBdwOzRoa) | 3:32 | 2021-02-01 |  |
-| [Everytime \- Remastered](https://open.spotify.com/track/1Qq7tEkWRJB9v1aAAeoruA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Essential Britney Spears](https://open.spotify.com/album/2ti2e8J05nwg9ikcMjW8aS) | 3:50 | 2021-02-01 |  |
+| [Everytime \- Remastered](https://open.spotify.com/track/1Qq7tEkWRJB9v1aAAeoruA) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Essential Britney Spears](https://open.spotify.com/album/2ti2e8J05nwg9ikcMjW8aS) | 3:50 | 2021-02-01 | 2022-07-26 |
 | [Fallen](https://open.spotify.com/track/02HtMmMgd4SYJx76Alv71n) | [Lauren Wood](https://open.spotify.com/artist/67K9nZU3LXIwrDjxVOO9IG) | [Cat Trick](https://open.spotify.com/album/1qFnzeL2z377T605oCdDTX) | 3:41 | 2021-02-01 |  |
 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 | 2021-10-16\* | 2021-11-19 |
 | [Fields Of Gold](https://open.spotify.com/track/1VI7sH93UcY0stZYVqvMoH) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Best Of 25 Years](https://open.spotify.com/album/6djIZD2d3HfAUuqfGF86Vb) | 3:40 | 2021-02-01 |  |
@@ -119,7 +119,7 @@
 | [I'll Never Love This Way Again](https://open.spotify.com/track/6knDV0tW6YIRG6XeIN3Xus) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Essential Memories Of Love](https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY) | 3:31 | 2021-02-01 |  |
 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 | 2021-02-01 |  |
 | [I'm Not In Love](https://open.spotify.com/track/1A6Kwtsg3JWKU2KWM2udpM) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [20th Century Masters: The Millennium Collection: Best Of 10CC](https://open.spotify.com/album/0NdAeRKEfxR075pjL5Ecjl) | 6:08 | 2021-10-16\* | 2021-11-19 |
-| [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 | 2022-01-07 | 2022-07-25 |
+| [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 | 2022-01-07 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 | 2021-02-01 |  |
 | [If I Ain’t Got You \- James Bay Spotify Session 2015 "Alicia Keys Cover"](https://open.spotify.com/track/4WUipVjYtYBlxjMDTjySrG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2XlLP05nQtmy70mvHnV7Js) | 4:21 | 2021-10-16\* | 2021-11-19 |
 | [If I Let You Go \- Radio Edit](https://open.spotify.com/track/5giCRvTkp5GV5UIAORAOof) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/22pfCAdDOgyC2JfSi5OwxT) | 3:41 | 2021-02-01 |  |
@@ -178,6 +178,7 @@
 | [One](https://open.spotify.com/track/3PKtemUKxiDBvBo7tpQ8bG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby](https://open.spotify.com/album/3hErePSImi79vYHrSmypGw) | 4:36 | 2021-10-16\* | 2021-11-19 |
 | [One Call Away](https://open.spotify.com/track/2uEJanMvnA1dXgX1ASnPQm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away](https://open.spotify.com/album/2xxwxdvN2zjplMH7gsy2QM) | 3:12 | 2021-10-16\* | 2022-06-20 |
 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-30 | 2022-07-25 |
+| [One Life](https://open.spotify.com/track/4TvUATvip5xCKi9GcUsgHG) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [One Life](https://open.spotify.com/album/0Q8JYPlSvdnRSJ2XQJLCi8) | 3:25 | 2022-05-30 |  |
 | [One Moment in Time](https://open.spotify.com/track/3jaUZhLiZOcgoJiGGd3hFD) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/4bXTYQ8nVBYO4k3C3TOVri) | 4:44 | 2021-02-01 |  |
 | [Ordinary World](https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran](https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T) | 5:40 | 2021-10-16\* | 2021-11-19 |
 | [Patience](https://open.spotify.com/track/7D5n2kpYH2WSqIyEO9MeXf) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 5:54 | 2021-10-16\* | 2021-11-19 |
@@ -230,7 +231,7 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-10-16\* | 2022-04-21 |
 | [Torn](https://open.spotify.com/track/0KDaN0HL3TcJVTbXlQCEsS) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/6HOvWskl058duikMCVOLcW) | 4:04 | 2021-10-16\* | 2021-11-19 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best Of Bonnie Tyler](https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9) | 4:29 | 2021-10-16\* | 2021-11-19 |
-| [True \- Single Edit](https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 5:29 | 2021-02-01 |  |
+| [True \- Single Edit](https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 5:29 | 2021-02-01 | 2022-07-26 |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-02-01 |  |
 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 | 2021-02-01 |  |
 | [Un\-Break My Heart](https://open.spotify.com/track/1wyNvV8uXr35T8ChEypf8n) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Essential Toni Braxton](https://open.spotify.com/album/44YkbOX8QxlFuBtYec4hPG) | 4:30 | 2021-02-01 |  |

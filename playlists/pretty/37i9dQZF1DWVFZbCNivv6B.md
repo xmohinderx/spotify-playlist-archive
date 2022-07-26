@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Dharius.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de La Santa Grifa y Santa Fe Klan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,486 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,735 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 84 | [El G.O.A.T.](https://open.spotify.com/track/0gsXBDtQMWBJPpl58X2fNO) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [El G.O.A.T.](https://open.spotify.com/album/1qI8dDPrB4jO8JmfPigBBC) | 4:15 |
 | 85 | [Pesadilla en el Cielo](https://open.spotify.com/track/1Ca6Oy2hd13ZlGTvmXgAGH) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Pesadilla en el Cielo](https://open.spotify.com/album/3AvB7htCyqKQLjpygGerr9) | 3:46 |
 
-Snapshot ID: `MTY1ODQ2NjAwMCwwMDAwMDQ5YjAwMDAwMTgyMjQ0NmRkMWMwMDAwMDE4MWE2NTRhNGM4`
+Snapshot ID: `MTY1ODc3MTU0NiwwMDAwMDQ5YzAwMDAwMTgyMzY3ZDIzNTIwMDAwMDE4MjM2N2E1MDhl`

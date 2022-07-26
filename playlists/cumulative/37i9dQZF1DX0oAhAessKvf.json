@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 235826,
       "name": "Ansias",
       "url": "https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 194360,
       "name": "Callate",
       "url": "https://open.spotify.com/track/2SW5bQHFVRHvzdHGk7b23S"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 229160,
       "name": "Chin A Chin",
       "url": "https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 218200,
       "name": "Dem Bow",
       "url": "https://open.spotify.com/track/0iSVOauAF1H4BSJLv08Vw6"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 212066,
       "name": "D\u00f3nde Est\u00e1n las Girlas",
       "url": "https://open.spotify.com/track/2rIdnCi7aa86ce2LRcEE6j"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 233493,
       "name": "EL Desorden",
       "url": "https://open.spotify.com/track/2byD4KjyL1FGzvldcPJUYL"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 183026,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/7Fp2EJFwuAgNm1Ea8fRilz"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 258160,
       "name": "Esa Chica No Me Puede Vacilar",
       "url": "https://open.spotify.com/track/3EOw3VEjwmWftsGhNoYwhZ"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 203573,
       "name": "Guatauba Mix",
       "url": "https://open.spotify.com/track/4ax3uC1v0Q0KahskLq5iit"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 80520,
       "name": "Intervenci\u00f3n Hablada",
       "url": "https://open.spotify.com/track/6SUfZYRRxLZGctDGHRmRSG"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 74226,
       "name": "Kla Kla",
       "url": "https://open.spotify.com/track/5q7IfZDSdCl3I44k6ZL0Zf"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 177640,
       "name": "Maniatica Sexual",
       "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
@@ -1107,7 +1107,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 104226,
       "name": "Materia Prima",
       "url": "https://open.spotify.com/track/0aULcqsoAnMu0lWmBSRpTZ"
@@ -1143,10 +1143,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 198253,
       "name": "Me La Explota Feat. Yankee",
       "url": "https://open.spotify.com/track/2cH8koRSDXBsvfEbeKcs9N"
+    },
+    {
+      "album": {
+        "name": "Sandunguero II",
+        "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
+      },
+      "artists": [
+        {
+          "name": "Chaka y Benny",
+          "url": "https://open.spotify.com/artist/7rYAWZuHyYwjiDfg4HW9QH"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Me Pegu\u00e9",
+      "url": "https://open.spotify.com/track/7BezuGZ98n7SzGCP4zhVME"
     },
     {
       "album": {
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 191191,
       "name": "Medley",
       "url": "https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 168813,
       "name": "Pegate",
       "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 161610,
       "name": "Persigueme",
       "url": "https://open.spotify.com/track/2IoVUXkcBf2Yn5yAFjzdiA"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 197386,
       "name": "Playero 38",
       "url": "https://open.spotify.com/track/1Nqn7YGaZcZxzZGDBtQWPf"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 273623,
       "name": "Playero Street Mix 2 - Radio Version",
       "url": "https://open.spotify.com/track/2xal5MD0VQUz9WD4gH9AZm"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 254720,
       "name": "Ponte Bruto",
       "url": "https://open.spotify.com/track/3icqGcD5bWn8AuSQVaAE9h"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 216053,
       "name": "Por Mi Reggae Muero",
       "url": "https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 142120,
       "name": "Que Vas Hacer",
       "url": "https://open.spotify.com/track/42Av2OQ33bthidFO1hsa3Q"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 91742,
       "name": "Ritmo para Toda la Nacion",
       "url": "https://open.spotify.com/track/2Vub8XzRSsdGWf73GMAlks"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 208600,
       "name": "Sentirte",
       "url": "https://open.spotify.com/track/0c9Qg1tEoKWF1eJ2MNyNGH"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 157129,
       "name": "Tengo Una Punto 40",
       "url": "https://open.spotify.com/track/250EHOSNKxP4J9CbC1DN9k"
@@ -2006,6 +2024,28 @@
     },
     {
       "album": {
+        "name": "Gargolas 3",
+        "url": "https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp"
+      },
+      "artists": [
+        {
+          "name": "Huicho y To\u00f1o",
+          "url": "https://open.spotify.com/artist/6YHDOlwmJ1E7bCSS3aB2lc"
+        },
+        {
+          "name": "Alberto Style",
+          "url": "https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128560,
+      "name": "Unknown (Alberto Style & Huicho Y To\u00f1o / Gargolas 3)",
+      "url": "https://open.spotify.com/track/2mnmKcbeGSf6NOilbXzFnt"
+    },
+    {
+      "album": {
         "name": "Gargolas 1",
         "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
       },
@@ -2035,7 +2075,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 185746,
       "name": "Unknown (Baby Rasta Y Gringo / Gargolas 3)",
       "url": "https://open.spotify.com/track/7zWroPzKHmaTjlpeY5PoTL"
@@ -2053,10 +2093,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 171160,
       "name": "Unknown (Daddy Yankee / Gargolas 1)",
       "url": "https://open.spotify.com/track/4oq2eeXiwyBHwx5WPss1Vp"
+    },
+    {
+      "album": {
+        "name": "Gargolas 1",
+        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128013,
+      "name": "Unknown (Hector & Tito / Gargolas 1)",
+      "url": "https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ"
     },
     {
       "album": {
@@ -2071,7 +2129,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 195026,
       "name": "Unknown (Las Guanabanas / Gargolas 3)",
       "url": "https://open.spotify.com/track/2mye6fIj1kQiXplAkWSsEp"
@@ -2089,7 +2147,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 172720,
       "name": "Unknown (Magnate & Valentino / Gargolas 3)",
       "url": "https://open.spotify.com/track/0zcmjDnv3ZjbyhEhZkvnhn"
@@ -2114,6 +2172,24 @@
     },
     {
       "album": {
+        "name": "Gargolas 1",
+        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "Unknown (Nicky Jam / Gargolas 1)",
+      "url": "https://open.spotify.com/track/5wx8ePArKqyTn1Olooli2Y"
+    },
+    {
+      "album": {
         "name": "Gargolas 3",
         "url": "https://open.spotify.com/album/5epQeyQpmcBbpbh62AwTNp"
       },
@@ -2129,7 +2205,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 169986,
       "name": "Unknown (Nicky Jam Y Daddy Yankee / Gargolas 3)",
       "url": "https://open.spotify.com/track/4hjUnVZdQKMflAaLQvxM7M"
@@ -2165,7 +2241,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 131346,
       "name": "Unknown (Trebol Clan / Gargolas 3)",
       "url": "https://open.spotify.com/track/22aCs4BUUJmJsgjV5aDouk"
@@ -2183,7 +2259,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 197066,
       "name": "Unknown(Magnate Y Valentino/Gargolas 3)",
       "url": "https://open.spotify.com/track/35A8nzaC9V8WtXPoc60NPV"
@@ -2327,7 +2403,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 262466,
       "name": "Xplosion",
       "url": "https://open.spotify.com/track/58q5Jz1My29hgf6lh2N2Sj"
@@ -2363,7 +2439,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 157613,
       "name": "Ya No Hay Se\u00f1ales De Vida",
       "url": "https://open.spotify.com/track/4aPLyHnOoomCqUniihfPnV"

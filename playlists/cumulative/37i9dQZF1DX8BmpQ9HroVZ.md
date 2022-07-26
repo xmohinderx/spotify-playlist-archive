@@ -4,7 +4,7 @@
 
 > The hottest local and global tracks in Pakistan\. Cover \- Asim Azhar
 
-65 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
+66 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7dqZIhUmQUoc5otwsdY7F6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-06-20 | 2022-07-19 |
 | [Ruposh \(Original Score\)](https://open.spotify.com/track/7meDiw985bfLpu0pjqqzpg) | [Wajhi Farooki](https://open.spotify.com/artist/0DQFJkWYOvDE5xEOoO7Voq) | [Ruposh \(Original Score\)](https://open.spotify.com/album/3CFaQeeuuYTQDYXPdFkz8k) | 4:05 | 2022-06-20 |  |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2022-06-20 |  |
+| [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 | 2022-07-25 |  |
 | [Sohna Tu \- Why Not Meri Jaan x Dance](https://open.spotify.com/track/4no16yExxD5tsrudceCdCL) | [Taha Malik](https://open.spotify.com/artist/5qt4NXa8SeCqrf54WBAttr), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Sohna Tu \(Why Not Meri Jaan x Dance\)](https://open.spotify.com/album/7FVqNG0B9KzNJvCxRcgXBq) | 4:02 | 2022-06-20 |  |
 | [SPACESHIP](https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:04 | 2022-06-20 | 2022-07-19 |
 | [Stunner](https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc) | [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Stunner](https://open.spotify.com/album/6hJuAaYqPKKmdUeSVKlqHj) | 3:06 | 2022-06-20 |  |

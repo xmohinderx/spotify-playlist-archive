@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,046 likes - 78 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,055 likes - 78 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

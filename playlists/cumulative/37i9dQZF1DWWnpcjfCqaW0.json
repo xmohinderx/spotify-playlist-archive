@@ -135,7 +135,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 184040,
       "name": "Always Late (With Your Kisses)",
       "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 179600,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 122893,
       "name": "Don't Be Cruel",
       "url": "https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 168640,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
@@ -680,6 +680,24 @@
     },
     {
       "album": {
+        "name": "Johnny Cash at Sun",
+        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133120,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
+    },
+    {
+      "album": {
         "name": "The Complete Capitol Hits Of Faron Young",
         "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
       },
@@ -691,7 +709,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 161533,
       "name": "Goin' Steady",
       "url": "https://open.spotify.com/track/5PBGdSfxhjSuJHfagUNOCl"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 127560,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 130893,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 127746,
       "name": "I Love You Because",
       "url": "https://open.spotify.com/track/0OnnbhUUfJ23b3UAbBbzAa"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "If You Ain't Lovin' (You Ain't Livin')",
       "url": "https://open.spotify.com/track/7oanidqUgZO3GxXugm2ucC"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 179306,
       "name": "If You've Got the Money I've Got the Time",
       "url": "https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 138538,
       "name": "In the Jailhouse Now",
       "url": "https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 168106,
       "name": "Invitation to the Blues",
       "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 153693,
       "name": "Kaw-Liga - Single Version",
       "url": "https://open.spotify.com/track/6jAq2JlwfJTWAUILREgvyv"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 179293,
       "name": "My Special Angel",
       "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
@@ -1640,6 +1658,24 @@
     },
     {
       "album": {
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+    },
+    {
+      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },
@@ -1651,7 +1687,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 123373,
       "name": "Saddle Tramp",
       "url": "https://open.spotify.com/track/68FTJoO8edSpzuYb6lGW6P"
@@ -1856,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "The Master's Call",
+      "url": "https://open.spotify.com/track/62rmfpQuieSgCITPX819sR"
+    },
+    {
+      "album": {
         "name": "Sixteen Tons",
         "url": "https://open.spotify.com/album/0X96CJyHwoBEzSj24CISo4"
       },
@@ -1965,7 +2019,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 172000,
       "name": "Too Old To Cut The Mustard",
       "url": "https://open.spotify.com/track/3eCBDkw6G3ArDFoqEYXf7a"

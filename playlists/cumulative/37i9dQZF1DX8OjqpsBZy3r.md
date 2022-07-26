@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-99 songs - 5 hr 35 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+100 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [breadwinner](https://open.spotify.com/track/2stbjvpFujerfDUuUUPX7o) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:20 | 2021-12-03 |  |
 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 | 2021-12-03 |  |
 | [Call Your Sister](https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY) | 3:00 | 2021-12-03 |  |
+| [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 | 2022-07-25 |  |
 | [Caught Up In The Country](https://open.spotify.com/track/4aGG4VOWGv9RwlYQNsBrkE) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Caught Up In The Country](https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11) | 2:40 | 2021-12-03 |  |
 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 | 2021-12-03 |  |
 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2021-12-03 |  |

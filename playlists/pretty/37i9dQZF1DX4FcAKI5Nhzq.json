@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: Xdinary Heroes",
-  "num_followers": 696043,
+  "num_followers": 696385,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODMwNzYwMCwwMDAwMDI3NzAwMDAwMTgyMWFkNWRmNTgwMDAwMDE4MjFhMTgxNjI3",
+  "snapshot_id": "MTY1ODc0MTU1NCwwMDAwMDI3ODAwMDAwMTgyMzRiMzdlMGEwMDAwMDE4MjFhMTgxNjI3",
   "tracks": [
     {
       "added_at": "2022-07-20 05:30:22",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds"
     },
     {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BEAUTIFUL MONSTER",
+      "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
+    },
+    {
       "added_at": "2022-07-15 06:35:04",
       "album": {
         "name": "MANIFESTO : DAY 1",
@@ -39,6 +55,22 @@
       "duration_ms": 180750,
       "name": "Future Perfect (Pass the MIC)",
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
+    },
+    {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "iCE",
+        "url": "https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB"
+      },
+      "artists": [
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "NO THANKS",
+      "url": "https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD"
     },
     {
       "added_at": "2022-07-15 06:35:04",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd"
     },
     {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "Nabillera",
+        "url": "https://open.spotify.com/album/7lmFcQr3449htbZzcWRzOL"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 168462,
+      "name": "Nabillera",
+      "url": "https://open.spotify.com/track/0m3BNGjvpYtxywepORwT6N"
+    },
+    {
       "added_at": "2022-07-15 06:35:04",
       "album": {
         "name": "from our Memento Box",
@@ -71,6 +119,38 @@
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
+    },
+    {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "Que Sera Sera",
+        "url": "https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Que Sera Sera",
+      "url": "https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp"
+    },
+    {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "U&Iverse",
+        "url": "https://open.spotify.com/album/13QtsOvK9KOmQBQglnbsQo"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "duration_ms": 204410,
+      "name": "U&Iverse",
+      "url": "https://open.spotify.com/track/67VGnMGkTYQu0eGhvcEXuS"
     },
     {
       "added_at": "2022-07-15 06:35:04",
@@ -89,6 +169,22 @@
       "url": "https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU"
     },
     {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "Rain Day - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Rain Day",
+      "url": "https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16"
+    },
+    {
       "added_at": "2022-07-15 06:35:04",
       "album": {
         "name": "Sequence",
@@ -103,6 +199,38 @@
       "duration_ms": 187466,
       "name": "Last Sequence",
       "url": "https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4"
+    },
+    {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "HARMONY : ZERO IN",
+        "url": "https://open.spotify.com/album/73CTPjApMDvFsycjbbROji"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Doom Du Doom",
+      "url": "https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO"
+    },
+    {
+      "added_at": "2022-07-25 09:32:34",
+      "album": {
+        "name": "WIN-DOW",
+        "url": "https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2"
+      },
+      "artists": [
+        {
+          "name": "BLITZERS",
+          "url": "https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Hit The Bass",
+      "url": "https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2"
     },
     {
       "added_at": "2022-07-15 06:35:04",
@@ -471,42 +599,6 @@
     {
       "added_at": "2022-07-15 06:35:04",
       "album": {
-        "name": "Blue & Black",
-        "url": "https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh"
-      },
-      "artists": [
-        {
-          "name": "HYOJUNG",
-          "url": "https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk"
-        },
-        {
-          "name": "ARIN",
-          "url": "https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF"
-        },
-        {
-          "name": "JANGWONYOUNG",
-          "url": "https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw"
-        },
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        },
-        {
-          "name": "SERIM",
-          "url": "https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO"
-        },
-        {
-          "name": "JUNGMO",
-          "url": "https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "Blue & Black",
-      "url": "https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -671,22 +763,6 @@
     {
       "added_at": "2022-07-15 06:35:04",
       "album": {
-        "name": "SUGAR",
-        "url": "https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "SUGAR",
-      "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
         "name": "Drive to the Starry Road",
         "url": "https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0"
       },
@@ -735,54 +811,6 @@
     {
       "added_at": "2022-07-15 06:35:04",
       "album": {
-        "name": "Street Man Fighter Original Vol.1",
-        "url": "https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "SMF (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "DOOMCHITA",
-        "url": "https://open.spotify.com/album/10OdrpNsZ8FGFpWqsz7ujT"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 197440,
-      "name": "DOOMCHITA",
-      "url": "https://open.spotify.com/track/3gLmJaolKWQGRT5xaS09JN"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "DRIPPIN 2nd Single Album [Villain : ZERO]",
-        "url": "https://open.spotify.com/album/0hqxfMNfdoP3b4vQY0nUNq"
-      },
-      "artists": [
-        {
-          "name": "DRIPPIN",
-          "url": "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/4XkeWqW7ogSSvFY6MpR6eP"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/3tTjCEJSxnjuVH2ztkCY03"
       },
@@ -795,70 +823,6 @@
       "duration_ms": 224837,
       "name": "Glitch",
       "url": "https://open.spotify.com/track/3Xzyta15TXF33ggEjA5FxN"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "Stupid Cool",
-        "url": "https://open.spotify.com/album/15SyyufawVdBxltCfLBiNN"
-      },
-      "artists": [
-        {
-          "name": "DAWN \ub358",
-          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Stupid Cool",
-      "url": "https://open.spotify.com/track/2fvo8mpaPBkKabJXkd45GU"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "VIVID",
-        "url": "https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "VIVID",
-      "url": "https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "Facade",
-        "url": "https://open.spotify.com/album/2xj3q7TVU0jrpyv6YVGzPc"
-      },
-      "artists": [
-        {
-          "name": "WONHO",
-          "url": "https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3K4FUnNmfNrIipQey9OxDM"
-    },
-    {
-      "added_at": "2022-07-15 06:35:04",
-      "album": {
-        "name": "Where is my Garden!",
-        "url": "https://open.spotify.com/album/5A0G6El208bcSxPfNw0CrR"
-      },
-      "artists": [
-        {
-          "name": "JEONG SEWOON",
-          "url": "https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6Y8iUOQbIwQaYzEYs0r9ZV"
     }
   ],
   "unique_name": "K-Pop Rising",

@@ -1,12 +1,12 @@
 {
   "description": "The sound of a g-g-generation. Cover: Limp Bizkit",
-  "num_followers": 1396549,
+  "num_followers": 1397274,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMjM5OSwwMDAwMDAwMDVjMjhmYmRmYWU0MjE4ZjU5YTIwZTYxNGExZjMxMjkx",
+  "snapshot_id": "MTY1ODc5OTE0MCwwMDAwMDAwMGQ5NjRkYmM0N2UwMTAxOGI0ZDZkNTZhMTk4OTJkNjFl",
   "tracks": [
     {
       "added_at": "2022-06-18 05:22:28",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Bleed the Sky",
+        "url": "https://open.spotify.com/album/2tqHTAC4qEbd20EDIrdule"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Reveille",
+          "url": "https://open.spotify.com/artist/3RbXuB6HeChRKwHDiY2PEC"
         }
       ],
-      "duration_ms": 256240,
-      "name": "Youth of the Nation",
-      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+      "duration_ms": 146693,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/75qe37gZ8SfRg0N8fGbvrD"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -203,8 +203,8 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
       "artists": [
         {
@@ -212,25 +212,105 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 225306,
-      "name": "Got the Life",
-      "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
+      "duration_ms": 258266,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
+      "duration_ms": 234466,
+      "name": "Between Angels And Insects",
+      "url": "https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 272973,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Around the Fur",
+        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Own Summer (Shove It)",
+      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 256240,
+      "name": "Youth of the Nation",
+      "url": "https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 270920,
+      "name": "Falling Away from Me",
+      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -267,66 +347,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 272973,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Greatest Hits (The Atlantic Years)",
-        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "Alive - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
+      "duration_ms": 213933,
+      "name": "Somewhere I Belong",
+      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -347,54 +379,6 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Between Angels And Insects",
-      "url": "https://open.spotify.com/track/24z528iI9kZu5LbkLainjI"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Around the Fur",
-        "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Own Summer (Shove It)",
-      "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Tonight The Stars Revolt",
-        "url": "https://open.spotify.com/album/6ddsr0JgiHHEN0FBGwme21"
-      },
-      "artists": [
-        {
-          "name": "Powerman 5000",
-          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "When Worlds Collide",
-      "url": "https://open.spotify.com/track/4xfcKZRY6LnjfZwE5lVJp0"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
       },
@@ -411,8 +395,24 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+        "name": "Greatest Hits (The Atlantic Years)",
+        "url": "https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "Alive - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
@@ -420,41 +420,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 270920,
-      "name": "Falling Away from Me",
-      "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Somewhere I Belong",
-      "url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "I-E-A-I-A-I-O",
-      "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+      "duration_ms": 225306,
+      "name": "Got the Life",
+      "url": "https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -475,18 +443,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Primitive (Special Edition)",
-        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
+        "name": "Faceless",
+        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
       },
       "artists": [
         {
-          "name": "Soulfly",
-          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 311986,
-      "name": "Jumpdafuckup",
-      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+      "duration_ms": 246040,
+      "name": "I Stand Alone",
+      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -507,6 +475,54 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Tonight The Stars Revolt",
+        "url": "https://open.spotify.com/album/6ddsr0JgiHHEN0FBGwme21"
+      },
+      "artists": [
+        {
+          "name": "Powerman 5000",
+          "url": "https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "When Worlds Collide",
+      "url": "https://open.spotify.com/track/4xfcKZRY6LnjfZwE5lVJp0"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
         "name": "Life Is Peachy",
         "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 153600,
       "name": "A.D.I.D.A.S.",
       "url": "https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Devil Without a Cause",
-        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Bawitdaba",
-      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -555,66 +555,50 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+        "name": "Moving Forward In Reverse: Greatest Hits",
+        "url": "https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
         }
       ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
+      "duration_ms": 252933,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+        "name": "Devil Without a Cause",
+        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
       },
       "artists": [
         {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
+      "duration_ms": 265840,
+      "name": "Bawitdaba",
+      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Faceless",
-        "url": "https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk"
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 246040,
-      "name": "I Stand Alone",
-      "url": "https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+      "duration_ms": 188600,
+      "name": "I-E-A-I-A-I-O",
+      "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -635,22 +619,6 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Moving Forward In Reverse: Greatest Hits",
-        "url": "https://open.spotify.com/album/2DUQWxuRC0J8Nn3ejQHROx"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Click Click Boom",
-      "url": "https://open.spotify.com/track/55SUneDPq3ZOrJi8sVG78G"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -667,18 +635,34 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "The Lonely Position Of Neutral",
-        "url": "https://open.spotify.com/album/5f9GZ6P4GWFodpEezBtSEm"
+        "name": "Primitive (Special Edition)",
+        "url": "https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l"
       },
       "artists": [
         {
-          "name": "TRUSTcompany",
-          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
         }
       ],
-      "duration_ms": 191373,
-      "name": "Downfall",
-      "url": "https://open.spotify.com/track/55a9zQ8GXMw3gApQosXMHC"
+      "duration_ms": 311986,
+      "name": "Jumpdafuckup",
+      "url": "https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -695,38 +679,6 @@
       "duration_ms": 247253,
       "name": "Southtown",
       "url": "https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
-      },
-      "artists": [
-        {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Through The Eyes (Explicit Version)",
-        "url": "https://open.spotify.com/album/72wOWW1ayFNvYwSC555L6b"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/3tpFewlKhFoWp46WUVAuth"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -763,130 +715,50 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+        "name": "Two",
+        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
       },
       "artists": [
         {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+          "name": "Earshot",
+          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
+      "duration_ms": 213000,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Commencement",
-        "url": "https://open.spotify.com/album/2kBPVOM0vVUlihWChxqWMD"
+        "name": "The Lonely Position Of Neutral",
+        "url": "https://open.spotify.com/album/5f9GZ6P4GWFodpEezBtSEm"
       },
       "artists": [
         {
-          "name": "Deadsy",
-          "url": "https://open.spotify.com/artist/1RBQSFgtcUFw4LXSw0tUBq"
+          "name": "TRUSTcompany",
+          "url": "https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA"
         }
       ],
-      "duration_ms": 192933,
-      "name": "The Key To Gramercy Park - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/56RVUS1Yo2YxkhU9bIi2i1"
+      "duration_ms": 191373,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/55a9zQ8GXMw3gApQosXMHC"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "The Height of Callousness",
-        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
       },
       "artists": [
         {
-          "name": "Spineshank",
-          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
         }
       ],
-      "duration_ms": 194733,
-      "name": "New Disease",
-      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Back to School (Mini Maggit)",
-      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "XIII",
-        "url": "https://open.spotify.com/album/1BTjlNksap1sBph54yGv6x"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Sun Doesn't Rise",
-      "url": "https://open.spotify.com/track/0xSPKfb6uamJnPTX6sRWy5"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "A Snow Capped Romance",
-        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Trapt",
-        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
-      },
-      "artists": [
-        {
-          "name": "Trapt",
-          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
-        }
-      ],
-      "duration_ms": 285569,
-      "name": "Headstrong",
-      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "From This Day",
-      "url": "https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37"
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -907,6 +779,86 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
+        "name": "Trapt",
+        "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
+      },
+      "artists": [
+        {
+          "name": "Trapt",
+          "url": "https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM"
+        }
+      ],
+      "duration_ms": 285569,
+      "name": "Headstrong",
+      "url": "https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "XIII",
+        "url": "https://open.spotify.com/album/1BTjlNksap1sBph54yGv6x"
+      },
+      "artists": [
+        {
+          "name": "Mushroomhead",
+          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Sun Doesn't Rise",
+      "url": "https://open.spotify.com/track/0xSPKfb6uamJnPTX6sRWy5"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Through The Eyes (Explicit Version)",
+        "url": "https://open.spotify.com/album/72wOWW1ayFNvYwSC555L6b"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/3tpFewlKhFoWp46WUVAuth"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Back to School (Mini Maggit)",
+      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+      },
+      "artists": [
+        {
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
         "name": "Make Yourself - Tour Edition",
         "url": "https://open.spotify.com/album/4nO7EUWCOzqHK3iGDXDzzU"
       },
@@ -919,22 +871,6 @@
       "duration_ms": 223733,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/3FJuFr00K5IpgvTCDDaqW5"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Coal Chamber",
-        "url": "https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv"
-      },
-      "artists": [
-        {
-          "name": "Coal Chamber",
-          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -955,18 +891,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+        "name": "The Height of Callousness",
+        "url": "https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL"
       },
       "artists": [
         {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+          "name": "Spineshank",
+          "url": "https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4"
         }
       ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
+      "duration_ms": 194733,
+      "name": "New Disease",
+      "url": "https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -987,6 +923,54 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/20mh1X1FQQidKMu2XypyMI"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/07EeNeSCYJajyJW5U7Q3Wd"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Coal Chamber",
+        "url": "https://open.spotify.com/album/1f67cRBr8LloCk9sEdUINv"
+      },
+      "artists": [
+        {
+          "name": "Coal Chamber",
+          "url": "https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ"
+        }
+      ],
+      "duration_ms": 254693,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/34SVUs66rBnOqsCJl45Ek8"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -999,38 +983,6 @@
       "duration_ms": 274160,
       "name": "Stupify",
       "url": "https://open.spotify.com/track/5IvKtrcNWBkvyW2yXZ2Y40"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Skull & Bones",
-        "url": "https://open.spotify.com/album/6kh33c4HHolI6T8V1cAFuP"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Can't Get The Best Of Me",
-      "url": "https://open.spotify.com/track/2gPYmTCoxBexu2o0zLwWt1"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "www.pitchshifter.com",
-        "url": "https://open.spotify.com/album/2ie2XFgCOhckM6u85pZwuL"
-      },
-      "artists": [
-        {
-          "name": "Pitchshifter",
-          "url": "https://open.spotify.com/artist/10aXVE8RSUCeMzaFvBnZ2i"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/54CnyPVTsxqlph6A8dWpTy"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -1051,6 +1003,70 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
+        "name": "A Snow Capped Romance",
+        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Confession (Explicit Version)",
+        "url": "https://open.spotify.com/album/55swKTEIYvcbpFAAFmHtVk"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "How Can I Live",
+      "url": "https://open.spotify.com/track/3H7IV0Aps0rHpqJXQYe5Ma"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Commencement",
+        "url": "https://open.spotify.com/album/2kBPVOM0vVUlihWChxqWMD"
+      },
+      "artists": [
+        {
+          "name": "Deadsy",
+          "url": "https://open.spotify.com/artist/1RBQSFgtcUFw4LXSw0tUBq"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "The Key To Gramercy Park - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/56RVUS1Yo2YxkhU9bIi2i1"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "Skull & Bones",
+        "url": "https://open.spotify.com/album/6kh33c4HHolI6T8V1cAFuP"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Can't Get The Best Of Me",
+      "url": "https://open.spotify.com/track/2gPYmTCoxBexu2o0zLwWt1"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
         "name": "Sevendust (Definitive Edition)",
         "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
       },
@@ -1067,66 +1083,50 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Adema",
-        "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
       "artists": [
         {
-          "name": "Adema",
-          "url": "https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 274733,
-      "name": "Giving In",
-      "url": "https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9"
+      "duration_ms": 216880,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/0sXelo7ZacAWnxYs41vixi"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl"
       },
       "artists": [
         {
-          "name": "Pulse Ultra",
-          "url": "https://open.spotify.com/artist/0mfFGjshEFbLqZEkPBkblG"
+          "name": "Blindside",
+          "url": "https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr"
         }
       ],
-      "duration_ms": 234600,
-      "name": "Build Your Cages",
-      "url": "https://open.spotify.com/track/1qVxslK1epoLJCfZFhu24L"
+      "duration_ms": 192213,
+      "name": "Pitiful",
+      "url": "https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW"
     },
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "...An Education In Rebellion",
-        "url": "https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76"
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/4BvZjpnr3SBg8bKQ5hzn9f"
       },
       "artists": [
         {
-          "name": "The Union Underground",
-          "url": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
+          "name": "Snot",
+          "url": "https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8"
         }
       ],
-      "duration_ms": 204293,
-      "name": "South Texas Deathride",
-      "url": "https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
-        "name": "Godsmack",
-        "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
+      "duration_ms": 201933,
+      "name": "Snot",
+      "url": "https://open.spotify.com/track/3KNoT6ldHrGS82S9bYeUk4"
     }
   ],
   "unique_name": "Nu Metal Era",

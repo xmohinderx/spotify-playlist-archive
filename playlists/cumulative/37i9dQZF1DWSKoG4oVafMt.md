@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-433 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+436 songs - 23 hr 45 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Adore You \- 1 Min Music](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You \- 1 Min Music](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 |  |
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 |  |
+| [Allah Maaf Kre](https://open.spotify.com/track/21bFBk0oi19JQzHJoifZSn) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Tehjeeb Hafi](https://open.spotify.com/artist/4pOA7Ulb1xGrjUwCZr0AF0) | [Allah Maaf Kre](https://open.spotify.com/album/1XBqxac22yxBRUelC8SoMa) | 3:30 | 2022-07-25 |  |
 | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/track/2azVU3xtSf7l59lEPIzdEi) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Nik D](https://open.spotify.com/artist/5nC2tf6FpiYafqUEh7eoSe) | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/album/3DVwPdGcDpEGpKFgxI0YX4) | 4:00 | 2022-04-18 | 2022-05-20 |
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
 | [Amber Nu Paudi](https://open.spotify.com/track/1Cgf1bIWS0oJtzHidStWtQ) | [Amarinder](https://open.spotify.com/artist/7fBmn4qIlIlpCTgV1VE4cV) | [Love On Top](https://open.spotify.com/album/4cCzLf1SWnIVArzSpreEsT) | 4:23 | 2022-01-10 | 2022-01-15 |
@@ -33,6 +34,7 @@
 | [Bhabi](https://open.spotify.com/track/3EAVty65Aq2boaV6O2vj5I) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:30 | 2022-02-03 | 2022-04-29 |
 | [Bhabi](https://open.spotify.com/track/3RRvzCenxnnrZwmZ3MiGkP) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi) | [Bhabi](https://open.spotify.com/album/2aB58jJjLQB1xJLcaeq6Jj) | 2:35 | 2021-12-02 |  |
 | [Big Men \(Chapter 2\)](https://open.spotify.com/track/3i0uUsZFO2eJfc4uULSWLy) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Big Men \(Chapter 2\)](https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg) | 3:44 | 2022-05-13 |  |
+| [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2022-07-25 |  |
 | [Bitters](https://open.spotify.com/track/7s8XGYZHjfOnslUXuRGJBG) | [Ronaq](https://open.spotify.com/artist/4YxWoxwulLZQww6BsLmOgR) | [Bitters](https://open.spotify.com/album/6gp19s3JPO4DIxTvahomj2) | 1:20 | 2022-07-21 |  |
 | [Black Night](https://open.spotify.com/track/4fE7KmFoiE2s5BDDHtle9K) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Black Night](https://open.spotify.com/album/2XAanLl0zokdkTOHVmJQW1) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 | 2022-05-11 |
@@ -288,6 +290,7 @@
 | [Phulkari](https://open.spotify.com/track/3jt57GMTaEPhYpoW9ALWe2) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Aditi Aarya](https://open.spotify.com/artist/0aPqtfnSC91tXNcB26u6UZ) | [Phulkari From "Khaao Piyo Aish Karo"\)](https://open.spotify.com/album/6X5FG5A5eOYSWM2KuJn410) | 2:33 | 2022-06-30 |  |
 | [Piche Piche Jatt](https://open.spotify.com/track/5ViXandwEDhcXcIikeUXOC) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Shareek 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pPCg7ZLDCM1owPBdTzxyt) | 3:31 | 2022-06-22 | 2022-07-06 |
 | [Pichhe Pichhe](https://open.spotify.com/track/6e8TOGH1S9qRleccUJkxdu) | [Deep Maan](https://open.spotify.com/artist/3mU63XyW4WR6t2223LvfWx), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Young Army](https://open.spotify.com/artist/5YWfWq6O3w6yurYf8CHTxx) | [Pichhe Pichhe](https://open.spotify.com/album/5Dplp4F98yVkKNgH0yv8gI) | 2:51 | 2022-04-22 | 2022-05-11 |
+| [Poora Chann](https://open.spotify.com/track/62cosUXsAaysvUJTIOWGzJ) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [Poora Chann](https://open.spotify.com/album/1JqXcDVTpMFrxw05z2hHi4) | 2:20 | 2022-07-25 |  |
 | [Positivity](https://open.spotify.com/track/4Wy1PEoKfF3wPikE3GcWLl) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Positivity](https://open.spotify.com/album/1TMrvJJPk0MO3tvKEHAM7u) | 2:50 | 2022-05-10 |  |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 |  |
 | [Promise](https://open.spotify.com/track/4430hRYol9QcrOb12rq6D2) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Promise](https://open.spotify.com/album/1VL8DknivNInwr03xcjHfg) | 2:45 | 2022-02-11 | 2022-04-06 |

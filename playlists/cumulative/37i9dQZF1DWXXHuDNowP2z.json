@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-24",
   "description": "\u00a1A levantar polvadera!",
   "name": "Cumbias, Huapangos & Zapateados",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7AVTLss0jdvM2YQNxTY8ci"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
@@ -143,7 +145,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 367061,
       "name": "Arreando la Mula (En Vivo)",
       "url": "https://open.spotify.com/track/2EkP0U9x1onGPj26aeIdvb"
@@ -759,7 +761,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 169740,
       "name": "El Mariachi (Huapango)",
       "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
@@ -795,7 +797,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 223817,
       "name": "El Olotito",
       "url": "https://open.spotify.com/track/0Yx4n40SoumujCxKAW2v4M"
@@ -1209,10 +1211,28 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 172042,
       "name": "Huapango el Pluma Blanca",
       "url": "https://open.spotify.com/track/3SZ0MQwKjnQFgZqiucOqap"
+    },
+    {
+      "album": {
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288365,
+      "name": "Huapango el Tenebroso",
+      "url": "https://open.spotify.com/track/6mraZk1UIOzbj8a2h3Nkrd"
     },
     {
       "album": {
@@ -1227,7 +1247,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 191998,
       "name": "Huapango el Toro Pinto",
       "url": "https://open.spotify.com/track/3irDz5lfA0Hz5aHQBmfoZs"
@@ -1263,7 +1283,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 260343,
       "name": "Huapangos De Barrio - En Vivo",
       "url": "https://open.spotify.com/track/2TCBdixeX6MvqCxfvhslhE"
@@ -1371,7 +1391,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 166706,
       "name": "La Bola",
       "url": "https://open.spotify.com/track/4IXJ4Njhv9JzUv0qADL6Cj"
@@ -2027,6 +2047,24 @@
       "duration_ms": 190813,
       "name": "Mary Lee",
       "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "album": {
+        "name": "Yo Pongo las Reglas",
+        "url": "https://open.spotify.com/album/3Sux4OcMDKm8LLFeAuGJL1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220317,
+      "name": "Mi Burrita",
+      "url": "https://open.spotify.com/track/0X8AZfBvCPS2LDInUuOJXy"
     },
     {
       "album": {

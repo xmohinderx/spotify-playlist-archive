@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Connie Han
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,807 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,998 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

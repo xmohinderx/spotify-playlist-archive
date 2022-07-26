@@ -4,7 +4,7 @@
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-44 songs - 1 hr 43 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
+45 songs - 1 hr 45 min - [published](https://open.spotify.com/playlist/73tk3HQ1A5zVZL7BTE95Dd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Just Sing](https://open.spotify.com/track/4vUq9Q0kgdgy2YZr1ugqge) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI) | 3:41 | 2021-03-30 |  |
 | [Kiss the Girl \- From "The Little Mermaid"/ Soundtrack Version](https://open.spotify.com/track/4F1fdteEm8Oe2GNUA7ON5S) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Greatest Hits](https://open.spotify.com/album/3fEvkXjnmWNotOWFrhnVjP) | 2:42 | 2019-03-06 |  |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2021-03-30 |  |
+| [Looby Loo \- Toddler Version](https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Toddler Party](https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21) | 2:03 | 2022-07-25 |  |
 | [Miss Mary Mack](https://open.spotify.com/track/6n8vAY5flz0VChNl2evwEc) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 2:01 | 2021-03-30 |  |
 | [Mr\. Sun](https://open.spotify.com/track/69UCsdTNjYAgot1sIjviwD) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 5: Rhyme Around the Rosy](https://open.spotify.com/album/0sF3OFdtFfxv1RYyaYk0aL) | 1:38 | 2021-03-30 |  |
 | [Old MacDonald](https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 1:59 | 2021-03-30 |  |

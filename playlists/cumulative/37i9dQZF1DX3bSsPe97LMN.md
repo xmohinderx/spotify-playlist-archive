@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Justin Morales en portada.
 
-74 songs - 3 hr 54 min - not published yet
+74 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

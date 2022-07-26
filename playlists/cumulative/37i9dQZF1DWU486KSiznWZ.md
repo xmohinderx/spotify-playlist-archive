@@ -4,7 +4,7 @@
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-60 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+61 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Momken](https://open.spotify.com/track/184NJgZkOPIz4742hcWSq8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Momken](https://open.spotify.com/album/6gr21nAdWq81BK3cNYkWyc) | 3:14 | 2022-04-07 |  |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2022-04-07 |  |
 | [Nafs Al Muftarak](https://open.spotify.com/track/58lYW6pa7nkYtt3gAReZ3m) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Nafs Al Muftarak](https://open.spotify.com/album/4WAPReCYSyjPoUAm9pGFx2) | 4:25 | 2022-04-07 |  |
+| [Qatlni Hobak](https://open.spotify.com/track/7JqngiYbIy1jv6o0zq45PS) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Qatlni Hobak](https://open.spotify.com/album/5rM0FdvjpBafPkf7ojIeVQ) | 3:27 | 2022-07-25 |  |
 | [Reet Ana Fi Shatea Alraha](https://open.spotify.com/track/0em5j7FFSO5baIApIHVW0m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Reet Ana Fi Shatea Alraha](https://open.spotify.com/album/7AUb79CU51sFI5tZdjjaVL) | 5:20 | 2022-04-07 | 2022-06-09 |
 | [Saah Bass](https://open.spotify.com/track/5ug1GBN1TQBxMskIAqyVyF) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr), [Rami Bn Grman](https://open.spotify.com/artist/4fdjSZsatd2bMKJieNlwP4) | [Saah Bass](https://open.spotify.com/album/3CFeIkoSTRnXXxjKf7XPDc) | 4:17 | 2022-04-07 |  |
 | [Sahih](https://open.spotify.com/track/037sIHI5IWLfTi3oq4a1qz) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Sahih](https://open.spotify.com/album/2kpw6RAZ8rdhd5P2opa464) | 4:33 | 2022-04-07 |  |

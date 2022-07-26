@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Farruko
 
-81 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
+82 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Lullaby](https://open.spotify.com/track/1J2Lndxqp2Xlp6OShqaZpH) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Intertwine](https://open.spotify.com/album/7gOFUUfTbscJuTXjh5hqTx) | 3:42 | 2022-07-09 |  |
 | [Ma Way](https://open.spotify.com/track/5YUmEBCcg6hu8lpNegrZ7n) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Ma Way](https://open.spotify.com/album/4CdBkVYkTRu3IT2N4s5X8i) | 2:31 | 2022-07-09 |  |
 | [Mami](https://open.spotify.com/track/5bpHHnpjPsNiq5AmyU7o8j) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Mami](https://open.spotify.com/album/6n5CukxEAe6wQDgx0Aep6D) | 3:08 | 2022-07-09 |  |
-| [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-09 |  |
+| [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-07-09 | 2022-07-26 |
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-07-09 |  |
 | [Meaningless](https://open.spotify.com/track/2w8OmA0tz54P74o8kLMcfb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix Deluxe](https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3) | 3:37 | 2022-07-09 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-09 |  |
@@ -85,6 +85,7 @@
 | [To Be Real](https://open.spotify.com/track/50xQF3XPkeiI0MUdpJw6Sl) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [To Be Real](https://open.spotify.com/album/5qjXkUJnwNmPORD2g2ZNFk) | 3:00 | 2022-07-09 |  |
 | [Trompeta](https://open.spotify.com/track/1xyz2xqqpnhT3k1ApFPu6S) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Trompeta](https://open.spotify.com/album/2CouSn57DmTvVmvNvYaApP) | 2:48 | 2022-07-09 |  |
 | [Tu t’en iras](https://open.spotify.com/track/273vXUGkKr04KJUPvWD16Y) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Traîtrise](https://open.spotify.com/album/6bddo91xZo2y4MdeMc0Jxz) | 3:26 | 2022-07-09 |  |
+| [Un jour je marierai un ange](https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp) | [Pierre de Maere](https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd) | [Un jour, je](https://open.spotify.com/album/6behht7b5iDD8CRpTWMWrI) | 2:45 | 2022-07-25 |  |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-07-09 |  |
 | [Vraiment](https://open.spotify.com/track/7J3cONRfk18KhNX08k8Ydk) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Vraiment](https://open.spotify.com/album/6H4NS2GCkvTMRQNUdtj8bY) | 2:47 | 2022-07-09 |  |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-07-09 |  |

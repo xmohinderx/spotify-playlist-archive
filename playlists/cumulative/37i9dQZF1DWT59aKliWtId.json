@@ -1402,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "Desert Snow",
+        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Desert Snow",
+      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
+    },
+    {
+      "album": {
         "name": "Devil I Know",
         "url": "https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD"
       },

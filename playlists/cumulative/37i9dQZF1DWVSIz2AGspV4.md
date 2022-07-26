@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: حسام الرسام
 
-154 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+155 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 | 2022-07-04 |  |
 | [Treed Amoot ?](https://open.spotify.com/track/5NX2YtvUOAnkGPADa55RP5) | [Tayseer Al Safeer](https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa) | [Treed Amoot ?](https://open.spotify.com/album/07r7qpObINK0yR7V5UfWhS) | 3:59 | 2021-12-23 | 2022-01-15 |
 | [Wahed](https://open.spotify.com/track/7fEJ3sevHUm2dQo2fK54o5) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Wahed](https://open.spotify.com/album/468PmLXWGgd9lrNjfv5e6L) | 3:10 | 2022-02-11 | 2022-06-09 |
+| [Wahishni Shakhs](https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Wahishni Shakhs](https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm) | 3:43 | 2022-07-25 |  |
 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yusuf](https://open.spotify.com/artist/02zgHwO8Mwq86RTuXL3JXQ) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 | 2022-05-24 |  |
 | [Wakty AlSaeb](https://open.spotify.com/track/50DAvbOdTVqS0uFSOBbZ2x) | [Ahmad Alsultan](https://open.spotify.com/artist/0bi5RUX7QwU8yOVliycRz8) | [Wakty AlSaeb](https://open.spotify.com/album/3HPlvNI6bh9TROhf6REe8R) | 3:07 | 2022-03-11 | 2022-07-20 |
 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 | 2022-04-05 |  |

@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Lebza Khey, Guessmi
 
-229 songs - 11 hr 48 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
+230 songs - 11 hr 50 min - [published](https://open.spotify.com/playlist/4D4AEhD54qWlJrQjbPhrFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Matusalem](https://open.spotify.com/track/2RMo8LiuGhVaA0j8TlLbpK) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq), [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 3:42 | 2022-06-10 |  |
 | [Mauvaise Humeur](https://open.spotify.com/track/53eakKGFwVXIrpqoN7mFat) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [Gate to RLLNR](https://open.spotify.com/album/2zq2VWlpX9PI6yXe5xZ4Ab) | 2:26 | 2022-02-18 |  |
 | [Message](https://open.spotify.com/track/5PAqLkdj1eRvP6QEbm1wzF) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Message](https://open.spotify.com/album/0CQocGYtpheZuJkgcZodbF) | 2:37 | 2022-01-28 | 2022-03-18 |
-| [Message Direct](https://open.spotify.com/track/5LhYhfvvdY1wynWDk3sK2b) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Naître et Grandir](https://open.spotify.com/album/1zQo997aIZPk298Aeubdjd) | 3:12 | 2022-03-11 |  |
+| [Message Direct](https://open.spotify.com/track/5LhYhfvvdY1wynWDk3sK2b) | [SB](https://open.spotify.com/artist/6S7LxJgzPjJy87oXIMxLJG) | [Naître et Grandir](https://open.spotify.com/album/1zQo997aIZPk298Aeubdjd) | 3:12 | 2022-03-11 | 2022-07-26 |
 | [Metal](https://open.spotify.com/track/5OzHZiK7AapFqnTpAyVTNy) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Metal](https://open.spotify.com/album/0KF4OaklvypnnbPpNh5Ptt) | 3:22 | 2022-01-07 | 2022-03-23 |
 | [MICRODOSE](https://open.spotify.com/track/6ccLf6BQBxl863pP57yr3g) | [Whitie](https://open.spotify.com/artist/0i91b2mJ9VCTPDvBEmOTID) | [VITE!](https://open.spotify.com/album/7HsaVeXEfVsB6SAO3Nrcqj) | 2:09 | 2022-05-13 | 2022-07-23 |
 | [Misunderstood](https://open.spotify.com/track/6uqdKP6QZIlAaVqyZP6krW) | [DARY](https://open.spotify.com/artist/7vfo5uAqkgpHfgTW2LmSPG) | [HAINE MOI](https://open.spotify.com/album/74rD7TMXbDIRygW8MiWbjD) | 3:48 | 2022-01-21 | 2022-07-02 |
@@ -216,6 +216,7 @@
 | [Somebody](https://open.spotify.com/track/0m0zy4bOdjIHBv4AeZaQut) | [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Somebody](https://open.spotify.com/album/6ByO7HcUu9087121xRfMbm) | 3:40 | 2022-01-07 | 2022-02-05 |
 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 | 2022-01-14 | 2022-02-05 |
 | [Sous les étoiles](https://open.spotify.com/track/2kkkIDj5jtz0Owk7FbLH7d) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [Sous les étoiles](https://open.spotify.com/album/2ww313PwiVn6jHoWG4Z8yb) | 3:24 | 2022-01-07 | 2022-01-15 |
+| [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 |  |
 | [SUR MA VIE](https://open.spotify.com/track/2dy5GvWNBz0wFVmrckMRMD) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Shah Frank](https://open.spotify.com/artist/02CC6FGDalkdCUBJXAgjc8) | [SUR MA VIE](https://open.spotify.com/album/5gYnlOWSyq1vj0lxMDnFB9) | 2:48 | 2022-03-18 | 2022-04-09 |
 | [TOUJOU LAKAY](https://open.spotify.com/track/53hOZGibisDj5z7Fq9ePFW) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Tows](https://open.spotify.com/artist/0PT0yTrzxUDE7WLZr96qej) | [TOUJOU LAKAY](https://open.spotify.com/album/5hWB7wmExm1ko9U914T8eL) | 3:07 | 2022-01-28 | 2022-02-12 |
 | [Tout c'qu'on connait](https://open.spotify.com/track/6TtAhoS4K18nShC6ggUzXb) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Brxnsxn](https://open.spotify.com/artist/0U5NHWybzoxuiGX7ZtTaej) | [Trente\-trois](https://open.spotify.com/album/0PqDN5YIGonbe7XyHl1Bky) | 3:07 | 2022-01-07 | 2022-02-19 |

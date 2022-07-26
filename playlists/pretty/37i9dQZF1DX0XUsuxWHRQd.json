@@ -1,45 +1,13 @@
 {
   "description": "New music from Lil Uzi Vert, Megan Thee Stallion and Internet Money.",
-  "num_followers": 14567149,
+  "num_followers": 14568196,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDY3NzAwMDAwMTgyMjQwZmVmMDQwMDAwMDE4MjIyZThhOTBk",
+  "snapshot_id": "MTY1ODc3MDYxMCwwMDAwMDY3ODAwMDAwMTgyMzY2ZWQ4N2IwMDAwMDE4MjIyZThhOTBk",
   "tracks": [
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "SPACE CADET",
-        "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 166690,
-      "name": "SPACE CADET",
-      "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
     {
       "added_at": "2022-06-17 13:37:51",
       "album": {
@@ -61,6 +29,38 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "I KNOW",
+        "url": "https://open.spotify.com/album/0uXwRisshXdfubkYqLPiff"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 192137,
+      "name": "I KNOW",
+      "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
       "added_at": "2022-06-17 13:37:51",
       "album": {
         "name": "Distraction",
@@ -77,20 +77,24 @@
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-06-17 13:37:51",
       "album": {
-        "name": "I KNOW",
-        "url": "https://open.spotify.com/album/0uXwRisshXdfubkYqLPiff"
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         }
       ],
-      "duration_ms": 192137,
-      "name": "I KNOW",
-      "url": "https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS"
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-06-24 04:00:00",
@@ -115,6 +119,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "SPACE CADET",
+        "url": "https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 166690,
+      "name": "SPACE CADET",
+      "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
         "url": "https://open.spotify.com/album/2nJN8TOJACDkgOlhs5RplJ"
       },
@@ -135,26 +155,6 @@
       "duration_ms": 184614,
       "name": "She Want Some More (Feat. Ken Carson & Lil Tecca)",
       "url": "https://open.spotify.com/track/1IzxkqDIsmiFxTjaNdsiqn"
-    },
-    {
-      "added_at": "2022-06-17 13:37:51",
-      "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2022-06-17 13:37:51",

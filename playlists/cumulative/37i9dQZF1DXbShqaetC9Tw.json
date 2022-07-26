@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 267048,
       "name": "Antiriver",
       "url": "https://open.spotify.com/track/0RTWQfSE1s4E2eYbqnidEM"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 292305,
       "name": "apple",
       "url": "https://open.spotify.com/track/0P36tlZcXVFHmBymnFa5y7"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 241765,
       "name": "Cigarette (Feat. Tablo, MISO)",
       "url": "https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 183296,
       "name": "Don't Be Blue",
       "url": "https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 254198,
       "name": "DRUNK TALK (feat. sogumm)",
       "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 139800,
       "name": "Empty Cup",
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 183333,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/4tK8Ye9n2CMdLNLGObntax"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Far Away (Feat. H:SEAN, SWRY) (Prod. Liam K)",
       "url": "https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 186000,
       "name": "First time",
       "url": "https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 240094,
       "name": "Girl in New York (jazz)",
       "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 192628,
       "name": "I Said",
       "url": "https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Lonley Night",
       "url": "https://open.spotify.com/track/1z74DqFEFLL1ZBSu0ef6Lq"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
@@ -2086,6 +2086,28 @@
     },
     {
       "album": {
+        "name": "Spanish Restaurant",
+        "url": "https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9"
+      },
+      "artists": [
+        {
+          "name": "Austn",
+          "url": "https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i"
+        },
+        {
+          "name": "Liquor well",
+          "url": "https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spanish Restaurant (Prod. Liquor well)",
+      "url": "https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM"
+    },
+    {
+      "album": {
         "name": "l o v e",
         "url": "https://open.spotify.com/album/4BOE51OkBxuDPxT8Ka6hvr"
       },
@@ -2453,7 +2475,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 186075,
       "name": "What Should I Do",
       "url": "https://open.spotify.com/track/0OtCo7IjBx2aE9phZ1l4vw"
@@ -2645,7 +2667,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 284711,
       "name": "Zone",
       "url": "https://open.spotify.com/track/2BP2fJ2kEYNIvQeLKrd0a0"

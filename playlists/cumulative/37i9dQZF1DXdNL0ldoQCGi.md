@@ -4,7 +4,7 @@
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-88 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
+90 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/3aGLOKPh8MlI1eHVaaRScY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Senta Danadinha](https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m) | [Fillipe Dom](https://open.spotify.com/artist/0QMWLYwcO27Ypn8Qr1xJ5m), [Ruivinha de Marte](https://open.spotify.com/artist/5Xx8dipXXNS0AjPDULXA0z) | [Senta Danadinha](https://open.spotify.com/album/3i0hdb3jIlK1QNcrAnHi8k) | 3:00 | 2022-05-25 |  |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:56 | 2022-05-25 |  |
 | [Sitio do Tio Harry](https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que Eu Só Falaria Brincando](https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE) | 4:51 | 2022-05-25 |  |
+| [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 | 2022-07-25 |  |
 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 | 2022-05-25 |  |
 | [Soap](https://open.spotify.com/track/72tjRfShNhVuqUKKw44O0F) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Soap](https://open.spotify.com/album/7iUnzXQIdikXQiNpQyv7Ig) | 3:29 | 2022-05-25 |  |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-05-25 |  |
@@ -83,6 +84,7 @@
 | [Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [The Wolf of Grape Street](https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml) | 3:39 | 2022-05-25 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-05-25 |  |
 | [Swing Lynn](https://open.spotify.com/track/6hIOunhsLUT66KQgZV5dMD) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/79zUXfErg2kVJQxQ7ypEZ8) | 5:21 | 2022-05-25 |  |
+| [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 | 2022-07-25 |  |
 | [Só Rock 2](https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 3:59 | 2022-05-25 | 2022-07-21 |
 | [Tem Cabaré essa Noite](https://open.spotify.com/track/1rJFFWDXrlMS0C5JlbqFbI) | [Nivaldo Marques](https://open.spotify.com/artist/38KlCsh4vAknywZfVbJuvH), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Tem Cabaré essa Noite](https://open.spotify.com/album/7i4B4BWHpZlMGWDdtbZ0rs) | 3:22 | 2022-07-15 |  |
 | [This Could Be Us](https://open.spotify.com/track/4jTiyLlOJVJj3mCr7yfPQD) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:26 | 2022-05-25 |  |

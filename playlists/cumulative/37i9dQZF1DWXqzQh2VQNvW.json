@@ -706,6 +706,28 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3LgYJcq5rLlKX8lJUKnqQa"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144169,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0TGIw5lMfCjMhFZN7z43uk"
+    },
+    {
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt"
       },
@@ -2317,7 +2339,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 162899,
       "name": "So What",
       "url": "https://open.spotify.com/track/3HXcLxLeZjBxuRNNVb8mzt"

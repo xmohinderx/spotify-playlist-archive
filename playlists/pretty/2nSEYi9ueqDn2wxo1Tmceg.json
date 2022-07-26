@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78812,
+  "num_followers": 78805,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzQ5NSwxYTFhYjVjNWU3YTFhMTQ1YTcxOTdjMzBhNzliYjgyNGY2OTUxMzQ1",
+  "snapshot_id": "MzQ5Niw0MjI3MzczN2Y5MDk0ZGRmZmZkZTI1NjM4NmU3NWRhYTEwOTMyYTRk",
   "tracks": [
+    {
+      "added_at": "2022-07-25 14:39:04",
+      "album": {
+        "name": "All These Things",
+        "url": "https://open.spotify.com/album/2X2wOUf1d0tdAxWMN6U3sm"
+      },
+      "artists": [
+        {
+          "name": "DC Gore",
+          "url": "https://open.spotify.com/artist/6Z9iK220pst9ExbutivPI6"
+        }
+      ],
+      "duration_ms": 270316,
+      "name": "All These Things",
+      "url": "https://open.spotify.com/track/5k0FUO0GmHOELaM8tJlmjP"
+    },
     {
       "added_at": "2022-07-21 12:59:00",
       "album": {

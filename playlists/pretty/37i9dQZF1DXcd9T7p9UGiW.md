@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY?si=4V\_liDJvSpe6DXXQphkByw" > Kooldrink </a>, <a href="https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE?si=EAYyf3K3TUGuwPe03mDZPQ" > Aluna </a> and <a href="https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=taeeJF3QSNWS53KJhJDKRA" > Prettyboy D\-O </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,445 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,468 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Rawan Bin Hussain.
 
-72 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+73 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Rfi2it Albi](https://open.spotify.com/track/1Z5JztzNkHe0OEm5Hyr9BJ) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Rfi2it Albi](https://open.spotify.com/album/31IqjAVtCZOUsxGs4jR7YS) | 3:46 | 2022-07-16 |  |
 | [Saet Ramel](https://open.spotify.com/track/1w7gIItudYNNhP6Aq07oPA) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Saet Ramel](https://open.spotify.com/album/4SNrpzI2euaUL34MKkkohJ) | 3:39 | 2022-06-20 |  |
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2022-05-04 | 2022-07-17 |
+| [Set El Kel](https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Set El Kel](https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s) | 3:18 | 2022-07-25 |  |
 | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/track/554c9cCoZ0jRhHxgiMCraE) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [Wessam Qutob](https://open.spotify.com/artist/1SPocxtvn6FfdFayQ8DBO2) | [Tan Tan \(feat\. Wessam Qutob\)](https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu) | 2:38 | 2022-05-17 |  |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 |  |
 | [TiTi](https://open.spotify.com/track/4LoPkMbA7F5byELSc0MAKs) | [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [TiTi](https://open.spotify.com/album/79fKBMc13jQkrxJ9aQJeUj) | 3:17 | 2022-07-04 |  |

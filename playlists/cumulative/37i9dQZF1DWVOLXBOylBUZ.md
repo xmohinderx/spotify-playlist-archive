@@ -2,9 +2,9 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Darell y Sech tienen el ritmo que mueve Latinoamérica.
+> Aleman, Jesse Baez y Milkman tienen el ritmo que mueve Latinoamérica.
 
-263 songs - 14 hr 38 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
+264 songs - 14 hr 44 min - [published](https://open.spotify.com/playlist/3K8lWo1A5PGXtJdAZf1WiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2010](https://open.spotify.com/track/6XHBJ1LSOcVINYXAAd6KIH) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-01 |  |
 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 | 2022-01-07 | 2022-07-01 |
 | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK) | 4:49 | 2022-04-29 |  |
+| [6 en Mi Rollie](https://open.spotify.com/track/7AurrfdK4RKjueAKkZN2RF) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Milkman](https://open.spotify.com/artist/2gCxvlres3z6ondwnlwZc2), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [6 en Mi Rollie](https://open.spotify.com/album/6wJfXfTluFA3XhFdshg8Cz) | 5:25 | 2022-07-25 |  |
 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 | 2022-06-30 |  |
 | [A Veces](https://open.spotify.com/track/3aZx00h5NlPzmfTPuVplJ5) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [A Veces](https://open.spotify.com/album/6Sj3PLu88SCbUgkm8KlXDu) | 3:46 | 2022-01-07 | 2022-03-12 |
 | [After Party](https://open.spotify.com/track/5px2CcFnmRJecJMNPYz4Io) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [After Party](https://open.spotify.com/album/1On0NRpliRWFNf1lI6hL7h) | 3:29 | 2022-02-04 | 2022-07-09 |
@@ -246,7 +247,7 @@
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-14 | 2022-05-11 |
 | [TOP MODEL](https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [TOP MODEL](https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij) | 3:08 | 2022-03-04 | 2022-06-11 |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-07-15 |  |
-| [Tudo Nosso](https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:48 | 2022-06-17 |  |
+| [Tudo Nosso](https://open.spotify.com/track/5qtQJJqJUjk2zNjRroqgLk) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:48 | 2022-06-17 | 2022-07-26 |
 | [TUS FALLOS](https://open.spotify.com/track/1Q5ccy6FsY9LIrXebNYOXF) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [El Tachi](https://open.spotify.com/artist/18rdlyUjloy7fRK1g62tUt) | [NOW OR NEVER](https://open.spotify.com/album/6Acc7psb5dKniQEOBBtl5x) | 6:24 | 2022-03-04 | 2022-05-14 |
 | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/track/1I9nceRI1bSCE4QYiltuI3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [Tus Fotos \(with Javiielo\)](https://open.spotify.com/album/0DSdxX7PSym9rzdrhypsMr) | 3:01 | 2022-01-07 | 2022-02-19 |
 | [Tóxico](https://open.spotify.com/track/42JYxlcwegYRJr4IZ0k0Lm) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 3:18 | 2022-03-11 | 2022-06-11 |

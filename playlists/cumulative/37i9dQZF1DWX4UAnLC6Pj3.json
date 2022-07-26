@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 210373,
       "name": "A La Inversa",
       "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 205125,
       "name": "Chingas A Tu Madre",
       "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 186233,
       "name": "Conflicto de quererte - Banda",
       "url": "https://open.spotify.com/track/5qwV4ONmc2UlO1GNTMzpcl"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 139000,
       "name": "De Lo M\u00e1s Interesante - En Vivo",
       "url": "https://open.spotify.com/track/11bCxgcltxjDErax0lBmKi"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 202013,
       "name": "Esta Noche Se Me Olvida",
       "url": "https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 250794,
       "name": "Hasta La Miel Amarga - En Vivo",
       "url": "https://open.spotify.com/track/5Zr38rWgjHMe3zSwvsmFD1"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 177631,
       "name": "Me equivoqu\u00e9 en amarte",
       "url": "https://open.spotify.com/track/6qa5GVhxSmDsoJF5o8dnrt"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 1187749,
       "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
       "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 205026,
       "name": "Mira C\u00f3mo Me Dejaste",
       "url": "https://open.spotify.com/track/1qsXhzldNXZDGEABxc6Abk"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 182093,
       "name": "Nimodo",
       "url": "https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq"
@@ -1600,6 +1600,24 @@
     },
     {
       "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "album": {
         "name": "Vivir La Vida",
         "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
       },
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 247920,
       "name": "Ponle Que S\u00ed",
       "url": "https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 182686,
       "name": "Soldado Ca\u00eddo",
       "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 254893,
       "name": "Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/0KcuXF5liGbs6JXsvZ7Y04"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 155453,
       "name": "T\u00fa Y Mi Ex",
       "url": "https://open.spotify.com/track/4H3vMhKCS8wn1lJdcwYiBV"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 186305,
       "name": "Ya Lo Pens\u00e9 Mejor",
       "url": "https://open.spotify.com/track/3JNSvYlS3VnGJaaYbRmj2J"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"

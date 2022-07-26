@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/671qYsHx1DL1pNn3qxYg60"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 150881,
       "name": "ALL MY SHIT IS STUPID",
       "url": "https://open.spotify.com/track/0ufPmpaJmxYQbjJ0b2Ggje"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 202560,
       "name": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
       "url": "https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9"
@@ -1073,7 +1073,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 185924,
       "name": "Black Iverson",
       "url": "https://open.spotify.com/track/3sLNEWdnPH6ML05Z8wFZhM"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
@@ -2268,6 +2268,24 @@
     },
     {
       "album": {
+        "name": "DRIFTING IN TOKYO",
+        "url": "https://open.spotify.com/album/5m12NwPnvohoM6LjHoWG4e"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108351,
+      "name": "DRIFTING IN TOKYO",
+      "url": "https://open.spotify.com/track/0T3OiQe1lrZX5x42ahvejW"
+    },
+    {
+      "album": {
         "name": "Pretty In Black",
         "url": "https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi"
       },
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 206837,
       "name": "Flights",
       "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 140601,
       "name": "Goin Up",
       "url": "https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb"
@@ -3493,7 +3511,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 125498,
       "name": "Hit",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 207213,
       "name": "KEEP IT BURNIN (feat. Kanye West)",
       "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
@@ -4877,7 +4895,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 177840,
       "name": "Look Ma I Did It",
       "url": "https://open.spotify.com/track/11AfL8OrGWV8KYNSzuRDsr"
@@ -4903,7 +4921,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 174862,
       "name": "Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",
       "url": "https://open.spotify.com/track/5x8NgG7Ya18m9wafOvvWYk"
@@ -6351,7 +6369,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 204528,
       "name": "Pose (feat. Wiz Khalifa & Curren$y)",
       "url": "https://open.spotify.com/track/1EaEXPXlb3Xp19Aj3Nw8v1"
@@ -7109,7 +7127,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 217635,
       "name": "Set It Up",
       "url": "https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF"
@@ -7495,7 +7513,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 195629,
       "name": "So.Incredible.pkg [Robert Glasper Version Feat. Smino]",
       "url": "https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz"
@@ -8071,7 +8089,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/5Unr6WoYvsnGYo3NazmkW4"
@@ -9241,7 +9259,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 143248,
       "name": "With The Villains",
       "url": "https://open.spotify.com/track/6NLT5ioKnvVuFLrumNlmvy"

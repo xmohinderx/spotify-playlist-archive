@@ -4,7 +4,7 @@
 
 > 125%
 
-54 songs - 2 hr 17 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
+55 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/2G3OqMZbrNC2ergi0aOh3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [nina \(sped up\)](https://open.spotify.com/track/0OvIG0LWT4Wu21PR5plYL8) | [4everd4nny](https://open.spotify.com/artist/5ycCQZx5Go6Hqcg1iHzsdu) | [nina](https://open.spotify.com/album/45XlVtRzkFnM59zSqj5Mfi) | 1:15 | 2022-06-09 |  |
 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 | 2022-06-09 |  |
 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 | 2022-06-09 |  |
+| [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-07-25 |  |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-24 |  |
 | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/track/3TK0rB4H4oKHjf1l3Dteop) | [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [prolly my spookiest beat \(sped up\)](https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV) | 2:00 | 2022-06-09 |  |
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-06-09 |  |

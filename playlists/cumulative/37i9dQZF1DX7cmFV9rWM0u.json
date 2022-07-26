@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 128412,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1pHszNnAUuIjwF43bhtnlS"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 212416,
       "name": "EL PONY",
       "url": "https://open.spotify.com/track/3ymdUMzgylwrSfpxdlCUWV"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 230480,
       "name": "GOTA GOTA",
       "url": "https://open.spotify.com/track/1oBbet1xcWpWgOw2Ddzsaj"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 173693,
       "name": "Mala (feat. Becky G & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/2uib8nytX63WABzJ3KJYYy"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 151573,
       "name": "Nivel De Perreo",
       "url": "https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/0v2wlFNQNaA5O1Q5avy9MA"
@@ -1859,6 +1859,28 @@
       "duration_ms": 148893,
       "name": "Quema",
       "url": "https://open.spotify.com/track/4GB6Zuky9AApmZN6gm7lHo"
+    },
+    {
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
       "album": {

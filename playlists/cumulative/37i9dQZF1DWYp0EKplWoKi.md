@@ -4,7 +4,7 @@
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Ingratax & Banda MS León en portada.
 
-50 songs - 2 hr 44 min - not published yet
+50 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/12peez7nV9NUKo6SrNqY8h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

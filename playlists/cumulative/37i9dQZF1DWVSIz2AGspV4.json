@@ -2516,6 +2516,24 @@
     },
     {
       "album": {
+        "name": "Wahishni Shakhs",
+        "url": "https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm"
+      },
+      "artists": [
+        {
+          "name": "Diana Haddad",
+          "url": "https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223742,
+      "name": "Wahishni Shakhs",
+      "url": "https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A"
+    },
+    {
+      "album": {
         "name": "Waiak",
         "url": "https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y"
       },

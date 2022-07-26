@@ -508,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Toddler Party",
+        "url": "https://open.spotify.com/album/3hbh5avYBFVOQ3y3gCHL21"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123475,
+      "name": "Looby Loo - Toddler Version",
+      "url": "https://open.spotify.com/track/17ae6ayN7KxVK78VXXRwAT"
+    },
+    {
+      "album": {
         "name": "You'll Sing a Song and I'll Sing a Song",
         "url": "https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dZ7oW0l88P.md) - [plain]
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,324 likes - 81 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,424 likes - 81 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

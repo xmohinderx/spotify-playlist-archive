@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-103 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
+105 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/3HIzMT3q1KCJeS8LLq1zbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Gather Round](https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b) | [Rise Up, Sing Out \- Cast](https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Rise Up, Sing Out](https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U) | 1:55 | 2022-04-15 |  |
 | [Getting The Job Done](https://open.spotify.com/track/7LHPkrPgSFKyGO6Ru6tdDu) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 3:39 | 2022-04-15 |  |
 | [Give It A Go](https://open.spotify.com/track/0CG2r1WDiKLavxhlZ9LExa) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Give It A Go](https://open.spotify.com/album/2IRd6LarlRvkwcigpP0PXr) | 1:33 | 2022-04-15 |  |
+| [Goin' To A Birthday](https://open.spotify.com/track/2rtz0CHDt2RwOYqXBwDqN6) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Goin' To A Birthday](https://open.spotify.com/album/5IRiwsbsT3p0lj2GenF7q8) | 2:47 | 2022-07-25 |  |
 | [Going Down the Road](https://open.spotify.com/track/5Zi9xsUSXdBWSMTtn4N9uC) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Anna Jacobson](https://open.spotify.com/artist/2qKjgJ5wQxbSmqdjVabMlL) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:51 | 2022-04-15 |  |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2022-04-15 |  |
 | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/track/5XYNCCkYoFLegWZcQU9ecn) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Good Tonight \(from The Bad Guys\)](https://open.spotify.com/album/3EV8GtPveYRG4GB2aUHznk) | 3:41 | 2022-04-15 |  |
@@ -94,6 +95,7 @@
 | [Take You With Me](https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:28 | 2022-04-15 |  |
 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 | 2022-04-15 |  |
 | [The Coolest Person](https://open.spotify.com/track/2m7NtrQMIghZEUgsRVwjQV) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 3:14 | 2022-04-15 |  |
+| [The Lucky One](https://open.spotify.com/track/48rA2haWWYLdLIlsPMck1k) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [The Lucky One](https://open.spotify.com/album/1haZSJC7WyeclZe3Hes4UX) | 3:39 | 2022-07-25 |  |
 | [The Road to Gettin' Better \(Is Not a Straight Line\)](https://open.spotify.com/track/6Pyfervdg8n1gKIoodYvjd) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq) | [The Road to Gettin' Better](https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC) | 2:52 | 2022-04-15 |  |
 | [The Word is Love](https://open.spotify.com/track/7lqd7pWvJgsCdyecGibcAy) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [The Word is Love](https://open.spotify.com/album/47FJMtS7LjWDAUD1r7ErEr) | 3:29 | 2022-04-15 |  |
 | [They're My Best Friend](https://open.spotify.com/track/76e4Y6ZjidFjQxqGHbwBgY) | [Ants on a Log](https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g) | [They're My Best Friend](https://open.spotify.com/album/77NL4EMlY4zMUn3OnhmmLL) | 2:12 | 2022-04-15 |  |

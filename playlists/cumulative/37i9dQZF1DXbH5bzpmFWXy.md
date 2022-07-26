@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Los Gemelos de Sinaloa en portada.
 
-75 songs - 4 hr 14 min - not published yet
+75 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/2tqsxTYWGTldl03rJgOBmK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

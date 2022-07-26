@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Matisse en portada.
 
-50 songs - 2 hr 41 min - not published yet
+50 songs - 2 hr 41 min - [published](https://open.spotify.com/playlist/6lzkBGs5tbsK4vIYinar7T)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

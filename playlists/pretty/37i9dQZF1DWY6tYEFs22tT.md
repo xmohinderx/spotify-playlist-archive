@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > New music from Central Cee, Megan Thee Stallion and Lil Uzi Vert is here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,764 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,798 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

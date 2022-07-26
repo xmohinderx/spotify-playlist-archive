@@ -1,12 +1,12 @@
 {
   "description": "Lu\u00edsa Sonza e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 121127,
+  "num_followers": 121204,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMjE1MiwwMDAwMDAwMDRiMzU4NzBjZjkxN2M0ZGQ1MmM1MzA4ZThlNmM2YWQy",
+  "snapshot_id": "MTY1ODc5ODg1OCwwMDAwMDAwMDQzNjQwZDg2YzJhYzdkYjgyZWUxN2QyYzkxMTM4OWY5",
   "tracks": [
     {
       "added_at": "2022-07-19 00:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Voc\u00ea Aprendeu A Amar?",
-        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
+        "name": "GRACINHA",
+        "url": "https://open.spotify.com/album/0Nf3vjP7Uxtnyxt3GTibrS"
       },
       "artists": [
         {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
         }
       ],
-      "duration_ms": 181434,
-      "name": "Tem Dias",
-      "url": "https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA"
+      "duration_ms": 177010,
+      "name": "sub.ver.si.va",
+      "url": "https://open.spotify.com/track/5LI9Jc5HDi6d3oPrwTG2gZ"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -195,18 +195,30 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Dar Uma Deitchada",
-        "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
+        "name": "Barbie (feat. Danny Bond)",
+        "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
         }
       ],
-      "duration_ms": 192614,
-      "name": "Dar Uma Deitchada",
-      "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
+      "duration_ms": 149514,
+      "name": "Barbie (feat. Danny Bond)",
+      "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -231,22 +243,6 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
       },
@@ -259,6 +255,22 @@
       "duration_ms": 185400,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -299,62 +311,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Barbie (feat. Danny Bond)",
-        "url": "https://open.spotify.com/album/03moNbXmuuAef0MTJt6Xdx"
+        "name": "\u00c9den",
+        "url": "https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18"
       },
       "artists": [
         {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
         }
       ],
-      "duration_ms": 149514,
-      "name": "Barbie (feat. Danny Bond)",
-      "url": "https://open.spotify.com/track/05pd6p3qKhZddaEX9tUZV4"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "GRACINHA",
-        "url": "https://open.spotify.com/album/0Nf3vjP7Uxtnyxt3GTibrS"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 177010,
-      "name": "sub.ver.si.va",
-      "url": "https://open.spotify.com/track/5LI9Jc5HDi6d3oPrwTG2gZ"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Meu Pis\u00earo",
-      "url": "https://open.spotify.com/track/2vaRBe7rRW8dBszITsPzYU"
+      "duration_ms": 178738,
+      "name": "\u00c9den",
+      "url": "https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -375,6 +343,38 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
+        "name": "Voc\u00ea Aprendeu A Amar?",
+        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 181434,
+      "name": "Tem Dias",
+      "url": "https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "AINDA",
+        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 128470,
+      "name": "AINDA",
+      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -387,6 +387,38 @@
       "duration_ms": 141284,
       "name": "Beijo De Judas",
       "url": "https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 198895,
+      "name": "Voltei Pra Mim",
+      "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 199813,
+      "name": "Meu Pis\u00earo",
+      "url": "https://open.spotify.com/track/2vaRBe7rRW8dBszITsPzYU"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -411,38 +443,6 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Voc\u00ea Aprendeu A Amar?",
-        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 185821,
-      "name": "Voc\u00ea \u00c9 Um Perigo",
-      "url": "https://open.spotify.com/track/1V9ON0iJZSpcmGPQUZ58Qd"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 198895,
-      "name": "Voltei Pra Mim",
-      "url": "https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "\u00c9den",
-        "url": "https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18"
+        "name": "Voc\u00ea Aprendeu A Amar?",
+        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 178738,
-      "name": "\u00c9den",
-      "url": "https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO"
+      "duration_ms": 185821,
+      "name": "Voc\u00ea \u00c9 Um Perigo",
+      "url": "https://open.spotify.com/track/1V9ON0iJZSpcmGPQUZ58Qd"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -507,42 +507,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "AINDA",
-        "url": "https://open.spotify.com/album/7vNhEXnxTFxeSDbWgLViMC"
+        "name": "Arlequina",
+        "url": "https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+          "name": "Tain\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
         }
       ],
-      "duration_ms": 128470,
-      "name": "AINDA",
-      "url": "https://open.spotify.com/track/3VNrud6PPcf7y0Eg7PpOZe"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "\u00c9 Por Isso Que Sofre",
-        "url": "https://open.spotify.com/album/1cFi8zDpJSo4q792NnYfz0"
-      },
-      "artists": [
-        {
-          "name": "Dj Batata",
-          "url": "https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au"
-        },
-        {
-          "name": "Tati Quebra Barraco",
-          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
-        },
-        {
-          "name": "B\u00e1rbara Labres",
-          "url": "https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "\u00c9 Por Isso Que Sofre",
-      "url": "https://open.spotify.com/track/2wjTTRCmCeaNrpFG4YVsFy"
+      "duration_ms": 132838,
+      "name": "Arlequina",
+      "url": "https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -563,30 +539,6 @@
       "duration_ms": 182923,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Sonhei",
-        "url": "https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o"
-      },
-      "artists": [
-        {
-          "name": "Gabily",
-          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
-        },
-        {
-          "name": "DJ 2F",
-          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 145250,
-      "name": "Sonhei",
-      "url": "https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -623,18 +575,90 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Arlequina",
-        "url": "https://open.spotify.com/album/0kB3TWtIvZsCEIDNDzYjfw"
+        "name": "Dar Uma Deitchada",
+        "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
       },
       "artists": [
         {
-          "name": "Tain\u00e1 Costa",
-          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 132838,
-      "name": "Arlequina",
-      "url": "https://open.spotify.com/track/5UopFUJV8gWYr6od8KntK4"
+      "duration_ms": 192614,
+      "name": "Dar Uma Deitchada",
+      "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Bruta",
+        "url": "https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Bruta",
+      "url": "https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "\u00c9 Por Isso Que Sofre",
+        "url": "https://open.spotify.com/album/1cFi8zDpJSo4q792NnYfz0"
+      },
+      "artists": [
+        {
+          "name": "Dj Batata",
+          "url": "https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au"
+        },
+        {
+          "name": "Tati Quebra Barraco",
+          "url": "https://open.spotify.com/artist/3CuWYvDpKC3HVLru1CPGts"
+        },
+        {
+          "name": "B\u00e1rbara Labres",
+          "url": "https://open.spotify.com/artist/0trHMgCbRohjsr2uzM6scS"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "\u00c9 Por Isso Que Sofre",
+      "url": "https://open.spotify.com/track/2wjTTRCmCeaNrpFG4YVsFy"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "Tropa das Malvadinhas",
+        "url": "https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q"
+      },
+      "artists": [
+        {
+          "name": "Lara Silva",
+          "url": "https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Tropa das Malvadinhas",
+      "url": "https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "F\u00daRIA PT1",
+        "url": "https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ"
+      },
+      "artists": [
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Racha",
+      "url": "https://open.spotify.com/track/0i6oeAMzpqkcgp5rSjtPZf"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -667,34 +691,26 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "F\u00daRIA PT1",
-        "url": "https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ"
+        "name": "Sonhei",
+        "url": "https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o"
       },
       "artists": [
         {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Racha",
-      "url": "https://open.spotify.com/track/0i6oeAMzpqkcgp5rSjtPZf"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Tropa das Malvadinhas",
-        "url": "https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q"
-      },
-      "artists": [
+          "name": "Gabily",
+          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+        },
         {
-          "name": "Lara Silva",
-          "url": "https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT"
+          "name": "DJ 2F",
+          "url": "https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
         }
       ],
-      "duration_ms": 145600,
-      "name": "Tropa das Malvadinhas",
-      "url": "https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs"
+      "duration_ms": 145250,
+      "name": "Sonhei",
+      "url": "https://open.spotify.com/track/6XWgL4qDssu4jpE8nACtcp"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -715,66 +731,18 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "PPK",
-        "url": "https://open.spotify.com/album/5ktEOdI85D9b7lriLMC83o"
+        "name": "Perdeu",
+        "url": "https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX"
       },
       "artists": [
         {
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
         }
       ],
-      "duration_ms": 140495,
-      "name": "PPK",
-      "url": "https://open.spotify.com/track/51kIcTMf2Y7gcTLRuvGhWc"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "N\u00famero 1",
-        "url": "https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3"
-      },
-      "artists": [
-        {
-          "name": "Carolzinha",
-          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "Tain\u00e1 Costa",
-          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
-        }
-      ],
-      "duration_ms": 123303,
-      "name": "N\u00famero 1",
-      "url": "https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Pontinho Indecente",
-        "url": "https://open.spotify.com/album/2yaaprhWkCv8u5p4dkv7Kh"
-      },
-      "artists": [
-        {
-          "name": "Gabily",
-          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        }
-      ],
-      "duration_ms": 140992,
-      "name": "Pontinho Indecente",
-      "url": "https://open.spotify.com/track/1A4F3Lpva1NbGQIGhwc5Il"
+      "duration_ms": 126857,
+      "name": "Perdeu",
+      "url": "https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -807,6 +775,46 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
+        "name": "Embalagem",
+        "url": "https://open.spotify.com/album/0kUH8BTiWf2b1xu4sLkIcI"
+      },
+      "artists": [
+        {
+          "name": "Carolzinha",
+          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
+        },
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Embalagem",
+      "url": "https://open.spotify.com/track/0YT1YdhHUTiltVHzwtDRpx"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "PPK",
+        "url": "https://open.spotify.com/album/5ktEOdI85D9b7lriLMC83o"
+      },
+      "artists": [
+        {
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "PPK",
+      "url": "https://open.spotify.com/track/51kIcTMf2Y7gcTLRuvGhWc"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
       },
@@ -823,34 +831,26 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
-        "name": "Perdeu",
-        "url": "https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX"
+        "name": "Pontinho Indecente",
+        "url": "https://open.spotify.com/album/2yaaprhWkCv8u5p4dkv7Kh"
       },
       "artists": [
         {
-          "name": "Pepita",
-          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Perdeu",
-      "url": "https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Bruta",
-        "url": "https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep"
-      },
-      "artists": [
+          "name": "Gabily",
+          "url": "https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz"
+        },
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
         }
       ],
-      "duration_ms": 136888,
-      "name": "Bruta",
-      "url": "https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY"
+      "duration_ms": 140992,
+      "name": "Pontinho Indecente",
+      "url": "https://open.spotify.com/track/1A4F3Lpva1NbGQIGhwc5Il"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -879,6 +879,50 @@
       "duration_ms": 156366,
       "name": "Me Come e Some",
       "url": "https://open.spotify.com/track/7Fp4SHrl8yqek0wSbWFYmo"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "B\u00c1RBARA",
+        "url": "https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi"
+      },
+      "artists": [
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "duration_ms": 142101,
+      "name": "TODOS OLHOS EM MIM",
+      "url": "https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
+        "name": "N\u00famero 1",
+        "url": "https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3"
+      },
+      "artists": [
+        {
+          "name": "Carolzinha",
+          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
+        },
+        {
+          "name": "Carol & Vitoria",
+          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
+        },
+        {
+          "name": "Tain\u00e1 Costa",
+          "url": "https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83"
+        }
+      ],
+      "duration_ms": 123303,
+      "name": "N\u00famero 1",
+      "url": "https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU"
     },
     {
       "added_at": "2022-07-19 00:00:00",
@@ -915,50 +959,6 @@
       "duration_ms": 139636,
       "name": "Revoar",
       "url": "https://open.spotify.com/track/4IGCXMbnJYWhj8P4UTtxkW"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "B\u00c1RBARA",
-        "url": "https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi"
-      },
-      "artists": [
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
-        }
-      ],
-      "duration_ms": 142101,
-      "name": "TODOS OLHOS EM MIM",
-      "url": "https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Embalagem",
-        "url": "https://open.spotify.com/album/0kUH8BTiWf2b1xu4sLkIcI"
-      },
-      "artists": [
-        {
-          "name": "Carolzinha",
-          "url": "https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN"
-        },
-        {
-          "name": "Carol & Vitoria",
-          "url": "https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "Embalagem",
-      "url": "https://open.spotify.com/track/0YT1YdhHUTiltVHzwtDRpx"
     }
   ],
   "unique_name": "EQUAL Brasil",

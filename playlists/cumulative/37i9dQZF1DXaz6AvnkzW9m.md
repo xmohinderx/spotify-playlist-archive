@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Grupo Diez 4Tro & Los Del Cristo en portada.
 
-74 songs - 3 hr 53 min - not published yet
+74 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/1sfh6zrW4xImGR0arizLIx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

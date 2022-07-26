@@ -1,15 +1,35 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 8531,
+  "num_followers": 8566,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MzczNCwwMDAwMDA0MTAwMDAwMTgyMjU1NTc3NDEwMDAwMDE3N2JiMDQ3ZThk",
+  "snapshot_id": "MTY1ODczMDMwMywwMDAwMDA0MjAwMDAwMTgyMzQwN2NmYjEwMDAwMDE3N2JiMDQ3ZThk",
   "tracks": [
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-07-25 06:25:03",
       "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
@@ -18,35 +38,31 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
+      "duration_ms": 216992,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/3PEkfP69a7aMMb8yI7PD88"
     },
     {
-      "added_at": "2021-11-25 23:01:00",
+      "added_at": "2022-03-03 23:00:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg"
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
       },
       "artists": [
         {
-          "name": "Niphkeys",
-          "url": "https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         },
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP"
+      "duration_ms": 151764,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -73,6 +89,42 @@
       "url": "https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp"
     },
     {
+      "added_at": "2022-06-13 13:24:38",
+      "album": {
+        "name": "Adulthood Anthem",
+        "url": "https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky"
+      },
+      "artists": [
+        {
+          "name": "Lad\u00e9",
+          "url": "https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1"
+        }
+      ],
+      "duration_ms": 164271,
+      "name": "Adulthood Anthem",
+      "url": "https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ"
+    },
+    {
+      "added_at": "2022-06-03 03:55:07",
+      "album": {
+        "name": "Come & Go (Black Sherif Remix)",
+        "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 179580,
+      "name": "Come & Go - Black Sherif Remix",
+      "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+    },
+    {
       "added_at": "2022-07-22 04:30:31",
       "album": {
         "name": "Kenkele",
@@ -93,26 +145,6 @@
       "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
     },
     {
-      "added_at": "2022-03-03 23:00:00",
-      "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Big Energy",
@@ -129,26 +161,6 @@
       "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Bandana",
-        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
-    },
-    {
       "added_at": "2021-07-05 06:40:30",
       "album": {
         "name": "Twice As Tall",
@@ -163,6 +175,58 @@
       "duration_ms": 245920,
       "name": "23",
       "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
+    },
+    {
+      "added_at": "2021-07-05 06:40:30",
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": "2021-10-08 04:36:00",
+      "album": {
+        "name": "Ale Yi",
+        "url": "https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz"
+    },
+    {
+      "added_at": "2021-07-05 06:40:30",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": "2022-07-13 06:32:10",
@@ -201,22 +265,6 @@
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
-      "added_at": "2022-06-13 13:24:38",
-      "album": {
-        "name": "Adulthood Anthem",
-        "url": "https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky"
-      },
-      "artists": [
-        {
-          "name": "Lad\u00e9",
-          "url": "https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1"
-        }
-      ],
-      "duration_ms": 164271,
-      "name": "Adulthood Anthem",
-      "url": "https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ"
-    },
-    {
       "added_at": "2022-02-17 23:00:00",
       "album": {
         "name": "Try",
@@ -233,6 +281,26 @@
       "url": "https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4"
     },
     {
+      "added_at": "2021-10-01 05:40:45",
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
       "added_at": "2022-07-14 23:00:00",
       "album": {
         "name": "Boy Alone",
@@ -247,6 +315,38 @@
       "duration_ms": 83723,
       "name": "recognize",
       "url": "https://open.spotify.com/track/0Gau6IPCHj9yrJeOyCLVKv"
+    },
+    {
+      "added_at": "2021-10-28 23:00:00",
+      "album": {
+        "name": "Never Stopped",
+        "url": "https://open.spotify.com/album/7pAbZg7Iz6TV2QAytP1mBv"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 193199,
+      "name": "Never Stopped",
+      "url": "https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY"
+    },
+    {
+      "added_at": "2021-07-05 06:40:30",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
     },
     {
       "added_at": "2022-07-22 04:30:31",
@@ -279,22 +379,6 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Cold Store",
-        "url": "https://open.spotify.com/album/0Ub4pjqm0vVFuTB33kvc7t"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 202788,
-      "name": "Cold Store",
-      "url": "https://open.spotify.com/track/4nuWbYtpBbVEk3cEd9GqXH"
     },
     {
       "added_at": "2022-01-10 14:02:04",
@@ -377,24 +461,24 @@
       "url": "https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY"
     },
     {
-      "added_at": "2022-06-03 03:55:07",
+      "added_at": "2022-07-07 23:00:00",
       "album": {
-        "name": "Come & Go (Black Sherif Remix)",
-        "url": "https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
       "artists": [
         {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 179580,
-      "name": "Come & Go - Black Sherif Remix",
-      "url": "https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh"
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki"
     },
     {
       "added_at": "2022-07-22 04:30:31",
@@ -447,26 +531,6 @@
       "duration_ms": 210000,
       "name": "Sungba (feat. Burna Boy) - Remix",
       "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
-    },
-    {
-      "added_at": "2021-10-01 05:40:45",
-      "album": {
-        "name": "Want It All (feat. Polo G)",
-        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Want It All (feat. Polo G)",
-      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
     },
     {
       "added_at": "2022-07-22 04:30:31",
@@ -603,22 +667,6 @@
       "duration_ms": 209264,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/3vWfYFzMoHkioV6sx35n6L"
-    },
-    {
-      "added_at": "2021-07-05 06:40:30",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": "2022-07-22 09:55:34",
@@ -805,22 +853,6 @@
       "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
     },
     {
-      "added_at": "2021-07-05 06:40:30",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
-    },
-    {
       "added_at": "2021-12-09 23:01:00",
       "album": {
         "name": "Personal",
@@ -949,22 +981,6 @@
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
-      "added_at": "2021-10-08 04:36:00",
-      "album": {
-        "name": "Ale Yi",
-        "url": "https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/7G4q3FqZSngbAxGcyyHXlz"
-    },
-    {
       "added_at": "2021-08-10 05:47:56",
       "album": {
         "name": "Money Bag",
@@ -979,22 +995,6 @@
       "duration_ms": 156634,
       "name": "Money Bag",
       "url": "https://open.spotify.com/track/7zNxJelOT54ax0bLw21qDJ"
-    },
-    {
-      "added_at": "2021-10-28 23:00:00",
-      "album": {
-        "name": "Never Stopped",
-        "url": "https://open.spotify.com/album/7pAbZg7Iz6TV2QAytP1mBv"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 193199,
-      "name": "Never Stopped",
-      "url": "https://open.spotify.com/track/7dkfbGHwMS6rt26cda0BUY"
     },
     {
       "added_at": "2022-01-20 23:00:00",
@@ -1031,26 +1031,6 @@
       "duration_ms": 178064,
       "name": "Pray 2 The East (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
-    },
-    {
-      "added_at": "2021-07-05 06:40:30",
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": "2022-04-28 23:00:00",

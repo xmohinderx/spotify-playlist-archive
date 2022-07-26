@@ -4,11 +4,12 @@
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-72 songs - 2 hr 36 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
+73 songs - 2 hr 38 min - [published](https://open.spotify.com/playlist/0eSlqedljXbl1Hpa924LIm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Little Kittens](https://open.spotify.com/track/1vfU3WHUOQVZYCVCJ9ha1Z) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Bounce, Sing, Learn, Sing](https://open.spotify.com/album/5Lh1JNy8pXh7tWOO17TbEG) | 2:23 | 2022-01-14 |  |
+| [10 Little Pets](https://open.spotify.com/track/68WqoavXTIF0FptindhfK8) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Counting with Animals](https://open.spotify.com/album/0SrUMzeeXRctzQupylcVDo) | 1:55 | 2022-07-25 |  |
 | [Bad Kitty](https://open.spotify.com/track/1fp4rbxkUTDX9rOYFyXeuL) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 3:01 | 2022-02-08 |  |
 | [Bingo \- Sing with Me](https://open.spotify.com/track/5UQto7aS4Y37S7AqwKSp8D) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [50 Littlebabybum Nursery Rhyme Hits!](https://open.spotify.com/album/5stqHEn79uKd3F3OrOO9D8) | 1:56 | 2022-01-14 |  |
 | [Can You Hear the Doggie?](https://open.spotify.com/track/0GoAwQGcrWFgaJu5yasDZO) | [The Sticker Club](https://open.spotify.com/artist/1Zn205TqWmfazNWJ65nGrs) | [Scratch 'N' Sniff](https://open.spotify.com/album/3OL1X7p16svhnLSgKbK01J) | 1:42 | 2022-01-14 |  |

@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 366426,
       "name": "Alert Level (Quarantined Mix)",
       "url": "https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 264750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/1SruLf1FO8Aihdgfhgxyr9"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 252000,
       "name": "Bloodright (No Way to Hide) - Moris Blak Remix",
       "url": "https://open.spotify.com/track/2tlFPMw7kaRe0UL42iXhC7"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 215280,
       "name": "Bring You Down (Project Regeneration)",
       "url": "https://open.spotify.com/track/1NGBpjIrZIe0RagRFmyXfg"
@@ -369,10 +369,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 201533,
       "name": "B\u00fcck dich",
       "url": "https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3"
+    },
+    {
+      "album": {
+        "name": "Candidate",
+        "url": "https://open.spotify.com/album/0IztMqsz5p62HUMh7hdOsq"
+      },
+      "artists": [
+        {
+          "name": "Blitz Union",
+          "url": "https://open.spotify.com/artist/4hV6JPwfadReTcpspP1OrN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Candidate",
+      "url": "https://open.spotify.com/track/5JneBvJFTvKv0EmarM0gln"
     },
     {
       "album": {
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 228332,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/4nb2nUKvsp28TKE9NSjsrW"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 185186,
       "name": "Cut the Knot",
       "url": "https://open.spotify.com/track/3Zp8royiKaLLhyLy68msyS"
@@ -567,10 +585,58 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 242356,
       "name": "Don't Pray for Me",
       "url": "https://open.spotify.com/track/1lKr9lOnwqxAoGo8jd9UoC"
+    },
+    {
+      "album": {
+        "name": "Don't Question Me",
+        "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
+      },
+      "artists": [
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        },
+        {
+          "name": "Waylon Reavis",
+          "url": "https://open.spotify.com/artist/6FZbPTKqSEYCRDuZfzn2ww"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201184,
+      "name": "Don't Question Me",
+      "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "album": {
+        "name": "Don't Know Zero (Remixes)",
+        "url": "https://open.spotify.com/album/6cbSAt93f16nggfPxq0w8Y"
+      },
+      "artists": [
+        {
+          "name": "Angelspit",
+          "url": "https://open.spotify.com/artist/7Coo58A8U3BCpCl4nQ3pda"
+        },
+        {
+          "name": "Miss Ballistic",
+          "url": "https://open.spotify.com/artist/6tmwxgwbL2CGow7sWzOX9f"
+        },
+        {
+          "name": "Slighter",
+          "url": "https://open.spotify.com/artist/2uwnOLxyzoQjJpqVfMLVZ0"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290326,
+      "name": "Don\u2019t Know Zero - Slighter Remix",
+      "url": "https://open.spotify.com/track/07oj7iiZTd192Ehu0ADmaL"
     },
     {
       "album": {
@@ -722,6 +788,24 @@
     },
     {
       "album": {
+        "name": "FOLLOW",
+        "url": "https://open.spotify.com/album/01WDtUAbvqQecmizMs9tAH"
+      },
+      "artists": [
+        {
+          "name": "Contracult Collective",
+          "url": "https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203993,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1nqqyTJOBRPO5fRuOXoxKW"
+    },
+    {
+      "album": {
         "name": "www.pitchshifter.com",
         "url": "https://open.spotify.com/album/1KcvOypLPHDBkkk3KW9Vun"
       },
@@ -733,7 +817,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 246506,
       "name": "Genius",
       "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
@@ -845,7 +929,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 314440,
       "name": "Hey Man, Nice Shot - Remastered Version",
       "url": "https://open.spotify.com/track/6jc5gHCmrZW1XLcRM3wFlC"
@@ -881,7 +965,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 147181,
       "name": "Hydrochloride",
       "url": "https://open.spotify.com/track/5guQjkjzpIMpX81VAZTHNy"
@@ -899,7 +983,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 289451,
       "name": "Ich wei\u00df es nicht",
       "url": "https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz"
@@ -1069,7 +1153,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
@@ -1141,7 +1225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 258894,
       "name": "Left Hand Path Symphony",
       "url": "https://open.spotify.com/track/7HJN0FdHBKkk8mHaBhUXAQ"
@@ -1177,7 +1261,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 204853,
       "name": "Linchpin",
       "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
@@ -1329,7 +1413,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 380885,
       "name": "My Disintegration",
       "url": "https://open.spotify.com/track/1h4QGHo9jTntOiK5A61dzP"
@@ -1390,6 +1474,32 @@
     },
     {
       "album": {
+        "name": "Native Intelligence (Ghostemane Natural Selection Remix)",
+        "url": "https://open.spotify.com/album/4PAEIe0V7cLDUuxaZ3RKDK"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        },
+        {
+          "name": "Trent Reznor",
+          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+        },
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Native Intellligence - Ghostemane Natural Selection Remix",
+      "url": "https://open.spotify.com/track/1qHlqRNBhg5dQ6JKI4ajZM"
+    },
+    {
+      "album": {
         "name": "One Fire",
         "url": "https://open.spotify.com/album/3seMsCJKEsXwzX3LdZCq8W"
       },
@@ -1401,7 +1511,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 240516,
       "name": "One Fire",
       "url": "https://open.spotify.com/track/2FcrIQ9A3i6KO2ntF5Yfsu"
@@ -1441,7 +1551,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
@@ -1477,7 +1587,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 204144,
       "name": "plunge",
       "url": "https://open.spotify.com/track/6A4SgZwHOw0VcDIPj0haGH"
@@ -1585,7 +1695,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 154906,
       "name": "Push It",
       "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
@@ -1827,7 +1937,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 218826,
       "name": "The Beautiful People",
       "url": "https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR"
@@ -1899,7 +2009,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 314000,
       "name": "TILL THE END",
       "url": "https://open.spotify.com/track/7brFX4c6J3FbsHuIEw2uHi"
@@ -1953,7 +2063,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 243026,
       "name": "Universe",
       "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"

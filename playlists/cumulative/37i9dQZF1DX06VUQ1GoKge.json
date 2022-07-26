@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 238813,
       "name": "99",
       "url": "https://open.spotify.com/track/5otXJIeiF43SPz7R7ov8GX"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 157411,
       "name": "Akudama",
       "url": "https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 231720,
       "name": "Biggest & the Best",
       "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 290927,
       "name": "Black Empire",
       "url": "https://open.spotify.com/track/3cSMWWHhGaNSlV6SLtrilw"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 270141,
       "name": "Chemical Godz",
       "url": "https://open.spotify.com/track/6rb2mLJROahn0CnMiBvuPl"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 257695,
       "name": "Divine Apprehension",
       "url": "https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 313354,
       "name": "End of the Attention Span",
       "url": "https://open.spotify.com/track/0LtZ0J7wBewtpjA6w98MlC"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 268266,
       "name": "Great War",
       "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
@@ -1140,6 +1140,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/2h9pGOK3WpnKM6sJjILl5E"
+      },
+      "artists": [
+        {
+          "name": "Soil",
+          "url": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+        }
+      ],
+      "date_added": "2021-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0rlPOzWbNVui2ABuI5OFhL"
+    },
+    {
+      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 234573,
       "name": "Jotun",
       "url": "https://open.spotify.com/track/3wfjxKLWPVm7SXHtXnTeY1"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 174012,
       "name": "Life Is Pain",
       "url": "https://open.spotify.com/track/7ygsUWdeNVaiEu4mxE1xnS"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 270746,
       "name": "New Colossal Hate",
       "url": "https://open.spotify.com/track/4lRvl2PMPqavdm4Q1qNV0M"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 296306,
       "name": "Only",
       "url": "https://open.spotify.com/track/39E1yxw6gHQbnFlCqIMYHI"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 321970,
       "name": "Protector",
       "url": "https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 261324,
       "name": "Silence in the Age of Apes",
       "url": "https://open.spotify.com/track/5irHTu17QhGh2QWcib4Re8"
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 166575,
       "name": "Weight of Glory",
       "url": "https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 304693,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8"

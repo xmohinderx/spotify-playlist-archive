@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Hip\-hop mexicano, rimas de la calle, en viva voz de Dharius.
+> Hip\-hop mexicano, rimas de la calle, en viva voz de La Santa Grifa y Santa Fe Klan.
 
 178 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 

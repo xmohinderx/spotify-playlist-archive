@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري! غلاف: ابيوسف
 
-68 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+69 songs - 3 hr 39 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Sou2 El Cassette](https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sou2 El Cassette](https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb) | 2:43 | 2022-05-10 | 2022-06-21 |
 | [Star](https://open.spotify.com/track/1jYpuALqMGpGhbFkPxU8no) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Star](https://open.spotify.com/album/5Q4Je1QV2U4aSOlNTYkdOf) | 3:19 | 2022-05-10 |  |
 | [Stop \- Magnolia](https://open.spotify.com/track/641KAqGlHS7CH0wCrhh0Ir) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Sonseyat](https://open.spotify.com/album/5tkqvkC0bmgC6qm1L46HpL) | 2:41 | 2022-06-06 |  |
+| [Sutra](https://open.spotify.com/track/2cns6AtYN36k2N6T5zaXZD) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Sutra](https://open.spotify.com/album/1leaz6N1vTWJ9kp2KBIAgZ) | 2:53 | 2022-07-25 |  |
 | [Tag](https://open.spotify.com/track/27Fxvok5kB2BaWIpKIxiwz) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Tag](https://open.spotify.com/album/3U8toDaI9YJuSyw6rgoF9y) | 3:49 | 2022-06-20 |  |
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 |  |
@@ -64,7 +65,7 @@
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-10 |  |
-| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2022-06-01 |  |
+| [البوصلة ضاعت](https://open.spotify.com/track/3OFejsaM3NDkclJg3rjWI2) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [البوصلة ضاعت](https://open.spotify.com/album/17E04dwaT5vHAHsuviwYPB) | 3:29 | 2022-06-01 | 2022-07-26 |
 | [بطل](https://open.spotify.com/track/3LxSKiIy0z4B9mEMHQZ77Q) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Lil baba](https://open.spotify.com/artist/3T8fVfMYRXW3RQNpxy80iw) | [بطل](https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX) | 3:27 | 2022-05-10 |  |
 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 | 2022-07-06 |  |
 | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [بعودة يا بلادى \( من فيلم " كباتن الزعتري "\)](https://open.spotify.com/album/6bAqBBFbmNi3ixH2B1F7b8) | 3:11 | 2022-05-10 |  |

@@ -137,7 +137,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Baila Baila Baila",
       "url": "https://open.spotify.com/track/7uH27oIt4a6cIFCA8ZPcyG"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 229455,
       "name": "Caro",
       "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 250169,
       "name": "Coronao Now (Remix)",
       "url": "https://open.spotify.com/track/047WmwIeerHyIUstFAEz5A"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 210000,
       "name": "Keii",
       "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 244489,
       "name": "La Maxima",
       "url": "https://open.spotify.com/track/1OgZJJNUjN3FFbdTrkG2WH"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 225000,
       "name": "Me da Lo Mismo",
       "url": "https://open.spotify.com/track/7mFDv6NNIn7Iq5kzMmoTSG"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 182677,
       "name": "Mera Woo",
       "url": "https://open.spotify.com/track/7gPRIgwzddQ7jga1sBQtJ6"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 213281,
       "name": "Mujer Satisfecha",
       "url": "https://open.spotify.com/track/2dSy7VwJsM9qEs5wAE9GJV"
@@ -1859,7 +1859,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Pa' Lante",
       "url": "https://open.spotify.com/track/24wIxeVejXRhYJPrOFpJbg"
@@ -1999,7 +1999,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
@@ -2362,6 +2362,24 @@
     },
     {
       "album": {
+        "name": "Soltero",
+        "url": "https://open.spotify.com/album/14sa6jwzjK7YWxfwLOOsAw"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176039,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/1IOCIQ8mhFV42YdacEog1j"
+    },
+    {
+      "album": {
         "name": "Solteroski",
         "url": "https://open.spotify.com/album/53E6nAATsQheECjMF5IzGL"
       },
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 199812,
       "name": "Te So\u00f1\u00e9 De Nuevo",
       "url": "https://open.spotify.com/track/5s8LepdwU0THzpd0M7nLsa"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 182125,
       "name": "Toco Toco To",
       "url": "https://open.spotify.com/track/3JNYsAbOnTg1VhJEHYnrWm"
@@ -2687,7 +2705,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 211906,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/1sHs87yRloQy0vE9mzpiZB"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Un Dia Si",
       "url": "https://open.spotify.com/track/5qRhzFjGqvJN9RSQRFV2J2"
@@ -2775,7 +2793,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 169404,
       "name": "Ven",
       "url": "https://open.spotify.com/track/2edWJMHnqmf9RnLKcLfKes"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"

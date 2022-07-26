@@ -4,7 +4,7 @@
 
 > Corridones pa' quemarle las patas al Diablo 😈 En portada: Los Lara
 
-75 songs - 3 hr 55 min - not published yet
+75 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/5zmaHdeU8tjMcZ0ofQEoOW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

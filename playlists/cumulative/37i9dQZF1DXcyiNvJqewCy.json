@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 180026,
       "name": "Brando",
       "url": "https://open.spotify.com/track/74W2WLhCxYJEmOs7fCu76j"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 242661,
       "name": "Breakfast With You",
       "url": "https://open.spotify.com/track/0ggxFhqfK28aCnusikHF0j"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 240147,
       "name": "Cherry Wine - Live",
       "url": "https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 163041,
       "name": "Cream Shirt",
       "url": "https://open.spotify.com/track/0FeXe1ip5JvofSszofHYIQ"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 232347,
       "name": "CRY",
       "url": "https://open.spotify.com/track/3P0r4WUpv5BQbLAwDYhxfO"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
@@ -1043,6 +1043,24 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV"
+    },
+    {
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix Versions)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono / 1997 Remastered",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "album": {
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 204386,
       "name": "In Camera",
       "url": "https://open.spotify.com/track/7HIPuJA4MqjPT9FclCE9In"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Madeleine",
       "url": "https://open.spotify.com/track/7CTVIpoQqwCki0Lprz0ez6"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Oh What A Relief",
       "url": "https://open.spotify.com/track/4IlGQMUo7sBlMBAQR0ZRPT"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 209421,
       "name": "Seize The Day (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4ByvgSH9KPxMQqqXFR9797"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 199395,
       "name": "Sixty Summers",
       "url": "https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI"
@@ -3081,7 +3099,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 210251,
       "name": "the 1",
       "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"

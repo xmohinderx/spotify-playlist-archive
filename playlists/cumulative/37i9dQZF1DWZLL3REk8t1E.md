@@ -4,7 +4,7 @@
 
 > ¡A calentar garganta!
 
-100 songs - 5 hr 24 min - not published yet
+100 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/16C4gyv5rwRyQDMCpAHjTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

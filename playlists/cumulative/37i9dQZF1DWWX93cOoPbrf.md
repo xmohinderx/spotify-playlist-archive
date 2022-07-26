@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Grupo Marca Registrada & Junior H en portada.
 
-75 songs - 3 hr 46 min - not published yet
+75 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

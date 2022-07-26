@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-413 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+414 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [วัดปะหล่ะ? \(Test Me\)](https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I) | 3:40 | 2021-04-16 | 2022-06-30 |
 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 | 2022-06-29 | 2022-07-02 |
 | [วันครบเลิก \- UNNIVERSARY](https://open.spotify.com/track/7vUrVGEoDUfxHZFK4lDTKR) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [วันครบเลิก \(UNNIVERSARY\)](https://open.spotify.com/album/1GtffmavEKtJaNYvsH5tK9) | 4:10 | 2021-11-27 | 2022-03-08 |
+| [วาดไว้ \- recall](https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [วาดไว้ \(recall\)](https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y) | 4:15 | 2022-07-25 |  |
 | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/track/6w6CKv0wpFBTjBcV6YuQJs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สบายดีไหม? \(how r u?\)](https://open.spotify.com/album/7FZ3wtsNBVQqvoYBuFaPv2) | 4:06 | 2022-06-29 | 2022-07-10 |
 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \(feat\. Da Endorphine\)](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-19 |  |
 | [สองใจ \- เพลงประกอบละคร วันทอง](https://open.spotify.com/track/5sXuqzLmT1z6Gnf3S2TzSz) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [เพลงประกอบละคร วันทอง](https://open.spotify.com/album/0u4nlYmFv63JtoNUVBwpaT) | 4:10 | 2021-03-27\* | 2021-07-23 |
@@ -410,7 +411,7 @@
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/7vnw2nU0xpc9RABEgc3pxQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6RRpP4CaftCir8eUBwG5mh) | 3:57 | 2021-08-03 | 2021-11-17 |
 | [โต๊ะริม \(Melt\)](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม \(Melt\)](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-21 |  |
 | [โลกคู่ขนาน](https://open.spotify.com/track/3A1tAv6J87HqjFhUZ3LHNi) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [โลกคู่ขนาน](https://open.spotify.com/album/1ax89fjEDQYz5ukVXpjCFk) | 4:40 | 2022-05-15 |  |
-| [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 |  |
+| [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2022-04-09 | 2022-07-26 |
 | [ใจเกเร](https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ใจเกเร](https://open.spotify.com/album/06nVVnuo262M0lNw7PwlIQ) | 3:48 | 2022-06-02 |  |
 | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/track/7e285rnQ9CFxZaMmEtMuwG) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ไดโนเสาร์ไข่ดาวปาจังกี้](https://open.spotify.com/album/2lByhjQW64vPra5SUV3AFI) | 3:45 | 2022-07-11 | 2022-07-17 |
 | [ได้แต่นึกถึง](https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:24 | 2022-07-11 |  |

@@ -1406,6 +1406,28 @@
     },
     {
       "album": {
+        "name": "High On Music",
+        "url": "https://open.spotify.com/album/1Kbc7ZyTZP2mkWpCDErCdi"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145277,
+      "name": "High On Music",
+      "url": "https://open.spotify.com/track/78yjnax7e26RPgjpHxVEAN"
+    },
+    {
+      "album": {
         "name": "Hold Me Close (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4yhwVlnIOdgGmhmbaaCROg"
       },

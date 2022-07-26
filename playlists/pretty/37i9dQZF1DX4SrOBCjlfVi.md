@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nardo Wick, Lil Uzi Vert, and Megan Thee Stallion\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,136 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,236 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SPACE CADET](https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SPACE CADET](https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI) | 2:46 |
-| 2 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
-| 3 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
-| 4 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
-| 5 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 1 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 |
+| 2 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
+| 3 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 4 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 |
+| 5 | [SPACE CADET](https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SPACE CADET](https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI) | 2:46 |
 | 6 | [Smoke Nuffin' \(feat\. 42 Dugg\)](https://open.spotify.com/track/654dosgptEZkNk0vX8ZoXj) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Survivor's Guilt](https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea) | 2:13 |
 | 7 | [Hottie \(feat\. BabyFace Ray\)](https://open.spotify.com/track/14I77qsasVr6M6XxbxvcxJ) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 3:01 |
 | 8 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Don Julio](https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Don Julio](https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41) | 2:29 |
 | 50 | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU) | 3:01 |
 
-Snapshot ID: `MTY1ODUxNjM0MCwwMDAwMDBlZTAwMDAwMTgyMjc0NzAwYjYwMDAwMDE4MjFjYWM1OTIz`
+Snapshot ID: `MTY1ODc3ODA5MiwwMDAwMDBlZjAwMDAwMTgyMzZlMTAzYjgwMDAwMDE4MjFjYWM1OTIz`

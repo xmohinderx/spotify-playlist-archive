@@ -266,6 +266,24 @@
     },
     {
       "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/10NqQvj01uof2GLwLi3oA2"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+    },
+    {
+      "album": {
         "name": "D-day",
         "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
       },

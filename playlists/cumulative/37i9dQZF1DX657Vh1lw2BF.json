@@ -445,7 +445,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 207400,
       "name": "Erjaa Habibi",
       "url": "https://open.spotify.com/track/1xiIRisLA9xvJgEK3w64Ft"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 206920,
       "name": "Shaf Rohha",
       "url": "https://open.spotify.com/track/2OAqzCBCLO0o77MvN3rqV5"
@@ -1200,6 +1200,28 @@
     },
     {
       "album": {
+        "name": "Thanbak",
+        "url": "https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV"
+      },
+      "artists": [
+        {
+          "name": "Raad And Methaq",
+          "url": "https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq"
+        },
+        {
+          "name": "Methaq",
+          "url": "https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311960,
+      "name": "Thanbak",
+      "url": "https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9"
+    },
+    {
+      "album": {
         "name": "Waiak",
         "url": "https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y"
       },
@@ -1269,6 +1291,24 @@
       "duration_ms": 263773,
       "name": "Ya Janti Ya Nari",
       "url": "https://open.spotify.com/track/5qtAaqobu4NUGsnBA1Hlx1"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
+        "url": "https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184246,
+      "name": "\u0627\u0635\u0639\u062f \u0644\u0644\u0643\u0645\u0631",
+      "url": "https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2"
     },
     {
       "album": {

@@ -1,13 +1,69 @@
 {
   "description": "Cool vibes from the African continent.",
-  "num_followers": 13253,
+  "num_followers": 13259,
   "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzOTYwMCwwMDAwMDE4ZDAwMDAwMTgxZmVmMGMyMjYwMDAwMDE3MGFmNDI4ZGU4",
+  "snapshot_id": "MTY1ODcyOTM2MywwMDAwMDE4ZTAwMDAwMTgyMzNmOTc4ZmEwMDAwMDE3MGFmNDI4ZGU4",
   "tracks": [
+    {
+      "added_at": "2022-07-25 06:09:23",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 216992,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/3PEkfP69a7aMMb8yI7PD88"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "I Like (feat. WizKid)",
+        "url": "https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 192784,
+      "name": "I Like (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
+    },
     {
       "added_at": "2021-10-11 06:16:49",
       "album": {
@@ -23,6 +79,170 @@
       "duration_ms": 276536,
       "name": "Bank On It",
       "url": "https://open.spotify.com/track/59r8MRjv8K2rx8W3jQ5HW2"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Pana",
+        "url": "https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Soweto Blues",
+        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 298997,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Bad Influence",
+        "url": "https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 138652,
+      "name": "Bad Influence",
+      "url": "https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv"
+      },
+      "artists": [
+        {
+          "name": "TRESOR",
+          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sondela - Edit",
+      "url": "https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Location (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Love Nwantiti (Acoustic Version)",
+        "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 184196,
+      "name": "Love Nwantiti (Acoustic Version)",
+      "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
+    },
+    {
+      "added_at": "2021-10-11 06:16:49",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD"
+    },
+    {
+      "added_at": "2022-07-14 23:00:00",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 169031,
+      "name": "safe haven",
+      "url": "https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e"
     },
     {
       "added_at": "2022-02-03 23:02:00",
@@ -117,22 +337,6 @@
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
     },
     {
-      "added_at": "2022-04-28 23:11:00",
-      "album": {
-        "name": "Eshu",
-        "url": "https://open.spotify.com/album/7Gb6bgH1YnrsoNulqp4tHd"
-      },
-      "artists": [
-        {
-          "name": "Amai Kuda Et Les Bois",
-          "url": "https://open.spotify.com/artist/1SBiL8VyIl0OzZbyJQTNvw"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Eshu",
-      "url": "https://open.spotify.com/track/2EB9HogbtwaVVHOUhmArEp"
-    },
-    {
       "added_at": "2021-12-02 23:01:00",
       "album": {
         "name": "Mayana",
@@ -147,22 +351,6 @@
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
-    },
-    {
-      "added_at": "2022-07-14 23:00:00",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 169031,
-      "name": "safe haven",
-      "url": "https://open.spotify.com/track/1LObw2njH6cvdGutpDlP6e"
     },
     {
       "added_at": "2022-06-23 23:00:00",
@@ -285,26 +473,6 @@
       "url": "https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ"
     },
     {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Sondela",
-        "url": "https://open.spotify.com/album/5iTVgdXWbN2wticVSkTFsv"
-      },
-      "artists": [
-        {
-          "name": "TRESOR",
-          "url": "https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sondela - Edit",
-      "url": "https://open.spotify.com/track/0JSPN8S57bYOL3LSLm5yvN"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "SAVAGE LEVEL",
@@ -389,22 +557,6 @@
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
     },
     {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Pana",
-        "url": "https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
-    },
-    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Silaha",
@@ -425,6 +577,22 @@
       "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
     },
     {
+      "added_at": "2022-07-25 06:09:23",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Gidi",
@@ -439,26 +607,6 @@
       "duration_ms": 167666,
       "name": "Gidi",
       "url": "https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Real Life (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2eFsasDs4w4YUHBvaKyNNZ"
     },
     {
       "added_at": "2021-10-11 06:21:00",
@@ -511,26 +659,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Location (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
     },
     {
       "added_at": "2021-10-11 06:16:49",
@@ -641,26 +769,6 @@
       "url": "https://open.spotify.com/track/6abcUHJLRUgXmb44S8icTh"
     },
     {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
       "added_at": "2022-02-03 23:02:00",
       "album": {
         "name": "Waiting",
@@ -695,22 +803,6 @@
       "duration_ms": 177439,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/2lEl1iNGpz9r2B7R5BqXSD"
     },
     {
       "added_at": "2022-02-24 23:00:00",
@@ -869,22 +961,6 @@
       "url": "https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB"
     },
     {
-      "added_at": "2021-12-09 23:00:00",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf"
-      },
-      "artists": [
-        {
-          "name": "WNDRSZN",
-          "url": "https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ"
-        }
-      ],
-      "duration_ms": 218947,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv"
-    },
-    {
       "added_at": "2021-10-15 03:05:54",
       "album": {
         "name": "Rising",
@@ -899,22 +975,6 @@
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Bad Influence",
-        "url": "https://open.spotify.com/album/7udDaiv9Mgh1LrHvObls1I"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 138652,
-      "name": "Bad Influence",
-      "url": "https://open.spotify.com/track/2RaHreAi8lXvQOM0prMvXT"
     },
     {
       "added_at": "2021-11-18 23:00:00",
@@ -935,22 +995,6 @@
       "duration_ms": 158399,
       "name": "Oshe (feat. The Cavemen.)",
       "url": "https://open.spotify.com/track/4upQnh3K5k1xbVOr97fdG7"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Love Nwantiti (Acoustic Version)",
-        "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 184196,
-      "name": "Love Nwantiti (Acoustic Version)",
-      "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
       "added_at": "2021-10-15 03:05:54",
@@ -1167,50 +1211,6 @@
       "duration_ms": 176766,
       "name": "Miss You Bad",
       "url": "https://open.spotify.com/track/6R6rbN4WvMNnQwOCSdXSvT"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "I Like (feat. WizKid)",
-        "url": "https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO"
-      },
-      "artists": [
-        {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 192784,
-      "name": "I Like (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
-    },
-    {
-      "added_at": "2021-10-11 06:16:49",
-      "album": {
-        "name": "Soweto Blues",
-        "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 298997,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
     },
     {
       "added_at": "2021-10-11 06:16:49",

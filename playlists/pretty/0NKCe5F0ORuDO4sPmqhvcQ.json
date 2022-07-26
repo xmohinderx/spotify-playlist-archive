@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21310,
+  "num_followers": 21311,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTg3NCwwODBhOWRjMTJhZjkyMjA3MjFhZGZiMTM5YTBjNGY3NDc4NmViNTg4",
+  "snapshot_id": "OTg3NSw1NjBmNjA3NTJiZDNmNDM0OGJkYWI0MTY2NjFiMTdjN2JiNjQwNjE2",
   "tracks": [
     {
       "added_at": "2022-07-19 05:29:33",
@@ -1727,6 +1727,26 @@
       "duration_ms": 185684,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/41OIPsB7nh3GOUWD0Eukwy"
+    },
+    {
+      "added_at": "2022-07-25 21:30:45",
+      "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 204369,
+      "name": "Pick Yourself Up",
+      "url": "https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn"
     }
   ],
   "unique_name": "Moving Castle Monthly",

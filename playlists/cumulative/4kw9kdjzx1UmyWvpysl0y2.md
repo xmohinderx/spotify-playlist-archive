@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-218 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+219 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |
 | [Magma](https://open.spotify.com/track/56x8xKnAXBdAJVK3AgdsFm) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Magma](https://open.spotify.com/album/3D3vEPEMF6ZuoDaHiLSyz5) | 3:21 | 2021-11-19 | 2022-02-03 |
 | [Malibu](https://open.spotify.com/track/1uI5SfxcOTpnxjU3DGlJGM) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7) | [California Sessions](https://open.spotify.com/album/4JuvwXDh08DajGwNrvVoOH) | 3:44 | 2022-06-01 |  |
-| [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 |  |
+| [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 |  |
 | [More To Give \- VIP](https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Rise & Fall \(VIPs\)](https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx) | 3:03 | 2022-01-25 | 2022-04-05 |
@@ -200,6 +200,7 @@
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 |  |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |
 | [Too Far](https://open.spotify.com/track/4Ru59Wjufh4vgt1ZKVxUtn) | [Hiski](https://open.spotify.com/artist/766PDHJTKiOFdmGhl36cGY), [Kobana](https://open.spotify.com/artist/1XyWJuyRJBkwsOeGR8Pxea) | [Too Far](https://open.spotify.com/album/6eKGfZzEKDORyl4fymlDAX) | 4:14 | 2021-12-01 | 2022-03-05 |
+| [Toxic](https://open.spotify.com/track/2XROdt9KOkQNxN6Ugq3z3m) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Agony District](https://open.spotify.com/album/2xcGif7Oz4N0k5XtvDWNU6) | 3:31 | 2022-07-25 |  |
 | [Tripwire](https://open.spotify.com/track/4XaYL3woPIICr4dbCb2ZxH) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Tripwire](https://open.spotify.com/album/5dbcJHB0RwwcWNw8z3IvTt) | 3:05 | 2021-11-22 | 2022-02-26 |
 | [TROUBLEMAKER](https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [TROUBLEMAKER](https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y) | 3:42 | 2021-11-19 | 2022-01-27 |
 | [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-11 | 2022-07-22 |

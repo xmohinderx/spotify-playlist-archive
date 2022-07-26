@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Counting with Animals",
+        "url": "https://open.spotify.com/album/0SrUMzeeXRctzQupylcVDo"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115816,
+      "name": "10 Little Pets",
+      "url": "https://open.spotify.com/track/68WqoavXTIF0FptindhfK8"
+    },
+    {
+      "album": {
         "name": "You Are Magic",
         "url": "https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx"
       },

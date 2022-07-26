@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-139 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
+140 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/52T0XSksRpY416TzA7vg99)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-01-25 |  |
 | [don't come back](https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:32 | 2022-07-11 |  |
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-01-25 | 2022-04-09 |
+| [Easy](https://open.spotify.com/track/0TGIw5lMfCjMhFZN7z43uk) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Easy](https://open.spotify.com/album/3LgYJcq5rLlKX8lJUKnqQa) | 2:24 | 2022-07-25 |  |
 | [Electric](https://open.spotify.com/track/5H3cgV4jCdqXPxDtI78dCI) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [Electric](https://open.spotify.com/album/7uOy96yZhShwnQS2q4jkFt) | 2:37 | 2022-07-11 |  |
 | [EMPATHY](https://open.spotify.com/track/7Mg30M7Yt6EBV7sN00Xr9k) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7A66n9P2h3Cfbuh5YZDNqZ) | 3:15 | 2022-01-25 |  |
 | [Escape](https://open.spotify.com/track/0mn426FxVilDODhgiAkdd2) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Escape](https://open.spotify.com/album/1TzBxAR9oIbrfW9bjl3n7w) | 3:02 | 2022-04-08 |  |
@@ -121,7 +122,7 @@
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2022-01-25 |  |
 | [Smackables](https://open.spotify.com/track/3ucNTEXkAf6cdPOVMNkhSg) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Smackables \(Deluxe Edition\)](https://open.spotify.com/album/3KK93JiPtKqMDsD7TpcTvJ) | 3:15 | 2022-01-25 | 2022-07-09 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-07-08 |  |
-| [So What](https://open.spotify.com/track/3HXcLxLeZjBxuRNNVb8mzt) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [So What](https://open.spotify.com/album/2PUVkKjpm1Cj8gVztp7JG2) | 2:42 | 2022-01-25 |  |
+| [So What](https://open.spotify.com/track/3HXcLxLeZjBxuRNNVb8mzt) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [So What](https://open.spotify.com/album/2PUVkKjpm1Cj8gVztp7JG2) | 2:42 | 2022-01-25 | 2022-07-26 |
 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 | 2022-01-25 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 | 2022-01-25 |  |
 | [Stitches](https://open.spotify.com/track/5inSAJvyOTJEUA3uP94TWA) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Stitches](https://open.spotify.com/album/5py29tWB6bYSYf1vct0Lz5) | 2:40 | 2022-01-25 |  |

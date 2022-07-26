@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: MorMor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,502 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,500 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Far Apart](https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl) | 2:56 |
-| 2 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 |
-| 3 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 |
-| 4 | [ADDICTIONS \(FEAT\. Tre' Amani\)](https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:12 |
-| 5 | [Clavicle](https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clavicle](https://open.spotify.com/album/72ORLqTAUwh9s0VofE4WCb) | 3:33 |
-| 6 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
+| 1 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 |
+| 2 | [Far Apart](https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Far Apart](https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl) | 2:56 |
+| 3 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 |
+| 4 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 |
+| 5 | [ADDICTIONS \(FEAT\. Tre' Amani\)](https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:12 |
+| 6 | [Clavicle](https://open.spotify.com/track/6x7Dpmy13LxD0scMJlo7y0) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clavicle](https://open.spotify.com/album/72ORLqTAUwh9s0VofE4WCb) | 3:33 |
 | 7 | [Jewels in the Night](https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Jewels in the Night](https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P) | 3:45 |
 | 8 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 |
 | 9 | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/track/6fufMi1AWJEFVKlGGTZqxY) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Something \(Byron The Aquarius Remix\)](https://open.spotify.com/album/0SDUfvrP8ak0rxHlsw50Nc) | 4:27 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 98 | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Troubles \[Feat\. T\-Pain\]](https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe) | 2:40 |
 | 99 | [Plant Life \- Yu Su’s Transient Version](https://open.spotify.com/track/2cfBCwIoPa3kwuLFM4TyND) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Plant Life](https://open.spotify.com/album/1PabRKrfRNoJxDKZQNRN4P) | 3:50 |
 
-Snapshot ID: `MTY1ODUxMzg3OCwwMDAwMDQ0NjAwMDAwMTgyMjcyMTZjNzcwMDAwMDE4MjIzOTgwOTE2`
+Snapshot ID: `MTY1ODc1NzYxOSwwMDAwMDQ0NzAwMDAwMTgyMzVhODlkNTEwMDAwMDE4MjIzOTgwOTE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Minions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,150 likes - 99 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171,917 likes - 99 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

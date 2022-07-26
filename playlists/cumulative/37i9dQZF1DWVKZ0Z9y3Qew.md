@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: PNW](https://open.spotify.com/playlist/37i9dQZF1DWVKZ0Z9y3Qew)
 
-> Pacific Northwest music breaking waves\. Cover, Umi
+> Pacific Northwest music breaking waves\. Cover, TeZATalks
 
 234 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 

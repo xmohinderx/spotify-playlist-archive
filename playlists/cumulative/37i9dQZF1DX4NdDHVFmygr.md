@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-136 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+137 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Marfoud](https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Marfoud](https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p) | 3:23 | 2021-12-25 | 2022-03-15 |
 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 | 2021-12-25 |  |
 | [Mmi Lalla](https://open.spotify.com/track/7nsSXzC5emf376CWUkn8Sw) | [Khalifa](https://open.spotify.com/artist/19qkQqETJstZ0IOcVoZhUJ) | [Mmi Lalla](https://open.spotify.com/album/7yIchg5XojEvKS3lYnZd4L) | 3:27 | 2022-01-24 | 2022-04-16 |
-| [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-04 |  |
+| [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-04 | 2022-07-26 |
 | [Nabra](https://open.spotify.com/track/4zrKP7AehgyJaU8jGIGvPQ) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Nabra](https://open.spotify.com/album/7Mj2Go09HnPewEFgyOlral) | 3:40 | 2021-12-25 | 2022-01-04 |
 | [Nada Nada \(feat\. Chawki\)](https://open.spotify.com/track/1lF775PA7nBwkYW0jEQlyk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 3:08 | 2021-12-25 | 2022-01-08 |
 | [Nari](https://open.spotify.com/track/1yUJXkJw1VQ79JhTVr5xya) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Nari](https://open.spotify.com/album/6RK47j4ljvi1689fE6Kd6q) | 3:57 | 2021-12-25 | 2022-06-15 |
@@ -106,6 +106,7 @@
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-12-25 | 2022-01-08 |
 | [Oui Oui](https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Oui Oui](https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8) | 3:04 | 2022-05-23 |  |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
+| [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 |  |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2021-12-25 | 2022-06-23 |

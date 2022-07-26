@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-446 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+447 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,7 @@
 | [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2022-05-27 | 2022-07-16 |
 | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/track/4fJlSLYLiu5trFCMZdSQDC) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \-《當男人戀愛時》電影主題曲](https://open.spotify.com/album/0VqgheMWJatfAl6njk2DL8) | 3:52 | 2021-03-27\* |  |
 | [愛我的時候](https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [愛我的時候](https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh) | 3:44 | 2021-03-27\* | 2021-08-21 |
-| [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2021-03-27\* | 2022-07-16 |
+| [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2021-03-27\* |  |
 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 | 2021-08-24 | 2021-09-09 |
 | [我不需要每一個人都愛我 \- A Rock Can Be A Star](https://open.spotify.com/track/49gU95GpWNOY4hzUWYefjp) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [我不需要每一個人都愛我 \- A Rock Can Be A Star](https://open.spotify.com/album/7Ggsdy4egdvGKCfIBVkZIN) | 4:03 | 2021-03-27\* | 2021-04-16 |
 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 | 2022-05-21 | 2022-06-11 |
@@ -352,7 +352,7 @@
 | [我就想你](https://open.spotify.com/track/0Q35umX7SPX9perjjMfzCg) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [我就想你](https://open.spotify.com/album/7iDi0WJ1pZkwf35d6yjtAk) | 3:25 | 2021-09-09 | 2021-10-16 |
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2021-04-16 | 2021-04-26 |
 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 | 2021-04-26 |  |
-| [我是如此相信](https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 |  |
+| [我是如此相信](https://open.spotify.com/track/3BpiSlF0Z4CZQxcObv7erK) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:25 | 2022-07-16 | 2022-07-26 |
 | [我會在你身邊](https://open.spotify.com/track/6kplVLOTiWjNzYmAUvIh9F) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [女神Miu朱俐靜 存在的力量](https://open.spotify.com/album/2JhPdMVOASpHZ6ODdszwZy) | 4:41 | 2022-07-06 | 2022-07-08 |
 | [我的癮](https://open.spotify.com/track/4YwM25LCXJserRoG8HYkuw) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [我的癮](https://open.spotify.com/album/2HTA03q6dOdv9kTEvBYvIR) | 3:53 | 2022-02-09 | 2022-02-18 |
 | [我的癮](https://open.spotify.com/track/7Lq0fecuz5c86UbxQvjEua) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [EARTHBOUND](https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23) | 3:53 | 2022-02-17 | 2022-03-03 |
@@ -403,7 +403,7 @@
 | [禁愛條款](https://open.spotify.com/track/4Z76Dk74jIBsbKAcjJ2YYr) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [禁愛條款](https://open.spotify.com/album/0NxEowsTradcFNzSR00FvU) | 2:56 | 2021-06-24 | 2021-07-01 |
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-09-18 | 2021-09-24 |
 | [等你下課](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 |  |
-| [粉色海洋](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 |  |
+| [粉色海洋](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 | 2022-07-26 |
 | [精神分裂](https://open.spotify.com/track/37f3lHvINSdzriJeBNTuJY) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2622](https://open.spotify.com/album/4FsfJ4W3zxBFfkiBNUpdo6) | 2:37 | 2021-09-02 | 2021-10-16 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 |  |
 | [終究還是因為愛](https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Holy Trip!](https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn) | 4:45 | 2021-09-30 |  |
@@ -412,6 +412,7 @@
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |
 | [繞 \- 原創影集《火神的眼淚》片尾曲](https://open.spotify.com/track/2XyCniKJUGKglRg01aehRn) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u) | [繞 \(原創影集《火神的眼淚》片尾曲\)](https://open.spotify.com/album/33PYcY5m2zHwJ32YtMYRQp) | 4:27 | 2021-05-27 | 2021-06-19 |
 | [續寫 \- 電視劇《一生一世》主題曲](https://open.spotify.com/track/3eiSB7mTeNI49OAs7I8u39) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [續寫 \(電視劇《一生一世》主題曲\)](https://open.spotify.com/album/5KkkO7JNoXMQdoNLn8wAEy) | 3:48 | 2021-09-30 | 2021-10-08 |
+| [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 | 2022-07-25 |  |
 | [能火](https://open.spotify.com/track/0edXRhdQfF6YY9f7ZGZITt) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [PRO](https://open.spotify.com/album/34T8LkJ3sKBl1cVXGM6W2k) | 3:42 | 2022-05-12 | 2022-05-28 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-03-18 | 2022-04-06 |
 | [與我無關](https://open.spotify.com/track/2qlUhwv6Hqx5ZZHCucRlGF) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [與我無關](https://open.spotify.com/album/2nVfpyVu94tgwFT9XX7ufJ) | 4:00 | 2021-07-22 | 2022-07-02 |

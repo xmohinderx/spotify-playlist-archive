@@ -4,7 +4,7 @@
 
 > Screaming, crying, throwing up!! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover:  Jessie Ware
 
-203 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
+204 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3PlypPTy0dmRQm3XnaWpH4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bad For My Health](https://open.spotify.com/track/7m0qnyh7iNzZhVjKIjRrEE) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad for My Health](https://open.spotify.com/album/1MvX6YKRXyhayUOEEqlvyI) | 2:34 | 2022-05-13 | 2022-06-04 |
 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/17JiXMOiulilj4Pgf0Yq04) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/album/5pVAHcpyTloN8dq49tOY9C) | 3:08 | 2022-04-08 | 2022-06-04 |
 | [Barbiegurl](https://open.spotify.com/track/2QdEBk0hnVc9tHLHXuLuYb) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Barbiegurl](https://open.spotify.com/album/7LpTCyYkUlqigtPWk3RY1X) | 2:33 | 2022-06-17 |  |
+| [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 | 2022-07-25 |  |
 | [bet u wanna](https://open.spotify.com/track/1RAeuvRyRzCweAK3jUT0ZW) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:11 | 2022-07-15 |  |
 | [Better Off Alone](https://open.spotify.com/track/2PkIMHlkRJjG0saAcQRZPO) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [Better Off Alone](https://open.spotify.com/album/6Lj8Q6AxJVURUuGGGl5EeD) | 2:42 | 2022-02-15 | 2022-06-25 |
 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/4nmD4awtUUCC4AGETpUiuP) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/7yQ3QGLWN0YvBuImU7bVc3) | 3:01 | 2022-04-01 |  |
@@ -62,7 +63,7 @@
 | [Dance Forever](https://open.spotify.com/track/5YdI0PKFDkrVyjzH6OFmXA) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Dance Forever](https://open.spotify.com/album/20MjX7BdygnjgtQSSUKdqG) | 3:32 | 2022-04-15 | 2022-04-29 |
 | [Dance With Me \- Edit](https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Dance With Me \(Edit\)](https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u) | 3:06 | 2022-04-22 | 2022-07-23 |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 |  |
-| [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-04-08 |  |
+| [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-04-08 | 2022-07-26 |
 | [Do Me Dirty](https://open.spotify.com/track/29wAf0XiMYMPFBMadvT51z) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [Do Me Dirty](https://open.spotify.com/album/51iiHTcUuYbivJdU8PRAsf) | 1:46 | 2022-05-06 | 2022-05-20 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-05-27 |  |
 | [Everybody Wants It](https://open.spotify.com/track/088lc5Y2AY6pQw6PG2Gm9X) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg), [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU) | [Everybody Wants It](https://open.spotify.com/album/2W6n5qvGnLQjSZuvIfb85T) | 3:24 | 2022-07-08 |  |

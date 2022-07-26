@@ -1040,6 +1040,24 @@
     },
     {
       "album": {
+        "name": "Set El Kel",
+        "url": "https://open.spotify.com/album/2ctVSYPczKZ6uQGW4Pfd4s"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198790,
+      "name": "Set El Kel",
+      "url": "https://open.spotify.com/track/5AkcsVLzhVBC22ZiXcPTu6"
+    },
+    {
+      "album": {
         "name": "Tan Tan (feat. Wessam Qutob)",
         "url": "https://open.spotify.com/album/4Q6iHkdb5JEhOIELDNKGBu"
       },

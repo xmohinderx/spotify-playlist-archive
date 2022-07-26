@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: The Lone Bellow
 
-388 songs - 23 hr 44 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+389 songs - 23 hr 48 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dancin' Around My Grave](https://open.spotify.com/track/15iM1wuREVujfuboVzZJSK) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu), [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt), [Doom Flamingo](https://open.spotify.com/artist/0b94jN9hNa6rBGfzOcZAMr) | [Dancin' Around My Grave](https://open.spotify.com/album/06H89MK9A5I2v7Baf2kFSF) | 2:59 | 2021-12-10 | 2022-03-26 |
 | [Danger](https://open.spotify.com/track/5KzwHKqX7NZXgO54FjgRpp) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Danger](https://open.spotify.com/album/1pOhvqkRotSBZwRcxxpft1) | 3:25 | 2021-12-10 | 2022-01-22 |
 | [Darlin’](https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Darlin'](https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI) | 2:58 | 2022-05-20 |  |
+| [Desert Snow](https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Desert Snow](https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT) | 3:35 | 2022-07-25 |  |
 | [Devil I Know](https://open.spotify.com/track/1WcNBLTw8rPnD5oRb5qEau) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Devil I Know](https://open.spotify.com/album/2KuRXu22f6A0orhnAPPuqD) | 3:32 | 2022-03-04 | 2022-06-18 |
 | [Did You Sleep Last Night?](https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Did You Sleep Last Night?](https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68) | 3:10 | 2022-01-14 | 2022-02-26 |
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2022-01-21 | 2022-03-26 |

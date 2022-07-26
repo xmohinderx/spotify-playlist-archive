@@ -742,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Paro (Speed Up)",
+        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Paro - Speed Up",
+      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+    },
+    {
+      "album": {
         "name": "Pass The Dutchie (Sped Up Version)",
         "url": "https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6"
       },

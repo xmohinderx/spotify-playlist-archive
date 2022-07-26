@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 230200,
       "name": "Akdi Pakdi (Kannada) [From \"Liger (Kannada)\"]",
       "url": "https://open.spotify.com/track/2rgdPkV1Jr7xvD9NMvqU4j"
@@ -5394,6 +5394,28 @@
     },
     {
       "album": {
+        "name": "Saagide (From \"Once Upon A Time in Jamaaligudda\")",
+        "url": "https://open.spotify.com/album/5vexXAVGAzzuZpk610eKvG"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172285,
+      "name": "Saagide",
+      "url": "https://open.spotify.com/track/34U18raCOgqvg4NmX61wj4"
+    },
+    {
+      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/27l0TiNth55npj71va4fQQ"
       },
@@ -6103,7 +6125,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 239530,
       "name": "Trademark (From \"James - Kannada\")",
       "url": "https://open.spotify.com/track/4OtsWdxJzYyd8OfmRwqRTA"

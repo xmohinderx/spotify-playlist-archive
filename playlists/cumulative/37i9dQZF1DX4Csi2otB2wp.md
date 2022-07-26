@@ -4,7 +4,7 @@
 
 > una lloradita tranqui
 
-75 songs - 4 hr 11 min - not published yet
+75 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/4kDGPPPKPFhlkXt9LrB0j3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Special Delivery",
+        "url": "https://open.spotify.com/album/7B0UmyvEgRMfLGgCOmtsER"
+      },
+      "artists": [
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "A Lesson In Leavin'",
+      "url": "https://open.spotify.com/track/0ImxI6CSbQsrYdhv9C8eUO"
+    },
+    {
+      "album": {
         "name": "Ocean Front Property",
         "url": "https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 250120,
       "name": "Baby I Lied",
       "url": "https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 215906,
       "name": "C.C. Waterback",
       "url": "https://open.spotify.com/track/1MQYA59Whe8zRBnGqgAvMP"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 224440,
       "name": "Cry Myself To Sleep",
       "url": "https://open.spotify.com/track/37V2ifieSCv4oM55BVXTjr"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 209866,
       "name": "Dim Lights, Thick Smoke (And Loud, Loud Music)",
       "url": "https://open.spotify.com/track/06ziqwxm8aiNcxr3f5FBHl"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 156106,
       "name": "Dixie On My Mind",
       "url": "https://open.spotify.com/track/7HdSVjZimbY8w0DX8aHLMv"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 322093,
       "name": "Dixieland Delight",
       "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 191173,
       "name": "Is It Still Over?",
       "url": "https://open.spotify.com/track/5LrOeu7a2hWpjkx7B8quGZ"
@@ -1743,6 +1761,24 @@
       "duration_ms": 162840,
       "name": "Jose Cuervo",
       "url": "https://open.spotify.com/track/5i3m1HZBzurdMu9zzjBY7r"
+    },
+    {
+      "album": {
+        "name": "Anne Murray The Best Of...So Far - 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "Just Another Woman In Love",
+      "url": "https://open.spotify.com/track/0E7O4jaoBZv7CGC8oRk61T"
     },
     {
       "album": {
@@ -2258,6 +2294,24 @@
     },
     {
       "album": {
+        "name": "Forrest Gump - The Soundtrack",
+        "url": "https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/3MpK9vnxxgYvh0CNeGvx6G"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (& Some That Will Be)",
         "url": "https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC"
       },
@@ -2269,7 +2323,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 153106,
       "name": "On the Road Again - Live",
       "url": "https://open.spotify.com/track/1OmKo4t4Bh95xQI6WGiUR3"
@@ -2504,6 +2558,24 @@
     },
     {
       "album": {
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/3ntl3KgaLDbSnnuai9AusB"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202506,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/4O7sDupv5V7qEBk96qOZyi"
+    },
+    {
+      "album": {
         "name": "Southern Comfort",
         "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
@@ -2533,7 +2605,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 213560,
       "name": "Somebody Should Leave",
       "url": "https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC"
@@ -2807,7 +2879,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 214880,
       "name": "The Closer You Get",
       "url": "https://open.spotify.com/track/6WJKrF37Bz6CKr3fOtxJHS"
@@ -3303,7 +3375,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-26",
       "duration_ms": 186706,
       "name": "Woke Up In Love",
       "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
@@ -3325,6 +3397,24 @@
       "duration_ms": 193400,
       "name": "You Look So Good In Love",
       "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
+    },
+    {
+      "album": {
+        "name": "Crystal Gayle: The Hits",
+        "url": "https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "You Never Gave Up On Me",
+      "url": "https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl"
     },
     {
       "album": {

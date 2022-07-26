@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-1,122 songs - 2 day 11 hr 11 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
+1,123 songs - 2 day 11 hr 14 min - [published](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,7 +428,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-03-27\* | 2021-05-05 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-05-23 | 2021-08-08 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-07-20 |  |
-| [HEAVEN](https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [HEAVEN](https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl) | 2:37 | 2022-07-23 |  |
+| [HEAVEN](https://open.spotify.com/track/3wOfTyr0VCDkWkTJlt8wPR) | [PA Sports](https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt) | [HEAVEN](https://open.spotify.com/album/7ufW8uOPWZXscMnz3r0POl) | 2:37 | 2022-07-23 | 2022-07-26 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-03 |
 | [Here We Go… Again \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-08 | 2022-01-10 |
 | [Hier](https://open.spotify.com/track/0vHtlgsJoyA91YMNdImnCL) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Hier](https://open.spotify.com/album/6N7N4yUUmb3Irc6L6oe9mf) | 2:31 | 2022-05-28 | 2022-05-30 |
@@ -450,6 +450,7 @@
 | [HÖR NICHT AUF \(feat\. Teesy\)](https://open.spotify.com/track/1CLYKdAae2TfCAHZM752sm) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Teesy](https://open.spotify.com/artist/0nSloWzkGWXwj1v8nOI0Ma) | [HÖR NICHT AUF \(feat\. Teesy\)](https://open.spotify.com/album/5JixD8qxq6O1AYXvppGKaC) | 4:01 | 2021-04-18 | 2021-04-19 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-08 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-12-15 | 2022-01-08 |
+| [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-07-25 |  |
 | [I Didn't Change My Number](https://open.spotify.com/track/7bcy34fBT2ap1L4bfPsl9q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 2:38 | 2021-08-01 | 2021-08-04 |
 | [I DON’T WANNA PARTY NO MORE](https://open.spotify.com/track/39qM1tojOMEnll1pHxAxhB) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [I DON’T WANNA PARTY NO MORE](https://open.spotify.com/album/6r6ZAtU32Z5NxJClLFZjD8) | 3:09 | 2022-03-05 | 2022-03-08 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-28 |

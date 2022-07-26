@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,136 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,978 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

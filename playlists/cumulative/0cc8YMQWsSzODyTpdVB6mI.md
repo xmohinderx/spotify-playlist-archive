@@ -4,11 +4,11 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-68 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+69 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 |  |
+| [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 | 2022-07-26 |
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 |  |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 |  |
@@ -61,6 +61,7 @@
 | [Roses](https://open.spotify.com/track/379cChcS43x1BGboAC6QUI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Kitsuné Maison Compilation 18: The Hysterical Advisory Issue](https://open.spotify.com/album/6fCFZtSy5xJs3t87nPriYZ) | 2:52 | 2021-11-05 |  |
 | [Run Away](https://open.spotify.com/track/2JZD1lj0NVmde3z5xpeUjb) | [Luc de la Croixx](https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59), [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We) | [Run Away](https://open.spotify.com/album/61bcm5fOZcG1zLc0XVfSp6) | 3:04 | 2022-04-08 | 2022-06-18 |
 | [Saint](https://open.spotify.com/track/0CGl71PsT1460rkbfUdbef) | [Tobias.wav](https://open.spotify.com/artist/5uMPzdNRQFj0lZ6h95gyxN) | [Saint](https://open.spotify.com/album/37iu4n6JCr1jz4KXEjTaMc) | 2:00 | 2022-06-13 |  |
+| [Salute](https://open.spotify.com/track/6CnEBsHGd2njYxN7brrmd7) | [YOU LOVE HER](https://open.spotify.com/artist/0Z7dYQpd2WCyp6UEXFWZ2c) | [Salute](https://open.spotify.com/album/2XrG6Uje2PSI1O8uFhIBbZ) | 4:12 | 2022-07-25 |  |
 | [Shy](https://open.spotify.com/track/37rholV7FQmDvCNV64ydkh) | [Harrison Lipton](https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP) | [Shy](https://open.spotify.com/album/4JZHZRLlXUs15fOzj9FumQ) | 3:03 | 2022-04-27 | 2022-07-07 |
 | [So High](https://open.spotify.com/track/5doFTkrPLq1AZYDvAIdn7x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Kitsuné America 2](https://open.spotify.com/album/2dVnDTtY8qzYbPTMmw88vX) | 3:06 | 2021-11-05 |  |
 | [Space Birds](https://open.spotify.com/track/6h09oYGOD7u3JJcVA9CvcC) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [TONG](https://open.spotify.com/artist/67cqVjONTBOiGNhEx9T8FB) | [Space Birds](https://open.spotify.com/album/2BMLZaPguH55Qc95D7ptOE) | 2:41 | 2022-06-24 |  |

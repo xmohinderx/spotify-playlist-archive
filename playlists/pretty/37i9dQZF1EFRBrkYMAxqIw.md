@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 44 | [He Won't Know](https://open.spotify.com/track/033PfaPCfbVDHCEHCRKfRF) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [He Won't Know](https://open.spotify.com/album/3oJ8BFFJ19MPMvjl4qk7wc) | 3:24 |
 | 45 | [Fireproof](https://open.spotify.com/track/7ApcKRTsTSGEKI14RwF7FB) | [Forever Bound](https://open.spotify.com/artist/7tklGFmhSD9jlcE506ZcZO) | [Fireproof](https://open.spotify.com/album/20uXkEjYVIGDnhO3TLBh4L) | 2:36 |
 | 46 | [Boys Do Cry](https://open.spotify.com/track/1gK4smjjI1rJWH8KzStaRI) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/1Y9CHStZf17ywRzOYAhYhC) | 2:46 |
-| 47 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
-| 48 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 |
+| 47 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 |
+| 48 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
 | 49 | [All I Know](https://open.spotify.com/track/0Rw1RzRhZ6Qlr6nRnEVUkR) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [All I Know](https://open.spotify.com/album/6Md1me9GYeZdb1GBSHfUHt) | 3:11 |
 | 50 | [Curious](https://open.spotify.com/track/6APT6IH8fpzcnnPiI76XBH) | [Madyx](https://open.spotify.com/artist/0yMcs3BSd3sReeuzbyZGVK) | [Curious](https://open.spotify.com/album/1hjSD6LF98EBRSQrL3Py88) | 3:38 |
 | 51 | [When I'm Alone](https://open.spotify.com/track/7bFWZ8rbEt8qxddz44Is8W) | [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7) | [When I'm Alone](https://open.spotify.com/album/0fRUzWQyis7uWNvnX04K57) | 2:28 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 65 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 66 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc2NDUyMDEsMDAwMDAwMDA1OWRjMTRiY2ExNWFjNjAwYjkwMzI0YjFjNmU3YTBjZg==`
+Snapshot ID: `Mjc2NDY2NDEsMDAwMDAwMDA5ZDllMDkzMGEyMmVhMDI2NDg3MGI2MzA0MWM1NjU4MA==`

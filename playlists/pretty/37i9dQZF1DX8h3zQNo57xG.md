@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,479 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,546 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

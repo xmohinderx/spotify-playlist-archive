@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: King Gnu
 
-364 songs - 22 hr 44 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+365 songs - 22 hr 47 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Crayon](https://open.spotify.com/track/3ZEdrRIGjFpXZSzfjwWmDQ) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f) | [Crayon](https://open.spotify.com/album/1VlDPGkPriiK2uj3bFxyHE) | 2:56 | 2022-06-05 | 2022-07-25 |
 | [Cry Baby](https://open.spotify.com/track/6wDntdm888mDo458RaYjGl) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:01 | 2021-12-19 | 2022-01-10 |
 | [D\(evil\) feat\. yama](https://open.spotify.com/track/6hmsSDaSJwLDlZHPOyEkiH) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/302JQzVHeD8JeKrbDNCp3B) | 2:41 | 2022-02-06 | 2022-04-25 |
+| [Decision](https://open.spotify.com/track/28zFjzWhW87CSuGtn9PHJZ) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Decision](https://open.spotify.com/album/0ZbngirqcVnHwtTygqjwZn) | 3:22 | 2022-07-25 |  |
 | [Diary](https://open.spotify.com/track/3zpQOYESpZj2mDPrgy3fRT) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Diary](https://open.spotify.com/album/3AYy5886YMf41BzIt8ntMy) | 4:02 | 2021-12-19 | 2022-01-24 |
 | [Don’t Wake Me Up](https://open.spotify.com/track/75kDBnxxZLRLJoP7qyVuTX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Don’t Wake Me Up](https://open.spotify.com/album/4jtphbkIygNlWbAvstfIIv) | 3:08 | 2022-07-20 | 2022-07-25 |
 | [DOSE](https://open.spotify.com/track/1xHmQiauXqLWwRSe99AIUF) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [REVERSi](https://open.spotify.com/album/66z5ACFBH2aUery9SBVLAp) | 2:40 | 2022-02-13 | 2022-03-07 |
@@ -266,7 +267,7 @@
 | [ラストシーン](https://open.spotify.com/track/1YJhvLLaF3gyFQoFGrawoI) | [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [ラストシーン](https://open.spotify.com/album/6v1gVuQqiFhyrko0dsj15x) | 4:29 | 2021-12-19 | 2022-01-17 |
 | [ランブル](https://open.spotify.com/track/5aZKkyPqkIzOeimcrlhPvg) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Get Set](https://open.spotify.com/album/2J8Wz3Krda4vLYRzrFlFOb) | 4:02 | 2022-03-13 | 2022-04-18 |
 | [リップル](https://open.spotify.com/track/3ovSCyUHXi2QUlwgyOC3zx) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [リップル](https://open.spotify.com/album/5OYTQcR3aufuIJZ9Z0AJJb) | 2:44 | 2022-06-26 |  |
-| [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2022-06-19 |  |
+| [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2022-06-19 | 2022-07-26 |
 | [ローリア](https://open.spotify.com/track/52dyV2GHDKN6bvakUyoqKz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ローリア](https://open.spotify.com/album/76qgXZL5rOEtTlXv78oLim) | 4:04 | 2022-01-16 | 2022-01-24 |
 | [ワンルーム](https://open.spotify.com/track/2sBfhWqWDvPtkVTn1C3sef) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ワンルーム](https://open.spotify.com/album/7CkrRPbmRr2zAgoSly512W) | 4:38 | 2021-12-19 | 2021-12-27 |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2021-12-19 | 2022-03-14 |

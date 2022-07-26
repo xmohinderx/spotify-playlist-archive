@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-58 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
+59 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [The Scarecrow Song](https://open.spotify.com/track/0P5xO1ryLq5VINGHO2jejo) | [Music House for Children](https://open.spotify.com/artist/0EsoagTOBDFNYUAmYuh5TR) | [Nature With Me](https://open.spotify.com/album/194T0fURuku2acIhl62a6S) | 1:50 | 2022-04-01 |  |
 | [This Little Pig Went to Market](https://open.spotify.com/track/4kQSQibvlnU5nKGXYxmTfI) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong Best Kids Songs](https://open.spotify.com/album/6sjyABKKHHt7nRZ9J6P3JU) | 1:33 | 2022-04-01 |  |
 | [This Little Piggy](https://open.spotify.com/track/0Dj0uuiaI5F9OGMARaWUqz) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs, Vol\. 2](https://open.spotify.com/album/0Dke1pYG9ej0mSl7VyTBUP) | 1:37 | 2022-04-01 |  |
+| [This Little Piggy \- Stayed Home](https://open.spotify.com/track/4nzjdxV6af7H9OwUvE36Kj) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Counting with Animals](https://open.spotify.com/album/0SrUMzeeXRctzQupylcVDo) | 2:00 | 2022-07-25 |  |
 | [Three Little Pigs](https://open.spotify.com/track/6tvZ0W9XvXEKpQsk4P5vro) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 5](https://open.spotify.com/album/5mhJUvMa9NTf9USkLEpq0T) | 3:09 | 2022-04-01 |  |
 | [Tractors on a Farm](https://open.spotify.com/track/3GbgiHl3jMiJ3Fslof7TaM) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Vehicle Songs, Vol.3](https://open.spotify.com/album/7EF9MW7H4kwbfyCZCgGHdP) | 2:01 | 2022-04-01 |  |
 | [Tractors on the Farm](https://open.spotify.com/track/2XZ1gABmVN1Zpf0xh2sZ7j) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Excavator & More Vehicle Songs for Kids](https://open.spotify.com/album/101RHMWjHd66NDuVSM2oKx) | 2:03 | 2022-04-01 |  |

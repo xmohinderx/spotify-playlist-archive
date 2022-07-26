@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-51 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
+52 songs - 2 hr 59 min - [published](https://open.spotify.com/playlist/1o7EepyilIUDZHnRGHzKt5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Do Me \- Remix](https://open.spotify.com/track/48ZJQls86YBeO0oSvsZvDf) | [Alloy Malik](https://open.spotify.com/artist/7iGL7mxv4v0aj4EtwQox88), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM), [J\-Wats](https://open.spotify.com/artist/2hJigwTqQU3CFE4AUGb1Qv) | [Do Me \(Remix\)](https://open.spotify.com/album/2ck68T2ILwr0m3x9lJjPeB) | 2:48 | 2022-06-06 |  |
 | [Don't Cry](https://open.spotify.com/track/68WyaHiGQ1tb8qumA6l8P2) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 4:29 | 2022-06-06 |  |
 | [Evergreen](https://open.spotify.com/track/5Uj7Pb5JlONVHEQLKzoiF3) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ), [Afrie](https://open.spotify.com/artist/5TfXPuuJjjcEDJjeSbKd2A) | [Love and Light](https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ) | 3:19 | 2022-06-06 |  |
+| [Grand Pa](https://open.spotify.com/track/0Ty3jrWi07X1bYyiHNX4q5) | [Dreventy](https://open.spotify.com/artist/20rJZ2igPSXRYRp09Kppb3) | [Blue Detail](https://open.spotify.com/album/0iVCEpollUPZvixT5Nwzyz) | 2:46 | 2022-07-25 |  |
 | [Habibi](https://open.spotify.com/track/5iz5aaY16uQ29mkNXsiBre) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS) | [No Pressure](https://open.spotify.com/album/4JxJjVcjULbJNQxBPpH324) | 3:23 | 2022-06-06 |  |
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-06 |  |
 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 | 2022-06-06 |  |
@@ -52,7 +53,7 @@
 | [SIGANYE \(feat\. Axon\)](https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Axon](https://open.spotify.com/artist/6ULfcssaluvJyhAxMcVeds) | [WENA CHAPTER 2](https://open.spotify.com/album/09QQkaDBulEZx9DE5chbuV) | 2:18 | 2022-06-06 |  |
 | [Slowly](https://open.spotify.com/track/7e7IkQVem95b0JLGY0F06z) | [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Slowly](https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT) | 3:58 | 2022-06-06 |  |
 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 | 2022-06-06 |  |
-| [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 |  |
+| [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 | 2022-07-26 |
 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 | 2022-06-06 |  |
 | [Tingatsiga](https://open.spotify.com/track/3XmdY82JfJEEsCnOs1MqmP) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Ssebo Lule](https://open.spotify.com/artist/55qMdpIT8tALCAi9A8Adea) | [Niwe Akeine](https://open.spotify.com/album/56P2WzBZ9fmYvRBC1ydNQE) | 2:43 | 2022-06-06 |  |
 | [Uber Guy.](https://open.spotify.com/track/2tOS1uu6AWw5Z2Y3gUq2WJ) | [J.C Muyonjo](https://open.spotify.com/artist/0BtGF4dneF1Jf95UKn8ZS9) | [Kidandali](https://open.spotify.com/album/6Fj6D9GAUoPGi30S4fvLMF) | 3:23 | 2022-06-06 |  |

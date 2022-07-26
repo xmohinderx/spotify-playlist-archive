@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Een xxclusieve nieuwe track van Bokoesam!
+> Weer een xclusieve nieuwe track van Bokoesam! 'Outside' feat\. Architrackz
 
-83 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+84 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Neem Op](https://open.spotify.com/track/1hC6NHGnk5TvjQT9mwc9Ad) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Neem Op](https://open.spotify.com/album/1VRYLGqCEV8cMu8NPJSoDd) | 3:04 | 2022-07-14 |  |
 | [Nerdesin](https://open.spotify.com/track/3PAMPpiORJKXAIxMhfDp66) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Nerdesin](https://open.spotify.com/album/7pRjDa4x9Nzr3KGXeTSGb1) | 2:56 | 2022-07-21 |  |
 | [Op De Bon](https://open.spotify.com/track/4q1sGBJkvEfuHyAdB7c47h) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Op De Bon](https://open.spotify.com/album/6gwo7GHawe5c1mZxztIysP) | 2:27 | 2022-07-14 |  |
+| [Outside \(feat\. Architrackz\)](https://open.spotify.com/track/1BNJ9qClLhDJuMdliul9ae) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Doe Het Nou Gewoon](https://open.spotify.com/album/3ZPWoeM33VGg8mFopTBihQ) | 2:38 | 2022-07-25 |  |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2022-07-14 |  |
 | [Pampanana](https://open.spotify.com/track/4uMVTZnalYg4JwX5vDmFTB) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Pampanana](https://open.spotify.com/album/0cInOxATodfivQvMbYug37) | 2:25 | 2022-07-14 |  |
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-07-14 |  |
