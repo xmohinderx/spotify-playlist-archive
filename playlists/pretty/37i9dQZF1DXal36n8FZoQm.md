@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,314 likes - 123 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,298 likes - 123 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 37 | [Ignite](https://open.spotify.com/track/4szIHLlonxnvu9WoR6Ifz6) | [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Disco Pop 2](https://open.spotify.com/album/7jW0A2xM7cWNiQIlzoegIJ) | 3:06 |
 | 38 | [In Your Eyes \(feat\. Kenny G\) \- Remix](https://open.spotify.com/track/1SySkCqhEG6Z68o2n07Bsr) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/2MouaLzzY4HnsUYJYSgu2o) | 4:16 |
 | 39 | [LA / Alone](https://open.spotify.com/track/396DMhY0I2y5wSIIpirX4m) | [SRRY](https://open.spotify.com/artist/54AggBUiCq1Yo04s4EqXv2) | [LA / Alone](https://open.spotify.com/album/0TiXa5oN4JwsV9rUbSRo0U) | 5:50 |
-| 40 | [I’m Feelin’ it](https://open.spotify.com/track/1EUkhXskMhltNATNWzUVvm) | [Rhys Stephen Fletcher](https://open.spotify.com/artist/4YZtSWJCRcXiJF2J7Yeurz), [Georgina Daisy Birch](https://open.spotify.com/artist/6fe9P31v3uFnfrZm9ZbQu1), [Rusty B](https://open.spotify.com/artist/7DI4y02F2YrdSDw68dpYnU) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:42 |
+| 40 | [I’m Feelin’ it](https://open.spotify.com/track/1EUkhXskMhltNATNWzUVvm) | [Rhys Fletcher](https://open.spotify.com/artist/2bp9TWW21l3VDbLprItUud), [Georgina Daisy Birch](https://open.spotify.com/artist/6fe9P31v3uFnfrZm9ZbQu1), [Rusty B](https://open.spotify.com/artist/7DI4y02F2YrdSDw68dpYnU) | [Perc Pop 2](https://open.spotify.com/album/3FIG7MhtpdvkjRlFX8TOU4) | 2:42 |
 | 41 | [Hear My Heart](https://open.spotify.com/track/1PDkqKq5PtfjwsoqnQctAz) | [Midnight Mantics](https://open.spotify.com/artist/0kcInZGL88CR9QoMeUsdwv) | [Vibe City](https://open.spotify.com/album/5qB9fJHiKOpeUxiOkepKBj) | 4:04 |
 | 42 | [The Moment Of The Truth](https://open.spotify.com/track/0r02aCNepGuuVHQfG0v1jB) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:44 |
 | 43 | [Consolation No\. 3 in D\-Flat Major, S\. 172](https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:19 |

@@ -2,7 +2,7 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Rawan Bin Hussain.
+> Top Sharqi hits right now\. Cover: Wael Kfoury.
 
 73 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 

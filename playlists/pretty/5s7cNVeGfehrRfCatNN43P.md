@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,364 likes - 18 songs - 56 min 5 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,374 likes - 18 songs - 56 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 10 | [pushing daisies](https://open.spotify.com/track/1IkWKV8rHLTgybKPmNC3PN) | [Voidie](https://open.spotify.com/artist/2VAMqPJ0y15P6bK36DHLzN) | [claustrophobic](https://open.spotify.com/album/6sErIHFpcyZmqxDCCxojjI) | 2:41 |
 | 11 | [The Game](https://open.spotify.com/track/49SCLylx3KLtdziq2loGP4) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [The Game](https://open.spotify.com/album/049XtokSoLByWiPeoXegjH) | 3:23 |
 | 12 | [When The Sun Goes Down](https://open.spotify.com/track/3a7wKXGqjO2MMhx2RI7srT) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Tom Cane](https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme) | [Odyssey](https://open.spotify.com/album/4Jx1PYusjUa6ofuFH945Oi) | 4:04 |
-| 13 | [Lovesick](https://open.spotify.com/track/15wcjvSlz1OLbHfHqge2KX) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Milk Teeth](https://open.spotify.com/album/1FjMyKjgBIz7ls3kwuKZP7) | 3:17 |
+| 13 | [Lovesick](https://open.spotify.com/track/15wcjvSlz1OLbHfHqge2KX) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Milk Teeth EP](https://open.spotify.com/album/1FjMyKjgBIz7ls3kwuKZP7) | 3:17 |
 | 14 | [Vampire \(with Alaska Reid\)](https://open.spotify.com/track/5u4wEQcn3tnfGAyXxS7BBr) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D), [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Vampire \(with Alaska Reid\)](https://open.spotify.com/album/60qBRNYfiAbNa6nfqn34OW) | 3:14 |
 | 15 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18) | 3:02 |
 | 16 | [Can't Run Forever](https://open.spotify.com/track/7q6X2Zp3Gwhy8K1Fdbfuk1) | [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Can't Run Forever](https://open.spotify.com/album/0Ee2mkNhoyhR60THR6Rx4F) | 3:21 |

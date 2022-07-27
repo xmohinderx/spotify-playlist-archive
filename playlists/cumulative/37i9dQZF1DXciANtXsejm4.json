@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 239796,
       "name": "Adicto a Tu Piel",
       "url": "https://open.spotify.com/track/0br8d63wjkqKph7c7YZeTV"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Dibujando Corazones",
+        "url": "https://open.spotify.com/album/72uPiWO3kkkE1s8LcaxWOy"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes de Santa Fe",
+          "url": "https://open.spotify.com/artist/26x7n1nOEcmcvEShGDRgQS"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229060,
+      "name": "Amigos Con Derecho",
+      "url": "https://open.spotify.com/track/6xqE4KsNVaBHXyVSnGOZjF"
+    },
+    {
+      "album": {
         "name": "Le Doy Gracias a la Vida (Y a Todos)",
         "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
@@ -145,7 +163,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 203650,
       "name": "Atrapado en Tus Redes",
       "url": "https://open.spotify.com/track/2ztRpiApkVtZrYHZKDgaLH"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 179213,
       "name": "Corazon Mentiroso",
       "url": "https://open.spotify.com/track/12vjZJEWFst8vhW4k9saOv"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 189629,
       "name": "Dos Hombres y un Destino",
       "url": "https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 235226,
       "name": "Duele",
       "url": "https://open.spotify.com/track/6xfJcYndS35K8q4zbgRG9F"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 200386,
       "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
       "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 259362,
       "name": "Enganchados del Recuerdo: La Negra Soledad / Sin Alma y Sin Coraz\u00f3n / La Diosa del Baile \"Batunguera\"",
       "url": "https://open.spotify.com/track/0Ochm4tvUjGFJInFHpLzIQ"
@@ -867,7 +885,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 218830,
       "name": "Entre el Odio y el Amor",
       "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 241705,
       "name": "Esta Noche Quiero Brandy",
       "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 177345,
       "name": "Los Amigos Que Yo Tengo",
       "url": "https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 186435,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 210426,
       "name": "No Me Di Cuenta",
       "url": "https://open.spotify.com/track/3XtkRaIHYhaeio9C5MK7MU"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 227960,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/25JRvUTvdnLwxdog75mJSY"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 233429,
       "name": "Placer y Olvido",
       "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 239595,
       "name": "Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/6kotBBh3pobT8sxHBKE69U"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 294093,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 232248,
       "name": "Te Llevas Mi Vida",
       "url": "https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 190560,
       "name": "Te Propongo",
       "url": "https://open.spotify.com/track/0bS1oBwUpOe60oJW6ypPVM"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 186986,
       "name": "Vuelve Mi Amor",
       "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 212626,
       "name": "Y t\u00fa te vas",
       "url": "https://open.spotify.com/track/6X4fk1YMYQNIwDaVnVD3Ut"

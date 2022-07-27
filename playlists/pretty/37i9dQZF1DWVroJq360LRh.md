@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,197 likes - 108 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,232 likes - 108 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 107 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 |
 | 108 | [Let Me Love You \- Andrew Watt Acoustic Remix](https://open.spotify.com/track/1LcxOZGMdAuScNbIN2Fvcq) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Let Me Love You \(Andrew Watt Acoustic Remix\)](https://open.spotify.com/album/7AXMTCR9Ufyj64Q02H8xFa) | 3:26 |
 
-Snapshot ID: `MTY1NDI0MzY5NSwwMDAwMDAxMzAwMDAwMTgxMjg5YjlhMGYwMDAwMDE3MGM0OWJkMGM5`
+Snapshot ID: `MTY1ODg0MDU4MCwwMDAwMDAxNDAwMDAwMTgyM2E5YTdmYzgwMDAwMDE4MjNhOWEzM2Y2`

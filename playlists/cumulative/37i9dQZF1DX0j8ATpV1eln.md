@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-74 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
+75 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/1ClXmwh1TCTMLqrrjuRVQf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ever☆Blooming! \- 夏組Ver.](https://open.spotify.com/track/636zg2vDarHUZAqOpvxwy7) | [Natsugumi](https://open.spotify.com/artist/5vSLCuXUSt00blwLrLSGLJ), [向坂椋\(CV:山谷祥生\)](https://open.spotify.com/artist/37NA2NbkP7FJFDIEwu4Szz), [斑鳩三角\(CV:廣瀬大介\)](https://open.spotify.com/artist/7qJ9f6SgueSyyqwEwOV07R), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [瑠璃川幸\(CV:土岐隼一\)](https://open.spotify.com/artist/1X4NDy8KcpAa13JIIKwY1U), [三好一成\(CV:小澤廉\)](https://open.spotify.com/artist/0xPuqrpsdMOBbYZ67xDNw6), [兵頭九門\(CV:畠中祐\)](https://open.spotify.com/artist/1pjEl5QsnV2SHCkZzMP013) | [A3! BRIGHT SUMMER EP](https://open.spotify.com/album/09BOEZdtfc7Ddacz29f51t) | 3:54 | 2022-04-26 |  |
 | [Grateful Story\(new mix\)](https://open.spotify.com/track/6wVbJgeORl2DoVo8b3VF1E) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [O×T COMPLETE SONGS "ACE OF DIAMOND"](https://open.spotify.com/album/34B9mkdMVRjQLxXmrsCYkj) | 4:39 | 2022-04-26 |  |
 | [Hands](https://open.spotify.com/track/5FZajvwwwvNWlir4tRGJm2) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ウルトラマンR/B オープニング主題歌 Hands](https://open.spotify.com/album/3buYEfufCsJ2ABhZ2zpddB) | 3:49 | 2022-04-26 |  |
+| [HOLLOW HUNGER](https://open.spotify.com/track/3RNSTLShlhmMXtixgofPlX) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「オーバーロードIV」オープニングテーマ「HOLLOW HUNGER」](https://open.spotify.com/album/5mUZKHJHNfGZmAx901Dqff) | 3:43 | 2022-07-26 |  |
 | [Let's Go!! \~Sing For Tomorrow\~ \- 1コーラスVer.](https://open.spotify.com/track/7AvJWFWr2SwCUf5eUZdtd2) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [MICHI](https://open.spotify.com/artist/4yFpyuhBThsgE8gypN5v0r) | [Let's Go!! \~Sing For Tomorrow\~](https://open.spotify.com/album/4n1zdCX6uYoaLcAvc9Ej9P) | 1:57 | 2022-04-26 |  |
 | [MANKAI☆開花宣言](https://open.spotify.com/track/0PoSGBxDcfyb6GXJ3Bn6qy) | [A3ders!](https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv), [佐久間咲也\(CV:酒井広大\)](https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC), [皇天馬\(CV:江口拓也\)](https://open.spotify.com/artist/5W3qMhWABumuWMdkg9tHH5), [摂津万里\(CV:沢城千春\)](https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh), [月岡紬\(CV:田丸篤志\)](https://open.spotify.com/artist/4VaShRsxkpIJRszVDJAXpt) | [MANKAI☆開花宣言](https://open.spotify.com/album/3LmtofxTqGX10LEuflMdVY) | 3:52 | 2022-04-26 |  |
 | [MANKAI☆開花宣言](https://open.spotify.com/track/76UISFoigQfoVJ8rQPlRIL) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [カバーアルバム「仮歌」](https://open.spotify.com/album/0bj4Hweje0nBU1b8Abnc1H) | 3:49 | 2022-04-26 |  |

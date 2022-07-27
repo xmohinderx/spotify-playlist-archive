@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 5 years\. <br/>Cover : Pushpa
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,607 likes - 56 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,760 likes - 56 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 20 | [Oo Aadapilla](https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Ananta Sriram](https://open.spotify.com/artist/0yzw4DhGyaUCd87BFCPjel) | [Ashoka Vanamlo Arjuna Kalyanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le) | 4:57 |
 | 21 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 | 22 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 |
-| 23 | [Ma Ma Mahesha](https://open.spotify.com/track/18rdJauTStd04N56UetMmZ) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Srikrishna](https://open.spotify.com/artist/03zNmGIzwWA6dGKXqzoHwJ), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata](https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw) | 4:06 |
+| 23 | [Ma Ma Mahesha](https://open.spotify.com/track/18rdJauTStd04N56UetMmZ) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata](https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw) | 4:06 |
 | 24 | [Laahe Laahe](https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Acharya](https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG) | 4:07 |
 | 25 | [Bhale Bhale Banjara](https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Acharya](https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv) | 4:19 |
 | 26 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 |

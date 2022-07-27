@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 232826,
       "name": "Amor Real",
       "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 179280,
       "name": "Conversaciones",
       "url": "https://open.spotify.com/track/0y3ktyFql7gzD7Tym48pNK"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 299680,
       "name": "Dios Es Poderoso (God Is Able)",
       "url": "https://open.spotify.com/track/56K53QX4tlStTlC5X33sLd"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 333170,
       "name": "El Gran Yo Soy",
       "url": "https://open.spotify.com/track/74qC6iJw5alC14dHvSpT23"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 213081,
       "name": "En El Mar De Tu Gracia",
       "url": "https://open.spotify.com/track/5CyjKpEdvD4tcasCfGNWln"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 369420,
       "name": "Gracia",
       "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 210364,
       "name": "Grito de Jubilo",
       "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
@@ -1169,10 +1169,28 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 226040,
       "name": "Le Pertenezco",
       "url": "https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0"
+    },
+    {
+      "album": {
+        "name": "Todos Unidos (Discograf\u00eda Completa)",
+        "url": "https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs"
+      },
+      "artists": [
+        {
+          "name": "Jackson Gomez",
+          "url": "https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344283,
+      "name": "Leon de Jud\u00e1",
+      "url": "https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO"
     },
     {
       "album": {
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 222229,
       "name": "Llegare (Remastered) [feat. Zeri]",
       "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 359999,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 236600,
       "name": "Me Basta",
       "url": "https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 233181,
       "name": "Nada Sin Ti",
       "url": "https://open.spotify.com/track/7r7l8w5hSZETnEEAKlIAu2"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 206865,
       "name": "No Mas",
       "url": "https://open.spotify.com/track/47Pw8T2m3QUVog4YE3yxLm"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 367773,
       "name": "Que Baje la Nube",
       "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 256464,
       "name": "Se Nota En Tus Ojos",
       "url": "https://open.spotify.com/track/3sJ7NkecvtR9razQi5ZjQF"
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 379651,
       "name": "Te Fijas en Mi",
       "url": "https://open.spotify.com/track/1xmvTqUsVYtNc3o8Eli0Ff"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 228970,
       "name": "Tu Amor Lo Vale Todo",
       "url": "https://open.spotify.com/track/5Fchjw21HPd4hI4GnUtEp4"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 319613,
       "name": "Tu Gran Amor",
       "url": "https://open.spotify.com/track/6dIhiC4pv1LzZiUW1P63wi"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 243967,
       "name": "Tu Hijo Soy",
       "url": "https://open.spotify.com/track/3Kei8GydFBPI0qwaBdMxre"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 197685,
       "name": "Tu Lluvia Esperar\u00e9",
       "url": "https://open.spotify.com/track/1sBurd3VW9rUjQt5Azrzke"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 182772,
       "name": "T\u00fa Eres Mi Gozo",
       "url": "https://open.spotify.com/track/5TrAJENHbxbBXSveIjJkyv"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 255537,
       "name": "Viene De Ti",
       "url": "https://open.spotify.com/track/7Ck7diBtjNRVtwlcB2hOb3"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 361130,
       "name": "Vivo Est\u00e1s",
       "url": "https://open.spotify.com/track/1fmDLQyhd0s34rf61l5mp4"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 250720,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 271508,
       "name": "\u00c9l Es Vida",
       "url": "https://open.spotify.com/track/4gLSx7FkxOPvgk5iPs9L1f"

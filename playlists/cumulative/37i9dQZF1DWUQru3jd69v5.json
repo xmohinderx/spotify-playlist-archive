@@ -2221,7 +2221,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 144298,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/5z4h4xGcFDkCz3bqhWolE2"
@@ -2655,7 +2655,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 159895,
       "name": "Papavero",
       "url": "https://open.spotify.com/track/2em60ChXtDHc886blbb98K"
@@ -2747,6 +2747,24 @@
       "duration_ms": 163000,
       "name": "PICCOLI",
       "url": "https://open.spotify.com/track/1FcxGXTJDdTTtkWXT9mVVc"
+    },
+    {
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "album": {
@@ -2939,7 +2957,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 176259,
       "name": "Resta Vivo",
       "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
@@ -2965,6 +2983,28 @@
       "duration_ms": 149333,
       "name": "Right",
       "url": "https://open.spotify.com/track/0erdE6iRaKH5IfAcYAFzqg"
+    },
+    {
+      "album": {
+        "name": "Immigrato",
+        "url": "https://open.spotify.com/album/2TDtTQaaS9DH6KnZsgHP5r"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153273,
+      "name": "Robe Da Maranza",
+      "url": "https://open.spotify.com/track/1IV4OGA1v2kBldTSmgIjy0"
     },
     {
       "album": {
@@ -3297,6 +3337,24 @@
       "duration_ms": 154285,
       "name": "Towro Industria",
       "url": "https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y"
+    },
+    {
+      "album": {
+        "name": "TRENCHES",
+        "url": "https://open.spotify.com/album/0yHDhz1SKtKgwWtFy8Xp22"
+      },
+      "artists": [
+        {
+          "name": "Pablo CT1",
+          "url": "https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173837,
+      "name": "TRENCHES",
+      "url": "https://open.spotify.com/track/30Dvav5aDOVbMxBow9H2dR"
     },
     {
       "album": {

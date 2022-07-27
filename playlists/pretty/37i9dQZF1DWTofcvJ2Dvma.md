@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,047 likes - 193 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,080 likes - 193 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTofcvJ2Dvma.md) - [plain]
 | 192 | [Validation](https://open.spotify.com/track/3fgxxLQpm2ShpABFIh03O6) | [Sinebreak](https://open.spotify.com/artist/48LPQpMU3AOZ1JJrJGAfVA) | [Validation](https://open.spotify.com/album/3wj5LEDuZj4EsshE0RzdtA) | 2:01 |
 | 193 | [Lotus](https://open.spotify.com/track/77sqStYx46ikgOj5EVKbVM) | [Friedmann](https://open.spotify.com/artist/7HrVIqB1nckvi1pdAajsS8) | [Lotus](https://open.spotify.com/album/0leqCLmEeawlBmN5nXP2TS) | 3:02 |
 
-Snapshot ID: `MTY1NTkxMTc2NywwMDAwMDAzMjAwMDAwMTgxOGMwODVkNDIwMDAwMDE3MGFmMzNjYjgz`
+Snapshot ID: `MTY1ODg0NTEzMiwwMDAwMDAzMzAwMDAwMTgyM2FkZmY1MjEwMDAwMDE4MjNhZGZiMWE1`

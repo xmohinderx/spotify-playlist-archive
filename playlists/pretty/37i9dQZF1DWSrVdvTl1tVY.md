@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Joshwa + Jaded + Eliza Legzdina
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,296 likes - 91 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,471 likes - 91 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

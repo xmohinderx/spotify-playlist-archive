@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "About It",
+        "url": "https://open.spotify.com/album/6PLOjp6jntSAelOFXQkUW0"
+      },
+      "artists": [
+        {
+          "name": "colorcase",
+          "url": "https://open.spotify.com/artist/4T6xQjsTOtQOa2jHp6yX76"
+        },
+        {
+          "name": "Your Neighbors",
+          "url": "https://open.spotify.com/artist/6mpyU2azr3zfZDY9k8w5GP"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265834,
+      "name": "About It",
+      "url": "https://open.spotify.com/track/2QrKsqIRhgGpPRvGP0C5VA"
+    },
+    {
+      "album": {
         "name": "All Hallows Grieve",
         "url": "https://open.spotify.com/album/7Bq7CAwEJ1BxTcMAEvypFm"
       },
@@ -131,7 +153,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 279339,
       "name": "anymore",
       "url": "https://open.spotify.com/track/7AJZthxqKgdpNmoeo0QSwV"
@@ -239,7 +261,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 245200,
       "name": "Bones",
       "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
@@ -279,7 +301,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 131851,
       "name": "Buggin",
       "url": "https://open.spotify.com/track/1wjHKZGLuZarl2lY16CQ1H"
@@ -351,7 +373,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 167356,
       "name": "Bus Line 200",
       "url": "https://open.spotify.com/track/3M9yRhgrIHDa9SsKOHct9y"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Can Someone Take Me Home?",
       "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
@@ -875,7 +897,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 250291,
       "name": "Faisal (envelops me)",
       "url": "https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp"
@@ -1049,7 +1071,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 368360,
       "name": "Friends In Secret",
       "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
@@ -1241,7 +1263,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 185779,
       "name": "Head on Fire - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J"
@@ -1487,7 +1509,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/65TiEAGo8U7RFXQwlsjjxh"
@@ -1971,7 +1993,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 205365,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/7y6CCgj3BK8zgqK0mG6R2X"
@@ -2247,7 +2269,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 225600,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0ixGQPZSCRllfWBNrG2E31"
@@ -2489,7 +2511,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 306000,
       "name": "Sneak Away With Me",
       "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
@@ -2507,7 +2529,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 240946,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt"
@@ -2597,7 +2619,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 117187,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/5Skth9SmIvbaZUTPaLm5v3"
@@ -2615,7 +2637,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/3FBiYeUHxCbgsQmRz10abu"
@@ -2669,7 +2691,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 207149,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/2GQpMLpOu3dpCoYX5jADt9"
@@ -2741,7 +2763,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 249956,
       "name": "Tieduprightnow",
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
@@ -2857,7 +2879,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 202920,
       "name": "VOCES",
       "url": "https://open.spotify.com/track/2PODONHWxMJ2nwWQvzXM6T"
@@ -3041,7 +3063,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 128009,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/5XNBDxPwI44BnYCY2QDisQ"

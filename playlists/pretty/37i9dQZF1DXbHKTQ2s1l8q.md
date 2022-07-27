@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,472 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,475 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 102 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 |
 | 103 | [Dew](https://open.spotify.com/track/6JqfE4pSUOgILE5nbkjnRQ) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Dew](https://open.spotify.com/album/0EZFTQf7FtZP5N8Qqwz4ip) | 2:32 |
 
-Snapshot ID: `MTY1MzA0NDQ0MiwwMDAwMDAyMjAwMDAwMTgwZTEyMDc0NTYwMDAwMDE3OWY1ZjQ5YjYy`
+Snapshot ID: `MTY1ODgyOTY4NywwMDAwMDAyMzAwMDAwMTgyMzlmNDRiYjcwMDAwMDE4MjM5ZjI2ZTMy`

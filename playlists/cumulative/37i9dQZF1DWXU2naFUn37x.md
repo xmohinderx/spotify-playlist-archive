@@ -4,7 +4,7 @@
 
 > La casa dello street rap italiano\. Cover: Rhove, Paky
 
-109 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
+110 songs - 5 hr 12 min - [published](https://open.spotify.com/playlist/2xFrA1gU60YSyblsw3BI3i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Tiki Taka](https://open.spotify.com/track/50MWpZN2WAcfkeKAaU5fvY) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Tiki Taka](https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa) | 2:20 | 2022-05-11 | 2022-07-08 |
 | [Towro Industria](https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria](https://open.spotify.com/album/1QV1q7sKhU756R4S4maDMu) | 2:34 | 2022-05-11 | 2022-05-13 |
 | [Tuta Lacoste \(feat\. Timal\)](https://open.spotify.com/track/5EqtRjjXWq4sxL3c6PDK8q) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 3:28 | 2022-06-09 |  |
+| [Téléphone](https://open.spotify.com/track/76YfUp0DTnERvtZokyU6jm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Téléphone](https://open.spotify.com/album/7Ma1ztWIbhK1vX1Fu24WEt) | 3:32 | 2022-07-26 |  |
 | [Una Chance](https://open.spotify.com/track/5brevnJdMxziQov6zyaQ1f) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Dbackinyahead](https://open.spotify.com/artist/2aAamzcgx2XyPGJevTZRzz) | [Una Chance](https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy) | 2:53 | 2022-05-19 | 2022-05-27 |
 | [VITA PUTTANA](https://open.spotify.com/track/0haJKf3qe6DkJziBdEG7o4) | [Touché](https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [VITA PUTTANA](https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA) | 3:31 | 2022-06-23 | 2022-07-22 |
 | [WAKANDA](https://open.spotify.com/track/4ApTJO5GLmci7uNivte6mE) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [Miller](https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs) | [WAKANDA](https://open.spotify.com/album/65snFdLpTuZB0dYzHscNpg) | 2:16 | 2022-05-12 | 2022-06-03 |

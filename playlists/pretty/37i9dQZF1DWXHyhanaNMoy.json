@@ -1,13 +1,33 @@
 {
-  "description": "Weer een xclusieve nieuwe track van Bokoesam! 'Outside' feat. Architrackz ",
-  "num_followers": 300995,
+  "description": "Exclusieve tracks van Bokoesams mixtape! Vandaag: Fok feat. Kalibwoy",
+  "num_followers": 301050,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4NjQwMCwwMDAwMDQ3OTAwMDAwMTgyMzc1ZmM3YWIwMDAwMDE4MjM0NzUwZTFj",
+  "snapshot_id": "MTY1ODg3MjgwMCwwMDAwMDQ3YTAwMDAwMTgyM2M4NjIzNTYwMDAwMDE4MjM5NzFkZDZk",
   "tracks": [
+    {
+      "added_at": "2022-07-26 22:00:00",
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "duration_ms": 139964,
+      "name": "Fok (feat. Kalibwoy)",
+      "url": "https://open.spotify.com/track/5RIhH07XYJJ45nmJFzrCJ1"
+    },
     {
       "added_at": "2022-07-25 22:00:00",
       "album": {

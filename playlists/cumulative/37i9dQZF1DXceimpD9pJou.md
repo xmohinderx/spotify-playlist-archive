@@ -2,7 +2,7 @@
 
 ### [Novedades Cristianas](https://open.spotify.com/playlist/37i9dQZF1DXceimpD9pJou)
 
-> Las mejores nuevas canciones cristianas\.  Foto:  Los Gemelos de Sinaloa
+> Las mejores nuevas canciones cristianas\.  Foto:  Los Gemelos de Sinaloa y Los del Cristo
 
 389 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/1KUPUNIHlkycouwTjzbQCF)
 
@@ -282,7 +282,6 @@
 | [Quiero \- Acústico](https://open.spotify.com/track/5PC43jeHj4E6ot2JHQK9wG) | [ManfLa](https://open.spotify.com/artist/4fm7dU6fmZzwsiUb4li3ba), [Josendry](https://open.spotify.com/artist/3ukiKvOPBnsY1vI1lxpHNe) | [Quiero \(Acústico\)](https://open.spotify.com/album/7IPQGNGqEAUdShRpJA9q6M) | 2:50 | 2022-02-25 | 2022-04-09 |
 | [Quiero Saber](https://open.spotify.com/track/0RuHawQ6vLF9r35L7HD2cl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Fe \(Deluxe Edition\)](https://open.spotify.com/album/0bKsoKI16zKzu8YtLQdFBJ) | 3:08 | 2022-03-04 | 2022-03-26 |
 | [Quédate Con Ese](https://open.spotify.com/track/11juh3PF1lfSNOpgnY0k9Z) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Odanis BSK](https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9) | [Quédate Con Ese](https://open.spotify.com/album/6WvJTzI5uvCgUXuQoJgy7f) | 3:35 | 2022-02-25 | 2022-04-09 |
-| [Radiografía](https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Radiografía](https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL) | 2:59 | 2022-07-22 |  |
 | [Rap Alto Calibre](https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Rap Alto Calibre](https://open.spotify.com/album/5UkxRZH6F8tcLtBtXOgjNh) | 3:49 | 2022-02-25 | 2022-04-07 |
 | [Razón de Vivir \- Danny Berrios Remix](https://open.spotify.com/track/5RzRPMws04wWYuE0XGqb7Z) | [Edson Nuñez](https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT), [Danny Berrios](https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm) | [Razón de Vivir \(Danny Berrios Remix\)](https://open.spotify.com/album/4MyYIhgyTCdbWosq4aTziA) | 4:21 | 2022-07-01 |  |
 | [RDV](https://open.spotify.com/track/6Z0VDnAGbvyf3125lRfVaF) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv) | [RDV](https://open.spotify.com/album/1YCrXzHbzSTt8OUJMmNvOA) | 2:40 | 2022-06-17 |  |
@@ -388,6 +387,7 @@
 | [Vine A Buscarte](https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG) | [Shealy Worship](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61), [Nick Gaggero](https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S) | [This is What We Came For](https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii) | 3:56 | 2022-07-22 |  |
 | [Vine a Salvarte](https://open.spotify.com/track/5Kfw2HfUHc0amjBI7aM4uC) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vine a Salvarte](https://open.spotify.com/album/2gO95dqmltMXpDEGTZdvNu) | 3:29 | 2022-02-25 | 2022-04-23 |
 | [Vital](https://open.spotify.com/track/0LjclnXU2tPq5HMycbNZju) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Ritzy Escobar](https://open.spotify.com/artist/3n8Qm7dgXUXyeXC46feBS2) | [Vital](https://open.spotify.com/album/01X9qSjYEJN5DndyA87Uzt) | 2:53 | 2022-06-24 |  |
+| [VIVO X TI](https://open.spotify.com/track/3dEo4rRlfd4dN621weMh5j) | [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [VIVO X TI](https://open.spotify.com/album/59qDobCB7MIjEjdt2brrBL) | 2:59 | 2022-07-22 |  |
 | [Volver](https://open.spotify.com/track/6vqFg86xvv39aUvZ4I6oLi) | [Banda Montreal](https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym) | [Volver](https://open.spotify.com/album/7pXhCOfMJiepzufPjejbF0) | 2:55 | 2022-07-01 |  |
 | [Vuelo](https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Vuelo](https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV) | 2:05 | 2022-06-24 |  |
 | [YHWH](https://open.spotify.com/track/6jJ6bAj2kEblJNMKoq1TU1) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [YHWH](https://open.spotify.com/album/4t9lJ8uU3iI2NrIE3SSuRu) | 4:50 | 2022-03-04 | 2022-04-29 |

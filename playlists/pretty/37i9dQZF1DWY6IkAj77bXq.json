@@ -1,28 +1,380 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 36454,
+  "num_followers": 36508,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5ODA4OSwwMDAwMDAwMDNkNjMxMmI2OWMxMWZkMzFhNDM2OWFlZTUxYzBhZjRk",
+  "snapshot_id": "MTY1ODg4NDYwOCwwMDAwMDAwMDc2N2RlYTViYTcxYzdhMTk5MGM3ZGQ2NDUyYmI4Y2Nh",
   "tracks": [
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Light & Hope",
-        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
       },
       "artists": [
         {
-          "name": "Crystalsong",
-          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+          "name": "Dawn Sankrit",
+          "url": "https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU"
         }
       ],
-      "duration_ms": 167099,
-      "name": "Light & Hope",
-      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+      "duration_ms": 177952,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0nc4YQuexF3sAZqd5Pxksk"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6dmmjM7cgyjdb9vrWKabhV"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Beautiful Awakening",
+        "url": "https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG"
+      },
+      "artists": [
+        {
+          "name": "Spirit Minds",
+          "url": "https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Beautiful Awakening",
+      "url": "https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/2Erf8g4YaQkivE2kbful1a"
+      },
+      "artists": [
+        {
+          "name": "Language of Lyrics",
+          "url": "https://open.spotify.com/artist/7l76D4b9qcmJjIO5Me5tlC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/3rZQIR8qOwxYplwdv5UgZ3"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Solfeggio Frequencies & Meditation Music",
+        "url": "https://open.spotify.com/album/2g5UiicNoSaurcZu4oIwgS"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Moment",
+          "url": "https://open.spotify.com/artist/5e5P006iq5TGOsKDGdjmit"
+        }
+      ],
+      "duration_ms": 409616,
+      "name": "World Peace",
+      "url": "https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Seneca Rise",
+        "url": "https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO"
+      },
+      "artists": [
+        {
+          "name": "Sky Wishes",
+          "url": "https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Seneca Rise",
+      "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4O4iGadAmoFYIUmvSCwZWK"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "duration_ms": 178928,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/2gx4p6ukiBy7SO4qRUI5NG"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7yD2hLLA4c8hMLD3Pugyap"
+      },
+      "artists": [
+        {
+          "name": "Sleeping Clouds",
+          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2QC08dedfR9aBtLG1Pwhze"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/1CuxpTAaorXnbmN1xkLCTg"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/1GkUaCQLQYxCEV7z4cITTT"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Waves of Harmony",
+        "url": "https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc"
+      },
+      "artists": [
+        {
+          "name": "Magnetic Dreams",
+          "url": "https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Waves of Harmony",
+      "url": "https://open.spotify.com/track/3bFrewfGiJ3Zw9FKB6A63W"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv"
+      },
+      "artists": [
+        {
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
+        }
+      ],
+      "duration_ms": 126230,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Silent Waters",
+        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
+      },
+      "artists": [
+        {
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
+        }
+      ],
+      "duration_ms": 144830,
+      "name": "Silent Waters",
+      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Dream Away",
+        "url": "https://open.spotify.com/album/62KphRkcxV7qVlCSmASAm9"
+      },
+      "artists": [
+        {
+          "name": "My Arctic Dreams",
+          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Dream Away",
+      "url": "https://open.spotify.com/track/2DDPIz36qdIcdDzRorKALC"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Afloat",
+        "url": "https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx"
+      },
+      "artists": [
+        {
+          "name": "Pristeen",
+          "url": "https://open.spotify.com/artist/213deC0wRrVFogvJCdP7lh"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Afloat",
+      "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Evening Calm",
+        "url": "https://open.spotify.com/album/3DDO8hJXZZHaZQdTnOjTP0"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 158961,
+      "name": "Evening Calm",
+      "url": "https://open.spotify.com/track/2tqgdeWKwX8FnDmMnFzfb2"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Sleep Sequence",
+        "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 203374,
+      "name": "Sleep Sequence",
+      "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Tokyo Drifting",
+        "url": "https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw"
+      },
+      "artists": [
+        {
+          "name": "M. David",
+          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Tokyo Drifting",
+      "url": "https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Soothe",
+        "url": "https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea"
+      },
+      "artists": [
+        {
+          "name": "Ever So Calm",
+          "url": "https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Soothe",
+      "url": "https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "The State of Mudita",
+        "url": "https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ"
+      },
+      "artists": [
+        {
+          "name": "The State Of Mudita",
+          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
+        }
+      ],
+      "duration_ms": 155853,
+      "name": "The State of Mudita",
+      "url": "https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Capella",
+        "url": "https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Capella",
+      "url": "https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
+      },
+      "artists": [
+        {
+          "name": "Aloen",
+          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -59,66 +411,34 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Lights on Water",
-        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
+        "name": "Milestone",
+        "url": "https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88"
       },
       "artists": [
         {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+          "name": "Stone Steps",
+          "url": "https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5"
         }
       ],
-      "duration_ms": 217600,
-      "name": "Lights on Water",
-      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
+      "duration_ms": 212400,
+      "name": "Birdcage Walk",
+      "url": "https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065"
+        "name": "Oh so Quiet",
+        "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
       "artists": [
         {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
+          "name": "The Silent Ocean",
+          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Repose",
-        "url": "https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt"
-      },
-      "artists": [
-        {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Repose",
-      "url": "https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Sleep Drifting",
-        "url": "https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Sleep Drifting",
-      "url": "https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv"
+      "duration_ms": 190666,
+      "name": "Oh so Quiet",
+      "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -139,114 +459,18 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "mOther World",
-        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/4nQQetCS5JZ4wOYgdsT9Bv"
       },
       "artists": [
         {
-          "name": "Mike Molloy",
-          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
+          "name": "Silent Movement",
+          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
         }
       ],
-      "duration_ms": 124458,
-      "name": "mOther World",
-      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Moonlit",
-        "url": "https://open.spotify.com/album/1tbaoKLRFMdl6vhDO63LN9"
-      },
-      "artists": [
-        {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
-        }
-      ],
-      "duration_ms": 158766,
-      "name": "Moonlit",
-      "url": "https://open.spotify.com/track/67cHf1VdUczVmY1nD8gdos"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Evening Calm",
-        "url": "https://open.spotify.com/album/3DDO8hJXZZHaZQdTnOjTP0"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Evening Calm",
-      "url": "https://open.spotify.com/track/2tqgdeWKwX8FnDmMnFzfb2"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "A Space Within a Space",
-        "url": "https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync"
-      },
-      "artists": [
-        {
-          "name": "Escape Gravity",
-          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
-        }
-      ],
-      "duration_ms": 191111,
-      "name": "A Space Within a Space",
-      "url": "https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW"
+      "duration_ms": 193043,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -271,50 +495,114 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/78168bttecze9M3zCxDAhx"
+        "name": "Unawareness",
+        "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
       },
       "artists": [
         {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+          "name": "Enika Moerani",
+          "url": "https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/4WzPktrz71J6X0Rbm9KQlS"
+      "duration_ms": 162028,
+      "name": "Unawareness",
+      "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Sleep, Heavenly Sleep",
-        "url": "https://open.spotify.com/album/0eOtNnA9eqarEySiZOAeb3"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/466IfOAoKcGtopPMuuLjq4"
       },
       "artists": [
         {
-          "name": "Dreamabout",
-          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+          "name": "Yorokobi",
+          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
         }
       ],
-      "duration_ms": 180882,
-      "name": "Sleep, Heavenly Sleep",
-      "url": "https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1"
+      "duration_ms": 156923,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/1V5NdSG3po303c2e1mwBfX"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Air in the Morning",
-        "url": "https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK"
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
       },
       "artists": [
         {
-          "name": "Wind Speaks",
-          "url": "https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY"
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
         }
       ],
-      "duration_ms": 184477,
-      "name": "Air in the Morning",
-      "url": "https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9"
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Repose",
+        "url": "https://open.spotify.com/album/6kDgVv2vgX9z2DWawWlOWt"
+      },
+      "artists": [
+        {
+          "name": "Aerial Love",
+          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Repose",
+      "url": "https://open.spotify.com/track/5iznXjdt5IJ29UjDM7lVT7"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Breath of Life",
+        "url": "https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 154069,
+      "name": "Breath Of Life",
+      "url": "https://open.spotify.com/track/0whxteXpbXv6WUTOfAtmZb"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Linearity",
+        "url": "https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW"
+      },
+      "artists": [
+        {
+          "name": "Hypertime",
+          "url": "https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Linearity",
+      "url": "https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -335,354 +623,34 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Semblance",
-        "url": "https://open.spotify.com/album/4JIstsrl6fPr8CcgiItzwQ"
+        "name": "mOther World",
+        "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
       "artists": [
         {
-          "name": "Rubycon Sunset",
-          "url": "https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W"
+          "name": "Mike Molloy",
+          "url": "https://open.spotify.com/artist/3FGoJUomSsiNmeAzx0ID1r"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Semblance",
-      "url": "https://open.spotify.com/track/4p0HBAmru8viDonTn7meJM"
+      "duration_ms": 124458,
+      "name": "mOther World",
+      "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Capella",
-        "url": "https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR"
+        "name": "Soft Meadow",
+        "url": "https://open.spotify.com/album/4cNA7atoZuNanhhhkllX8n"
       },
       "artists": [
         {
-          "name": "Aerial Love",
-          "url": "https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK"
+          "name": "Escape Gravity",
+          "url": "https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js"
         }
       ],
-      "duration_ms": 157402,
-      "name": "Capella",
-      "url": "https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Among the Clouds",
-        "url": "https://open.spotify.com/album/5YRaeJVtFyjdqNmFSqjoOm"
-      },
-      "artists": [
-        {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Among the Clouds",
-      "url": "https://open.spotify.com/track/7KWzzOj2W7ZwkGYJAgX17D"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0nc4YQuexF3sAZqd5Pxksk"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 143013,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6dmmjM7cgyjdb9vrWKabhV"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Blissful",
-        "url": "https://open.spotify.com/album/5Kwr9SHPE3HVyqxEdUsKIp"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Blissful",
-      "url": "https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Natural Essentials",
-        "url": "https://open.spotify.com/album/3wNDHjotE7OuXmTmjXlmyS"
-      },
-      "artists": [
-        {
-          "name": "Meditaci\u00f3n M\u00fasica Ambiente",
-          "url": "https://open.spotify.com/artist/5LJBMRcPlMWzJeCILYD48q"
-        }
-      ],
-      "duration_ms": 252765,
-      "name": "Nature's Embrace",
-      "url": "https://open.spotify.com/track/5m3jRldCUrybs5M95MMoRb"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Stillness",
-        "url": "https://open.spotify.com/album/45JitQMFNSa8L3wFS5JOcC"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 191718,
-      "name": "Stillness",
-      "url": "https://open.spotify.com/track/5dm8dyCwn5fGikFFmcSoGc"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/0Jjb6g3BMPFKR6RKOpwBA8"
-      },
-      "artists": [
-        {
-          "name": "Dawn Sankrit",
-          "url": "https://open.spotify.com/artist/7xwgjyWY3BwKNgdZFo1GQU"
-        }
-      ],
-      "duration_ms": 177952,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/3GNlFyD9YUqLJy2u7W8h2M"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/7eIHdP6NVAIu5bpjVo0vgq"
-      },
-      "artists": [
-        {
-          "name": "Aloen",
-          "url": "https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Parallels",
-      "url": "https://open.spotify.com/track/19qZQVD9loyDJHtjuMmfg5"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/76Vmwd38DKu5eOQfvXII9U"
-      },
-      "artists": [
-        {
-          "name": "LUVT",
-          "url": "https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF"
-        }
-      ],
-      "duration_ms": 304952,
-      "name": "Solace - Meditation",
-      "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7yD2hLLA4c8hMLD3Pugyap"
-      },
-      "artists": [
-        {
-          "name": "Sleeping Clouds",
-          "url": "https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2QC08dedfR9aBtLG1Pwhze"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv"
-      },
-      "artists": [
-        {
-          "name": "Yorokobi",
-          "url": "https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC"
-        }
-      ],
-      "duration_ms": 126230,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ"
-      },
-      "artists": [
-        {
-          "name": "Xiaoming Chu",
-          "url": "https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/4v8uzYnHfHI4ppZLTqouhp"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Shaasvat",
-        "url": "https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk"
-      },
-      "artists": [
-        {
-          "name": "Mishika",
-          "url": "https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr"
-        }
-      ],
-      "duration_ms": 205435,
-      "name": "Shaasvat",
-      "url": "https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Calm Waves",
-        "url": "https://open.spotify.com/album/7FtzJPkuvDEb1yWqRhVtce"
-      },
-      "artists": [
-        {
-          "name": "Halcyon Shores",
-          "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Calm Waves",
-      "url": "https://open.spotify.com/track/46pzk2tSufIR5xYB0VvPVW"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Unawareness",
-        "url": "https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i"
-      },
-      "artists": [
-        {
-          "name": "Enika Moerani",
-          "url": "https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh"
-        }
-      ],
-      "duration_ms": 162028,
-      "name": "Unawareness",
-      "url": "https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/3pZihjucLETpZCJnIMEtYm"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/4YRRQ2lY39cU4XCCcqZEyo"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Somnolent",
-        "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Somnolent",
-      "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "The State of Mudita",
-        "url": "https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ"
-      },
-      "artists": [
-        {
-          "name": "The State Of Mudita",
-          "url": "https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy"
-        }
-      ],
-      "duration_ms": 155853,
-      "name": "The State of Mudita",
-      "url": "https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Tokyo Drifting",
-        "url": "https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw"
-      },
-      "artists": [
-        {
-          "name": "M. David",
-          "url": "https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Tokyo Drifting",
-      "url": "https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Simple Soul",
-        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
-      },
-      "artists": [
-        {
-          "name": "BlunD",
-          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Slowly Flying",
-      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
+      "duration_ms": 179366,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/4asidk65e0vYOKukqfWMGb"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -703,8 +671,72 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/1mZrKNuHlQfUC1S12Xi4Le"
+        "name": "Among the Clouds",
+        "url": "https://open.spotify.com/album/5YRaeJVtFyjdqNmFSqjoOm"
+      },
+      "artists": [
+        {
+          "name": "Nimbus Skies",
+          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Among the Clouds",
+      "url": "https://open.spotify.com/track/7KWzzOj2W7ZwkGYJAgX17D"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/4lriXb1ncZ3k5USr0jWiOA"
+      },
+      "artists": [
+        {
+          "name": "Lugar",
+          "url": "https://open.spotify.com/artist/6KPAXAMmjjuL3dlucR4I29"
+        }
+      ],
+      "duration_ms": 149433,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/2MH1fR1gK1o0BZcoSwvwqX"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Sleep, Heavenly Sleep",
+        "url": "https://open.spotify.com/album/0eOtNnA9eqarEySiZOAeb3"
+      },
+      "artists": [
+        {
+          "name": "Dreamabout",
+          "url": "https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3"
+        }
+      ],
+      "duration_ms": 180882,
+      "name": "Sleep, Heavenly Sleep",
+      "url": "https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4dOgcGc5XdxLPFJydjcyTT"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1R8zuP9stvdMzt4HLMB5E3"
+    },
+    {
+      "added_at": "2022-07-19 13:31:43",
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/7FtzJPkuvDEb1yWqRhVtce"
       },
       "artists": [
         {
@@ -712,73 +744,41 @@
           "url": "https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl"
         }
       ],
-      "duration_ms": 170958,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/7jcgoL5r5E3J5qB6Ah3HCK"
+      "duration_ms": 166250,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/46pzk2tSufIR5xYB0VvPVW"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q"
+        "name": "Light & Hope",
+        "url": "https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT"
       },
       "artists": [
         {
-          "name": "Ra Kuyou",
-          "url": "https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR"
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
+      "duration_ms": 167099,
+      "name": "Light & Hope",
+      "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
     },
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Dreamcatcher",
-        "url": "https://open.spotify.com/album/1ZKBIUYB7bGLNntOUNFDH4"
+        "name": "Simple Soul",
+        "url": "https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku"
       },
       "artists": [
         {
-          "name": "Silent Movement",
-          "url": "https://open.spotify.com/artist/3yxduktXtII7eDtETkqjkw"
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
         }
       ],
-      "duration_ms": 184545,
-      "name": "Dreamcatcher",
-      "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Dream Away",
-        "url": "https://open.spotify.com/album/62KphRkcxV7qVlCSmASAm9"
-      },
-      "artists": [
-        {
-          "name": "My Arctic Dreams",
-          "url": "https://open.spotify.com/artist/6xxFSAtDrxDe6R2qzGyz9d"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Dream Away",
-      "url": "https://open.spotify.com/track/2DDPIz36qdIcdDzRorKALC"
-    },
-    {
-      "added_at": "2022-07-19 13:31:43",
-      "album": {
-        "name": "Silent Waters",
-        "url": "https://open.spotify.com/album/1G9Y1TI9ijJjN83ARckHtT"
-      },
-      "artists": [
-        {
-          "name": "The Silent Ocean",
-          "url": "https://open.spotify.com/artist/2MJ2VZRWH4mMHW5S0dISxN"
-        }
-      ],
-      "duration_ms": 144830,
-      "name": "Silent Waters",
-      "url": "https://open.spotify.com/track/7pu8jpGVUIYiMXfgwXRXXM"
+      "duration_ms": 214330,
+      "name": "Slowly Flying",
+      "url": "https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k"
     },
     {
       "added_at": "2022-07-19 13:31:43",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-07-19 13:31:43",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/1CuxpTAaorXnbmN1xkLCTg"
+        "name": "Lights on Water",
+        "url": "https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp"
       },
       "artists": [
         {
-          "name": "Nimbus Skies",
-          "url": "https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB"
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
         }
       ],
-      "duration_ms": 184285,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/1GkUaCQLQYxCEV7z4cITTT"
+      "duration_ms": 217600,
+      "name": "Lights on Water",
+      "url": "https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

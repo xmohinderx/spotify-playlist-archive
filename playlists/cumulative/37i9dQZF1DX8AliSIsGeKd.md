@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Kölsch, Magit Cacoon
 
-486 songs - 1 day 21 hr 12 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+487 songs - 1 day 21 hr 16 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [CORIS IS A BUNT](https://open.spotify.com/track/6WU2nUNxO3esZtS37rfFXr) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [CORIS IS A BUNT](https://open.spotify.com/album/4iZBkq9tfC7PerwO7BxYOW) | 6:40 | 2022-06-09 | 2022-06-24 |
 | [Corruptor](https://open.spotify.com/track/3OELmOqYPMc39dCRXm9OTL) | [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N), [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Corruptor](https://open.spotify.com/album/4wRK4Fux5p2vpXLxppcFHF) | 6:14 | 2022-06-30 | 2022-07-22 |
 | [Cosmos](https://open.spotify.com/track/6xjNHQIUKsFufyfeBz48GK) | [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi), [AR .am](https://open.spotify.com/artist/0syLkq0btsjBTiJxIk3H2Y) | [Cosmos](https://open.spotify.com/album/1Bdu74T7ZEJrVF9LRYCucr) | 4:30 | 2022-04-14 | 2022-04-22 |
+| [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-07-26 |  |
 | [Crawler](https://open.spotify.com/track/5pBucw37w7mT856uaYgRUP) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Crawler](https://open.spotify.com/album/0exawAoGc5Gqx3VO3UxNlJ) | 5:23 | 2022-07-07 |  |
 | [Crescendo](https://open.spotify.com/track/2Uo07y23q5MTtL0iaUtnH5) | [Soul Button](https://open.spotify.com/artist/5mcH5yOO7QWoT8CuL8JxEm), [Rustboy](https://open.spotify.com/artist/41kFbqwhUxZh7mXVIEPihu) | [Crescendo](https://open.spotify.com/album/3nnzSVvGgINDcaLGu0KdjP) | 6:04 | 2022-06-23 | 2022-07-08 |
 | [Crystal 22 \- Original Mix](https://open.spotify.com/track/5KkMMt52tx8nBOE7Pbgxux) | [Graumann](https://open.spotify.com/artist/32wi0zvRMBhVnuecqYUSr1) | [Crystal 22](https://open.spotify.com/album/5inYWMKsAxMDmArnQA8Qe1) | 7:16 | 2022-05-05 | 2022-05-20 |
@@ -178,7 +179,7 @@
 | [Fire & Rain \- Short Edit](https://open.spotify.com/track/1kiubNQ6JTIFGHXEWB75i2) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Fire & Rain](https://open.spotify.com/album/6NbI129PD6HJi5Yd14M9t2) | 4:13 | 2022-05-12 | 2022-05-27 |
 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 | 2022-04-21 | 2022-05-06 |
 | [Fjord](https://open.spotify.com/track/0wCQhh8ltakGjamI3nVcAG) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Fjord](https://open.spotify.com/album/2XXMsYAGzFFWXjX0dbTtaS) | 4:10 | 2022-06-23 | 2022-07-15 |
-| [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 | 2022-07-07 |  |
+| [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 | 2022-07-07 | 2022-07-27 |
 | [Flo Jam \- Logic1000 Remix](https://open.spotify.com/track/6Rhryy5EstHKG8uB6CAfrP) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Flo Jam](https://open.spotify.com/album/1jQ8H7Cx5f1D3MbmloYas7) | 4:00 | 2022-04-28 | 2022-05-13 |
 | [Flow](https://open.spotify.com/track/7AVlYtlj7JtSxDONs8gAen) | [Sam Hopgood](https://open.spotify.com/artist/4b0EgNE5qGByALvpDFsA0c) | [Flow / Undulation](https://open.spotify.com/album/5OAUofZUkv7NiQtHsFd2Cq) | 7:50 | 2022-07-07 | 2022-07-22 |
 | [For Now](https://open.spotify.com/track/0ujDyMKa4yquONPNdPfZgU) | [Johannes Klingebiel](https://open.spotify.com/artist/08k6Cr6tJL0XpXALvDKHz3) | [For Now](https://open.spotify.com/album/3e6l2JxKXx4a2X3ncb8clz) | 3:24 | 2022-04-21 | 2022-05-06 |

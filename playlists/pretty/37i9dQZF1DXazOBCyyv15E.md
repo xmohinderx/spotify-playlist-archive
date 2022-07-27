@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: 49th & Main
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,940 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,953 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 18 | [Behind The Lockers With Hunter](https://open.spotify.com/track/3potDlxVDPRPr2bHNcZ9Fi) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [Behind The Lockers With Hunter](https://open.spotify.com/album/5Z33Uj0Cf57nz86NM8cB3y) | 3:35 |
 | 19 | [So Sick Of Me](https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [So Sick Of Me](https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO) | 2:47 |
 | 20 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 21 | [Lovesick](https://open.spotify.com/track/15wcjvSlz1OLbHfHqge2KX) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Milk Teeth](https://open.spotify.com/album/1FjMyKjgBIz7ls3kwuKZP7) | 3:17 |
-| 22 | [UNCONDITIONAL](https://open.spotify.com/track/2GnpbEF0yV8IxAmfuHhZj6) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/3t4tGWLu7byG0X5RXzVFZM) | 2:37 |
+| 21 | [Lovesick](https://open.spotify.com/track/15wcjvSlz1OLbHfHqge2KX) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Milk Teeth EP](https://open.spotify.com/album/1FjMyKjgBIz7ls3kwuKZP7) | 3:17 |
+| 22 | [UNCONDITIONAL](https://open.spotify.com/track/2GnpbEF0yV8IxAmfuHhZj6) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/3t4tGWLu7byG0X5RXzVFZM) | 2:35 |
 | 23 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 |
 | 24 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 | 25 | [Someone/Somewhere](https://open.spotify.com/track/7dpapaF7YR0IkpDZOeoBrz) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M), [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [The Present Is a Foreign Land](https://open.spotify.com/album/1qmMt5MpOLwD2FbHZEE034) | 4:37 |

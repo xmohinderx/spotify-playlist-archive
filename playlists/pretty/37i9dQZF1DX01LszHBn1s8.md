@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > how can i be homophobic my bitch is gay?
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,306 likes - 500 songs - 1 day 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,382 likes - 500 songs - 1 day 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Billie Eilish, Montell Fish, and more! Chill out to these relaxing and calming indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 115,031 likes - 50 songs - 2 hr 53 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 115,027 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

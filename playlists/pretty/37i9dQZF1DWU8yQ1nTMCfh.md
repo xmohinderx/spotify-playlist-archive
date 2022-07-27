@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Lo mejor del Rock en Español de hoy\. Cover: Aleesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,346 likes - 107 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,349 likes - 107 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

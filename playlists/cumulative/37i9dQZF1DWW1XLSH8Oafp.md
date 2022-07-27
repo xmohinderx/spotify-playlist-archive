@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring yunè pinku
 
-319 songs - 18 hr 44 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+321 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [100 dollar bill](https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [100 dollar bill](https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC) | 3:59 | 2021-11-19 | 2022-02-05 |
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2021-07-23 | 2022-02-24 |
 | [18 & Over](https://open.spotify.com/track/62UTBl5LVd6HOCFvT57Axt) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [18 & Over](https://open.spotify.com/album/1sd55O8hXHGhK2qH2WvsLn) | 3:38 | 2021-11-26 | 2022-04-16 |
-| [1999 She](https://open.spotify.com/track/6hwYxvmMI0UflYGmDOXys9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:46 | 2022-01-07 |  |
+| [1999 She](https://open.spotify.com/track/6hwYxvmMI0UflYGmDOXys9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:46 | 2022-01-07 | 2022-07-27 |
 | [4EVR](https://open.spotify.com/track/7vmZoz2eLrumizTBsfkCVn) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR), [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO) | [4EVR](https://open.spotify.com/album/2tkmTUucbpt0tO8RD1wcZR) | 2:34 | 2022-07-11 |  |
 | [4ÆM](https://open.spotify.com/track/5deLCvXuDrTOTV7XiJuO8Z) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Rave Edition\)](https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7) | 4:30 | 2022-01-21 | 2022-06-04 |
+| [58bethe7](https://open.spotify.com/track/4AoY7FQ1IbsFvacBPTMEwg) | [Cocktail Party Effect](https://open.spotify.com/artist/4QJ9l39vFGrG8dtJzOp3Zb) | [SNKRX010](https://open.spotify.com/album/26BKHxppgBzptm8xav2tdy) | 3:53 | 2022-07-26 |  |
 | [A Gem so Precious](https://open.spotify.com/track/1p5GwLa7kNtEITi0RO9LYE) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [A Gem so Precious](https://open.spotify.com/album/0chp3Z6ScRddwE4zG9Ryg5) | 4:52 | 2022-05-06 |  |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2021-10-18 | 2022-01-29 |
 | [Acid Attack](https://open.spotify.com/track/6h54dl4naz2BXrvgGrjslM) | [Bejenec](https://open.spotify.com/artist/3maPUtRFoZejmkIXLVtVHM) | [Acid Attack](https://open.spotify.com/album/5PGrBiEnUdLGDUW1yohJja) | 4:09 | 2022-02-11 | 2022-03-12 |
@@ -97,6 +98,7 @@
 | [dune](https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [dune](https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9) | 2:29 | 2022-05-27 |  |
 | [E\-girl](https://open.spotify.com/track/2iSFVgxi3QrZCRMeklBnMH) | [Ratchet Racer](https://open.spotify.com/artist/41YGhblkQx83QlcTseXks5) | [E\-girl](https://open.spotify.com/album/1bNVXG3Hj1q17yn8mKX7y8) | 2:42 | 2022-05-06 | 2022-06-04 |
 | [Easy](https://open.spotify.com/track/2Z5pQyvM2jC2lFOJTjKCnv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Easy](https://open.spotify.com/album/0kcweyBVhphCeUTj1TBcPc) | 3:04 | 2021-09-03 | 2022-02-24 |
+| [Echoes](https://open.spotify.com/track/5PMqYYi5iU1iOiSc7iLuUS) | [Cain Mos](https://open.spotify.com/artist/2barsOVwiOUmftM8SASJGj) | [Echoes](https://open.spotify.com/album/31RrSs0T8fmpZTqJNQuFCN) | 6:27 | 2022-07-26 |  |
 | [Effect](https://open.spotify.com/track/6M80LrXmyQB2BybPFUGJnt) | [Dirty Bird](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa) | [Wagenmuzik](https://open.spotify.com/album/2GRAFqK5euLsnpMIvaHWL2) | 3:31 | 2022-07-15 |  |
 | [EMBER](https://open.spotify.com/track/3TEvSR6IiKJOnZyDY7Zfs7) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0), [Pholo](https://open.spotify.com/artist/53Wk6hhoFwz3REXaZ2XW2a) | [EMBER](https://open.spotify.com/album/1XQazD0TE1GaJvHhq0R3ky) | 3:46 | 2022-02-11 | 2022-06-04 |
 | [Emptiness](https://open.spotify.com/track/2kT9fwD1NjlO1m9fL2PTA7) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Emptiness](https://open.spotify.com/album/50Am5X0KprlQwplWyTPqbn) | 2:34 | 2022-05-20 | 2022-07-12 |
@@ -163,7 +165,7 @@
 | [In my restless dreams](https://open.spotify.com/track/7ABRoH86hTrLEQmh1HimRH) | [\*teeth](https://open.spotify.com/artist/3L0Y3HCo2pOCKATQOTvWvn) | [In my restless dreams](https://open.spotify.com/album/1oSdlWsyzCIo8Ly26dnufu) | 4:46 | 2022-07-11 |  |
 | [IN YOUR BLOOD \- TAAHLIAH Remix](https://open.spotify.com/track/2h3syRhAmidFjUbpjHVKWb) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [IN YOUR BLOOD \(TAAHLIAH Remix\)](https://open.spotify.com/album/1XZ34uniRgCjDrrz2S29a2) | 3:58 | 2022-01-14 | 2022-03-12 |
 | [ineedthat](https://open.spotify.com/track/7KckfTrQPLdaVSSvw5Hbjb) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [ineedthat](https://open.spotify.com/album/2KfooNYYjMk8wetv88k8s3) | 3:48 | 2022-06-03 |  |
-| [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-07 |  |
+| [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-07 | 2022-07-27 |
 | [Inverse](https://open.spotify.com/track/15pTzjt4Lfw3AWon5OaJ30) | [Lokey](https://open.spotify.com/artist/3eYcOArYBlrzJ1XOLxsQSW) | [Isolation Works, Vol\. 1](https://open.spotify.com/album/7GUeWQo7aAWwqQWRQ2HYXQ) | 4:40 | 2021-10-05 | 2022-07-16 |
 | [It's All Gone \- R U Init? Remix](https://open.spotify.com/track/3Vwe6D2wpu3KNciSMZnypy) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [R U Init](https://open.spotify.com/artist/1gXNjHPJXM6LCgzxBDen5e) | [It's All Gone \(R U Init? Remix\)](https://open.spotify.com/album/1YgW3TgqMdncztUYAH3QQJ) | 4:27 | 2021-12-17 | 2022-04-15 |
 | [It's Alright](https://open.spotify.com/track/4Bmk7CoGZWB4baz6Zqo3fK) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [It's Alright](https://open.spotify.com/album/1Agh9HDns2chodEFH14mh8) | 4:05 | 2022-04-22 |  |

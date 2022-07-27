@@ -1,13 +1,29 @@
 {
   "description": "The soundtrack to the internet. Cover: Minions",
-  "num_followers": 1171917,
+  "num_followers": 1173714,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MTY2MywwMDAwMDM1YjAwMDAwMTgyMzFiYTM1MDEwMDAwMDE4MWQ5MGVhNTRj",
+  "snapshot_id": "MTY1ODg0MjUzMCwwMDAwMDM1YzAwMDAwMTgyM2FiODQzM2IwMDAwMDE4MWQ5MGVhNTRj",
   "tracks": [
+    {
+      "added_at": "2022-07-22 07:00:00",
+      "album": {
+        "name": "Deaf 2 Society",
+        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
+      },
+      "artists": [
+        {
+          "name": "Luclover",
+          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
+        }
+      ],
+      "duration_ms": 103440,
+      "name": "L$d",
+      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+    },
     {
       "added_at": "2022-07-22 07:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2022-07-12 19:16:39",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
+      },
+      "artists": [
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
     },
     {
       "added_at": "2022-07-22 07:00:00",
@@ -55,22 +87,6 @@
       "duration_ms": 165517,
       "name": "Rich Minion",
       "url": "https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b"
-    },
-    {
-      "added_at": "2022-07-12 19:16:39",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
-      },
-      "artists": [
-        {
-          "name": "Lawsy",
-          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
-        }
-      ],
-      "duration_ms": 155350,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
     },
     {
       "added_at": "2022-07-01 09:18:00",
@@ -109,40 +125,20 @@
       "url": "https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz"
     },
     {
-      "added_at": "2022-07-22 07:00:00",
+      "added_at": "2022-07-26 13:35:30",
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 116162,
-      "name": "Watch Your Man (feat. Marshmello)",
-      "url": "https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw"
-    },
-    {
-      "added_at": "2022-07-22 07:00:00",
-      "album": {
-        "name": "Deaf 2 Society",
-        "url": "https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby"
-      },
-      "artists": [
-        {
-          "name": "Luclover",
-          "url": "https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60"
-        }
-      ],
-      "duration_ms": 103440,
-      "name": "L$d",
-      "url": "https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr"
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     },
     {
       "added_at": "2022-06-28 15:26:13",
@@ -163,6 +159,26 @@
       "duration_ms": 165743,
       "name": "Bustdown Rollie Avalanche",
       "url": "https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA"
+    },
+    {
+      "added_at": "2022-07-22 07:00:00",
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 116162,
+      "name": "Watch Your Man (feat. Marshmello)",
+      "url": "https://open.spotify.com/track/6GiQfK7gtNGlODn53HZvpw"
     },
     {
       "added_at": "2022-07-05 20:54:31",
@@ -231,22 +247,6 @@
       "duration_ms": 160000,
       "name": "NO SNITCHING (with Dusty Locane)",
       "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
-    },
-    {
-      "added_at": "2022-07-21 01:02:36",
-      "album": {
-        "name": "Oh Naur",
-        "url": "https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I"
-      },
-      "artists": [
-        {
-          "name": "Yung Skrrt",
-          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
-        }
-      ],
-      "duration_ms": 78832,
-      "name": "Oh Naur",
-      "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -325,20 +325,20 @@
       "url": "https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
+      "added_at": "2022-07-18 23:52:57",
       "album": {
-        "name": "Lil Boat",
-        "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+        "name": "AWKWARD FREESTYLE",
+        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
         }
       ],
-      "duration_ms": 243269,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"
+      "duration_ms": 127764,
+      "name": "AWKWARD FREESTYLE",
+      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -375,6 +375,22 @@
       "duration_ms": 161963,
       "name": "THROUGH 2 U",
       "url": "https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP"
+    },
+    {
+      "added_at": "2022-07-15 04:01:00",
+      "album": {
+        "name": "Lil Boat",
+        "url": "https://open.spotify.com/album/4bJqW1SBOvsfcEzZwsjdjx"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 243269,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/40yJGQyEaBbIkXpwMFkXip"
     },
     {
       "added_at": "2022-06-17 17:10:01",
@@ -429,6 +445,22 @@
       "url": "https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD"
     },
     {
+      "added_at": "2022-07-21 01:02:36",
+      "album": {
+        "name": "Oh Naur",
+        "url": "https://open.spotify.com/album/22puJMyQXeGW1mgiE1vw1I"
+      },
+      "artists": [
+        {
+          "name": "Yung Skrrt",
+          "url": "https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU"
+        }
+      ],
+      "duration_ms": 78832,
+      "name": "Oh Naur",
+      "url": "https://open.spotify.com/track/3cqbmqA6fbgPINJzWbgsad"
+    },
+    {
       "added_at": "2022-06-17 17:10:01",
       "album": {
         "name": "Foreign Exchange",
@@ -469,22 +501,6 @@
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
     },
     {
-      "added_at": "2022-07-18 23:52:57",
-      "album": {
-        "name": "AWKWARD FREESTYLE",
-        "url": "https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV"
-      },
-      "artists": [
-        {
-          "name": "Eem Triplin",
-          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
-        }
-      ],
-      "duration_ms": 127764,
-      "name": "AWKWARD FREESTYLE",
-      "url": "https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2"
-    },
-    {
       "added_at": "2022-07-08 16:02:41",
       "album": {
         "name": "Escape From BABYLON",
@@ -515,22 +531,6 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
-    },
-    {
-      "added_at": "2022-06-17 17:10:01",
-      "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 270670,
-      "name": "trademark usa",
-      "url": "https://open.spotify.com/track/6G9aDedv5hYaTgNYDuduqk"
     },
     {
       "added_at": "2022-06-17 17:10:01",

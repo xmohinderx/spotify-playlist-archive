@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Nardo Wick, Lil Uzi Vert, and Megan Thee Stallion\. Cover: Nardo Wick
 
-1,107 songs - 2 day 3 hr 58 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,109 songs - 2 day 4 hr 2 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Ms\. Stacy](https://open.spotify.com/track/2Tiv859JAFCkMBzjVLKUh1) | [BabyK Osama](https://open.spotify.com/artist/1uNvSTpNdXVAMrNF6lzXRT) | [Ms\. Stacy](https://open.spotify.com/album/6QIdCG1IMTMICzA9DxJVJn) | 2:19 | 2022-04-15 | 2022-04-23 |
 | [Mufasa \(feat\. G Herbo\)](https://open.spotify.com/track/2zIQIwzMqPugJmbyVPCYMU) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Mufasa \(feat\. G Herbo\)](https://open.spotify.com/album/7LvOrmZ8LChfHtWZAsYxp8) | 3:51 | 2022-05-20 | 2022-06-11 |
 | [MURDAMAN!](https://open.spotify.com/track/4Nz9WVrMWeSubvPqLLEdTJ) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [MURDAMAN!](https://open.spotify.com/album/1VuLjemtxOlQmetIZIqd5u) | 2:36 | 2022-03-04 | 2022-03-12 |
+| [Murder](https://open.spotify.com/track/621SNKZYqIor6NW8nR2sCX) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Murder](https://open.spotify.com/album/3uXyJaYCnjCUE9z5F5SpeE) | 2:57 | 2022-07-26 |  |
 | [Murder Bitch](https://open.spotify.com/track/50OwB88gluc7N8TeflonIV) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Legend](https://open.spotify.com/album/4qMgmLnCEAFvXAthrLcxvw) | 4:53 | 2022-07-01 | 2022-07-09 |
 | [MVP](https://open.spotify.com/track/2ayvMaVf5RAXnNQwHvArB7) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [MVP](https://open.spotify.com/album/36zw4Ir1YqmiCUlhYpJuRx) | 2:26 | 2022-05-20 | 2022-06-04 |
 | [My Bruddas \(feat\. Yung Bans\)](https://open.spotify.com/track/4eafVkuOMZXeSxndufbVdK) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [My Bruddas \(feat\. Yung Bans\)](https://open.spotify.com/album/4cxfcXmqtbxILTxnCQC1Fb) | 3:05 | 2022-05-06 | 2022-05-14 |
@@ -1107,6 +1108,7 @@
 | [Y NOT?](https://open.spotify.com/track/6ELtGA64w8OWCchaj1UU4T) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Y NOT?](https://open.spotify.com/album/5b6QPwWgYmrWbLeBTwRjSZ) | 2:28 | 2022-06-17 | 2022-06-25 |
 | [Ya Bih](https://open.spotify.com/track/1sKn4AQNdddMINS7I0A6Tl) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:37 | 2022-02-04 | 2022-02-12 |
 | [Yak Flow](https://open.spotify.com/track/0PP7bQ2n8pnTrHT81t3GPd) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Yak Flow](https://open.spotify.com/album/09E5HODaBOJacIB2xHlzrL) | 2:37 | 2022-04-01 | 2022-04-16 |
+| [Yaya](https://open.spotify.com/track/0lYlKo6x318wgs7CP4Kpk9) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Majorly Independent](https://open.spotify.com/album/03GLDGf4qZfwBx41y235aT) | 1:52 | 2022-07-26 |  |
 | [Ye Not Crazy](https://open.spotify.com/track/70jjParnrP2X3mOVkoljGE) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Ye Not Crazy](https://open.spotify.com/album/19KpEHCcxkTNQWm0O0aa9w) | 3:46 | 2022-04-01 | 2022-04-16 |
 | [Yeah Whoa \(feat\. Nardo Wick & Gucci Mane\)](https://open.spotify.com/track/0WSGHNx7oMYAV2WAJzLhQf) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 3:36 | 2022-06-17 | 2022-06-25 |
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-02-05 |

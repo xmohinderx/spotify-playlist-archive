@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,430 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,431 likes - 66 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 5 | [SUPERNOVA](https://open.spotify.com/track/5hHErHtClseScL9NC4VYyU) | [Kavi](https://open.spotify.com/artist/7GmuVIS9CdJkdAmbwu1yV1) | [KRUSHED!](https://open.spotify.com/album/02mzm5lsX5ou3Yhq20gVKz) | 3:23 |
 | 6 | [To The Moon](https://open.spotify.com/track/6eXObDIXdDTkpdBn9iZ4IS) | [Bubba D](https://open.spotify.com/artist/310JSSgqJAi8DRB7hUDFiy) | [To The Moon](https://open.spotify.com/album/5K0pU0QSOAgbLKTR1AvxgO) | 2:45 |
 | 7 | [If](https://open.spotify.com/track/6M9PJ2I7PsQO1lStofnM7p) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [If](https://open.spotify.com/album/0lUgYsYVa9gS6jpIb5MxLc) | 3:26 |
-| 8 | [switch up](https://open.spotify.com/track/69GsMTGlNmMCnTvsasvYcI) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/4SAXpOM7r77ISR3I1LPM3z) | [switch up](https://open.spotify.com/album/72ISFMLP43B4fiCry0OWQP) | 2:53 |
+| 8 | [switch up](https://open.spotify.com/track/69GsMTGlNmMCnTvsasvYcI) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD), [Jar Francisco](https://open.spotify.com/artist/1coXALpmds7ZNwq3J1yWlk) | [switch up](https://open.spotify.com/album/72ISFMLP43B4fiCry0OWQP) | 2:53 |
 | 9 | [Reckless](https://open.spotify.com/track/60l7qW1hphyq0Aj7yvNpOl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Eternal Atrophy](https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n) | 3:37 |
 | 10 | [midnight](https://open.spotify.com/track/2qfhWH1YdfYtZ86nFFZeDt) | [Rush Martines](https://open.spotify.com/artist/2DfGCdKwXsfavSVSlcefIC) | [midnight](https://open.spotify.com/album/52ZpwE72Y4bGcyY4XjkFre) | 3:13 |
 | 11 | [Endless High](https://open.spotify.com/track/5tlQN2tMlZkr2bm4WK4R1v) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [Wrong Denzel](https://open.spotify.com/artist/1vltqiKorKKAj01T0Y1pBZ) | [Endless High](https://open.spotify.com/album/1wKSTy6l7BsbALioBqV4KH) | 4:02 |

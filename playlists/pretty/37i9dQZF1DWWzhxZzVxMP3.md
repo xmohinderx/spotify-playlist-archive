@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well known songs in a soft Bossa landscape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,624 likes - 103 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,674 likes - 103 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 102 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
 | 103 | [Isn't She Lovely](https://open.spotify.com/track/3jbhdyGnHlOGg0zo4T1BS2) | [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Cool Songs In Bossa](https://open.spotify.com/album/4H1PIL4SpcoMHhbE1jiVkf) | 3:20 |
 
-Snapshot ID: `MTY1NjY4NjkyNiwwMDAwMDA2MTAwMDAwMTgxYmEzYzU5YmUwMDAwMDE3ODg5NGJiNzIz`
+Snapshot ID: `MTY1ODgzOTkyOCwwMDAwMDA2MjAwMDAwMTgyM2E5MDkwMjcwMDAwMDE4MjNhOTA0ZjM5`

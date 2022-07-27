@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Weer een xclusieve nieuwe track van Bokoesam! 'Outside' feat\. Architrackz
+> Exclusieve tracks van Bokoesams mixtape! Vandaag: Fok feat\. Kalibwoy
 
-84 songs - 3 hr 48 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+85 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-07-14 |  |
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-07-14 |  |
 | [Flits Uit](https://open.spotify.com/track/2UEgBrRofjHdoDdTu19JY8) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Flits Uit](https://open.spotify.com/album/0TgmaiS4hVdr76QSEyzWoM) | 2:11 | 2022-07-14 |  |
+| [Fok \(feat\. Kalibwoy\)](https://open.spotify.com/track/5RIhH07XYJJ45nmJFzrCJ1) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Doe Het Nou Gewoon](https://open.spotify.com/album/2muVJPTQF1FXQZWgMgAQ3D) | 2:19 | 2022-07-26 |  |
 | [For A While](https://open.spotify.com/track/6CYr2Mp0KrRZTzDhmhd2ns) | [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [For A While](https://open.spotify.com/album/0Tz1nDOhTvbyEgfu3gtPwv) | 2:33 | 2022-07-14 |  |
 | [Freaky](https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Freaky](https://open.spotify.com/album/2pwqqB5fGJ77AUsBe69wuL) | 3:07 | 2022-07-14 |  |
 | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Ghazali \(feat\. Bryan Mg\)](https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo) | 3:04 | 2022-07-14 |  |

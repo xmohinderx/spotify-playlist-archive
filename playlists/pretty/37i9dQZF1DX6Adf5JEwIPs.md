@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Marca Registrada, Junior H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,615 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,650 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 17 | [Las Amistades De Hoy](https://open.spotify.com/track/5InISvx0CjKYiNRaqVZfqU) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Las Amistades De Hoy](https://open.spotify.com/album/7aPYCVw0VMDsFgKw7FBOJG) | 2:09 |
 | 18 | [Aunque Falten Los Verdes \(En Vivo\)](https://open.spotify.com/track/2NHAieYUmelozdjze7Utqt) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Aunque Falten Los Verdes \(En Vivo\)](https://open.spotify.com/album/2kIXVhGDaLcRRerep2opMD) | 2:41 |
 | 19 | [Tiempo Fuera](https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Tiempo Fuera](https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3) | 3:18 |
-| 20 | [No Volvió](https://open.spotify.com/track/69e9o1F2kQVTsKf4MsMC8A) | [Marco Medina](https://open.spotify.com/artist/6mC66skA31QYeFBbvE2zTY) | [No Volvió](https://open.spotify.com/album/5unW9vvC27sSs3aKHqNQJ2) | 3:24 |
+| 20 | [No Volvió](https://open.spotify.com/track/69e9o1F2kQVTsKf4MsMC8A) | [Marco Medina](https://open.spotify.com/artist/6mC66skA31QYeFBbvE2zTY) | [No Volvió](https://open.spotify.com/album/5unW9vvC27sSs3aKHqNQJ2) | 3:26 |
 | 21 | [Bocas Largas](https://open.spotify.com/track/2qmLcUb0yairZclztWtKUv) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Bocas Largas](https://open.spotify.com/album/0nC5AS768OgoxplWirLIgB) | 2:44 |
 | 22 | [Me Critican](https://open.spotify.com/track/5YSP2U2zp3QjyAHo47mvLN) | [Ernesto Cota](https://open.spotify.com/artist/43TBniliwDn600EiuvJGuw), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Me Critican](https://open.spotify.com/album/5gLJuNSF3baTvHva7Kske5) | 2:19 |
 | 23 | [La Niña Fresa](https://open.spotify.com/track/1o0jILaK37Uh7pX8QwIgO4) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [La Niña Fresa](https://open.spotify.com/album/6EmFa9Xa85wz0Hy8AyvDGd) | 3:28 |

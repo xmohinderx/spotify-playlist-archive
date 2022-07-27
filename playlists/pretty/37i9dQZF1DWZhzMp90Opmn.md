@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,059 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,265 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhzMp90Opmn.md) - [plain]
 | 149 | [Pink Verb 1kHz Sharp Q](https://open.spotify.com/track/5OymaqEIVMaY9TUsafreWp) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [5 Shades of Reverb](https://open.spotify.com/album/4By5IITBJc1xk22Efi6vSk) | 3:38 |
 | 150 | [Somnus](https://open.spotify.com/track/7y9qhoYBNPCgspP9MSpyPH) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep Brown Noise](https://open.spotify.com/album/5rL3m6jUPS695IqPRRsUBz) | 2:15 |
 
-Snapshot ID: `MTY1NjM0NDg1NiwwMDAwMDAyZTAwMDAwMTgxYTVkOGM2MWQwMDAwMDE2ZDE1MmUzNjM4`
+Snapshot ID: `MTY1ODg0MTc3NCwwMDAwMDAyZjAwMDAwMTgyM2FhY2JhNGIwMDAwMDE4MjNhYWJlNzk4`

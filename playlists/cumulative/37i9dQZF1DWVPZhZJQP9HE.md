@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : OfRo
 
-136 songs - 8 hr 20 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+137 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 | 2022-07-08 |
 | [Kaathadi](https://open.spotify.com/track/5FlpkXMsHB5C8bjOErpQuy) | [Anand Kashinath](https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv) | [Kaathadi](https://open.spotify.com/album/36coKWgWqWR62SkpXeyl4a) | 3:23 | 2021-12-18 |  |
 | [Kadan \- Naatpadu Theral \- 2](https://open.spotify.com/track/7GcvJKhW4fnVLDd4xo5nUo) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Ramesh Vinayakam](https://open.spotify.com/artist/6inHsxIYCalnwN5AcdWtjL) | [Kadan \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3XNd7WczhkD3LZ0A1sp1aB) | 5:59 | 2022-05-31 | 2022-06-16 |
+| [Kadhal Chedi](https://open.spotify.com/track/2RkzxdwBSOWo5fKTkIDghj) | [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7) | [Kadhal Chedi](https://open.spotify.com/album/6OAeOR3T8QJMhmISwGv6Mr) | 3:29 | 2022-07-26 |  |
 | [Kadhal Kandraavi](https://open.spotify.com/track/7w4IGTgcxIpKKkynF7EPv6) | [inFuze](https://open.spotify.com/artist/11tX2vQnkSxUNwy15fIL6U), [Steve Cliff](https://open.spotify.com/artist/3E0yr1MsO4kPFbvq9PHBMd) | [Kadhal Kandraavi](https://open.spotify.com/album/4W12O1istsodXAi9WgbAno) | 3:38 | 2022-02-14 | 2022-07-08 |
 | [Kadhal Mazhaiyae](https://open.spotify.com/track/05uenVwul3q4H9iaQm4Ohy) | [Emzy Shady](https://open.spotify.com/artist/3kNgX4u7lDyGcp1cK9osEQ), [Lenix](https://open.spotify.com/artist/5xDbPSV29LbyKj4tgkWrZP) | [Kadhal Mazhaiyae](https://open.spotify.com/album/1FU76K9pQLmJUL1eQgT3Pn) | 3:37 | 2022-02-17 |  |
 | [Kadhalikkiren](https://open.spotify.com/track/6rWfligUryssDGdxaNWpmY) | [Dhinesh Nagarajan](https://open.spotify.com/artist/7F9j3YZmUVUSBIDISKbwbt) | [Kadhalikkiren](https://open.spotify.com/album/2vuEj7y25eLTPr4z5j71CO) | 3:35 | 2021-12-01 |  |

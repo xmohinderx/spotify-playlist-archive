@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,899 likes - 136 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,953 likes - 136 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 135 | [Faded \(Acoustic Version\)](https://open.spotify.com/track/7LRGfWdec3ctFqvyAgKZA8) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Faded](https://open.spotify.com/album/1eimuVUOPwbNWayTLn82YR) | 3:25 |
 | 136 | [Pompeii](https://open.spotify.com/track/1KHGSJPHiHkG2FEGFy8fLc) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/6zUsMpfw5Nif1o0kYtidiR) | 2:59 |
 
-Snapshot ID: `MTY1NjY4NDQyMywwMDAwMDA5NzAwMDAwMTgxYmExNjJhZDUwMDAwMDE2ZTgzNDBmOTFl`
+Snapshot ID: `MTY1ODgzNzQ2MSwwMDAwMDA5ODAwMDAwMTgyM2E2YWVhZjUwMDAwMDE4MjNhNmFhODVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,469 likes - 60 songs - 3 hr 4 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,462 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [Don't Wanna Wait \- VIP Mix](https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Don’t Wanna Wait \(VIP Mix\)](https://open.spotify.com/album/1WtzNNAKtES4PqaVQrtZ8d) | 2:37 |
 | 60 | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Make Up Your Mind \(feat\. Jaden Michaels\)](https://open.spotify.com/album/22XrjW9n4gShkJVDP7YJEE) | 3:38 |
 
-Snapshot ID: `NTgyNCxiZTk2NTBiYzNlNmUzN2YxZWJkYjgzZTUxNzk0M2NlNzI5MjFjYmI4`
+Snapshot ID: `NTgyNSwyMjY5ZWM2ODQwODg4ZDQzNzZjY2FhOGNlM2FmMTViOTU4NDczODc3`

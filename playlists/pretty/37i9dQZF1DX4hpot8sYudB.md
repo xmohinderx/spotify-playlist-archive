@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,449 likes - 139 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,767 likes - 139 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hpot8sYudB.md) - [plain]
 | 138 | [Meditative Noise](https://open.spotify.com/track/7xXP9ysqubm7UfxmZfv63x) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Meditative Noise](https://open.spotify.com/album/2gc9kWLQhE5kbxZFBNnoEM) | 2:00 |
 | 139 | [High Winds](https://open.spotify.com/track/3wzu3qv6fwFZrjsWN3jSPS) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:04 |
 
-Snapshot ID: `MTY1NjMxNzY1NSwwMDAwMDAyNzAwMDAwMTgxYTQzOWI4MDUwMDAwMDE3NGMxYWI0MjJl`
+Snapshot ID: `MTY1ODg0MTQ3OSwwMDAwMDAyODAwMDAwMTgyM2FhODNhMmIwMDAwMDE4MjNhYTgwOWE2`

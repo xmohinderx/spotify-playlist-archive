@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Big Feelings",
+        "url": "https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2"
+      },
+      "artists": [
+        {
+          "name": "EYJAA",
+          "url": "https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159578,
+      "name": "Big Feelings",
+      "url": "https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0"
+    },
+    {
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE"
       },

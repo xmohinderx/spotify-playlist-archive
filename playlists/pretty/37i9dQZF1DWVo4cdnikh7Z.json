@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Thiruchitrambalam",
-  "num_followers": 344559,
+  "num_followers": 344982,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc1MjI4MCwwMDAwMDRjYTAwMDAwMTgyMzU1NzI4MjYwMDAwMDE4MjBmZjMzY2My",
+  "snapshot_id": "MTY1ODgzNDQ4OSwwMDAwMDRjYzAwMDAwMTgyM2EzZDkwOTAwMDAwMDE4MjBmZjMzY2My",
   "tracks": [
     {
       "added_at": "2022-07-16 05:38:59",
@@ -81,24 +81,68 @@
       "url": "https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL"
     },
     {
-      "added_at": "2022-07-23 05:32:12",
+      "added_at": "2022-07-26 11:21:29",
       "album": {
-        "name": "Anbarey (From \"Gulu Gulu\")",
-        "url": "https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH"
+        "name": "Ninaivugal (From \"Captain\")",
+        "url": "https://open.spotify.com/album/1TVqtmt08mAzqhqiPsnvU2"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "duration_ms": 267217,
+      "name": "Ninaivugal - From \"Captain\"",
+      "url": "https://open.spotify.com/track/3fPatK41gSRwXBTl9VZywb"
+    },
+    {
+      "added_at": "2022-07-20 02:05:32",
+      "album": {
+        "name": "Maatna Gaali (From \"Gulu Gulu\")",
+        "url": "https://open.spotify.com/album/0lqwp3Vxaa4kobYAsr43M5"
       },
       "artists": [
         {
           "name": "Santhosh Narayanan",
           "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
         }
       ],
-      "duration_ms": 224400,
-      "name": "Anbarey (From \"Gulu Gulu\")",
-      "url": "https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo"
+      "duration_ms": 187500,
+      "name": "Maatna Gaali (From \"Gulu Gulu\")",
+      "url": "https://open.spotify.com/track/3nHbr0Xr0Wkzu15QEgvVfE"
+    },
+    {
+      "added_at": "2022-07-26 09:42:16",
+      "album": {
+        "name": "Mashooka (Tamil) [feat. Rakul Preet Singh]",
+        "url": "https://open.spotify.com/album/6rwRAdvQRUTXHaOeG6QwCU"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Aditya Iyengar",
+          "url": "https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo"
+        },
+        {
+          "name": "Rakul Preet Singh",
+          "url": "https://open.spotify.com/artist/1MKWS2FzyIsjlLV9v926gU"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Mashooka (Tamil) [feat. Rakul Preet Singh]",
+      "url": "https://open.spotify.com/track/0RHBdFlKMpvsWJGMsPuFkI"
     },
     {
       "added_at": "2022-06-24 04:41:37",
@@ -141,20 +185,24 @@
       "url": "https://open.spotify.com/track/5SXwKl2nWY1No4wZ0FJDHN"
     },
     {
-      "added_at": "2022-07-20 02:05:32",
+      "added_at": "2022-07-23 05:32:12",
       "album": {
-        "name": "Maatna Gaali (From \"Gulu Gulu\")",
-        "url": "https://open.spotify.com/album/0lqwp3Vxaa4kobYAsr43M5"
+        "name": "Anbarey (From \"Gulu Gulu\")",
+        "url": "https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH"
       },
       "artists": [
         {
           "name": "Santhosh Narayanan",
           "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Maatna Gaali (From \"Gulu Gulu\")",
-      "url": "https://open.spotify.com/track/3nHbr0Xr0Wkzu15QEgvVfE"
+      "duration_ms": 224400,
+      "name": "Anbarey (From \"Gulu Gulu\")",
+      "url": "https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo"
     },
     {
       "added_at": "2022-07-08 13:16:09",
@@ -343,54 +391,6 @@
       "duration_ms": 241176,
       "name": "Pennin Nilai Idhu Dhaana (From \"Banaras\")",
       "url": "https://open.spotify.com/track/6rzywbloxqgI7lg6II3ooi"
-    },
-    {
-      "added_at": "2022-07-23 05:37:01",
-      "album": {
-        "name": "Vattam Thaan (From \"Vattam\")",
-        "url": "https://open.spotify.com/album/1TT63ukUEaBjMBIGirts3B"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Malgudi Subha",
-          "url": "https://open.spotify.com/artist/6AeYaKk3j2uxScmcPNYpHY"
-        }
-      ],
-      "duration_ms": 366093,
-      "name": "Vattam Thaan (From \"Vattam\")",
-      "url": "https://open.spotify.com/track/7M6n1l1m11UzOKewf6DMJ3"
-    },
-    {
-      "added_at": "2022-07-21 13:26:10",
-      "album": {
-        "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [TAMIL]",
-        "url": "https://open.spotify.com/album/68x7p0BGFKXNrGSNGMUHBy"
-      },
-      "artists": [
-        {
-          "name": "Anup Bhandari",
-          "url": "https://open.spotify.com/artist/0YgygYV4bW2zwReIPqNJwL"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 133235,
-      "name": "The Devil's Fury - Gumma Banda Gumma (From \"Vikrant Rona\") [TAMIL]",
-      "url": "https://open.spotify.com/track/2NoLWbcEQ1viurcRPX5KZk"
     },
     {
       "added_at": "2022-05-15 15:52:30",
@@ -599,46 +599,6 @@
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
-    },
-    {
-      "added_at": "2022-07-20 02:04:33",
-      "album": {
-        "name": "Naan Poranthathume (From \"Janakiram\")",
-        "url": "https://open.spotify.com/album/11YX9UagMdT9fK8oS6Ft5f"
-      },
-      "artists": [
-        {
-          "name": "Achu",
-          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
-        },
-        {
-          "name": "Sujatha",
-          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
-        }
-      ],
-      "duration_ms": 296436,
-      "name": "Naan Poranthathume",
-      "url": "https://open.spotify.com/track/4WXyaygmBa3gk06jFQiXBA"
-    },
-    {
-      "added_at": "2022-07-19 02:17:34",
-      "album": {
-        "name": "Paper Rocket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT"
-      },
-      "artists": [
-        {
-          "name": "Simon K. King",
-          "url": "https://open.spotify.com/artist/1IlhogUcs6tZ7vd9iOVxUF"
-        },
-        {
-          "name": "Ramya Nambessan",
-          "url": "https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Cheranaadu",
-      "url": "https://open.spotify.com/track/2jAGtM4p7cAvCO98nDW43Y"
     },
     {
       "added_at": "2022-05-25 13:12:18",

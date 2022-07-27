@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 160750,
       "name": "Deja Que Tus Manos",
       "url": "https://open.spotify.com/track/1ONKgvfAhcbgHp4AKWAidI"
@@ -3621,7 +3621,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 200041,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/5sLeFOCod0pJMxM8CzVc1v"
@@ -5780,6 +5780,24 @@
     },
     {
       "album": {
+        "name": "No lo pillas",
+        "url": "https://open.spotify.com/album/0DgaTlnauNvpd2PVSKmTbJ"
+      },
+      "artists": [
+        {
+          "name": "Nawi",
+          "url": "https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "No lo pillas",
+      "url": "https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -5813,7 +5831,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 150403,
       "name": "No Me Ronquen Freestyle",
       "url": "https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A"

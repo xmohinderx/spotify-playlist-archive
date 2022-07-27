@@ -1194,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "FWEGO",
+        "url": "https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt"
+      },
+      "artists": [
+        {
+          "name": "Nani",
+          "url": "https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "FWEGO",
+      "url": "https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ"
+    },
+    {
+      "album": {
         "name": "Gadejo",
         "url": "https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv"
       },

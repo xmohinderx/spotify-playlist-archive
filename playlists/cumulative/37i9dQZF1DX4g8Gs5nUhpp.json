@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: GREY D",
+  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ph\u01b0\u01a1ng Ly",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "published_playlist_ids": [
     "0wzTwcfKaOgiicu3axKIAh"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 252800,
       "name": "Kh\u00e1c Bi\u1ec7t To L\u1edbn H\u01a1n",
       "url": "https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4"
@@ -883,6 +883,24 @@
       "duration_ms": 208939,
       "name": "Ng\u00e0y \u0110\u1ea7u Ti\u00ean",
       "url": "https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug"
+    },
+    {
+      "album": {
+        "name": "Ng\u00f4i Sao C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/5fDgEcanAeh0CwPxGK86RN"
+      },
+      "artists": [
+        {
+          "name": "Jack - J97",
+          "url": "https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275583,
+      "name": "Ng\u00f4i Sao C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5"
     },
     {
       "album": {
@@ -1194,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "ThichThich",
+        "url": "https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA"
+      },
+      "artists": [
+        {
+          "name": "Phuong Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241935,
+      "name": "ThichThich",
+      "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
+    },
+    {
+      "album": {
         "name": "Thi\u00eau Th\u00e2n",
         "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
       },
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 柏霖PoLin
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,275 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,272 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 59 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 |
 | 60 | [唱一個Hook](https://open.spotify.com/track/5clGcT1WPdWHHRnfteNNSW) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [金魚腦](https://open.spotify.com/artist/1M9Pf9EsdqiNoTHiaaD1rF) | [新聲宿營第一季](https://open.spotify.com/album/6uwT7SdJhtMi8Vdhx0zKuz) | 2:06 |
 
-Snapshot ID: `MTY1ODc5ODM5NywwMDAwMDAwMGVmY2Y5MGZmNjMyN2M3N2M4M2Y3ZWFkN2FhZjNhNDBl`
+Snapshot ID: `MTY1ODg4NTI4NywwMDAwMDAwMGVmY2Y5MGZmNjMyN2M3N2M4M2Y3ZWFkN2FhZjNhNDBl`

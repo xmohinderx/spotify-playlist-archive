@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Simone & Simaria, Luísa Sonza e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,761,919 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,762,082 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 46 | [3 Horas da Manhã](https://open.spotify.com/track/6YMGHV6OsWvyzB3VKwNoHq) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE) | [3 Horas da Manhã](https://open.spotify.com/album/3BHgI1fYWXvvQd3oXjUSSO) | 3:10 |
 | 47 | [BICHO SOLTO!!!](https://open.spotify.com/track/2WRe2rOyy3SuKVyL7btTAB) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [BICHO SOLTO!!!](https://open.spotify.com/album/4OXl5ItBNYKMZ1uvQiVwY2) | 2:38 |
 | 48 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 |
-| 49 | [Beira Do Mar](https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Luli](https://open.spotify.com/artist/1Z7XWFY5mOCRfjINacLwT3) | [Mestiço](https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp) | 4:10 |
+| 49 | [Beira Do Mar](https://open.spotify.com/track/0kX5ljJYzOU7a0gnRNqBcx) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK), [Luli](https://open.spotify.com/artist/7sTgq75BwYI4szMTbH0KZU) | [Mestiço](https://open.spotify.com/album/1uTHWGAA7LxCNwkj79goWp) | 4:10 |
 | 50 | [Agora Sou Eu](https://open.spotify.com/track/7qGo1HJTLjwjNC9no3PGNy) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Esperei Tempo Demais / Agora Sou Eu](https://open.spotify.com/album/5i6ci5fUAricEv9VjgXLqs) | 3:18 |
 | 51 | [You Are the Answer](https://open.spotify.com/track/0zrhMTMFHij7VS1qwpdK2o) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [You Are the Answer](https://open.spotify.com/album/1U5vw22mfYwf7OHwitSH6c) | 4:23 |
 | 52 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 |

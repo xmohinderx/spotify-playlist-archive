@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Madeline The Person
 
-998 songs - 2 day 4 hr 55 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+999 songs - 2 day 4 hr 59 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [By Myself](https://open.spotify.com/track/1DwNPRQGRGVUvW8OI0RTPA) | [Connor James](https://open.spotify.com/artist/4oXa6pQvsuxx7OBsEJTYEx) | [Connor James: Vol\. 1](https://open.spotify.com/album/40AiPiK4ws0Hmn5kIvnZoz) | 3:26 | 2020-10-16 | 2021-02-19 |
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-09-04 | 2021-10-30 |
 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 | 2022-04-15 | 2022-05-28 |
+| [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 | 2022-07-26 |  |
 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 | 2022-01-07 |  |
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-09-18 | 2021-12-04 |
 | [Calling All Angels \(with Quinn XCII\)](https://open.spotify.com/track/0elt9diH6UsDfMUR55BAx8) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Calling All Angels](https://open.spotify.com/album/6MwOHkTSixQtOyqDXtVdse) | 3:04 | 2021-09-11 | 2022-02-05 |
@@ -955,7 +956,7 @@
 | [Werewolf](https://open.spotify.com/track/1JtIMILHaRh1KgBgtn9m0c) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr) | [Werewolf](https://open.spotify.com/album/6dstgifr9rZQYM7eoOb5ak) | 3:25 | 2020-11-13 | 2020-11-27 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 |  |
 | [What About U](https://open.spotify.com/track/0nH6czIG4tBlGVZa4LcHYt) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [What About U](https://open.spotify.com/album/0QpPolZ3gFKByV6LBSDBka) | 3:28 | 2021-10-23 | 2022-04-09 |
-| [What Did I Do?](https://open.spotify.com/track/2QkyElTyTEezPBIFi6DMdp) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [What Did I Do?](https://open.spotify.com/album/6Gm6hzOjDvSTwSNU58qBwp) | 3:14 | 2022-03-25 |  |
+| [What Did I Do?](https://open.spotify.com/track/2QkyElTyTEezPBIFi6DMdp) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [What Did I Do?](https://open.spotify.com/album/6Gm6hzOjDvSTwSNU58qBwp) | 3:14 | 2022-03-25 | 2022-07-27 |
 | [What Do You Think Of?](https://open.spotify.com/track/4S5qPSkDocZakNYjzZjqZh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Getting Over Him](https://open.spotify.com/album/2m4CrEo9yZx4g0Kgz5uv2A) | 3:38 | 2020-09-04 | 2020-11-13 |
 | [What If I Love You](https://open.spotify.com/track/26kVXR9aQXzDiKggPGnUQR) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/7cf0JlwRmn6rEcKlxhj4za) | 2:38 | 2021-04-10 | 2021-06-19 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2021-02-06 | 2021-04-30 |

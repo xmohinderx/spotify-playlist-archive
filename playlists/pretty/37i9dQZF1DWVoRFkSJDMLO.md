@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: BNXN fka Buju 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,823 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,895 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 53 | [Bula Sekele](https://open.spotify.com/track/53zBbKEqPVgHk9t0xDPoE7) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [Sayfar](https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 3:10 |
 | 54 | [Tantalize](https://open.spotify.com/track/69XetTmUGiEM4eMWVQoIHg) | [Hndfll](https://open.spotify.com/artist/4a3CKmVSIT07QVRSZRFSoj) | [Tantalize](https://open.spotify.com/album/3Df12uC2kXeq1loFzt5Pjn) | 2:56 |
 | 55 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
-| 56 | [Candy](https://open.spotify.com/track/26AeH9oiQ33DNLUP6r24ma) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Cool Reminder Riddim](https://open.spotify.com/album/1btcUvD7L59hvITGpz7Tl3) | 2:33 |
+| 56 | [Candy](https://open.spotify.com/track/26AeH9oiQ33DNLUP6r24ma) | [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Cool Reminder Riddim](https://open.spotify.com/album/1btcUvD7L59hvITGpz7Tl3) | 2:33 |
 | 57 | [Ki Mannyé](https://open.spotify.com/track/0v391pPJXysSBHuq94eKeS) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [Ki Mannyé](https://open.spotify.com/album/3FQFrBJp9mPskgLIX5TShG) | 2:53 |
 | 58 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 |
 | 59 | [Fling It Back](https://open.spotify.com/track/5rKSO98bJ5fOBYNbpbiXQS) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/5tL7qwPbH3xoAXcLdPaHsf) | 2:24 |

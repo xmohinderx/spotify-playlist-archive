@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Camilo y Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,891 likes - 61 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 896,927 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Loca / El Celular](https://open.spotify.com/track/1H9BTOXs7KCWnVfZoOgLLf) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Invierno en Vivo](https://open.spotify.com/album/1grqXXes9m5X3KQkhE81yP) | 5:21 |
 | 44 | [Éxtasis](https://open.spotify.com/track/2zrQH6QLKwki2iIVpo4GAK) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Océano](https://open.spotify.com/album/1stdnKgxtc8jgCkcyRZMvv) | 2:59 |
 | 45 | [Luna de Miel en la Mano](https://open.spotify.com/track/2rN1lAxfRGk4ZPzo1yIXc4) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Luna de Miel en la Mano](https://open.spotify.com/album/3WKCdUg98FQTuf1eu3lTR8) | 3:58 |
-| 46 | [y yasstA](https://open.spotify.com/track/4iT2ureDqRkWNMpaTGkR8x) | [Leïti Sene](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h) | [APO0€AL1P$¡ pt1](https://open.spotify.com/album/7vUyye6drKGJ1pnF8BZPxR) | 2:09 |
+| 46 | [y yasstA](https://open.spotify.com/track/4iT2ureDqRkWNMpaTGkR8x) | [Leïti Sene](https://open.spotify.com/artist/5FQJWdcKPAijmEi4uroZ4h), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [APO0€AL1P$¡ pt1](https://open.spotify.com/album/7vUyye6drKGJ1pnF8BZPxR) | 2:09 |
 | 47 | [Wake Up](https://open.spotify.com/track/2dOT6SzsA3TmSt5W3GLUW5) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Wake Up](https://open.spotify.com/album/23okYl0KnK1mGaqR4kxs3z) | 2:46 |
 | 48 | [La Beba](https://open.spotify.com/track/4KdsJrcZ368K4EZtvgONtw) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [La Beba](https://open.spotify.com/album/4Hxyp0RdQ509qlc2BqpBA5) | 4:42 |
 | 49 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 |

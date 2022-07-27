@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,679 likes - 96 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,706 likes - 96 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 95 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 |
 | 96 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 |
 
-Snapshot ID: `MTY1NjY2NjUxNiwwMDAwMDAxNjAwMDAwMTgxYjkwNGVhOWQwMDAwMDE3OGIxZDJjZDQz`
+Snapshot ID: `MTY1ODgyNzc0MywwMDAwMDAxNzAwMDAwMTgyMzlkNmEwNmMwMDAwMDE4MjM5ZDY2NTk5`

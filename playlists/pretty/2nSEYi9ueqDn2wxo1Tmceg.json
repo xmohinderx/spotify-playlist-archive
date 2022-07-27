@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78805,
+  "num_followers": 78804,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzQ5Niw0MjI3MzczN2Y5MDk0ZGRmZmZkZTI1NjM4NmU3NWRhYTEwOTMyYTRk",
+  "snapshot_id": "MzQ5Nyw2NWMzNjFkMmYyZDUzYzdlZjk2MDA4NDYxY2ZiMTM5YjkxYjUzODgy",
   "tracks": [
+    {
+      "added_at": "2022-07-26 14:50:28",
+      "album": {
+        "name": "Cross the Sea",
+        "url": "https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 216672,
+      "name": "Cross the Sea",
+      "url": "https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5"
+    },
     {
       "added_at": "2022-07-25 14:39:04",
       "album": {

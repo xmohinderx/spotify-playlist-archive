@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Insider\(인사이더\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,246 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,449,429 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 109 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 |
 | 110 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 |
 
-Snapshot ID: `MTY1ODc5ODQyOSwwMDAwMDAwMDYzNTZjMjRiMzYzYjA2YmQ2NjQwODk1NWVkOTJiYTQ4`
+Snapshot ID: `MTY1ODg4NTMyMywwMDAwMDAwMDYzNTZjMjRiMzYzYjA2YmQ2NjQwODk1NWVkOTJiYTQ4`

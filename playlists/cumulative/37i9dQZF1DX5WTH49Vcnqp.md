@@ -2,7 +2,7 @@
 
 ### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
 
-> all the hottest indie tunes in the world rn feat\. genesis, steve, billie, thelma, tyler\. maybe see you at splendour? ☂️
+> all the hottest indie tunes in the world rn feat\. genesis, steve, billie, thelma, tyler.
 
 448 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 

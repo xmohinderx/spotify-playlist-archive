@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 178733,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 275240,
       "name": "Brown Baby",
       "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 318733,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/7g998XsaG9lBUaDXuEs5xr"
@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483546,
+      "name": "I'm Just a Prisoner",
+      "url": "https://open.spotify.com/track/4VVJXq9ZXxOfDxhLEwVuOy"
+    },
+    {
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 257146,
       "name": "Jesus Boy (You Only Look Like A Man)",
       "url": "https://open.spotify.com/track/45A7dnrsLqR77AqKOjZPyL"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 283640,
       "name": "So Glad To See You Again",
       "url": "https://open.spotify.com/track/62GCvbMTDVwEdJ6W5T1ubs"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 267626,
       "name": "There's A Small Hotel",
       "url": "https://open.spotify.com/track/7FGt4gse7OaulLWaxcIoBe"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-27",
       "duration_ms": 169786,
       "name": "Windy",
       "url": "https://open.spotify.com/track/56SmXWXB6wIJRlDxdiRZ2T"

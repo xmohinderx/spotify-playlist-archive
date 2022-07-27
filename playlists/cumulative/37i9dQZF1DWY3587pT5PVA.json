@@ -8,6 +8,32 @@
   "tracks": [
     {
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/3fRer69GOSeMY3yGEWHppA"
+      },
+      "artists": [
+        {
+          "name": "Eli Golden",
+          "url": "https://open.spotify.com/artist/1ie7pi4zH8zN7W1a3vu3wZ"
+        },
+        {
+          "name": "The Ensemble of Netflix's 13 the Musical",
+          "url": "https://open.spotify.com/artist/2QjLQUnfwBAa4XL14gfLFQ"
+        },
+        {
+          "name": "Jason Robert Brown",
+          "url": "https://open.spotify.com/artist/5ol7Hq695R9m2bT9T3FiQx"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "13",
+      "url": "https://open.spotify.com/track/5Mu2G7387ww8uqZFAiBqPi"
+    },
+    {
+      "album": {
         "name": "The Prom (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/5016dF1FF2mrEtD38l4QiN"
       },

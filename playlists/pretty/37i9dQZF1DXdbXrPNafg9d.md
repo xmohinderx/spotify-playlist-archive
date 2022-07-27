@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,414 likes - 141 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,605 likes - 141 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 61 | [Shark Eyes](https://open.spotify.com/track/11wfF2qohFwGzyG3e2HPKB) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Shark Eyes](https://open.spotify.com/album/3yBF9PnTuSweeaRRCXa85h) | 4:30 |
 | 62 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
 | 63 | [Promise](https://open.spotify.com/track/42sMyIVgpVv9zFFQ2rdZ0P) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Promise](https://open.spotify.com/album/1vt3ZOyY1VodhBDoPZSlIi) | 3:23 |
-| 64 | [UNCONDITIONAL](https://open.spotify.com/track/2GnpbEF0yV8IxAmfuHhZj6) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/3t4tGWLu7byG0X5RXzVFZM) | 2:37 |
+| 64 | [UNCONDITIONAL](https://open.spotify.com/track/2GnpbEF0yV8IxAmfuHhZj6) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [MANIC PIXIE DREAM BOY](https://open.spotify.com/album/3t4tGWLu7byG0X5RXzVFZM) | 2:35 |
 | 65 | [Can't You Just See](https://open.spotify.com/track/6VLVtEjPx5bza9cvVvAKRw) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Can't You Just See](https://open.spotify.com/album/7skDonyKmLtaDcfcRz5Mgm) | 3:50 |
 | 66 | [Parasite](https://open.spotify.com/track/3rel28tkx8hBXHGeJaXtiJ) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Parasite](https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy) | 4:01 |
 | 67 | [爱的大巴 \(Love Bus\)](https://open.spotify.com/track/6XmPjrMCCqsRYyN2qoq3Ox) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [爱的大巴 \(Love Bus\)](https://open.spotify.com/album/7qc7urAaezBqXaJHfZvNhu) | 4:31 |
