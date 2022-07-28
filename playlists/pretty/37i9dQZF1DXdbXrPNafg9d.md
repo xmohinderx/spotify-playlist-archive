@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Cuco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,605 likes - 141 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,722 likes - 141 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

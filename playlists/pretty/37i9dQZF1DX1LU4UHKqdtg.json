@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: TWICE",
-  "num_followers": 220082,
+  "num_followers": 220407,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg4NDg5NywwMDAwMDAwMDA0MWRiNWYxNGM4MGNlMzE5YTQ4NDVlZWFkOWE4YjYx",
+  "snapshot_id": "MTY1ODk3MDkxMiwwMDAwMDAwMDA0MWRiNWYxNGM4MGNlMzE5YTQ4NDVlZWFkOWE4YjYx",
   "tracks": [
     {
       "added_at": "2022-07-26 15:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 178453,
       "name": "_WORLD",
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "added_at": "2022-07-26 15:00:00",
+      "album": {
+        "name": "Grown Ass Kid",
+        "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik"
     },
     {
       "added_at": "2022-07-26 15:00:00",

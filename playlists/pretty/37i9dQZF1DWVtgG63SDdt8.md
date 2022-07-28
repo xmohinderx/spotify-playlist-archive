@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Montell Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,356 likes - 98 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,395 likes - 98 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,6 +105,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 95 | [Forever](https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk) | [Forever](https://open.spotify.com/album/6Y3FWXwfalkRuK7lU73dmC) | 2:29 |
 | 96 | [DAY ONES](https://open.spotify.com/track/1aazpUqKkCSHqZ09O8rVHT) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [DJLC](https://open.spotify.com/artist/7CjRSmKXaquhcaBcOO9SQQ) | [DAY ONES](https://open.spotify.com/album/3hM9N5646a6RPl9IlX6muD) | 3:12 |
 | 97 | [Como Eh](https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Como Eh](https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI) | 2:49 |
-| 98 | [My Worship \(Amapiano\)](https://open.spotify.com/track/2CUdZFOLc0yL8IKkg7J59F) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [My Worship \(Amapiano\)](https://open.spotify.com/album/5aCjlzI5itsPLwN1qCCpiG) | 6:22 |
+| 98 | [My Worship \(Amapiano\)](https://open.spotify.com/track/2CUdZFOLc0yL8IKkg7J59F) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [My Worship \(Amapiano\)](https://open.spotify.com/album/5aCjlzI5itsPLwN1qCCpiG) | 6:22 |
 
 Snapshot ID: `MTY1ODQ3NjE3MSwwMDAwMDUzOTAwMDAwMTgyMjRlMjExNjYwMDAwMDE4MjIzZjQ4NTky`

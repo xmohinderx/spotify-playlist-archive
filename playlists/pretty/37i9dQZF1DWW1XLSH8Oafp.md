@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring yunè pinku
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,112 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,212 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 124 | [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 |
 | 125 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 |
 
-Snapshot ID: `MTY1ODg4NDQyOCwwMDAwMDAwMDNjNTk1MWFhZjM5NTE1N2EwOGFhNGU3MGI4YWQ0ZmE3`
+Snapshot ID: `MTY1ODk3MDUyNiwwMDAwMDAwMDNjNTk1MWFhZjM5NTE1N2EwOGFhNGU3MGI4YWQ0ZmE3`

@@ -175,7 +175,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 107280,
       "name": "Five Feet High and Rising",
       "url": "https://open.spotify.com/track/0KSHmjK7OFtGocvbo7NZNO"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 127746,
       "name": "I Love You Because",
       "url": "https://open.spotify.com/track/0OnnbhUUfJ23b3UAbBbzAa"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 168106,
       "name": "Invitation to the Blues",
       "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
@@ -1637,7 +1637,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 179293,
       "name": "My Special Angel",
       "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 158306,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 151626,
       "name": "The Battle Of New Orleans",
       "url": "https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3"
@@ -1979,7 +1979,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 155007,
       "name": "The Shot Gun Boogie",
       "url": "https://open.spotify.com/track/66gEeYiMppDZjNEoTsbnL6"
@@ -2041,6 +2041,24 @@
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "They're Hanging Me Tonight",
+      "url": "https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO"
     },
     {
       "album": {
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"

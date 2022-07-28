@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 135706,
       "name": "Bubbles In My Beer - Single Version",
       "url": "https://open.spotify.com/track/4A2dABZi18gmKGizp0ubyn"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 165733,
       "name": "Columbus Stockade Blues",
       "url": "https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn"
@@ -419,10 +419,28 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 166026,
       "name": "Filipino Baby",
       "url": "https://open.spotify.com/track/0sclx7x70Oaa6q01P2hrI0"
+    },
+    {
+      "album": {
+        "name": "Country and Western",
+        "url": "https://open.spotify.com/album/0qwuAEW6Wq8O4WndKRNhSB"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98066,
+      "name": "Headin' Down The Wrong Highway",
+      "url": "https://open.spotify.com/track/7KF5iHhrwT1kZL22nyRdKi"
     },
     {
       "album": {
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 161933,
       "name": "I Love You So Much It Hurts",
       "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 216560,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/3Vtcjs5wVanh6LocIRrpwy"
@@ -953,6 +971,24 @@
       "duration_ms": 141946,
       "name": "Riders In The Sky",
       "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
+    },
+    {
+      "album": {
+        "name": "The Essential Bill Monroe",
+        "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "album": {
@@ -1003,7 +1039,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 172800,
       "name": "Sioux city sue",
       "url": "https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv"
@@ -1169,7 +1205,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 130506,
       "name": "Steel Guitar Rag",
       "url": "https://open.spotify.com/track/73VcBNhgfQDKCv2FC4T4UQ"
@@ -1187,7 +1223,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 146733,
       "name": "Straighten Up And Fly Right",
       "url": "https://open.spotify.com/track/0NeSfkU8LFzgd3ICfSektq"
@@ -1277,7 +1313,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 156706,
       "name": "Texas Playboy Rag",
       "url": "https://open.spotify.com/track/2RwblMHpl88xgymgZFzFIi"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 169795,
       "name": "Wine, Women and Song",
       "url": "https://open.spotify.com/track/1tyxZVmT2ahzlmtVlFzLpo"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 171240,
       "name": "Worried Mind",
       "url": "https://open.spotify.com/track/3RmaBKQtO5QVPsPUVDwv3P"

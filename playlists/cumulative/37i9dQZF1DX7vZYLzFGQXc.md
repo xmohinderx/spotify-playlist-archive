@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent talents are here\. \(Cover: YUNNUGU\(윤누구\)\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-556 songs - 1 day 7 hr 46 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
+558 songs - 1 day 7 hr 53 min - [published](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [kyrie](https://open.spotify.com/track/28cZrg5bm25e5LcZJL8gFi) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 2:59 | 2022-05-02 | 2022-06-10 |
 | [Lack of love](https://open.spotify.com/track/77iYFyHq2TNcGDbn1cW2y7) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [On your mark](https://open.spotify.com/album/3M6ElKBthezpD7HUs4eLJl) | 3:40 | 2022-01-10 | 2022-01-28 |
 | [LAST GIRL \(feat\. D\-HACK\)](https://open.spotify.com/track/7DgNiXKTkgxVKFOdkP3PO8) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [디핵\(D\-Hack\)](https://open.spotify.com/artist/459rjhQOywNKgJHRW2L4Fs) | [The Last Boy In The Class 2](https://open.spotify.com/album/5zE7j7iuh4bYTKddYDnH0C) | 4:06 | 2022-06-09 | 2022-07-05 |
+| [last month’s rent](https://open.spotify.com/track/1DZZTL6ZzAp2qhSvAEV9JN) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:05 | 2022-07-27 |  |
 | [laugh!](https://open.spotify.com/track/0IC3nbx1BJSbgtgBYJynmh) | [cott \(콧\)](https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs) | [TWIST](https://open.spotify.com/album/5ZkAwSmcnVoPuR4ZbmXcaz) | 2:55 | 2022-06-09 | 2022-06-19 |
 | [Law of Gravity](https://open.spotify.com/track/2Anqr5U4gCs6d0NRFjHoKE) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [\[QQQQQ\]](https://open.spotify.com/album/0yJQVv7egbWQ7yw4DynP83) | 3:02 | 2021-12-02 | 2022-01-11 |
 | [layoff \(feat\. Churry\)](https://open.spotify.com/track/6Nw61ToXv3kwGyEOiobt3q) | [Layton](https://open.spotify.com/artist/2YQOlJnew5D6w1lWqIUBXE), [Churry](https://open.spotify.com/artist/1yhl1Sb604sZDyGavCdPUM) | [layoff](https://open.spotify.com/album/5Bd7lzlhF329D4gEHYBv69) | 3:49 | 2022-06-18 | 2022-07-15 |
@@ -371,6 +372,7 @@
 | [OUR LOVE](https://open.spotify.com/track/6WzG5XMZcRIMk9GtO1RwqX) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG), [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [OUR LOVE](https://open.spotify.com/album/36y5BIfDoZWkh4QMXFqqdl) | 2:59 | 2022-07-04 |  |
 | [OUR LOVE IS](https://open.spotify.com/track/7Ln44yfHEygexUeTgml0F0) | [찰리빈웍스](https://open.spotify.com/artist/1aoo4BsnCKdH4feovaFNcF) | [OUR LOVE IS](https://open.spotify.com/album/1DLrUoyUs5v7NW2CgWy8fU) | 3:26 | 2022-01-24 | 2022-02-24 |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-14 |  |
+| [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 | 2022-07-27 |  |
 | [Over That](https://open.spotify.com/track/7A4ZnRRrvnkpxENPHkGdEN) | [ROCKY](https://open.spotify.com/artist/4EqyJYhsMeyzJLdQNlRMef) | [Broke Rookie Star \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6s1yABIimFcJMLabEc4huW) | 3:30 | 2022-06-09 | 2022-06-21 |
 | [Over U](https://open.spotify.com/track/73fUH9vcrYWTbMfXQ7VZSO) | [NECTA](https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U) | [Over U](https://open.spotify.com/album/3QZuRwsZn4PNaOlPZwbZwB) | 3:59 | 2022-03-02 | 2022-04-21 |
 | [Over You](https://open.spotify.com/track/6w4hZ9LHM2m1xHqnPvrDPk) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [Over You](https://open.spotify.com/album/1WuXGnoEW3POjOwzaO3We2) | 3:15 | 2022-06-09 | 2022-06-21 |

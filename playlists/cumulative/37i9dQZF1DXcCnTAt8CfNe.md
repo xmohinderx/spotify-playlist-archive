@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-219 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+220 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Nattljus](https://open.spotify.com/track/2QrJ8fjauMnKHUkdnghNzB) | [Pontus Josefsson](https://open.spotify.com/artist/1mxPkXiVRRYjy4GHEZQ6Ap) | [Nattljus](https://open.spotify.com/album/0Y1TTUkWznsaNE1GYQc0CX) | 2:34 | 2021-12-09 |  |
 | [Night Light](https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Night Light](https://open.spotify.com/album/2q4lhQVfht53WO9uwkJYIr) | 2:30 | 2021-12-09 |  |
 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 | 2021-12-09 |  |
+| [Noche Brilliante](https://open.spotify.com/track/2kVsD3DNreqNJ0CdM2ix2U) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Noche Brilliante](https://open.spotify.com/album/2HGRxLG4zOXpVAYQcRbE6e) | 2:21 | 2022-07-27 |  |
 | [Nocturne in Green](https://open.spotify.com/track/56nl0PcICHCOoVazhLQEFb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:03 | 2021-12-09 | 2022-03-22 |
 | [Nysnö](https://open.spotify.com/track/3XUoK60Lyhtf9qyqJrppKq) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Nysnö](https://open.spotify.com/album/388EAxsyfHxg7BhyDlRTYt) | 2:36 | 2021-12-09 |  |
 | [October](https://open.spotify.com/track/7x8ILiGyZAFW3F0rPUPYxm) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:48 | 2021-12-09 |  |

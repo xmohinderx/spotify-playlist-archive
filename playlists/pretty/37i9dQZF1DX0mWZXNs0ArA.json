@@ -1,12 +1,12 @@
 {
   "description": "125%",
-  "num_followers": 161574,
+  "num_followers": 166242,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc1NDI1OCwwMDAwMDAxMDAwMDAwMTgyMzU3NTU2ZTgwMDAwMDE4MTRhMzY1YWRm",
+  "snapshot_id": "MTY1ODg5NDQwMCwwMDAwMDAxMTAwMDAwMTgyM2RjZmJhNWMwMDAwMDE4MTRhMzY1YWRm",
   "tracks": [
     {
       "added_at": "2022-07-11 14:34:50",
@@ -254,6 +254,14 @@
         {
           "name": "Robinson",
           "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
+        },
+        {
+          "name": "Esteve",
+          "url": "https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
         }
       ],
       "duration_ms": 160043,
@@ -311,6 +319,22 @@
       "duration_ms": 151415,
       "name": "all I want is you",
       "url": "https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq"
+    },
+    {
+      "added_at": "2022-07-27 04:00:00",
+      "album": {
+        "name": "Taste (Speed)",
+        "url": "https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "Taste - Speed",
+      "url": "https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI"
     },
     {
       "added_at": "2022-07-25 13:04:18",

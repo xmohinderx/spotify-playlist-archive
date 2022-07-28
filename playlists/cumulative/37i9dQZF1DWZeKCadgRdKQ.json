@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "bewildered",
+        "url": "https://open.spotify.com/album/2KZxDKcrrH3a9hdvgxfXNN"
+      },
+      "artists": [
+        {
+          "name": "Garden Collective",
+          "url": "https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162479,
+      "name": "bewildered",
+      "url": "https://open.spotify.com/track/3YszK66xCFReY90ys3jP6o"
+    },
+    {
+      "album": {
         "name": "So Flows The Current",
         "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
       },
@@ -1659,6 +1677,24 @@
       "duration_ms": 233062,
       "name": "De Fl\u00e9che",
       "url": "https://open.spotify.com/track/5vymVJ2WUlLnMeQqrgwQx8"
+    },
+    {
+      "album": {
+        "name": "deep wild",
+        "url": "https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh"
+      },
+      "artists": [
+        {
+          "name": "Far & Beyond",
+          "url": "https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152883,
+      "name": "deep wild",
+      "url": "https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5"
     },
     {
       "album": {
@@ -3909,7 +3945,7 @@
       ],
       "date_added": "2019-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 234000,
       "name": "Light Year",
       "url": "https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ"
@@ -6171,6 +6207,24 @@
       "duration_ms": 194836,
       "name": "Soft Upon Your Face",
       "url": "https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC"
+    },
+    {
+      "album": {
+        "name": "Solatium",
+        "url": "https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126985,
+      "name": "Solatium",
+      "url": "https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR"
     },
     {
       "album": {

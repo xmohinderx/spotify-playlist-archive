@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Cami, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,706 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,712 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [convenient](https://open.spotify.com/track/4Ik2gXDNY5Mzn01VfY7cUr) | [YNISH](https://open.spotify.com/artist/6BJ6WDyif448PgiFLvuJ5z) | [convenient](https://open.spotify.com/album/0EEo7EHLa5MNpExOBwjht1) | 3:21 |
-| 2 | [Kapit Lang](https://open.spotify.com/track/7lIx7qCoYbVL5vL7DrlSlL) | [Jekkpot](https://open.spotify.com/artist/0C6A40Ksg07oH0ASMvG6sd), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [JRoa](https://open.spotify.com/artist/0eaeZqmrZHe4qGgx4woFnG) | [Kapit Lang](https://open.spotify.com/album/1gTCUADkkyltU6ZFUBN4Cu) | 3:53 |
+| 2 | [Kapit Lang](https://open.spotify.com/track/7lIx7qCoYbVL5vL7DrlSlL) | [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [JRoa](https://open.spotify.com/artist/0eaeZqmrZHe4qGgx4woFnG) | [Kapit Lang](https://open.spotify.com/album/1gTCUADkkyltU6ZFUBN4Cu) | 3:53 |
 | 3 | [VROOM!](https://open.spotify.com/track/5MKYIPoo5IZLjSnMpBoteM) | [Black Box Collective](https://open.spotify.com/artist/0wKpCwB9oqKN7Lq6XRnUym), [skeptic tongues](https://open.spotify.com/artist/2Sm6o4H6oQtpfRZYim54jT) | [VROOM!](https://open.spotify.com/album/1NeGFyxltJVySRfj1tWK6z) | 3:21 |
 | 4 | [Langit](https://open.spotify.com/track/66bgV4BVycFtVyOX1tColS) | [Polo Pi](https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3) | [Langit](https://open.spotify.com/album/4aSFKqiTq6yB4XwVC8rWo0) | 3:59 |
 | 5 | [My Demons](https://open.spotify.com/track/5lMRNzSznP146iHWN77xQT) | [Zynfinity](https://open.spotify.com/artist/3hhvszAhc2fpQ8Sm6HmQhr) | [My Demons](https://open.spotify.com/album/58PN9epQbr0WV4B2QqVwxd) | 4:52 |

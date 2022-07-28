@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The BIGGEST tracks in Soca from all the islands, presented by Patrice Roberts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,925 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,949 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 8 | [Under Vibes](https://open.spotify.com/track/1Spx6aeKCATnqGXA1x5uiE) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Under Vibes](https://open.spotify.com/album/1uwIw4s4d30p9lcKhjhYf2) | 3:22 |
 | 9 | [Tender](https://open.spotify.com/track/15ZCVWArG1AjHG51AfjeHU) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Tender Touch Riddim](https://open.spotify.com/album/1FbJ7I3RlQUMiZ91Vq16G0) | 3:05 |
 | 10 | [Dear Beloved](https://open.spotify.com/track/549aq4KA3GaYYEThjNlLg2) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF), [Turner](https://open.spotify.com/artist/6GOXDmGRGlW4EBQLIZbY0E) | [Dear Beloved](https://open.spotify.com/album/7Ihv7zn6dwgVKXxjnC7Np0) | 4:06 |
-| 11 | [Ammunition](https://open.spotify.com/track/2UFDkkQAVpCmDS0YW33pdi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [VENT DELUXE](https://open.spotify.com/album/7MyHCz9ZMfRlIpfs4ov6Cq) | 4:15 |
+| 11 | [Ammunition](https://open.spotify.com/track/2UFDkkQAVpCmDS0YW33pdi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [VENT DELUXE](https://open.spotify.com/album/7MyHCz9ZMfRlIpfs4ov6Cq) | 4:16 |
 | 12 | [Riddim & Bass](https://open.spotify.com/track/1OrHIUiYuzEgX80czWFXhJ) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn) | [Cabana Riddim](https://open.spotify.com/album/2cUIR4WKQ1LC5mGPKCYJPy) | 3:34 |
 | 13 | [Out and Bad](https://open.spotify.com/track/2ycagZcHEqX3rPC44TIf5P) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Out and Bad](https://open.spotify.com/album/3yOplnxQdhPRwwv2IXH9kJ) | 3:24 |
 | 14 | [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 |

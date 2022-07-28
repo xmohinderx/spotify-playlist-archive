@@ -1,13 +1,29 @@
 {
-  "description": "Exclusieve tracks van Bokoesams mixtape! Vandaag: Fok feat. Kalibwoy",
-  "num_followers": 301050,
+  "description": "Exclusief en nieuw: Bokoesam - Gallis",
+  "num_followers": 301167,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg3MjgwMCwwMDAwMDQ3YTAwMDAwMTgyM2M4NjIzNTYwMDAwMDE4MjM5NzFkZDZk",
+  "snapshot_id": "MTY1ODk1OTIwMCwwMDAwMDQ3YjAwMDAwMTgyNDFhYzdmOWYwMDAwMDE4MjNlOTI3Y2Zh",
   "tracks": [
+    {
+      "added_at": "2022-07-27 22:00:00",
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/3ltzF8mEkuEygpncv6S9Ut"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        }
+      ],
+      "duration_ms": 154255,
+      "name": "Gallis",
+      "url": "https://open.spotify.com/track/7q8Tp091I66Nv4Vki6u2ru"
+    },
     {
       "added_at": "2022-07-26 22:00:00",
       "album": {
@@ -363,22 +379,6 @@
       "duration_ms": 157254,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1tEulLqSCX3Q9DOXxoRugI"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/5A6jH4nly9mmEjclnmhhIG"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        }
-      ],
-      "duration_ms": 139998,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/6QKypZP2gDMeeIq5O4LuIO"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 178567,
-      "name": "Me Porto Bonito",
-      "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4"
       },
@@ -1083,70 +1063,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Kel bail",
-        "url": "https://open.spotify.com/album/6fYcge4ihB6KfdvAGCFQyE"
-      },
-      "artists": [
-        {
-          "name": "Venant Delacapitale",
-          "url": "https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 201897,
-      "name": "Kel bail",
-      "url": "https://open.spotify.com/track/6g3fzFlpdd834RWaL4O56o"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Zet Het",
-        "url": "https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU"
-      },
-      "artists": [
-        {
-          "name": "Ta Joela",
-          "url": "https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        },
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        }
-      ],
-      "duration_ms": 179907,
-      "name": "Zet Het",
-      "url": "https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "What It Do",
-        "url": "https://open.spotify.com/album/6mGvNyQkTHVENlyF7qjRnG"
-      },
-      "artists": [
-        {
-          "name": "Fuse ODG",
-          "url": "https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "What It Do",
-      "url": "https://open.spotify.com/track/2V3mQTPHYkxbkYxXMjnKFA"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/3e83G6pMu4TGkiDYSNsFnA"
       },
@@ -1231,30 +1147,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Je Vindt Nie Erg Toch",
-        "url": "https://open.spotify.com/album/66cLvqKSEZ3iaoxubzhK1l"
-      },
-      "artists": [
-        {
-          "name": "Mario Cash",
-          "url": "https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        },
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Je Vindt Nie Erg Toch",
-      "url": "https://open.spotify.com/track/6nesuwe9NlRKGjenzyj37F"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Whine It",
         "url": "https://open.spotify.com/album/5NwUOJu0jq2XlQS4lAOIN0"
       },
@@ -1279,26 +1171,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Flauta",
         "url": "https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g"
       },
@@ -1319,22 +1191,6 @@
       "duration_ms": 189000,
       "name": "Flauta",
       "url": "https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Wat Is Je Mo",
-        "url": "https://open.spotify.com/album/469SWXuGdmZ975GgdXQHRe"
-      },
-      "artists": [
-        {
-          "name": "Figo Gang",
-          "url": "https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7"
-        }
-      ],
-      "duration_ms": 152347,
-      "name": "Wat Is Je Mo",
-      "url": "https://open.spotify.com/track/545Ufc9xLT5rZHazOVFjXv"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -1375,22 +1231,6 @@
       "duration_ms": 165154,
       "name": "Waistline",
       "url": "https://open.spotify.com/track/0wd6imcxxLZhP7cTzyBeua"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Pampanana",
-        "url": "https://open.spotify.com/album/0cInOxATodfivQvMbYug37"
-      },
-      "artists": [
-        {
-          "name": "Rhema & Bethel",
-          "url": "https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "Pampanana",
-      "url": "https://open.spotify.com/track/4uMVTZnalYg4JwX5vDmFTB"
     },
     {
       "added_at": "2022-07-21 22:00:00",

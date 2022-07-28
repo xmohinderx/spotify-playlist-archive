@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Lilli QueenB  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,774 likes - 59 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,775 likes - 59 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 15 | [Hai Manis Lagi Apa Nih](https://open.spotify.com/track/7y70dHI6Vyr7trXi1FEi3h) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Martoz](https://open.spotify.com/artist/0aelRPUDICiGSxEUQLuNmM), [Machacih](https://open.spotify.com/artist/1Qe4SovuQL0XdGtmei0vli) | [Hai Manis Lagi Apa Nih](https://open.spotify.com/album/2SPLOwR4d2V50js0i8ksrb) | 2:04 |
 | 16 | [Hati Yang Salah](https://open.spotify.com/track/2YHI9cmQdtX8hV7NxKMcia) | [Sharla Martiza](https://open.spotify.com/artist/5yXlvtoCNwJJHMztACsnd9) | [Hati Yang Salah](https://open.spotify.com/album/1XLoYmDTmb4hpc2n7AAEKb) | 3:45 |
 | 17 | [My Ways](https://open.spotify.com/track/0lgOyIxWf1A5PVkbxW4dOL) | [Dylan Pearce](https://open.spotify.com/artist/7KKvQnTOtvJJITks84EYjx), [Verlynshia Thiara](https://open.spotify.com/artist/3ogTDidre9bB0foUi9BHab) | [EPISODIC](https://open.spotify.com/album/1zcWfoIRkJD8Ldu63mn0NS) | 4:05 |
-| 18 | [Rehat](https://open.spotify.com/track/0ADuwm9OzELxnYBD0lBJpc) | [Stuck In The Night](https://open.spotify.com/artist/3eDJwdPoyjjTILmVPDjcQZ), [Yosi](https://open.spotify.com/artist/0aTsJMBvRZsEyP67xtOvgm) | [Rehat](https://open.spotify.com/album/20ch9Pvf050tvhf2Htr59a) | 3:32 |
+| 18 | [Rehat](https://open.spotify.com/track/0ADuwm9OzELxnYBD0lBJpc) | [Stuck In The Night](https://open.spotify.com/artist/3eDJwdPoyjjTILmVPDjcQZ), [Yosi](https://open.spotify.com/artist/6kYOyb4Tx7hf8YI7cgcRef) | [Rehat](https://open.spotify.com/album/20ch9Pvf050tvhf2Htr59a) | 3:32 |
 | 19 | [Say To You](https://open.spotify.com/track/6TzVlySQiD19ToP8nZAf1z) | [2N3RD](https://open.spotify.com/artist/2YXppeJYfVtkLyqLdQwozb) | [Say To You](https://open.spotify.com/album/3izelWOdse0OZUjJr89qLN) | 3:27 |
 | 20 | [Don't You Go](https://open.spotify.com/track/7qINrsCcAiKCcAJcelpzQB) | [El Six](https://open.spotify.com/artist/0mszflxsQbT6tB6MBWx09D) | [Don't You Go](https://open.spotify.com/album/7vrsKztIXJS3jhpqGcUoMQ) | 2:51 |
 | 21 | [One By One](https://open.spotify.com/track/1UJtWFHFTFPhD7ObFWcPBu) | [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [One By One](https://open.spotify.com/album/68lCxjCp5YnBDCMroaIYoN) | 4:24 |

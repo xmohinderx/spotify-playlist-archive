@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: The Lone Bellow
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,369 likes - 127 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,423 likes - 127 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

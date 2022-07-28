@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,851 likes - 124 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,856 likes - 124 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

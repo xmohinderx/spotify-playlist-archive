@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 289626,
       "name": "Coraz\u00f3n de ne\u00f3n",
       "url": "https://open.spotify.com/track/5zAnoLd8d4ssifVCnSDrwG"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 227626,
       "name": "L\u00e1grimas Al Suelo",
       "url": "https://open.spotify.com/track/3glP7b1rIBfUr3i5iepLYR"
@@ -1265,10 +1265,28 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 191426,
       "name": "Tr\u00e1tame Suavemente",
       "url": "https://open.spotify.com/track/0gaGh9zDdtHDlTXiMzJXjv"
+    },
+    {
+      "album": {
+        "name": "Monstruos Transparentes",
+        "url": "https://open.spotify.com/album/7mDrnyOAR89cOOmSe5jzQE"
+      },
+      "artists": [
+        {
+          "name": "Alquimia",
+          "url": "https://open.spotify.com/artist/1UwZz1gjQPWb8zMm8qY7Hr"
+        }
+      ],
+      "date_added": "2021-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2x5aFMOyjB1VYKBYpGIKLZ"
     },
     {
       "album": {

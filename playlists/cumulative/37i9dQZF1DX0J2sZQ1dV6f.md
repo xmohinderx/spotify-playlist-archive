@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-167 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+168 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bellakeo](https://open.spotify.com/track/79CptrKaICPBzF3rInjYGp) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [FENIX](https://open.spotify.com/artist/5rIENGsPQvl5N2QBs2Jkc1) | [Bellakeo](https://open.spotify.com/album/5LiIQzzlIOlHOpvDjFvf7f) | 1:56 | 2022-03-21 | 2022-04-20 |
 | [Bellaquita \- Remix](https://open.spotify.com/track/4GGwM2Krtlx9G9ii1RaEOx) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 5:04 | 2022-04-19 | 2022-04-26 |
 | [Bendecido](https://open.spotify.com/track/5m6i8SGp2CyudL8rgYUYFe) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:07 | 2022-07-08 |  |
+| [Bi](https://open.spotify.com/track/1eOenz5uZlndPxGPC4cQxV) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 3:05 | 2022-07-27 |  |
 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 | 2022-04-19 |  |
 | [Bombero](https://open.spotify.com/track/0wGUCDSRabJuQa01Hoo0tD) | [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V), [Dj Fredy Fresco](https://open.spotify.com/artist/7v5hVOTXEjeW6jJZ94iKzV) | [Bombero](https://open.spotify.com/album/1QX5SucGWKS4RF2UhdNaC9) | 2:06 | 2022-07-08 |  |
 | [BOY TOY](https://open.spotify.com/track/4sfiPyEjbUip1wR4wWZcP6) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi) | [BOY TOY](https://open.spotify.com/album/7m0EBWf9PUkwYR4LP9fGdQ) | 2:16 | 2022-03-21 | 2022-04-20 |
@@ -156,7 +157,7 @@
 | [Soy Una Gargola](https://open.spotify.com/track/4bEwaORm2IBfu3omjEna7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:09 | 2022-07-08 |  |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |
-| [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 | 2022-07-08 |  |
+| [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 | 2022-07-08 | 2022-07-28 |
 | [tenemos que hablar](https://open.spotify.com/track/078XvvyCHmoix2omRiC198) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [relaciones tóxicas](https://open.spotify.com/album/6n24N0gjwRDi9Nz4hr6CWc) | 3:22 | 2022-07-08 |  |
 | [TESTIGO](https://open.spotify.com/track/6pDqsritPEFUfo4MuDKbno) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [TESTIGO](https://open.spotify.com/album/0uCapRAWnX9YHCPwLWZMTZ) | 2:33 | 2022-03-21 | 2022-04-20 |
 | [Tokyo](https://open.spotify.com/track/5au61mbP6G6il9y9cT3hzV) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Tokyo](https://open.spotify.com/album/24JyTtGGX1MJqoCsKbHesg) | 2:37 | 2022-03-21 | 2022-07-09 |

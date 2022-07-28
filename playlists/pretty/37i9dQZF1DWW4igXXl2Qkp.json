@@ -1,13 +1,181 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Lil Darius\n",
-  "num_followers": 187106,
+  "num_followers": 187326,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM0OTk0NCwwMDAwMDExYTAwMDAwMTgyMWQ1YmZkZmIwMDAwMDE4MjE5ZThmMDQ1",
+  "snapshot_id": "MTY1ODk0OTQ1OCwwMDAwMDExYjAwMDAwMTgyNDExN2RjMTYwMDAwMDE4MjE5ZThmMDQ1",
   "tracks": [
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
+      },
+      "artists": [
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
+    },
+    {
+      "added_at": "2022-07-20 20:45:44",
+      "album": {
+        "name": "I'm Him",
+        "url": "https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        },
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        }
+      ],
+      "duration_ms": 158056,
+      "name": "I'm Him",
+      "url": "https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Sentient",
+        "url": "https://open.spotify.com/album/3GmZeMPNeEcTflcdQxm9G8"
+      },
+      "artists": [
+        {
+          "name": "Tino Szn",
+          "url": "https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Vetements Coat",
+      "url": "https://open.spotify.com/track/11tQlBxV7X5EZ6D3JOE5tr"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Pogo Stick",
+        "url": "https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Pogo Stick",
+      "url": "https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Gol Chane'",
+        "url": "https://open.spotify.com/album/5OyS7ng0o34uyaYcNDUEVB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "duration_ms": 108081,
+      "name": "Gol Chane'",
+      "url": "https://open.spotify.com/track/3J7ACQMFkrloBL0cQAIWWL"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Spilled Milk",
+        "url": "https://open.spotify.com/album/3lkSHgq36F1go2Wh85eY6f"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        }
+      ],
+      "duration_ms": 140326,
+      "name": "Spilled Milk",
+      "url": "https://open.spotify.com/track/2caHt4cPQ8DSp2tb9sgggF"
+    },
+    {
+      "added_at": "2022-07-20 20:45:44",
+      "album": {
+        "name": "Get Even",
+        "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "duration_ms": 161149,
+      "name": "Get Even",
+      "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+      },
+      "artists": [
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/3uXyJaYCnjCUE9z5F5SpeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/621SNKZYqIor6NW8nR2sCX"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/3R5TYbIL9Kg4SrU2aQ1m41"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/2Zpr09GCb4QchF1veLNfiY"
+    },
     {
       "added_at": "2022-07-20 20:45:44",
       "album": {
@@ -23,6 +191,26 @@
       "duration_ms": 177236,
       "name": "Small Town Hero",
       "url": "https://open.spotify.com/track/4SlGKw0aicsh5fmVKsVEU2"
+    },
+    {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "Tyrant Twins",
+        "url": "https://open.spotify.com/album/7mfrJEqSAomXETUlcrGAyH"
+      },
+      "artists": [
+        {
+          "name": "Vega2x",
+          "url": "https://open.spotify.com/artist/1ZSXD9UD9D7bEu8FxUDi7p"
+        },
+        {
+          "name": "Veno",
+          "url": "https://open.spotify.com/artist/017nO3ayaW4naReKiQOGWV"
+        }
+      ],
+      "duration_ms": 158354,
+      "name": "Live Or Die",
+      "url": "https://open.spotify.com/track/3gdYZmIaIXQjHfl1yRgGWR"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -77,6 +265,22 @@
       "url": "https://open.spotify.com/track/5qNqTVBAbtPRKH3KHiUAu8"
     },
     {
+      "added_at": "2022-07-27 19:17:38",
+      "album": {
+        "name": "1 4 Granny",
+        "url": "https://open.spotify.com/album/5dtgUSPGLIzpjjJVKz5mHY"
+      },
+      "artists": [
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
+        }
+      ],
+      "duration_ms": 145721,
+      "name": "1 4 Granny",
+      "url": "https://open.spotify.com/track/2Dvwj6jJnad6JqEBCy9Sme"
+    },
+    {
       "added_at": "2022-07-20 20:45:44",
       "album": {
         "name": "Murder Bitch",
@@ -91,22 +295,6 @@
       "duration_ms": 293877,
       "name": "Murder Bitch",
       "url": "https://open.spotify.com/track/1SfiDsFHqJnQoiN7cLaRz0"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Get Even",
-        "url": "https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        }
-      ],
-      "duration_ms": 161149,
-      "name": "Get Even",
-      "url": "https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -159,26 +347,6 @@
       "duration_ms": 158236,
       "name": "ON DAT SHIT",
       "url": "https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "I'm Him",
-        "url": "https://open.spotify.com/album/0mGrgddV5amK3dC5x0gUAr"
-      },
-      "artists": [
-        {
-          "name": "Pyrex Pryce",
-          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
-        },
-        {
-          "name": "Kevin Powers",
-          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
-        }
-      ],
-      "duration_ms": 158056,
-      "name": "I'm Him",
-      "url": "https://open.spotify.com/track/3hk1nboPi0xRywfOBwz1CS"
     },
     {
       "added_at": "2022-07-20 20:45:44",
@@ -715,166 +883,6 @@
       "duration_ms": 96000,
       "name": "APPARENT",
       "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Prolific",
-        "url": "https://open.spotify.com/album/726R4axcxJ0wR5lMEC0iwa"
-      },
-      "artists": [
-        {
-          "name": "Corey Lee",
-          "url": "https://open.spotify.com/artist/3dxk8qxVs3og7n9WEi7KAQ"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Prolific",
-      "url": "https://open.spotify.com/track/4p487z5wMzPPKBDtAydW24"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Case Closed",
-        "url": "https://open.spotify.com/album/27wvgRfSLCcrIDIFxgtVNZ"
-      },
-      "artists": [
-        {
-          "name": "Zayland",
-          "url": "https://open.spotify.com/artist/5M9hQI5iiKLFHZ8JRaZafM"
-        }
-      ],
-      "duration_ms": 130735,
-      "name": "Case Closed",
-      "url": "https://open.spotify.com/track/1UzVWzwN8uBgDj264HPojF"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "MELODY",
-        "url": "https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo"
-      },
-      "artists": [
-        {
-          "name": "Kevin Powers",
-          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Leap of Faith",
-        "url": "https://open.spotify.com/album/6gtvhfkr26KO5qIq3GHQuX"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patrick",
-          "url": "https://open.spotify.com/artist/6RNwpkHO4dnMjaqz4F2Fkt"
-        }
-      ],
-      "duration_ms": 191251,
-      "name": "Leap of Faith",
-      "url": "https://open.spotify.com/track/27o9ELKZ16uywo2Zn5N9su"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Beautiful Michi Girls",
-        "url": "https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo"
-      },
-      "artists": [
-        {
-          "name": "TyFontaine",
-          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
-        }
-      ],
-      "duration_ms": 151123,
-      "name": "Lesson Learned",
-      "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Soda & Syrup",
-        "url": "https://open.spotify.com/album/1XTk34A8ouLWhEWZ71EIig"
-      },
-      "artists": [
-        {
-          "name": "BIGBABYGUCCI",
-          "url": "https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs"
-        }
-      ],
-      "duration_ms": 130612,
-      "name": "Living with Passion",
-      "url": "https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Slizzard & Geekin",
-        "url": "https://open.spotify.com/album/4akuE86sMxCbYwvSwlfaM5"
-      },
-      "artists": [
-        {
-          "name": "Calvary Kylan",
-          "url": "https://open.spotify.com/artist/3GJruOCHZYChqnOxMcGipy"
-        }
-      ],
-      "duration_ms": 204403,
-      "name": "Slizzard & Geekin",
-      "url": "https://open.spotify.com/track/7IKzgb2jU2PB5MCxNt9OxA"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Dwayne Carter Flow",
-        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Xpress Riddim",
-        "url": "https://open.spotify.com/album/35s3RpbqiS1ckImEHUwHMl"
-      },
-      "artists": [
-        {
-          "name": "Geoxpress",
-          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
-        }
-      ],
-      "duration_ms": 149528,
-      "name": "365 (Grime Riddim)",
-      "url": "https://open.spotify.com/track/7FCkssCnpkqWH2ozJmibAf"
-    },
-    {
-      "added_at": "2022-07-20 20:45:44",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/2TDIvUGaIb9Tz1lgPSTcpa"
-      },
-      "artists": [
-        {
-          "name": "Lil PJ",
-          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
-        }
-      ],
-      "duration_ms": 171607,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/6GXlvJMiAaO0lkBWCEb4o5"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

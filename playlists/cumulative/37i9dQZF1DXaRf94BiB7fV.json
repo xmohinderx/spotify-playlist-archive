@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Sera Sanyal, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Munaf Luhar, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -215,6 +215,24 @@
       "duration_ms": 280000,
       "name": "Aao Na",
       "url": "https://open.spotify.com/track/0buVHsFxdatJeBfQWsibFg"
+    },
+    {
+      "album": {
+        "name": "Aaona",
+        "url": "https://open.spotify.com/album/6G82MiY7Rh5VmniW52tet7"
+      },
+      "artists": [
+        {
+          "name": "Suhit Abhyankar",
+          "url": "https://open.spotify.com/artist/5ntiM8jjfZlkb4yB3Ll99E"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256933,
+      "name": "Aaona",
+      "url": "https://open.spotify.com/track/7fAUGf4NBTswqwaHkJT7yX"
     },
     {
       "album": {
@@ -884,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Banjare",
+        "url": "https://open.spotify.com/album/0YOFWE7BMRkxKqOjYQQ2BS"
+      },
+      "artists": [
+        {
+          "name": "Munaf Luhar",
+          "url": "https://open.spotify.com/artist/45kc3XakJVhfSClDWpu7iZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206532,
+      "name": "Banjare",
+      "url": "https://open.spotify.com/track/4VBKGKkG1A8MpIPoEynoBn"
+    },
+    {
+      "album": {
         "name": "Bas Tera",
         "url": "https://open.spotify.com/album/1HK4ZcfxB59ZEoQb0vRpfy"
       },
@@ -1378,6 +1414,24 @@
     },
     {
       "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/5EZFGNdUPsb6hVKkl1wjcE"
+      },
+      "artists": [
+        {
+          "name": "Dhaya",
+          "url": "https://open.spotify.com/artist/32rPbHljDRYfZzRbE2bK3r"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317661,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/3vPET88Bk7yezgHEHqzPmL"
+    },
+    {
+      "album": {
         "name": "Calling You Home",
         "url": "https://open.spotify.com/album/3FAEwieACgjelkR2L727wu"
       },
@@ -1433,6 +1487,24 @@
       "duration_ms": 213333,
       "name": "Chaand Ke Paas",
       "url": "https://open.spotify.com/track/1z34GEKntc94MfzRqLqba7"
+    },
+    {
+      "album": {
+        "name": "Chai",
+        "url": "https://open.spotify.com/album/2FYDaochbkyrnmRLLWtZNc"
+      },
+      "artists": [
+        {
+          "name": "Saurabh Tripathi",
+          "url": "https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143125,
+      "name": "Chai",
+      "url": "https://open.spotify.com/track/5mwyz9v3FkTp80xmReZ8Aj"
     },
     {
       "album": {
@@ -2828,6 +2900,46 @@
     },
     {
       "album": {
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/3CIoPkp4VF8fIi4nhS0bGa"
+      },
+      "artists": [
+        {
+          "name": "Ashutosh Phatak",
+          "url": "https://open.spotify.com/artist/2oaX6xFkrTYxtMUi37YgRl"
+        },
+        {
+          "name": "Vivienne Pocha",
+          "url": "https://open.spotify.com/artist/2fUE5kssQWjZs704BulUUI"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257907,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/4J7sxlNaK7mZldW0swZYGQ"
+    },
+    {
+      "album": {
+        "name": "Hijr",
+        "url": "https://open.spotify.com/album/1DK3PQQAbj188Ay6SZoCdQ"
+      },
+      "artists": [
+        {
+          "name": "Prateek Gandhi",
+          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215624,
+      "name": "Hijr",
+      "url": "https://open.spotify.com/track/74EQcvxB3vSnf058KbfgNp"
+    },
+    {
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/09tLejEFAw5WGKxItCemWE"
       },
@@ -3139,6 +3251,32 @@
       "duration_ms": 233071,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3CdCfx4SMgshMvajt6uZEZ"
+    },
+    {
+      "album": {
+        "name": "I'm Going Solo",
+        "url": "https://open.spotify.com/album/6AFCoYrVlgxRzfKDSVZtvn"
+      },
+      "artists": [
+        {
+          "name": "Jaimin",
+          "url": "https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv"
+        },
+        {
+          "name": "Rohan Ganguli",
+          "url": "https://open.spotify.com/artist/0WVUCoHyBWqDSXbU2pInOe"
+        },
+        {
+          "name": "Aniruddha Saha",
+          "url": "https://open.spotify.com/artist/4rOuh8GWmsN2rjVKXDav6t"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "I'm Going Solo",
+      "url": "https://open.spotify.com/track/5SnTao2Tuv9ezcxvdMoKDR"
     },
     {
       "album": {
@@ -3671,7 +3809,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 180800,
       "name": "Jannat",
       "url": "https://open.spotify.com/track/2ZphNIcogHnUFbGACH9GQK"
@@ -4757,7 +4895,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 214598,
       "name": "Lehrein",
       "url": "https://open.spotify.com/track/0IsbL0KydIWqELNzpnYRKK"
@@ -4815,6 +4953,24 @@
       "duration_ms": 220000,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/28R8mTc9jP9DKSNEGBkzMY"
+    },
+    {
+      "album": {
+        "name": "Like a leaf in autumn",
+        "url": "https://open.spotify.com/album/3ipKIUAawyE0TRKzrHcJiT"
+      },
+      "artists": [
+        {
+          "name": "Lavanya Ayren",
+          "url": "https://open.spotify.com/artist/7r6vYc5wGZIkTWlsyxhbiK"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Like a leaf in autumn",
+      "url": "https://open.spotify.com/track/6wKOlfULu49PreTpVsQVse"
     },
     {
       "album": {
@@ -6556,6 +6712,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6vGx08lVqzvjtL9Q07hN6N"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah de Rozario",
+          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206252,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/6lFkQ3opLswwvcOFqbo9s3"
+    },
+    {
+      "album": {
         "name": "Seeing Faces",
         "url": "https://open.spotify.com/album/5cY4R5A00WBIz6m2bLRGi1"
       },
@@ -8260,6 +8434,24 @@
     },
     {
       "album": {
+        "name": "Summer Crush",
+        "url": "https://open.spotify.com/album/1fB9mK4dwUy5Xzdb8fRpYh"
+      },
+      "artists": [
+        {
+          "name": "Carolina Norbu",
+          "url": "https://open.spotify.com/artist/6Vvjl4JhGGwJvcrzNKsyFP"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Summer Crush",
+      "url": "https://open.spotify.com/track/5Sy5KenP2IsBVIeElerdT0"
+    },
+    {
+      "album": {
         "name": "Sun Toh Lo",
         "url": "https://open.spotify.com/album/7F8KZEocKpna7LvWX1tgy1"
       },
@@ -8910,6 +9102,24 @@
     },
     {
       "album": {
+        "name": "too bad",
+        "url": "https://open.spotify.com/album/5xr9cLPZ2bIQ32uRs18ZmY"
+      },
+      "artists": [
+        {
+          "name": "Rudy Mukta",
+          "url": "https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "too bad",
+      "url": "https://open.spotify.com/track/5OwmOCipbCArL7sTnHbqEc"
+    },
+    {
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/5Gl8xu65T3Qw6dGHKtCM2t"
       },
@@ -9127,7 +9337,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 161785,
       "name": "Tumne Nahi Jana - Reprise",
       "url": "https://open.spotify.com/track/0IQVME67rkvVsblzkCFFxr"
@@ -9171,7 +9381,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 207466,
       "name": "UDDCHALEIN",
       "url": "https://open.spotify.com/track/6xj3X9B4S7s0d6wjWyDT9i"

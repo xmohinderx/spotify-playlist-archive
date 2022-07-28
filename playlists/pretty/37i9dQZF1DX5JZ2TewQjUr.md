@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: LilithQueenB
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,675 likes - 134 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,680 likes - 134 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 96 | [換我](https://open.spotify.com/track/7IQiDM8vp4qPIMLtCgBO6U) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [換我](https://open.spotify.com/album/0XLXFnADRmgz6ZiyAX6ou1) | 4:24 |
 | 97 | [保護式](https://open.spotify.com/track/5AGs1WQkmMVRCowWcooW5S) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [保護式](https://open.spotify.com/album/6KeYop28THjwXKuGFL8V08) | 3:02 |
 | 98 | [Secret 秘密](https://open.spotify.com/track/3NAYkyQnYImDoYE0Kl80E5) | [Big Spoon](https://open.spotify.com/artist/4O4oSMu51Qqcd2YR2MTMNz) | [Secret 秘密](https://open.spotify.com/album/5bv7vHJVhkPx9HtLzBkZOF) | 3:19 |
-| 99 | [GET TO IT](https://open.spotify.com/track/4CJw0fbqYhDEl5aIGx7oU0) | [Yung Bright](https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz), [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k) | [<0>](https://open.spotify.com/album/0TLVt9mhdNlvikfqZnjUEe) | 3:09 |
+| 99 | [GET TO IT](https://open.spotify.com/track/4CJw0fbqYhDEl5aIGx7oU0) | [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu), [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k) | [<0>](https://open.spotify.com/album/0TLVt9mhdNlvikfqZnjUEe) | 3:09 |
 | 100 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 |
 | 101 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 |
 | 102 | [囉囉攣](https://open.spotify.com/track/0u1mnT0MlUXVFcuqtYvknx) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx) | [囉囉攣](https://open.spotify.com/album/6CIkXpfWJuJJ408YCC6oOf) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,426 likes - 115 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,652 likes - 115 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

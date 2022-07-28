@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4X8VkITNuqIpWDWWKjBu3B"
+      },
+      "artists": [
+        {
+          "name": "HIGHSOCIETY",
+          "url": "https://open.spotify.com/artist/32MQN2sITkJGNQN40QLPEa"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261950,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/1hHtStAWuaS1iCBZCdU44x"
+    },
+    {
+      "album": {
         "name": "Cold Comfort (feat. Andrew Paley) [OMAS Remix]",
         "url": "https://open.spotify.com/album/097oRGCimqMVPz4ijYzvtu"
       },
@@ -255,7 +273,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 157142,
       "name": "Don't Wanna Wait - VIP Mix",
       "url": "https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk"
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Like I Used To",
+        "url": "https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147200,
+      "name": "Like I Used To",
+      "url": "https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3"
+    },
+    {
+      "album": {
         "name": "Like It How It Is",
         "url": "https://open.spotify.com/album/0e5igAhmesSJMLTWr7nV1D"
       },
@@ -623,6 +659,28 @@
       "duration_ms": 216052,
       "name": "Like It How It Is",
       "url": "https://open.spotify.com/track/2RisShAmmnAgsYcI659wgv"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6mhUBbGECknvUeH5TzmrCi"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "SAYMYNAME",
+          "url": "https://open.spotify.com/artist/1PP0a3KRZiaqtahgtJ3bdv"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jpJNvfr7oBTn5AQnpjEoC"
     },
     {
       "album": {
@@ -677,7 +735,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 218720,
       "name": "Make Up Your Mind (feat. Jaden Michaels)",
       "url": "https://open.spotify.com/track/4wVC0NP6WG1sTj29sIb6sR"
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 199750,
       "name": "Summertime in New York",
       "url": "https://open.spotify.com/track/6kBvishfePtr8auksmpGUn"

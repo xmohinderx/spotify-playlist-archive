@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: TRISTÁN!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,893 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 20 | [Nadie Más](https://open.spotify.com/track/4MEKOlp3Bf57olGJ8o0rVU) | [Toyemi](https://open.spotify.com/artist/4Ru2BuTqjFw7iRn2kooXqe), [Itscubabro](https://open.spotify.com/artist/6XIMvB92AyKoeTW6GzHgSL) | [Nadie Más](https://open.spotify.com/album/4MMFMBlcsmaC710WFfX2hA) | 3:16 |
 | 21 | [recuerdos del pasado](https://open.spotify.com/track/0uJKikbXpgvPtvMB32c2CI) | [maria mestre](https://open.spotify.com/artist/7eO2zYLlOzSSzLxEiWpUP7) | [recuerdos del pasado](https://open.spotify.com/album/6YfejBkqT7Jcfs0UE8vjh9) | 3:03 |
 | 22 | [LAROI](https://open.spotify.com/track/68qs6FQkmhdLnnsPODRBDe) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [LAROI](https://open.spotify.com/album/4ISkkWJLB5fmMRmgOAUJp4) | 2:20 |
-| 23 | [un ritual](https://open.spotify.com/track/3RBmfIDqp3oJBCohbnDHfT) | [laura katze](https://open.spotify.com/artist/3meyIoZehYKECcF4uvDff1) | [un ritual](https://open.spotify.com/album/5yTUrdYr4JsvwscRgUXtxx) | 4:24 |
+| 23 | [Un ritual](https://open.spotify.com/track/3RBmfIDqp3oJBCohbnDHfT) | [laura katze](https://open.spotify.com/artist/3meyIoZehYKECcF4uvDff1) | [Un ritual](https://open.spotify.com/album/5yTUrdYr4JsvwscRgUXtxx) | 4:24 |
 | 24 | [Borrachita](https://open.spotify.com/track/1qffW6JRc8AnUcsrU1hZff) | [LYD](https://open.spotify.com/artist/6FxESoS5TUltKFAXd6R8z9) | [Borrachita](https://open.spotify.com/album/5W1SWSu6yiUYMHHeUfHrbF) | 2:27 |
 | 25 | [Juego profesional](https://open.spotify.com/track/0FgMymtv4s5MyrMPE76Tgt) | [Bolsa De Moscas](https://open.spotify.com/artist/4WLod9DCaa4XXICphv0C2E) | [Juego profesional](https://open.spotify.com/album/76K0V3iAaGxoRNz9NHxO4s) | 3:10 |
 | 26 | [Bachata en Levante](https://open.spotify.com/track/4N7ue1a9diIjC1EeCizaRH) | [Eguala](https://open.spotify.com/artist/2pDEf8SpgUj1i4MN0pFazw) | [Amor en Tiempos de Twindergram \(Versión Deluxe\)](https://open.spotify.com/album/2QgahjtBow7XJwsfqC3lMs) | 3:18 |

@@ -1,12 +1,12 @@
 {
   "description": "living in beatopia ",
-  "num_followers": 925225,
+  "num_followers": 925420,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQyMTEyNywwMDAwMDNiNjAwMDAwMTgyMjE5YTI3OTEwMDAwMDE4MjAxYzFlYTc1",
+  "snapshot_id": "MTY1ODkzODY5OSwwMDAwMDNiNzAwMDAwMTgyNDA3M2FlZTAwMDAwMDE4MjAxYzFlYTc1",
   "tracks": [
     {
       "added_at": "2022-07-21 16:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2022-07-27 16:18:19",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-07-15 12:08:06",
@@ -153,6 +169,22 @@
       "url": "https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o"
     },
     {
+      "added_at": "2022-07-27 16:18:19",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/0VhzPZfo4r4m1typH5Y2v9"
+      },
+      "artists": [
+        {
+          "name": "Richard Orofino",
+          "url": "https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0"
+        }
+      ],
+      "duration_ms": 141487,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1i5x7b2IgzcD5yzlCYFqeC"
+    },
+    {
       "added_at": "2022-07-20 18:22:39",
       "album": {
         "name": "Conditions",
@@ -235,6 +267,22 @@
       "duration_ms": 195546,
       "name": "God Hired You To Be My Baby",
       "url": "https://open.spotify.com/track/1cxMuh5UJhouWUZJQT5SnU"
+    },
+    {
+      "added_at": "2022-07-27 16:18:19",
+      "album": {
+        "name": "Disbeliever",
+        "url": "https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL"
+      },
+      "artists": [
+        {
+          "name": "Danny Dwyer",
+          "url": "https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd"
+        }
+      ],
+      "duration_ms": 115879,
+      "name": "Disbeliever",
+      "url": "https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa"
     },
     {
       "added_at": "2022-06-29 21:12:21",

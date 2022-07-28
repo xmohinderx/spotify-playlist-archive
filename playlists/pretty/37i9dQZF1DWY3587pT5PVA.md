@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3587pT5PVA.md) - [plain]
 
 > Your favorite songs from Netflix movie musicals all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Barry Chen \(陳柏銓\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,797 likes - 73 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,804 likes - 73 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

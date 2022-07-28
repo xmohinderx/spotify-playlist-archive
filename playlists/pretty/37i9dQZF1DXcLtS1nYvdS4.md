@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLtS1nYvdS4.md) - [plain]
 
 > This energy\-filled mix by <a href="spotify:artist:1V3VTM7VspiQjcmRhC010n">Quintino</a><br/>is stacked with big room tracks and euphoric melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 15 songs - 46 min 38 sec
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 15 songs - 46 min 38 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 264413,
       "name": "Aces High - cover version",
       "url": "https://open.spotify.com/track/0C54uocegt2AqgdJkrFNqo"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 182337,
       "name": "Animals",
       "url": "https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 214500,
       "name": "Chop Suey!",
       "url": "https://open.spotify.com/track/6mAtV1MrrpaAFtcUgSj3q0"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 314357,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 229580,
       "name": "Executioner's Tax (Swing of the Axe) [feat. David Sanchez, Guillermo Izquierdo, Juli Bazooka, Lenny Bruce, Andrew Hudson & Spyros Lafias]",
       "url": "https://open.spotify.com/track/16eCW4AHKMNsxLYD4thQGr"
@@ -790,6 +790,28 @@
     },
     {
       "album": {
+        "name": "Jessie's Girl 2 (feat. Rick Springfield)",
+        "url": "https://open.spotify.com/album/6fuK48wdK9EBB4JUQJyMAP"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        },
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231577,
+      "name": "Jessie's Girl 2 (feat. Rick Springfield)",
+      "url": "https://open.spotify.com/track/7fPLwXukTjv4vSnZdCn3ev"
+    },
+    {
+      "album": {
         "name": "Judas",
         "url": "https://open.spotify.com/album/0fl4B7VkU0WjZ9OGRByR0E"
       },
@@ -801,7 +823,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 251034,
       "name": "Judas",
       "url": "https://open.spotify.com/track/1siidHE9T8LBQVltAw8piM"
@@ -949,7 +971,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 228849,
       "name": "Lonely Nights",
       "url": "https://open.spotify.com/track/1aqBMkIKxCp481UfL3FWcx"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 207453,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/5oai3wfiVVahpFM7DGabRP"
@@ -1613,7 +1635,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 282978,
       "name": "Supernaut",
       "url": "https://open.spotify.com/track/3J9wENBvJiAv2YNtPRlKDf"
@@ -1743,7 +1765,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 435853,
       "name": "To Tame a Land",
       "url": "https://open.spotify.com/track/0OfFgbRGM8qMxDofN3lpdM"

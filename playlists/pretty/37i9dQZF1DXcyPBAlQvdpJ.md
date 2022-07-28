@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 
 > Enjoy the hottest <a href="spotify:genre:funkbrazil">Brazilian Funk</a>\. Lo mejor del <a href="spotify:genre:funkbrazil">Funk de Brasil </a>! Cover: Mc Kevin O Chris
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,264 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,334 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyPBAlQvdpJ.md) - [plain]
 | 47 | [Ritmo Mexicano](https://open.spotify.com/track/6ZR7rT7vfwtY0EqyLeyAaO) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Ritmo Mexicano](https://open.spotify.com/album/7p0dzxhHLqwgUIkMKkeuXO) | 3:10 |
 | 48 | [Bem gostosin](https://open.spotify.com/track/0SKfV6E5xeKgBQn159vxAq) | [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Não para](https://open.spotify.com/album/60VSUd55MkWsYQu7axSJlR) | 3:10 |
 | 49 | [Os Muleke É Liso](https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Os Muleke É Liso](https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp) | 3:52 |
-| 50 | [Glamourosa \(Rap Glamurosa\)](https://open.spotify.com/track/3C9d0i0lsdlwLkNUt5pD2g) | [MC Marcinho](https://open.spotify.com/artist/4p69SuY1rr6V62ihHhxiFU), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Funk Brasil Relíquias \(Vol\. 1\)](https://open.spotify.com/album/3HrDEZklVEj1rChbh40pHA) | 3:27 |
+| 50 | [Glamourosa \(Rap Glamurosa\)](https://open.spotify.com/track/3C9d0i0lsdlwLkNUt5pD2g) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [DJ Marlboro](https://open.spotify.com/artist/2A34a0y7xLXf20pXZpbjCY) | [Funk Brasil Relíquias \(Vol\. 1\)](https://open.spotify.com/album/3HrDEZklVEj1rChbh40pHA) | 3:27 |
 
 Snapshot ID: `MTU5MDE2MzQ3OCwwMDAwMDAzYjAwMDAwMTcyM2QyMTE2OTMwMDAwMDE3MGM0OWFlMmQy`

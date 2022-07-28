@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-338 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+345 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,9 @@
 | [Cardboard Castle](https://open.spotify.com/track/3d72QILd88K2qjBCOBQ8J4) | [Martin Grenelle](https://open.spotify.com/artist/7oBwDTaXpreH9jqXxtH2VP) | [Cardboard Castle](https://open.spotify.com/album/4SOIW6vEU6cDugXU0UbQKb) | 1:20 | 2021-10-07 |  |
 | [Când dormi](https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY) | [Fatima Tozer](https://open.spotify.com/artist/4l6pTqlXq109BCGwYjzFBA) | [Când dormi](https://open.spotify.com/album/1ULnMZQNlfzlcUop8m6JcO) | 1:30 | 2021-10-07 |  |
 | [Children's song](https://open.spotify.com/track/1pnAa2nKBeG005ypwBGGb7) | [Beverly Eldon](https://open.spotify.com/artist/06BB8F56CNXYbq4Cd1Lttv) | [Children's song](https://open.spotify.com/album/2tPEtXxHqmX54mPlpaDyQI) | 1:20 | 2021-10-07 |  |
+| [Cielito Lindo](https://open.spotify.com/track/5IZygSMNKKsStlhRZEpAOg) | [Myla Watson](https://open.spotify.com/artist/4UsO7PCgseF2b8wqm28l6Y) | [Cielito Lindo](https://open.spotify.com/album/5DsRf9sWjVQFW2IUGBqEo2) | 1:48 | 2022-07-27 |  |
 | [Climbing up](https://open.spotify.com/track/2R8GvjuWEpnmsbGbT5jakX) | [Pearce Debenham](https://open.spotify.com/artist/3JgtNeC7T7j6SGEFQ9qMlg) | [Climbing up](https://open.spotify.com/album/2mEmvpMrNqeuXFnk5RCwkp) | 1:14 | 2021-10-07 |  |
+| [Closing Time](https://open.spotify.com/track/4qynpDjoyzLZjHNwroU3UN) | [Margret O'Neal](https://open.spotify.com/artist/0qWHfyGNKjHZyHCvIYwNdc) | [Closing Time](https://open.spotify.com/album/6u8mesUiCh9Ej8r3TbC8i0) | 1:53 | 2022-07-27 |  |
 | [Colors](https://open.spotify.com/track/7njIsyCOhCH1LccIclOElt) | [Rhett Seabrooke](https://open.spotify.com/artist/0v6BFTew675c3thVxTTPne) | [Colors](https://open.spotify.com/album/02aZLwmuV1skZCgOPXgwas) | 1:53 | 2021-10-07 |  |
 | [Come Along](https://open.spotify.com/track/7ubc1Az0Tj3iziIe1PwbnC) | [Garrick Field](https://open.spotify.com/artist/4IC6LZ57o578D3rLhGldYQ) | [Come Along](https://open.spotify.com/album/4XSg0VStpsb5A0uDCyPqdq) | 1:52 | 2021-10-07 |  |
 | [Come Sail Away](https://open.spotify.com/track/6Xm8pB1mJEhDQoRqXdrPbR) | [Marilyn Giffard](https://open.spotify.com/artist/0YtmZt6O5eRRqHAmDjtOwC) | [Come Sail Away](https://open.spotify.com/album/1qr0hO9PzfKBVYoyF2VOQY) | 1:13 | 2021-10-07 |  |
@@ -92,6 +94,7 @@
 | [Feeling Free](https://open.spotify.com/track/4kU5W6f7sTXMyRFXQZPd6x) | [Kameron Eaton](https://open.spotify.com/artist/19sBCdUL9oi4ameglzcBwE) | [Feeling Free](https://open.spotify.com/album/7ymXb7UUqHphUhISWLVE1r) | 1:40 | 2021-10-07 |  |
 | [First Day Of School](https://open.spotify.com/track/3fNr7Xp74gVlpL6Dg0RErN) | [Ruben Lemay](https://open.spotify.com/artist/3kVgDlYpszYo5w9bM3tzmk) | [First Day Of School](https://open.spotify.com/album/5RoqM9UTBxaX7KZFgWXmv4) | 1:59 | 2021-10-07 |  |
 | [Five Little Speckled Frogs](https://open.spotify.com/track/5IyXmzh7GIQMwvWdPutYfU) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 1:23 | 2021-10-07 |  |
+| [Flat Out Tired](https://open.spotify.com/track/3FUSlmcxGqDSrqg498rXhS) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Flat Out Tired](https://open.spotify.com/album/4WHUZ6mUIhKoeEOJeUi0gV) | 1:41 | 2022-07-27 |  |
 | [Fluffy clouds](https://open.spotify.com/track/5GoTxGJbXchgq0T9E4Qx3w) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Fluffy clouds](https://open.spotify.com/album/6IbE37gGj3iYOv54OlyfBq) | 1:53 | 2021-10-07 |  |
 | [Follow Your Dreams](https://open.spotify.com/track/4PFMbLLAqrcvm7tTEVpqjN) | [Daniyah Wells](https://open.spotify.com/artist/5XxM10sVl9AVhGjZUYExBp) | [Follow Your Dreams](https://open.spotify.com/album/4RbAiYZAjSgg27t4HEh318) | 2:03 | 2021-10-07 |  |
 | [For He’s a Jolly good fellow](https://open.spotify.com/track/30XhU05qumP09S2Tj9CzJo) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Sing a Song of Sixpence](https://open.spotify.com/album/6wzUjEti3lVdJ52Qm3Gphb) | 1:08 | 2021-10-07 |  |
@@ -153,6 +156,7 @@
 | [It Ends with Us](https://open.spotify.com/track/6RMjZgsE9IcQZqubTzLtDs) | [Steve Mokwebe](https://open.spotify.com/artist/4oJhB4wMqwZWue2kcpCmCz) | [It Ends with Us](https://open.spotify.com/album/2Teu3OC25GCc7H44rMngCu) | 2:10 | 2021-10-07 | 2022-05-14 |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/1WapRRJQm0zJZhKaMfJRdZ) | [Andrew Witzinger](https://open.spotify.com/artist/6TB4YN8Qg0o4CxG6OG1j61) | [Classics](https://open.spotify.com/album/73gqUj4H5eAmSENGEt5mQv) | 1:28 | 2021-10-07 |  |
 | [Itsy bitsy spider](https://open.spotify.com/track/1oMUYmXy85ZOQGZ2fylBiN) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [Lullabies](https://open.spotify.com/album/6v9K3CTqFHLK5SMavLKn5U) | 1:22 | 2021-10-07 |  |
+| [I’m A Little Teapot](https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU) | [Lindsay Felan](https://open.spotify.com/artist/2IYSQrJKkRaNmPk0oOxbwZ) | [I’m A Little Teapot](https://open.spotify.com/album/3WeqrWBZ70iY3VKz0FNOGH) | 1:28 | 2022-07-27 |  |
 | [John Brown's Song](https://open.spotify.com/track/0SjsIzJkZfDU7wlcdklEFR) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 3:05 | 2021-10-07 |  |
 | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/track/7lZchqGAL8PHAg2ejkGeYG) | [Melanie Peters](https://open.spotify.com/artist/2xuGQvF3z0rrsgxZVM0D0S) | [John Jacob Jingleheimer Schmidt](https://open.spotify.com/album/0nFZ4ryJUrrf4bbIDFAN1I) | 1:42 | 2021-10-07 | 2022-02-11 |
 | [KC's Lullaby](https://open.spotify.com/track/75L7t3fLTJbi0RHIuebO5n) | [Allison Spinney](https://open.spotify.com/artist/6nvdVuecT4Fi8qUCc4x8xH) | [Bringing This Baby Home](https://open.spotify.com/album/4dlJWmeRu4i5uymna8CxAp) | 1:31 | 2021-10-07 | 2022-02-11 |
@@ -246,8 +250,10 @@
 | [Rockabye Baby](https://open.spotify.com/track/47hPOcAbwkZJLRK5XFZouA) | [Andrew Witzinger](https://open.spotify.com/artist/6TB4YN8Qg0o4CxG6OG1j61) | [Classics](https://open.spotify.com/album/73gqUj4H5eAmSENGEt5mQv) | 1:56 | 2021-10-07 |  |
 | [Room For One More](https://open.spotify.com/track/7JsEBQiCoVUoF7ryygpwBf) | [Lev Castillo](https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6) | [Room For One More](https://open.spotify.com/album/2fvKK9bz4BRUteKXj8DW6s) | 2:11 | 2022-02-10 |  |
 | [Rosenkind](https://open.spotify.com/track/00Svmn3xZkxULzAhqHnokf) | [Dalia Carlsson](https://open.spotify.com/artist/2hah3Hgur8jxcflNja3D1k) | [Rosenkind](https://open.spotify.com/album/5KIKqL5CNTsD0xiMZteLFY) | 2:08 | 2022-01-21 |  |
+| [Row, Row, Row Your Boat](https://open.spotify.com/track/1neW540exG7Nm22gWhiHDu) | [Sophie Sunshine](https://open.spotify.com/artist/24MtI0BZh79QjxNmIrNHwF) | [Row, Row, Row Your Boat](https://open.spotify.com/album/2R5ySO2bsFZmS9xPsAezzG) | 1:12 | 2022-07-27 |  |
 | [Rub\-A\-Dub Dub Three Men In A Tub](https://open.spotify.com/track/1gf0Lb3ZFIf4AelxPy76Zh) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:00 | 2021-10-07 |  |
 | [Rubber Duckie](https://open.spotify.com/track/4KGIoolaZRwbLi0BivExPb) | [Sarah Michaels](https://open.spotify.com/artist/6VMh9Mt2vBvBqJusy8KskB) | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/album/4HmCB43utRXcpzsPoNmKot) | 2:32 | 2021-10-07 |  |
+| [Rubbing my eyes](https://open.spotify.com/track/7z1VnmeKEV0iNhjPo6ILTk) | [Vinga](https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK) | [Tickle toes](https://open.spotify.com/album/4q94L1E8Zx8d5HCrz2Jv6d) | 2:32 | 2022-07-27 |  |
 | [Ruth](https://open.spotify.com/track/1hqsp7bsJe26RN1Q5tpEG5) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Given Names](https://open.spotify.com/album/6PW2SyKftYoDXNXdIjuSIs) | 3:04 | 2021-10-07 | 2022-02-11 |
 | [Sailing](https://open.spotify.com/track/5roSZWBEruWZETkEe6clva) | [Ruby Barnes](https://open.spotify.com/artist/2kzymRA8IJ9cGwKYvRLiI8) | [Sailing](https://open.spotify.com/album/5uCiT5Ei4ngM6tOd30JaeM) | 1:56 | 2021-10-07 |  |
 | [Sammy Sleepyhead](https://open.spotify.com/track/58Q20FvalHCBTlJtdi9s9i) | [Miki Broberg](https://open.spotify.com/artist/39z4lXEyRlhUkriGDZ8vhE) | [Sammy Sleepyhead](https://open.spotify.com/album/4c9DmYa4xe7s70lnBvlCIA) | 1:28 | 2021-10-07 |  |
@@ -342,6 +348,7 @@
 | [When you wish upon a star](https://open.spotify.com/track/42HxzqryZgSkMlvlhL8Zg2) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Suo Gân](https://open.spotify.com/album/4MzHmjCCN4IhCGc8uBXH6j) | 2:01 | 2021-10-07 |  |
 | [Wind The Bobbin Up](https://open.spotify.com/track/1FE4MRViKXTiklLJeU4CZc) | [Anne\-Lise Kjeldsen](https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5) | [Little Robin Redbreast](https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso) | 1:04 | 2021-10-07 |  |
 | [Wishful](https://open.spotify.com/track/6FucNnxWzwEY0WvhqbDzVQ) | [David J Burns](https://open.spotify.com/artist/1kEGNqQqOvQrADGAXPIeZO) | [Wishful](https://open.spotify.com/album/1XvaZXugJLckXSlJ4EDT2G) | 2:03 | 2021-10-07 |  |
+| [With You, I'm Home](https://open.spotify.com/track/1z9gqMvaO501KwkXVFc03U) | [Carol Barron](https://open.spotify.com/artist/1VRIGqmkeKK6BzSDlbIvQY) | [With You, I'm Home](https://open.spotify.com/album/7iQuaEDKZhFOZR1Q73ldF2) | 1:32 | 2022-07-27 |  |
 | [Wrapped In A Blanket](https://open.spotify.com/track/1S1SKKE7smqdaWWbx4Cdqx) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [Wrapped In A Blanket](https://open.spotify.com/album/4p94R4YXKMs09DXBmIYhcA) | 1:40 | 2022-05-13 |  |
 | [Yankee Doodle](https://open.spotify.com/track/1FIlBc2LI8yjVvhRokhV9Y) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 1:55 | 2021-10-07 |  |
 | [Yellow Dog](https://open.spotify.com/track/0VYLXDoB1e0Ti6nwvKQbir) | [Mary Sarah Foster](https://open.spotify.com/artist/7f9f0puySLuEpqksG34Jv3) | [Zoo Mobile](https://open.spotify.com/album/4KWDSx6gz1qdxSUE0vxsHt) | 1:56 | 2021-10-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,176 likes - 83 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,185 likes - 83 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

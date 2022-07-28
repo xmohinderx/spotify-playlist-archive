@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 4 Granny",
+        "url": "https://open.spotify.com/album/5dtgUSPGLIzpjjJVKz5mHY"
+      },
+      "artists": [
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145721,
+      "name": "1 4 Granny",
+      "url": "https://open.spotify.com/track/2Dvwj6jJnad6JqEBCy9Sme"
+    },
+    {
+      "album": {
         "name": "14GRAMS",
         "url": "https://open.spotify.com/album/45s1J9Yxx4F8Vu4xX02mp5"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 149528,
       "name": "365 (Grime Riddim)",
       "url": "https://open.spotify.com/track/7FCkssCnpkqWH2ozJmibAf"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 130735,
       "name": "Case Closed",
       "url": "https://open.spotify.com/track/1UzVWzwN8uBgDj264HPojF"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 130560,
       "name": "Dwayne Carter Flow",
       "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
@@ -3112,6 +3130,24 @@
     },
     {
       "album": {
+        "name": "Gol Chane'",
+        "url": "https://open.spotify.com/album/5OyS7ng0o34uyaYcNDUEVB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108081,
+      "name": "Gol Chane'",
+      "url": "https://open.spotify.com/track/3J7ACQMFkrloBL0cQAIWWL"
+    },
+    {
+      "album": {
         "name": "Goo Kuu",
         "url": "https://open.spotify.com/album/5IFwgRGIMdTgFIztBetI1C"
       },
@@ -3427,6 +3463,24 @@
       "duration_ms": 97600,
       "name": "Hot As Can Be",
       "url": "https://open.spotify.com/track/2ypB37qyYW126R11MynZ8o"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1"
+      },
+      "artists": [
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155350,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
     },
     {
       "album": {
@@ -4015,7 +4069,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 191251,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/27o9ELKZ16uywo2Zn5N9su"
@@ -4055,7 +4109,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 151123,
       "name": "Lesson Learned",
       "url": "https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0"
@@ -4208,6 +4262,28 @@
     },
     {
       "album": {
+        "name": "Tyrant Twins",
+        "url": "https://open.spotify.com/album/7mfrJEqSAomXETUlcrGAyH"
+      },
+      "artists": [
+        {
+          "name": "Vega2x",
+          "url": "https://open.spotify.com/artist/1ZSXD9UD9D7bEu8FxUDi7p"
+        },
+        {
+          "name": "Veno",
+          "url": "https://open.spotify.com/artist/017nO3ayaW4naReKiQOGWV"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158354,
+      "name": "Live Or Die",
+      "url": "https://open.spotify.com/track/3gdYZmIaIXQjHfl1yRgGWR"
+    },
+    {
+      "album": {
         "name": "Soda & Syrup",
         "url": "https://open.spotify.com/album/1XTk34A8ouLWhEWZ71EIig"
       },
@@ -4219,7 +4295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 130612,
       "name": "Living with Passion",
       "url": "https://open.spotify.com/track/4g6wkPxpmgBlC6rAtHyaWM"
@@ -4527,7 +4603,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 174545,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74"
@@ -4597,6 +4673,24 @@
       "duration_ms": 186666,
       "name": "Millie Slims",
       "url": "https://open.spotify.com/track/5sIMPVpZDnrwbDMMXvY4Xx"
+    },
+    {
+      "album": {
+        "name": "MISS ME",
+        "url": "https://open.spotify.com/album/3R5TYbIL9Kg4SrU2aQ1m41"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "MISS ME",
+      "url": "https://open.spotify.com/track/2Zpr09GCb4QchF1veLNfiY"
     },
     {
       "album": {
@@ -4837,6 +4931,28 @@
       "duration_ms": 166956,
       "name": "Mud Brothers",
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
+    },
+    {
+      "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/3uXyJaYCnjCUE9z5F5SpeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        },
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "Murder",
+      "url": "https://open.spotify.com/track/621SNKZYqIor6NW8nR2sCX"
     },
     {
       "album": {
@@ -5566,6 +5682,24 @@
     },
     {
       "album": {
+        "name": "Pogo Stick",
+        "url": "https://open.spotify.com/album/3TpiW7u9Ja6qQj2K7znFiW"
+      },
+      "artists": [
+        {
+          "name": "GMK",
+          "url": "https://open.spotify.com/artist/45n8IV3vVbqD8xm8aVtfUj"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146533,
+      "name": "Pogo Stick",
+      "url": "https://open.spotify.com/track/1qJQmFwpaW4RQEjw55nUjE"
+    },
+    {
+      "album": {
         "name": "Pastelevision",
         "url": "https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2"
       },
@@ -5653,7 +5787,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 172826,
       "name": "Prolific",
       "url": "https://open.spotify.com/track/4p487z5wMzPPKBDtAydW24"
@@ -6344,6 +6478,24 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+      },
+      "artists": [
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
+      "album": {
         "name": "Ascension (Deluxe) \u2013 Virtual World 2",
         "url": "https://open.spotify.com/album/6vfyj8L1dnjGJbon4gWS8c"
       },
@@ -6449,7 +6601,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 204403,
       "name": "Slizzard & Geekin",
       "url": "https://open.spotify.com/track/7IKzgb2jU2PB5MCxNt9OxA"
@@ -6543,10 +6695,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 171607,
       "name": "Southside",
       "url": "https://open.spotify.com/track/6GXlvJMiAaO0lkBWCEb4o5"
+    },
+    {
+      "album": {
+        "name": "Spilled Milk",
+        "url": "https://open.spotify.com/album/3lkSHgq36F1go2Wh85eY6f"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140326,
+      "name": "Spilled Milk",
+      "url": "https://open.spotify.com/track/2caHt4cPQ8DSp2tb9sgggF"
     },
     {
       "album": {
@@ -7277,6 +7447,24 @@
       "duration_ms": 179001,
       "name": "Used To This",
       "url": "https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL"
+    },
+    {
+      "album": {
+        "name": "Sentient",
+        "url": "https://open.spotify.com/album/3GmZeMPNeEcTflcdQxm9G8"
+      },
+      "artists": [
+        {
+          "name": "Tino Szn",
+          "url": "https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192896,
+      "name": "Vetements Coat",
+      "url": "https://open.spotify.com/track/11tQlBxV7X5EZ6D3JOE5tr"
     },
     {
       "album": {

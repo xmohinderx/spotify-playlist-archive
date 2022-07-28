@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Chismiten",
+        "url": "https://open.spotify.com/album/3rgM6uVJ3XdZx1TTfCriwK"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298969,
+      "name": "Chismiten",
+      "url": "https://open.spotify.com/track/3BgIjrOHvAAf9eDtFU3yWs"
+    },
+    {
+      "album": {
         "name": "Aman Iman: Water Is Life",
         "url": "https://open.spotify.com/album/74HnW4H7keYtcEM65MZ1sr"
       },
@@ -386,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Fadma",
+        "url": "https://open.spotify.com/album/0Z9wLDw2m6M5EvfTpdCWQp"
+      },
+      "artists": [
+        {
+          "name": "TASUTA N-IMAL",
+          "url": "https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249673,
+      "name": "Fadma",
+      "url": "https://open.spotify.com/track/7MAA4bp5bTd3bO5m2uJea7"
+    },
+    {
+      "album": {
         "name": "Black Tenere",
         "url": "https://open.spotify.com/album/2szNhyx4lm9LoUU8KnUN6b"
       },
@@ -397,7 +433,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 281120,
       "name": "Fransa",
       "url": "https://open.spotify.com/track/3N6ddWSmrMFvZkGFBU4Ike"
@@ -415,7 +451,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 306160,
       "name": "Goree",
       "url": "https://open.spotify.com/track/761gsbyLac1BXHzdOPW6ES"
@@ -505,7 +541,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 228933,
       "name": "Imuhar",
       "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 175066,
       "name": "Intifada",
       "url": "https://open.spotify.com/track/3XVoJqjijmRPXm5xRI2Mxx"
@@ -747,7 +783,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 338933,
       "name": "Mariama Kaba",
       "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
@@ -765,7 +801,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 354653,
       "name": "Matinfa",
       "url": "https://open.spotify.com/track/3oUudjdOdEJI8JRCIPV3qj"
@@ -859,7 +895,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Penda Djiga",
       "url": "https://open.spotify.com/track/0ra3K6wNCFVYTu2AFsmiR7"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 290800,
       "name": "Tisnant an Chatma",
       "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"

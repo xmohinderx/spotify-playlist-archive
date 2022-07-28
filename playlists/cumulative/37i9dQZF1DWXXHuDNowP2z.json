@@ -671,7 +671,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 205004,
       "name": "El Huapango de la Oruga",
       "url": "https://open.spotify.com/track/152IABPDwy6ZbQjy1CaTzz"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 314044,
       "name": "Huapangos popurr\u00ed",
       "url": "https://open.spotify.com/track/0uVWICxtZLCsSmahudDYIi"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "La Bola",
       "url": "https://open.spotify.com/track/4IXJ4Njhv9JzUv0qADL6Cj"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 148706,
       "name": "La Cumbia Del Violincito",
       "url": "https://open.spotify.com/track/4b7AfeFx5lU4gfRtgNujCS"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 161946,
       "name": "La Feria de Cali",
       "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 143186,
       "name": "La Gripa",
       "url": "https://open.spotify.com/track/2xRxYAw3XRcT1LGI0AnZuz"
@@ -1989,7 +1989,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 228502,
       "name": "Los Viejitos",
       "url": "https://open.spotify.com/track/6ud1Szdym1QRhURpEyr55A"
@@ -2061,7 +2061,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 220317,
       "name": "Mi Burrita",
       "url": "https://open.spotify.com/track/0X8AZfBvCPS2LDInUuOJXy"
@@ -2378,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+      },
+      "artists": [
+        {
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
+    },
+    {
+      "album": {
         "name": "Una No Es Ninguna",
         "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 198133,
       "name": "Qu\u00edtate El Zapato",
       "url": "https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q"

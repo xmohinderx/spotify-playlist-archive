@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Joey Bada$$\)
 
-585 songs - 1 day 5 hr 23 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+586 songs - 1 day 5 hr 27 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-10 | 2022-03-18 |
 | [Dino with Hair Cypher, Vol\. 2](https://open.spotify.com/track/5mFUUTUnZP1eH2QAHIYRlA) | [Dino with Hair](https://open.spotify.com/artist/0chnwXxBC6zthhQoCv33B0), [Aleebi](https://open.spotify.com/artist/5eo2IBMqyII25TtyBJ4359), [JAKE](https://open.spotify.com/artist/5ihzIp4m1fsQr9v74QzdtI), [Gareth Chan](https://open.spotify.com/artist/4Dttt676OWrTsYKhKgsHTO), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9), [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX), [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x), [Delta T 蛋撻頭](https://open.spotify.com/artist/2GWO2az2ehE3ixfMLtdpl4), [The Mayfair Kid](https://open.spotify.com/artist/3lC4s7ZEaH9CzSRSPb2ETe) | [Dino with Hair Cypher, Vol\. 2](https://open.spotify.com/album/6qxkfisS7sNPDNpzsKXMwu) | 5:07 | 2022-03-24 | 2022-04-08 |
 | [Dirty Work](https://open.spotify.com/track/5UldJxuMst4yL1ONpNUylD) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Dirty Work](https://open.spotify.com/album/3jyq0LSSrc2pm7eclMhqqa) | 2:42 | 2022-03-18 | 2022-04-01 |
+| [Dissin the Dead](https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Dissin the Dead](https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po) | 3:48 | 2022-07-22 |  |
 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 | 2022-06-02 |  |
 | [Do Dat At \(feat\. Erica Banks\)](https://open.spotify.com/track/0f4yC0DaWK00N7Fj01SZaU) | [Kidd Kenn](https://open.spotify.com/artist/5dkb0qOeUicNVLZKRGG92m), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Grown](https://open.spotify.com/album/3aYJtqjMLgF0k7aFBCibvU) | 2:27 | 2022-07-21 |  |
 | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/album/3SEsdycdg76Mxjf6o3rAiB) | 2:59 | 2022-01-20 | 2022-02-11 |

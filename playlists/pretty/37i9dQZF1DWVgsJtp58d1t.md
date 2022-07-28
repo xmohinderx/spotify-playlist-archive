@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Montell Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,791 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,869 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 100 | [Mudança \(feat\. Jarreau Vandal\)](https://open.spotify.com/track/2jyAnN2kLvaY5zd2znq8yH) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Da Rocinha 3](https://open.spotify.com/album/3mSsZjXwc4YJhj65SCcKYc) | 3:34 |
 
-Snapshot ID: `MTY1ODg4NDM5NCwwMDAwMDAwMDYxOGU1ZTE3ZWVhNTU4MjIyZTk0YjdmM2YwZGUyNDQ5`
+Snapshot ID: `MTY1ODk3MDQ5NywwMDAwMDAwMDYxOGU1ZTE3ZWVhNTU4MjIyZTk0YjdmM2YwZGUyNDQ5`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-417 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
+418 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/706djbLH8NRytoGkztKsYT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 | 2022-05-03 | 2022-05-16 |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2022-06-22 | 2022-07-20 |
 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:49 | 2022-05-24 | 2022-05-27 |
-| [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-10 |  |
+| [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-10 | 2022-07-28 |
 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 | 2022-02-16 | 2022-02-23 |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-24 | 2022-06-15 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2022-07-05 | 2022-07-24 |
@@ -224,6 +224,7 @@
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7hl8yi5iItAYKwtSVtbEhO) | [Blazer Zero](https://open.spotify.com/artist/2ihGOBxVB7zeDYbieFyeHO) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/5plDkotyuP7UBM9jkDktLB) | 3:39 | 2022-07-18 | 2022-07-21 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4KbSQQsRUGuwnwe6PDZB9v) | [Martín Vizcarra](https://open.spotify.com/artist/1cmcYJNbE5UsCnPn5jtfUe) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/6KuRgyWHYHcec0e3YUqLdg) | 3:39 | 2022-07-09 | 2022-07-14 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K) | [Nimaru Sasuki](https://open.spotify.com/artist/5UZD1JyyirR8AeaMaeQ0rs) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/2K6BxWzcd239wPWr3SVURE) | 3:39 | 2022-07-13 | 2022-07-19 |
+| [Mi Bebito Fiu Fiu](https://open.spotify.com/track/1JsWZiBPMGdrNrEV1yik7C) | [Original Songs \- Trends](https://open.spotify.com/artist/0urETZ7DcqT4XJi3dO8h5W), [Tito Silva](https://open.spotify.com/artist/1Ss1BvOOjfeYA6ITcKR6PW), [Tefi C](https://open.spotify.com/artist/79pg52L0FEIfrVEu36SVPX) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/0j3WPiwq5GwT3gAhVOc7Of) | 3:38 | 2022-07-27 |  |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/2IjeU3uHr9gU0b9Cn33jAs) | [Tito Silva Music](https://open.spotify.com/artist/2IFOwmcGO4WH8r3qPOh1Y8) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1Tc6UA5XQyaJzgCEZYS3p1) | 3:39 | 2022-06-26 | 2022-07-09 |
 | [Mi Bebito Fiu Fiu](https://open.spotify.com/track/4Ke7vgenot8iGErbr6Bdwa) | [Tony Temperature](https://open.spotify.com/artist/39WQE9Gh5H6kiCETIwJGgv) | [Mi Bebito Fiu Fiu](https://open.spotify.com/album/1XG3gnmKvB0kC5sFztQ0E8) | 3:39 | 2022-07-20 | 2022-07-27 |
 | [Mi Corrido](https://open.spotify.com/track/0DNHxOl3fjt63bBS1jm6Vw) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 2:23 | 2022-06-22 | 2022-07-06 |

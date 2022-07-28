@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdTVW77weWfh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTVW77weWfh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTVW77weWfh)
 
-### [Beethoven Relax](https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh)
+### [Relaxing Beethoven](https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh)
 
 > Explore the softer side of Beethoven with this selection of calming favourites.
 

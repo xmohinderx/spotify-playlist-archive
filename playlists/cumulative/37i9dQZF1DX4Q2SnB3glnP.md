@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-218 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
+219 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/4mp9Oxx4e4HzTV82HU14u2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Family Dawn](https://open.spotify.com/track/2Gdybo91D2AszWaPKGLrul) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Personal Experiences](https://open.spotify.com/album/6gIXWTlb5DKqNAf4aTAfDw) | 3:48 | 2021-12-08 |  |
 | [Felidae](https://open.spotify.com/track/7H5oDBhgS4ZKeHGUgD0jpo) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [Felidae](https://open.spotify.com/album/4P3ktQbRMauYGxulDJd2ai) | 3:07 | 2021-12-08 |  |
 | [Finding You](https://open.spotify.com/track/57XqKCO5MeTbiaLSnq6dFj) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Finding You](https://open.spotify.com/album/706n9jfumnN5j4IjAeAqS7) | 3:04 | 2021-12-08 |  |
-| [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2021-12-08 |  |
+| [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2021-12-08 | 2022-07-28 |
 | [First Ray of Sun](https://open.spotify.com/track/7lEws7eRAGDDUY39l8VlBH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [Moto Perpetuo](https://open.spotify.com/album/5PiMD2EnpqjMBfQgCfLJ6C) | 2:19 | 2021-12-08 |  |
 | [Flucht](https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4) | [Elias Dome](https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p) | [Flucht](https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn) | 2:42 | 2022-02-03 |  |
 | [From Above](https://open.spotify.com/track/3bmicq5CCRnFGlvZY8mQYP) | [Jack Rosslyn](https://open.spotify.com/artist/2NsHKcM4F9lLMEppqZnsM5) | [From Above](https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04) | 2:19 | 2021-12-08 |  |
@@ -127,11 +127,12 @@
 | [Myth](https://open.spotify.com/track/61dAOLGkqOSyZQUPA5BbdQ) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:39 | 2021-12-08 |  |
 | [Música de Spa](https://open.spotify.com/track/0kHT2De1XzpRYNUwQ15v4O) | [Fanny Vie](https://open.spotify.com/artist/47BxDuX1LUvUsYDQssQM3s) | [Relajación y Meditación](https://open.spotify.com/album/7lf9GNRElS8xe9isYjh3bL) | 2:54 | 2021-12-08 |  |
 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 | 2021-12-08 |  |
-| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 | 2021-12-08 |  |
-| [Next To Me \- And The Stars](https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Sky Full Of Stars](https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR) | 4:28 | 2021-12-08 |  |
+| [New Light](https://open.spotify.com/track/6zRiuQpm9fgQ7Sit5Sc0XH) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 3:38 | 2021-12-08 | 2022-07-28 |
+| [Next To Me \- And The Stars](https://open.spotify.com/track/1uDuGxGnwMiFYiId1CdlYs) | [Silent Waves](https://open.spotify.com/artist/1RSbNk7FYQjvHpKk84NLrU) | [Sky Full Of Stars](https://open.spotify.com/album/12y1n8NzSBGNfBuUpzXCDR) | 4:28 | 2021-12-08 | 2022-07-28 |
 | [Next to Nothing](https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm) | [Gaia Rosica](https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h) | [Next to Nothing](https://open.spotify.com/album/4CONKmQtx7RqgTkJqH8xAp) | 2:46 | 2022-01-19 |  |
 | [Night Light](https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 2:03 | 2021-12-08 |  |
 | [Nightfall at Whitehaven Beach](https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Nightfall at Whitehaven Beach](https://open.spotify.com/album/4Nn0t0INwyLJnM4SuJqJ9Q) | 3:19 | 2021-12-08 |  |
+| [Ninki](https://open.spotify.com/track/0A58jKPmNtoHlpWusrWRTi) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kinei](https://open.spotify.com/album/35pPmN5vTdXm3p4rtAu9cD) | 3:02 | 2022-07-27 |  |
 | [Northern Poems](https://open.spotify.com/track/5vd7V52BDSD4atSxgGG8ME) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Northern Poems](https://open.spotify.com/album/4igLaGY7BmQDB3v055Zwyp) | 4:07 | 2021-12-08 |  |
 | [Now I know](https://open.spotify.com/track/7G0ooPUSQAvUY2za257nbW) | [Edna Lyles](https://open.spotify.com/artist/4VmIM4MrXi2N7C5apFApwz) | [Now I know](https://open.spotify.com/album/0cZYOUsx7Hm6N4zDrPi3pr) | 3:08 | 2021-12-08 |  |
 | [Nuit Paisible](https://open.spotify.com/track/3YdxtdF8xoDObT8184XS8V) | [Future Sky](https://open.spotify.com/artist/46ldV2C6sHsoBJcLwqyInL) | [Nuit Paisible](https://open.spotify.com/album/0v6cSM8pbDlOJZoLp9waiR) | 3:36 | 2021-12-08 |  |

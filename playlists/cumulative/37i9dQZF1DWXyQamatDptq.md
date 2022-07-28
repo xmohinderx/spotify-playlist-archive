@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXyQamatDptq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXyQamatDptq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXyQamatDptq)
 
-### [Austin Millz DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWXyQamatDptq)
+### [Austin Millz's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWXyQamatDptq)
 
 > The master in blending R&B, Soul, and Dance Music <a href =“ spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 

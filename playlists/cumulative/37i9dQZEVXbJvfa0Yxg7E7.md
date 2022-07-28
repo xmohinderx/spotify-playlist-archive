@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-724 songs - 1 day 14 hr 12 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+725 songs - 1 day 14 hr 16 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Baby, It's Cold Outside \(feat\. Christel Alsos\)](https://open.spotify.com/track/44PlwWxz3q10i2WrznihX4) | [Kurt Nilsen](https://open.spotify.com/artist/49HPMFWsosCuRf810Ay1Vv), [The Norwegian Radio Orchestra](https://open.spotify.com/artist/17ggmeNujCFMkr3zgyXv02), [Christel Alsos](https://open.spotify.com/artist/30wwNbASvE9GkBDsNVCsnn) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1YbbdbiUKFY5RqIlNrh1Bc) | 3:41 | 2021-12-25 | 2021-12-27 |
 | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/track/4RbbAdOtGvXTVXAvZvPgXa) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Adrian Sellevoll](https://open.spotify.com/artist/7A3fefmffBi6jDv2MxMcz3), [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Bacardi fra en kopp \(feat\. Amara\)](https://open.spotify.com/album/68lUMbLFja11NTlPMinTwP) | 2:41 | 2021-07-25 | 2021-07-31 |
 | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/track/66VDSp4xuQElxDVxaapiVG) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [DJ Black](https://open.spotify.com/artist/6fQmO1Ho6EAGZpRBHnyp5m), [Jaannybravo](https://open.spotify.com/artist/3FuQb8Yj6J8ZJSCTv7ZKAV), [Solguden](https://open.spotify.com/artist/76oRj8bdYsniX36EQNLZ58) | [Back To Reality 2021 \(feat\. Solguden\)](https://open.spotify.com/album/4qEHrDdIjvekUckCJOJrfB) | 3:01 | 2022-04-28 | 2022-05-08 |
+| [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2022-07-27 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-05-05 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 | 2022-04-23 | 2022-05-03 |
@@ -174,7 +175,7 @@
 | [Du](https://open.spotify.com/track/11aqn7HZZ3rJD5QvA3UV5N) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Du](https://open.spotify.com/album/7dtIei9lC6rcLk2fN2Vjye) | 4:18 | 2022-01-22 | 2022-01-27 |
 | [Du er ikke alene](https://open.spotify.com/track/6dq2NEtJvTIAIU515Pn3LM) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Du er ikke alene](https://open.spotify.com/album/7uns24NjdQA4SA48As0AeL) | 2:52 | 2021-11-07 | 2022-01-01 |
 | [Du får aldri se meg naken igjen](https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Du får aldri se meg naken igjen](https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX) | 2:47 | 2021-05-23 | 2021-06-13 |
-| [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2022-07-25 |  |
+| [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2022-07-25 | 2022-07-28 |
 | [du kommer til å hate meg](https://open.spotify.com/track/1xzgTojg2THAIvZf8xMSal) | [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [du kommer til å hate meg](https://open.spotify.com/album/7wItUf9xA9MTptCbjq6LuS) | 2:35 | 2022-03-26 | 2022-04-02 |
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-07 | 2022-05-15 |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2021-10-23 | 2021-11-07 |

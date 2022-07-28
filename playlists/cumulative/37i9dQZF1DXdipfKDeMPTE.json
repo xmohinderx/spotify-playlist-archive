@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "A cup of tea at night",
+        "url": "https://open.spotify.com/album/0cFK0jhWA8QTxIQy3pwtnB"
+      },
+      "artists": [
+        {
+          "name": "My Companion",
+          "url": "https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135525,
+      "name": "A cup of tea at night",
+      "url": "https://open.spotify.com/track/0KWpMH25yh1oYqYKaEILyi"
+    },
+    {
+      "album": {
         "name": "A Quiet Night",
         "url": "https://open.spotify.com/album/0OSwH5NIfILHiyOue1qCQT"
       },
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 140800,
       "name": "city lights",
       "url": "https://open.spotify.com/track/5wbf6h3eYS2tiR0fCDDva5"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 101052,
       "name": "Cloud Surfing",
       "url": "https://open.spotify.com/track/6iTEM8WzzFkRkmgO7r5JUL"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 200624,
       "name": "Cold Pillows",
       "url": "https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 123333,
       "name": "Drift",
       "url": "https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 159733,
       "name": "Folded Notes",
       "url": "https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH"
@@ -1867,6 +1885,24 @@
       "duration_ms": 138559,
       "name": "Gyroscopes",
       "url": "https://open.spotify.com/track/5gLf4MDRGmgTpO6hY6a5Fa"
+    },
+    {
+      "album": {
+        "name": "Changes in Time",
+        "url": "https://open.spotify.com/album/3UpsBQyvhgxvTk8YVlTetN"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Halflife",
+      "url": "https://open.spotify.com/track/1R02qM89MHLikDdUF2TlGo"
     },
     {
       "album": {
@@ -2097,7 +2133,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 159758,
       "name": "Ikea At Dusk",
       "url": "https://open.spotify.com/track/0b7acSt2NsF35xwFXj3ftl"
@@ -2241,7 +2277,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 158918,
       "name": "JETTDIFF",
       "url": "https://open.spotify.com/track/6zUjSJadplBcpspvtxvyPd"
@@ -2649,7 +2685,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 168437,
       "name": "Lush City",
       "url": "https://open.spotify.com/track/31qL4jDn77aduAeiAT4hoP"
@@ -2801,7 +2837,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 181999,
       "name": "Midnight Oil",
       "url": "https://open.spotify.com/track/7MGZ6G0or7ihnQ0zY9MQ5z"
@@ -3079,6 +3115,24 @@
       "duration_ms": 110704,
       "name": "new trees",
       "url": "https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S"
+    },
+    {
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/3mNBRf5QOWVhpUOvCGq2gc"
+      },
+      "artists": [
+        {
+          "name": "Surd\u00e9g Broed",
+          "url": "https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/7zQXU5vLt7xccnnR6AdiXs"
     },
     {
       "album": {
@@ -3397,7 +3451,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 168000,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/1T4FNr8eF3p4iVaHrjBGho"
@@ -3621,7 +3675,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 171428,
       "name": "Pink Elephants",
       "url": "https://open.spotify.com/track/6Owf9tXo9S2GZiVDXG7xrK"
@@ -3953,7 +4007,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 134366,
       "name": "Same Cycle Different Day",
       "url": "https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv"
@@ -4536,6 +4590,24 @@
     },
     {
       "album": {
+        "name": "Sunday Sunset",
+        "url": "https://open.spotify.com/album/5cLEuqhXzlO6z8reu4V2DD"
+      },
+      "artists": [
+        {
+          "name": "Mr. Donsai",
+          "url": "https://open.spotify.com/artist/7lw3xexSn1fipl8UlSXtpX"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Sunday Sunset",
+      "url": "https://open.spotify.com/track/6KI3tKEcW5NBMIWcHNlh0C"
+    },
+    {
+      "album": {
         "name": "Supercalifragilistic",
         "url": "https://open.spotify.com/album/5ShNcVs7JPP5z9PbJRFrcm"
       },
@@ -4619,7 +4691,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 159849,
       "name": "thaws / thoughts",
       "url": "https://open.spotify.com/track/7efIiYXXWIzqMgWHzhtL5A"
@@ -4677,7 +4749,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 147272,
       "name": "The Monster Under My Bed",
       "url": "https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5"
@@ -4695,7 +4767,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 168007,
       "name": "The Rain Said No",
       "url": "https://open.spotify.com/track/0QR9H35hAAIrT3PcBbaqEt"
@@ -4963,7 +5035,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 149647,
       "name": "Uzak",
       "url": "https://open.spotify.com/track/442yQKLo9FM12Qgv7AoZT3"
@@ -5071,7 +5143,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 147023,
       "name": "Waxing",
       "url": "https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT"

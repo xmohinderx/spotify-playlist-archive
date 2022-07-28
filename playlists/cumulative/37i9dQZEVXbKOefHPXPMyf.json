@@ -4739,7 +4739,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "La Mushasha Shula",
       "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
@@ -5871,7 +5871,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 295413,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x"
@@ -5947,6 +5947,32 @@
       "duration_ms": 219689,
       "name": "Mi Bebito Fiu Fiu",
       "url": "https://open.spotify.com/track/7dT3NxlPsOIdM6dftDNM5K"
+    },
+    {
+      "album": {
+        "name": "Mi Bebito Fiu Fiu",
+        "url": "https://open.spotify.com/album/0j3WPiwq5GwT3gAhVOc7Of"
+      },
+      "artists": [
+        {
+          "name": "Original Songs - Trends",
+          "url": "https://open.spotify.com/artist/0urETZ7DcqT4XJi3dO8h5W"
+        },
+        {
+          "name": "Tito Silva",
+          "url": "https://open.spotify.com/artist/1Ss1BvOOjfeYA6ITcKR6PW"
+        },
+        {
+          "name": "Tefi C",
+          "url": "https://open.spotify.com/artist/79pg52L0FEIfrVEu36SVPX"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218975,
+      "name": "Mi Bebito Fiu Fiu",
+      "url": "https://open.spotify.com/track/1JsWZiBPMGdrNrEV1yik7C"
     },
     {
       "album": {
@@ -6343,7 +6369,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"

@@ -4,7 +4,7 @@
 
 > Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:6hG077WYgnjPVTkzhD2a9A">Sidea</a>
 
-312 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
+313 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [DUE PUNTI PARENTESI](https://open.spotify.com/track/2eHWYDuQtme0a0nBmJn286) | [Demï](https://open.spotify.com/artist/7IwAuqqh9EUk6mlD9ZLFy0) | [DUE PUNTI PARENTESI](https://open.spotify.com/album/1UzynnhgvD247VCKQFIkVL) | 1:55 | 2022-06-23 | 2022-07-23 |
 | [Easy](https://open.spotify.com/track/5Tr0ol7vcovoGqotDfvkwB) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Easy](https://open.spotify.com/album/2tIsEywEdtGcrt5vj8hF8C) | 3:15 | 2022-06-02 | 2022-07-19 |
 | [eCooltra](https://open.spotify.com/track/0gME98nlmJ3ELluzumLK9U) | [Juli](https://open.spotify.com/artist/2sK3zc7YU0Jhx9VczDkCkF) | [eCooltra](https://open.spotify.com/album/2QezV8f0vA8mkSBoglGa2v) | 2:48 | 2022-05-19 | 2022-07-01 |
-| [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 | 2022-06-09 |  |
+| [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 | 2022-06-09 | 2022-07-28 |
 | [ESAGERO EMOZIONI](https://open.spotify.com/track/4LwFRgfMW5LCStueaVtGh8) | [FDP](https://open.spotify.com/artist/5vX1tbFG6NuGSbwWO420JO), [Zerbo](https://open.spotify.com/artist/3cxzA1W08BBDKlAtVG09Zg) | [ESAGERO EMOZIONI](https://open.spotify.com/album/5PPlMx6qAuRLiIm8IEYpqJ) | 3:30 | 2022-05-19 | 2022-06-03 |
 | [Essere Luce](https://open.spotify.com/track/5id3YaYmvIT7hwxei64WST) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Essere Luce](https://open.spotify.com/album/22BJjsYEva9pQnKYxeo9mk) | 2:42 | 2022-02-17 | 2022-02-24 |
 | [Fantasia](https://open.spotify.com/track/1hEsQqngL8iq7IwsoTjB9O) | [Cascate](https://open.spotify.com/artist/7cG5p7UFGDKEZlFE351bX4) | [Fantasia](https://open.spotify.com/album/2RGUJun6AQFdrsZ29xy37C) | 2:49 | 2022-05-05 | 2022-06-03 |
@@ -231,6 +231,7 @@
 | [QUEEN SIZE](https://open.spotify.com/track/0nMCR75q4zfsEvkhIZxwbx) | [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [QUEEN SIZE](https://open.spotify.com/album/6YlD2hx5rGqHGqhgZBVzeN) | 2:34 | 2022-06-30 | 2022-07-23 |
 | [Quindici](https://open.spotify.com/track/6Jy0SI6gu6FTowKwlPeXYN) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Baobab!](https://open.spotify.com/album/32hQlHydXAkXsyduPKBGph) | 3:30 | 2022-03-03 | 2022-04-20 |
 | [Raffaele](https://open.spotify.com/track/3hw77UZ8NlmrkWKnhWAdpx) | [azael](https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk), [Gemma](https://open.spotify.com/artist/697GLwQ7kujCXwK3KwYMex) | [Raffaele](https://open.spotify.com/album/7FXPIWymJ14tdgqAScp0L1) | 2:11 | 2022-01-06 | 2022-02-25 |
+| [Reale](https://open.spotify.com/track/52RgevjgkykNfjVGOza1f7) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Reale](https://open.spotify.com/album/1Nm8VQob7MibQEAfQVbiKa) | 2:09 | 2022-07-27 |  |
 | [Regina](https://open.spotify.com/track/1XQWXDjAALCMDNDGRH40o6) | [Bollenti Spiriti](https://open.spotify.com/artist/0z0WIcFmz8Ongg6uNrHB5L), [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Regina](https://open.spotify.com/album/0INRunmIEZ3RmTVJwlIChS) | 2:22 | 2022-05-19 |  |
 | [RESTI](https://open.spotify.com/track/6OrbgLPXxhmjxJ7WPKLxKk) | [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo), [brucianoviole](https://open.spotify.com/artist/1I5GYRGNpO0YzBurQq6CMt), [Polvere](https://open.spotify.com/artist/3NKj5gr7FA8TAdXgH6ZS3Z) | [RESTI](https://open.spotify.com/album/0nqLgPwGIcd6ts9w9Ajz5l) | 2:04 | 2022-03-03 | 2022-04-20 |
 | [Resto a casa](https://open.spotify.com/track/1FKOEl0vzCzjFtHX8tm17U) | [Savior](https://open.spotify.com/artist/4sj5SWNpj0OmXxEbZ17hg3), [Martina Di Nardo](https://open.spotify.com/artist/2ZK8BeEdf8NpZQXG23iIdx) | [Resto a casa](https://open.spotify.com/album/2IiiRQm9S8Iq3Vp5tyMLIH) | 2:44 | 2022-04-19 | 2022-05-28 |

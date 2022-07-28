@@ -4,7 +4,7 @@
 
 > V\-Pop đã đơm hoa trên những khúc ca này\. Ảnh bìa: Phương Ly
 
-81 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
+82 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/0wzTwcfKaOgiicu3axKIAh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-26 |  |
 | [một ngày tôi quên hết](https://open.spotify.com/track/2bxVMMRP6AHvUVXHQrIBy9) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Cẩm Vân](https://open.spotify.com/artist/4sB7Byv9cAeaPbR05YSQFR), [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [một ngày tôi quên hết](https://open.spotify.com/album/0XhltjKp7yErYaQhtt8h7x) | 4:22 | 2022-05-27 | 2022-06-03 |
 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 | 2022-05-27 |  |
+| [Ngã Tư Không Đèn](https://open.spotify.com/track/73fFRs03s0gtjggfMW213L) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9) | 3:38 | 2022-07-27 |  |
 | [Ngôi Sao Cô Đơn](https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5) | [Jack \- J97](https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn) | [Ngôi Sao Cô Đơn](https://open.spotify.com/album/5fDgEcanAeh0CwPxGK86RN) | 4:35 | 2022-07-27 |  |
 | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/track/4MZkrUWN2C0dhc7Xn1LPug) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Nhìn Những Mùa Thu Đi](https://open.spotify.com/album/4JjTQrduYfwIza24mYYZVv) | 2:52 | 2022-06-28 | 2022-07-12 |
 | [Nhìn Những Mùa Thu Đi \- Em Và Trịnh Original Soundtrack](https://open.spotify.com/track/1F7kjQhF92Al8CSu2jP5rH) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Em Và Trịnh \(Original Soundtrack/ Vol.1\)](https://open.spotify.com/album/5TA8F1Lkwa4exTPHyTZutr) | 2:04 | 2022-06-28 | 2022-07-12 |

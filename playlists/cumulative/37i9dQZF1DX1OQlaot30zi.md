@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Massimo Pericolo, Guè, Bresh, Rhove, Paky e tanti altri!
 
-482 songs - 22 hr 26 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
+483 songs - 22 hr 30 min - [published](https://open.spotify.com/playlist/7sfA9EX1ungjA32R4YoNij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [FOTO DI NOI \(feat\. Drast\)](https://open.spotify.com/track/5HTeJX7LmoMwAwvXOOQcH4) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [FOTO DI NOI \(feat\. Drast\)](https://open.spotify.com/album/5itMdt8FnxYp7JKS75ypHh) | 3:13 | 2022-05-12 | 2022-05-27 |
 | [Fototessere](https://open.spotify.com/track/5qyFfrFtEeHg7ZbvNMwQN4) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP) | [Fototessere](https://open.spotify.com/album/44xZ6MzfeRozB8FqrUhy7J) | 3:13 | 2022-05-10 | 2022-05-20 |
 | [Foulard \(feat\. Tony Boy\)](https://open.spotify.com/track/3XfvhjWN484B6QynChz8EL) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Foulard \(feat\. Tony Boy\)](https://open.spotify.com/album/5hHuAYEqrZXGrwfB5RM9IJ) | 2:47 | 2022-06-09 | 2022-06-17 |
+| [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/3viRyhRcXI4Jc1KX1Y9o8w) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w) | 3:43 | 2022-07-27 |  |
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 | 2022-05-20 |
 | [Freddo D'Estate](https://open.spotify.com/track/1EhNW2RvKqLZmIsXx17ivL) | [Fè](https://open.spotify.com/artist/4uBeQkuwBlG3UDEmKHtSqw) | [Freddo D'Estate](https://open.spotify.com/album/5nTzi66trIVUhMaamj93Zi) | 2:41 | 2022-06-09 | 2022-06-18 |
 | [FREE SOLO \(feat\. Marracash\)](https://open.spotify.com/track/0CuOlrm9gmvMUlRxBLHp0o) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:33 | 2022-05-19 | 2022-06-10 |

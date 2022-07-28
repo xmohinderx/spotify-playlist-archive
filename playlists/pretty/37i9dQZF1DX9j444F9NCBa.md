@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,686 likes - 114 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,046 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 113 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 |
 | 114 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 |
 
-Snapshot ID: `MTY1NjU5MjY3NywwMDAwMDA1YzAwMDAwMTgxYjQ5ZTNiYjkwMDAwMDE4MWI0OTg4NzYw`
+Snapshot ID: `MTY1ODkyMDY5MywwMDAwMDA1ZDAwMDAwMTgyM2Y2MGYwYTEwMDAwMDE4MjNmNjBhZWI4`

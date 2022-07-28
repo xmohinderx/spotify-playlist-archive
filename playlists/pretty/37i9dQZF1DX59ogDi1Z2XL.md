@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Nate Husser
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,491 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,528 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 29 | [Colour Money](https://open.spotify.com/track/54KhIcTrJhvQjQNLEGFwzR) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Colour Money](https://open.spotify.com/album/4sHsJpq0phd94oguJ5lRAG) | 2:21 |
 | 30 | [Last Call \(Reg's Voicemail\)](https://open.spotify.com/track/7odhYEbktZ14tkDQabTiWX) | [Realcityfame](https://open.spotify.com/artist/5aGiv8WaosuW2FA3CQyul3), [RegSounds](https://open.spotify.com/artist/7o4Xk7xOkXMYZsvecMu8Ej) | [Pain In The City](https://open.spotify.com/album/3DNyLS7YfWoYY4W8B1jKEb) | 3:45 |
 | 31 | [stop](https://open.spotify.com/track/6WpAquDjtUI6hJQcf8GgcH) | [mg the realest](https://open.spotify.com/artist/1um42f3vCpcV9AW0pasfEY) | [stop](https://open.spotify.com/album/2F5WjR5mxPgvgriakkIGiP) | 3:17 |
-| 32 | [WOESKI \( WINNERS UP \)](https://open.spotify.com/track/3w3BMvXk7qhMA7IX3aOkM1) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [WOESKI \( WINNERS UP \)](https://open.spotify.com/album/1JcsaZ70gZzHW0h6dW8y23) | 2:13 |
+| 32 | [WOESKI \( WINNERS UP \) \[feat\. Powers Pleasant\]](https://open.spotify.com/track/3w3BMvXk7qhMA7IX3aOkM1) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d), [Powers Pleasant](https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj) | [WOESKI \( WINNERS UP \) \[feat\. Powers Pleasant\]](https://open.spotify.com/album/1JcsaZ70gZzHW0h6dW8y23) | 2:13 |
 | 33 | [Talk About](https://open.spotify.com/track/5mvKp6kEuSYjlxIsLbuFyQ) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL) | [Talk About](https://open.spotify.com/album/29z1tYY82fbOI8gTxcLJgR) | 2:03 |
 | 34 | [Trophy](https://open.spotify.com/track/5i4FyAHlC4X1DA7KVDqDUW) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [French Connections](https://open.spotify.com/album/2QrljTEOdMpOvV0BGihyHc) | 3:10 |
 | 35 | [Lil Big](https://open.spotify.com/track/4O42nHPVeixbdExEXVwOkK) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Lil Big](https://open.spotify.com/album/0sWpE8NPSFOCNP0wRbddlP) | 3:31 |

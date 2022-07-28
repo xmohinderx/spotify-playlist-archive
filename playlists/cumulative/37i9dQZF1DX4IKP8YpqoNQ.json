@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 304373,
       "name": "4evermore (Feat Algebra) (Live)",
       "url": "https://open.spotify.com/track/5IMQYqPWULjYx1cQSFwJSn"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 378000,
       "name": "A Long Walk (Groove)",
       "url": "https://open.spotify.com/track/4bVazcMn4wRqnL5LXOIAH5"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 244973,
       "name": "Apple Tree",
       "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 192600,
       "name": "At Last - Live",
       "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 165533,
       "name": "Baby, I Love You - Live at the Olympia Theatre, Paris, May 7, 1968",
       "url": "https://open.spotify.com/track/4rOJaClBVXUIEbOxKxSJ2y"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 469625,
       "name": "Black Man In A White World - Live From Spotify London",
       "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 415864,
       "name": "Blackbird (Live)",
       "url": "https://open.spotify.com/track/2XTIXLumlviDE2eP0SpxEj"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 310133,
       "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 302218,
       "name": "For The Mighty Dollar - RNZ Live Sessions",
       "url": "https://open.spotify.com/track/3f69vVEtvLDMgaC4xm18MP"
@@ -825,10 +825,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 396554,
       "name": "Friday Morning - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2f5OAOdaYeFj5mwyganOjD"
+    },
+    {
+      "album": {
+        "name": "Experience: Jill Scott 826+",
+        "url": "https://open.spotify.com/album/4qUhtl9sum7gV3mEbEoV2k"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462693,
+      "name": "Gettin' in the Way",
+      "url": "https://open.spotify.com/track/0IgCIaMYjOgMD5Erod0Fgq"
     },
     {
       "album": {
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 225893,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 309526,
       "name": "I Know You, I Live You - Live",
       "url": "https://open.spotify.com/track/1Jwzfaz9O51dd1sK34KE8G"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 196040,
       "name": "I Plan to Stay a Believer - Live at The Bitter End, NYC",
       "url": "https://open.spotify.com/track/6JIfkqGRilj97vEdaLpHaS"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 246840,
       "name": "I Wish - Live/1995",
       "url": "https://open.spotify.com/track/1cTSs5xmxeLqms0SYdFMRT"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 235357,
       "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
       "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 456240,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/5Q4UyRkhN85ZrNNzrVLxqu"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 440626,
       "name": "Lean On Me (Live)",
       "url": "https://open.spotify.com/track/7J44ganBfFGgu1K6j6q85F"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 236933,
       "name": "Little Ghetto Boy (Live)",
       "url": "https://open.spotify.com/track/4BsSAMZ8Lsmqgha5CSi39h"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 243000,
       "name": "Look Up To The Sky - Live",
       "url": "https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 384973,
       "name": "Monkey See Monkey Do (Live)",
       "url": "https://open.spotify.com/track/4UUJ5wfsvfCRSr2CzT1nlp"
@@ -1561,6 +1579,24 @@
       "duration_ms": 490266,
       "name": "Move To Groove - Live At The Montreaux Jazz Festival/1972",
       "url": "https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd"
+    },
+    {
+      "album": {
+        "name": "Lost & Found:The Temptations: You've Got To Earn It (1962-1968)",
+        "url": "https://open.spotify.com/album/7wrPrbiYeAizoeMAsRVoW5"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "My Girl - Live (1964 Fox Theater)",
+      "url": "https://open.spotify.com/track/4aSpobarPve3IvDYBG4mzb"
     },
     {
       "album": {
@@ -1683,7 +1719,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 330493,
       "name": "On & On - Live",
       "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
@@ -1705,7 +1741,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 378520,
       "name": "Ordinary Day - Live",
       "url": "https://open.spotify.com/track/3OAe5PVAQBLfAkcHwAGJyh"
@@ -1723,7 +1759,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 308720,
       "name": "Ordinary People - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/2UGuZUEnJMAcpYd5Xf4R5K"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 280133,
       "name": "Save The Children - Live From The Montreux Jazz Festival,Switzerland/1973",
       "url": "https://open.spotify.com/track/2rQQqhyMjZ3rIMriZXsGlR"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 246080,
       "name": "Still Such a Thing - Live",
       "url": "https://open.spotify.com/track/67Iiw6pwTtWRLFIxJMfO60"
@@ -2001,7 +2037,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 213000,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
@@ -2077,7 +2113,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 263770,
       "name": "Teenage Fantasy - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3gL9y6dT7xKRPL91gKGM9Y"
@@ -2095,7 +2131,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 385266,
       "name": "Tell Me A Tale - Live At Carre, Amsterdam",
       "url": "https://open.spotify.com/track/1dIaKsw8LPs2gYLlFP523h"
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 502440,
       "name": "To Be Young, Gifted and Black - Live at the Troubador, Los Angeles, CA",
       "url": "https://open.spotify.com/track/6zLWH5tkCUU6k5nlBzM8z8"
@@ -2387,7 +2423,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 548378,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
@@ -2441,7 +2477,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 252560,
       "name": "VooDoo - Live From Wolfgang's Vault",
       "url": "https://open.spotify.com/track/0NdmKzjtCxH3pdDPcCBlOX"
@@ -2459,7 +2495,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 222490,
       "name": "Walk With Me - Live from Blackbird Studio",
       "url": "https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L"
@@ -2477,7 +2513,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 322333,
       "name": "Washington D.C.",
       "url": "https://open.spotify.com/track/013mWYpNJUCQMM2gNP8TxF"
@@ -2639,7 +2675,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 215800,
       "name": "You Don't Know My Name - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
       "url": "https://open.spotify.com/track/2YpcIMAlj3xnB1Vr3qFYL1"
@@ -2661,7 +2697,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 530866,
       "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
       "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"

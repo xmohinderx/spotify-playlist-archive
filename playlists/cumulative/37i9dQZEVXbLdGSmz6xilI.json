@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi"
+    },
+    {
+      "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 222314,
       "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
@@ -3119,7 +3137,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 205846,
       "name": "GIAYPHUT",
       "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
@@ -8357,7 +8375,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 198788,
       "name": "Thi\u00eau Th\u00e2n",
       "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Kölsch, Magit Cacoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,466 likes - 75 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,629 likes - 75 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

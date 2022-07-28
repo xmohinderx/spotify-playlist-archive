@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-923 songs - 2 day 1 hr 0 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+924 songs - 2 day 1 hr 3 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Eget Bruk](https://open.spotify.com/track/1kJ9nVh9LjPYiCvcBSsPyz) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:25 | 2022-04-30 | 2022-05-08 |
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-06-11 |
 | [El Diablo](https://open.spotify.com/track/5qqQgao22OUr6rx3y0TPIe) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/4qtyEsRH9iNX3eDcYpeQzB) | 3:01 | 2021-05-24 | 2021-05-30 |
-| [Eld & lågor](https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Vinterviken](https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr) | 2:59 | 2021-08-29 |  |
+| [Eld & lågor](https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Vinterviken](https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr) | 2:59 | 2021-08-29 | 2022-07-28 |
 | [ELDEN](https://open.spotify.com/track/2rE34gpxOSBVaQrfsgKycT) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:49 | 2022-06-11 | 2022-06-17 |
 | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/track/7360iScV4BTruAJfE6TnjO) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/album/4FmtP9HdfFAlmXtbpGiIax) | 3:03 | 2021-10-03 | 2021-10-04 |
 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 | 2022-06-25 | 2022-06-27 |
@@ -258,6 +258,7 @@
 | [Feelings](https://open.spotify.com/track/0whPNuKZ7Nu9oft8WmMvVf) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 2:40 | 2021-10-23 | 2021-10-31 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-11-27 | 2021-12-29 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-08 | 2022-02-06 |
+| [Fingrarna i halsen](https://open.spotify.com/track/2JPEh0GTJA9SULAojbMjp4) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Fingrarna i halsen](https://open.spotify.com/album/6xELbiSTUzXsradJS2oMH9) | 3:00 | 2022-07-27 |  |
 | [Fira jul med mig](https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [TILL\_\_\_\_\_FRÅN\_\_\_\_\_](https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK) | 3:43 | 2021-11-30 | 2021-12-27 |
 | [Fira Varje Stund](https://open.spotify.com/track/4vO6quHgxfRW1lpSKPYfGv) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Fira Varje Stund](https://open.spotify.com/album/2bSvAoUsUv0mdFz1sN9AeD) | 3:42 | 2021-05-30 | 2021-05-31 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-09-12 | 2021-09-21 |

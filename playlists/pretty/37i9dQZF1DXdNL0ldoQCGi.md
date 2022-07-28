@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,480 likes - 81 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,574 likes - 81 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 7 | [SNAP](https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g) | 2:59 |
 | 8 | [Put0 & Cheiroso](https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Jv045](https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe) | [Put0 & Cheiroso](https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp) | 3:23 |
 | 9 | [Mina Sensação](https://open.spotify.com/track/5o2yt2GUKVx7vpNkcxPMPe) | [Deavele Santos](https://open.spotify.com/artist/4pby53BFNfng1G88nYhBaM) | [Regassa Paredão](https://open.spotify.com/album/0bnKqitEqDT67tuf2ukYzx) | 1:52 |
-| 10 | [Cafajeste](https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj) | [MC Cego Abusado](https://open.spotify.com/artist/656sFhsnTuJ79P7apmFSVc), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Cafajeste](https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi) | 2:19 |
+| 10 | [Cafajeste](https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj) | [Mc Cego](https://open.spotify.com/artist/1kNk4HYqbos8IOCo6iyXXX), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Cafajeste](https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi) | 2:19 |
 | 11 | [Hits 2021 \- Mashup](https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hits 2021 \(Mashup\)](https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa) | 2:37 |
 | 12 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 13 | [Até A Próxima Vida Lambadão](https://open.spotify.com/track/43Yk4244yJ5ut6TZQyAzhG) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ) | [Até A Próxima Vida Lambadão](https://open.spotify.com/album/5iez3GbD9KyWwXB4w4w5VH) | 3:48 |

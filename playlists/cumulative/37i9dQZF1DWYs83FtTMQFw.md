@@ -4,7 +4,7 @@
 
 > The hottest tracks of today...featuring Fivio Foreign & The Kid LAROI, Drake, and Post Malone
 
-712 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
+713 songs - 1 day 12 hr 37 min - [published](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Sticky](https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:03 | 2022-06-17 |  |
 | [STILL CHOSE YOU \(feat\. Mustard\)](https://open.spotify.com/track/637YZncqOkeFzcTmr7YijJ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:51 | 2021-07-24 | 2021-12-11 |
 | [Still Trappin' \(with King Von\)](https://open.spotify.com/track/43BlKpJcSrC9AsJ3F1DKg9) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [The Voice](https://open.spotify.com/album/12TuxCWI6BzfSXaZMKMrPn) | 2:52 | 2021-02-21 | 2021-03-26 |
+| [Stone Rolling](https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Stone Rolling](https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF) | 3:00 | 2022-07-27 |  |
 | [Story Time](https://open.spotify.com/track/10HF71PuUpSj45eENr2hxx) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Story Time](https://open.spotify.com/album/6RCSiZ997D80DSuDuHWsUH) | 2:42 | 2021-09-11 | 2022-01-08 |
 | [Storyteller](https://open.spotify.com/track/3P14DrMQLh1CqKBki4e98s) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Storyteller](https://open.spotify.com/album/28Y1Tj8nZRro47bwhKnOiV) | 2:46 | 2022-06-10 | 2022-07-16 |
 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 | 2022-02-25 | 2022-04-09 |

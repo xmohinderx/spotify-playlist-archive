@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-737 songs - 1 day 14 hr 26 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+738 songs - 1 day 14 hr 29 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-27 | 2021-10-31 |
 | [Baila Ella](https://open.spotify.com/track/2Y6sYRN1zHuC4RE7ftNWYt) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Hulanki](https://open.spotify.com/album/14pj6NqyPu4yQ7H1FsgoZM) | 3:17 | 2021-09-26 | 2022-01-25 |
 | [BAKTERIA](https://open.spotify.com/track/3mp3BeeseDsEITwEWnG2Ro) | [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [EXTRAVAGANZA](https://open.spotify.com/album/0p4dp2ioreo7WaZJudIfr5) | 3:27 | 2022-04-09 | 2022-04-13 |
-| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-06-19 |  |
+| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-06-19 | 2022-07-28 |
 | [Bandyta](https://open.spotify.com/track/3OcyTN8Nz3bdne5aq9mMR5) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Bandyta](https://open.spotify.com/album/6gGxvgeHwp2Eef5mzwx0HP) | 2:36 | 2021-04-01 | 2021-04-18 |
 | [Bandyta](https://open.spotify.com/track/4SCKjcOBEHYu7EKKOdQBXJ) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pułapka Na Motyle](https://open.spotify.com/album/5ccwNrkxoiG2WdO5oJ0kbQ) | 2:36 | 2021-04-18 | 2021-12-06 |
 | [Barbie](https://open.spotify.com/track/0VdSlJ7owUK1MuS8Kp7LdE) | [BLACHA](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Barbie](https://open.spotify.com/album/7noCMYG0mfRymxeBNXQuGz) | 2:21 | 2021-09-05 | 2021-09-09 |
@@ -519,6 +519,7 @@
 | [Poezja ulic](https://open.spotify.com/track/4D8gDtDm6dYWLUjahYoYMA) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Bedoes](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Murem za Bonusem](https://open.spotify.com/album/2U5g2dpq7FcAmvJTiTjVmW) | 3:01 | 2021-12-18 | 2021-12-19 |
 | [Pogo](https://open.spotify.com/track/4tGTwV7iuUD9Kp9nvL5Uqv) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [Pogo](https://open.spotify.com/album/22tHEMXPd6w2Mi66aQN6b5) | 2:53 | 2021-08-28 | 2021-10-23 |
 | [Pogo](https://open.spotify.com/track/0e9qii2fpZNl6UStkD8vFi) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [Jeszcze 5 minut](https://open.spotify.com/album/4aagKgJSDrucEH6yTg3ZGK) | 2:53 | 2021-10-23 | 2022-01-08 |
+| [Poj\*bane Stany](https://open.spotify.com/track/6HfstGnzO4jCsEVGuCUbKF) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc) | [Poj\*bane Stany](https://open.spotify.com/album/4P5SduCjRUFFDy7n1wCXwc) | 2:33 | 2022-07-27 |  |
 | [Polityka](https://open.spotify.com/track/7K9ZBquGaNNFMq84rNQLHh) | [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Polityka](https://open.spotify.com/album/3hHFt7RMihBKYUnKm9Gylw) | 3:12 | 2021-04-11 | 2021-04-17 |
 | [Polski Karnawał](https://open.spotify.com/track/2x47PY6YdmISyvHeSTatCg) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [Polski Karnawał](https://open.spotify.com/album/4g8omjgFY9XRJi1ISjz9ZJ) | 2:27 | 2022-02-26 | 2022-03-13 |
 | [Polski Karnawał](https://open.spotify.com/track/6QzEN3q6NpVFdxktMj427g) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [amfisbena \(DELUXE\)](https://open.spotify.com/album/2yjyIeUxvGjGtFA2A4Xqmc) | 2:27 | 2022-03-12 | 2022-06-23 |

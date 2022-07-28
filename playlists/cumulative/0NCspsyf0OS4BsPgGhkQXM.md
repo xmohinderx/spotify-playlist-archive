@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-381 songs - 20 hr 38 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+382 songs - 20 hr 42 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Run Like the Wind](https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 2:51 | 2022-01-14 |  |
 | [Run Like The Wind \- Ookay Remix](https://open.spotify.com/track/13iTzttt2HngeGOKtWFOmi) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [IDK, Vol\. 2 \(Remixes\)](https://open.spotify.com/album/7EEYkZsi5x7PJwXYGRuPXX) | 3:07 | 2022-03-15 |  |
 | [Running Up That Hill](https://open.spotify.com/track/6k3q5dxWoip5EvfkfqHXAS) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [Reigan](https://open.spotify.com/artist/1LLc1LysYwIKPmcDVfrdMn) | [Running Up That Hill](https://open.spotify.com/album/5urx8cz1XMky3QYY99CRwx) | 2:44 | 2022-07-22 |  |
+| [Sad Reality \(feat\. Casey Cook\)](https://open.spotify.com/track/2O15uKcn4bG7XJNGgILDTE) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Sad Reality \(feat\. Casey Cook\)](https://open.spotify.com/album/4xpSlpbHECkXO1v72p888V) | 3:40 | 2022-07-27 |  |
 | [Safe Life](https://open.spotify.com/track/5MREUK9W3AYQ1YNowow8s8) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:19 | 2022-05-13 |  |
 | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/3Zj9WSEjueL8UecCOC67tT) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [SAKURA BURST \(Naeleck Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/06XBg45fb1ASwRGAwFyeD7) | 4:07 | 2022-02-11 | 2022-04-08 |
 | [Salt](https://open.spotify.com/track/5rFRdSHV7GQyu2kNjyXRgE) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Light Garden](https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe) | 3:43 | 2022-05-11 |  |

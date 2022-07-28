@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVW77weWfh.md) - [plain](/playlists/plain/37i9dQZF1DXdTVW77weWfh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTVW77weWfh)
 
-### [Beethoven Relax](https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh)
+### [Relaxing Beethoven](https://open.spotify.com/playlist/37i9dQZF1DXdTVW77weWfh)
 
 > Explore the softer side of Beethoven with this selection of calming favourites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,985 likes - 83 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,040 likes - 83 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVW77weWfh.md) - [plain]
 | 82 | [Beethoven: Symphony No\. 6 in F Major, Op\. 68 "Pastoral": I\. Erwachen heiterer Empfindungen bei der Ankunft auf dem Lande\. Allegro ma non troppo](https://open.spotify.com/track/5UbN3fe9OB1p5KwjgUAHD4) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Riccardo Muti](https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1) | [Beethoven: Symphony No\. 6 "Pastoral"](https://open.spotify.com/album/1kGJis704qkvZIWOIsKjA0) | 12:38 |
 | 83 | [Serenade in D Major, Op\. 25: VI\. Adagio \- Allegro vivace e disinvolto](https://open.spotify.com/track/4ZcRZ6npyMwQCdxV5GvSxs) | [Aralee Dorough](https://open.spotify.com/artist/38olTadZDTRkki6O922lwS), [Jennifer Owen](https://open.spotify.com/artist/4A0Fz7Ms0zVDLodOHsNopD), [Linda Goldstein](https://open.spotify.com/artist/2Q2gg67TlJlY9iMPMXy79V) | [The Ergonomic Flute: Mozart Quartets K\. 285 & K\. 298, Beethoven Serenade Op\. 25](https://open.spotify.com/album/3cwkUka6E74y7BN7tiWT2D) | 5:46 |
 
-Snapshot ID: `MTU4MzQ4ODQzOSwwMDAwMDAwNDAwMDAwMTcwNzc2YzYzZTcwMDAwMDE3MGFmNDQxNTJj`
+Snapshot ID: `MTY1ODkyOTg4MSwwMDAwMDAwNTAwMDAwMTgyM2ZlZDIxNWEwMDAwMDE4MjNmZWM5Y2U3`

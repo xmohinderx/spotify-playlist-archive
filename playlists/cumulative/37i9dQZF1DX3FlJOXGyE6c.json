@@ -1530,6 +1530,28 @@
     },
     {
       "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f ~\u9759\u304b\u306e\u6d77\u306e\u30d1\u30e9\u30a4\u30bd~ (\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/2TU5uyKCXabUYqkQ82liA1"
+      },
+      "artists": [
+        {
+          "name": "\u5200\u5263\u7537\u58eb formation of \u30d1\u30e9\u30a4\u30bd",
+          "url": "https://open.spotify.com/artist/4YHmPgOV8tzzMUxIT0OiH4"
+        },
+        {
+          "name": "\u30df\u30e5\u30fc\u30b8\u30ab\u30eb\u300e\u5200\u5263\u4e71\u821e\u300f \u5200\u5263\u7537\u58eb",
+          "url": "https://open.spotify.com/artist/09CP14O4o6GAI3kWEz6J3j"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "\u60f3\u3044\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/64CKsB9w305TRYeDucjH3l"
+    },
+    {
+      "album": {
         "name": "\u9f13\u52d5 (Type B)",
         "url": "https://open.spotify.com/album/7zugVFCn4Bio4gaHFkU1pP"
       },

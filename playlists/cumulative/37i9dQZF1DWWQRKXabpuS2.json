@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Akhtht Al Thaar",
+        "url": "https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219259,
+      "name": "Akhtht Al Thaar",
+      "url": "https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC"
+    },
+    {
+      "album": {
         "name": "Al Badeel",
         "url": "https://open.spotify.com/album/4E4FPhYU6jM5sPGeBMzzIp"
       },

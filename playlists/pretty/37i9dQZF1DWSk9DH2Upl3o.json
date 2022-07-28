@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Aqueous",
-  "num_followers": 2694,
+  "num_followers": 2746,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg4NDE0NCwwMDAwMDAwMGQxNDNhYjA2NDRkN2U3NjY5MjhhNjc0ZGU4ZWI3NGNi",
+  "snapshot_id": "MTY1ODk3MDI5MSwwMDAwMDAwMDFjYWUwYjc0MDMxMjVmOTJlNzc2MzMwYTlhYjZkOWE3",
   "tracks": [
     {
       "added_at": "2022-07-08 04:02:00",
@@ -43,8 +43,28 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Moon Cabin",
-        "url": "https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg"
+        "name": "Interludes For The Dead (feat. Neal Casal)",
+        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        },
+        {
+          "name": "Neal Casal",
+          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+        }
+      ],
+      "duration_ms": 565240,
+      "name": "Saturday's Children (feat. Neal Casal)",
+      "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Hungersite",
+        "url": "https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m"
       },
       "artists": [
         {
@@ -52,25 +72,9 @@
           "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 395013,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Megagem",
-        "url": "https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 393360,
-      "name": "Mucho",
-      "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -139,8 +143,104 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Natural Evolution of Consciousness",
-        "url": "https://open.spotify.com/album/7oTK70UwrJTNwGwJ9cGKNT"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 451253,
+      "name": "How Long...",
+      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Microdosio",
+        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 331570,
+      "name": "Cubensis",
+      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Megagem",
+        "url": "https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 393360,
+      "name": "Mucho",
+      "url": "https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Tumbleweed",
+        "url": "https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4"
+      },
+      "artists": [
+        {
+          "name": "Big Something",
+          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Tumbleweed",
+      "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Moon Cabin",
+        "url": "https://open.spotify.com/album/2yBCrmF3Cv2kqLFLc6kOxg"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 395013,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/0oGnHTdtPTgTqTJVeWw0EU"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
+      },
+      "artists": [
+        {
+          "name": "Aqueous",
+          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+        }
+      ],
+      "duration_ms": 579373,
+      "name": "Kitty Chaser (Explosions)",
+      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "River Drift",
+        "url": "https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ"
       },
       "artists": [
         {
@@ -148,25 +248,105 @@
           "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
         }
       ],
-      "duration_ms": 478360,
-      "name": "Jamflowman",
-      "url": "https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts"
+      "duration_ms": 342111,
+      "name": "River Drift",
+      "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Spafford",
-        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
+        "name": "Don't Say Goodnight Just Yet",
+        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
       },
       "artists": [
         {
-          "name": "Spafford",
-          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
         }
       ],
-      "duration_ms": 263198,
-      "name": "Electric Taco Stand",
-      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
+      "duration_ms": 354127,
+      "name": "Don't Say Goodnight Just Yet",
+      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Tracking Buffalo Through the Bathtub",
+        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
+      },
+      "artists": [
+        {
+          "name": "The Big Wu",
+          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
+        }
+      ],
+      "duration_ms": 532666,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Circles Around the Sun",
+        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
+      },
+      "artists": [
+        {
+          "name": "Circles Around The Sun",
+          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
+        }
+      ],
+      "duration_ms": 357053,
+      "name": "Babyman",
+      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Joyfunk Is Dead",
+        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 173105,
+      "name": "New Eyes",
+      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Joyfell",
+        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
+      },
+      "artists": [
+        {
+          "name": "Underground Springhouse",
+          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
+        }
+      ],
+      "duration_ms": 308798,
+      "name": "Joyfell",
+      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Just a Little",
+        "url": "https://open.spotify.com/album/3T1ehbNdVLYuXw279GohoO"
+      },
+      "artists": [
+        {
+          "name": "SunSquabi",
+          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
+        }
+      ],
+      "duration_ms": 370666,
+      "name": "Just a Little",
+      "url": "https://open.spotify.com/track/0PixrKu6hDBnpMEWnWaJg9"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -187,24 +367,8 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 451253,
-      "name": "How Long...",
-      "url": "https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Hungersite",
-        "url": "https://open.spotify.com/album/1wETfTNS1qbWxCJ1cxYY3m"
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os"
       },
       "artists": [
         {
@@ -212,45 +376,25 @@
           "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
         }
       ],
-      "duration_ms": 426602,
-      "name": "Hungersite",
-      "url": "https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH"
+      "duration_ms": 401213,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Interludes For The Dead (feat. Neal Casal)",
-        "url": "https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh"
+        "name": "Casino Cabaret",
+        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
       },
       "artists": [
         {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        },
-        {
-          "name": "Neal Casal",
-          "url": "https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu"
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
         }
       ],
-      "duration_ms": 565240,
-      "name": "Saturday's Children (feat. Neal Casal)",
-      "url": "https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Joyfell",
-        "url": "https://open.spotify.com/album/3taJMjKeTca6PUkHrcclWj"
-      },
-      "artists": [
-        {
-          "name": "Underground Springhouse",
-          "url": "https://open.spotify.com/artist/4v4aFPF4LTWeZOR5agOPMt"
-        }
-      ],
-      "duration_ms": 308798,
-      "name": "Joyfell",
-      "url": "https://open.spotify.com/track/3Gd2W0XPOcpQdMZ1fMQo0I"
+      "duration_ms": 448385,
+      "name": "Mr. Scientist",
+      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -275,114 +419,50 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Tracking Buffalo Through the Bathtub",
-        "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
+        "name": "Spafford",
+        "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
       },
       "artists": [
         {
-          "name": "The Big Wu",
-          "url": "https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0"
+          "name": "Spafford",
+          "url": "https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV"
         }
       ],
-      "duration_ms": 532666,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
+      "duration_ms": 263198,
+      "name": "Electric Taco Stand",
+      "url": "https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Joyfunk Is Dead",
-        "url": "https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7"
+        "name": "Natural Evolution of Consciousness",
+        "url": "https://open.spotify.com/album/7oTK70UwrJTNwGwJ9cGKNT"
       },
       "artists": [
         {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
         }
       ],
-      "duration_ms": 173105,
-      "name": "New Eyes",
-      "url": "https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ"
+      "duration_ms": 478360,
+      "name": "Jamflowman",
+      "url": "https://open.spotify.com/track/2XyVlq12Nc38bJA22014Ts"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/2aFgqnVwmGCfQnhXODX0os"
+        "name": "Selections, Vol. 1",
+        "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
       },
       "artists": [
         {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+          "name": "Cycles",
+          "url": "https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS"
         }
       ],
-      "duration_ms": 401213,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/52cNWMjV7pwVsWDzjD3cgx"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
-      },
-      "artists": [
-        {
-          "name": "Backup Planet",
-          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Microdosio",
-        "url": "https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 331570,
-      "name": "Cubensis",
-      "url": "https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1"
-      },
-      "artists": [
-        {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
-        }
-      ],
-      "duration_ms": 579373,
-      "name": "Kitty Chaser (Explosions)",
-      "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Circles Around the Sun",
-        "url": "https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy"
-      },
-      "artists": [
-        {
-          "name": "Circles Around The Sun",
-          "url": "https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH"
-        }
-      ],
-      "duration_ms": 357053,
-      "name": "Babyman",
-      "url": "https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH"
+      "duration_ms": 731509,
+      "name": "Get out of Your Head",
+      "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -403,98 +483,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Don't Say Goodnight Just Yet",
-        "url": "https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe"
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
       },
       "artists": [
         {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+          "name": "Tauk",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
         }
       ],
-      "duration_ms": 354127,
-      "name": "Don't Say Goodnight Just Yet",
-      "url": "https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4"
-      },
-      "artists": [
-        {
-          "name": "Big Something",
-          "url": "https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Tumbleweed",
-      "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "The Werks",
-        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
-      },
-      "artists": [
-        {
-          "name": "The Werks",
-          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
-        }
-      ],
-      "duration_ms": 456631,
-      "name": "Duck Farm",
-      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
-      },
-      "artists": [
-        {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Off Leash",
-        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 462830,
-      "name": "Off Leash",
-      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Just a Little",
-        "url": "https://open.spotify.com/album/3T1ehbNdVLYuXw279GohoO"
-      },
-      "artists": [
-        {
-          "name": "SunSquabi",
-          "url": "https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "Just a Little",
-      "url": "https://open.spotify.com/track/0PixrKu6hDBnpMEWnWaJg9"
+      "duration_ms": 327541,
+      "name": "Mokuba",
+      "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
+        "name": "Off Leash",
+        "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
+      },
+      "artists": [
+        {
+          "name": "The Magic Beans",
+          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
+        }
+      ],
+      "duration_ms": 462830,
+      "name": "Off Leash",
+      "url": "https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
         "name": "Dopapod",
         "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
@@ -524,57 +540,57 @@
           "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
         }
       ],
-      "duration_ms": 247106,
-      "name": "Fannie",
-      "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Phone.Keys.Wallet",
-        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
       },
       "artists": [
         {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
         }
       ],
-      "duration_ms": 139773,
-      "name": "Stacy's on the Lake",
-      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+      "duration_ms": 306840,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+        "name": "Element",
+        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
       "artists": [
         {
-          "name": "Tauk",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+          "name": "Backup Planet",
+          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
         }
       ],
-      "duration_ms": 327541,
-      "name": "Mokuba",
-      "url": "https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk"
+      "duration_ms": 215653,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "River Drift",
-        "url": "https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ"
+        "name": "The Werks",
+        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
       "artists": [
         {
-          "name": "Twiddle",
-          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+          "name": "The Werks",
+          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
         }
       ],
-      "duration_ms": 342111,
-      "name": "River Drift",
-      "url": "https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7"
+      "duration_ms": 456631,
+      "name": "Duck Farm",
+      "url": "https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -595,50 +611,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "The Werks",
-        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
       },
       "artists": [
         {
-          "name": "The Werks",
-          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
         }
       ],
-      "duration_ms": 412707,
-      "name": "Galactic Passport",
-      "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Scary Blankets",
-        "url": "https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh"
-      },
-      "artists": [
-        {
-          "name": "Mungion",
-          "url": "https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK"
-        }
-      ],
-      "duration_ms": 558079,
-      "name": "Myrtle",
-      "url": "https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Casino Cabaret",
-        "url": "https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco"
-      },
-      "artists": [
-        {
-          "name": "The Magic Beans",
-          "url": "https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH"
-        }
-      ],
-      "duration_ms": 448385,
-      "name": "Mr. Scientist",
-      "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+      "duration_ms": 247106,
+      "name": "Fannie",
+      "url": "https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -655,46 +639,6 @@
       "duration_ms": 186763,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Blow You Away",
-        "url": "https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Hardin",
-          "url": "https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22"
-        },
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        },
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 289612,
-      "name": "Blow You Away",
-      "url": "https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -731,34 +675,66 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
+        "name": "The Werks",
+        "url": "https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG"
       },
       "artists": [
         {
-          "name": "Backup Planet",
-          "url": "https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD"
+          "name": "The Werks",
+          "url": "https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs"
         }
       ],
-      "duration_ms": 433720,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8"
+      "duration_ms": 412707,
+      "name": "Galactic Passport",
+      "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Giant Something",
-        "url": "https://open.spotify.com/album/4s8yfx0H0V18KwAgJj20Ob"
+        "name": "Scary Blankets",
+        "url": "https://open.spotify.com/album/0yYqSumt1RNjNJDnt1OnHh"
       },
       "artists": [
         {
-          "name": "Aqueous",
-          "url": "https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn"
+          "name": "Mungion",
+          "url": "https://open.spotify.com/artist/4qIgyXFMEaFl3HmABtjNfK"
         }
       ],
-      "duration_ms": 362786,
-      "name": "Dig it Good",
-      "url": "https://open.spotify.com/track/0JDLm3OWl6o1kBhLTEogz8"
+      "duration_ms": 558079,
+      "name": "Myrtle",
+      "url": "https://open.spotify.com/track/3w58LambC0n9cuwxJ0wuXW"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Natural Mind",
+        "url": "https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj"
+      },
+      "artists": [
+        {
+          "name": "The Fritz",
+          "url": "https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8"
+        }
+      ],
+      "duration_ms": 505786,
+      "name": "Fact from Fiction",
+      "url": "https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Jambands Ruined My Life",
+        "url": "https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU"
+      },
+      "artists": [
+        {
+          "name": "The Mantras",
+          "url": "https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji"
+        }
+      ],
+      "duration_ms": 375939,
+      "name": "Kinetic Bump",
+      "url": "https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -772,15 +748,31 @@
           "url": "https://open.spotify.com/artist/79iSQLNRiPa93oo3yYxAmN"
         }
       ],
-      "duration_ms": 383826,
-      "name": "Enjoy the Ride",
-      "url": "https://open.spotify.com/track/4EAZKkjcKYdjm2Ms0cL1Mm"
+      "duration_ms": 200266,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/3q4QhuBKrbdBw55m1JC2T0"
     },
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Selections, Vol. 1",
-        "url": "https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7"
+        "name": "Phone.Keys.Wallet",
+        "url": "https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 139773,
+      "name": "Stacy's on the Lake",
+      "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/1XmsC5vZ8s9kLp0RqYHN3y"
       },
       "artists": [
         {
@@ -788,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS"
         }
       ],
-      "duration_ms": 731509,
-      "name": "Get out of Your Head",
-      "url": "https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY"
+      "duration_ms": 341875,
+      "name": "Chapanga",
+      "url": "https://open.spotify.com/track/4h2SJ0PCKNa6y02KofNSIm"
     },
     {
       "added_at": "2022-06-23 13:45:43",

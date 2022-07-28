@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-104 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+105 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/6vuQJMjP5BC4Wyrq6mpVlb) | [ICO〜霧の中の旋律〜](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 | 2021-12-15 |  |
 | [Castlevania](https://open.spotify.com/track/664qR3uQQOlRVIr2bTzJQz) | [Michiru Yamane](https://open.spotify.com/artist/6yHzqH70UbRHmoTOcEBmRz), [Jun Irie](https://open.spotify.com/artist/5JqskDaiPYXK7suG5avAiC), [Play! Orchestra](https://open.spotify.com/artist/0GYcXLXJH56tMNErPW6Wfg) | [Castlevania](https://open.spotify.com/album/4RSVZeOGgBwv3z0l7lHpIT) | 6:50 | 2021-12-15 |  |
 | [City of Rome](https://open.spotify.com/track/6ZXa4Ztf2itEtbTRNUDYAP) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin’s Creed: The Best of Jesper Kyd](https://open.spotify.com/album/3wZlREjJIfZoXPskuiire7) | 5:33 | 2021-12-15 |  |
+| [Colored Engine](https://open.spotify.com/track/2U832A0zdb8OABhBmFjlWS) | [Joel Schoch](https://open.spotify.com/artist/6jDyAH1lGJdLV9rfEFgeGH) | [Far: Lone Sails](https://open.spotify.com/album/0WqpTTuUTg5jwnHC3raWgU) | 3:01 | 2022-07-27 |  |
 | [Crash Bandicoot Main Theme](https://open.spotify.com/track/73gyiXLAKUUtX8sAiE2gGV) | [Vicarious Visions Audio](https://open.spotify.com/artist/57McP1QXbAqhD2M1oQICzB) | [Music from Crash Bandicoot N\. Sane Trilogy](https://open.spotify.com/album/2erZbQwABnyWVwQ8FK0UAb) | 0:48 | 2021-12-15 |  |
 | [Crypteque](https://open.spotify.com/track/0wydxbEaB3KSKJstJVhTG5) | [Danny Baranowsky](https://open.spotify.com/artist/2CivYlBeDSjMj9Azw9cIHB) | [Crypt of the Necrodancer \(Original Game Soundtrack\)](https://open.spotify.com/album/3nZQnXN0pPRe4QccJXHPS6) | 2:45 | 2021-12-15 |  |
 | [Dance of the Moonlight Jellies](https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS) | [ConcernedApe](https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2) | [Stardew Valley \(Original Game Soundtrack\)](https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk) | 1:50 | 2022-01-04 |  |

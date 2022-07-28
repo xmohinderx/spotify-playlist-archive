@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 152485,
       "name": "Call (S&R)",
       "url": "https://open.spotify.com/track/4FstujySEAxUrrCZJ44fzn"
@@ -951,7 +951,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 100465,
       "name": "empire state of mind - slowed + reverb",
       "url": "https://open.spotify.com/track/4dc1yIxU50feaV6TscXney"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 129287,
       "name": "I Miss You 2 - Slowed and Reverb",
       "url": "https://open.spotify.com/track/4h2JCQFzIhhKnpRVPiygHe"
@@ -1715,6 +1715,14 @@
         {
           "name": "Robinson",
           "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
+        },
+        {
+          "name": "Slowed Radio",
+          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
         }
       ],
       "date_added": "2022-07-15",
@@ -1971,7 +1979,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 120403,
       "name": "On Her Own (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/7If5tD4wQaZr2FKDBX7MLY"
@@ -2299,7 +2307,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 250403,
       "name": "slippin' to you - slowed + reverb remix",
       "url": "https://open.spotify.com/track/1DquVGwnTyGBauyHqyEsDH"
@@ -2623,7 +2631,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 229260,
       "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
@@ -2725,7 +2733,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 147577,
       "name": "Wrap Me In Plastic - Slowed Down Version",
       "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"

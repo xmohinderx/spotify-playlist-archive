@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-457 songs - 1 day 2 hr 38 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+460 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beginnings](https://open.spotify.com/track/02NddgoemFd0ImJLtl2SAy) | [Bon Bruit](https://open.spotify.com/artist/0coLWs3rGDAnTiOPloePue) | [Beginnings](https://open.spotify.com/album/4aDQKCP3xdm9mWv5bWEjxk) | 3:19 | 2020-10-08 |  |
 | [Behind the World](https://open.spotify.com/track/03VnvcUaAxCkmtk2YrTlZb) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Clear Language](https://open.spotify.com/album/6mETnED5m2z3EPeZ5Gxk7T) | 4:06 | 2019-06-19\* | 2020-08-07 |
 | [Between Planets](https://open.spotify.com/track/0CgRVRJbaVu2DKSbatJeln) | [Radical Blue](https://open.spotify.com/artist/5EXIwQ7w4WohTiKbmCqavs) | [Between Planets](https://open.spotify.com/album/4FE4fEl20wmVhtj9ZmU5Dq) | 2:54 | 2020-10-08 | 2021-11-19 |
+| [bewildered](https://open.spotify.com/track/3YszK66xCFReY90ys3jP6o) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [bewildered](https://open.spotify.com/album/2KZxDKcrrH3a9hdvgxfXNN) | 2:42 | 2022-07-27 |  |
 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2019-05-26\* | 2019-08-13 |
 | [Big Sleep](https://open.spotify.com/track/6ZEfWrG6f2LCm3gs03Ugsj) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Big Sleep](https://open.spotify.com/album/5sxwUVTxRO8Dh4mXj0MiMe) | 4:25 | 2021-01-18 |  |
 | [Blanketed in Snow a Place Returned](https://open.spotify.com/track/3V3oTPr7vkzWzxZR5rn1e9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Radiance & Submission](https://open.spotify.com/album/4pyYb5Mh4EB9j17yr9NJ6I) | 3:50 | 2019-05-26\* | 2019-06-19 |
@@ -99,6 +100,7 @@
 | [Day 5: For Carol](https://open.spotify.com/track/3JjeC1epY5y2Jysxn5FVCB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Tobie Tripp](https://open.spotify.com/artist/01QCmol7KmMumj4PVfu8Cn) | [5 Day Mischon](https://open.spotify.com/album/7fxmKgApcmXOVOlXuNEsQL) | 6:34 | 2020-01-03 | 2020-11-06 |
 | [Daylight Goodbye](https://open.spotify.com/track/4hWzvk7BjZ2GXKLhfwj1cp) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:50 | 2019-05-26\* | 2019-06-19 |
 | [De Fléche](https://open.spotify.com/track/5vymVJ2WUlLnMeQqrgwQx8) | [Les Manger Tous](https://open.spotify.com/artist/5p3d3CgBYh41oPKWPPKNsV) | [De Fléche](https://open.spotify.com/album/70Zk7g4HLQtc3zu827RltG) | 3:53 | 2020-01-03 | 2021-11-26 |
+| [deep wild](https://open.spotify.com/track/138ntruMbI8Yp3FRYH1qm5) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [deep wild](https://open.spotify.com/album/5YRoRvEeZSXtUDNQ2aGRSh) | 2:32 | 2022-07-27 |  |
 | [Deliverance](https://open.spotify.com/track/0inD1pyAgjkhFgB0RxnuDS) | [Avery Young](https://open.spotify.com/artist/1Uc5aI4Mz5c9SPUEjUga29) | [Still Waters](https://open.spotify.com/album/1IuaImavIC1ZBkDSMOudZL) | 3:59 | 2019-06-27 | 2021-09-03 |
 | [Den inre skogen](https://open.spotify.com/track/0Zl6KnmirT1PeGZvAZY9T1) | [Thomas Jackson](https://open.spotify.com/artist/41stF0r3WopxZKcDOh8yB6) | [Den inre skogen](https://open.spotify.com/album/64zeCjhSkwRDzVF6TvOwlc) | 3:49 | 2020-04-13 |  |
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
@@ -223,7 +225,7 @@
 | [Levare](https://open.spotify.com/track/6XDJJwtxkhbqYWteeKS20P) | [ANDRIEU](https://open.spotify.com/artist/32H3Drf443gMaVe3XskfEs) | [Levare](https://open.spotify.com/album/0dQxSbvAwp8SNSAG3fPvTJ) | 1:49 | 2021-02-18 |  |
 | [Light in the Fog](https://open.spotify.com/track/7A3vuGQKAUXlROjgo1L59k) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [Sound Therapy Ambient Compilation, Vol\. 1](https://open.spotify.com/album/1mH2d032QQlX3GLb14qdwA) | 3:04 | 2019-06-19\* | 2020-08-07 |
 | [Light the Night](https://open.spotify.com/track/2POh75IGOgdHVi9cXeSKiy) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 4:52 | 2019-05-26\* | 2020-01-09 |
-| [Light Year](https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 3:54 | 2019-09-14 |  |
+| [Light Year](https://open.spotify.com/track/1C2JiKNMjv8FaZlrgwObBJ) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Light Year](https://open.spotify.com/album/2uEPdEPr1HkwxgHqJwecAn) | 3:54 | 2019-09-14 | 2022-07-28 |
 | [Lighthouse](https://open.spotify.com/track/6krgLzxDrIi1VdmEpfxEOw) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Ocean Rift](https://open.spotify.com/album/2CPT2GlZIqi2hlsYKzyNvF) | 5:43 | 2019-05-26\* | 2019-06-19 |
 | [Limitless](https://open.spotify.com/track/5QGNwI8U3o9mQg7RR3yOPj) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Limitless](https://open.spotify.com/album/1RXrGrbNghycihEnA8Sghl) | 2:45 | 2019-12-31 |  |
 | [Limo A](https://open.spotify.com/track/6Mdl6iN712uxm8vlQxOH4A) | [Explorador Sonico](https://open.spotify.com/artist/0auAk2bDx8dTiTPoZcVaeY) | [Explorador Sonico](https://open.spotify.com/album/6VEPnAbRv9GmCi2QGH25tD) | 1:40 | 2019-07-12 | 2020-01-09 |
@@ -349,6 +351,7 @@
 | [Snowfields](https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Snowfields](https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5) | 2:48 | 2022-04-07 |  |
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-05-26\* | 2019-06-19 |
 | [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* |  |
+| [Solatium](https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Solatium](https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw) | 2:06 | 2022-07-27 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2020-01-03 | 2021-09-21 |
 | [Someday](https://open.spotify.com/track/5zOetBDO9NONS4KnIBXtnx) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 4:48 | 2019-12-11 |  |
 | [Someone Else](https://open.spotify.com/track/1cR7s0ghhOj56nhTjwSIRO) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Someone Else](https://open.spotify.com/album/0lc2UIElzXydvM4NFtHbby) | 4:07 | 2019-06-19\* | 2020-12-02 |

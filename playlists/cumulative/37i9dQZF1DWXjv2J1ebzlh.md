@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,195 songs - 3 day 7 hr 22 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,196 songs - 3 day 7 hr 26 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,6 +1191,7 @@
 | [Çilli](https://open.spotify.com/track/2eVb8xLtovTzz7YWv19plN) | [Lale Belkıs](https://open.spotify.com/artist/6WkIJVBk1eCUTKR0YG0sdK) | [En İyileriyle Lale Belkıs](https://open.spotify.com/album/17SzWutXFMzwnd5hsxWaOo) | 3:46 | 2022-06-09 |  |
 | [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 | 2022-06-09 |  |
 | [Üsküdara Giderken](https://open.spotify.com/track/45XWkOHMgKsrSXj81yiOcn) | [Mustafa Özkent](https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4) | [Mustafa Özkent Ve Orkestrası Gençlik İle El Ele](https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz) | 2:02 | 2022-07-12 |  |
+| [Šta Je, Tu Je](https://open.spotify.com/track/4Z30YBD3OB9ta9fx1By67C) | [Ljupka Dimitrovska](https://open.spotify.com/artist/2I1OIHidhZ0RWteBoThlS2) | [Ljupka](https://open.spotify.com/album/6dbVwSfxnv8lFBnRzxrbqG) | 3:37 | 2022-07-27 |  |
 | [กำนันผันเงิน](https://open.spotify.com/track/7gPaAl4ikigCdx9vyVCBLp) | [เพลิน พรหมแดน](https://open.spotify.com/artist/1XP5ht9alZg5xd0hFbCSRz) | [อาตี๋สักมังกร \(Original Vinyl Sound\)](https://open.spotify.com/album/07JWqg6JTvR7ojOOGCymA5) | 4:41 | 2022-07-12 |  |
 | [ขนมจีนน้ำยา](https://open.spotify.com/track/0jb5EOyElacBhH7xh7vos6) | [รุ่งเพชร แหลมสิงห์](https://open.spotify.com/artist/6IfpoZE4ildTajCRUVbUFl) | [รักเธอจนเซ่อ](https://open.spotify.com/album/1ele3rS5t3P3dsl3LbMGXU) | 3:52 | 2022-07-12 |  |
 | [คึกลิดคิดลึก](https://open.spotify.com/track/0LkwXCtQ93zRS9p2IUBIDn) | [เพลิน พรหมแดน](https://open.spotify.com/artist/1XP5ht9alZg5xd0hFbCSRz) | [อาตี๋สักมังกร \(Original Vinyl Sound\)](https://open.spotify.com/album/07JWqg6JTvR7ojOOGCymA5) | 4:55 | 2022-07-12 |  |

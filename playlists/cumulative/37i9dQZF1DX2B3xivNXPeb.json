@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/7nDYw1nNAW4dAqgmW2W3tq"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 305115,
       "name": "Automatic Driver",
       "url": "https://open.spotify.com/track/2AltKq4Mv43AgcdYdMtyTy"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 233493,
       "name": "Be In Love",
       "url": "https://open.spotify.com/track/4pCgWcsFaqtNX6IXhoDjZY"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 266859,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 204428,
       "name": "Caught Up & Confused",
       "url": "https://open.spotify.com/track/26LYCq0lA8HT3cCmaXHSAI"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 237464,
       "name": "Forbidden",
       "url": "https://open.spotify.com/track/0D34YQPdyGB3GW8xPuJ9F0"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 178298,
       "name": "Friends",
       "url": "https://open.spotify.com/track/18RdChpgvaAO7GXDjLks2B"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Greener",
       "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 155303,
       "name": "Head And Heart On Fire",
       "url": "https://open.spotify.com/track/4rqe64hyIfoMfiBcvVZqfT"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 218321,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/30ip6JBD07Pf1eBfHqXosG"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 156680,
       "name": "HOLIDAY FROM REALITY",
       "url": "https://open.spotify.com/track/37sOPR3sWcMhVlcRVC79N2"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 216160,
       "name": "Kitchen Sunset",
       "url": "https://open.spotify.com/track/7vIvKcdZ9FqUZ8rgAbK5ge"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 213880,
       "name": "Little Of Your Love",
       "url": "https://open.spotify.com/track/4DyGLsS1c7mQAlMxPFW0sW"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 165789,
       "name": "Move on Up - Single Edit",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212446,
+      "name": "Pretty Shining People",
+      "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
+    },
+    {
+      "album": {
         "name": "Pure Desire / Loosen Up",
         "url": "https://open.spotify.com/album/3J95vIMwdAUouqR2vekhJ0"
       },
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 206173,
       "name": "Pure Desire",
       "url": "https://open.spotify.com/track/7aYYqWsMiZaKOlvIj3KxY8"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-28",
       "duration_ms": 185186,
       "name": "Tears Dry On Their Own",
       "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw"

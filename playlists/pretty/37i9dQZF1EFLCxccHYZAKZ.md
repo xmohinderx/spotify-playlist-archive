@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZhCwBHDbutA33WuZDmYFP">Natali Noor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 34 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 34 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLCxccHYZAKZ.md) - [plain]
 | 26 | [Never Mind \(feat\. Elsa Levahn\)](https://open.spotify.com/track/69oO90qEp9gtJAYAcM6PhU) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [Elsa Levahn](https://open.spotify.com/artist/3V48vwiLD8FTN7N65jQWe2) | [Never Mind \(feat\. Elsa Levahn\)](https://open.spotify.com/album/6txRMwdPk43hP0Q7B5Os98) | 3:30 |
 | 27 | [Follow My Lead](https://open.spotify.com/track/5OslK7ffEGzBSoYmqKizp4) | [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Follow My Lead](https://open.spotify.com/album/7DMfbl78axtdRQBc9grc0L) | 3:15 |
 | 28 | [Dance For Me](https://open.spotify.com/track/73l6SThNBdr2f48TD9lzeN) | [Josh Charm](https://open.spotify.com/artist/0LXZQiNCmHoNhMgJqPu1Va) | [Dance For Me](https://open.spotify.com/album/0FNbpjAfQWgejuAlKTapB1) | 3:14 |
-| 29 | [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 2:26 |
-| 30 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 29 | [Policeman](https://open.spotify.com/track/26RmJET3Qbk9hMJWG89lVs) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k) | [Policeman](https://open.spotify.com/album/1wK2qJAZACswet6W4Id2ft) | 3:33 |
+| 30 | [your girlfriend´s in the bathroom, i´m trying to kiss you](https://open.spotify.com/track/2NHbMEJ3lozGJ4fRG8UIVl) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [mags](https://open.spotify.com/album/5RAlBASgQpO3Vuoq2KMHnX) | 2:26 |
 | 31 | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/track/4xNbZHwy05mDPp8aDJSVzG) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [XOV](https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv) | [Winter Is Over \(Sar Oomad Zemestoon\)](https://open.spotify.com/album/4Tfp5bhONESSxLwwKFR9Jr) | 3:20 |
 | 32 | [Arcade Games](https://open.spotify.com/track/2A9dSXcHoFBZb978YuVg5J) | [Saga Back](https://open.spotify.com/artist/6FRCzy12LTGeWQs6mKfX3R) | [all is not well in heaven](https://open.spotify.com/album/2P5RCDWAC8l1qmnrj6bch3) | 3:06 |
 | 33 | [Avalanche](https://open.spotify.com/track/7iYuUOOv1knNy9SFF1PdQj) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/1Ehf6Qpd3skQE5P8yV6U6l) | 3:08 |
 | 34 | [Cold Rush](https://open.spotify.com/track/0sfbJ6Eeq70PNGk4Rm8ns7) | [GOLDZBROUGH](https://open.spotify.com/artist/6vEDfcV5oesdmJzfTlidkz), [Bahareh](https://open.spotify.com/artist/3RbRHpD8ELMTsuEWGsUbiy) | [Cold Rush](https://open.spotify.com/album/2AVOS3JCamykZmbs5uQTUF) | 2:57 |
 
-Snapshot ID: `Mjc2NDgwODAsMDAwMDAwMDBkYzllZDMzYzdhZDYxMmFhOWFmMDkxY2Y2ZDJmYTNiMQ==`
+Snapshot ID: `Mjc2NDk1MjAsMDAwMDAwMDAwNzdhMjdjMGMwNjExMDg0N2U0M2JkYmM2MzA3YTUwOQ==`

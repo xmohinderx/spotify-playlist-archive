@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-865 songs - 1 day 20 hr 25 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+866 songs - 1 day 20 hr 28 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Come nelle canzoni](https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Volare](https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C) | 3:32 | 2021-12-05 | 2022-03-21 |
 | [Come nelle canzoni](https://open.spotify.com/track/0lwo64aO3YEjcnJGTFHYR1) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Come nelle canzoni](https://open.spotify.com/album/1vgpkjxI8EHz3DESgmXEN9) | 3:32 | 2021-11-07 | 2021-12-05 |
 | [Come Stai](https://open.spotify.com/track/6mmBVpItqlggbdKOD9zOu9) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [ORO BLU](https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U) | 2:46 | 2022-03-05 | 2022-03-13 |
-| [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL) | 3:17 | 2022-06-30 |  |
+| [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-07-27 |  |
+| [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4dNo8BDY0ZU7fJhiTQZuIq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3KdmwHZ4sZ3IClfMmjs1DL) | 3:17 | 2022-06-30 | 2022-07-28 |
 | [Concedimi](https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ) | 3:09 | 2021-03-27\* | 2021-04-07 |
 | [Copacabana](https://open.spotify.com/track/0Qs2VJgDHPBJBvtfCqQcox) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:49 | 2022-06-11 | 2022-06-16 |
 | [Copacabana \(feat\. Paky\)](https://open.spotify.com/track/7rjR36OF6ZPXc6bdoNYKBp) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:14 | 2022-07-23 |  |

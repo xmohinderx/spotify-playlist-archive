@@ -4,7 +4,7 @@
 
 > living in beatopia
 
-1,751 songs - 3 day 21 hr 41 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,754 songs - 3 day 21 hr 48 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Dirty AF1s](https://open.spotify.com/track/6fFSDDBO5Gc9Y2i2CA8vZI) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Dirty AF1s](https://open.spotify.com/album/7kmC7MX2wr5FvAqUrcQqsU) | 2:17 | 2019-07-30\* | 2019-08-08 |
 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 | 2019-07-30\* | 2020-10-20 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2021-08-14 |
+| [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-27 |  |
 | [Disco Man](https://open.spotify.com/track/7GDjBYc8Q3li08dXaZcMB9) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Disco Man](https://open.spotify.com/album/5IkAmFP38hsfWKA5Jv2XQ1) | 3:12 | 2020-05-28 | 2020-08-04 |
 | [Disco Man \- Hot Chip Remix](https://open.spotify.com/track/2n5HOpuWYtS7DeJGGURFhK) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Disco Man \(Hot Chip Remix\)](https://open.spotify.com/album/2JUeCvO4eODPZfh3SGbJCE) | 6:10 | 2021-05-03 | 2021-05-19 |
 | [Ditch](https://open.spotify.com/track/34b7J43bozWsfeo4sqEViN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/5iz5CAzEp8SumnBmlKdn7d) | 3:30 | 2019-09-24 | 2020-05-22 |
@@ -780,6 +781,7 @@
 | [i wanna slam my head against the wall](https://open.spotify.com/track/4dVR8jBG0RQ7jbdi8GRkyd) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i wanna slam my head against the wall](https://open.spotify.com/album/19frp2ct1Jd1vE6biNvP7n) | 1:56 | 2021-03-18 | 2021-06-05 |
 | [I Want U](https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [I Want U](https://open.spotify.com/album/0AuX0J4cRITW4Xzejp1e8d) | 3:33 | 2021-11-13 | 2022-01-08 |
 | [i want, doesn't get](https://open.spotify.com/track/04W4goRWBFhucHH5XmHMvt) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [i want, doesn't get](https://open.spotify.com/album/3uN3Syyka3yAaYdfzDPhoi) | 2:31 | 2022-06-17 | 2022-06-28 |
+| [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-27 |  |
 | [I'll Call You Mine](https://open.spotify.com/track/0cH6s5bw1BS4hL06hmUO6F) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:21 | 2021-05-03 | 2022-04-09 |
 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 | 2019-07-30\* | 2019-10-10 |
 | [I'll Just Dance](https://open.spotify.com/track/3Y3wmxmyrBkKBGWXfEjIsM) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [I'll Just Dance](https://open.spotify.com/album/2krExFjxvjUi1SU6Ek0Da3) | 2:41 | 2020-12-23 | 2021-03-06 |
@@ -1502,6 +1504,7 @@
 | [Supersonic](https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8) | 2:29 | 2021-03-14 | 2021-08-14 |
 | [Superstar](https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Superstar](https://open.spotify.com/album/4ava4cUWadeQ9Li3bS8LOr) | 2:52 | 2021-02-09 | 2021-04-16 |
 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 | 2020-12-23 | 2021-03-14 |
+| [Superstar](https://open.spotify.com/track/1i5x7b2IgzcD5yzlCYFqeC) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Superstar](https://open.spotify.com/album/0VhzPZfo4r4m1typH5Y2v9) | 2:21 | 2022-07-27 |  |
 | [Supplier!](https://open.spotify.com/track/7hsUgZdfC4j8sqskVr4DUH) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Supplier!](https://open.spotify.com/album/33ElCjoNIgH95UPjR3yw2c) | 2:07 | 2020-05-08 | 2020-08-21 |
 | [Sure](https://open.spotify.com/track/6gE07whLj5Zis7MnL2Q4nm) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sure](https://open.spotify.com/album/4YDaXqdjZQMJQ0RIBEGlcg) | 4:09 | 2019-07-30\* | 2019-09-06 |
 | [Surf](https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 5:30 | 2021-03-26 | 2021-08-14 |
