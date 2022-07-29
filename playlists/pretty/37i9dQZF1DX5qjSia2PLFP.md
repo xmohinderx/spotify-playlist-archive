@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,265 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,286 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 13 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 |
 | 14 | [Perfect Nature](https://open.spotify.com/track/3FAWQ9ajByND1Ygb1LWqe4) | [SAUCITO](https://open.spotify.com/artist/5haQqpRZ1ZqP8ZVcXDGzlK) | [Perfect Nature](https://open.spotify.com/album/249AgQEmB6ZfgHHNL3AB1q) | 2:32 |
 | 15 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 |
-| 16 | [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 |
+| 16 | [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 |
 | 17 | [NOT 4 NOTHIN](https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [NOT 4 NOTHIN](https://open.spotify.com/album/30hwDLUSj4GDp5qiMKmkt0) | 2:02 |
 | 18 | [Try Hard](https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Try Hard](https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH) | 2:28 |
 | 19 | [Lesson Learned](https://open.spotify.com/track/3rahkSYrtJdTqUVK9NiHt0) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Beautiful Michi Girls](https://open.spotify.com/album/66FVuwCSWibe0HDy99KKmo) | 2:31 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 26 | [Kink](https://open.spotify.com/track/4lT9LpmBmwobnTbTxsIJIe) | [Sækyi](https://open.spotify.com/artist/6I1XGf08ZvqDUBCgpRjqzB) | [Sunset Demo's](https://open.spotify.com/album/6FnEryZ0Sm2VqRSpI7J8qz) | 2:39 |
 | 27 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 |
 | 28 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 |
-| 29 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 |
+| 29 | [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 |
 | 30 | [Playlist](https://open.spotify.com/track/31wQ5gVCksslClnTPXmRZB) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Playlist](https://open.spotify.com/album/3Dh8wVPKowAxy0aGYZIVAA) | 2:50 |
 | 31 | [Spring Cleaning](https://open.spotify.com/track/2JkXhRy52nxXS6Fgx8kimn) | [Bairi](https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP) | [Spring Cleaning](https://open.spotify.com/album/7IJW92NOjPepBorGcCSJBQ) | 2:12 |
 | 32 | [Pretty](https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:49 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 43 | [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 |
 | 44 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 |
 | 45 | [Ask Me](https://open.spotify.com/track/5E05jOPOyLiay7qzuoUSUh) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Sky](https://open.spotify.com/album/39y6x5fxGd1G15EzFvUgAs) | 3:03 |
-| 46 | [MARINE](https://open.spotify.com/track/1pcVEepUUQqdoIdPvL0V4f) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [MARINE](https://open.spotify.com/album/0C387797zlHjOa4MFRU35T) | 3:22 |
+| 46 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 |
 | 47 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 |
 | 48 | [If I Had A Dollar \(feat\. Benjamin Earl Turner\)](https://open.spotify.com/track/62wCJ41qEAobGOxrtdgo6X) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Benjamin Earl Turner](https://open.spotify.com/artist/2TUB08yLNa9nOKoPDxh7mv) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:13 |
 | 49 | [Outta This World](https://open.spotify.com/track/7G07BhMd2IrDD23C0MHsww) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Outta This World](https://open.spotify.com/album/4AQJLbmwplWDQ5KvU4WJFG) | 2:45 |
 | 50 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 |
 
-Snapshot ID: `MTY1NjA0NTMwMSwwMDAwMDAzYTAwMDAwMTgxOTNmZGVkYWUwMDAwMDE4MTkzZjBhNjVj`
+Snapshot ID: `MTY1NjA0NTMwMSwwMDAwMDAwMGNjZTNmZWJmOWQ5MzRmMTZkZmMzYTYxYzNjNjU0MGI4`

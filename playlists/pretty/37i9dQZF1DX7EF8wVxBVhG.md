@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,642 likes - 142 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,848 likes - 142 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 141 | [Binaural Gamma Sinus \- Fountain of youth](https://open.spotify.com/track/5AHgXRruc0s1h1avTEomFP) | [Wind Down](https://open.spotify.com/artist/3jSG5CX5rtcwoC7FNWRznb) | [Yoga Science \- 70 Hz \- L 170 Hz](https://open.spotify.com/album/3JQprSzPG9CjHtXjNVgKvA) | 1:48 |
 | 142 | [Binaural Gamma Sinus Smooth](https://open.spotify.com/track/1Mb9AEykvFRq17KcIgtJ3v) | [Relax Sound Hub](https://open.spotify.com/artist/4g69iUFVXXHTCtzFC9V7pQ) | [Binaural Gamma Sinus Smooth](https://open.spotify.com/album/5akLn1Xm10Ei7cm2f5uBVB) | 1:48 |
 
-Snapshot ID: `MTY1ODE1NTQ5NSwwMDAwMDA0NTAwMDAwMTgyMTFjNGYwZDYwMDAwMDE4MTk2MTdjNDA1`
+Snapshot ID: `MTY1ODE1NTQ5NSwwMDAwMDAwMGQ0YTEzMGM4NzEyMGYwNjdkYzg1ZGEzNTM4Zjc5MmRk`

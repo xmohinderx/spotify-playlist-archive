@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,275 likes - 55 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,294 likes - 55 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 54 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 |
 | 55 | [Kolli We Ehsasi](https://open.spotify.com/track/7sRtD4UFjJWp6XqY6bNbQu) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [Kolli We Ehsasi](https://open.spotify.com/album/79Xf67nMR0UTUMgrBUT32F) | 6:37 |
 
-Snapshot ID: `MTY1ODkxMTQ5NSwwMDAwMDE1ZTAwMDAwMTgyM2VkNDk3MTIwMDAwMDE4MDdjN2U0NjBj`
+Snapshot ID: `MTY1ODkxMTQ5NSwwMDAwMDAwMGZiNjQ3ZDc2OWFjOGYxZDg1NDNlN2UyODVkMjU0Mzlm`

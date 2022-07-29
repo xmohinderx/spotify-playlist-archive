@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Stefflondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,647 likes - 63 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,819 likes - 63 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 5 | [Life Changes](https://open.spotify.com/track/4dw1l0ZLN9EEkmCLB8hZuH) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Life Changes](https://open.spotify.com/album/7crDqBXXcdjuTSCIKquIs8) | 3:28 |
 | 6 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 7 | [25/8](https://open.spotify.com/track/7zf3p3U5Vong4dUzVwjsYz) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [25/8](https://open.spotify.com/album/7CNof8ZrHnlEqxbffen5Nh) | 3:46 |
-| 8 | [Verified Choppa 2](https://open.spotify.com/track/7HrHYsLaa8JHY9S7EETKfb) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/3kdeQrwrOoiN3UGtB5B9gp) | 2:18 |
+| 8 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 |
 | 9 | [Fling It Back](https://open.spotify.com/track/6DNaScbqaxX3YK2Yr2z8l5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [New Motion](https://open.spotify.com/album/4hHBmKgaOVfKlZYc7Ag1ly) | 2:24 |
 | 10 | [Breaking News](https://open.spotify.com/track/48OnqvjzYG8RYuyjXGquDg) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 3:27 |
 | 11 | [Street Cred](https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Street Cred](https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB) | 2:30 |
 | 12 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 13 | [Static](https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Static](https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O) | 2:36 |
-| 14 | [Promise](https://open.spotify.com/track/40w9HRXfnkLTDLGcX8gNDp) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/7DAL1tGwj7NiK4u5hNZYsu) | 3:39 |
+| 14 | [Promise](https://open.spotify.com/track/42IAZoTfXbQXeMWDBkra8N) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Shane Skull](https://open.spotify.com/artist/3GahvoijDtBfjSOMdGfAP9), [Wire Brain](https://open.spotify.com/artist/0LdPRyepUIR7OOnQ3HbUuR) | [Promise](https://open.spotify.com/album/4Oe28W0jCoC1g7GdyQbe7y) | 3:39 |
 | 15 | [CIRCLE](https://open.spotify.com/track/0hhqESgp2xsMfvypocWzHl) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [CIRCLE](https://open.spotify.com/album/6RMgO1zXuxZ1Cu2YswENrL) | 2:42 |
 | 16 | [Protocol](https://open.spotify.com/track/1tn87Abu4ZTptxvpp6Zd8V) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Protocol](https://open.spotify.com/album/2dXHrlSfG2Lp5OOtd5J73q) | 3:19 |
 | 17 | [King](https://open.spotify.com/track/6UgkzIOa5TBl6azcnLlgoK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:11 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 21 | [Ambition](https://open.spotify.com/track/1oopyRuSfoSG3ijwHRVFW1) | [Yaksta](https://open.spotify.com/artist/5vtwMQzntImyhUesG7tt2n) | [Ambition](https://open.spotify.com/album/68DmzoZlEVeCN5kyhbIXxh) | 3:41 |
 | 22 | [Not](https://open.spotify.com/track/2A6nUIicRakdC5VwkytMa9) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Quenga](https://open.spotify.com/artist/3SCF5O7tDI61AtzlE5z8Vv) | [The Prodigy](https://open.spotify.com/album/3ddPKANxkFGX7tDYFZUa14) | 3:33 |
 | 23 | [Section](https://open.spotify.com/track/2R6wZFWXBF2rRIbvQirzjP) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Section](https://open.spotify.com/album/51ygRTQJLBz3v6EDqvsL6K) | 2:14 |
-| 24 | [Coke](https://open.spotify.com/track/0d2fLvOnX6Odmv8RUz9QMc) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6XLQoAN43bJqjgJZ6uFit5) | 2:55 |
+| 24 | [Coke](https://open.spotify.com/track/0OTbL9Oa4FDYuP7uMeA140) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Coke](https://open.spotify.com/album/6cV8ukJjYOPAsfBRvFdIkZ) | 2:55 |
 | 25 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 |
 | 26 | [Top Prize](https://open.spotify.com/track/4Ku4NfHQafSvZXW0kme5KJ) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Top Prize](https://open.spotify.com/album/0ilTzFiPldFMIxfRNDFOxq) | 3:12 |
 | 27 | [Silence](https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:35 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 38 | [I Am](https://open.spotify.com/track/2XPIIi8TnoZMMzBE5RNOAm) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dunw3ll](https://open.spotify.com/artist/0GXid8LlvA2twALSqLKYQ0) | [I Am](https://open.spotify.com/album/3yG8BUXM4bnQ8pH3KgHS2G) | 2:40 |
 | 39 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
 | 40 | [23](https://open.spotify.com/track/6OhkL5aQSgWJvK8LaF1Tp9) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [23](https://open.spotify.com/album/5Zg5KiHgz1YoToU23hTpsZ) | 2:24 |
-| 41 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
+| 41 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 |
 | 42 | [World Domination](https://open.spotify.com/track/2mQ7elEN9o4tTRBrlKTVxO) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [World Domination](https://open.spotify.com/album/3evS0r0PAiZ10wgUOVVhzT) | 2:58 |
 | 43 | [Levels](https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Levels](https://open.spotify.com/album/4eSSKHuHQj7SaH45cPSrSk) | 2:56 |
 | 44 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 46 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 47 | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Go Down Deh \(feat\. Shaggy and Sean Paul\)](https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD) | 2:34 |
 | 48 | [Crook](https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [Crook](https://open.spotify.com/album/42swaElolib5BwSAtaZYQl) | 4:05 |
-| 49 | [I Wish \- Raw](https://open.spotify.com/track/2U110D3cv4pWCi04QMQcF1) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/7KUycbr4gbHJnpW4RmoC2B) | 2:55 |
+| 49 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
 | 50 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 51 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
 | 52 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 62 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 63 | [Sorry](https://open.spotify.com/track/0lpBRGQCaWT1PJQb36AEEO) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS) | [I Am Great](https://open.spotify.com/album/6i3SZiuix81nwtdGQ6Yh0r) | 3:25 |
 
-Snapshot ID: `MTY1NTQ2MTg0MCwwMDAwMDExNDAwMDAwMTgxNzEzNzA1NzUwMDAwMDE4MTcwZjcyNWFl`
+Snapshot ID: `MTY1NTQ2MTg0MCwwMDAwMDAwMDA0ODA2NTY4Y2RlNjRmZGJiYTA2ZWRmNjVkMzg3NWJj`

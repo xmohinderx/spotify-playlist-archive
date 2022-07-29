@@ -4,7 +4,7 @@
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL?si=lJDj7G4CQzGuSE9m9TLILg&nd=1">Kate Bush</a>
 
-297 songs - 16 hr 36 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
+300 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 | 2021-12-08 | 2022-01-06 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2022-07-06 |  |
 | [Cruz](https://open.spotify.com/track/0yDr111P0vlLbUPyCJWgu6) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:49 | 2022-02-02 | 2022-03-09 |
-| [crying in my car](https://open.spotify.com/track/7o1XtPp4otuCj5oTAXt55z) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:57 | 2022-07-06 |  |
+| [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 | 2022-07-06 |  |
+| [crying in my car](https://open.spotify.com/track/7o1XtPp4otuCj5oTAXt55z) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:57 | 2022-07-06 | 2022-07-29 |
 | [crying on my birthday](https://open.spotify.com/track/4DMr7EhBi7GsjJZahnuFRI) | [COLE](https://open.spotify.com/artist/3QYpKiqpeL1EKF2NF4kOMA) | [crying on my birthday](https://open.spotify.com/album/4PGr5dJwJNa6lUcpP9fiY6) | 3:43 | 2022-05-04 | 2022-06-01 |
 | [Crystal Clear](https://open.spotify.com/track/7EJZ0Vf9K7b0d8jNq0C3zV) | [High15](https://open.spotify.com/artist/1m7tgi2gXk1x4dxllqj53X) | [Crystal Clear](https://open.spotify.com/album/1aegXvcv0ujElqAmhh7xO0) | 3:12 | 2022-01-05 | 2022-07-07 |
 | [CRZY](https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:11 | 2022-02-02 | 2022-03-09 |
@@ -192,7 +193,8 @@
 | [My Sweetheart](https://open.spotify.com/track/5schlwLwrIpOYFdYysH2rF) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [My Sweetheart](https://open.spotify.com/album/3ai92s3XjgbeJhUdaSjI2J) | 3:33 | 2022-02-02 | 2022-03-09 |
 | [Naked](https://open.spotify.com/track/5mUt693rCV1aMGHIuMe0pu) | [Jess Day](https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk) | [Naked](https://open.spotify.com/album/2NIRrSHvc3qbJ4LWrLAYtJ) | 3:12 | 2022-02-02 | 2022-03-09 |
 | [Never Be Cool](https://open.spotify.com/track/0QKoR5PA6JWFUPuyQtcRJ4) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [Never Be Cool](https://open.spotify.com/album/54Rm5bjHgjgvvZB6BpN9Mr) | 3:22 | 2022-05-04 | 2022-06-01 |
-| [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 | 2022-07-06 |  |
+| [New Friends](https://open.spotify.com/track/35qRwSUu7Z5bvqTE7iGyxi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:58 | 2022-07-06 |  |
+| [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 | 2022-07-06 | 2022-07-29 |
 | [New York](https://open.spotify.com/track/5bGTC0fJjJ2W4FwxSTVvZo) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu) | [New York](https://open.spotify.com/album/3zPivWoN3l92IvD5QxI7Uv) | 3:46 | 2021-12-08 | 2022-01-06 |
 | [Ngithande](https://open.spotify.com/track/1agIW3bi7CYFvFoPzOyeXF) | [Yemisi Fancy](https://open.spotify.com/artist/3y2n36KRSMi8SIyZ2QsiQo) | [100% HER Contemporary Songs](https://open.spotify.com/album/3dhsJaOxFtezDOVzPoLRkY) | 3:24 | 2021-12-08 | 2022-01-06 |
 | [no escribo canciones](https://open.spotify.com/track/46433oXquJsUD6bdTcz784) | [Covi Quintana](https://open.spotify.com/artist/2sSqkk6j5gRa7MzeQqMfIN) | [Mañana Te Escribo Otra Canción](https://open.spotify.com/album/13fka9ET1RGpC4jQx2W9kE) | 3:09 | 2021-12-08 | 2022-01-06 |
@@ -220,7 +222,8 @@
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2022-03-08 | 2022-04-07 |
 | [Quarry](https://open.spotify.com/track/0G9v9DMNKxWk8w25CWLilK) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Quarry](https://open.spotify.com/album/2Z48McZfltPdZbp4dASRdp) | 2:52 | 2022-02-02 | 2022-03-09 |
 | [Queendom](https://open.spotify.com/track/798IhdHAXOCR7DMMvMLEoJ) | [Gaby Lagarda](https://open.spotify.com/artist/3LY0g4TIbn4eV95b9qEaiU), [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Queendom](https://open.spotify.com/album/76279loDXx2jeh64txwq8B) | 2:42 | 2022-06-01 |  |
-| [Rae Street](https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/4UlYlmh4MZXio3RQc9Jmco) | 4:31 | 2022-07-06 |  |
+| [Rae Street](https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/4UlYlmh4MZXio3RQc9Jmco) | 4:31 | 2022-07-06 | 2022-07-29 |
+| [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 | 2022-07-06 |  |
 | [Real Enough To Feel Good](https://open.spotify.com/track/4nOg2QiFCMJN5R124BQiZg) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 5:06 | 2021-12-08 | 2022-01-06 |
 | [Renegade](https://open.spotify.com/track/33dLscuyKhP40qkGbnjqWr) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [The Lullaby Album](https://open.spotify.com/album/7JX8l0n0eOW12vwuhxFucz) | 3:23 | 2021-12-08 | 2022-01-06 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-06-01 | 2022-07-07 |

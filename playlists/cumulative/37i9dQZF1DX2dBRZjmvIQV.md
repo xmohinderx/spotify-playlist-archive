@@ -4,7 +4,7 @@
 
 > Sounds to wrap you in relaxation and ease\. Curated by the <a href="https://mamaglowfoundation.org/">Mama Glow Foundation</a> advancing reproductive justice and birth equity through education, advocacy and the arts \| Cover: A Beautiful Chorus
 
-50 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
+51 songs - 3 hr 34 min - [published](https://open.spotify.com/playlist/31D8aL5P5FRmx6GLWrdxLs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [February 3rd](https://open.spotify.com/track/3c5gLGgwRrE7sQYSNHCXEj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:02 | 2022-03-08 |  |
 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 | 2022-03-08 |  |
 | [Frequency](https://open.spotify.com/track/5mymZaPY1A5x7or2TB7TJ3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:50 | 2022-03-08 |  |
-| [Friday Morning](https://open.spotify.com/track/5gYGXwHud7JFReP9W61wGt) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 6:50 | 2022-03-08 |  |
+| [Friday Morning](https://open.spotify.com/track/2M45IIrFLjMgsNSSxee31h) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 6:50 | 2022-03-08 |  |
+| [Friday Morning](https://open.spotify.com/track/5gYGXwHud7JFReP9W61wGt) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/42j41uUwuHZT3bnedq2XtM) | 6:50 | 2022-03-08 | 2022-07-29 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2022-03-08 |  |
 | [Hazel Chandeliers](https://open.spotify.com/track/0tzvbbYFoxZS3ggIaEa1Ob) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:26 | 2022-03-08 |  |
 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 | 2022-03-08 |  |

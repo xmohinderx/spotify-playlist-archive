@@ -75,7 +75,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 301533,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
@@ -93,10 +93,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF"
+    },
+    {
+      "album": {
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
+      },
+      "artists": [
+        {
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292973,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
     },
     {
       "album": {
@@ -111,10 +129,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299213,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09"
+    },
+    {
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301320,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
     },
     {
       "album": {
@@ -129,10 +165,28 @@
       ],
       "date_added": "2020-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213268,
       "name": "All Because Of You",
       "url": "https://open.spotify.com/track/6jV9QS9mBYFoiZF8GA6uKk"
+    },
+    {
+      "album": {
+        "name": "JetSetJazz",
+        "url": "https://open.spotify.com/album/3AHn8d2XYYLNCPO4BKbMaW"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "All Because Of You",
+      "url": "https://open.spotify.com/track/7bZTJI3YNXUnC6Hpqk2wpX"
     },
     {
       "album": {
@@ -271,7 +325,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331141,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi"
@@ -463,7 +517,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271413,
       "name": "But Beautiful",
       "url": "https://open.spotify.com/track/1wIpio4Lb8FHbn0BDVQFTZ"
@@ -521,10 +575,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198146,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "album": {
@@ -597,10 +669,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292288,
       "name": "Don't Take Your Love from Me",
       "url": "https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6hKvRPUWKXik0wl3EW7TW2"
     },
     {
       "album": {
@@ -615,7 +705,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243506,
       "name": "Dream",
       "url": "https://open.spotify.com/track/1ULuglVRXbgfd5LlzSkegz"
@@ -669,10 +759,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361306,
       "name": "Every Time We Say Goodbye",
       "url": "https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W"
+    },
+    {
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361306,
+      "name": "Everytime We Say Goodbye",
+      "url": "https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL"
     },
     {
       "album": {
@@ -687,7 +795,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA"
@@ -769,6 +877,24 @@
       "duration_ms": 173360,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
+    },
+    {
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
     },
     {
       "album": {
@@ -929,10 +1055,32 @@
       ],
       "date_added": "2020-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/3ThCPINLVGtNGFhxLC4slT"
+    },
+    {
+      "album": {
+        "name": "OK Crooner",
+        "url": "https://open.spotify.com/album/13yp37PL2hnN1fP25AFB6J"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Sunny Holiday",
+          "url": "https://open.spotify.com/artist/2dX157YnbGJAnNclK9HU0X"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6y80WSyy5Neu2CsrqjQszz"
     },
     {
       "album": {
@@ -1207,10 +1355,32 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262105,
       "name": "It Had to Be You (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/2z9UjX6HD7UOFkZiiUA3hj"
+    },
+    {
+      "album": {
+        "name": "Partners",
+        "url": "https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262106,
+      "name": "It Had to Be You (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/3tRdPcBfIQrJnadxPuVoMJ"
     },
     {
       "album": {
@@ -1272,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "Nat \"King\" Cole & Me",
+        "url": "https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128520,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV"
+    },
+    {
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/33zMJxjE9NOKnTG0Vpa48D"
       },
@@ -1283,7 +1471,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128520,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/0pbEgA27VE15Y7uKOQzzfF"
@@ -1373,7 +1561,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279346,
       "name": "Let's Make The Most Of A Beautiful Thing",
       "url": "https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG"
@@ -1398,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
+      },
+      "artists": [
+        {
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+    },
+    {
+      "album": {
         "name": "Li'l Darlin",
         "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
       },
@@ -1409,7 +1615,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 195706,
       "name": "Li'l Darlin",
       "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
@@ -1434,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299506,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
+    },
+    {
+      "album": {
         "name": "Little Paradise",
         "url": "https://open.spotify.com/album/4F829opFHrnJRKD4ozNcq5"
       },
@@ -1445,7 +1669,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299533,
       "name": "Little Paradise",
       "url": "https://open.spotify.com/track/0eyAeKA9YPiuzsgm2fiYIp"
@@ -1597,10 +1821,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i"
+    },
+    {
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "album": {
@@ -1695,10 +1937,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-08",
+      "date_removed": null,
       "duration_ms": 121039,
       "name": "Monday",
       "url": "https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb"
+    },
+    {
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310826,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC"
     },
     {
       "album": {
@@ -1713,7 +1973,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310826,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/3azuowB4mADwvYCumctRrs"
@@ -1739,6 +1999,24 @@
     {
       "album": {
         "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262026,
+      "name": "Moonlight Serenade",
+      "url": "https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc"
+    },
+    {
+      "album": {
+        "name": "Flirting With Twilight",
         "url": "https://open.spotify.com/album/0eMgf6ydxMDMjoSQXDyQwn"
       },
       "artists": [
@@ -1749,7 +2027,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262026,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/3xXrF1nomzDLLMngfZNmKw"
@@ -1785,7 +2063,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272085,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm"
@@ -1893,7 +2171,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
@@ -1911,10 +2189,36 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278266,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/4FCwx5XYXU5WQhfstq7Hdq"
+    },
+    {
+      "album": {
+        "name": "Breakfast on the Morning Tram (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Matt Skelton",
+          "url": "https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA"
+        },
+        {
+          "name": "Dave Chamberlain",
+          "url": "https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279376,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn"
     },
     {
       "album": {
@@ -1936,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "Nobody but Me (Deluxe)",
+        "url": "https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+      "url": "https://open.spotify.com/track/4JEC2RIrXV1owJNVKanIAT"
+    },
+    {
+      "album": {
         "name": "On an Evening in Roma (Sott'er Celo de Roma)",
         "url": "https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ"
       },
@@ -1947,7 +2269,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162520,
       "name": "On an Evening in Roma (Sott'er Celo de Roma)",
       "url": "https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T"
@@ -1965,10 +2287,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129127,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ"
+    },
+    {
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129127,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/2wZTxjnKdOpgPLi85ItFlr"
     },
     {
       "album": {
@@ -1983,10 +2323,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209960,
       "name": "Our Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW"
+    },
+    {
+      "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4sG2lkGzzYu7CAT0Z2V8Vu"
     },
     {
       "album": {
@@ -2062,6 +2420,24 @@
     },
     {
       "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/4knZD1tqBLuQv3VkT8JCLP"
       },
@@ -2073,7 +2449,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3CPhIqN93yTKFdAKSo3FXh"
@@ -2091,7 +2467,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 271333,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
@@ -2109,10 +2485,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337866,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/0pDCbKItqLcigSeWI8OCVN"
+    },
+    {
+      "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337866,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
     },
     {
       "album": {
@@ -2315,7 +2709,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
@@ -2337,6 +2731,24 @@
       "duration_ms": 361253,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/0pc5TOv8jxVxI57rGvlqay"
+    },
+    {
+      "album": {
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
+      },
+      "artists": [
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361253,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "album": {
@@ -2391,10 +2803,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-30",
+      "date_removed": null,
       "duration_ms": 327000,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j"
+    },
+    {
+      "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
     },
     {
       "album": {
@@ -2427,7 +2857,7 @@
       ],
       "date_added": "2020-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213476,
       "name": "THERE YOU ARE (SECOND CHANCE)",
       "url": "https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC"
@@ -2445,7 +2875,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263106,
       "name": "These Things You Are To Me",
       "url": "https://open.spotify.com/track/22rek75QknVrI85tEIUF7a"
@@ -2463,7 +2893,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 396920,
       "name": "Time Alone",
       "url": "https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w"
@@ -2481,10 +2911,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243773,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/4OMCEhWBZrNE3Gfa1pJxse"
+    },
+    {
+      "album": {
+        "name": "Quiet Nights",
+        "url": "https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243773,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/6SADSETc4qePUy1XdLRaUC"
     },
     {
       "album": {
@@ -2511,10 +2959,40 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE"
+    },
+    {
+      "album": {
+        "name": "Shadow Train",
+        "url": "https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Taylor Eigsti",
+          "url": "https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176495,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq"
     },
     {
       "album": {
@@ -2689,10 +3167,28 @@
       ],
       "date_added": "2022-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 358581,
       "name": "You're All That Matters To Me",
       "url": "https://open.spotify.com/track/1jdr7bSQLHztdLqdoNbi7Y"
+    },
+    {
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358581,
+      "name": "You're All That Matters To Me",
+      "url": "https://open.spotify.com/track/4vM5nHW71NnMSkWYyFYSfE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd"

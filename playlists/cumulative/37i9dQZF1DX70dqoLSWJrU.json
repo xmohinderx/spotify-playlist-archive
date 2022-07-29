@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127626,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 155600,
       "name": "Blue And Sentimental - 1947 Version",
       "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 189533,
       "name": "Blues In My Heart",
       "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134173,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/232xRyJH3MqaD7pumWRCWH"
@@ -1049,10 +1049,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160746,
       "name": "I'm Gonna Laugh You Out of My Life",
       "url": "https://open.spotify.com/track/7H41IRCgtzIyzSuZxQKByu"
+    },
+    {
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "I'm Gonna Laugh You Right Out Of My Life - Remastered",
+      "url": "https://open.spotify.com/track/7KKKRjw8cs7VL0NMsGJM4K"
     },
     {
       "album": {
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 153666,
       "name": "If I Knew Then (What I Know Now)",
       "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
@@ -1139,10 +1157,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167533,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/2j4h3GQnuPDiK04VsXdbvy"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
     },
     {
       "album": {
@@ -1157,7 +1193,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185000,
       "name": "In Love In Vain",
       "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216790,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/2zKcVjhrP5r8vwxmEaANUm"
@@ -1229,10 +1265,28 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198360,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2I5ldN3uVqEx5h87xxDmVo"
+    },
+    {
+      "album": {
+        "name": "Drinking Again",
+        "url": "https://open.spotify.com/album/1Yc1wrf2bgbRKcrrb7hZzA"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198360,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/6Ju6ic1OHvHbvf8VphSYhC"
     },
     {
       "album": {
@@ -1265,10 +1319,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210333,
       "name": "Just One More Chance - 1931 Single Version",
       "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+    },
+    {
+      "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204479,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC"
     },
     {
       "album": {
@@ -1283,7 +1355,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204479,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ"
@@ -1439,7 +1511,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "No More",
       "url": "https://open.spotify.com/track/0OhVyeMWNraRrgGPByQiWc"
@@ -1479,10 +1551,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167173,
       "name": "Once Upon a Summertime",
       "url": "https://open.spotify.com/track/20L0hFUNfeyLWOMr0M0yDv"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167200,
+      "name": "Once Upon A Summertime",
+      "url": "https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId"
     },
     {
       "album": {
@@ -1551,7 +1641,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145840,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/0T8zEgeg8gOnngidArMWuU"
@@ -1699,10 +1789,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167586,
       "name": "The End Of The World",
       "url": "https://open.spotify.com/track/7hCJBmVoSVPvPxiWTx82Yn"
+    },
+    {
+      "album": {
+        "name": "The End Of The World",
+        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
     },
     {
       "album": {
@@ -1743,7 +1851,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290426,
       "name": "The Thrill Is Gone",
       "url": "https://open.spotify.com/track/7GO1kqu9lTUWh5gkJbC2y0"
@@ -1761,10 +1869,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186106,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/67U4IqbrefNGF3f7kSV4Fj"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188560,
+      "name": "There Must Be A Way",
+      "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
     },
     {
       "album": {
@@ -1797,10 +1923,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183986,
       "name": "There's No Such Thing As Love",
       "url": "https://open.spotify.com/track/2YsnPlou8g7xdKDCguDOYc"
+    },
+    {
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "There's No Such Thing As Love",
+      "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
     },
     {
       "album": {
@@ -1869,7 +2013,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 301306,
       "name": "What's New",
       "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
@@ -1909,7 +2053,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
@@ -1952,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "Dear Lonely Hearts",
+        "url": "https://open.spotify.com/album/6knZwJ3Qp0uBe7NEiDIrTw"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145240,
+      "name": "Why Should I Cry Over You?",
+      "url": "https://open.spotify.com/track/0JXSCwJzN40D5z0hyGAXFZ"
+    },
+    {
+      "album": {
         "name": "To An Unforgettable Mother",
         "url": "https://open.spotify.com/album/36VYMZKmcfOpR61VfZxvjC"
       },
@@ -1963,7 +2125,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142005,
       "name": "Why Should I Cry Over You?",
       "url": "https://open.spotify.com/track/7HDxplMdwp2fBTAoRQaC94"
@@ -2057,10 +2219,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 184253,
       "name": "You Won't Be Satisfied (Until You Break My Heart) (with Les Brown & His Orchestra)",
       "url": "https://open.spotify.com/track/54V36AZbOVeYqMrW3gXBHn"
+    },
+    {
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        },
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404066,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
     },
     {
       "album": {
@@ -2095,7 +2279,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 404066,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6XqMv5pve2xbUwYGwm4KKO"

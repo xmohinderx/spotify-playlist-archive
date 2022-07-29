@@ -4,11 +4,12 @@
 
 > Mellow jazz to stay focused or unwind.
 
-220 songs - 13 hr 47 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
+221 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/39kAoyClkonK7qGZPNaJQz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2021-12-07 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 |  |
+| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2021-12-07 | 2022-07-29 |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2021-12-07 |  |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 |  |
 | [A Love Devine](https://open.spotify.com/track/5TyZn6zFqw8tA6S5qdMheG) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Stand](https://open.spotify.com/album/1LFfPnj2bH1O8D8FGyQhvt) | 2:21 | 2021-12-07 |  |

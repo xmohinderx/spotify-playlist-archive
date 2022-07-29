@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Skin On Skin
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,733 likes - 85 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,846 likes - 85 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 16 | [Startrack](https://open.spotify.com/track/7gMwTtOLh618Q8lzuYtkKo) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Rips](https://open.spotify.com/album/09eWNoDzf9gbdAg3bPaqJH) | 5:46 |
 | 17 | [Mythrill](https://open.spotify.com/track/0PcrE1lcR3mvZqM8K4IUUj) | [Yazzus](https://open.spotify.com/artist/0KWutsZ75Y4GvjcPTFnKXU) | [Mythrill](https://open.spotify.com/album/5MpDGP60CBRz5auI2XmRRe) | 6:12 |
 | 18 | [Bricks](https://open.spotify.com/track/32USvckVhWpGreJKB5Q4Um) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Bricks EP](https://open.spotify.com/album/4xeUF0jCtNurMrL3IPzxKO) | 7:12 |
-| 19 | [Bodies Of Water](https://open.spotify.com/track/4tAIZ4jqnYtuZwx5trVtbE) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Bodies Of Water](https://open.spotify.com/album/6IlPSsw7R1M7gA69yom1OY) | 5:04 |
+| 19 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 |
 | 20 | [Dancing in Berlin in 90S](https://open.spotify.com/track/7DM4O1uQO3WiRiZJm1zk81) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Never Ending Sounds](https://open.spotify.com/album/11bThZOv2PQOZBjumvIx8L) | 9:21 |
 | 21 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 |
 | 22 | [Bone Mics](https://open.spotify.com/track/5hi29SeDshZlOu96sWB76q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:34 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 26 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 |
 | 27 | [Metaphysical](https://open.spotify.com/track/308mW3tmRmWG5K3g6HVyl3) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Metaphysical](https://open.spotify.com/album/14yXH9auX3hfPGt2l7b7rS) | 5:03 |
 | 28 | [Lizard Den](https://open.spotify.com/track/0gdS1Bf65Q9Rm8Ps92uWpv) | [Manami](https://open.spotify.com/artist/3YY7kS1ZzdHKY7DcQ7KEoB) | [Lizard Den](https://open.spotify.com/album/5SNEHRYenRSwt6a0dsJNxB) | 5:07 |
-| 29 | [BOYZ](https://open.spotify.com/track/79ixYcSOhGVaG69GHfVOXJ) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/42RXpd1cxEckm91miDtiAs) | 4:00 |
+| 29 | [BOYZ](https://open.spotify.com/track/5UnNCMFboucIF78lnp1jkR) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [BOYZ](https://open.spotify.com/album/4tLBzhf9266srlw5qj6LnE) | 4:00 |
 | 30 | [Restore My Soul \- Remix](https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Restore My Soul \(Remix\)](https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs) | 4:32 |
 | 31 | [Sugar](https://open.spotify.com/track/3WVYDLSVgs1mnUsGeI0ezM) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Sugar](https://open.spotify.com/album/6aKsy0z4QRDDcAgoWp7Nvx) | 5:16 |
 | 32 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 38 | [U, My](https://open.spotify.com/track/1dMqof5wPCk7WbYCxogYeQ) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [U, My EP](https://open.spotify.com/album/4lVY6VBggb7mEfOhXUOovf) | 6:30 |
 | 39 | [Age of Love \- ARTBAT Rave Mix](https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB) | [Age of Love \(ARTBAT Rave Mix\)](https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK) | 7:25 |
 | 40 | [Storm 2022](https://open.spotify.com/track/39N9R61hAatOAIjBs2RH6z) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0), [Jam El Mar](https://open.spotify.com/artist/0UmSf9lDFeavYgD65VrtHs) | [Storm 2022](https://open.spotify.com/album/5yNnf0lpeWzEMzEjQT36xt) | 3:02 |
-| 41 | [Icaro](https://open.spotify.com/track/2TEPMRBEN4rQQ3pjbQhX2i) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Icaro](https://open.spotify.com/album/7i2VZpbn3G67So7TAgfDeJ) | 4:15 |
+| 41 | [Icaro](https://open.spotify.com/track/6JNNe1WA9uv8lj1Aee19tY) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Icaro](https://open.spotify.com/album/3GFtkFekTHoeJ0QuKE2RsQ) | 4:15 |
 | 42 | [Stay Out All Night \- Carl Cox Remix](https://open.spotify.com/track/4N6y6lAaIUYB359Uko8Yxm) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Stay Out All Night \(Remixes\)](https://open.spotify.com/album/2lxXGuqOgt9S6SywMfo5ea) | 6:28 |
 | 43 | [Rave Girl](https://open.spotify.com/track/0Q8O9vyX1X6tajbwXIYiFX) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Rave Girl EP](https://open.spotify.com/album/7aoxgkYsJfy2IdudBGzKjJ) | 7:48 |
 | 44 | [Crimson Arch](https://open.spotify.com/track/6kqLDMdqgbgCsLbsSlWRjo) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Crimson Arch](https://open.spotify.com/album/0BPMNld8mBFvWzuyj48v9y) | 4:48 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 52 | [X Axis](https://open.spotify.com/track/2KKSzccFD8HPxAaDzAJ9pB) | [Zaltsman](https://open.spotify.com/artist/64P9QlhICY8oF9DFPHHPco) | [X Axis](https://open.spotify.com/album/35s1aB0dcpa0fGRL8tCfof) | 4:38 |
 | 53 | [Back Fist](https://open.spotify.com/track/1oqNFRNkgn2UAK9aljDAV7) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0) | [Back Fist](https://open.spotify.com/album/7oBykGNzxt7WozvytnLghk) | 5:50 |
 | 54 | [Woohman](https://open.spotify.com/track/06MM3ZN5HKR3cBoNneLwsJ) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Speicher 119](https://open.spotify.com/album/4nrkHclhKjKWeJJOdR677C) | 5:41 |
-| 55 | [Blika](https://open.spotify.com/track/4xKV4wJS3u2ozJGPspw7pZ) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Blika](https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M) | 4:03 |
+| 55 | [Blika](https://open.spotify.com/track/5Jo4Y3kS3o6uXmtw5gHI2Z) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Woke Up Right Handed](https://open.spotify.com/album/6aK9NotwcbuNOwn6i6aUdH) | 4:03 |
 | 56 | [If I Die](https://open.spotify.com/track/5xNPAzaDPe0yB4RIfvFqRJ) | [Planetary Assault Systems](https://open.spotify.com/artist/7umQgFrDu3yrchEbFfJd60) | [Sky Scraping](https://open.spotify.com/album/6xsPCh9ptJbW0Qr0afy5L7) | 5:36 |
 | 57 | [Rock With Me](https://open.spotify.com/track/2BfFW4C5SIgbp33539WAah) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Rock With Me](https://open.spotify.com/album/7g7DbWfA0XSpsnFsyrvRlP) | 3:25 |
 | 58 | [Blue Dub](https://open.spotify.com/track/4V4SUQWZVLAIMi7w20AbKs) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Blue Dub](https://open.spotify.com/album/7bRVMZKvEX5QsGNq2FtAj3) | 6:55 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 84 | [The Future](https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [The Future](https://open.spotify.com/album/0HycV4qIkxuf5THTCTjA7p) | 7:08 |
 | 85 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 |
 
-Snapshot ID: `MTY1NzgzOTYwMCwwMDAwMDA4MjAwMDAwMTgxZmVmMGMyMjgwMDAwMDE4MWZkNmU2MWNl`
+Snapshot ID: `MTY1NzgzOTYwMCwwMDAwMDAwMDhkNWZhNTJiNWM2Y2VkYmNlMDM5YTE2YThkYTEwOWQ5`

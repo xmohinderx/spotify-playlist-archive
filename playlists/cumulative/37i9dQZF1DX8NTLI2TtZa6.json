@@ -390,6 +390,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY"
+    },
+    {
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195750,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP"
@@ -1676,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/1h5J39FupEgSwZn43lSqgp"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5"
       },
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154909,
       "name": "Her",
       "url": "https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH"
@@ -1705,10 +1741,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162173,
       "name": "Hidcote Garden",
       "url": "https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc"
+      },
+      "artists": [
+        {
+          "name": "Moments",
+          "url": "https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Hidcote Garden",
+      "url": "https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK"
     },
     {
       "album": {
@@ -1929,6 +1983,24 @@
     {
       "album": {
         "name": "In Between",
+        "url": "https://open.spotify.com/album/6I8xdZRKAvp3iwHyNPLIa5"
+      },
+      "artists": [
+        {
+          "name": "Frozen Silence",
+          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160261,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/1MkGNJtjgOH98OV1P2xt9M"
+    },
+    {
+      "album": {
+        "name": "In Between",
         "url": "https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil"
       },
       "artists": [
@@ -1939,7 +2011,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160261,
       "name": "In Between",
       "url": "https://open.spotify.com/track/20jCNFEkg7GZo64KKfgmY2"
@@ -2509,10 +2581,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa"
+    },
+    {
+      "album": {
+        "name": "Lost Words",
+        "url": "https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151761,
+      "name": "Lost Words",
+      "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
     },
     {
       "album": {
@@ -4219,7 +4309,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175311,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5"
@@ -5077,6 +5167,24 @@
     {
       "album": {
         "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb"
+    },
+    {
+      "album": {
+        "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts"
       },
       "artists": [
@@ -5087,7 +5195,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158500,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Yooo this is <a href="https://www.instagram.com/kaysan/?hl=en">FaZe Kaysan</a>, while I game, this is what I'm listening to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,707 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,785 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 42 | [Okay](https://open.spotify.com/track/3jweuceENR5zzn10LhcjPH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:36 |
 | 43 | [Crazy Story](https://open.spotify.com/track/1BNvadXnbiSf3ZofMMdDYK) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Grandson, Vol\. 1](https://open.spotify.com/album/5BAggP8hO7VWDSTKkNGyCi) | 2:26 |
 | 44 | [Pissed Me Off](https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Pissed Me Off](https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b) | 2:03 |
-| 45 | [Backseat Of The Rolls Truck](https://open.spotify.com/track/02klhHnYULKbtshTiSePOB) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Backseat Of The Rolls Truck](https://open.spotify.com/album/7v2uZkYs9mxYuAiHg7UZw8) | 2:35 |
+| 45 | [Backseat Of The Rolls Truck](https://open.spotify.com/track/20rVROIRP6UR5npeFCT6eW) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:35 |
 | 46 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
 | 47 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
 | 48 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 59 | [Brotherly Love \(Pt\. 2\) \(feat\. Dougie B & B\-Lovee\)](https://open.spotify.com/track/7awx72vZdHjV6xoCBveAK5) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Brotherly Love \(Pt\. 2\) \(feat\. Dougie B & B\-Lovee\)](https://open.spotify.com/album/2OJrFKnbxZ0J64YMjVMbfr) | 1:58 |
 | 60 | [Save Me](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 |
 
-Snapshot ID: `MTY1ODUwMjY5MSwwMDAwMDAyMzAwMDAwMTgyMjY3NmJiYjcwMDAwMDE4MTJhMDk3NGI0`
+Snapshot ID: `MTY1ODUwMjY5MSwwMDAwMDAwMDdjMTE2MDZjNjg0NWJlZDdhMDA3MGQzNTBhZGIzYTdm`

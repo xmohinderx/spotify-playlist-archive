@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop and a little bit of rap\. Cover: Nicky Youre
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,176 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,314 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 74 | [Strawberry Blonde](https://open.spotify.com/track/49C9gniR8HDECH8CCButxN) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Strawberry Blonde](https://open.spotify.com/album/6ZrqHQ8gOT6ubIRkmochSw) | 3:00 |
 | 75 | [Sunsick](https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Sunsick](https://open.spotify.com/album/6NHBiRrUCP6QGefUIH8KPG) | 2:25 |
 
-Snapshot ID: `MTY1ODQ3MTk0MCwwMDAwMDEzYTAwMDAwMTgyMjRhMTgwMDEwMDAwMDE4MjAzM2YzMTNk`
+Snapshot ID: `MTY1ODQ3MTk0MCwwMDAwMDAwMDUwYTIyZGU1NzI2ZjAyYTBjYzQyODE3ZmRjNTU3ZjAz`

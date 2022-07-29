@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: MoJaNaD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,509 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,548 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 4 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 |
 | 5 | [Haramt Aghani](https://open.spotify.com/track/0c2pXS4IL185gDEpqwgPUF) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Nai 1](https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6) | 5:20 |
 | 6 | [Daye3 Albi](https://open.spotify.com/track/5oGI0mFfViPH2i8sP8XnnS) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Daye3 Albi](https://open.spotify.com/album/0KYywGAwgeVKlWqAoohIw2) | 2:10 |
-| 7 | [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 |
+| 7 | [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 |
 | 8 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 |
 | 9 | [Lessa Bahinlha](https://open.spotify.com/track/5Hto3NaFsv1or3zn3GdfY3) | [Ramy Essam](https://open.spotify.com/artist/7axpCYU6YisPgZQXYzNzis) | [Lessa Bahinlha](https://open.spotify.com/album/428C46dH0EBtXIbzpeLSGO) | 3:27 |
 | 10 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 37 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 |
 | 38 | [Latina](https://open.spotify.com/track/42d62TnY6q3qVR5RiyaEps) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Latina](https://open.spotify.com/album/7mljCWuvJRbbTazyT8R4rR) | 3:06 |
 | 39 | [Mesh Ayzek Tegheeby](https://open.spotify.com/track/53Yk4qSPehpLV0tadM008N) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [Mesh Ayzek Tegheeby](https://open.spotify.com/album/7EAyzRoDL0zQwQjVNBarH6) | 2:53 |
-| 40 | [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 |
+| 40 | [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 |
 | 41 | [Shofy 7aly](https://open.spotify.com/track/6sl5f589BUW7wz9EWpJG9Q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/7jGcinboojeSI12RzVeMW5) | 3:29 |
 | 42 | [La Tlou' El Daw](https://open.spotify.com/track/0pHL3idFQ7AT944IFJQVH6) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [La Tlou' El Daw](https://open.spotify.com/album/3iyIcDBdCVnRHsN0zb6Q5h) | 3:50 |
 | 43 | [Nettat](https://open.spotify.com/track/4cwCGscTjO9FwgtRU9QIAe) | [Jubantouja](https://open.spotify.com/artist/7m05rEUUQiViUHo1IPHz8x) | [Nettat](https://open.spotify.com/album/5mb0OTZwNStZXnIdWu7l7B) | 3:45 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 | 54 | [Ouzoreny](https://open.spotify.com/track/7MklY2GT9V5Lnd8ieXfFQ4) | [Khaled Essam El Deen](https://open.spotify.com/artist/3syfdFK4iR0fZ1xur7rNao) | [Ouzoreny](https://open.spotify.com/album/3J14UoBBPGZluNbNbnsBCu) | 4:31 |
 | 55 | [Helwa Ya Baladi](https://open.spotify.com/track/16XFirWEReR8H21pJfIL49) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Helwa Ya Baladi](https://open.spotify.com/album/25t09XMGJxntx0Yk8H1bev) | 4:10 |
 
-Snapshot ID: `MTY1ODU4Mjc3MywwMDAwMDEwNDAwMDAwMTgyMmIzY2IwYTIwMDAwMDE4MjJiM2MwNjlm`
+Snapshot ID: `MTY1ODU4Mjc3MywwMDAwMDAwMGFmNTM5YWYxNmVhMzFmNWFlZTRiZDE2NThkZjA4MTcz`

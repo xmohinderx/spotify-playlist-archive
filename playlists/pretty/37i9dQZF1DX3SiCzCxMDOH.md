@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 
 > Find your focus with instrumental jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,355 likes - 186 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,382 likes - 186 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 160 | [Change of Heart](https://open.spotify.com/track/3Lw66iXGahJAT1anjgkt9E) | [Turtleneck Trio](https://open.spotify.com/artist/54QkrSdChFqOKNG4S9NRcf) | [Change of Heart](https://open.spotify.com/album/3k8gus1toU2ljnUynceNNY) | 4:51 |
 | 161 | [Come Rain or Come Shine](https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Come Rain or Come Shine](https://open.spotify.com/album/1tFgyR4GBYlizU5mbU9hSN) | 3:45 |
 | 162 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 |
-| 163 | [A Tribute To Oscar Peterson](https://open.spotify.com/track/0QFPEr4Sk1r9NAlJy5i5Hv) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT), [Edvin Fridolfsson](https://open.spotify.com/artist/0dm9f6OH0ImQjAywl6xgtK), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA) | [A Tribute To Oscar Peterson](https://open.spotify.com/album/2tF18D6WvNHWKqxhDbLyXw) | 3:05 |
+| 163 | [A Tribute To Oscar Peterson](https://open.spotify.com/track/3wd4T3N6Z2PdYMcAvnaBlT) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [W JAZZ TRIO](https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA), [Edvin Fridolfsson](https://open.spotify.com/artist/0dm9f6OH0ImQjAywl6xgtK) | [All The Things You Are](https://open.spotify.com/album/5cOvxmt5iLyz2c1Rm8Au75) | 3:05 |
 | 164 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 |
 | 165 | [I Remember Clifford](https://open.spotify.com/track/6taUJ3uoR0GoCGNe8LLwGQ) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 3:03 |
 | 166 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 177 | [Song For Sashou](https://open.spotify.com/track/6ATyL6qh9irGhLiL5sz02n) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Find The Way](https://open.spotify.com/album/2yRchatpprc3DnmCqL4Ybl) | 6:22 |
 | 178 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 |
 | 179 | [I Could Write A Book](https://open.spotify.com/track/7nbQBpnj4CfKEycYy1dNLT) | [Jacob Schwarz Trio](https://open.spotify.com/artist/4xN1VyTbKQakR98CT0NNfY) | [Jazz Nights](https://open.spotify.com/album/6RT1EEN4J9A229oyoZ6jHM) | 3:09 |
-| 180 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 |
+| 180 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 | 181 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 |
 | 182 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 183 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SiCzCxMDOH.md) - [plain]
 | 185 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 |
 | 186 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 |
 
-Snapshot ID: `MTY1NjQyMDg0OCwwMDAwMDA2NjAwMDAwMTgxYWE2MDUzYmYwMDAwMDE4MTRkOTdjNDMw`
+Snapshot ID: `MTY1NjQyMDg0OCwwMDAwMDAwMDM0MjEzNDM1NTY3Njk1Y2ZiNzYwYzcwM2Q1NTdhMTVl`

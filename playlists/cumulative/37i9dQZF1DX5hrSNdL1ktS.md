@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Steff
 
-85 songs - 4 hr 23 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
+86 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Swipe Up](https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Alan Marcos](https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Swipe Up](https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ) | 3:32 | 2022-05-06 |  |
 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 | 2022-01-07 |  |
 | [Toketeo](https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Toketeo](https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz) | 3:23 | 2022-01-07 |  |
-| [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-02-15 |  |
+| [Tu Foto](https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320) | 3:00 | 2022-06-30 |  |
+| [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-02-15 | 2022-07-29 |
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-01-07 |  |
 | [Ven](https://open.spotify.com/track/2tgJbpATqLIAjGpnLS71f1) | [Luisa Ferss](https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K) | [Ven](https://open.spotify.com/album/2H9tKoacyYJ0wrQvVLijzK) | 3:18 | 2022-02-15 |  |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-01-07 | 2022-05-07 |

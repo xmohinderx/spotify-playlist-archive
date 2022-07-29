@@ -397,6 +397,28 @@
     {
       "album": {
         "name": "Soca Engine",
+        "url": "https://open.spotify.com/album/1XZv3qPdcRhpyQXpULHedg"
+      },
+      "artists": [
+        {
+          "name": "Byron Lee",
+          "url": "https://open.spotify.com/artist/1qerVYQkyneFNgZfMKH6HX"
+        },
+        {
+          "name": "The Dragonaires",
+          "url": "https://open.spotify.com/artist/6lSdMYrQWXU22MBTq1qc0y"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Chutney Bachannal",
+      "url": "https://open.spotify.com/track/5P0X7qfDz1XsrlOi31vi1g"
+    },
+    {
+      "album": {
+        "name": "Soca Engine",
         "url": "https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv"
       },
       "artists": [
@@ -407,7 +429,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183533,
       "name": "Chutney Bachannal",
       "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
@@ -552,6 +574,24 @@
     },
     {
       "album": {
+        "name": "iShal",
+        "url": "https://open.spotify.com/album/3v6iti36iXjQ289j4zMcd1"
+      },
+      "artists": [
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121138,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/4GHN02Kv3PXDZM1a6IZP8X"
+    },
+    {
+      "album": {
         "name": "Force It Riddim",
         "url": "https://open.spotify.com/album/1846aL6BF1twe5PHfT1pha"
       },
@@ -563,7 +603,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122618,
       "name": "Dip",
       "url": "https://open.spotify.com/track/2NWKeFC8heQQ9AkxctKN4X"

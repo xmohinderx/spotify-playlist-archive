@@ -1415,10 +1415,28 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157333,
       "name": "There for You",
       "url": "https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh"
+    },
+    {
+      "album": {
+        "name": "There for You",
+        "url": "https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "There for You",
+      "url": "https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf"
     },
     {
       "album": {

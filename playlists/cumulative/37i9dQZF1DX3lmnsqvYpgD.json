@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183733,
       "name": "19",
       "url": "https://open.spotify.com/track/3co96BRiHMDnBp3Z0JkVYe"
+    },
+    {
+      "album": {
+        "name": "\u5c11\u723a\u5360\u5ee3\u64ad\u5287\u97f3\u6a02\u5168\u96c6",
+        "url": "https://open.spotify.com/album/2XJvwDGHnm9KugXTt75aD6"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "19",
+      "url": "https://open.spotify.com/track/3TJBMEcJrQe8xPVTwWnv6b"
     },
     {
       "album": {
@@ -98,6 +116,24 @@
     },
     {
       "album": {
+        "name": "All The Best (\u65b0\u66f2+\u7cbe\u9078)",
+        "url": "https://open.spotify.com/album/5upmPHTE6pbTvTRq64lzOv"
+      },
+      "artists": [
+        {
+          "name": "\u66f2\u5947",
+          "url": "https://open.spotify.com/artist/1sY4rzR1wpEYef57boBcPO"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Forever Friends",
+      "url": "https://open.spotify.com/track/3oGUAoSggTuEAl4cHloh47"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/0a483d1NL71v7TfeybhFRo"
       },
@@ -109,7 +145,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242946,
       "name": "Forever Friends",
       "url": "https://open.spotify.com/track/0iKCBpNIIdDj15XvaVq81n"
@@ -253,7 +289,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238586,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/0wQNgVsMZvtWrcFovZSCvI"
@@ -289,10 +325,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170333,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/04Wqlpuu7SasLagDEwyzi2"
+    },
+    {
+      "album": {
+        "name": "\u6797\u4e00\u5cf0\u7684\u5e8a\u982d\u6b4c",
+        "url": "https://open.spotify.com/album/6kERODjoPQKk2KyRrbillA"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/4DlfkJQyRHdEUztBA64vqf"
     },
     {
       "album": {
@@ -451,7 +505,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 318913,
       "name": "\u51fa\u8d70",
       "url": "https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU"
@@ -697,7 +751,7 @@
     {
       "album": {
         "name": "My Love",
-        "url": "https://open.spotify.com/album/3oAVjAtOmjrOlNOC5cwk3r"
+        "url": "https://open.spotify.com/album/0Rab0XcfiU6XntjxR5gzKL"
       },
       "artists": [
         {
@@ -708,6 +762,24 @@
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 246933,
+      "name": "\u5fc3\u4e82\u5982\u9ebb",
+      "url": "https://open.spotify.com/track/6Ntvb49Mctg777yOvGwsNc"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/3oAVjAtOmjrOlNOC5cwk3r"
+      },
+      "artists": [
+        {
+          "name": "Janice Vidal",
+          "url": "https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 246933,
       "name": "\u5fc3\u4e82\u5982\u9ebb",
       "url": "https://open.spotify.com/track/7xHHCahHre8K3vHpMd7ql0"
@@ -895,7 +967,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219000,
       "name": "\u672a\u4f86",
       "url": "https://open.spotify.com/track/4vZQRFmvaVuZ5yXiN5inrd"
@@ -985,7 +1057,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228530,
       "name": "\u71d5\u5c3e\u8776",
       "url": "https://open.spotify.com/track/2SLwPaJTN6B6zwcIwsuQAK"
@@ -1151,7 +1223,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241653,
       "name": "\u907f\u96e8",
       "url": "https://open.spotify.com/track/0qHGHRda6vroJzRgQO702Y"
@@ -1299,7 +1371,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141200,
       "name": "\u96ea\u6ac3 (Feat.\u9ec3\u53c8\u5357)",
       "url": "https://open.spotify.com/track/53BAk0hBoWTlsfbLe2GjD5"

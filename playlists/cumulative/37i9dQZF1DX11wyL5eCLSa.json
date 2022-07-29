@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 247431,
       "name": "Agua Santa",
       "url": "https://open.spotify.com/track/0arH8qrtmayVDnxuySM798"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL"
@@ -363,10 +363,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194146,
       "name": "Corre Amor",
       "url": "https://open.spotify.com/track/3qDXOJ1JaK50yFq5GU0B6L"
+    },
+    {
+      "album": {
+        "name": "Cosmovisiones",
+        "url": "https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "Corre Amor",
+      "url": "https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv"
     },
     {
       "album": {
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244418,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1Gid2J2k7NAP2SE5N7a2Zs"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu"
@@ -973,6 +991,24 @@
     {
       "album": {
         "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245373,
+      "name": "La Magia",
+      "url": "https://open.spotify.com/track/3XJmD5suzFUBHJ7sizBAiy"
+    },
+    {
+      "album": {
+        "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/5ooYAFLqUJiXfGzjVgG5N0"
       },
       "artists": [
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/57Vhb1eZdgfknw62XCJ65F"
@@ -1091,10 +1127,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218175,
       "name": "Los Imanes",
       "url": "https://open.spotify.com/track/1GuQa6m4AQZbGRK38iOC4D"
+    },
+    {
+      "album": {
+        "name": "Cambio Estacional",
+        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218175,
+      "name": "Los Imanes",
+      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
     },
     {
       "album": {
@@ -1243,7 +1297,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 228306,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
@@ -1261,7 +1315,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 188181,
       "name": "Mi Canci\u00f3n",
       "url": "https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72"
@@ -1341,10 +1395,32 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/6XEEI8Fepn9n99SYwPTy95"
+    },
+    {
+      "album": {
+        "name": "Nada Te Lastima",
+        "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        },
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "Nada Te Lastima",
+      "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
     },
     {
       "album": {
@@ -1557,7 +1633,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 179024,
       "name": "Paradoja",
       "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
@@ -1651,7 +1727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217703,
       "name": "Por Siempre",
       "url": "https://open.spotify.com/track/6FLSb8CJwrcfXfzfD4ySji"
@@ -2125,7 +2201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249520,
       "name": "Velur",
       "url": "https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT"
@@ -2263,7 +2339,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"

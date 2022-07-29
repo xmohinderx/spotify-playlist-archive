@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 445449,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/7uqextLPPYXw6RtlV8fHeE"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -177,7 +177,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 212903,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 363960,
       "name": "Anything Else Feat. Alix Edwards",
       "url": "https://open.spotify.com/track/5MaRkBsOJyrBuDMzBny61r"
@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Baby Flute",
+        "url": "https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4"
+      },
+      "artists": [
+        {
+          "name": "Vladimir Cauchemar",
+          "url": "https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151046,
+      "name": "Baby Flute",
+      "url": "https://open.spotify.com/track/3335q25uuuOxltjChRUxSx"
+    },
+    {
+      "album": {
         "name": "Don't Back Down",
         "url": "https://open.spotify.com/album/5dhbt3FsdrW5wPwSinWJtj"
       },
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 367578,
       "name": "Basic Juno",
       "url": "https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 378536,
       "name": "Bind - Rampa Remix",
       "url": "https://open.spotify.com/track/7wAVCSMQa3WyFFhfGfPDNP"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297435,
       "name": "Close to Me",
       "url": "https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/1ipso6qku1yalltQEtxAPw"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 275369,
       "name": "Collide",
       "url": "https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
@@ -1013,10 +1031,44 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/4HyIghnhDKnaZoGsR0BC3r"
+    },
+    {
+      "album": {
+        "name": "BRONSON Remixes N\u00b0.2",
+        "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
+      },
+      "artists": [
+        {
+          "name": "BRONSON",
+          "url": "https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307889,
+      "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
+      "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
     },
     {
       "album": {
@@ -1155,7 +1207,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 630336,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
@@ -1225,10 +1277,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 385103,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f"
+    },
+    {
+      "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     },
     {
       "album": {
@@ -1317,7 +1391,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 546471,
       "name": "Drone Me Up, Flashy - &ME Remix",
       "url": "https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4"
@@ -1451,7 +1525,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
@@ -1491,7 +1565,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281891,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/2WYgu5SgxDS4F6LwLssMZt"
@@ -1531,7 +1605,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271160,
       "name": "Fir",
       "url": "https://open.spotify.com/track/1EGAeOf7KRUj8VyzDh2TlJ"
@@ -1607,7 +1681,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264698,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl"
@@ -1673,7 +1747,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222096,
       "name": "Found You",
       "url": "https://open.spotify.com/track/35bMwOR3deD75uDxK6i9Nc"
@@ -1695,7 +1769,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 297054,
       "name": "Freedom for my People",
       "url": "https://open.spotify.com/track/7wOirxr2EhVVFeG8Rs0Jnx"
@@ -1739,7 +1813,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 200330,
       "name": "Glimmer - Edit",
       "url": "https://open.spotify.com/track/00qeVwveuzq3EVBWAQqAG8"
@@ -1783,7 +1857,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 392496,
       "name": "Glitch In The Matrix",
       "url": "https://open.spotify.com/track/4TfaQdTeHI8FdsScmRp6Kb"
@@ -1823,7 +1897,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 476000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/0p1yLmb6wDNrLd5Hg9Yfuy"
@@ -1841,7 +1915,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 520012,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/2g7BwK58fPL8xOnMGVYz0K"
@@ -1859,7 +1933,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 434060,
       "name": "Hack Into Your Soul",
       "url": "https://open.spotify.com/track/7aeAQvMddQg6EOb0lQcieC"
@@ -1935,7 +2009,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379674,
       "name": "Hujan",
       "url": "https://open.spotify.com/track/4yk6OhBXGUMbQLfYCY53nE"
@@ -1953,7 +2027,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 392000,
       "name": "I Care For You",
       "url": "https://open.spotify.com/track/5nQ42FeEsRBGZWXHxdeABt"
@@ -2041,7 +2115,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 485810,
       "name": "Ichika",
       "url": "https://open.spotify.com/track/4xc2aA7RZzHjrPPZcdReAW"
@@ -2343,7 +2417,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284896,
       "name": "Lamiz\u00e8 Pa Dous - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/3txAnW0hspM1X6D3trUxku"
@@ -2547,6 +2621,28 @@
     {
       "album": {
         "name": "Love Language (Imad Remix)",
+        "url": "https://open.spotify.com/album/598hbZikyOUZzrVMtZzS1W"
+      },
+      "artists": [
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        },
+        {
+          "name": "Imad",
+          "url": "https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362928,
+      "name": "Love Language - Imad Remix",
+      "url": "https://open.spotify.com/track/5iwU7eycAjBcJt1iccuxua"
+    },
+    {
+      "album": {
+        "name": "Love Language (Imad Remix)",
         "url": "https://open.spotify.com/album/1JUMdLLxgtUt54n7LIDm5V"
       },
       "artists": [
@@ -2561,7 +2657,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 362928,
       "name": "Love Language - Imad Remix",
       "url": "https://open.spotify.com/track/6fjSw7ljeXV60z7QJyI7SB"
@@ -2579,7 +2675,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 387394,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/6MWIaTPMTBItxX83g2RukN"
@@ -2623,8 +2719,8 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
-      "duration_ms": 229470,
+      "date_removed": null,
+      "duration_ms": 214591,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
     },
@@ -2667,7 +2763,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 280806,
       "name": "megapunk - TSHA Remix",
       "url": "https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps"
@@ -2761,10 +2857,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222947,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/0fAhJlik9YZShxrAf7uxoV"
+    },
+    {
+      "album": {
+        "name": "Monsoon EP",
+        "url": "https://open.spotify.com/album/6AyysfbORoo6avgs9tfTvg"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222947,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/1FgxefL0BLVL5nsteC1Qva"
     },
     {
       "album": {
@@ -2801,7 +2915,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 470564,
       "name": "Mood - Dole & Kom Remix",
       "url": "https://open.spotify.com/track/3ErdXxidIsTKoecR0OJkhN"
@@ -2841,7 +2955,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 455915,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
@@ -2899,7 +3013,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201765,
       "name": "Never Mind Me",
       "url": "https://open.spotify.com/track/3HC8Cg5ZPS3SZbjbnpxn8m"
@@ -2973,7 +3087,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 232194,
       "name": "Night Jaguars",
       "url": "https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3"
@@ -2999,7 +3113,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212000,
       "name": "Nightshift - Enduro Disco Noir Mix",
       "url": "https://open.spotify.com/track/5mOSdL0j3yjaBhteIFdmbS"
@@ -3047,7 +3161,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/5zstGbYLZtqURQGakwa3gZ"
@@ -3255,7 +3369,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 223666,
       "name": "Osama - Edit",
       "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
@@ -3291,7 +3405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 483226,
       "name": "Owl Adventure",
       "url": "https://open.spotify.com/track/51uhOO3zvddkGfZHkRxbJc"
@@ -3331,7 +3445,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320342,
       "name": "Palm Trees",
       "url": "https://open.spotify.com/track/63j8rf1Qtn8UG1PZlvsWf2"
@@ -3421,10 +3535,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273300,
       "name": "Poly 61",
       "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "album": {
+        "name": "Donde Chile",
+        "url": "https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434406,
+      "name": "Pura Vida",
+      "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"
     },
     {
       "album": {
@@ -3607,7 +3739,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 285123,
       "name": "Roda",
       "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
@@ -3687,7 +3819,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 341500,
       "name": "Run Run Run - Adam Port Remix",
       "url": "https://open.spotify.com/track/6ILgZZZnxyXRSvzSlpuNIz"
@@ -3727,7 +3859,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 465483,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/71y1XeA2RIcAfYOht1CxGa"
@@ -3799,7 +3931,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -4025,7 +4157,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 418053,
       "name": "Sonneries de la Rose+Croix: I. Air de l'Ordre - Sascha Braemer 5pm Remix (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/0kjtIirdAUbkV2WtjElwjF"
@@ -4119,7 +4251,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
@@ -4159,7 +4291,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
@@ -4177,7 +4309,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-28",
+      "date_removed": null,
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
@@ -4319,7 +4451,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 393442,
       "name": "To Be Written - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/7mlLLaYWZEguKsMmMXOnrS"
@@ -4425,7 +4557,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 357120,
       "name": "Trust the Process",
       "url": "https://open.spotify.com/track/00YMhO4tBg7dEvZI8ZJlhE"
@@ -4447,6 +4579,24 @@
       "duration_ms": 401062,
       "name": "Turning My Head",
       "url": "https://open.spotify.com/track/3HG0bL6apxDTfjijRapnI2"
+    },
+    {
+      "album": {
+        "name": "Turning My Head",
+        "url": "https://open.spotify.com/album/4FfW2yPHUeipHkGhp64PKI"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401062,
+      "name": "Turning My Head",
+      "url": "https://open.spotify.com/track/6n9S8Xb2FzvKsHnsZczfm4"
     },
     {
       "album": {
@@ -4555,10 +4705,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 446079,
       "name": "ut i rommet",
       "url": "https://open.spotify.com/track/5XXXtLK8nNvVsylo9JTewt"
+    },
+    {
+      "album": {
+        "name": "Kl\u00f8bb Ka2 (Vol. 3)",
+        "url": "https://open.spotify.com/album/39ZwdWj9UAY2HTpdNFFm9N"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446079,
+      "name": "ut i rommet",
+      "url": "https://open.spotify.com/track/633TwVIHey0bKHskRkDxqV"
     },
     {
       "album": {
@@ -4599,7 +4767,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
@@ -4701,7 +4869,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 401501,
       "name": "Walls Around Me",
       "url": "https://open.spotify.com/track/3kymiOCRjfkuueb0HD2nNX"
@@ -4789,7 +4957,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
@@ -4815,7 +4983,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-16",
+      "date_removed": null,
       "duration_ms": 376585,
       "name": "What We Think - Lunar Plane Remix",
       "url": "https://open.spotify.com/track/1M7tO5JDHxDK4TPtG8swNL"
@@ -4884,6 +5052,28 @@
     },
     {
       "album": {
+        "name": "Wildside",
+        "url": "https://open.spotify.com/album/3RRhOM6a9IzhKjrIKTHn0J"
+      },
+      "artists": [
+        {
+          "name": "Yousef",
+          "url": "https://open.spotify.com/artist/1HsWNPlqCBv9AwCFBDIEKF"
+        },
+        {
+          "name": "Penny F.",
+          "url": "https://open.spotify.com/artist/3Dh740vRUlju7vg98N3Rkd"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "Wildside",
+      "url": "https://open.spotify.com/track/5q8imvnixEYjK2YVGOaKE2"
+    },
+    {
+      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/6RN5ODBoefQiFCj3RDsVQR"
       },
@@ -4939,7 +5129,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 214167,
       "name": "Woman",
       "url": "https://open.spotify.com/track/7FlEC4iKF51DIiQ6G2Lj1q"

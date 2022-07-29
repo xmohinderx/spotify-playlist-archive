@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Montell Fish
 
-1,253 songs - 3 day 13 hr 51 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
+1,254 songs - 3 day 13 hr 56 min - [published](https://open.spotify.com/playlist/2Vxt0fhQPuEXpolliR1oQb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [blood.](https://open.spotify.com/track/7G8bBWkfn6eEEMqqnBHMLb) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW) | [blood.](https://open.spotify.com/album/2Nhyrn0LRYGzf6Th0LrE4p) | 4:32 | 2022-05-13 | 2022-05-28 |
 | [Bloom](https://open.spotify.com/track/0Tge7UWTXFSd4ITIURqk0k) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [Bloom](https://open.spotify.com/album/0T7foqa4zcqlZkjuEBEiGu) | 3:21 | 2022-04-22 | 2022-05-07 |
 | [Born Again](https://open.spotify.com/track/6ewRnWm0m56ipItu20vyUv) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Born Again](https://open.spotify.com/album/7xltKzxwTUnIGLWqyr03iJ) | 4:36 | 2022-06-17 | 2022-06-26 |
-| [Born Again \- Live](https://open.spotify.com/track/6YFQEpmg2Tv7VfjH8j554P) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Live From Texas](https://open.spotify.com/album/3JbVsA2XSf3DFEwcdeX8J6) | 4:52 | 2022-07-15 |  |
+| [Born Again \- Live](https://open.spotify.com/track/6YFQEpmg2Tv7VfjH8j554P) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Live From Texas](https://open.spotify.com/album/3JbVsA2XSf3DFEwcdeX8J6) | 4:52 | 2022-07-15 | 2022-07-29 |
+| [Born Again \- Live From Texas](https://open.spotify.com/track/1x9m7DdPZif48tFCxpdURD) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Live From Texas](https://open.spotify.com/album/2ddBmMBuRxf5UOOaQdGNdE) | 4:52 | 2022-07-29 |  |
 | [Born to Love](https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [Born to Love](https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY) | 3:49 | 2022-04-08 | 2022-04-16 |
 | [BOTS \(Freestyle\)](https://open.spotify.com/track/5eMvT7WRGEGBMVgoKk8FfJ) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [BOTS \(Freestyle\)](https://open.spotify.com/album/7phIRqUrSheXy5zCI8nfI4) | 1:48 | 2022-03-11 | 2022-03-13 |
 | [BOTS \(freestyle\)](https://open.spotify.com/track/73csrPe5BOciEL8EQX6C0p) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [BOTS \(freestyle\)](https://open.spotify.com/album/7yv9goNuPJecL9U7LD5lhe) | 1:48 | 2022-03-18 | 2022-04-02 |

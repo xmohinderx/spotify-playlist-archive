@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Sevek x Tarry
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,922 likes - 26 songs - 1 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,939 likes - 26 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 17 | [Come Here](https://open.spotify.com/track/5u4ppGydKCwN4IXqZQZUs7) | [Tim Baresko](https://open.spotify.com/artist/6Uc1kxbiSTggT6cmqjrLdp), [G\. Felix](https://open.spotify.com/artist/0fKdJgSUpnWcOF4PyB1EYZ) | [Come Here](https://open.spotify.com/album/20q2M4SSLJfV3SC11NpW3x) | 3:18 |
 | 18 | [Lean On Me](https://open.spotify.com/track/2fghWr45OPBVmRM6TyfRzL) | [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Lean On Me](https://open.spotify.com/album/7s0q6UVe9I9vof57x7dr2J) | 2:53 |
 | 19 | [Nothing To Hide](https://open.spotify.com/track/77sxPkkeynDqrKtHRryMq0) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Nothing To Hide](https://open.spotify.com/album/3sE3g4Y9iMjIXwKgaNkMCh) | 2:52 |
-| 20 | [Stay](https://open.spotify.com/track/5IeFO7aWhkpFmaHKr3QyJV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Stay](https://open.spotify.com/album/34b8pEfw6Cu5PLLSAY4dMb) | 2:32 |
+| 20 | [Stay](https://open.spotify.com/track/5IeFO7aWhkpFmaHKr3QyJV) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Stay](https://open.spotify.com/album/34b8pEfw6Cu5PLLSAY4dMb) | 2:30 |
 | 21 | [About This](https://open.spotify.com/track/4kqhRmXIDxQYARJ2fKLvzC) | [Levex](https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef) | [About This](https://open.spotify.com/album/2AFW3csXkeTUI8gyMN3aiz) | 2:34 |
 | 22 | [Run](https://open.spotify.com/track/4nBYQdZuNW5JH1KHUTf7jE) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Run](https://open.spotify.com/album/5dBqstmpc8iFubg3KjEF2J) | 2:57 |
 | 23 | [Trinity](https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND) | [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Trinity](https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd) | 3:42 |

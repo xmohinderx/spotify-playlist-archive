@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Keinemusik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,990,649 likes - 101 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990,776 likes - 101 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 27 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 |
 | 28 | [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 |
 | 29 | [Adidas & Pearls](https://open.spotify.com/track/2zME1tNgLyHCJ29E2uSeJM) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Adidas & Pearls](https://open.spotify.com/album/5zTHdYXq0ojTz7J4K2gCUN) | 3:29 |
-| 30 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 |
+| 30 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 |
 | 31 | [Tamo Loco](https://open.spotify.com/track/19EwqyuwH4Na6bnOlIe3O0) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tamo Loco](https://open.spotify.com/album/0vsLnW41TjwuMgZI9kd0zA) | 2:40 |
 | 32 | [Sunshine](https://open.spotify.com/track/0qH77q5xCLdGaf19ZNNRxA) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [J Farrukh](https://open.spotify.com/artist/4JM9FW5tJQBkarX1rLTRT0) | [Sunshine](https://open.spotify.com/album/2c6jGCUhdCwGktUHo2DfQ8) | 3:10 |
 | 33 | [WTF](https://open.spotify.com/track/7is2hGbIe9yPQnc9L0vjHc) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [House Call](https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA) | [WTF](https://open.spotify.com/album/2eXlq1OrbNgBMHITjxIV9E) | 2:18 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 55 | [Breathing](https://open.spotify.com/track/4vKEzzWe1W1xYI5foZu15g) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Breathing](https://open.spotify.com/album/1OZYHN7RxP2o8zg45RFF5n) | 4:46 |
 | 56 | [When It Rains, It Pours](https://open.spotify.com/track/0Qb8vbig4Wky0RKhOWh2Ze) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [When It Rains, It Pours](https://open.spotify.com/album/7gw75X0Cp4ya2yz6tW0Rio) | 3:17 |
 | 57 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 |
-| 58 | [Moon Groove](https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/5jCwhehDfr3wOKkfVynIFd) | 2:49 |
-| 59 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/4LrghOSegI6sFcPgaYwDrH) | 3:52 |
+| 58 | [Moon Groove](https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Moon Groove](https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R) | 2:49 |
+| 59 | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kaleta](https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m) | [Wake Up! \(feat\. Kaleta\)](https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv) | 3:52 |
 | 60 | [Set You Free](https://open.spotify.com/track/3l3RsIHCP7WkjxeBGSy3ep) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Set You Free](https://open.spotify.com/album/4nP6NnjdbIapDZXwc3M9NN) | 2:53 |
 | 61 | [Real Nu Rave](https://open.spotify.com/track/78tfQxr0HGWVlHFkR5lBK8) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Real Nu Rave](https://open.spotify.com/album/25sT5VKHzmvLH7tkWG4dBY) | 3:31 |
 | 62 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 68 | [Foggy Geezer](https://open.spotify.com/track/1nOYPvqoAW6cZS7LmowdvW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Foggy Geezer](https://open.spotify.com/album/2ARTpw5C9AyI3fOwEpGbyG) | 3:04 |
 | 69 | [Get Down Low \(Dip\)](https://open.spotify.com/track/4ATGhu6yBy5MaAZv8lmkWG) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Mia Marvelous](https://open.spotify.com/artist/7jsXGEuoSmu9gI3zODJXjL) | [Get Down Low \(Dip\)](https://open.spotify.com/album/3pLO0JoXlBSgerMcPkm90m) | 2:29 |
 | 70 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 |
-| 71 | [Whole Again](https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again](https://open.spotify.com/album/2cCt0xjFeQjUYW2RaFOHml) | 3:30 |
+| 71 | [Whole Again \(feat\. John Martin\)](https://open.spotify.com/track/5oOwmECfqsMOaxprNaDxHK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Whole Again \(feat\. John Martin\)](https://open.spotify.com/album/5IcKR43R4u5Mz69sudJ4YD) | 3:30 |
 | 72 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 |
 | 73 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 |
 | 74 | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/track/5brF58DyR90gbHuMJqD5of) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Bricc Baby](https://open.spotify.com/artist/6WtTLIl6HLw0JI15Z3Ia8q) | [Lay It Down \(feat\. Bricc Baby\)](https://open.spotify.com/album/2YMkA9lt4ehtS8BeoZ6ClX) | 3:35 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 100 | [Something Spectacular](https://open.spotify.com/track/7h50lUuHyHLktWVMnlqpO3) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Something Spectacular](https://open.spotify.com/album/2y2xZtmk8TamVfiUTgomFU) | 2:42 |
 | 101 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDNmNjAwMDAwMTgyMjQxMGQ4ZjgwMDAwMDE4MWRhMWU2YzBm`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDAxYmNiMTRlNzdhZDRhOTk1YjIwZjBmNjM3OGNmNzM2`

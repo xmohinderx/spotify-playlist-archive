@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "A Tu Lado",
+        "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244308,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+    },
+    {
+      "album": {
+        "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN"
@@ -207,10 +225,32 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243680,
       "name": "Balada Borracha",
       "url": "https://open.spotify.com/track/0C0cSQCtSVKM450J6JB2iu"
+    },
+    {
+      "album": {
+        "name": "Almas Conectadas",
+        "url": "https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243680,
+      "name": "Balada Borracha",
+      "url": "https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG"
     },
     {
       "album": {
@@ -1573,6 +1613,24 @@
     {
       "album": {
         "name": "Ruise\u00f1ora",
+        "url": "https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN"
+      },
+      "artists": [
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222300,
+      "name": "Ruise\u00f1ora",
+      "url": "https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP"
+    },
+    {
+      "album": {
+        "name": "Ruise\u00f1ora",
         "url": "https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm"
       },
       "artists": [
@@ -1583,7 +1641,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223133,
       "name": "Ruise\u00f1ora",
       "url": "https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD"
@@ -1779,10 +1837,46 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293973,
       "name": "Tot\u00f3 Remix: la Candela Viva / Adi\u00f3s Fulana / Mapal\u00e9 / Goza Plinio Sierra (Radio Edit)",
       "url": "https://open.spotify.com/track/1XBsBgbxKbdDeY6fN8QqjF"
+    },
+    {
+      "album": {
+        "name": "Gaitas y Tambores",
+        "url": "https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Tot\u00f3 Remix: la Candela Viva / Adi\u00f3s Fulana / Mapal\u00e9 / Goza Plinio Sierra - Radio Edit",
+      "url": "https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT"
+    },
+    {
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7"
+      },
+      "artists": [
+        {
+          "name": "Antombo",
+          "url": "https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225935,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD"
     },
     {
       "album": {
@@ -1833,7 +1927,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225935,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw"

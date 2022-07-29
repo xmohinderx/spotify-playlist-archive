@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-202 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+205 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Back the Line](https://open.spotify.com/track/6VmLAZAbbDoqPAm8OHFbPs) | [IZY REALLY](https://open.spotify.com/artist/2QpnXxnib6tVD5Vy4Hlvar) | [Power](https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k) | 2:54 | 2022-07-08 |  |
 | [Base de Rap Boombap](https://open.spotify.com/track/39une7hhwJWCPMgQ1CwMRa) | [AesUno](https://open.spotify.com/artist/6XhXfXQZNqlcxxo4VN5ZyV), [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5) | [Base de Rap Boombap](https://open.spotify.com/album/3tgWYDhnQloU9SpBaSBG9v) | 2:29 | 2022-06-24 |  |
 | [Better Together](https://open.spotify.com/track/3ZO2JrKZIxtk8DZN8YVLHP) | [North Polo](https://open.spotify.com/artist/1HCLXZk93Ezf3V9ZwubETv) | [Better Together](https://open.spotify.com/album/0pI1ZdcRCAz99blamoXobq) | 2:29 | 2022-04-08 | 2022-05-27 |
+| [Blood River](https://open.spotify.com/track/1GtUYgTlwDmMqDIKt7xIcT) | [Sylo Rader](https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS) | [Blood River](https://open.spotify.com/album/34CmNdHetMdz9mCktAGyQo) | 2:59 | 2022-07-29 |  |
 | [Boarding](https://open.spotify.com/track/1tZR5quUNfqPsaBcO3ba9Y) | [Vanzeroy](https://open.spotify.com/artist/1vY5PJoeKYe3EGaq7xAcbv) | [Boarding](https://open.spotify.com/album/0S2AT8Pt2QfrMO6ZsdYq0k) | 2:08 | 2022-04-08 | 2022-05-27 |
 | [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 | 2022-05-20 |  |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2022-04-08 |  |
@@ -89,6 +90,7 @@
 | [In the Dash](https://open.spotify.com/track/1aY48DLfF9XM4jwZHeEIjj) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [In the Dash](https://open.spotify.com/album/6TyFUvcYu5FgXLINlnAd2z) | 2:01 | 2022-06-03 |  |
 | [Incredulous](https://open.spotify.com/track/3tsHNJMRKVMIGe4hxCiVLN) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93), [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Incredulous](https://open.spotify.com/album/7yWfqhExEhTHRnpNWNy7bY) | 2:11 | 2022-04-08 | 2022-05-27 |
 | [Jaxxon](https://open.spotify.com/track/0AhsGBXcirKOnkoOnATDuI) | [Hillside Reds](https://open.spotify.com/artist/2UPmPftzM6G8utXa3RQ2MB) | [Jaxxon](https://open.spotify.com/album/2uQPnSPTSyBx4uOd7UyFQY) | 2:57 | 2022-04-08 |  |
+| [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 | 2022-07-29 |  |
 | [Joker](https://open.spotify.com/track/7CAwp6JcKR1aIZc6unYpOV) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Joker](https://open.spotify.com/album/2VoCKMm05uZR0Rxu7Pk28P) | 3:28 | 2022-05-26 |  |
 | [Laugh Away](https://open.spotify.com/track/5HnQ5gbXPjH524zeNn979c) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 2:51 | 2022-04-08 | 2022-05-27 |
 | [Laughing](https://open.spotify.com/track/1vGGQsLo0LgyAfDhpHkAku) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Motivator](https://open.spotify.com/album/2N2zGpnTCrMqB8qdf5aPxS) | 2:30 | 2022-04-08 |  |
@@ -181,6 +183,7 @@
 | [surrender](https://open.spotify.com/track/6Taozt3i4orsCi0eOzaSCg) | [wavcrush](https://open.spotify.com/artist/0mSqso2Yuc7l3b0Aw22dXm) | [happy nest](https://open.spotify.com/album/5hipZcTfCNRM3uT0KGdhrG) | 3:04 | 2022-04-08 |  |
 | [Sweeping Grounds](https://open.spotify.com/track/2xkdCkb2yZAjvj8YlIF3bs) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Sweeping Grounds](https://open.spotify.com/album/4c9pGOnqLMtXZ3aMgTCNZk) | 2:40 | 2022-05-26 |  |
 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 | 2022-04-08 |  |
+| [Taters & Maters](https://open.spotify.com/track/7emsl5MkKpnYqdKJKHSnfy) | [Søcrates](https://open.spotify.com/artist/4GtbjBaGbpeCsSVu1spfDZ) | [Taters & Maters](https://open.spotify.com/album/5KumjFUDye6q5jnzJiUCzd) | 2:48 | 2022-07-29 |  |
 | [Teasing](https://open.spotify.com/track/06y4oLttJhpSAOPAhjuCTY) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 | 2022-04-08 | 2022-05-27 |
 | [The Monster Under My Bed](https://open.spotify.com/track/6e1CdbMZtce6YpTxDJnNc5) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [The Monster Under My Bed](https://open.spotify.com/album/61CZefoQUPOSvk5Pzg3TtJ) | 2:27 | 2022-04-08 | 2022-05-27 |
 | [The Northern Saga](https://open.spotify.com/track/1wt1xQv1Qrogwa7n3jv0OU) | [Luwaks](https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr) | [The Northern Saga](https://open.spotify.com/album/6BmunqgCokKgxQhUziKEWJ) | 4:01 | 2022-04-08 | 2022-05-20 |

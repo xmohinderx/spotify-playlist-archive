@@ -4,7 +4,7 @@
 
 > Tejano's new wave, co\-curated with <a href="https://tejanonation.net/">Tejano Nation</a>! La nueva ola de la música tejana\. Cover: Stefani Montiel
 
-50 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
+51 songs - 2 hr 49 min - [published](https://open.spotify.com/playlist/1DP7NGrjVhNrBARNSXYxLf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 | 2022-03-07 |  |
 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 | 2022-03-07 |  |
 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 | 2022-03-07 |  |
-| [Nunca Voy A Olvidarte](https://open.spotify.com/track/3dgzwhggcd45Rk8yiZNYcb) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte](https://open.spotify.com/album/5aOw2pSfaKj1pgmkXVdkdI) | 3:18 | 2022-03-07 |  |
+| [Nunca Voy A Olvidarte](https://open.spotify.com/track/3dgzwhggcd45Rk8yiZNYcb) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte](https://open.spotify.com/album/5aOw2pSfaKj1pgmkXVdkdI) | 3:18 | 2022-03-07 | 2022-07-29 |
+| [Nunca Voy A Olvidarte \- Radio Mix](https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte \(Radio Mix\)](https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9) | 3:18 | 2022-03-07 |  |
 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 | 2022-03-07 |  |
 | [Por Fin Decidí](https://open.spotify.com/track/3IqyM1UkxCobbGc3uUN0XL) | [South TX Homies](https://open.spotify.com/artist/7yMp1Rpn2cWmZxvK4B95xq) | [Por Fin Decidí](https://open.spotify.com/album/1kgbKExAs7N14nY4nkLyMl) | 3:14 | 2022-03-07 |  |
 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 | 2022-03-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Sebastián Yatra y Pablo Alborán en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,488 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,572 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 10 | [No Me Falta Nada](https://open.spotify.com/track/635QJuAF063BIiwganAf3u) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [No Me Falta Nada](https://open.spotify.com/album/3m0JZVsgaYGZ3BR3r1MGsp) | 3:25 |
 | 11 | [Anclada](https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Anclada](https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM) | 2:50 |
 | 12 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
-| 13 | [Ojos Noche](https://open.spotify.com/track/671JE9keXdBM48B8Ojwymd) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ojos Noche](https://open.spotify.com/album/16gH2tSyz5R3s26hxGNlmW) | 4:00 |
+| 13 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 14 | [Vencer el Pasado](https://open.spotify.com/track/21uAJbkOwnIs4JjHXR8cSO) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Vencer el Pasado](https://open.spotify.com/album/2g4n6T7P1LyUpiRtlArPiO) | 3:48 |
 | 15 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 |
 | 16 | [Ojos Tristes \(feat\. Karin B.\) \- Sesión En Vivo](https://open.spotify.com/track/3wASVtmroZS4SKosTe06s1) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Karin B.](https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc) | [Esencial \(En Vivo\)](https://open.spotify.com/album/6KpqTOBOSlypz3j3ZsP3zu) | 3:39 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 30 | [Te Lloré Un Río](https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:50 |
 | 31 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 |
 | 32 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 |
-| 33 | [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 |
+| 33 | [Ya Casi Te Olvido](https://open.spotify.com/track/3Mplc3LHNZRLKijTavtyCC) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/1W6H0omeMvwCRyWhFJaah6) | 2:14 |
 | 34 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 |
 | 35 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 |
 | 36 | [Paso de Ti](https://open.spotify.com/track/1FteZcmUIFijY4oVL7piy2) | [Miriam Flores](https://open.spotify.com/artist/3nB5huZMjDDJx7XgkT0ptQ) | [Paso de Ti](https://open.spotify.com/album/3wL27cOIC6fwCFKbUDf8b7) | 3:14 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 55 | [FUE](https://open.spotify.com/track/7EzMotErPHP0TJ2Gv987q7) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [FUE](https://open.spotify.com/album/7agivcohsBICoHafttM2j7) | 4:02 |
 | 56 | [Mi Reina Maya](https://open.spotify.com/track/76iqlo552kTjdm7iGZyM3g) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Mi Reina Maya](https://open.spotify.com/album/3AyHTv3EPqTN9eY7m7hS88) | 4:08 |
 | 57 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 |
-| 58 | [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 |
+| 58 | [La Verbena y el Moriviví](https://open.spotify.com/track/67ApdtYt5c3qOUTtO8eU3C) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 3:46 |
 | 59 | [Ahora Sé](https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Ahora Sé](https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx) | 3:40 |
 | 60 | [Hola, Buenas Noches](https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Hola, Buenas Noches](https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK) | 3:13 |
 | 61 | [cómo acaba](https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/74txh3rjlVFirJTEzdeE8G) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdI8ULlW5VQp.md) - [plain]
 | 74 | [Mares De Miel](https://open.spotify.com/track/1tJrLUcqjzQVZLFCV8lym0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Mares De Miel](https://open.spotify.com/album/3FpD9Rogk6RmMLvKMxT6ba) | 4:41 |
 | 75 | [Sayonara](https://open.spotify.com/track/3mbRkOQDQZSJobcvhYpvdT) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Sayonara](https://open.spotify.com/album/1gcaeZk3wr3ysqQFoXjp2r) | 3:55 |
 
-Snapshot ID: `MTY1ODUxNDExNiwwMDAwMDAzYjAwMDAwMTgyMjcyNTBmNTEwMDAwMDE4MjI3MDk2MjJl`
+Snapshot ID: `MTY1ODUxNDExNiwwMDAwMDAwMGYzMzY0NmI0ZDI2ZWMzMjZmOGExYTFjOTcwNTQ1ZDE3`

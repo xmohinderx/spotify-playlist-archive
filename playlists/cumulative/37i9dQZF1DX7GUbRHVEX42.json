@@ -53,7 +53,7 @@
     {
       "album": {
         "name": "Allow Me to Live",
-        "url": "https://open.spotify.com/album/5zN94MvRvUzdrwrt2MSWbx"
+        "url": "https://open.spotify.com/album/1KWipvpvLEgb0Lnozzyhib"
       },
       "artists": [
         {
@@ -64,6 +64,24 @@
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Allow Me to Live",
+      "url": "https://open.spotify.com/track/1qTfGeXfINLj01VmuchXcr"
+    },
+    {
+      "album": {
+        "name": "Allow Me to Live",
+        "url": "https://open.spotify.com/album/5zN94MvRvUzdrwrt2MSWbx"
+      },
+      "artists": [
+        {
+          "name": "Bugle",
+          "url": "https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 183409,
       "name": "Allow Me to Live",
       "url": "https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw"
@@ -165,10 +183,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/40bhrR8iRfr1RfMUsHbGNH"
+    },
+    {
+      "album": {
+        "name": "Ekundayo",
+        "url": "https://open.spotify.com/album/1DHs1TPC3rOV2Y9lFpjZxY"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196949,
+      "name": "Cold & Clear",
+      "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
     },
     {
       "album": {
@@ -427,10 +463,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236000,
       "name": "Lift Our Spirits, Raise Our Voice",
       "url": "https://open.spotify.com/track/61ZAorrS5K3EATlg5x8AAD"
+    },
+    {
+      "album": {
+        "name": "Lift Our Spirits, Raise Our Voice",
+        "url": "https://open.spotify.com/album/1418WzxcFIK2IfE06S6CpY"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits, Raise Our Voice",
+      "url": "https://open.spotify.com/track/6ufJDfCIe2YAETu84JB6we"
     },
     {
       "album": {
@@ -790,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Higher Place",
+        "url": "https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194406,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
+    },
+    {
+      "album": {
         "name": "Slow Down (with H.E.R.)",
         "url": "https://open.spotify.com/album/2Z6sqSTQprW8el0lCqojKi"
       },
@@ -805,7 +881,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195066,
       "name": "Slow Down (with H.E.R.)",
       "url": "https://open.spotify.com/track/73FDJgnjt6ZcxoiavN6XrS"
@@ -937,10 +1013,32 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160172,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5PFWxdaF4INZtOSb40nSiU"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0ZQoADyRu8QSfzXaUOrDHI"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "ZJ Chrome",
+          "url": "https://open.spotify.com/artist/10RdVSp5OiUPHjh4bYKBMM"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160172,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"
     },
     {
       "album": {

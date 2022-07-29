@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Nieve Ella
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,863 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,878 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Cellotape](https://open.spotify.com/track/06dHJ0No9a4TShSBKDkEtI) | [Sadie Nencini](https://open.spotify.com/artist/6eFRt2YgkUeiSzCm7UMC8W) | [All Ears](https://open.spotify.com/album/6WCCZQdKJyGFyJpILgdc9b) | 3:33 |
 | 80 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
 
-Snapshot ID: `MTY1ODkzODYxOCwwMDAwMDA0MTAwMDAwMTgyNDA3Mjc0MDYwMDAwMDE4MjQwNzE5MWVm`
+Snapshot ID: `MTY1ODkzODYxOCwwMDAwMDAwMGMyZTFlZTFlN2JlMTFiZDY0OWU2Y2NhMDVkOTY0MzA1`

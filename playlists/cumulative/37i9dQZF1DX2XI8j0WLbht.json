@@ -45,7 +45,7 @@
     {
       "album": {
         "name": "Imagina",
-        "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
+        "url": "https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc"
       },
       "artists": [
         {
@@ -60,6 +60,28 @@
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 297664,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
+    },
+    {
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2E7qEOP4LuSEvb5yHwUlLo"
+      },
+      "artists": [
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        },
+        {
+          "name": "Elisabeth Roma",
+          "url": "https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/7BYO980wn5wYBZeVdBuGy2"
@@ -197,10 +219,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188017,
       "name": "Besos de Mezcal",
       "url": "https://open.spotify.com/track/5n2oEHNiaCshJvtyS4Tewd"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/6VBZup38Otx23Ff3tx9qfW"
+      },
+      "artists": [
+        {
+          "name": "Flor de Toloache",
+          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Besos de Mezcal",
+      "url": "https://open.spotify.com/track/3GoUbPBzAC6ABtFNdJmniO"
     },
     {
       "album": {
@@ -215,10 +255,46 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 595746,
       "name": "Candela / Morena",
       "url": "https://open.spotify.com/track/56vTla01WudJTnLHGCbLEx"
+    },
+    {
+      "album": {
+        "name": "Son Jarocho",
+        "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
+      },
+      "artists": [
+        {
+          "name": "Pa' Sumecha",
+          "url": "https://open.spotify.com/artist/5Mk2GwwJut38y1BxxfDyka"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 595746,
+      "name": "Candela / Morena",
+      "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
+    },
+    {
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S"
     },
     {
       "album": {
@@ -233,7 +309,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219733,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5pCmR2xzpvlNXKvYTmiJ6S"
@@ -359,10 +435,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+    },
+    {
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
       "album": {
@@ -605,10 +699,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227604,
       "name": "El P\u00e1jaro C\u00fa",
       "url": "https://open.spotify.com/track/0d7B2tUlBpaTfm4UufYpPD"
+    },
+    {
+      "album": {
+        "name": "Madre Natura",
+        "url": "https://open.spotify.com/album/6emglSRi7jlfog1ZDBkXBh"
+      },
+      "artists": [
+        {
+          "name": "Sonex",
+          "url": "https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "El P\u00e1jaro C\u00fa",
+      "url": "https://open.spotify.com/track/7GBKatFFO8xPt9cgT0H74D"
     },
     {
       "album": {
@@ -736,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac & Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183168,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p"
+    },
+    {
+      "album": {
         "name": "En tu pelo",
         "url": "https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz"
       },
@@ -747,7 +877,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184912,
       "name": "En tu pelo",
       "url": "https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU"
@@ -845,10 +975,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321440,
       "name": "La Bamba Rebelde",
       "url": "https://open.spotify.com/track/61eRbW77tBH1SjQrGkZvdt"
+    },
+    {
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323506,
+      "name": "La Bamba Rebelde",
+      "url": "https://open.spotify.com/track/3cyREPYKAMQNfki246eknU"
     },
     {
       "album": {
@@ -863,10 +1011,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219687,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4xCF91YN6bBBjyinIjF3nQ"
+    },
+    {
+      "album": {
+        "name": "Ten Spins Round the Sun (10 Year Anniversary Album)",
+        "url": "https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi"
+      },
+      "artists": [
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219737,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
     },
     {
       "album": {
@@ -979,10 +1145,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337986,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/3ZuPHGxjhRcKcu0Sc4tWxl"
+    },
+    {
+      "album": {
+        "name": "En Tonos Muy Diferentes",
+        "url": "https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf"
+      },
+      "artists": [
+        {
+          "name": "Los Vega",
+          "url": "https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337986,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/5JgPjwTuYjfh7LNXXzQY8I"
     },
     {
       "album": {
@@ -1215,10 +1399,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141489,
       "name": "Mis Muertos",
       "url": "https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT"
+    },
+    {
+      "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"
     },
     {
       "album": {
@@ -1387,7 +1589,7 @@
     {
       "album": {
         "name": "Wexico",
-        "url": "https://open.spotify.com/album/1HM64wy3EyYfLH3Ns3ZLWH"
+        "url": "https://open.spotify.com/album/668lUEi8btiUYBIecpcCeE"
       },
       "artists": [
         {
@@ -1398,6 +1600,24 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Pescador",
+      "url": "https://open.spotify.com/track/5Zb5h5ccGnBCvVCWibWEcD"
+    },
+    {
+      "album": {
+        "name": "Wexico",
+        "url": "https://open.spotify.com/album/1HM64wy3EyYfLH3Ns3ZLWH"
+      },
+      "artists": [
+        {
+          "name": "Snowapple",
+          "url": "https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 383221,
       "name": "Pescador",
       "url": "https://open.spotify.com/track/16wTU9Mt9VArJ4SmJC13Qx"
@@ -1542,6 +1762,24 @@
     },
     {
       "album": {
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
+    },
+    {
+      "album": {
         "name": "Sana sana",
         "url": "https://open.spotify.com/album/1piUtiyESANVRuWdVNSoZJ"
       },
@@ -1553,7 +1791,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302976,
       "name": "Sana sana",
       "url": "https://open.spotify.com/track/3tpwqGiVb86UmDj5TA86mV"
@@ -1625,10 +1863,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316520,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/3KIq1vktXNBv96HdZukx5h"
+    },
+    {
+      "album": {
+        "name": "Sembrando Flores",
+        "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316520,
+      "name": "Sembrando Flores",
+      "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
     },
     {
       "album": {
@@ -1643,10 +1899,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292746,
       "name": "Senor Presidente",
       "url": "https://open.spotify.com/track/0cbrL5ApWdHZLGfgzQ0Zwa"
+    },
+    {
+      "album": {
+        "name": "American Us",
+        "url": "https://open.spotify.com/album/39hfHdufLFVsNpymfhyrsh"
+      },
+      "artists": [
+        {
+          "name": "Los Mocosos",
+          "url": "https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292733,
+      "name": "Se\u00f1or Presidente",
+      "url": "https://open.spotify.com/track/6z3BlkIqrvrHBn2nPJVJFh"
     },
     {
       "album": {
@@ -1717,7 +1991,7 @@
     {
       "album": {
         "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT"
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
       },
       "artists": [
         {
@@ -1728,6 +2002,24 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
+    },
+    {
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/0R07UR8xJxMDwx6PCvp4XT"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 201674,
       "name": "Te Guardo",
       "url": "https://open.spotify.com/track/5fGIyvtxYc7BiijDvqOFGN"
@@ -1891,7 +2183,7 @@
     {
       "album": {
         "name": "Voy al Mar",
-        "url": "https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN"
+        "url": "https://open.spotify.com/album/6iHwza5JGSuSMRaDvQh5Uw"
       },
       "artists": [
         {
@@ -1902,6 +2194,24 @@
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Voy al Mar",
+      "url": "https://open.spotify.com/track/2WhxGPakyxJMmcn4gRsF42"
+    },
+    {
+      "album": {
+        "name": "Voy al Mar",
+        "url": "https://open.spotify.com/album/6JL75TkpdsrLrEeAyiBfrN"
+      },
+      "artists": [
+        {
+          "name": "Espanglish",
+          "url": "https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 258880,
       "name": "Voy al Mar",
       "url": "https://open.spotify.com/track/7hbTfsMaPKPZp3uzmDusRG"

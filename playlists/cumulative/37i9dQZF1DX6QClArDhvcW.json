@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Bicycle",
+        "url": "https://open.spotify.com/album/72SXioi40kiKjCGN4IxbPD"
+      },
+      "artists": [
+        {
+          "name": "Pedro Coudsi",
+          "url": "https://open.spotify.com/artist/4MyQP1cvmiyGzSilWSJg1h"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175058,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/2Cgmzxm4MPmNFFbOvXaVCH"
+    },
+    {
+      "album": {
         "name": "Big El",
         "url": "https://open.spotify.com/album/2m8cmhKHiVvCfR2cYu1Eys"
       },
@@ -999,6 +1017,24 @@
     {
       "album": {
         "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf"
+      },
+      "artists": [
+        {
+          "name": "Thymes",
+          "url": "https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136296,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g"
+    },
+    {
+      "album": {
+        "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH"
       },
       "artists": [
@@ -1009,7 +1045,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136296,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ"
@@ -2961,6 +2997,24 @@
       "duration_ms": 115200,
       "name": "Swift Coasting",
       "url": "https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87"
+    },
+    {
+      "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/40BGwehnsepICk24hRi5tq"
+      },
+      "artists": [
+        {
+          "name": "With All Respect",
+          "url": "https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159503,
+      "name": "Take It or Leave It",
+      "url": "https://open.spotify.com/track/7tAoeaOoVEizKJ67Xln5jX"
     },
     {
       "album": {

@@ -4,14 +4,15 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-175 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
+178 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/04VqmIAE8iwyctfiRi2dWU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A côté de toi](https://open.spotify.com/track/1Pr6ajOmxuhjmn4CwuBxle) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [A côté de toi](https://open.spotify.com/album/25AARypQIJKCdYgunYo0OS) | 2:56 | 2022-02-18 |  |
 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Jupos](https://open.spotify.com/artist/2lXry9UbuyQKv0yDP4qSFB) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 |  |
-| [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 |  |
+| [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
+| [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 | 2022-07-19 |  |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 | 2022-02-18 |  |
 | [Aften](https://open.spotify.com/track/0cipYhbiItpgZCvngDFwoQ) | [Greger Amundsen](https://open.spotify.com/artist/5IcUzhhyVe0zIftxL9eGS7) | [Aften](https://open.spotify.com/album/3SImClzt0t5gfomsktsmrB) | 2:59 | 2022-02-18 |  |
@@ -22,10 +23,12 @@
 | [Another Wake](https://open.spotify.com/track/0YwgnE2yI600aenbcJdqgq) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 2:18 | 2022-02-18 |  |
 | [Ante Meridiem \(432hz\)](https://open.spotify.com/track/7L20Kr6F8VnBMowigEQ1DH) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ante Meridiem \(432hz\)](https://open.spotify.com/album/2rSp0SgoVF37nfDHWgeonw) | 3:30 | 2022-02-18 |  |
 | [Arriving](https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR) | [Arctic Pulse](https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi) | [Eternalis](https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx) | 3:12 | 2022-02-18 |  |
-| [At Last](https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/3K6jSzRzY3EfWv0gIVzEdV) | 2:48 | 2022-02-18 |  |
+| [At Last](https://open.spotify.com/track/0awdCTFrzeyVtRlZnMtqlH) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:48 | 2022-07-19 |  |
+| [At Last](https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/3K6jSzRzY3EfWv0gIVzEdV) | 2:48 | 2022-02-18 | 2022-07-29 |
 | [Atmosfären](https://open.spotify.com/track/2I4UIW7yyhAsbkqF3dWjF9) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Atmosfären](https://open.spotify.com/album/5XiYKgflBgfaKCwN5iAmFJ) | 2:32 | 2022-02-18 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2022-02-18 |  |
-| [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2022-02-18 |  |
+| [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2022-02-18 | 2022-07-29 |
+| [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-19 |  |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
 | [Bagatelles](https://open.spotify.com/track/6KB73THoWtwrS9fMvHLqh0) | [Mia Strass](https://open.spotify.com/artist/2KhAW1n5DKiVmDcS2s0dIG) | [Mid\-Life](https://open.spotify.com/album/6aIv79Nb504XUjSjsuJm0w) | 2:14 | 2022-02-18 |  |
 | [Beacon](https://open.spotify.com/track/2nFNxlIt3Y6Gw5BAu4bsFg) | [Krell](https://open.spotify.com/artist/0D6r7KnJpwcCFIbxUGJLkX) | [Beacon](https://open.spotify.com/album/0Pty5PD7hYWQ0HGnxS5WxV) | 4:06 | 2022-02-18 |  |

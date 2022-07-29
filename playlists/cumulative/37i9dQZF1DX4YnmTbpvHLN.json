@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 230192,
       "name": "Akaishi",
       "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250723,
       "name": "Almost Summer",
       "url": "https://open.spotify.com/track/34SgPgumeEyuvYGacbF7o5"
@@ -261,6 +261,24 @@
       "duration_ms": 247283,
       "name": "As We Believed",
       "url": "https://open.spotify.com/track/0YS2Iy9JTHWVm4ros9DRJI"
+    },
+    {
+      "album": {
+        "name": "For Better Times",
+        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
+      },
+      "artists": [
+        {
+          "name": "Oakwood Station",
+          "url": "https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247283,
+      "name": "As We Believed",
+      "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
     },
     {
       "album": {
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190616,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/0qii8PVr6wKDNVbRM1ak1E"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 306664,
       "name": "East of the Sun (and West of the Moon)",
       "url": "https://open.spotify.com/track/1oGTlMPKfAs1o2nsPDd3MQ"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292290,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/230SRIeY6sOIr0jhks11Xz"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248165,
       "name": "Evans",
       "url": "https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235966,
       "name": "For a While",
       "url": "https://open.spotify.com/track/3M8PoIsAz4I62I71qPTQd4"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298573,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/0Y79Rig8KQP92y2npdG66D"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 296517,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/2YsAqYSahjKY9GJfP53qBx"
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 144375,
       "name": "Hector's Plan",
       "url": "https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277582,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/1c5xi6V22AXSmXJfcpWwII"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 203537,
       "name": "Hoping",
       "url": "https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326578,
       "name": "I Get a Kick Out of You",
       "url": "https://open.spotify.com/track/3nCttR5RYHt0bz1gBBv1UH"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209039,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/2JR9BtQ6Av9OAf3awQigf5"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284309,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/02YyWZyT3tosGHVbgeGKqr"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197846,
       "name": "I'm Glad I Met You",
       "url": "https://open.spotify.com/track/5rZvCfkmeomCu3XCtggNz5"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216347,
       "name": "If I Were You",
       "url": "https://open.spotify.com/track/2VypcGKVwuSqdDiTJ45vZh"
@@ -1438,6 +1456,24 @@
     },
     {
       "album": {
+        "name": "In Another Universe",
+        "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176729,
+      "name": "In Another Universe",
+      "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
+    },
+    {
+      "album": {
         "name": "In the Blue of Evening",
         "url": "https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr"
       },
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 350254,
       "name": "In the Blue of Evening",
       "url": "https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq"
@@ -1467,7 +1503,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 242410,
       "name": "Independence Road",
       "url": "https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm"
@@ -1557,7 +1593,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 252500,
       "name": "Its That Simple",
       "url": "https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8"
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 270376,
       "name": "Lady Sings the Blues",
       "url": "https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm"
@@ -1665,7 +1701,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204291,
       "name": "Lazy Strut",
       "url": "https://open.spotify.com/track/5pavJrzDLfSRYMl62vfcIq"
@@ -1853,7 +1889,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 231693,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap"
@@ -2051,7 +2087,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275325,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/0DEnkUHQ2ORI84fIwRCJYD"
@@ -2195,7 +2231,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 190168,
       "name": "Perception Through A Crystal Orb",
       "url": "https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK"
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 264028,
       "name": "Pink Balloons",
       "url": "https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir"
@@ -2249,7 +2285,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 303356,
       "name": "Quiescence",
       "url": "https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO"
@@ -2339,7 +2375,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 279750,
       "name": "Silent Thunder",
       "url": "https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV"
@@ -2429,7 +2465,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 212636,
       "name": "Sommarnattens Skeende",
       "url": "https://open.spotify.com/track/7gNdDvceGxqrxqdc1bDErq"
@@ -2537,7 +2573,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384904,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/41qzCwPm0Myt0uJIarjl4p"
@@ -2645,7 +2681,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301431,
       "name": "The Gypsy",
       "url": "https://open.spotify.com/track/5dPPpDUQvbMpJHsGVXtI1U"
@@ -2717,7 +2753,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 335029,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7l4tE0xjccA4ZLl8pDOJ83"
@@ -2771,7 +2807,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247448,
       "name": "This Can't Be Love",
       "url": "https://open.spotify.com/track/3KzQ6gEGrlhgIGbtglw0UK"
@@ -2843,7 +2879,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307993,
       "name": "To the Moon and Back",
       "url": "https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA"
@@ -2879,7 +2915,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263059,
       "name": "Turn Out The Stars",
       "url": "https://open.spotify.com/track/15zfQfeiejDgAA8MAc7S8d"
@@ -2897,7 +2933,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207124,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/2i6UvEb8X7i2oQTVHah3pV"
@@ -3085,7 +3121,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 191526,
       "name": "You Confuse Me",
       "url": "https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr"
@@ -3157,7 +3193,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 194245,
       "name": "You're Good to Me",
       "url": "https://open.spotify.com/track/66pIaEj18uvWZVUdagkzly"

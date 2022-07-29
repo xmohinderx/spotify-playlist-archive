@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,110 likes - 91 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,394 likes - 91 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 18 | [Business Class](https://open.spotify.com/track/6562NxLaKG87YFbsUHFBKu) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Business Class](https://open.spotify.com/album/6Q73cei1BLUT7RdFR7dDvX) | 4:42 |
 | 19 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 20 | [ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [witchpop](https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC) | 2:05 |
-| 21 | [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 |
+| 21 | [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 |
 | 22 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 23 | [Volga](https://open.spotify.com/track/5qr9PIZMCGVAHPCepRKFJb) | [Cream Soda](https://open.spotify.com/artist/0QTO0QZDjoyXxRtIgAU4GY) | [Volga](https://open.spotify.com/album/2qgIdPDAucGMjDmLSvFC43) | 5:16 |
 | 24 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 73 | [JPEG](https://open.spotify.com/track/7vgiGtKJ0uHroj1iyZwXuH) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [JPEG](https://open.spotify.com/album/1sHkNBY1Uy6H34UI6815jQ) | 2:51 |
 | 74 | [Brian is the Most Beautiful](https://open.spotify.com/track/1YkMJr3IwSLmMpcsBI5KWS) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/4Ei52mFcaEtc4yrQAPGS8w) | 3:45 |
 | 75 | [Itchy](https://open.spotify.com/track/3nuqSXnU3YUUpZ4yBdNlOG) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Enthusiast](https://open.spotify.com/album/7B6rBkpEo0yYgVUgKbcAHU) | 3:32 |
-| 76 | [Peroxide](https://open.spotify.com/track/5r0nz4nalNOBQAPKchQKRY) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:34 |
+| 76 | [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT) | 3:34 |
 | 77 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
 | 78 | [Luv Deluxe](https://open.spotify.com/track/6NFVMrNI3mHeFSAwdbAYfU) | [Cinnamon Chasers](https://open.spotify.com/artist/3q7uty73JMtjzCSJdGQD7B) | [A Million Miles from Home](https://open.spotify.com/album/4atwagTKLpazdKchxdJEnI) | 4:33 |
 | 79 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 | 90 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 |
 | 91 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 |
 
-Snapshot ID: `MTY1NzIwMDU5OCwwMDAwMDAxYjAwMDAwMTgxZDhkYTVkNGMwMDAwMDE4MGI5NzcxZjYw`
+Snapshot ID: `MTY1NzIwMDU5OCwwMDAwMDAwMDFjNGJkNjljNGQwYWYxMjYwYThlZjQ0ZWU3ZDQwNTQ1`

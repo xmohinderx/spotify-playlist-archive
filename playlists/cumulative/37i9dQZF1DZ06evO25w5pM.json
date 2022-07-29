@@ -293,7 +293,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 488840,
       "name": "Free Forever",
       "url": "https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 657026,
       "name": "Shamanic Healing",
       "url": "https://open.spotify.com/track/2mqLxY8Q3jH4VZxvKnscvc"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 349306,
       "name": "Unknown Doors",
       "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
@@ -1019,6 +1019,24 @@
       "duration_ms": 513840,
       "name": "Venus Rising",
       "url": "https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD"
+    },
+    {
+      "album": {
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336266,
+      "name": "Vollmond im Herbst (Full Moon in Autumn)",
+      "url": "https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A"
     },
     {
       "album": {

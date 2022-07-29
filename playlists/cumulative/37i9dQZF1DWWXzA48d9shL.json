@@ -3059,6 +3059,24 @@
     {
       "album": {
         "name": "Corrupted",
+        "url": "https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6"
+    },
+    {
+      "album": {
+        "name": "Corrupted",
         "url": "https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5"
       },
       "artists": [
@@ -3069,7 +3087,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134452,
       "name": "LED",
       "url": "https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC"
@@ -3447,6 +3465,24 @@
     {
       "album": {
         "name": "Hexada",
+        "url": "https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124538,
+      "name": "Mercury: Retrograde",
+      "url": "https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV"
+    },
+    {
+      "album": {
+        "name": "Hexada",
         "url": "https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e"
       },
       "artists": [
@@ -3457,7 +3493,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124538,
       "name": "Mercury: Retrograde",
       "url": "https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx"

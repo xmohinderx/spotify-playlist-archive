@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your dinner with bossa sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,756 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,871 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 17 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 |
 | 18 | [Strangers in the Night](https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Strangers in the Night](https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs) | 2:50 |
 | 19 | [Nothing To Lose \(from The Party\)](https://open.spotify.com/track/6hoPWPOBh92PQqkbqJmqdX) | [Owen Silberman](https://open.spotify.com/artist/7elv0yvaQGqWdcnwV1VVUy) | [Out of Tinseltown](https://open.spotify.com/album/4kihph6RfV3BjW5jrjYWJ4) | 3:22 |
-| 20 | [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 |
+| 20 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 |
 | 21 | [Cleopatra's Dream](https://open.spotify.com/track/79Pa36K6R3somBuhNi2B0V) | [Jonny Libonate](https://open.spotify.com/artist/6pS27rHwAFUbbLvuUWVZba) | [But Not for Me](https://open.spotify.com/album/5dC6hVfIA8U6WJbtbchXaE) | 3:08 |
 | 22 | [Praia à noite](https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Praia à noite](https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7) | 3:00 |
 | 23 | [O Viajante](https://open.spotify.com/track/1chb80aIieV42kYzBVQwTK) | [Jeferson Rios](https://open.spotify.com/artist/4PswPp5S57DQ5RJ39Y5Fj6) | [O Sabor Mais Doce](https://open.spotify.com/album/1sdxkpmLhPsz8JI1dunCFo) | 2:55 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 49 | [Doralice](https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:47 |
 | 50 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 |
 | 51 | [Drive\-Through Dinner](https://open.spotify.com/track/6xUyKTOx2LBGTlWz6Ndlvs) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:24 |
-| 52 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 |
+| 52 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 |
 | 53 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 |
 | 54 | [Coração Madura](https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6) | [Téo Freire](https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3) | [Coração Madura](https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC) | 2:00 |
 | 55 | [O Que Será](https://open.spotify.com/track/4ETY0pZlXh8rgVixElVF1E) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Eu vim da Bahia](https://open.spotify.com/album/1tQ1u6Kms69YAw9tjWMdF3) | 3:45 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 61 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 |
 | 62 | [Sentido](https://open.spotify.com/track/11UuEgcia8bJ4lS1uaFdAE) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Sentido](https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa) | 2:28 |
 | 63 | [Once I Loved](https://open.spotify.com/track/7tQUCA9GrJry8j3mIXfO77) | [Newton Bossa Trio](https://open.spotify.com/artist/6IjGZqlalneM5p6nkHsKCX) | [Retrato Em Branco E Preto](https://open.spotify.com/album/40Ucbyj5QRbtWFPhiwvqsO) | 4:48 |
-| 64 | [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 |
+| 64 | [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 |
 | 65 | [Coração Dolorido](https://open.spotify.com/track/0aAlTbi3bgYvVex42whvDZ) | [Vitor Vagner](https://open.spotify.com/artist/18kiPS1TIJ9akOTddrW7DH) | [Puxar Do Amor](https://open.spotify.com/album/3NA3vF96CZMerNw6J4hGAC) | 3:27 |
 | 66 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 |
 | 67 | [Standing Tall](https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX) | [Magnus Ringblom](https://open.spotify.com/artist/01s2QB29sjjLunqBoPfgGb) | [Blue Night Bossa](https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 99 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 |
 | 100 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MTY1NjQyODUyOSwwMDAwMDA0NjAwMDAwMTgxYWFkNTg2YWMwMDAwMDE4MTRjYTYzNmZj`
+Snapshot ID: `MTY1NjQyODUyOSwwMDAwMDAwMDNhNjcwYTkxMTdkNGUxMjE4ZjY3ZWUxZjMwMTY2ZDU4`

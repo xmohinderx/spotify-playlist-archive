@@ -30,6 +30,50 @@
     },
     {
       "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "\ucd5c\ud604\uc11d",
+          "url": "https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202683,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
+    },
+    {
+      "album": {
+        "name": "Whats wrong with secretary kim OST Part.4",
+        "url": "https://open.spotify.com/album/52fLYrQxllSI9fJOp0lS3I"
+      },
+      "artists": [
+        {
+          "name": "JINHO",
+          "url": "https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0"
+        },
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204628,
+      "name": "A little bit more",
+      "url": "https://open.spotify.com/track/7zQfolCu9NJF1M8rwPOERI"
+    },
+    {
+      "album": {
         "name": "A Thousand Miles",
         "url": "https://open.spotify.com/album/2c7wTvGT6ioIBKL3UrSGrd"
       },
@@ -169,7 +213,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
@@ -220,6 +264,28 @@
     },
     {
       "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Based On A True Story (Feat. HEIZE)",
+      "url": "https://open.spotify.com/track/0ORoBq47N6JHgFXq52UAtM"
+    },
+    {
+      "album": {
         "name": "Never Gonna Dance Again : Act 2 - The 3rd Album",
         "url": "https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC"
       },
@@ -235,7 +301,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215386,
       "name": "Be Your Enemy",
       "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
@@ -393,7 +459,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 214158,
       "name": "Cave Me In",
       "url": "https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk"
@@ -525,7 +591,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243106,
       "name": "Dawn do that",
       "url": "https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu"
@@ -701,6 +767,28 @@
       "duration_ms": 186823,
       "name": "DON`T SAY GOODBYE",
       "url": "https://open.spotify.com/track/0A7XRj5gP3Cx44awg1yOIE"
+    },
+    {
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
     },
     {
       "album": {
@@ -917,7 +1005,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191881,
       "name": "Fit Me",
       "url": "https://open.spotify.com/track/14jLZukXIILjBDMzUl5cuU"
@@ -1023,7 +1111,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229560,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/4l4VWSIalMF7SgjLsmUAlK"
@@ -1045,7 +1133,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217129,
       "name": "Friday (feat.Jang Yi-jeong)",
       "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
@@ -1093,7 +1181,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187089,
       "name": "Gloomy Star (feat. 1ho & Chan) [From \"Airman Morning Diaries #4\"]",
       "url": "https://open.spotify.com/track/1LTAktjPrsDNa56oVPO5Kv"
@@ -1119,6 +1207,28 @@
     {
       "album": {
         "name": "ZZZ",
+        "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "Hello Tutorial",
+      "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
+    },
+    {
+      "album": {
+        "name": "ZZZ",
         "url": "https://open.spotify.com/album/1h68ClpWp0bS59PAZuLk4X"
       },
       "artists": [
@@ -1133,7 +1243,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202342,
       "name": "Hello Tutorial",
       "url": "https://open.spotify.com/track/4vh0x47AvwbCywPOlEmfFQ"
@@ -1188,6 +1298,28 @@
     },
     {
       "album": {
+        "name": "I Wanna Be - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "album": {
         "name": "I'M OK (Feat. Kang Min Hee)",
         "url": "https://open.spotify.com/album/79i6QdjlG7LpQ824gTHtk9"
       },
@@ -1225,7 +1357,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228226,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6aULghOfvWw67SrLrpgCDG"
@@ -1353,7 +1485,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156818,
       "name": "Just Good",
       "url": "https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r"
@@ -1375,7 +1507,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
@@ -1405,6 +1537,28 @@
     {
       "album": {
         "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Let Me Go (with TAEYEON)",
+      "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
+    },
+    {
+      "album": {
+        "name": "with HER",
         "url": "https://open.spotify.com/album/4sHKlMflBj4kKQUmu2HPhv"
       },
       "artists": [
@@ -1419,7 +1573,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211346,
       "name": "Let Me Go (with TAEYEON)",
       "url": "https://open.spotify.com/track/23y3tFEhkTzBT46gRU6tjv"
@@ -1441,7 +1595,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207333,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT"
@@ -1471,10 +1625,32 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157607,
       "name": "Like a Joke",
       "url": "https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe"
+    },
+    {
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/3nl0nBHYgB06JpPrcsAYXd"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        },
+        {
+          "name": "Kim So-hee",
+          "url": "https://open.spotify.com/artist/3Tu9nOmJPyDU0iMigimme3"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205437,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2HrzH60nFePfGF5RqFK5YW"
     },
     {
       "album": {
@@ -1643,7 +1819,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 207056,
       "name": "Love Virus",
       "url": "https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG"
@@ -1687,7 +1863,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190257,
       "name": "Lovelylove (feat. CHOI NAKTA)",
       "url": "https://open.spotify.com/track/0tyXMBNyUjV5oSuctNXZaw"
@@ -1760,6 +1936,28 @@
     },
     {
       "album": {
+        "name": "homemade 1",
+        "url": "https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Mayday (feat. \uc870\uc774)",
+      "url": "https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke"
+    },
+    {
+      "album": {
         "name": "Me without you (feat. Moon Byul of MAMAMOO)",
         "url": "https://open.spotify.com/album/4eld4LZK1hzHeJZuBw8n35"
       },
@@ -1775,7 +1973,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211600,
       "name": "Me without you (feat. Moon Byul of MAMAMOO)",
       "url": "https://open.spotify.com/track/3FfvXpIMyw29AJ3ghGXEJ5"
@@ -1827,6 +2025,28 @@
     {
       "album": {
         "name": "My Lips Like Warm Coffee",
+        "url": "https://open.spotify.com/album/5RsWNGFreBwwHCHln5CL6D"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "My Lips Like Warm Coffee",
+      "url": "https://open.spotify.com/track/3BWTaW69km35u55PN4O1UH"
+    },
+    {
+      "album": {
+        "name": "My Lips Like Warm Coffee",
         "url": "https://open.spotify.com/album/1mqQdJZrS7jP4dSfOFMW3z"
       },
       "artists": [
@@ -1841,7 +2061,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214120,
       "name": "My Lips Like Warm Coffee",
       "url": "https://open.spotify.com/track/7j59Opz7qhb2aj7cnu7iLr"
@@ -1885,10 +2105,32 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249464,
       "name": "MYSELF (feat. george) (prod. APRO)",
       "url": "https://open.spotify.com/track/0NsOzFVBBphYwa0Qb5pLYu"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
     },
     {
       "album": {
@@ -1907,7 +2149,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190888,
       "name": "No Question",
       "url": "https://open.spotify.com/track/2roeoO9KuLK4mX34tCMkhd"
@@ -1951,7 +2193,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244493,
       "name": "Not Fine",
       "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
@@ -1995,7 +2237,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
@@ -2039,7 +2281,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 232866,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm"
@@ -2083,7 +2325,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 217412,
       "name": "Palette (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
@@ -2105,10 +2347,28 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239096,
       "name": "Perhaps Love",
       "url": "https://open.spotify.com/track/7Mfb2IwRNP8Qi7Ojtpmi37"
+    },
+    {
+      "album": {
+        "name": "Your BGM Vol.1",
+        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+      },
+      "artists": [
+        {
+          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
+          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239099,
+      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
+      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
       "album": {
@@ -2131,6 +2391,28 @@
       "duration_ms": 199524,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
     },
     {
       "album": {
@@ -2222,6 +2504,24 @@
     },
     {
       "album": {
+        "name": "Jinah Restaurant Full Course",
+        "url": "https://open.spotify.com/album/3YJ7luJijCzYELjuaAsaEb"
+      },
+      "artists": [
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226840,
+      "name": "RUN (with GRAY)",
+      "url": "https://open.spotify.com/track/0vwVGoBPYRRBnw2z8Nyssi"
+    },
+    {
+      "album": {
         "name": "Love Tape",
         "url": "https://open.spotify.com/album/6A8Dj6IhOrpOHfWwgh4YBw"
       },
@@ -2263,6 +2563,28 @@
     {
       "album": {
         "name": "See you",
+        "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
+      },
+      "artists": [
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "See you",
+      "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
+    },
+    {
+      "album": {
+        "name": "See you",
         "url": "https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG"
       },
       "artists": [
@@ -2277,7 +2599,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186666,
       "name": "See you - with Noair, Nason",
       "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
@@ -2299,7 +2621,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270986,
       "name": "Seperation in the daytime",
       "url": "https://open.spotify.com/track/4R06C6ucEHnDv1MvVdc5ql"
@@ -2478,6 +2800,28 @@
     },
     {
       "album": {
+        "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
+        "url": "https://open.spotify.com/album/256ayLAIoDGJ2mNBGYjeI0"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "Song Request \uc2e0\uccad\uace1 (feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/6Au7CCNN2wXgCNxdavgxDM"
+    },
+    {
+      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
@@ -2595,7 +2939,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -2739,6 +3083,28 @@
     {
       "album": {
         "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
         "url": "https://open.spotify.com/album/6kqBCAcmJtniQdJY0F8pr0"
       },
       "artists": [
@@ -2819,7 +3185,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 178966,
       "name": "Tea time (Feat. 10CM)",
       "url": "https://open.spotify.com/track/3JISGU3qHjPaBdWSh6ZJdq"
@@ -2841,7 +3207,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215203,
       "name": "Tear drops (feat. Whee In)",
       "url": "https://open.spotify.com/track/3ldLaJODjBgbUKKssJleqS"
@@ -2863,7 +3229,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 192493,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n"
@@ -3017,7 +3383,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209156,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/78Oao6HSlF71skOa8vgV4e"
@@ -3149,7 +3515,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 189920,
       "name": "Troll (Feat. DEAN)",
       "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
@@ -3315,10 +3681,36 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185601,
       "name": "Walk In The Night (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK"
+    },
+    {
+      "album": {
+        "name": "Waves (feat. Simon Dominic & Jamie)",
+        "url": "https://open.spotify.com/album/5ZwfFVBuxVS2lbbDR8vtDk"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Waves (feat. Simon Dominic & Jamie)",
+      "url": "https://open.spotify.com/track/6fXesHsuCFf80vYzDP26J5"
     },
     {
       "album": {
@@ -3483,7 +3875,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232194,
       "name": "WINE (Feat.Changmo)(Prod. by SUGA)",
       "url": "https://open.spotify.com/track/2WnJKDk2OlzrTL9OFsKDMW"
@@ -3593,7 +3985,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213125,
       "name": "You're here with Rain \ube44 \uc624\ub294 \ub0a0\uc774 \uc88b\uc544\uc9c8 \uac83 \uac19\uc544 (With Chamsom)",
       "url": "https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx"
@@ -3615,7 +4007,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
@@ -3703,7 +4095,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234761,
       "name": "\ub0b4 \uc598\uae30 \uac19\uc544 (Based On A True Story)",
       "url": "https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs"
@@ -3725,7 +4117,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
@@ -3791,7 +4183,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219106,
       "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
       "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"
@@ -3809,7 +4201,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228773,
       "name": "\ucee4\ud53c\ub97c \ub9c8\uc2dc\uace0 Coffee - Reprise",
       "url": "https://open.spotify.com/track/3PX5Hkkhh4da6Sntk3LwYo"

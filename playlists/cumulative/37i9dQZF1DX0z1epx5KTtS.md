@@ -4,7 +4,7 @@
 
 > African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-68 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
+69 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Statut visé](https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Statut visé](https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom) | 3:35 | 2022-07-21 |  |
 | [Super Fan](https://open.spotify.com/track/3XoJ1fhN3NACS4O5SbdkzJ) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Super Fan](https://open.spotify.com/album/3jdznaG1yv3fjgklH3BWtp) | 3:52 | 2021-12-20 | 2022-06-03 |
 | [Supporteurs Maso](https://open.spotify.com/track/5AmaKQXErLGa23mtFwI5lj) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Debordo Leekunfa](https://open.spotify.com/artist/7L6fUPhKqRJGYVB1hnrkfJ) | [Supporteurs Maso](https://open.spotify.com/album/6ySLqOgsAeIoT3PUm7Bk0k) | 3:33 | 2022-02-18 | 2022-07-22 |
-| [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 |  |
+| [Tala N'dile](https://open.spotify.com/track/15yN7E99wB5yo12CCr2G8F) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/2DWtnLOf0zcPrZWSmeShVT) | [Tala N'dile](https://open.spotify.com/album/47FvCt5Faqv33pjUi9omrW) | 3:54 | 2021-12-20 | 2022-07-29 |
+| [Tala n'dilé](https://open.spotify.com/track/71OGTXMcbDSajFHTEv7RNC) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Dj Arafat](https://open.spotify.com/artist/1N7LMMxLFkvp58rh2X9PFa) | [Tala n'dilé](https://open.spotify.com/album/1Z8uKJAU7A0kwrVTuhtzKS) | 3:53 | 2022-07-28 |  |
 | [Tia Lokolo](https://open.spotify.com/track/2HF3vfhadGD8031QYEi9UK) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6), [Extra Musica Nouvel Horizon](https://open.spotify.com/artist/2euF0knOB1Cv50nTlXGW98) | [Tia Lokolo](https://open.spotify.com/album/1ztxb2s1GFytG2MiUhNJge) | 4:12 | 2022-05-26 |  |
 | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/track/5SDXcxvvxGoLbfRKg8cX9x) | [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Toffole \(feat\. Koffi Olomidé\)](https://open.spotify.com/album/6pFvsYQ82OZLx1t5dtIxlQ) | 3:54 | 2022-07-21 |  |
 | [Touche ici](https://open.spotify.com/track/7KNBqiP45FqWEpI4Gh91NU) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [Touche ici](https://open.spotify.com/album/6whze3CYPWp0Wt797GKV0y) | 3:35 | 2021-12-20 |  |

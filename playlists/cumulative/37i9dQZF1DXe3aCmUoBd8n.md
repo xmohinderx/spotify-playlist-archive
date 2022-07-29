@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Wael Kfoury.
 
-73 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
+75 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/3kBNibb2D8hX0xnC695807)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Enti W Ana](https://open.spotify.com/track/4uVwxyBzFXXIy0iPUMExIc) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Enti W Ana](https://open.spotify.com/album/3aN1sOJg4kCaVpJbNfq3Cw) | 3:28 | 2022-05-04 | 2022-07-05 |
 | [Etelni Bgharamak](https://open.spotify.com/track/6Pyqe5UJ0X7vIjBzFbIjw3) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Etelni Bgharamak](https://open.spotify.com/album/0MnmYPo0doKbaor63FvX4S) | 3:04 | 2022-05-04 | 2022-06-21 |
 | [Fawran Gharam](https://open.spotify.com/track/4MbO1D7I7tRoL3HmCLffJa) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fawran Gharam](https://open.spotify.com/album/0G7WPxTsjvPtbNBe4jqyUx) | 3:14 | 2022-05-04 | 2022-07-17 |
-| [Fi El Alb Mkanak](https://open.spotify.com/track/7dFLwFVL39DouieWjW9VBA) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Fi El Alb Mkanak](https://open.spotify.com/album/3BhJFjCQJ44kzPLJ3YpUi2) | 2:01 | 2022-05-04 |  |
+| [Fi El Alb Mkanak](https://open.spotify.com/track/7dFLwFVL39DouieWjW9VBA) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Fi El Alb Mkanak](https://open.spotify.com/album/3BhJFjCQJ44kzPLJ3YpUi2) | 2:01 | 2022-05-04 | 2022-07-29 |
 | [Fi Hada](https://open.spotify.com/track/5zVJCIdTu3TTJ7wmPEW7in) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Fi Hada](https://open.spotify.com/album/1pkn5htK7BJJ5Mw7QB3kVp) | 3:39 | 2022-05-04 |  |
 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 | 2022-05-04 |  |
 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 | 2022-05-04 | 2022-07-17 |
@@ -77,8 +77,10 @@
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-17 |
 | [بحارب فيها](https://open.spotify.com/track/74dkAlEbjBPHK3HrLXiAmC) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بحارب فيها](https://open.spotify.com/album/4x1Bl2uSE5UPlfnQXwlo2U) | 4:05 | 2022-06-20 |  |
 | [زهرة من الياسمين](https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [زهرة من الياسمين](https://open.spotify.com/album/5CLgYJzaltpiwQOjXf4bD8) | 4:10 | 2022-07-16 |  |
-| [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-05-04 |  |
-| [قدام الكل](https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/49SBjUtuUUPV6AIAQk6lyL) | 2:56 | 2022-05-04 |  |
+| [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-27 |  |
+| [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-05-04 | 2022-07-29 |
+| [قدام الكل](https://open.spotify.com/track/29nkUuQAqOUUQPkcA21g74) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/49SBjUtuUUPV6AIAQk6lyL) | 2:56 | 2022-05-04 | 2022-07-29 |
+| [قدام الكل](https://open.spotify.com/track/2KTUVGrszTvLJa6zgWLmyL) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [قدام الكل](https://open.spotify.com/album/2wJA7q1P2mraW3kA51V2Rn) | 3:04 | 2022-07-27 |  |
 | [لسا معاكي](https://open.spotify.com/track/41QZQmkjJdoeDs1tXvHkTe) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [لسا معاكي](https://open.spotify.com/album/4YjpY7ewK48QYGBUMHoAoF) | 3:24 | 2022-05-04 | 2022-06-21 |
 | [وحدة استثنائية](https://open.spotify.com/track/3Bnv2cObKDoOkGsEUiB5ng) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [وحدة استثنائية](https://open.spotify.com/album/6TrVUinitYu2meZYum1FSI) | 3:32 | 2022-06-20 |  |
 

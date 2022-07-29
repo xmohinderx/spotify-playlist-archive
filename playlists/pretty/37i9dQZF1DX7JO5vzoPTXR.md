@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL?si=lJDj7G4CQzGuSE9m9TLILg&nd=1">Kate Bush</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,442 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,491 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 7 | [Breakfast](https://open.spotify.com/track/0EIw0ROJDcBJ5GD3oY6mLM) | [Alina Smith](https://open.spotify.com/artist/0yRUDVI598cLXxDpzn9TY8) | [Breakfast](https://open.spotify.com/album/1BqI0p6VvKaS0AJocmGPcA) | 3:07 |
 | 8 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 |
 | 9 | [evergreen](https://open.spotify.com/track/075oabiIyfrUrIjZgNQboz) | [carly and martina](https://open.spotify.com/artist/7D7UTmb1NyT7aOyi3nw1Uz), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [evergreen](https://open.spotify.com/album/4s7QFbsqSOZBEtJaOzHRgW) | 3:30 |
-| 10 | [crying in my car](https://open.spotify.com/track/7o1XtPp4otuCj5oTAXt55z) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:57 |
+| 10 | [crying in my car](https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 2:57 |
 | 11 | [Watered Down](https://open.spotify.com/track/30DUqapeoHovPC41AcSDK4) | [TOMI](https://open.spotify.com/artist/4FUg6Smq0DbieQJyg1AwXz) | [Used To](https://open.spotify.com/album/4hl5Rah3cAm4KRZAdx3Jvr) | 3:57 |
 | 12 | [Knee Jerk](https://open.spotify.com/track/3iDX1TuM0CBQSKxYLuMvmH) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [Knee Jerk](https://open.spotify.com/album/0Qv1aRIesBU792xX5LlT2J) | 3:44 |
 | 13 | [Down The Hall](https://open.spotify.com/track/6gTPIdCMVPosz8p2BlNLFM) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 4:30 |
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 24 | [Roller Coaster](https://open.spotify.com/track/1QnhBFAJOFrrzmLmoitgke) | [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Roller Coaster](https://open.spotify.com/album/4Xp68qJehZjNMLdldI6kWR) | 2:34 |
 | 25 | [Body](https://open.spotify.com/track/3NaaR0YYprRUSXsoj0U38G) | [syd B](https://open.spotify.com/artist/6cBSgFUoVWA9CIA159x2Jr) | [ARE YOU FEELING IT TOO?](https://open.spotify.com/album/547273O0NpqHgHA6SnHQCq) | 2:51 |
 | 26 | [Odogwu \(Freestyle\)](https://open.spotify.com/track/4CRib4CY4wsvDu5hSE0AUE) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Government Tropicana](https://open.spotify.com/album/3tkuw54Om8cV7UveFHFiRM) | 3:00 |
-| 27 | [Rae Street](https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/4UlYlmh4MZXio3RQc9Jmco) | 4:31 |
+| 27 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 |
 | 28 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 |
 | 29 | [Summer Fling](https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Summer Fling](https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE) | 3:35 |
-| 30 | [New Friends](https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:59 |
+| 30 | [New Friends](https://open.spotify.com/track/35qRwSUu7Z5bvqTE7iGyxi) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW) | 2:58 |
 | 31 | [End of the World](https://open.spotify.com/track/6JqvM0pNL3ENdJPZYlYcPY) | [Joyeur](https://open.spotify.com/artist/6KcrIG9ECqAUh7ETEZZAHh) | [End of the World](https://open.spotify.com/album/0zaJA2j9Xg3dBPW5aNWi31) | 3:56 |
 | 32 | [What We Had](https://open.spotify.com/track/7HVmwjRRWYH40tm9EG1sQb) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/2D23kwwoy2JpZVuJwzE42B) | 3:02 |
 | 33 | [Stay](https://open.spotify.com/track/0PoOUab1FVY2r1d3MlnF7S) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 3:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 |
 | 40 | [PROMISE](https://open.spotify.com/track/3vA8ZdIqvRARF2pVKlnAWD) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Perfect World](https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6) | 4:19 |
 
-Snapshot ID: `MTY1ODk3MTUwMiwwMDAwMDAwMDZlYjgxODhlYjNlOGM3ZmQ2ZWZmYmJiZTI0ZWI5ZDhm`
+Snapshot ID: `MTY1NzEzMTQ5NSwwMDAwMDAwMDU0NDQxNmQ4NzI2NDM4Y2JlYWY3ZWZlNjYxMjU4ZWY4`

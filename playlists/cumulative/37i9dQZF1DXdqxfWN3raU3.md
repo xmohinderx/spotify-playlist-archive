@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
 
-148 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+150 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Lente Oscuro a.k.a Calypso](https://open.spotify.com/track/67KF6zUkrB0hjIaA19AJOi) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem), [Claude](https://open.spotify.com/artist/6mnu6LSnQGOwpKPRAtWGHf) | [Lente Oscuro a.k.a Calypso](https://open.spotify.com/album/3vAOeQyazCeViaX2GgAJFp) | 4:37 | 2021-12-13 | 2022-01-29 |
 | [Limo](https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Limo](https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni) | 2:54 | 2021-12-13 | 2022-04-26 |
 | [Loco](https://open.spotify.com/track/6WeJGp7MB7sEEf9InLEvh1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Loco](https://open.spotify.com/album/32gGR2it3KcYu8geETxC3V) | 3:59 | 2021-12-13 |  |
-| [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 |  |
+| [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 | 2021-12-13 | 2022-07-29 |
+| [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 | 2022-07-22 |  |
 | [Luz de Luna](https://open.spotify.com/track/0iA0fZPjdfsc7cmlL164Qg) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO) | [Fuego](https://open.spotify.com/album/42myA7rDKd1QWWMATQldju) | 4:39 | 2021-12-13 |  |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2022-04-18 |  |
 | [Margaritas](https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Margaritas](https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2) | 2:46 | 2021-12-13 | 2022-01-13 |
@@ -110,7 +111,8 @@
 | [NOW](https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [NOW](https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC) | 3:12 | 2022-02-09 |  |
 | [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 | 2022-05-12 |  |
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2021-12-13 |  |
-| [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 | 2021-12-13 |  |
+| [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 | 2022-07-22 |  |
+| [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 | 2021-12-13 | 2022-07-29 |
 | [Para Dos](https://open.spotify.com/track/32UUJ4GlnEzQ6S7OlUxC8P) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Para Dos](https://open.spotify.com/album/1BncYNNGSaBgFKDJEdDCS9) | 2:37 | 2021-12-13 | 2022-05-13 |
 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-02-04 |  |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 | 2021-12-13 | 2022-01-29 |

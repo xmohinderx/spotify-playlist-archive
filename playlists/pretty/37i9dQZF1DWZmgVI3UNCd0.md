@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmgVI3UNCd0.md) - [plain]
 
 > Dastaangoi dedicates this playlist to tender moments South Asian parents shared growing up\. Songs that are deeply embedded in their memories celebrating moments of life, love and friendship\. Cover: Musarrat Nazir
 
-[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 33 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 33 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmgVI3UNCd0.md) - [plain]
 | 7 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 |
 | 8 | [Woh Jo Ham Men Tum Men Qarar Tha](https://open.spotify.com/track/3Wb8gdwqyagTVSrFtSUCFe) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [The Golden Collection](https://open.spotify.com/album/1yYQKKNEQOHDACLXHyyz54) | 5:57 |
 | 9 | [Mujhse Pehli Si Mohabbat](https://open.spotify.com/track/39hCQjPyTtsHzsp0cx1fuJ) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Tarannum, Vol\. 4](https://open.spotify.com/album/24FTirBUE0boEAbO7U18Ln) | 5:50 |
-| 10 | [Mehfil Barkhaast Hui](https://open.spotify.com/track/7zHbrlvHQvhSXsmh36w3CS) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 3:00 |
-| 11 | [Lutf Woh Ishq Mein](https://open.spotify.com/track/4vCG2aMaEOLNloaOQQmjlT) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 4:02 |
+| 10 | [Mehfil barkhaast hui](https://open.spotify.com/track/5nnL6byioZybOfiCqMtA9i) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/6eJixUL0T4Hbd5BGO6yqC1) | 3:00 |
+| 11 | [Lutf woh ishq mein](https://open.spotify.com/track/33VYVxMbibl2Vx1rB4ZhTk) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/6eJixUL0T4Hbd5BGO6yqC1) | 4:02 |
 | 12 | [Lag Ja Gale Se Phir](https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Woh Kaun Thi? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/579fdKlYum67csQuigB0Z2) | 4:17 |
 | 13 | [Aage Bhi Jane Na Tu](https://open.spotify.com/track/6FQSbXPFzdiqgJZU75Hesq) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Waqt \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/78PM5oV8DY3CG1MWwfF7Mi) | 7:25 |
 | 14 | [Teri Najat De Shok](https://open.spotify.com/track/41nTJumI2Adjw7njD5eEfV) | [Naheed Akhtar](https://open.spotify.com/artist/7kDFFnZKYdD7Z8972VTYYQ) | [Geet Aur Zaboor, Vol\. 2](https://open.spotify.com/album/6viFYeFTyLSQ8YtlEvHDxO) | 5:49 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmgVI3UNCd0.md) - [plain]
 | 32 | [Voh Jo Hum Mein](https://open.spotify.com/track/5XgnsIYusyRsFFsYRo6Bx6) | [Nayyara Noor](https://open.spotify.com/artist/5u2Lz8LpHaHK1YWg2pTDVD) | [Showcase Southasia, Vol\. 6](https://open.spotify.com/album/3RfePP9xSxQTc0wFo4JARc) | 5:00 |
 | 33 | [Ye Dhuaan Kahan Se Uthta Hai](https://open.spotify.com/track/3Zawa0Z9uxJ5oiFvGLk4nj) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [25 Everlasting Ghazals By Mehdi Hassan](https://open.spotify.com/album/4o0t32M7pq69MgYcddWw28) | 4:21 |
 
-Snapshot ID: `MTY1ODI5NzIxMSwwMDAwMDAwNDAwMDAwMTgyMWEzNzVhYmUwMDAwMDE4MjFhMzczOGJl`
+Snapshot ID: `MTY1ODI5NzIxMSwwMDAwMDAwMGYyNTQzYjMwYmJkODgzMWQ2ODQ0NGZkZWJiZjFmNTQw`

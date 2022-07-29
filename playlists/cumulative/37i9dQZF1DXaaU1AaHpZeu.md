@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Mira Paula
 
-732 songs - 1 day 17 hr 51 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
+733 songs - 1 day 17 hr 55 min - [published](https://open.spotify.com/playlist/4uzGNQNgXu38vLEswPLS4u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,8 @@
 | [Nada de Mí](https://open.spotify.com/track/6PEnbhOwaXXzO0WDjTPUxm) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Nada de Mí](https://open.spotify.com/album/2bNYu2mQP3yseAJcUVTTNi) | 2:32 | 2022-05-06 | 2022-05-20 |
 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 | 2022-04-29 | 2022-05-14 |
 | [Nada Que Ver](https://open.spotify.com/track/3VSZNY35QyJVDqjYuSJ94K) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Nada Que Ver](https://open.spotify.com/album/19CbXgP9Dc5Z8lJld7dQvo) | 3:16 | 2022-06-17 | 2022-06-25 |
-| [Nada Te Lastima](https://open.spotify.com/track/6XEEI8Fepn9n99SYwPTy95) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/7bINF9zY5uRXEssR7PKvhM) | 4:08 | 2022-07-15 |  |
+| [Nada Te Lastima](https://open.spotify.com/track/6XEEI8Fepn9n99SYwPTy95) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/7bINF9zY5uRXEssR7PKvhM) | 4:08 | 2022-07-15 | 2022-07-29 |
+| [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 | 2022-07-22 |  |
 | [nadie en casa](https://open.spotify.com/track/0pJ8b6kK9Y1xHuUGPuQVHU) | [Números Primos](https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7) | [nadie en casa](https://open.spotify.com/album/1m9gX5SGGZzgan3VoGfQeD) | 3:13 | 2022-04-29 | 2022-05-07 |
 | [Nadie me Gustó](https://open.spotify.com/track/68wJXTiDHhlJYN0xDDQHhr) | [Felix Alvarez](https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA) | [Nadie me Gustó](https://open.spotify.com/album/6zgt1qzmOBs8IEqf5Z0O8P) | 4:06 | 2022-04-15 | 2022-04-23 |
 | [Nana para Mamá](https://open.spotify.com/track/3cDmq6mlgFWbRybIE3WiSi) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Sin Prisa No Quiero Morir](https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01) | 5:33 | 2022-04-22 | 2022-04-29 |

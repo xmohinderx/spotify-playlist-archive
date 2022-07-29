@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover:  Eliza Rose",
+  "description": "The home for alternative electronic music. Cover:  TSHA",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -745,10 +745,32 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252805,
       "name": "Baby, We're Ascending - Edit",
       "url": "https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT"
+    },
+    {
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252805,
+      "name": "Baby, We're Ascending - Edit",
+      "url": "https://open.spotify.com/track/381kpaTALpjSXdzfUoFU20"
     },
     {
       "album": {
@@ -977,7 +999,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225021,
       "name": "Blush",
       "url": "https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7"
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 335961,
       "name": "BODMIN MOOR",
       "url": "https://open.spotify.com/track/1bxeDLruOvbsNsPuDCuDQj"
@@ -1155,7 +1177,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156912,
       "name": "Buccho Ni Ba Bhai (Grindin')",
       "url": "https://open.spotify.com/track/7ay5eafHMaUih54yiqjuDr"
@@ -1337,10 +1359,36 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 313885,
       "name": "Chaos Energy",
       "url": "https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG"
+    },
+    {
+      "album": {
+        "name": "Chaos Energy",
+        "url": "https://open.spotify.com/album/7cNZnFUMk3PSgW7ljGszFV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        },
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313885,
+      "name": "Chaos Energy",
+      "url": "https://open.spotify.com/track/4S1tnT9D73oTaGfihIGkOf"
     },
     {
       "album": {
@@ -1537,6 +1585,24 @@
     {
       "album": {
         "name": "Coochie (a bedtime story)",
+        "url": "https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Coochie (a bedtime story)",
+      "url": "https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg"
+    },
+    {
+      "album": {
+        "name": "Coochie (a bedtime story)",
         "url": "https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18"
       },
       "artists": [
@@ -1547,7 +1613,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182250,
       "name": "Coochie (a bedtime story)",
       "url": "https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt"
@@ -2003,7 +2069,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245000,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/7B3t50ucMsFyV7nLRAOSDy"
@@ -2057,7 +2123,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184421,
       "name": "Ex Voto",
       "url": "https://open.spotify.com/track/4A6TC1uWovEvUhY61WuwhV"
@@ -2832,6 +2898,32 @@
     },
     {
       "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Kai-Isaiah Jamal",
+          "url": "https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326146,
+      "name": "Human Sound",
+      "url": "https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4"
+    },
+    {
+      "album": {
         "name": "Human Sound",
         "url": "https://open.spotify.com/album/5J06rqfuFDWHsPvU6OrES6"
       },
@@ -2851,7 +2943,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq"
@@ -3593,7 +3685,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
@@ -4001,10 +4093,44 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185624,
       "name": "Mine O' Mine - Inner City Remix",
       "url": "https://open.spotify.com/track/0GSRErTHYi2AWD7rb1G2hb"
+    },
+    {
+      "album": {
+        "name": "Mine O' Mine (Inner City Remixes)",
+        "url": "https://open.spotify.com/album/3UqlkM75jlr3a2l1rr277L"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez Saunderson",
+          "url": "https://open.spotify.com/artist/7rymtwVS1IAIF9D4APLnOI"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Mine O' Mine - Inner City Remix",
+      "url": "https://open.spotify.com/track/7x9i6lKXes8EL21pCKldw9"
     },
     {
       "album": {
@@ -4019,10 +4145,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213884,
       "name": "miss me",
       "url": "https://open.spotify.com/track/6z0IGnMYKfbb6rDCCLE0lE"
+    },
+    {
+      "album": {
+        "name": "Miss The Days",
+        "url": "https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220650,
+      "name": "Miss The Days",
+      "url": "https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9"
     },
     {
       "album": {
@@ -4157,7 +4301,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
@@ -4433,7 +4577,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255483,
       "name": "On Your Mind",
       "url": "https://open.spotify.com/track/48SmaS7urDinYip1SsNKKp"
@@ -4628,6 +4772,28 @@
     },
     {
       "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
+    },
+    {
+      "album": {
         "name": "Pods",
         "url": "https://open.spotify.com/album/2yxxciiP7cj7fcuSx6WTwa"
       },
@@ -4817,6 +4983,28 @@
       "duration_ms": 336182,
       "name": "Raging",
       "url": "https://open.spotify.com/track/3EdqsQhgHfL5flGckIFukU"
+    },
+    {
+      "album": {
+        "name": "Rainbows and Dreams",
+        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281060,
+      "name": "Rainbows and Dreams",
+      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
     },
     {
       "album": {
@@ -5107,7 +5295,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379653,
       "name": "Satori",
       "url": "https://open.spotify.com/track/17SCJbXeu121LBiittnXTI"
@@ -5652,6 +5840,28 @@
     },
     {
       "album": {
+        "name": "Steamin",
+        "url": "https://open.spotify.com/album/00ciJacke9mRfbm616SfWq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Robinson",
+          "url": "https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Steamin",
+      "url": "https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU"
+    },
+    {
+      "album": {
         "name": "Steamroller",
         "url": "https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt"
       },
@@ -5663,10 +5873,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175213,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN"
+    },
+    {
+      "album": {
+        "name": "Sternenhimmel",
+        "url": "https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334886,
+      "name": "Sternenhimmel",
+      "url": "https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi"
     },
     {
       "album": {
@@ -5681,10 +5909,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298285,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/06dNaUoMbDGKFKA3KtSkck"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6nxJBK0M3lFEoFq1aPYshe"
+      },
+      "artists": [
+        {
+          "name": "Waleed",
+          "url": "https://open.spotify.com/artist/4WjyuUryzJgs8GukH5BZjs"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298285,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3OWJfQQGd8YuCRP2K6DkUa"
     },
     {
       "album": {
@@ -5747,7 +5993,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213850,
       "name": "Tahara",
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
@@ -6563,6 +6809,28 @@
       "duration_ms": 222253,
       "name": "Walking With Ur Smile",
       "url": "https://open.spotify.com/track/469tf6NgOf4nscrty0G9Us"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298713,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
     },
     {
       "album": {

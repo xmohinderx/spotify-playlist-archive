@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Finest of the Indian English Indie\. Cover \- Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,614 likes - 76 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,660 likes - 76 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 36 | [Into the Woods](https://open.spotify.com/track/6tS5yFBtVzDEAsbgk4DONu) | [Prashanth Techno](https://open.spotify.com/artist/4JFVZaGeqeKsZTec9xdUwc), [Aashaaa](https://open.spotify.com/artist/5JSviKyDNcTH0oLphFrpVx) | [Into the Woods](https://open.spotify.com/album/3jwR7GNB7jLzHO18nVAzdu) | 3:59 |
 | 37 | [100 words](https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 3:30 |
 | 38 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 |
-| 39 | [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 |
+| 39 | [I'm On Holiday](https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC) | 3:32 |
 | 40 | [Dear Us](https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Dear Us](https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm) | 3:06 |
 | 41 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
 | 42 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 59 | [Impact](https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Demons](https://open.spotify.com/album/3GfYjzOZ4XXKgsXnwzl17V) | 4:58 |
 | 60 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 |
 | 61 | [Makin' My Move](https://open.spotify.com/track/7FQ8a1PJLyQkiJCeI8MTVD) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [Makin' My Move](https://open.spotify.com/album/150hkUZW2dWT2CEDvk5UA1) | 4:19 |
-| 62 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 |
+| 62 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
 | 63 | [dancing in the bedroom sky](https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp), [Mehakk](https://open.spotify.com/artist/5LwKjozJ2UXQ87xIFeCBdr) | [dancing in the bedroom sky](https://open.spotify.com/album/1NuPAPVolzg3Wd5UbCwWUp) | 3:25 |
 | 64 | [A Shot of Alcohol](https://open.spotify.com/track/5RjOdVrGkXEo1hEaAlHgq4) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Prateek Kuhad](https://open.spotify.com/album/2XgppkF85xmQ2zCUqpuCjb) | 2:48 |
 | 65 | [Medieval Minds](https://open.spotify.com/track/5rhCzgfI1KYJJeCRvb10Kw) | [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Keba Jeremiah](https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c) | [Medieval Minds](https://open.spotify.com/album/4Wu97w4VsQIhIZ1br2Modf) | 3:49 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 75 | [Run Away Fade Away](https://open.spotify.com/track/5HhVt8U5NqH4zzOgfNESFx) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/1hWKy5EBlTQU2E8JnZvrtv) | 2:58 |
 | 76 | [Inside Out](https://open.spotify.com/track/7LIAu8r9Zv92LF8ZpKq5Zn) | [Thermal And A Quarter](https://open.spotify.com/artist/6lF7uyAQEbDrnFNAXyyQQ6) | [Inside Out](https://open.spotify.com/album/414ncNsZZbp83LU3VtH8n2) | 5:46 |
 
-Snapshot ID: `MTY1ODg0ODczNSwwMDAwMDA3NjAwMDAwMTgyM2IxNmYwNzgwMDAwMDE4MWRkMjcwNjc0`
+Snapshot ID: `MTY1ODk4NzE4MiwwMDAwMDAwMDEwMTU2Zjk5YTc5Y2Q1MWE1ODdhMjE2YjQ4ZmYwNGIw`

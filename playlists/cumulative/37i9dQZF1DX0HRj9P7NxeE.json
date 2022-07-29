@@ -726,6 +726,24 @@
     },
     {
       "album": {
+        "name": "BALIPRINT",
+        "url": "https://open.spotify.com/album/7h9NtyH8tMRvzRCWSJeDTE"
+      },
+      "artists": [
+        {
+          "name": "Bali Baby",
+          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132989,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/0DFKrmx5uIo71gPm6VtPgq"
+    },
+    {
+      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX"
       },
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132989,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"

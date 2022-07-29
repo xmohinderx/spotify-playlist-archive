@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-70 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
+72 songs - 5 hr 19 min - [published](https://open.spotify.com/playlist/0Z5cpGwOQ6Tu0NXcqKQnWM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 | 2022-05-13 |  |
 | [indriya](https://open.spotify.com/track/2kW2cm8R1FEukN8K2WMtiu) | [Dhani Bhagat](https://open.spotify.com/artist/4nJNF3n7utXCdvAJyEsPy6) | [phir milenge](https://open.spotify.com/album/5cIVE1dbRd4usP53KZYABL) | 3:20 | 2022-07-14 |  |
 | [Jijivisha](https://open.spotify.com/track/4zBb2qVZPBPIGHyVgigcgX) | [Nima Aurora](https://open.spotify.com/artist/1UQGA6jKplD3UepAJH3W0o) | [Jijivisha](https://open.spotify.com/album/57GQpNtXgfP9I0cezGPr0o) | 3:42 | 2022-07-14 |  |
-| [Journey to Sedna](https://open.spotify.com/track/2c3K1MgWaia5FlzbRBwLnb) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3dRqYrgTY9N0AdfP8LAfJQ) | 4:44 | 2022-05-13 |  |
+| [Journey to Sedna](https://open.spotify.com/track/0UgTFuBrddYbJ1eqxS1pQw) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 4:41 | 2022-07-14 |  |
+| [Journey to Sedna](https://open.spotify.com/track/2c3K1MgWaia5FlzbRBwLnb) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3dRqYrgTY9N0AdfP8LAfJQ) | 4:44 | 2022-05-13 | 2022-07-29 |
 | [Masal \- Instrumental](https://open.spotify.com/track/0J0f4HTpSzV5szjahBbSmA) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Neval](https://open.spotify.com/artist/3xsWhJ3BXOnSewlzawH8RU) | [Masal](https://open.spotify.com/album/38ODX8TSmkn3iKYjCDxYlh) | 2:52 | 2022-07-14 |  |
 | [Matunga Road](https://open.spotify.com/track/1xyPoM0HauExUsfEaIzdF0) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Moksha](https://open.spotify.com/album/0Kv8gZ0PQe6Bm7CP9Pv9qY) | 3:17 | 2022-07-14 |  |
 | [Meditation Mornings](https://open.spotify.com/track/5W4ANWiWKDqXSnAy5OMY7f) | [Zensi Rohr](https://open.spotify.com/artist/0hNw8GAS4OY89yOgEwj73C) | [Meditation Mornings](https://open.spotify.com/album/1zB1RPGJ3CromWAHcluklj) | 5:14 | 2022-05-13 |  |
@@ -53,7 +54,8 @@
 | [Root](https://open.spotify.com/track/2bUpNGlxoI9QpTOrmTNqFM) | [Healing Sound Project](https://open.spotify.com/artist/2D61uIHGdAYQ6rQ7nFK6Vs) | [Chakras](https://open.spotify.com/album/1Fr1EjvvT0rUD8WHvood3F) | 5:25 | 2022-05-13 |  |
 | [Sacred OM](https://open.spotify.com/track/2OjO1KxJ0dkXPL9L1lvM2S) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Sacred OM](https://open.spotify.com/album/2k2v55z4n0rcXAxfliymH2) | 4:56 | 2022-05-13 |  |
 | [Safe In Me](https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:16 | 2022-07-14 |  |
-| [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-05-13 |  |
+| [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 | 2022-05-13 | 2022-07-29 |
+| [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 | 2022-07-14 |  |
 | [Sapana](https://open.spotify.com/track/3vF3QhICER6LgljDmPDyFR) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Sapana](https://open.spotify.com/album/2jffMkVB0aQ7p0dZx3Xd3e) | 3:39 | 2022-07-14 |  |
 | [Saraswati Ma](https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 8:45 | 2022-05-13 |  |
 | [Sayam](https://open.spotify.com/track/6JgLsdhyec01b0xfFCLkJh) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Sayam](https://open.spotify.com/album/1xvXrzInGCTQbr7JXf9SzV) | 2:55 | 2022-05-13 |  |

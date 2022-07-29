@@ -1,38 +1,34 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 12193,
+  "num_followers": 12212,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk3MDI3NywwMDAwMDAwMDllZGM0ZjdlMmFjZWQ3NjVkNzE2OGY4NzJhMTIxMGUz",
+  "snapshot_id": "MTY0ODc4NTcyMCwwMDAwMDAwMDNkNTQ2NWFhZmE2NmEyNWFiNDFjYzZiNDVhNWVjMWVk",
   "tracks": [
     {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Break on Free",
-        "url": "https://open.spotify.com/album/4IiYcLuZPXFYRVifhPtQNx"
+        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
       },
       "artists": [
         {
           "name": "St. Paul Peterson",
           "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
       "duration_ms": 252226,
-      "name": "Break On Free",
-      "url": "https://open.spotify.com/track/4Fud3EZZ37BrkyPJyyxx5i"
+      "name": "Break on Free",
+      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
     },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "See the Moon",
-        "url": "https://open.spotify.com/album/7ne1A974f725ICMswwvG3e"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
       "artists": [
         {
@@ -50,23 +46,55 @@
       ],
       "duration_ms": 201626,
       "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)",
-      "url": "https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B"
+      "url": "https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 231880,
-      "name": "Signs, High Times",
-      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
+      "duration_ms": 208240,
+      "name": "Telephone Song",
+      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Travelin' Man",
+      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Voodoo Woman",
+      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -85,56 +113,20 @@
       "url": "https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Want My Crown",
-        "url": "https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y"
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 259226,
-      "name": "I Want My Crown",
-      "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 278634,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Bubbles",
-        "url": "https://open.spotify.com/album/6bIs6laKPXv8uQYPRGncif"
-      },
-      "artists": [
-        {
-          "name": "Rick Holmstrom",
-          "url": "https://open.spotify.com/artist/35UiXUhK0DxiIColZzzQ4P"
-        }
-      ],
-      "duration_ms": 143116,
-      "name": "Bubbles",
-      "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
+      "duration_ms": 231880,
+      "name": "Signs, High Times",
+      "url": "https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -155,18 +147,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Live From The Archive",
-        "url": "https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD"
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
       "artists": [
         {
-          "name": "Matt Schofield",
-          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 590720,
-      "name": "Black Cat Bone",
-      "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
+      "duration_ms": 323426,
+      "name": "Carry Yourself",
+      "url": "https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H"
     },
     {
       "added_at": "2022-01-21 05:02:00",
@@ -187,106 +179,38 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
         }
       ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
+      "duration_ms": 243200,
+      "name": "She Was a Doorman",
+      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
+      "added_at": "2021-10-01 04:02:00",
       "album": {
-        "name": "Funky Bitch / Ball and Chain",
-        "url": "https://open.spotify.com/album/6hruIYWB1piw5DLSX1RN2K"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU"
       },
       "artists": [
         {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Funky Bitch",
-      "url": "https://open.spotify.com/track/0G2iXcf4VmGsSKlyFpJ6vt"
-    },
-    {
-      "added_at": "2021-04-23 04:01:00",
-      "album": {
-        "name": "Stranger Blues (feat. Dashawn Hickman)",
-        "url": "https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO"
-      },
-      "artists": [
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
         },
         {
-          "name": "Lucy Woodward",
-          "url": "https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE"
-        },
-        {
-          "name": "Dashawn Hickman",
-          "url": "https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY"
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
         }
       ],
-      "duration_ms": 176722,
-      "name": "Stranger Blues (feat. Dashawn Hickman)",
-      "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 464373,
-      "name": "Crosscut Saw",
-      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "That's What I Heard",
-        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
-      },
-      "artists": [
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Rockin' The Blues",
-        "url": "https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Grits Ain't Groceries (All Around The World)",
-      "url": "https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj"
+      "duration_ms": 181939,
+      "name": "Going to the Party",
+      "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -305,52 +229,52 @@
       "url": "https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-06-11 04:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+        "name": "Traveler's Blues",
+        "url": "https://open.spotify.com/album/4qZssWithmdjNIlbve7XJ3"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Come To Mama",
-      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
+      "duration_ms": 272693,
+      "name": "Funky Bitch",
+      "url": "https://open.spotify.com/track/2YYFIVPhSTE4gCF7slbtDh"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj"
+        "name": "Handful Of Blues",
+        "url": "https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er"
       },
       "artists": [
         {
-          "name": "Raful Neal",
-          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
+          "name": "Robben Ford & The Blue Line",
+          "url": "https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV"
         }
       ],
-      "duration_ms": 290013,
-      "name": "You Been Sweet To Me",
-      "url": "https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G"
+      "duration_ms": 257959,
+      "name": "Chevrolet",
+      "url": "https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let's Roll",
-        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
+        "name": "Mess Of Blues",
+        "url": "https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Jeff Healey",
+          "url": "https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx"
         }
       ],
-      "duration_ms": 210773,
-      "name": "Lie No Better",
-      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+      "duration_ms": 226160,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -379,50 +303,42 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-04-23 04:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+        "name": "Stranger Blues (feat. Dashawn Hickman)",
+        "url": "https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Travelin' Man",
-      "url": "https://open.spotify.com/track/2SXScqW8fvm22mCNtQktME"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        },
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Lucy Woodward",
+          "url": "https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE"
+        },
+        {
+          "name": "Dashawn Hickman",
+          "url": "https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY"
         }
       ],
-      "duration_ms": 227880,
-      "name": "Put That Back",
-      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+      "duration_ms": 176722,
+      "name": "Stranger Blues (feat. Dashawn Hickman)",
+      "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -443,50 +359,134 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
         }
       ],
-      "duration_ms": 228200,
-      "name": "Voodoo Woman",
-      "url": "https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p"
+      "duration_ms": 203066,
+      "name": "Playing On Me",
+      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "On Tap",
-        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
+        "name": "Rockin' The Blues",
+        "url": "https://open.spotify.com/album/4jA0QvDt94H22KfLsEjELk"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Watch Me Move",
-      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
+      "duration_ms": 161160,
+      "name": "Grits Ain't Groceries (All Around The World)",
+      "url": "https://open.spotify.com/track/6SXpeLiRALz6OlaaTLGEqj"
+    },
+    {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2jbjjXR9ih6IfAHc387Kra"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 278634,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/20zYmG4UrXddZVz7enehdp"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Handful Of Blues",
-        "url": "https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er"
+        "name": "Live From The Archive",
+        "url": "https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD"
       },
       "artists": [
         {
-          "name": "Robben Ford & The Blue Line",
-          "url": "https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV"
+          "name": "Matt Schofield",
+          "url": "https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Chevrolet",
-      "url": "https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB"
+      "duration_ms": 590720,
+      "name": "Black Cat Bone",
+      "url": "https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I'm a Bluesman",
+        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "What Are You Doin' to Me",
+      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "I Wanna Get Funky",
+        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 464373,
+      "name": "Crosscut Saw",
+      "url": "https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 234906,
+      "name": "When A Woman's Had Enough",
+      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "I Want My Crown",
+        "url": "https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "I Want My Crown",
+      "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -507,70 +507,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "I Wanna Get Funky",
-        "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Playing On Me",
-      "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "The Hoodoo Kings",
-        "url": "https://open.spotify.com/album/3LYzCEBqDV8w5HSJQHSX77"
-      },
-      "artists": [
-        {
-          "name": "The Hoodoo Kings",
-          "url": "https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR"
-        }
-      ],
-      "duration_ms": 266426,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/6PUW6fl2e2tmdC3fKg2RAu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/1MetDXRjfRNyM5sIO4LzBF"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "Carry Yourself",
-      "url": "https://open.spotify.com/track/1HZz1dNkkeELD70jkM6opL"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Rhythm, Blues, Soul & Grooves",
-        "url": "https://open.spotify.com/album/1T1ts5Wqq0hqO888IRNFUO"
-      },
-      "artists": [
-        {
-          "name": "Bobby King",
-          "url": "https://open.spotify.com/artist/4YMQBkOwhlxWrgU3h6WZ7a"
-        },
-        {
-          "name": "Terry Evans",
-          "url": "https://open.spotify.com/artist/2pRTJxkj9tgEe7A4CCQdFt"
-        }
-      ],
-      "duration_ms": 278840,
-      "name": "We'll Always Be Together",
-      "url": "https://open.spotify.com/track/35lJrhNHp5g0rTEsue06Wh"
+      "duration_ms": 288360,
+      "name": "Come To Mama",
+      "url": "https://open.spotify.com/track/3j3pLudjSCN0kaXH0YCps8"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -600,45 +548,137 @@
           "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 228667,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        },
-        {
-          "name": "Lyrics Born",
-          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
-        }
-      ],
-      "duration_ms": 181939,
-      "name": "Going to the Party",
-      "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+      "duration_ms": 244623,
+      "name": "Same Ole Feeling",
+      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
     },
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "On Tap",
+        "url": "https://open.spotify.com/album/5SBCzYVKKttcMOu5m2FN7C"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Telephone Song",
-      "url": "https://open.spotify.com/track/3hGsDRUzPgXMDSRZzgXkhS"
+      "duration_ms": 245826,
+      "name": "Watch Me Move",
+      "url": "https://open.spotify.com/track/4UPOf0qg0qY2tw6cMSF04r"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Cover To Cover",
+        "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "The Moon Is Full",
+      "url": "https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 227880,
+      "name": "Put That Back",
+      "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "That's What I Heard",
+        "url": "https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I"
+      },
+      "artists": [
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 247640,
+      "name": "Stop On By",
+      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Meet Me in Chicago",
+      "url": "https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -652,57 +692,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 250333,
-      "name": "I'm Beginning To Wonder",
-      "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "I'm a Bluesman",
-        "url": "https://open.spotify.com/album/3w37tUJZ2IFUANBIxRMiuv"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "What Are You Doin' to Me",
-      "url": "https://open.spotify.com/track/4QfqueHQZPCKo0ndzDD7bz"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "She Was a Doorman",
-      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 234906,
-      "name": "When A Woman's Had Enough",
-      "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
+      "duration_ms": 332560,
+      "name": "Put The Shoe On The Other Foot",
+      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -716,9 +708,45 @@
           "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
         }
       ],
-      "duration_ms": 244623,
-      "name": "Same Ole Feeling",
-      "url": "https://open.spotify.com/track/6SeaebjgIWeOe8hhEOmgdR"
+      "duration_ms": 228667,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Bad Axe",
+      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -743,54 +771,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3koZiy03TZtXMIdhIX3OfL"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bad Axe",
-      "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Lover's Plea",
-        "url": "https://open.spotify.com/album/1eyGJC7Mk4pLwKD6LsK4ce"
-      },
-      "artists": [
-        {
-          "name": "W.C. Clark",
-          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Lover's Plea",
-      "url": "https://open.spotify.com/track/0v2dnxnmHxKy8HGrKuLCes"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Satisfaction Guaranteed",
-        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "A Man's Got To Do What A Man's Got To Do",
-      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Shine Bright",
         "url": "https://open.spotify.com/album/5yP8HnU8eGBDjRN6GxOgVh"
       },
@@ -807,40 +787,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Iceman",
-        "url": "https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 332560,
-      "name": "Put The Shoe On The Other Foot",
-      "url": "https://open.spotify.com/track/19maOy2xgQP0FxuWqsey2n"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/7A2FDUfoCPcnp7OcUiL4vO"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 200866,
-      "name": "Heart of Saint Paul",
-      "url": "https://open.spotify.com/track/6Rm50WcWlHBu0X0TQyLKnU"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs"
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
       },
       "artists": [
         {
@@ -848,9 +796,57 @@
           "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 247640,
-      "name": "Stop On By",
-      "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+      "duration_ms": 210773,
+      "name": "Lie No Better",
+      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
+    },
+    {
+      "added_at": "2021-04-23 04:01:00",
+      "album": {
+        "name": "Fire It Up",
+        "url": "https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn"
+      },
+      "artists": [
+        {
+          "name": "Steve Cropper",
+          "url": "https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S"
+        }
+      ],
+      "duration_ms": 193010,
+      "name": "I'm Not Havin' It",
+      "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/4eg05LO0iG3uN248Bj8Gvj"
+      },
+      "artists": [
+        {
+          "name": "Raful Neal",
+          "url": "https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0"
+        }
+      ],
+      "duration_ms": 290013,
+      "name": "You Been Sweet To Me",
+      "url": "https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Satisfaction Guaranteed",
+        "url": "https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "A Man's Got To Do What A Man's Got To Do",
+      "url": "https://open.spotify.com/track/3etugzuGvG8rOYzKINcBZR"
     }
   ],
   "unique_name": "Funky Blues",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Highly Suspect
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,621 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,713 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Natural Born Killer](https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Natural Born Killer/Pink Lullabye](https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF) | 3:16 |
 | 2 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 |
 | 3 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 |
-| 4 | [Deep Cuts](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Deep Cuts](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
+| 4 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 5 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 |
 | 6 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 |
 | 7 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 27 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 28 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 29 | [10:36](https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [10:36](https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz) | 3:15 |
-| 30 | [Scared Together](https://open.spotify.com/track/0TiFytLGWmpb19yI0jOe3N) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Scared Together](https://open.spotify.com/album/1ZFett7XcEMcGLIaod85wq) | 3:56 |
+| 30 | [Scared Together](https://open.spotify.com/track/1izfiChi4WU4EVXhhRtbcR) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Scared Together](https://open.spotify.com/album/48lWaEKSlFV0VzV0B5PWle) | 3:56 |
 | 31 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 32 | [Broken](https://open.spotify.com/track/3tnKdIkmqLiL9UKxxqjM8C) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Broken](https://open.spotify.com/album/1ADbmheBGdOcaAIF44h4Yu) | 3:10 |
 | 33 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
 | 34 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 |
-| 35 | [Weeds](https://open.spotify.com/track/18VKRCSACNmFwlkTJaEAN5) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3SOztDjLYPYH0BPlPncpoI) | 3:22 |
+| 35 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 36 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 |
 | 37 | [Stay Out Of It](https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Stay Out Of It](https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc) | 3:05 |
 | 38 | [All Comes Crashing](https://open.spotify.com/track/1gKLWryPONC9dyrx5fX3Dr) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [All Comes Crashing](https://open.spotify.com/album/7uOTYWH3RBce6YFD7hRnvY) | 4:23 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 45 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 |
 | 46 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 |
 | 47 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
-| 48 | [Wonderful Life \- edit](https://open.spotify.com/track/4xcTOmWUBUOKbsa7UewmLH) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/2xH369QbqwYtRNDhJZvbuF) | 3:05 |
+| 48 | [Wonderful Life \- Edit](https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7) | 3:05 |
 | 49 | [Want Want](https://open.spotify.com/track/5fmaigGNZqMUv3bW6FCs2L) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Want Want](https://open.spotify.com/album/4hHUyNuLV7kIyHh4pBQNCE) | 3:08 |
 | 50 | [Manic Memories](https://open.spotify.com/track/7mV6f3PA5tV74Q7vkGi0zB) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Manic Memories](https://open.spotify.com/album/66Utp1WW0wprfonCtNSa3X) | 3:20 |
 | 51 | [Friends I Barely Know](https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Friends I Barely Know](https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5) | 2:59 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 65 | [more than life \(feat\. glaive\)](https://open.spotify.com/track/7IRe1bo7Zm0q5Fn9MlNMZM) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [more than life \(feat\. glaive\)](https://open.spotify.com/album/4muxcqXXIZKuxmrDJQnvNN) | 3:16 |
 | 66 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
 | 67 | [Bad Days](https://open.spotify.com/track/0kdMzZ1w3x4PE8gHfkhvgW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Bad Days](https://open.spotify.com/album/39eAX2WHDwMsa0q7Wrd0Iz) | 2:22 |
-| 68 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 |
+| 68 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 |
 | 69 | [High Water](https://open.spotify.com/track/0ZrHaA9ei55Km65yBodElf) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [High Water / Art of Survival](https://open.spotify.com/album/35Wec8JgWduyeZnMsvPpym) | 3:09 |
 | 70 | [Spinning the Truth Around](https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Spinning the Truth Around](https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP) | 4:49 |
 | 71 | [Remind Me](https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Remind Me](https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1) | 3:02 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 77 | [Body Language](https://open.spotify.com/track/4bBmkUUotaleotNdgSwsen) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Body Language](https://open.spotify.com/album/5TsfSsuDSUjNWuAJ3KoPdW) | 3:23 |
 | 78 | [Don't Miss](https://open.spotify.com/track/1XS9ZXy3Z17ptOVRO3i02e) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Don't Miss](https://open.spotify.com/album/5yHrrUGbMoZxefRxJY1LN9) | 3:06 |
 | 79 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
-| 80 | [Speeding 72](https://open.spotify.com/track/50TKkG4ZjGXnCbmgEGAzSQ) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1Ejx8qYgxofpdbCI68na6f) | 3:58 |
+| 80 | [Speeding 72](https://open.spotify.com/track/2Yxa0oCeD9icx1JTTaJ7bp) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:58 |
 | 81 | [Punk Rock Loser](https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Cave World](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt) | 3:57 |
 | 82 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 83 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 |
-| 84 | [Dangerous](https://open.spotify.com/track/4gIGsI98cnPqRDVXvXquj5) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/2DleYTBfwSskKiMi0vkuuh) | 3:07 |
+| 84 | [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 |
 | 85 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 |
 | 86 | [Flowers](https://open.spotify.com/track/7ucHXmOqOCw0tohI4vmOZT) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Talk Talk](https://open.spotify.com/album/3OAeHXReEGUkwcwmrQfvW3) | 3:08 |
 | 87 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 |
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 108 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 109 | [Skate](https://open.spotify.com/track/3CU1EgZ6iZyEioUJd85Rjb) | [flor](https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb) | [Skate / Big Shot / Play Along](https://open.spotify.com/album/5K9pA1ilpoUuGCkLdy6D6n) | 2:53 |
 | 110 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
-| 111 | [Bad Love](https://open.spotify.com/track/6AZR63Bq7BeLnhUHDHzSYw) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:30 |
+| 111 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 | 112 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
 | 113 | [Hertz](https://open.spotify.com/track/7fri3wodaEszuJBZcGB4VF) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 2:33 |
 | 114 | [Shine A Light](https://open.spotify.com/track/4Nj2u5IeS8CenFKuSATlm8) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Shine A Light](https://open.spotify.com/album/7b6ghBEIH75YC11a9bNQzA) | 5:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Splinter](https://open.spotify.com/track/1oMKYS43XRqNsY1SVuiCoJ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Splinter](https://open.spotify.com/album/41mLVNvRtzAvh8W3Ybhx6K) | 2:28 |
 | 125 | [toxic crush](https://open.spotify.com/track/4jx3OhzeLknPoF52To841h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 4](https://open.spotify.com/album/3bR27hf8msbWz6q9km7S5N) | 2:14 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDZkMTAwMDAwMTgyMjQwZmVmMTQwMDAwMDE4MjIyZTc1Y2Nm`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDhmYmQzOGM5NTM0Zjg5Njk0ZDBkZWY0YmJmY2VmYmJh`

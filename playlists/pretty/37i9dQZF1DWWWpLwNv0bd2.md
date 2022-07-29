@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Love Tunes.<br/>Cover : Thiruchitrambalam
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,298 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,395 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 20 | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/track/0yV1ttdm79H1jvaFLGFOB3) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Karthika Vaidyanathan](https://open.spotify.com/artist/6JU9Z6CZZFeOO4pqZUJ3TS) | [Mittai Mittai \(From "Anel Meley Pani Thuli"\)](https://open.spotify.com/album/0mJqaxb4ZJkbJZrgwj000x) | 4:48 |
 | 21 | [Sandaaliye \- From "Yaanai"](https://open.spotify.com/track/0R7eQb7mnHqftgII5Ytzxp) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Sandaaliye \(From "Yaanai"\)](https://open.spotify.com/album/6xgq0BWnhEoAc1SGA76PaJ) | 4:19 |
 | 22 | [Kone Komaane](https://open.spotify.com/track/0pgcemvSQD0ZdZBDtZqY5o) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Chandana Bala Kalyan](https://open.spotify.com/artist/229U8W2owEe3012apvgbwb) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 5:35 |
-| 23 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 |
+| 23 | [Mayakirriye](https://open.spotify.com/track/23netDpLwSCf0IxldbbMuF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye \- Single](https://open.spotify.com/album/3SPqv6jQCx2HoaO3qna0A5) | 3:09 |
 | 24 | [Baby](https://open.spotify.com/track/4t14FoGOyLUyadT7RkzZNO) | [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp) | [Baby \(From "Madhil Mel Kaadhal"\)](https://open.spotify.com/album/1lbLfuJjIfjOMA21icZGzw) | 4:27 |
 | 25 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 |
 | 26 | [Kannaatti \- From "Nooru Kodi Vaanavil"](https://open.spotify.com/track/078WZFboD5e0uQeYR2xpqd) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Kannaatti \(From "Nooru Kodi Vaanavil"\)](https://open.spotify.com/album/3nqzwf8h7PsjuurResxVIp) | 3:21 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 54 | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/55mEN7iiqTNzWfYjF8QbQn) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW), [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7) | [Oru Manam \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/69MQlshE2Cveetu5T2b2JT) | 5:40 |
 | 55 | [Kanave Nee Naan](https://open.spotify.com/track/16ASkQZ0cTrSdUYU1TB2nt) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Kannum Kannum Kollaiyadithaal](https://open.spotify.com/album/75tmDdVdpjSQwoEc0WjRug) | 2:04 |
 
-Snapshot ID: `MTY1ODkyOTY4OSwwMDAwMDA5MjAwMDAwMTgyM2ZlYTMyZjUwMDAwMDE4MjA3YjI0MmNk`
+Snapshot ID: `MTY1ODkyOTY4OSwwMDAwMDAwMDA1NzQ2MmVkYjIwYjhmNGE0Yjk3YjNlNjg0NWU0Yzg0`

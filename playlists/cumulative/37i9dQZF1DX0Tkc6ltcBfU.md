@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Lil Baby
 
-328 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+329 songs - 15 hr 38 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,8 @@
 | [Talk My Shit](https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Talk My Shit](https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS) | 2:29 | 2022-01-21 | 2022-02-12 |
 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 |  |
 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-14 | 2022-02-05 |
-| [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-08 |  |
+| [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-08 | 2022-07-29 |
+| [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-08 |  |
 | [The Mob](https://open.spotify.com/track/6NuGhdLQfrYvG5wBnaBnb1) | [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [YNW Bortlen](https://open.spotify.com/artist/5jx69PEwHeFm5MDZ695RIV) | [The Mob](https://open.spotify.com/album/2xrLka9kKRcFwFXCIfkC04) | 3:57 | 2022-03-11 | 2022-04-23 |
 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 | 2022-07-22 |  |
 | [The World Is Yours](https://open.spotify.com/track/5GOScDxUt3v3UP0SqfFwXJ) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Under Investigation 3](https://open.spotify.com/album/4fLrea4VuVYG6EpJEARt4R) | 2:27 | 2022-04-29 | 2022-06-18 |

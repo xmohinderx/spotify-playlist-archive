@@ -4,7 +4,7 @@
 
 > The latest from ONE OK ROCK along with the top Rock songs you need to know.
 
-169 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
+170 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2022-06-03 |  |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-05-13 |  |
 | [Futureproof](https://open.spotify.com/track/68G22FmZ30XgaRh00pKIeV) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Futureproof](https://open.spotify.com/album/3WPv587cMDBKsIDpgrZeEX) | 3:27 | 2021-06-11 | 2022-02-26 |
-| [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-25 |  |
+| [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 | 2022-03-25 | 2022-07-29 |
+| [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-07-22 |  |
 | [Hanging by a Thread](https://open.spotify.com/track/1qykiBzyIdLMbot7iamJGp) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Hanging by a Thread](https://open.spotify.com/album/4f6QVZ06rVj6oeOnmkTmwg) | 3:18 | 2021-09-10 | 2022-03-26 |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-11 |  |
 | [HELL TO HAVE YOU](https://open.spotify.com/track/75IgEto7grPuLZpqr1L1kQ) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [HELL TO HAVE YOU](https://open.spotify.com/album/51V2jJXgwO5nZ1qfrEXMNU) | 2:53 | 2021-10-20\* | 2021-12-11 |

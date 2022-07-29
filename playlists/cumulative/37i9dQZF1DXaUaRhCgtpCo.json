@@ -390,6 +390,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist #1",
+        "url": "https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj"
+      },
+      "artists": [
+        {
+          "name": "R3X",
+          "url": "https://open.spotify.com/artist/2NMTE0NjCxiFqSWWnoizOe"
+        },
+        {
+          "name": "Figrin D'an and the Modal Nodes",
+          "url": "https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174410,
+      "name": "Cantina Song aka Mad About Mad About Me",
+      "url": "https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },
@@ -905,7 +927,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174410,
       "name": "Mad About Mad About Me",
       "url": "https://open.spotify.com/track/3hr66Xi9ePeBiIVgii4VKH"
@@ -1404,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett",
+      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
+    },
+    {
+      "album": {
         "name": "The Book of Boba Fett (From \"The Book of Boba Fett\")",
         "url": "https://open.spotify.com/album/1JJlW7PNpoGxBVPTftZmHP"
       },
@@ -1415,7 +1455,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175699,
       "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
       "url": "https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC"
@@ -1701,10 +1741,32 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145080,
       "name": "The Moisture Farm",
       "url": "https://open.spotify.com/track/2D9uc4pL6wor8560PWMj8h"
+    },
+    {
+      "album": {
+        "name": "Star Wars Sampler",
+        "url": "https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "The Moisture Farm - From \"Star Wars: A New Hope\"",
+      "url": "https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0"
     },
     {
       "album": {

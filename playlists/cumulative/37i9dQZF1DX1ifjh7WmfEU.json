@@ -1021,6 +1021,28 @@
     {
       "album": {
         "name": "Ichi",
+        "url": "https://open.spotify.com/album/2iN6rDyhD5EDMx8gWJkZXP"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        },
+        {
+          "name": "Yoko Komatsu",
+          "url": "https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ichi",
+      "url": "https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU"
+    },
+    {
+      "album": {
+        "name": "Ichi",
         "url": "https://open.spotify.com/album/4wPcgep4roXHBItiHY6YXc"
       },
       "artists": [
@@ -1035,7 +1057,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180000,
       "name": "Ichi",
       "url": "https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X"
@@ -1377,10 +1399,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165720,
       "name": "Lyra",
       "url": "https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP"
+    },
+    {
+      "album": {
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF"
+      },
+      "artists": [
+        {
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX"
     },
     {
       "album": {
@@ -2115,10 +2155,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129310,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/0ZcOyuTyRRZ6c7ZH1kPyXr"
+    },
+    {
+      "album": {
+        "name": "Sincerely",
+        "url": "https://open.spotify.com/album/514tfPgBudvUqz3bM5AgYt"
+      },
+      "artists": [
+        {
+          "name": "Thomas Erwin",
+          "url": "https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129310,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/37118DI0c687jeVzVJ7PpU"
     },
     {
       "album": {

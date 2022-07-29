@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: John Moreland
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,855 likes - 151 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,117 likes - 151 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 21 | [Follow Me Down](https://open.spotify.com/track/1srZbbOjjGQ7B4ILUrck7l) | [Emily Hackett](https://open.spotify.com/artist/4dTcd3R8sIuVhoOlqgqr0V) | [Follow Me Down](https://open.spotify.com/album/5ckzUx2HRZkghJO4NIs3H1) | 3:57 |
 | 22 | [Melt Away](https://open.spotify.com/track/01yFvMxBZDJ9nbmCgGpG1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Melt Away: A Tribute To Brian Wilson](https://open.spotify.com/album/0AEoTr8vxfRrNIxawzjEMR) | 3:51 |
 | 23 | [Nye](https://open.spotify.com/track/1I0KSR8Fc55Ba67klces7c) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Nye](https://open.spotify.com/album/3Ra97eYeHQXTw2scDmpkm1) | 2:46 |
-| 24 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 |
+| 24 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 |
 | 25 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 26 | [Panorama](https://open.spotify.com/track/0pmgZmtGIq5kfoGaOD5RGh) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Panorama](https://open.spotify.com/album/2MqgZPGy5XoByGtlsxYslL) | 3:25 |
 | 27 | [Flying :\)\)](https://open.spotify.com/track/39FexuVmNT8zcnB1DoscSn) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Flying :\)\)](https://open.spotify.com/album/05GoTeYEXV6HctXBdaulXs) | 2:59 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 32 | [I'm a Man](https://open.spotify.com/track/0x0BAh5h0ttabkoiWcv3Wo) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [I'm a Man](https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn) | 3:01 |
 | 33 | [Where You Want Me](https://open.spotify.com/track/7ewY0v6vBdGbUoNX8D9R1v) | [Arlo McKinley](https://open.spotify.com/artist/4bnCmwKU89Rt1zWnRIdSUa) | [This Mess We're In](https://open.spotify.com/album/5CK0pgc09TdzFBkNUQ5GR9) | 3:24 |
 | 34 | [Pictures](https://open.spotify.com/track/6EOttf7eQxRfWMFmx0SLa8) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Pictures](https://open.spotify.com/album/04ENJy5OwAzzTqegpuXhbL) | 2:44 |
-| 35 | [Empty Cups](https://open.spotify.com/track/13XKJvZR056EohASW0HbUr) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Empty Cups](https://open.spotify.com/album/2nhJagJdDu6aTAWZXvFPeu) | 3:58 |
+| 35 | [Empty Cups](https://open.spotify.com/track/4Ihis6uekV1faime2CKvb4) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Empty Cups](https://open.spotify.com/album/1EwHagwnHDFAsMnNuKXEQK) | 3:58 |
 | 36 | [Lava Lamp](https://open.spotify.com/track/69LXNmjYiagxYUdcrTvbi4) | [Jonah Tolchin](https://open.spotify.com/artist/66jsWaGhzSpHH1KRF34Oq3) | [Lava Lamp](https://open.spotify.com/album/6nw0XLtOnFiE11qoyIKJDy) | 4:04 |
 | 37 | [Burlesque Desert Window](https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Burlesque Desert Window](https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4) | 2:59 |
-| 38 | [Blood Harmony](https://open.spotify.com/track/4O1FoNb9yC3B7Ts3KOMWt2) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/3oghxFoXbe6RZup0thSLiz) | 4:05 |
+| 38 | [Blood Harmony](https://open.spotify.com/track/03DkpmmMGvsyuNjb7rBn72) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1YLPn4tEqchhJIwB5fPt6k) | 4:05 |
 | 39 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
 | 40 | [Black Widow](https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Black Widow](https://open.spotify.com/album/1dUzfaYpBcr4s8yCg8IpYD) | 2:50 |
 | 41 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 97 | [Show Me the Way](https://open.spotify.com/track/6zmNS6dClkVdEncTEwnpGB) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Show Me the Way](https://open.spotify.com/album/4B7tfYlJdFfDMiXuKQztJe) | 4:05 |
 | 98 | [In The Pines](https://open.spotify.com/track/4gOHmHKTn63012ROseKHvR) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [In The Pines](https://open.spotify.com/album/4J4zam9BmBnrGSzrI7SrMp) | 3:37 |
 | 99 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
-| 100 | [Paloma](https://open.spotify.com/track/0fVw2vdAUUNgNUL5REG10B) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Paloma](https://open.spotify.com/album/0XB0Ll181QSRpd2rSOKzfo) | 3:57 |
+| 100 | [Paloma](https://open.spotify.com/track/5avKlMkTm4lYE9ifMmjDC9) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Paloma](https://open.spotify.com/album/1xASjRGvD8TbAWdFPQihBD) | 3:57 |
 | 101 | [The Ship](https://open.spotify.com/track/5q4wZ86fbH1BAtxyoY6vj6) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [The Ship](https://open.spotify.com/album/30zeGnOWwx2Ke20KAd3OgT) | 3:01 |
 | 102 | [Brady Street](https://open.spotify.com/track/2Kea9YLyZhsOSXvIybWDrF) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [Brady Street](https://open.spotify.com/album/6jiZCje7hfougIXBWnzwwH) | 3:08 |
 | 103 | [White Rabbit \(feat\. Michelle Branch\)](https://open.spotify.com/track/3vytvFuEeRHKgmgNA0Ur7X) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc), [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:55 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 114 | [Virginia](https://open.spotify.com/track/1GYSSKVMZB4GNGsP2h0EZJ) | [Torri Weidinger](https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM) | [Virginia](https://open.spotify.com/album/4oXf7xYBCRgxDsA8QyxU4b) | 4:13 |
 | 115 | [Until You \- Acoustic](https://open.spotify.com/track/2E6s4inXC6MnvNlxwaDu7X) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You \(Acoustic\)](https://open.spotify.com/album/0tEXwKW165mkLNGv0OL9M1) | 3:17 |
 | 116 | [Lonely Nights](https://open.spotify.com/track/5AzmKbqdNE0waODqrzZFm3) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Lonely Nights](https://open.spotify.com/album/6TDPDqFhN723c6BMCZcIWV) | 4:01 |
-| 117 | [Way I Go](https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj) | 4:07 |
+| 117 | [Way I Go](https://open.spotify.com/track/5fMTQPtPqEGNCI9gDGTruc) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Way I Go](https://open.spotify.com/album/2BI8iTUQ5STaPPE8HowGNq) | 4:07 |
 | 118 | [Alone With You](https://open.spotify.com/track/6cgcYwURXMDZYYlMT4ufw6) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Alone With You](https://open.spotify.com/album/3WmofPdeujCqWQXJlCcEX0) | 4:23 |
 | 119 | [Chicamacomico](https://open.spotify.com/track/0y9W883qZNIa4WtZqpBx4u) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 3:32 |
 | 120 | [Broken Shadow](https://open.spotify.com/track/41sz0d9DKov0DagzrFDNct) | [Karen Elson](https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k) | [Green](https://open.spotify.com/album/7xQTGR29x2BzB1zYniXIan) | 3:14 |
@@ -144,10 +144,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 134 | [Sundown](https://open.spotify.com/track/5YlMUU8DrYzx2asTl6WH5O) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Tape](https://open.spotify.com/album/50vXvAaF4U6k7n8OrfVLwF) | 3:55 |
 | 135 | [sugar](https://open.spotify.com/track/6K3lfhZPh0EotjqyVBTx52) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 3:44 |
 | 136 | [Another Castle](https://open.spotify.com/track/1HFIrt2wIRGBgxsiznHu8v) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [It's Dangerous To Go Alone](https://open.spotify.com/album/5c8RBZDglyFmPmQQl0QXDv) | 2:44 |
-| 137 | [creek](https://open.spotify.com/track/6yrQv90qvsZkKVwLtcislR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [creek](https://open.spotify.com/album/49lweSd5FdAmHS31xKPyoT) | 2:33 |
+| 137 | [creek](https://open.spotify.com/track/5ea7yawzmWpuYQazo0UlGQ) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [mountain songs](https://open.spotify.com/album/2QuZhSjVBLP1LyKNWiIq8c) | 2:33 |
 | 138 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 |
 | 139 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 |
-| 140 | [a.m\. radio \- acoustic](https://open.spotify.com/track/7xCIxtp5egFQkU8X7JMX4O) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside \(acoustic\)](https://open.spotify.com/album/3NMhnRKpTgSJla8JFkr54j) | 4:08 |
+| 140 | [a.m\. radio \(acoustic\)](https://open.spotify.com/track/5vF0f5Mz9Z4gndtJipBRix) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 4:09 |
 | 141 | [I Only Hope to Feel Love](https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:50 |
 | 142 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 |
 | 143 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Between the Sea and the Sun](https://open.spotify.com/track/7tTolh2aZMpYrLjALTyxUN) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Between the Sea and the Sun](https://open.spotify.com/album/7bWdNiyZsXhAIpGthNLf1a) | 3:09 |
 | 151 | [Keep Moving](https://open.spotify.com/track/7MXvN7VcRzylgnmlRDAZqZ) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Keep Moving](https://open.spotify.com/album/06lFUQTcMPK4YtlU2cdTqb) | 4:22 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDI3ZTAwMDAwMTgyMjQwZmVlZDQwMDAwMDE4MjIxYWZmNGNm`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDA4ZTliZmJlYzJiYjkyZWI2NWRjYTBhYjRiNTBlNmQ1`

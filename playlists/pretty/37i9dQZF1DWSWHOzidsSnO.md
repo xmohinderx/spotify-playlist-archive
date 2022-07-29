@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Paola Jara y más mujeres, a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,703 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,704 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 14 | [Hasta Que Te Vi](https://open.spotify.com/track/1v8kXzzhbyCj00F0vAlQys) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Hasta Que Te Vi](https://open.spotify.com/album/74JAnkxv8JvDLpuv2vOPpa) | 2:56 |
 | 15 | [Lástima](https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 2:38 |
 | 16 | [Ver](https://open.spotify.com/track/6kGlYDjxxfJLKr7dfjAYQ5) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Ver](https://open.spotify.com/album/1SHTzLSuTJsOlZ2DYE5t6B) | 3:38 |
-| 17 | [Ruiseñora](https://open.spotify.com/track/6vlRIofLfepIf7IPG2wZlD) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/2TCFGGgfl6tV6TEonST3Jm) | 3:43 |
+| 17 | [Ruiseñora](https://open.spotify.com/track/2W2ejmZHnWMTBvAhfBW0sP) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:42 |
 | 18 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
-| 19 | [Balada Borracha](https://open.spotify.com/track/0C0cSQCtSVKM450J6JB2iu) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 4:03 |
+| 19 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 |
 | 20 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |
 | 21 | [Otra Noche](https://open.spotify.com/track/1kX804LMPGHX9JP6G4Dz55) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:31 |
 | 22 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 45 | [Aquello](https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Aquello](https://open.spotify.com/album/61QtJjPRIjhMRHGFToskyk) | 3:06 |
 | 46 | [Una Noche Mas](https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye) | [Paula Van Hissenhoven](https://open.spotify.com/artist/2SKYxZDXoclUKA70rGtha7) | [Una Noche Mas](https://open.spotify.com/album/3sdQd8UJGKdZZY0RrvUroK) | 3:55 |
 | 47 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
-| 48 | [A Tu Lado](https://open.spotify.com/track/5EWino1os6FUYJ1q7KRDnN) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/1XtVGi0vSh9FSIZ6lfrDeE) | 4:04 |
+| 48 | [A Tu Lado](https://open.spotify.com/track/2sxGambjEMewIexGbpP089) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [A Tu Lado](https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ) | 4:04 |
 | 49 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 |
 | 50 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 |
 | 51 | [La Parcera](https://open.spotify.com/track/5JWpcxLcC41EaKGOimEUlV) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Parcera](https://open.spotify.com/album/05kaSB2HeYy1t4aCmOeNWb) | 2:58 |
 | 52 | [Arráncame las ganas \- Primer Conjuro](https://open.spotify.com/track/5Pz8gWDuyF07TwvqFdmlsD) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Arráncame las ganas \(Primer Conjuro\)](https://open.spotify.com/album/54kqmsWB0dt0PAVbpF8pGZ) | 2:21 |
 | 53 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 54 | [Tú](https://open.spotify.com/track/0hyKDphP6TYK39ULPxy3vw) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/6t3NeikS5j2aSxWYDFFi7m) | 3:45 |
+| 54 | [Tu](https://open.spotify.com/track/5bQdprOeiheK9CqIYgUfPD) | [Antombo](https://open.spotify.com/artist/0Gw0yTDnb8VNDKg70YUnvM) | [Natural](https://open.spotify.com/album/4I7jRaamLwR0blv9qzGiW7) | 3:45 |
 | 55 | [La Macorina](https://open.spotify.com/track/3pske1T4sIKMsow2JqnNLK) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Macorina](https://open.spotify.com/album/1J1cxfagMyYDRt1eddsqic) | 3:10 |
 | 56 | [Ubalauka](https://open.spotify.com/track/0BjB9sSJtvQdmoMGieswNw) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Ubalauka](https://open.spotify.com/album/4fMI5YS8cD4aDJGoKx0xZI) | 2:51 |
 | 57 | [Hoy](https://open.spotify.com/track/53H3TaCK8iUC5YSRtSrwn1) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Prisma](https://open.spotify.com/album/3gTgGR1rBXCvDgU9cLIAEW) | 3:10 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 63 | [Vamos por el Magdalena](https://open.spotify.com/track/0doKRvScUdK3sByhEqUasG) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Vamos por el Magdalena](https://open.spotify.com/album/32h1Oyjs5teGmctWjhjRsc) | 3:50 |
 | 64 | [La Cara](https://open.spotify.com/track/48hh5h1N1oe2zmapBQ4uye) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [La Cara](https://open.spotify.com/album/3n4PlVDnUeFUuS1oIyuS7D) | 2:03 |
 | 65 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 |
-| 66 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \(Radio Edit\)](https://open.spotify.com/track/1XBsBgbxKbdDeY6fN8QqjF) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/0uoDct7NFsOKhiOMnbTQ1u) | 4:53 |
+| 66 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \- Radio Edit](https://open.spotify.com/track/6UP4uC5iRIOmGb7ewISYIT) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/7pxMkfeW9yqXvKbvmd0Srx) | 4:53 |
 | 67 | [Canto](https://open.spotify.com/track/5MQDQ5RAkpJrFaQfFdjvt6) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [De Lo Que Nada Fue](https://open.spotify.com/album/36jJyeH1H4X8kYCQXJkE0b) | 4:09 |
 | 68 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 69 | [Discos \(Am\)](https://open.spotify.com/track/6z06VdmZGTBVQZtgrpV0xx) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Música para Dormir \(O Despertar\)](https://open.spotify.com/album/2hY4egfHaGdNhQBRix6jFy) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [La Sombra \(feat\. Leonel García\)](https://open.spotify.com/track/1AMzClglf6ggXTomlMOMkk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:40 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MTY1NzA4NDIxMCwwMDAwMDA1NTAwMDAwMTgxZDFlYTZjMTYwMDAwMDE4MWQxZTliNTlm`
+Snapshot ID: `MTY1NzA4NDIxMCwwMDAwMDAwMGYyYWQzMTM0NWIzMTk4OTI2ZjJhMmZjYTQ4NThlNTQ1`

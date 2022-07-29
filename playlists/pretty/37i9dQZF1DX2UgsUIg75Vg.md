@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,256,340 likes - 68 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,256,583 likes - 68 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 55 | [Mirror](https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Mirror](https://open.spotify.com/album/3kXJRzbcU7uGrE430b1G0e) | 2:38 |
 | 56 | [Pieces ft Duckwrth](https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Pieces ft Duckwrth](https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh) | 2:54 |
 | 57 | [Lifetime](https://open.spotify.com/track/0QZnyONVa7pEq115ZjkFNV) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Lifetime](https://open.spotify.com/album/27qgpTqm1Zkhgnis7bgjjC) | 3:09 |
-| 58 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 |
+| 58 | [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 |
 | 59 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 |
 | 60 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 |
 | 61 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 67 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 68 | [Love Again](https://open.spotify.com/track/3pxplvRVhnOXT7H7C4JkAH) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Love Again](https://open.spotify.com/album/2D2BkKNfNhLHnBAz6kNlVN) | 2:34 |
 
-Snapshot ID: `MTY1ODQ5OTA2MiwwMDAwMDRjZTAwMDAwMTgyMjYzZjVhNTkwMDAwMDE2ZDE1MjYzZjhm`
+Snapshot ID: `MTY1ODQ5OTA2MiwwMDAwMDAwMDFjMDQ5ZmZhZThhNTE1OWI3NzdmMWQwMTc1YTAwOTY4`

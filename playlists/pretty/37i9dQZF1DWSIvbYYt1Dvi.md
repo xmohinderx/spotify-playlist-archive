@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > bin e rd é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,259 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,684 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 31 | [Click Click](https://open.spotify.com/track/6alYP3Evm5VVWuvaEQFyln) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Click Click](https://open.spotify.com/album/35Q9zlp8CzLF8HrqPt4Ban) | 3:30 |
 | 32 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 | 33 | [RIO SUL](https://open.spotify.com/track/7fA1lo7delfwVjq7Ccg0fp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Dj Felipe Rosa](https://open.spotify.com/artist/02ESSPEzwYHnLH7SjiG8oj) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:20 |
-| 34 | [Fragrância \- Remix](https://open.spotify.com/track/76E9YSvgci2hPaNFy3XZu1) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:51 |
+| 34 | [Fragrância \- Remix \(feat\. PL Quest\)](https://open.spotify.com/track/5oRfOSWWJMkAcxBxnLxRN7) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:51 |
 | 35 | [Nada é pra sempre](https://open.spotify.com/track/4snS270Q8UbYfyVIO0YZ4g) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Nada é pra sempre](https://open.spotify.com/album/2JktlBnWa1gjLRlSoQC2jJ) | 3:49 |
 | 36 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
 | 37 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Não Desista Agora](https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 3:15 |
 | 50 | [Taca o Bumbum \(Papatracks\#6\) \[feat\. L7NNON\]](https://open.spotify.com/track/0ju0BvQYlAdWXgfbvMthrb) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Kaeni Mc](https://open.spotify.com/artist/7ClbJj6Is5f1XDvYHQgeBd), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Taca o Bumbum \(Papatracks\#6\) \[feat\. L7NNON\]](https://open.spotify.com/album/2OwNHkFAoOSY686PvtCAxG) | 3:31 |
 
-Snapshot ID: `MTY1Njk0OTU0OCwwMDAwMDE2NzAwMDAwMTgxYzllM2E2NTQwMDAwMDE4MWIwOWI4M2Y0`
+Snapshot ID: `MTY1Njk0OTU0OCwwMDAwMDAwMDczNTRjYzExODA2NTQ3OGZlMjVlMzI0ZmZmNTRkNzk1`

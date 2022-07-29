@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-169 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
+172 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/4no306NeRC0dER7OtnYIDZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Before Leaving](https://open.spotify.com/track/0ulkiXChe3pH4UMxuTvXje) | [Gradient Layer](https://open.spotify.com/artist/5ySNkmwfljYELipELJjQyl) | [A Lonesome Place](https://open.spotify.com/album/7hEdNZe2UtuKl1rzBwSq9R) | 1:55 | 2020-10-20\* |  |
 | [Benevolent](https://open.spotify.com/track/6PySB4GoTTMKXhH4Ksaugj) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 3:08 | 2020-10-20\* |  |
 | [Berceuse Andalouse](https://open.spotify.com/track/0iEaYbbs0Py0s8TgwZLpSd) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 2:11 | 2020-10-20\* |  |
-| [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* |  |
+| [Between Moments](https://open.spotify.com/track/4dnjEaI4F2OigWbi95JIDm) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 1:56 | 2020-10-20\* | 2022-07-29 |
+| [Between Moments](https://open.spotify.com/track/7IeAd6rhMU9zMG0wccZbwb) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 1:56 | 2022-07-22 |  |
 | [Bibo No Aozora](https://open.spotify.com/track/2DPCymMTTu2SbGsPe7wPSU) | [evighet.](https://open.spotify.com/artist/2jv3T5ewJ2FaezIjkWEQQz) | [Bibo No Aozora](https://open.spotify.com/album/03Xgef5UP1nAoXxpvLxwYc) | 3:18 | 2020-10-20\* |  |
 | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/track/0NRJQn7P89YOHSIgq11WWp) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Big Wide World \(Reimagined for Piano\)](https://open.spotify.com/album/1Zt7ye77WN7lANfcOVYwPJ) | 4:53 | 2022-06-24 |  |
 | [Birdman](https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO) | [Abbie Lou Johnston](https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo) | [Birdman](https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF) | 3:21 | 2020-10-20\* |  |
@@ -53,7 +54,8 @@
 | [Enigma Variations: Nimrod](https://open.spotify.com/track/7G26YVx3IowgdA1Fzb58bi) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [L'Orchestra Nazionale di Mendoni](https://open.spotify.com/artist/42xl6CZP3xDMz2eLWRWx2w) | [Variations](https://open.spotify.com/album/2XzIVL7OmXQWpwdZDh7eqj) | 3:09 | 2020-10-20\* |  |
 | [Enlightenment](https://open.spotify.com/track/5Msu8YDbMCzgcubZ70SmAQ) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/0I4xfg7IicQQb9KQF3Y9p4) | 2:51 | 2020-10-20\* | 2022-05-20 |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2020-10-20\* |  |
-| [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Esja](https://open.spotify.com/album/0qexfmJhl1Ao6mBzgZpA95) | 4:21 | 2020-10-20\* |  |
+| [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Esja](https://open.spotify.com/album/0qexfmJhl1Ao6mBzgZpA95) | 4:21 | 2020-10-20\* | 2022-07-29 |
+| [Esja](https://open.spotify.com/track/0qLJdyq6rqXQmdlzjtcCs1) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Esja](https://open.spotify.com/album/6UEnWtk3BxIxw4tJYFwm4P) | 4:21 | 2022-07-22 |  |
 | [Eternal Self](https://open.spotify.com/track/5nkMUigFhTzLpvMkXI6kPk) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Eternal Self](https://open.spotify.com/album/79CUupsxoVX30cRSdKJJWQ) | 4:25 | 2020-10-20\* |  |
 | [Eternal Slumber](https://open.spotify.com/track/4LmDvBu7x3Udb2ntXcFyOy) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:35 | 2020-10-20\* |  |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2020-10-20\* |  |
@@ -67,7 +69,8 @@
 | [Forever Right Now](https://open.spotify.com/track/0RKSDqAbLoKCWBEn7a4UWR) | [Tom Brown Sterling](https://open.spotify.com/artist/5QFEyJpaEKyXqrXJbZQRiY) | [Forever Right Now](https://open.spotify.com/album/6XeAvtLpu79R5eMwsXft7j) | 2:16 | 2020-10-20\* | 2021-10-21 |
 | [Fractals](https://open.spotify.com/track/3v5mWnTuC51tA0jAXM7Guy) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Fractals](https://open.spotify.com/album/0hh24HOgNMawrAdsd6M3xC) | 2:19 | 2020-10-20\* |  |
 | [From This Day](https://open.spotify.com/track/3f7zGUeL92BJGxz5SYIiU8) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [From This Day](https://open.spotify.com/album/2m5DbSFjN1uUuvQ55QxAr1) | 3:16 | 2021-02-24 |  |
-| [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2020-10-20\* |  |
+| [Frontiers Are Where You Find Them](https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/5M1Z3FRYy0G5GWhlvvPdRw) | 3:13 | 2020-10-20\* | 2022-07-29 |
+| [Frontiers Are Where You Find Them](https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Luminescence](https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw) | 3:13 | 2022-07-22 |  |
 | [Gone Day](https://open.spotify.com/track/2SSOF3vAlTd3FqWupkuQBt) | [Jonas Kvarnström](https://open.spotify.com/artist/4qZrlSJ1sikAjQS9rrBBpx) | [Gone Day](https://open.spotify.com/album/41k94jymMWGvYhBAcWgeb2) | 4:10 | 2022-07-22 |  |
 | [Gran Separado](https://open.spotify.com/track/6E0A1z9LAekBr97GRRlQ4p) | [Leonid Gautier](https://open.spotify.com/artist/1PG2CsJ35TSdcLarWqxGdu) | [Gran Separado](https://open.spotify.com/album/5MAFv5FqwSv5iNtmsInAbc) | 3:41 | 2020-10-20\* |  |
 | [Greetings from Belize](https://open.spotify.com/track/5nhS7fj2S3Td2HIDCpcmVb) | [Lixol](https://open.spotify.com/artist/4wXk0BFjhLlkvvnizwEUGR) | [Greetings from Belize](https://open.spotify.com/album/6HzK0TGQenShzRupoyc9x5) | 2:43 | 2022-02-24 |  |

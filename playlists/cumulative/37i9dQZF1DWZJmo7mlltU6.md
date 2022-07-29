@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Stephen Sanchez
 
-308 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+313 songs - 17 hr 23 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,8 @@
 | [Terminal](https://open.spotify.com/track/611bHLbCX1SlJUIdPLiJ3c) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Terminal](https://open.spotify.com/album/3ggSo0sJMW38ysmz00zwSu) | 3:22 | 2022-06-10 |  |
 | [The Underground](https://open.spotify.com/track/111ZlqKl6XMouxYalfUQl4) | [THE MOON](https://open.spotify.com/artist/3DfX25iwobGwgawuvpR7fB), [Sapir Shoval](https://open.spotify.com/artist/0s0mfbnDDXbblyKKK2NkeF) | [The Underground](https://open.spotify.com/album/4hjqzZDXRI4GnMgKFv1tuN) | 3:32 | 2022-01-14 | 2022-04-09 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 |  |
-| [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 | 2022-04-29 |  |
+| [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-07-22 |  |
+| [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 | 2022-04-29 | 2022-07-29 |
 | [To Dream](https://open.spotify.com/track/4kXGYSZ3RW9LVeJJUlYezH) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [The Last Thing Left](https://open.spotify.com/album/5NbBrlCBc57yURIgJwYxLn) | 4:32 | 2022-04-22 | 2022-06-18 |
 | [to the moon](https://open.spotify.com/track/4OgStHICGrhcZi4EG41cws) | [Chaleeda](https://open.spotify.com/artist/5Kmvlg4fSgle8RJU9LVbn4) | [to the moon](https://open.spotify.com/album/0eQQrn0jDNvUCXKVkrl32R) | 3:37 | 2022-01-14 | 2022-03-30 |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-06-17 |  |
@@ -284,7 +285,8 @@
 | [Two Years In Air](https://open.spotify.com/track/2mv9otZ9LuQz78cIM6PwRp) | [Parker & Lily](https://open.spotify.com/artist/5pCpBL7wai0uktyFUbuivw) | [Hello Halo](https://open.spotify.com/album/4lVghAFvE6CeHJ1mlRzDSk) | 3:23 | 2022-07-08 |  |
 | [Tú y Yo, un Barco y el Mar](https://open.spotify.com/track/47xL1NHsaK0FzEpKe7jUiZ) | [Los Fresones Rebeldes](https://open.spotify.com/artist/7jnDSK1hbbcZdjapo2bHzY) | [Tú y Yo, un Barco y el Mar](https://open.spotify.com/album/1WxpeyYb1kU8kC47PsjKfY) | 2:22 | 2022-05-30 | 2022-07-23 |
 | [Ultraviolet](https://open.spotify.com/track/6DxfWDdfSKYYrCTaqEFF20) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ultraviolet](https://open.spotify.com/album/7oOXwpYyXLLvfhEF4zvLaY) | 2:51 | 2022-05-20 |  |
-| [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-05-30 |  |
+| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-22 |  |
+| [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-05-30 | 2022-07-29 |
 | [Una Caricia](https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:08 | 2022-01-14 | 2022-02-19 |
 | [Underworld](https://open.spotify.com/track/6R7jCmKhrnqeLl9fZyQ9Ej) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Child's Play](https://open.spotify.com/album/7knAeUf3ijalqC8jt5WZ4v) | 2:46 | 2022-01-14 | 2022-04-29 |
 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 | 2022-01-14 | 2022-02-19 |
@@ -300,13 +302,15 @@
 | [where u are](https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [where u are](https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX) | 4:41 | 2022-03-04 | 2022-05-12 |
 | [White Roses](https://open.spotify.com/track/41BN1Mn5s0Ktva181ufnQn) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Welcome Shadows](https://open.spotify.com/album/5Yt5xztvfdyeoVFRkHpWGe) | 4:17 | 2022-01-14 | 2022-04-02 |
 | [Why Say Why](https://open.spotify.com/track/7rVCdOGWg1tEZylPxAUEXN) | [SAMMii](https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc) | [Making Me Sick!](https://open.spotify.com/album/63pRwAidDd1EtsJimLsWlz) | 3:04 | 2022-04-01 | 2022-07-23 |
-| [Wild Side](https://open.spotify.com/track/5pSJMVYX93VnOgOtnvAO6V) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Wild Side](https://open.spotify.com/album/2C4CTmdg1LxR9cqJmfEdKT) | 3:55 | 2022-04-08 |  |
+| [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 | 2022-07-22 |  |
+| [Wild Side](https://open.spotify.com/track/5pSJMVYX93VnOgOtnvAO6V) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Wild Side](https://open.spotify.com/album/2C4CTmdg1LxR9cqJmfEdKT) | 3:55 | 2022-04-08 | 2022-07-29 |
 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 | 2022-04-01 | 2022-07-02 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2022-01-14 | 2022-02-05 |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-17 |  |
 | [Wrong with u](https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Wrong with u](https://open.spotify.com/album/7EYr5e6Qg0RBzLHMhWgZul) | 2:32 | 2022-01-14 | 2022-02-15 |
 | [YA HABIBI](https://open.spotify.com/track/5iFKrNqnuwvPhqXIWuUsHW) | [LaHasna](https://open.spotify.com/artist/6H8NHMXJR22PtWN4KZmeNy) | [GLOBAL RESET](https://open.spotify.com/album/0vemIymTZsVPoQaHIzt62l) | 3:53 | 2022-01-14 | 2022-02-26 |
-| [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2022-01-14 |  |
+| [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 | 2022-07-22 |  |
+| [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 | 2022-01-14 | 2022-07-29 |
 | [Yollar](https://open.spotify.com/track/3ehHsXp8F5VUpywMlxe3iH) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [İkimiz](https://open.spotify.com/album/5CHw9OzDbWrlaXe7RlscXk) | 3:00 | 2022-07-22 |  |
 | [You Move Backwards \(feat\. Ruti\)](https://open.spotify.com/track/65RmvoQfPbcsRik6SJHUAS) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [You Move Backwards \(feat\. Ruti\)](https://open.spotify.com/album/0z7dYSB3QSkMJmTI4k2tN5) | 2:55 | 2022-01-14 | 2022-02-15 |
 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 | 2022-05-30 |  |
@@ -314,7 +318,8 @@
 | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/track/2b8mCK6lkTlaFLXwEfhxyv) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [อิ๊บอยู่ \(Fingers Crossed\)](https://open.spotify.com/album/75cxwoKlB11QNon32KVYyU) | 3:04 | 2022-03-28 |  |
 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe) | 2:38 | 2022-05-30 |  |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-03-18 |  |
-| [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 | 2022-03-11 |  |
+| [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 | 2022-03-11 | 2022-07-29 |
+| [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 | 2022-07-22 |  |
 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 | 2022-01-14 | 2022-06-25 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156386,
+      "name": "07:00 the Morning Comes",
+      "url": "https://open.spotify.com/track/1C8T1La2K8P9IyoIl9EYVK"
+    },
+    {
+      "album": {
         "name": "07:00 / 08:00",
         "url": "https://open.spotify.com/album/5H44382KfUHknPEdJKFxJI"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156386,
       "name": "07:00 the Morning Comes",
       "url": "https://open.spotify.com/track/2XbLOj52YkYKsGe7WZDEIX"
@@ -55,7 +73,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259523,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/3Qh3FjLQl6VnJfXiXfe1jf"
@@ -99,10 +117,28 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224388,
       "name": "Are You There, Do You Care",
       "url": "https://open.spotify.com/track/05i5Z4lz4876TjOofZwBq6"
+    },
+    {
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "album": {
@@ -117,7 +153,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246760,
       "name": "Avalanche - Piano Version",
       "url": "https://open.spotify.com/track/7gfCmyLiGPkufPJdTErWar"
@@ -153,7 +189,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 271906,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t"
@@ -327,7 +363,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200674,
       "name": "Crane Lake",
       "url": "https://open.spotify.com/track/2NiXrSahkXwPb30oHDEo25"
@@ -400,6 +436,24 @@
     },
     {
       "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/6wsUhs9eHjW1n8DIOiEYCQ"
       },
@@ -436,8 +490,8 @@
     },
     {
       "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40"
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
       },
       "artists": [
         {
@@ -450,7 +504,43 @@
       "date_removed": null,
       "duration_ms": 168712,
       "name": "Eloise",
+      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
+    },
+    {
+      "album": {
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/1y72knBCC5iPB75Syr3P40"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168712,
+      "name": "Eloise",
       "url": "https://open.spotify.com/track/6J1Rk8WkZ6KOFUtlTVMoJd"
+    },
+    {
+      "album": {
+        "name": "LET YOURSELF BE LOVED",
+        "url": "https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Falling Up",
+      "url": "https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC"
     },
     {
       "album": {
@@ -483,7 +573,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239333,
       "name": "Far Kingdom (reimagined)",
       "url": "https://open.spotify.com/track/7rjwZiCmwudgo74jFUOQj1"
@@ -537,7 +627,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217812,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X"
@@ -674,6 +764,24 @@
     },
     {
       "album": {
+        "name": "Hollows",
+        "url": "https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l"
+      },
+      "artists": [
+        {
+          "name": "Lion & Bear",
+          "url": "https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266169,
+      "name": "Held by Your Love",
+      "url": "https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK"
+    },
+    {
+      "album": {
         "name": "Held by Your Love",
         "url": "https://open.spotify.com/album/1tCkBpM6Fpf3wf9pWh3yFZ"
       },
@@ -685,7 +793,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266169,
       "name": "Held by Your Love",
       "url": "https://open.spotify.com/track/0kpBBTRrCmupemEosDzcMe"
@@ -761,7 +869,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164520,
       "name": "I Had a Dream I Knew You Better",
       "url": "https://open.spotify.com/track/3MsYV9iIVJpWLh3pRmqU3Z"
@@ -797,7 +905,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293106,
       "name": "In the Valley",
       "url": "https://open.spotify.com/track/1mEREMPGZy8BzbNr7FinQ4"
@@ -881,6 +989,24 @@
       "duration_ms": 239720,
       "name": "Know Your Heart",
       "url": "https://open.spotify.com/track/3R4jwXTEZKjs5G7Uc6Ehzs"
+    },
+    {
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Know Your Heart",
+      "url": "https://open.spotify.com/track/5QgvHNtnWgO0nevZ6XQro6"
     },
     {
       "album": {
@@ -1115,7 +1241,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266762,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/2ejCU3N0ILmpE23zrqNm4r"
@@ -1169,7 +1295,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287751,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/02O2UvHTQuPdhGqhVgaucv"
@@ -1277,10 +1403,28 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254106,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s"
+    },
+    {
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "album": {
@@ -1367,7 +1511,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 232506,
       "name": "Take All of Me",
       "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
@@ -1385,7 +1529,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181840,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/7eL7RLdVokaOBzjfIs5zMH"
@@ -1403,7 +1547,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/3siXfTF5Czys5WTvyeYMSY"
@@ -1443,10 +1587,32 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213673,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/4NIGBioApdPW0lBX70zrJZ"
+    },
+    {
+      "album": {
+        "name": "Love Secrets",
+        "url": "https://open.spotify.com/album/18j2N1p5fuk0yCFmfV0JmM"
+      },
+      "artists": [
+        {
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+        },
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213673,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/6dt39KMTAzJS87Hfp0n1Mc"
     },
     {
       "album": {
@@ -1533,7 +1699,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 240630,
       "name": "Waters",
       "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
@@ -1594,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "What Living's All About",
+        "url": "https://open.spotify.com/album/6j6dWYkn8W6sZdyJw1NWqU"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "date_added": "2020-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "What Living's All About",
+      "url": "https://open.spotify.com/track/6NPKhuDKnzS9U7HWzUhVxe"
+    },
+    {
+      "album": {
         "name": "When the Well Runs Dry",
         "url": "https://open.spotify.com/album/1UWXtKViJPyvn0Fy3c7rTJ"
       },
@@ -1627,7 +1811,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 206546,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
@@ -1699,7 +1883,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura\. Cover: Rory, RAAHiiM, Shantel May
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,599 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,643 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 66 | [LIFE LINE](https://open.spotify.com/track/7EN2BcGqnFQnWe4tPOGAJN) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [LIFE LINE](https://open.spotify.com/album/0047wQlw6eUsYhOoNmWQa6) | 3:17 |
 | 67 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 68 | [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 |
-| 69 | [You Got Feets](https://open.spotify.com/track/1Xplcrav8cqwpKU8ziwGVC) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Owen O'Sound Lee](https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Don't Trip](https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz) | 5:11 |
+| 69 | [You Got Feets](https://open.spotify.com/track/0ccgFQCVtdU29F2gozRbch) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Owen O'Sound Lee](https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 5:11 |
 | 70 | [Garden](https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Garden](https://open.spotify.com/album/2AZjeSF9UHQkPhyjMXP9aa) | 2:28 |
 | 71 | [Play Safe](https://open.spotify.com/track/7cPdCG3oXEAWSFyHiVulhL) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Play Safe](https://open.spotify.com/album/7AnvxoSu0ZjrVe6rFaC41H) | 2:32 |
 | 72 | [ARENA Y MAR](https://open.spotify.com/track/5j42bMuCeQHfQHC61QZEDO) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ARENA Y MAR](https://open.spotify.com/album/10wlt2vpWYDy6XKDGvFYO4) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 |
 | 100 | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/track/72ixJIhUCZMwIw0Ooxoqoe) | [the della kit](https://open.spotify.com/artist/7iizvwAcI4QI2haMM6mM1q), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn) | [just a call away \(feat\. Lafa Taylor & Mr\. Carmack\)](https://open.spotify.com/album/5R2FS8nANdM0gH541mvF8n) | 3:31 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDI4ZTAwMDAwMTgyMjQwZmVmMDEwMDAwMDE4MjIyOTdjZDNh`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDdmNDMwOTBhMTUyOTcwNTdiOTQ5YjkxZTQ5NTI0NDBj`

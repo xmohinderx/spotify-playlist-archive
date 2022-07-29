@@ -193,10 +193,28 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196235,
       "name": "BABYDOLL",
       "url": "https://open.spotify.com/track/0rdhOCfkQkOoxgShrMh7gJ"
+    },
+    {
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
       "album": {
@@ -654,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Erica Banks",
+        "url": "https://open.spotify.com/album/5d0diKuXWPHNxon86lnjOJ"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Buss It",
+      "url": "https://open.spotify.com/track/25j0Sape7qZbq6ZPLFefTT"
+    },
+    {
+      "album": {
         "name": "Buss It",
         "url": "https://open.spotify.com/album/0cTfIK7IoeXscnXZDsWTBk"
       },
@@ -665,7 +701,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188734,
       "name": "Buss It",
       "url": "https://open.spotify.com/track/6NWdgyVsjp2bJ11PToXCr1"
@@ -1549,6 +1585,28 @@
     {
       "album": {
         "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm"
+    },
+    {
+      "album": {
+        "name": "The Dutchess",
         "url": "https://open.spotify.com/album/5jMAEt7ZLjqi5tSlf7EBQg"
       },
       "artists": [
@@ -1563,7 +1621,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246600,
       "name": "Glamorous",
       "url": "https://open.spotify.com/track/6vVfNqiMSku4FrqsqhurBK"
@@ -2086,6 +2144,24 @@
     },
     {
       "album": {
+        "name": "Love Angel Music Baby (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264920,
+      "name": "Luxurious",
+      "url": "https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo"
+    },
+    {
+      "album": {
         "name": "Love Angel Music Baby",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -2097,7 +2173,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264920,
       "name": "Luxurious",
       "url": "https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958"
@@ -2842,6 +2918,24 @@
     },
     {
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "album": {
         "name": "SAOKO",
         "url": "https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If"
       },
@@ -2853,7 +2947,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137533,
       "name": "SAOKO",
       "url": "https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA"

@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-122 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
+123 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 | 2022-05-20 |  |
 | [Feelin’ Sexy](https://open.spotify.com/track/41sGvetgNrEbeknJVP8KbC) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:01 | 2022-03-04 |  |
 | [Fuck Fame](https://open.spotify.com/track/1xbkxWYM5Th6jOBBhWkzQL) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Fuck Fame](https://open.spotify.com/album/3JxqimBHEPJW26KvtCl3YW) | 2:35 | 2022-02-11 | 2022-03-12 |
-| [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 |  |
+| [Fuck It Up](https://open.spotify.com/track/0DFKrmx5uIo71gPm6VtPgq) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [BALIPRINT](https://open.spotify.com/album/7h9NtyH8tMRvzRCWSJeDTE) | 2:12 | 2022-07-15 |  |
+| [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 | 2022-02-04 | 2022-07-29 |
 | [Gas You Up](https://open.spotify.com/track/2gX4yskSvJ8cjb5AolS0gT) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Gas You Up](https://open.spotify.com/album/5f8xhT86BR8tW1Fmaqey6A) | 2:37 | 2022-05-13 |  |
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2021-09-03 |  |
 | [Get It Girl](https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Get It Girl](https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS) | 2:45 | 2022-03-18 |  |

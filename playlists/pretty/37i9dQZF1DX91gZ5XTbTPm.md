@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,238 likes - 51 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,307 likes - 51 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 25 | [Stained Couch](https://open.spotify.com/track/3xF4oYMm5obes4vValfGvP) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Stained Couch](https://open.spotify.com/album/05LCG5oAqLSv9KnUYZc03D) | 1:40 |
 | 26 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 |
 | 27 | [Swerve](https://open.spotify.com/track/074Ne9ipVodDPrWVmZvQKv) | [SkyLar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [Swerve](https://open.spotify.com/album/2t1Uk8hs8tpZuptU2KVdS7) | 2:17 |
-| 28 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 |
+| 28 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
 | 29 | [Robbery Part 3](https://open.spotify.com/track/604i6TTlBXBv6HA6392C0b) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 4:32 |
-| 30 | [Everybody Shooters Too](https://open.spotify.com/track/1gkObbz6CmnnCmT914LXFC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Everybody Shooters Too](https://open.spotify.com/album/2G69YevAOGrTOPK024DJi1) | 1:52 |
+| 30 | [Everybody Shooters Too](https://open.spotify.com/track/6QHlEUJAtLzAtb1ZmhSamg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:52 |
 | 31 | [That Thang Thangin](https://open.spotify.com/track/2s9zRKnrehtQNpyvudnVEj) | [Rahli](https://open.spotify.com/artist/6WwVzGJQWr2jU3iBgl8WPm) | [That Thang Thangin](https://open.spotify.com/album/2Za3bTcvueLJF29infEVoB) | 1:49 |
 | 32 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 33 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 |
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 43 | [ABOW](https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [ABOW](https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b) | 2:14 |
 | 44 | [Coochie Flow \(feat\. Rio Da Yung OG & Louie Ray\)](https://open.spotify.com/track/6CM1Y2Zk3LkqysmhnA5ij9) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Young, Wild & Free](https://open.spotify.com/album/10syTIgOdfsEfpERcLG89Y) | 2:42 |
 | 45 | [A1 Since Day 1](https://open.spotify.com/track/3nVp8DQIQU9ow8W0kg6OmO) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:05 |
-| 46 | [Free The Shiners](https://open.spotify.com/track/5NMWPokmUZIX1ySu7YLF74) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free The Shiners](https://open.spotify.com/album/5SOJj0pfKKW1qjPqub2tLk) | 2:04 |
+| 46 | [Free The Shiners](https://open.spotify.com/track/7f0jidOh8lBPZRZpANOEER) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:05 |
 | 47 | [Petty Too \(feat\. Future\)](https://open.spotify.com/track/0VlpgNPHWCyh8xxLcaK2fp) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:39 |
 | 48 | [Forgive Me \(feat\. NoCap\)](https://open.spotify.com/track/1bKBEDDJ61aHiMkR9HLBTR) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Time Will Tell](https://open.spotify.com/album/4Zrsu6hm5rkp0WFBdJbTCr) | 2:37 |
 | 49 | [Forever Been Steppin'](https://open.spotify.com/track/6D38sSnlEtRmH7H7yhvI47) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Forever Been Steppin'](https://open.spotify.com/album/2fYOAoMAoSge8lWN0OydhA) | 3:17 |
 | 50 | [R.T.T.B](https://open.spotify.com/track/40NuHUtRB6oedbFV1O2Rph) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 2:10 |
 | 51 | [LOYALTY](https://open.spotify.com/track/1pziOYOAf9miJYxKneNcOB) | [NoonieVsEverybody](https://open.spotify.com/artist/5PepByqZbni3dXJXF2eTaB) | [STRICTLY 4 THE VOICELESS](https://open.spotify.com/album/0C9oAS2VMu6Rw5nonWb8wJ) | 3:21 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDNmMzAwMDAwMTgyMjQwZmVlYjcwMDAwMDE4MWI2OTg4Mjk3`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDg0NzRiNzU1NjdjNTBiZDc5ZDZiMmYxZmM3OTRhMmIy`

@@ -4,7 +4,7 @@
 
 > Relaxing music and sounds for sleeping.
 
-240 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
+241 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/5rgh2vQqq4FwzvlZrwNuEX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [Morning Mist Rising](https://open.spotify.com/track/62w7vY3oBAnoEe8YZVui50) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Morning Mist Rising](https://open.spotify.com/album/4FkVG3tMc2RDeycqAjNZM3) | 3:49 | 2022-01-04 | 2022-07-28 |
 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 | 2022-01-04 | 2022-07-28 |
 | [Naten e mire](https://open.spotify.com/track/6uTgcVdZs17V0Fy5PX2O54) | [Leala Samuel](https://open.spotify.com/artist/0dGuCZr0FuXukEBvHY5rXO) | [Naten e mire](https://open.spotify.com/album/43K1omqGhTg3N2T2mBarty) | 3:26 | 2022-01-04 |  |
-| [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 | 2022-01-04 |  |
+| [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 | 2022-07-27 |  |
+| [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 | 2022-01-04 | 2022-07-29 |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2022-04-01 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2022-01-04 |  |
 | [Noctiphany](https://open.spotify.com/track/2bzHADVvOnECWhqpLf5Rwi) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Noctiphany](https://open.spotify.com/album/7lfk1JKUKGhYCt0oPn5spO) | 3:01 | 2022-01-04 |  |

@@ -4,12 +4,13 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: JOPLYN
 
-117 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+118 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...](https://open.spotify.com/track/2n1WH7I33C9Tm47unwnp8U) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 2:17 | 2021-12-16 |  |
-| [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 |  |
+| [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 | 2022-07-29 |
+| [17 für immer](https://open.spotify.com/track/4NRJsPrgVbKwBCR7woZSHM) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/4IdKZ2doupiUIY2R5GpD4d) | 2:40 | 2022-07-28 |  |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 |  |
 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 |  |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
@@ -77,7 +78,7 @@
 | [megapunk \- TSHA Remix](https://open.spotify.com/track/1d87n4WnUawIAyqAEGn6ps) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [megapunk \(remixes\)](https://open.spotify.com/album/5bDFznntVIsvDmvjnzjaEs) | 4:40 | 2021-12-16 |  |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 | 2022-06-10 |
 | [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
-| [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 |  |
+| [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-14 |  |
 | [My Wife The Depression](https://open.spotify.com/track/4Izo6qdh1ypa33xz2Ez4Lf) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [My Wife The Depression](https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O) | 3:02 | 2021-12-16 | 2022-04-15 |
 | [Neues Geld](https://open.spotify.com/track/0ohdHACL1eACasCxA1UXa8) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Neues Geld](https://open.spotify.com/album/7tqHzLMSERvb6cs6aOzLPz) | 2:28 | 2022-05-12 |  |
@@ -99,7 +100,7 @@
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2021-12-16 | 2022-05-13 |
 | [Slowly](https://open.spotify.com/track/4xnSrvZ9MVhPXYhqDGQyCU) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Dystopia](https://open.spotify.com/album/3Wzi6aTBNAU3lLnaKAfa6B) | 6:54 | 2021-12-16 |  |
 | [Smile](https://open.spotify.com/track/2pxQTg8ecN1k3CXnEmpa8t) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Smile](https://open.spotify.com/album/3O04qupq1XsQZI6rmC4OTr) | 3:42 | 2022-05-19 |  |
-| [Spring](https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Spring](https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0) | 3:37 | 2022-05-12 |  |
+| [Spring](https://open.spotify.com/track/0M8XGFqzmGHLsGDLRgd6fp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Spring](https://open.spotify.com/album/4BC8x5GAShlXg15iXkqtl0) | 3:37 | 2022-05-12 | 2022-07-29 |
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-06-30 |  |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 |  |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |

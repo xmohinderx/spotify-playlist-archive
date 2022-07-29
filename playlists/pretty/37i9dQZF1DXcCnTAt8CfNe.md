@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,487 likes - 206 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,515 likes - 206 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,12 +185,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 175 | [Piano Eléctrico](https://open.spotify.com/track/658ysPC6WdtiRSQjiv2AJZ) | [Rancul](https://open.spotify.com/artist/7cVXjdkl7yJQfp2a76guvf) | [Rancul](https://open.spotify.com/album/30dDuezgO9cqoTGi0cMhPn) | 1:45 |
 | 176 | [Coralia](https://open.spotify.com/track/2QuojUtKiQ7l8ZQMDelt3s) | [Arlette Leduc](https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T) | [Coralia](https://open.spotify.com/album/1EE6SRjBh51zDFzF9rh1bO) | 3:17 |
 | 177 | [Whistling Straits](https://open.spotify.com/track/3B3t69tUxJMrsmlUahjDIW) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Whistling Straits](https://open.spotify.com/album/61dVUb5m3COoMSQmlngnGD) | 4:28 |
-| 178 | [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:58 |
+| 178 | [Gone](https://open.spotify.com/track/331iLszrgVOeYNl2KKn12j) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:58 |
 | 179 | [Finding Calmness](https://open.spotify.com/track/5ca7B7Qi2gpzPELK9lBab0) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 3:28 |
 | 180 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 181 | [In Bloom](https://open.spotify.com/track/60nhoUdtsUq4FOwts7B2bM) | [Zoé de Vera](https://open.spotify.com/artist/0ojIbBfm8uH68CpwcwoxGJ) | [In Bloom](https://open.spotify.com/album/1JdYFFVhnjTmj0lOXGwzZy) | 2:59 |
 | 182 | [별이 가득한 하늘](https://open.spotify.com/track/4NP9chouySQM1iTVchHw2R) | [Mangjeol](https://open.spotify.com/artist/1zPUl1M5ChzBcpqH6Izciw) | [별이 가득한 하늘](https://open.spotify.com/album/0JH7t68Zhh0ngZ82ai2GX2) | 2:06 |
-| 183 | [While You Were Sleeping](https://open.spotify.com/track/6qX3f7gWEPGK3TVSoCLT4j) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi) | 1:45 |
+| 183 | [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 |
 | 184 | [London Berceuse](https://open.spotify.com/track/4TD21HmrfSXDEKnlxPBGXl) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 4:02 |
 | 185 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 |
 | 186 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 |
@@ -213,6 +213,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 203 | [Wishes](https://open.spotify.com/track/7giuPZOPDPkpNOeVjC56rm) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Higher States](https://open.spotify.com/album/2RcXr9Wzd3mjH3P8ghQsjZ) | 3:04 |
 | 204 | [Harmonious](https://open.spotify.com/track/0w1kQy9x8W7yA299gFLhLn) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Harmonious](https://open.spotify.com/album/5ag8H1bxJUJbGBHb1IXu8T) | 3:56 |
 | 205 | [Zhenya](https://open.spotify.com/track/09z4NnaPxtbPsMoKHDaoIy) | [LOVIS](https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE) | [Zhenya](https://open.spotify.com/album/3uNqo97i4YJVzvo9r25Smo) | 3:22 |
-| 206 | [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 |
+| 206 | [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 |
 
-Snapshot ID: `MTY1ODkzNjg5MSwwMDAwMDA1NDAwMDAwMTgyNDA1ODE4MzYwMDAwMDE4MWYxOWE5ZjU0`
+Snapshot ID: `MTY1ODkzNjg5MSwwMDAwMDAwMGI0YzdmNTNmZTRiN2NjOGNjNTFiNjBiMWJiNWFiNTAz`

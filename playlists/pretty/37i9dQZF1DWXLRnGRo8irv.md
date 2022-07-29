@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: fromis\_9\(프로미스나인\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,629 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Pantomime](https://open.spotify.com/track/0mqHEMJdDzes00D9IToXPX) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FANtastic QUEENDOM 1\-1](https://open.spotify.com/album/7fFl1TABviXjPPBEdCOwqw) | 4:08 |
 | 50 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
 
-Snapshot ID: `MTY1NzA3ODIwNiwwMDAwMDAxNzAwMDAwMTgxZDE4ZWQxMDEwMDAwMDE4MWQxOGUyYTBj`
+Snapshot ID: `MTY1NzA3ODIwNiwwMDAwMDAwMGEyM2QwNzAzMjlkMTY1MjllNjViMWExNzZmMDM0MGYz`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Napoli e il meglio della scena campana. Cover: SLF",
+  "description": "Napoli e il meglio della scena campana. Cover: Nicola Siciliano",
   "name": "Int 'o Rione",
   "published_playlist_ids": [
     "24YJoDhwO3164C86soW14C"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138000,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169142,
       "name": "Catene (feat. Vale Pain)",
       "url": "https://open.spotify.com/track/5Q3mrwEwMxlHmphyJn5aQz"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136201,
       "name": "CLEAN",
       "url": "https://open.spotify.com/track/2v71zuC2m9gItAYrXWTFcn"
@@ -707,6 +707,24 @@
     {
       "album": {
         "name": "I Miss You",
+        "url": "https://open.spotify.com/album/2jAiCu51wRIF6CcQqgTpkK"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177669,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/4lgfhjnm922y6kGBAqKhaU"
+    },
+    {
+      "album": {
+        "name": "I Miss You",
         "url": "https://open.spotify.com/album/3xNjmCh8NTA9WuO8EkHo1R"
       },
       "artists": [
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178316,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/5yTqoZ6nhOv21jNHFfwsBV"
@@ -793,10 +811,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204521,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0tHNfx3jrnG65IiGj9PP4L"
+    },
+    {
+      "album": {
+        "name": "999",
+        "url": "https://open.spotify.com/album/5VmmhTJMQvJIXdb4pEgynz"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7pVs5d0hPKE2RUruztOEx3"
     },
     {
       "album": {
@@ -993,10 +1029,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227005,
       "name": "No Love (feat. CoCo)",
       "url": "https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227005,
+      "name": "No Love (feat. CoCo)",
+      "url": "https://open.spotify.com/track/4tlDLoVg3YX4GNBnddaNZb"
     },
     {
       "album": {
@@ -1109,10 +1167,32 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210493,
       "name": "Over (feat. Geolier)",
       "url": "https://open.spotify.com/track/1ma63HYdwGlXmVhrQdgnTW"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Over (feat. Geolier)",
+      "url": "https://open.spotify.com/track/50MEBYlrrt47OTvpoZ8AcH"
     },
     {
       "album": {
@@ -1193,10 +1273,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm"
     },
     {
       "album": {
@@ -1394,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "Soldi",
+        "url": "https://open.spotify.com/album/3tm8GwPNOJPcr9rQAXMWgV"
+      },
+      "artists": [
+        {
+          "name": "Christian Revo",
+          "url": "https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151741,
+      "name": "Soldi",
+      "url": "https://open.spotify.com/track/7rlhLWCYROT4H6YAzAyuPi"
+    },
+    {
+      "album": {
         "name": "SUL IJ E TE",
         "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
       },
@@ -1453,10 +1569,28 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148875,
       "name": "Te penso ancora",
       "url": "https://open.spotify.com/track/1nt9UH3Bzu3wMCgE0LudzZ"
+    },
+    {
+      "album": {
+        "name": "Rivoluzione",
+        "url": "https://open.spotify.com/album/4Im07AiNZRmx2o0jGgEsal"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148875,
+      "name": "Te penso ancora",
+      "url": "https://open.spotify.com/track/34ki4KNkR0lZmCDOASSLpx"
     },
     {
       "album": {
@@ -1699,6 +1833,24 @@
       "duration_ms": 142941,
       "name": "Vado Fuori",
       "url": "https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE"
+    },
+    {
+      "album": {
+        "name": "VIENI",
+        "url": "https://open.spotify.com/album/0sgWDwkBePNAxRQsYniAiY"
+      },
+      "artists": [
+        {
+          "name": "Nicola Siciliano",
+          "url": "https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "VIENI",
+      "url": "https://open.spotify.com/track/6ga53DHuFADei7Y0onoWUd"
     },
     {
       "album": {

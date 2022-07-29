@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,011 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,190 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Ain't Loyal](https://open.spotify.com/track/4VEw8rQd6cf21tRR8b8xSO) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Medusa](https://open.spotify.com/album/5uAbArq49FcSJ2MYILUHzE) | 2:34 |
 | 50 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDRhMDAwMDAwMTgyMjQwZmVlYjEwMDAwMDE4MjIyZTcyY2Y4`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGY3OGI5OTRlN2M5M2I3MmQzMzYxMjY5MTAzZGVjMDNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 
 > Instrumental beats to boost your weight lifting workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,754 likes - 124 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,804 likes - 124 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 70 | [Half Way](https://open.spotify.com/track/7nVLCGdcpIWaAizdRRvmKG) | [Classe Beats](https://open.spotify.com/artist/0pqLKPTH1BAW4brUdoXrzW) | [Half Way](https://open.spotify.com/album/0zb0u64c1aQOSRh7zLxoMT) | 2:56 |
 | 71 | [Erupción](https://open.spotify.com/track/4yP4xQ4xpLziT9uKMZSTSr) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Erupción](https://open.spotify.com/album/6lbFFtcNaBHaQZvSAizyZ8) | 2:33 |
 | 72 | [WhirligiG](https://open.spotify.com/track/04DyIqLxOCBoJz6TLniVOc) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Shell Games](https://open.spotify.com/album/1QJkOlBuUBIcs5mE4ePhOo) | 2:39 |
-| 73 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 |
+| 73 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 |
 | 74 | [SMOKE BREAK](https://open.spotify.com/track/3CPtS5vGos6uIlYf0Nqc4L) | [NIGHTSHOW](https://open.spotify.com/artist/3eO8RkSNmOmPFIRXP6i1S8) | [SMOKE BREAK](https://open.spotify.com/album/1EjwtUUR8Ju58b9UUQiD4v) | 3:19 |
-| 75 | [The Other Side Of Existence](https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Context 4](https://open.spotify.com/album/3GvwwetLLw133FCVvRZW18) | 3:29 |
+| 75 | [The Other Side Of Existence](https://open.spotify.com/track/3F18almxaf6ifbx75o8YxW) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [The Other Side Of Existence](https://open.spotify.com/album/6ITE6HEeLZNa7uh1GNqQtU) | 3:29 |
 | 76 | [Survivors](https://open.spotify.com/track/3m0Phpn6nOliV0SsxEEeB4) | [Takek](https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k) | [Reverse Spell](https://open.spotify.com/album/0HQzJaw6UxOjgfRhUSCUdp) | 2:51 |
 | 77 | [New Tech](https://open.spotify.com/track/5rpI7Lcq895kc81mxWmqFm) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [New Tech](https://open.spotify.com/album/27WjV1hX9cnIkKjvcF38Hh) | 2:37 |
 | 78 | [Sorrow](https://open.spotify.com/track/7GJQGSD9r681721nvXGAAx) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Sorrow](https://open.spotify.com/album/3u9L5MdB8Q16LWDyABClMO) | 2:34 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 80 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 |
 | 81 | [NASA](https://open.spotify.com/track/6YwqaO5eejBRrBtbWj25QM) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [NASA](https://open.spotify.com/album/6A92SmpRlmzN41OP214NLI) | 2:06 |
 | 82 | [Catcher in the rye](https://open.spotify.com/track/1MjAqFdbI32eabt6lufWfy) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Catcher in the rye](https://open.spotify.com/album/1U7K08lz9Y5HK31C2yqYDd) | 3:52 |
-| 83 | [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 |
+| 83 | [Lone Time](https://open.spotify.com/track/1Ps9RScxUuJMwdSeU2BaZk) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/1aUqLa76nEsc0GXWcPi3xw) | 3:50 |
 | 84 | [PAN](https://open.spotify.com/track/2njSLjUu82lnvgSlZftXuF) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Poly](https://open.spotify.com/album/6DOrQ8NGjYVn9FmexHUf4U) | 2:51 |
 | 85 | [Marble Flooring](https://open.spotify.com/track/2JaEJlUrMGRGKxVP1P6ZD4) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Marble Flooring](https://open.spotify.com/album/3tdNvmSxAgJCAA5GewSlue) | 2:27 |
 | 86 | [Chief](https://open.spotify.com/track/02LkmUbxIhyq1qAnuRgZIF) | [Lindsey Leblanc](https://open.spotify.com/artist/7lPv78tlT005m22dYvSdNg) | [Chief](https://open.spotify.com/album/0Hp3PXt9UOVmCrKJBMjrqA) | 2:18 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqUHC2tviPw.md) - [plain]
 | 123 | [There](https://open.spotify.com/track/3QVT6KNsMdDK1FvHeSGRiC) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Beat Tape, Vol\. 1 / Mentally, I'm Here](https://open.spotify.com/album/3QqAwG3j81xnL6SZVIGlG3) | 1:46 |
 | 124 | [Est](https://open.spotify.com/track/5ZHXYzPcYWVWLq4oNEtU0A) | [STU](https://open.spotify.com/artist/12rFc3DT9cVWUrbCaVcVHL) | [Est](https://open.spotify.com/album/3Xg9taVuBe1gT3eNxbbCSZ) | 2:28 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDA0NzAwMDAwMTgyMjMzNDM0YjEwMDAwMDE4MTcxZDEwMzZj`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGVjNjE0MWM4YmYzMDZiMTMxZmFkY2VmOGE5NzZlZjU3`

@@ -161,6 +161,28 @@
     {
       "album": {
         "name": "Bagre",
+        "url": "https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160307,
+      "name": "Bagre",
+      "url": "https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE"
+    },
+    {
+      "album": {
+        "name": "Bagre",
         "url": "https://open.spotify.com/album/0qVX6Zye3aHSTWmKwGYFFF"
       },
       "artists": [
@@ -175,7 +197,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160307,
       "name": "Bagre",
       "url": "https://open.spotify.com/track/4dAyNv3NvYQdzvpPcpBmo6"
@@ -1451,10 +1473,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136308,
       "name": "Llego Tu Para",
       "url": "https://open.spotify.com/track/54UkAEPhMh5hjIXjBltCEf"
+    },
+    {
+      "album": {
+        "name": "Llego Tu Para",
+        "url": "https://open.spotify.com/album/6mjpd3eFLM81k1kklnuIbw"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138716,
+      "name": "Llego Tu Para",
+      "url": "https://open.spotify.com/track/48pqSaLYIsn1E9beF7ERsW"
     },
     {
       "album": {
@@ -1711,10 +1755,32 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158498,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/15ddWrQcXwXUa7aXXtjPoN"
+    },
+    {
+      "album": {
+        "name": "Millonario Real",
+        "url": "https://open.spotify.com/album/5MQD3Kg9Kqs3Zq10udAhgw"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "Millonario Real",
+      "url": "https://open.spotify.com/track/1FQzbD9VhhsUeL5Lw7RFTf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Baby Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,125 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,135 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 3 | [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 |
 | 4 | [Hell](https://open.spotify.com/track/3DC8V0NDZ8h06R9xQhi0AH) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Hell](https://open.spotify.com/album/2vadrK0FovrmPSp4b8BSfN) | 3:32 |
 | 5 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 6 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 |
+| 6 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
 | 7 | [Lucky Me](https://open.spotify.com/track/2uCKp1Fj41GT8Fz5r18nG0) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Lucky Me](https://open.spotify.com/album/7qF3Ih2B8ct8BU6D84XzOg) | 3:23 |
 | 8 | [Things You Said](https://open.spotify.com/track/4rIDNIIlKULMG5cjhvVtaL) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Weak Teeth](https://open.spotify.com/album/3WBBLX4qH9i3LqQbcjApzk) | 3:23 |
 | 9 | [Flight Risk](https://open.spotify.com/track/5fXWYr3Cz4DqEz5mzHccKF) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 0:59 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 31 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 32 | [Milk Teeth](https://open.spotify.com/track/6QWbf6iPlm54lgo90E31Qk) | [Seraphina Simone](https://open.spotify.com/artist/21fkbEKOfiriyOCW6VCZHX) | [Milk Teeth](https://open.spotify.com/album/67IgpH3kyZ5Mv7JDY65h94) | 3:22 |
 | 33 | [Sweat](https://open.spotify.com/track/15bk0mFLfNBeakieKVUCdG) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Sweat](https://open.spotify.com/album/1bYs4drzLq4Kg3S9Nw5Ms8) | 2:16 |
-| 34 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 |
+| 34 | [Baby, We're Ascending \- Edit](https://open.spotify.com/track/381kpaTALpjSXdzfUoFU20) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 4:12 |
 | 35 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 |
 | 36 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 |
 | 37 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 44 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
 | 45 | [Transdimensional](https://open.spotify.com/track/6TL023PjPquxqJ4tzc1u2B) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 4:49 |
 
-Snapshot ID: `MTY1NzEwNDAzMSwwMDAwMDAxNzAwMDAwMTgxZDMxOGUwZGYwMDAwMDE4MWQyYzI5ZTgw`
+Snapshot ID: `MTY1NzEwNDAzMSwwMDAwMDAwMGE5ZGQ5ZGU4NDU0ZGUwMjhiOGY0NmQyNDZmYmMzOTFm`

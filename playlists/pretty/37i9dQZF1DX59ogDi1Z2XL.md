@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Nate Husser
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,528 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,595 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [RUN](https://open.spotify.com/track/7aE1nL39i7jMQls2EUTovZ) | [LOWERCASE](https://open.spotify.com/artist/4MTOXpWiUfcUFD4vn8Uoij) | [PILOT EPISODE A](https://open.spotify.com/album/0exfy5FfBDyDkJ6Kcy6plW) | 2:52 |
 | 100 | [Big Willy](https://open.spotify.com/track/6VAZPdIBl2UCiDPjhrwPkh) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5) | [Big Willy](https://open.spotify.com/album/51vRpCYDf1RD0C4VciFTIe) | 2:13 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDNiODAwMDAwMTgyMjQwZmVlZTYwMDAwMDE4MWZmYzIwZjFi`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDIyYmQzOTA3NDQxNWJjNTJhMTA1OTJiZmM5Yjc3MDAy`

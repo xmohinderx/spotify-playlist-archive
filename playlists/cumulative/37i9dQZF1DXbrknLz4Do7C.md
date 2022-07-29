@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-95 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
+97 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Keep Your Head Up \- Radio Version](https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Keep Your Head Up \(Radio Version\)](https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r) | 3:35 | 2021-12-01 |  |
 | [Know You Will](https://open.spotify.com/track/758pVpyAPaFWlZQAoB0UYt) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Know You Will](https://open.spotify.com/album/1rTs1PbPBCoKPC7PWklo5H) | 3:37 | 2021-12-01 |  |
 | [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 | 2021-12-01 |  |
-| [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2021-12-01 |  |
+| [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2021-12-01 | 2022-07-29 |
+| [Look What You've Done](https://open.spotify.com/track/7yniFtYK22ABG31mydMyzS) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:25 | 2021-12-01 |  |
 | [Mosaic](https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Mosaic](https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G) | 3:22 | 2021-12-01 |  |
 | [MY GOD](https://open.spotify.com/track/3krb5j9ZsU8DDNKu3FvfKR) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [MY GOD](https://open.spotify.com/album/3MeHz4YLJCt5aNhbAQxK86) | 3:01 | 2021-12-01 |  |
 | [My God Is Still The Same](https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [My God Is Still The Same](https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1) | 3:25 | 2021-12-01 |  |
@@ -94,7 +95,8 @@
 | [Stayed On Him \(Isaiah 26:3\)](https://open.spotify.com/track/3n6Y6eZ1PIq8DOBcQJHVkK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Genesis of Terrian](https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0) | 3:59 | 2021-12-01 |  |
 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 | 2021-12-01 |  |
 | [Take Me On A Ride](https://open.spotify.com/track/1aNnpd3OrXtnpovbwb4Npw) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water \(Deluxe\)](https://open.spotify.com/album/4e1bn1baG6R2vOM0yRCpfy) | 4:29 | 2021-12-01 |  |
-| [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2021-12-01 |  |
+| [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 | 2021-12-01 | 2022-07-29 |
+| [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2021-12-01 |  |
 | [Turn It Over](https://open.spotify.com/track/0B8B1CtiX1UkfWmGV0aU7m) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Turn It Over](https://open.spotify.com/album/00FkHcVhwwIzxd6eACpatn) | 4:05 | 2021-12-01 |  |
 | [Wake Up](https://open.spotify.com/track/3E2hqslxAV6v6yZmlitNPS) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Keeping On](https://open.spotify.com/album/6BqmmNMV9YLf9BdOeq1jcb) | 3:40 | 2021-12-01 |  |
 | [We Need You \(feat\. V\. Rose\)](https://open.spotify.com/track/6oWWx1qrQWkWcABWF4DF7N) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Terraform: The People](https://open.spotify.com/album/6sE9d6HcymH41mlxmB6qwI) | 3:04 | 2021-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,785 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,796 likes - 74 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 42 | [Ami Akash Pathabo](https://open.spotify.com/track/62NkP9pkOw6y2B25pokMMQ) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bhaar](https://open.spotify.com/album/7ePeM5FJpq4pkpnDFFP3Q8) | 4:03 |
 | 43 | [Ei Brishti Bheja Raate](https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl) | [George Lincoln D'Costa](https://open.spotify.com/artist/20DQNJ7sBu2VqMnuDYXFOp) | [Ei Brishti Bheja Raate](https://open.spotify.com/album/5udSAW80w1dapro72dnnFX) | 5:46 |
 | 44 | [Moho](https://open.spotify.com/track/7uSd8eNikOIqWjZk4ZxvK4) | [Jon Kabir](https://open.spotify.com/artist/41uDjhwAdkq4SYpMswPEtG) | [Moho](https://open.spotify.com/album/6buC5HKigeEIyAFhaABwuZ) | 3:00 |
-| 45 | [GhorGari](https://open.spotify.com/track/2nRwICrrFgQwiqiZdPjXLe) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY) | 6:22 |
+| 45 | [GhorGari](https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9) | 6:22 |
 | 46 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 |
 | 47 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 |
-| 48 | [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 |
-| 49 | [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 |
+| 48 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 |
+| 49 | [Oporanho](https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Icons](https://open.spotify.com/album/0KZiBnskH17AUkKhELLfve) | 4:09 |
 | 50 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |
 | 51 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 |
 | 52 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 |
@@ -81,7 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 71 | [Afeenolove](https://open.spotify.com/track/1sEiRFJK1sLJ3uEFEn3InM) | [Dads in the Park](https://open.spotify.com/artist/42BhmF97Bi9ZiSayKezneF), [Maheyan Hasan](https://open.spotify.com/artist/0lYakx3tQmYFIATIdEev6d) | [Afeenolove](https://open.spotify.com/album/5Q2dPziCMMwlJFX62z371h) | 4:38 |
 | 72 | [Ami Jani](https://open.spotify.com/track/7lfBr1RFBpfA9yDRGWceBs) | [Hridoy Khan](https://open.spotify.com/artist/4L8j8SN9LKAcKYq8oy4f5j) | [Ami Jani](https://open.spotify.com/album/0kxT6PQAmjW75S9bcO3tK1) | 4:27 |
 | 73 | [Ami Jai Hariye](https://open.spotify.com/track/5BdvUQme9AJ6A40Q8eNhsO) | [The Trap](https://open.spotify.com/artist/0y8uYaLotbpQi2MJW79mck) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:45 |
-| 74 | [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 |
-| 75 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 |
+| 74 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 |
 
-Snapshot ID: `MTY1Nzg4NDY4NCwwMDAwMDAyMDAwMDAwMTgyMDFhMGFmOTgwMDAwMDE4MTE5ZmExMzlh`
+Snapshot ID: `MTY1Nzg4NDY4NCwwMDAwMDAwMDU2Zjk1ODAwMDI1YjQ4ZDhlMDI0OTdjYWM5YzcxZGI2`

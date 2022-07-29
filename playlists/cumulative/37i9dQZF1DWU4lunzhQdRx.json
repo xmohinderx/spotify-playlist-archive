@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 301986,
       "name": "A Little Bit Stronger",
       "url": "https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201256,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159320,
       "name": "camera roll",
       "url": "https://open.spotify.com/track/58ITRjekhkYqHvuE71NUc0"
@@ -253,10 +253,28 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273893,
       "name": "Colder Weather",
       "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
+    },
+    {
+      "album": {
+        "name": "You Get What You Give",
+        "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273893,
+      "name": "Colder Weather",
+      "url": "https://open.spotify.com/track/3U8dHeggJ8IBe0UCb1gbyB"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 403920,
       "name": "Dear John",
       "url": "https://open.spotify.com/track/7hZuICN5eaCuQyp443RCt6"
@@ -311,6 +329,24 @@
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "Don't Take The Girl",
+      "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
     },
     {
       "album": {
@@ -347,7 +383,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162117,
       "name": "Drunk Too",
       "url": "https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo"
@@ -441,7 +477,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184760,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/56DsYXpdqkl3t2G3xM8MtA"
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 193320,
       "name": "Girl Crush",
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
@@ -531,7 +567,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 189442,
       "name": "Greener Pasture",
       "url": "https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE"
@@ -549,7 +585,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224581,
       "name": "Hair Salon",
       "url": "https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG"
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167796,
       "name": "homecoming queen?",
       "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
@@ -639,7 +675,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201493,
       "name": "hookup scene",
       "url": "https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM"
@@ -795,6 +831,24 @@
     {
       "album": {
         "name": "Just About Over You",
+        "url": "https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Just About Over You",
+      "url": "https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX"
+    },
+    {
+      "album": {
+        "name": "Just About Over You",
         "url": "https://open.spotify.com/album/22riN0U2QIHFdqKv9uzBK0"
       },
       "artists": [
@@ -805,7 +859,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179213,
       "name": "Just About Over You",
       "url": "https://open.spotify.com/track/6VzJCMOzVbvb25LPYQviM5"
@@ -841,7 +895,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-23",
+      "date_removed": null,
       "duration_ms": 230549,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
@@ -884,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+    },
+    {
+      "album": {
         "name": "Life Changes",
         "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
       },
@@ -913,7 +985,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp"
@@ -931,7 +1003,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
@@ -967,7 +1039,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153186,
       "name": "Narcissist - Piano Version",
       "url": "https://open.spotify.com/track/4Q88tEcTTNoWt7h3encEkp"
@@ -1115,7 +1187,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202133,
       "name": "Sand In My Boots",
       "url": "https://open.spotify.com/track/0DBb4vItW595Mljc7vXaVu"
@@ -1133,7 +1205,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206737,
       "name": "Seeing Someone Else",
       "url": "https://open.spotify.com/track/0fgZNZZPgRy4PoU4moGtvi"
@@ -1169,7 +1241,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy"
@@ -1187,7 +1259,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-29",
+      "date_removed": null,
       "duration_ms": 291533,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
@@ -1241,7 +1313,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 236626,
       "name": "The House That Built Me",
       "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
@@ -1259,7 +1331,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191906,
       "name": "The Stranger",
       "url": "https://open.spotify.com/track/6lJQpz7R61Yn05aa7bKZ3k"
@@ -1277,7 +1349,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184293,
       "name": "The Way I Say Goodbye",
       "url": "https://open.spotify.com/track/6ZV6lI92ypdfjeGgDQc5Mm"
@@ -1331,7 +1403,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203089,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO"
@@ -1393,6 +1465,24 @@
     {
       "album": {
         "name": "Country Again (Side A)",
+        "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "Want It Again",
+      "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
+    },
+    {
+      "album": {
+        "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/54gUAvhpOHFDhHGAINyogO"
       },
       "artists": [
@@ -1403,7 +1493,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172586,
       "name": "Want It Again",
       "url": "https://open.spotify.com/track/7KRcMPOGQA0WOw0T8qeXD7"
@@ -1457,7 +1547,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 214106,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/4bVuIlGQBMWS7vIhcx8Ae4"
@@ -1475,7 +1565,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202160,
       "name": "What If I Never Get Over You",
       "url": "https://open.spotify.com/track/5NiH8PyzL2GLansUWKDUkS"
@@ -1537,6 +1627,46 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
+    },
+    {
+      "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+    },
+    {
+      "album": {
+        "name": "Hits Alive",
+        "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259453,
+      "name": "Whiskey Lullaby (feat. Alison Krauss)",
+      "url": "https://open.spotify.com/track/4BXkf6yww23Vdju7E1fUrn"
     },
     {
       "album": {
@@ -1617,6 +1747,28 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+      "album": {
+        "name": "Hemingway's Whiskey",
+        "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "You and Tequila (feat. Grace Potter)",
+      "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
     },
     {
       "album": {

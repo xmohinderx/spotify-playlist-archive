@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Montell Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,395 likes - 98 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,432 likes - 98 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 65 | [Beautifully & Wonderfully Made](https://open.spotify.com/track/0UMOQzmsgoYCT5atzofp9Z) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Beautifully & Wonderfully Made](https://open.spotify.com/album/5zSwVEIXG5ys2BJWQlBgGB) | 3:32 |
 | 66 | [Jesus Always](https://open.spotify.com/track/30VsxUkzJBNqUehfpHmMkO) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Jesus Always](https://open.spotify.com/album/7mlAqh5DjcxZtBzpn5sg6u) | 4:44 |
 | 67 | [By Faith](https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP) | 3:21 |
-| 68 | [Born Again \- Live](https://open.spotify.com/track/6YFQEpmg2Tv7VfjH8j554P) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Live From Texas](https://open.spotify.com/album/3JbVsA2XSf3DFEwcdeX8J6) | 4:52 |
+| 68 | [Born Again \- Live From Texas](https://open.spotify.com/track/1x9m7DdPZif48tFCxpdURD) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Live From Texas](https://open.spotify.com/album/2ddBmMBuRxf5UOOaQdGNdE) | 4:52 |
 | 69 | [First Things First](https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/0xzWZ4k69mRjyEj2pKn8SP) | 4:11 |
 | 70 | [Too Grateful](https://open.spotify.com/track/751k0ZYTd0OBdrPNWhDwYK) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [You Find a Way](https://open.spotify.com/album/5Cg1Azkl7pAyoLgudii5kN) | 4:55 |
 | 71 | [Human](https://open.spotify.com/track/7BfqknY0CKHdvL2OjrWXRS) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [Human](https://open.spotify.com/album/5KuNPScgBdGK7shIMeJFGI) | 3:05 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 97 | [Como Eh](https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [Como Eh](https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI) | 2:49 |
 | 98 | [My Worship \(Amapiano\)](https://open.spotify.com/track/2CUdZFOLc0yL8IKkg7J59F) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [My Worship \(Amapiano\)](https://open.spotify.com/album/5aCjlzI5itsPLwN1qCCpiG) | 6:22 |
 
-Snapshot ID: `MTY1ODQ3NjE3MSwwMDAwMDUzOTAwMDAwMTgyMjRlMjExNjYwMDAwMDE4MjIzZjQ4NTky`
+Snapshot ID: `MTY1OTA1MzUwMywwMDAwMDAwMDBhNGYyYTY0Y2I3ZTk3ODEzZjk3OTVhZDIxNWZjNWM1`

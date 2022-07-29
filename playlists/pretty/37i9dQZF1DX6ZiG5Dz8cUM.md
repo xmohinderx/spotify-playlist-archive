@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the tone for your date night with some cozy and romantic jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,954 likes - 109 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,036 likes - 109 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dedicated to You](https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr) | [John Coltrane & Johnny Hartman](https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS) | [John Coltrane and Johnny Hartman](https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf) | 5:31 |
+| 1 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 |
 | 2 | [Moon River \- Live](https://open.spotify.com/track/6SP8PT3BiZnnkv4zrxvD13) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [The Art of the Trio, Vol\. 2: Live at the Village Vanguard](https://open.spotify.com/album/3gAmnTrafv3RJ8UcIvTKfe) | 10:51 |
 | 3 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 |
 | 4 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 60 | [Mad About the Boy](https://open.spotify.com/track/59IPyh29vl8BAb6k4yddbV) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [It's Time For Ernestine](https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L) | 3:24 |
 | 61 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 |
 | 62 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 |
-| 63 | [Some Other Time](https://open.spotify.com/track/04rPaVjf38UJDdOiFA40e0) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/0WKKT12LLXpCZkOR4H9euq) | 5:36 |
+| 63 | [Some Other Time](https://open.spotify.com/track/4HH32eyROgSGiay7IGiGSJ) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Waltz For Debby](https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC) | 5:36 |
 | 64 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 |
 | 65 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0OB9pzKCaECbHOf9ooimQc) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [You belong to me](https://open.spotify.com/album/3kfJotb4oHheL6G6xvb12o) | 2:52 |
 | 66 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 88 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 |
 | 89 | [Where Are You? \- Rudy Van Gelder Edition](https://open.spotify.com/track/5OiS6Qse8ZY9jJ5CTwO9Yx) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:21 |
 | 90 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 |
-| 91 | [Can't Help Lovin' That Man](https://open.spotify.com/track/2QmcrQHGk9WBGqw2kcKAmG) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/5A3mN3qTENiQkh0t0L2Rv4) | 3:12 |
+| 91 | [Can't Help Lovin' That Man \- Remastered](https://open.spotify.com/track/5Dus8FVMSpI1N5mslo3pGW) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [The Very Best Of Julie London](https://open.spotify.com/album/5l5YSf1QBiVhoUKBQX9lOh) | 3:10 |
 | 92 | [Love Waiting Endlessly](https://open.spotify.com/track/4LqPbk7Mcm48KciBUa88sM) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:35 |
 | 93 | [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 |
 | 94 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 108 | [Come Rain Or Come Shine](https://open.spotify.com/track/4FRemWPuKnnEfy0sTEb1LQ) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Embraceable You](https://open.spotify.com/album/2SGvc5XNCMqomh6WmLFuvW) | 2:09 |
 | 109 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 |
 
-Snapshot ID: `MTY1NjQ5MTg3MCwwMDAwMDA3NDAwMDAwMTgxYWU5YzBhZjIwMDAwMDE4MTRjZmIwM2Ux`
+Snapshot ID: `MTY1NjQ5MTg3MCwwMDAwMDAwMGMyZTkyZmI5ZTM2YzE3Y2E3OWQxNDVhODNkNzA1NTFl`

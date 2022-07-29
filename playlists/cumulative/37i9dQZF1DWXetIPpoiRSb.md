@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Ellie Goulding
 
-783 songs - 1 day 15 hr 37 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+786 songs - 1 day 15 hr 46 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Bite Marks](https://open.spotify.com/track/4U4fRUWIKRBXlSCZQV5gG3) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Bite Marks](https://open.spotify.com/album/7ecazNuZJ58S1JwZsSwxCw) | 2:43 | 2021-05-14 | 2021-06-26 |
 | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/track/21vPjrAwqTWvNm4HqODEIY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Bitter \(feat\. Trevor Daniel\)](https://open.spotify.com/album/46JzNo2nsnGWzYyjnbPjL0) | 3:14 | 2020-10-13\* | 2020-11-28 |
 | [BLEED](https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [BLEED](https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa) | 3:02 | 2021-08-28 | 2021-12-04 |
-| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-14 |  |
+| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-14 | 2022-07-29 |
+| [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-14 |  |
 | [blind](https://open.spotify.com/track/6d1ffV5RisInvrDxkLgBxe) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [blind](https://open.spotify.com/album/5fLkyJYzfpB523XXxM70o0) | 2:33 | 2020-10-13\* | 2020-10-24 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-07-02 |
 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 | 2021-11-13 | 2022-02-26 |
@@ -274,7 +275,8 @@
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-07-14 |  |
 | [GIRL ON TV](https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [GIRL ON TV](https://open.spotify.com/album/1ysjIPMr2enaVZYn7HxMdA) | 3:12 | 2020-11-21 | 2021-03-06 |
 | [Girlfriend](https://open.spotify.com/track/2mumZRgEobS03J546KQcMl) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Girlfriend](https://open.spotify.com/album/2O4FOjgZBVYf0x31p7cxJt) | 3:23 | 2021-01-30 | 2021-04-10 |
-| [Girls](https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH) | 4:00 | 2022-07-08 |  |
+| [Girls](https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH) | 4:00 | 2022-07-08 | 2022-07-29 |
+| [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-14 |  |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-08 | 2022-01-15 |
 | [Girls Like Sex](https://open.spotify.com/track/74KsTGXDYNCLXyIH6z3KBV) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part One](https://open.spotify.com/album/0xpGqHeRXVSovn5VEvgzHA) | 2:45 | 2021-05-28 | 2021-07-31 |
 | [Girls Like Us](https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Girls Like Us](https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg) | 3:09 | 2021-01-16 | 2021-05-22 |
@@ -739,7 +741,8 @@
 | [Washed Up](https://open.spotify.com/track/2A9h3EvZynC0jeiLNcnoWB) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Washed Up](https://open.spotify.com/album/4tXM9qnemrsLaAjmrUMA3o) | 2:54 | 2020-11-07 | 2021-02-26 |
 | [Wave of You](https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Wave of You](https://open.spotify.com/album/0ghwCnjmc0QPPccZfYQuXc) | 3:33 | 2021-04-10 | 2021-06-05 |
 | [We Are Gonna Live](https://open.spotify.com/track/3KFlDdTd8agmAPAG87fNWv) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [We Are Gonna Live](https://open.spotify.com/album/2m3rVkwVhWWFfD1wAJW6rW) | 2:50 | 2021-03-06 | 2021-05-08 |
-| [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/album/6d8EYqGfbAqVWiBo94hrwS) | 2:39 | 2022-05-13 |  |
+| [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/track/444STR1KdS0V1FKhrEO45y) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:39 | 2022-07-14 |  |
+| [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/track/63Olr9i7mMzAs6JInlHDeb) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [we'll make this ok \(with Travis Barker\)](https://open.spotify.com/album/6d8EYqGfbAqVWiBo94hrwS) | 2:39 | 2022-05-13 | 2022-07-29 |
 | [We're Coming Up](https://open.spotify.com/track/641HeBTrjkU6pqCXs2irXc) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [HARD FEELINGS](https://open.spotify.com/album/3VThjt3DkBA6MCIduJnp9Q) | 3:06 | 2020-12-11 | 2021-03-19 |
 | [Weekend Vibe](https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Weekend Vibe](https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR) | 2:46 | 2021-01-16 | 2021-04-03 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-07-09 |

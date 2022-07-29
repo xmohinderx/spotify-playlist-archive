@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Portada: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,281 likes - 74 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,555 likes - 74 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 47 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 48 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
 | 49 | [Quien TV Remix](https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Quien TV Remix](https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL) | 2:43 |
-| 50 | [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 |
+| 50 | [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 |
 | 51 | [Sincero](https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Sincero](https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd) | 3:38 |
 | 52 | [Un Viaje](https://open.spotify.com/track/3huLeBRjZPOzkePH7ph91y) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [Un Viaje](https://open.spotify.com/album/2Hi8ff429tSHmxPK3CzV36) | 4:45 |
 | 53 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 66 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 |
 | 67 | [11:11](https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [11:11](https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe) | 3:44 |
 | 68 | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/track/1p39fLrejm3vWAnGFGIYvC) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Sin Ropa \(with Ingratax\)](https://open.spotify.com/album/5mQ6bzqHYKHofu8Dj5Ftw7) | 2:48 |
-| 69 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 |
+| 69 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 |
 | 70 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 |
 | 71 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 72 | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/track/7ygbhCP2yANDe8Z4xXpvKk) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [3 Deseos Remix \(with Dalex & Eix, feat\. Alejo\)](https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK) | 4:49 |
 | 73 | [Tus Labios](https://open.spotify.com/track/0EI0p6kX1Ds9bnSnEuUVb6) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW) | [Tus Labios](https://open.spotify.com/album/3rRg3xAbZrqoLQCIUBk0MR) | 3:38 |
 | 74 | [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 |
 
-Snapshot ID: `MTY1ODQ2NjAwMCwwMDAwMDQzYzAwMDAwMTgyMjQ0NmRkMWMwMDAwMDE4MjE3NDk5MGU0`
+Snapshot ID: `MTY1ODQ2NjAwMCwwMDAwMDAwMDZmNWEyZjFjMjk3MDI1MDdmZWMwYTRlMGE1NmFhYjk4`

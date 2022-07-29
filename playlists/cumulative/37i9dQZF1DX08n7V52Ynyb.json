@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 174186,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 334933,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263452,
       "name": "All in Love is Fair",
       "url": "https://open.spotify.com/track/37X75DeUAMvgG3YR6sthor"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295951,
       "name": "As Long as He Needs Me",
       "url": "https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj"
@@ -307,10 +307,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 380380,
       "name": "Behind Me",
       "url": "https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO"
+    },
+    {
+      "album": {
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
+      },
+      "artists": [
+        {
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380380,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq"
     },
     {
       "album": {
@@ -347,10 +365,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253026,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2n6S7qcF89GMd1frle6MWG"
+    },
+    {
+      "album": {
+        "name": "Songs From Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Bonita - Special Edition",
+      "url": "https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H"
     },
     {
       "album": {
@@ -653,10 +693,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173360,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
+    },
+    {
+      "album": {
+        "name": "Every Star Above",
+        "url": "https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh"
     },
     {
       "album": {
@@ -683,7 +741,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 448640,
       "name": "From a Mother to a Child",
       "url": "https://open.spotify.com/track/2fcHfAhlK9D2DHAyn1xttw"
@@ -843,7 +901,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 312186,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/2pTg3UNkYi7dT5dghfUjjy"
@@ -895,7 +953,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 266138,
       "name": "I Didn't Know About You",
       "url": "https://open.spotify.com/track/2ffVdQxr7RREUKtmxuM6Rn"
@@ -920,6 +978,24 @@
     },
     {
       "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
+    },
+    {
+      "album": {
         "name": "You should have told me",
         "url": "https://open.spotify.com/album/7r95H4DvXQI3N8Pa0jwPEp"
       },
@@ -931,7 +1007,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212680,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/5aP8QI1DPbQxrkBpvgszLd"
@@ -953,6 +1029,24 @@
       "duration_ms": 366200,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/0sXqm4fPFlsvQFg7YVzrHE"
+    },
+    {
+      "album": {
+        "name": "Like Song, Like Weather",
+        "url": "https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7"
+      },
+      "artists": [
+        {
+          "name": "Norma Winstone",
+          "url": "https://open.spotify.com/artist/0CRQWqvYVd26x1RHVzzBy5"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366200,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn"
     },
     {
       "album": {
@@ -987,7 +1081,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
@@ -1085,7 +1179,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320250,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI"
@@ -1103,7 +1197,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
@@ -1139,7 +1233,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 410773,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N"
@@ -1315,7 +1409,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
@@ -1498,6 +1592,24 @@
     },
     {
       "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
+    },
+    {
+      "album": {
         "name": "May I Come In",
         "url": "https://open.spotify.com/album/6y82IM329PZUfWZ0HiFiup"
       },
@@ -1509,7 +1621,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310275,
       "name": "May I Come In",
       "url": "https://open.spotify.com/track/51NfTuAXFJrNzIfaGsR5hD"
@@ -1549,7 +1661,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260746,
       "name": "Memories Of You - Special Edition",
       "url": "https://open.spotify.com/track/5T4yRU7ihxsaSQzpvCW6dU"
@@ -1665,10 +1777,32 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249453,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/0rxCbuvEGu9Bk7t1UOO2iu"
+    },
+    {
+      "album": {
+        "name": "Songs From Other Places (Special Edition)",
+        "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        },
+        {
+          "name": "Art Hirahara",
+          "url": "https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249453,
+      "name": "My Ship - Special Edition",
+      "url": "https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM"
     },
     {
       "album": {
@@ -1723,10 +1857,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287836,
       "name": "Nightjar in the Northern Sky",
       "url": "https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA"
+    },
+    {
+      "album": {
+        "name": "Nightjar in the Northern Sky",
+        "url": "https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV"
+      },
+      "artists": [
+        {
+          "name": "Anna Gr\u00e9ta",
+          "url": "https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287836,
+      "name": "Nightjar in the Northern Sky",
+      "url": "https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez"
     },
     {
       "album": {
@@ -1745,10 +1897,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287933,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/22ckf5hC1cnHnFPY6pxINQ"
+    },
+    {
+      "album": {
+        "name": "Saint Valentin jazz",
+        "url": "https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287933,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA"
     },
     {
       "album": {
@@ -1799,10 +1973,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 352706,
       "name": "Peel Me A Grape",
       "url": "https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh"
+    },
+    {
+      "album": {
+        "name": "Love Scenes",
+        "url": "https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352733,
+      "name": "Peel Me A Grape",
+      "url": "https://open.spotify.com/track/7d78grkC9XhKXKJf44so32"
     },
     {
       "album": {
@@ -1843,7 +2035,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 465386,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/2xEiuO49zj433EvPjBuf7I"
@@ -1883,7 +2075,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275371,
       "name": "Softly, as in a Morning Sunrise",
       "url": "https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT"
@@ -1964,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228862,
+      "name": "Spring Can Really Hang You Up The Most - Demo",
+      "url": "https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL"
+    },
+    {
+      "album": {
         "name": "Spring Can Really Hang You Up The Most / Come Away With Me",
         "url": "https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG"
       },
@@ -1975,7 +2185,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228862,
       "name": "Spring Can Really Hang You Up The Most - Demo",
       "url": "https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3"
@@ -2015,10 +2225,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233613,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8"
+    },
+    {
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233613,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX"
     },
     {
       "album": {
@@ -2207,7 +2435,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 293124,
       "name": "The Streets of Berlin",
       "url": "https://open.spotify.com/track/2KUrFIcgYAMbadHxF0JX4B"
@@ -2241,7 +2469,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181923,
       "name": "The Sweetest Sounds",
       "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
@@ -2295,10 +2523,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216564,
       "name": "Thunderclouds",
       "url": "https://open.spotify.com/track/2OCV5Cn5DgesacD7ZLL10o"
+    },
+    {
+      "album": {
+        "name": "Ghost Song",
+        "url": "https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216564,
+      "name": "Thunderclouds",
+      "url": "https://open.spotify.com/track/4uskCkze8NPSFfYP8rsZ4T"
     },
     {
       "album": {
@@ -2325,7 +2571,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 309426,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy"
@@ -2435,7 +2681,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 245063,
       "name": "What'll I Do",
       "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
@@ -2533,7 +2779,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 333666,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/0KiIVvicncLbgf0Gl3OXAI"
@@ -2581,7 +2827,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270000,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/6R8E6KJoBLcSEtWRUcKali"

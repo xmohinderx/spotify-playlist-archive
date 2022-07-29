@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Clinton Kane
 
-871 songs - 1 day 21 hr 57 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+873 songs - 1 day 22 hr 4 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,8 @@
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-09-11 | 2021-09-25 |
 | [Screaming Underwater](https://open.spotify.com/track/2jYDlPVG15WCb7VfXldCNN) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Screaming Underwater](https://open.spotify.com/album/0GNG7KPpo7CWiyFn3kKHPH) | 2:26 | 2021-09-11 | 2021-11-20 |
 | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Secret Life \(feat\. Lana Del Rey\)](https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L) | 3:06 | 2021-07-31 | 2021-08-21 |
-| [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2021-10-16 |  |
+| [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2021-10-16 | 2022-07-29 |
+| [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 | 2022-07-27 |  |
 | [Seeing Other People](https://open.spotify.com/track/2OX5cec5sbZDSQOa7klacx) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Seeing Other People](https://open.spotify.com/album/5bYfpdwQ6b9fbqa4wLs3Gx) | 3:06 | 2020-10-13\* | 2020-12-10 |
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 |  |
 | [Seventeen](https://open.spotify.com/track/1DExDLmVbJrsmZ7Uy5OOXN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:54 | 2020-10-30 | 2020-12-04 |
@@ -754,7 +755,8 @@
 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2020-10-13\* | 2020-11-05 |
 | [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 | 2021-02-19 | 2021-03-26 |
 | [The Dark](https://open.spotify.com/track/4zfdaZxEFXgZDrGP8UWq10) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0eAHJ8R9M3X1GYeBotCPVV) | 4:58 | 2020-10-13\* | 2020-12-10 |
-| [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 |  |
+| [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 | 2022-07-27 |  |
+| [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-05-27 | 2022-07-29 |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-02-11 | 2022-04-02 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2021-06-12 | 2022-02-05 |
 | [the lifeboat's empty!](https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [the lifeboat's empty!](https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF) | 2:54 | 2022-01-28 | 2022-03-12 |

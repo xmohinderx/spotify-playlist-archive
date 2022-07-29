@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > The calming and pensive side of electric guitar\. Instrumental only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,446 likes - 82 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,460 likes - 82 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chorale Bloom](https://open.spotify.com/track/1IKTSaVFGdnkbWkzSJPveE) | [MVS](https://open.spotify.com/artist/2iPiEjvpiyVOYH7JSRgqfW) | [Chorale Bloom](https://open.spotify.com/album/1mzSDbGGXL5CXXTB8bEFYH) | 2:22 |
-| 2 | [Everything Must Go \(Frank Collage\)](https://open.spotify.com/track/2BY40RfMfBavzsjiTfbow3) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1IDULQwFEIbHUGFWSpjByu) | 3:34 |
+| 2 | [Everything Must Go \- Frank Collage](https://open.spotify.com/track/3Zr9l3vUJtVp06y9Fnc0O5) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Hearts Beat Loud \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16wCSAPcCvedM9X0sOksYO) | 3:34 |
 | 3 | [Jules & Jen](https://open.spotify.com/track/5C0BlB1Tm53MOS3SOFUGnN) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 3:13 |
 | 4 | [Lately I've Been Wondering](https://open.spotify.com/track/0NQEzguxVbjYvVeveED6s3) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [If I'm Gonna See You](https://open.spotify.com/album/11uXDArfb3fe5ortxBZTN3) | 4:02 |
 | 5 | [let the reins go](https://open.spotify.com/track/6edZwX23WcUDbKx9VOxC1Z) | [flower water](https://open.spotify.com/artist/2q0V4ngQ2LJ3gVS5lVW5Ww) | [kind of wind](https://open.spotify.com/album/47Pzq0DT4akwlF9DowYtc6) | 3:15 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 17 | [Dance for Two Strangers](https://open.spotify.com/track/2GREyN7Ff5LeXWU50uX3lq) | [Kevin McCormick](https://open.spotify.com/artist/6qG8VCk5ZaX7jP37A6dUoe), [David Horridge](https://open.spotify.com/artist/184zVIpW2ua3bIEeF77LTV) | [Light Patterns](https://open.spotify.com/album/0PgtpfELQuN9Rt4Pu3ai3N) | 2:23 |
 | 18 | [Bortom Träden](https://open.spotify.com/track/4CFlaEtdgeu4mFmnUApAyl) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 4:20 |
 | 19 | [Mente Libre](https://open.spotify.com/track/2Hd0NIYAMRez3FfjWfkFXv) | [La Perezosa](https://open.spotify.com/artist/68au8jhsM1K0frNuPzcKWI) | [Mente Libre](https://open.spotify.com/album/0pdbiXji6KDN7fsCKgYalt) | 3:47 |
-| 20 | [Sonder](https://open.spotify.com/track/6jjmxiR8Yb8Nli4BQhk9e5) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Sonder, Vol\. 1](https://open.spotify.com/album/4EMuzrkru4Lx2cD3yu663Q) | 2:32 |
+| 20 | [Sonder](https://open.spotify.com/track/3bhuWbEZnr9yX2QVYOWYzo) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Sonder Vol\. 1](https://open.spotify.com/album/2jWuhAdJY3sppLkYQ8vBbj) | 2:29 |
 | 21 | [Dawning](https://open.spotify.com/track/57u6QzHGiQ3StJd6jvdrBF) | [Sheltered Solitude](https://open.spotify.com/artist/2DsYHbz0OEIGzYynekPLlB) | [Dawning](https://open.spotify.com/album/763ZNUvb9O0SpjjcpakkvV) | 2:24 |
 | 22 | [Satellit](https://open.spotify.com/track/1cMQgz4TXYfWT3aTDDNpR1) | [Åström](https://open.spotify.com/artist/6yRr5aXym7ilgJIX8wciFC) | [Satellit](https://open.spotify.com/album/2Nx5o71yeqes2Q722XOsjN) | 2:09 |
 | 23 | [ML Bound](https://open.spotify.com/track/3XPHibpilVQZvpvN4BpvGz) | [Tropic Lame](https://open.spotify.com/artist/3WVSQw0STiqOBYFHWSryxP) | [Covert](https://open.spotify.com/album/64zVQb34ODaq3y1oxx7VaS) | 4:30 |
@@ -57,14 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 47 | [Madrigal](https://open.spotify.com/track/7HacRe0qGc3KeVeCRVcIFN) | [Felipe Pérez Santiago](https://open.spotify.com/artist/4FfFH7PoQpP9wuDaUkrdrw) | [Humedal](https://open.spotify.com/album/3aZ7Q5otwzpaHcPXpKLiS2) | 2:27 |
 | 48 | [Floral Hymn](https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [Echo Ark](https://open.spotify.com/album/4PUBYJiKEdJKdMwqHSeilt) | 3:35 |
 | 49 | [Let Me in](https://open.spotify.com/track/2xCrfVj6YtPcov8kuW3hU8) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [If I'm Gonna See You](https://open.spotify.com/album/11uXDArfb3fe5ortxBZTN3) | 3:01 |
-| 50 | [More Reeds](https://open.spotify.com/track/5CXoWgCOmJN7czdwNowOYk) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4Zzjrtt6012pdMZkw1R7mA) | 3:26 |
+| 50 | [More Reeds](https://open.spotify.com/track/03aNql8dZHY63kfd7A7c1m) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Away](https://open.spotify.com/album/4KGsOpuWVrfI5DinD34VOF) | 3:26 |
 | 51 | [Breakups Are Hard](https://open.spotify.com/track/2xJuvHrr1OgDAkIxL6klv5) | [Pink Halcyon](https://open.spotify.com/artist/02YzIekYco9IxU1HZuVg0C) | [Breakups Are Hard](https://open.spotify.com/album/2cRJ1TWmG6e7cU91md5ymn) | 2:16 |
 | 52 | [New World](https://open.spotify.com/track/1C1XqIYvEoQWXzXQnxIYlP) | [Jeff Gardenbaum](https://open.spotify.com/artist/0jexu3jhxqUlfX2fiW63TW) | [New World](https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj) | 3:21 |
 | 53 | [Epilogue 3](https://open.spotify.com/track/2OnwgWybQQHFav2sQahgFm) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:47 |
 | 54 | [On Mount Tamalpais](https://open.spotify.com/track/3SGs1iMxX9zzv6Dz1uQwSl) | [Thoughtlines](https://open.spotify.com/artist/7g04f5dUBMBNO7jdBrBZfR) | [Electric Hearts](https://open.spotify.com/album/0oz8kXBIk0xIMrylycgwPs) | 2:37 |
 | 55 | [After](https://open.spotify.com/track/6bu6ncccfVyX29Tkl9oRpR) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Feels Like This](https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj) | 4:19 |
 | 56 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 |
-| 57 | [Shiosai](https://open.spotify.com/track/16OeJvn6s38iUCNniIU4WQ) | [Isao Tsukamoto](https://open.spotify.com/artist/7pLs9v2GtcnQPBO5Jg8FQy) | [ARCHES](https://open.spotify.com/album/5mvZLtMuUS2H0ygEdjNyrt) | 2:32 |
+| 57 | [Shiosai](https://open.spotify.com/track/5ctRFJdqVhr0wWSBeY2BqC) | [塚本功](https://open.spotify.com/artist/0Nhw8VVtJBA1gXmgqyHdrd) | [ARCHES](https://open.spotify.com/album/3x5YLC33mC4XrCQD1yaDYc) | 2:32 |
 | 58 | [By Then](https://open.spotify.com/track/4UoKhh4KjZfFhbNh1EuyKv) | [Joe T\. Harris](https://open.spotify.com/artist/4iE2uZjQBe6KKF49DtFcD3) | [By Then](https://open.spotify.com/album/4um3mquSODjjiVy2KESC86) | 2:37 |
 | 59 | [Tales](https://open.spotify.com/track/6sDT5Hy4pAS6r0KqcY2em5) | [Blake Newton](https://open.spotify.com/artist/248FFgnhqpwX9kcgXtLWKK) | [Water](https://open.spotify.com/album/6Y67bPBC2FOf0WLVrRcq7p) | 3:23 |
 | 60 | [Clusters](https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA) | [LUNA](https://open.spotify.com/artist/7xVi0DSU3QPrtx76T70CEi) | [Clusters](https://open.spotify.com/album/6PVMPpV2c8hgr85kOh2LWN) | 2:34 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 63 | [The Source](https://open.spotify.com/track/6MmCpo0GytipNTU0mNwh4X) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Rivers](https://open.spotify.com/album/4v47S3SLTz4b0Wsnfs3gjq) | 5:30 |
 | 64 | [So Smooth](https://open.spotify.com/track/4v0UsJ0beNVxLwml6yod9m) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Solus](https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw) | 2:13 |
 | 65 | [Masterpiece](https://open.spotify.com/track/6Z4zjDo2ZhH3dF2ArneHlY) | [Boreal Monkey](https://open.spotify.com/artist/7hrUxPY5NyS5eTyuYCvhw1) | [BM](https://open.spotify.com/album/377VpIuyZnkPBNzNZds4EA) | 3:09 |
-| 66 | [Sun Rays Like Stilts](https://open.spotify.com/track/2Ik1Ak51UOyRr8uEBamnjI) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetuum](https://open.spotify.com/album/4UupldOklfdtsf76wfUaXx) | 2:04 |
+| 66 | [Sun Rays Like Stilts](https://open.spotify.com/track/4r1IFv0DCJ6CQsfOhQPTES) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Perpetual](https://open.spotify.com/album/4P4KWs6xp9LBaKInkE8me3) | 2:07 |
 | 67 | [Telefono B](https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9) | [SEA](https://open.spotify.com/artist/0yMlqsQgpwBZZ6AzyofFAx) | [SEA](https://open.spotify.com/album/3fOrus5SZVYa42UQATcNpy) | 1:43 |
 | 68 | [Dark Sky City](https://open.spotify.com/track/3PlXrxRDrSpg2JEShdEPGY) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dark Sky City](https://open.spotify.com/album/1n30D8qOtqf6IimgHXz8wF) | 2:37 |
 | 69 | [I Blomstertid](https://open.spotify.com/track/3kclS24SfhIIqoof9pMFhj) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [I Blomstertid](https://open.spotify.com/album/4tvdL8uzjualif8HIlf6ab) | 3:19 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 81 | [Flatiron](https://open.spotify.com/track/4a8njLGIK0meARLqzvysDn) | [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Talk from Home](https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6) | 7:00 |
 | 82 | [On Satie](https://open.spotify.com/track/4FLaCrEr1DnVyprizWg3XF) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [In No Particular Order](https://open.spotify.com/album/6Il6mppb7MylqEi5S3S3mK) | 3:48 |
 
-Snapshot ID: `MTY1Nzg0MzIwMCwwMDAwMDAyYzAwMDAwMTgxZmYyN2IwYWUwMDAwMDE4MTk1NjlkZjMx`
+Snapshot ID: `MTY1Nzg0MzIwMCwwMDAwMDAwMDcwN2RkYTQ5MzdjYjhkNGFhZDc1NWVjYjY2NWUwOWFk`

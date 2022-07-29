@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Reneé Rapp
 
-212 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+215 songs - 11 hr 28 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,11 +108,13 @@
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 |  |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2022-01-14 |  |
-| [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 |  |
+| [Let Her Remember](https://open.spotify.com/track/5LO2ZPe4MPJqrTyGnhypyL) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:32 | 2022-07-22 |  |
+| [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 | 2022-07-29 |
 | [Let Me](https://open.spotify.com/track/3j8h9Eu2R3JSbJdMQSGbZM) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Let Me](https://open.spotify.com/album/4I9CdA8S8MgpXAtMJ35zdb) | 3:23 | 2022-01-14 | 2022-03-12 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2022-01-14 | 2022-03-12 |
 | [Life of the Party](https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Life of the Party](https://open.spotify.com/album/7odGNsZC5sJH9EFruzhsol) | 4:16 | 2022-01-14 | 2022-04-09 |
-| [life, im over you](https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR) | 3:23 | 2022-02-11 |  |
+| [life, i'm over you](https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:23 | 2022-07-22 |  |
+| [life, im over you](https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR) | 3:23 | 2022-02-11 | 2022-07-29 |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 | 2022-05-20 |
 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 | 2022-01-21 | 2022-04-16 |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2022-04-22 |  |
@@ -161,7 +163,8 @@
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-01-14 | 2022-04-23 |
 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 | 2022-03-11 |  |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-05-28 |
-| [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-18 |  |
+| [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-18 | 2022-07-29 |
+| [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 | 2022-07-22 |  |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-23 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 | 2022-07-01 |  |

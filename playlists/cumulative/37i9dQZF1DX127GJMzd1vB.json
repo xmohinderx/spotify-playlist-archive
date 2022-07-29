@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 173146,
       "name": "Ahora y siempre",
       "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 181720,
       "name": "Amorcito coraz\u00f3n",
       "url": "https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Cancionero",
+        "url": "https://open.spotify.com/album/51lIIXFRzYwMB0SgdgEKTn"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5O59qe8KiEjw5ztBelzWQp"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7bGnSqeUZubEgipuCpf6QR"
       },
@@ -145,10 +163,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201064,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2tpi3j9rsfTLPnDpjOKx6c"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/6VDUE5mi2qDbQZT07GdYoE"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "album": {
@@ -163,7 +199,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175813,
       "name": "Bonita - Remastered",
       "url": "https://open.spotify.com/track/2S0ERU4u9ewCl05h49kPy8"
@@ -386,6 +422,24 @@
     },
     {
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
+    },
+    {
+      "album": {
         "name": "Canciones De Sus Peliculas",
         "url": "https://open.spotify.com/album/4b0LLrVt3PWfWBV1Oz4fjL"
       },
@@ -397,7 +451,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150666,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/1Hh7gEOhoCBG1ob7Aw6biK"
@@ -509,10 +563,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226080,
       "name": "Fallaste corazon",
       "url": "https://open.spotify.com/track/7mYRqhp7hhew3UlSvEkJN5"
+    },
+    {
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
     },
     {
       "album": {
@@ -588,6 +660,28 @@
     },
     {
       "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/47haQcqBOue2RAsVXER52f"
+    },
+    {
+      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5"
       },
@@ -599,7 +693,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141120,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/7IF7OoI5VeKaAuh5OeXevf"
@@ -617,7 +711,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 209653,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
@@ -635,7 +729,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 200280,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI"
@@ -725,10 +819,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169626,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/6J9WTHBcgGL7pjnGT6vvS6"
+    },
+    {
+      "album": {
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169973,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92"
     },
     {
       "album": {
@@ -779,7 +891,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137866,
       "name": "Me Gusta Estar Contigo",
       "url": "https://open.spotify.com/track/3gTeuKp97kY5JAtERKfaIp"
@@ -858,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135733,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65"
+    },
+    {
+      "album": {
         "name": "Lucha Villa Y Aida",
         "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
@@ -869,7 +999,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136706,
       "name": "No Discutamos",
       "url": "https://open.spotify.com/track/1kEWmwBPNkG1LtMb1H0xtZ"
@@ -949,7 +1079,7 @@
     {
       "album": {
         "name": "Muy Dentro De Mi Corazon",
-        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+        "url": "https://open.spotify.com/album/51swWg5ktkZ01dwmd1yWZX"
       },
       "artists": [
         {
@@ -960,6 +1090,24 @@
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244426,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/3SxxIc1oAzkZ2n5GSl776X"
+    },
+    {
+      "album": {
+        "name": "Muy Dentro De Mi Corazon",
+        "url": "https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 244426,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/7qOjjzbvSsdHcAU31va4rz"
@@ -977,10 +1125,28 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195906,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
+    },
+    {
+      "album": {
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+      },
+      "artists": [
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195936,
+      "name": "Nuestro Juramento",
+      "url": "https://open.spotify.com/track/4F6Ne3xyctrytvYm9W68ll"
     },
     {
       "album": {
@@ -995,7 +1161,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165360,
       "name": "Paloma Querida",
       "url": "https://open.spotify.com/track/7nQWIZIZ4W7ZKFbrF5R97L"
@@ -1039,7 +1205,7 @@
     {
       "album": {
         "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
       },
       "artists": [
         {
@@ -1050,6 +1216,24 @@
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
+    },
+    {
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 238000,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4pFrn7MBtpwXlsyO5CbCj2"
@@ -1085,7 +1269,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158120,
       "name": "Qu\u00e9 te ha dado esa mujer",
       "url": "https://open.spotify.com/track/2nlQuH5g1My2gVI0VNdyA5"
@@ -1341,7 +1525,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189293,
       "name": "Tu enamorado",
       "url": "https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V"
@@ -1402,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "Interpreta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O"
+      },
+      "artists": [
+        {
+          "name": "Lucha Villa",
+          "url": "https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
+    },
+    {
+      "album": {
         "name": "Lucha Villa Y Aida",
         "url": "https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica"
       },
@@ -1413,7 +1615,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184560,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/359vq12J0koGowGV9pxek4"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: Chara Kai-Le. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Tiara Maimun. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "published_playlist_ids": [
     "3clZuxYeboHhluz5fN0HIw"
@@ -1689,6 +1689,24 @@
     {
       "album": {
         "name": "Hindsight",
+        "url": "https://open.spotify.com/album/1TBmwdtEcBOKGvPbnAFJ4o"
+      },
+      "artists": [
+        {
+          "name": "xena giam",
+          "url": "https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/2PIkCsG3y6rcrxQRGShCiR"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
         "url": "https://open.spotify.com/album/4WVj2eFk774aULiDEefviT"
       },
       "artists": [
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183925,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43"
@@ -3347,10 +3365,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152174,
       "name": "Push & Pull",
       "url": "https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN"
+    },
+    {
+      "album": {
+        "name": "Push & Pull",
+        "url": "https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg"
+      },
+      "artists": [
+        {
+          "name": "RON",
+          "url": "https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152174,
+      "name": "Push & Pull",
+      "url": "https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND"
     },
     {
       "album": {
@@ -4353,7 +4389,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161559,
       "name": "WHAT YOU WANT",
       "url": "https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ"

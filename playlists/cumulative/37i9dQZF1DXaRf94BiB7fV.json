@@ -9174,6 +9174,24 @@
     },
     {
       "album": {
+        "name": "Tum Ho Meri Jaan - Single",
+        "url": "https://open.spotify.com/album/2a9ZIaQ32AVovWT2j6ejPN"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191494,
+      "name": "Tum Ho Meri Jaan",
+      "url": "https://open.spotify.com/track/11zUhzzHI3v67391OHYLxZ"
+    },
+    {
+      "album": {
         "name": "Tum Ho Meri Jaan",
         "url": "https://open.spotify.com/album/2OGhq1iqXwWJzQJC7tffzy"
       },
@@ -9203,7 +9221,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191494,
       "name": "Tum Ho Meri Jaan",
       "url": "https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj"

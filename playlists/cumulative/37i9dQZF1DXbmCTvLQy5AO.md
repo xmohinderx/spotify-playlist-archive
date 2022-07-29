@@ -4,7 +4,7 @@
 
 > Empowered rhymes and vibes\. Cover: Lil Nas X
 
-74 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
+76 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 | 2021-09-30 |  |
 | [Money](https://open.spotify.com/track/7wfQfnNFGWLD0BzcDngCRg) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Wash & Set](https://open.spotify.com/album/1VAZdFNZ1t5BYugJ3NfaZh) | 2:55 | 2021-09-30 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-09-30 |  |
-| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/0nzsxcMmkFwfLB8IJ6Ok9g) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/35sdN1DEfjFcOATBtQwHxt) | 3:56 | 2021-09-30 |  |
+| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/0nzsxcMmkFwfLB8IJ6Ok9g) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/35sdN1DEfjFcOATBtQwHxt) | 3:56 | 2021-09-30 | 2022-07-29 |
+| [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 | 2022-06-24 |  |
 | [Out of Me Head](https://open.spotify.com/track/3G9tyuUoBVNTDXY0icrUVf) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:21 | 2021-09-30 |  |
 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 4:35 | 2022-06-24 |  |
 | [Own Brand Freestyle](https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand Freestyle](https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7) | 2:33 | 2022-01-21 |  |
@@ -77,7 +78,8 @@
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-03-21 |  |
 | [WHOLE LOTTA MONEY](https://open.spotify.com/track/5yorXJWdBan1Vlh116ZtQ7) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:36 | 2021-09-30 |  |
 | [wicked, sexy!](https://open.spotify.com/track/6IsOt1shnug3aISsedXatq) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [EVERYTHING YOU HEARD IS TRUE](https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN) | 2:17 | 2021-09-30 |  |
-| [Wish You Would \(feat\. Princess Nokia\)](https://open.spotify.com/track/0XsCES6ZULNT2cfAuMzfp2) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Spring/Summer 2014](https://open.spotify.com/album/4C8Tr5NjjrfkuJgdV0sKNI) | 2:52 | 2021-09-30 |  |
+| [Wish You Would](https://open.spotify.com/track/51FNfc26Vj9R7J1mCospQ3) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Spring​/​Summer 2014](https://open.spotify.com/album/1yE95lst5ODh8lMBSMlbl0) | 2:52 | 2022-06-24 |  |
+| [Wish You Would \(feat\. Princess Nokia\)](https://open.spotify.com/track/0XsCES6ZULNT2cfAuMzfp2) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Spring/Summer 2014](https://open.spotify.com/album/4C8Tr5NjjrfkuJgdV0sKNI) | 2:52 | 2021-09-30 | 2022-07-29 |
 | [Woman](https://open.spotify.com/track/3IqP8UcPDgHmOCCaxfTFwm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Woman](https://open.spotify.com/album/7M0Tu8Fr3L2K105Ew8qzJ0) | 4:29 | 2021-09-30 |  |
 | [Wut](https://open.spotify.com/track/31WIkt099num18R8nsQhZv) | [Le1f](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO) | [Hey](https://open.spotify.com/album/1v8Py9AQuLOfJTzKsTtHy8) | 2:47 | 2021-09-30 | 2022-01-22 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 | 2021-09-30 | 2022-01-22 |

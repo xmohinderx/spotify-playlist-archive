@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
+    },
+    {
+      "album": {
         "name": "The Way That Lovers Do",
         "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281247,
       "name": "Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3pLtWj9iW6HT2TWAPcMZhg"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 176760,
       "name": "Baby Powder",
       "url": "https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK"
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Adventures In Paradise",
+        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250866,
+      "name": "Baby, This Love I Have",
+      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy"
+    },
+    {
+      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -127,7 +163,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214186,
       "name": "Background Music",
       "url": "https://open.spotify.com/track/2QgLakrVOFqkpR2lmMQ6FT"
@@ -145,7 +181,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 193200,
       "name": "Beautiful Crazy",
       "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 280603,
       "name": "Birch Tree",
       "url": "https://open.spotify.com/track/2isf9DCebk6mUhGagcD5bf"
@@ -289,7 +325,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
@@ -307,7 +343,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237312,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/2ENXNRRFNnb2jtehBgRTwz"
@@ -343,7 +379,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198253,
       "name": "Dirty Nikes",
       "url": "https://open.spotify.com/track/2wjkqe0TNPljHEBXknWviW"
@@ -361,7 +397,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 157499,
       "name": "D\u00c1KITI \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik"
@@ -451,7 +487,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
@@ -487,7 +523,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
@@ -631,7 +667,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191949,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
@@ -649,7 +685,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232893,
       "name": "In Real Life",
       "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
@@ -703,7 +739,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162870,
       "name": "It Still Rains in Paradise",
       "url": "https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D"
@@ -721,7 +757,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-28",
+      "date_removed": null,
       "duration_ms": 211763,
       "name": "John & Nancy",
       "url": "https://open.spotify.com/track/0snPmmKHsUJhmQLPpHnR4M"
@@ -739,7 +775,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231656,
       "name": "Joshua Tree",
       "url": "https://open.spotify.com/track/3iExRKI7vV9RrzvAuXmMTY"
@@ -783,7 +819,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209130,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/2wEyNde0HsqvTpP6yphfQU"
@@ -801,7 +837,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233772,
       "name": "Landslide - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RPFnPCvtBc46BFVOnzmPx"
@@ -837,7 +873,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189427,
       "name": "Letter",
       "url": "https://open.spotify.com/track/0mZvAO1rooF1rAGWsw7xC7"
@@ -927,7 +963,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-21",
+      "date_removed": null,
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
@@ -963,7 +999,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193429,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
@@ -1129,7 +1165,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
@@ -1147,7 +1183,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 211933,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
@@ -1280,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
+    },
+    {
+      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1349,7 +1403,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 225394,
       "name": "Seven",
       "url": "https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS"
@@ -1425,7 +1479,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191875,
       "name": "Song Beneath the Song",
       "url": "https://open.spotify.com/track/49ykaqGBrhQ6FSriy2ZBaF"
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214381,
       "name": "Summer Love - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3LSnp6mtKiVXCJwsmOvfMd"
@@ -1515,7 +1569,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 228293,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ"
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275954,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
@@ -1631,7 +1685,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-27",
+      "date_removed": null,
       "duration_ms": 281560,
       "name": "Thinking out Loud",
       "url": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
@@ -1721,7 +1775,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268566,
       "name": "Walking on Broken Glass - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1hI9ZhG2wlCbQKJnw3krPU"
@@ -1797,7 +1851,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
@@ -1815,7 +1869,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-12",
+      "date_removed": null,
       "duration_ms": 172506,
       "name": "You Are the Right One",
       "url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC"
@@ -1851,7 +1905,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"

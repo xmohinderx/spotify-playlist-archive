@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 
 > Let your hair down and dance along to music from the Trolls movies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,972 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,980 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 43 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
 | 44 | [I Fall to Pieces](https://open.spotify.com/track/2zWc9ii8uDntk6srjMKTGY) | [Sam Rockwell](https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 2:13 |
 | 45 | [Perfect for Me](https://open.spotify.com/track/2G2U56mtnq7zRLNEjv3QZK) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:47 |
-| 46 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 |
+| 46 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 | 47 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
 | 48 | [Hello](https://open.spotify.com/track/2jXTBrywc6ruxaUXW84Xhr) | [Zooey Deschanel](https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 1:37 |
 | 49 | [True Colors \- Film Version](https://open.spotify.com/track/1JY9hsqLWZ3JB3K39Ve1xF) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:00 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXn51Tv3nWo.md) - [plain]
 | 75 | [The Winners](https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 | 76 | [Forgive Me \- Remix](https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0) | [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:22 |
 
-Snapshot ID: `MTYzNzkxNzIwMCwwMDAwMDAwNDAwMDAwMTdkNWI3OTBlZTUwMDAwMDE3MTJjNGMzNDc3`
+Snapshot ID: `MTYzNzkxNzIwMCwwMDAwMDAwMDRiNDZjODliOTQxMTA3MmU3MDRlNWY5YTI3ZWZlYmYy`

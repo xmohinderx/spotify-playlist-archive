@@ -4,7 +4,7 @@
 
 > 每日都有咁多壞消息，我心情真係好肉酸呀！只可以同自己講聲「撐住」！
 
-87 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
+91 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/4Kjp35jrALLwqpzQypFyiK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [AUNTIE](https://open.spotify.com/track/5a5oBAAjI6Z6AuZo2MEVB9) | [Jan Lamb](https://open.spotify.com/artist/42uvXrSYcxDx4zStor068I) | [AUNTIE](https://open.spotify.com/album/1qXfSreBUV1bHlja9b9pfi) | 4:16 | 2022-04-13 |  |
 | [Ciao](https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Ciao](https://open.spotify.com/album/49E9WqCcwPoxlJ288eFG69) | 4:33 | 2022-04-13 |  |
 | [Dear My Friend,](https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [Dear My Friend,](https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3) | 3:52 | 2022-04-13 |  |
-| [Good Luck](https://open.spotify.com/track/5G46LoY6ABm0eGrCeppGEI) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/4CnM5igZYjQWvzrJFCg4NZ) | 1:26 | 2022-04-13 |  |
+| [Good Luck](https://open.spotify.com/track/3fvevSJBalzUd4AW1HcS4J) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/2W3GtsUfFCI11TEFkwa5yW) | 1:26 | 2022-04-13 |  |
+| [Good Luck](https://open.spotify.com/track/5G46LoY6ABm0eGrCeppGEI) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [Good Luck](https://open.spotify.com/album/4CnM5igZYjQWvzrJFCg4NZ) | 1:26 | 2022-04-13 | 2022-07-29 |
 | [HW1](https://open.spotify.com/track/7CbFYLWp5WI3K9p57d1X9w) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [HW1](https://open.spotify.com/album/27olYw9kfefaxM2oqtXhbg) | 4:19 | 2022-04-13 |  |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2022-04-13 |  |
 | [Let Us Go Then You and I](https://open.spotify.com/track/68bpbRXf2ICC7yQYZoOykS) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 5:28 | 2022-04-13 |  |
@@ -32,7 +33,8 @@
 | [今宵多珍重](https://open.spotify.com/track/7hM5duVObouIsRhz1Y2OcH) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 2:41 | 2022-04-13 |  |
 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 | 2022-04-13 |  |
 | [先哭為敬](https://open.spotify.com/track/7oVLiGq3yyLnGzlKvhgd3t) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 4:10 | 2022-04-13 |  |
-| [全身想旅行](https://open.spotify.com/track/0cUmsRJpFR28JpuGxUL5ru) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [全身想旅行](https://open.spotify.com/album/2q7Mg6exMeZvsnHbKmx8PI) | 1:51 | 2022-04-13 |  |
+| [全身想旅行](https://open.spotify.com/track/0cUmsRJpFR28JpuGxUL5ru) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [全身想旅行](https://open.spotify.com/album/2q7Mg6exMeZvsnHbKmx8PI) | 1:51 | 2022-04-13 | 2022-07-29 |
+| [全身想旅行](https://open.spotify.com/track/3rQHCAUeQ0k5YOexEU4LN7) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [全身想旅行](https://open.spotify.com/album/2Hs4lljiG9aHuO4Y79eHOp) | 1:51 | 2022-04-13 |  |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2022-04-13 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-04-13 |  |
 | [千世書](https://open.spotify.com/track/0IENIIyNzkRTJu7xhKvDNC) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [千世書](https://open.spotify.com/album/2VPXxz135nzaU7LTrOOby5) | 4:21 | 2022-04-13 |  |
@@ -56,7 +58,8 @@
 | [所有遺失的東西](https://open.spotify.com/track/0Inm9JzNVVQd16oUXeHeDF) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [所有遺失的東西](https://open.spotify.com/album/6DLV0oJzp9NaPjiIeHi8Pk) | 3:36 | 2022-04-13 |  |
 | [撐著](https://open.spotify.com/track/3beXcn7mFyG0X9aQKABOO6) | [黎曉陽](https://open.spotify.com/artist/4iB0GWec0wyODZvOatQMM9) | [上上下下左右左右 B A Start](https://open.spotify.com/album/38S43x73XDmOq58hNQqfek) | 3:37 | 2022-04-13 |  |
 | [擇善固執](https://open.spotify.com/track/6eNVvM7s2vjWYBodtMpHsZ) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:37 | 2022-06-24 |  |
-| [救命歌](https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [救命歌](https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL) | 4:19 | 2022-04-13 |  |
+| [救命歌](https://open.spotify.com/track/2MgUrCOJ891yJTCez5hsaT) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [救命歌](https://open.spotify.com/album/4ptavMe4OBCtw0v3PMACbL) | 4:19 | 2022-04-13 | 2022-07-29 |
+| [救命歌](https://open.spotify.com/track/0FM5vfSFUm2w5an9tnzF4E) | [鄭欣宜](https://open.spotify.com/artist/5IGAOhMJTKNeknCPZOs6Eb) | [救命歌](https://open.spotify.com/album/0qRltMUwR0JwxKLH7xFC6E) | 4:19 | 2022-04-13 |  |
 | [新年快樂](https://open.spotify.com/track/2qfbVADQ4FbqlGj55T8t5U) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [新年快樂](https://open.spotify.com/album/32elQ6WhPVOADzfHMnzode) | 3:50 | 2022-04-13 |  |
 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 | 2022-04-13 |  |
 | [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2022-04-13 |  |
@@ -66,13 +69,14 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2022-04-13 |  |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-04-13 |  |
 | [每當幻變時](https://open.spotify.com/track/3YQclRiacw3qrUCOBUFDj0) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [每當幻變時](https://open.spotify.com/album/5gJCrDw4K8YxkDyYMmCsld) | 3:33 | 2022-04-13 |  |
-| [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 | 2022-04-13 |  |
+| [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 | 2022-04-13 | 2022-07-29 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-04-13 |  |
 | [生](https://open.spotify.com/track/2jvSY489LEysR7h3vK3L4t) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [生](https://open.spotify.com/album/0eRcJrxg7A7b6SAg38oHuv) | 4:24 | 2022-04-13 |  |
 | [留一天與你喘息](https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [留一天與你喘息](https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj) | 4:18 | 2022-04-13 |  |
 | [留下來的人](https://open.spotify.com/track/0NaXXkY7Lss2VF3sYISJXG) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [人類世](https://open.spotify.com/album/44L9IokCH6BqKPFfkNbS9V) | 4:04 | 2022-04-13 |  |
 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2022-04-13 |  |
-| [白日夢一場](https://open.spotify.com/track/50xaTd95BzOEyWb74ugEw2) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw) | 3:38 | 2022-04-13 |  |
+| [白日夢一場](https://open.spotify.com/track/4yA1wA3ncst6Ihc2dxmZ49) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/61MuBBu3HpPKGngw0Sa3Ha) | 3:38 | 2022-04-13 |  |
+| [白日夢一場](https://open.spotify.com/track/50xaTd95BzOEyWb74ugEw2) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/0HL8rl1mfJoh4vifTkRaqw) | 3:38 | 2022-04-13 | 2022-07-29 |
 | [相信一切是最好的安排](https://open.spotify.com/track/5BYg9NfU9ynzhp3UBX49bY) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 4:18 | 2022-04-13 |  |
 | [碌下碌下](https://open.spotify.com/track/1HgQ42BYSi731oKeNUiDBY) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [碌下碌下](https://open.spotify.com/album/77vIHX0jBS4YpkItbJyPXT) | 3:43 | 2022-04-13 |  |
 | [神奇的糊塗魔藥](https://open.spotify.com/track/7MresghYfws5S4JG5Fcl4e) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:23 | 2022-04-13 |  |

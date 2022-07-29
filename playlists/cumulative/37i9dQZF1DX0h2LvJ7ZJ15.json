@@ -59,10 +59,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209362,
       "name": "17 (slowed + reverb)",
       "url": "https://open.spotify.com/track/2bhNs0A7Ve6KkLex0ICLxG"
+    },
+    {
+      "album": {
+        "name": "17 (Slowed + reverb)",
+        "url": "https://open.spotify.com/album/4t2A5pNu44Ow8q3nRRA64X"
+      },
+      "artists": [
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "17 - Slowed + reverb",
+      "url": "https://open.spotify.com/track/2Nbhq0jI4SR7whs7YNZEuJ"
     },
     {
       "album": {
@@ -81,7 +99,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 156823,
       "name": "2077 (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/5s5p0qhNS1fkamW4Y8G4Vi"
@@ -282,6 +300,28 @@
     },
     {
       "album": {
+        "name": "Always Be My Baby (Austin Millz Remix)",
+        "url": "https://open.spotify.com/album/7zQMAaw56pnSMQZQoMLq16"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120779,
+      "name": "Always Be My Baby - Austin Millz Remix",
+      "url": "https://open.spotify.com/track/0S0ezG92vQDS5VbX12GC3g"
+    },
+    {
+      "album": {
         "name": "Angel Baby (Slowed)",
         "url": "https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w"
       },
@@ -355,7 +395,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204000,
       "name": "Are You Lying To Your Therapist About Being Sober Again? Yes. - slowed + reverb",
       "url": "https://open.spotify.com/track/1OXZ6BMqdf1KOIIzMiY014"
@@ -549,7 +589,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152485,
       "name": "Call (S&R)",
       "url": "https://open.spotify.com/track/4FstujySEAxUrrCZJ44fzn"
@@ -813,7 +853,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "DIVE IN! - SLOWED REVERB!",
       "url": "https://open.spotify.com/track/0ZJ09tmBmKJlUTz8y7qDCV"
@@ -835,7 +875,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 223472,
       "name": "Don't Forget My Love - slowed + reverb",
       "url": "https://open.spotify.com/track/3C2o6Iw5yLpe6HViGP9OYX"
@@ -951,7 +991,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 100465,
       "name": "empire state of mind - slowed + reverb",
       "url": "https://open.spotify.com/track/4dc1yIxU50feaV6TscXney"
@@ -1031,6 +1071,28 @@
     {
       "album": {
         "name": "Faster (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199817,
+      "name": "Faster (Slowed & Reverb)",
+      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
+    },
+    {
+      "album": {
+        "name": "Faster (Slowed & Reverb)",
         "url": "https://open.spotify.com/album/6m2nnn4Il69qSayNfampLW"
       },
       "artists": [
@@ -1045,10 +1107,32 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199810,
       "name": "Faster - Slowed & Reverb",
       "url": "https://open.spotify.com/track/52udUpS2ZYEsgSHZqXeJdY"
+    },
+    {
+      "album": {
+        "name": "Fat Lip (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/0TF2N1kepgP2Vbgqrf5CDx"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "Fat Lip - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/1ellE0yI1aoUrjN1iEjdIK"
     },
     {
       "album": {
@@ -1081,7 +1165,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 402952,
       "name": "Flashbacks (Slowed)",
       "url": "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
@@ -1373,7 +1457,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160000,
       "name": "I Believed",
       "url": "https://open.spotify.com/track/1BDzkh7g7ZDnmOQgJ82rp5"
@@ -1439,7 +1523,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129287,
       "name": "I Miss You 2 - Slowed and Reverb",
       "url": "https://open.spotify.com/track/4h2JCQFzIhhKnpRVPiygHe"
@@ -1479,7 +1563,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -1501,6 +1585,24 @@
       "duration_ms": 162663,
       "name": "I'm Trynna Yeah - slowed",
       "url": "https://open.spotify.com/track/6Dv0oQL2xrE7OjLga1ALFu"
+    },
+    {
+      "album": {
+        "name": "idfc (Slowed)",
+        "url": "https://open.spotify.com/album/2eZcDE2Jk0CYbV2hq5MJLW"
+      },
+      "artists": [
+        {
+          "name": "zhokiNg",
+          "url": "https://open.spotify.com/artist/71lPkEzWQ92JDhezpRx7ru"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131854,
+      "name": "idfc - Slowed",
+      "url": "https://open.spotify.com/track/6yy75oUmEwRAZusSsbx3WI"
     },
     {
       "album": {
@@ -1727,7 +1829,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182166,
       "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
@@ -1781,7 +1883,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227956,
       "name": "mona lisa - slowed",
       "url": "https://open.spotify.com/track/2b8U9TfBCS7Xy3bZUl8qkE"
@@ -2103,6 +2205,24 @@
     {
       "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4hGbyUnXkhjeGdzecA25H0"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279250,
+      "name": "Renegade (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/7lCu7IgWLKeHBGcTR4HfgX"
+    },
+    {
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5"
       },
       "artists": [
@@ -2113,7 +2233,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279346,
       "name": "Renegade (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/0lOzjQKnffLWj7i6AqNMJG"
@@ -2131,7 +2251,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131854,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/1fLHQ3KQtCQV5Ig0X3HVv2"
@@ -2231,10 +2351,32 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193732,
       "name": "School Rooftop - Slowed Down Version",
       "url": "https://open.spotify.com/track/1IzqLAnLpITw7SArHU3286"
+    },
+    {
+      "album": {
+        "name": "School Rooftop (Slowed Down Version)",
+        "url": "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
+      },
+      "artists": [
+        {
+          "name": "Hisohkah",
+          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+        },
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193732,
+      "name": "School Rooftop - Slowed Down Version",
+      "url": "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
     },
     {
       "album": {
@@ -2285,10 +2427,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
+    },
+    {
+      "album": {
+        "name": "Shhh (Pew Pew) [Slowed + Reverb]",
+        "url": "https://open.spotify.com/album/4PnBHgGROTJEynnkDr9DbL"
+      },
+      "artists": [
+        {
+          "name": "Young Fanatic",
+          "url": "https://open.spotify.com/artist/3WYkULuwVr6K98AQ2s3SYt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132796,
+      "name": "Shhh (Pew Pew) [Slowed + Reverb]",
+      "url": "https://open.spotify.com/track/40NU01ZkeQlzMfUuf4aWNm"
     },
     {
       "album": {
@@ -2307,7 +2467,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250403,
       "name": "slippin' to you - slowed + reverb remix",
       "url": "https://open.spotify.com/track/1DquVGwnTyGBauyHqyEsDH"
@@ -2427,10 +2587,28 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 448000,
       "name": "Swing Lynn (Slowed Version)",
       "url": "https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY"
+    },
+    {
+      "album": {
+        "name": "Swing Lynn (Slowed Version)",
+        "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "Swing Lynn - Slowed Version",
+      "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
     },
     {
       "album": {
@@ -2537,7 +2715,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "Us and Them",
       "url": "https://open.spotify.com/track/4vqFDdkdribP2ykIOgnAjx"
@@ -2631,7 +2809,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 229260,
       "name": "Wet (She Got That\u2026) - Slowed & Reverbed",
       "url": "https://open.spotify.com/track/565l0WZhDjZbCPPP1w4gD1"
@@ -2733,7 +2911,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 147577,
       "name": "Wrap Me In Plastic - Slowed Down Version",
       "url": "https://open.spotify.com/track/74PdooqFwI8VhklmayQ7dz"

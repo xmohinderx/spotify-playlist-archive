@@ -4,7 +4,7 @@
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 
-54 songs - 7 hr 53 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
+57 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,14 +28,16 @@
 | [Emergence](https://open.spotify.com/track/2lXskERZ6yY6m4EZ4u66ep) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu) | [Journey To The Sun](https://open.spotify.com/album/70OSyM8j556xNzncAHDa3y) | 10:00 | 2021-11-12 |  |
 | [Eternal Lover](https://open.spotify.com/track/3sZOJOtdUUp4XEhS8jyMEB) | [Maarten van der Vleuten](https://open.spotify.com/artist/5HwNj7Dz7pgor5Ej6JswdB) | [Presents In\-Existence \- Moonwater](https://open.spotify.com/album/5d8kDWmIMWnWaDYIr0bJCE) | 15:19 | 2021-11-12 |  |
 | [Flow](https://open.spotify.com/track/0TuwHMb0z0iLhd059eIAiB) | [Dimension 5](https://open.spotify.com/artist/5lCKHFKVRWmb56TqQuhPZn) | [Transdimensional](https://open.spotify.com/album/0fU2gvSArMA4rDiqFidgyG) | 7:59 | 2021-11-12 |  |
-| [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 | 2021-11-12 |  |
+| [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 | 2021-11-12 | 2022-07-29 |
+| [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 | 2022-05-19 |  |
 | [Gong Bath](https://open.spotify.com/track/6JjQ14L39RjX9gPNaQOPOH) | [Slow Riffs](https://open.spotify.com/artist/1OM9xXTByZgCV0qUFQGnXF) | [Gong Bath](https://open.spotify.com/album/2FdT5FaH1WGrtWDH1UBcMF) | 9:59 | 2021-11-12 |  |
 | [Grid Coordinate/Vorp One](https://open.spotify.com/track/4HcF4mXmLvlfusNCYn4eqo) | [Anubian Lights](https://open.spotify.com/artist/4h6dvb1vFqx8gmq9TdCxV7), [Nik Turner](https://open.spotify.com/artist/3sRZzVpgmxBaiKChVuUDNh) | [Your Captain Is Dead](https://open.spotify.com/album/7g6juBRZym793v5eRwbrOM) | 9:34 | 2021-11-12 |  |
 | [Hymn](https://open.spotify.com/track/5RupoQ9GAEN4k40jdHeXPD) | [Pete Namlook](https://open.spotify.com/artist/1zdrhzkCEqTrUrIiRzVeQ3), [Mixmaster Morris](https://open.spotify.com/artist/4YuO08xFlO9FYWKC73zov9) | [Dreamfish](https://open.spotify.com/album/0YT22XVTkzZ61STHHpruVI) | 27:54 | 2021-11-12 |  |
 | [Influx](https://open.spotify.com/track/6tao2f0AQ4riySOs2lGrDo) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 6:21 | 2021-11-12 |  |
 | [Königsforst 5](https://open.spotify.com/track/0QvJxmjfXEYj2q5R0znd0n) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 15:12 | 2021-11-12 |  |
 | [Lady Burning Sky](https://open.spotify.com/track/1dV0JUzukyWI1BO5tcVpCh) | [Neutron 9000](https://open.spotify.com/artist/0wTMDXNFj8bX2rKZuBDEdd) | [Lady Burning Sky](https://open.spotify.com/album/0Q9MAgJqzAEbFaBopjzY1H) | 14:01 | 2021-11-12 |  |
-| [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 | 2021-11-12 |  |
+| [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 | 2021-11-12 | 2022-07-29 |
+| [Little Fluffy Clouds](https://open.spotify.com/track/7H8OEVxkCgIvAvWp1MZBxw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/3IQGG1m7Pa6DAopVyxGmlL) | 4:27 | 2022-05-19 |  |
 | [Magical Dream](https://open.spotify.com/track/3UteqPisakwAwZ1xKjERqf) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Ninety](https://open.spotify.com/album/46z1u29jqg6fZA6mAO2E8Y) | 3:52 | 2021-11-12 |  |
 | [Moments In Love](https://open.spotify.com/track/2bsczk82MWGPmTbe6IWYsa) | [The Art Of Noise](https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU) | [\(Who's Afraid Of\) The Art Of Noise? \[Remastered\]](https://open.spotify.com/album/1l2IntFpOvhD4wdolquWNR) | 10:15 | 2021-11-12 |  |
 | [Nepalese Bliss](https://open.spotify.com/track/7pSVqOvIuMz71viZuHkPXQ) | [The Irresistible Force](https://open.spotify.com/artist/1aBkI1XS3Qq7KgbYEIf4Ul) | [Its Tomorrow Already](https://open.spotify.com/album/7reNdSVZHFWwfonRfEQQk4) | 7:45 | 2021-11-12 |  |
@@ -54,7 +56,8 @@
 | [Spectral](https://open.spotify.com/track/6p0N2HNDXZEcPHnliWTlvH) | [Higher Intelligence Agency](https://open.spotify.com/artist/6DhBEniG8r8qDfe5quohYs) | [Colourform](https://open.spotify.com/album/4mTqs8onoAtoUIPXvJ0tO5) | 7:01 | 2021-11-12 |  |
 | [Sunrise](https://open.spotify.com/track/7ilf660p0iGKCYCP9enquP) | [Young American Primitive](https://open.spotify.com/artist/2mK8oNohj82BrVyEH1Tfa0) | [Young American Primitive](https://open.spotify.com/album/4tN8NlDoYAhhKIuPHvME7H) | 8:02 | 2021-11-12 |  |
 | [Surfacing](https://open.spotify.com/track/15nGSt4NnoOJIihxPnXkvp) | [Trans\-4M](https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj) | [Sublunar Oracles](https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk) | 4:34 | 2021-11-12 |  |
-| [The Dawn of Birds \- Full Length Mix](https://open.spotify.com/track/3RHbUJi801L3T1MOyXMgAb) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0TV1upVtkb3wMZgTZNnJyv) | 7:47 | 2021-11-12 |  |
+| [The Dawn of Birds](https://open.spotify.com/track/5Dl6sTwutXDLrOz8BXsVwt) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0oQMkJz8kmZJ47SG1csP4K) | 7:47 | 2022-05-19 |  |
+| [The Dawn of Birds \- Full Length Mix](https://open.spotify.com/track/3RHbUJi801L3T1MOyXMgAb) | [Space Farm](https://open.spotify.com/artist/3x4hguC2AMtQw5RKamRWrp) | [Egyptology 0.5](https://open.spotify.com/album/0TV1upVtkb3wMZgTZNnJyv) | 7:47 | 2021-11-12 | 2022-07-29 |
 | [The Lie\-In King](https://open.spotify.com/track/00yMhNhN8PmZ5qa2AOX1VV) | [The Irresistible Force](https://open.spotify.com/artist/1aBkI1XS3Qq7KgbYEIf4Ul) | [Its Tomorrow Already](https://open.spotify.com/album/7reNdSVZHFWwfonRfEQQk4) | 5:39 | 2021-11-12 |  |
 | [Tiny's First Journey](https://open.spotify.com/track/4dBqFIjv2lNcAvrxdwEOjn) | [Mark Goddard](https://open.spotify.com/artist/2SaZ1I3baQ9xwI3wxDedNa) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:25 | 2021-11-12 |  |
 | [Understand](https://open.spotify.com/track/2qT8g8y0vahhIbFENODWg1) | [Prototype 909](https://open.spotify.com/artist/416thFSobYDOCarokXFluq) | [Modern Mantra](https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F) | 3:12 | 2021-11-12 |  |

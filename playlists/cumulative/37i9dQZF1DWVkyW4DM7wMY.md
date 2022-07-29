@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-118 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+119 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-09 |  |
 | [Lorn](https://open.spotify.com/track/3xJP7Xi4hmhkDLev7KyMrX) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Lorn](https://open.spotify.com/album/5XgH8gmjANlwLv4w4k9NnO) | 3:39 | 2021-10-15 | 2022-02-05 |
 | [Love Being Used](https://open.spotify.com/track/2W2lVHqOlwpEi41EKlu0o1) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Love Being Used](https://open.spotify.com/album/04JP41K4j9UmDMnG5Glmg4) | 1:29 | 2021-10-15 | 2022-01-28 |
-| [Love Can Turn the World](https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU) | [Jehovah Shalom Acapella](https://open.spotify.com/artist/0O7IVIdPRDMFsuhu5GS7ZL) | [Love Can Turn the World](https://open.spotify.com/album/1kvwgPA8Rr7AV7IKF7SsVK) | 3:11 | 2022-02-24 |  |
+| [Love Can Turn the World](https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU) | [Jehovah Shalom Acapella](https://open.spotify.com/artist/0O7IVIdPRDMFsuhu5GS7ZL) | [Love Can Turn the World](https://open.spotify.com/album/1kvwgPA8Rr7AV7IKF7SsVK) | 3:11 | 2022-02-24 | 2022-07-29 |
 | [Lowkey](https://open.spotify.com/track/5vftqVHNTFUEYTpqszZi5e) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lowkey](https://open.spotify.com/album/5SgR3uwNfIzqRhULqPQAAr) | 2:50 | 2021-10-15 |  |
 | [Lwang’ni Hotel](https://open.spotify.com/track/1k2DhfUQYWMm61M9wp6inw) | [Unganisha](https://open.spotify.com/artist/3ezROI5TY03vX9GfJiludK), [Kasiva Mutua](https://open.spotify.com/artist/1TAzZDHuCF7IazPPrywbCF) | [Lwang’ni Hotel](https://open.spotify.com/album/0KZIGBvTwZRudW6iIdvfL1) | 3:49 | 2021-10-15 | 2022-02-05 |
 | [Mad Ting](https://open.spotify.com/track/0329hJmIoXzCiAt2BkR4Zy) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [Chevy Kev](https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ), [mau](https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [MR.LU](https://open.spotify.com/artist/53SfY6OMDo9sMPS3DMxTSQ), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [It Is What It Is](https://open.spotify.com/album/1Jf4ia1dd68RkCKHHPLqBc) | 3:06 | 2021-10-15 | 2022-01-28 |
@@ -89,7 +89,8 @@
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 |  |
 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 | 2021-10-15 | 2022-03-18 |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-04-01 |  |
-| [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 |  |
+| [Perfection // T r u s t](https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh) | 4:00 | 2021-10-15 | 2022-07-29 |
+| [Perfection // T r u s t](https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Perfection // T r u s t](https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw) | 4:00 | 2021-10-15 |  |
 | [Pleasure Riddim](https://open.spotify.com/track/4ev6HfOvSGIWysAYaqyPdS) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Pleasure Riddim](https://open.spotify.com/album/5RSh4SiFXncnAnheuqLp7i) | 2:10 | 2022-02-04 |  |
 | [Quick Fix](https://open.spotify.com/track/77faFjUOgUeEbYTSxSp8Ub) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Quick Fix](https://open.spotify.com/album/4J4Fk7hYiAQjyszRx6HAXV) | 3:13 | 2022-06-24 |  |
 | [rektless](https://open.spotify.com/track/53ieS7pA76pdBS3dig8Vuk) | [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [rektless](https://open.spotify.com/album/6IGKWpDBZDwntsLmdGIrCT) | 2:14 | 2021-10-15 | 2022-03-18 |

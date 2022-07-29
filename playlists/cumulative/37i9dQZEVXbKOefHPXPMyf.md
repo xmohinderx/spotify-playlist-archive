@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-544 songs - 1 day 7 hr 29 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
+545 songs - 1 day 7 hr 32 min - [published](https://open.spotify.com/playlist/4hyxmOhhq68Y3jhKZJVpsQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-02-16 | 2022-04-28 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-03-15 | 2022-06-01 |
 | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt) | 2:49 | 2022-03-16 | 2022-03-21 |
-| [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-31 |  |
+| [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-31 | 2022-07-29 |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2022-01-09 | 2022-05-04 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-31 | 2022-06-13 |
 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 | 2022-06-26 | 2022-07-20 |
@@ -515,6 +515,7 @@
 | [Una Cunumi \- Remix](https://open.spotify.com/track/07sQOuFnAKkgT81abNu1m9) | [Qmayb](https://open.spotify.com/artist/6u5q0dSiIW3pSx4YcpgZro), [J.Gonzo](https://open.spotify.com/artist/4KtAbxuDjz4zt0UydnQB9h), [Faraón Love Shady](https://open.spotify.com/artist/6b4jozQw0RkUzPOp2tuIEn), [Xvideo Token](https://open.spotify.com/artist/5Ug0mwuVTPzJU3tguFv6ZA) | [Una Cunumi \(Remix\)](https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf) | 4:30 | 2022-02-24 | 2022-04-29 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-02-22 | 2022-05-31 |
 | [Una Vez](https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:52 | 2022-02-21 | 2022-02-25 |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-07-28 |  |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-04-22 |  |
 | [Usted Qué Haría?](https://open.spotify.com/track/5VKymQ4msDNpFgDnFhIxau) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Simplemente Amor](https://open.spotify.com/album/4j2vbFuRcljfIrqEUKY2S1) | 2:57 | 2022-01-30 | 2022-02-06 |
 | [Vamos los Ticos](https://open.spotify.com/track/33civEa3XoQpy6Y6Yf0mDH) | [Freddy Alvez](https://open.spotify.com/artist/0I2UIBoj4AFvvqhr9Scuzw) | [Singles](https://open.spotify.com/album/7LqYUobDzpHH16FgQoPhNF) | 1:57 | 2022-03-31 | 2022-06-23 |

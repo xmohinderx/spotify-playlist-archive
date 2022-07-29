@@ -3597,7 +3597,7 @@
     {
       "album": {
         "name": "tear gas",
-        "url": "https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L"
+        "url": "https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL"
       },
       "artists": [
         {
@@ -3608,6 +3608,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF"
+    },
+    {
+      "album": {
+        "name": "tear gas",
+        "url": "https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 257903,
       "name": "tear gas",
       "url": "https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg"
@@ -3625,10 +3643,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237291,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV"
+    },
+    {
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237291,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8"
     },
     {
       "album": {
@@ -3661,10 +3697,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257746,
       "name": "That Ain't Livin'",
       "url": "https://open.spotify.com/track/2aZeP8gOHxZuDyYh2FSLcy"
+    },
+    {
+      "album": {
+        "name": "That Ain't Livin'",
+        "url": "https://open.spotify.com/album/3ZXbICsdtqyiPGbfyFJZtB"
+      },
+      "artists": [
+        {
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "That Ain't Livin'",
+      "url": "https://open.spotify.com/track/2jQWY8hMoD1Nt3fCDd6zZo"
     },
     {
       "album": {
@@ -4573,10 +4627,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209066,
       "name": "Won't Stand Down",
       "url": "https://open.spotify.com/track/4HBo2aFsSTsHJ6VfHqzfeA"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "album": {

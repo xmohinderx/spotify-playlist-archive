@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Woong San\(웅산\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,170 likes - 51 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,187 likes - 51 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 12 | [Classic Coffee](https://open.spotify.com/track/3VjfNMeLYZoiqm5cVmFm80) | [김병근](https://open.spotify.com/artist/4dQItXdxCzhuELxhwYZWFi), [Jenny Yun](https://open.spotify.com/artist/7l4cRxyp8p5iCyr0AwvfWu) | [Raffine Gold](https://open.spotify.com/album/7zmb7Ih17LqGgHlBLiXSkO) | 3:24 |
 | 13 | [Hedgehog's Dilemma](https://open.spotify.com/track/2U8ltLrIzI7PcNPn75Cdcf) | [토끼풀](https://open.spotify.com/artist/2FOo1mUgBvVxST0MSO6zwu) | [Solitaire](https://open.spotify.com/album/6HQk8NCKz4tp0fedVYoj9G) | 4:30 |
 | 14 | [Panama City](https://open.spotify.com/track/0VMAEcSHxnQdMedvh0DmDg) | [신영주](https://open.spotify.com/artist/1RYbei4j2dxJS0hGwPCU7Q) | [Panama City](https://open.spotify.com/album/68t8T2g4qPYt3cF3W2cLSg) | 3:19 |
-| 15 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/3u2k4Mr3hpobfuDp9BLE1K) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/3BTYvOdXNu6CEKExO8jX6F) | 4:18 |
+| 15 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg) | 4:18 |
 | 16 | [Bohemian](https://open.spotify.com/track/2ragyAOyclvs6CaBEE3Ouw) | [Gypsum](https://open.spotify.com/artist/6qV7FBGBGmMOuGRW8gzuP8) | [Bohemian](https://open.spotify.com/album/4yu5JDYqSwsPnO0gozaW6Q) | 4:18 |
 | 17 | [The thirsty rose is happy](https://open.spotify.com/track/75IaMRnu0oFGmEruNK4xcB) | [Kevinology](https://open.spotify.com/artist/1oZXLWkvfPyzt9fMVaDxgp) | [Kevinology 2022 Lieder Ohne Worte: May](https://open.spotify.com/album/0eMvcpbAxbTmACwHvJgnti) | 3:19 |
 | 18 | [Close my eyes](https://open.spotify.com/track/0jNqyuk278VsrMjcAUzAzZ) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [Close my eyes](https://open.spotify.com/album/66A0tlUBVPsaVbiXIrwGqP) | 4:39 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 29 | [Pray On A Rope](https://open.spotify.com/track/2JPJlvi9ARshM4U6dwmHF2) | [Phil Yoon](https://open.spotify.com/artist/73EDYkCTptRHqBov4HEnX3) | [Pray On A Rope](https://open.spotify.com/album/0rpDRzu9q0XRYVUOJQ2k14) | 8:54 |
 | 30 | [SPRING OF CHORYANG](https://open.spotify.com/track/2CVy1sSuzwKs2DJJlAM5rQ) | [LEE SE YOUNG](https://open.spotify.com/artist/1LxHZbzjNjznwqJzIokSyv) | [SPRING OF CHORYANG](https://open.spotify.com/album/3rdSQwYpcGJrw1rIscH2o9) | 5:06 |
 | 31 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 |
-| 32 | [Blue in LED](https://open.spotify.com/track/1RuirFlIK2j9dlHoIUATWo) | [윤청미](https://open.spotify.com/artist/2ZzUbppeRa137R18Cxgj4A) | [Blue in LED](https://open.spotify.com/album/140zLUWx5AHU4b9PbDjaTI) | 3:30 |
+| 32 | [Blue in Led](https://open.spotify.com/track/1xZB3IMZ3LSbDoborownFf) | [윤청미](https://open.spotify.com/artist/05uzbpyy2ouCUFKFsmhiwV) | [Blue in Led](https://open.spotify.com/album/0wa11yZGqW3kCVb46jmKZD) | 3:30 |
 | 33 | [Bambi](https://open.spotify.com/track/75IjhFxQkIvCzP16IyR5Ob) | [정수연](https://open.spotify.com/artist/7az0Pd2sKjDBXMxPxhd6Qn) | [Bambi](https://open.spotify.com/album/0qKGgiSj0etZBTFrqMwPZ7) | 4:22 |
 | 34 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 |
 | 35 | [Regent's Park](https://open.spotify.com/track/0KH7NarCQrouOez7FRG9FJ) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Regent's Park](https://open.spotify.com/album/7jQEp2fOLeZlusxnLqQnfA) | 4:30 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 46 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 |
 | 47 | [Look To The Sky](https://open.spotify.com/track/16Ij8FOcMTVN5XbMjziPpS) | [Minseok Choi](https://open.spotify.com/artist/66DjCgQhjF05QqsFAK4JcQ) | [Look To The Sky](https://open.spotify.com/album/0nBvF6j1EIdvKGqb5UGYYu) | 6:09 |
 | 48 | [There's Only One Anyway \(Feat\. DALI\)](https://open.spotify.com/track/1D58NBVDQ2mvKVmZoBzRlz) | [TENKIM](https://open.spotify.com/artist/7dJjGijBRQ2abaL60zBCLA), [DALI](https://open.spotify.com/artist/2MnSDLAdRFxMw8YFJIIGmT) | [There's Only One Anyway](https://open.spotify.com/album/6Duno4QDnPQku1ENfWM1lB) | 3:50 |
-| 49 | [Consolation](https://open.spotify.com/track/3tmVBp6lvFCSzNh9CLBADU) | [Jun Kim](https://open.spotify.com/artist/2UcsE12d1cAU1UeiOn3eod), [이한얼](https://open.spotify.com/artist/4UvIkwJwfEsBhBpB8UtuVr) | [위로](https://open.spotify.com/album/5EqOrZz4PpnXkE9s43uWPs) | 9:39 |
+| 49 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 50 | [Lost in My Heart](https://open.spotify.com/track/5UPNxRMr8YQWhfpPJtsoQH) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Lost in My Heart](https://open.spotify.com/album/49kE2DER1Ohvkiku0Iue1O) | 5:41 |
 | 51 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MTY1NzI2MTA0NywwMDAwMDAxYTAwMDAwMTgxZGM3NGMwYjIwMDAwMDE4MGQ2YWMwMGUz`
+Snapshot ID: `MTY1NzI2MTA0NywwMDAwMDAwMGM5NGY2NDEzMDdlNTRhY2Y2MTVjZjYxNjY2NjIzYmEy`

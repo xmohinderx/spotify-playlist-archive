@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Pau Laggies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,563 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,598 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Miel](https://open.spotify.com/track/2WawgpEKS68gge1UzxWPsZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda De Uva](https://open.spotify.com/album/3q27k8OWdFA5FzovcQXWRI) | 2:42 |
+| 1 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
 | 2 | [Toda Esta Ciudad](https://open.spotify.com/track/7axrsgYy5Zf4UkpZ4FrKba) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Toda Esta Ciudad](https://open.spotify.com/album/0gKz4zcMdN2BtVwEhthisC) | 5:20 |
 | 3 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
-| 4 | [Amor Con Filo](https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj) | 2:58 |
+| 4 | [Amor Con Filo](https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt) | 2:58 |
 | 5 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
 | 6 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 | 7 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 16 | [Locos](https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [Locos](https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF) | 3:33 |
 | 17 | [Pedazos](https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Pedazos](https://open.spotify.com/album/2pHGFbI5w68m2LvFwRKxCI) | 2:44 |
 | 18 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 |
-| 19 | [Caminito](https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4) | 2:46 |
+| 19 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 |
 | 20 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 |
 | 21 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
 | 22 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 46 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 |
 | 47 | [El Vals](https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q) | [Felix Alvarez](https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA) | [El Vals](https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN) | 3:20 |
 | 48 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 |
-| 49 | [Y Tú No](https://open.spotify.com/track/31T6w8SRDYJI3LI4sZc8ct) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Y Tú No](https://open.spotify.com/album/4Qa0acukEJ8Shi0UfPDwFl) | 2:45 |
+| 49 | [Y Tú No](https://open.spotify.com/track/56FAtkjYkS2DqyuyKAo4d1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 2:45 |
 | 50 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 |
 | 51 | [Ojos de Camello](https://open.spotify.com/track/6fSsdyxsmvfQjH7tXY9SAa) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l), [Alex Serhan](https://open.spotify.com/artist/4YlZJvPOBNvWa3oPQbvlxF) | [Ojos de Camello](https://open.spotify.com/album/5cWSxcGA9ZHpqApjZuqZgj) | 3:33 |
 | 52 | [6 Am](https://open.spotify.com/track/4jLdQovU5ocprshd0eCaDO) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [6 Am](https://open.spotify.com/album/4u1iJcba94747cyq7u9OxX) | 3:26 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 68 | [Meteorito](https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ) | [Lupe Alvarez](https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X) | [Meteorito](https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe) | 3:17 |
 | 69 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
 | 70 | [Sin Compromiso](https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Sin Compromiso](https://open.spotify.com/album/0wrgk3LgWKQLD79oqoElpy) | 3:02 |
-| 71 | [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 |
+| 71 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 |
 | 72 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 |
 | 73 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 74 | [Vaivén](https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Ciclo](https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ) | 2:44 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 87 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 88 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 |
 | 89 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 |
-| 90 | [Acapulco](https://open.spotify.com/track/0LSFh7ioli4956i24hvekc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libro Abierto](https://open.spotify.com/album/7rf2CEkEXlav1vNOXSHpmL) | 4:19 |
+| 90 | [Acapulco](https://open.spotify.com/track/09Z84ntGDFOBesN399sJdl) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Libro Abierto](https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg) | 4:19 |
 | 91 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 |
 | 92 | [Sequía](https://open.spotify.com/track/0ARR3l1yzjK0E3BLL9lvZK) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Sequía](https://open.spotify.com/album/6JBFi4aWk56THgFa7DQJPj) | 3:29 |
 | 93 | [Todo me sabe a poco](https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 2:52 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 98 | [Empate](https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Empate](https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg) | 2:58 |
 | 99 | [Pasajeros](https://open.spotify.com/track/65VrYowEhFUUuyK8DQKdHY) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Pasajeros](https://open.spotify.com/album/71slCIIGbJjaIpH8VHUAww) | 2:45 |
 
-Snapshot ID: `MTY1Nzg5OTI3NSwwMDAwMDIzNDAwMDAwMTgyMDI3ZjUzMjQwMDAwMDE4MjAyN2U5ODZh`
+Snapshot ID: `MTY1Nzg5OTI3NSwwMDAwMDAwMDdiN2UwOWFmNTYxNjlhNzYzZjYxZWU1M2QzOGJhMzVj`

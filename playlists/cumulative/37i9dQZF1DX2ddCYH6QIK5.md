@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: HAVET, Artwork: Isu Kim.
 
-384 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
+385 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,8 @@
 | [Underwater](https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf) | [Polar Noir](https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO) | [Underwater](https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0) | 3:30 | 2022-03-30 |  |
 | [Unimpressed & Unaroused](https://open.spotify.com/track/7HVZMddCslWkuXtG4xq8ZO) | [Tom Allan & The Strangest](https://open.spotify.com/artist/63Qfjo4nnHhHvqTdtxTkw8) | [Unimpressed & Unaroused](https://open.spotify.com/album/3c4OA86zUOIsIuUe8IrvTo) | 3:51 | 2022-06-01 |  |
 | [Unspoken](https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx) | [VØR](https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT) | [Unspoken](https://open.spotify.com/album/2eoOFXIlJqliP10nfbRw7n) | 3:02 | 2022-01-05 | 2022-01-27 |
-| [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-06-22 |  |
+| [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-06-22 | 2022-07-29 |
+| [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-07-27 |  |
 | [Viel Zu Viel](https://open.spotify.com/track/1qKGHV21b77MwwHc0dlLIc) | [Triplet](https://open.spotify.com/artist/2OmZnboxyFtF1UdRW6YA0k) | [Viel Zu Viel](https://open.spotify.com/album/0Eb3u9j1v7e9B8kng94EVQ) | 2:21 | 2022-03-23 | 2022-04-14 |
 | [Vielleicht](https://open.spotify.com/track/1mXgYDAvaff7gmhauPYxGc) | [LOBBY BOY](https://open.spotify.com/artist/5JtvVEhuiYf1LA71MapSl2) | [Vielleicht](https://open.spotify.com/album/1NCrURBUiMHJ4rZz6o6rz4) | 3:00 | 2022-07-27 |  |
 | [vier uhr](https://open.spotify.com/track/7rINTgW0P3QfCtRVlAM6OO) | [Carloo](https://open.spotify.com/artist/65EDWn2KxQdgdEt93Tp42S) | [vier uhr](https://open.spotify.com/album/1qEDOAJD4XB3s8xaq7qHSQ) | 2:27 | 2022-06-22 | 2022-06-30 |

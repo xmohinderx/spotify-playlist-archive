@@ -4,7 +4,7 @@
 
 > Soothe your mind with gentle instrumentals.
 
-220 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
+223 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/5E3sU5b9bqkflT96CV3QHp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2021-12-09 |  |
 | [Amedeo](https://open.spotify.com/track/7HHjSGgC5RvsR6PzOUsGj9) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo](https://open.spotify.com/album/1IOS446kWjWHlpc7JGJCch) | 2:17 | 2022-06-24 |  |
 | [anhelo](https://open.spotify.com/track/7dgNKgQTOXvDyL4oX1xrZ3) | [Ezechiel Almonte](https://open.spotify.com/artist/0v5fZ2O6PA8HBHeiIALNx9) | [anhelo](https://open.spotify.com/album/5CYhPhBDl0VX9OdvUto91Q) | 3:32 | 2021-12-09 |  |
-| [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-12-09 |  |
+| [As With The Night Sky](https://open.spotify.com/track/5uS36I6YMNcYIELbLNcsnz) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:27 | 2022-07-27 |  |
+| [As With The Night Sky](https://open.spotify.com/track/6nJUw7h8liQrCLhqlNTL59) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Philip G Anderson](https://open.spotify.com/artist/0eQbtwyYUwzYwkq5MEdKrZ) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:27 | 2021-12-09 | 2022-07-29 |
 | [at peace](https://open.spotify.com/track/5iLY3nwMD7WIm9p8q5tpWm) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [at peace](https://open.spotify.com/album/1PvZfkyXrVL9jPs4QioLUw) | 2:34 | 2021-12-09 |  |
 | [Athenian Mind](https://open.spotify.com/track/4ZyE9TB38tLADzmv1OImVU) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Athenian Mind](https://open.spotify.com/album/15FHTtzpay3sTq35INQKT8) | 2:32 | 2021-12-09 |  |
 | [Atmos Eleven](https://open.spotify.com/track/0RIJAaogvQkeFuZVPhYlma) | [Atmos 11](https://open.spotify.com/artist/2dm3Qg6j7Y7Dl2yiFCT7MA) | [World of Wonders](https://open.spotify.com/album/2IofZvunariXmkfe7RYG45) | 3:47 | 2021-12-09 |  |
@@ -74,7 +75,8 @@
 | [For now](https://open.spotify.com/track/1IdZJSn4MgU8nGWVQGm25D) | [Leah Maur](https://open.spotify.com/artist/5t4Zi1CHP9SPoQ5bcHvJRN) | [For now](https://open.spotify.com/album/3ewH2K6sin3yWusThvhdFV) | 2:41 | 2021-12-09 |  |
 | [Gentle Night](https://open.spotify.com/track/70mDYH59Vd9ipZFg7BmLvk) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Golden Hour](https://open.spotify.com/album/5XYFdD3nM3F5A1WlIB8o8Z) | 2:52 | 2021-12-09 |  |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-09 |  |
-| [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:58 | 2021-12-09 |  |
+| [Gone](https://open.spotify.com/track/331iLszrgVOeYNl2KKn12j) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:58 | 2022-07-27 |  |
+| [Gone](https://open.spotify.com/track/4p7LooYAQniOpcNLunFnF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:58 | 2021-12-09 | 2022-07-29 |
 | [Grain Of Sand](https://open.spotify.com/track/2WiuZ3Hn1qqvAoX7CUSfnm) | [Sol Aurora](https://open.spotify.com/artist/3gAQNBieKjVM4cpp5W470A) | [Grain Of Sand](https://open.spotify.com/album/0NdprMBVBSlzUK0w83q0l1) | 2:54 | 2021-12-09 |  |
 | [Grateful](https://open.spotify.com/track/05iwmG7u1JEo0MMZ2XEoIq) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Goodnight](https://open.spotify.com/album/661sIW9bDfiwExa9kF2z71) | 3:11 | 2021-12-09 |  |
 | [Gratitude](https://open.spotify.com/track/6uQzZwosuNDHx0V4gMXH8r) | [Stone Desert](https://open.spotify.com/artist/7cA7ooCUrAjngo3Spp6uCK) | [Gratitude](https://open.spotify.com/album/6nyaoTnXCsEwYINFKlmE8M) | 2:37 | 2021-12-09 |  |
@@ -220,7 +222,8 @@
 | [Watching Traffic](https://open.spotify.com/track/3f1RNPAuQptCLaZ17CEHZo) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Compositions for Piano](https://open.spotify.com/album/5Sx8y2k3MGCYhic1Dwe3dc) | 2:50 | 2021-12-09 |  |
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-01-06 |  |
 | [When All Else Fades](https://open.spotify.com/track/3ykoePqyJr7ihzmfqgtoV0) | [Sam Eber](https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk) | [When All Else Fades](https://open.spotify.com/album/7uZbZk1XTjloyl6ky04uzo) | 3:08 | 2021-12-09 | 2022-03-22 |
-| [While You Were Sleeping](https://open.spotify.com/track/6qX3f7gWEPGK3TVSoCLT4j) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi) | 1:45 | 2021-12-09 |  |
+| [While You Were Sleeping](https://open.spotify.com/track/54wC2ics8RCpQGYoB516Qs) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/3c1UFkkA7goX16ZYoHawV1) | 1:45 | 2022-07-27 |  |
+| [While You Were Sleeping](https://open.spotify.com/track/6qX3f7gWEPGK3TVSoCLT4j) | [Vincent & A Secret](https://open.spotify.com/artist/56GQPPkhPG3G9LgFEo7Ae6) | [P.S\. I'm Still Here](https://open.spotify.com/album/4XBlcBU2srxJEXFgToYOTi) | 1:45 | 2021-12-09 | 2022-07-29 |
 | [Whistling Straits](https://open.spotify.com/track/3B3t69tUxJMrsmlUahjDIW) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Whistling Straits](https://open.spotify.com/album/61dVUb5m3COoMSQmlngnGD) | 4:28 | 2021-12-09 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2021-12-09 |  |
 | [Will you be there when I wake up](https://open.spotify.com/track/0MrDqmqbP0xS9sGedtiuAC) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Will you be there when I wake up](https://open.spotify.com/album/1NIKFZsRIEASlBY2s20mTP) | 2:44 | 2021-12-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mari Fernandez com Simone & Simaria, Luísa Sonza e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,762,291 likes - 97 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,762,499 likes - 97 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |
 | 97 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 |
 
-Snapshot ID: `MTY1ODQ5NTIyOSwwMDAwMDU3ODAwMDAwMTgyMjYwNGRmM2UwMDAwMDE4MjIyMjRhNDY0`
+Snapshot ID: `MTY1ODQ5NTIyOSwwMDAwMDAwMGFjM2E0YWQ5ODE5YzMzOTkwNzMyY2I1YzYzYTIzYmQw`

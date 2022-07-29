@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
       "artists": [
         {
@@ -74,6 +74,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225786,
+      "name": "All I Wanted",
+      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv"
@@ -199,10 +217,28 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237813,
       "name": "Biblical",
       "url": "https://open.spotify.com/track/2iA2pnDol3a471EFEBZf7h"
+    },
+    {
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/3wKxJeyD60VukP9dBXN4ES"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/4oFEus9krS5v57wAcggcEz"
     },
     {
       "album": {
@@ -271,10 +307,28 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203352,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/1yKD5GXDEKRuqw8ifl3qp1"
+    },
+    {
+      "album": {
+        "name": "All That Is Left of the Blue Sky",
+        "url": "https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204211,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/2UfhoAL6KofiiqDVFLub1W"
     },
     {
       "album": {
@@ -289,10 +343,46 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241226,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz"
+    },
+    {
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
+    },
+    {
+      "album": {
+        "name": "Colourmeinkindness",
+        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227340,
+      "name": "Covet",
+      "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
     },
     {
       "album": {
@@ -307,7 +397,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/2QX8qX86UDeGNJfcd2Yisy"
@@ -495,7 +585,7 @@
     {
       "album": {
         "name": "Youth",
-        "url": "https://open.spotify.com/album/32CXj7kEZQPfneTxGrkRZ9"
+        "url": "https://open.spotify.com/album/6QDNTEgCBoGd6zaKZ19vNC"
       },
       "artists": [
         {
@@ -506,6 +596,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233436,
+      "name": "How Does It Feel?",
+      "url": "https://open.spotify.com/track/2CT85N0Rwl2UtNOYZ4gepm"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/32CXj7kEZQPfneTxGrkRZ9"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 233436,
       "name": "How Does It Feel?",
       "url": "https://open.spotify.com/track/423jWF1OL1BlzwK7RALzPB"
@@ -657,7 +765,7 @@
     {
       "album": {
         "name": "Blush",
-        "url": "https://open.spotify.com/album/3aUH7YP03KL0Ooy3trxGAi"
+        "url": "https://open.spotify.com/album/3qdM2cxZoTPFWpyZrMZp2j"
       },
       "artists": [
         {
@@ -668,6 +776,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/0ttKGGwdONPJuVZggxzAl1"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/3aUH7YP03KL0Ooy3trxGAi"
+      },
+      "artists": [
+        {
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 224840,
       "name": "Knuckles",
       "url": "https://open.spotify.com/track/5U9qCuVeVJBWfW7dktnCDe"
@@ -729,7 +855,7 @@
     {
       "album": {
         "name": "weird!",
-        "url": "https://open.spotify.com/album/6Uz65rZH5hnky1CF7pZOMM"
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
@@ -740,6 +866,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+    },
+    {
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/6Uz65rZH5hnky1CF7pZOMM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/3fXttvx25zuTyanmWYRNuq"
@@ -757,10 +901,28 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235653,
       "name": "Make Me Wanna Die",
       "url": "https://open.spotify.com/track/0KGIbrNYktDXYyHopcDI2L"
+    },
+    {
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235653,
+      "name": "Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/2opyAm6zOyjR0An5LkblfN"
     },
     {
       "album": {
@@ -872,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328133,
+      "name": "Perish",
+      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
+    },
+    {
+      "album": {
         "name": "Perish",
         "url": "https://open.spotify.com/album/0yORSlK4tlgevz65Z0l9CG"
       },
@@ -883,7 +1063,7 @@
       ],
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 328133,
       "name": "Perish",
       "url": "https://open.spotify.com/track/4QBkVfLPfmPHgDeOEP1n91"
@@ -1017,7 +1197,7 @@
     {
       "album": {
         "name": "The Poison",
-        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+        "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
       "artists": [
         {
@@ -1028,6 +1208,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 348386,
+      "name": "Tears Don't Fall",
+      "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
+    },
+    {
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 348386,
       "name": "Tears Don't Fall",
       "url": "https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C"
@@ -1071,7 +1269,7 @@
     {
       "album": {
         "name": "It's Hard to Have Hope",
-        "url": "https://open.spotify.com/album/4oprczqEoxqg7myO4Ut8qN"
+        "url": "https://open.spotify.com/album/0jf1KlN5rJZD7P4wWOiSDm"
       },
       "artists": [
         {
@@ -1082,6 +1280,24 @@
       "date_added": "2021-02-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 362299,
+      "name": "Try Not to Die Until You're Dead",
+      "url": "https://open.spotify.com/track/1cIErx409YuJQmzasxmTio"
+    },
+    {
+      "album": {
+        "name": "It's Hard to Have Hope",
+        "url": "https://open.spotify.com/album/4oprczqEoxqg7myO4Ut8qN"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "date_added": "2021-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 362299,
       "name": "Try Not to Die Until You're Dead",
       "url": "https://open.spotify.com/track/49XDfK1qyFO0odyrqMM9FE"

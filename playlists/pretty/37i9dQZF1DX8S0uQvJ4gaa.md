@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,415 likes - 117 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,746 likes - 117 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 34 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 |
 | 35 | [Hear About a Girl](https://open.spotify.com/track/7oYuJA9j1pOdkRWIdWvV01) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Hear About a Girl](https://open.spotify.com/album/7G4fhfePVOdBvyHcWRJfCz) | 3:07 |
 | 36 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |
-| 37 | [Wastin' Whiskey](https://open.spotify.com/track/5bQobcpIOEg2Abn5Ai5G3Y) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2Pfsg4Z546ZfAdwrdpqrcA) | 3:10 |
+| 37 | [Wastin' Whiskey](https://open.spotify.com/track/3h10bRUpzMu0Umm2iXleYb) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Wastin' Whiskey](https://open.spotify.com/album/2l6aTa5socmv2iQZzF514T) | 3:10 |
 | 38 | [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 |
 | 39 | [When I Look Back](https://open.spotify.com/track/5Xpgw7Epf3rzuiWmCRDKtw) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [When I Look Back](https://open.spotify.com/album/23jxTU5ns84A9xxMZOai9B) | 2:59 |
 | 40 | [Doin' It Right](https://open.spotify.com/track/5BmL9dvw8RYAqFZRZOx1hU) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Doin' It Right](https://open.spotify.com/album/6ndo9jE0Vmg3wm6gAuitPw) | 3:00 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 42 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 43 | [Amen To That](https://open.spotify.com/track/7yNI84vfJ6O86F1S1l6iKD) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Amen To That](https://open.spotify.com/album/3U0z6prNw1u6HgoibSmzj7) | 2:52 |
 | 44 | [Raised Up Right](https://open.spotify.com/track/54iaqlFYaCYyJqCsRsbYUB) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Raised Up Right](https://open.spotify.com/album/0IXqwYhd5t5zt9d7zKfMp5) | 2:58 |
-| 45 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 |
+| 45 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 |
 | 46 | [Hope It's Hot Out](https://open.spotify.com/track/4CH3ynSZbUWlQO9n1P8j3V) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out](https://open.spotify.com/album/7ovAaBOHPb0MhiefUZ9E8D) | 2:47 |
 | 47 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 |
 | 48 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 98 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 |
 | 99 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
 | 100 | [People Talk](https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [People Talk](https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4) | 3:11 |
-| 101 | [Hold My Horses](https://open.spotify.com/track/5QYiLeppgdyv2cPyrHbpSk) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/12AadhpVQyHQTDiZ0UWbPd) | 3:00 |
+| 101 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 |
 | 102 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
 | 103 | [Critic](https://open.spotify.com/track/70mrIsFkdsc58aBJJWSNTO) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Critic](https://open.spotify.com/album/47aMURbtlVhMAlR50M6dd4) | 3:11 |
 | 104 | [Wild Horse](https://open.spotify.com/track/5IQkgdk6xQJQ5CYEtcFvxi) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 3:15 |
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 111 | [Let It Burn](https://open.spotify.com/track/09MhsFYo8oqSsd4eR2F15A) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Let It Burn](https://open.spotify.com/album/1aXlGFPc8SkCkuEOMd0T6z) | 3:26 |
 | 112 | [Rolex® On A Redneck](https://open.spotify.com/track/2jaNHcSRgPvtMXu5rboE7T) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Rolex® On A Redneck](https://open.spotify.com/album/5EAoOhSEXjwSmnddEIACbH) | 2:59 |
 | 113 | [Best Worst Ex](https://open.spotify.com/track/3fRdUaeiNkAU3tpGhLS4Ma) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Best Worst Ex](https://open.spotify.com/album/21jYnUmAjAhjROZDzMV6lL) | 2:44 |
-| 114 | [First Taste of Gone](https://open.spotify.com/track/73WwVhoDuv9IuNU1i7gY1R) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/1hqieJ5qNMuT4y0L64W00L) | 2:52 |
+| 114 | [First Taste of Gone](https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [First Taste of Gone](https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg) | 2:52 |
 | 115 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 |
 | 116 | [Try Losing One](https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [What Do They Know](https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0) | 3:39 |
 | 117 | [Gave It Back Broken](https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Gave It Back Broken](https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0) | 4:05 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDJhZjAwMDAwMTgyMjQwZmVlZmEwMDAwMDE4MjIyOGVmZGEx`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGRmYWI4NTM3YTAwMGFjZDViZGVmZDQ1MTBkZmQ3OTJj`

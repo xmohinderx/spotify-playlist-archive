@@ -4,7 +4,7 @@
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Baby Queen
 
-335 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+337 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-04-06 | 2022-05-05 |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2022-01-05 | 2022-02-11 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/7IehzBxyvb9egSpZFXZwTe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:22 | 2022-03-08 | 2022-04-06 |
-| [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 | 2022-06-01 |  |
+| [Baby, We're Ascending \- Edit](https://open.spotify.com/track/1L6Jpr2nBdKkgs8CQWheNT) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/3AvlpYPO9aRazYSvQh3mvz) | 4:12 | 2022-06-01 | 2022-07-29 |
+| [Baby, We're Ascending \- Edit](https://open.spotify.com/track/381kpaTALpjSXdzfUoFU20) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 4:12 | 2022-07-06 |  |
 | [Bad Loser](https://open.spotify.com/track/7tvwCy7QNpb2bX2mBENGBO) | [Pastiche](https://open.spotify.com/artist/7CjCdkMC5qsmJcglYe23vT) | [Bad Loser](https://open.spotify.com/album/6tYHylqwzu0H436vq5dArE) | 3:41 | 2021-12-08 | 2022-03-09 |
 | [Be By Your Side](https://open.spotify.com/track/1Vh0ZXykuBBR0mcERksAqw) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be By Your Side](https://open.spotify.com/album/0ocfNOe1DGjYob591ipgcC) | 4:54 | 2022-02-10 | 2022-03-09 |
 | [Be My Own Boyfriend](https://open.spotify.com/track/0DXZHcAQAkXx8YlMIdzqgG) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Be My Own Boyfriend](https://open.spotify.com/album/3KxiaBG22271OPBM29XRe8) | 3:27 | 2022-05-04 | 2022-06-01 |
@@ -328,7 +329,8 @@
 | [Whatever Simon Says](https://open.spotify.com/track/1tHUrfOKfRgzuGaa6lXcK7) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whatever Simon Says](https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn) | 3:32 | 2022-04-06 | 2022-05-05 |
 | [Where You Are](https://open.spotify.com/track/1wkmKVGBLk4A1jblaKVQ3h) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Where You Are](https://open.spotify.com/album/3bv9unehQKvqOAChCAZcoD) | 3:37 | 2022-01-05 | 2022-02-11 |
 | [white light](https://open.spotify.com/track/4tPYNeVMwvSxRvzeVYElQq) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [white light](https://open.spotify.com/album/3q4GLBVoGldALmNiCj9R1H) | 3:31 | 2022-01-05 | 2022-02-11 |
-| [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-07-06 |  |
+| [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-07-06 | 2022-07-29 |
+| [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-07-06 |  |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2022-03-08 | 2022-04-06 |
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-04-06 | 2022-05-05 |
 | [Without You](https://open.spotify.com/track/5xbt8wl4pXcMg46otl8mQC) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [Without You](https://open.spotify.com/album/1LhiuWtr9pMX3awIq3qGJb) | 3:10 | 2022-01-05 | 2022-02-11 |

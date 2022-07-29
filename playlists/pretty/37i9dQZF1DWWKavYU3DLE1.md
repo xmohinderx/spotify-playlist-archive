@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,621 likes - 44 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,645 likes - 44 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 | 13 | [MOSS \(Feat\. MINO, BOBBY\) \(Prod\. MINO\)](https://open.spotify.com/track/1cYDmIZtF2SGveyqhc7X1Y) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 4:04 |
 | 14 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
 | 15 | [Okay Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
-| 16 | [걔 세 I'm Him](https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 2:52 |
+| 16 | [걔 세 I'm Him](https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 2:52 |
 | 17 | [BODY](https://open.spotify.com/track/03D2t5wn77cpCxH8p99ZvA) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [The MOBB](https://open.spotify.com/album/6LwgGVAkFEmopo6EROaBpd) | 3:19 |
 | 18 | [Love and a boy](https://open.spotify.com/track/76hrR2MFK6Fei3BAz05Xgb) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:44 |
 | 19 | [Ok man \(Feat\. BOBBY\)](https://open.spotify.com/track/7vuWBis1uxZNjiAHgG10nQ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:19 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKavYU3DLE1.md) - [plain]
 | 43 | [The Door \(Prod\. by ZICO\)](https://open.spotify.com/track/2b5GYIMnWfhoWWnc4UFfQf) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Prison Playbook \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0ON9mWyY2zv996HpPNx2LH) | 3:20 |
 | 44 | [Pat Pat](https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [P.O](https://open.spotify.com/artist/6mTcXVXmCixpsVnYDUpCnY), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Kang's Kitchen3](https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst) | 3:02 |
 
-Snapshot ID: `MTYzODg3OTYzNywwMDAwMDAwNDAwMDAwMTdkOTRkNmFmOWYwMDAwMDE3ZDc5Y2M3YTEz`
+Snapshot ID: `MTYzODg3OTYzNywwMDAwMDAwMGEwYTUzYjU4YTQ2MTMxN2VjMDFjN2VjODRiZThjNTEy`

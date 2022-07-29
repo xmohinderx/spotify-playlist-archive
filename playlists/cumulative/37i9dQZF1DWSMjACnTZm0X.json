@@ -851,7 +851,7 @@
     {
       "album": {
         "name": "RAT-TAT-TAT",
-        "url": "https://open.spotify.com/album/6BTo2VKu0OnPToQYEdXuQm"
+        "url": "https://open.spotify.com/album/3VbbTG4bH4VmdCjivJNjro"
       },
       "artists": [
         {
@@ -866,6 +866,28 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223806,
+      "name": "RAT-TAT-TAT",
+      "url": "https://open.spotify.com/track/14oF3NwapfVlFLziXAknpM"
+    },
+    {
+      "album": {
+        "name": "RAT-TAT-TAT",
+        "url": "https://open.spotify.com/album/6BTo2VKu0OnPToQYEdXuQm"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "AKKOGORILLA",
+          "url": "https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 223806,
       "name": "RAT-TAT-TAT",
       "url": "https://open.spotify.com/track/699TBFHZPp6BM5FYge9B2W"
@@ -1191,10 +1213,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238911,
       "name": "Woman",
       "url": "https://open.spotify.com/track/0UYJi0cElsrmNF4iaa1MgM"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/05ytkPc0ZnkQRwp05V1T8v"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238911,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/62N0RkCCs4XQXk7hgnpOXo"
     },
     {
       "album": {

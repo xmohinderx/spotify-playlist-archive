@@ -4,7 +4,7 @@
 
 > Relaxing and comforting piano music.
 
-227 songs - 9 hr 41 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
+228 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/6H4giSUURJHccDTCgs6ahS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Felt Improv No\. 31](https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 31](https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC) | 2:24 | 2022-07-06 |  |
 | [Forever](https://open.spotify.com/track/7DwR3QHQXyDjFAC1L3mh2a) | [Kiran Greene](https://open.spotify.com/artist/3zufotQtFwEEXgir5jMVoP) | [Forever](https://open.spotify.com/album/3oXEH4clrLtZWCfqZGVUJg) | 2:36 | 2022-04-14 |  |
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2021-12-14 | 2022-01-20 |
-| [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2021-12-14 |  |
+| [Forgiveness](https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/0DMxxCIZOqkOczbtnzPP6L) | 2:15 | 2022-07-06 |  |
+| [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2021-12-14 | 2022-07-29 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2021-12-14 |  |
 | [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-12-14 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2021-12-14 | 2022-01-06 |

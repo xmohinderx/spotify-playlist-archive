@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the global Afro scene. Cover: JMANI",
+  "description": "Tracks popping off in the global Afro scene. Cover: Nnelg",
   "name": "Peppeh",
   "published_playlist_ids": [
     "3nZuXQa2F2MSgHEfT2QpvH"
@@ -238,6 +238,36 @@
     },
     {
       "album": {
+        "name": "Ghana Must Go",
+        "url": "https://open.spotify.com/album/6wWGSDH4HF7kacTVIBCzCi"
+      },
+      "artists": [
+        {
+          "name": "Nnelg",
+          "url": "https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP"
+        },
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180624,
+      "name": "Curvy Waistline",
+      "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
+    },
+    {
+      "album": {
         "name": "Dada",
         "url": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai"
       },
@@ -257,6 +287,28 @@
     {
       "album": {
         "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
       "artists": [
@@ -271,7 +323,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
@@ -385,10 +437,32 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151764,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc"
+    },
+    {
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "album": {
@@ -429,7 +503,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187500,
       "name": "IDG",
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
@@ -684,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Body of Work",
+        "url": "https://open.spotify.com/album/5OnyqL9XksyqPRkthm0DtL"
+      },
+      "artists": [
+        {
+          "name": "Eltee Skhillz",
+          "url": "https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193741,
+      "name": "ODG",
+      "url": "https://open.spotify.com/track/27ftIsCnZyS5l4NfvqALLS"
+    },
+    {
+      "album": {
         "name": "Body Of Work",
         "url": "https://open.spotify.com/album/4GiQ8qKGKc79hjyMshrhVt"
       },
@@ -695,7 +787,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193805,
       "name": "ODG",
       "url": "https://open.spotify.com/track/4PgMRk7oJmRzJOngQlONBa"

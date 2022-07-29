@@ -4,7 +4,7 @@
 
 > Soothing, minimalist ambient for deep sleep.
 
-299 songs - 15 hr 1 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
+300 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/407tH31qlKbYTcYf0IA7yj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Cirrus Clouds](https://open.spotify.com/track/6sk3KVXxU9welmb8gQEYxF) | [Rea Inarra](https://open.spotify.com/artist/5AvObRY7SiwpkfcIIOqb4R) | [Cirrus Clouds](https://open.spotify.com/album/2DwepQvFYfzn8YpHtJBEHb) | 2:11 | 2021-11-10 |  |
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2021-11-10 |  |
 | [Cloud Study](https://open.spotify.com/track/3rAchCb8ZxPuKJVXxQX6ui) | [Norris Melcher](https://open.spotify.com/artist/1uNKwFEjuT8w9eXOCqrcAA) | [Cloud Study](https://open.spotify.com/album/3Q1VDydFHxITwok0hVfSZT) | 3:10 | 2021-11-10 |  |
-| [cloudwalking](https://open.spotify.com/track/3VUxDjLowkVbLLAtTOu9AY) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [cloudwalking](https://open.spotify.com/album/7CkwozqqZ2lyTl9ngTtksX) | 2:36 | 2021-11-10 |  |
+| [cloudwalking](https://open.spotify.com/track/3VUxDjLowkVbLLAtTOu9AY) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [cloudwalking](https://open.spotify.com/album/7CkwozqqZ2lyTl9ngTtksX) | 2:36 | 2021-11-10 | 2022-07-29 |
+| [cloudwalking](https://open.spotify.com/track/3eGrtegk2T2pVcU154HyTC) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:36 | 2022-07-22 |  |
 | [Coast of Dreams](https://open.spotify.com/track/4BhIKcDVeOhkToWfl7k9OG) | [Ocean Mysteries](https://open.spotify.com/artist/1AZbxwiejbmkWYiVfbseXP) | [Coast of Dreams](https://open.spotify.com/album/6FSck32JCi7gwl4IqRVr9Z) | 2:47 | 2021-11-10 |  |
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Colors](https://open.spotify.com/track/1ILi7utXdtChPDygqYzAdP) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Colors](https://open.spotify.com/album/1CYV081qO4cItsK6R9V7zO) | 3:11 | 2021-11-10 |  |

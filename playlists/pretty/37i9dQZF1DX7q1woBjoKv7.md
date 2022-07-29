@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Rexx Life Raj
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,705 likes - 56 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,707 likes - 56 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 20 | [Secret's Safe](https://open.spotify.com/track/1sdusXPv3BquvE9Sg6chPB) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz), [Kezia](https://open.spotify.com/artist/6QRZexC48OMSnzGpiLxTHK) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 3:37 |
 | 21 | [B's Up](https://open.spotify.com/track/2jZTMXtNZndhWBWxX0Plwn) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [El Perro 2](https://open.spotify.com/album/7iYz8Ja9mVsdBddU8Oqmzu) | 2:30 |
 | 22 | [G Funk](https://open.spotify.com/track/6HL67M0Oi6PCx1qoAqvajT) | [Azjah](https://open.spotify.com/artist/3VFIf5Tn1WYGKodgtyVwjL), [1500 or Nothin](https://open.spotify.com/artist/6cJJCGZS0v24IF476QbbJh) | [G Funk](https://open.spotify.com/album/1G1JoXIruQpUbx2sBBsITM) | 3:01 |
-| 23 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/00rF9ojzNARE24NDDnplRS) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/album/3pcrrmJKqsIvSqkFBUWKIS) | 2:44 |
+| 23 | [KILLA MODE \(feat\. Storm Ford\)](https://open.spotify.com/track/6JotKhX3MBz3OfOU8HD0xe) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 |
 | 24 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 |
 | 25 | [Never End Up Broke](https://open.spotify.com/track/05DZcUyOZDX4OR2mc1RIrg) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Never End Up Broke](https://open.spotify.com/album/540ZUOz3g4xw4mokGA0R4K) | 2:42 |
 | 26 | [DND](https://open.spotify.com/track/1c7ep6uT7NZnTnAxapEEmp) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [DND](https://open.spotify.com/album/7qGFoN9DT29ZaipfwZbvts) | 3:28 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 49 | [Drive](https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Drive](https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa) | 2:25 |
 | 50 | [Do You Mind?](https://open.spotify.com/track/3Yw4XSNVeRl63rAYtP8Aq4) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Do You Mind?](https://open.spotify.com/album/69yAiAoKUv25iSBRecdXuj) | 2:30 |
 | 51 | [Second Hand Smoke](https://open.spotify.com/track/6PK2shLJ7mtejAvgSYDoLV) | [Tyler Reese](https://open.spotify.com/artist/1NVgeY7C8IHk6TqMv5UGIH) | [Second Hand Smoke](https://open.spotify.com/album/7pg1I4qmxbj54PblFTeihY) | 4:12 |
-| 52 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 |
+| 52 | [Rich Spirit](https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:22 |
 | 53 | [Mannequin](https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Mannequin](https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW) | 3:54 |
 | 54 | [Kevin](https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Kevin](https://open.spotify.com/album/4PW8SFTfPr3qyvG2DAQGdC) | 3:10 |
 | 55 | [Potion](https://open.spotify.com/track/4mf8kAQ7EgJScZIWu2DUKG) | [ASTU](https://open.spotify.com/artist/7im6YMNQQpdI06Yn764gAi) | [Potion](https://open.spotify.com/album/4L1umLTV7P85RuR1vzvCRx) | 3:29 |
 | 56 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 |
 
-Snapshot ID: `MTY1ODUxNjM2MywwMDAwMDAyYTAwMDAwMTgyMjc0NzVhNDIwMDAwMDE4MjI3M2RmM2Mz`
+Snapshot ID: `MTY1ODUxNjM2MywwMDAwMDAwMDI2YmY3NmMzYjg2MTJiNTc2ZmY3OWRhNzRmMWU5MjNl`

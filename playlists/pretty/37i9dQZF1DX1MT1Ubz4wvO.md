@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Rayos Láser en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,750 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,771 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 46 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 |
 | 47 | [Quizás Tu También Me Estás Buscando](https://open.spotify.com/track/5TPNHRduyzzqZQjlavMlGc) | [De Osos](https://open.spotify.com/artist/6QYqaSY7KhpQjMqIbqEh8K) | [Quizás Tu También Me Estás Buscando](https://open.spotify.com/album/06jiQ17Z97bPbCBKfLakF3) | 5:35 |
 | 48 | [Fogones Nocturnos](https://open.spotify.com/track/2Kz28K1EKmHQLgevGuKBgB) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Fogones Nocturnos](https://open.spotify.com/album/6Yq9lqtDXpfStCm0cLtXII) | 3:56 |
-| 49 | [No Pierdo el Tiempo](https://open.spotify.com/track/5usf6IzN5ttNauJf4GWknY) | [La Marmita](https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06), [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb), [No Replay](https://open.spotify.com/artist/4CU1ywxwBeLfvPfTo9ApsP), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [No Pierdo el Tiempo](https://open.spotify.com/album/3rIdfkTek24TH8npph1w14) | 3:39 |
+| 49 | [No Pierdo el Tiempo](https://open.spotify.com/track/5usf6IzN5ttNauJf4GWknY) | [La Marmita](https://open.spotify.com/artist/5TT38W8qp72XwEz7ngbC06), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn), [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb), [No Replay](https://open.spotify.com/artist/4CU1ywxwBeLfvPfTo9ApsP), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [No Pierdo el Tiempo](https://open.spotify.com/album/3rIdfkTek24TH8npph1w14) | 3:39 |
 | 50 | [No solo de amor \- Un homenaje a Rafael Berrio](https://open.spotify.com/track/604L1rtB3QS5AyPgoi0wC3) | [Diego Vasallo](https://open.spotify.com/artist/17AoFB11k5GLC8TFO7o7O8) | [No solo de amor \(Un homenaje a Rafael Berrio\)](https://open.spotify.com/album/37J5Q3uOOnsOlYbOO7oBo5) | 5:08 |
 
-Snapshot ID: `MTY1ODQ2OTMwMCwwMDAwMDJmNDAwMDAwMTgyMjQ3OTM3YjkwMDAwMDE4MjIzYTRjMTZm`
+Snapshot ID: `MTY1ODQ2OTMwMCwwMDAwMDAwMDBiZTk5YmVlYWNjMmI0NjNkOGNiNzEyZGUxZTkxNTE5`

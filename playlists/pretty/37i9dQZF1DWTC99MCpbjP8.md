@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,111 likes - 343 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,154 likes - 343 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 6 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 |
 | 7 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 |
 | 8 | [Springtime Afternoons](https://open.spotify.com/track/0V2qmRvvcoXijqbvL3vzPb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Springtime Afternoons](https://open.spotify.com/album/4n4SNcxSj6m7D2tqDFyNfi) | 1:49 |
-| 9 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 |
+| 9 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 |
 | 10 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 |
 | 11 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 |
 | 12 | [Manglar](https://open.spotify.com/track/5J98e7zSY03xUczf2BbK6q) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Manglar](https://open.spotify.com/album/5CiLtOuGlQQ5DpxLcDq4J7) | 2:21 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 142 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 |
 | 143 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 |
 | 144 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 |
-| 145 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 |
+| 145 | [Nocturnes op.3](https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT) | 2:34 |
 | 146 | [Geniality](https://open.spotify.com/track/1vaLaizp9SS2AMyadBtwzL) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Geniality](https://open.spotify.com/album/4NOyOhpuk1kTV8LIXvMRwn) | 2:50 |
 | 147 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 |
 | 148 | [Cronopio](https://open.spotify.com/track/3tFmZIO4nrqHC5oPumnSnO) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Cronopio](https://open.spotify.com/album/56rTvhXuiOrhCfuUtMAsTm) | 2:17 |
@@ -168,7 +168,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 158 | [Meditation: I\. Promise](https://open.spotify.com/track/3Ww34yWUihAKJOjt8wvpRc) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Karen LeFrak: Interlude, Vol\. 3 – Gratitude](https://open.spotify.com/album/17pzfCMTtp0AnuccfsoUvy) | 2:00 |
 | 159 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
 | 160 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
-| 161 | [Borrowed Time](https://open.spotify.com/track/6sdG0HUpvMNfsOiwtj6E6j) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/0HkQ5lRS5R77z79ixPpWRL) | 2:31 |
+| 161 | [Borrowed Time](https://open.spotify.com/track/2swEngJC2fSnOIaCDEllJX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Borrowed Time](https://open.spotify.com/album/2jcvs7NliDYO7R4TLJtQYr) | 2:31 |
 | 162 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 |
 | 163 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 |
 | 164 | [Cavtat](https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V) | [Medéa Bokor](https://open.spotify.com/artist/0AQEuRH3hzlAdn8eOzGJRl) | [Cavtat](https://open.spotify.com/album/1im1sa5FyaQmWb24yyhRd2) | 1:59 |
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 217 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 |
 | 218 | [cold embrace](https://open.spotify.com/track/7edfdEV5G5gJUkiPP6g8AD) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [cold embrace](https://open.spotify.com/album/6Bjg1HMdsEf532a4V3AHTF) | 2:57 |
 | 219 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 |
-| 220 | [Agonize](https://open.spotify.com/track/3FeGZb9pg7ws79UhhZP8lv) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Agonize](https://open.spotify.com/album/6PMNbI3D4rsYwWWgXZ9JHS) | 2:51 |
+| 220 | [Agonize](https://open.spotify.com/track/4iG6wXPpZIYIpOVkra8SCh) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 2:51 |
 | 221 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 |
 | 222 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 |
 | 223 | [Glow](https://open.spotify.com/track/3lM1BCOR6zXKsvC7I3eABX) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Glow](https://open.spotify.com/album/0XirurPx9hImK25nVbAGXo) | 2:23 |
@@ -261,10 +261,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 251 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 |
 | 252 | [Presque l'amour](https://open.spotify.com/track/03VbBcRhqaoH04MMlxlGIC) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Presque l'amour](https://open.spotify.com/album/6enrbOB2poCkylWRXhrp7r) | 2:22 |
 | 253 | [Somewhere](https://open.spotify.com/track/6WZ0FZFfh0kwNYOwaxlAr7) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Somewhere](https://open.spotify.com/album/6wP1XjtfhZjzvFiDTJMfgV) | 3:02 |
-| 254 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 |
+| 254 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 |
 | 255 | [The Orchard \(I\)](https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [The Orchard \(I\)](https://open.spotify.com/album/7r3fBLzgZjxVXqRyUU2tPt) | 2:47 |
 | 256 | [Bolero Chiquito](https://open.spotify.com/track/0WIGmqsYeC6i5NLVAvFZzx) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Bolero Chiquito](https://open.spotify.com/album/4l4qChOYQE11ACMWwekFJs) | 2:20 |
-| 257 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 |
+| 257 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 |
 | 258 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
 | 259 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
 | 260 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 |
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 274 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 |
 | 275 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 |
 | 276 | [Daydream](https://open.spotify.com/track/1WlaTc6LFDBrag4vKuiuRs) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:15 |
-| 277 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 |
+| 277 | [Scenery](https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [In the Valley](https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU) | 2:17 |
 | 278 | [Homecoming](https://open.spotify.com/track/3m2AfO2MVWB1hgrEwFnwpA) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Homecoming](https://open.spotify.com/album/6TWSSCJhQUJcyLPanQJcgC) | 2:57 |
 | 279 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 |
 | 280 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 |
@@ -292,7 +292,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 282 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
 | 283 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 |
 | 284 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 |
-| 285 | [Dvale](https://open.spotify.com/track/3bfXhbANHZ65viUlQMYtBR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/32YKmdwX6mljtaTRxcFJNx) | 2:59 |
+| 285 | [Dvale](https://open.spotify.com/track/38NHJt6bYHiIiXzAqUMlCO) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Dvale](https://open.spotify.com/album/5xLLJf0vaJI7XaX86NmtFw) | 2:59 |
 | 286 | [Heure d'or](https://open.spotify.com/track/37FY79ZJkHEGLSCHNKi8T3) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc) | [Heure d'or](https://open.spotify.com/album/5SM1Rol3fSZoByy60uUwjv) | 2:35 |
 | 287 | [Nocturne](https://open.spotify.com/track/14sKAbkXofaqoVmEP52Ire) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Nocturne](https://open.spotify.com/album/2cW49A7JOvYRYQj5gNCBKi) | 2:32 |
 | 288 | [Snowfall in a Forest](https://open.spotify.com/track/0DoZ4rU4WmaHcySIJHQY5A) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Snowfall in a Forest](https://open.spotify.com/album/2uL4hLPlY2MyJgKMtUKacZ) | 2:28 |
@@ -313,7 +313,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 303 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 |
 | 304 | [Amici](https://open.spotify.com/track/1GBNuD6VkNDHXNwL0wgVi2) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Amici](https://open.spotify.com/album/30oMX8LB37YXsinHIph2XI) | 2:08 |
 | 305 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 |
-| 306 | [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 |
+| 306 | [New Dawn](https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK) | 2:54 |
 | 307 | [Nel bisogno si riconosce il vero amico](https://open.spotify.com/track/1rUG0qJbwGySkGj9yd1GuJ) | [Fioretta Rizzo](https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ) | [Nel bisogno si riconosce il vero amico](https://open.spotify.com/album/5krn1guXFubnzkCvu1b1FX) | 1:50 |
 | 308 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 |
 | 309 | [Purity \(Single\)](https://open.spotify.com/track/2BBaNuc6B84qcMe0Mg9teB) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Purity \(Single\)](https://open.spotify.com/album/3vfqfzS0R2fz02BlGOrfdq) | 1:53 |
@@ -352,4 +352,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 342 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 343 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 |
 
-Snapshot ID: `MTY1ODkxNjkyMCwwMDAwMDA0NDAwMDAwMTgyM2YyNzVjYTIwMDAwMDE4MjNmMjcwZDIz`
+Snapshot ID: `MTY1ODkxNjkyMCwwMDAwMDAwMGJmZjA3YTAwNTMyNWFlMTc4MmU5ZGQzNDJiYjY3MjY3`

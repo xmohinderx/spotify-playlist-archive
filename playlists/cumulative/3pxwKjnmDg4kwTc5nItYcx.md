@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo low key tracks\. Cover: Carla Wehbe
 
-599 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+601 songs - 1 day 8 hr 26 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Emotion](https://open.spotify.com/track/28dSLj1n6swhs5WhTG4fJ8) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [My Happy Place](https://open.spotify.com/album/3SZ3cbYeS9O8edtb6OEUgg) | 3:38 | 2019-08-27\* | 2019-11-11 |
 | [Eternal Flame](https://open.spotify.com/track/2BJmGtlUq5abmG0i64xSzD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Eternal Flame](https://open.spotify.com/album/1GGbxiDMS1IfClccAeXm9W) | 2:35 | 2019-12-16 | 2020-05-19 |
 | [Eulogy for the Living](https://open.spotify.com/track/2vpHQ1P7huPZvQvL9HyGHv) | [Client Liaison](https://open.spotify.com/artist/5TjlxSJvfrD5I2PWaEh4jZ) | [Divine Intervention](https://open.spotify.com/album/78DTvdE1hoKG6Dm7qA7sFS) | 3:33 | 2021-10-02 |  |
+| [Euphoria](https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Newcomer](https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k) | 2:57 | 2022-07-28 |  |
 | [EVERGREEN](https://open.spotify.com/track/7B3jGR7VnzEW9Z8av4Hsuk) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [EVERGREEN](https://open.spotify.com/album/1KF7MFZGSKagaCWXtMzFmA) | 2:47 | 2019-11-22 | 2020-05-19 |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-25 | 2021-05-12 |
 | [Everything I Didn’t Say](https://open.spotify.com/track/3g6GXZAgm8lyIcKH91uaoL) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7kG8Wp4XlwpnZWWqEHJHz6) | 3:27 | 2022-03-06 |  |
@@ -500,6 +501,7 @@
 | [SPACE MAN](https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [SPACE MAN](https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF) | 3:37 | 2022-02-25 |  |
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-19 |  |
 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 | 2019-08-27\* | 2020-04-06 |
+| [Sriracha \(feat\. Woosung\)](https://open.spotify.com/track/7ldhMIeSYJQNYxdoZ0MKiM) | [The Attire](https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt), [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [Sriracha \(feat\. Woosung\)](https://open.spotify.com/album/18bpLLLl7pXC7KO7p8oyq2) | 3:02 | 2022-07-28 |  |
 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 | 2020-07-01 | 2020-07-09 |
 | [Stay Young](https://open.spotify.com/track/7wjprvfscpUNacftNovfQO) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Stay Young](https://open.spotify.com/album/2DFhsR9VbaeoR1sWlX04lk) | 3:22 | 2019-08-27\* | 2019-11-11 |
 | [Stealing All My Friends](https://open.spotify.com/track/5UiBcv3HW0hIshBrOQxY2q) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Stealing All My Friends](https://open.spotify.com/album/5gOHjDCfex1LV4MbKIUM97) | 2:41 | 2020-07-01 | 2021-05-12 |

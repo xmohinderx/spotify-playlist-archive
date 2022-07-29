@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "Amnesia",
-        "url": "https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu"
+        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188604,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N"
@@ -151,10 +169,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292160,
       "name": "Bombos y Tarolas",
       "url": "https://open.spotify.com/track/5Mn06i1d9H1KaiFbQDQPhT"
+    },
+    {
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/5bZ7Jgk7YE35ULHWO3wgHP"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5MyEACD2kRFeh231Z6FkdE"
     },
     {
       "album": {
@@ -177,7 +213,7 @@
     {
       "album": {
         "name": "Burbujas de Cristal",
-        "url": "https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU"
+        "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
       "artists": [
         {
@@ -192,6 +228,28 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 224624,
+      "name": "Burbujas de Cristal",
+      "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "album": {
+        "name": "Burbujas de Cristal",
+        "url": "https://open.spotify.com/album/63x472Q4wWqzhfjUURqAfU"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 224624,
       "name": "Burbujas de Cristal",
       "url": "https://open.spotify.com/track/4X1fQMrCbBLSkZKPvhO1Kj"
@@ -653,10 +711,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
+    },
+    {
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "album": {
@@ -1407,10 +1483,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S"
+    },
+    {
+      "album": {
+        "name": "Te Marqu\u00e9 Pedo",
+        "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Te Marqu\u00e9 Pedo",
+      "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
     },
     {
       "album": {
@@ -1583,7 +1681,7 @@
     {
       "album": {
         "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
       "artists": [
         {
@@ -1598,6 +1696,28 @@
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 289013,
       "name": "\u00c9xtasis (feat. Cartel de Santa)",
       "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"

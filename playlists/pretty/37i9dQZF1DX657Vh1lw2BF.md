@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 ### [أفضل الأغاني العراقية](https://open.spotify.com/playlist/37i9dQZF1DX657Vh1lw2BF)
 
-> استمع لافضل الأغاني العراقية! الغلاف: سيف عامر
+> استمع لافضل الأغاني العراقية! الغلاف: رحمة رياض
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,681 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,765 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 |
-| 2 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
-| 3 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 |
-| 4 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 |
-| 5 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 |
-| 6 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 |
+| 1 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
+| 2 | [Thanbak](https://open.spotify.com/track/0FOPyub9jFXCT23dJPU4Z9) | [Raad And Methaq](https://open.spotify.com/artist/2TS6Y2HXkANqlIC7ZNi5zq), [Methaq](https://open.spotify.com/artist/55c0fnBF1EYaA941Z7srCZ) | [Thanbak](https://open.spotify.com/album/4YCMXvlPMKqgI1w2f0sHuV) | 5:11 |
+| 3 | [Teba](https://open.spotify.com/track/0uBPeDdplbSOmp12hlLYO4) | [Saif Amer](https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq) | [Teba](https://open.spotify.com/album/1bS2s5HzuoKbHflXpWcsUS) | 4:10 |
+| 4 | [Karamti](https://open.spotify.com/track/1KvMp5OqzpTQOZYOohzynn) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Karamti](https://open.spotify.com/album/7qQx75GAnzjtyoKRbYFHZE) | 3:43 |
+| 5 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 |
+| 6 | [Aerif Ealam](https://open.spotify.com/track/3lR76Thi8qiARWyR56fRqf) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Aerif Ealam](https://open.spotify.com/album/6fEb4CMn6M8uqu9SxwFNi3) | 3:12 |
 | 7 | [El Barha](https://open.spotify.com/track/2vyRQqSjCIfODAyqntNjlG) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [El Barha](https://open.spotify.com/album/5N18SA94PoeUQTeNfZ8eeN) | 4:02 |
 | 8 | [Alb Abyad](https://open.spotify.com/track/3KZVDZxoe4Yg5goKnIo7eI) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Alb Abyad](https://open.spotify.com/album/6AaqiA3BXCczyl7CrLzHZs) | 3:40 |
 | 9 | [La Telaab Wayay](https://open.spotify.com/track/0Bo8mqU4rK9ICEQW9CGBOh) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [La Telaab Wayay](https://open.spotify.com/album/2cTuWoNRflW6YwUjtlAPKm) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 49 | [Qosat Hobna](https://open.spotify.com/track/1kq2AX8hKBZA2I8NExx9gf) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT), [Mustafa AlRubaiy](https://open.spotify.com/artist/1p6wrJn2I0QTJATQf7wZha) | [Qosat Hobna](https://open.spotify.com/album/2RL3oKbloORtWFekhGtmS6) | 4:35 |
 | 50 | [Halfatra](https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Halfatra](https://open.spotify.com/album/3kqgvcKUopYj5jIi2HguUq) | 3:46 |
 
-Snapshot ID: `MTY1ODc1NzgyNiwwMDAwMDE0NTAwMDAwMTgyMzVhYmM2NWYwMDAwMDE4MTZiMzVmN2M5`
+Snapshot ID: `MTY1ODk5MzcyMywwMDAwMDAwMDExMGMxODgyMzMxZTQzMzY0MjU4MzM5ODgzOWUxNjI5`

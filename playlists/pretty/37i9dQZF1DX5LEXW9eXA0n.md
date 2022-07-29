@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: WSG WANNABE\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,119 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,146 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Learning to Live](https://open.spotify.com/track/58PKHsshq0OSPJvdEHhWin) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [Never give up, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/6IOAz4E5KTGQ2hBxdSoi6H) | 3:55 |
 | 100 | [Why](https://open.spotify.com/track/2oSIQr1TSYNJWf2snALmiC) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [By My Side](https://open.spotify.com/album/2abcQ8uUzRE8mJ4HCRvgjo) | 3:14 |
 
-Snapshot ID: `MTY1ODgxNzUzNywwMDAwMDEyZTAwMDAwMTgyMzkzYWU2N2EwMDAwMDE4MWVkNWZiZjFl`
+Snapshot ID: `MTY1ODgxNzUzNywwMDAwMDAwMDViMWY0OWRmM2MwNDM2ZjVlZTg5YzUxZjM3MzZhZDUw`

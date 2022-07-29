@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,662,603 likes - 99 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,662,990 likes - 99 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,18 +59,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 49 | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6fDlAcex9PxMcvw4eiZjLq) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Make A Movie \(feat\. Fivio Foreign\)](https://open.spotify.com/album/4HFKc1vf00ooiAXuPIf5xv) | 2:17 |
 | 50 | [TALK2ME](https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [TALK2ME](https://open.spotify.com/album/735tpKlbuovM2E1vrFYErt) | 2:20 |
 | 51 | [DO NOT KNOW YOU](https://open.spotify.com/track/7uVNWO2CAqAnGWDm9ipczc) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [DO NOT KNOW YOU](https://open.spotify.com/album/5O4I4RUSGTurL6VKPCMeJJ) | 2:00 |
-| 52 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 |
+| 52 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
 | 53 | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/track/6MInFLWke89xMBOeMXEqLH) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Wockin’ On A Wire \(feat\. NoCap\)](https://open.spotify.com/album/44lgLZ8UtTfTlLiZb1W9hV) | 3:16 |
 | 54 | [For The Birds](https://open.spotify.com/track/3hFItPrdA76Aayvntz0wrI) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3) | [For The Birds](https://open.spotify.com/album/6nTXiHXc611qvitLz0FYvc) | 1:58 |
 | 55 | [FINALLY](https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:12 |
 | 56 | [\(N\) INE](https://open.spotify.com/track/7lC2H90qclM4JgyQz6H1ys) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [RELAPSED](https://open.spotify.com/album/05CtRgycYQtDaDo80zxeQF) | 2:46 |
 | 57 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 |
 | 58 | [Mad At Her](https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Mad At Her](https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH) | 3:00 |
-| 59 | [Very Special](https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Sampler](https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3) | 2:17 |
+| 59 | [Very Special](https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:17 |
 | 60 | [Tomorrow](https://open.spotify.com/track/2RkyV0KXNLstEKn2qb1KZ6) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 1:53 |
 | 61 | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/track/2pY5ZVUFscLWhOonrR4knh) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Do Not Disturb ft\. NAV and Yung Bleu](https://open.spotify.com/album/3ZJ5yTJlmFFYVIs2dvFszS) | 3:27 |
 | 62 | [Bitch I'm Nice](https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bitch I'm Nice](https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg) | 1:27 |
-| 63 | [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 |
+| 63 | [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 |
 | 64 | [Don’t Know How to Act](https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Don’t Know How to Act](https://open.spotify.com/album/3x7KJhTpePcXWU5TPMusWu) | 2:00 |
 | 65 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 |
 | 66 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 82 | [Violence](https://open.spotify.com/track/0NFkmpm2jYEWqxO7bTXOBJ) | [Metro Marrs](https://open.spotify.com/artist/4mnXd7tspPHEPPJij1swWX), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Violence](https://open.spotify.com/album/42RXC73YnQQ3kbN5FKl6zj) | 2:47 |
 | 83 | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/track/2jqebWPNRxKiLyMKxKyOhU) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Hustler's Anthem V2 \(with Birdman feat\. Kevin Gates\)](https://open.spotify.com/album/6gGj7WtC3PxstpTn9VkdDm) | 2:50 |
 | 84 | [No Names](https://open.spotify.com/track/5o6KgsV5QCUdXwh0XEO7EZ) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [No Names](https://open.spotify.com/album/7CID8lEFRgWbN3gfUpl8rD) | 2:25 |
-| 85 | [BILLIE EILISH.](https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i) | 1:39 |
+| 85 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 86 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
 | 87 | [Looking For You](https://open.spotify.com/track/4UeRHicxg7hKAyNyxeiHmg) | [Foolio](https://open.spotify.com/artist/79mgHJytm385Muv7GfaneD) | [Looking For You](https://open.spotify.com/album/5epaGQd8ecUCZiiOlioWNa) | 2:00 |
 | 88 | [Dead Guyz](https://open.spotify.com/track/5NJH3KTT5z12giYPbrBQCv) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Dead Guyz](https://open.spotify.com/album/08g0dBXZcUdubjaogX0UiJ) | 2:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Mind Games](https://open.spotify.com/track/7Itze7sYhdjEQ4yD1qS1Ox) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Lost Souls](https://open.spotify.com/album/6aCunyx3egIaHn64wd4dA2) | 3:37 |
 | 99 | [Hoppin Out](https://open.spotify.com/track/2qD5hkBGI47Pr1a2SnikZc) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ) | [Hoppin Out](https://open.spotify.com/album/6Ab3Hqoowg6OjsWpAgxcwf) | 2:41 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDNlODAwMDAwMTgyMjQwZmVlZGQwMDAwMDE4MTZkODBlZTg2`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGNjZDQxYzFhYzNkMDY2N2ZhYzkzNjM2NjlmZWI2NGNm`

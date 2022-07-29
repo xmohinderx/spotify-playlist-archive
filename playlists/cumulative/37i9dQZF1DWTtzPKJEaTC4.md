@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-267 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
+269 songs - 1 day 0 hr 54 min - [published](https://open.spotify.com/playlist/42A9uUxoL8MOPVcDBrKJhZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [BLACCK \- Live](https://open.spotify.com/track/0vI6b1bVuS4BRAMLj7gb52) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Chronology Of A Dream: Live At The Village Vanguard](https://open.spotify.com/album/0D5GKNmcgkY8aqokBx4aID) | 4:06 | 2022-02-18 | 2022-03-18 |
 | [Black Narcissus](https://open.spotify.com/track/3IbZO1Ml6LyntT83JZ2VG4) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Power To The People \[Keepnews Collection\] \(Remastered\)](https://open.spotify.com/album/4ZlES861bCGKTdlHUto1Gv) | 4:51 | 2022-01-13 | 2022-01-17 |
 | [Black Satin](https://open.spotify.com/track/7fPuSaXg3DsuNfnZCI3lBn) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [On The Corner](https://open.spotify.com/album/4K7w2LiKZz0CyHXl6OtkOu) | 5:14 | 2022-04-29 | 2022-06-18 |
-| [Blackkk](https://open.spotify.com/track/6bHorlL4WAz2BtQz3ubDr1) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 1:59 | 2022-06-17 |  |
+| [Blackkk](https://open.spotify.com/track/2YzOFeQ8ZtgZG6pHDXPMQi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 1:59 | 2022-06-17 |  |
+| [Blackkk](https://open.spotify.com/track/6bHorlL4WAz2BtQz3ubDr1) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 1:59 | 2022-06-17 | 2022-07-29 |
 | [Blacks And Blues](https://open.spotify.com/track/4yMgqtPHqNZMBeg4yeZ8Ll) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blue Break Beats](https://open.spotify.com/album/3qCbEDmne9t6hDBFRVQ6fK) | 4:40 | 2022-01-13 | 2022-01-17 |
 | [Blue Christmas](https://open.spotify.com/track/42JEFCiW1AOrg6bh2vK1bC) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 3:24 | 2021-12-10 | 2022-01-14 |
 | [Blues For The Orient \- Rudy Van Gelder Remaster](https://open.spotify.com/track/5mbUj1YVHxVzEsSqvGMS6T) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 5:34 | 2022-01-13 | 2022-01-17 |
@@ -191,7 +192,8 @@
 | [Sais \(Egypt\)](https://open.spotify.com/track/6hwTnyxSkOt1ZRsgm0b79V) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [The Cosmic Echoes](https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb) | [Cosmic Funk](https://open.spotify.com/album/30LtufIpSliUjKbx0cAH1w) | 8:12 | 2022-01-13 | 2022-01-17 |
 | [San Luis Obispo](https://open.spotify.com/track/3lGG0QPLPR4PpvxM7gFg8l) | [Gregoire Maret](https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Americana](https://open.spotify.com/album/2lfX30k8kJIaTbPBgKy4dX) | 4:02 | 2022-02-18 | 2022-03-18 |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-10 | 2022-01-14 |
-| [Senhoras Do Amazonas](https://open.spotify.com/track/7CdifPWUbMFMqfXtNBgXIj) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/1aFnx8gd49EklcjqQvLNrA) | 4:40 | 2022-06-17 |  |
+| [Senhoras Do Amazonas](https://open.spotify.com/track/2VOrmfKu0TnhiZh5AeLseC) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb) | 4:40 | 2022-06-17 |  |
+| [Senhoras Do Amazonas](https://open.spotify.com/track/7CdifPWUbMFMqfXtNBgXIj) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/1aFnx8gd49EklcjqQvLNrA) | 4:40 | 2022-06-17 | 2022-07-29 |
 | [Silent Night](https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Merry Ole Soul](https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx) | 4:15 | 2021-12-10 | 2022-01-14 |
 | [Sing a Song of Song](https://open.spotify.com/track/1YuCTj9wRtIPtIYZesNFjN) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 7:22 | 2022-02-18 | 2022-03-18 |
 | [Sleigh Ride](https://open.spotify.com/track/0yp7zmlUcv3kbX5Hlp1BDd) | [Duke Pearson](https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44) | [Merry Ole Soul](https://open.spotify.com/album/2Px6XKffVuuPx6zaTEDwlx) | 6:26 | 2021-12-10 | 2022-01-14 |

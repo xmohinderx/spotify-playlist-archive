@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-83 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+86 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Ekhono](https://open.spotify.com/track/4ZoiikOfDXv4ks5rRqiK1Z) | [Jatrik](https://open.spotify.com/artist/6MMQ5xS4dg5ImURe4UFbWU) | [Ekhono](https://open.spotify.com/album/01DwqEvRJlH9iU5knnO2uB) | 4:54 | 2022-06-16 |  |
 | [Fer Dekha](https://open.spotify.com/track/09HJFvjdy6VQSwt3X71bKZ) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Fer Dekha](https://open.spotify.com/album/5jNu7Ceacit4XCjG1OeQQl) | 7:02 | 2022-07-15 |  |
 | [Ghor](https://open.spotify.com/track/306zePFBWCYpr7HgPWh1ac) | [Olik](https://open.spotify.com/artist/7fU5VKQ4KA88qLlJYvMHc7) | [Ghor](https://open.spotify.com/album/4GHgh8KdlZwal3idMiE55H) | 4:44 | 2022-06-16 |  |
-| [GhorGari](https://open.spotify.com/track/2nRwICrrFgQwiqiZdPjXLe) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY) | 6:22 | 2022-06-16 |  |
+| [GhorGari](https://open.spotify.com/track/2nRwICrrFgQwiqiZdPjXLe) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY) | 6:22 | 2022-06-16 | 2022-07-29 |
+| [GhorGari](https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9) | 6:22 | 2022-07-15 |  |
 | [Ghum \(Official\)](https://open.spotify.com/track/18xxOCfmxqBD5YgTFpzp5d) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Ghum \(Official\)](https://open.spotify.com/album/5NXiZMrsbAyswRpt369KJm) | 3:49 | 2022-06-16 |  |
 | [ISD](https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/7atnOE38HHe2eIHud4VvHP) | 3:59 | 2022-06-16 |  |
 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 | 2022-06-16 |  |
@@ -68,9 +69,10 @@
 | [Onidrita](https://open.spotify.com/track/6Jsb5Oe62xzzzi7i2M8nsc) | [Golpo](https://open.spotify.com/artist/3VXEQjIIqL58DhPzvZMELO), [Saydur Rahman Nuhad](https://open.spotify.com/artist/1T9nSGIHlJ1bEeWX6aeqbA), [Shovon Ashraf](https://open.spotify.com/artist/1HwE9oYETtZQ1nJEEiEPvP) | [Onidrita](https://open.spotify.com/album/5FWR1xTVKQgjbM92eRCzdc) | 4:33 | 2022-06-16 |  |
 | [Onubhutir Deyal](https://open.spotify.com/track/1gqFd1MsRXMVX1CZ8mmEA0) | [Sohan Rahman](https://open.spotify.com/artist/0PT4CxgGdroBgFaq4QvakT) | [Onubhutir Deyal](https://open.spotify.com/album/6bBTDJqUV6MHIjYNMbNCy6) | 4:22 | 2022-06-16 |  |
 | [Onuraag](https://open.spotify.com/track/75H72N8knxyDjaKmSWIKGo) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Onuraag](https://open.spotify.com/album/71CWDjKVJcvSTqQhGJdOzK) | 5:29 | 2022-06-16 |  |
-| [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 | 2022-06-16 |  |
+| [Oporanho](https://open.spotify.com/track/3PG0JQJExSRM4xGUpYvpEZ) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Ishshoronio](https://open.spotify.com/album/6GvalgWDABm1XEYvFfnGF1) | 4:09 | 2022-06-16 | 2022-07-29 |
+| [Oporanho](https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Icons](https://open.spotify.com/album/0KZiBnskH17AUkKhELLfve) | 4:09 | 2022-07-15 |  |
 | [Ore Nil Doriya](https://open.spotify.com/track/633EJpBKhPns6Z6Tp4K9a7) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ore Nil Doriya](https://open.spotify.com/album/1BHqOSF6p6Qzn70vOkNtsv) | 5:43 | 2022-06-16 |  |
-| [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 |  |
+| [Otithi Pakhi \- 2021 Remastered version](https://open.spotify.com/track/7cXofuwNTxOcIx89cYw4tD) | [Prince Sohan](https://open.spotify.com/artist/6zCxXv0GO8LaRSNLOSr0i0) | [Otithi Pakhi \(2021 Remastered Version\)](https://open.spotify.com/album/02JtyTUKhl9CJS1QbXS2kt) | 1:25 | 2022-06-16 | 2022-07-29 |
 | [Pabona Tomay](https://open.spotify.com/track/3gLaGj5WlACwyjsFxjFDyL) | [Abir Mannan](https://open.spotify.com/artist/75tnGqluDnpfDILALcANFf) | [Pabona Tomay](https://open.spotify.com/album/4wIinxsyNNAWjXz1wMUilZ) | 6:20 | 2022-07-15 |  |
 | [Pichutaan](https://open.spotify.com/track/3kGrKLyNUdcVh27oqwEYdE) | [Sammam](https://open.spotify.com/artist/2lis2CHagnbMNlEUrhU0wu) | [Pichutaan](https://open.spotify.com/album/4LfHUgVOnuvznzkOGCTxwX) | 6:05 | 2022-06-16 |  |
 | [Protibimbo](https://open.spotify.com/track/5l2n874eQvJoq8qvEowNOJ) | [Angsho](https://open.spotify.com/artist/2NRt2eIZ7PmlsdvfghhhOp) | [Protibimbo](https://open.spotify.com/album/5EIRZsKGKu4HGbyT22FvYU) | 4:11 | 2022-06-16 |  |
@@ -82,11 +84,12 @@
 | [Relentless](https://open.spotify.com/track/1e15BIDZ6kuv7sByOm6M4B) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Relentless](https://open.spotify.com/album/77fnRNjsSV1Hj6FNuR6KXA) | 4:22 | 2022-06-16 |  |
 | [Shada Golap](https://open.spotify.com/track/056R8hTzXwi1GNzORWm9Rz) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shada Golap](https://open.spotify.com/album/6uZ4fMxLBklu5QyQRYmq9G) | 4:38 | 2022-06-16 |  |
 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 | 2022-06-16 |  |
+| [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 |  |
 | [Shopner Gontobbo](https://open.spotify.com/track/1Geh1LEWKVmG2iJKP2BX8e) | [fused](https://open.spotify.com/artist/0t4yDm0LHubUiQFOvuNSN6) | [Shopner Gontobbo](https://open.spotify.com/album/1KrH6WrJ7pHIMVYq3jkeYr) | 4:01 | 2022-06-16 |  |
 | [Shopnogulo](https://open.spotify.com/track/28epCqVjn1uzhyCt2p61hC) | [Innocence](https://open.spotify.com/artist/2J02fpL3ODGoXlL5Vqe0I8) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:54 | 2022-06-16 |  |
 | [Shunnotar Gaan](https://open.spotify.com/track/3rw1weqqFeFjSjWKTAmvzI) | [Shishir Ahmed](https://open.spotify.com/artist/7B9OMl4OkifBonxyDNBJ2A), [Sheikh Ishtiaque](https://open.spotify.com/artist/0iMi02nPTjOSfQqMfGJTZn) | [Shunnotar Gaan](https://open.spotify.com/album/30gPig90CPaXynDVw1Kie2) | 5:02 | 2022-06-16 |  |
 | [Smritir Abhidhan](https://open.spotify.com/track/4ePw8mvGlWYzZdBxUdzVe6) | [Nerve Bd](https://open.spotify.com/artist/0NWAyPvcmuMuUEQsBUkQCd), [Jeriko Costa](https://open.spotify.com/artist/1K9AqGsFvlWsdaCqyk659B) | [Smritir Abhidhan](https://open.spotify.com/album/2erS31TFlQWBCNJls2vThu) | 6:15 | 2022-06-16 | 2022-07-16 |
-| [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 | 2022-06-16 |  |
+| [Somoy gele](https://open.spotify.com/track/3RDSAyE32oOnMFoEWEDtH3) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6oXxXaKox9eRoP1QUxaUOT) | 4:41 | 2022-06-16 | 2022-07-29 |
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 | 2022-07-16 |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |
 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 | 2022-06-16 |  |

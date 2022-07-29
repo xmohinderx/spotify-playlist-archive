@@ -1163,6 +1163,28 @@
     {
       "album": {
         "name": "Guchi Polo",
+        "url": "https://open.spotify.com/album/3yFCuw8xsbOXtbOXG2GL86"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Guchi Polo",
+      "url": "https://open.spotify.com/track/7EKysfHBIwPQ3RvhD9dH9D"
+    },
+    {
+      "album": {
+        "name": "Guchi Polo",
         "url": "https://open.spotify.com/album/6geOVKHOwBGyQIMo9m8yR6"
       },
       "artists": [
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201000,
       "name": "Guchi Polo",
       "url": "https://open.spotify.com/track/7LogWJv62K2bdTtw12RHTb"
@@ -1637,10 +1659,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q"
+    },
+    {
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
     },
     {
       "album": {
@@ -1876,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "POST MORTEM",
+        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169824,
+      "name": "OPA",
+      "url": "https://open.spotify.com/track/2Z4FBa6hAEh7VTHYCqXy7P"
+    },
+    {
+      "album": {
         "name": "OPA",
         "url": "https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh"
       },
@@ -1887,7 +1945,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170320,
       "name": "OPA",
       "url": "https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI"
@@ -3103,6 +3161,32 @@
     {
       "album": {
         "name": "Water",
+        "url": "https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW"
+    },
+    {
+      "album": {
+        "name": "Water",
         "url": "https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa"
       },
       "artists": [
@@ -3121,7 +3205,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190153,
       "name": "Water",
       "url": "https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki"

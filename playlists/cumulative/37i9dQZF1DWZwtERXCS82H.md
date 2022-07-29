@@ -4,7 +4,7 @@
 
 > Books and piano, the perfect combination
 
-505 songs - 22 hr 11 min - [published](https://open.spotify.com/playlist/7Bls3S4IjzzI4A2ncl4Q9i)
+508 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/7Bls3S4IjzzI4A2ncl4Q9i)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-04-15 | 2022-04-28 |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-04-15 |  |
 | [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-04-15 |  |
-| [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-15 |  |
+| [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-15 |  |
+| [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-15 | 2022-07-29 |
 | [As if She Were The Sun](https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD) | [Avery Hall](https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1) | [As if She Were The Sun](https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde) | 2:10 | 2022-04-15 | 2022-05-27 |
 | [At First Sight](https://open.spotify.com/track/7Ffpq66dn7HBkds2cw5UPa) | [Mactominie](https://open.spotify.com/artist/6NFevN87KdATGwxaQvh7ik) | [At First Sight](https://open.spotify.com/album/18VNY5VhRXG44aHPWR0Bdk) | 2:42 | 2022-04-15 | 2022-04-28 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-15 |  |
@@ -245,7 +246,8 @@
 | [Lost For Words](https://open.spotify.com/track/5NH7f7qokbw0GmEbztG9qv) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [Miles Away](https://open.spotify.com/album/4Kl1CFQxhyCcdGB32jfSN8) | 2:47 | 2022-04-15 | 2022-05-14 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2022-04-15 |  |
 | [Lost Time](https://open.spotify.com/track/1nJE8TEWK9hf9Bl0pekJCi) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Lost Time](https://open.spotify.com/album/07lpIaggNhyyr47EJdGhDB) | 2:20 | 2022-04-15 | 2022-05-27 |
-| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-15 |  |
+| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-15 | 2022-07-29 |
+| [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-15 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-15 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-15 |  |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2022-04-15 |  |
@@ -382,7 +384,8 @@
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-04-15 |  |
 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 | 2022-04-15 |  |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-15 |  |
-| [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2022-04-15 |  |
+| [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2022-04-15 | 2022-07-29 |
+| [Silent Agreement](https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson](https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR) | [Dreamer](https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms) | 2:15 | 2022-07-15 |  |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2022-04-15 | 2022-05-27 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-15 |  |
 | [Silent Words](https://open.spotify.com/track/0wzcJ18C87PpQdHBRAftqN) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Silent Words](https://open.spotify.com/album/2Sepj0N27dHOykHW32nYTG) | 2:49 | 2022-04-15 | 2022-05-14 |

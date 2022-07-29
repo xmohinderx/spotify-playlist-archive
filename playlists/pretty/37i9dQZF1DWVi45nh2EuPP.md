@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends with a special Star Guardian takeover
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,716 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,773 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 47 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 48 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 |
 
-Snapshot ID: `MTY1Nzg4NjQwMCwwMDAwMDAzNTAwMDAwMTgyMDFiYWRlNjgwMDAwMDE4MWZlMWNkZWJi`
+Snapshot ID: `MTY1Nzg4NjQwMCwwMDAwMDAwMDAyZjAxMThkMjQ1NzIxNDhiZTQwZThmOWM1ZDg2MTk5`

@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F) | 0:00 | 2021-12-14 |  |
-| [](https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID) | 0:00 | 2021-12-14 |  |
+| [](https://open.spotify.com/track/1X9Vq3UbrHLrFYgv3d12ul) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1CjdLuBEg4yGAWx89Ab48F) | 0:00 | 2021-12-14 | 2022-07-29 |
+| [](https://open.spotify.com/track/2wBb2lAmkZZIioQcJpH8D6) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1szjHU5cFCB4fNgsehF3ID) | 0:00 | 2021-12-14 | 2022-07-29 |
 | [A Certain Smile](https://open.spotify.com/track/7bQJp5ntthltjReJmZJjCM) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [A Certain Smile](https://open.spotify.com/album/0bNDqwI6bxA7cYg235yZvm) | 2:06 | 2022-06-09 |  |
 | [A Flower Is A Lovesome Thing](https://open.spotify.com/track/5igO8dMEr3lvL5hnzP2RxR) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [A Flower Is A Lovesome Thing](https://open.spotify.com/album/5x49ipf24HQSNzSoGQnGH6) | 4:58 | 2022-01-13 |  |
 | [A Foggy Day \- Live: Solo Piano](https://open.spotify.com/track/55uDGKhnSZUKkkksEG5mRl) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Rolling Stone Original](https://open.spotify.com/album/1CuLna022h4RkyQpd5CMDP) | 2:18 | 2021-12-14 |  |

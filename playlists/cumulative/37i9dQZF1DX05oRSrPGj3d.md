@@ -4,7 +4,7 @@
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
 
-87 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
+89 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,12 +71,14 @@
 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 | 2021-12-23 |  |
 | [Run Wild Horses](https://open.spotify.com/track/7iN0aONHwJW6jg0dRVUMVz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Vaquero](https://open.spotify.com/album/6gYamJXK7NLfcHGULdjGwe) | 5:31 | 2021-12-23 |  |
 | [San Antone](https://open.spotify.com/track/055qy9CPBFPD4PhC23cULi) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Nothing Shines Like Neon](https://open.spotify.com/album/544YLUAEKImL67ddh3NPz8) | 3:29 | 2021-12-23 |  |
-| [Settle Me Down](https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be) | 2:57 | 2021-12-23 |  |
+| [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 | 2022-02-18 |  |
+| [Settle Me Down](https://open.spotify.com/track/4fFIpQ8eswym0U7movpzQR) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be) | 2:57 | 2021-12-23 | 2022-07-29 |
 | [Shades of Gray](https://open.spotify.com/track/33CVbDlfnTJa8Fb78HZMLe) | [Jason Boland](https://open.spotify.com/artist/5ez1Ny51KSaouSu8kHZMyy), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Undone: A Musicfest Tribute to Robert Earl Keen](https://open.spotify.com/album/5K3zDZeAo4tTGKqEmRyJN2) | 6:16 | 2021-12-23 |  |
 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 | 2021-12-23 |  |
 | [Storms Never Last](https://open.spotify.com/track/45a4XvxllaliVGD2aHhs0z) | [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Kelly Willis](https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E) | [Storms Never Last](https://open.spotify.com/album/6usGi1K9VxpcR7Y2pnwW6A) | 4:38 | 2021-12-23 |  |
 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 | 2021-12-23 |  |
-| [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-23 |  |
+| [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 | 2022-02-18 |  |
+| [Sunrise Tells The Story](https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story](https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0) | 3:28 | 2021-12-23 | 2022-07-29 |
 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 | 2021-12-23 |  |
 | [Texas On My Mind](https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 4:40 | 2021-12-23 |  |
 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 | 2021-12-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,308 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,368 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 27 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 |
 | 28 | [Me Haces Existir](https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx) | [Monocordio](https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU) | [El Primer Rayo de Sol \- EP](https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ) | 4:49 |
 | 29 | [Las Flores](https://open.spotify.com/track/5hdO9pJEp8Ht35PzrQjWqT) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Las Flores](https://open.spotify.com/album/22Nug9IPcwyq58yBJVBmhS) | 2:59 |
-| 30 | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/track/5M6ynbvTfCI5Mx9uuRXQPs) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Noto \(with Miguel Bosé\)](https://open.spotify.com/album/7FTJJ78m4tTXycEApfGT1o) | 4:14 |
+| 30 | [Lo noto \(feat\. Hombres G\)](https://open.spotify.com/track/0HTXPniIdy9szOPpfafOET) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Papitwo \(Deluxe\)](https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g) | 4:09 |
 | 31 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 |
 | 32 | [Lobo Hombre En París](https://open.spotify.com/track/2TA3fiM7ZQc0HWo1ncG02e) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Lobo Hombre En París](https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5) | 3:05 |
 | 33 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 35 | [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 |
 | 36 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 |
 | 37 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 |
-| 38 | [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 |
+| 38 | [Háblame \- Versión Acústica](https://open.spotify.com/track/5N1OvG5Hu2XpKpMSNwyEh8) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Háblame](https://open.spotify.com/album/5zXa4mmHtwLtfeu3n3xyaK) | 5:16 |
 | 39 | [Abarajame](https://open.spotify.com/track/0CNAg3D3Ox1MggIed6Ktcs) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Abarajame](https://open.spotify.com/album/2nBayLIl2VnOCQo7EdCsbw) | 3:04 |
 | 40 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 |
 | 41 | [Jardin](https://open.spotify.com/track/59qjlwBAL2m3ggriczGJit) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 49 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 |
 | 50 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 |
 
-Snapshot ID: `MTYyMDkxNjU1NSwwMDAwMDAwODAwMDAwMTc5NjYyN2NmOWMwMDAwMDE3N2RmYmNmZDU4`
+Snapshot ID: `MTYyMDkxNjU1NSwwMDAwMDAwMDk3YmU1MjYxMWMwMTg3MTE0YjA3ZDFlZGU2MGFiYWRi`

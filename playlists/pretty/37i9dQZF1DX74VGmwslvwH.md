@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,058 likes - 69 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,224 likes - 69 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 43 | [Butterfly Kisses](https://open.spotify.com/track/6gU1KxLaLZ6qUSMQtPyUxy) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Butterfly Kisses](https://open.spotify.com/album/6hL0TZRUEM5WLrQR9bqkOC) | 8:21 |
 | 44 | [midnight dreams](https://open.spotify.com/track/3mMpTuuVK1oHRLNubuRE74) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L) | [midnight dreams](https://open.spotify.com/album/5XPj4Ksx8v4EmP1P54JOMU) | 2:19 |
 | 45 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 |
-| 46 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/2SxQ32cI3A8XBH4535QnwJ) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/5IZZ9OprXmK2qYkMm11QnB) | 5:59 |
+| 46 | [Sahana Vavatu \(For Inner Nourishment\)](https://open.spotify.com/track/6LX4pC94OndpQwepyNdqZ7) | [Manish Vyas](https://open.spotify.com/artist/4eZcz3z9PEo5TMzkjHlzrK) | [Sahaj Atma](https://open.spotify.com/album/1301F9iFu666bf4IqviXar) | 5:59 |
 | 47 | [Resilience](https://open.spotify.com/track/7ad0Y8DIZtWtZCvHefq3xg) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [Resilience](https://open.spotify.com/album/3nHcATi2dBX2I0IWwvxWMj) | 4:13 |
 | 48 | [Meditação Com Sussurros Curativos Asmr](https://open.spotify.com/track/6h2qQOW2ea12UCbU7IXxOK) | [Alan Baratieri](https://open.spotify.com/artist/1FbUxr0wVOPPMFPq9qjv0w), [Músicas Para Relaxar](https://open.spotify.com/artist/1GpHohMWr8ZzO6CkaKOC6G) | [Música para Meditação](https://open.spotify.com/album/2Fw27HBf4XBVIah908hWKn) | 6:33 |
 | 49 | [Healing State \(528 Hz\)](https://open.spotify.com/track/1sW6M4j9gYX3OaJQFPVtIA) | [Modern Headspace](https://open.spotify.com/artist/1R9pWwzgOIsl5XMI4WCBRH) | [Healing State \(528 Hz\)](https://open.spotify.com/album/0cOMbJ1RBe4rhgwFkxnnDt) | 5:07 |
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 62 | [Raaga Kafi \- Teentaal](https://open.spotify.com/track/4G526MTBK3TpdNBpvvYO3Z) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ajeet Pathak](https://open.spotify.com/artist/6RewthLD9pGHUn5dmLVaBh) | [Seven Raagas](https://open.spotify.com/album/2DhxWPxZBSFirR62g3I4Zd) | 7:30 |
 | 63 | [Shakti Sunset, Pt\. 1 \(Alap\)](https://open.spotify.com/track/2hE86J1u0gByjj8WXpktfZ) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8), [Mala Ganguly](https://open.spotify.com/artist/3lRG8ptwPxwEtvwKF2krjd) | [Shakti Guitar: A Yogic Journey from Radiant Dawn to Deepest Night](https://open.spotify.com/album/49SZlnNYS7fqBLTy1588Y7) | 7:31 |
 | 64 | [The Child Within \- The 'Seb Meets Astropilot' Ambient Mix](https://open.spotify.com/track/4PDnVvoXjz4MTMHehCWxgF) | [Kaya Project](https://open.spotify.com/artist/4TFmgYfhLJxF6nL8WDSnWV), [Pooja Tiwari](https://open.spotify.com/artist/5MDvAeupq312AkEWTGblZf), [Fatou Gozlan](https://open.spotify.com/artist/5uE7jx3Z4cbh2OzuG6aLw6), [Seb Taylor](https://open.spotify.com/artist/2OvXxjn0r118YKl6bR43ty), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws) | [The Child Within \(the 'Seb Meets Astropilot' Ambient Mix\)](https://open.spotify.com/album/2HAHOMAASHby5AM4HbCCyv) | 4:40 |
-| 65 | [Journey to Sedna](https://open.spotify.com/track/2c3K1MgWaia5FlzbRBwLnb) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3dRqYrgTY9N0AdfP8LAfJQ) | 4:44 |
+| 65 | [Journey to Sedna](https://open.spotify.com/track/0UgTFuBrddYbJ1eqxS1pQw) | [Baluji Shrivastav](https://open.spotify.com/artist/6W1YoudRbtmvymApgIb238) | [Best of Baluji Shrivastav](https://open.spotify.com/album/3b0HAeRSfhgtVaa3KO7KB5) | 4:41 |
 | 66 | [Meditations Third Eye Chakra](https://open.spotify.com/track/1TUifxkD9ZLVQupgC941Qm) | [Galena](https://open.spotify.com/artist/4GAMegno5DQ6gPus0t890O) | [Meditation Calming Moments](https://open.spotify.com/album/4osfgjir0tiXmUy3kFLwHT) | 2:00 |
 | 67 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 |
 | 68 | [Saraswati Ma](https://open.spotify.com/track/5cIlLDsVPVUGSivIhXUQd5) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 8:45 |
 | 69 | [Raga Hemant \- Alap](https://open.spotify.com/track/6imQ2eamWdJ6vFTIoQZGD2) | [Bidyut Khan Band](https://open.spotify.com/artist/1gOYLPSgVPPiSIsaBHh5Xd), [Lucyan](https://open.spotify.com/artist/00iiLc3ejnD5C6rjCjWned) | [Ragas: Classical Indian music for sarod, sitar and tabla](https://open.spotify.com/album/08CSfF5H2SWzz5KKX5tngY) | 7:30 |
 
-Snapshot ID: `MTY1NzgwMjIzNSwwMDAwMDAyODAwMDAwMTgxZmNiNjlmNTUwMDAwMDE4MWZjOThhYzgx`
+Snapshot ID: `MTY1NzgwMjIzNSwwMDAwMDAwMGFkNjU1OTVjMThjYzk3Y2NmOTA1ZTZkZDZlMzk5NDMz`

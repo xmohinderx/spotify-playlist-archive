@@ -5947,7 +5947,7 @@
     {
       "album": {
         "name": "Don't Trip",
-        "url": "https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz"
+        "url": "https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB"
       },
       "artists": [
         {
@@ -5966,6 +5966,32 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 311973,
+      "name": "You Got Feets",
+      "url": "https://open.spotify.com/track/0ccgFQCVtdU29F2gozRbch"
+    },
+    {
+      "album": {
+        "name": "Don't Trip",
+        "url": "https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz"
+      },
+      "artists": [
+        {
+          "name": "Aquakultre",
+          "url": "https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus"
+        },
+        {
+          "name": "Owen O'Sound Lee",
+          "url": "https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW"
+        },
+        {
+          "name": "pHoenix Pagliacci",
+          "url": "https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 311973,
       "name": "You Got Feets",
       "url": "https://open.spotify.com/track/1Xplcrav8cqwpKU8ziwGVC"

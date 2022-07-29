@@ -4,7 +4,7 @@
 
 > Dastaangoi dedicates this playlist to tender moments South Asian parents shared growing up\. Songs that are deeply embedded in their memories celebrating moments of life, love and friendship\. Cover: Musarrat Nazir
 
-33 songs - 3 hr 1 min - [published](https://open.spotify.com/playlist/7GNXT6ViMPpNtIm4eThkfZ)
+35 songs - 3 hr 8 min - [published](https://open.spotify.com/playlist/7GNXT6ViMPpNtIm4eThkfZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,11 @@
 | [Ko Ko Koreena](https://open.spotify.com/track/1S1NSccaYJYhg5z5V2otDC) | [Ahmed Rushdi](https://open.spotify.com/artist/3cPhnpqQbDtv5dR3Od3Vz1) | [Showcase Southasia, Vol.19](https://open.spotify.com/album/0BvMo2sMmUCAmM08ASGyvk) | 3:26 | 2022-07-20 |  |
 | [Kya Yehi Tera Pyar Tha](https://open.spotify.com/track/4Y6gvtiY4BitCDlY8s2Eco) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Mirza Sahibaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1BkvkorLNO5KJHmMPoF6rd) | 3:21 | 2022-07-20 |  |
 | [Lag Ja Gale Se Phir](https://open.spotify.com/track/1kKxvLPfgpG5NRJ9MAmYsu) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Woh Kaun Thi? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/579fdKlYum67csQuigB0Z2) | 4:17 | 2022-07-20 |  |
-| [Lutf Woh Ishq Mein](https://open.spotify.com/track/4vCG2aMaEOLNloaOQQmjlT) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 4:02 | 2022-07-20 |  |
+| [Lutf woh ishq mein](https://open.spotify.com/track/33VYVxMbibl2Vx1rB4ZhTk) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/6eJixUL0T4Hbd5BGO6yqC1) | 4:02 | 2022-07-20 |  |
+| [Lutf Woh Ishq Mein](https://open.spotify.com/track/4vCG2aMaEOLNloaOQQmjlT) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 4:02 | 2022-07-20 | 2022-07-29 |
 | [Mast Nazron Se Allah Bachaye](https://open.spotify.com/track/15aUq0ClcOIR3yQ9fSItaO) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Best Urdu Qawwalies](https://open.spotify.com/album/67yayTLgnGJPxjPZYa13n4) | 6:20 | 2022-07-20 |  |
-| [Mehfil Barkhaast Hui](https://open.spotify.com/track/7zHbrlvHQvhSXsmh36w3CS) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 3:00 | 2022-07-20 |  |
+| [Mehfil barkhaast hui](https://open.spotify.com/track/5nnL6byioZybOfiCqMtA9i) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/6eJixUL0T4Hbd5BGO6yqC1) | 3:00 | 2022-07-20 |  |
+| [Mehfil Barkhaast Hui](https://open.spotify.com/track/7zHbrlvHQvhSXsmh36w3CS) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [A Suitable Boy \(Original Television Soundtrack\)](https://open.spotify.com/album/1E4e1bHJrqgBMYVYobZS4N) | 3:00 | 2022-07-20 | 2022-07-29 |
 | [Mera Laung Gawacha](https://open.spotify.com/track/1AotoLk8PYywQGvJwSR62h) | [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Laung Gawacha\-87](https://open.spotify.com/album/30i3ln77pke20gB2FUNFUN) | 3:11 | 2022-07-20 |  |
 | [Mohabbat Karne Wale \(Live\)](https://open.spotify.com/track/7bJ677c0pod3kiULAm9uMs) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:00 | 2022-07-20 |  |
 | [Mohabbat Karne Wale \(Live\)](https://open.spotify.com/track/6f188O4U3MHPStb9IJ7bqm) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan In Concert, Vol\. 1 \(Live\)](https://open.spotify.com/album/1O3bI8AG6ZEzMxFTofXmrL) | 14:06 | 2022-07-20 |  |

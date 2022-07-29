@@ -4,7 +4,7 @@
 
 > Sing along to these tunes about everything you can find on the farm.
 
-59 songs - 2 hr 20 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
+60 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/5uvSbxeDW7jtSCQFDcy7oO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Harvest Time](https://open.spotify.com/track/0GVreI7DlV8wpF3a1fRYfe) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Harvest Time](https://open.spotify.com/album/7Ib2xPIkvqDayE6em6wR8q) | 2:38 | 2022-04-01 |  |
 | [Horses](https://open.spotify.com/track/5JDnPTV3q2KJiCDNtrejhU) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 3:16 | 2022-04-01 |  |
 | [I Had a Rooster](https://open.spotify.com/track/0uxH8cSDBvej4mSLFFWdUR) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA) | [Wake Up & Sing](https://open.spotify.com/album/6evNOZ98sURuV5qRsRGjcr) | 3:21 | 2022-04-01 |  |
-| [I Know A Chicken](https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/7elEglYu8DF6c62vrwQNHB) | 3:14 | 2022-04-01 |  |
+| [I Know A Chicken](https://open.spotify.com/track/2OC9dapu1bUyi520cEI7Kb) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [The Best of The Laurie Berkner Band](https://open.spotify.com/album/7elEglYu8DF6c62vrwQNHB) | 3:14 | 2022-04-01 | 2022-07-29 |
+| [I Know A Chicken](https://open.spotify.com/track/3g1mTMwdLnJWsVBq2Od3h9) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 3:14 | 2022-07-25 |  |
 | [I Love My Rooster](https://open.spotify.com/track/7j3j9wSsct8yaCZI1NO9A8) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Whaddaya Think Of That?](https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB) | 3:29 | 2022-04-01 |  |
 | [I Want to Be a Farmer](https://open.spotify.com/track/1Zbl3DsQZRPz3R7ejbjyO2) | [Annie Bryant](https://open.spotify.com/artist/7KrMi53LSKwwERJT7MPG4c) | [Listen to the Land: Stories & Songs for Children](https://open.spotify.com/album/2sfmOcEMBkHf2Ikk0nQvVi) | 2:12 | 2022-04-01 |  |
 | [Itty Bitty Bunnies](https://open.spotify.com/track/3FaLk0urfu7o860VXKNPBo) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Itty Bitty Bunnies](https://open.spotify.com/album/4515BwXjUQszIKnQ1IX85r) | 1:53 | 2022-04-01 |  |

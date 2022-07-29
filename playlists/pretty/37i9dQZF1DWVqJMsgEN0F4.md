@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Panic! At The Disco along with the top Alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,973 likes - 52 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,179 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 51 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 |
 | 52 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:45 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDA4ZTAwMDAwMTgyMjQwZmVlZDYwMDAwMDE4MjIzMWE2YWQ0`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGQzOTNmZmRkN2I4MWZiNzBmNDk4YTE4MDU4MTkzZTZm`

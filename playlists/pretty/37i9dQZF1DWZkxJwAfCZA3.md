@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,589 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,587 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 23 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 |
 | 24 | [Infrared](https://open.spotify.com/track/0SGiDqVr37ZzbKoHPtygJC) | [Deniro](https://open.spotify.com/artist/5OoDtYl4zYEnvAtFSxqf2W) | [Identifier](https://open.spotify.com/album/7qGpE1HoHANnQSeXnBVSsI) | 6:51 |
 | 25 | [Celesta 33](https://open.spotify.com/track/5LiR4vN7hWQwv7OJKsfbj3) | [Stef Mendesidis](https://open.spotify.com/artist/0V2TzRR7BczSNMxDyCIL1J) | [Klockworks 26](https://open.spotify.com/album/30AmILfevLO4r5k7HAIMP1) | 5:08 |
-| 26 | [How I](https://open.spotify.com/track/0Or359N2JTZz5wfy4Fyt45) | [RUFUS!](https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj) | [Hatched 30](https://open.spotify.com/album/4SNahl6SnPKSTIPPrCkj5J) | 6:05 |
+| 26 | [How I](https://open.spotify.com/track/2M3XIbJQEm25zOFogvcwzT) | [RUFUS!](https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj) | [Hatched 30](https://open.spotify.com/album/2nQLp3j5BiiyT7ul0kXFbY) | 6:05 |
 | 27 | [Watchem](https://open.spotify.com/track/5V3Fl99ZzV7s9NBvjNM3W2) | [Nocturnal Sunshine](https://open.spotify.com/artist/1BiGjy3Kg99ZgL7E2Qb4Td), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Full Circle \(Deluxe\)](https://open.spotify.com/album/1K91rH2qhN5jscP5pwtx3V) | 4:52 |
 | 28 | [Level Up](https://open.spotify.com/track/5WKsMalbtNNg4BOhskDSQD) | [Vromm](https://open.spotify.com/artist/2GDXx20hz7WhCHcgrzfJ0S), [Rider Shafique](https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq) | [Critical Presents: Systems 008](https://open.spotify.com/album/0rB8B4OHu2ZU3NYhUh96Px) | 4:53 |
 | 29 | [Let Me](https://open.spotify.com/track/4ccFlJTXL6aBG4XLz9Sbnz) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [Hardcore / Rave Mixtape 001](https://open.spotify.com/album/6i1UgV4xgOQV7mniCKGV4D) | 2:25 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 34 | [Clear Skies](https://open.spotify.com/track/0A8tgWH38E0s5n5iCwfvAU) | [Dustin Zahn](https://open.spotify.com/artist/6ScDJaxsDqmtEB0CZY3WAC) | [Tiny Shocks](https://open.spotify.com/album/3Bqx8SdEbAzx48FMM7UE6A) | 4:52 |
 | 35 | [Duat](https://open.spotify.com/track/5Hyns7jBXNFQ8QU5QSUpWl) | [Introversion](https://open.spotify.com/artist/7qXRl6cKc9zsbV0ekjUQKm) | [Onryo](https://open.spotify.com/album/7FLffI1hePBCjjOi7umUZ1) | 6:10 |
 | 36 | [Chaos in the Distance](https://open.spotify.com/track/2dNYZepmpo2RrnytcoZTrW) | [CAYAM](https://open.spotify.com/artist/2aysJuzHqgXqkPJDwwB6a1), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Chaos in the Distance](https://open.spotify.com/album/2n9l0wW4X2UI1jWyipbkxF) | 6:12 |
-| 37 | [Uno A](https://open.spotify.com/track/7iJlLsF5jj3JBwcIDtq0EB) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6) | 5:32 |
+| 37 | [Uno A](https://open.spotify.com/track/6kIhSbPdypemYcRZtaQ69H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym) | 5:32 |
 | 38 | [Know About](https://open.spotify.com/track/36qBEWI66VcB7MdnS9nIuM) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [M.F.S: Observatory](https://open.spotify.com/artist/0UNvC4HpuvEq34FrRSePW8) | [Know About](https://open.spotify.com/album/5Mb42Z0ajvNfN0uDXNAgrB) | 4:57 |
 | 39 | [Persistance Dub](https://open.spotify.com/track/6xFlXhvM2UCHmrKanYpU1k) | [Stojche](https://open.spotify.com/artist/41TlIMa34bMl5ZZZUp55dn) | [Pressure](https://open.spotify.com/album/4EGT6JMuC488EMmYjiE9NY) | 5:19 |
 | 40 | [1.3 \- Original Mix](https://open.spotify.com/track/76CwcDRccDzNjrBJLkuDsY) | [Vågh](https://open.spotify.com/artist/4CCDoIlomaVNquOackuAtd) | [Deception EP](https://open.spotify.com/album/5odEuc1NfixSZpdlC5Wt7w) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkxJwAfCZA3.md) - [plain]
 | 49 | [Variations V2](https://open.spotify.com/track/4C44mvn338js9xEr9X1VMu) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Variations](https://open.spotify.com/album/5VBzQX4oT4rFbFo2jLryus) | 10:21 |
 | 50 | [His Rope](https://open.spotify.com/track/02epNlK5mV917A8TzXoxso) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:32 |
 
-Snapshot ID: `MTYzMTc4MzQ0OCwwMDAwMDAxMjAwMDAwMTdiZWRkZjZlODQwMDAwMDE3NWQxMDVjMmQw`
+Snapshot ID: `MTYzMTc4MzQ0OCwwMDAwMDAwMDUyOTljYjUzNWIxODBjYjMwNGVhZTVkMmEyZWIzM2Jm`

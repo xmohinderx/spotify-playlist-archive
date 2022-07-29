@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Titãs
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,748 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,778 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 36 | [Madri](https://open.spotify.com/track/5TZB7FD8GDhzd9qS8BK4B3) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Madri](https://open.spotify.com/album/01Kqulu74DLpLs7NVW8L80) | 2:58 |
 | 37 | [Chá](https://open.spotify.com/track/4GaUS9fESqZsMdk7aqnexu) | [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [iceboy999](https://open.spotify.com/artist/1PK0jb0W4nrxZItuuCUwXK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Chá](https://open.spotify.com/album/4gSJ0HsE10n2Ci2nDfg9kg) | 3:17 |
 | 38 | [Hora do Brasil](https://open.spotify.com/track/1oFIcBntvDjPU1tZ0yNYIN) | [Notívagos](https://open.spotify.com/artist/0llzGPxlorxbuUUwg04Emr) | [Hora do Brasil](https://open.spotify.com/album/73UFcMw5mHNqu682gX6vqx) | 3:15 |
-| 39 | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/track/0YxoElqRCPLeIzWW34DWA5) | [Lia](https://open.spotify.com/artist/03sopzsMsDAuj5U0hSFvS3) | [Para Todos Os Garotos Que Eu Já Matei](https://open.spotify.com/album/33WgImZgWqrsiMiizY1cJ2) | 2:41 |
+| 39 | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/track/6lgVeRqNEqBRsdQr8MKW7P) | [lia suspira](https://open.spotify.com/artist/1dcS0XcfidYHAYJ5zGUMvr) | [Para Todos os Garotos Que Eu Já Matei](https://open.spotify.com/album/0Q8jEA0Z3dJDJDIBbibA2Q) | 2:41 |
 | 40 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 |
 | 41 | [Navegador](https://open.spotify.com/track/4wFWxZHE1vosfLgLeACN1D) | [Dazaranha](https://open.spotify.com/artist/5Tj3XpWt9Z17NR581kYPQY) | [Navegador](https://open.spotify.com/album/7q4llfL8SITrKE6vTzO463) | 2:53 |
 | 42 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 48 | [Quando o Encontro É Mais](https://open.spotify.com/track/5QA7rwtAFT2VsLwxhvS158) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Jay Vaquer](https://open.spotify.com/artist/7LSLnoj6uCCnE2TJ1G6kvw) | [Quando o Encontro É Mais](https://open.spotify.com/album/4UHW7w22v7Za7oCU5Quooq) | 5:06 |
 | 49 | [Loko Loko](https://open.spotify.com/track/0RfgvHqnKmK24eGTc94pWy) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Loko Loko](https://open.spotify.com/album/6EspF4BzCcTvYeSJvgJFjY) | 2:55 |
 | 50 | [Bucket List](https://open.spotify.com/track/3PK0Lww2PbK9K808Pd3vJx) | [Long Past Overdue](https://open.spotify.com/artist/0epGwikvhwBH94d18WBMgb) | [Bucket List](https://open.spotify.com/album/0n1EoMUN7d1ZrNvAjQIvH0) | 3:43 |
-| 51 | [Não Mudaria Nada](https://open.spotify.com/track/3hveh8lEmqaYjVoQAxpARe) | [Sebastianismos](https://open.spotify.com/artist/2L5ae8GHw7eJ0u4f331o4R), [Badaui CPM22](https://open.spotify.com/artist/3Qv5O95hn0ZxnBrshQCEZ5) | [Não Mudaria Nada](https://open.spotify.com/album/7fojJw1mlHS6wFLUg5mEF3) | 1:49 |
+| 51 | [Não Mudaria Nada](https://open.spotify.com/track/3HhI8XjrNpiwW9aYjtqLjO) | [Sebastianismos](https://open.spotify.com/artist/2L5ae8GHw7eJ0u4f331o4R), [Badaui CPM22](https://open.spotify.com/artist/3Qv5O95hn0ZxnBrshQCEZ5) | [Tóxico](https://open.spotify.com/album/2IhnZaDLX9MB5XTxwpVblS) | 1:49 |
 | 52 | [\(De\)Compondo](https://open.spotify.com/track/4XoZgHircnTj5lssYHZuCH) | [HOZE](https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB) | [\(De\)Compondo](https://open.spotify.com/album/3Q4UvfGokdFcKVxtRA24xn) | 3:44 |
 | 53 | [Permita\-Se](https://open.spotify.com/track/0TulXMy4nmEKaSIHOyKTtL) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY), [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [Permita\-Se](https://open.spotify.com/album/47SsyEFkXO3mBEYHPkmsl2) | 3:11 |
 | 54 | [Dia 14, Pt\. 2](https://open.spotify.com/track/6PYmytp7n49OwoC6T2gsuj) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx) | [Dia 14, Pt\. 2](https://open.spotify.com/album/597wL7HG0FMUntbLLM9ZGp) | 3:28 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 57 | [Outono](https://open.spotify.com/track/0oD08rD3TriDPXQYFOISKt) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Outono](https://open.spotify.com/album/4cm6Omv3PJEVPQmQmjrNfz) | 4:15 |
 | 58 | [Voe](https://open.spotify.com/track/4auuWHV7lGdaYLRrCACoeT) | [Abel Capella](https://open.spotify.com/artist/6sC9qbOTdfboHJIWQF3lkw) | [Voe](https://open.spotify.com/album/7fdN4LLQLWYveuG4Mrcalp) | 3:41 |
 | 59 | [Letargia](https://open.spotify.com/track/3mHsHbu0pBObm4PIO2etwK) | [Deb and The Mentals](https://open.spotify.com/artist/3adFOhZcvNnHWUSe7YwYvf) | [Letargia](https://open.spotify.com/album/3VXvMsoLDtXaGsq4JcwRlR) | 3:16 |
-| 60 | [Só Sei Sonhar](https://open.spotify.com/track/7rvqdkHOXdSqZXaMHctNly) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/05SpB7CONVVtt0VosXk0nh) | 2:54 |
+| 60 | [Só Sei Sonhar](https://open.spotify.com/track/7BXnoQfWd5o1r9FpR2CWFJ) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/1fH5R79UA8H7gSGHko4ayZ) | 2:54 |
 | 61 | [Não É Só Existir](https://open.spotify.com/track/2yqqf8Xa2oEPnRemRS5jsD) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Não É Só Existir](https://open.spotify.com/album/5o4HjtKdN8PXhdfMAJOFcn) | 3:49 |
 | 62 | [SUCKERPUNCH](https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M) | [Seventeen Sunsets](https://open.spotify.com/artist/6AcY1a52SmTceyc9D5THcT) | [falling down \(falling out\)](https://open.spotify.com/album/5ngaI9j92OqREwOl6QglzT) | 3:45 |
 | 63 | [Heróis](https://open.spotify.com/track/01OpgNtN21P2nqUMTkRwN0) | [Lemak](https://open.spotify.com/artist/1DCcKAbUBRbTURZ6x8A7qx), [Rádio Moscou](https://open.spotify.com/artist/31VICQtQGiuRd39wIJTHPH) | [Heróis](https://open.spotify.com/album/1zruPtXvZdq143cxRar34i) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [quando saio de mim](https://open.spotify.com/track/0hOuuzrPqTTCAlKZIprcGf) | [Putz](https://open.spotify.com/artist/56HkciUnJHwVdl5yNQpIeb) | [quando saio de mim](https://open.spotify.com/album/4R9lTGeQuoDnhKxTRcHWod) | 2:57 |
 | 75 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 |
 
-Snapshot ID: `MTY1Nzg1NDE4MCwwMDAwMDE2NTAwMDAwMTgxZmZjZjNiNTEwMDAwMDE4MWZkNDljYTU0`
+Snapshot ID: `MTY1Nzg1NDE4MCwwMDAwMDAwMGYzNGEzMzE0NWU4NmQ5NTUwNzE4MDM5ODM0YWYxZWQ4`

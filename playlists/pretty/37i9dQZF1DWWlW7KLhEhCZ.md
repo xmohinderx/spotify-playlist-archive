@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Alee
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,645 likes - 71 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,695 likes - 71 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pocotó](https://open.spotify.com/track/41aZcrF6TnaxbZm6V5ot57) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Pocotó](https://open.spotify.com/album/0roLlyaXprnSd9LU6MaF74) | 2:26 |
 | 2 | [Para Sempre 21 \- Remix](https://open.spotify.com/track/5di62sje3CXN84ejeAIaGx) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Para Sempre 21 \(Remix\)](https://open.spotify.com/album/3F1QSpRVW6TuZX5qnt1SC9) | 3:21 |
 | 3 | [Ambição e Desejo](https://open.spotify.com/track/6RAJXjuBuK2SvSmVRPuoG5) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:59 |
-| 4 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [Mvk7](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
+| 4 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/6kZfwxPFYvs3pZVeEnDuxR), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
 | 5 | [Malokeragem](https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Malokeragem](https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR) | 2:53 |
 | 6 | [Meu Mundo](https://open.spotify.com/track/0UbuoewSfbeKlzaHXNzIFa) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF) | [Meu Mundo](https://open.spotify.com/album/7IoTpNoubIPLY25VfhJI7W) | 2:46 |
 | 7 | [Flex](https://open.spotify.com/track/363x2t2ILnLexTJHcZkmro) | [Jhowts ele memo](https://open.spotify.com/artist/30vmHS41FzNdB5MNo8V4f8), [Lado Sujo da Frequência](https://open.spotify.com/artist/6aPW50hBX6ZLc5QTgor7Wh) | [Flex](https://open.spotify.com/album/2Wih6lE4gnllQqkAGx45Gj) | 2:07 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 45 | [Baby Crazy](https://open.spotify.com/track/4vnndKSuCrTU2A1Zoy34kM) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [AFF 2](https://open.spotify.com/album/5CJ0xydncC3hghAX0YXDFK) | 2:45 |
 | 46 | [Arma](https://open.spotify.com/track/1W3FEHXi4bEfObCMX9iZXR) | [PTK](https://open.spotify.com/artist/4M7XfX7J0sw520nrZXkbpL), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B), [Zatto Beats](https://open.spotify.com/artist/0MT2T9gXHmh3eq2QzJgqhH) | [Arma](https://open.spotify.com/album/2vjMUGuObrne4W1l1xZ94d) | 2:00 |
 | 47 | [Minha Vida](https://open.spotify.com/track/2NIwJ0BXryqFfArHKCPiV1) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Minha Vida](https://open.spotify.com/album/6vituzkW1HmE4WTv8nqCpN) | 3:01 |
-| 48 | [Bandido Não Dança BB](https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu) | 2:13 |
+| 48 | [Bandido Não Dança BB](https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC) | 2:13 |
 | 49 | [Marlboro](https://open.spotify.com/track/6PSqBf9CgUhXmp87c78dSP) | [Dascar](https://open.spotify.com/artist/4xMLWhVR0oGEfR4jh6Bni6) | [Marlboro](https://open.spotify.com/album/0kOOqnjpRZSp3MWSntd3qd) | 3:24 |
 | 50 | [Sonhos](https://open.spotify.com/track/7hFAchNP8a1AwrLsPqqVvf) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Sonhos](https://open.spotify.com/album/75qLs9R0LxTeCYn0onmOgl) | 2:41 |
 | 51 | [Tralha](https://open.spotify.com/track/7jImw7w9MBwdLiKktjLnhF) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Brian Arimura](https://open.spotify.com/artist/3564y3B882wmolbLQVDVzZ) | [Tralha](https://open.spotify.com/album/2vQJRbwYVrUjJB6NvpvXu0) | 2:30 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 70 | [Polo Play](https://open.spotify.com/track/6xgxly2TQ501NjZcrCshBD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Polo Play](https://open.spotify.com/album/5FzodxlzOeoOapYbqYJz8J) | 2:40 |
 | 71 | [Gestão Perigosa](https://open.spotify.com/track/2EngGk2WRKQ1GJwkw6tYmm) | [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka) | [Gestão Perigosa](https://open.spotify.com/album/6ZMM9cDOSqjuXtW7FXkLQI) | 2:37 |
 
-Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDBmMDAwMDAwMTgyMjNkYmJmMzQwMDAwMDE4MjIyODk3ZDEy`
+Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDAwMDMwN2FiMmZkNjlkZTUwMzI1YjUyMDhmYjA5Mjc1ZDY5`

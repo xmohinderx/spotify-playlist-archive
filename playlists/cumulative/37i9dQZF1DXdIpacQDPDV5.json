@@ -4240,6 +4240,28 @@
     },
     {
       "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "album": {
         "name": "Miracle Maker (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/7iBzFQOfChL6eqK5dodErb"
       },
@@ -4255,7 +4277,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188592,
       "name": "Miracle Maker (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/51mycpP5uFInLw300nestX"
@@ -8401,7 +8423,7 @@
     {
       "album": {
         "name": "You Know",
-        "url": "https://open.spotify.com/album/1kANje9InRbppkmx2KrdXc"
+        "url": "https://open.spotify.com/album/3AoZPLyyBRSUHVOWSO0zYG"
       },
       "artists": [
         {
@@ -8420,6 +8442,32 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 148571,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/61voRt6hnMSaqlWfUczf65"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/1kANje9InRbppkmx2KrdXc"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        },
+        {
+          "name": "Beach Season",
+          "url": "https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 148571,
       "name": "You Know",
       "url": "https://open.spotify.com/track/7l1snLQlfXHOciyvGUtLNp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 
 > Soft jazz piano to help you focus during the workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,792 likes - 156 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,838 likes - 156 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,10 +159,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41cLva7hoYQ.md) - [plain]
 | 149 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 |
 | 150 | [Stuck In Time](https://open.spotify.com/track/47Wjs9Ju6TV4qo6IGv38hZ) | [Downstairs Jazz Band](https://open.spotify.com/artist/4aidC4RMKWtzHd6PKRBMfv) | [Little Branch](https://open.spotify.com/album/0LKmJAfHO1k8nkCBJbM5oJ) | 4:30 |
 | 151 | [And Suddenly There Was Love](https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH) | [Jonah Aardekker](https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns) | [And Suddenly There Was Love](https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4) | 4:27 |
-| 152 | [A Peaceful Tremor](https://open.spotify.com/track/5ksTqdBANamDrmSaFgeX0d) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/1mHFzljp8Gd2m90wVgwqNL) | 5:05 |
-| 153 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 |
+| 152 | [A Peaceful Tremor](https://open.spotify.com/track/6Nyj8xaSeKTPoxMyt18WMW) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/00bfBN3Qe2D48Im8EpBSML) | 5:05 |
+| 153 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 | 154 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 |
 | 155 | [Silverballaden](https://open.spotify.com/track/2x7nKKYQ7UBzZn2CC89fO6) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Destination Moon](https://open.spotify.com/album/2pINKWKTBiRtoF8PylcBjm) | 3:58 |
 | 156 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 |
 
-Snapshot ID: `MTY1NjQ5MDM4MywwMDAwMDAzZDAwMDAwMTgxYWU4NTU3ZTcwMDAwMDE4MTVkOTU0ZjNl`
+Snapshot ID: `MTY1NjQ5MDM4MywwMDAwMDAwMDU2ZjUyZDFiMTgzZjk0YjkxYmY1NmRjMTc3YTg3MDMy`

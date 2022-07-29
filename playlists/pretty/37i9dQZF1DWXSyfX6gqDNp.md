@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,893 likes - 122 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,907 likes - 122 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moonbow](https://open.spotify.com/track/1l54HHTbA5ze9DnvBL93aw) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Moonbow](https://open.spotify.com/album/3vAnUbVPNlM5HZzoYUFh4t) | 3:52 |
-| 2 | [Too Young To Go Steady](https://open.spotify.com/track/3aPjTvCKcGXF1TbVILWP4e) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition\)](https://open.spotify.com/album/44M3n6XShRwkwAk0z5hnmL) | 4:22 |
+| 2 | [Too Young To Go Steady](https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:19 |
 | 3 | [Blueberry Street](https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:15 |
 | 4 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 |
 | 5 | [Monk's Mood](https://open.spotify.com/track/5ypkP1XjtQTjVh77833W8J) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Monk's Mood](https://open.spotify.com/album/63znxspWv08GvBbaGCTJLp) | 4:00 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 69 | [It Never Entered My Mind](https://open.spotify.com/track/6PKCEB5JzjCizpz9hUQcpX) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:46 |
 | 70 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 |
 | 71 | [Whatever Possessed Me](https://open.spotify.com/track/2ctouihgYSV7onIUDRBjbK) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Whatever Possessed Me](https://open.spotify.com/album/4y9NYqUGF8rFBkisD65CTt) | 3:49 |
-| 72 | [Since I Fell For You \- Remastered](https://open.spotify.com/track/11S6NRCdcsxKpEstEPCDg7) | [Stanley Turrentine & The Three Sounds](https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F) | [Blue Hour](https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO) | 8:49 |
+| 72 | [Since I Fell For You](https://open.spotify.com/track/4TTPpmbvhD6lykELuXZoSh) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [Ballads](https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u) | 8:48 |
 | 73 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 |
 | 74 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 |
 | 75 | [In This Wonderful World](https://open.spotify.com/track/7cxOaLcFhKEH4IaBOd0F46) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [In This Wonderful World](https://open.spotify.com/album/6DgGOcAfVYCHu7xX3ChE85) | 4:04 |
@@ -126,9 +126,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 116 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 |
 | 117 | [Pretty Ballad](https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI) | [Louis Silva Band](https://open.spotify.com/artist/73EUNkbwvo1Y6ZmVjummIq) | [Pretty Ballad](https://open.spotify.com/album/03Xyg4vzclkEFYYnLDvGMB) | 3:26 |
 | 118 | [Laura](https://open.spotify.com/track/6nXrnq0lJpbowo1P84J2t7) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 4:50 |
-| 119 | [Velvet](https://open.spotify.com/track/368cbpZzyCxc564UhTULxA) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Velvet](https://open.spotify.com/album/2gZMDsQHC8kPl0jRhe1651) | 4:32 |
+| 119 | [Velvet](https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:32 |
 | 120 | [Here´s That Rainy Day](https://open.spotify.com/track/2bd8JjaPL4XrbgGyWPqFms) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:54 |
 | 121 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 |
 | 122 | [Fin De L'Affaire \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/3waqKUvxlNkmw3MCIDDMVl) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Hank Mobley Quintet \(Remastered\)](https://open.spotify.com/album/56h5AtHRt7XJISUiOK1VHb) | 6:39 |
 
-Snapshot ID: `MTY1NjQ4OTU2MSwwMDAwMDA3YjAwMDAwMTgxYWU3OGNlMDYwMDAwMDE4MTRkMDkwNDQ4`
+Snapshot ID: `MTY1NjQ4OTU2MSwwMDAwMDAwMGIxY2U3MGI2MTVjZTZkNTEyNDdjODE5Zjg2MGViMTAy`

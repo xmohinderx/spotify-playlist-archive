@@ -4,7 +4,7 @@
 
 > Restaurant style, elegant music for your fancy dinner
 
-235 songs - 10 hr 16 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
+238 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/0gUlOOOztUGwj972hi8oyP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Heads Or Tails](https://open.spotify.com/track/1Aob6941JTZjnI59GKaN3R) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Heads Or Tails](https://open.spotify.com/album/6TPyPUc3HF6KyGTTVQ9EjN) | 2:29 | 2022-06-06 |  |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-04-27 |  |
 | [Heather's Croft](https://open.spotify.com/track/1ZDPKU4OiLJoej4IFqOyHP) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Heather's Croft](https://open.spotify.com/album/74RBkn33VQFUsY4SDUqoE0) | 2:57 | 2022-04-27 |  |
-| [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/5VVRELmvr0DhwDxeYWvVCf) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/album/21mDWW3R1U36MSVCBXUG5L) | 3:31 | 2022-04-27 |  |
+| [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/5VVRELmvr0DhwDxeYWvVCf) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/album/21mDWW3R1U36MSVCBXUG5L) | 3:31 | 2022-04-27 | 2022-07-29 |
+| [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/7vNsnSXls09yAFMPwYERwU) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 3:31 | 2022-07-07 |  |
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2022-04-27 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2022-04-27 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2022-04-27 |  |
@@ -117,7 +118,8 @@
 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 | 2022-04-27 |  |
 | [Lemons In London](https://open.spotify.com/track/4NEIlZgVYb3lwN81SgxcJV) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Lemons In London](https://open.spotify.com/album/3ssXGJlbEKzfnqNoHFOJ5S) | 1:52 | 2022-04-27 |  |
 | [Life In Lozario](https://open.spotify.com/track/6C2QuSIfyMvf8M0q7Wq9sX) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Life In Lozario](https://open.spotify.com/album/1uwWZdaGWerJAS4HpCLc46) | 2:50 | 2022-06-06 |  |
-| [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-04-27 |  |
+| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-07 |  |
+| [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-04-27 | 2022-07-29 |
 | [Lillooet](https://open.spotify.com/track/0XFRQ8WknkxQ58hNekVr9h) | [Leroy Denby](https://open.spotify.com/artist/0KWOqZZPmlWxaNmu9V6QDa) | [Lillooet](https://open.spotify.com/album/2MqiZjH1uLdTjCaDyGt6Jv) | 1:55 | 2022-04-27 |  |
 | [Linger](https://open.spotify.com/track/1dl9NpSOGc99QraGZDAzWx) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Linger](https://open.spotify.com/album/62b5qlDwAPMIrK3300tgOP) | 2:04 | 2022-04-27 |  |
 | [Living Waters](https://open.spotify.com/track/2N2vy9RqjUSsVi2LvN0o3z) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Living Waters](https://open.spotify.com/album/6crBf4EOPcOD9XJeMybmzs) | 4:34 | 2022-05-20 |  |
@@ -184,7 +186,8 @@
 | [Route To Peace](https://open.spotify.com/track/7BXUSLKKirrMhg1gH80cnT) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Peace](https://open.spotify.com/album/1FyOg03sU6C3dmZdPXsfwn) | 4:27 | 2022-05-20 |  |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-04-27 | 2022-06-07 |
 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 | 2022-04-27 |  |
-| [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 | 2022-04-27 |  |
+| [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 | 2022-04-27 | 2022-07-29 |
+| [Scenery](https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [In the Valley](https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU) | 2:17 | 2022-07-07 |  |
 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 | 2022-04-27 |  |
 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 | 2022-04-27 |  |
 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 | 2022-04-27 | 2022-05-05 |

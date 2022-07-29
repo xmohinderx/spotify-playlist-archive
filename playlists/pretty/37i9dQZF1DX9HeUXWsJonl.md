@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,962 likes - 41 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,999 likes - 41 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 26 | [7elma](https://open.spotify.com/track/2Dbvw3R3GqaF4ucrbe4dTs) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [7elma](https://open.spotify.com/album/27l6Sbd25Oy7dhrNxItLJQ) | 4:02 |
 | 27 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 |
 | 28 | [Beli Wassit](https://open.spotify.com/track/0KwaYXajEWxN9KLVqpwAyK) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Beli Wassit](https://open.spotify.com/album/4oOglonQ8avYy0LeJDKcUi) | 4:05 |
-| 29 | [Netfakarna Sghar](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 |
-| 30 | [Echkek](https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Echkek](https://open.spotify.com/album/6LmpxuN1ZqwGvoWrhNuaTd) | 2:53 |
+| 29 | [Netfakarna Sghar](https://open.spotify.com/track/5SXmbTghHaWfLJCAFBqX0a) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 4:00 |
+| 30 | [عشقك](https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [عشقك](https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF) | 2:53 |
 | 31 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 |
 | 32 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 |
 | 33 | [Ma Saab](https://open.spotify.com/track/2lvt3ournLiAlPcwkggOVl) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ma Saab](https://open.spotify.com/album/0B6maLCCMJNGbZ83z5hpEa) | 3:35 |
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 38 | [Amane](https://open.spotify.com/track/5hE7CooonBvT1EhAawMCqp) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Comme avant](https://open.spotify.com/album/5kwEOC8Ua2255QdWR2TqAX) | 3:52 |
 | 39 | [Njik Nzour](https://open.spotify.com/track/58oVWjYLjemAvRIIb2lDWS) | [Amon](https://open.spotify.com/artist/4nOP7DBb86tiEXS1NqQ2bw) | [Njik Nzour](https://open.spotify.com/album/3Cq4ZZHahM2IZNt2AnhaCo) | 3:18 |
 | 40 | [Finek](https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Finek](https://open.spotify.com/album/2rpEr6XUjRcUKkpRqaQZKe) | 3:24 |
-| 41 | [Kafon GALBI](https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt) | [Rap City](https://open.spotify.com/artist/2Bg8pjIGpTytyqqpkFZ9q0) | [Kafon GALBI](https://open.spotify.com/album/2C25uD29j9XKiApzQadZNu) | 4:20 |
+| 41 | [Galbi](https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw) | [Galbi](https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX) | 4:20 |
 
-Snapshot ID: `MTY1NzgyNDg3NywwMDAwMDBhZTAwMDAwMTgxZmUxMDFkYTAwMDAwMDE3MGFmNGIyOWM4`
+Snapshot ID: `MTY1NzgyNDg3NywwMDAwMDAwMDJmMDE2ZGUyZjczYjFiYTIzYWVhM2ZkNmNiYzYyYjU1`

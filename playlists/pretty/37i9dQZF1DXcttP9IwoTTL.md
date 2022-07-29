@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,579 likes - 70 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,595 likes - 70 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 6 | [Film 1](https://open.spotify.com/track/0JvvxlbdKBdfWLwNjpgZNI) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Mega EP](https://open.spotify.com/album/7BoexwdfW6MeixQMKnqTyr) | 5:25 |
 | 7 | [Oseary Drakoulias](https://open.spotify.com/track/1z9TCgUU4CqBKH5YHGlGjh) | [Rambal Cochet](https://open.spotify.com/artist/7zhcW7ODbKT1GVWhcCuCgF) | [Oseary Drakoulias](https://open.spotify.com/album/5flJezd4W2B5dNR63cXxUv) | 5:12 |
 | 8 | [My Definition of Funk](https://open.spotify.com/track/4fqYrcYoD801CBTaRx2QcO) | [Richard Sen](https://open.spotify.com/artist/5JdGnUoHsAtIwmyW7L4tCM) | [My Definition of Funk](https://open.spotify.com/album/6J3dia1jT32gmDg00m9FFb) | 9:09 |
-| 9 | [La Hafla \- Delmore Remix](https://open.spotify.com/track/0TH2wpQqX3pYv2ZqThHacv) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Delmore](https://open.spotify.com/artist/6M5DieyYBHaKlkTPTqHqF9) | [Remixed](https://open.spotify.com/album/2IiSd2rbbQGtnlRhLUo7eD) | 4:31 |
+| 9 | [La Hafla \- Delmore Remix](https://open.spotify.com/track/23jomgVIMcvuq2w0WUcZVg) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Delmore](https://open.spotify.com/artist/6M5DieyYBHaKlkTPTqHqF9) | [Remixed](https://open.spotify.com/album/47PKSAWJ4hdcgTF0qzkhx8) | 4:31 |
 | 10 | [Transmutation \- Pablo Bozzi Remix](https://open.spotify.com/track/3fdQPMa7cKKb4OpNqhHMZU) | [Rein](https://open.spotify.com/artist/081nh5DBAXiKgJhOlqgU2V), [Djedjotronic](https://open.spotify.com/artist/5c8Rd2gCeW7KAdTnwWIZKL), [Pablo Bozzi](https://open.spotify.com/artist/4DZM1e3XBfgjFkQkR1LKQL) | [Transmutation EP](https://open.spotify.com/album/211fjhfdGDMPli788zpzZQ) | 5:00 |
 | 11 | [Three Eyes \- Tjade Remix](https://open.spotify.com/track/52SfBugKis0R6ufKVDgZ23) | [REES](https://open.spotify.com/artist/4DsD95lJoAXFmrh7vhL6MU), [Tjade](https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh) | [Three Eyes](https://open.spotify.com/album/4pWnySe1IQE4w79tIYzLsc) | 7:53 |
 | 12 | [Miriam](https://open.spotify.com/track/5XbSjX1vCyl4b03rkMuA4e) | [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Incarnadine](https://open.spotify.com/album/6x7xdijPR9F2e2OGYmjXiu) | 3:53 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 60 | [Arriviste](https://open.spotify.com/track/5RDOLJSjBhSTNh1iuFwezv) | [U/V Light](https://open.spotify.com/artist/0OAdKXdRSzdOEEROt7QZPa) | [Cenotaph](https://open.spotify.com/album/7CDhqwci2RCYnFvW2Nlnqw) | 6:11 |
 | 61 | [Good Weather Girl \- Zombies In Miami Remix](https://open.spotify.com/track/67FGggjvKrHWUPcRcovdZF) | [Captain Mustache](https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF), [Chicks On Speed](https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV), [Zombies In Miami](https://open.spotify.com/artist/42ZWiibQTSxTJSBV7oziPy) | [Good Weather Girl](https://open.spotify.com/album/2Ay6TvkZnbNeaVK1b16Xb1) | 6:57 |
 | 62 | [Dream Ritual](https://open.spotify.com/track/0gvvZlRPwWkcPtrMNgY5N4) | [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Dream Ritual](https://open.spotify.com/album/0MQJ6H8BRzGyEDx0RrCTCY) | 7:10 |
-| 63 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/68cpQ6mpnMiE96PbUwJs7q) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/4LAeJVXkFuJmcIpZ5XMW6Q) | 4:43 |
+| 63 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
 | 64 | [Feelings](https://open.spotify.com/track/45NI7zJYwbY7iEvkgRl1y6) | [N&W](https://open.spotify.com/artist/5TFFHlKvP8IUtum3TB4ZmR) | [Feelings](https://open.spotify.com/album/3yCPWKHja3fYgXAV2MNYfB) | 4:35 |
 | 65 | [Lush Life](https://open.spotify.com/track/4XkuBnhvrRLJg3TvHay3W8) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Fantastic Twins](https://open.spotify.com/artist/6da8OOYjq640zH3b4e4wci) | [Lush Life](https://open.spotify.com/album/7wAG08EkVojJORs48iThNm) | 9:42 |
 | 66 | [Praise & Sin](https://open.spotify.com/track/1x65MtQJuPcbZX8LEggAyr) | [Count Van Delicious](https://open.spotify.com/artist/1MRNQb9yUQonegcr2megMX) | [Praise & Sin](https://open.spotify.com/album/2oaYdzfdB0HNu9b15Ouqey) | 5:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 69 | [Blissful Lie](https://open.spotify.com/track/500vxfAi1qqsU5emL6WWaO) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Blissful Lie](https://open.spotify.com/album/7Lw1WefAo5Yu3vuepibdFl) | 6:52 |
 | 70 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 
-Snapshot ID: `MTY1Nzg3Mjk3NSwwMDAwMDAzYzAwMDAwMTgyMDBlZTA1MzgwMDAwMDE3M2E0ZmI1MTBl`
+Snapshot ID: `MTY1Nzg3Mjk3NSwwMDAwMDAwMDU2NWQ4NTBlMDFlNDkyMDc1M2QxNjc0YmVlNTYxYmZm`

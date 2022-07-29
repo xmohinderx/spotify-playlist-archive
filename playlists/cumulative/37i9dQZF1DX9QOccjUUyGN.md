@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-133 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
+134 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6q6haEaTDDjjQ2HQhKMkJt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 | 2022-03-18 |  |
 | [Recaída](https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Recaída](https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx) | 3:08 | 2022-03-18 | 2022-04-23 |
 | [Red Amarelo E Gin](https://open.spotify.com/track/7G2wejUD0vRvd9w6yh4A4C) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Red Amarelo E Gin](https://open.spotify.com/album/3Z0gMw7X5ilIkR9jU1xhXS) | 2:31 | 2022-05-13 |  |
-| [Replay](https://open.spotify.com/track/54tnBgNP2xVdOaJQfkK1bn) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw), [Heinzy](https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u), [Jeef Beatz](https://open.spotify.com/artist/1ExCWssnVlnC4IuM0CoBGR) | [Replay](https://open.spotify.com/album/3sn9P22zPZKbHmTknR3pe5) | 2:04 | 2022-03-18 |  |
+| [Replay](https://open.spotify.com/track/4Kmt0TVjvOWO4VG3lylUcQ) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw), [Heinzy](https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u), [Jeef Beatz](https://open.spotify.com/artist/4cQelZIsreIHrD5WbvShqa) | [Replay](https://open.spotify.com/album/4vWWXiXM8w1PwYXgCAtWq1) | 2:04 | 2022-07-22 |  |
+| [Replay](https://open.spotify.com/track/54tnBgNP2xVdOaJQfkK1bn) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw), [Heinzy](https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u), [Jeef Beatz](https://open.spotify.com/artist/1ExCWssnVlnC4IuM0CoBGR) | [Replay](https://open.spotify.com/album/3sn9P22zPZKbHmTknR3pe5) | 2:04 | 2022-03-18 | 2022-07-29 |
 | [Resenha](https://open.spotify.com/track/0RPaLknBQh8KBrLSq7Vb4I) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Resenha](https://open.spotify.com/album/3SzMjMloFBhTSeCmRNu3CJ) | 3:52 | 2022-03-18 | 2022-07-16 |
 | [Revoada dos Mlk](https://open.spotify.com/track/2nWfv0t5r6JEVds7rscEl6) | [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Akaio MC](https://open.spotify.com/artist/2JO85Q1YnQNGfLdgStvZPV) | [Revoada dos Mlk](https://open.spotify.com/album/7MtueOPb10wYso92nC2R5j) | 4:00 | 2022-03-18 |  |
 | [Romântico](https://open.spotify.com/track/55n7iMgbpJXlRPniqv47An) | [M4 Music](https://open.spotify.com/artist/5LwBAQySQWohBYpVgbrOUV) | [Romântico](https://open.spotify.com/album/0xhkr5CbzcWp6jfjYFMx5A) | 3:24 | 2022-07-01 |  |

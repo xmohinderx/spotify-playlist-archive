@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Colored noise to help you sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,841 likes - 248 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,865 likes - 248 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,4 +257,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 247 | [Pure Brown Noise 6](https://open.spotify.com/track/1GdAEyWMnFjUz6goHuTfoQ) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:17 |
 | 248 | [Brown Noise 115 Hz](https://open.spotify.com/track/4EH2xYBeGFZyXzARe0CbFB) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Brown Noise Collection](https://open.spotify.com/album/3xBZkAbQcvjw08npiE3U1G) | 4:05 |
 
-Snapshot ID: `MTY1ODg0MjY0OCwwMDAwMDAyNTAwMDAwMTgyM2FiYTBlZjcwMDAwMDE4MjNhYjlmMGU5`
+Snapshot ID: `MTY1ODg0MjY0OCwwMDAwMDAwMDVmZWU3NmUzMTQ5Zjc5NTFjNWI2YmMxOWUxMzQ2NWM2`

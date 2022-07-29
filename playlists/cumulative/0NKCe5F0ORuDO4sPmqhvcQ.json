@@ -810,6 +810,32 @@
     },
     {
       "album": {
+        "name": "Colors (with Eyelar)",
+        "url": "https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231832,
+      "name": "Colors (with Eyelar)",
+      "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
+    },
+    {
+      "album": {
         "name": "Comfortable (feat. QUIX)",
         "url": "https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63"
       },
@@ -2383,6 +2409,24 @@
       "duration_ms": 126545,
       "name": "I'm a Moth!!",
       "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "album": {
+        "name": "I'm With The DJ",
+        "url": "https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212903,
+      "name": "I'm With The DJ",
+      "url": "https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N"
     },
     {
       "album": {

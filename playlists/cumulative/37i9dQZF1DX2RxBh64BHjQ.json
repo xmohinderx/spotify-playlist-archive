@@ -811,7 +811,7 @@
     {
       "album": {
         "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
@@ -822,6 +822,24 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/00Zje2pBHhvamgeOuw1Q0i"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
@@ -9247,10 +9265,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135419,
       "name": "The End",
       "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
     },
     {
       "album": {
@@ -9421,10 +9457,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226362,
       "name": "Thump Shit",
       "url": "https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ"
+    },
+    {
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226362,
+      "name": "Thump Shit",
+      "url": "https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW"
     },
     {
       "album": {
@@ -9949,10 +10007,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137799,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB"
+    },
+    {
+      "album": {
+        "name": "Mr. Crawford",
+        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137799,
+      "name": "Very Special",
+      "url": "https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Ceci Reis\. Arte: Isu Kim
 
-127 songs - 7 hr 3 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+128 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 |  |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
-| [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 |  |
+| [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
+| [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 |  |
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 |  |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |

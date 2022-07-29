@@ -4,7 +4,7 @@
 
 > The best new alternative rock tracks.
 
-160 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
+164 songs - 9 hr 47 min - [published](https://open.spotify.com/playlist/5quM8neQlox9eNtsEIONeH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx), [Jamie Lenman](https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K) | [belly aching beast \(feat\. Jamie Lenman\)](https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq) | 3:22 | 2022-02-10 | 2022-04-22 |
 | [Better Friend](https://open.spotify.com/track/6KfQ8vcjvMH87mrD96WFSC) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Better Friend](https://open.spotify.com/album/75XZVRTJTmmVIpicxZLRuL) | 4:17 | 2022-02-24 | 2022-07-01 |
 | [big deal](https://open.spotify.com/track/4GEZ6cKhqcm5IbZsEKwEv3) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [the lovehate mixtape](https://open.spotify.com/album/0A7duZERSI4xT4SttTCBvj) | 2:39 | 2021-12-16 | 2022-04-06 |
-| [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 | 2022-03-31 |  |
+| [Billow](https://open.spotify.com/track/61sE4FBxsAKEgv4Pj0CzZi) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/417GpTkRc9qXb5SwhkcTOO) | 3:28 | 2022-06-30 |  |
+| [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 | 2022-03-31 | 2022-07-29 |
 | [blink](https://open.spotify.com/track/6cY3rrN8qX0RTLawwiHj6d) | [Sister Void](https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn) | [blink](https://open.spotify.com/album/0BJ2xtwZ34wq86GS52eYkD) | 3:47 | 2022-02-17 | 2022-06-10 |
 | [Bones](https://open.spotify.com/track/0mjdhNsbHL8ZkY9ZlYKqjI) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Bones](https://open.spotify.com/album/6PHUR1v2nc0nH5IVfgtZyb) | 2:41 | 2022-03-10 | 2022-04-22 |
 | [Bored Again](https://open.spotify.com/track/3QQwKlLs6j1pcLcg5rllCp) | [Sunfish](https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J) | [Bored Again](https://open.spotify.com/album/7kL4uWsTVVZEr2BPdh5lNi) | 3:27 | 2022-06-30 |  |
@@ -49,7 +50,8 @@
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-04-14 |  |
 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 | 2022-06-30 |  |
 | [Cleopatra](https://open.spotify.com/track/1vbu9CQdQQgYHPeqTn8WK0) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Cleopatra](https://open.spotify.com/album/79QALKmJRQgzHWHTutvg5O) | 3:30 | 2022-03-21 |  |
-| [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-04-28 |  |
+| [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-04-28 | 2022-07-29 |
+| [Coming Home](https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/0uBGLU72sQe6eArUmzOMRc) | 3:24 | 2022-06-30 |  |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-02-10 |  |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-17 | 2022-02-25 |
@@ -76,7 +78,8 @@
 | [Girl Named Place](https://open.spotify.com/track/7fg9CRzSF4oaLrYe6Oqe1c) | [Bad Honey](https://open.spotify.com/artist/5F8BrlUsXFFAAFU2dFkmXQ) | [Help Yourself](https://open.spotify.com/album/2DvRU5pgxrcixphF4MKEXy) | 5:17 | 2021-12-16 | 2022-03-25 |
 | [Glisten](https://open.spotify.com/track/6Ua1Ox0jb0O15ZIqPQinDG) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Glisten](https://open.spotify.com/album/5Ho2TJzVuNogqaUOpWhKH3) | 3:54 | 2021-12-16 | 2022-02-18 |
 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 | 2022-01-27 | 2022-06-03 |
-| [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 |  |
+| [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 | 2022-04-05 | 2022-07-29 |
+| [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 | 2022-06-30 |  |
 | [Great Mass of Color](https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Great Mass of Color](https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp) | 6:00 | 2021-12-16 | 2022-02-11 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
@@ -106,7 +109,8 @@
 | [Me and My Brain](https://open.spotify.com/track/1DDStYLixIqRISehWb3fci) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Terrible Town](https://open.spotify.com/album/1L2S1fC7KdAlQCgDH7Jx7J) | 2:48 | 2021-12-16 | 2022-04-08 |
 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 | 2022-05-12 |  |
 | [Modern Dinosaur](https://open.spotify.com/track/5TPqgtVFvYK8rmcIUNKY0s) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Sub Atomic Party Cool](https://open.spotify.com/album/36bR4wwIGzZW9F86ky3Zbm) | 2:31 | 2021-12-16 | 2022-02-25 |
-| [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-06-30 |  |
+| [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-06-30 | 2022-07-29 |
+| [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 | 2022-06-30 |  |
 | [MURDER ME](https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MURDER ME](https://open.spotify.com/album/6u2wZGyeP9BHs1wYThOCfn) | 3:34 | 2022-01-06 |  |
 | [Nevermore](https://open.spotify.com/track/1FAPmkpCbkvQV0ZU0OnuSI) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Nevermore](https://open.spotify.com/album/7xAcg2RklyWkpIIipwu7Bp) | 3:18 | 2021-12-16 | 2022-02-18 |
 | [New](https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [New](https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn) | 3:00 | 2022-06-16 |  |

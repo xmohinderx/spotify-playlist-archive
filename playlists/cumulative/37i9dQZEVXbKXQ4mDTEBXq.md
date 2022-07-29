@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-172 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
+173 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/04dEl2TLTd4YmOYBIzuy2M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Butter \- Megan Thee Stallion Remix](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 | 2021-12-25 | 2021-12-31 |
 | [Bye\-Good\-Bye](https://open.spotify.com/track/0rPrGZTtScNSRL2jZoooKO) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Bye\-Good\-Bye](https://open.spotify.com/album/6zlvNHkwGQESAwd8DQxAnq) | 3:01 | 2022-05-17 | 2022-07-27 |
 | [Bye\-Good\-Bye](https://open.spotify.com/track/3Itdlob7CzXIQqydeVwutQ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:01 | 2022-07-26 |  |
-| [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-24 |  |
+| [Celebrate](https://open.spotify.com/track/4Y0chGCyYIRpdUqHJjndF7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:08 | 2022-07-28 |  |
+| [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 | 2022-07-24 | 2022-07-29 |
 | [Chopstick](https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Chopstick](https://open.spotify.com/album/3JZe3XL47MvVW571DbXN9S) | 2:57 | 2021-11-20 | 2021-11-26 |
 | [Chopstick](https://open.spotify.com/track/6Yv0xoR37tcxzvey8ybW5l) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [U \-Special Edition\-](https://open.spotify.com/album/1L1WTrtt1kNzj4epuasXDl) | 2:57 | 2021-11-26 | 2022-02-08 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2021-08-04 |  |

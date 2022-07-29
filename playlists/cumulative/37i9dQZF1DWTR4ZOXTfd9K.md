@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-102 songs - 10 hr 22 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
+103 songs - 10 hr 26 min - [published](https://open.spotify.com/playlist/33onHXtD6FTnm9jpuazHYx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Shadow](https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 4:44 | 2022-02-02 |  |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2021-12-02 |  |
 | [Sky And Sea \(Blue In Green\)](https://open.spotify.com/track/3t1BmFyLuSIbbRrpnmd2Yc) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Traveling Miles](https://open.spotify.com/album/1Jx892mwNh5eRD5YnbCEoD) | 5:24 | 2021-12-02 |  |
-| [Slim's Return](https://open.spotify.com/track/5bx0tMIUHBVBtfcZjo2iab) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/2yJg6KbkrE5SShCFWkmXhG) | 3:56 | 2021-12-02 |  |
+| [Slim's Return](https://open.spotify.com/track/5bx0tMIUHBVBtfcZjo2iab) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/2yJg6KbkrE5SShCFWkmXhG) | 3:56 | 2021-12-02 | 2022-07-29 |
+| [Slim's Return](https://open.spotify.com/track/74iAhjBEJ9PqlXxMSV73Ry) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 3:56 | 2022-03-04 |  |
 | [Song For My Father](https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:18 | 2021-12-02 |  |
 | [Speak No Evil \- Remastered 1998 / Rudy Van Gelder Edition](https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 8:23 | 2021-12-02 |  |
 | [Spinning Wheel \- Remastered](https://open.spotify.com/track/6jBlCAZroSB2ZSKXE08LXL) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Drives](https://open.spotify.com/album/2teLy7sTvctRCe2CXCcYyn) | 7:37 | 2021-12-02 |  |

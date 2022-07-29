@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Moody beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,696 likes - 200 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,729 likes - 200 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 49 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 |
 | 50 | [dark beat](https://open.spotify.com/track/5C5BsRdreXZ6MkW1BDNEGt) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [dark beat](https://open.spotify.com/album/1g9SHQM7lita1ze8kuPI31) | 1:48 |
 | 51 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 |
-| 52 | [Ups and Downs](https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k), [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU) | [Ups and Downs](https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI) | 2:09 |
+| 52 | [Ups and Downs](https://open.spotify.com/track/5BA74NJ2labkPFbuB2lMDi) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k) | [Ups and Downs](https://open.spotify.com/album/2E8lMpGLtsymJsFTWE0NIX) | 2:09 |
 | 53 | [homecoming](https://open.spotify.com/track/5vkLnTZWyAUdceFAHQ8ufN) | [daysgetbetter](https://open.spotify.com/artist/4vbKLDLpqQ9DcimSBqvk5c) | [Homecoming](https://open.spotify.com/album/6Mw5JigVoa71GB9FVrYpIb) | 2:02 |
 | 54 | [lovesick](https://open.spotify.com/track/4PvKo2XJT449mrhcVCoVBc) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [lovesick](https://open.spotify.com/album/7t37sjRrkcLyYeSDgWsZdM) | 1:48 |
 | 55 | [Like A Tingel](https://open.spotify.com/track/0OLhrE2q3pKKH6VZUavoPV) | [Kiki\_Q](https://open.spotify.com/artist/3xcD6O97TEOXcX1TCYYhAj) | [Like A Tingel](https://open.spotify.com/album/7jirkidnz1LNN6ZmeGNRJZ) | 1:52 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 199 | [Lime Express](https://open.spotify.com/track/6W1jElE8QnsHXvH1umc4VG) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:40 |
 | 200 | [new trees](https://open.spotify.com/track/79ZXRpT88I9x2SvsRCLe4S) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [frozen grapes](https://open.spotify.com/album/1lGfubsWe9ThyEZUC3wDVz) | 1:50 |
 
-Snapshot ID: `MTY1ODkxNTc0NywwMDAwMDA0OTAwMDAwMTgyM2YxNTc2NDkwMDAwMDE4MWRlNTRhNmZk`
+Snapshot ID: `MTY1ODkxNTc0NywwMDAwMDAwMDY1ZTU2OTU2ZDcwZGU2ZWE0M2ExMjE1NjgwMDE3MGVm`

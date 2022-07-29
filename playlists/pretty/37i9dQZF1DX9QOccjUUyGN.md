@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,673 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,692 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 55 | [Diz Que É Hoje](https://open.spotify.com/track/2YPwu0slihNBAQYo5gSgVO) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Diz Que É Hoje](https://open.spotify.com/album/3wgROhviX3TOIL26EgEW8b) | 2:40 |
 | 56 | [Prefiro Você](https://open.spotify.com/track/0VvnJAiWr7jeaZoTB5AdyE) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Fútil](https://open.spotify.com/album/1AhTSU8nfVwEI0OSHTIxjp) | 3:48 |
 | 57 | [Chave de Cadeia](https://open.spotify.com/track/6XRged6KRZkNbIpA2AOgpm) | [PLK7](https://open.spotify.com/artist/4v0wQZyK4WxpNhCjznfei0), [pendrivor](https://open.spotify.com/artist/3zyXj4o6FSswzuBxmTbIKs) | [Chave de Cadeia](https://open.spotify.com/album/4KpvRhz2VZaqtCACmRmJ5g) | 2:50 |
-| 58 | [Replay](https://open.spotify.com/track/54tnBgNP2xVdOaJQfkK1bn) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw), [Heinzy](https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u), [Jeef Beatz](https://open.spotify.com/artist/1ExCWssnVlnC4IuM0CoBGR) | [Replay](https://open.spotify.com/album/3sn9P22zPZKbHmTknR3pe5) | 2:04 |
+| 58 | [Replay](https://open.spotify.com/track/4Kmt0TVjvOWO4VG3lylUcQ) | [Barretin](https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw), [Heinzy](https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u), [Jeef Beatz](https://open.spotify.com/artist/4cQelZIsreIHrD5WbvShqa) | [Replay](https://open.spotify.com/album/4vWWXiXM8w1PwYXgCAtWq1) | 2:04 |
 | 59 | [Antes do Sol](https://open.spotify.com/track/0dpBttVzTiIFzn3gsAWUhv) | [Psych](https://open.spotify.com/artist/56cqVCO3vabMghliZvW9S1) | [Antes do Sol](https://open.spotify.com/album/1FmIcNzKUDVdnxrBuxc2iV) | 2:13 |
 | 60 | [Frio na Barriga](https://open.spotify.com/track/2hZ6Ap7gFkSoGBOFHw89Ql) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Frio na Barriga](https://open.spotify.com/album/26JIFAIG2z4jDSVK75vHr3) | 4:13 |
 | 61 | [Copacabana](https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [NaBuscaDoOuro](https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S) | [Copacabana](https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5) | 2:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 69 | [Paradoxo Mítico](https://open.spotify.com/track/6DlsL19K0YdOzV3AEY1YWo) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Audaz](https://open.spotify.com/album/4sVXU4DLGhhzhOsevlh5Gk) | 3:39 |
 | 70 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
 
-Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDAzOTAwMDAwMTgyMjNkYmJmMGMwMDAwMDE4MWZkM2Q4MjU3`
+Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDAwMDMzYzBiNTNjNmRiNDgzMDFlNzc2Y2RmNmI3Yzg1N2U0`

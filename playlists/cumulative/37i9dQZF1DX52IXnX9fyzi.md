@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-224 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
+227 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/5A2o18vGcWOns5VqpjBlMZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Amore Eterno](https://open.spotify.com/track/7w9HyzWXYGqok3S1y2yKW2) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amore Eterno](https://open.spotify.com/album/5LCdLCsWE3PHpc6j6908pm) | 1:34 | 2022-05-26 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-14 |  |
 | [Arkata \(Munich Session\)](https://open.spotify.com/track/5rnpFhTerQAtva8IuFHMnS) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Arkata \(Munich Session\)](https://open.spotify.com/album/16s4ccY0RG8YM6rw1Sr6Hk) | 4:02 | 2022-04-14 | 2022-04-28 |
-| [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-14 |  |
+| [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2022-07-15 |  |
+| [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2022-04-14 | 2022-07-29 |
 | [Asa No Kiri](https://open.spotify.com/track/6lQdgoT6Y7XHyWCLbHsru3) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Seishin](https://open.spotify.com/album/5MFgzKASBxKXV8fQlUxuHv) | 1:46 | 2022-07-15 |  |
 | [Ascending](https://open.spotify.com/track/5Z1nCExkwBTSxXfHB00GI5) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Ascending](https://open.spotify.com/album/5Dx4wF4Hw41uaGsE8h4Cp9) | 2:44 | 2022-05-26 |  |
 | [Au Chevet](https://open.spotify.com/track/1ZwBhaslHhzWcXcMcMAj8K) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Au Chevet](https://open.spotify.com/album/3ohmAEcfLlPaUSfjBWO8H8) | 2:53 | 2022-04-14 |  |
@@ -178,7 +179,8 @@
 | [Sommersturm \- Solo Piano](https://open.spotify.com/track/4lVmCosrwdhCJPhXyqs0do) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Sommersturm](https://open.spotify.com/album/5MoRUWekh0EO4FOurmyDCE) | 2:39 | 2022-04-14 | 2022-07-16 |
 | [Spiritual](https://open.spotify.com/track/6mQhibY0WvzsX9K3ZR7OTC) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:12 | 2022-04-14 | 2022-07-16 |
 | [Spring Time Ballet](https://open.spotify.com/track/1tVqsgTUBOIsN8We0UtdqJ) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Spring Time Ballet](https://open.spotify.com/album/341LYFQqln5ycveU2A0F7L) | 2:28 | 2022-05-04 |  |
-| [Still Life](https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life](https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg) | 3:22 | 2022-04-14 |  |
+| [Still Life](https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Still Life](https://open.spotify.com/album/6R5tp7dLEAqPUwYsqerNFg) | 3:22 | 2022-04-14 | 2022-07-29 |
+| [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 | 2022-07-15 |  |
 | [Stories of Hope](https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Nel Swerts](https://open.spotify.com/artist/42GuEp1sWhtiIqHrHOlhOh) | [Stories of Hope](https://open.spotify.com/album/3OiHdkTm7zlyGZxlFrFiGd) | 3:11 | 2022-07-15 |  |
 | [Strands](https://open.spotify.com/track/3eaRXuw8zhx6Bfsgj1feJB) | [Stephen Canyons](https://open.spotify.com/artist/5ZQycVE891WyyN6kIKe7Oj) | [Strands](https://open.spotify.com/album/2WfL4OdNFiFduHnZNa0xqr) | 2:32 | 2022-06-07 |  |
 | [Sunlight Sadness](https://open.spotify.com/track/4OXMONKgLmW0FZGU6Sm7Hf) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Sunlight Sadness](https://open.spotify.com/album/1XhIG4rUpR4cNXiegHFsU7) | 2:31 | 2022-04-14 |  |
@@ -215,10 +217,11 @@
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-14 |  |
 | [Valse Mélancolie](https://open.spotify.com/track/47L9KRq0WRPYiNs4oeHyFs) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Valse Mélancolie](https://open.spotify.com/album/0vJoclAstkRCim3ou4KEzj) | 3:46 | 2022-04-14 |  |
 | [Valse nocturne](https://open.spotify.com/track/1KP0DByPauicPF28zb7FMe) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Haven](https://open.spotify.com/album/1hduHHbXesrfvi8aRCQZ64) | 4:25 | 2022-04-27 |  |
-| [Van Gogh](https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Van Gogh](https://open.spotify.com/album/5q7aRBlunda6oUEoq5fqQ3) | 3:06 | 2022-04-14 |  |
+| [Van Gogh](https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Van Gogh](https://open.spotify.com/album/5q7aRBlunda6oUEoq5fqQ3) | 3:06 | 2022-04-14 | 2022-07-29 |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-14 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2022-04-14 | 2022-05-27 |
-| [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-04-14 |  |
+| [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-04-14 | 2022-07-29 |
+| [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-15 |  |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-04-14 | 2022-07-16 |
 | [Walking Slowly](https://open.spotify.com/track/04HAuNsJ33EMeoNhiOQLcQ) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Walking Slowly](https://open.spotify.com/album/4wjmBndNtG1iaQbsOEyBF0) | 3:18 | 2022-07-15 |  |
 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 | 2022-04-14 |  |

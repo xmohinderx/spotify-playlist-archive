@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,134 likes - 56 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,126 likes - 56 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 46 | [Do You Have Plans?](https://open.spotify.com/track/6AEOwjjFIvwtHy77gwiHiQ) | [ASMR Leedah](https://open.spotify.com/artist/0XQbeslDTzykLqIp5PzQiS) | [Checking Up On You \(Scratch, Tapping, Ramble\)](https://open.spotify.com/album/6jBVHUHGixqktpxgeX9YBy) | 5:21 |
 | 47 | [Unintelligble Sleep Whisper Sayy Wayy](https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:56 |
 | 48 | [Removing Negative Energy](https://open.spotify.com/track/24NTw0iCE8kjgY5BGKIqmh) | [LunaRexx ASMR](https://open.spotify.com/artist/1gN9pIv8jnrIYJV3S88I6D) | [May I Touch You?](https://open.spotify.com/album/3bnzZw0jzoa7AYlZDYTxPw) | 4:54 |
-| 49 | [It's Just You and Me](https://open.spotify.com/track/7AmkjYnKthAdWlsisckn75) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/5CRBoC6jLGPsxOpkcxKVRz) | 3:38 |
+| 49 | [It's Just You and Me](https://open.spotify.com/track/1E15ykxdCHlUENEsqIOe7K) | [ASMR Cherry Crush](https://open.spotify.com/artist/2uzryD0DeQtZbdGBdSiK8z) | [Let's Fall Asleep Together](https://open.spotify.com/album/4MDMFBvoD63cpWzPhYOWPW) | 3:38 |
 | 50 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 51 | [7 Terrific Triggers, Pt\. 1](https://open.spotify.com/track/4W30PQEyGVnNaqZEGWwUyK) | [TheOneLilium ASMR](https://open.spotify.com/artist/7qOvhKuza5UPfivHA3yyQa) | [7 Terrific Triggers](https://open.spotify.com/album/26e7G71fAzD7hywVvHW0Z3) | 3:36 |
 | 52 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 55 | [Making Your Eyes Heavy](https://open.spotify.com/track/01Zuq3xB12zBwqfbPT55r8) | [fastASMR](https://open.spotify.com/artist/56Il8oV0mbdnHbOimlgy6v) | [Sounds To Help You Sleep in 15 Minutes](https://open.spotify.com/album/7FBQgbJXAqYIQGvrHWsF3j) | 5:02 |
 | 56 | [Sleepy Mindset](https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w) | [Julia Park](https://open.spotify.com/artist/6txFTb7tigP6uQV2VDuPDS) | [ASMR Sleep Relaxation Meditation](https://open.spotify.com/album/2umeKrYETsK1lJA7YBRYLL) | 3:49 |
 
-Snapshot ID: `MTY1ODQyNTMzNywwMDAwMDAyOTAwMDAwMTgyMjFkYTY2Y2UwMDAwMDE4MWRkZjg5Njhk`
+Snapshot ID: `MTY1ODQyNTMzNywwMDAwMDAwMDQ0ZDkyMzViZjY1ODRiNGNmNWZjZTA1Nzc0ZjcyMzlj`

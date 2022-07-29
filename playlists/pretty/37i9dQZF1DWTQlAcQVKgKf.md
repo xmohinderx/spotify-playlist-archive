@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 
 > The sexy queen! Check out HyunA's music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,749 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,781 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 2 | [Deep Dive](https://open.spotify.com/track/5YNHcGVvP7lZ6D4qzyePff) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 1:53 |
 | 3 | [XOXO](https://open.spotify.com/track/57hrHYEy9vLkpzgLtPIXfC) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 3:16 |
 | 4 | [I Know](https://open.spotify.com/track/5l6IltuCt6Ex7XP3dG47o1) | [HyunA&DAWN](https://open.spotify.com/artist/6JTCN21ovvrR3iPViZTXz4) | [1+1=1](https://open.spotify.com/album/3LmraKOB9oNrXrifwrYePf) | 3:27 |
-| 5 | [I'm Not Cool](https://open.spotify.com/track/7xTOqnsOV6qHBPWoCWpzGM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 2:54 |
+| 5 | [I'm Not Cool](https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 2:54 |
 | 6 | [GOOD GIRL](https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:05 |
 | 7 | [Show Window](https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:10 |
 | 8 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:29 |
 | 9 | [FLOWER SHOWER](https://open.spotify.com/track/7zswEelYoepv2FYsDaGhUD) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:08 |
-| 10 | [GOOD GIRL](https://open.spotify.com/track/5iMcihnPLMICfFhg3H694w) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:05 |
-| 11 | [Show Window](https://open.spotify.com/track/7KRsFDEkmdEZLpGR9BIs0Z) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:10 |
-| 12 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/2qR6lpnGS9AldPdElbzJ53) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I’m Not Cool](https://open.spotify.com/album/3aqj5OK6GGIZ1Bejw7g0JW) | 3:29 |
-| 13 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 |
+| 10 | [GOOD GIRL](https://open.spotify.com/track/52bSWMZoUoWlQMlV7q5Dqn) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:05 |
+| 11 | [Show Window](https://open.spotify.com/track/2btctSpZ72GyaNgF5bhlBM) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:10 |
+| 12 | [Party, Feel, Love \(Feat\. DAWN\)](https://open.spotify.com/track/24UUm3hRRZvyPyasjgtHQ0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [I'm Not Cool](https://open.spotify.com/album/6DRfmdNDiTsTVACn9gavR0) | 3:29 |
+| 13 | [FLOWER SHOWER](https://open.spotify.com/track/7sjnURvuXBKEdM3fw698iq) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/6WEd55Evvtz5ZTMogdK8Uu) | 3:08 |
 | 14 | [Lip & Hip](https://open.spotify.com/track/5C2d3tz8WACjmw7T6TthQ2) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Lip & Hip](https://open.spotify.com/album/01Dv8rPO2AvHogy6uDkb1t) | 3:29 |
 | 15 | [Cause I'm God Girl](https://open.spotify.com/track/0AgMJriVSGWjN8WLaCqnDv) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Il Hoon Jung](https://open.spotify.com/artist/38msH2cFK8ui3GvbWqumqk) | [A+](https://open.spotify.com/album/2lCP8HWiKphRT1pmtn0zYw) | 3:22 |
 | 16 | [Red](https://open.spotify.com/track/1kPJiJ3N8cuw5Kzev8Ilu0) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [A Talk](https://open.spotify.com/album/78Ei6os3WDar0sgVlGz0yJ) | 3:19 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 45 | [Just Follow](https://open.spotify.com/track/5oiAchP69eu8pbWbeIDwrG) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:24 |
 | 46 | [A Bitter Day \(Feat\. Jun Hyung Yong & G.NA\)](https://open.spotify.com/track/5uBQ2wFMlFrM3AGp7fJ4dw) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb), [Jun Hyung Yong & G.NA](https://open.spotify.com/artist/2oKtZK7dMGUxwOaXZmi6AI) | [A Bitter Day](https://open.spotify.com/album/1uU6hbNWGtlMj2Iscurkdf) | 3:47 |
 | 47 | [Player \(feat.HYUNA\)](https://open.spotify.com/track/2lj0NyS3hDxtHZuCdo2eEF) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9), [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Chemistry](https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl) | 3:45 |
-| 48 | [Crazy](https://open.spotify.com/track/7ehFSpcDs3PBExiLPwXQP9) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/7rxIGZnWtFAmEP0LAGMF3E) | 3:12 |
+| 48 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 |
 | 49 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
 | 50 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 |
 | 51 | [Whatcha Doin' Today](https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [4minute WORLD](https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG) | 3:26 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQlAcQVKgKf.md) - [plain]
 | 56 | [Creating Love](https://open.spotify.com/track/1ewy5akEgeJObkXlDLFhzf) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Personal Taste \(Original Television Soundtrack\)](https://open.spotify.com/album/6yG5uMF6dK0xar9DgCkf62) | 3:41 |
 | 57 | [Is It Poppin'?](https://open.spotify.com/track/6Yp2NcLYo4JbwQs4EQ2pO7) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Is It Poppin'?](https://open.spotify.com/album/1nu4yFtuXNSumMMUdOTq3y) | 3:10 |
 
-Snapshot ID: `MTYzMTE3ODk2MywwMDAwMDAwNDAwMDAwMTdiYzlkN2I4NzUwMDAwMDE3NzQ3ZGZhNmFh`
+Snapshot ID: `MTYzMTE3ODk2MywwMDAwMDAwMDZmYzA1YmNhZDMwM2EyZGNiNjY5OWVhZTY3NjIzMDk2`

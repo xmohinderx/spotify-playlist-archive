@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2JRW3jis8XpwJlqecAV4Id">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 48 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 48 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 34 | [Novo Dia \- Ao Vivo](https://open.spotify.com/track/0KCIqEY6WqxzWL9xL7tifJ) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Sobre Coisas Espirituais \(Ao Vivo\)](https://open.spotify.com/album/3B2gYZnNtRRXa4Lr9pAgMX) | 5:04 |
 | 35 | [Jesus \- English Version](https://open.spotify.com/track/0bBHh0MuQgH5dCIy4FP2OC) | [Bianca Azevedo](https://open.spotify.com/artist/69rTWdhFy8ISfufMZI9qd1) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5GKD4VAYNOg8eQfelgHR4a) | 8:04 |
 | 36 | [Nos Rendemos a Ti \(Toma o Teu Lugar](https://open.spotify.com/track/1DBOgoKvVpIX9g8txCdlgv) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 7:30 |
-| 37 | [O Teu Amor Dura Pra Sempre](https://open.spotify.com/track/2nEvHXtOmvXtqJFgCeYb2o) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:51 |
-| 38 | [Que Se Abram Os Portais](https://open.spotify.com/track/5gZnueD5I3JuMbEhKpUJkM) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:54 |
+| 37 | [Que Se Abram Os Portais](https://open.spotify.com/track/5gZnueD5I3JuMbEhKpUJkM) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:54 |
+| 38 | [O Teu Amor Dura Pra Sempre](https://open.spotify.com/track/2nEvHXtOmvXtqJFgCeYb2o) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 4:51 |
 | 39 | [Espírito Santo](https://open.spotify.com/track/1TyavxmEZzw4DnrV1yc4w4) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 8:27 |
 | 40 | [Jesus](https://open.spotify.com/track/6W6xSqxRYodyoQnC2qAO7v) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/3bM19aM6LDYAOgltBjLdHK) | 5:00 |
 | 41 | [Meu Amor](https://open.spotify.com/track/2ysfPsrP67ijXTbVlLxM6C) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Eloim em Foz do Iguaçu](https://open.spotify.com/album/2hQUz5MjrqXcr5omp5vKnJ) | 3:36 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 47 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 48 | [Deus Faz Além \- Playback](https://open.spotify.com/track/54KdjaTtv2MF091f6o4twN) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Faz Além \(Playback\)](https://open.spotify.com/album/6Ai8QVw92ZWcxPwmXTl4OK) | 4:58 |
 
-Snapshot ID: `Mjc2NDk1MDAsMDAwMDAwMDAwY2ZhZjI1NTFmNDVlNzY3NmQwOGNkMDBkZGQyZjhkYQ==`
+Snapshot ID: `Mjc2NTA5NDAsMDAwMDAwMDA3NWNlZjQ0ODYzZjVlMzM1YjQyMzg1MDE2OGRjNmE2YQ==`

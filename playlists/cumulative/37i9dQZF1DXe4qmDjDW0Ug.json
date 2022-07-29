@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Addio",
+        "url": "https://open.spotify.com/album/1edy6Z8uDoMpdyElVk7bLx"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245066,
+      "name": "Addio",
+      "url": "https://open.spotify.com/track/1My0WdX6NNKCjN1BuP44o8"
+    },
+    {
+      "album": {
         "name": "Everything You Wanted",
         "url": "https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE"
       },
@@ -63,10 +81,36 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216786,
       "name": "All I Wanna Do (feat. Hoody & \ub85c\uaf2c Loco) [Korean Version]",
       "url": "https://open.spotify.com/track/2c37Gkpu75l3kvh1FUZrHV"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
+      "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
     },
     {
       "album": {
@@ -99,7 +143,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb"
@@ -161,7 +205,7 @@
     {
       "album": {
         "name": "Eat",
-        "url": "https://open.spotify.com/album/4hGfV5Acxf3DoNBD2C7PhX"
+        "url": "https://open.spotify.com/album/4xI4eqUbq72Dk1slHQePQW"
       },
       "artists": [
         {
@@ -174,7 +218,43 @@
       "date_removed": null,
       "duration_ms": 161617,
       "name": "Eat",
+      "url": "https://open.spotify.com/track/09Nhl3YQnChjlq8WmJz7FS"
+    },
+    {
+      "album": {
+        "name": "Eat",
+        "url": "https://open.spotify.com/album/4hGfV5Acxf3DoNBD2C7PhX"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161617,
+      "name": "Eat",
       "url": "https://open.spotify.com/track/0q3xk0VI0w7omVXYA09sVw"
+    },
+    {
+      "album": {
+        "name": "Emptiness in Memory",
+        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278454,
+      "name": "Emptiness in Memory",
+      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "album": {
@@ -189,7 +269,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281520,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR"
@@ -243,7 +323,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198893,
       "name": "Good-bye Luv",
       "url": "https://open.spotify.com/track/0VYJeoMOiBilD6q7enMrY6"
@@ -261,7 +341,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283640,
       "name": "HOME",
       "url": "https://open.spotify.com/track/19wmQD19yr6piH6Uto8OSm"
@@ -283,10 +363,32 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/49xEpMDDtfMdaMF4G6bilS"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
     },
     {
       "album": {
@@ -330,6 +432,24 @@
     },
     {
       "album": {
+        "name": "I Want To Fall In Love",
+        "url": "https://open.spotify.com/album/0bfMhqJWUeRJ0FJeQL78AV"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232544,
+      "name": "I Want To Fall In Love",
+      "url": "https://open.spotify.com/track/4IJC6m6PvRZeNoQG50rV1G"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
@@ -359,7 +479,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 288693,
       "name": "If You Comeback",
       "url": "https://open.spotify.com/track/3XO4hgrYpLYA5z8n9UCuiH"
@@ -413,10 +533,54 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 234633,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230087,
+      "name": "JOAH - Remastered",
+      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/0fT1WF1nu9VnqaZxkowFpl"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192630,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2QG6SmPx2pBkZiKjT70piL"
     },
     {
       "album": {
@@ -489,7 +653,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "Like Yesterday",
       "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
@@ -518,8 +682,44 @@
     },
     {
       "album": {
+        "name": "BROWN EYED SOUL Single Project 1st. Living in the same time by Naul",
+        "url": "https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250480,
+      "name": "Living in the same time",
+      "url": "https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2"
+    },
+    {
+      "album": {
         "name": "Browneyed Soul",
         "url": "https://open.spotify.com/album/5JppOEmDyD4x03qHnGmvH9"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301026,
+      "name": "Love Ballad",
+      "url": "https://open.spotify.com/track/0OZxEbt5CR2QwPerD1ihPu"
+    },
+    {
+      "album": {
+        "name": "Browneyed Soul",
+        "url": "https://open.spotify.com/album/7AujHzdkOYaeBVlhA7Z23j"
       },
       "artists": [
         {
@@ -532,7 +732,7 @@
       "date_removed": null,
       "duration_ms": 301026,
       "name": "Love Ballad",
-      "url": "https://open.spotify.com/track/0OZxEbt5CR2QwPerD1ihPu"
+      "url": "https://open.spotify.com/track/1HUPqjUMF7m1qShIn1bDw9"
     },
     {
       "album": {
@@ -565,10 +765,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234640,
       "name": "Memory Loss",
       "url": "https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT"
+    },
+    {
+      "album": {
+        "name": "Principle Of My Soul",
+        "url": "https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4"
+      },
+      "artists": [
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308186,
+      "name": "Memory Of The Wind",
+      "url": "https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ"
     },
     {
       "album": {
@@ -583,7 +801,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 308186,
       "name": "Memory Of The Wind",
       "url": "https://open.spotify.com/track/7k5iu5vr7IEW3BdSgwY9mw"
@@ -601,7 +819,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293680,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth"
@@ -619,7 +837,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278173,
       "name": "My Story",
       "url": "https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ"
@@ -637,10 +855,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270080,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/1vwoPNoaJ9a1kxntgSWXJ5"
+    },
+    {
+      "album": {
+        "name": "It' Soul Right",
+        "url": "https://open.spotify.com/album/2ol4JeQEAQQFbL8fdP2qUs"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/2BP5YgjHi1C1njPPRK8wvq"
     },
     {
       "album": {
@@ -673,10 +909,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189154,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/3PWyoYwI4iHLnLWltMt4gd"
+    },
+    {
+      "album": {
+        "name": "No Make Up",
+        "url": "https://open.spotify.com/album/0r0xWI5K9ieP0jpZUrXrDd"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189154,
+      "name": "No Make Up",
+      "url": "https://open.spotify.com/track/4ppKRxity3jJd2hGoVyD4u"
     },
     {
       "album": {
@@ -739,7 +993,7 @@
     {
       "album": {
         "name": "Oasis",
-        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
@@ -754,6 +1008,28 @@
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/1TGQ6CdCdURHbPjvichfY1"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 191278,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/4sa8O4AwMja6r1Enu35Fmz"
@@ -811,7 +1087,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248767,
       "name": "Right",
       "url": "https://open.spotify.com/track/4GxDnqSIAzLiCDhqwoEwA4"
@@ -829,10 +1105,46 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229573,
       "name": "SOFA",
       "url": "https://open.spotify.com/track/1QFMj5GGXMY7K30dlpAs7j"
+    },
+    {
+      "album": {
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263644,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
     },
     {
       "album": {
@@ -847,7 +1159,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263644,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/58ZIufs7Zhs8kaNZDd1k4m"
@@ -919,7 +1231,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 244166,
       "name": "Touch love",
       "url": "https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4"
@@ -937,10 +1249,32 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234533,
       "name": "Want to fall in love",
       "url": "https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm"
+    },
+    {
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
     },
     {
       "album": {
@@ -959,7 +1293,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218886,
       "name": "Whatever You Do",
       "url": "https://open.spotify.com/track/2Z2hLQ6RxA4sVZ9rCJGsmv"
@@ -995,7 +1329,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 215840,
       "name": "With Coffee\u2026",
       "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
@@ -1013,7 +1347,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211293,
       "name": "With Me",
       "url": "https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM"
@@ -1031,10 +1365,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229349,
       "name": "Yanghwa BRDG",
       "url": "https://open.spotify.com/track/6BcOOZoCGPaUuEPGNqGQx2"
+    },
+    {
+      "album": {
+        "name": "Yanghwa BRDG",
+        "url": "https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229349,
+      "name": "Yanghwa BRDG",
+      "url": "https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU"
     },
     {
       "album": {
@@ -1085,7 +1437,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 202946,
       "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
       "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
@@ -1121,7 +1473,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 337946,
       "name": "\uadf8\ub300 \ub5a0\ub09c \ub4a4 (with \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
       "url": "https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J"
@@ -1157,10 +1509,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264306,
       "name": "\uadf8\ub7f0\uc77c\uc740",
       "url": "https://open.spotify.com/track/1UtXJrrbTuVLwWfGEWdCXT"
+    },
+    {
+      "album": {
+        "name": "Across The Romantic Bridge",
+        "url": "https://open.spotify.com/album/7MWteKJKnqnYyht3hRa267"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "\uadf8\ub7f0\uc77c\uc740",
+      "url": "https://open.spotify.com/track/4VH257CEikqfvmN6TbBFYZ"
     },
     {
       "album": {
@@ -1175,7 +1545,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296411,
       "name": "\ub110 \uc704\ud574 \uc900\ube44\ub41c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/2SzR1pm84LRFx9KgJFcMPR"
@@ -1211,7 +1581,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291212,
       "name": "\ub2f9\uc2e0\uacfc\uc758 \ud0a4\uc2a4\ub97c \uc138\uc5b4\ubcf4\uc544\uc694",
       "url": "https://open.spotify.com/track/7i8slbP0vP8QTL6tWJpm4U"
@@ -1247,7 +1617,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 227021,
       "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
       "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
@@ -1265,7 +1635,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 207826,
       "name": "\ubc8c\uc368 \uc77c\ub144",
       "url": "https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv"
@@ -1337,7 +1707,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270733,
       "name": "\uc548\ub418\ub098\uc694",
       "url": "https://open.spotify.com/track/5njOfvhH1y5CxvdXgUXgTC"
@@ -1355,10 +1725,46 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219271,
       "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/12vpE3RdDwSy6D8W1Vp5cm"
+    },
+    {
+      "album": {
+        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220760,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+    },
+    {
+      "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
+      },
+      "artists": [
+        {
+          "name": "Park Hwayobi",
+          "url": "https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271986,
+      "name": "\uc5b4\ub5a4\uac00\uc694",
+      "url": "https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm"
     },
     {
       "album": {
@@ -1391,7 +1797,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 239240,
       "name": "\uc5b8\uc820\uac00\ub294",
       "url": "https://open.spotify.com/track/3EpqTpSWhkQDv5gTZddp1W"
@@ -1463,7 +1869,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
@@ -1481,10 +1887,28 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230085,
       "name": "\uc88b\uc544 Joah (Remastered)",
       "url": "https://open.spotify.com/track/7qpwhzVCbFqOCO8yUa8exs"
+    },
+    {
+      "album": {
+        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "date_added": "2021-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261276,
+      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
     },
     {
       "album": {
@@ -1499,7 +1923,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261276,
       "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
       "url": "https://open.spotify.com/track/77IXf3D6H1tY1ntjDaRxLp"

@@ -539,6 +539,24 @@
     {
       "album": {
         "name": "Dexter Blows Hot & Cool",
+        "url": "https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222763,
+      "name": "Cry Me A River",
+      "url": "https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv"
+    },
+    {
+      "album": {
+        "name": "Dexter Blows Hot & Cool",
         "url": "https://open.spotify.com/album/0b6BPplfrrYhxCVmOjEAH0"
       },
       "artists": [
@@ -549,7 +567,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222763,
       "name": "Cry Me a River",
       "url": "https://open.spotify.com/track/4DVt0yWt30d7C4P62zpJir"
@@ -1619,10 +1637,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258266,
       "name": "Naima",
       "url": "https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT"
+    },
+    {
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265049,
+      "name": "Naima - Mono",
+      "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
     },
     {
       "album": {
@@ -1969,6 +2005,24 @@
     {
       "album": {
         "name": "Lower East",
+        "url": "https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244836,
+      "name": "Seven Falls",
+      "url": "https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr"
+    },
+    {
+      "album": {
+        "name": "Lower East",
         "url": "https://open.spotify.com/album/163mq32tE467ICK50c4Wsr"
       },
       "artists": [
@@ -1979,7 +2033,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244836,
       "name": "Seven Falls",
       "url": "https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c"

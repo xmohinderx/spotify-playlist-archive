@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,257 likes - 75 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,674 likes - 75 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
 | 2 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
-| 3 | [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 |
+| 3 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 4 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
 | 5 | [\#ImSippinTeaInYoHood](https://open.spotify.com/track/2z6W6oeZvBaO56Mg587v0w) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:53 |
 | 6 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 27 | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN) | 2:53 |
 | 28 | [evil empire](https://open.spotify.com/track/6weOGG6GFGbrn8WMTDPvEb) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [evil empire](https://open.spotify.com/album/3i65EWq4NvINtKrOikdSI5) | 1:54 |
 | 29 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 |
-| 30 | [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 |
+| 30 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
 | 31 | [Archon](https://open.spotify.com/track/2p0hXoywTRphFaBOApH5Ew) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Archon](https://open.spotify.com/album/4uTq2N5uRqd87uHxs3X12I) | 2:02 |
 | 32 | [10 FOOT TALL](https://open.spotify.com/track/3hyxHwYJOqSHGRDxwO7OUm) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U), [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [10 FOOT TALL](https://open.spotify.com/album/4yr5Yn1U79i2HikJSA0lrU) | 2:46 |
 | 33 | [BERMUDA 1399](https://open.spotify.com/track/4KgXSXgEVoFd5u6CbXjKPW) | [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9), [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O) | [BERMUDA 1399](https://open.spotify.com/album/5tdMXvSCmrb73MZ6CzHRWV) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 74 | [ALL BLACK ATTIRE](https://open.spotify.com/track/3ljyB9X8TMFKRkLEJ6JgtD) | [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [ALL BLACK ATTIRE](https://open.spotify.com/album/4Y705O8UoVmJuhZHOZrX9R) | 3:34 |
 | 75 | [BURNER](https://open.spotify.com/track/1gANf7FccsLPFIwgueeo7u) | [Ak3k](https://open.spotify.com/artist/0gPRM04U6TYVD5jX13XIpE), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BURNER](https://open.spotify.com/album/4DGrJDl2ReUKTqYJsCDk0V) | 2:25 |
 
-Snapshot ID: `MTY1ODgwNDA0NCwwMDAwMDBiOTAwMDAwMTgyMzg2ZDAyNTEwMDAwMDE4MTAxMDdiZDBk`
+Snapshot ID: `MTY1ODgwNDA0NCwwMDAwMDAwMDg0MTY0YjAyNTdmZjRmZjUwNGQ0NWJlMWMwZDZkNTQ5`

@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=tZIm\-URPTKyf26\-EclPQDQ">Maya Amolo</a> and <a href="https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk?si=JTXiok0RR6OyG9hUKjqwAA">Kalibwani</a>
 
-83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+84 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Crazy](https://open.spotify.com/track/3cqi4rYzbrppWEts9VWS32) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [Crazy](https://open.spotify.com/album/5ssbf7DOGCatUKfGOsCkqB) | 3:19 | 2021-12-28 | 2022-04-29 |
 | [Crossing Lines](https://open.spotify.com/track/0xnSY4GmMl3qvXYuzJcGnf) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:12 | 2021-12-28 | 2022-05-27 |
 | [Crush](https://open.spotify.com/track/2n7w8jrTy842ypge1uoGxA) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Crush](https://open.spotify.com/album/70ADS6R5K5AyVQWmOgaiAZ) | 4:03 | 2021-12-28 |  |
-| [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 |  |
+| [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 | 2022-07-29 |
+| [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 |  |
 | [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 |  |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 |  |
 | [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 |  |

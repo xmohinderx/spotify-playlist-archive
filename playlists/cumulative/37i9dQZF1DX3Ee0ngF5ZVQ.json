@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 200720,
       "name": "30 Miles",
       "url": "https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 227226,
       "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
       "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193320,
       "name": "All You Got",
       "url": "https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292000,
       "name": "Alone In Your Mind",
       "url": "https://open.spotify.com/track/3q3hYhGxZNfPav2qgPewP7"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267041,
       "name": "Another You",
       "url": "https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 202630,
       "name": "Better For You",
       "url": "https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266581,
       "name": "Bigger Than Texas (Acoustic)",
       "url": "https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva"
@@ -1007,10 +1007,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v"
+    },
+    {
+      "album": {
+        "name": "717 Tapes, Vol. 2",
+        "url": "https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s"
     },
     {
       "album": {
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 235920,
       "name": "But Me",
       "url": "https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203376,
       "name": "Calling Your Bluff",
       "url": "https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 203505,
       "name": "Can't Put the Bottle Down",
       "url": "https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5"
@@ -1144,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233077,
+      "name": "Cheap Seats",
+      "url": "https://open.spotify.com/track/20pXH2n3JK80FTqcSjq6iS"
+    },
+    {
+      "album": {
         "name": "From The Album 'Unwanted Man'",
         "url": "https://open.spotify.com/album/7uyT7ndhraNB58aoPyFhU0"
       },
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233077,
       "name": "Cheap Seats",
       "url": "https://open.spotify.com/track/2iMyXbr0uNggwmJMobab0s"
@@ -1173,7 +1209,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189600,
       "name": "Cheater",
       "url": "https://open.spotify.com/track/6EPaIJavBPjo5aXlnEFfBU"
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 187370,
       "name": "Chisholm Trail",
       "url": "https://open.spotify.com/track/4652M2wjieteWqTaP3AXfK"
@@ -1335,10 +1371,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211693,
       "name": "Cowboys & Tequila",
       "url": "https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI"
+    },
+    {
+      "album": {
+        "name": "Cowboys Don't Cry",
+        "url": "https://open.spotify.com/album/0o3FJ4yBDliI6vZjsMVWGE"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189657,
+      "name": "Cowboys Don't Cry",
+      "url": "https://open.spotify.com/track/5hy7nPUIveNGkYEesMv0Is"
     },
     {
       "album": {
@@ -1407,7 +1461,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 193406,
       "name": "Cuz I'm Country",
       "url": "https://open.spotify.com/track/3djfobOj71XBOhb8eQaCzS"
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 214607,
       "name": "Deconstruction of a Heartache",
       "url": "https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0"
@@ -1666,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
       },
@@ -1695,7 +1767,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201333,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP"
@@ -2007,7 +2079,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162160,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/5bKQyXy47sy7xzcVZsMX8f"
@@ -2025,7 +2097,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212453,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY"
@@ -2101,7 +2173,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194346,
       "name": "Girls Just Wanna Have Fun - Duet",
       "url": "https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i"
@@ -2137,7 +2209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249940,
       "name": "Glory of True Love",
       "url": "https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA"
@@ -2173,7 +2245,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 174293,
       "name": "God & Everybody",
       "url": "https://open.spotify.com/track/6n0HI4p826Zh2qUjlpNPnQ"
@@ -2209,7 +2281,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 184044,
       "name": "Gonna Come Back as a Country Song",
       "url": "https://open.spotify.com/track/5KTRvA487P1YQ0gyZ11TRb"
@@ -2227,7 +2299,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165128,
       "name": "Goodbye Gasoline",
       "url": "https://open.spotify.com/track/30mjMeBQmodiVVWfrpFhPM"
@@ -2263,7 +2335,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 224600,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI"
@@ -2317,7 +2389,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 190144,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/52PsNZPUNkR78ZKwS7rhQ5"
@@ -2711,7 +2783,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205146,
       "name": "I Don't Cry in My Cowboy Hat",
       "url": "https://open.spotify.com/track/59pvwcHltR2DS3Kx9HgwAb"
@@ -2823,7 +2895,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 195882,
       "name": "I'm Not Him",
       "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
@@ -2845,7 +2917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224863,
       "name": "If I Know You",
       "url": "https://open.spotify.com/track/66Owg4vn0ZoqbMwrwqj4Eo"
@@ -2899,7 +2971,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214142,
       "name": "If You Want It That Much",
       "url": "https://open.spotify.com/track/6h6uTeYywawEahrjFs2gYz"
@@ -2971,7 +3043,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 207653,
       "name": "It's Gonna Take Neon",
       "url": "https://open.spotify.com/track/6PjQ5PfjRv72JkclFeN4t4"
@@ -3155,7 +3227,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194770,
       "name": "Like the Wind",
       "url": "https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9"
@@ -3339,7 +3411,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 203580,
       "name": "Love Goes",
       "url": "https://open.spotify.com/track/6AlLssdGnCKgXtJTCmdZB5"
@@ -3523,7 +3595,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241026,
       "name": "Miles and Miles of You",
       "url": "https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz"
@@ -3541,7 +3613,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206550,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/0JPRXF8h2ysd2qXJQQa4GK"
@@ -3985,6 +4057,24 @@
     {
       "album": {
         "name": "The Highway Kind",
+        "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182090,
+      "name": "Real Damn Good",
+      "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
+    },
+    {
+      "album": {
+        "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/4GQN4YJc8mwPgxUMqX80Be"
       },
       "artists": [
@@ -3995,7 +4085,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182090,
       "name": "Real Damn Good",
       "url": "https://open.spotify.com/track/54751YXSuXprxXQIy9MpTP"
@@ -4071,7 +4161,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 208095,
       "name": "Rest of Texas",
       "url": "https://open.spotify.com/track/6kyteAG65BjF6KH1eCht7r"
@@ -4111,7 +4201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224468,
       "name": "Rhinestoned",
       "url": "https://open.spotify.com/track/7m5sOfZ6VmMbKyrccgPEDN"
@@ -4129,10 +4219,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186458,
       "name": "Ride the Lightning (717 Tapes)",
       "url": "https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU"
+    },
+    {
+      "album": {
+        "name": "Ride the Lightning (717 Tapes)",
+        "url": "https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186458,
+      "name": "Ride the Lightning - 717 Tapes",
+      "url": "https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe"
     },
     {
       "album": {
@@ -4291,7 +4399,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
@@ -4489,7 +4597,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227360,
       "name": "Steady",
       "url": "https://open.spotify.com/track/3o0MDTv8SNnkbX09k7Ae8R"
@@ -4569,7 +4677,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 173725,
       "name": "Straight To You",
       "url": "https://open.spotify.com/track/5YTjfXMcfCwSIdGltJ2wk5"
@@ -4612,6 +4720,24 @@
     },
     {
       "album": {
+        "name": "The Last Resort: Greetings From",
+        "url": "https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ"
+    },
+    {
+      "album": {
         "name": "Sunrise Tells The Story",
         "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
       },
@@ -4623,7 +4749,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208066,
       "name": "Sunrise Tells The Story",
       "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
@@ -4811,7 +4937,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192458,
       "name": "The Light Saw Me",
       "url": "https://open.spotify.com/track/3PPM7i0ZexIaFoZPvFmYur"
@@ -4847,7 +4973,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 220066,
       "name": "The One You Know",
       "url": "https://open.spotify.com/track/1x3pjQoyhtctVe7NsTVeAU"
@@ -5099,7 +5225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301974,
       "name": "Two Hearts in Terlingua",
       "url": "https://open.spotify.com/track/1xzTlHwxVsnI34HgnINYpt"
@@ -5153,7 +5279,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 242716,
       "name": "Up to Me",
       "url": "https://open.spotify.com/track/45eogTRy1OqfhJ2KQaOL2W"
@@ -5283,7 +5409,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224841,
       "name": "Washington Street - Classen Sessions",
       "url": "https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN"
@@ -5373,7 +5499,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 310173,
       "name": "what else can she do",
       "url": "https://open.spotify.com/track/77fOA740BCuAkclGxQUuEP"
@@ -5633,10 +5759,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189949,
       "name": "Whole Lotta Heaven",
       "url": "https://open.spotify.com/track/0qXhqE3uvLWL3cs2HpQaug"
+    },
+    {
+      "album": {
+        "name": "Wild as Her",
+        "url": "https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Wild as Her",
+      "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
     },
     {
       "album": {
@@ -5651,7 +5795,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201639,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/7FEu6U2jXAs2URjx93AyTm"
@@ -5669,7 +5813,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
@@ -5763,7 +5907,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266783,
       "name": "With You",
       "url": "https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG"

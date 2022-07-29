@@ -4,7 +4,7 @@
 
 > New releases, driving the current\. Cover: Montell Fish
 
-724 songs - 1 day 12 hr 8 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
+725 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/1UY4Avsp9iaSPNiwp3z1bT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,7 +640,8 @@
 | [Terror](https://open.spotify.com/track/2ApXw32ByI4lUPvz3BRgbm) | [Tianna Esperanza](https://open.spotify.com/artist/22iCId5VM0WBe0B2CUA1ql) | [Terror](https://open.spotify.com/album/5NkDIt8CMdNlTVcozwSJtG) | 4:01 | 2022-04-29 | 2022-05-28 |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-06-17 | 2022-07-02 |
 | [The Best Part of Life](https://open.spotify.com/track/0kUz4NuENHYVUChlthlNaB) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [The Best Part of Life](https://open.spotify.com/album/3TrtHC3Pq5wtbbiGspOxWq) | 3:16 | 2021-12-17 | 2022-02-26 |
-| [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-09 |  |
+| [The End](https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The End](https://open.spotify.com/album/4PdLV5fRIdkpzIkh4NKAp8) | 2:15 | 2022-07-09 | 2022-07-29 |
+| [The End](https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:15 | 2022-07-09 |  |
 | [The Falls](https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Falls](https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB) | 2:52 | 2022-04-08 | 2022-05-07 |
 | [The Floor Is Ours](https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv) | [The Floor Is Ours](https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1) | 3:29 | 2022-04-15 | 2022-04-29 |
 | [The Floor Is Ours \- SDOT MUSIC Remix](https://open.spotify.com/track/5of2Du7U7aYWVFRI3geCgl) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Rodney Hollywood](https://open.spotify.com/artist/2RyjqNp5fTdWENGR0vRTVv), [SDOT MUSIC](https://open.spotify.com/artist/5ruvWpLs2aMVuibVXpsJwL) | [The Floor Is Ours \(SDOT MUSIC Remix\)](https://open.spotify.com/album/2jkrgHmtQjoVCRWZFka7PW) | 2:53 | 2022-04-29 | 2022-05-28 |

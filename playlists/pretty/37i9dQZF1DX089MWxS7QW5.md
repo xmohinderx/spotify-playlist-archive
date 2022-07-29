@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Babylon\(베이빌론\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,046 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,070 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Honestly](https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [Honestly](https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx) | 3:17 |
 | 2 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 |
-| 3 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/10NqQvj01uof2GLwLi3oA2) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 |
+| 3 | [comedy](https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [love](https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS) | 3:33 |
 | 4 | [White Lie \(feat\. GI$T\)](https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [White Lie](https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg) | 3:24 |
 | 5 | [Wicked](https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Remarriage and Desires \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/2YM9Oahck5kVuWGiFQK1dg) | 3:14 |
 | 6 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 26 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 |
 | 27 | [How Do I Delete It?](https://open.spotify.com/track/4yx04UXLKqO4m3k1cgWtFk) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [Seoul Check\-in OST Part 9](https://open.spotify.com/album/5NLLw4yV1Du4PiekameabR) | 3:40 |
 | 28 | [MY LOVE \(feat\. RAVI\)](https://open.spotify.com/track/7cbKVbe8nbPj0qtpkguN3N) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [LOVE&LOVE](https://open.spotify.com/album/1PYXDudDPVlluVB6sv0aY8) | 3:25 |
-| 29 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/10NqQvj01uof2GLwLi3oA2), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
+| 29 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 |
 | 30 | [Dotdanbae](https://open.spotify.com/track/03ARk5P8goF6JoP5Rwc8Is) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:13 |
 | 31 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
 | 32 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Riddle \(feat\. Khundi Panda\)](https://open.spotify.com/track/0CfaShWRNwAS86m7gzbehv) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 2:47 |
 | 50 | [day off](https://open.spotify.com/track/1jt0VFVbFB6PTZ33GPK9Tj) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [mis](https://open.spotify.com/album/0465P7QwKvua7zSGNoH3NO) | 2:46 |
 
-Snapshot ID: `MTY1ODkxMjI3NiwwMDAwMDA4ZDAwMDAwMTgyM2VlMDgxMDkwMDAwMDE4MjE1OTNkMjMw`
+Snapshot ID: `MTY1ODkxMjI3NiwwMDAwMDAwMGQzY2QzMWUxODVkYzE2Y2MyNWQ5MWE2NjU2OTliNzE1`

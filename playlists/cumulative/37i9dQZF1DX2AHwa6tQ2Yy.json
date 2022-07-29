@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF"
@@ -109,10 +127,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/77nSU6xoiBDJZAMqBSxLav"
+    },
+    {
+      "album": {
+        "name": "Bittersweet (Radio Edit)",
+        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Bittersweet - Radio Edit",
+      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
     },
     {
       "album": {
@@ -171,6 +207,24 @@
     {
       "album": {
         "name": "Changes",
+        "url": "https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203700,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ"
+    },
+    {
+      "album": {
+        "name": "Changes",
         "url": "https://open.spotify.com/album/5SJsyve81sqsW5NeGOWtyK"
       },
       "artists": [
@@ -181,10 +235,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203700,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6VwmVpxjMhyNf8gosbY5fd"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1"
+      },
+      "artists": [
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0lukJlQHT1z4xbFmQuby8h"
     },
     {
       "album": {
@@ -199,7 +271,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184250,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4En5QnmJXPRQfHFivOMBKE"
@@ -412,6 +484,24 @@
     },
     {
       "album": {
+        "name": "If Words Were Flowers",
+        "url": "https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286253,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/15fow3n2T8cgsPH9FBItjL"
+    },
+    {
+      "album": {
         "name": "Explore",
         "url": "https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos"
       },
@@ -423,7 +513,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 286253,
       "name": "Explore",
       "url": "https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY"
@@ -448,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow's Gonna Come",
+        "url": "https://open.spotify.com/album/7v8VvueBjcukRvpMU0wxF0"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/6N0ViJHgMFaUt5TGXQizmn"
+    },
+    {
+      "album": {
         "name": "Falling In Love Again",
         "url": "https://open.spotify.com/album/7KY31Q0oFQu3joycepf2Wn"
       },
@@ -459,7 +567,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231893,
       "name": "Falling In Love Again",
       "url": "https://open.spotify.com/track/3GwTR3DPSUvAsZeNbbiUdr"
@@ -517,10 +625,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303408,
       "name": "Find You",
       "url": "https://open.spotify.com/track/0vReW9aojdOBzsLYVFW02g"
+    },
+    {
+      "album": {
+        "name": "CDW",
+        "url": "https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303408,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR"
     },
     {
       "album": {
@@ -704,6 +830,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/27DK5lf19A05UbL8a32zy1"
+      },
+      "artists": [
+        {
+          "name": "Ngaiire",
+          "url": "https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226155,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/2B3Ny5pQjZKWwecdo7HL0B"
+    },
+    {
+      "album": {
         "name": "Him",
         "url": "https://open.spotify.com/album/0TejA7LPDCrMzlyYpaK4wA"
       },
@@ -715,7 +859,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226155,
       "name": "Him",
       "url": "https://open.spotify.com/track/3s7QggkEE59CK0qBAhPOjO"
@@ -1076,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "aloha",
+        "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221476,
+      "name": "neve give up",
+      "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "album": {
         "name": "neve give up",
         "url": "https://open.spotify.com/album/6GSVl9qIdB0teXCz0OIDpN"
       },
@@ -1087,7 +1249,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2pCdCo0N1DykjLcfaT3YwO"
@@ -1313,6 +1475,24 @@
     {
       "album": {
         "name": "Pictures",
+        "url": "https://open.spotify.com/album/3m0uXhHzlhaRYnKfXIX9zS"
+      },
+      "artists": [
+        {
+          "name": "AACACIA",
+          "url": "https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201173,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2EJU98tJcIaOsMYYhS2Zt1"
+    },
+    {
+      "album": {
+        "name": "Pictures",
         "url": "https://open.spotify.com/album/2wGZQdBRhuJJUd6WmNMCQW"
       },
       "artists": [
@@ -1323,7 +1503,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201173,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/5GcvMgyFOsYePFR2jM8OOV"
@@ -1465,10 +1645,32 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254722,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/40wfUw3Vf1V1a46CibHmt7"
+    },
+    {
+      "album": {
+        "name": "Private Space",
+        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254722,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
       "album": {
@@ -1519,10 +1721,28 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238560,
       "name": "River",
       "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+    },
+    {
+      "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK"
     },
     {
       "album": {
@@ -1616,6 +1836,28 @@
     },
     {
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
+    },
+    {
+      "album": {
         "name": "So Done (feat. Khalid)",
         "url": "https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO"
       },
@@ -1631,7 +1873,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235785,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo"
@@ -1710,6 +1952,28 @@
     },
     {
       "album": {
+        "name": "Jaime (Reimagined)",
+        "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Stay High - Childish Gambino Version",
+      "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
+    },
+    {
+      "album": {
         "name": "Stay High (Childish Gambino Version)",
         "url": "https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD"
       },
@@ -1725,7 +1989,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218400,
       "name": "Stay High - Childish Gambino Version",
       "url": "https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq"

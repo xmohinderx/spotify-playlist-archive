@@ -4,7 +4,7 @@
 
 > Hear all of MINO's biggest and best hits in one playlist.
 
-44 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5aTBggNT0zxnDLXYFfyPCw)
+45 songs - 2 hr 31 min - [published](https://open.spotify.com/playlist/5aTBggNT0zxnDLXYFfyPCw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Victim + Poppin' Bottles](https://open.spotify.com/track/0PFtFcvzTQ82YgEtjzsHGa) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 5:33 | 2021-12-07 |  |
 | [Wa \(Feat\. Zion.T\)](https://open.spotify.com/track/1Gj0xsP9nxrng7w7d1PQ3U) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:55 | 2021-12-07 |  |
 | [ㅇ2](https://open.spotify.com/track/4YEylY77eLVPJeEYWmSxKM) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 2:45 | 2021-12-07 |  |
-| [걔 세 I'm Him](https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 2:52 | 2021-12-07 |  |
+| [걔 세 I'm Him](https://open.spotify.com/track/3e2blQpgdH9pIrrGFI6SZw) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/0FTxF6n6K9y5P0liEUvB5S) | 2:52 | 2021-12-07 | 2022-07-29 |
+| [걔 세 I'm Him](https://open.spotify.com/track/7LvZFvfo7Vr5i84GZ44JGr) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [2014 S/S](https://open.spotify.com/album/37LnA5YHzyvoScNBpOmk0A) | 2:52 | 2021-12-07 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

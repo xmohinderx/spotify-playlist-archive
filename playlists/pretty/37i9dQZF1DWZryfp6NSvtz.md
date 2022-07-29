@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,406 likes - 53 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,618 likes - 53 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Tip from You to Me](https://open.spotify.com/track/26YYcaZm37TALSISgpqdO2) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Entering Heaven Alive](https://open.spotify.com/album/4GxhBXlAhfNzI7ehTDmFJ5) | 2:42 |
 | 2 | [Middle Of A Breakup](https://open.spotify.com/track/1i6CPLccaipwpW7vqyU6q8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Middle Of A Breakup](https://open.spotify.com/album/47bNR5XCEgz2RlE2Rx28Si) | 3:20 |
 | 3 | [Miracle](https://open.spotify.com/track/2ah5gOCogw00A62XBoepmc) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Miracle](https://open.spotify.com/album/7sobDr1V7BbSF0mkJOOGj3) | 4:03 |
-| 4 | [Deep Cuts](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Deep Cuts](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
+| 4 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 5 | [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 |
 | 6 | [Bad Days](https://open.spotify.com/track/0kdMzZ1w3x4PE8gHfkhvgW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Bad Days](https://open.spotify.com/album/39eAX2WHDwMsa0q7Wrd0Iz) | 2:22 |
 | 7 | [Rollercoaster](https://open.spotify.com/track/2tPsDUvaL1X5paJLcJF5wK) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Rollercoaster](https://open.spotify.com/album/0cxaJzqMj3I8TIuwoGGnnZ) | 3:34 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 41 | [Already Dead](https://open.spotify.com/track/2SvNm1U3VWBS86RioI8iU5) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH), [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Already Dead](https://open.spotify.com/album/4i2BiYbdeGb7c8NA2XkmCa) | 2:39 |
 | 42 | [Tell Emma](https://open.spotify.com/track/0R8718hmnItaZ5byVCUJ2E) | [Homes at Night](https://open.spotify.com/artist/4KxAWQwGcTuJrLwamRGDaS) | [Tell Emma](https://open.spotify.com/album/69uD28v7pKbaUqInADJ7ka) | 3:51 |
 | 43 | [As Innocent Looking As Candy](https://open.spotify.com/track/1UZxXSDDaOABCoYhpi4BCJ) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [The Redaction](https://open.spotify.com/album/7s8s81xhb27Y13HQLx20be) | 1:59 |
-| 44 | [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 |
+| 44 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 45 | [Cowboy Bepop](https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Cowboy Bepop](https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh) | 2:53 |
 | 46 | [Conscious Uncoupling](https://open.spotify.com/track/7giFF7RUd8K6NTHXcA96NY) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 3:29 |
 | 47 | [Distraction](https://open.spotify.com/track/7eRNT48fKCtZkq8ASyJGVS) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | ["Hello, Hi"](https://open.spotify.com/album/6GQh3hPNHA7ZOixEdKQKD9) | 5:10 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 52 | [Without You](https://open.spotify.com/track/4guEtKZAZum1AwIa9EEbFW) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Wake Me Up](https://open.spotify.com/album/2shZaUa4Ft5V4cPeeeKvTx) | 2:51 |
 | 53 | [Still Sinking](https://open.spotify.com/track/0iqIXlbrgx28l5eWWK6gXM) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Still Sinking](https://open.spotify.com/album/72oYVXUkqSWHpfcHeM4CES) | 3:35 |
 
-Snapshot ID: `MTY1ODUwNTg2NiwwMDAwMDMyODAwMDAwMTgyMjZhNzJjODMwMDAwMDE4MjIxMzgzNmM3`
+Snapshot ID: `MTY1ODUwNTg2NiwwMDAwMDAwMDg4NDZkNGY1NTAxYzA4ZDcyMTllNTE4NWQzYzZmN2Ix`

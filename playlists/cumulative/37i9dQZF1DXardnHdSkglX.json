@@ -1821,6 +1821,24 @@
     {
       "album": {
         "name": "Peaches",
+        "url": "https://open.spotify.com/album/30VNdlDFcoovQurgRLtXLr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel",
+          "url": "https://open.spotify.com/artist/2C0Cu6wbLYQyXl8MDwH2JE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/0nlXkB2jHLgy8q4h8T4Hiv"
+    },
+    {
+      "album": {
+        "name": "Peaches",
         "url": "https://open.spotify.com/album/0oEJZParSytcfpfKoQFdhs"
       },
       "artists": [
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/6IitwPWNn52CN3mgYBawXM"
@@ -2088,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Acoustic Coffee House",
+        "url": "https://open.spotify.com/album/4jrVgcZN7Q3voamIhYi3gb"
+      },
+      "artists": [
+        {
+          "name": "Starburkes & The Tea Leaf",
+          "url": "https://open.spotify.com/artist/2KPb8cUs99PY1FVmlgev0x"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/4zbdRytE8NuhnVQLkSJhOE"
+    },
+    {
+      "album": {
         "name": "Ananda, Vol.3 (Chill Out Season 2006)",
         "url": "https://open.spotify.com/album/3pkbCID6RshGvUcdK5YR9N"
       },
@@ -2099,7 +2135,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213746,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/25q0NW59vQQ2sS8QxeCjXB"
@@ -2142,6 +2178,24 @@
     },
     {
       "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/3kdEJ01bQu7Y3vfsJ4vaEY"
+      },
+      "artists": [
+        {
+          "name": "Ituana",
+          "url": "https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/1hBqtK4qAms8tUHz0bNzSY"
+    },
+    {
+      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/5jEzkHgI0NTdBvAKLlRxmo"
       },
@@ -2153,7 +2207,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186285,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/6zYPfGShrN7TmvZdU2zobx"
@@ -2265,10 +2319,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215593,
       "name": "Something Just Like This - Bossa Mix",
       "url": "https://open.spotify.com/track/1oMTC7wvZCf7zeUpodLlQf"
+    },
+    {
+      "album": {
+        "name": "Something Just Like this (Bossa Mix)",
+        "url": "https://open.spotify.com/album/0STA8ez0uqV9V3hOrUi0uf"
+      },
+      "artists": [
+        {
+          "name": "Purple Sparks",
+          "url": "https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Something Just Like This - Bossa Mix",
+      "url": "https://open.spotify.com/track/5wqJ934lye7Apsg5LjjbLx"
     },
     {
       "album": {

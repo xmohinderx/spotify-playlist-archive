@@ -4,7 +4,7 @@
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-68 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
+69 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/7InfjdILTHBOIs6NBUZgzv) | [Little Branch Trio](https://open.spotify.com/artist/1cNqtnXiRndbjzz501m8CZ) | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/album/3WOEnOrK4LIAuOljVmJp0v) | 2:23 | 2021-12-21 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0nRb93SrNeOFVhnEPqG2gr) | [Richard Smithfield](https://open.spotify.com/artist/2tprHPIiUQTLlefPxrcZuB) | [Jazzy Christmas](https://open.spotify.com/album/10xlo91UUjERC1DjH2NU9M) | 5:01 | 2021-12-21 |  |
 | [Jingle Bells](https://open.spotify.com/track/40wnIrpSNGnU2xtprgYHme) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 2:34 | 2021-12-21 |  |
-| [Jolly Old Saint Nicholas](https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA) | 4:50 | 2021-12-21 |  |
+| [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 | 2021-12-21 |  |
+| [Jolly Old Saint Nicholas](https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA) | 4:50 | 2021-12-21 | 2022-07-29 |
 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 | 2021-12-21 |  |
 | [Let It Snow](https://open.spotify.com/track/3DQFbtGXEnr4uWIh04ljQr) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Jingle Bell Rock](https://open.spotify.com/album/1ZToBj4EZu8gnR2hLsrFwW) | 2:03 | 2021-12-21 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/3C9YQp0it2R4rV1lp7p1n9) | [Dem Jazzophiliacs](https://open.spotify.com/artist/5387bdIuCYIoe0VO52TfPe) | [Mary's Boychild](https://open.spotify.com/album/57BaLpqMTYqUkMUXbaUzNi) | 3:30 | 2021-12-21 |  |

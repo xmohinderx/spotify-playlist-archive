@@ -4,7 +4,7 @@
 
 > A calm and soothing soundtrack to your reading.
 
-263 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
+264 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/1CMYDtTchww5I0POME7JqP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2022-04-04 | 2022-04-29 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-04-04 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-04-04 |  |
-| [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-04-04 |  |
+| [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 | 2022-07-28 |  |
+| [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-04-04 | 2022-07-29 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-04 | 2022-07-08 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-04 |  |
 | [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-04-04 |  |

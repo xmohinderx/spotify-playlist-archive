@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-161 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+162 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-03-04 |  |
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-03-04 |  |
 | [Fino a Novembre](https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Fino a Novembre](https://open.spotify.com/album/2Xuon7cc0MYNmWM9awtMJl) | 2:05 | 2022-03-04 | 2022-04-06 |
+| [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 | 2022-07-29 |  |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 |  |

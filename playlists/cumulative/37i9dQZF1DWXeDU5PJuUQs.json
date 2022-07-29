@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 184430,
       "name": "Adicta al Dolor - En Vivo",
       "url": "https://open.spotify.com/track/7lmBtkXGbF9jXD9CXqyKL3"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 328000,
       "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
       "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
@@ -80,6 +80,28 @@
     },
     {
       "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
+    },
+    {
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia en la Quinta Vergara)",
         "url": "https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK"
       },
@@ -95,7 +117,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 364197,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia en la Quinta Vergara)",
       "url": "https://open.spotify.com/track/3jIpcXHmCRl894HKVlHcjN"
@@ -160,6 +182,24 @@
     },
     {
       "album": {
+        "name": "10 A\u00f1os Movistar Arena",
+        "url": "https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243275,
+      "name": "Amor Sin Fronteras",
+      "url": "https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ"
+    },
+    {
+      "album": {
         "name": "10 A\u00f1os Santaferia (En Vivo Movistar Arena Santiago, Chile)",
         "url": "https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq"
       },
@@ -171,7 +211,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243275,
       "name": "Amor Sin Fronteras (En Vivo Movistar Arena Santiago, Chile)",
       "url": "https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE"
@@ -301,7 +341,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 218151,
       "name": "C\u00f3ncavo y Convexo - En Vivo",
       "url": "https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR"
@@ -355,7 +395,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 81813,
       "name": "Despu\u00e9s De Ti",
       "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
@@ -391,7 +431,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168253,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
@@ -547,6 +587,28 @@
     {
       "album": {
         "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+    },
+    {
+      "album": {
+        "name": "Gordo Rata (En Vivo)",
         "url": "https://open.spotify.com/album/16T2Dow87fIOSsP4m311pg"
       },
       "artists": [
@@ -561,7 +623,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220464,
       "name": "Gordo Rata - En Vivo",
       "url": "https://open.spotify.com/track/5z5JQRzM2xqwgyiIScY3pW"
@@ -789,6 +851,28 @@
     {
       "album": {
         "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
+    },
+    {
+      "album": {
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
         "url": "https://open.spotify.com/album/02hXee7R8HsMSBVPsoz4Cj"
       },
       "artists": [
@@ -803,7 +887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273273,
       "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
       "url": "https://open.spotify.com/track/3ER0mZbN9ZlTNKqzZDjBaj"
@@ -861,7 +945,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 124253,
       "name": "La Ultima Cancion - En Vivo",
       "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
@@ -955,7 +1039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130922,
       "name": "Los Duen\u0303os del Pabell\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/2UixuBXjGIS0hoyECo85Vp"
@@ -1049,7 +1133,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
@@ -1237,7 +1321,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128800,
       "name": "No eres para mi - En Vivo",
       "url": "https://open.spotify.com/track/3bKBWywv7XSJ9pViRrw6zD"
@@ -1367,7 +1451,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
@@ -1533,7 +1617,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301346,
       "name": "Se Te Ve la Tanga - En Vivo",
       "url": "https://open.spotify.com/track/0lZxPTnWhyktE0T5dMAA0j"
@@ -1555,7 +1639,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131120,
       "name": "Sencillamente - En Vivo",
       "url": "https://open.spotify.com/track/1k7eymTgq5eGY73TxSA9if"
@@ -1631,7 +1715,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 79516,
       "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
@@ -1671,6 +1755,24 @@
       "duration_ms": 198245,
       "name": "Soy Mala Fama - En Vivo",
       "url": "https://open.spotify.com/track/5Otrrijwbk7pDKPN7QZv3t"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os Agitando el Avispero (En Vivo)",
+        "url": "https://open.spotify.com/album/2vNZWsRlcCzRJevQ0v2Ip9"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198245,
+      "name": "Soy Mala Fama - En Vivo",
+      "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
     },
     {
       "album": {
@@ -1743,7 +1845,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 213859,
       "name": "Te Hubieras Ido Antes - En Vivo",
       "url": "https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv"
@@ -1909,7 +2011,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105000,
       "name": "Un Amor Que No Se Olvida - En Vivo",
       "url": "https://open.spotify.com/track/2U7pudlBcLKtF79qyUjRKJ"
@@ -1927,7 +2029,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 429920,
       "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
       "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
@@ -1981,7 +2083,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260096,
       "name": "Ya Te Olvide - En Vivo",
       "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"

@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Kylie Morgan
 
-687 songs - 1 day 12 hr 43 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
+689 songs - 1 day 12 hr 50 min - [published](https://open.spotify.com/playlist/6guBJqgtXaO0mvdeL4JtNk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Fade Away](https://open.spotify.com/track/71GB6W5KXctH0v4h6W5EM4) | [Blayne Clower](https://open.spotify.com/artist/6PfDM1s5UNL6FZKGq0q2vU) | [Fade Away](https://open.spotify.com/album/7mBHhfvphdTCItOKbIkVxH) | 4:06 | 2021-12-31 | 2022-01-08 |
 | [Faded On Me](https://open.spotify.com/track/2yn1m3R7ShYGPsHKuvgbEJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Faded On Me](https://open.spotify.com/album/5yJmWyimljNuXghn37qDSS) | 3:04 | 2022-06-03 |  |
 | [Falling Out Of Love](https://open.spotify.com/track/2UZcmXpjnfFkFh0jCPIliW) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Falling Out Of Love](https://open.spotify.com/album/6ZAnWDNvLToLEP1MusduC4) | 3:14 | 2022-04-01 | 2022-04-16 |
-| [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-05-06 |  |
+| [Feel Good](https://open.spotify.com/track/2kH5KD0eUomWpiUFpQQCqj) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/26JNFifNHZuO5Xe3fKhepz) | 2:49 | 2022-07-22 |  |
+| [Feel Good](https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Feel Good](https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA) | 2:49 | 2022-05-06 | 2022-07-29 |
 | [Fill 'Er Up](https://open.spotify.com/track/6BfPaiVZQGXTfnVUXdp2en) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Fill 'Er Up](https://open.spotify.com/album/1PjGGtIiF0fOkYSDYlOFsu) | 2:47 | 2022-05-13 | 2022-05-20 |
 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 | 2021-12-31 | 2022-01-22 |
 | [Firebird](https://open.spotify.com/track/0XfZNb9FbKuR8K7XkvjMAq) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [True Stories](https://open.spotify.com/album/7dP7birbQvtZn13VEEolvt) | 2:57 | 2022-01-28 | 2022-05-07 |
@@ -399,7 +400,8 @@
 | [Momentum](https://open.spotify.com/track/2Km7p52eJt51AsLoizZsXz) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Momentum](https://open.spotify.com/album/1UVUIMDHj2I0Lt5Mumd6eh) | 3:21 | 2022-05-06 | 2022-06-18 |
 | [More Me](https://open.spotify.com/track/05ZbkONztKDhdE4tC4OJqB) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [More Me](https://open.spotify.com/album/4P9iA68PjGj5qZjZQZ2sDx) | 2:22 | 2022-05-20 | 2022-06-04 |
 | [More Than Malibu](https://open.spotify.com/track/055Cd3mcHF4RPUoUdwPdva) | [Frank Legeay](https://open.spotify.com/artist/3UGllLBllWl2L26fEFe7l0), [Alec MacGillivray](https://open.spotify.com/artist/2l8ebyddrr4VeZVza2o1mM) | [More Than Malibu](https://open.spotify.com/album/7qWPtOu5GSzNE3iWkWGGYz) | 3:40 | 2022-01-28 | 2022-03-12 |
-| [Morning In New Orleans](https://open.spotify.com/track/4kST2f9vJjqqOQgxy8M0C3) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Morning In New Orleans](https://open.spotify.com/album/4JPvwNsY6mKDd7S2nNS1mS) | 4:21 | 2022-06-10 |  |
+| [Morning In New Orleans](https://open.spotify.com/track/4kST2f9vJjqqOQgxy8M0C3) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Morning In New Orleans](https://open.spotify.com/album/4JPvwNsY6mKDd7S2nNS1mS) | 4:21 | 2022-06-10 | 2022-07-29 |
+| [Morning In New Orleans](https://open.spotify.com/track/58ecPv0XoQ0nO0Fh9ZEp8N) | [Matt Roy](https://open.spotify.com/artist/00hgDE113euRrneQug8LV7) | [Morning In New Orleans](https://open.spotify.com/album/69LkhTSf0Dk2Opaafcp6AF) | 4:21 | 2022-07-22 |  |
 | [Ms\. Fire](https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Ms\. Fire](https://open.spotify.com/album/03wuG8bYc2k2YR0r27vMzp) | 3:27 | 2021-12-31 | 2022-02-26 |
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-01-14 | 2022-02-12 |
 | [My Ex Came Over](https://open.spotify.com/track/1DZjxXWHlbbADBfCYME9EK) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [My Ex Came Over](https://open.spotify.com/album/41dWvxkKc9C4LXkj040o13) | 2:55 | 2022-07-22 |  |

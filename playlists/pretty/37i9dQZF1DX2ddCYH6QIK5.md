@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: HAVET, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,898 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,929 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 31 | [Windbells](https://open.spotify.com/track/1Ch4viTgqjNpiJ3h1SAVc8) | [Soft Saints](https://open.spotify.com/artist/1xsodKGkw82rcq4rpT6xih) | [Windbells](https://open.spotify.com/album/7rGDC5EJgXHuxAwpvbGMa3) | 3:49 |
 | 32 | [Temptation](https://open.spotify.com/track/39KQg3YzjiygWXvetF8jkp) | [Ma Fleur](https://open.spotify.com/artist/6tfcRIX77qxX3KZB1v94k7) | [Temptation](https://open.spotify.com/album/5nRhkyBupbJVorHbAzrcwV) | 3:49 |
 | 33 | [Underwater](https://open.spotify.com/track/3qtLQbYiB5qXIYQdbZxuDf) | [Polar Noir](https://open.spotify.com/artist/1tnj2WqyUP68kpkGorWVxO) | [Underwater](https://open.spotify.com/album/6TH72GNIkdULBcomH1VUf0) | 3:30 |
-| 34 | [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 |
+| 34 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 |
 | 35 | [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ) | [lauenburg](https://open.spotify.com/artist/7jvS50nDvvf2qG3GwFSQHz) | [Turmalin](https://open.spotify.com/album/52muBhbUWgx8y63ZnqvW7h) | 2:38 |
 | 36 | [Spring](https://open.spotify.com/track/10qeL2Lvi7VKE5u3piNDNx) | [soFiA Lainovic](https://open.spotify.com/artist/3PeqQh1cfNxOT7NSfNtSA6) | [Spring](https://open.spotify.com/album/1dz6AwPf1TYsc2bnShZ3t0) | 3:11 |
 | 37 | [Boring Together](https://open.spotify.com/track/6J0ktPu6HxorYkSKhw5JSd) | [Krankenwagens](https://open.spotify.com/artist/7cbEY8XlXiZnNkgpzhDQm1) | [Boring Together](https://open.spotify.com/album/2NAPEbVdLbxo0CZxZSUDBs) | 2:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Mutant Funk](https://open.spotify.com/track/7vQUPKLKSQpbQp3L1E89Wx) | [Nitsch](https://open.spotify.com/artist/7EaaUYhflgfwejHv4DsaEb) | [Mutant Funk](https://open.spotify.com/album/0K80ufbq3xDggUdFYCtjX6) | 3:33 |
 | 80 | [Badehose](https://open.spotify.com/track/39kX0o5hZrhSDhytmclSym) | [Team Delphin](https://open.spotify.com/artist/5YLOZ7Z3mVbgAibEdo1nks) | [Badehose](https://open.spotify.com/album/1I6FWMxvp5JvxxI375PRmp) | 2:26 |
 
-Snapshot ID: `MTY1ODkxNjAwMCwwMDAwMDA0OTAwMDAwMTgyM2YxOTUxOGIwMDAwMDE4MjM1ZWZmZWQ5`
+Snapshot ID: `MTY1ODkxNjAwMCwwMDAwMDAwMGNkZGMxNTg4Y2NjYzFmYjI1NjU5MzlmNDI4MDNhYjNl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,014 likes - 288 songs - 18 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,937 likes - 288 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 47 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 |
 | 48 | [Evans](https://open.spotify.com/track/7sjiyZMJmYkoT2ScUnq622) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Evans](https://open.spotify.com/album/1ir2iDyX6bMciAeGoAJtKX) | 4:08 |
 | 49 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 |
-| 50 | [Prelude to a Kiss](https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Prelude to a Kiss](https://open.spotify.com/album/7EzWxXhnVRz8iTm2y0keaQ) | 5:20 |
+| 50 | [Prelude to a Kiss](https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 5:20 |
 | 51 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 |
 | 52 | [For Heavens Sake](https://open.spotify.com/track/3L94Y3LMCAW65sKrZs1bz7) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [For Heavens Sake](https://open.spotify.com/album/2hfGoUNu7M0B1bTs35GJou) | 4:51 |
 | 53 | [Spring Came Early](https://open.spotify.com/track/3vlVtBIC5VDiY98GWAgT67) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Spring Came Early](https://open.spotify.com/album/3m97OF4An5bONucwGKVgm4) | 3:39 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 91 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 |
 | 92 | [Spring Is Here](https://open.spotify.com/track/0d4XWfUyqLQnemAJJlcaAg) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Spring Is Here](https://open.spotify.com/album/224qBI3ZUfjrQsoZNxxaji) | 3:15 |
 | 93 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 |
-| 94 | [The Folks Who Live on the Hill \- Live](https://open.spotify.com/track/6Pt0wJ4tViQRRcZBKHx3qx) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 9:50 |
+| 94 | [The Folks Who Live on the Hill \- Live](https://open.spotify.com/track/7kSaXrHANOFv8iXgh2gvgA) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 9:50 |
 | 95 | [Your Host](https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 3:56 |
 | 96 | [Wedgewood](https://open.spotify.com/track/4osP8M9dqqSdWlXFsRKZZ4) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Late\-Night Feelings](https://open.spotify.com/album/4tYjXPwEDWw6Ipp5hE5rOX) | 4:47 |
 | 97 | [Coffee Break](https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC) | [Vince Glen](https://open.spotify.com/artist/6Pm6y2MWQf8dMQJKJqSTic) | [Coffee Break](https://open.spotify.com/album/0d3mmV0a3l6uBdPOJndjjX) | 5:04 |
@@ -198,7 +198,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 188 | [We'll Be Together Again](https://open.spotify.com/track/61AfCvc8HNqukDiqgLs1yF) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [We'll Be Together Again](https://open.spotify.com/album/3lWvifGDuUhFsCyxg8ixPn) | 4:29 |
 | 189 | [All My Tomorrows \- Live At Palais Des Congres, Paris / 1999](https://open.spotify.com/track/3VUFA0cz9OEGMshT0NK762) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Whisper Not](https://open.spotify.com/album/62mXx6KyfhkdLrLivZbe53) | 6:22 |
 | 190 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 |
-| 191 | [Peace](https://open.spotify.com/track/2Vg4a6WfE1C9Ur6OufzNFa) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/7BKfTB8wahfi7HTtN6v58u) | 5:19 |
+| 191 | [Peace](https://open.spotify.com/track/3ZzuBXSisLeK2J4srSxRk5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Eclipse](https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj) | 5:19 |
 | 192 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 |
 | 193 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5fBpjh6BGlsKG8n328kcF4) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/2AFoG96YrQjDuCwIxJCGj1) | 4:26 |
 | 194 | [But Beautiful](https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 4:40 |
@@ -282,14 +282,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 272 | [Five Years Ago](https://open.spotify.com/track/1L2aEbr8dOnVUKoeFhmMZG) | [Leonard Peters](https://open.spotify.com/artist/3lnir5hIW9TkpCGJGUuhvk) | [Walk The Dog](https://open.spotify.com/album/1P4DJRMLQ5RhNxYkDPeUf1) | 2:55 |
 | 273 | [Like Someone in Love](https://open.spotify.com/track/1p3hY7tPdrThCuXtFXCKG7) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Like Someone in Love](https://open.spotify.com/album/7InaTkdgWcexr7kSmGFv0w) | 3:35 |
 | 274 | [Moonlight in Vermont](https://open.spotify.com/track/2EW5zfxI27hvTxeYr8I0J7) | [Leslie Rossiter Band](https://open.spotify.com/artist/2VSepNTGbjPy4jy4y5qfTA) | [Mack the Knife](https://open.spotify.com/album/4sQs9YGrgwux8mzefYVdVE) | 4:17 |
-| 275 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 |
+| 275 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 | 276 | [Waltz At Midnight](https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Waltz At Midnight](https://open.spotify.com/album/2qKhcF6JaeTuNcr1uzrcY8) | 3:34 |
 | 277 | [You Must Believe In Spring](https://open.spotify.com/track/3WYLA10HUK93eJZe5N4UM7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Långholmen Sessions Vol\. 1](https://open.spotify.com/album/2TUvJj2iY6UHIGQCVLtIIe) | 3:42 |
 | 278 | [The Fairies](https://open.spotify.com/track/0IaY3Z8XKbNFMxMxBa5WeM) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [The Fairies](https://open.spotify.com/album/1OLkOGh5LyyqoYFlY0tvSL) | 3:00 |
 | 279 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 |
 | 280 | [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 |
 | 281 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 |
-| 282 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 |
+| 282 | [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 |
 | 283 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 | 284 | [You Don't Know What Love Is](https://open.spotify.com/track/6rLVGBoRQecxIEjucWATyT) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Close To You](https://open.spotify.com/album/5PgvEwIDiR27lQvF5ktALF) | 7:08 |
 | 285 | [Michelle](https://open.spotify.com/track/14GHeHqz1b4U2KNaj0ZtJp) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 3:12 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 287 | [Quite Late](https://open.spotify.com/track/5PzrM2NUo81JLdzNILxMLd) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Quite Late](https://open.spotify.com/album/5KxCBsHw577NA6vYm5CAte) | 2:56 |
 | 288 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 
-Snapshot ID: `MTY1NjQwMjc5NywwMDAwMDA1MzAwMDAwMTgxYTk0Y2U0M2IwMDAwMDE4MTRkOWI2Yzhh`
+Snapshot ID: `MTY1NjQwMjc5NywwMDAwMDAwMGQwYWJjNjNkNjBhYWMwZDA2Njg0MzFmOThkOGMzMmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,046 likes - 114 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,405 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 95 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 |
 | 96 | [Ho Hey](https://open.spotify.com/track/0jXRWverDGSBBHFYoT44gD) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Ho Hey](https://open.spotify.com/album/60hS2UicA8mos2QHSGdA7V) | 3:37 |
 | 97 | [Defying Gravity](https://open.spotify.com/track/28cY40buH89cMkAMxdMznk) | [Belinda Myers](https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8) | [Defying Gravity](https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb) | 2:52 |
-| 98 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 |
+| 98 | [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 |
 | 99 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 |
 | 100 | [Ho Hey](https://open.spotify.com/track/6G4hWFBXZ3vekirssPlulx) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [Unwind](https://open.spotify.com/album/52cMHhlW7BR4IdfBTl6rEw) | 3:24 |
 | 101 | [10,000 HOURS](https://open.spotify.com/track/31qFtnjzGGjX3YYfjHFM3v) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [10,000 HOURS](https://open.spotify.com/album/6Gjnr5VAXzm88lYKkTEel4) | 2:59 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 113 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 |
 | 114 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 |
 
-Snapshot ID: `MTY1ODkyMDY5MywwMDAwMDA1ZDAwMDAwMTgyM2Y2MGYwYTEwMDAwMDE4MjNmNjBhZWI4`
+Snapshot ID: `MTY1ODkyMDY5MywwMDAwMDAwMDgzOTUwMDFhMDkwYjk2YjI5MzY1MWUzYTMyMGI4NTQw`

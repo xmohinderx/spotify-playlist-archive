@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,580 likes - 199 songs - 12 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,744 likes - 199 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 187 | [Stillness](https://open.spotify.com/track/40ydDb82UYQzcZlqNsVj7N) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Stillness](https://open.spotify.com/album/3VLOhMVLh2fwkOdCVWk760) | 2:47 |
 | 188 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 |
 | 189 | [Emily](https://open.spotify.com/track/2shwRU5UQwywwIHpwD3ZOW) | [The Blue Room Band](https://open.spotify.com/artist/6LdbGDV2CfGd4BJYI0j6Eh) | [Have You Met Miss Jones?](https://open.spotify.com/album/5rtnXuxolDdh5HhGJZL5ro) | 4:53 |
-| 190 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 |
+| 190 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 | 191 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 |
 | 192 | [In A Mellow Tone](https://open.spotify.com/track/3L3QPczEW3sSf17X7rwwC3) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 3:35 |
 | 193 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 198 | [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 |
 | 199 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 |
 
-Snapshot ID: `MTY1NjQwODY0NiwwMDAwMDA5YzAwMDAwMTgxYTlhNjIzMDMwMDAwMDE4MTRjZTNkOWYx`
+Snapshot ID: `MTY1NjQwODY0NiwwMDAwMDAwMDBjYjY5YjBmOTE3MGNjOTc3MmM0OTA5YzQ1OWQ2Mzg1`

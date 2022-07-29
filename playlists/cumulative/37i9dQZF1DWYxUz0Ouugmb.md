@@ -2,15 +2,16 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: raissa anggiani
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Warren Hue
 
-98 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+102 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Jam](https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [24 Jam](https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr) | 3:36 | 2021-11-25 | 2022-03-25 |
 | [Ajur Mumur](https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Ajur Mumur](https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy) | 4:44 | 2021-11-25 | 2022-03-25 |
-| [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 |  |
+| [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 | 2022-07-29 |
+| [Aku Kamu Yang Lain](https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/2WbvbkUUDWh8yFKxzXNux1) | 3:35 | 2022-07-28 |  |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |
 | [Baby Don't Let Me Go](https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Baby Don't Let Me Go](https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY) | 3:53 | 2021-11-25 | 2022-03-25 |
@@ -38,20 +39,23 @@
 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 | 2022-03-24 |  |
 | [i don’t need u](https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 1:48 | 2022-01-27 | 2022-03-25 |
 | [i've always loved you](https://open.spotify.com/track/0zB7FqXYqlcjYy2Zclz5r4) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [i've always loved you](https://open.spotify.com/album/558Ysrewk0x3CMG2DozIkF) | 5:12 | 2022-03-24 |  |
-| [if i disappear](https://open.spotify.com/track/2UJHBTzpfndcT1gcfY5yjK) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/2XGKC9iOHdN8acgpM0ilnC) | 3:14 | 2022-03-24 |  |
+| [if i disappear](https://open.spotify.com/track/2UJHBTzpfndcT1gcfY5yjK) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/2XGKC9iOHdN8acgpM0ilnC) | 3:14 | 2022-03-24 | 2022-07-29 |
+| [if i disappear](https://open.spotify.com/track/63UXZzoNnFZxkv7AHwqLn3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/46pvSQi4EfBrQBv9L1SjKk) | 3:14 | 2022-07-28 |  |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-07-14 |  |
 | [In Situ](https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ](https://open.spotify.com/album/54ku7s6zlpt1KoTR8raxp6) | 3:45 | 2022-03-24 |  |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 |  |
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 | 2022-03-25 |
 | [Kaktus](https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Kaktus](https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg) | 3:07 | 2021-11-25 | 2022-03-25 |
-| [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 |  |
+| [Kau Rumahku](https://open.spotify.com/track/7IRi1d3Nsrww8mnGv1YW4l) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/4NAkOFSqThyy06ViavcOpQ) | 4:35 | 2022-03-24 | 2022-07-29 |
+| [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-07-28 |  |
 | [Kebal Kelaran](https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz) | 4:29 | 2021-11-25 | 2022-03-25 |
 | [Kebal Kelaran](https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5) | 4:34 | 2021-11-25 | 2022-03-25 |
 | [Kelangan](https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Kelangan](https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO) | 4:54 | 2021-11-25 | 2022-03-25 |
 | [Kisah Kasih Di Sekolah](https://open.spotify.com/track/7BrOAEtCjD5cHXLLykPCqV) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Kisah Kasih Di Sekolah](https://open.spotify.com/album/0uT4pw1USlXFDKeWyFfxLC) | 4:03 | 2022-06-16 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 | 2022-03-25 |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 | 2022-03-25 |
-| [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 |  |
+| [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 | 2022-07-29 |
+| [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 |  |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2022-03-24 |  |
 | [Merindu](https://open.spotify.com/track/4hERzfQ6Aiu5pKSqCeiAab) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Merindu](https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE) | 3:39 | 2021-11-25 | 2022-03-25 |

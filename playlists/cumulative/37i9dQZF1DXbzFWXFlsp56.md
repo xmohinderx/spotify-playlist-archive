@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Neoma.
 
-67 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
+68 songs - 3 hr 56 min - [published](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Una Noche Más](https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/7gJmkFRzY2CZAbtrpZJ8ct) | 3:31 | 2021-11-10 | 2022-06-15 |
 | [Una Noche Más](https://open.spotify.com/track/6h5Y9eJqzgiunuQICVkQb6) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/1uzsloGLr9bFGr6SguBgZZ) | 3:31 | 2022-06-14 |  |
 | [Yo Soy Dios](https://open.spotify.com/track/587UgJMuHMo92aZiclStcB) | [KASBEEL](https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt) | [Yo Soy Dios](https://open.spotify.com/album/2iw7qlG3uOlg6qC56rUJOs) | 3:47 | 2021-11-10 | 2022-05-12 |
-| [Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0PwQraZWaO5BkmJ5SsRshr) | 3:34 | 2022-04-08 |  |
+| [Yo\-Po\-No\-Po Prieto Riddiman Remixes \- Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4) | 3:34 | 2022-06-14 |  |
+| [Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0PwQraZWaO5BkmJ5SsRshr) | 3:34 | 2022-04-08 | 2022-07-29 |
 | [¿qué más da?](https://open.spotify.com/track/09I75WeZNBSDUXX66hcWHF) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [¿qué más da?](https://open.spotify.com/album/2lhGoTSIZ1VJx5OkXhNW6t) | 3:11 | 2022-03-22 |  |
 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 | 2021-11-10 | 2022-04-09 |
 

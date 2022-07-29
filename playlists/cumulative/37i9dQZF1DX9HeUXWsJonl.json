@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173087,
       "name": "Echkek",
       "url": "https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8"
@@ -517,6 +517,24 @@
       "duration_ms": 204624,
       "name": "Finek",
       "url": "https://open.spotify.com/track/6BJ8rKfrRf4U1u3CGGvgTV"
+    },
+    {
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/5y7m6UDox56LbgePd50uXX"
+      },
+      "artists": [
+        {
+          "name": "Kafon",
+          "url": "https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/7Bri5HtRLTiCq17j3ogbH8"
     },
     {
       "album": {
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260808,
       "name": "Kafon GALBI",
       "url": "https://open.spotify.com/track/7HuPW3FTvf32teIRVdRGnt"
@@ -988,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR"
+      },
+      "artists": [
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Netfakarna Sghar",
+      "url": "https://open.spotify.com/track/5SXmbTghHaWfLJCAFBqX0a"
+    },
+    {
+      "album": {
         "name": "Netfakarna Sghar",
         "url": "https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl"
       },
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240000,
       "name": "Netfakarna Sghar",
       "url": "https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB"
@@ -1429,6 +1465,28 @@
       "duration_ms": 299570,
       "name": "Zydi",
       "url": "https://open.spotify.com/track/1r2iFBeekSLVyHetVvfTpy"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0634\u0642\u0643",
+        "url": "https://open.spotify.com/album/3nimuc0tltTLt71sJzkryF"
+      },
+      "artists": [
+        {
+          "name": "Kemo",
+          "url": "https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY"
+        },
+        {
+          "name": "Si Lemhaf",
+          "url": "https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173087,
+      "name": "\u0639\u0634\u0642\u0643",
+      "url": "https://open.spotify.com/track/5If25yKGs9cTAFNemTRzZK"
     },
     {
       "album": {

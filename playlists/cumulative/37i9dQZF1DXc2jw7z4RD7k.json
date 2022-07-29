@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190346,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/202Rv6z4W2aE0rxYwUfCq9"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148373,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/7nX7JMnSP9XmLjgv6pzcyr"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232005,
       "name": "Blue Bayou",
       "url": "https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM"
@@ -419,10 +419,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+    },
+    {
+      "album": {
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "album": {
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187160,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/4rNGcibLZv61RyXrhFTAGt"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174533,
       "name": "Friends",
       "url": "https://open.spotify.com/track/25PKLYyEdsCnBAnvcah8VF"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238266,
       "name": "Goodbye To Love",
       "url": "https://open.spotify.com/track/1PLgQkmhgh6GHQnomQ50Rv"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143426,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/0R2wFVBSGE7elPxW582IWy"
@@ -956,6 +974,24 @@
     },
     {
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "album": {
         "name": "We Sing. We Dance. We Steal Things.",
         "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
       },
@@ -967,7 +1003,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
@@ -1021,7 +1057,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158226,
       "name": "It Had to Be You (Big Band and Vocals)",
       "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
@@ -1119,6 +1155,24 @@
       "duration_ms": 202733,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/3Xqw0iXu2EzyFGb8jPEMKt"
+    },
+    {
+      "album": {
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
     },
     {
       "album": {
@@ -1245,7 +1299,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 208293,
       "name": "Monday, Monday - Single Version",
       "url": "https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj"
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225160,
       "name": "My Body Keeps Changing My Mind",
       "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
@@ -1353,7 +1407,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 218546,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO"
@@ -1468,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+    },
+    {
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
       },
@@ -1501,7 +1573,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95386,
       "name": "Stay",
       "url": "https://open.spotify.com/track/16ov7zgIXo9muo7SwQQPhN"
@@ -1577,7 +1649,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 188066,
       "name": "Sway",
       "url": "https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz"
@@ -1613,7 +1685,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 255733,
       "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
       "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
@@ -1649,7 +1721,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280760,
       "name": "Thank You for Being a Friend",
       "url": "https://open.spotify.com/track/5yNUgA66PbcPIJPOU2eBwR"
@@ -1689,7 +1761,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383000,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5m7bBvDmCXAmo4Vkiqp1JO"
@@ -1725,7 +1797,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186560,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/2VGfQPsdES5JBFINXMTD6r"
@@ -1851,7 +1923,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 293853,
       "name": "Wind Beneath My Wings",
       "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
@@ -1941,7 +2013,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 241400,
       "name": "You Win Again",
       "url": "https://open.spotify.com/track/5mwzpzRue1SBWwrbbhXfbf"
@@ -1959,7 +2031,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 266200,
       "name": "You'll Never Find Another Love Like Mine",
       "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
@@ -1977,7 +2049,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"

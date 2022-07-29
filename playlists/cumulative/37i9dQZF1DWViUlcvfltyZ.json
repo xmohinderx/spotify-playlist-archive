@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, Manuel Agnelli)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, i Baobab!)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -265,6 +265,24 @@
     {
       "album": {
         "name": "Buio",
+        "url": "https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW"
+      },
+      "artists": [
+        {
+          "name": "LOREN",
+          "url": "https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199483,
+      "name": "Buio",
+      "url": "https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal"
+    },
+    {
+      "album": {
+        "name": "Buio",
         "url": "https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6"
       },
       "artists": [
@@ -275,7 +293,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200146,
       "name": "Buio",
       "url": "https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg"
@@ -1217,6 +1235,24 @@
     {
       "album": {
         "name": "Ansia Capitale",
+        "url": "https://open.spotify.com/album/2I6L45zp4O8twWUyAHirSj"
+      },
+      "artists": [
+        {
+          "name": "Management",
+          "url": "https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184081,
+      "name": "La fine dell'eternit\u00e0",
+      "url": "https://open.spotify.com/track/2DTSHEAcv2hUnVoRvYiOmo"
+    },
+    {
+      "album": {
+        "name": "Ansia Capitale",
         "url": "https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66"
       },
       "artists": [
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184081,
       "name": "La fine dell'eternit\u00e0",
       "url": "https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe"
@@ -2209,7 +2245,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204601,
       "name": "Un istante",
       "url": "https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5"
@@ -2393,7 +2429,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213600,
       "name": "What's In Your Mind?",
       "url": "https://open.spotify.com/track/19FavAnu4EeUTZ7awOvb7V"
@@ -2411,10 +2447,28 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216480,
       "name": "WHAT\u2019S THE POINT",
       "url": "https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A"
+    },
+    {
+      "album": {
+        "name": "Futurephobia",
+        "url": "https://open.spotify.com/album/3WIcSy6wxoHa7CUztnrPlg"
+      },
+      "artists": [
+        {
+          "name": "PEAKS!",
+          "url": "https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195179,
+      "name": "W\u00d8LF",
+      "url": "https://open.spotify.com/track/2IFcT2vLnkFjfRAIeTIx3j"
     },
     {
       "album": {
@@ -2429,7 +2483,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"

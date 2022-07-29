@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,945 likes - 145 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,947 likes - 145 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 4 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 |
 | 5 | [Vegas](https://open.spotify.com/track/4eUddSnDzVwdEOAJrgUJTc) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Vegas](https://open.spotify.com/album/691ksPJCtqp8oy1zjVxHNT) | 3:13 |
 | 6 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
-| 7 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2OK9HiOcSsFBKynCdPRUvo) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Not Supposed To Know Each Other](https://open.spotify.com/album/56YMpDRIc0HTB7FDBq3IC8) | 2:41 |
+| 7 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 |
 | 8 | [Casual](https://open.spotify.com/track/5gDMFKZB0BT42aDJB0AGPI) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Casual](https://open.spotify.com/album/5biFk4V11QxQO2J8Q9kMmr) | 2:43 |
 | 9 | [Better With A Girl](https://open.spotify.com/track/1AhqYT646NhyThWhi3xX3r) | [Bella Raye](https://open.spotify.com/artist/0vOWMBQMjtApMkFJKEi0AX) | [Better With A Girl](https://open.spotify.com/album/2E1SORtryE4hbLVd5oQ8wd) | 3:01 |
 | 10 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 69 | [Shuffle](https://open.spotify.com/track/7dqCwV8GYfRrJzQO1hdBRE) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Laci Kaye Booth](https://open.spotify.com/album/0K9vrVf1zQTQJN5iU8wF79) | 3:12 |
 | 70 | [Running With Scissors](https://open.spotify.com/track/5FGrZwdOQCzg3eRZra9js9) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 2:51 |
 | 71 | [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 |
-| 72 | [Love You Now, Love You Later](https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Love You Now, Love You Later](https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe) | 2:26 |
+| 72 | [Love You Now, Love You Later](https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Cruise Control](https://open.spotify.com/album/5tUM4uP2IVeOa5Lh4F0FzS) | 2:26 |
 | 73 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 74 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 75 | [Fallback](https://open.spotify.com/track/3Awkc2RG0sxtLjJWgnYAHx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Fallback](https://open.spotify.com/album/2tfzITEHPPyizfRoiTTzhX) | 2:53 |
@@ -119,11 +119,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 109 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 |
 | 110 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 |
 | 111 | [California](https://open.spotify.com/track/7nzqTlte0dXVzhCqYtFYCY) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [California](https://open.spotify.com/album/1psx0StZRNxtb6qu08sDip) | 3:37 |
-| 112 | [Couldn't Care Less](https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/50gHenRfrlNVQ6nSYELygE) | 3:08 |
-| 113 | [Broke It Down \- Remastered](https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down \(Remastered\)](https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3) | 3:21 |
+| 112 | [Couldn't Care Less](https://open.spotify.com/track/426FCekR1d7INAvM8Qb7aX) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Couldn't Care Less](https://open.spotify.com/album/1tT0T7vuC0KCDHIr8dB8HL) | 3:08 |
+| 113 | [Broke It Down](https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO) | [Brian Callihan](https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE) | [Broke It Down](https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR) | 3:21 |
 | 114 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 |
 | 115 | [Cartier](https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [Cartier](https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz) | 3:20 |
-| 116 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 |
+| 116 | [Laid Back](https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC) | 2:51 |
 | 117 | [Trucks Ain't for Breaking Down In](https://open.spotify.com/track/0u02cFSDCRq5l6z5SIpPAX) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Trucks Ain't for Breaking Down In](https://open.spotify.com/album/3cpsCXBD4sD1FDWCEybqrf) | 3:18 |
 | 118 | [The Only Thing](https://open.spotify.com/track/7yzUuwUZk07zmeRNTPeIYQ) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [The Only Thing](https://open.spotify.com/album/1nH2M5l54JzGUaWvJzDqVY) | 3:09 |
 | 119 | [Break Itself](https://open.spotify.com/track/5OClt9eDq31Rtgo9vjjOyJ) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI) | [Break Itself](https://open.spotify.com/album/2ihBIQ0Ut209dFVpccNtpD) | 3:39 |
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 141 | [How Do We Go](https://open.spotify.com/track/3ojKXnza6KIPy2VqvF0ttr) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do We Go](https://open.spotify.com/album/5S1UrS5lAVcZZGi2zKNLUm) | 3:28 |
 | 142 | [I Think About You](https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [I Think About You](https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr) | 3:31 |
 | 143 | [Never Said Sorry](https://open.spotify.com/track/1h1XBqXVBQ5wLkdoWQet9m) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Never Said Sorry](https://open.spotify.com/album/2MzUFAax9RwtKK8s6S9iXI) | 2:41 |
-| 144 | [Make It Past Georgia](https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Make It Past Georgia](https://open.spotify.com/album/7z68pYfdYT9aRs15woSgh1) | 3:21 |
+| 144 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 |
 | 145 | [Critic](https://open.spotify.com/track/70mrIsFkdsc58aBJJWSNTO) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Critic](https://open.spotify.com/album/47aMURbtlVhMAlR50M6dd4) | 3:11 |
 
-Snapshot ID: `MTY1ODUyMjIxNCwwMDAwMDQyMDAwMDAwMTgyMjdhMDllYmEwMDAwMDE4MWI2NTkyOTQx`
+Snapshot ID: `MTY1ODUyMjIxNCwwMDAwMDAwMDcwMWZiYTYyMDg4NjgwNjJlNGVjNTViMDJhODNlM2Rh`

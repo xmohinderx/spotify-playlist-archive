@@ -35,6 +35,28 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/1xSxOhPxJjAWGg1F7sRblS"
+      },
+      "artists": [
+        {
+          "name": "PAX",
+          "url": "https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230476,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1zRD4eauhsTVfxtcD1n49S"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/7BnjJ7fmbHiehY8WjwoKs9"
       },
       "artists": [
@@ -49,7 +71,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230476,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3ijMfK5xwJTDdeyJp72mPM"
@@ -127,6 +149,32 @@
     {
       "album": {
         "name": "Anywhere With You",
+        "url": "https://open.spotify.com/album/6kLYOTLTjIjADp2VfU9qGQ"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158807,
+      "name": "Anywhere With You",
+      "url": "https://open.spotify.com/track/3wfNiPBrzDwuanE75Ar6pS"
+    },
+    {
+      "album": {
+        "name": "Anywhere With You",
         "url": "https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl"
       },
       "artists": [
@@ -145,7 +193,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158807,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR"
@@ -214,6 +262,24 @@
     },
     {
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN"
       },
@@ -225,7 +291,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180842,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO"
@@ -415,10 +481,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147250,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7uqWo5UWCGAFBjmajYzS65"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/03aN3N4eyrr5QOemZPP4sg"
+      },
+      "artists": [
+        {
+          "name": "F4ST",
+          "url": "https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153658,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2u1w0B0IoOhJUG50nyEbA9"
     },
     {
       "album": {
@@ -613,10 +697,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222040,
       "name": "Call on Me (Ryan Riback Remix)",
       "url": "https://open.spotify.com/track/14uKsvPJ0quzQvdB6f7Dur"
+    },
+    {
+      "album": {
+        "name": "Call On Me (Remixes)",
+        "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
     },
     {
       "album": {
@@ -643,6 +749,28 @@
     {
       "album": {
         "name": "Children",
+        "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245927,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
+    },
+    {
+      "album": {
+        "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
       "artists": [
@@ -657,7 +785,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV"
@@ -801,6 +929,28 @@
     {
       "album": {
         "name": "Deep End (SIDEPIECE Remix)",
+        "url": "https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196666,
+      "name": "Deep End - SIDEPIECE Remix",
+      "url": "https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8"
+    },
+    {
+      "album": {
+        "name": "Deep End (SIDEPIECE Remix)",
         "url": "https://open.spotify.com/album/1s2I2Ix6ZPDusSo7fzNwlR"
       },
       "artists": [
@@ -815,7 +965,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196686,
       "name": "Deep End - SIDEPIECE Remix",
       "url": "https://open.spotify.com/track/5WNa0eaGNwQ1ZXTHVlULpd"
@@ -871,6 +1021,24 @@
     {
       "album": {
         "name": "Didn't Know",
+        "url": "https://open.spotify.com/album/5nnv8Zb63NdxWEyVsaSodl"
+      },
+      "artists": [
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168896,
+      "name": "Didn't Know",
+      "url": "https://open.spotify.com/track/3kNWyHdLVW1x6pn9EnSQ1H"
+    },
+    {
+      "album": {
+        "name": "Didn't Know",
         "url": "https://open.spotify.com/album/3qpEkXRsDiail2jK8DS6Ml"
       },
       "artists": [
@@ -881,7 +1049,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168896,
       "name": "Didn't Know",
       "url": "https://open.spotify.com/track/6t8XoDG0YGFGBqUsgj9Ih9"
@@ -1075,10 +1243,32 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216770,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/4wGWB56toxihHUdbnRTMb1"
+    },
+    {
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216770,
+      "name": "Dopamine (feat. Eyelar)",
+      "url": "https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN"
     },
     {
       "album": {
@@ -1267,6 +1457,32 @@
     {
       "album": {
         "name": "Foolproof",
+        "url": "https://open.spotify.com/album/0vYnBMoh3OSzIodVBkD2JX"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Nat Dunn",
+          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267348,
+      "name": "Foolproof",
+      "url": "https://open.spotify.com/track/0hFv8cFtw4zmcQonKZUA9b"
+    },
+    {
+      "album": {
+        "name": "Foolproof",
         "url": "https://open.spotify.com/album/73LuXgM14LCrxLAe9FRtzC"
       },
       "artists": [
@@ -1285,7 +1501,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267348,
       "name": "Foolproof",
       "url": "https://open.spotify.com/track/4SEk1AnKCF5UrtVKeoiINn"
@@ -1495,10 +1711,36 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/14ngWWxvUSnIMXgF6rzSk1"
+    },
+    {
+      "album": {
+        "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
     },
     {
       "album": {
@@ -1521,7 +1763,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM"
@@ -1919,10 +2161,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/0gNXY64y1CKoNsIo96WuLn"
+    },
+    {
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF"
     },
     {
       "album": {
@@ -2370,6 +2634,28 @@
     },
     {
       "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL"
+    },
+    {
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki"
       },
@@ -2385,7 +2671,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL"
@@ -2751,10 +3037,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150635,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y"
+    },
+    {
+      "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150635,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89"
     },
     {
       "album": {
@@ -2897,10 +3201,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176840,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
+    },
+    {
+      "album": {
+        "name": "While The World Was Burning",
+        "url": "https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176867,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb"
     },
     {
       "album": {
@@ -3049,10 +3375,36 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133000,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY"
+    },
+    {
+      "album": {
+        "name": "Strange Fruits Music",
+        "url": "https://open.spotify.com/album/7pIIUWLZIILWaeeB876mmP"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "KOYSINA",
+          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Seven Nation Army (feat. KOYSINA)",
+      "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
     },
     {
       "album": {
@@ -3115,10 +3467,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147976,
       "name": "Sicko Drop",
       "url": "https://open.spotify.com/track/5OJbBrGPY4scEGwMysuyLb"
+    },
+    {
+      "album": {
+        "name": "Sicko Drop",
+        "url": "https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Schillist",
+          "url": "https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147976,
+      "name": "Sicko Drop",
+      "url": "https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr"
     },
     {
       "album": {

@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262170,
       "name": "Carnival Horns",
       "url": "https://open.spotify.com/track/6QkMomU6O9OQ0ZXtY4kAz7"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209666,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/10h9F7m8cUY6XGJzhvtZb2"
@@ -295,6 +295,28 @@
     {
       "album": {
         "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197833,
+      "name": "Holy Ground (feat. Buju Banton)",
+      "url": "https://open.spotify.com/track/1LZPELQqai6rO6JgvZtElr"
+    },
+    {
+      "album": {
+        "name": "Father Of Asahd",
         "url": "https://open.spotify.com/album/4vuV7xWL4TDaaO412nbhuK"
       },
       "artists": [
@@ -309,7 +331,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197833,
       "name": "Holy Ground (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/4aYeO2glQUKMbHnuvlnceE"
@@ -396,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Living It Up",
+      "url": "https://open.spotify.com/track/0Xd3LUIjRESt5rSAGzvAvA"
+    },
+    {
+      "album": {
         "name": "Living It Up",
         "url": "https://open.spotify.com/album/4OavmBCfycKnIYUiZv7fPk"
       },
@@ -407,7 +447,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240346,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/6JKDAb81DiChlgYbTAuYNe"
@@ -639,6 +679,24 @@
     {
       "album": {
         "name": "Lily of da Valley",
+        "url": "https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H"
+      },
+      "artists": [
+        {
+          "name": "Jesse Royal",
+          "url": "https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49"
+    },
+    {
+      "album": {
+        "name": "Lily of da Valley",
         "url": "https://open.spotify.com/album/3JAvtVbq8XLocOQl3CzOwE"
       },
       "artists": [
@@ -649,7 +707,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249066,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/78aaIdueQSjI00fWUMAqna"
@@ -667,7 +725,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211441,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/6hydRG0XlZXxgJL4DASSFp"
@@ -777,10 +835,46 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191480,
       "name": "Show Love",
       "url": "https://open.spotify.com/track/7rBsbIiiDGljVGGPFUA9Pf"
+    },
+    {
+      "album": {
+        "name": "Hybrid",
+        "url": "https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192044,
+      "name": "Show Love",
+      "url": "https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm"
+    },
+    {
+      "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252125,
+      "name": "Skankin' Sweet",
+      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
     },
     {
       "album": {
@@ -795,10 +889,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252125,
       "name": "Skankin' Sweet",
       "url": "https://open.spotify.com/track/5W4pbLaMo6B64C80vUiAYV"
+    },
+    {
+      "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219478,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0k5s9BlyIUaHK1Fa7DVTyY"
     },
     {
       "album": {
@@ -813,7 +925,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219478,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7eEDoWPornYISopnmFstst"
@@ -831,10 +943,28 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201522,
       "name": "Stars Align",
       "url": "https://open.spotify.com/track/01zjFKZ2qDYDXJsNSmVm0i"
+    },
+    {
+      "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201522,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "album": {
@@ -875,6 +1005,24 @@
     {
       "album": {
         "name": "Superstar b/w Superdub",
+        "url": "https://open.spotify.com/album/3NX2wOljjGOxUbcz7aIGMh"
+      },
+      "artists": [
+        {
+          "name": "Hollie Cook",
+          "url": "https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245678,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv"
+    },
+    {
+      "album": {
+        "name": "Superstar b/w Superdub",
         "url": "https://open.spotify.com/album/2DXIS3dIsWYQQFZDpMU5pu"
       },
       "artists": [
@@ -885,7 +1033,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245678,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4xaHi2hhM0b5EuJuOTO6eX"
@@ -1013,7 +1161,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt"
@@ -1035,6 +1183,24 @@
       "duration_ms": 217288,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/4F8EDSwqScQxFaLjtScKWO"
+    },
+    {
+      "album": {
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/22AbXxQbMdVqEz7xJjhccG"
     },
     {
       "album": {
@@ -1067,7 +1233,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 225506,
       "name": "Youth Dem Cold",
       "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"

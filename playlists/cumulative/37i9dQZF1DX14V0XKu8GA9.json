@@ -2617,7 +2617,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 167186,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG"
@@ -3611,6 +3611,28 @@
     {
       "album": {
         "name": "Back Like I Never Left",
+        "url": "https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX"
+      },
+      "artists": [
+        {
+          "name": "Swifty Blue",
+          "url": "https://open.spotify.com/artist/68CRxZTAqk19AznItZInip"
+        },
+        {
+          "name": "J.I Bandz",
+          "url": "https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271463,
+      "name": "Trials n Tribulations",
+      "url": "https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg"
+    },
+    {
+      "album": {
+        "name": "Back Like I Never Left",
         "url": "https://open.spotify.com/album/13dvej0VDvrJhmGQHXBU6M"
       },
       "artists": [
@@ -3625,7 +3647,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271463,
       "name": "Trials n Tribulations",
       "url": "https://open.spotify.com/track/6F4tbGwVmjjAlTcgLfSNZm"

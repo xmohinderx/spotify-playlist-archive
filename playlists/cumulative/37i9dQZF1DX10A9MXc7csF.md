@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: El Proyecto
 
-151 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
+152 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/5fGjTGABmDRAhYaKIhz6Cv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [El Muchacho Criticado](https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Los de La Lira](https://open.spotify.com/artist/3LfNPEkj2YjpkmAbY5CKhW) | [El Muchacho Criticado](https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b) | 3:16 | 2022-07-22 |  |
 | [El P1 Mentado](https://open.spotify.com/track/5eFUfgbfDQQl4n9Yc71lsQ) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [El P1 Mentado](https://open.spotify.com/album/12OHLObb5MgwucTWF6igSd) | 3:03 | 2022-05-14 | 2022-07-23 |
 | [El Piyi](https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [El Piyi](https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq) | 2:42 | 2022-05-27 |  |
-| [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 |  |
+| [El Señoron](https://open.spotify.com/track/1EPZpEO3bZTUbfiAyiknDC) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron](https://open.spotify.com/album/1dfYE3Fpz112Ae3a9RYxVo) | 3:24 | 2022-07-22 |  |
+| [El Señoron \(En Vivo\)](https://open.spotify.com/track/3LemZBFc7yP7fhyJrrRnO4) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [El Señoron \(En Vivo\)](https://open.spotify.com/album/0Du2I75UKIDWzT3zQdUBwg) | 3:24 | 2022-06-03 | 2022-07-29 |
 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 | 2022-05-27 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-14 |  |
 | [En Las Nubes](https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm) | [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [En Las Nubes](https://open.spotify.com/album/6qP4PaGwmTvXxY11bjueHq) | 2:50 | 2022-05-14 |  |

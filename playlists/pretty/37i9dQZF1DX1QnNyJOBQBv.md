@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > The hottest Latin pop hits right now\. Cover: Lasso
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,821,714 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,821,789 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 29 | [El Cielo Se Me Cayó](https://open.spotify.com/track/7q72vajxaywdWMdena6o54) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [El Cielo Se Me Cayó](https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn) | 2:03 |
 | 30 | [Cobardes](https://open.spotify.com/track/19MrGoBqSf0fMq3ez53ILU) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:50 |
 | 31 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 |
-| 32 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 |
+| 32 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 |
 | 33 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 |
 | 34 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
 | 35 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 74 | [Me Tienes](https://open.spotify.com/track/6gOsbSsolvkGLvalNpIQ1O) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Me Tienes](https://open.spotify.com/album/4FKgvX4aa1XS0VLAjV4vrS) | 3:03 |
 | 75 | [Si Yo Estoy Loco](https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Si Yo Estoy Loco](https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5) | 3:33 |
 
-Snapshot ID: `MTY1ODk1NDg4NywwMDAwMDFhNzAwMDAwMTgyNDE2YWIyZmEwMDAwMDE4MjIyZjkwYTZh`
+Snapshot ID: `MTY1ODk1NDg4NywwMDAwMDAwMDU2M2M1YzI1OWFhYTg5NmVlODBhMTM3NzYxOWVhYThh`

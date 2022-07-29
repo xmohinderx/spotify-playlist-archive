@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,806 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,337 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 | 64 | [Don \(En Vivo\)](https://open.spotify.com/track/3T8fM36Q8KLkGlZKVMmy0G) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edición Especial](https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc) | [Don \(En Vivo\)](https://open.spotify.com/album/1mBLOV4RWG5j012WYoQkoy) | 3:30 |
 | 65 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
 
-Snapshot ID: `MTY1NzY0NDM3OCwwMDAwMDAwYzAwMDAwMTgxZjM0ZGU4MGYwMDAwMDE4MDk1OGJhNTg1`
+Snapshot ID: `MTY1NzY0NDM3OCwwMDAwMDAwMGQwNWE3Yzk5MDY2NjhkYTNiYmU3MDcxYTM5YzMyMmE1`

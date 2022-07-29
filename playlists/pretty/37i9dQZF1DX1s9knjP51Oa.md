@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Slow down with some calming keys.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,528 likes - 356 songs - 15 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,649 likes - 356 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 10 | [marzo 3](https://open.spotify.com/track/6DqQMsdAlPbPiVXiAyxpVC) | [Sebastián Voyage](https://open.spotify.com/artist/6W70NZ4bj5yPSfEXH99JYN) | [marzo 3](https://open.spotify.com/album/5HYtpWvwBgp4dGtvCgnPrB) | 2:26 |
 | 11 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 | 12 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 |
-| 13 | [In The End](https://open.spotify.com/track/0yw26yMIBOt968JnWdDpMv) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Youth](https://open.spotify.com/album/1IkPGuEi81NE11tHafOjTs) | 2:46 |
+| 13 | [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 |
 | 14 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 |
 | 15 | [Feathers](https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ) | [Tanisha Hickman](https://open.spotify.com/artist/3bF4QRKnDmeeFT7WxcwOus) | [Feathers](https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB) | 2:05 |
 | 16 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 162 | [Time Will Tell](https://open.spotify.com/track/6G0iS7Lf08bZgjrdV1aRZ2) | [Lea Lewis](https://open.spotify.com/artist/0wnLoOej9LyiFZKKnJmP9z) | [Time Will Tell](https://open.spotify.com/album/7s5kp9t6YTNptLWcPgUQ7S) | 2:07 |
 | 163 | [Quiet](https://open.spotify.com/track/0mdIhRa6uUwlHmEuUuvuKA) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Quiet](https://open.spotify.com/album/6KxIV0vIVkC90QUs1BFNs3) | 3:13 |
 | 164 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 |
-| 165 | [Evensong](https://open.spotify.com/track/3FhYBQP28W7QkYq09IAjPH) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Evensong](https://open.spotify.com/album/6tjtaoWIgfX935aTVx1HYb) | 2:11 |
+| 165 | [Evensong](https://open.spotify.com/track/4b3x8mk3a6N9ccMIMdGLy1) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [All The Things We Could Know](https://open.spotify.com/album/0Ly9eRAx57KGgJOdkviBb7) | 2:11 |
 | 166 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 |
 | 167 | [April Sun](https://open.spotify.com/track/3oOUb7QryUQhLv2ZpLPSI8) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [April Sun](https://open.spotify.com/album/22115bOHkvjGPk8jNCtDFM) | 2:08 |
 | 168 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
@@ -265,7 +265,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 255 | [The Porch Swing](https://open.spotify.com/track/4Be7nKSjLG0iWmt0OJXEks) | [Billie Ivory](https://open.spotify.com/artist/6GtWlyQC6QxNGW1w3EQVpx) | [The Porch Swing](https://open.spotify.com/album/0abQ6KRfx1mMUwH73fFW99) | 2:09 |
 | 256 | [The Winds](https://open.spotify.com/track/29nz4Q61vwzYqgHrLDqPuz) | [Rachel Sandy](https://open.spotify.com/artist/29Y9bN8378sKXJODbwRmhC) | [The Winds](https://open.spotify.com/album/55K9a0Lmj1kPAtvnnK1cml) | 2:51 |
 | 257 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 |
-| 258 | [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 |
+| 258 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 |
 | 259 | [Luminous Sky](https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Highlands](https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231) | 2:28 |
 | 260 | [Cathedral](https://open.spotify.com/track/4G622Kla5qjsJlw5bkE20e) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [As the sun slowly sets](https://open.spotify.com/album/6HIZdVicp4nHBJ49nJfbnF) | 3:19 |
 | 261 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 |
@@ -278,7 +278,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 268 | [Skating](https://open.spotify.com/track/6XPtAzmKf0gUtE4pCJDXnA) | [Oscar Basza](https://open.spotify.com/artist/1zieSWCAMPWaNLHancCRSZ) | [Skating](https://open.spotify.com/album/4574dK3qTHbOSym2PFJsLL) | 2:15 |
 | 269 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 |
 | 270 | [Colours I Have Never Seen](https://open.spotify.com/track/2Bvl6xJMoUeOPPX3iVgKdK) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Colours I Have Never Seen](https://open.spotify.com/album/1LQn3dB82RyoBFthigd9Ro) | 2:00 |
-| 271 | [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 |
+| 271 | [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 |
 | 272 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 |
 | 273 | [Wistful Heart](https://open.spotify.com/track/7FUeGwCMN82RlhFLkBRbJV) | [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Wistful Heart](https://open.spotify.com/album/4oKAXORzsZEqbSNX0qIR0K) | 2:33 |
 | 274 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 |
@@ -293,7 +293,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 283 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 |
 | 284 | [Homeland](https://open.spotify.com/track/5CMV79VrT9PxQRwdQr2EW0) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Homeland](https://open.spotify.com/album/67XXxVyBzRfwLuuFAUwmos) | 2:22 |
 | 285 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 |
-| 286 | [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 |
+| 286 | [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 |
 | 287 | [Kjærlighet](https://open.spotify.com/track/1UgFiq67HxKCD2rCeloW2V) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [Kjærlighet](https://open.spotify.com/album/65gHwlRipPDPscf5UK6dOF) | 3:01 |
 | 288 | [Stay](https://open.spotify.com/track/3gorfBRE1Ojs4PO9ruF7zU) | [OEN](https://open.spotify.com/artist/4RPFMzyyG8F2ygQzFLLFGD) | [Lonely Nights](https://open.spotify.com/album/5p8qHNadHlMX8Gn2uoNJlH) | 2:34 |
 | 289 | [Stars above](https://open.spotify.com/track/3Nlt0pHWgYWJQdkiNy0Kcf) | [Nicholas Wright](https://open.spotify.com/artist/1c8mJjhHsXxGw0QxlEHLm3) | [As the sun slowly sets](https://open.spotify.com/album/6HIZdVicp4nHBJ49nJfbnF) | 2:40 |
@@ -332,7 +332,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 322 | [Mirno](https://open.spotify.com/track/7oEbJXeTbSSWBNVr0RHRgM) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Mirno](https://open.spotify.com/album/2PirqRPTKXiYVOBLgzeZ1m) | 2:01 |
 | 323 | [Lumina](https://open.spotify.com/track/7j7h7BivqAe8X5SvoiJvpp) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Lumina](https://open.spotify.com/album/49G5Mxmaf8jL8SRFNWwU1w) | 2:06 |
 | 324 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 |
-| 325 | [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 |
+| 325 | [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 |
 | 326 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 |
 | 327 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 |
 | 328 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 |
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 355 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 |
 | 356 | [Sprites Of The Moor](https://open.spotify.com/track/6uSAPAnkFuSaL4f74KtBmD) | [Emile Franck](https://open.spotify.com/artist/7DOsl0l1wDk1N7kuv3czEn) | [Sprites Of The Moor](https://open.spotify.com/album/6zmbjPAkyO1RM7Iy82vjNE) | 3:00 |
 
-Snapshot ID: `MTY1ODQxNDAxNCwwMDAwMDA5MjAwMDAwMTgyMjEyZGEwYjkwMDAwMDE4MjIxMmMxYjJm`
+Snapshot ID: `MTY1OTAwNjk0NCwwMDAwMDAwMDM2NjgyMzEwZTJhZGViYzJmMDIzMDc3ODczN2EzMTA2`

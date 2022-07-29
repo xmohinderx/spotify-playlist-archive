@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez notre sélection des artistes à suivre\. Photo : November Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,166 likes - 31 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,171 likes - 31 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 18 | [C'est bon](https://open.spotify.com/track/3zZ5tnEx6WM1sfK7uY0Uz4) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [C'est bon](https://open.spotify.com/album/7CVTNOW5W0ztZzjLcQb2Dq) | 2:41 |
 | 19 | [Bohémien](https://open.spotify.com/track/4F32E00xHDsgqGNsxLeSmG) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Une saison en enfance](https://open.spotify.com/album/2uc49yePXwHHO205fQi7jQ) | 3:14 |
 | 20 | [Faire les choses bien \- Version alternative](https://open.spotify.com/track/6sqYnu5QuI8e1JwxlbwFs4) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic), [Leila Lachterman](https://open.spotify.com/artist/0BGUI2bNrW2XeDvxQBPqGT) | [Faire les choses bien](https://open.spotify.com/album/5ElfdD5QqQ5HB3c67fA3x3) | 4:17 |
-| 21 | [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 |
+| 21 | [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 |
 | 22 | [Muse](https://open.spotify.com/track/2GbXqAm1ltbCEsqxiX58wj) | [QuinzeQuinze](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Muse](https://open.spotify.com/album/7qhBt3pifRbw80VktPuqWY) | 3:46 |
 | 23 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 |
 | 24 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 30 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 |
 | 31 | [Parlons de nous](https://open.spotify.com/track/4ReQJvkxH6Ab1H2aeQToU8) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Parlons de nous](https://open.spotify.com/album/7BhzlJRv10yLohFzjJUKkk) | 3:11 |
 
-Snapshot ID: `MTY1NzIzMTI2MCwwMDAwMDAzZDAwMDAwMTgxZGFhZTM5ZTgwMDAwMDE4MWNlZGNlMzk4`
+Snapshot ID: `MTY1NzIzMTI2MCwwMDAwMDAwMDFkZmY0NWE3Y2Y4ZDBlZTAyODFjMTYwM2ZmMDE4YTA3`

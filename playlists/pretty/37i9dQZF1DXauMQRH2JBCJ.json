@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney songs wrapped up with love!",
-  "num_followers": 66608,
+  "num_followers": 66641,
   "original_name": "Disney Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIyNTc2OCwwMDAwMDAwYjAwMDAwMTgxZGE1YTcwMjYwMDAwMDE3MDJhODQ2MmZk",
+  "snapshot_id": "MTY1NzIyNTc2OCwwMDAwMDAwMDZkMmYyNjY3ZWViNGZlNjA0YmY1NTY1MzI0MWRiNDU1",
   "tracks": [
     {
       "added_at": "2022-07-07 20:29:28",
@@ -31,24 +31,28 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
-        "url": "https://open.spotify.com/album/5wNgbGjM7e2xKTHoCJ9brn"
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
         {
           "name": "Samuel E. Wright",
           "url": "https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 160880,
-      "name": "Kiss the Girl - Remastered 2014",
-      "url": "https://open.spotify.com/track/29kqQnDKgvZUmhMfask65n"
+      "duration_ms": 163400,
+      "name": "Kiss the Girl",
+      "url": "https://open.spotify.com/track/4HGIPyqDxSf863tPOwXiLJ"
     },
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq"
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
       },
       "artists": [
         {
@@ -70,11 +74,15 @@
         {
           "name": "Lillias White",
           "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 140226,
       "name": "I Won't Say (I'm In Love)",
-      "url": "https://open.spotify.com/track/03wwl6PnZyltRjeMkxWzUQ"
+      "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -247,8 +255,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Tarzan Original Soundtrack",
-        "url": "https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM"
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
       },
       "artists": [
         {
@@ -260,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 96546,
+      "duration_ms": 96533,
       "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/0loKEMa9DP6mLibdFMe6Uv"
+      "url": "https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -495,8 +503,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "The Princess and the Frog",
-        "url": "https://open.spotify.com/album/6UtWL1MOnEAua8BQb0l1g2"
+        "name": "The Princess and the Frog: Tiana and Her Princess Friends",
+        "url": "https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg"
       },
       "artists": [
         {
@@ -504,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
         }
       ],
-      "duration_ms": 144426,
+      "duration_ms": 144826,
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/0or0k6IgdkBPrfPuZsGBJ3"
+      "url": "https://open.spotify.com/track/3aJgAgTI9srxcTuyzVDtkm"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -567,8 +575,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "The Princess and the Frog",
-        "url": "https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P"
+        "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
       },
       "artists": [
         {
@@ -581,8 +589,8 @@
         }
       ],
       "duration_ms": 115693,
-      "name": "Ma Belle Evangeline - From \"The Princess and the Frog\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2P8QqrZ42YNP8Ao5uRMLO0"
+      "name": "Ma Belle Evangeline",
+      "url": "https://open.spotify.com/track/5d22scOOfbrK7GHy3ZTT3s"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -664,17 +672,21 @@
       "added_at": "2022-07-07 20:29:28",
       "album": {
         "name": "Hercules (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq"
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
       },
       "artists": [
         {
           "name": "Roger Bart",
           "url": "https://open.spotify.com/artist/4sZw3BLoQ9SniX4mcoh80b"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 194160,
       "name": "Go the Distance",
-      "url": "https://open.spotify.com/track/2rm72l5pjfby1cWvPMUojI"
+      "url": "https://open.spotify.com/track/0D1OY0M5A0qD5HGBvFmFid"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -699,8 +711,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Beauty and the Beast (From \"Beauty and the Beast\")",
-        "url": "https://open.spotify.com/album/3B12Sr9tZM7k0xgrmGvqlk"
+        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
       },
       "artists": [
         {
@@ -713,14 +725,14 @@
         }
       ],
       "duration_ms": 227928,
-      "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
-      "url": "https://open.spotify.com/track/4lYctI5RWX9GGHwPuJsorE"
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
     },
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
         "name": "Walt Disney Records The Legacy Collection: The Little Mermaid",
-        "url": "https://open.spotify.com/album/5wNgbGjM7e2xKTHoCJ9brn"
+        "url": "https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst"
       },
       "artists": [
         {
@@ -730,7 +742,7 @@
       ],
       "duration_ms": 211680,
       "name": "Part of Your World - Remastered 2014",
-      "url": "https://open.spotify.com/track/5wtMJ9yK87Y3MVdQnOIG7m"
+      "url": "https://open.spotify.com/track/5JtHmpBXxW6Uj9U32zKRB5"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -751,8 +763,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Beauty And The Beast (Soundtrack)",
-        "url": "https://open.spotify.com/album/6Hzv2X1vxzbyGUv5gmaYOS"
+        "name": "Beauty And The Beast (Special Edition)",
+        "url": "https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq"
       },
       "artists": [
         {
@@ -774,11 +786,15 @@
         {
           "name": "David Ogden Stiers",
           "url": "https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 138986,
+      "duration_ms": 139066,
       "name": "Something There",
-      "url": "https://open.spotify.com/track/6M4hBkdml7QIB502hzBCK8"
+      "url": "https://open.spotify.com/track/7qQDSdhFkh0MMAE1LO5c3K"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -868,7 +884,7 @@
       "added_at": "2022-07-07 20:29:28",
       "album": {
         "name": "The Bare Necessities (From \"The Jungle Book\")",
-        "url": "https://open.spotify.com/album/2ObuQ2rZlx0uJbFMSp6f7M"
+        "url": "https://open.spotify.com/album/5sRIFmDAhy6ngKjxrTaO6h"
       },
       "artists": [
         {
@@ -878,7 +894,7 @@
       ],
       "duration_ms": 160356,
       "name": "The Bare Necessities - From \"The Jungle Book\"",
-      "url": "https://open.spotify.com/track/2mHszKdcP0V2DPrv3w1f8P"
+      "url": "https://open.spotify.com/track/4imtIfVskTzpoloHLaHplb"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -899,8 +915,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Walt Disney Records The Legacy Collection: The Lion King",
-        "url": "https://open.spotify.com/album/4VKvwKo7H66HIOeQpJ4FzN"
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
       "artists": [
         {
@@ -924,9 +940,9 @@
           "url": "https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Can You Feel the Love Tonight",
-      "url": "https://open.spotify.com/track/1jMKPk3A6ugsFLOFb21QSD"
+      "duration_ms": 176213,
+      "name": "Can You Feel the Love Tonight - From \"The Lion King\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/2XQee7HP5QrDwUGHOl6GFf"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -947,8 +963,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2YKen228UDX6DWA9LCuQBn"
+        "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
       "artists": [
         {
@@ -962,7 +978,7 @@
       ],
       "duration_ms": 164453,
       "name": "Remember Me (D\u00fao)",
-      "url": "https://open.spotify.com/track/4uXtUq8f0Vbcsjixby3scy"
+      "url": "https://open.spotify.com/track/48HBOFsmgIZI5GR3VnIzWL"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -987,8 +1003,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "WALL-E",
-        "url": "https://open.spotify.com/album/6ML1fFTZ11DcCjS6PPnbaB"
+        "name": "Highlights From His Decca Years",
+        "url": "https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS"
       },
       "artists": [
         {
@@ -996,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 204013,
+      "duration_ms": 206333,
       "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/3e8bQYmhna1rnrVIEBuIg2"
+      "url": "https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -1119,8 +1135,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "The Princess and the Frog",
-        "url": "https://open.spotify.com/album/6zgvBxOmfWxrQi4Jxxki0P"
+        "name": "Never Knew I Needed",
+        "url": "https://open.spotify.com/album/5MO7LCHbuwp6OePA2R8e7g"
       },
       "artists": [
         {
@@ -1128,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 217013,
+      "duration_ms": 216613,
       "name": "Never Knew I Needed - From \"The Princess and the Frog\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/4LtNVbnOZK34t9mtLSRNe5"
+      "url": "https://open.spotify.com/track/2Ei07VELTKHy7bJHWxNDRI"
     },
     {
       "added_at": "2022-07-07 20:29:28",
@@ -1327,8 +1343,8 @@
     {
       "added_at": "2022-07-07 20:29:28",
       "album": {
-        "name": "Walt Disney Records The Legacy Collection: Pinocchio",
-        "url": "https://open.spotify.com/album/4Slxo7bS6OnHarnmztOUO5"
+        "name": "Pinocchio",
+        "url": "https://open.spotify.com/album/5zsAzctyWGNrchLWXFvKgz"
       },
       "artists": [
         {
@@ -1342,7 +1358,7 @@
       ],
       "duration_ms": 195066,
       "name": "When You Wish Upon a Star",
-      "url": "https://open.spotify.com/track/0ENlXTc4TBupIJlXEtG3jn"
+      "url": "https://open.spotify.com/track/1WrPa4lrIddctGWAIYYfP9"
     },
     {
       "added_at": "2022-07-07 20:29:28",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
+  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
   "name": "Radar Espa\u00f1a",
   "published_playlist_ids": [
     "0uaQZzCtnp7y3M4o0OYD28"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149275,
       "name": "Ahora Y Siempre",
       "url": "https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu"
@@ -237,6 +237,24 @@
     {
       "album": {
         "name": "canci\u00f3n de amor",
+        "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177002,
+      "name": "canci\u00f3n de amor",
+      "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
+    },
+    {
+      "album": {
+        "name": "canci\u00f3n de amor",
         "url": "https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh"
       },
       "artists": [
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177002,
       "name": "canci\u00f3n de amor",
       "url": "https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162390,
       "name": "en ning\u00fan lugar",
       "url": "https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO"
@@ -859,6 +877,24 @@
       "duration_ms": 148363,
       "name": "Hurac\u00e1n 2.0",
       "url": "https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5"
+    },
+    {
+      "album": {
+        "name": "Indie esperanzador",
+        "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Indie esperanzador",
+      "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
       "album": {
@@ -2253,6 +2289,24 @@
     {
       "album": {
         "name": "un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138741,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
+    },
+    {
+      "album": {
+        "name": "un poco m\u00e1s",
         "url": "https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0"
       },
       "artists": [
@@ -2263,7 +2317,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138741,
       "name": "un poco m\u00e1s",
       "url": "https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf"

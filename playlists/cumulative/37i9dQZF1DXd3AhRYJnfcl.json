@@ -731,10 +731,28 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216710,
       "name": "Mareed",
       "url": "https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "MAREED",
+      "url": "https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL"
     },
     {
       "album": {
@@ -1069,6 +1087,24 @@
     {
       "album": {
         "name": "Tegy Ntrahn",
+        "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240673,
+      "name": "Tegy Ntrahn",
+      "url": "https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi"
+    },
+    {
+      "album": {
+        "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av"
       },
       "artists": [
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240673,
       "name": "Tegy Ntrahn",
       "url": "https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39"
@@ -1261,6 +1297,28 @@
     {
       "album": {
         "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/5ql1v6jrdAmSzuyPJPKnNF"
+      },
+      "artists": [
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        },
+        {
+          "name": "Shaimaa El Maghraby",
+          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
+      "url": "https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
         "url": "https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m"
       },
       "artists": [
@@ -1275,7 +1333,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "\u0627\u0646\u062a\u064a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K"
@@ -1333,10 +1391,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191673,
       "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
       "url": "https://open.spotify.com/track/0P6gYLZnBuhZNq99NAUJe3"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+        "url": "https://open.spotify.com/album/5C60nNtSBoFoFjrb6hTuRy"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191673,
+      "name": "\u0628\u0639\u0648\u062f\u0629 \u064a\u0627 \u0628\u0644\u0627\u062f\u0649 ( \u0645\u0646 \u0641\u064a\u0644\u0645 \" \u0643\u0628\u0627\u062a\u0646 \u0627\u0644\u0632\u0639\u062a\u0631\u064a \")",
+      "url": "https://open.spotify.com/track/5V0l4DBUYwNr8ETXqf1Yod"
     },
     {
       "album": {
@@ -1429,6 +1505,24 @@
     {
       "album": {
         "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
+        "url": "https://open.spotify.com/album/48KAUO2Q0VsyjXQvDOntn4"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168465,
+      "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
+      "url": "https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
         "url": "https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy"
       },
       "artists": [
@@ -1439,7 +1533,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168465,
       "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
       "url": "https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT"

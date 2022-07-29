@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 237236,
       "name": "1942",
       "url": "https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 132800,
       "name": "38 y Super",
       "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155588,
       "name": "454",
       "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177864,
       "name": "A La Orden (En Vivo)",
       "url": "https://open.spotify.com/track/1oy8f5iHt0T4dDCytiPDUU"
@@ -225,10 +225,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247198,
       "name": "Ahogandome",
       "url": "https://open.spotify.com/track/1SjCgLlW6n8QyfnipIXYAF"
+    },
+    {
+      "album": {
+        "name": "Malandro Enamorado",
+        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247198,
+      "name": "Ahogandome",
+      "url": "https://open.spotify.com/track/6k3n0JrUxNX2D5xh2EY1e3"
     },
     {
       "album": {
@@ -301,6 +319,24 @@
       "duration_ms": 126595,
       "name": "Arsenal Efectivo",
       "url": "https://open.spotify.com/track/3EFZ9F9oP3zhXMUUgfskVU"
+    },
+    {
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127253,
+      "name": "Arsenal Efectivo",
+      "url": "https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp"
     },
     {
       "album": {
@@ -435,7 +471,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154749,
       "name": "Calles de Houston",
       "url": "https://open.spotify.com/track/5IF4qgcAd8WeL9YWxP89jY"
@@ -565,7 +601,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 178305,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/7t5hD3O8KBrr4yGAgHyn6F"
@@ -623,10 +659,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146387,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/1I7FBJDOWgKtqyTGfuzsr8"
+    },
+    {
+      "album": {
+        "name": "Desde Morro",
+        "url": "https://open.spotify.com/album/0rYYFBxcXHqlz0Xqk8V3ux"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146387,
+      "name": "Desde Morro",
+      "url": "https://open.spotify.com/track/2bWpJItGLLM9cj8dvU2a0U"
     },
     {
       "album": {
@@ -645,7 +699,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187352,
       "name": "Disfruto Lo Malo",
       "url": "https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx"
@@ -699,7 +753,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 185500,
       "name": "El Capit\u00e1n",
       "url": "https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA"
@@ -913,10 +967,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184500,
       "name": "El Dinero Los Cambio",
       "url": "https://open.spotify.com/track/4kgZoTVXtWLcDgs0M5Coiz"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235328,
+      "name": "El Doctor",
+      "url": "https://open.spotify.com/track/2g12ZAzSIybDe6QC3w9DYl"
     },
     {
       "album": {
@@ -931,7 +1003,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235328,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C"
@@ -1185,10 +1257,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184848,
       "name": "en el Refuego",
       "url": "https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB"
+    },
+    {
+      "album": {
+        "name": "En El Refuego",
+        "url": "https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184848,
+      "name": "En El Refuego",
+      "url": "https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO"
     },
     {
       "album": {
@@ -1203,7 +1293,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185748,
       "name": "En Modesto Se La Pasa",
       "url": "https://open.spotify.com/track/7bC7TdehslF8iUS5f8wRpP"
@@ -1329,7 +1419,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160501,
       "name": "Gente Del Flaco (En Vivo)",
       "url": "https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM"
@@ -1471,7 +1561,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 171391,
       "name": "It's Really True",
       "url": "https://open.spotify.com/track/00VarnepizaFbXU56M64QB"
@@ -1621,7 +1711,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 227454,
       "name": "La Noche Empieza",
       "url": "https://open.spotify.com/track/28wWPHEn63HCXDMqiCiLyX"
@@ -1723,6 +1813,24 @@
     {
       "album": {
         "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "LoLo Felix",
+      "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
+    },
+    {
+      "album": {
+        "name": "Vida Peligrosa",
         "url": "https://open.spotify.com/album/2HyeAaKO4nBWgT2pF3lWJo"
       },
       "artists": [
@@ -1733,7 +1841,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215031,
       "name": "Lolo Felix",
       "url": "https://open.spotify.com/track/2JwztiYR35Y8Wvf8rwnQva"
@@ -1799,7 +1907,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 170240,
       "name": "Lujos De La Vida",
       "url": "https://open.spotify.com/track/465CNemByQDps6aOI24859"
@@ -2047,7 +2155,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174200,
       "name": "No Eh Cambiado",
       "url": "https://open.spotify.com/track/6JE175YPwLsqOsiCwg1OX5"
@@ -2073,7 +2181,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210909,
       "name": "No Era Malo Yo Fui Amigo",
       "url": "https://open.spotify.com/track/5nMjzchl39k4kKWhRIe2GV"
@@ -2347,7 +2455,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228853,
       "name": "Radicamos En South Central",
       "url": "https://open.spotify.com/track/1kHpljP6paUsQyZgwFDfxn"
@@ -2503,7 +2611,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 186750,
       "name": "Sigan En Lo Suyo",
       "url": "https://open.spotify.com/track/7xFYDJiXkwAIxKwXSyqMjc"
@@ -2586,6 +2694,24 @@
     },
     {
       "album": {
+        "name": "Soy el Raton",
+        "url": "https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175471,
+      "name": "Soy el Raton",
+      "url": "https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6"
+    },
+    {
+      "album": {
         "name": "Soy El Raton",
         "url": "https://open.spotify.com/album/0goe4Y1NMHxxsnXyv8ytuA"
       },
@@ -2597,7 +2723,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175542,
       "name": "Soy El Raton",
       "url": "https://open.spotify.com/track/6VUtRAE5fkJQfWqFhEWy1H"
@@ -2622,6 +2748,24 @@
     },
     {
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "album": {
         "name": "Soy El Unico",
         "url": "https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl"
       },
@@ -2633,7 +2777,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213999,
       "name": "Soy El Unico",
       "url": "https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN"
@@ -2745,7 +2889,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163867,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4"
@@ -2763,7 +2907,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
@@ -2835,10 +2979,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183711,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/4UdC2swdiEBCsP5mLyESWG"
+    },
+    {
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Vida Peligrosa",
+      "url": "https://open.spotify.com/track/5ssRh5ChJO21f1EhSXyiCl"
     },
     {
       "album": {
@@ -2911,7 +3073,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203104,
       "name": "Zumbando Terrenos",
       "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"

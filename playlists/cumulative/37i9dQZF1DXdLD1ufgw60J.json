@@ -251,7 +251,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253413,
       "name": "Adagio in D Minor, BWV 974: II. Adagio",
       "url": "https://open.spotify.com/track/4a8dR8XKOBOMxUSr8UT58W"
@@ -725,6 +725,28 @@
       "duration_ms": 140733,
       "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
       "url": "https://open.spotify.com/track/3YYKrn3iGOAel605Znt3ai"
+    },
+    {
+      "album": {
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
     },
     {
       "album": {
@@ -1313,10 +1335,36 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268000,
       "name": "Le Tombeau de Couperin: V. Menuet - Arr. for oboe and piano",
       "url": "https://open.spotify.com/track/5DI93d7HPS7iHGwdFiwi49"
+    },
+    {
+      "album": {
+        "name": "Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/4hrZpVvHdEsKzPtjIDyrFR"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "C\u00e9line Moinet",
+          "url": "https://open.spotify.com/artist/5WMho67qn4F1VLvOnFEAzE"
+        },
+        {
+          "name": "Florian Uhlig",
+          "url": "https://open.spotify.com/artist/0cpP8FeiZedCgAwj2L895j"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Le Tombeau de Couperin: V. Menuet - Arr. for oboe and piano",
+      "url": "https://open.spotify.com/track/5YrU9onxukiOKTpCgTHOBn"
     },
     {
       "album": {

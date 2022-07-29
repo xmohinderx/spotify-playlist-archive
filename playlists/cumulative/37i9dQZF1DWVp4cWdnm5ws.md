@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon.
 
-82 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
+83 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/3x47cvEOoy8EUAZDcwGWs4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [SEXBOMB GIRL](https://open.spotify.com/track/5TZATzxD16hCmPiuokUgaa) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [SEXBOMB GIRL](https://open.spotify.com/album/50iZdZCELPzNbVFDSgb9zF) | 3:27 | 2021-11-25 | 2022-03-25 |
-| [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 |  |
+| [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-24 | 2022-07-29 |
+| [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-03-24 |  |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/4feJnuMO1hnNLEWiKYDxOl) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/7w2WseM2SppYIXbS9jQ8QO) | 3:26 | 2021-11-25 | 2022-03-25 |
 | [The Baddest](https://open.spotify.com/track/7q9NUxTI5vhWNBq94PYURo) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Baddest](https://open.spotify.com/album/686RAST484tdwr0GNYZRJA) | 3:16 | 2021-11-25 | 2022-03-25 |
 | [The Light](https://open.spotify.com/track/2ySkMWsWrVA7rvppQUTn8u) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/6Q8UbSdYcoTdMCayeAWMqY) | 3:12 | 2021-11-25 | 2022-03-25 |

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BOWKYLION",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LUSS feat. Patrickananda",
   "name": "T-Pop Now",
   "published_playlist_ids": [
     "46jC5TDLIJijd5c6Z3EIRR"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1001 (You're Lovely)",
+        "url": "https://open.spotify.com/album/1wFsK9shNnndg6oDUoOLqt"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194842,
+      "name": "1001 (You're Lovely)",
+      "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
+    },
     {
       "album": {
         "name": "1001 (You're Lovely)",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194842,
       "name": "1001 (You're Lovely)",
       "url": "https://open.spotify.com/track/7ip4DUtdpLH4TkHfKgFbpf"
@@ -214,6 +232,24 @@
     },
     {
       "album": {
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/5FX1VjfySHopZxJt4icIPu"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205982,
+      "name": "IMAGINE",
+      "url": "https://open.spotify.com/track/5dJ0BoobBBkSIDm7yeXZZ1"
+    },
+    {
+      "album": {
         "name": "IWBYBF (Original Soundtrack from \"BE MY BOYFRIENDS 2 - ROSE IN DA HOUSE\")",
         "url": "https://open.spotify.com/album/0MaIRb1qHAY6EWPS1pIEVn"
       },
@@ -311,6 +347,24 @@
       "duration_ms": 182125,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
+    },
+    {
+      "album": {
+        "name": "My Princess (Ost. My Sassy Princess \u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07 2022)",
+        "url": "https://open.spotify.com/album/7bpfJKj48oOUklA23OE3uc"
+      },
+      "artists": [
+        {
+          "name": "TRINITY",
+          "url": "https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "My Princess (Ost. My Sassy Princess \u0e40\u0e08\u0e49\u0e32\u0e2b\u0e0d\u0e34\u0e07 2022)",
+      "url": "https://open.spotify.com/track/1P4h8kmDcZuwkMu0mKQcrM"
     },
     {
       "album": {
@@ -481,7 +535,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207500,
       "name": "WINK",
       "url": "https://open.spotify.com/track/1c3J4LNuNvUUnXmk8moHHv"
@@ -560,6 +614,28 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Loser) [feat. Patrickananda]",
+        "url": "https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj"
+      },
+      "artists": [
+        {
+          "name": "LUSS",
+          "url": "https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6"
+        },
+        {
+          "name": "Patrickananda",
+          "url": "https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "\u0e02\u0e35\u0e49\u0e41\u0e07 (Loser) [feat. Patrickananda]",
+      "url": "https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
         "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
       },
@@ -629,7 +705,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270750,
       "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
@@ -1422,6 +1498,24 @@
     },
     {
       "album": {
+        "name": "\u0e19\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e1e\u0e2d(SLEEPLESS)",
+        "url": "https://open.spotify.com/album/1fqeLb20GzlzxvNUElivvL"
+      },
+      "artists": [
+        {
+          "name": "\u0e04\u0e23\u0e34\u0e2a \u0e1e\u0e35\u0e23\u0e27\u0e31\u0e2a",
+          "url": "https://open.spotify.com/artist/0zZSfgYbhV2ruxeUp5krYv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252765,
+      "name": "\u0e19\u0e2d\u0e19\u0e44\u0e21\u0e48\u0e1e\u0e2d(SLEEPLESS)",
+      "url": "https://open.spotify.com/track/1MjpiReBl8roMWHT00O2CL"
+    },
+    {
+      "album": {
         "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
         "url": "https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA"
       },
@@ -1451,10 +1545,32 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223448,
       "name": "\u0e1a\u0e23\u0e23\u0e40\u0e17\u0e32 - PLASTER",
       "url": "https://open.spotify.com/track/5khymyREguDo1CVkvmkNbF"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1f\u0e31\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (please tell me)",
+        "url": "https://open.spotify.com/album/4fTuhlSm9xd48eyxz9nzEm"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        },
+        {
+          "name": "Copter",
+          "url": "https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216074,
+      "name": "\u0e1a\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1f\u0e31\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (please tell me)",
+      "url": "https://open.spotify.com/track/0agwacC49QdfC2rZ6R6lBc"
     },
     {
       "album": {
@@ -1473,7 +1589,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216074,
       "name": "\u0e1a\u0e2d\u0e01\u0e43\u0e2b\u0e49\u0e1f\u0e31\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e19\u0e30 (please tell me)",
       "url": "https://open.spotify.com/track/17UUTchNWTLOFsLUJnpIv8"
@@ -1563,10 +1679,46 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219740,
       "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
       "url": "https://open.spotify.com/track/0MejzQMW0yfpwfZwIjNaAH"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+        "url": "https://open.spotify.com/album/6RGRYegVNxklqsZR0x4yDp"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219740,
+      "name": "\u0e1e\u0e35\u0e48\u0e46 \u0e15\u0e31\u0e14\u0e41\u0e27\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/5ozsFNcATFgJUXSdi6fxrf"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e01\u0e47\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/1XCt0fRiLyzYaTcGlLPWX1"
+      },
+      "artists": [
+        {
+          "name": "Chilling Sunday",
+          "url": "https://open.spotify.com/artist/5UjfkANGRdbB6a6aLQHoz9"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "\u0e21\u0e2d\u0e07\u0e08\u0e32\u0e01\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e01\u0e47\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/6Sw06fUvccaRgiButscHjY"
     },
     {
       "album": {
@@ -1733,10 +1885,32 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199333,
       "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"",
       "url": "https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE"
     },
     {
       "album": {
@@ -1841,10 +2015,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280909,
       "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
       "url": "https://open.spotify.com/track/3o4erj1cYrVQFUNcKAYZoH"
+    },
+    {
+      "album": {
+        "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
+        "url": "https://open.spotify.com/album/34TMbcDAN70wRvXpbFAHgw"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280909,
+      "name": "\u0e27\u0e31\u0e07\u0e27\u0e19(BOXX FROM HOME)",
+      "url": "https://open.spotify.com/track/5gENNB4drKKi4qVip6TUSD"
     },
     {
       "album": {
@@ -1859,10 +2051,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
       "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
+    },
+    {
+      "album": {
+        "name": "The First Album",
+        "url": "https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220793,
+      "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (TEST ME)",
+      "url": "https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3"
     },
     {
       "album": {
@@ -1953,7 +2163,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191333,
       "name": "\u0e2a\u0e21\u0e31\u0e22\u0e19\u0e35\u0e49\u0e40\u0e04\u0e49\u0e32\u0e44\u0e21\u0e48\u0e41\u0e2d\u0e1a\u0e23\u0e31\u0e01(Just Say You Love Me) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e04\u0e37\u0e19\u0e19\u0e31\u0e1a\u0e14\u0e32\u0e27 Astrophile",
       "url": "https://open.spotify.com/track/2mBtzhDDwoGBKAsrGMYrev"
@@ -1993,10 +2203,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188000,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes don't lie)",
       "url": "https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes don't lie)",
+        "url": "https://open.spotify.com/album/6doxtJV5kZ6Z5QBolgoCHi"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Eyes don't lie)",
+      "url": "https://open.spotify.com/track/7Mcy886fsW8eUQzIwdLnVC"
     },
     {
       "album": {
@@ -2047,10 +2275,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254584,
       "name": "\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Fake News) - From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"",
       "url": "https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Fake News) [From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2]",
+        "url": "https://open.spotify.com/album/6bTCiLjRwKV0C1fh53lMcO"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254584,
+      "name": "\u0e2b\u0e25\u0e2d\u0e01\u0e01\u0e31\u0e19\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Fake News) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
+      "url": "https://open.spotify.com/track/0Apw9KBqEdc85zUw13UJ14"
     },
     {
       "album": {
@@ -2127,10 +2373,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220120,
       "name": "\u0e2b\u0e49\u0e32\u0e21\u0e43\u0e08\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/2hteglfTJmJmqac9pXz7rb"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e49\u0e32\u0e21\u0e43\u0e08\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
+        "url": "https://open.spotify.com/album/2oBrpIpHLArLyXiMLx4Knq"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220120,
+      "name": "\u0e2b\u0e49\u0e32\u0e21\u0e43\u0e08\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
+      "url": "https://open.spotify.com/track/3xVsS8m92jEGMh3DXGe1PW"
     },
     {
       "album": {
@@ -2145,10 +2409,46 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222272,
       "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01\u0e41\u0e15\u0e48\u0e1a\u0e2d\u0e01\u0e41\u0e1f\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 (Shhhh!)",
       "url": "https://open.spotify.com/track/1BhiR1qlAMzWhi0AgEPilB"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e22\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19 (borrow u)",
+        "url": "https://open.spotify.com/album/3qTQSnFoiJU1nGw8InVPot"
+      },
+      "artists": [
+        {
+          "name": "Bella Raiwin",
+          "url": "https://open.spotify.com/artist/5xOxlinswAywOSzvMV96gL"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e22\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e17\u0e35\u0e48\u0e1a\u0e49\u0e32\u0e19 (borrow u)",
+      "url": "https://open.spotify.com/track/3JrE6JKjvU3inkC2gNkWfo"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (repeat)",
+        "url": "https://open.spotify.com/album/5VLyuQugRFa4tBxfppcmTn"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (repeat)",
+      "url": "https://open.spotify.com/track/0g6sPkauqoHKPtLzYGc1z6"
     },
     {
       "album": {
@@ -2163,7 +2463,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238000,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e04\u0e19\u0e40\u0e14\u0e34\u0e21 (repeat)",
       "url": "https://open.spotify.com/track/1E0waZD9GmD0SkbEhk19J4"
@@ -2433,10 +2733,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189500,
       "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08",
       "url": "https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/3S8wLd9kZqvibuEQoAKd7I"
+      },
+      "artists": [
+        {
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "\u0e40\u0e1c\u0e25\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/7GfFmnGewokTR7RwkMpbW5"
     },
     {
       "album": {
@@ -2495,6 +2813,24 @@
       "duration_ms": 219818,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e25\u0e48\u0e19 \u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19 (Just Being Friendly)",
       "url": "https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1f\u0e23\u0e19\u0e14\u0e4c\u0e25\u0e35\u0e48\u0e2b\u0e23\u0e37\u0e2d\u0e21\u0e35\u0e43\u0e08 (What are we?)",
+        "url": "https://open.spotify.com/album/71LGeCnc40MoZvBLLdH2zF"
+      },
+      "artists": [
+        {
+          "name": "DIDIxDADA",
+          "url": "https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "\u0e40\u0e1f\u0e23\u0e19\u0e14\u0e4c\u0e25\u0e35\u0e48\u0e2b\u0e23\u0e37\u0e2d\u0e21\u0e35\u0e43\u0e08 - What are we?",
+      "url": "https://open.spotify.com/track/3wopuhnCy32TQCsx7bXkri"
     },
     {
       "album": {
@@ -2588,6 +2924,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e43\u0e08\u0e25\u0e07\u0e44\u0e1b\u0e40\u0e25\u0e48\u0e19(GAMBLE)",
+        "url": "https://open.spotify.com/album/5ULzvf2zlwnN7B8zgokFzY"
+      },
+      "artists": [
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        },
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204587,
+      "name": "\u0e40\u0e2d\u0e32\u0e43\u0e08\u0e25\u0e07\u0e44\u0e1b\u0e40\u0e25\u0e48\u0e19(GAMBLE)",
+      "url": "https://open.spotify.com/track/5XNaYxMeuMXMJy3K9UcSXg"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 (Hermionong)",
         "url": "https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj"
       },
@@ -2617,7 +2975,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186279,
       "name": "\u0e41\u0e01\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e21\u0e32\u0e15\u0e25\u0e2d\u0e14 - All Kill",
       "url": "https://open.spotify.com/track/16F2kMvP3sJ9aqtL5ubZt2"
@@ -2679,6 +3037,28 @@
     {
       "album": {
         "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
+        "url": "https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T"
+      },
+      "artists": [
+        {
+          "name": "Jaonaay",
+          "url": "https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo"
+        },
+        {
+          "name": "Jun\u00e9",
+          "url": "https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261750,
+      "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
+      "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
         "url": "https://open.spotify.com/album/6Vhm8CSoT99fiJSbhLSwEj"
       },
       "artists": [
@@ -2693,7 +3073,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261750,
       "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
       "url": "https://open.spotify.com/track/6GDI4Y8fOsptYwSW2iIUbe"
@@ -2733,7 +3113,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203877,
       "name": "\u0e41\u0e1e\u0e49\u0e27\u0e48\u0e30",
       "url": "https://open.spotify.com/track/47KUgmN7zprO29hEVvMNX1"
@@ -2817,10 +3197,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238651,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
       "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237772,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz"
     },
     {
       "album": {
@@ -2907,7 +3305,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228600,
       "name": "\u0e43\u0e08\u0e40\u0e01\u0e40\u0e23",
       "url": "https://open.spotify.com/track/0rDzLlocH57yvez6q3fSWK"
@@ -3041,6 +3439,24 @@
     {
       "album": {
         "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
+        "url": "https://open.spotify.com/album/6nOlq9tM6xoeF3iHi9KO3H"
+      },
+      "artists": [
+        {
+          "name": "SERIOUS BACON",
+          "url": "https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278884,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
+      "url": "https://open.spotify.com/track/2WkKXmesZuSuuuy0Dj8xi9"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
         "url": "https://open.spotify.com/album/3q1bjaW7no3BHSRS2QOajV"
       },
       "artists": [
@@ -3051,7 +3467,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278884,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e1f\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5NHUdpYUEHL8fDLmR1qFd8"

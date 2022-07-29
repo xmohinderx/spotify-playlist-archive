@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 
 > La música que te acompaña en el amor\. Foto: Sebastian Yatra & Pablo Alborán
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,770 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,971 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
 | 2 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 |
 | 3 | [DÍA DEL AMOR](https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANASTASIA](https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO) | 3:02 |
-| 4 | [Pero Te Conocí](https://open.spotify.com/track/3GoZFM9oqXO68BQXBA1Czv) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Pero Te Conocí](https://open.spotify.com/album/7nv6eLXbM7wGEXmjwh2djL) | 3:06 |
+| 4 | [Pero Te Conocí](https://open.spotify.com/track/30brAfx64jxQMeUNUgDFaj) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 3:06 |
 | 5 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 6 | [Carne y Hueso](https://open.spotify.com/track/3yeFTYLMz4nOtyPXWEMKsW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Carne y Hueso](https://open.spotify.com/album/77p7Bob5p0c15o7r9Wpxb9) | 2:58 |
 | 7 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 18 | [Después De Ti](https://open.spotify.com/track/7Gyw1SoLPJE5x1yF1ogD5o) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Después De Ti](https://open.spotify.com/album/5F5kLsabAGAACpCMxWS1D9) | 3:18 |
 | 19 | [De Vuelta Pa' La Vuelta](https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [De Vuelta Pa' La Vuelta](https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc) | 3:51 |
 | 20 | [Entiéndelo](https://open.spotify.com/track/69QB9IQdyxt48WwcomJAmZ) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Entiéndelo](https://open.spotify.com/album/6SZQatuIqnVNMGojwai7ls) | 2:37 |
-| 21 | [Con la Falta Que Me Haces](https://open.spotify.com/track/04HbA6XyuQ5MduWJUPmwiP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Con la Falta Que Me Haces](https://open.spotify.com/album/6au2RlG5v26y1S5axAEmWw) | 2:44 |
+| 21 | [Con la Falta Que Me Haces](https://open.spotify.com/track/3xohhgJWESr3MgtaZyRTkd) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [20 \-\- 21](https://open.spotify.com/album/7H9fuEWZlieEdYj4galfnc) | 2:44 |
 | 22 | [Bajo La Mesa](https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Bajo La Mesa](https://open.spotify.com/album/7skwkKwi2c3AZF5oBQDUY0) | 2:37 |
 | 23 | [El día menos pensado](https://open.spotify.com/track/2POEnW8xvLI8o3zcm61tJz) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [El día menos pensado](https://open.spotify.com/album/7c3gCf6zmvLjb1DY4QqGBu) | 3:44 |
 | 24 | [Amor de Febrero](https://open.spotify.com/track/5PTXXKeQxOospewN9hDXka) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Amor de Febrero](https://open.spotify.com/album/61dPnucldWCRBWSRiJwuc4) | 3:27 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 55 | [Este Corazón](https://open.spotify.com/track/01Er69gC98QtvINyqv3az9) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Este Corazón](https://open.spotify.com/album/5ztxAkYymgzvG9C6ri4SYL) | 3:20 |
 | 56 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 |
 | 57 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
-| 58 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/1cYKJBDFOlT6a1vhjY4ygo) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Por Tu Amor \(Si Fuera Mía\)](https://open.spotify.com/album/7xAjjBjupSfF4j2xrrrW69) | 3:20 |
+| 58 | [Por Tu Amor \- Si Fuera Mía](https://open.spotify.com/track/5qELKdEhxaAjYKROyf52C8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:20 |
 | 59 | [Quédate](https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quédate](https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO) | 3:15 |
 | 60 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 |
 | 61 | [Será](https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Será](https://open.spotify.com/album/0uLEkoSJkTWfAaVnEGlbja) | 3:02 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 79 | [Lo Que en Ti Veo](https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:26 |
 | 80 | [Ahora](https://open.spotify.com/track/1K99rDEQIeW9M9FdHp2M5M) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ahora](https://open.spotify.com/album/5ZR3yqdHl4rkEIKmCnGg2x) | 3:44 |
 | 81 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 |
-| 82 | [Malibu](https://open.spotify.com/track/1An91dzcVTS96yP3a7F495) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/5cZ7MgzsFreFseajNN2sph) | 2:31 |
+| 82 | [Malibu](https://open.spotify.com/track/6no81SKcduoJ0L8AoO4PP7) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Malibu](https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU) | 2:31 |
 | 83 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
 | 84 | [ANTES QUE SALGA EL SOL](https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ANTES QUE SALGA EL SOL](https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi) | 3:03 |
 | 85 | [El Amor en Mi Vida](https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [El Amor en Mi Vida](https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14fkzxPABaL.md) - [plain]
 | 99 | [Se Nos Rompió El Amor](https://open.spotify.com/track/3JjjmUzjEdFdDiNyJdpDTT) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Se Nos Rompió El Amor](https://open.spotify.com/album/2bIohYt4kJM896h5LClSz4) | 2:34 |
 | 100 | [Te Quiero](https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft) | [Jo Dimata](https://open.spotify.com/artist/5sTptBGZPv9RocQoROWhAp) | [Te Quiero](https://open.spotify.com/album/6zSxml88fNR8yHBztM0ZcQ) | 4:12 |
 
-Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDBiMzAwMDAwMTgyMjNkOTAwMjMwMDAwMDE4MjIyMWE3MDFj`
+Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDAwMGE2Njc5ODU1M2M2NjAyYzZmNjJkYTIwMjlhNTllZTBi`

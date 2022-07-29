@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > The sweet sounds of Algeria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,392 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,463 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 3 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 |
 | 4 | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/track/47XfHZC83cqjSJP3Cu1T4u) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Raïna Raï](https://open.spotify.com/artist/10EPr7TNgCwIWDgk9xvqzH) | [Nawaya \(feat\. Didine Canon 16 & Raïna Raï\)](https://open.spotify.com/album/1BKiOLvxoLiEk0qhofpMQU) | 3:14 |
 | 5 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadir Ben](https://open.spotify.com/artist/1hWMrdBS24eKrWxyg85Zb2), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 |
-| 6 | [Achfa](https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/2uFeXabLfJNW9MtvylJkdE) | 3:40 |
+| 6 | [Achfa](https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Achfa](https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha) | 3:40 |
 | 7 | [Ghouyoum](https://open.spotify.com/track/1AXZnMghQkWIF2kMDwrRG7) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Ghouyoum](https://open.spotify.com/album/5C7TNv7NdJ8UPHx4QAnYqB) | 2:52 |
 | 8 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 |
 | 9 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 |
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 22 | [Harba II](https://open.spotify.com/track/33xn4wz62RtdIyR1sx8BJa) | [Abdou hk](https://open.spotify.com/artist/3B344rrWCr0O5ogBKZeO59), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX) | [Harba II](https://open.spotify.com/album/5zaQM2mwAYci2aCZKLvTjq) | 3:22 |
 | 23 | [Sonia](https://open.spotify.com/track/5NuvJqrwmFovb6TGbnjjqR) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Sonia](https://open.spotify.com/album/3x3LtImIZjkp0Xw7MZj2DW) | 3:23 |
 | 24 | [Bent Sultan](https://open.spotify.com/track/5XvzmPFcVRlfdlCw3KK2Jb) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Bent Sultan](https://open.spotify.com/album/2pQbg9uIkWzsUFeNxNU2nI) | 3:57 |
-| 25 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 |
+| 25 | [LA FIN](https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [LA FIN](https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD) | 3:06 |
 | 26 | [Marsilia](https://open.spotify.com/track/35hzpvo3JS4NbOMpvC9vAN) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Marsilia](https://open.spotify.com/album/077lukkBWt0j9J7PfZRM0p) | 2:49 |
 | 27 | [Jwabi](https://open.spotify.com/track/0HWqu8kIr5iitYHd62RkJH) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 4:22 |
 | 28 | [Liyam](https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Liyam](https://open.spotify.com/album/56kMBEY2KFd8ua913PoSq4) | 3:21 |
-| 29 | [Mali Mali](https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG) | 3:44 |
+| 29 | [Mali Mali](https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Mali Mali](https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP) | 3:42 |
 | 30 | [Zo3ama](https://open.spotify.com/track/4nkTyblMWmFkGuNWGUUlED) | [Catani](https://open.spotify.com/artist/3EAwGrrl1XMcypPptaKLUs) | [Zo3ama](https://open.spotify.com/album/3vMTLVSza1gHcK1khw9ioc) | 3:59 |
 | 31 | [Dima Yesrali](https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Dima Yesrali](https://open.spotify.com/album/0LjnnpTnbeZqKwpElPPHKV) | 4:06 |
 | 32 | [Thatmet Lekdar](https://open.spotify.com/track/61vtgCYKGAiw75IoTnDCG1) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 4:07 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 34 | [Mazal Mazal](https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Mazal Mazal](https://open.spotify.com/album/1oghaMTdh4pK4qUmp81t4u) | 3:17 |
 | 35 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 |
 | 36 | [Engagé](https://open.spotify.com/track/5ONxNp0ytrI7xzk4PZ2Vaz) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Engagé](https://open.spotify.com/album/7z4Os1feFjBgWHdQlEv5xD) | 4:44 |
-| 37 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 |
+| 37 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 |
 | 38 | [Thugluv](https://open.spotify.com/track/0LmBTAeJkoVntKjuUqCQHb) | [Islem\-23](https://open.spotify.com/artist/4fdscmamdruNB8lZ1nWrTd) | [7or](https://open.spotify.com/album/1rvuk6HyweX9My7TiODYbN) | 3:05 |
 | 39 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 |
 | 40 | [3ach9ek Criminel](https://open.spotify.com/track/6Y3hqLC16tJUEI4PDsusoT) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [3ach9ek Criminel](https://open.spotify.com/album/5CYq5YmDbgtM0ys9xBxYiL) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Nostalgia](https://open.spotify.com/track/2tigdzJhKHibLNXApAlTKZ) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/7oH1hIfjDhCaM8oOrewWJN) | 2:34 |
 | 50 | [Courage](https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Courage](https://open.spotify.com/album/3fesoj7qmSWTa6U5vQFqFV) | 4:00 |
 
-Snapshot ID: `MTY1ODkzMzUxOSwwMDAwMDBiNTAwMDAwMTgyNDAyNGEzYzUwMDAwMDE3MGM0YzdmNmQ0`
+Snapshot ID: `MTY1ODkzMzUxOSwwMDAwMDAwMDZkMjM4Y2I4YzU3NTIyZjk1MTEwODExZmNmNGViYmU0`

@@ -4,11 +4,12 @@
 
 > Start your day with calm and cool jazz.
 
-126 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
+128 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-05-17 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-28 |  |
+| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-05-17 | 2022-07-29 |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-05-31 |  |
 | [A Quiet Place](https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [A Quiet Place](https://open.spotify.com/album/6pJy7KHyUogF78gFgqQOgu) | 2:28 | 2022-05-17 |  |
 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 | 2022-05-17 |  |
@@ -86,7 +87,8 @@
 | [Omväg](https://open.spotify.com/track/0MZ7p6un0inDbapCDPPIcP) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [Omväg](https://open.spotify.com/album/0CAWcpiAZQyHUwHVVHx62D) | 2:48 | 2022-05-17 |  |
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-05-17 |  |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-05-17 |  |
-| [People Time](https://open.spotify.com/track/1qpREc7J77glPZPIhqokQ0) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/0ZghK6zyOioeWsT9nnLrCZ) | 4:26 | 2022-05-17 |  |
+| [People Time](https://open.spotify.com/track/1qpREc7J77glPZPIhqokQ0) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/0ZghK6zyOioeWsT9nnLrCZ) | 4:26 | 2022-05-17 | 2022-07-29 |
+| [People Time](https://open.spotify.com/track/5LAuwiqOPjlJ8VSNlNSvGn) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/5KM7qQN7tu4wrgsqnWANct) | 4:26 | 2022-06-28 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/0OB9pzKCaECbHOf9ooimQc) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [You belong to me](https://open.spotify.com/album/3kfJotb4oHheL6G6xvb12o) | 2:52 | 2022-05-17 |  |
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2022-05-17 |  |
 | [Send In the Clowns](https://open.spotify.com/track/2kdj6VfxCgDCC5Uemxwj6E) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Send In the Clowns](https://open.spotify.com/album/7EqrUNHWxGu3cxftUQzCWe) | 3:25 | 2022-06-08 |  |

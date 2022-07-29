@@ -2,7 +2,7 @@
 
 ### [أفضل الأغاني العراقية](https://open.spotify.com/playlist/37i9dQZF1DX657Vh1lw2BF)
 
-> استمع لافضل الأغاني العراقية! الغلاف: سيف عامر
+> استمع لافضل الأغاني العراقية! الغلاف: رحمة رياض
 
 74 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/6qCoMQiIkaLI2EbjrFZXmX)
 

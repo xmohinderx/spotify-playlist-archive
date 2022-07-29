@@ -37,10 +37,28 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247283,
       "name": "As We Believed",
       "url": "https://open.spotify.com/track/0YS2Iy9JTHWVm4ros9DRJI"
+    },
+    {
+      "album": {
+        "name": "For Better Times",
+        "url": "https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ"
+      },
+      "artists": [
+        {
+          "name": "Oakwood Station",
+          "url": "https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247283,
+      "name": "As We Believed",
+      "url": "https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF"
     },
     {
       "album": {
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235466,
       "name": "Girl From Ipanema",
       "url": "https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg"
@@ -1652,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "Additions To Further Definitions",
+        "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
+      },
+      "artists": [
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/1KMCGNXS9HjyOZnuyJrn7N"
+    },
+    {
+      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz"
       },
@@ -1663,7 +1699,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200960,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/2dHvFDMGGLzQFIKuRngSA7"
@@ -2209,6 +2245,24 @@
       "duration_ms": 225633,
       "name": "The Folks Who Live On The Hill",
       "url": "https://open.spotify.com/track/339eppUVQJF6JsKEiwYNWL"
+    },
+    {
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "The Girl From Ipanema (Garota De Ipanema)",
+      "url": "https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl"
     },
     {
       "album": {

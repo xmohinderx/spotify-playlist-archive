@@ -4,17 +4,18 @@
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 
-36 songs - 2 hr 26 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
+38 songs - 2 hr 34 min - [published](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Be Your Sunshine](https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:35 | 2022-01-11 |  |
 | [COLORFUL](https://open.spotify.com/track/4oNbnRaCAk6NNNVkvns7xV) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [BOARDING](https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3) | 3:36 | 2021-01-23 | 2022-01-12 |
 | [feels like a remix](https://open.spotify.com/track/3dP1XtLiQTjMUQZcdum9XS) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [feels like a remix](https://open.spotify.com/album/2OeoJixbyHMhmRzJm3ok3o) | 3:49 | 2022-01-11 |  |
 | [一定會](https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb) | 3:27 | 2022-01-11 |  |
 | [交換餘生](https://open.spotify.com/track/4IhGnQF2goYkwUYgHB8ZFh) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [倖存者](https://open.spotify.com/album/7bBQS2zo1JimKeuVIqVpaH) | 4:36 | 2021-01-23 | 2022-01-12 |
 | [人生不能沒副歌](https://open.spotify.com/track/1pEQ22t3wBzQR1uSfNvwtT) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [Ella Show 娛樂無限公司](https://open.spotify.com/album/2U8YBsUFU8w41j81W4PFBW) | 3:23 | 2022-01-11 |  |
 | [你就是我最愛的精選](https://open.spotify.com/track/2EaQZv4NY0IF94plEbggeb) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [你就是我最愛的精選\(傳世音樂中篇\)](https://open.spotify.com/album/5iHnv40l91J3dihyLerHwW) | 3:25 | 2022-01-11 |  |
-| [做你的太陽](https://open.spotify.com/track/1qy3NaGcXDrPv9BcAqLH7B) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [做你的太陽](https://open.spotify.com/album/53lek8o8YYXlvBHHB5xTxe) | 3:35 | 2022-01-11 |  |
+| [做你的太陽](https://open.spotify.com/track/1qy3NaGcXDrPv9BcAqLH7B) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [做你的太陽](https://open.spotify.com/album/53lek8o8YYXlvBHHB5xTxe) | 3:35 | 2022-01-11 | 2022-07-29 |
 | [偶遇 \- 電影《邪不壓正》宣傳曲](https://open.spotify.com/track/2xVYAmnOjNR33Z50Pc41ik) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [偶遇 \(電影《邪不壓正》宣傳曲\)](https://open.spotify.com/album/7zDErtzcb5ytepYGt9J7ur) | 3:27 | 2021-01-23 | 2022-01-12 |
 | [出入](https://open.spotify.com/track/3F27OgyMSnjhmQ0yB20oh7) | [孟庭葦](https://open.spotify.com/artist/6P05zTMx0BSQLXmDiZxhv8) | [出入](https://open.spotify.com/album/0NXFdxwH6L9IocsyyQ2tjX) | 4:54 | 2022-01-11 |  |
 | [分手放手 \- WBL系列影集第一季<永遠的第一名>片尾曲](https://open.spotify.com/track/36aoTpIIIJ3XAl6GrcHo5f) | [ALEX CHOU](https://open.spotify.com/artist/0zXp1zis13q1a2uCJgN9nq) | [分手放手 \(WBL系列影集第一季<永遠的第一名>片尾曲\)](https://open.spotify.com/album/7L95m2WhWUYwzGbIWlDygj) | 4:10 | 2021-01-23 | 2022-01-12 |
@@ -31,7 +32,8 @@
 | [愛麗絲 1993](https://open.spotify.com/track/7M3pHQYadidtWeJHYUQYC4) | [Eli Hsieh](https://open.spotify.com/artist/1g5sjKXQTGiui8u0iK4SeV) | [愛麗絲 Where Are We Going ?](https://open.spotify.com/album/46A9w8wd7ayKkHKck5GzSz) | 4:34 | 2021-01-23 |  |
 | [慷然歌 \(電視劇《劍王朝》主題曲\)](https://open.spotify.com/track/6XRDcfBLVD0tbJBjd6jXuN) | [孫楠](https://open.spotify.com/artist/0CxNT2689kPeISWh2eLMZO) | [慷然歌 \(電視劇《劍王朝》主題曲\)](https://open.spotify.com/album/2tMF2FrlacSfhi9zzXtQbq) | 4:19 | 2021-01-23 | 2022-01-12 |
 | [我不祝福](https://open.spotify.com/track/1AyUP8M10UfME60hbkdz5v) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [真的假的](https://open.spotify.com/album/61szOfG7FCgrXdpkHWUvPA) | 4:24 | 2021-01-23 | 2022-01-12 |
-| [我不要多幸福](https://open.spotify.com/track/0IPp0VMV7ixMXRv5m5GeLW) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [謝謝 陶晶瑩](https://open.spotify.com/album/5kTAasljJ6WbBaPQckh1Hu) | 4:43 | 2022-01-11 |  |
+| [我不要多幸福](https://open.spotify.com/track/0IPp0VMV7ixMXRv5m5GeLW) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [謝謝 陶晶瑩](https://open.spotify.com/album/5kTAasljJ6WbBaPQckh1Hu) | 4:43 | 2022-01-11 | 2022-07-29 |
+| [我不要多幸福](https://open.spotify.com/track/3pMq5G7JOQsToNVIIgUWny) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [谢谢 陶晶莹](https://open.spotify.com/album/79UqqqP4ZzWwOd8RcvADEO) | 4:43 | 2022-01-11 |  |
 | [新的稱謂](https://open.spotify.com/track/539jeCHS4RMsyO0wPbq9do) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [我的世界被你包圍\(傳世音樂上篇EP\)](https://open.spotify.com/album/1BcSksaAKuexbH9a2V6ySu) | 3:38 | 2021-01-23 | 2022-01-12 |
 | [昨天的自己](https://open.spotify.com/track/4crWpdF3o7qmSkuIvXvNK4) | [Miu Chu](https://open.spotify.com/artist/06KOetaeFEz0gabCnqvCxz) | [來日方長](https://open.spotify.com/album/4CYcwzTRls3Y7R46k3o0YL) | 3:40 | 2021-01-23 |  |
 | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/track/3Qd5t2oaRPvdY9eqZMvMWd) | [Nicholas Teo](https://open.spotify.com/artist/2met7Idcy1Ze7hnoUtpPmX) | [最好的快要發生 The Best Is Yet To Come](https://open.spotify.com/album/6rYiOZNY1SYIJ9pe2486d6) | 4:53 | 2021-01-23 | 2022-01-12 |

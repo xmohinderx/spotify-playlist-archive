@@ -99,7 +99,7 @@
     {
       "album": {
         "name": "One Magic Day",
-        "url": "https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w"
+        "url": "https://open.spotify.com/album/2jwMeBpR6B3UNwn6zfvrn9"
       },
       "artists": [
         {
@@ -110,6 +110,24 @@
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233213,
+      "name": "It's Hard to Say Goodbye",
+      "url": "https://open.spotify.com/track/1AIeRYe50U9acGcvxoGvat"
+    },
+    {
+      "album": {
+        "name": "One Magic Day",
+        "url": "https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 233213,
       "name": "It's Hard to Say Goodbye",
       "url": "https://open.spotify.com/track/3nGEdCiaIVCmhNKnLf8Iht"
@@ -350,6 +368,28 @@
     },
     {
       "album": {
+        "name": "\u4fc2\u5481\u5148\u5566",
+        "url": "https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm"
+      },
+      "artists": [
+        {
+          "name": "MC $oho & KidNey",
+          "url": "https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj"
+        },
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209251,
+      "name": "\u4fc2\u5481\u5148\u5566",
+      "url": "https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63"
+    },
+    {
+      "album": {
         "name": "\u4fc2\u5481\u5148\u5566 (feat. Kayan9896)",
         "url": "https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of"
       },
@@ -361,7 +401,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209251,
       "name": "\u4fc2\u5481\u5148\u5566 (feat. Kayan9896)",
       "url": "https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR"
@@ -994,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "\u85b0\u59ae\u7684\u597d\u6b4c\u96c6",
+        "url": "https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB"
+      },
+      "artists": [
+        {
+          "name": "\u85b0\u59ae",
+          "url": "https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177323,
+      "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
+      "url": "https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT"
+    },
+    {
+      "album": {
         "name": "\u85b0\u59ae\u91d1\u66f2\u7b2c\u4e00\u8f2f",
         "url": "https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX"
       },
@@ -1005,7 +1063,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181880,
       "name": "\u6bcf\u7576\u8b8a\u5e7b\u6642",
       "url": "https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR"
@@ -1341,10 +1399,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182133,
       "name": "\u9435\u5854\u51cc\u96f2",
       "url": "https://open.spotify.com/track/6Gfx0HhDiSHf9yZjOyDGQD"
+    },
+    {
+      "album": {
+        "name": "\u771f\u7d93\u5178 - \u8a31\u51a0\u5091",
+        "url": "https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal"
+      },
+      "artists": [
+        {
+          "name": "Sam Hui",
+          "url": "https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "\u9435\u5854\u51cc\u96f2",
+      "url": "https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA"
     },
     {
       "album": {
@@ -1366,6 +1442,24 @@
     },
     {
       "album": {
+        "name": "\u904a\u6a02",
+        "url": "https://open.spotify.com/album/5Ydyl1o47u4z0efeDOR2cz"
+      },
+      "artists": [
+        {
+          "name": "Chet Lam",
+          "url": "https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "\u96e2\u958b, \u662f\u70ba\u4e86\u56de\u4f86",
+      "url": "https://open.spotify.com/track/7tjBSD63FgLBT3EtFvH3Lh"
+    },
+    {
+      "album": {
         "name": "\u904a\u6a02 (Travelogue One)",
         "url": "https://open.spotify.com/album/22ads6jK2PIjA6leBW8tlk"
       },
@@ -1377,7 +1471,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237333,
       "name": "\u96e2\u958b\u662f\u70ba\u4e86\u56de\u4f86 (Leaving Is for Coming Back)",
       "url": "https://open.spotify.com/track/472quLRMJ7dv03LSbV3WGC"

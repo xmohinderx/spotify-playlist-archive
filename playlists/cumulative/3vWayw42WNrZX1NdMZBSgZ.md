@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: CNCO &amp; Kenia Os
 
-250 songs - 13 hr 49 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+252 songs - 13 hr 56 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-02-02 |  |
 | [Todo De Ti \- Summer Remix](https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Todo De Ti \(Summer Remix\)](https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y) | 5:10 | 2022-02-02 |  |
 | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/track/1XzihhvRzOHYmVImIZ9g8Q) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tu Debilidad \(feat\. Emilia\)](https://open.spotify.com/album/1qrlFEQBcFkWfH0dxjkMDQ) | 2:41 | 2022-02-02 |  |
+| [Tu Despertador](https://open.spotify.com/track/6fWNrtEd8z5ONHUCCiOuBS) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tu Despertador](https://open.spotify.com/album/59YFx65z9ZB7oXbNdyzZDr) | 3:18 | 2022-07-28 |  |
 | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/track/1x5tWPIw2UvLXSsPLmxlRU) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [The Ware](https://open.spotify.com/artist/4R0ek5XCkASrjFf0Q89Q0A), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Tu Perdón \(feat\. G.Zamora\)](https://open.spotify.com/album/5lptf4EbojA7LkA1YwTZh1) | 3:33 | 2022-03-25 |  |
 | [Tírame Un Hello](https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Tírame Un Hello](https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g) | 2:49 | 2022-02-02 |  |
 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 | 2022-02-25 |  |
@@ -256,6 +257,7 @@
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2022-02-02 |  |
 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 | 2022-06-03 |  |
 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/2zkVH2daHyjS51g7PRJFDn) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [¿Qué Ha Pasao'?](https://open.spotify.com/album/2KSuEqdiRePWkHU15Q9KH6) | 3:18 | 2022-02-02 |  |
+| [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 | 2022-07-28 |  |
 | [Ácido Sabor](https://open.spotify.com/track/6KZRJUdgVT01xpzZG6RASc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [PLAY](https://open.spotify.com/album/5HUZHRFykvKm9v6Bf3alDC) | 3:30 | 2022-07-13 |  |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-02-02 |  |
 

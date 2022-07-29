@@ -4,7 +4,7 @@
 
 > Lie back to chilled ambient with the sounds of nature.
 
-108 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
+110 songs - 5 hr 49 min - [published](https://open.spotify.com/playlist/4jMsvFFwerORd09qoF4GsL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [El canto de los pájaros](https://open.spotify.com/track/16ZfuuiqOKcSli54cM4fU9) | [Zulima Cerda](https://open.spotify.com/artist/3VcUX4dm7OTAx6JlT8x9Tn) | [Noche de Lluvia](https://open.spotify.com/album/2ApJ0R7QH7FlBQS97bmw9h) | 3:36 | 2022-05-25 |  |
 | [Elements of Quicksand](https://open.spotify.com/track/6ZyoHDnwJO6zy1xAOjAPQu) | [Chilloa](https://open.spotify.com/artist/5Q0zlGmb0xNmAgRUsWP7K6) | [Elements of Quicksand](https://open.spotify.com/album/49bEH6m6F74PrRw1iYWd36) | 2:54 | 2022-05-25 |  |
 | [Embrace the Light](https://open.spotify.com/track/09U502UKKVz6OtWUidPyf1) | [Doosi](https://open.spotify.com/artist/6M99p2uc6AP0HCJiqnjszP) | [Embrace the Light](https://open.spotify.com/album/4O6JKe83iRSaZRKvXurpqG) | 3:06 | 2022-05-25 |  |
-| [Equilibrio Chakra](https://open.spotify.com/track/6FXUg0x7gz4uCGzS87ujtJ) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Sonidos Tibetanos para Meditar \- Cuencos Tibetanos y Musica Asiatica](https://open.spotify.com/album/2Xp8zVzp2wJ8eozu66VFyv) | 4:59 | 2022-05-25 |  |
+| [Equilibrio Chakra](https://open.spotify.com/track/6FXUg0x7gz4uCGzS87ujtJ) | [Best Harmony](https://open.spotify.com/artist/1DDYlvXBDsH6Js1b4fEaTM) | [Sonidos Tibetanos para Meditar \- Cuencos Tibetanos y Musica Asiatica](https://open.spotify.com/album/2Xp8zVzp2wJ8eozu66VFyv) | 4:59 | 2022-05-25 | 2022-07-29 |
+| [Equilibrio Chakra](https://open.spotify.com/track/7cF8QHf8cg5FTsLfBpP9GC) | [Estudio Hermoso](https://open.spotify.com/artist/0LMY7yPx2Zd0re2pemRckc) | [Estudio Fácil y Rápido: Sonidos de la Naturaleza para Concentrarse, Aprendizaje Pacífico](https://open.spotify.com/album/2emD2J6rVK0PearatKIG19) | 4:59 | 2022-07-22 |  |
 | [Equilibrium](https://open.spotify.com/track/1ZcQnf6WQyZK3kl3rSsd0m) | [Alina Hill](https://open.spotify.com/artist/2Ok5dXrKJa8fs1vSoOMHlQ) | [Equilibrium](https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3) | 3:06 | 2022-05-25 |  |
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2022-05-25 |  |
 | [Essence](https://open.spotify.com/track/5k4d2aTb3iv6SyPFM2ThRt) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Essence](https://open.spotify.com/album/5OAJ05tD9LeiJTAUcThnUL) | 3:45 | 2022-05-25 |  |
@@ -102,7 +103,8 @@
 | [Surrounded](https://open.spotify.com/track/3bl88Ud8z2uuG72gS900Yy) | [atm0](https://open.spotify.com/artist/2dLJKI99EQIlCSH9yMf1Qr) | [Lonely Planet](https://open.spotify.com/album/2WrxpI2N2kHCkKqKN0Xbjq) | 2:52 | 2022-05-25 |  |
 | [Take Me To The Moon](https://open.spotify.com/track/5drHLBwFielOcquGuNIWgV) | [Kayleigh Nixon](https://open.spotify.com/artist/7BqpJHB5B3DUc9kiIgeoDL) | [Take Me To The Moon](https://open.spotify.com/album/4CAxN5Sxnnajk2aVq2xCI4) | 3:10 | 2022-05-25 |  |
 | [Tantra](https://open.spotify.com/track/16oB4C6uTdcJBU5FJYXKpR) | [Catch Your Dream](https://open.spotify.com/artist/3Vj6U9oLAjY6TVcpxl8DFX) | [Tantra](https://open.spotify.com/album/5xrAysMOBsKJRSZ0h2soYY) | 3:27 | 2022-05-25 |  |
-| [The Beach](https://open.spotify.com/track/2JvX2In3jjEj6MRcIuFkZC) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/3oQCzDRs74oRgj959XgNVg) | 3:01 | 2022-05-25 |  |
+| [The Beach](https://open.spotify.com/track/2JvX2In3jjEj6MRcIuFkZC) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/3oQCzDRs74oRgj959XgNVg) | 3:01 | 2022-05-25 | 2022-07-29 |
+| [The Beach](https://open.spotify.com/track/4qqODkgsYwsORYJaKbykAZ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Beach](https://open.spotify.com/album/1dj26uS9Dsk9psvsRBSoU2) | 3:01 | 2022-07-22 |  |
 | [The Bird's World](https://open.spotify.com/track/44sYTwlTFZ9R9V2dGmfd4v) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [The Bird's World](https://open.spotify.com/album/0ojjQ4QirOH5kQbtbOzLdW) | 3:16 | 2022-05-25 |  |
 | [The Loneliest Curtain](https://open.spotify.com/track/5uv1fBhVNeMReRAEls2SPg) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [The Loneliest Curtain](https://open.spotify.com/album/5uUMZoJVLSxgo8SEPDn2BF) | 2:10 | 2022-05-25 |  |
 | [The Lonely Ride](https://open.spotify.com/track/2sYuq6n08j87xIi7FnKw5q) | [Aran Belle](https://open.spotify.com/artist/7vBevoeKoG6b09kZzUWdpN) | [The Lonely Ride](https://open.spotify.com/album/2jkZVUzPGxsvgGymz20jVq) | 2:07 | 2022-05-25 |  |

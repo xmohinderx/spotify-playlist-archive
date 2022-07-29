@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik
 
-163 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+164 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Chand](https://open.spotify.com/track/6hEZwFHxWEJYsP421oEdxn) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Chand](https://open.spotify.com/album/0Tb41rsD7gNRMPzKK5p7s1) | 3:12 | 2022-05-27 | 2022-07-09 |
 | [Chhod Chala Banjara](https://open.spotify.com/track/3ulBJkEF3KEdDZ5gPKTvK6) | [Samarth Janve](https://open.spotify.com/artist/6aD59tcg6klEh7d51b6JuQ) | [Chhod Chala Banjara](https://open.spotify.com/album/4QVeA7IqXlFcp5DCvBF5bi) | 3:58 | 2022-06-24 | 2022-07-02 |
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-10 | 2022-07-09 |
-| [Darbadar](https://open.spotify.com/track/7GX4s65YNmIi3rnlZanTlX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Darbadar \(From "Ittu Si Baat"\)](https://open.spotify.com/album/5oQsGpxY1UB8IWWARDwpvO) | 3:20 | 2022-06-17 |  |
+| [Darbadar](https://open.spotify.com/track/7GX4s65YNmIi3rnlZanTlX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Darbadar \(From "Ittu Si Baat"\)](https://open.spotify.com/album/5oQsGpxY1UB8IWWARDwpvO) | 3:20 | 2022-06-17 | 2022-07-29 |
+| [Darbadar \(From "Ittu Si Baat"\)](https://open.spotify.com/track/5AP7uuBkKyNxqSCymIs5Hu) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Darbadar \(From "Ittu Si Baat"\) \- Single](https://open.spotify.com/album/2O48KBLWiZRB9Ouj63AfHC) | 3:20 | 2022-07-22 |  |
 | [Dasht E Tanhaayi](https://open.spotify.com/track/4jU3P3Ehrm4ckg0lWQ5K7D) | [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Dasht E Tanhaayi](https://open.spotify.com/album/3k02WAjKsz4OVVPgn4Juge) | 6:33 | 2022-05-27 | 2022-06-11 |
 | [Deedar Hai \- From "Dear Dia"](https://open.spotify.com/track/5q29fUjbzHJQXEMVvIKF2z) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Deedar Hai \(From "Dear Dia"\)](https://open.spotify.com/album/6mMoMcsyeqc42sGRQ9MeTv) | 4:16 | 2022-06-03 | 2022-06-11 |
 | [Deewani Mastani](https://open.spotify.com/track/1iqEEy8D4PCpMn0IGKqeSQ) | [Anurag Sahu](https://open.spotify.com/artist/0Z5kYwJk2YLVgwuE8TdGZZ) | [Deewani Mastani](https://open.spotify.com/album/1PhO0sVxlWDZ2yPXctuEL3) | 3:02 | 2022-06-17 | 2022-06-25 |

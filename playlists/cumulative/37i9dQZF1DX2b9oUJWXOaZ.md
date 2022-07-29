@@ -4,7 +4,7 @@
 
 > A playlist celebrating the range of Asian and Pacific Islander talent from your favorite TV shows and movies, brought to you by CAPE \(Coalition of Asian Pacifics in Entertainment\)\. Cover: Auli'i Cravalho
 
-52 songs - 2 hr 54 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
+53 songs - 2 hr 57 min - [published](https://open.spotify.com/playlist/3e04h7LMeTqDMd23GQD7Ie)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Shine Your Way](https://open.spotify.com/track/6xV6bjb0E7qdY6s1RVVr4t) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [The Croods \(Music from the Motion Picture\)](https://open.spotify.com/album/0qCghphBMTxX8cttxnWGXI) | 3:27 | 2022-05-02 |  |
 | [Square Peg](https://open.spotify.com/track/2JzO1Z2HEmKj3qOksjbTUL) | [Eva Noblezada](https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn) | [Yellow Rose \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rQupxMfZaIIOlQiIqGdoU) | 4:05 | 2022-05-02 |  |
 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 | 2022-05-02 |  |
-| [The Woman That Loves You](https://open.spotify.com/track/1Ddmip7ro8VGzhTbDE4pcg) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3i7EHinpu9J5MXKMzjpjZ0) | 2:24 | 2022-05-02 |  |
+| [The Woman That Loves You](https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:24 | 2022-05-02 |  |
+| [The Woman That Loves You](https://open.spotify.com/track/1Ddmip7ro8VGzhTbDE4pcg) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3i7EHinpu9J5MXKMzjpjZ0) | 2:24 | 2022-05-02 | 2022-07-29 |
 | [This Is A Life](https://open.spotify.com/track/20UK2eUwlRzNuW60gzITuj) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:41 | 2022-05-02 |  |
 | [Tightrope](https://open.spotify.com/track/7Ltp6C8WcxLmpqmXqv7G8n) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Nick Isham](https://open.spotify.com/artist/3INQD45A4I7hWypSUOLyB6) | [The Cleaning Lady: Season 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u) | 2:50 | 2022-05-02 |  |
 | [Try With Me](https://open.spotify.com/track/13kWkBG45sSTyJL9fGWO3t) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Killer Love \(Deluxe Edition\)](https://open.spotify.com/album/103CJSreSMtgNGvwOSg3CN) | 3:56 | 2022-05-02 |  |

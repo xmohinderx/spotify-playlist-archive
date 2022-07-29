@@ -4,7 +4,7 @@
 
 > Instrumental house for when you need to focus!
 
-164 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
+166 songs - 8 hr 47 min - [published](https://open.spotify.com/playlist/2U5iwBxMgQ55J0jIhFXqmY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blurred Out](https://open.spotify.com/track/4QgCRg5t83rKvuCTQ11JHj) | [Divulgation](https://open.spotify.com/artist/0OHISbYU0LMw4dMlkGVczm) | [Blurred Out](https://open.spotify.com/album/4cqUGKojyJhyIkunDDqu4A) | 2:28 | 2022-04-15 |  |
 | [bonny](https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU) | [UPTNS](https://open.spotify.com/artist/5ENMUlyo9nxOTnL5LiHMJh) | [bonny](https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0) | 2:48 | 2022-04-15 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 |  |
+| [Cat Street Fight](https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Cat Street Fight](https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF) | 2:58 | 2022-07-29 |  |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2022-04-15 |  |
 | [City Heatwave](https://open.spotify.com/track/5WDB1BuVSdgPZTQsGpXnat) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Anticyclone Velodrome](https://open.spotify.com/album/6mlT2K4JCofZHXmLzSxDUx) | 3:05 | 2022-04-15 | 2022-05-11 |
 | [City Lights](https://open.spotify.com/track/5DUqkFJ8d8aoGrMpyuHkQ1) | [Fatehug](https://open.spotify.com/artist/0jYk4v9wqQ2HpvlrRJmEWl) | [City Lights](https://open.spotify.com/album/4iJ7bm22jHrWnHLOaT8d6r) | 2:46 | 2022-04-15 |  |
@@ -127,6 +128,7 @@
 | [Right Direction](https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Right Direction](https://open.spotify.com/album/1uB1qUZQ7CytxeGELt9QAy) | 3:34 | 2022-04-15 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 |  |
 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 | 2022-04-15 | 2022-05-11 |
+| [running emotion](https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [running emotion](https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx) | 2:38 | 2022-07-29 |  |
 | [Salt Water Taffy](https://open.spotify.com/track/7qja5koXB0YyXvP0lDLia6) | [Drofty](https://open.spotify.com/artist/0RVQAq5SiopM6KTV68p7FM) | [Salt Water Taffy](https://open.spotify.com/album/0Or7Az6koTg3dizh2hbNrU) | 3:08 | 2022-04-15 |  |
 | [Salty Sip](https://open.spotify.com/track/4H8pnRgT43YnCHZpfMgMRI) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [Salty Sip](https://open.spotify.com/album/2YzQUnhkZ0gHllxXU5saQL) | 3:36 | 2022-04-15 |  |
 | [San Blas](https://open.spotify.com/track/7hTxggsd00sOUlXhBMsonM) | [Basic Amaury](https://open.spotify.com/artist/1IJxQCtcWIJ05bXGJHBMwe) | [San Blas](https://open.spotify.com/album/0vV153pcazJCHud3jTvcTH) | 2:00 | 2022-04-15 |  |

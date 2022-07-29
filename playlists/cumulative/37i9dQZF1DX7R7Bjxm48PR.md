@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-128 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
+129 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/639MyonEK5vnxNKfmiZBKq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-01-19 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-02-03 |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-02 |  |
-| [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2022-01-19 |  |
+| [Forgiveness](https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/0DMxxCIZOqkOczbtnzPP6L) | 2:15 | 2022-07-27 |  |
+| [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 | 2022-01-19 | 2022-07-29 |
 | [Forgotten](https://open.spotify.com/track/7aFVhTwz0DUJPViRHmWg1P) | [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [Forgotten](https://open.spotify.com/album/3KuGAisKyUL3ubMwaLleZJ) | 2:11 | 2022-04-13 |  |
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2022-01-19 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,077 likes - 139 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,086 likes - 139 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 17 | [Twin](https://open.spotify.com/track/7o4seAlZSoVPjsJMFPrSq8) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Sara](https://open.spotify.com/album/5GYqYnm3SSY3GDAoRDCrAX) | 3:01 |
 | 18 | [Write Off](https://open.spotify.com/track/621MnT5Wi73X0Gp2lmwZ0M) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Write Off](https://open.spotify.com/album/3pgXKSIeRbS7RLbeLnubHd) | 2:44 |
 | 19 | [Vermilion](https://open.spotify.com/track/2jTt400XuvBW6EhMASvVEY) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Vermilion](https://open.spotify.com/album/4XBG6OzeLRBakz8V8WVDxI) | 2:49 |
-| 20 | [Ain't Shit Free](https://open.spotify.com/track/4RXpJgl2Q4ZEHaExw9YnzJ) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/5KJhwBaUGaPhWCXiyo1Rzv) | 3:17 |
+| 20 | [Ain't Shit Free](https://open.spotify.com/track/5IfXAwIrFnymwN0RGaSIeT) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Ain't Shit Free](https://open.spotify.com/album/3TREMXQuq6rpRSnyzepFdH) | 3:17 |
 | 21 | [YVR](https://open.spotify.com/track/0yr5SOfo3cErueF3GAoITq) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [White Criss](https://open.spotify.com/album/4CZ5iModUePvfKst8fN5gR) | 3:05 |
 | 22 | [Raw Takes](https://open.spotify.com/track/04DVUpEzu58MzRgtDwkMbj) | [Nova Calma](https://open.spotify.com/artist/732aFMojr4rC3Q2DAstddk) | [Raw Takes](https://open.spotify.com/album/6BE59ToxBekXRmNmIFj35W) | 2:01 |
 | 23 | [AJ](https://open.spotify.com/track/2pcIABO9SnBqK7YvxayTUg) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [AJ](https://open.spotify.com/album/1sKGSWZLv9meMtIAChg2pU) | 2:21 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 59 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 |
 | 60 | [A Lot Of Noise For Nothing](https://open.spotify.com/track/3Vj6A1u4JYh5aVNYFJOFPZ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [A Lot Of Noise For Nothing](https://open.spotify.com/album/1lEegQJdCxDf3Cq3e49jsh) | 2:00 |
 | 61 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 |
-| 62 | [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 |
-| 63 | [Dunes](https://open.spotify.com/track/75LxHkNVcAaSXzRXytMF0K) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Dunes](https://open.spotify.com/album/1hubOUXe6IT6OtNT7f1nje) | 4:48 |
+| 62 | [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 |
+| 63 | [Dunes](https://open.spotify.com/track/535knsjWDnJEFPMwirjpkq) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [INWANE](https://open.spotify.com/album/60b9W4yvLfNCgvNqPqyCmF) | 4:48 |
 | 64 | [Polar](https://open.spotify.com/track/7KJYDU7raK2L0vDotprkHv) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Polar](https://open.spotify.com/album/3TG55vTamoL1gqJzRThCe5) | 2:42 |
 | 65 | [Daz](https://open.spotify.com/track/6P4UKqyzjaIXSVgaBKy2pn) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Daz](https://open.spotify.com/album/5Y6wMfvkvKWYyHhhSaXpmH) | 2:47 |
 | 66 | [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 72 | [Stardust Memories](https://open.spotify.com/track/671VGl3HosCEVLui9huFJ3) | [Polysnare](https://open.spotify.com/artist/2WVsFp9FmA3hjNCYJM9ooC) | [Renegade Hardware](https://open.spotify.com/album/1UvPyyNBvZDkCRc001AB06) | 1:48 |
 | 73 | [Hovercraft](https://open.spotify.com/track/0KMR1u19KzGTtRxc6N7FCZ) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Joke's On Us](https://open.spotify.com/album/1Luifp19S1RPreTk3D3vur) | 2:30 |
 | 74 | [Sonic Bullet](https://open.spotify.com/track/1rWp6WpAxtCyCJ4Ky4GrHC) | [Charles Hewits](https://open.spotify.com/artist/2ZvZcOt4Ybj9aTI4FZ1amd) | [Sonic Bullet](https://open.spotify.com/album/7JOyaA4REAnvjxoJ6wxX9q) | 3:28 |
-| 75 | [life on hold](https://open.spotify.com/track/5maOt1lIkCrS5r2DB2nfyr) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [life on hold](https://open.spotify.com/album/7u7z7WwHVTeY19UMQQCFhb) | 2:20 |
+| 75 | [Life on Hold](https://open.spotify.com/track/5BLgn3YW4egzpgV1q5oPTP) | [Lo\-Fi Eamonn](https://open.spotify.com/artist/2mh6iITVGFPDa7NxvcDzxy) | [Life on Hold](https://open.spotify.com/album/49uY4hBP3tRDggvjz8RiYp) | 2:20 |
 | 76 | [Occult](https://open.spotify.com/track/13D4J163opPgCKVFgRrA6s) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Occult](https://open.spotify.com/album/4lGfCI0E8Dcnoxy76sTWpj) | 2:56 |
 | 77 | [2](https://open.spotify.com/track/6NSnzxpvIvORdC3EsTIdd2) | [squeezy X](https://open.spotify.com/artist/6H015tYdaj2rRNR9YOX5b9) | [Aphro Deezy](https://open.spotify.com/album/6ODZgjrMDeXErOdsmhgYPG) | 3:14 |
 | 78 | [Losing Ground](https://open.spotify.com/track/0s8WAg0nNe2ia0qKtkAfdu) | [OMOZO](https://open.spotify.com/artist/0UADN60KWS7lO5isbnePqy) | [Losing Ground](https://open.spotify.com/album/3zdjmQpQjyfuiFynMPYquD) | 2:47 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 87 | [Lately I Was Lost](https://open.spotify.com/track/0izoLPqzTzr09ProDMJsps) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:48 |
 | 88 | [New Start](https://open.spotify.com/track/5t54ULTioRiGc5xuXv36bH) | [iGirl](https://open.spotify.com/artist/2wz3S9QQx5NnuU0UOEMd70) | [New Start](https://open.spotify.com/album/2bHbPzTTSlc6R1A1J1dj81) | 2:35 |
 | 89 | [Summer Nights](https://open.spotify.com/track/1TRQg2ZdYj8NjJkRL3oSfE) | [Priesemut](https://open.spotify.com/artist/4VFNwAe2jbnCiPi2OYKa6s) | [Summer Nights](https://open.spotify.com/album/152ULMOGfi947QazWQOu57) | 1:34 |
-| 90 | [Starter](https://open.spotify.com/track/5ibGmOVcugAFDiDGn3RL6u) | [Alex Froot](https://open.spotify.com/artist/34IlI3sD4HQouKqpy02h42) | [Starter](https://open.spotify.com/album/2PPoZCz0OM5XegZBpWanXQ) | 2:26 |
+| 90 | [Starter](https://open.spotify.com/track/7cF37u0BPvMmtABNMUSV9b) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [The Choice Is Yours](https://open.spotify.com/album/44ZXqZgZX3zuiKwiWpfczc) | 2:25 |
 | 91 | [Hear Me](https://open.spotify.com/track/7dAzaQXqBqSTPfzC1rINqB) | [Sonliks](https://open.spotify.com/artist/2Y4KIlGIRi4REFRLuJ3uiq) | [Hear Me](https://open.spotify.com/album/4w1IUNKohLCeMuBoS3Svw1) | 2:48 |
 | 92 | [Voyager](https://open.spotify.com/track/0msUZN9MVtQfT0Mjq02u4o) | [Mayden Blue](https://open.spotify.com/artist/75UHJrQHVWVIi1fM8TlRpf) | [Voyager](https://open.spotify.com/album/5AzdlqZP2nq2ugxzsuu26D) | 3:44 |
 | 93 | [Operation Chaos](https://open.spotify.com/track/0sWKVy4Z3TraqZT3r70TLA) | [4Traks](https://open.spotify.com/artist/5FbfJVwTIC5N1m85sBoil0) | [Operation Chaos](https://open.spotify.com/album/5yBAcO2ny2fw5ayEvAZ9QT) | 2:52 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 105 | [Emotions](https://open.spotify.com/track/5Zi5DxoLD9LObzCuCDqOFQ) | [XXTRACKK](https://open.spotify.com/artist/4QZOgZMxM78wbHDBZqL3Kn) | [Dreams](https://open.spotify.com/album/60PDH7dPB8olXH5IC5gcEj) | 2:32 |
 | 106 | [PTA](https://open.spotify.com/track/43xik565joqdebuxma8Jd9) | [Hi Rodee](https://open.spotify.com/artist/51UCiViOBxBnEOyvHH4TpL) | [Güd Week](https://open.spotify.com/album/0ILe5XAKhhduIgaySBn25s) | 5:47 |
 | 107 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
-| 108 | [The Other Side Of Existence](https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Context 4](https://open.spotify.com/album/3GvwwetLLw133FCVvRZW18) | 3:29 |
+| 108 | [The Other Side Of Existence](https://open.spotify.com/track/3F18almxaf6ifbx75o8YxW) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [The Other Side Of Existence](https://open.spotify.com/album/6ITE6HEeLZNa7uh1GNqQtU) | 3:29 |
 | 109 | [Flat White](https://open.spotify.com/track/0mYa84l8DIuB1CswDu0QGJ) | [BLVCK SWVN](https://open.spotify.com/artist/7o8BqNiJ2bgXRCNgTB5SGv) | [Flat White](https://open.spotify.com/album/2c3e4L6Jy7aIhVZzL3P8Mc) | 4:50 |
 | 110 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 |
 | 111 | [Extra](https://open.spotify.com/track/1m5OGKLquB59mNASxCsvkF) | [Timmy Tee](https://open.spotify.com/artist/5mHEnE8FUpg9ZmYNrrCIcU) | [Extra](https://open.spotify.com/album/7LH0JuhJc2ZT0Qbi9vcmsf) | 2:19 |
@@ -146,6 +146,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 136 | [Games](https://open.spotify.com/track/0ushiWGxHH5atvLnODuINq) | [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Fri](https://open.spotify.com/artist/5laFIPE0PAzSuNXTNUuXyu) | [Games](https://open.spotify.com/album/2F495sG8fO4YTW8Fh2czBY) | 1:41 |
 | 137 | [Bootes](https://open.spotify.com/track/2TJyvCtn156DBQdRzFnJQ8) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [Ophiuchus](https://open.spotify.com/album/6DPf7zkNcApNZjcJVz2o7H) | 3:05 |
 | 138 | [Final Call](https://open.spotify.com/track/1gyxf3SMn2fTGb1NjAkjCi) | [Nololom](https://open.spotify.com/artist/4WrAPVebfnZwW9udoZNoIp) | [Final Call](https://open.spotify.com/album/7dCOeRY0GBW5x1VTDYfGiM) | 1:36 |
-| 139 | [Frosty Dream](https://open.spotify.com/track/5SWVDDmeXJQcyf2zofak5H) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/5JsosZwYnxktNKaW6oaTtS) | 3:09 |
+| 139 | [Frosty Dream](https://open.spotify.com/track/5D8QxnbmmXyPnniROQJU83) | [Axavex](https://open.spotify.com/artist/5WvBaMDSgK2VYklEpiASej) | [Frosty Dream](https://open.spotify.com/album/1SU8RKCQpX6uYlws5IwRJz) | 3:09 |
 
-Snapshot ID: `MTY1NjY3MDc0NSwwMDAwMDAyMzAwMDAwMTgxYjk0NTczYjQwMDAwMDE4MWI5NDRmNWM3`
+Snapshot ID: `MTY1NjY3MDc0NSwwMDAwMDAwMGNmNDFmNzAyYjZlYzA1ZWE1OTk3ZWYxYjgzYmY4ZmVm`

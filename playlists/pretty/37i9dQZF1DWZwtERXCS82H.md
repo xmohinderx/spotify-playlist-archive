@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Books and piano, the perfect combination
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,918 likes - 349 songs - 15 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,953 likes - 349 songs - 15 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 219 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 |
 | 220 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 |
 | 221 | [Autumn Leaf](https://open.spotify.com/track/79q3lBKpjZLlfgfybAIRaO) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Autumn Leaf](https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7) | 2:27 |
-| 222 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 |
+| 222 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 |
 | 223 | [Contemplation](https://open.spotify.com/track/1CzzOIi8GHxhzCaovIHYz4) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Contemplation](https://open.spotify.com/album/1bjQy5fBUfZI24oR9A7Ttx) | 2:24 |
 | 224 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 |
 | 225 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 |
@@ -303,7 +303,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 293 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 |
 | 294 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 |
 | 295 | [Shadows](https://open.spotify.com/track/2OQmujYu7g2xFB61Syic6X) | [Mark Pike](https://open.spotify.com/artist/5tgpewfGPEl1Xt7ZfpL0rU) | [Shadows](https://open.spotify.com/album/6euODh2yNm4Jkt8mej5RHF) | 4:12 |
-| 296 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 |
+| 296 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 |
 | 297 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 |
 | 298 | [Prairie d'été](https://open.spotify.com/track/0rsGOnRV2avSVuin3XZ5FO) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Prairie d'été](https://open.spotify.com/album/5XPBI5MTUG64NGaxrDWFcS) | 2:49 |
 | 299 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
@@ -352,10 +352,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 342 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 |
 | 343 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 |
 | 344 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 |
-| 345 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 |
+| 345 | [Silent Agreement](https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson](https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR) | [Dreamer](https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms) | 2:15 |
 | 346 | [Tree Rhythm](https://open.spotify.com/track/7wksCozvMX6I0imUoTWBCE) | [Gerald Sherman](https://open.spotify.com/artist/3SfdWSRQSadzwAMuxNMO5C) | [Pigeon Prelude](https://open.spotify.com/album/707TxgMgJjfzU5fWLo0UHb) | 2:50 |
 | 347 | [Lifeline](https://open.spotify.com/track/7aKFjNKVGj91rDTijx1IN7) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 2:58 |
 | 348 | [Timeless](https://open.spotify.com/track/4A6N096dpRTRlAGSkxsVrh) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Timeless](https://open.spotify.com/album/5LSs52IqwKW1p2HTqSU7zX) | 2:22 |
 | 349 | [Fairway Drive](https://open.spotify.com/track/3zkLIQIwUzSVO7BPOiqVSE) | [Leyland Rogers](https://open.spotify.com/artist/6P5vbqhRX2ZrMmFLQHZ3Mr) | [Leatherwood Lane](https://open.spotify.com/album/0T3CYxFdDWnW9CGoCtY0jZ) | 2:48 |
 
-Snapshot ID: `MTY1Nzg5MDY0NywwMDAwMDBhNTAwMDAwMTgyMDFmYmFmMGQwMDAwMDE4MjAxZmI4MTQx`
+Snapshot ID: `MTY1OTAxNzEzNiwwMDAwMDAwMGRlZTY4OWE4ODE1MDZkOTEyMGYzYjJmMTE4ZmJjNGQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Stephen Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,075 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,256 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 14 | [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 |
 | 15 | [Mélodie](https://open.spotify.com/track/5WtVhKKPkobhT9K1ddMBpH) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Mélodie / Rodeo](https://open.spotify.com/album/5y4jwPzUYpj75kbgcBt00j) | 2:30 |
 | 16 | [Yollar](https://open.spotify.com/track/3ehHsXp8F5VUpywMlxe3iH) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [İkimiz](https://open.spotify.com/album/5CHw9OzDbWrlaXe7RlscXk) | 3:00 |
-| 17 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 |
+| 17 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 |
 | 18 | [\[PNJ\]](https://open.spotify.com/track/2y68STO1ZviqnmzAvZdakw) | [Kirouac](https://open.spotify.com/artist/6w8havv68HkDeiH6Tei3bt), [Kodakludo](https://open.spotify.com/artist/52ScNDotCN180BnXLSFiiQ), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [\[PNJ\]](https://open.spotify.com/album/4NDTCOPoN7PzH3lLRaMKlh) | 2:48 |
 | 19 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 |
 | 20 | [Solito](https://open.spotify.com/track/6MVRZS9GurKrXCNtw9msiQ) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC), [Humano En Tránsito](https://open.spotify.com/artist/5NEHbkbEfjsmzdpXDKXIxb) | [Solito](https://open.spotify.com/album/3AVFbzExoOyohSHlErVcS4) | 5:13 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 25 | [Empty Air](https://open.spotify.com/track/0uDk3TAVnAQXQmsrEuZHbc) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [I Don't Like Roses](https://open.spotify.com/album/58syBUrmo8UCiWFF2BuszZ) | 3:00 |
 | 26 | [Holding On \(to me\)](https://open.spotify.com/track/14yuV4Bo8csljf4SMRKRkg) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Holding On \(to me\)](https://open.spotify.com/album/1pIv4AY3aQ7eqK3wjVtphV) | 3:59 |
 | 27 | [Mirage](https://open.spotify.com/track/3AmYQR8cv6hyKT0fXNW9FW) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Mirage](https://open.spotify.com/album/59vyoMjXigxYFyldmtgHzm) | 2:54 |
-| 28 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 |
+| 28 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 29 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 |
 | 30 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 | 31 | [Se Acabó](https://open.spotify.com/track/1ddav3coBB6GDpHC1PIj9Y) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Se Acabó](https://open.spotify.com/album/2eQzuli0swNrOooGsh37iT) | 2:48 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 43 | [Clementine](https://open.spotify.com/track/7zLHEfwVE2CZyLswISF27I) | [Ditch Days](https://open.spotify.com/artist/3B3nEiNlMRAHeSF9hfVyi2), [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [Clementine](https://open.spotify.com/album/6Qk0dH5vwJRBr3CPBFOs4G) | 3:01 |
 | 44 | [die b4 u](https://open.spotify.com/track/6VYPtD8eHf7FDvovfhSJxa) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [die b4 u](https://open.spotify.com/album/1lUThx8quUxLaZS0Yg7V37) | 3:00 |
 | 45 | [Low Brow](https://open.spotify.com/track/7zlMmCrMYzO47H0nuEzLuD) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Rachel@Fairyland](https://open.spotify.com/album/4P6jwAdTgjdiChiQyjvRGD) | 3:19 |
-| 46 | [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 |
+| 46 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
 | 47 | [Your Other Life](https://open.spotify.com/track/4sWZVIOHuTrQOt6mqzMiBE) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost \(Deluxe Edition\)](https://open.spotify.com/album/6yEdJA4H2O4VOi4pk14GdS) | 4:40 |
 | 48 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
 | 49 | [3D Feelings](https://open.spotify.com/track/3wYx7lVNFLeh5nRPVEa5ps) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 3:17 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 60 | [Pulchritudinous](https://open.spotify.com/track/4nzhd7FQDblgX8ogmGSeem) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [But could the moments in between](https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC) | 4:24 |
 | 61 | [It Matters Until It Doesn't](https://open.spotify.com/track/6lM6s5WehMZQnUOGA8Jd1a) | [Ruru](https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo) | [Glorious Miscellanea](https://open.spotify.com/album/3GvcUP4eprG1QsfvrjoQYs) | 2:35 |
 | 62 | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Bang My Line \(feat\. Tkay Maidza\)](https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt) | 2:33 |
-| 63 | [恋風邪にのせて](https://open.spotify.com/track/5PeXak0Ox3JmH2oor0qnGt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/1Qkyl4it7jUIvXWOWD2k8g) | 4:15 |
+| 63 | [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 |
 | 64 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
 | 65 | [Don't Grow Up Too Fast](https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Don't Grow Up Too Fast](https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE) | 4:02 |
 | 66 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/7FRc6HLZNlE0XFD1JIsw46) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/album/2er3W6mBnmly9PuRHL74aj) | 2:54 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 85 | [Love U Better](https://open.spotify.com/track/6zfflHTdO4oiv5Jqu3vlqb) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y) | [Pretty Lies](https://open.spotify.com/album/29JfQqsFokEwm4sMvjAHZ0) | 2:31 |
 | 86 | [Dóidóidói](https://open.spotify.com/track/4oSVbS2wVr62tRypCHHiQY) | [Labaq](https://open.spotify.com/artist/3lYrvAJgDMVswjcn0Zi0La) | [Dóidóidói](https://open.spotify.com/album/5ORpzqsldrjpCGMBlhSUQA) | 2:46 |
 | 87 | [El Malo Final](https://open.spotify.com/track/62yzyqPU1Jb1Ew6baD8SYh) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [El Malo Final](https://open.spotify.com/album/18VJWUV6s11HvR2hNm1Bs9) | 4:59 |
-| 88 | [Wild Side](https://open.spotify.com/track/5pSJMVYX93VnOgOtnvAO6V) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Wild Side](https://open.spotify.com/album/2C4CTmdg1LxR9cqJmfEdKT) | 3:55 |
+| 88 | [Wild Side](https://open.spotify.com/track/1WmEhKIzErn1aZNFf2m4FU) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:55 |
 | 89 | [Marathon](https://open.spotify.com/track/5GbuQ3YWhrvJSDmFf0V9bL) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Better With You](https://open.spotify.com/album/3LbIwpQqBe0LyyxdhD6Uzc) | 3:03 |
 | 90 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 |
 | 91 | [Cilantro Grass](https://open.spotify.com/track/4n5LbudcAOHocUHg5q2aVf) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Parrots & The Park \(Pastimes Vol\. I\)](https://open.spotify.com/album/4gJIOhzzi0CCaL6fGP0H2S) | 2:35 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 100 | [Santé](https://open.spotify.com/track/3Mcxi78U3lCjt8DMKa6YY4) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:11 |
 | 101 | [Lei o me](https://open.spotify.com/track/782YSINOuz9ON86WgTeuRD) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 2:26 |
 
-Snapshot ID: `MTY1ODQ4OTkwOCwwMDAwMDA5NDAwMDAwMTgyMjViM2FjZmQwMDAwMDE4MWQ5M2NjYzMw`
+Snapshot ID: `MTY1ODQ4OTkwOCwwMDAwMDAwMDlhZWVjNGU1NDhlNGIxY2QyY2IxOWUzNjcwN2Q2MmUw`

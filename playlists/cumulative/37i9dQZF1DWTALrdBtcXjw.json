@@ -111,7 +111,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 313560,
       "name": "A Touch Of Silver",
       "url": "https://open.spotify.com/track/4lsoraogx0H5pMYMQe9FyO"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 357935,
       "name": "A Word from the Wise",
       "url": "https://open.spotify.com/track/2wBbbh6C5jyUunEvom98pJ"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 433266,
       "name": "Ancient and Distant",
       "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267240,
       "name": "Arthur Go",
       "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279253,
       "name": "At That Moment",
       "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 405973,
       "name": "Bon ami",
       "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
@@ -535,10 +535,28 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 322693,
       "name": "Captain\u2019s Song",
       "url": "https://open.spotify.com/track/3djYspll15Mm2azjKSV55Y"
+    },
+    {
+      "album": {
+        "name": "Iron Starlet",
+        "url": "https://open.spotify.com/album/3J6gELskRha5aqLGVWGmQN"
+      },
+      "artists": [
+        {
+          "name": "Connie Han",
+          "url": "https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322693,
+      "name": "Captain\u2019s Song",
+      "url": "https://open.spotify.com/track/3mIn6SuoJeZE3DlPvPGOYj"
     },
     {
       "album": {
@@ -669,7 +687,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 343000,
       "name": "Divergence",
       "url": "https://open.spotify.com/track/4SsYc7rzyUhEbXW0OPTDJf"
@@ -741,10 +759,28 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270133,
       "name": "Eronel",
       "url": "https://open.spotify.com/track/1um3T5M9KAgWLDQk0IUzhh"
+    },
+    {
+      "album": {
+        "name": "Criss-Cross (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270133,
+      "name": "Eronel",
+      "url": "https://open.spotify.com/track/67tnJf77mVKMIOVcR1SQ2F"
     },
     {
       "album": {
@@ -945,7 +981,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314133,
       "name": "Habbit Rabbit",
       "url": "https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ"
@@ -1065,7 +1101,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 391240,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU"
@@ -1190,6 +1226,28 @@
     },
     {
       "album": {
+        "name": "Standard Gonz",
+        "url": "https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa"
+      },
+      "artists": [
+        {
+          "name": "Jerry Bergonzi",
+          "url": "https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ"
+        },
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173714,
+      "name": "I Will Never Stop Loving You",
+      "url": "https://open.spotify.com/track/0ivNT9MjfyorZGsJDdXPE4"
+    },
+    {
+      "album": {
         "name": "I'll Never Stop Loving You",
         "url": "https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i"
       },
@@ -1205,7 +1263,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173714,
       "name": "I'll Never Stop Loving You",
       "url": "https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs"
@@ -1259,10 +1317,28 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320540,
       "name": "Isn't This My Sound Around Me",
       "url": "https://open.spotify.com/track/2VaRUwAU7Ik3r5KoHVjS23"
+    },
+    {
+      "album": {
+        "name": "At the Edge of the World",
+        "url": "https://open.spotify.com/album/3tRwejXlLIbZB8o6PHTM1n"
+      },
+      "artists": [
+        {
+          "name": "Aaron Goldberg",
+          "url": "https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320540,
+      "name": "Isn't This My Sound Around Me",
+      "url": "https://open.spotify.com/track/4yQWgdj7Sr479mXX57DQCF"
     },
     {
       "album": {
@@ -1483,7 +1559,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 422066,
       "name": "London Blues",
       "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
@@ -1513,7 +1589,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 402768,
       "name": "Lucky to be Me",
       "url": "https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H"
@@ -1585,7 +1661,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263285,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT"
@@ -1833,10 +1909,36 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 462208,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/6DiEsD2Az3aiHfPbw9YIlX"
+    },
+    {
+      "album": {
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
+      },
+      "artists": [
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462208,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
     },
     {
       "album": {
@@ -1956,6 +2058,36 @@
     },
     {
       "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347377,
+      "name": "Other Jewels",
+      "url": "https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF"
+    },
+    {
+      "album": {
         "name": "Other Jewels",
         "url": "https://open.spotify.com/album/0KcDJAC3z1lDxTlbUtqydr"
       },
@@ -1979,7 +2111,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 347377,
       "name": "Other Jewels",
       "url": "https://open.spotify.com/track/7IwDt0MKLtSatSUCyzvPy6"
@@ -2063,10 +2195,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320753,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5utG7gaVcIMMDJbJQ09q1L"
+    },
+    {
+      "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320753,
+      "name": "Prelude to a Kiss",
+      "url": "https://open.spotify.com/track/04GQoL73mzVbe6GX7cwSKB"
     },
     {
       "album": {
@@ -2284,6 +2434,24 @@
     },
     {
       "album": {
+        "name": "Second Strike",
+        "url": "https://open.spotify.com/album/3EaWLcF0zw4bj1EtGR7M4F"
+      },
+      "artists": [
+        {
+          "name": "Gathering in Jazz",
+          "url": "https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283204,
+      "name": "Skies",
+      "url": "https://open.spotify.com/track/1sKp0Z228vwYcC1xvuzM7c"
+    },
+    {
+      "album": {
         "name": "Skies",
         "url": "https://open.spotify.com/album/3ltnGdeZPFYDmWaspSwgRh"
       },
@@ -2497,10 +2665,28 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 401813,
       "name": "Summer In Central Park",
       "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
+    },
+    {
+      "album": {
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/16djDDgFboJJaZqw59XTcI"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett Trio",
+          "url": "https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398160,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/11AL6tbocPeqYeriqsjFEZ"
     },
     {
       "album": {
@@ -2515,7 +2701,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 398160,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/13OL18QpOtq4YQqV2JSLH1"
@@ -2533,7 +2719,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 277306,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
@@ -2558,6 +2744,28 @@
     },
     {
       "album": {
+        "name": "Lovers Moment (H\u00e5kan Brostr\u00f6m Meets Carl Winther Trio)",
+        "url": "https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "H\u00e5kan Brostr\u00f6m",
+          "url": "https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327642,
+      "name": "Sweet Smile",
+      "url": "https://open.spotify.com/track/0tHMMqD7ygCW2S1zdOMvHb"
+    },
+    {
+      "album": {
         "name": "Sweet Smile",
         "url": "https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv"
       },
@@ -2573,7 +2781,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 327642,
       "name": "Sweet Smile",
       "url": "https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c"
@@ -2649,7 +2857,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 454391,
       "name": "The Idiot",
       "url": "https://open.spotify.com/track/1VLdt5dmXVYxppmGTWzrxk"
@@ -2757,10 +2965,40 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 339434,
       "name": "The Peacocks",
       "url": "https://open.spotify.com/track/7BDCfj5R4jWdFGlzbeSIoi"
+    },
+    {
+      "album": {
+        "name": "European Quartet: Introspection",
+        "url": "https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339434,
+      "name": "The Peacocks",
+      "url": "https://open.spotify.com/track/1yPQ2JxsmeE0E2KQqBnFEn"
     },
     {
       "album": {
@@ -2841,10 +3079,28 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304293,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0XXHKJqxoDfr5dzmqFlTVO"
+    },
+    {
+      "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/6PXMUQ2FQ4TY34Fr7wFQ3K"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Kronkvist",
+          "url": "https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304293,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/5duSC0GiQTYs2fdYnS4Qx5"
     },
     {
       "album": {
@@ -2889,7 +3145,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304042,
       "name": "This Morning",
       "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
@@ -2991,7 +3247,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 314413,
       "name": "Very Late",
       "url": "https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx"
@@ -3027,7 +3283,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 476992,
       "name": "What Are You Doing the Rest of Your Life?",
       "url": "https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9"
@@ -3063,7 +3319,7 @@
       ],
       "date_added": "2020-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 309000,
       "name": "When It's Sleepytime Down South",
       "url": "https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9"
@@ -3093,10 +3349,40 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270641,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/4G7ZRlytbt8445h0kb8rIy"
+    },
+    {
+      "album": {
+        "name": "European Quartet: Introspection",
+        "url": "https://open.spotify.com/album/7FQXxckwupKgu1XuqBTPhM"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270641,
+      "name": "You Know I Care",
+      "url": "https://open.spotify.com/track/2gkTommmniENieOmT4vvYb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTALrdBtcXjw"

@@ -4,7 +4,7 @@
 
 > Bring in the new day.
 
-77 songs - 4 hr 18 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
+82 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/1HHwhvfbuBfWujgfAr4FRh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Early Bright](https://open.spotify.com/track/0yT6mUjUs7CiFeO3kXDEAB) | [Rhia Medina](https://open.spotify.com/artist/0l1AWcJLnjRdZx1XLVki2p) | [Early Bright](https://open.spotify.com/album/3L7tcCyYDAAVUkcNe9Nl7i) | 4:08 | 2022-06-01 |  |
 | [Elephant Trail](https://open.spotify.com/track/5SQga7WH3w5wr1OjaraB6W) | [Dream Of Bhuna](https://open.spotify.com/artist/3ygzTZqJ6VSFGKnzeQr1Rr) | [Morning Mist](https://open.spotify.com/album/0OM5gMRY7eOCCupk3nImmo) | 2:34 | 2022-06-01 |  |
 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 | 2022-05-17 |  |
+| [Evolving](https://open.spotify.com/track/72ayVp3nnzaDgv34YIXR4x) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [Evolving](https://open.spotify.com/album/6DOASUKDLzaYzNsbFx5xVL) | 3:03 | 2022-07-28 |  |
 | [Expectations](https://open.spotify.com/track/3sqAF5u1lZdHD2FpYRNyyM) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [FEAR](https://open.spotify.com/album/7ifhbe9ZjiElMn91LKohIr) | 3:28 | 2022-05-17 |  |
 | [Fields of Passion](https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Fields of Passion](https://open.spotify.com/album/7j6qZ1o0EhkwLurLzonfVj) | 3:07 | 2022-05-17 | 2022-06-24 |
 | [Flow Chart](https://open.spotify.com/track/1Fp6RMceziUVAIZAh8iC2k) | [Superior Green Tea\(m\)](https://open.spotify.com/artist/1sd6GekJlX3CjiVvRj800M) | [Flow Chart](https://open.spotify.com/album/779g1XPRdLSniKdwea2uL1) | 3:15 | 2022-06-01 |  |
@@ -53,6 +54,7 @@
 | [Open Eyes](https://open.spotify.com/track/44DnCwE2tpZoTrLs9kWYbm) | [Karnataka Dawn](https://open.spotify.com/artist/5CkV7GGzUTOTqzjbdybFE9) | [Open Eyes](https://open.spotify.com/album/72vaLGLNalHRXnJGMW9u9S) | 2:46 | 2022-06-01 |  |
 | [Perfect Pace](https://open.spotify.com/track/5zlVHMRwqJ4L7Z4b5W0oD3) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [Perfect Pace](https://open.spotify.com/album/4j3SzFdQMJ0zuDhrzpxdAV) | 2:44 | 2022-05-17 |  |
 | [Queen West Blues](https://open.spotify.com/track/18Qmzx54JdUyR5jVq4HiUq) | [Vacant Cities](https://open.spotify.com/artist/4ln07OZWdNaIm0qb1fVOQ7) | [Queen West Blues](https://open.spotify.com/album/3AH157ouZcjjDiXQZO3BeW) | 2:21 | 2022-05-17 |  |
+| [Rhythm Of My Soul](https://open.spotify.com/track/0azwXTgSFkWTFSRnt6di9r) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Rhythm Of My Soul](https://open.spotify.com/album/6silPFIfr3SUpF5cQNn9tD) | 3:04 | 2022-07-28 |  |
 | [Rhythmos pt2](https://open.spotify.com/track/5EAnXO91ASnzXI6HIyVsNg) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Shaking Yoga Vol 1](https://open.spotify.com/album/6DP0O3eVljjFhrEI3ey0Ye) | 4:04 | 2022-05-17 |  |
 | [Rhythmos pt3](https://open.spotify.com/track/1j4TBFiFnXpchnGtTJde7V) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Shaking Yoga Vol 1](https://open.spotify.com/album/6DP0O3eVljjFhrEI3ey0Ye) | 3:47 | 2022-05-17 |  |
 | [Rhythms](https://open.spotify.com/track/7k4rCHsAkGFenZXf0oyyo2) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Rhythms](https://open.spotify.com/album/49WX9FGlbYJlDultUGVEmh) | 4:01 | 2022-05-17 |  |
@@ -60,6 +62,7 @@
 | [Sacred Mountain](https://open.spotify.com/track/6T8WTmpbCkzJVhR3ut2aCq) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:21 | 2022-05-17 |  |
 | [Safe In Me](https://open.spotify.com/track/5pFkd2XYGXqu5ixYMWcHZX) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Inhale Exhale](https://open.spotify.com/album/0pjLFW61AV1xvnAaSkcEgU) | 3:16 | 2022-06-23 |  |
 | [Sankalpa](https://open.spotify.com/track/6HDcCcZ0keGKl8EIGJCj0j) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Sankalpa](https://open.spotify.com/album/1bKAEHUWuRojCwXvbHoANf) | 3:28 | 2022-05-17 |  |
+| [Shimmer in the Morning](https://open.spotify.com/track/5A2bqoIAVDTkSiJAf1VCxn) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3js5Q3SdvGgWRp5g93oBUO) | 1:52 | 2022-07-28 |  |
 | [Shivaratri](https://open.spotify.com/track/6y4zQgeTuyOV3osTIPljwy) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [One River](https://open.spotify.com/album/67gLMrueyFRoD48NwVZ4qk) | 9:23 | 2022-05-17 | 2022-06-24 |
 | [Shivaratri \(Edit\)](https://open.spotify.com/track/6s5D1mMICLCrMO8BrZ7hYE) | [Benjy Wertheimer](https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX), [John De Kadt](https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb) | [Yoga Music Mantras & Chants, Vol\. 2 \- Sanskrit Chants for Yoga Class](https://open.spotify.com/album/3En0OxPx8fvZrXfXxIN1xq) | 5:32 | 2022-05-17 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-17 |  |
@@ -80,10 +83,12 @@
 | [Train Of Thought](https://open.spotify.com/track/2A9lt19lArZNMpyWyfC0Er) | [Percussion As Medicine](https://open.spotify.com/artist/3FRJVDCXmMrOEnjzr24ful) | [The Next Journey](https://open.spotify.com/album/2Ymow8WnJxJKmWTWMWzu25) | 3:00 | 2022-06-23 |  |
 | [Trance Tranquilo](https://open.spotify.com/track/59ilgrA53futwwjj232Y70) | [P\. Kock](https://open.spotify.com/artist/2rgJcYeNUebBUrewWW2rMm) | [Trance Tranquilo](https://open.spotify.com/album/2bSubrjoMdH5byb177KVti) | 2:53 | 2022-05-17 |  |
 | [Tribal Drums](https://open.spotify.com/track/7ngYj0qqIj8tCaNBoGI3RR) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Tribal Drums & Jungle Sounds \(African Spirit \- Relax \- Chill – Meditate\)](https://open.spotify.com/album/5WVcyeQAHSh7d3Rpr1mdwz) | 3:19 | 2022-05-17 |  |
+| [Tune in](https://open.spotify.com/track/4L6KI2P3DKrJU69ff6C1QZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Tune in](https://open.spotify.com/album/4Lvc7H7bGRI8KokdHdBTu4) | 2:15 | 2022-07-28 |  |
 | [Upper Manang](https://open.spotify.com/track/0sw6C9oeuUazFsoTtaIbef) | [The Dallay Llamas](https://open.spotify.com/artist/1rNyFpeh9Ok00sFw0wMATm) | [Ambient Beats](https://open.spotify.com/album/3LJWICezUY2TSwZ0STN9Qe) | 3:16 | 2022-05-17 |  |
 | [Vesuvius](https://open.spotify.com/track/7oWWok4HLj5H1XZ6WWysJ0) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Paradiso](https://open.spotify.com/album/7xjY2vV7TQVf8PBhauR0qZ) | 3:05 | 2022-05-17 |  |
 | [Wild Rhythms](https://open.spotify.com/track/2zpLkW4Qb6mWm2cXErEe6T) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-05-17 |  |
 | [Winds Of Hope](https://open.spotify.com/track/7Fk9G56CT7oAyqPRHCR54V) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:16 | 2022-05-17 |  |
 | [Zen Beat 1](https://open.spotify.com/track/5xZ2SUNClq0bfr5CbYEKBc) | [Sun Of Sanny](https://open.spotify.com/artist/5luG8VudoiQNvcN2OEcdpC) | [Zen Beats 1](https://open.spotify.com/album/3EjS8dAFjuHzy4FE9UYif6) | 3:14 | 2022-05-17 |  |
+| [明日 Tomorrow](https://open.spotify.com/track/4E7pyCeIzWAzuk4RD5hUkC) | [Shunya Koyanagi](https://open.spotify.com/artist/2NGMjhqXuqLLdvot10Mij4) | [明日 Tomorrow](https://open.spotify.com/album/0K0EsCmAo5nqwPzYAR9eRL) | 3:10 | 2022-07-28 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

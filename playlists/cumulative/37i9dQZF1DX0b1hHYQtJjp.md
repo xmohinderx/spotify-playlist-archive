@@ -4,7 +4,7 @@
 
 > Ease into these recent hits and new songs from your favorite artists\. Cover: P!nk
 
-885 songs - 2 day 0 hr 48 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
+887 songs - 2 day 0 hr 55 min - [published](https://open.spotify.com/playlist/4ml5qGm3jWvLjOnBVMhlu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2019-05-26\* | 2019-06-15 |
 | [Falling Up](https://open.spotify.com/track/71i3wlanzjflfYz0gkT2W8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Falling Up](https://open.spotify.com/album/3Atxu3OmHIpYYDxZu0Vsud) | 3:26 | 2021-03-06 | 2021-06-16 |
 | [False Alarms \(with Jon Bellion\)](https://open.spotify.com/track/05J50VX6xpsMYAqOb0atmk) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [False Alarms \(with Jon Bellion\)](https://open.spotify.com/album/47BOqU6q2SmhzcSlRD6nIk) | 4:00 | 2021-07-27 | 2021-09-18 |
-| [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-27 |  |
+| [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-27 | 2022-07-29 |
+| [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2022-07-22 |  |
 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 | 2022-02-18 | 2022-03-05 |
 | [Favorite T\-Shirt](https://open.spotify.com/track/1T1hTMgbosereKCBVx0FuC) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Favorite T\-Shirt](https://open.spotify.com/album/2n1ie8b83GbG6DeQ2aOpJc) | 3:04 | 2019-10-25 | 2020-09-04 |
 | [Feel That Way](https://open.spotify.com/track/6hdZwlouH9O1l0RGIUDH7I) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 4:28 | 2020-03-13 | 2020-04-04 |
@@ -594,7 +595,8 @@
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-07-10 | 2021-08-14 |
 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 | 2021-06-26 | 2021-08-14 |
 | [One \- Radio Edit](https://open.spotify.com/track/4eVSk1W66OcG8hypxWP3Lu) | [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD), [Makz Keys](https://open.spotify.com/artist/57zx2N8jONxXpuEuUmAaSc), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [One](https://open.spotify.com/album/2BWQlSMLVwCBLWYbmQhQjU) | 4:11 | 2021-07-04 | 2021-07-31 |
-| [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-27 |  |
+| [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 | 2022-05-27 | 2022-07-29 |
+| [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 | 2022-07-22 |  |
 | [One Man Band](https://open.spotify.com/track/08dFHFTx6r67MTsYn5ilDR) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/2u7YB4vGWWHqWJrBJTqT7V) | 3:06 | 2019-11-22 | 2020-07-10 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-10-09 |
 | [One Too Many](https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [One Too Many](https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9) | 3:23 | 2020-09-18 | 2021-06-05 |

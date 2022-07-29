@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt"
+      },
+      "artists": [
+        {
+          "name": "Boon Hui Lu",
+          "url": "https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Be Your Sunshine",
+      "url": "https://open.spotify.com/track/4Z0x5o2SW2hm2BbvAejbuy"
+    },
+    {
+      "album": {
         "name": "BOARDING",
         "url": "https://open.spotify.com/album/32zpkIvqSz1poGJQo1pww3"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215179,
       "name": "\u505a\u4f60\u7684\u592a\u967d",
       "url": "https://open.spotify.com/track/1qy3NaGcXDrPv9BcAqLH7B"
@@ -437,10 +455,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283915,
       "name": "\u6211\u4e0d\u8981\u591a\u5e78\u798f",
       "url": "https://open.spotify.com/track/0IPp0VMV7ixMXRv5m5GeLW"
+    },
+    {
+      "album": {
+        "name": "\u8c22\u8c22 \u9676\u6676\u83b9",
+        "url": "https://open.spotify.com/album/79UqqqP4ZzWwOd8RcvADEO"
+      },
+      "artists": [
+        {
+          "name": "\u9676\u6676\u83b9",
+          "url": "https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283915,
+      "name": "\u6211\u4e0d\u8981\u591a\u5e78\u798f",
+      "url": "https://open.spotify.com/track/3pMq5G7JOQsToNVIIgUWny"
     },
     {
       "album": {

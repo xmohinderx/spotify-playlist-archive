@@ -2,9 +2,9 @@
 
 ### [mood.](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B tracks essential for your current mood\. Cover: Doechii, SZA
+> The R&B tracks essential for your current mood\. Cover: Beyoncé
 
-121 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
+124 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/26MnmTp5Ay0CeKf3X2PBvn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 | 2022-06-08 |  |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-06-30 | 2022-07-08 |
 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 | 2022-06-08 | 2022-07-15 |
+| [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2022-07-28 |  |
 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 | 2022-07-14 |  |
 | [Beautiful \(feat\. Sam Kim\)](https://open.spotify.com/track/3eYG0rgZxgNF8FZQoHu9GK) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [EGO 90'S](https://open.spotify.com/album/7kecJ6YlieepBPVgMlf4vw) | 4:34 | 2022-07-21 |  |
 | [Before](https://open.spotify.com/track/3z6Gmz2jadZZ9y5FOIWAqF) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Before](https://open.spotify.com/album/6fXesrnlXstTyz9uurgYEY) | 3:54 | 2022-06-08 | 2022-06-24 |
@@ -59,7 +60,8 @@
 | [If](https://open.spotify.com/track/6M9PJ2I7PsQO1lStofnM7p) | [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk) | [If](https://open.spotify.com/album/0lUgYsYVa9gS6jpIb5MxLc) | 3:26 | 2022-06-30 |  |
 | [Insane](https://open.spotify.com/track/3pcxxaUxAMSfz2zgetHydD) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:09 | 2022-06-30 |  |
 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 | 2022-06-08 | 2022-06-17 |
-| [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-06-08 |  |
+| [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-06-08 | 2022-07-29 |
+| [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/7jhxagwOk9y1HC5ciRfmkQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-07-28 |  |
 | [JADED](https://open.spotify.com/track/3JLRDi6U0BXwWzkqXjliIn) | [Silver Lim](https://open.spotify.com/artist/1Wytp9rQDwH6Qnt8RBc3Pb), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [JADED](https://open.spotify.com/album/5mH7POlWSAS7WYlk7kK39E) | 3:10 | 2022-06-08 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-06-08 |  |
 | [Letter To Ur Ex](https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf) | 2:14 | 2022-06-08 | 2022-07-15 |
@@ -94,6 +96,7 @@
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-21 |  |
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2022-07-07 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-06-08 |  |
+| [Precious](https://open.spotify.com/track/5kn2g75RCLUFj9FEY3aoYh) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7), [Revo Marty](https://open.spotify.com/artist/0j2PjDgskS5HrDs3qFaJkT) | [Precious](https://open.spotify.com/album/4XDaGZKHjIe20QW8NQJ978) | 3:11 | 2022-07-28 |  |
 | [Present](https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Present](https://open.spotify.com/album/5KsduyvZorQ3RjJTZA8In9) | 2:36 | 2022-06-08 |  |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-06-30 |  |
 | [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2022-06-23 |  |

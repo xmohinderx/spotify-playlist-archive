@@ -1143,6 +1143,24 @@
     {
       "album": {
         "name": "Lone Time",
+        "url": "https://open.spotify.com/album/1aUqLa76nEsc0GXWcPi3xw"
+      },
+      "artists": [
+        {
+          "name": "Suhail Ahmad",
+          "url": "https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Lone Time",
+      "url": "https://open.spotify.com/track/1Ps9RScxUuJMwdSeU2BaZk"
+    },
+    {
+      "album": {
+        "name": "Lone Time",
         "url": "https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3"
       },
       "artists": [
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230769,
       "name": "Lone Time",
       "url": "https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG"
@@ -2167,10 +2185,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209774,
       "name": "The Other Side Of Existence",
       "url": "https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF"
+    },
+    {
+      "album": {
+        "name": "The Other Side Of Existence",
+        "url": "https://open.spotify.com/album/6ITE6HEeLZNa7uh1GNqQtU"
+      },
+      "artists": [
+        {
+          "name": "Yuni Wa",
+          "url": "https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209778,
+      "name": "The Other Side Of Existence",
+      "url": "https://open.spotify.com/track/3F18almxaf6ifbx75o8YxW"
     },
     {
       "album": {
@@ -2395,10 +2431,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233971,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd"
+    },
+    {
+      "album": {
+        "name": "Trapped",
+        "url": "https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb"
+      },
+      "artists": [
+        {
+          "name": "Trill Beats Bangin'",
+          "url": "https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233971,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6"
     },
     {
       "album": {

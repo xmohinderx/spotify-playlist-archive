@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 367304,
       "name": "22.8.15",
       "url": "https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo"
@@ -55,10 +55,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 404391,
       "name": "A Feast Before The Drought",
       "url": "https://open.spotify.com/track/27vaKc2RsGCIC56OsEzL3g"
+    },
+    {
+      "album": {
+        "name": "The Drought",
+        "url": "https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG"
+      },
+      "artists": [
+        {
+          "name": "Puce Mary",
+          "url": "https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404391,
+      "name": "A Feast Before The Drought",
+      "url": "https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j"
     },
     {
       "album": {
@@ -127,10 +145,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298706,
       "name": "Act Of The Empress",
       "url": "https://open.spotify.com/track/0aAavGz4M1VZdm0QfghIRV"
+    },
+    {
+      "album": {
+        "name": "Lack",
+        "url": "https://open.spotify.com/album/0gXMfRsy56PVMjTn4eLnF6"
+      },
+      "artists": [
+        {
+          "name": "Pan Daijing",
+          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298706,
+      "name": "Act Of The Empress",
+      "url": "https://open.spotify.com/track/3ucKtFC5eE3WqZbjMg5CDU"
     },
     {
       "album": {
@@ -153,7 +189,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 278553,
       "name": "Allowed to Dream",
       "url": "https://open.spotify.com/track/1p1dQSnXz8aBd23Fdws8mc"
@@ -171,7 +207,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360104,
       "name": "Antifate",
       "url": "https://open.spotify.com/track/2OWbXoMMVo2boVmpp0W8qR"
@@ -225,7 +261,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 516728,
       "name": "Arctic Spring",
       "url": "https://open.spotify.com/track/122mSYYBiELCb5Otk2TUgy"
@@ -243,7 +279,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 417077,
       "name": "Arrow 5",
       "url": "https://open.spotify.com/track/2hlu6i70CfuElhAmCskqFl"
@@ -265,7 +301,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 396521,
       "name": "Ashen",
       "url": "https://open.spotify.com/track/6hwJwZh9nZDR30uF4fw8L9"
@@ -515,7 +551,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 190973,
       "name": "Body",
       "url": "https://open.spotify.com/track/4M1lZaOm9OyZ7UJM2on0Gj"
@@ -551,7 +587,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251500,
       "name": "Bunt na zam\u00f3wienie",
       "url": "https://open.spotify.com/track/2CVJO7kArPLP2BqT9yU6F4"
@@ -569,7 +605,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 89448,
       "name": "Bureau",
       "url": "https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4"
@@ -613,6 +649,24 @@
     {
       "album": {
         "name": "Jade",
+        "url": "https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL"
+      },
+      "artists": [
+        {
+          "name": "Pan Daijing",
+          "url": "https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188656,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT"
+    },
+    {
+      "album": {
+        "name": "Jade",
         "url": "https://open.spotify.com/album/2DdXNMENiElKkXXTdr0TWe"
       },
       "artists": [
@@ -623,7 +677,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188656,
       "name": "Clean",
       "url": "https://open.spotify.com/track/7iBQFdOUWlNN8oWX6xDwia"
@@ -649,6 +703,24 @@
     {
       "album": {
         "name": "No era s\u00f3lida",
+        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204306,
+      "name": "Coatlicue S.",
+      "url": "https://open.spotify.com/track/55ugyo8XEiblazjzi4d7Om"
+    },
+    {
+      "album": {
+        "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo"
       },
       "artists": [
@@ -659,7 +731,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204306,
       "name": "Coatlicue S.",
       "url": "https://open.spotify.com/track/58RmIebaLIgMO7aE31ZuEk"
@@ -677,7 +749,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320773,
       "name": "Comisario De La Luz II",
       "url": "https://open.spotify.com/track/5k7NOKhTLfmXJ3h0NPCuQe"
@@ -713,7 +785,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 211343,
       "name": "death is quite clearly not what it used to be",
       "url": "https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM"
@@ -735,7 +807,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 211381,
       "name": "Demands of Ordinary Devotion",
       "url": "https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM"
@@ -771,7 +843,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Don't Drown",
       "url": "https://open.spotify.com/track/58CL1AZszQ0IQ7euo5d7C9"
@@ -825,7 +897,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168326,
       "name": "Drum Fife Bugle",
       "url": "https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW"
@@ -869,7 +941,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184000,
       "name": "Eon",
       "url": "https://open.spotify.com/track/4QIVbzvZbUKy78LCQ5fKe1"
@@ -966,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Weapons",
+        "url": "https://open.spotify.com/album/3jwdZ5aqNto6V6XY2ob6Vv"
+      },
+      "artists": [
+        {
+          "name": "Apollo Noir",
+          "url": "https://open.spotify.com/artist/4R7jUhRlP4sKiV8vzuEpND"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155256,
+      "name": "Flame Thrower",
+      "url": "https://open.spotify.com/track/4nScZyf3x7HJlcXOxuc60Q"
+    },
+    {
+      "album": {
         "name": "Floodwaters",
         "url": "https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF"
       },
@@ -977,7 +1067,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 633962,
       "name": "Floodwaters",
       "url": "https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx"
@@ -1011,6 +1101,24 @@
     {
       "album": {
         "name": "Ekizikiza Mubwengula",
+        "url": "https://open.spotify.com/album/067aZP3uQiemACpRoipWFh"
+      },
+      "artists": [
+        {
+          "name": "Don Zilla",
+          "url": "https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/4KWfcnNEPMGAAAQEMIUoML"
+    },
+    {
+      "album": {
+        "name": "Ekizikiza Mubwengula",
         "url": "https://open.spotify.com/album/05f58iMP9KoPbeiGAzaz4i"
       },
       "artists": [
@@ -1021,7 +1129,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/5ktpSEIJoMmz5AtfzVeqBb"
@@ -1039,7 +1147,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280000,
       "name": "Funeral Headplate",
       "url": "https://open.spotify.com/track/5WvoL4zoZDDzHi6E8PRlgl"
@@ -1097,7 +1205,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 253022,
       "name": "Ground (Up)",
       "url": "https://open.spotify.com/track/4nUhvje1ZfgXHEvItu5UZP"
@@ -1122,6 +1230,24 @@
     },
     {
       "album": {
+        "name": "skins n slime",
+        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
+    },
+    {
+      "album": {
         "name": "I Might Be Dead",
         "url": "https://open.spotify.com/album/5m9aBbCjvJ7vUT8A3gT3hZ"
       },
@@ -1133,7 +1259,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 162216,
       "name": "I Might Be Dead",
       "url": "https://open.spotify.com/track/3CrugDkT5hrxchw6rZenYU"
@@ -1151,7 +1277,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 234835,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu"
@@ -1169,7 +1295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266426,
       "name": "Inevitable Truth",
       "url": "https://open.spotify.com/track/3UBlpER8dYeArWgFk9xgJD"
@@ -1205,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383084,
       "name": "Isolation Tank",
       "url": "https://open.spotify.com/track/4lLNOoPLe1dUjpMG7nxjmz"
@@ -1281,7 +1407,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 345476,
       "name": "Magelungsverket",
       "url": "https://open.spotify.com/track/6H82oppGmolCefAgr1ztcO"
@@ -1325,7 +1451,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 101809,
       "name": "Moshpit I",
       "url": "https://open.spotify.com/track/5AAEm5YXB6Ew91j1pRFH8R"
@@ -1343,7 +1469,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287142,
       "name": "Net Fragment",
       "url": "https://open.spotify.com/track/3G0NiVij1ucF7j1Ed5aEjl"
@@ -1415,7 +1541,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 341421,
       "name": "Para",
       "url": "https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar"
@@ -1455,7 +1581,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 993122,
       "name": "Part I: City Barbarism Melancholy",
       "url": "https://open.spotify.com/track/5wtAKVP58dyr7gyed4DLq1"
@@ -1643,7 +1769,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 419168,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/2TdbQ2shefRfUdX9JgTKPB"
@@ -1723,7 +1849,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 1039546,
       "name": "Sky Dice / Mapping the Studio",
       "url": "https://open.spotify.com/track/141Bhu4gaRwKk8JWUOBVBP"
@@ -1781,10 +1907,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229192,
       "name": "somewhere between the 8th and 9th floor",
       "url": "https://open.spotify.com/track/2YYfYUOxF3GmK5N1p8HbCE"
+    },
+    {
+      "album": {
+        "name": "im hole",
+        "url": "https://open.spotify.com/album/3o6dE7ccS1LCt5CBkwLV7T"
+      },
+      "artists": [
+        {
+          "name": "aya",
+          "url": "https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229192,
+      "name": "somewhere between the 8th and 9th floor",
+      "url": "https://open.spotify.com/track/7DDResRRbKMbwaWHFt5xBr"
     },
     {
       "album": {
@@ -1821,7 +1965,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289960,
       "name": "STAUB",
       "url": "https://open.spotify.com/track/2SDdNlo3nlzpkx1AuUEQNh"
@@ -1861,7 +2005,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 481186,
       "name": "Swell",
       "url": "https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW"
@@ -1915,7 +2059,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 870176,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/0fryT4KKeWuiU29AyI4tn2"
@@ -1991,10 +2135,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 548000,
       "name": "time thieves",
       "url": "https://open.spotify.com/track/34QaVNIPTDprFeRlr0Ifff"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/5zEb9tVCerWMgrp9XbMjGi"
+      },
+      "artists": [
+        {
+          "name": "Pharmakon",
+          "url": "https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294326,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/0OuuJi4vvwFDzo64PTyMyD"
     },
     {
       "album": {
@@ -2009,7 +2171,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294326,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/3XD5XT77B2KdBQsHaRj5h5"
@@ -2031,7 +2193,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 217590,
       "name": "Trueno",
       "url": "https://open.spotify.com/track/4QFDiiPfq5shzyiGoY84vY"
@@ -2049,7 +2211,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 389433,
       "name": "Undead Burg / Parish",
       "url": "https://open.spotify.com/track/0Y4bCrQj8S5MX8Il3fL6Rk"
@@ -2075,7 +2237,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Unisono",
       "url": "https://open.spotify.com/track/2cqx6VbS3ek3zZakZ8JQKQ"
@@ -2115,10 +2277,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 803213,
       "name": "Vox",
       "url": "https://open.spotify.com/track/377DlQnf9DQdwWVR10FodU"
+    },
+    {
+      "album": {
+        "name": "Wanton Witch LP",
+        "url": "https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA"
+      },
+      "artists": [
+        {
+          "name": "Wanton Witch",
+          "url": "https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276479,
+      "name": "Walking on Moirai",
+      "url": "https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB"
     },
     {
       "album": {
@@ -2133,7 +2313,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276479,
       "name": "Walking On Moirai",
       "url": "https://open.spotify.com/track/4VFhYQUq30AZcht19dBV7e"
@@ -2151,7 +2331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 230341,
       "name": "WHERE'ER YOU WALK",
       "url": "https://open.spotify.com/track/3YHAXm7tnqQ4kgvweT8JJ2"
@@ -2173,7 +2353,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154736,
       "name": "Wicked City",
       "url": "https://open.spotify.com/track/6NwgjbHa8wpYAwF5b6U3qA"
@@ -2191,7 +2371,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 263160,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4kBI9DGHmIVFlpLDWCvkyi"

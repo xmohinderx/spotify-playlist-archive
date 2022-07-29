@@ -257,10 +257,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192466,
       "name": "Can't Help Lovin' That Man",
       "url": "https://open.spotify.com/track/2QmcrQHGk9WBGqw2kcKAmG"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Julie London",
+        "url": "https://open.spotify.com/album/5l5YSf1QBiVhoUKBQX9lOh"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Can't Help Lovin' That Man - Remastered",
+      "url": "https://open.spotify.com/track/5Dus8FVMSpI1N5mslo3pGW"
     },
     {
       "album": {
@@ -426,6 +444,28 @@
     },
     {
       "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332120,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
+    },
+    {
+      "album": {
         "name": "John Coltrane and Johnny Hartman",
         "url": "https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf"
       },
@@ -437,7 +477,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 331840,
       "name": "Dedicated to You",
       "url": "https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr"
@@ -1787,10 +1827,32 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336133,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/04rPaVjf38UJDdOiFA40e0"
+    },
+    {
+      "album": {
+        "name": "Waltz For Debby",
+        "url": "https://open.spotify.com/album/5jMKNvYYHH08quqLK3ylTC"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336133,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/4HH32eyROgSGiay7IGiGSJ"
     },
     {
       "album": {

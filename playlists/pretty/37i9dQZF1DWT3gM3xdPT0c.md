@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,714 likes - 86 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,765 likes - 87 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,10 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 79 | [Green Grass](https://open.spotify.com/track/3sh5zwu0r6FQWLtuhJciXv) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Under The Oak](https://open.spotify.com/album/2kzu9YIymsuwYuTz8QFLgS) | 2:00 |
 | 80 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 |
 | 81 | [I'll Tell You One Day](https://open.spotify.com/track/1M21XoaDgY3zwAxpBBkQgy) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [I'll Tell You One Day](https://open.spotify.com/album/4W6JyrjprGsNAZBOo4IV5t) | 1:35 |
-| 82 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 |
-| 83 | [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 |
-| 84 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 |
-| 85 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 |
-| 86 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 |
+| 82 | [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 |
+| 83 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 |
+| 84 | [Candle](https://open.spotify.com/track/5nYu8VUjyA2sqsi0o48VQc) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Swaying](https://open.spotify.com/album/0uh0YgMWqpewFHCNy4yqtY) | 3:07 |
+| 85 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 |
+| 86 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 |
+| 87 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDAzZTAwMDAwMTgyMjMzNDM0ODcwMDAwMDE4MWRlMzMzYTI2`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGUzZmI3N2RmYzcxYjQwYTM4MzMzOTYzZDliMjUxMjA3`

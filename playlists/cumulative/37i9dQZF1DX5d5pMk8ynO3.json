@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 343887,
       "name": "El Baile de los Que Sobr\u00e1n",
       "url": "https://open.spotify.com/track/4bGjPkl0BKXeFJOyKpdSwS"
@@ -314,6 +314,60 @@
     },
     {
       "album": {
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368320,
+      "name": "Entre dos tierras",
+      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+    },
+    {
+      "album": {
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+    },
+    {
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298226,
+      "name": "Estrechez De Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4oR2kX5BI50GBnQGRdRRsM"
+    },
+    {
+      "album": {
         "name": "Musicos, Poetas Y Locos",
         "url": "https://open.spotify.com/album/6P3Hh8dkVLgguu6bH6miDw"
       },
@@ -325,7 +379,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298560,
       "name": "Estrechez De Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3WG3goVRrVz0maPXCXdpCW"
@@ -379,7 +433,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
@@ -419,7 +473,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
@@ -563,7 +617,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/4Cgnghmoca0hDGHmA8zO4A"
@@ -599,7 +653,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 239906,
       "name": "Los Globos del Cielo",
       "url": "https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu"
@@ -671,7 +725,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239680,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg"
@@ -725,10 +779,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167560,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/5RIypaRRQFO7tizTuK4iuU"
+    },
+    {
+      "album": {
+        "name": "Rock en Espa\u00f1ol Otro M\u00e1s",
+        "url": "https://open.spotify.com/album/429AX1N1gSOl7Vc7EcpKh4"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167560,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/5RXIOm3I9Pl9qKqMyZmuoy"
     },
     {
       "album": {
@@ -765,10 +837,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 363120,
       "name": "Mujer Amante",
       "url": "https://open.spotify.com/track/4eCrF1FgVL4se3AkHOnLDL"
+    },
+    {
+      "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
     },
     {
       "album": {
@@ -898,6 +988,24 @@
     },
     {
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "album": {
         "name": "Hasta luego",
         "url": "https://open.spotify.com/album/17zbU7662bSZyECndKCYio"
       },
@@ -909,7 +1017,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/3RN4lB7qvjqTBuMXPOO18r"
@@ -927,7 +1035,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290786,
       "name": "Persiana Americana",
       "url": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW"
@@ -945,7 +1053,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 266133,
       "name": "Por el Resto",
       "url": "https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA"
@@ -999,10 +1107,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250106,
       "name": "Rayando El Sol",
       "url": "https://open.spotify.com/track/7svv80OeI8fsH30dx5UFCu"
+    },
+    {
+      "album": {
+        "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
+        "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287605,
+      "name": "Sexo",
+      "url": "https://open.spotify.com/track/4kngkpQ3T9wUzZrdfQr0Wq"
     },
     {
       "album": {
@@ -1035,10 +1161,28 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/0VD9b7IXBWM0lKGagkYOKu"
+    },
+    {
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2022-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-173 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+174 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Falling Light](https://open.spotify.com/track/2sGQH1FgVUDiR9LrCsC3Z2) | [The Bare Bones](https://open.spotify.com/artist/2NKYLVOD0HH7O1anuALOBU) | [Falling Light](https://open.spotify.com/album/7tg2gSz70w2IU31QmeT6Ac) | 2:12 | 2022-06-17 |  |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 |  |
 | [For A Light Blue Light](https://open.spotify.com/track/7M5Rp2Hxv169779gEJPVal) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [For A Light Blue Light](https://open.spotify.com/album/3WUgkg9hH1j16Q5jOQ8kJv) | 3:10 | 2022-07-22 |  |
-| [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 |  |
+| [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 | 2022-07-29 |
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 |  |
 | [Girasoles para ti](https://open.spotify.com/track/0v8y9eVORFsgXpCFenxkV0) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Girasoles para ti](https://open.spotify.com/album/2TPRbJWMg8uFe6X46w7R9D) | 3:10 | 2022-06-17 |  |
 | [Given](https://open.spotify.com/track/5iM1qRfdkKgzs0HaShhno5) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Given](https://open.spotify.com/album/3s85eBCZY403QapgeztMw4) | 2:30 | 2022-06-17 |  |
@@ -112,7 +112,7 @@
 | [Monte de Fuego](https://open.spotify.com/track/7guIP6Tpq7QYQNapYYpC0K) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Monte de Fuego](https://open.spotify.com/album/4xPAVzwGR2Z3b6pMkvQVPI) | 3:15 | 2022-06-17 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 |  |
 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 | 2022-06-17 |  |
-| [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2022-06-17 |  |
+| [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2022-06-17 | 2022-07-29 |
 | [Nessun Dorma \- Guitar Solo](https://open.spotify.com/track/2RLqDz5ZMBzqDflhRN3Lwx) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Nessun Dorma \(Guitar Solo\)](https://open.spotify.com/album/5vvf8nmZAFJkv5giEpMm68) | 2:55 | 2022-06-17 |  |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2022-06-17 |  |
 | [New Beginnings](https://open.spotify.com/track/7wDAgMa0JFVHQ4Zplb7EsA) | [David Paulin](https://open.spotify.com/artist/3OW9GWNHhjBd0Qt9e6Fj3b) | [New Beginnings](https://open.spotify.com/album/2pSlA3QaTpdbplgNIAfeuR) | 2:50 | 2022-06-17 |  |
@@ -155,7 +155,8 @@
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 |  |
 | [Sweet Freedom](https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sweet Freedom](https://open.spotify.com/album/1H1dx5HRADoZAn88UcUQhc) | 2:45 | 2022-06-17 |  |
 | [Tarregas Bodega](https://open.spotify.com/track/6mueyqJyIsSTHJBZaR6b2n) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Tarregas Bodega](https://open.spotify.com/album/5GqIcRQ3SxM2UE9jxy02B9) | 1:29 | 2022-07-08 |  |
-| [Tears of an Angel](https://open.spotify.com/track/71BUlq3am1Izd2fo4pqTxC) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/77j8C5X2LtnRFVdzlCjbIm) | 2:56 | 2022-06-17 |  |
+| [Tears of an Angel](https://open.spotify.com/track/3n20lU1lPLK86J7AoJ2KMH) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/2MMTFk6cmPIrNPw17aLaB2) | 2:56 | 2022-07-29 |  |
+| [Tears of an Angel](https://open.spotify.com/track/71BUlq3am1Izd2fo4pqTxC) | [Kjell Åge Hartveit Karlsen](https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ) | [Tears of an Angel](https://open.spotify.com/album/77j8C5X2LtnRFVdzlCjbIm) | 2:56 | 2022-06-17 | 2022-07-29 |
 | [Telémaco](https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ) | [Telémaco](https://open.spotify.com/album/6kKjlOBuPfKXQicsIZUmgw) | 2:45 | 2022-06-17 |  |
 | [The Bird's Nest](https://open.spotify.com/track/1tY1E5TeQj4kcZVQQZLUqx) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [The Bird's Nest](https://open.spotify.com/album/1rFbbm5Ms87iwZR8gVgkUw) | 2:48 | 2022-07-01 |  |
 | [The Day After](https://open.spotify.com/track/0SEbc1pZvxe1TxlSKYkaVa) | [René Aubry](https://open.spotify.com/artist/1dyZDfHcTtUJjx0DFBcOvc) | [The Day After](https://open.spotify.com/album/1jB9O7iadLZAsX27KBYnfu) | 2:03 | 2022-06-17 |  |
@@ -177,9 +178,9 @@
 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 | 2022-06-17 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 |  |
 | [Wohin mit der Liebe](https://open.spotify.com/track/4DdksysnXyseaRRTd45QUu) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Romantic Guitar Solos](https://open.spotify.com/album/44BPIZarbDHjvl0EkTlmQ7) | 2:50 | 2022-06-17 |  |
-| [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 |  |
+| [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 |  |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 |  |
-| [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 |  |
+| [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-20. Prior content cannot be recovered.

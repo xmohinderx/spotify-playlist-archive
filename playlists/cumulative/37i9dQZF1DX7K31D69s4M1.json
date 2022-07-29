@@ -485,6 +485,24 @@
     {
       "album": {
         "name": "A World Without Pain",
+        "url": "https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A World Without Pain",
+      "url": "https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK"
+    },
+    {
+      "album": {
+        "name": "A World Without Pain",
         "url": "https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd"
       },
       "artists": [
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156000,
       "name": "A World Without Pain",
       "url": "https://open.spotify.com/track/536rm114S2ByPbh906pksj"
@@ -974,6 +992,24 @@
     },
     {
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95942,
+      "name": "All Numbers End",
+      "url": "https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB"
+    },
+    {
+      "album": {
         "name": "All Numbers End",
         "url": "https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN"
       },
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95942,
       "name": "All Numbers End",
       "url": "https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5"
@@ -11233,6 +11269,24 @@
     {
       "album": {
         "name": "Like Before",
+        "url": "https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF"
+    },
+    {
+      "album": {
+        "name": "Like Before",
         "url": "https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp"
       },
       "artists": [
@@ -11243,7 +11297,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135903,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm"
@@ -13181,10 +13235,28 @@
       ],
       "date_added": "2020-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152123,
       "name": "Moods Anemoia",
       "url": "https://open.spotify.com/track/0VphIydrd19Os41mBxcn3K"
+    },
+    {
+      "album": {
+        "name": "Moods Anemoia",
+        "url": "https://open.spotify.com/album/2MgvsYBhmzWSWJe57z5Fvl"
+      },
+      "artists": [
+        {
+          "name": "Mario Vi\u00f1uela",
+          "url": "https://open.spotify.com/artist/4hAdpygElM5qnAI534XVRp"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Moods Anemoia",
+      "url": "https://open.spotify.com/track/1OypaCAJWzAKpsh9PEX2fk"
     },
     {
       "album": {
@@ -13613,10 +13685,28 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142700,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR"
+    },
+    {
+      "album": {
+        "name": "In Itself",
+        "url": "https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142706,
+      "name": "My Only One",
+      "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
     },
     {
       "album": {
@@ -14017,6 +14107,24 @@
     {
       "album": {
         "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "album": {
+        "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE"
       },
       "artists": [
@@ -14027,7 +14135,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo"
@@ -17405,10 +17513,28 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
+    },
+    {
+      "album": {
+        "name": "In the Valley",
+        "url": "https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
     },
     {
       "album": {
@@ -22501,6 +22627,24 @@
     {
       "album": {
         "name": "Waiting",
+        "url": "https://open.spotify.com/album/1eJwBJhgIo8jP2fEvEwnG2"
+      },
+      "artists": [
+        {
+          "name": "Kaipuu",
+          "url": "https://open.spotify.com/artist/1OUDpEUmqBh4UJVS6ozdHf"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126013,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1WKfCfTjRtTjS0XrwyE8fj"
+    },
+    {
+      "album": {
+        "name": "Waiting",
         "url": "https://open.spotify.com/album/0n04fqfU61oJ9Ntzyyyy6q"
       },
       "artists": [
@@ -22511,7 +22655,7 @@
       ],
       "date_added": "2020-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126013,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4tbigdLXyqhYUD9xFXplQf"

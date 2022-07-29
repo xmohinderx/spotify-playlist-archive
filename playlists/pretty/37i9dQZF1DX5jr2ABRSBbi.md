@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Riť](https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K) | 2:59 |
+| 1 | [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 |
 | 2 | [live\. laugh\. cry](https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [live\. laugh\. cry](https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON) | 2:50 |
 | 3 | [you make me miserable](https://open.spotify.com/track/77mZIYNx234Fytm9V9FzUB) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [you make me miserable](https://open.spotify.com/album/1AQmAHENyNC8wcz5qXwxsY) | 2:43 |
 | 4 | [My Roots Go Deep](https://open.spotify.com/track/2tnXAYSW49qWmlN52Y3Czj) | [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [My Roots Go Deep](https://open.spotify.com/album/0lK7xRv84yiVsuNagjUTkI) | 5:07 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 44 | [Sen](https://open.spotify.com/track/6zrTE6TvagdtmAWhrnfXQC) | [Yael](https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Sen](https://open.spotify.com/album/4HzKX6bV8nlhlxPWsu0xNJ) | 3:28 |
 | 45 | [Zlatý kolovrat](https://open.spotify.com/track/6ialcFeuXk5ScRIH83RPLV) | [Radůza](https://open.spotify.com/artist/4iwfTVBJGGtaCAgy2K0PAd) | [Nebe je odemčené](https://open.spotify.com/album/1a8dD01amRMssvxbeNx64U) | 3:38 |
 | 46 | [Mirror Me](https://open.spotify.com/track/15OMPbRzKfZKNDkTFVJMQn) | [Tolstoys](https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J) | [Mirror Me](https://open.spotify.com/album/6y5wzKUDXEUTgJAr8yjB6i) | 2:30 |
-| 47 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 |
+| 47 | [almost 20](https://open.spotify.com/track/6k7xfz8AzcXfavWKWmRMyf) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ) | 2:12 |
 | 48 | [Úbočí](https://open.spotify.com/track/5pJzzbzjPgCJrKe394kv8Y) | [Bára Zmeková](https://open.spotify.com/artist/25kg48KQR5IPL7CHQO5QhC), [Francesca Mountfort](https://open.spotify.com/artist/4rvGhMLpsSo6W2UKI1sqDJ) | [Úbočí](https://open.spotify.com/album/5ZB03QZgrrujo158132H2h) | 4:14 |
 | 49 | [I Want To Be Perfect](https://open.spotify.com/track/0cfLMh35GyuZne7PNaJIFn) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [I Want To Be Perfect](https://open.spotify.com/album/1LJL5tyy403JxvpgPoSMQD) | 2:53 |
 | 50 | [Lampiony](https://open.spotify.com/track/4wXqxa0NBj9pAt6Z9dbxae) | [DIA](https://open.spotify.com/artist/0PsuGDOlfOP2oextgt3x6H) | [Lampiony](https://open.spotify.com/album/73OblXxnh21rQ9KMZNKgng) | 3:25 |
 
-Snapshot ID: `MTY1NjYyNjQwMCwwMDAwMDAxMzAwMDAwMTgxYjZhMGNjZDkwMDAwMDE4MWIwMTkxNjNl`
+Snapshot ID: `MTY1NjYyNjQwMCwwMDAwMDAwMDdiYThjZmYxYzViYTU4MzY3OGIyNzUwZDhiYzlhYzcw`

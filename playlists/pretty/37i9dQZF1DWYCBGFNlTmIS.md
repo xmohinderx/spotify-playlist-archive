@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,880 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,883 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 23 | [還有48小時](https://open.spotify.com/track/2zwtWWdKR4d2pw6upUlox0) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [還有48小時](https://open.spotify.com/album/5c8mB5gW8mQvYQdmQFrnXJ) | 4:07 |
 | 24 | [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 |
 | 25 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 |
-| 26 | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 |
+| 26 | [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 |
 | 27 | [離原](https://open.spotify.com/track/0wJq0895oQEq63hBUWUO1B) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [GWENDOLYN](https://open.spotify.com/album/7MKcI6USXJ5R7chXfOozmY) | 3:40 |
 | 28 | [背山望海離不開 \(Live\)](https://open.spotify.com/track/1aPcUstxFJaBRRgrUrwSt9) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9), [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw) | [背山望海離不開 \(Live\)](https://open.spotify.com/album/2nFpKxx7b9kRx3JvsAAkZd) | 6:45 |
 | 29 | [青春頌](https://open.spotify.com/track/6gquGEq3Wh3XLIddshZNei) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [長大](https://open.spotify.com/album/3LENjCElz1Yd7K8bX37wiu) | 4:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 46 | [Lost in L.A.](https://open.spotify.com/track/2DZcCzTbShcVqkP8jz94r8) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/5HvlYZNXVsXYkFQZHgrBI1) | 3:22 |
 | 47 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 |
 | 48 | [Today](https://open.spotify.com/track/1fZKhRmU2mpxL4nX8xtCvq) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [Kiss 梁詠琪新曲+精選](https://open.spotify.com/album/38au6vtwgpGNSEUiMHn34T) | 3:38 |
-| 49 | [離開是為了回來 \(Leaving Is for Coming Back\)](https://open.spotify.com/track/472quLRMJ7dv03LSbV3WGC) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [遊樂 \(Travelogue One\)](https://open.spotify.com/album/22ads6jK2PIjA6leBW8tlk) | 3:57 |
+| 49 | [離開, 是為了回來](https://open.spotify.com/track/7tjBSD63FgLBT3EtFvH3Lh) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [遊樂](https://open.spotify.com/album/5Ydyl1o47u4z0efeDOR2cz) | 3:57 |
 | 50 | [如無意外](https://open.spotify.com/track/5Wh6JTxdiNdTHq25P2tRrL) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 3:27 |
 | 51 | [告別的藝術](https://open.spotify.com/track/4Klbd6usXpmlVoexs6jlI5) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [告別的藝術](https://open.spotify.com/album/3hgtFPiQF0qmWM4dLKl7yQ) | 4:56 |
 | 52 | [寂寞夜晚](https://open.spotify.com/track/1O1UCoOAR7TJP87wbP6FMT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [Leslie Cheung Four Seasons](https://open.spotify.com/album/3JYopQziWYcvfNGURnBsaz) | 4:27 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 61 | [夜機](https://open.spotify.com/track/6vm9hk35YBDhdJ14x29glO) | [Priscilla Chan](https://open.spotify.com/artist/5SLOTZhruJRRGgIRtTSPc5) | [永遠是你的朋友](https://open.spotify.com/album/5nlHzn91AzD35tIroeTt01) | 4:31 |
 | 62 | [得個等](https://open.spotify.com/track/0pnfuNHCpQC56xBuBXCqbT) | [JB](https://open.spotify.com/artist/2cpYCYngJfXf3wTJPCKDq2) | [得個等](https://open.spotify.com/album/2k7cZ6tUVPxiiq5VSYqS5n) | 4:17 |
 | 63 | [我們一起離開吧](https://open.spotify.com/track/5HtnfNpC6FoeKIswjbML92) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [寂寞的星期五](https://open.spotify.com/album/49MdV5EejhiQ1B4jygA17g) | 2:38 |
-| 64 | [每當變幻時](https://open.spotify.com/track/2106dcOEIQ5OK25y2X3QyR) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮金曲第一輯](https://open.spotify.com/album/38d8EcOEKEfggLTi28mQaX) | 3:01 |
+| 64 | [每當變幻時](https://open.spotify.com/track/2DL0htS3Ee4EJlVdaM3KwT) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮的好歌集](https://open.spotify.com/album/4VowPNLAL6DfctN8bQWRDB) | 2:57 |
 | 65 | [Will \(not\) see you soon.](https://open.spotify.com/track/0fZEGAFZXnDpTJI7Cf6GdC) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [Will \(not\) see you soon.](https://open.spotify.com/album/3IEdkG0LYjYoQKbNF7dbUy) | 2:31 |
 | 66 | [Goodbye](https://open.spotify.com/track/0uH29nIii18yullPms1KE6) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Goodbye](https://open.spotify.com/album/0YGoXtO72F2UwLw5oLQJGm) | 4:46 |
 | 67 | [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 |
 | 68 | [忘記和記](https://open.spotify.com/track/0nHjhfGCsGw31c79SiUIz0) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [忘記和記](https://open.spotify.com/album/5ANwAweXDjoB3HhKzpDfvB) | 6:01 |
 | 69 | [夕陽無限好](https://open.spotify.com/track/4J1sHmqnc1lEwdiJEgqPOS) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [U 87](https://open.spotify.com/album/3Y1KyBOAPB5CpPEWAIxbgB) | 4:04 |
-| 70 | [It's Hard to Say Goodbye](https://open.spotify.com/track/3nGEdCiaIVCmhNKnLf8Iht) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [One Magic Day](https://open.spotify.com/album/1s957vEtF3hDKLK8ODnM5w) | 3:53 |
+| 70 | [It's Hard to Say Goodbye](https://open.spotify.com/track/1AIeRYe50U9acGcvxoGvat) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [One Magic Day](https://open.spotify.com/album/2jwMeBpR6B3UNwn6zfvrn9) | 3:53 |
 | 71 | [我會掛念你](https://open.spotify.com/track/5MRsbielmXB1vyStDdgjrZ) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [10週年 KELLY CHEN COLLECTION 1995\-2000](https://open.spotify.com/album/3FXJxJflvacgRSbdPDVHqD) | 3:45 |
 | 72 | [誰能明白我](https://open.spotify.com/track/07Qp5JcnS1gCfFbOzdyOWU) | [George Lam](https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s) | [最愛 40 \- Beloved 40](https://open.spotify.com/album/4KH6yrlyQ7PgJzy3HHxEwB) | 3:22 |
 | 73 | [愛不釋手](https://open.spotify.com/track/1La68qLTcLGsSKkVMJr3eW) | [Hacken Lee](https://open.spotify.com/artist/3PV11RNUoGfX9tMN2wVljB) | [Custom Made](https://open.spotify.com/album/6oGOsrlD6MRKFlyNaNlNQX) | 3:25 |
@@ -85,6 +85,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 75 | [香港地 \- Feat\. 陳奐仁, 胡蓓蔚 & Mc仁](https://open.spotify.com/track/6QfDCfZ3kePoSgEfhISvZ0) | [Edison Chen](https://open.spotify.com/artist/4MOwSSUjmrhS3TIM4YBYmx) | [Please Steal This Album](https://open.spotify.com/album/68dGk8yeRM4lmOrHqnvf9R) | 4:15 |
 | 76 | [一生所愛 \- 電影"西遊記大結局之仙履奇緣"插曲](https://open.spotify.com/track/4krPnkTGeaDkEKkAb85YIE) | [Lowell Lo](https://open.spotify.com/artist/0PBs3xfhn0PA6irWFrknJ4) | [Beyond Imagination](https://open.spotify.com/album/5rdnC7yDMfbE0GZlXIJUMu) | 4:13 |
 | 77 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
-| 78 | [鐵塔凌雲](https://open.spotify.com/track/6Gfx0HhDiSHf9yZjOyDGQD) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [鬼馬雙星](https://open.spotify.com/album/0YcznUqb6s6kRPmuTp6MVN) | 3:02 |
+| 78 | [鐵塔凌雲](https://open.spotify.com/track/5ALKwvEgxQpqrtCAJCvQhA) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [真經典 \- 許冠傑](https://open.spotify.com/album/6Lzj5H2oIrmZgynj212qal) | 3:02 |
 
-Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAxMDAwMDAwMTgwMjQyMmI0MDYwMDAwMDE3YjRmYmU5MzEy`
+Snapshot ID: `MTY0OTg3MzY5NSwwMDAwMDAwMGZmYzgwMDcxMzA4ODNkZDc4N2VjNWY4ZjE2MTFhYmUx`

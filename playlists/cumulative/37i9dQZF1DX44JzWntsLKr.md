@@ -4,7 +4,7 @@
 
 > Every Monbebe's HERO.
 
-119 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
+122 songs - 6 hr 42 min - [published](https://open.spotify.com/playlist/6vpFFxpgEbjdsljT6vUDSQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Party Time](https://open.spotify.com/track/2t9tdvke67nevmj0sGMqF0) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:10 | 2021-12-09 |  |
 | [Perfect Girl](https://open.spotify.com/track/21ywLifMY5LlvVn1lbnLhT) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH DIGITAL REPACKAGE “HERO”](https://open.spotify.com/album/0rsnG5TJ9jv9XuLgri1E77) | 3:39 | 2021-12-09 |  |
 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 | 2021-12-09 |  |
-| [Play It Cool](https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Play It Cool](https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN) | 2:49 | 2021-12-09 |  |
+| [Play It Cool](https://open.spotify.com/track/1gdLUGdyYpXcckmzP1rTUm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:49 | 2021-12-09 |  |
+| [Play It Cool](https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Play It Cool](https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN) | 2:49 | 2021-12-09 | 2022-07-29 |
 | [Queen](https://open.spotify.com/track/6RikqnZEtACiF2w12v0u51) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:12 | 2021-12-09 |  |
 | [RE:VERSEDAY](https://open.spotify.com/track/0lcmuzw50wKOLbphR9Cwk3) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Flavors of love](https://open.spotify.com/album/6Otl9FYuwf1KGPkxydpBo1) | 3:29 | 2021-12-09 |  |
 | [Ready or Not](https://open.spotify.com/track/7akSYiJG7WgwicKdXnrHDo) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:17 | 2021-12-09 |  |
@@ -100,7 +101,8 @@
 | [Shoot Out](https://open.spotify.com/track/55Md5fnLfCpXzUATASy6Rk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.1 Are You There?](https://open.spotify.com/album/1mJf2cC6TfClR8cICGZP7I) | 3:27 | 2021-12-09 |  |
 | [SOMEONE'S SOMEONE](https://open.spotify.com/track/6qEqNxAkfSEzNa8KdO5ewa) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 2:21 | 2021-12-09 |  |
 | [Sorry I'm Not Sorry](https://open.spotify.com/track/0SEy222w1gkxs6eJioH794) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:27 | 2021-12-09 |  |
-| [SPOTLIGHT](https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k) | 3:59 | 2021-12-09 |  |
+| [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 | 2021-12-09 |  |
+| [SPOTLIGHT](https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k) | 3:59 | 2021-12-09 | 2022-07-29 |
 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 | 2021-12-09 |  |
 | [Steal Your Heart](https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:47 | 2021-12-09 |  |
 | [Stealer](https://open.spotify.com/track/79NmwJEiY9maHX8djC3FN7) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 | 2021-12-09 |  |
@@ -124,7 +126,8 @@
 | [갈증](https://open.spotify.com/track/0qgeQ8XdmXbqTGiyre27zb) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:58 | 2021-12-09 |  |
 | [대동단결](https://open.spotify.com/track/5D6RMJ23dre5lxGuZF7Q2d) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Fatal Love](https://open.spotify.com/album/3x2BuKhzRIRjU4jm1WxFo3) | 3:03 | 2021-12-09 |  |
 | [난기류](https://open.spotify.com/track/06vXZ4guKCWbhPtenXWESL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:21 | 2021-12-09 |  |
-| [부나비 The Tiger Moth](https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf) | 3:24 | 2021-12-09 |  |
+| [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 | 2021-12-09 |  |
+| [부나비 The Tiger Moth](https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [사랑한다](https://open.spotify.com/track/5YeSFZaZCgvK1LcjZp3MnC) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:26 | 2022-04-28 |  |
 | [악몽](https://open.spotify.com/track/4sp4wcAMElt3t7rQ1M9am6) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 | 2021-12-09 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,095 likes - 96 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,117 likes - 96 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 64 | [Norrsken](https://open.spotify.com/track/7CKEwdroqVwANCOaxNxMJJ) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Norrsken](https://open.spotify.com/album/17heXTSEn53tdHjV9zucu1) | 2:26 |
 | 65 | [Reversed Stress](https://open.spotify.com/track/36LvimjTIyWaVS1CejsRL9) | [Minonna](https://open.spotify.com/artist/6mysyQI353vNbwstr6pT1Y) | [Motion Slow](https://open.spotify.com/album/368cYXAyRSQSAk4X40uHFs) | 2:50 |
 | 66 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 |
-| 67 | [Before Sinking](https://open.spotify.com/track/05AuLszwgKMdiV9TQ7Y5zi) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 3:07 |
+| 67 | [Before Sinking](https://open.spotify.com/track/6P5McVugUltkaP8qzenZfC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 3:07 |
 | 68 | [Enchanting](https://open.spotify.com/track/5Th1JB1zTh6BtnvIuFXn4U) | [Pranayama Om](https://open.spotify.com/artist/6WrKGQdOj7BcZNZ8uvIWOV) | [Enchanting](https://open.spotify.com/album/6dfT9qNKN2NBJUgjPtvo9j) | 3:50 |
 | 69 | [Better and better](https://open.spotify.com/track/2wtThYMGGoZQ18CIwBlbZv) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Project Gayā](https://open.spotify.com/album/6Iz5qEsZN5rB962SlPlOm7) | 3:56 |
 | 70 | [Reset](https://open.spotify.com/track/423CiX74q1x1ngQoZ5tAEY) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Reset](https://open.spotify.com/album/1adS1XhqBudKquCDqma83g) | 2:15 |
 | 71 | [Saman Aftur](https://open.spotify.com/track/3CSHq4I9SPxE2AmNsW4Riz) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Unni](https://open.spotify.com/album/35Gv91ojzEtJl0iXz41X58) | 2:58 |
 | 72 | [New Start](https://open.spotify.com/track/1hLLcQHEakwCMj8GJO8r7e) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Clear Voice](https://open.spotify.com/album/74ihRZpF4PUrmjR231bvVV) | 3:06 |
 | 73 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
-| 74 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 |
+| 74 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 |
 | 75 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 |
 | 76 | [Esthetic](https://open.spotify.com/track/5opY79ADHYjzc0F3jYUqFV) | [Martina Bower](https://open.spotify.com/artist/3Si4nV51fin9nrnvRCWDRK) | [Esthetic](https://open.spotify.com/album/2IMf7MJ23NWU7ip6xGghSY) | 2:43 |
 | 77 | [Cirraí](https://open.spotify.com/track/6zSsTHlXYqA1DfvysYunGd) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Cirraí](https://open.spotify.com/album/4oumX1sftcjjbDv7sPBiTG) | 2:50 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 95 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 |
 | 96 | [Blossom \- Studio Edit](https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 |
 
-Snapshot ID: `MTY1NDE3NjU2NCwwMDAwMDAyNzAwMDAwMTgxMjQ5YjQ1ZmUwMDAwMDE3MGE0ZjI1ZWEw`
+Snapshot ID: `MTY1NDE3NjU2NCwwMDAwMDAwMGRlM2VhYmY1MzdjMWY3MWM2ZWIxNDZhOWQ1MTBkYjg1`

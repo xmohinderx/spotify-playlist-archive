@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 240640,
       "name": "40 West",
       "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Song of the Traveling Daughter (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
+      },
+      "artists": [
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Backstep Cindy / Purple Bamboo",
+      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
+    },
+    {
+      "album": {
         "name": "Song of the Traveling Daughter",
         "url": "https://open.spotify.com/album/4unZBN3ywyKP0ULRH9ODlh"
       },
@@ -179,7 +197,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181533,
       "name": "Backstep Cindy/Purple Bamboo",
       "url": "https://open.spotify.com/track/6XuD42wKyxfGOTrO1kdZK0"
@@ -197,10 +215,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 370466,
       "name": "Backwaters",
       "url": "https://open.spotify.com/track/07BCxiinT4u11J5QQHpd1w"
+    },
+    {
+      "album": {
+        "name": "Backwaters",
+        "url": "https://open.spotify.com/album/2c61OQqY8w2F0Mfpb8vKmv"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370800,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/3K9w773BVnDob3ZxwSwu2D"
     },
     {
       "album": {
@@ -215,10 +251,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210066,
       "name": "Baltimore Johnny",
       "url": "https://open.spotify.com/track/2FKMBFBtCytHBMREtKSFyx"
+    },
+    {
+      "album": {
+        "name": "The Cold Hard Facts",
+        "url": "https://open.spotify.com/album/0Rwgw63MsaoCoyAIE3J6Ao"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Baltimore Johnny",
+      "url": "https://open.spotify.com/track/1UEJYfxyctVPjtoXPkLE7D"
     },
     {
       "album": {
@@ -741,10 +795,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212164,
       "name": "Cattle in the Cane",
       "url": "https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS"
+    },
+    {
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/1iNIB7xrjq8qr2efZNJD0J"
     },
     {
       "album": {
@@ -825,10 +897,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205293,
       "name": "Choctaw Hayride - Live",
       "url": "https://open.spotify.com/track/1gdcr3HD7QGSWZF81hUPjb"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Choctaw Hayride - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
     },
     {
       "album": {
@@ -855,6 +945,44 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "album": {
+        "name": "Bluegrass 96",
+        "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
+      },
+      "artists": [
+        {
+          "name": "Scott Vestal",
+          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
+        },
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        },
+        {
+          "name": "Jeff Autry",
+          "url": "https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Wayne Benson",
+          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Clinch Mountain Backstep",
+      "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
     },
     {
       "album": {
@@ -893,7 +1021,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186333,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/4xrjA0w7N1YkheJWzVb32P"
@@ -973,7 +1101,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 292614,
       "name": "Creatures of Havoc",
       "url": "https://open.spotify.com/track/7koZ2Ddvfzr5AXMmWRLkL2"
@@ -1043,7 +1171,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218850,
       "name": "Cup & Porch",
       "url": "https://open.spotify.com/track/69IcY4RMhhYtxDv6JTP66k"
@@ -1197,10 +1325,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264333,
       "name": "Fall Creek Falls",
       "url": "https://open.spotify.com/track/3oCvqK23kHOETKauiNz3rc"
+    },
+    {
+      "album": {
+        "name": "No Apologies",
+        "url": "https://open.spotify.com/album/6xFyECGZSqq5HSJr1iHCdT"
+      },
+      "artists": [
+        {
+          "name": "Jim Vancleve",
+          "url": "https://open.spotify.com/artist/3X65bj5nJ6AUMp2hymccdR"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "Fall Creek Falls",
+      "url": "https://open.spotify.com/track/31OASoQ8HPlyFG5vw2jtQs"
     },
     {
       "album": {
@@ -1389,6 +1535,24 @@
     {
       "album": {
         "name": "Banjo Man",
+        "url": "https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz"
+      },
+      "artists": [
+        {
+          "name": "Bill Emerson",
+          "url": "https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Good to Go",
+      "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
+    },
+    {
+      "album": {
+        "name": "Banjo Man",
         "url": "https://open.spotify.com/album/3NAwKnXQXJ9Zpb7NS2DPdL"
       },
       "artists": [
@@ -1457,7 +1621,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326266,
       "name": "Hangman's Reel",
       "url": "https://open.spotify.com/track/41bwKV2bvP1uYMRJ2nH5Nc"
@@ -1493,7 +1657,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 240693,
       "name": "Huequito",
       "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
@@ -1705,7 +1869,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241000,
       "name": "Kimper County",
       "url": "https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF"
@@ -2057,7 +2221,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
@@ -2217,10 +2381,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154946,
       "name": "Peace Behind the Bridge",
       "url": "https://open.spotify.com/track/0Fv9j3J5uPbYaiiWiEJNvC"
+    },
+    {
+      "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "album": {
@@ -2235,10 +2417,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285666,
       "name": "Port Tobacco",
       "url": "https://open.spotify.com/track/0qHlR5OwUyUFsrU7I16gyx"
+    },
+    {
+      "album": {
+        "name": "Me & My Guitar",
+        "url": "https://open.spotify.com/album/17TJYoQWwccA98WnuVxwLy"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice",
+          "url": "https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287533,
+      "name": "Port Tobacco",
+      "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
     },
     {
       "album": {
@@ -2333,7 +2533,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149520,
       "name": "Remy's Breakdown",
       "url": "https://open.spotify.com/track/7rPQc8ttVMWN6XGyzfSvYa"
@@ -2811,7 +3011,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 126093,
       "name": "Su Prabhat",
       "url": "https://open.spotify.com/track/0jxVlg0ULpuQ0rJP81KzWN"
@@ -2891,7 +3091,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 265960,
       "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
       "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
@@ -2909,7 +3109,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 251360,
       "name": "The Majestic Swan - Instrumental",
       "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
@@ -2963,10 +3163,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153666,
       "name": "The Pasture",
       "url": "https://open.spotify.com/track/0NeumLL08TSueFtTiIsD87"
+    },
+    {
+      "album": {
+        "name": "These Changing Skies",
+        "url": "https://open.spotify.com/album/4ABBrfxm6w93fE9yqlOgny"
+      },
+      "artists": [
+        {
+          "name": "Elephant Revival",
+          "url": "https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153680,
+      "name": "The Pasture",
+      "url": "https://open.spotify.com/track/2rcAG0hPOhWHxYmkUFOH6C"
     },
     {
       "album": {
@@ -3233,7 +3451,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203621,
       "name": "Wellington",
       "url": "https://open.spotify.com/track/1SFzKEJOIuCDv7Vp2e6YrF"
@@ -3299,7 +3517,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"

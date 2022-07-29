@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Mabel
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,109 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,165 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 79 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 |
 | 80 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 |
 
-Snapshot ID: `MTY1ODQ2MjcwMCwwMDAwMDA4YTAwMDAwMTgyMjQxNDgyMzMwMDAwMDE4MWZmZjQ0MDNj`
+Snapshot ID: `MTY1ODQ2MjcwMCwwMDAwMDAwMGE3NmFhZmFkNGUyODA1NmM3MTk4YTZjZWQ1OGQ5MDZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. PGF NUK
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,168 likes - 56 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,173 likes - 56 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 30 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 31 | [Sneaky Link](https://open.spotify.com/track/2CNJfTUzkmIXnzRKWmp881) | [Pretty Brayah](https://open.spotify.com/artist/04T13CNEP9VzNd4jMNQrQb) | [Daddy Issues](https://open.spotify.com/album/3xlufhdQ1AnwtwD2IuvIz6) | 2:38 |
 | 32 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 |
-| 33 | [TMU](https://open.spotify.com/track/2HvqXuaQS0jmPRixZkt6CL) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [TMU](https://open.spotify.com/album/2fyYhT9bpytmFSiNgAtDc9) | 2:08 |
+| 33 | [TMU](https://open.spotify.com/track/3U0nwooGsleGUL2eKbHkBi) | [Rockie Fresh](https://open.spotify.com/artist/5Joy3NHmxKQGEOnjxtaMz3) | [TMU](https://open.spotify.com/album/4r59UKHr0EXYQJhawVE7X4) | 2:08 |
 | 34 | [EBT](https://open.spotify.com/track/0gWNq0lLP0C10Fv059l6Yn) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Detroit Raised Me](https://open.spotify.com/album/1VSgHchOjhzuYMR9HdV3SC) | 3:16 |
 | 35 | [Dark Man X](https://open.spotify.com/track/7CG8yhP3ybtiNsZjfyjOv0) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Jerreau](https://open.spotify.com/artist/1xMXwKQhYLclPctEzpm4nr) | [Praise & Worship](https://open.spotify.com/album/09AhjqYpkeVim8uln6uD5U) | 2:52 |
 | 36 | [broken](https://open.spotify.com/track/2glnsTtO3HOwZ1iUMiMKja) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [broken](https://open.spotify.com/album/3PsSalVDMPwqFWmBZZQRHB) | 2:34 |
 | 37 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
 | 38 | [floating](https://open.spotify.com/track/2PKeOgJhTy7ryQWtd58iXa) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [make ur way](https://open.spotify.com/album/5Nkw0bkUzHQOWC4qNG5ZW9) | 2:42 |
 | 39 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 |
-| 40 | [COMMUNICATION \(feat\. JMSN\)](https://open.spotify.com/track/1aQkGUWvkoKGyCFjOyirvF) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [BABY OIL STAIRCASE / CHILLOUT](https://open.spotify.com/album/5JpFMxX1pLRc75dGao7RW1) | 2:58 |
+| 40 | [COMMUNICATION \(feat\. JMSN\)](https://open.spotify.com/track/2xmtUe54Luz5AHIlqX6KK4) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Chuck Inglish](https://open.spotify.com/artist/64MoApwh8MFMHUarm13lrv), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [BABY OIL STAIRCASE / CHILLOUT](https://open.spotify.com/album/7pcgE1LYzo1S1T4JdQ7oi0) | 2:58 |
 | 41 | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sunset Drive \- A COLORS SHOW](https://open.spotify.com/album/24tiks2kEOLQV4JcE45h74) | 3:13 |
 | 42 | [Troo](https://open.spotify.com/track/5VkGkl11NE2lw2z1yCqwXh) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Troo](https://open.spotify.com/album/1vq2vDPWT335QRVIk5oegb) | 2:26 |
 | 43 | [The Sky](https://open.spotify.com/track/24yvC3Ly4CCOAqE8OXjHBy) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Redd Simpkins](https://open.spotify.com/artist/5N7CQIKm0Ln8p6z5Jo4m3v), [Yd](https://open.spotify.com/artist/3IkUR4T3vqGtLqMEccMrho) | [The Sky](https://open.spotify.com/album/7zEmKwxwqbVnWqzaoVu1dm) | 2:55 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 55 | [Best Side \(Deluxe Version\)](https://open.spotify.com/track/4KkJRNMtyzZNA38SbPpOUb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Buddaflywolf](https://open.spotify.com/artist/4GpWl0xyRezdDw2q2J365r) | [Dangerous \(Deluxe Edition\)](https://open.spotify.com/album/57B9Y6aPOvsBg4bAHyydN4) | 2:41 |
 | 56 | [The Present Is a Gift](https://open.spotify.com/track/6Lp5QVSsAFVX3tSdQXmWG0) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [The Present Is a Gift](https://open.spotify.com/album/1a3P5dc4h5NHeMd2PR1Rnz) | 3:42 |
 
-Snapshot ID: `MTY1ODUxOTk2NSwwMDAwMDAyMDAwMDAwMTgyMjc3ZTRmMTYwMDAwMDE4MjI3N2RjZmVi`
+Snapshot ID: `MTY1ODUxOTk2NSwwMDAwMDAwMGFmMWU1YzY5ZmQxNTUxNWVjMTk2NmFlY2U3NjM2NDY4`

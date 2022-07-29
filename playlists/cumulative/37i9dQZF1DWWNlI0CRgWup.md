@@ -4,7 +4,7 @@
 
 > Découvrez notre sélection des artistes à suivre\. Photo : November Ultra
 
-66 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
+67 songs - 3 hr 33 min - [published](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/track/2ave3RUa35dqPnxyxtcRml) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Comme moi \(feat\. Tiakola\)](https://open.spotify.com/album/6lRjPcc3B5H7mrVEzqEPwZ) | 2:54 | 2021-12-02 | 2022-02-04 |
 | [Compile](https://open.spotify.com/track/37OxMgatnDqpBlhh1WCS8k) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 3:19 | 2022-01-14 | 2022-02-04 |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2021-12-02 |  |
-| [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-02-03 |  |
+| [Dans la sauce](https://open.spotify.com/track/0auHcOjJqevDw665HOHpma) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Dans la sauce](https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER) | 2:30 | 2022-02-03 | 2022-07-29 |
+| [Dans la sauce](https://open.spotify.com/track/4JotkTX7ImmIoQK5gwBIIh) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Wingu](https://open.spotify.com/album/5Xd5Rh3JdkV5sJ0HVf1vB6) | 2:30 | 2022-07-07 |  |
 | [DANS LE WAY](https://open.spotify.com/track/3WDx6AjGrZyrOygj6RCoHf) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [VOUS ÊTES PAS CONTENTS ? TRIPLÉ !](https://open.spotify.com/album/1sXTto4AKCeNd8yKON0lHh) | 3:44 | 2022-04-14 |  |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-07 |  |
 | [Dilemme](https://open.spotify.com/track/34UANp5qxDg6YcgrlDeILZ) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Dilemme](https://open.spotify.com/album/1VjhhQkZnPerLURQmPtSj6) | 3:05 | 2021-12-02 | 2022-03-25 |

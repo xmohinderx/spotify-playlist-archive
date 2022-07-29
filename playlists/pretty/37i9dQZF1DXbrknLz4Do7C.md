@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 66 | [Glory On Me](https://open.spotify.com/track/5AZppquII76qli3EUyUy8M) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Glory On Me](https://open.spotify.com/album/2sPr44v1gGuL9vFxhCcAqJ) | 3:28 |
 | 67 | [Better Days \- Live](https://open.spotify.com/track/1GBtvDSR3e5D5GJAYIYhEc) | [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Better Days \(Live\)](https://open.spotify.com/album/57XaIqrhGfRe5MYGLxa27k) | 5:23 |
 | 68 | [Adulting \- Live](https://open.spotify.com/track/2orYvHT8sGIriW7AHk5Nhy) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:22 |
-| 69 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 |
+| 69 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 | 70 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
 | 71 | [Precious](https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 6:07 |
 | 72 | [We Need You \(feat\. V\. Rose\)](https://open.spotify.com/track/6oWWx1qrQWkWcABWF4DF7N) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS), [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Terraform: The People](https://open.spotify.com/album/6sE9d6HcymH41mlxmB6qwI) | 3:04 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 77 | [Follow You Into The Fire](https://open.spotify.com/track/5qVb0lshN3EcIAl2dBXZII) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [Flourish](https://open.spotify.com/album/15566AOuMlvhL7G03xBkMF) | 3:37 |
 | 78 | [RELATE](https://open.spotify.com/track/5h0DGzgQpKTyXL0bH5cvXZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RELATE](https://open.spotify.com/album/7vGlKPoTxlj5GwzVos60Yr) | 2:53 |
 | 79 | [Great You Are](https://open.spotify.com/track/58DKSgTHgGEcCJ33eHRSgA) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Be Still & Know](https://open.spotify.com/album/63YKWgcjhf0DssJz1VnEwB) | 3:44 |
-| 80 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 |
+| 80 | [Look What You've Done](https://open.spotify.com/track/7yniFtYK22ABG31mydMyzS) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:25 |
 | 81 | [Keep On Hoping](https://open.spotify.com/track/4gRtiMPzay0QWiktPAUSX1) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:27 |
 | 82 | [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 |
 | 83 | [When You Speak](https://open.spotify.com/track/3efqAc4maWiY9YSXLRzrwi) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:59 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 94 | [What I've Become](https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [What I've Become](https://open.spotify.com/album/2V4iSdBm0uuxzIyBGwBNEh) | 3:24 |
 | 95 | [Surviving The Game](https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Surviving The Game](https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj) | 3:58 |
 
-Snapshot ID: `MTY0ODYxMzk4NiwwMDAwMDAwNjAwMDAwMTdmZDkwZDBmODAwMDAwMDE3ZDc0MTFiMjk3`
+Snapshot ID: `MTY0ODYxMzk4NiwwMDAwMDAwMDZmZDFhNDQzZmM0ZjI4ODljNmMyMTNjNDU1ZjRjOTgy`

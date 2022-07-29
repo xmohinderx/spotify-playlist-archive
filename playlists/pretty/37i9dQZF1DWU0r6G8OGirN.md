@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,823 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,842 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6boYat9zHcJseJJKBCKRS6) | [Charles Snyder](https://open.spotify.com/artist/29L67ywhlU9XACCtmJQMSr) | [Christmas Songs](https://open.spotify.com/album/5HbLO8vIITOIGpNGc5q8My) | 3:42 |
 | 2 | [What Are You Doing New Years Eve](https://open.spotify.com/track/1fnKHY9FBFexqlx69unvhd) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Jeff Steinberg Orchestra](https://open.spotify.com/artist/3rw5T4cOHin6M1Jaf912oJ) | [Christmas By Candlelight](https://open.spotify.com/album/3tSZBHIEPQo1nOrniwqadI) | 4:57 |
 | 3 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 |
-| 4 | [Away in a Manger](https://open.spotify.com/track/3qqXv1t6AiCQo8uspabP6g) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/01wioMpjriFWJ0ohTuNTMy) | 5:03 |
+| 4 | [Away In A Manger](https://open.spotify.com/track/1k0GSxGcSWSCAlofk7nnGp) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 5:03 |
 | 5 | [Hark! The Herald Angels Sing \(Smooth Jazz Version\)](https://open.spotify.com/track/3CtCdVoPoB3IALr4erTZr8) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 3:19 |
 | 6 | [When You Wish Upon a Star](https://open.spotify.com/track/1RS0fQUXF7GJRC5SJwX6MW) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [When You Wish Upon a Star](https://open.spotify.com/album/45GERqZgHo745HSE9VgjgN) | 2:10 |
 | 7 | [White Christmas](https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:52 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 30 | [The Holly and the Ivy](https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa) | [Daisy Luckett](https://open.spotify.com/artist/2tVudUZYXpEdgAK3TDPYoH) | [The Holly and the Ivy](https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe) | 3:37 |
 | 31 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 32 | [We Wish You a Merry Christmas \(Piano\)](https://open.spotify.com/track/46o7C7eAk0MHuRIoniPfwZ) | [John Fulford Music](https://open.spotify.com/artist/6CL7c5qT8oda6dIdyOoXTz) | [Holiday Jazz](https://open.spotify.com/album/4Y5LPU1oUNQUGPNOEq8Jkm) | 2:22 |
-| 33 | [Auld Lang Syne \(Smooth Jazz Version\)](https://open.spotify.com/track/6ds2UE6EaWhrimlqeacaVr) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5Ci9GLG88dVLPuQn1Qn6Hl) | 2:54 |
+| 33 | [Auld Lang Syne \(Smooth Jazz Version\)](https://open.spotify.com/track/4G6jzemWcZcSNiuf9422b7) | [One Man Quartet](https://open.spotify.com/artist/2GqlTLOYyA46OpPIhwJJF8) | [Traditional Christmas: Jazz Versions](https://open.spotify.com/album/5z45Sva7XDllFlf2CkSWUC) | 2:54 |
 | 34 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 |
 | 35 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
 | 36 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 |
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 45 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
 | 46 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
 | 47 | [I Saw Three Ships](https://open.spotify.com/track/1OfkfkZeJVO0hB26HTP1o2) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:48 |
-| 48 | [O Little Town of Bethlehem](https://open.spotify.com/track/0ymty2BkJI50ZYOQagxpzt) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/5dqDUL5HIhxapzKoyIndfH) | 3:16 |
+| 48 | [O Little Town of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
 | 49 | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/2ekoeJhto1KoKUzlaFokde) | [Christmas Jazz Duo](https://open.spotify.com/artist/13XRIoHlZNZChhsOwvkovD) | [All I Want for Christmas](https://open.spotify.com/album/4fUlyX2S164VoHO2y4IYP4) | 1:59 |
 | 50 | [Winter Wonderland](https://open.spotify.com/track/09hSLe9VWIOT5uiMDufJZF) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 2:47 |
 | 51 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
 | 52 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 |
 | 53 | [A Christmas Love Song](https://open.spotify.com/track/1rkIIRDsTaaAShnlE3qxyD) | [Lori Mechem](https://open.spotify.com/artist/4iOaiUFARBMbAKFW1AHeI4) | [Christmas Jazz 2](https://open.spotify.com/album/28uj6wDrwR9YLC4DPYjrT2) | 3:48 |
 
-Snapshot ID: `MTY0MDA5MDkxOSwwMDAwMDAxNzAwMDAwMTdkZGQwOTYyNjIwMDAwMDE3Y2NiNDE3ZTlk`
+Snapshot ID: `MTY0MDA5MDkxOSwwMDAwMDAwMGQ3ZWJmMDhjNTkwMGM0YzA0OWExZjJlM2EwMGVhNTUx`

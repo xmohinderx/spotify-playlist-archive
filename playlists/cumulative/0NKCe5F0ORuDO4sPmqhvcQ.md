@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-272 songs - 15 hr 4 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+274 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-12-07 | 2022-01-08 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-03-10 |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[Remixes\]](https://open.spotify.com/album/0bKng3SwvPUbN0oqxgN3rQ) | 3:55 | 2022-01-14 | 2022-02-01 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |
 | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/track/09oM23t8SUckcrfSiFsyE2) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Comfortable \(feat\. QUIX\)](https://open.spotify.com/album/1Hom5n1byswxuZCHlScC63) | 2:59 | 2022-02-11 | 2022-03-10 |
 | [Confidence \(feat\. Jon Waltz\) \- Slow Magic Remix](https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [Jon Waltz](https://open.spotify.com/artist/0fykVRaVSsAkxDFfLoCd1J), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Confidence \(feat\. Jon Waltz\) \[Slow Magic Remix\]](https://open.spotify.com/album/2PIshbxgCmpan3Q36Q3DFd) | 3:35 | 2022-03-30 |  |
 | [Could I Break Your Heart](https://open.spotify.com/track/1W0WTqgKKTmmEzcNQWNG6y) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Could I Break Your Heart](https://open.spotify.com/album/2GxMoCOHTcHK14F4pT7CD2) | 3:55 | 2022-01-18 | 2022-03-10 |
@@ -123,6 +124,7 @@
 | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/track/2Z8PrOwTgFVP6kJNtPTkMq) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [I See You \(with Marc E\. Bassy\)](https://open.spotify.com/album/0R5neGxstfsw1hZpjFSHcm) | 2:53 | 2022-03-09 | 2022-03-31 |
 | [I'm a Mess](https://open.spotify.com/track/1cfoP2ZOuwM5mcFUsZ1UH9) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [I'm a Mess](https://open.spotify.com/album/2mqY2v3uVMRYNFTERP3812) | 2:16 | 2022-02-15 | 2022-03-10 |
 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 | 2022-02-15 | 2022-03-31 |
+| [I'm With The DJ](https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [I'm With The DJ](https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb) | 3:32 | 2022-07-28 |  |
 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 | 2022-01-31 | 2022-03-31 |
 | [In Your Eyes](https://open.spotify.com/track/4LZtJRxcce5RPdSNmfa9AT) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [In Your Eyes](https://open.spotify.com/album/0O24SqzRbDIS8W4xqwHrG4) | 3:12 | 2022-06-25 | 2022-07-16 |
 | [Incorrect](https://open.spotify.com/track/4ytbLcGPlrnniNHxKOCV5u) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill EP](https://open.spotify.com/album/4kvK5arUig0hxgylXxdKR8) | 2:54 | 2022-03-11 | 2022-03-31 |

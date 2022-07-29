@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 134892,
       "name": "1 Day 2 Nights - Billen Ted Remix",
       "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189677,
       "name": "Again - DLMT Remix",
       "url": "https://open.spotify.com/track/0O5dd0a3OoC5QhLwAcUSTn"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164374,
       "name": "All I Want (feat. Andrea Martin) - Eden Prince Remix",
       "url": "https://open.spotify.com/track/7D048E97DD2PEAizR75mmY"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 153488,
       "name": "Arcade - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/72tFpETiYCd5dOrxt8mjq1"
@@ -290,6 +290,32 @@
     },
     {
       "album": {
+        "name": "Aurora (The Remixes)",
+        "url": "https://open.spotify.com/album/6Gv5PgU3GUfVRL45CE2Qa6"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        },
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "Aurora (Hard Lights Remix)",
+      "url": "https://open.spotify.com/track/0esrr1kWuUvArhYC1JZ7vL"
+    },
+    {
+      "album": {
         "name": "Dance (RED) Save Lives III [curated by Don Jazzy and Aluna]",
         "url": "https://open.spotify.com/album/0rkxFEum9yiH1nuyYeawju"
       },
@@ -309,10 +335,32 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156521,
       "name": "Away - Lilo Remix",
       "url": "https://open.spotify.com/track/33OIROoZiT5xjayhJ1TyQm"
+    },
+    {
+      "album": {
+        "name": "Views of a Room",
+        "url": "https://open.spotify.com/album/6ANwCdQj28Jc1BHsscxInh"
+      },
+      "artists": [
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373890,
+      "name": "Babel - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/54y8QNTrKGMfsqbJeykPxK"
     },
     {
       "album": {
@@ -353,10 +401,32 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282162,
       "name": "Bad Things - Kaidro Remix",
       "url": "https://open.spotify.com/track/1kb6dvkQp87UpZkdPh1lXI"
+    },
+    {
+      "album": {
+        "name": "Bad Things (Remixes)",
+        "url": "https://open.spotify.com/album/0t1TmK8DoSM9iCOPWs7rBD"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Kaidro",
+          "url": "https://open.spotify.com/artist/5cofRYrqWWoDByaV4GiodV"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282162,
+      "name": "Bad Things - Kaidro Remix",
+      "url": "https://open.spotify.com/track/3iMxZLLme2MlJE5RiaAqEH"
     },
     {
       "album": {
@@ -379,7 +449,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 179078,
       "name": "BED - Joel Corry VIP Mix",
       "url": "https://open.spotify.com/track/4pyUjXNoZuDXVB9ath5wkT"
@@ -405,7 +475,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165120,
       "name": "Best Is Yet To Come (with Kyle Reynolds) - Max Styler Remix",
       "url": "https://open.spotify.com/track/2TEqn7LYgeQHVICJe7AOL4"
@@ -505,7 +575,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 359119,
       "name": "Closer (feat. Lilly Ahlberg) - Sonny Fodera Club Mix",
       "url": "https://open.spotify.com/track/6uPbwZTu6hca2FENbdee93"
@@ -665,7 +735,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 172020,
       "name": "Do It Like Me (feat. B-Case) - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4Zy6ClzaV1UbBPxhw1J1RP"
@@ -709,7 +779,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170500,
       "name": "Fallin for You - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/2wP7laanC2qapm97ZzC82t"
@@ -895,7 +965,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226681,
       "name": "Get Me Some - AC Slater Remix",
       "url": "https://open.spotify.com/track/7zGtrB72lZ7qG3M23LB9gJ"
@@ -947,7 +1017,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 166875,
       "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
       "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
@@ -999,10 +1069,32 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204193,
       "name": "Gotta Be You - jaakob Remix",
       "url": "https://open.spotify.com/track/79UZHQqDGNIHYUyxfV6WzQ"
+    },
+    {
+      "album": {
+        "name": "Hadal Ahbek (R3HAB Club Remix)",
+        "url": "https://open.spotify.com/album/4kPXQR5D2nzv37h8IVKFpd"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176343,
+      "name": "Hadal Ahbek - R3HAB Club Remix",
+      "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
     },
     {
       "album": {
@@ -1029,7 +1121,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233974,
       "name": "Happy Where We Are - ilan Bluestone Remix",
       "url": "https://open.spotify.com/track/4StZuE3DEKcRZYMgdDxJuX"
@@ -1055,7 +1147,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158142,
       "name": "Hear Me Say - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/7nqo4fv9kRzypxodkmJW01"
@@ -1096,6 +1188,70 @@
     },
     {
       "album": {
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        },
+        {
+          "name": "Willim",
+          "url": "https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213878,
+      "name": "Hearts on Fire - CORSAK & Willim Remix",
+      "url": "https://open.spotify.com/track/5gpy8VcqvPox6XHAIJzuCw"
+    },
+    {
+      "album": {
+        "name": "Hearts on Fire (The Remixes)",
+        "url": "https://open.spotify.com/album/2V9a4XGtFOYI8UyAwHnYjn"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210860,
+      "name": "Hearts on Fire - Timmy Trumpet Remix",
+      "url": "https://open.spotify.com/track/6a1e2CD4FjOhk6bDnzlg15"
+    },
+    {
+      "album": {
         "name": "Hearts on Fire (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/0A6ggns7wbnaUYWzUxmlVA"
       },
@@ -1119,7 +1275,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210860,
       "name": "Hearts on Fire - Timmy Trumpet Remix",
       "url": "https://open.spotify.com/track/7MjIstQALBdRDou9bynTNO"
@@ -1271,7 +1427,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 218234,
       "name": "Impact - Soulwax Remix \u2013 Edit",
       "url": "https://open.spotify.com/track/1bHrUhSO0HYL1bM8QeYJww"
@@ -1457,7 +1613,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 279948,
       "name": "Let It Go (with Marc E. Bassy) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/4V3oJg19fIQCbwhGrBES6Y"
@@ -1487,7 +1643,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 220194,
       "name": "Let's Love (feat. Sia) - Vintage Culture, Fancy Inc Remix",
       "url": "https://open.spotify.com/track/2UxQYmVl8d5OczJnIUWxwH"
@@ -1535,7 +1691,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191750,
       "name": "Life Goes On (feat. Alex Hosking) - KC Lights Remix",
       "url": "https://open.spotify.com/track/7IF0dfuLySfSGVfpS1GmNf"
@@ -1683,7 +1839,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191508,
       "name": "Meet Again (Benny Benassi & BB Team Remix)",
       "url": "https://open.spotify.com/track/644F2ztKKS7NJAJK1dKMc2"
@@ -1757,7 +1913,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249677,
       "name": "Moon Rider (feat. Wrabel) - Phantoms Remix",
       "url": "https://open.spotify.com/track/06m3TWdyHAlLHhXMyqSB74"
@@ -1805,7 +1961,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226889,
       "name": "Moving Blind - Cloonee Remix",
       "url": "https://open.spotify.com/track/7GMTmF4AKRJ7xHf020K785"
@@ -1831,7 +1987,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Moving Blind - Gorgon City Remix",
       "url": "https://open.spotify.com/track/5CpuREPN4XDQRQYxQ6udSe"
@@ -2039,7 +2195,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249840,
       "name": "New Love (feat. Ellie Goulding) \u2013 TSHA Remix",
       "url": "https://open.spotify.com/track/2C3r0iPQ2kzkOph28KYtQ7"
@@ -2091,7 +2247,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188640,
       "name": "No Time For Tears - HUGEL Remix",
       "url": "https://open.spotify.com/track/5GlvVK12PYsREtS9ZuOh9l"
@@ -2169,10 +2325,36 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263414,
       "name": "On My Mind - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7"
+    },
+    {
+      "album": {
+        "name": "On My Mind (Remixes)",
+        "url": "https://open.spotify.com/album/4xYKqAYxXRQiCS8cICKq9S"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/64weGLgl76gsui1qXQatNa"
     },
     {
       "album": {
@@ -2221,10 +2403,40 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215000,
       "name": "One By One (feat. Elderbrook & Andhim) - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/2jsjMCChlnHQ3RwqO626bk"
+    },
+    {
+      "album": {
+        "name": "One By One (Remixes)",
+        "url": "https://open.spotify.com/album/614ec6ooX47MdISZgGPiMO"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "One By One - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/5VCgIfcYdAvsWzJvMwYyKL"
     },
     {
       "album": {
@@ -2247,7 +2459,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217080,
       "name": "One Life - HeyMcFly! Remix",
       "url": "https://open.spotify.com/track/3XRNtuK3cMfhqUMqx1J2Qh"
@@ -2353,7 +2565,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
@@ -2379,10 +2591,36 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "Paradise - Wh0 Remix",
       "url": "https://open.spotify.com/track/0y6xlnBPkvNZ2ohAqi1Pzh"
+    },
+    {
+      "album": {
+        "name": "Piece Of Your Heart (Alok Remix)",
+        "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Piece Of Your Heart - Alok Remix",
+      "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
     },
     {
       "album": {
@@ -2405,7 +2643,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 332691,
       "name": "Pomegranate - Jay Robinson Remix",
       "url": "https://open.spotify.com/track/7v94HEWxH9qdM5eAXcY2lR"
@@ -2453,7 +2691,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188346,
       "name": "Pull Me Closer - Armin van Buuren Remix",
       "url": "https://open.spotify.com/track/7Bkm11YEID3T4NSrUJjNPD"
@@ -2497,7 +2735,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 384000,
       "name": "PURE (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/6hJiNgxOiuoVYXCLW2kQQE"
@@ -2589,7 +2827,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
@@ -2611,7 +2849,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247868,
       "name": "Rush - Act Natural Remix",
       "url": "https://open.spotify.com/track/0TvFo4k6kpmUzV9aKINIEH"
@@ -2637,7 +2875,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "SAD - Imanbek xxx Remix",
       "url": "https://open.spotify.com/track/4x5ymi4akay9Fq5Xm1PW3E"
@@ -2659,7 +2897,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277192,
       "name": "Sad Songs (feat. L Devine) - Route 94 VIP Remix",
       "url": "https://open.spotify.com/track/4joZK68pp91nGpi9GUnD0B"
@@ -2775,7 +3013,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 218571,
       "name": "Set Me Free (feat. MAX) - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/6XUYshCcziLPUlsECcPXn3"
@@ -2805,7 +3043,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193333,
       "name": "Set Me Free (feat. MAX) - MorganJ Remix",
       "url": "https://open.spotify.com/track/0MM1E9lAyNvj1FFAHWx54I"
@@ -2835,7 +3073,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236071,
       "name": "Show Me Love - Mike Prob Remix",
       "url": "https://open.spotify.com/track/5zV5nmpcZi9pmJ3ULU9HvO"
@@ -2935,7 +3173,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
       "url": "https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX"
@@ -2957,7 +3195,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 186878,
       "name": "Some Say - Felix Jaehn Remix",
       "url": "https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv"
@@ -3012,6 +3250,32 @@
     },
     {
       "album": {
+        "name": "Stars Align (The Remixes)",
+        "url": "https://open.spotify.com/album/3GxU98ArKcm5NVeANn9QSX"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174759,
+      "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
+      "url": "https://open.spotify.com/track/5XXNwkFGSRcv8Gw2hOngBB"
+    },
+    {
+      "album": {
         "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
         "url": "https://open.spotify.com/album/51JakK8rYaF49PMvBj016R"
       },
@@ -3031,7 +3295,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174759,
       "name": "Stars Align (with Jolin Tsai) [Alle Farben Remix]",
       "url": "https://open.spotify.com/track/7CJnqHgBNYXSUPrfDigbny"
@@ -3083,7 +3347,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228000,
       "name": "Stay Forever (feat. STRFKR) - Midnight Kids Remix",
       "url": "https://open.spotify.com/track/2cX3pmM6V6CbfIT1vJvYcO"
@@ -3220,6 +3484,40 @@
     },
     {
       "album": {
+        "name": "Summer Thing (Kryder Remix)",
+        "url": "https://open.spotify.com/album/4p6CsrVMtuJQw1nRQn0cVJ"
+      },
+      "artists": [
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "Summer Thing - Kryder Remix",
+      "url": "https://open.spotify.com/track/1EIdKaYIYP0GSYvnzrNlRW"
+    },
+    {
+      "album": {
         "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
         "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
       },
@@ -3261,7 +3559,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232232,
       "name": "Take My Hand - Torren Foot Club Mix",
       "url": "https://open.spotify.com/track/0A1XjIshFtH22M9Pk0gAs8"
@@ -3375,7 +3673,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161904,
       "name": "tell me what you\u2019re thinking - Disco Fries Remix",
       "url": "https://open.spotify.com/track/5W6R9RHJFGXdrOgHhCBFEj"
@@ -3405,7 +3703,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282796,
       "name": "The Light Is Always On - Le Youth Remix",
       "url": "https://open.spotify.com/track/4xYoV5JrvbAXdloTA0Dn1g"
@@ -3479,7 +3777,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175750,
       "name": "Too Many Nights - Dombresky Remix",
       "url": "https://open.spotify.com/track/2SVjtNer8NGJlPnqyOQu1D"
@@ -3501,7 +3799,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182000,
       "name": "Trapdoor - PAX Remix",
       "url": "https://open.spotify.com/track/6M1jU2RJr45oEEr5iVAvpT"
@@ -3523,7 +3821,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
@@ -3631,10 +3929,66 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/0LwScqPc3ALwZtOPW65ITG"
+    },
+    {
+      "album": {
+        "name": "Miss Anthropocene (Rave Edition)",
+        "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195300,
+      "name": "Violence - REZZ Remix",
+      "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
+    },
+    {
+      "album": {
+        "name": "Wasted Love (feat. Lagique) [Remixes]",
+        "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Lagique",
+          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
+      "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
     },
     {
       "album": {
@@ -3747,7 +4101,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 178064,
       "name": "Where The Lights Are Low - TCTS Remix",
       "url": "https://open.spotify.com/track/6wYgm3Bo3cEkubgH3ilXXa"
@@ -3851,7 +4205,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185652,
       "name": "You've Done Enough (with DRAMA) - The Purple Prince Version",
       "url": "https://open.spotify.com/track/4lxbbQi7S7wVZCuY34xRjv"

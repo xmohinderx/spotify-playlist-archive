@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227683,
       "name": "Amaka (feat. Peruzzi)",
       "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 350302,
       "name": "Aso",
       "url": "https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273506,
       "name": "Baby Gone",
       "url": "https://open.spotify.com/track/3DMPL9ZVNpXhxTsT8BsBoI"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171857,
       "name": "End In Tears",
       "url": "https://open.spotify.com/track/3QWxg553C2BMCP3jIX8iLY"
@@ -633,10 +633,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197972,
+      "name": "Leg Over",
+      "url": "https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa"
     },
     {
       "album": {
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154920,
       "name": "Letter To My Ex",
       "url": "https://open.spotify.com/track/6VXhEh0Be95AXr0t45z9IL"
@@ -749,10 +767,32 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176766,
       "name": "Miss You Bad",
       "url": "https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "album": {
@@ -789,7 +829,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184372,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/2QcwNQJSvOgHpyfcsDNLrx"
@@ -811,7 +851,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
@@ -847,7 +887,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275139,
       "name": "Omoge Mi",
       "url": "https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V"
@@ -883,7 +923,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 400960,
       "name": "Otoolege",
       "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
@@ -919,7 +959,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -959,6 +999,24 @@
       "duration_ms": 146399,
       "name": "Pour Me Water",
       "url": "https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168159,
+      "name": "Pour Me Water",
+      "url": "https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV"
     },
     {
       "album": {
@@ -1097,10 +1155,28 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/5mphdlILgAq3vh1MSvAJTS"
+    },
+    {
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "album": {
@@ -1173,7 +1249,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208250,
       "name": "U X Me",
       "url": "https://open.spotify.com/track/0SpkTMXY9gh8cX1JCDPIx7"
@@ -1191,7 +1267,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166142,
       "name": "Understand",
       "url": "https://open.spotify.com/track/1sZUKPtbvWr7ciIXYdFek8"
@@ -1271,7 +1347,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"

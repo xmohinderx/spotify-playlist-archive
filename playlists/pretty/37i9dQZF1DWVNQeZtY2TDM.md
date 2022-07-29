@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: Barry Chen \(陳柏銓\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,804 likes - 73 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,803 likes - 73 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 11 | [Rap Kid](https://open.spotify.com/track/0Qz7809SymN76HIOw78Y3F) | [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [Rap Kid](https://open.spotify.com/album/5B66A9R6lMcWL3cvCJV12p) | 3:43 |
 | 12 | [I Will Never Change](https://open.spotify.com/track/7Mufdgu2dbYLlZMNMozzTe) | [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [I Will Never Change](https://open.spotify.com/album/45b3NyrdQV9aN3F1UraVAF) | 3:07 |
 | 13 | [過太爽](https://open.spotify.com/track/30QYGIStBAqskq1J548dBx) | [$orry'O](https://open.spotify.com/artist/2YSjhPUlXE8a8x4zlZwApl), [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1) | [過太爽](https://open.spotify.com/album/5oKOW2iP5Mh8JEm9YoHpgs) | 3:29 |
-| 14 | [Butterfly](https://open.spotify.com/track/5fWINGOMaVqRCmcvkDMjGJ) | [Nick.Y](https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f), [A1Trip](https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq) | [Butterfly](https://open.spotify.com/album/4zbI521GRYqgcT9PczTM3j) | 2:16 |
+| 14 | [Butterfly](https://open.spotify.com/track/5T1vTRXjYhGFlO58r3LnMN) | [Nick.Y](https://open.spotify.com/artist/3PjAq5QmO9BwEZviqzs36f), [A1Trip](https://open.spotify.com/artist/5F8Zm0E37mD0855TcK3jJq) | [Butterfly](https://open.spotify.com/album/7gyyfGE5e5WhnXlQHFtMdy) | 2:16 |
 | 15 | [鞦韆\(Prod.Jinbo\)](https://open.spotify.com/track/5Z1PDcd9M2WJ0Aj0lJFZJp) | [C1oud\_9](https://open.spotify.com/artist/3H7EcBnQ3y7EJRhf7C7yyl) | [鞦韆\(Prod.Jinbo\)](https://open.spotify.com/album/03nsDZUO0Occz0A9zRvN4E) | 2:47 |
-| 16 | [That Guy](https://open.spotify.com/track/4UkZekZxjzovQ3ErAQadFq) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [That Guy](https://open.spotify.com/album/798spbPFkOgWIoQlQzaSHg) | 2:48 |
+| 16 | [That Guy](https://open.spotify.com/track/6FBCLU5nIwc21sYcPy8ubP) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [That Guy](https://open.spotify.com/album/59fBBYyNek6i29jPxHEkRd) | 2:48 |
 | 17 | [盤龍](https://open.spotify.com/track/6ABhVx4CWErWhUoA4h020x) | [周穆](https://open.spotify.com/artist/202yRHeornG5Evg1WxWCFd), [紫煙](https://open.spotify.com/artist/0oL2eN7iIZhVrCMWcrAT2D) | [盤龍](https://open.spotify.com/album/0Ufe23gF21PJAzJkYtiE2N) | 3:33 |
 | 18 | [Matters](https://open.spotify.com/track/2IGM8jCcofLS21rb470Dx3) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [Matters](https://open.spotify.com/album/0rLL1nI6vFUxkp03DmpWre) | 2:40 |
 | 19 | [CARRY ON \- 《超級王牌棒球隊》片頭曲](https://open.spotify.com/track/46xtb42bgOLycrg95a39Qk) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [CARRY ON \(《超級王牌棒球隊》片頭曲\)](https://open.spotify.com/album/4xMACvynyJGrHNseiYPDaL) | 3:31 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 51 | [梵谷的左耳](https://open.spotify.com/track/7jSzvCaepzEIZmFWPuOUpa) | [Proak 破克](https://open.spotify.com/artist/0RKnMMXqLd9Dgdr701ZBq3), [Punnz](https://open.spotify.com/artist/041qo0bxobn8Q9TiuM1Coc), [湯捷](https://open.spotify.com/artist/6ppk3Nvwb2FrS1EGfzkSAh) | [梵谷的左耳](https://open.spotify.com/album/3IK0EyLT9oHC2nWN2HMhmr) | 2:35 |
 | 52 | [指針](https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [指針](https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ) | 2:14 |
 | 53 | [21HOMEBOYZ](https://open.spotify.com/track/6W53OB0GfDaMhZgpgPCM0q) | [IVAN 艾文](https://open.spotify.com/artist/4gYogdsKDgYhgflAcfo6uk), [AW](https://open.spotify.com/artist/6BMS5grJY6gsXaPu1X4r5g), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vigoz Chen](https://open.spotify.com/artist/5SsQFQzfgRVHse9MEcrT4k), [AcRoss](https://open.spotify.com/artist/6B1Wv7BlRtTN8OoVNyL6sC) | [21HOMEBOYZ](https://open.spotify.com/album/6DVUGUDeDOHa52rToU9FG4) | 4:14 |
-| 54 | [除了說唱我什麼都不會](https://open.spotify.com/track/1qSPtSy8bg9fsXZsvljnjc) | [MC HotDog](https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW) | [姚中二](https://open.spotify.com/album/0eNcOaUtoXBXQ38EMDiy6U) | 3:35 |
+| 54 | [I Know Nothing Other Than Rapping](https://open.spotify.com/track/5En9N3vMSWZyFAL9VNQCfr) | [MC HotDog](https://open.spotify.com/artist/4maR8o69pil8CrclOiFVVW) | [Mr\. Yao's 8th Grade Syndrome](https://open.spotify.com/album/4AxYqtsfhfJaTYHVm4Jn1W) | 3:35 |
 | 55 | [Don't Need to Know](https://open.spotify.com/track/01LwLZgwI7hu5W5DF0Fz0N) | [阿夫 Suhf](https://open.spotify.com/artist/1lIHC3tPoXBlSYQwSMoIYY) | [Don't Need to Know](https://open.spotify.com/album/4LXTanyTwERcnmI5o5K3kG) | 3:00 |
 | 56 | [Overthink也許是我想太多](https://open.spotify.com/track/4Vielk4EfRIWU4ki8JeUog) | [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [Overthink也許是我想太多](https://open.spotify.com/album/0ZCGfusatDpgPxc4iYOt31) | 2:14 |
 | 57 | [PONDER](https://open.spotify.com/track/1RMFVRuBLCnlRcVsPMlMur) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [SOLILOQUY](https://open.spotify.com/album/2CMJO5qMXrNGBovD8MIt51) | 3:00 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 72 | [今晚我想來點壞](https://open.spotify.com/track/0syE2mnJ0XCP3K9l8tFNJX) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [艾瑞](https://open.spotify.com/artist/7pYoJ7Feoy97o7MHFx6qV1), [DenNiz](https://open.spotify.com/artist/7noLHWUu2JfwuyO66SyaKS) | [今晚我想來點壞](https://open.spotify.com/album/6nphYNjrtVqO9eyr33mTth) | 2:24 |
 | 73 | [Flow Guilty](https://open.spotify.com/track/3zemDQh2rewuC7FBsnmFa4) | [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA) | [Humble Swag GT Mixtape](https://open.spotify.com/album/1PfhJ0gIqA0wMpEScU9mCd) | 3:24 |
 
-Snapshot ID: `MTY1ODcxMTIwOSwwMDAwMDEyMDAwMDAwMTgyMzJlNDc2MmQwMDAwMDE4MjMwYWQ3NjU1`
+Snapshot ID: `MTY1ODcxMTIwOSwwMDAwMDAwMGU5ZGU5NzhkYzUwZTdjNDFmOTVhZmNiNGQzNjZiYTll`

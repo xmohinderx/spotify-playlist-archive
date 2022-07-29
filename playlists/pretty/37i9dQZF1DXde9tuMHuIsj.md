@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Duki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,456 likes - 94 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,458 likes - 94 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 93 | [Contamos & Guerreamos](https://open.spotify.com/track/3I28qV2pV5hZl87LppmmzX) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Contamos & Guerreamos](https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe) | 4:48 |
 | 94 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDFiYTAwMDAwMTgyMjQxMGQ5MDEwMDAwMDE4MjIxYTcwZTc3`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMGFiODM4ZmUwY2FlNjZiMWZjNTM5ZmU0OTk3MGUyNThj`

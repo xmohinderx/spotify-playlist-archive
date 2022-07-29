@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-116 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
+120 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/7ISFFwuQB5ntspjOylTJdw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-22 |  |
 | [Deep Forest](https://open.spotify.com/track/2Sn8YGxZe2K2dM1HBGYoxA) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Deep Forest](https://open.spotify.com/album/7AW5VWkIfnIC4iN50cuCmi) | 1:46 | 2021-12-09 |  |
+| [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-29 |  |
 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 | 2021-12-23 |  |
 | [Draumurinn](https://open.spotify.com/track/7cMQbAS4eqmHT1I8cnYplu) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Draumurinn](https://open.spotify.com/album/5CG1s3VqpxBjcZqN1lwieV) | 2:08 | 2021-12-09 |  |
 | [Dreamcatcher](https://open.spotify.com/track/64t8q2udrOR4Myb6i83SaC) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Celta](https://open.spotify.com/album/6UXPdmRQ3KQlnUTX8Dmis8) | 3:10 | 2022-05-27 |  |
@@ -46,6 +47,7 @@
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2021-12-09 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2021-12-09 | 2022-04-06 |
 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 | 2021-12-09 |  |
+| [guiding torch](https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [arrow clouds \| guiding torch](https://open.spotify.com/album/6ENT6YprbGElGS7XDkImeu) | 2:56 | 2022-07-29 |  |
 | [Guitar Serenade](https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB) | [Samuel T\. Wesley](https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h) | [Guitar Serenade](https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ) | 1:28 | 2022-02-22 |  |
 | [Gymnopédie No\. 2](https://open.spotify.com/track/1u9k6dcsnxwn8OnRIpukHK) | [William Wilson](https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba) | [Classical Guitar Music for Sleep and Relaxation](https://open.spotify.com/album/6GHknBEoAGG3UmypRtRLRy) | 2:23 | 2021-12-09 | 2022-05-27 |
 | [Hana](https://open.spotify.com/track/4qbZZl95MzWIsRJXcNGEm5) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:22 | 2021-12-09 | 2022-04-06 |
@@ -70,7 +72,8 @@
 | [Lullaby for My Love](https://open.spotify.com/track/6eixAHLUQZrcUblQ4xJ62L) | [Liona Boyd](https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu) | [Relaxing Guitar for Insomnia, Dreaming and Romance](https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi) | 5:52 | 2021-12-09 | 2022-05-27 |
 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 | 2022-03-29 |  |
 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 | 2021-12-09 |  |
-| [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-09 |  |
+| [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-09 | 2022-07-29 |
+| [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 |  |
 | [Moinhos de Vento](https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z) | [Raphaella Dominga](https://open.spotify.com/artist/3T2kkpx0Wn93vlxjaMnq81) | [Moinhos de Vento](https://open.spotify.com/album/2p7tpI6QcAlnCLzuG60ES4) | 2:44 | 2021-12-09 |  |
 | [Moments Like This](https://open.spotify.com/track/2R5OUBm0m9mbXfHaMpCGgD) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:33 | 2021-12-09 | 2022-05-27 |
 | [Murmur](https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Murmur](https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh) | 2:55 | 2021-12-09 |  |
@@ -101,7 +104,8 @@
 | [Spero che](https://open.spotify.com/track/0SUcBNwJKYkO3dl2srkRb0) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Spero che](https://open.spotify.com/album/44uH8HctclTwCeicZJGZqT) | 2:17 | 2021-12-09 | 2022-05-27 |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 |  |
 | [Suaves voces](https://open.spotify.com/track/4cBUGJbBfC8PN8Bbv1aE8P) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Suaves voces](https://open.spotify.com/album/5UpeiNsZzH4sAkoYjwTan0) | 3:12 | 2021-12-09 |  |
-| [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 |  |
+| [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2022-07-29 |  |
+| [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-07-29 |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-09 |  |
 | [The Crossing](https://open.spotify.com/track/4eyQ0mKeAtbCW6aw7ukd07) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Crossing](https://open.spotify.com/album/5RVA2zv3ramQfUrXPd8FpX) | 3:15 | 2021-12-09 |  |
 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 | 2022-06-17 |  |

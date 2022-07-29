@@ -4,7 +4,7 @@
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Extraordinary Attorney Woo \(이상한 변호사 우영우\)\)
 
-356 songs - 21 hr 36 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
+357 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Your Season](https://open.spotify.com/track/1I6yHBTcdJuDJA9NhBzmeg) | [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/1nlf93KgxKzFqIvXQtp3u6) | 3:41 | 2021-12-19 | 2022-03-04 |
 | [Your Text Message \(feat\. Ruvin\)](https://open.spotify.com/track/20kWKDj8Zy8MHowVqyUplI) | [Yooan Kim](https://open.spotify.com/artist/1HcoUEnl4hqoZXazYKGZAo), [Ruvin](https://open.spotify.com/artist/5MpgRYEtybyUftBC8vPhga) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2i5BRGgZKUzUyyUfSnzmGi) | 3:41 | 2022-04-21 | 2022-06-29 |
 | [Your world](https://open.spotify.com/track/27kzK6uZ1njMM5VDZ4nRAD) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 | 2022-03-29 | 2022-06-19 |
-| [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-12-19 |  |
+| [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-12-19 | 2022-07-29 |
+| [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-07-27 |  |
 | [기억하지 말아요](https://open.spotify.com/track/4TEJriz8DIMSgV2HHlzpVQ) | [HYUN JIN YOUNG](https://open.spotify.com/artist/3ZZz9fLzRgFXJnEGVHV3Pn) | [9번방의 합창 \(Original Television Soundtrack\) \- 기억하지 말아요](https://open.spotify.com/album/1TVnqWX6cE2JJT2x01YhVU) | 4:11 | 2022-03-03 | 2022-05-12 |
 | [더 드라이버](https://open.spotify.com/track/2SNyuFGjAYmKT9NrdZQ7rd) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [더 드라이버 ORIGINAL SOUND TRACK](https://open.spotify.com/album/2ltuRbeT5bJrfqktDeq0I2) | 4:03 | 2022-03-09 | 2022-06-10 |
 | [도포자락 휘날리며 \(Original Television Soundtrack\) \- LOOK AT YOU!](https://open.spotify.com/track/7dsbpv6MfydEILF8c2NUCU) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [도포자락 휘날리며 \(Original Television Soundtrack\) \- LOOK AT YOU!](https://open.spotify.com/album/1tfAfSTJHXtmgkzDwBasOp) | 2:56 | 2022-07-25 |  |

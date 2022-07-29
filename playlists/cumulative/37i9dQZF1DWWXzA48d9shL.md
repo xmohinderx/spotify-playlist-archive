@@ -4,7 +4,7 @@
 
 > 😈 😈 😈  Cover: Freddie Dredd
 
-275 songs - 10 hr 47 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+277 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2022-02-16 | 2022-04-21 |
 | [KOTA](https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [KOTA](https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP) | 3:15 | 2022-07-15 |  |
 | [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 | 2022-06-29 |
-| [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 | 2021-09-17 |  |
+| [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-07-01 |  |
+| [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 | 2021-09-17 | 2022-07-29 |
 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 | 2022-04-08 | 2022-04-19 |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-09-17 | 2022-05-17 |
 | [LIGHTNING](https://open.spotify.com/track/2TAYhTjo2swsdQbERc87fh) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc) | [LIGHTNING](https://open.spotify.com/album/7fi13uklZxLOvkjV6Yxgg9) | 2:38 | 2022-05-20 | 2022-07-27 |
@@ -179,7 +180,8 @@
 | [Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Materialism as a Means to an End](https://open.spotify.com/album/2wg5abR3D5AFa0Ls7b0hok) | 2:46 | 2021-09-17 | 2022-05-17 |
 | [Mean](https://open.spotify.com/track/4gncrdopojb9Xe8KoNXKGY) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Mean](https://open.spotify.com/album/3cOGCXAKUcJGpk0vQvz5RX) | 2:04 | 2021-09-17 | 2022-05-17 |
 | [MeetYourMaker](https://open.spotify.com/track/3pJnx38vLQvVHcT3aDnOdH) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Deergod](https://open.spotify.com/artist/0lcFNl4eBE4NcQATqbKEtc) | [PushingUpDaisies](https://open.spotify.com/album/1x9TicUl0wO9wIXpLWlUfq) | 2:44 | 2021-09-17 | 2022-05-17 |
-| [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-04-22 |  |
+| [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 | 2022-07-01 |  |
+| [Mercury: Retrograde](https://open.spotify.com/track/2Vc6NJ9PW9gD9q343XFRKx) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/4pzCKSWYNM2yUWrNvycC6e) | 2:04 | 2022-04-22 | 2022-07-29 |
 | [Metal](https://open.spotify.com/track/3Y7AlLapD7AYzmqS4CM5FR) | [Oh Gasm!](https://open.spotify.com/artist/1VMMM8J2XHnLHyTPQ0HS0s) | [Metal](https://open.spotify.com/album/021icRE8txfPQMBmEz6j2r) | 1:51 | 2022-07-08 |  |
 | [Mindset](https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [The Vault II](https://open.spotify.com/album/5kOE2LtmpW9YqnyeFlmBAx) | 2:48 | 2021-09-17 |  |
 | [Miss YOU!](https://open.spotify.com/track/3pXVmZh293nWtqxildz9jf) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Miss YOU!](https://open.spotify.com/album/1N4sOPjYya80HsT6idMO0f) | 1:32 | 2021-09-17 | 2022-04-19 |

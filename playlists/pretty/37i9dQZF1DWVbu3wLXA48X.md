@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Fazerdaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,774 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,830 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 |
+| 1 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 2 | [Be Sweet \- Korean Version](https://open.spotify.com/track/5smkxS3MeevRwRt86AADR9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Be Sweet \(Korean Version\)](https://open.spotify.com/album/5WfeCVyCMFpTkkYkcVHT1x) | 3:15 |
 | 3 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 |
 | 4 | [Miss You](https://open.spotify.com/track/6U8UbKRwGuRqqr8tm92shg) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 4:08 |
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 10 | [Little Balcony](https://open.spotify.com/track/0ALdUxWVaIDeuPjP78hgIe) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Little Balcony](https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor) | 2:34 |
 | 11 | [Panic Attacks](https://open.spotify.com/track/4NmJwBU0Pc2JdblEfJPGo3) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Panic Attacks](https://open.spotify.com/album/1gqvcmURwj0ktp54MhK8Ic) | 3:46 |
 | 12 | [The Hard Way](https://open.spotify.com/track/6pfAOm26gNA5j9B15Ln2gq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [The Hard Way](https://open.spotify.com/album/047c12RSNKQoatoNBjSegE) | 3:26 |
-| 13 | [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 |
-| 14 | [Pharmacist](https://open.spotify.com/track/2Ccis7gEx0Obkn5rniQdIj) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/64JNhi1z2dWvcvKY37z2BQ) | 2:04 |
+| 13 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
+| 14 | [Pharmacist](https://open.spotify.com/track/5A6E9uhiiRyJ8OSYQ0IRdt) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Pharmacist](https://open.spotify.com/album/34tneHefb6IXhuk95xh8vx) | 2:04 |
 | 15 | [Fallacy Actually](https://open.spotify.com/track/5FLd0SCmbuP3ZQqEt7Ew6N) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Fallacy Actually](https://open.spotify.com/album/76hqDrg4ewLgKcYtxkshJV) | 4:11 |
 | 16 | [mirror](https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [mirror](https://open.spotify.com/album/0aC3BQYnDDhjdKlJEPMGmc) | 3:01 |
 | 17 | [Between Me and Chicago](https://open.spotify.com/track/1PhvvtogiRMvf21bNpSbAF) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 3:24 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 32 | [Turn The Lights On](https://open.spotify.com/track/05wxO6vaz6J7ycXloB4qOs) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Turn The Lights On](https://open.spotify.com/album/3lA9TFTcgcKviBmx0k6Mk0) | 3:25 |
 | 33 | [End Of The Day](https://open.spotify.com/track/0OjA0vX6ndef8mJqPPYIMN) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Broke Pop Kids](https://open.spotify.com/album/3XxjTbUp1JvSzP2sRvtBEU) | 2:28 |
 | 34 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 |
-| 35 | [HERO JOURNEY](https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY](https://open.spotify.com/album/42zAFph6t4rfdgHlm7fZSG) | 1:54 |
+| 35 | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/track/5wsZVRGMRA4ZzMStNKxcK2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY \(feat\. Superorganism\)](https://open.spotify.com/album/3dbLBkeSvzwDE5tVt662sZ) | 1:54 |
 | 36 | [Favourite Fancy](https://open.spotify.com/track/5yMwuzROEjjtgiR6NATaQX) | [Weaties](https://open.spotify.com/artist/0foXRONshhoO2y3oAlvMwc) | [Dreamland Ecstasy](https://open.spotify.com/album/5FpdtfuwZWFH5Iibn9MKDC) | 4:00 |
 | 37 | [Stuck in my dream](https://open.spotify.com/track/6FRQGRaRgCBMiV1od1ZJAG) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Noodles](https://open.spotify.com/album/1ExTXmIeooEWgFxQoiFCka) | 3:44 |
 | 38 | [False Dichotomy](https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:39 |
-| 39 | [Cannibal](https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6) | 4:01 |
+| 39 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 |
 | 40 | [Wind](https://open.spotify.com/track/1rphSU3RK5DTitT9muQ1rE) | [Healing Potpourri](https://open.spotify.com/artist/7DORj3eYMlPwqbRZ4StSmQ) | [Wind](https://open.spotify.com/album/2UsxClNKxjLQKvBPf7diro) | 3:44 |
 | 41 | [Mystery Happy](https://open.spotify.com/track/3nmOPSrQzdG81KgZXW0HGy) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Mystery Happy](https://open.spotify.com/album/0bqb26fZao4mdtE8TOolNF) | 3:55 |
 | 42 | [Disarm \(Lonely In The Rain Remix\)](https://open.spotify.com/track/6pcK2OwpORG3Rxg6peomgh) | [BLOODMOON](https://open.spotify.com/artist/66xFQYYcUE4edhHH9VpU3i), [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Disarm \(Lonely In The Rain Remix\)](https://open.spotify.com/album/3hgyMiIlqjz7YHvKzc7dQS) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Sitting Up](https://open.spotify.com/track/4ecbBr4l07EN9I6lUwQTcv) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sitting Up](https://open.spotify.com/album/5ck87FVQRnVHW9xfc8NVZA) | 3:09 |
 | 75 | [Poetess](https://open.spotify.com/track/3llxKZEWIzKWMSqr51SQuT) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 4:00 |
 
-Snapshot ID: `MTY1ODQ2NjU4MCwwMDAwMDE2ZTAwMDAwMTgyMjQ0ZmI5ZGMwMDAwMDE4MjI0NGVmOTcw`
+Snapshot ID: `MTY1ODQ2NjU4MCwwMDAwMDAwMDg1ZjMxYjVhZDcwYTQ2YjQyMWY3ODdmNzZiMWQ3OWU2`

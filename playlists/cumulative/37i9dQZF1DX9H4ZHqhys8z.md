@@ -4,7 +4,7 @@
 
 > Listen to Greek women at full volume\. Cover: Anastasia
 
-128 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/26nYZW9uO5SB3QxZrqoIKG)
+130 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/26nYZW9uO5SB3QxZrqoIKG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Muse](https://open.spotify.com/track/0JjPcjJywGHSzn5IMoYClJ) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [Muse](https://open.spotify.com/album/59npfFu8RSyFSWMyQNXmeP) | 3:36 | 2022-03-07 | 2022-07-01 |
 | [Mykonos Kai Santorini](https://open.spotify.com/track/5NIe8MCNByrSM9Oi9Uoaqh) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [Mykonos Kai Santorini](https://open.spotify.com/album/7yrgtsgGeueaYZCagG8Xpx) | 3:27 | 2022-05-31 |  |
 | [Ne Men Alla Den](https://open.spotify.com/track/5sUR273OqDdFuzaz1EoX6U) | [Nalyssa Green](https://open.spotify.com/artist/68PM4Vpd3dwIQfEd2z1mZY) | [Taxidi Astriko](https://open.spotify.com/album/2hIcrz91mewNvDufxl5y6r) | 3:17 | 2022-03-07 | 2022-07-01 |
-| [Nike Boyz](https://open.spotify.com/track/4S6XZnjxijK503QxJMkIqm) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw) | [Nike Boyz](https://open.spotify.com/album/0NVqUx04bDoNTJhJQmEzwP) | 3:10 | 2022-05-03 |  |
-| [Nomad](https://open.spotify.com/track/1JC5wIc1y4aIVt5PDXE7dY) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Nomad](https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp) | 3:44 | 2022-06-30 |  |
+| [Nike Boyz](https://open.spotify.com/track/4S6XZnjxijK503QxJMkIqm) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw) | [Nike Boyz](https://open.spotify.com/album/0NVqUx04bDoNTJhJQmEzwP) | 3:10 | 2022-05-03 | 2022-07-29 |
+| [Nomad](https://open.spotify.com/track/1JC5wIc1y4aIVt5PDXE7dY) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Nomad](https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp) | 3:44 | 2022-06-30 | 2022-07-29 |
+| [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-06-30 |  |
 | [Nychtes Sti Mykono](https://open.spotify.com/track/6bQRqQ5VuLXv3x1RfqNFWl) | [Katerina Naka](https://open.spotify.com/artist/0yFQltPJYae9fUy6hzzIu7) | [Nychtes Sti Mykono](https://open.spotify.com/album/4w2WQKDtB3LMFQagXISayH) | 3:11 | 2021-12-16 | 2022-01-05 |
 | [Of Time](https://open.spotify.com/track/1sTCddu1UJUspP9kNrBwa3) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [Of Time](https://open.spotify.com/album/4uKvM9Y5cKwS882IH55qUb) | 3:50 | 2022-02-01 | 2022-03-08 |
 | [Oniro Mou](https://open.spotify.com/track/6mbGnGMvppXe4effSc7mQv) | [Yianna Terzi](https://open.spotify.com/artist/6jyr8jHac3RvXIltjYqVJi) | [Oniro Mou](https://open.spotify.com/album/0Z76uqpegG7GkNNpB3YDPk) | 3:04 | 2021-12-16 | 2022-05-04 |
@@ -127,7 +128,8 @@
 | [Tremo Olokliri](https://open.spotify.com/track/7c0A3q1BpadCiA7ECdy8CO) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl) | [Tremo Olokliri](https://open.spotify.com/album/0xhysb1Fg7TY09C9TMAoU1) | 3:24 | 2022-05-31 |  |
 | [Twist In My Sobriety](https://open.spotify.com/track/1Xbu8uVqPQvR0wI0XXXtoC) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [Twist In My Sobriety](https://open.spotify.com/album/4TzoPTNMb4lSaIxTs9CEOn) | 2:56 | 2021-12-16 | 2022-05-04 |
 | [Ukulele](https://open.spotify.com/track/2wbR40kPrAh02zoAx4A6J4) | [Barbara Argyrou](https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK) | [Ukulele](https://open.spotify.com/album/5M7yoN6ysO4qJijX1OUsFo) | 2:20 | 2021-12-16 | 2022-04-06 |
-| [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-05-03 |  |
+| [Up and Away](https://open.spotify.com/track/3im8VPUFdugX19ZgLoG64t) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1) | 3:11 | 2022-05-03 | 2022-07-29 |
+| [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-06-30 |  |
 | [Vodka Vissino](https://open.spotify.com/track/32pGx4BcNxv16Xtj2vHMsV) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Chica](https://open.spotify.com/album/47NOrUHeB9XJOGR26XxamC) | 3:53 | 2021-12-16 | 2022-06-01 |
 | [Wait No More](https://open.spotify.com/track/2RL7cyEnYih7ijPyFKrvOu) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Wait No More](https://open.spotify.com/album/7jE8K2wH3tBBGSXJhfa5lb) | 2:24 | 2022-02-01 | 2022-06-01 |
 | [Who Are They](https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD) | [Danai Nielsen](https://open.spotify.com/artist/1V81ZJyFmiadP8c8ra4kDa) | [Who Are They](https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx) | 4:02 | 2021-12-16 | 2022-06-01 |

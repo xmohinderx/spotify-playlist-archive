@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-68 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
+70 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/3J3LPO0Z4tLv0nyKiEt64G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,12 +58,14 @@
 | [Photo With Grey Sky, White Clouds](https://open.spotify.com/track/3xLBY0NMWZqdLCYbPqcUb6) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde), [Suzanne Kraft](https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m) | [Passive Aggressive](https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l) | 8:29 | 2022-05-19 |  |
 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 | 2022-07-08 |  |
 | [Recurring Dream](https://open.spotify.com/track/2khbT2HgtSdSwZt60gDe71) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:13 | 2022-05-19 |  |
-| [Red Sheep Fom Hill](https://open.spotify.com/track/5SXXqDmDYBBThqafTiwzni) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 9:03 | 2022-05-19 |  |
+| [Red Sheep Fom Hill](https://open.spotify.com/track/5SXXqDmDYBBThqafTiwzni) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 9:03 | 2022-05-19 | 2022-07-29 |
+| [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 | 2022-07-22 |  |
 | [Reflection \(Excerpt\)](https://open.spotify.com/track/53KkH2GHmt77WtAOxo2J36) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/69GAIqkIkxLuh4bruF01Av) | 4:20 | 2022-05-19 |  |
 | [remembering grasshoppers](https://open.spotify.com/track/4cW3NRXreChDL9MYh2LHKL) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ), [demo sphere](https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI) | [Cirrus](https://open.spotify.com/album/6BDNBMYOVxBQVb3mgx18DT) | 5:46 | 2022-06-17 |  |
 | [Resonance Necklace](https://open.spotify.com/track/3BeKvMlTb7A3J2RV7WIjX9) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 5:55 | 2022-05-19 |  |
 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 | 2022-05-19 |  |
-| [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 |  |
+| [Sleet](https://open.spotify.com/track/1e3ZjpUwm6yRzVaqIIHWdc) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 8:28 | 2022-07-22 |  |
+| [Sleet](https://open.spotify.com/track/6pfrUVPhrk2qe9BtVOeXwq) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/6KSHRNQJG4N4m3KHA29foi) | 8:28 | 2022-05-19 | 2022-07-29 |
 | [Stepping Into Awareness \(Instrumental\)](https://open.spotify.com/track/1tj6iPD0KyAKSQJNebSe6W) | [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [Presence \(Instrumentals\)](https://open.spotify.com/album/3VGeGqWVDT6QUFHBQkEdpA) | 8:06 | 2022-05-19 |  |
 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 | 2022-07-08 |  |
 | [Supreme Being](https://open.spotify.com/track/2bP4N2cJVjNeytaAbFjowK) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Beauty & Spa Chill Out \(Relaxation Wellness Lounge Music\)](https://open.spotify.com/album/1L2KHXHM4KWmNw5tubhT3M) | 5:35 | 2022-05-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\. Cover, TeZATalks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,426 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,431 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 8 | [everything will be alright](https://open.spotify.com/track/2WKgiR5cGgsewYsdbrH5VZ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 3:35 |
 | 9 | [CHITO](https://open.spotify.com/track/4xVbqy10xuhITml9Gwv1LH) | [Calvin Valentine](https://open.spotify.com/artist/6vaDFcFzTyOXlZKIYoe3tB), [Upendo Moore](https://open.spotify.com/artist/0dL24uV89YAqi6Dd8puNdj) | [SUPERSTAR TRADING CARDS](https://open.spotify.com/album/7n5kJmdiK0ADbtOB7OmuTp) | 1:42 |
 | 10 | [Sara Lee](https://open.spotify.com/track/1RWgcbWgxMCOIXsxMropWR) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Synergy](https://open.spotify.com/album/3aUjnJstnoWotXysnh5nV6) | 3:48 |
-| 11 | [Aquarius](https://open.spotify.com/track/7fLYq5pvsCEV39LVzj5yRd) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/00WWldRogRFJKGFHR2GdRT) | 3:04 |
+| 11 | [Aquarius](https://open.spotify.com/track/1vH1CNL63dMulz5x2mIhaW) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5q6N52kWVJxH4mwwiI0SLa) | 3:04 |
 | 12 | [Cowboy Bepop](https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Cowboy Bepop](https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh) | 2:53 |
 | 13 | [Thanks And Praises](https://open.spotify.com/track/5J4F79SLhKnv5Q5iu0MwCJ) | [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5) | [Thanks And Praises](https://open.spotify.com/album/5aEGomkIebUGrIVZA1dGYm) | 2:05 |
 | 14 | [No Take Backs](https://open.spotify.com/track/3HYuPsvqLyXflWKZ5wgFey) | [Lazā](https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal) | [PreGame](https://open.spotify.com/album/7qjrDbqjWB5wDZxZaWjHTB) | 1:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 49 | [Jewelry](https://open.spotify.com/track/28VcLhWvQFgR3YteVzrLzK) | [Lewie](https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q) | [Jewelry](https://open.spotify.com/album/4RRrr37kwq0813Z6Pm2hUU) | 3:22 |
 | 50 | [SHE WOULD LOVE THAT](https://open.spotify.com/track/40lp6f3o1CPNDjU5l7Xzja) | [Lambo Lawson](https://open.spotify.com/artist/6HnrYvpXigJijRpCyzcKqf) | [PHOENIX](https://open.spotify.com/album/5Jfx4doVYXwi7uiquFWnVA) | 2:57 |
 
-Snapshot ID: `MTY1ODc4OTg1NywwMDAwMDAxYjAwMDAwMTgyMzc5NDg3N2MwMDAwMDE4MjM3OTQyYjdl`
+Snapshot ID: `MTY1ODc4OTg1NywwMDAwMDAwMDM3Mjg5M2VhNzk1NjdhNWU2ZGY4MzZiM2FlZWIzOGJk`

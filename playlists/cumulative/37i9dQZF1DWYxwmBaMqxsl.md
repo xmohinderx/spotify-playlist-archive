@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-148 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+151 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Compassion](https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [Compassion](https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv) | 4:11 | 2022-04-26 |  |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-05-31 |  |
 | [Crazy She Calls Me](https://open.spotify.com/track/6Iy5h7PVP0a5tKbNPBosq6) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Very Cool + Tranquillity](https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ) | 7:26 | 2021-12-14 | 2022-06-23 |
-| [Cry Me a River](https://open.spotify.com/track/4DVt0yWt30d7C4P62zpJir) | [Dexter Gordon All Stars](https://open.spotify.com/artist/5ZPrygYjYz8TPkL3r9SY7L) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/0b6BPplfrrYhxCVmOjEAH0) | 3:42 | 2022-01-26 |  |
+| [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 | 2022-06-28 |  |
+| [Cry Me a River](https://open.spotify.com/track/4DVt0yWt30d7C4P62zpJir) | [Dexter Gordon All Stars](https://open.spotify.com/artist/5ZPrygYjYz8TPkL3r9SY7L) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/0b6BPplfrrYhxCVmOjEAH0) | 3:42 | 2022-01-26 | 2022-07-29 |
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2021-12-14 |  |
 | [desire strongly](https://open.spotify.com/track/1DpXesx1rkB5AA2sA55uAs) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [desire strongly](https://open.spotify.com/album/0o3VKgnd6FUTbPHAYtmzAE) | 2:59 | 2021-12-14 |  |
 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 | 2021-12-14 |  |
@@ -96,7 +97,8 @@
 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 | 2021-12-14 |  |
 | [My Foolish Heart](https://open.spotify.com/track/4mHo5Z7SZA6nynbGOirSrA) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [My Foolish Heart](https://open.spotify.com/album/460v4rKXEU7AFP6YOgVc8L) | 3:37 | 2021-12-14 |  |
 | [Myren](https://open.spotify.com/track/0ndyWE3s5txZ0p4YXMiVDj) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Myren](https://open.spotify.com/album/32wLo8nPlRDWr2aBvqStje) | 2:35 | 2021-12-14 | 2022-06-09 |
-| [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-14 |  |
+| [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 | 2021-12-14 | 2022-07-29 |
+| [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 | 2022-06-28 |  |
 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 | 2021-12-14 |  |
 | [Never Let Me Go](https://open.spotify.com/track/6JqS6NY4vXjP9sTAwH8k6N) | [Alexander Martin Jazz Trio](https://open.spotify.com/artist/5OBtP3zDHNFdzP9cO0eHSm) | [Lil' Darlin'](https://open.spotify.com/album/6PYtdDNbiWRopTRvYUbjPh) | 4:18 | 2021-12-14 |  |
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2021-12-14 |  |
@@ -116,7 +118,8 @@
 | [Samantha](https://open.spotify.com/track/2S6rbnyzdnujkpldnjbXcW) | [Sarah Troedsson](https://open.spotify.com/artist/5KFUCJQThUzmtIFTtsHdfh) | [Samantha](https://open.spotify.com/album/4r54lzGKhdojX8v9QtJYg7) | 4:11 | 2022-06-22 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-01-26 |  |
 | [Searching](https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Searching](https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV) | 3:28 | 2022-06-14 |  |
-| [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2021-12-14 |  |
+| [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 | 2022-06-28 |  |
+| [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 | 2021-12-14 | 2022-07-29 |
 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 | 2021-12-14 |  |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-28 |  |
 | [Silhouette](https://open.spotify.com/track/1CcKHNpexFobMLQwN1MzKr) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 3:51 | 2021-12-14 |  |

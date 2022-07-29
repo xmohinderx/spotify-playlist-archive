@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,814 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,238 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 27 | [El Muchacho Criticado](https://open.spotify.com/track/6KjjvZf9wLdYMGLDcL2HMS) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchacho Criticado](https://open.spotify.com/album/3dLoxjr5S4Rt98kxZrpHjz) | 2:55 |
 | 28 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
 | 29 | [Así Tocó Mi Vida](https://open.spotify.com/track/2YekzGSNDRlEvRLmvfRZfb) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Así Tocó Mi Vida](https://open.spotify.com/album/58E0nQ2a7axyw3rETsiB9r) | 4:10 |
-| 30 | [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 |
+| 30 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 |
 | 31 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 |
 | 32 | [El Piquetito](https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Piquetito](https://open.spotify.com/album/1tj8rwJ06KkWtWYPR2Sgxc) | 2:50 |
 | 33 | [Por La D](https://open.spotify.com/track/1fBtRjcOFPGP90JyRsj8ey) | [Clave D](https://open.spotify.com/artist/5FvtrjIYkPUgmX8BJOY0Cb), [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Por La D](https://open.spotify.com/album/7nCMW7FvpgXpC1UOfuGZLj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 49 | [Sangre De Colima](https://open.spotify.com/track/3yaQXJLibcGEhRG8x62pUX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:59 |
 | 50 | [Mi Barrio](https://open.spotify.com/track/315yOlRl1psFGf0tl8pVaD) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 3:17 |
 
-Snapshot ID: `MTY1NjA0NjgwMCwwMDAwMDAzYjAwMDAwMTgxOTQxNGNjZjcwMDAwMDE4MTkyMjMwYjA2`
+Snapshot ID: `MTY1NjA0NjgwMCwwMDAwMDAwMGFhZjhmMTY0Y2ZlODhmYTU2NmQ0MDg3ZmM2OGM3NmE3`

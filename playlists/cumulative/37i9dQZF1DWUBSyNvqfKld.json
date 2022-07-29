@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-27",
   "description": "<a href=\"spotify:artist:3sgVVFFM7mom04OAR0eNCL\">DEAS</a>'s favorite tracks. Updated regularly. Curated by DEAS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "DEAS' track IDs",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "249MwJEM4bstqPP1gN80wa"
+  ],
   "tracks": [
     {
       "album": {
@@ -119,10 +121,32 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315435,
       "name": "Dream On - Dave Clarke Remix",
       "url": "https://open.spotify.com/track/2s0uLSllP4eg0NvFcSXFoy"
+    },
+    {
+      "album": {
+        "name": "Exciter | The 12\" Singles",
+        "url": "https://open.spotify.com/album/79c0vqXP9tsIv83gFYz4nm"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Dave Clarke",
+          "url": "https://open.spotify.com/artist/19fQzdHD7BofK7Ka0x036V"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315435,
+      "name": "Dream On - Dave Clarke Remix",
+      "url": "https://open.spotify.com/track/3okwFPtam8870RcteOp4sJ"
     },
     {
       "album": {

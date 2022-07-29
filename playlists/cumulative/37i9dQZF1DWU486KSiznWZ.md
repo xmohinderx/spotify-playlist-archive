@@ -4,7 +4,7 @@
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-61 songs - 4 hr 14 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
+62 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/6P6R1PK8TxLpu92yl9hTbK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Logiak](https://open.spotify.com/track/6MLGToHN1rywzRuXgKjbmF) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie), [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Logiak](https://open.spotify.com/album/7uiBwDftspH5AQVMhxT45m) | 3:50 | 2022-04-07 |  |
 | [Maazom](https://open.spotify.com/track/2vQF0IxnmS298QNT0wkqej) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Maazom](https://open.spotify.com/album/65IDPgoxTtbQzQ8BY2B6e4) | 3:50 | 2022-04-07 |  |
 | [Men Broodak](https://open.spotify.com/track/2yNek8B5wQ9B6ZxOIsEBQh) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Men Broodak](https://open.spotify.com/album/5Qd1cIVMLtmq9Ilye8hpyd) | 4:00 | 2022-04-07 | 2022-06-09 |
+| [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/20GCsr0OLx6eBjpKZdLwaT) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 | 2022-07-25 |  |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2022-04-07 |  |
 | [Momken](https://open.spotify.com/track/184NJgZkOPIz4742hcWSq8) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Momken](https://open.spotify.com/album/6gr21nAdWq81BK3cNYkWyc) | 3:14 | 2022-04-07 |  |
 | [My People And My World](https://open.spotify.com/track/0xPWpqWvI3KSj1kv3SnPjG) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [My People And My World](https://open.spotify.com/album/2npyzyawAdH8O2nghXZRbX) | 5:05 | 2022-04-07 |  |
@@ -64,7 +65,7 @@
 | [كلمني](https://open.spotify.com/track/0F66LkXiihhVNKpWSqKgjy) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [كلمني](https://open.spotify.com/album/1ZrVAcuOnbRQJZFahoALeo) | 3:26 | 2022-04-07 |  |
 | [ما اقدر اخونك](https://open.spotify.com/track/3iEe0l4ItrM9vgMHSnnr6t) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [ما اقدر اخونك](https://open.spotify.com/album/7uzMGbFNKS7K6koM513rjC) | 4:51 | 2022-04-07 |  |
 | [مرتاح](https://open.spotify.com/track/1eTt5Z7Yhxx0RABA3BLlgQ) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [مرتاح](https://open.spotify.com/album/3AjExjqj8TnRdLrmW9RvZT) | 3:29 | 2022-04-07 |  |
-| [مشتاق](https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0) | [Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [مشتاق](https://open.spotify.com/album/6pXEgoWi9LeJSBDVPR7of6) | 4:43 | 2022-04-07 |  |
+| [مشتاق](https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0) | [Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [مشتاق](https://open.spotify.com/album/6pXEgoWi9LeJSBDVPR7of6) | 4:43 | 2022-04-07 | 2022-07-29 |
 | [ناس غداره](https://open.spotify.com/track/5bPtrvFUxWFIjpxvlvB7mH) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ناس غداره](https://open.spotify.com/album/56uwlCTBtL3laF34jUmiOh) | 4:08 | 2022-04-07 |  |
 | [هويتك](https://open.spotify.com/track/6U7cxsbmsvF0NRssvWBWid) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [هويتك](https://open.spotify.com/album/5YCf0zGLkiAv7vE13eP859) | 3:37 | 2022-04-07 |  |
 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 | 2022-04-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 
 > Relaxing jazz on a warm summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,453 likes - 130 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,645 likes - 130 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 14 | [Song of The Sirens](https://open.spotify.com/track/6SNXb4pUG3LjS2601AKT3G) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Song of The Sirens](https://open.spotify.com/album/4pBG3KdjOugx20kMiSGTmP) | 3:35 |
 | 15 | [I've Grown Accustomed To Your Face](https://open.spotify.com/track/5D9zI5bZ2XgFDEYdqGrHnP) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [I've Grown Accustomed To Your Face](https://open.spotify.com/album/3ecnXHWiMR4xIF94MCd9p2) | 3:13 |
 | 16 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 |
-| 17 | [Prohibido](https://open.spotify.com/track/2dHvFDMGGLzQFIKuRngSA7) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 3:20 |
+| 17 | [Prohibido](https://open.spotify.com/track/1KMCGNXS9HjyOZnuyJrn7N) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Additions To Further Definitions](https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb) | 3:20 |
 | 18 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 |
 | 19 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 |
 | 20 | [For the First Time](https://open.spotify.com/track/2BlPcDhmDzUyD5cWFyvmoy) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [For the First Time](https://open.spotify.com/album/09juioZQplX39Yj4EDyYWN) | 4:34 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 47 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 |
 | 48 | [I Remember You](https://open.spotify.com/track/5KlMIo1vS3LQBHNcubfcxc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Desafinado](https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4) | 3:59 |
 | 49 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/5aiwRlBHsL5Gq6qCdPAFzM) | [Lady Luck Trio](https://open.spotify.com/artist/6Qm9vphqbolUkkRINZk5BS) | [I Wish I Knew](https://open.spotify.com/album/1lEpsN0KgGGljcFuZ0DtXE) | 6:00 |
-| 50 | [Girl From Ipanema](https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt) | 3:55 |
+| 50 | [The Girl From Ipanema \(Garota De Ipanema\)](https://open.spotify.com/track/5skmZMK4GOD729sJ1YeuLl) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 3:51 |
 | 51 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 |
 | 52 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 |
 | 53 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 63 | [Don't Mind Me](https://open.spotify.com/track/1PXYvyT1lz0IvWCRbR0eni) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Don't Mind Me](https://open.spotify.com/album/1edvaJi1PKxqVb2fWXmMhP) | 4:18 |
 | 64 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 65 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 |
-| 66 | [As We Believed](https://open.spotify.com/track/0YS2Iy9JTHWVm4ros9DRJI) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/3KpbGfC4zBlggH4aOWjHZ5) | 4:07 |
+| 66 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 |
 | 67 | [On the Trail](https://open.spotify.com/track/30ARFxDvXKYaGoVO7rgMg2) | [The Village Quartet](https://open.spotify.com/artist/1KQ4vXOwPIVwpiTeNnYUQu) | [My Little Suede Shoes](https://open.spotify.com/album/4wNvJQ6o51x0oGDMJrKQYr) | 4:17 |
 | 68 | [Clouds \- 24\-Bit Mastering](https://open.spotify.com/track/65lfucKzmFE6YkXuXE5nt5) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [The Bossa Rio Sextet](https://open.spotify.com/artist/3z0bbBil34Ab1kL9t3o8S4) | [Cannonball's Bossa Nova](https://open.spotify.com/album/1TNOffWopiUF7z4WJGWWkI) | 4:51 |
 | 69 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKxc7ZObqeH.md) - [plain]
 | 129 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 |
 | 130 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
 
-Snapshot ID: `MTY1NjQyMDEwMiwwMDAwMDA1YTAwMDAwMTgxYWE1NGVmNzQwMDAwMDE4MTVkOGY2MWNm`
+Snapshot ID: `MTY1NjQyMDEwMiwwMDAwMDAwMDQ4ZmQyYTg3YjM5YWM5NDNhMTJkOWViZmZmNzIwYTBi`

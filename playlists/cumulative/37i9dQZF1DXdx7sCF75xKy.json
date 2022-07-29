@@ -372,6 +372,24 @@
     },
     {
       "album": {
+        "name": "Better Not Bitter",
+        "url": "https://open.spotify.com/album/5yIF6WeXQNetj56MZAIofs"
+      },
+      "artists": [
+        {
+          "name": "Bitty",
+          "url": "https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226362,
+      "name": "Beautiful, in My Skin",
+      "url": "https://open.spotify.com/track/4kQCOdNxsvYiLnzGSyZfX4"
+    },
+    {
+      "album": {
         "name": "beautiful, in my skin",
         "url": "https://open.spotify.com/album/2tnnSPzP1jqXF5ctailnZX"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226362,
       "name": "beautiful, in my skin",
       "url": "https://open.spotify.com/track/7wUyQoUikgAEhTQCGB3lOq"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237520,
       "name": "Elegi Sepi",
       "url": "https://open.spotify.com/track/4RJn2WTUlUl1g8gYN6CeME"
@@ -3607,7 +3625,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236546,
       "name": "Patah Seribu",
       "url": "https://open.spotify.com/track/0Ni3RjjsQP0oz8lt8xsFIn"

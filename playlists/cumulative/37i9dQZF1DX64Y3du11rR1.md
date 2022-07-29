@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-90 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+93 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,14 +34,16 @@
 | [Dusk Till Dawn](https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Dusk Till Dawn](https://open.spotify.com/album/1skDKsDkYykE118scvvhfj) | 3:28 | 2021-12-22 |  |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-15 |  |
 | [Fireproof](https://open.spotify.com/track/210ndBj74sya9gALSQlWfe) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Fireproof](https://open.spotify.com/album/2x6tj6drKrzTBDLRiMzjJm) | 3:02 | 2022-05-04 |  |
-| [Fix You](https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto) | 4:21 | 2021-12-22 |  |
+| [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-07-26 |  |
+| [Fix You](https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto) | 4:21 | 2021-12-22 | 2022-07-29 |
 | [From This Place](https://open.spotify.com/track/7KL9fO8eEAWbI422qMvjRp) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 2:49 | 2021-12-22 |  |
 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 | 2021-12-22 |  |
 | [Graveyard \- Acoustic](https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Graveyard](https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1) | 4:14 | 2021-12-22 |  |
 | [Hang with Me](https://open.spotify.com/track/5wMeDEn5Jt84L94MZQDBWg) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Hang With Me](https://open.spotify.com/album/3mhn3exUlPK5cIrS6szdCQ) | 3:07 | 2021-12-22 |  |
 | [He Stopped Loving Her Today](https://open.spotify.com/track/7sVwhAV6JKUhGBOzX6udf3) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [He Stopped Loving Her Today](https://open.spotify.com/album/1MXXJioCaf5UZ2JQO7dBlt) | 3:30 | 2022-03-21 |  |
 | [Heart Shaped Box](https://open.spotify.com/track/0AtMmmdaPQyopfb73EOoK8) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Heart Shaped Box](https://open.spotify.com/album/0WqyV72bcDRmqF1ibL5fXh) | 3:12 | 2022-02-02 |  |
-| [Heartbeats](https://open.spotify.com/track/0mMc1o5pBIL7jgnibS6VFP) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/58XP1ZmJEDRszYuoAc6uyA) | 2:42 | 2021-12-22 |  |
+| [Heartbeats](https://open.spotify.com/track/0mMc1o5pBIL7jgnibS6VFP) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/58XP1ZmJEDRszYuoAc6uyA) | 2:42 | 2021-12-22 | 2022-07-29 |
+| [Heartbeats](https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu) | [John T](https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du) | [Heartbeats](https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer) | 2:42 | 2022-07-26 |  |
 | [Heat Waves](https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Heat Waves](https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb) | 2:21 | 2022-01-12 |  |
 | [Hold My Girl \- Piano Acoustic](https://open.spotify.com/track/3qxPacNEgVBtaOCp0v8zJw) | [Keywest](https://open.spotify.com/artist/5n9E5vGRtLsPzqk39eA29T) | [Hold My Girl \(Piano Acoustic\)](https://open.spotify.com/album/0n439gzksPiEis9mHmZY0z) | 3:45 | 2021-12-22 |  |
 | [Hold On](https://open.spotify.com/track/5oThkXHCsfOCd0nctEYL8c) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Hold On](https://open.spotify.com/album/4tzJY3rsAnBKkdsYwGg1eG) | 2:50 | 2022-02-02 |  |
@@ -62,10 +64,11 @@
 | [Lonely \- Acoustic Piano](https://open.spotify.com/track/12AKFQyF4FaQY4AKYqBUvc) | [We Rabbitz](https://open.spotify.com/artist/05Zr3tq3xPIxChT2JfMDCe) | [Lonely \(Remix\)](https://open.spotify.com/album/0g8fDP339rvtttYJdPv5OO) | 2:29 | 2021-12-22 |  |
 | [Love Is a Battlefield](https://open.spotify.com/track/2d4ucQh3TOwWiwCcBcnu37) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF) | 3:41 | 2022-06-15 |  |
 | [Metal Firecracker](https://open.spotify.com/track/1iyciPIHuwVNweVNK4B7W4) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Metal Firecracker](https://open.spotify.com/album/6ekpJfCyu7dBPwLOxOBmlh) | 3:56 | 2022-06-15 |  |
-| [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-22 |  |
+| [Mirrors \- Acoustic](https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/1Lobc5m485WYXK0icerSTM) | 3:44 | 2021-12-22 | 2022-07-29 |
+| [Mirrors \- Acoustic](https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Mirrors \(Acoustic\)](https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC) | 3:44 | 2022-07-26 |  |
 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 | 2021-12-22 |  |
 | [Nothing Compares 2 U \- Acoustic](https://open.spotify.com/track/2Se6Oyy7Lw4u6aYIxG9gGc) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Nothing Compares 2 U \(Acoustic\)](https://open.spotify.com/album/48dpBloXmTODR4Pc3H0rxV) | 3:43 | 2021-12-22 |  |
-| [Ooh La La \- Live From My Bedroom\)](https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY) | [Louie Jacobs](https://open.spotify.com/artist/5qNxdsjjk6KXN5I8HFeKoh) | [Ooh La La \(Live From My Bedroom\)](https://open.spotify.com/album/2Zy2CiI0P2zgKe15LNscMK) | 3:24 | 2022-06-15 |  |
+| [Ooh La La \- Live From My Bedroom\)](https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY) | [Louie Jacobs](https://open.spotify.com/artist/5qNxdsjjk6KXN5I8HFeKoh) | [Ooh La La \(Live From My Bedroom\)](https://open.spotify.com/album/2Zy2CiI0P2zgKe15LNscMK) | 3:24 | 2022-06-15 | 2022-07-29 |
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2022-05-04 |  |
 | [Purple Rain \- Acoustic](https://open.spotify.com/track/0Q8N95kdGOqE6cWTDRvbms) | [Ben Haenow](https://open.spotify.com/artist/2eHEzcBykQCBbtWvYLjHHE) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/2BFuY60RmwJyNYP9w3QR9t) | 4:03 | 2021-12-22 |  |
 | [Rise](https://open.spotify.com/track/1nsn93tZ1aUhsEbNETgkvH) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Rise](https://open.spotify.com/album/1751wnl8603VRyhfuLVw35) | 3:50 | 2021-12-22 |  |

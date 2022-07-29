@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 423866,
       "name": "'Round About Midnight - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6X6q7Wjn40xaYnIhXzMlOh"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211146,
       "name": "Blues For Daryl",
       "url": "https://open.spotify.com/track/6oTTdFI04W4QbfyzKfeTaI"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 357160,
       "name": "Blues In The Night - Short Version",
       "url": "https://open.spotify.com/track/4ZuUE6H5yONhrEw74aWcpU"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 451407,
       "name": "Darn That Dream - Remastered 2015",
       "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 219680,
       "name": "Don't Take Your Love From Me",
       "url": "https://open.spotify.com/track/0yMntBQvB8hIcsrt5YSVIE"
@@ -515,6 +515,32 @@
     {
       "album": {
         "name": "West of 5th",
+        "url": "https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "Eleanor",
+      "url": "https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1"
+    },
+    {
+      "album": {
+        "name": "West of 5th",
         "url": "https://open.spotify.com/album/7HzP4w4TIlGa9I6xEAklBc"
       },
       "artists": [
@@ -533,7 +559,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289693,
       "name": "Eleanor",
       "url": "https://open.spotify.com/track/6vWkMerIb8fzLSeYQ7iCCi"
@@ -569,7 +595,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 319333,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/113E6wtJ5gM2KwhWnj8dwr"
@@ -769,6 +795,24 @@
     {
       "album": {
         "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250853,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/6916T4FnaJvcmGl9PDbbz7"
+    },
+    {
+      "album": {
+        "name": "We Get Requests",
         "url": "https://open.spotify.com/album/7BVfV9OGD9tYdy7Jr5JLbt"
       },
       "artists": [
@@ -779,7 +823,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253840,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/2Ob1A4itFyJWUa6fpwqAOs"
@@ -941,7 +985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 289133,
       "name": "I've Grown Accustomed to Her Face",
       "url": "https://open.spotify.com/track/6nyRGbArV18zO6WozOBON2"
@@ -1038,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
+    },
+    {
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF"
       },
@@ -1049,7 +1111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168373,
       "name": "It's Easy To Remember",
       "url": "https://open.spotify.com/track/1nMBhazQDRj2SdNxw4Gr0s"
@@ -1121,7 +1183,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 245013,
       "name": "Lil Darlin'",
       "url": "https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4"
@@ -1218,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "This Is Jazz #14",
+        "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "album": {
         "name": "Sony Jazz Collection",
         "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
       },
@@ -1229,7 +1309,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
@@ -1294,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Nancy (With The Laughing Face)",
+      "url": "https://open.spotify.com/track/2HdvZsLXBmO9sc4cV8d4BA"
+    },
+    {
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF"
       },
@@ -1305,7 +1403,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194400,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q"
@@ -1443,6 +1541,24 @@
     {
       "album": {
         "name": "Riverside Profiles: Chet Baker",
+        "url": "https://open.spotify.com/album/0onIVgbXEDmbcR4ZiyGNg9"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/3jeqeE91AY5KDbccCBZ1o1"
+    },
+    {
+      "album": {
+        "name": "Riverside Profiles: Chet Baker",
         "url": "https://open.spotify.com/album/6yMw4xOPSnjJF3gt1Kcr5S"
       },
       "artists": [
@@ -1453,7 +1569,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183320,
       "name": "September Song",
       "url": "https://open.spotify.com/track/7cAe8OwCDQA9FcoGcSGbgH"
@@ -1687,7 +1803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 354013,
       "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
@@ -1741,10 +1857,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 590666,
       "name": "The Folks Who Live on the Hill - Live",
       "url": "https://open.spotify.com/track/6Pt0wJ4tViQRRcZBKHx3qx"
+    },
+    {
+      "album": {
+        "name": "Progression: The Art of the Trio, Vol. 5",
+        "url": "https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590666,
+      "name": "The Folks Who Live on the Hill - Live",
+      "url": "https://open.spotify.com/track/7kSaXrHANOFv8iXgh2gvgA"
     },
     {
       "album": {
@@ -1795,10 +1929,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361946,
       "name": "The Peacocks - Remastered",
       "url": "https://open.spotify.com/track/2R1ySjvT4QYc4InNTaHRaA"
+    },
+    {
+      "album": {
+        "name": "You Must Believe In Spring (Remastered Version)",
+        "url": "https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361946,
+      "name": "The Peacocks - Remastered 2003",
+      "url": "https://open.spotify.com/track/5shKp4VqCY5SoV3rIt0jpr"
     },
     {
       "album": {
@@ -1958,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "The Gene Ammons Story: Gentle Jug",
+        "url": "https://open.spotify.com/album/0CCKExA36huR4N871Qkszm"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu"
+    },
+    {
+      "album": {
         "name": "Three Little Words",
         "url": "https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD"
       },
@@ -1969,7 +2139,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 432800,
       "name": "Till There Was You",
       "url": "https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J"
@@ -2005,10 +2175,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280306,
       "name": "Time And Again",
       "url": "https://open.spotify.com/track/3ewiw4NXq7VPVGMzgufYtE"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson For Lovers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7qcSO0ylHCDZNFClhnbqHv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280866,
+      "name": "Time And Again",
+      "url": "https://open.spotify.com/track/18epPmynZUEZcGSUhTxK2t"
     },
     {
       "album": {
@@ -2103,7 +2291,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 382160,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/62r3mboXZSQy14RTlw0QKO"

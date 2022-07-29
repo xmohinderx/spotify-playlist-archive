@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Francesca Michielin
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,486 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,490 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,35 +28,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 18 | [Odissea / Astronave](https://open.spotify.com/track/2kSB0Pf0oNF9HZq1YOYBdY) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Odissea / Astronave](https://open.spotify.com/album/1ADCIxjTiItCD5YkuTUtPe) | 3:32 |
 | 19 | [Loosen Up](https://open.spotify.com/track/1U6Zl3PmW3BCpd9GJj18er) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq), [N\-TONE](https://open.spotify.com/artist/2EEQnW5psMn0U2ol7fqYbK) | [Loosen Up](https://open.spotify.com/album/0OYHTJFOMbO2cCFc4Wo93T) | 2:46 |
 | 20 | [Certe Sere](https://open.spotify.com/track/1PIGXs5JuFE6Kb0n9ie47v) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [Certe Sere](https://open.spotify.com/album/4xHcMK9UFN5PifE3G1LPf3) | 2:34 |
-| 21 | [FAME \(feat\. Laila Al Habash\)](https://open.spotify.com/track/0jNiQhRIRxu6IGapnsQkY4) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [UV](https://open.spotify.com/album/3LKaBArzE0hlP2jMkOaedY) | 2:43 |
-| 22 | [Onde](https://open.spotify.com/track/6bYWgUmK5MYEhTqNovU6tQ) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [Onde](https://open.spotify.com/album/05QaX06ET8D9JNktx9zXrd) | 3:03 |
-| 23 | [Regole](https://open.spotify.com/track/57RJPJcwxONZWXxWQpgR4N) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Regole](https://open.spotify.com/album/1brZBLMNWwPvfHOTpHZmK9) | 2:22 |
-| 24 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 |
-| 25 | [Siamo al caffè](https://open.spotify.com/track/12durA8QoATwNRybDdcxau) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Pelle](https://open.spotify.com/album/0gplTsjYc1mjdaUHlUH7Mm) | 3:02 |
-| 26 | [Jeans](https://open.spotify.com/track/2MhC6MPdtc7wbTYGmfZhjR) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [JE](https://open.spotify.com/album/6t4PVLFHfjA1VmCKblEY8v) | 2:41 |
-| 27 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 |
-| 28 | [Una Ragazza](https://open.spotify.com/track/35TZQAdaCUB8pWXD5PjFqG) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Una Ragazza](https://open.spotify.com/album/2WYpx6ukVzaCbbNmORXoAv) | 2:50 |
-| 29 | [Indisponibile all'amore](https://open.spotify.com/track/1PBcWh0LkCpYaNbFL8Mt0z) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Indisponibile all'amore](https://open.spotify.com/album/7Kk72gwo5vuJiwlsRzbT0j) | 3:04 |
-| 30 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
-| 31 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 |
-| 32 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 |
-| 33 | [Chéri](https://open.spotify.com/track/5jz9BiuSp78MAoDrg4fbDU) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Chéri](https://open.spotify.com/album/3jZQ18MgHtm8RFHRAJ4Fo7) | 2:50 |
-| 34 | [BARBY](https://open.spotify.com/track/3muO3VHKPAbAn6xDWfG7zr) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [BARBY](https://open.spotify.com/album/74AxSYVlz8sz5XPuTofQcm) | 2:28 |
-| 35 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 |
-| 36 | [Sembra che tutto](https://open.spotify.com/track/3EKlLqhV8E9TBDMMP2yFZl) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:57 |
-| 37 | [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 |
-| 38 | [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 |
-| 39 | [Circe](https://open.spotify.com/track/6G2WFzmbeD4IRjxDTiWP1t) | [Agape](https://open.spotify.com/artist/2YmlkT3anMu3cZRZhu1wxn) | [Circe](https://open.spotify.com/album/6nxo8m2AnTlwFO6hYJb07Y) | 2:58 |
-| 40 | [FILM](https://open.spotify.com/track/2R2v127dl4wjkbIVbmYg5p) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [FILM](https://open.spotify.com/album/2faTekagaBBlJxmQq1LKRp) | 2:26 |
-| 41 | [STANOTTE NON VALE](https://open.spotify.com/track/0gFpmD4kGVPRWj76Kmd16r) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [STANOTTE NON VALE](https://open.spotify.com/album/2HoyZGdypJQ1R5bYOwDd7s) | 2:35 |
-| 42 | [seiore](https://open.spotify.com/track/2OWZDqOr4NgKGAMItCUAt0) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [seiore](https://open.spotify.com/album/2tdMua2EqZN9Vf8889UNiX) | 2:35 |
-| 43 | [Floating Sauna](https://open.spotify.com/track/1KrEOCTPGSk49Z1dZStt7X) | [Valeria Corso](https://open.spotify.com/artist/0vraX4cmV84RNHNEbUARmd) | [Floating Sauna](https://open.spotify.com/album/0pfaXSA0o9xXeB2YnoXc72) | 2:05 |
-| 44 | [Martina](https://open.spotify.com/track/1x7c9oh6TYenSNjncCU1IA) | [SVD](https://open.spotify.com/artist/59HFEHwA26XemIL3Xh9X4p) | [Martina](https://open.spotify.com/album/67kW5lKtGjyNuNScx4IkSK) | 3:06 |
-| 45 | [Fantasma](https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Fantasma](https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6) | 3:05 |
-| 46 | [Bambola Voodoo](https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Bambola Voodoo](https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK) | 2:32 |
-| 47 | [L'amore su Tinder](https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [L'amore su Tinder](https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc) | 2:23 |
-| 48 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 |
-| 49 | [Griderò il tuo nome](https://open.spotify.com/track/1QRSy319rjPddXt94EJsVp) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69) | [Griderò il tuo nome](https://open.spotify.com/album/1LRRmWWcvcIu7f3X9vxpBy) | 2:33 |
-| 50 | [Mostri](https://open.spotify.com/track/0Gz9IzvwXRQRGYoUJ9mbdF) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW) | [Mostri](https://open.spotify.com/album/2XET1mEckoj6EoJWkbD0OQ) | 2:47 |
+| 21 | [Onde](https://open.spotify.com/track/6bYWgUmK5MYEhTqNovU6tQ) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [Onde](https://open.spotify.com/album/05QaX06ET8D9JNktx9zXrd) | 3:03 |
+| 22 | [Regole](https://open.spotify.com/track/57RJPJcwxONZWXxWQpgR4N) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Regole](https://open.spotify.com/album/1brZBLMNWwPvfHOTpHZmK9) | 2:22 |
+| 23 | [Lama d'argento](https://open.spotify.com/track/0Qy1P9wU4jbahp8v0X0Dmb) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Lama d'argento](https://open.spotify.com/album/5L7VlGYr1fxz3BNHvubzl2) | 3:29 |
+| 24 | [Siamo al caffè](https://open.spotify.com/track/12durA8QoATwNRybDdcxau) | [Beatrice Dellacasa](https://open.spotify.com/artist/5piFIZ88zHRxklw95h5v4L) | [Pelle](https://open.spotify.com/album/0gplTsjYc1mjdaUHlUH7Mm) | 3:02 |
+| 25 | [Jeans](https://open.spotify.com/track/2MhC6MPdtc7wbTYGmfZhjR) | [Joe Elle](https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO) | [JE](https://open.spotify.com/album/6t4PVLFHfjA1VmCKblEY8v) | 2:41 |
+| 26 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 |
+| 27 | [Una Ragazza](https://open.spotify.com/track/35TZQAdaCUB8pWXD5PjFqG) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Una Ragazza](https://open.spotify.com/album/2WYpx6ukVzaCbbNmORXoAv) | 2:50 |
+| 28 | [Indisponibile all'amore](https://open.spotify.com/track/1PBcWh0LkCpYaNbFL8Mt0z) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe) | [Indisponibile all'amore](https://open.spotify.com/album/7Kk72gwo5vuJiwlsRzbT0j) | 3:04 |
+| 29 | [buco nero](https://open.spotify.com/track/63anjGNBcpKXtLE1sjhG12) | [Voodoo Kid](https://open.spotify.com/artist/14xtAzXyxJS2s44nVHMCbk) | [buco nero](https://open.spotify.com/album/0RU1Jc50Cwn6xXdzOSxHY6) | 2:24 |
+| 30 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 |
+| 31 | [l'ultima volta](https://open.spotify.com/track/1esjxDsgrkrBXGhpcMfc64) | [Elea](https://open.spotify.com/artist/4zTIQEV02QCXtgDd9XFvz3) | [l'ultima volta](https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn) | 2:38 |
+| 32 | [Chéri](https://open.spotify.com/track/5jz9BiuSp78MAoDrg4fbDU) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Chéri](https://open.spotify.com/album/3jZQ18MgHtm8RFHRAJ4Fo7) | 2:50 |
+| 33 | [BARBY](https://open.spotify.com/track/3muO3VHKPAbAn6xDWfG7zr) | [Selene Ice](https://open.spotify.com/artist/5PZmds1lJa2IF34jRVYo5i) | [BARBY](https://open.spotify.com/album/74AxSYVlz8sz5XPuTofQcm) | 2:28 |
+| 34 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 |
+| 35 | [Sembra che tutto](https://open.spotify.com/track/3EKlLqhV8E9TBDMMP2yFZl) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:57 |
+| 36 | [Haze \- Original Mix](https://open.spotify.com/track/5BzsY9SIZapFmhjQgb1W3F) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Haze](https://open.spotify.com/album/6s6pgnKGwTGC8wqTfvB2ZW) | 3:49 |
+| 37 | [Eleven](https://open.spotify.com/track/43kunJHghKGr4PDeTi86Gr) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [The Disorder of Appearances](https://open.spotify.com/album/3Ie6Dx7Uc4AadnZyTJlL8x) | 5:38 |
+| 38 | [Circe](https://open.spotify.com/track/6G2WFzmbeD4IRjxDTiWP1t) | [Agape](https://open.spotify.com/artist/2YmlkT3anMu3cZRZhu1wxn) | [Circe](https://open.spotify.com/album/6nxo8m2AnTlwFO6hYJb07Y) | 2:58 |
+| 39 | [STANOTTE NON VALE](https://open.spotify.com/track/0gFpmD4kGVPRWj76Kmd16r) | [Noe](https://open.spotify.com/artist/6Q22Q3ZahamD7Y7Bks4NmI), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F) | [STANOTTE NON VALE](https://open.spotify.com/album/2HoyZGdypJQ1R5bYOwDd7s) | 2:35 |
+| 40 | [seiore](https://open.spotify.com/track/2OWZDqOr4NgKGAMItCUAt0) | [nudda](https://open.spotify.com/artist/6geWiO0uvyWGwAGZg2fHo2) | [seiore](https://open.spotify.com/album/2tdMua2EqZN9Vf8889UNiX) | 2:35 |
+| 41 | [Floating Sauna](https://open.spotify.com/track/1KrEOCTPGSk49Z1dZStt7X) | [Valeria Corso](https://open.spotify.com/artist/0vraX4cmV84RNHNEbUARmd) | [Floating Sauna](https://open.spotify.com/album/0pfaXSA0o9xXeB2YnoXc72) | 2:05 |
+| 42 | [Martina](https://open.spotify.com/track/1x7c9oh6TYenSNjncCU1IA) | [SVD](https://open.spotify.com/artist/59HFEHwA26XemIL3Xh9X4p) | [Martina](https://open.spotify.com/album/67kW5lKtGjyNuNScx4IkSK) | 3:06 |
+| 43 | [Fantasma](https://open.spotify.com/track/62AYmj3XkHN0fZGUVCTX44) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Fantasma](https://open.spotify.com/album/6Rg2bOenUQB6uQaTS65lA6) | 3:05 |
+| 44 | [Bambola Voodoo](https://open.spotify.com/track/6JMMfFMl3Y6Jo2CZMWGqIQ) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Bambola Voodoo](https://open.spotify.com/album/4YB2aocfThCA4TwEBCxoKK) | 2:32 |
+| 45 | [L'amore su Tinder](https://open.spotify.com/track/5epRVbuwPkQBzG9WhMGcJJ) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [L'amore su Tinder](https://open.spotify.com/album/52F2qZX6vqgGh8jbuv5kmc) | 2:23 |
+| 46 | [Interno N.6](https://open.spotify.com/track/57SBANqHenDufs98cl35Vl) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Interno N.6](https://open.spotify.com/album/3TBGbh3LTDNsCUMHWX766z) | 3:24 |
+| 47 | [Griderò il tuo nome](https://open.spotify.com/track/1QRSy319rjPddXt94EJsVp) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69) | [Griderò il tuo nome](https://open.spotify.com/album/1LRRmWWcvcIu7f3X9vxpBy) | 2:33 |
+| 48 | [Mostri](https://open.spotify.com/track/0Gz9IzvwXRQRGYoUJ9mbdF) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW) | [Mostri](https://open.spotify.com/album/2XET1mEckoj6EoJWkbD0OQ) | 2:47 |
 
-Snapshot ID: `MTY1ODM5MjQwNiwwMDAwMDAyODAwMDAwMTgyMWZlM2ViNDgwMDAwMDE4MTk0YzIxOTIy`
+Snapshot ID: `MTY1ODM5MjQwNiwwMDAwMDAwMDg0MWI0YzQ4Y2ZlMjY5MGM0ODE5NGRkYjJkOGM5MDZi`

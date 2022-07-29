@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa Queens in their musical element.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 3 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 |
 | 4 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 |
 | 5 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 |
-| 6 | [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 |
+| 6 | [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 |
 | 7 | [Jaded](https://open.spotify.com/track/2oUqHt6WhKih0nmfHhVj3J) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 3:46 |
 | 8 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 |
 | 9 | [I Love You \(Nakupenda\)](https://open.spotify.com/track/55XMfPb2ZUm5vNYu8nWdx5) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Bits & Pieces](https://open.spotify.com/album/04rPmSPYevyGVMBtEDtBiY) | 4:24 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [For Sheezy](https://open.spotify.com/track/4Kr0xtd8gpJPrSuQaQ9LSL) | [Ruguru](https://open.spotify.com/artist/1paCrsKnETPLpODHtQfSSW) | [For Sheezy](https://open.spotify.com/album/3ZbA4aFb3okLLV3BIAeexK) | 3:30 |
 | 60 | [Mama Ntilie](https://open.spotify.com/track/3M52Cys94u7FX3nUww5ITl) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6) | [Mama Ntilie](https://open.spotify.com/album/78X3PS16LknVFjRix2nc9h) | 2:31 |
 
-Snapshot ID: `MTY1ODE0NTE2NiwwMDAwMDAwMjAwMDAwMTgyMTEyNzUzYWQwMDAwMDE4MjExMjQ4N2Jl`
+Snapshot ID: `MTY1ODE0NTE2NiwwMDAwMDAwMDNiNGEyYjU1MmY2ZjkyOTUwODAzNDVlNjQ5NjMxMWYy`

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-460 songs - 1 day 2 hr 46 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
+465 songs - 1 day 3 hr 0 min - [published](https://open.spotify.com/playlist/5W4NxHsN7nLdCvGkEWUuYB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Deserts](https://open.spotify.com/track/4WCQ7UciC6Auy2DqruqVK1) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Deserts](https://open.spotify.com/album/5ucdUmYO7HwdoHCiJwsdro) | 2:47 | 2019-06-19\* | 2019-06-27 |
 | [Dream Circuit](https://open.spotify.com/track/2q8C32OjwpC9NGIa7ER2yK) | [Focal Point](https://open.spotify.com/artist/7EiXe0WQwW2YpTJPEqOZ68) | [Dream Circuit](https://open.spotify.com/album/32sWGjAHu2Bdotu9nFBI3N) | 3:02 | 2021-05-06 |  |
 | [Dreamer](https://open.spotify.com/track/4AAXA43eClFFWQlEeQzC00) | [Ygor Ghensev](https://open.spotify.com/artist/5FHJm3dEZHSfQiENxhwkEO) | [Dreamer](https://open.spotify.com/album/5HPGRNcEd5ZXS8HZnknFNo) | 2:38 | 2021-01-21 |  |
-| [Dreams Of Another Reality](https://open.spotify.com/track/6e21HGKZqkwYjddfKCnstu) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 3:10 | 2019-06-19\* |  |
+| [Dreams Of Another Reality](https://open.spotify.com/track/65hchHuhzbGL5gJ3wxkQh0) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw) | 3:10 | 2022-07-27 |  |
+| [Dreams Of Another Reality](https://open.spotify.com/track/6e21HGKZqkwYjddfKCnstu) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [I Was Arthur](https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a) | 3:10 | 2019-06-19\* | 2022-07-29 |
 | [Dreamscapes](https://open.spotify.com/track/0lWWho4vGcKfIX8kA8YmAy) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [Dreamscapes](https://open.spotify.com/album/3ElOQTSPG7zMkoTks09qub) | 2:39 | 2022-02-18 |  |
 | [Drifting](https://open.spotify.com/track/157kvk58Qr04AiuDv2aQWd) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Drifting](https://open.spotify.com/album/1SOTUgM1yLfg7w6WqtoHcR) | 3:14 | 2020-06-19 |  |
 | [Drifting](https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4) | [Silje Månsson](https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu) | [Drifting](https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ) | 2:03 | 2019-06-27 |  |
@@ -255,7 +256,8 @@
 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 | 2019-06-27 | 2021-09-14 |
 | [mellow](https://open.spotify.com/track/1yJXNOEP2bq1N1691n37oS) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [sleep escape](https://open.spotify.com/album/4XrIUaNhTJFVDrfykbsnAN) | 2:24 | 2020-06-19 | 2021-10-28 |
 | [mellow](https://open.spotify.com/track/7CVgHbVQmNtUVXKZOgonJK) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [mellow](https://open.spotify.com/album/5M6bsvJuj33pYJrUo8p3Q2) | 2:24 | 2020-06-19 |  |
-| [Memory Tree](https://open.spotify.com/track/6X2e0p6D4xOhHqFYFYNHAu) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:54 | 2019-06-19\* |  |
+| [Memory Tree](https://open.spotify.com/track/1c8hkUofu0JemA8jKYJHyA) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I – Beginnings](https://open.spotify.com/album/72bKzpkvAToOhG3EuzUrTi) | 2:54 | 2022-07-27 |  |
+| [Memory Tree](https://open.spotify.com/track/6X2e0p6D4xOhHqFYFYNHAu) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Memoir Collections I \- Beginnings](https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU) | 2:54 | 2019-06-19\* | 2022-07-29 |
 | [middle part](https://open.spotify.com/track/2GNEJcmdJuQK97mWea637Y) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [middle part](https://open.spotify.com/album/7a5iuCtOONCEHJgNdgjaHZ) | 2:19 | 2021-09-29 |  |
 | [Migration](https://open.spotify.com/track/7r9cNx76cAD4Uce80Lqyig) | [Keith Kenniff](https://open.spotify.com/artist/58vAPNWfb4STwW9IWvSlLG), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Migration](https://open.spotify.com/album/4RJuzMFg5iWb33aTkDq34W) | 3:37 | 2019-06-19\* | 2021-09-14 |
 | [Mil Sonidos](https://open.spotify.com/track/11oVQ68B4PnVQHIY6svpXg) | [Reina del Mar](https://open.spotify.com/artist/2eTD3o9uyy2e71k0hzNjE6) | [Mil Sonidos](https://open.spotify.com/album/3j1WvLoIAxywTPF3VUIgEe) | 3:12 | 2019-12-31 |  |
@@ -284,7 +286,8 @@
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Observations From A Faraway Place](https://open.spotify.com/track/5H14dJbhKeaU1ffTMmIGJi) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:22 | 2019-06-19\* |  |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/4hxbBi3XqJgowkTxyQwMeq) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0RGI3UG8SabiVYyEJqGYSj) | 5:44 | 2019-05-26\* | 2019-06-19 |
-| [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2019-06-19\* |  |
+| [October Skies](https://open.spotify.com/track/1YU1xwcePnMHo0H5MI9gtm) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:55 | 2019-06-19\* | 2022-07-29 |
+| [October Skies](https://open.spotify.com/track/3yuFexYOxPrKYtwikc2YwV) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:55 | 2022-07-27 |  |
 | [oh! the view](https://open.spotify.com/track/09LGPIStoVjhEWYV5PG9M6) | [Mayra R](https://open.spotify.com/artist/3BxXJFRD39VuFUn9YSXuoU) | [oh! the view](https://open.spotify.com/album/7gAYZV6vFIdz9xCb1b9q91) | 2:41 | 2021-09-14 |  |
 | [Old Rain on a New Day](https://open.spotify.com/track/5P8BZ67Vw2CUwAYi12yvYj) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Celestial Siren](https://open.spotify.com/album/0cud197M4CFeTol9qn1SQK) | 3:45 | 2020-05-18 | 2021-09-04 |
 | [Open Fields](https://open.spotify.com/track/24CJS73HBvYtVguUZBnyAn) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Open Fields](https://open.spotify.com/album/6AUdvWLCptSVA1g8k7tMKD) | 3:03 | 2020-08-07 |  |
@@ -332,7 +335,8 @@
 | [Saving Daylight](https://open.spotify.com/track/0rDXZpaDpGMbT8ON1DxEtT) | [Harvest Silence](https://open.spotify.com/artist/6qtd1ujjnPOMDU5DCDQPuH) | [Saving Daylight](https://open.spotify.com/album/0TaOvFNhMXYGq0uazSxJDy) | 3:26 | 2020-06-19 | 2021-05-06 |
 | [Schloss](https://open.spotify.com/track/07EmFV0AOKNsbtNonzmMJj) | [Elmau Dunkel](https://open.spotify.com/artist/6mzee09oEU916FziuofHI8) | [Schloss](https://open.spotify.com/album/2jC3UanKu2eDP00OoWu2Rz) | 3:42 | 2019-06-19\* | 2021-11-19 |
 | [Sea of Tranquility](https://open.spotify.com/track/5ggOjNoVdy0O24g98rkms7) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 2:55 | 2019-06-19\* | 2021-09-14 |
-| [Seeming](https://open.spotify.com/track/62rlNsIU6VgkRCSqH4BKEu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Seeming](https://open.spotify.com/album/7HM9J3O7WjqVeGwxS7Do3n) | 2:35 | 2019-06-19\* |  |
+| [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 | 2022-07-27 |  |
+| [Seeming](https://open.spotify.com/track/62rlNsIU6VgkRCSqH4BKEu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Seeming](https://open.spotify.com/album/7HM9J3O7WjqVeGwxS7Do3n) | 2:35 | 2019-06-19\* | 2022-07-29 |
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2019-06-27 | 2020-06-19 |
 | [Send Receive](https://open.spotify.com/track/0zr06uBGWB6tP7m3N2lqxS) | [Niklas Aman](https://open.spotify.com/artist/02SAEsjN1Earr0FuRedpw1) | [Train](https://open.spotify.com/album/3fuXejpInpueYT3XFnxjBW) | 3:58 | 2019-05-26\* | 2019-06-19 |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2019-05-26\* | 2019-08-13 |
@@ -350,7 +354,8 @@
 | [Slip Away](https://open.spotify.com/track/7Dxb8siYBoC5rZRPTmhob4) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Slip Away](https://open.spotify.com/album/1ZSKyQhiqExn4Sj1jYT8qd) | 3:29 | 2021-09-14 |  |
 | [Snowfields](https://open.spotify.com/track/5l3iFPNLr9pWXeYOI7dDhs) | [Shape Of Our Dreams](https://open.spotify.com/artist/17QBpw01txiuRtneh0l1tc) | [Snowfields](https://open.spotify.com/album/2IdkBSoQpjPa5LUo46DDe5) | 2:48 | 2022-04-07 |  |
 | [So Long, Lonesome](https://open.spotify.com/track/5veFQvY6ooJ0rzjxO9cAkW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/7LNOp3ZlUVM32K3bBczUux) | 3:40 | 2019-05-26\* | 2019-06-19 |
-| [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* |  |
+| [Soft Upon Your Face](https://open.spotify.com/track/2BhV8WT7wkp5T3pcl7RRNa) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/0yly5h7LGTBQz6Z8Mx72HV) | 3:14 | 2022-07-27 |  |
+| [Soft Upon Your Face](https://open.spotify.com/track/49LQIdr4hToVH3JdvzTQYC) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Paper Thin Reality](https://open.spotify.com/album/177eLIIJkUNlLVYqxxfPCO) | 3:14 | 2019-06-19\* | 2022-07-29 |
 | [Solatium](https://open.spotify.com/track/4br0nM6NdvDKMJgLj44foR) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Solatium](https://open.spotify.com/album/5ZHBmc04tDmr7TZcbWZVOw) | 2:06 | 2022-07-27 |  |
 | [Solitude](https://open.spotify.com/track/2QerGrNeDLsJgMqpIRhjih) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Solitude](https://open.spotify.com/album/7srh64CFgzsCOIToYhCusB) | 2:44 | 2020-01-03 | 2021-09-21 |
 | [Someday](https://open.spotify.com/track/5zOetBDO9NONS4KnIBXtnx) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Chapter I](https://open.spotify.com/album/4lGIi8xhiVxxvpYmuXW2WD) | 4:48 | 2019-12-11 |  |

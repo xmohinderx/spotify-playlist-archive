@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Devon Cole
 
-438 songs - 22 hr 23 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+439 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Better Off Without You](https://open.spotify.com/track/4M2RxI5ZVWmyyc2Rle1Dax) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [Better Off Without You](https://open.spotify.com/album/6dZytn8morlzjXaAhSc54e) | 3:23 | 2021-12-31 | 2022-02-26 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-06-10 | 2022-07-09 |
 | [Bite Me](https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bite Me](https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv) | 2:39 | 2021-12-31 | 2022-02-12 |
-| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-15 |  |
+| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-15 | 2022-07-29 |
+| [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-22 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-31 | 2022-03-05 |
 | [blur](https://open.spotify.com/track/2hVSPUJVMxQwcfa1xdhRt8) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [blur](https://open.spotify.com/album/10QgRGKde72CAkxtlTRZgj) | 2:32 | 2022-06-03 | 2022-07-16 |
 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 | 2022-05-20 | 2022-06-25 |

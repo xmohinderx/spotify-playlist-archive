@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: TRISTÁN!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,936 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 42 | [sirocco](https://open.spotify.com/track/0AXLdo8W9s9S8bFJkrbRC5) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [sirocco](https://open.spotify.com/album/7i0pZdInsQoMn032LWb0sn) | 2:34 |
 | 43 | [A LA QUE VENGA](https://open.spotify.com/track/2RWfWSPkXevRfGsqKiXG1O) | [Eva Davis](https://open.spotify.com/artist/56KvZNPA1IF1DgGiuAu7xI) | [A LA QUE VENGA](https://open.spotify.com/album/01FFgILJpHg4w9bzAzXrF7) | 3:06 |
 | 44 | [Los Chicos No Lloran](https://open.spotify.com/track/7uHZUe7Gg0yIVsqiqWfwoO) | [Frank Gálvez](https://open.spotify.com/artist/1cJ1SQimwOmgvbfUEYZu89) | [Los Chicos No Lloran](https://open.spotify.com/album/35xYisrzGoQyzQRXbqiQmo) | 3:33 |
-| 45 | [44](https://open.spotify.com/track/4vxbUZKeklVstbRNnme2ge) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo) | [44](https://open.spotify.com/album/3VNg1aAkm7MtT9mTcVRs0e) | 1:57 |
-| 46 | [Bliss](https://open.spotify.com/track/5bG4jfKTyNjdtd1uyANrNy) | [masuno](https://open.spotify.com/artist/1VCntRN0zlJIUWKUkEOZ9q) | [Mira](https://open.spotify.com/album/2SsZs7UefGQTacfxRN5fQx) | 2:22 |
-| 47 | [AnoothErrr BoOOooY](https://open.spotify.com/track/5dXxIDBPu0D5B5qnXMk847) | [Borja Niut](https://open.spotify.com/artist/6xshgsarzzdqRVJZ2mmzOR), [FENSHE](https://open.spotify.com/artist/3jTk34X9AzOeCsrkEs6J3T), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Corazón e Impulso](https://open.spotify.com/album/6MoRwwSc4dw7MWOZbnf5Mz) | 3:21 |
-| 48 | [COWBOY DE L'ESPAI](https://open.spotify.com/track/7tn4SyIVe2v666qvZSkSaM) | [Joel Carro](https://open.spotify.com/artist/1pco9kBA9hyFxN4cDjtbvU), [Charlie P\. Leus](https://open.spotify.com/artist/1riuFScuVVaFDfXC99YYOY) | [COWBOY DE L'ESPAI](https://open.spotify.com/album/1CBQEOvboFyKTj9Nk8dg30) | 3:21 |
-| 49 | [Periferia](https://open.spotify.com/track/5hstOsRKVtg71k7w1uIhNZ) | [Periferia](https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI) | [Periferia](https://open.spotify.com/album/3RdbcFCeOHIjtHvGzl5JZh) | 3:26 |
-| 50 | [cuando deje d llover](https://open.spotify.com/track/2GtXrNhmJhaiRHXqSblxnl) | [Fedra](https://open.spotify.com/artist/6HQEJXnpcTf5tgnqfujaW2) | [cuando deje d llover](https://open.spotify.com/album/4Q9spbKmmHbQDQzqg5jmXY) | 3:50 |
+| 45 | [Bliss](https://open.spotify.com/track/5bG4jfKTyNjdtd1uyANrNy) | [masuno](https://open.spotify.com/artist/1VCntRN0zlJIUWKUkEOZ9q) | [Mira](https://open.spotify.com/album/2SsZs7UefGQTacfxRN5fQx) | 2:22 |
+| 46 | [AnoothErrr BoOOooY](https://open.spotify.com/track/5dXxIDBPu0D5B5qnXMk847) | [Borja Niut](https://open.spotify.com/artist/6xshgsarzzdqRVJZ2mmzOR), [FENSHE](https://open.spotify.com/artist/3jTk34X9AzOeCsrkEs6J3T), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Corazón e Impulso](https://open.spotify.com/album/6MoRwwSc4dw7MWOZbnf5Mz) | 3:21 |
+| 47 | [COWBOY DE L'ESPAI](https://open.spotify.com/track/7tn4SyIVe2v666qvZSkSaM) | [Joel Carro](https://open.spotify.com/artist/1pco9kBA9hyFxN4cDjtbvU), [Charlie P\. Leus](https://open.spotify.com/artist/1riuFScuVVaFDfXC99YYOY) | [COWBOY DE L'ESPAI](https://open.spotify.com/album/1CBQEOvboFyKTj9Nk8dg30) | 3:21 |
+| 48 | [Periferia](https://open.spotify.com/track/5hstOsRKVtg71k7w1uIhNZ) | [Periferia](https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI) | [Periferia](https://open.spotify.com/album/3RdbcFCeOHIjtHvGzl5JZh) | 3:26 |
+| 49 | [cuando deje d llover](https://open.spotify.com/track/2GtXrNhmJhaiRHXqSblxnl) | [Fedra](https://open.spotify.com/artist/6HQEJXnpcTf5tgnqfujaW2) | [cuando deje d llover](https://open.spotify.com/album/4Q9spbKmmHbQDQzqg5jmXY) | 3:50 |
 
-Snapshot ID: `MTY1ODg3MjgwMCwwMDAwMDA1ODAwMDAwMTgyM2M4NjIzNGYwMDAwMDE4MjFmZTYzY2M4`
+Snapshot ID: `MTY1ODg3MjgwMCwwMDAwMDAwMDkyNmQ3ZWU3MjkwNmRlNTQ0MjY1MWM0NjczMDEzNTBi`

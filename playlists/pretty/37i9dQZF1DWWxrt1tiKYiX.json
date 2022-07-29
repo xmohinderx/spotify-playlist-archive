@@ -1,12 +1,12 @@
 {
   "description": "Stripped-down versions of all your favorite pop hits. Cover: Halsey",
-  "num_followers": 100017,
+  "num_followers": 100090,
   "original_name": "Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAxYzAwMDAwMTgyMDAwMzZhZGMwMDAwMDE4MWI2NDczZjcw",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDhlNmNhMTU4NTY3NGMwN2JjYWI4N2JiNTljYWQzMDVk",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -503,8 +503,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Better Days (Stripped)",
-        "url": "https://open.spotify.com/album/5hSfMn1K0oSbf5mYpuNzXK"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR"
       },
       "artists": [
         {
@@ -514,7 +514,7 @@
       ],
       "duration_ms": 210884,
       "name": "Better Days - Stripped",
-      "url": "https://open.spotify.com/track/4eYAj2IhOBJwL9s6sFsCwi"
+      "url": "https://open.spotify.com/track/5278MGuTLVxZ4NWrpMjajs"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -615,8 +615,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Paradise (Acoustic)",
-        "url": "https://open.spotify.com/album/23yHB7E61DTKC1cWORnuhS"
+        "name": "Paradise (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
       },
       "artists": [
         {
@@ -629,8 +629,8 @@
         }
       ],
       "duration_ms": 185019,
-      "name": "Paradise - Acoustic",
-      "url": "https://open.spotify.com/track/2t2ZWNGHKBD0egqxtCLloy"
+      "name": "Paradise - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -752,7 +752,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Covers",
-        "url": "https://open.spotify.com/album/1Nqzqrf8Gzapm03aVTQBWP"
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
       },
       "artists": [
         {
@@ -762,7 +762,7 @@
       ],
       "duration_ms": 274830,
       "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/1YYFccBnGLTgNpzVjmAKQr"
+      "url": "https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -963,8 +963,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Breaking Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6XYyxgvciVfSwfy1Lr3aqW"
+        "name": "Breaking Me (Remixes)",
+        "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
       },
       "artists": [
         {
@@ -978,7 +978,7 @@
       ],
       "duration_ms": 167704,
       "name": "Breaking Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/5GoESTIjlsimLSqtLPBhDw"
+      "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1072,7 +1072,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Hypnotized (Acoustic)",
-        "url": "https://open.spotify.com/album/1YX8gwRQ8VUmJPTN54pVDv"
+        "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 211067,
+      "duration_ms": 211068,
       "name": "Hypnotized - Acoustic",
-      "url": "https://open.spotify.com/track/1o9c8bI4cIWj26DC14nMOF"
+      "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1108,7 +1108,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "I Do (Acoustic)",
-        "url": "https://open.spotify.com/album/0wkXv1imF91qYQeBzXhkAA"
+        "url": "https://open.spotify.com/album/7rexurgfOLxvtVJD2mopnE"
       },
       "artists": [
         {
@@ -1122,7 +1122,7 @@
       ],
       "duration_ms": 156615,
       "name": "I Do - Acoustic",
-      "url": "https://open.spotify.com/track/65kVMNO2Q0RGw8zEnXA2E3"
+      "url": "https://open.spotify.com/track/14emyPXkQHRalq1oAlewRz"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1456,7 +1456,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "i don't wanna know",
-        "url": "https://open.spotify.com/album/3EXg4D2T5PY1NBP2aiBWrf"
+        "url": "https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd"
       },
       "artists": [
         {
@@ -1470,7 +1470,7 @@
       ],
       "duration_ms": 186500,
       "name": "i don't wanna know - acoustic",
-      "url": "https://open.spotify.com/track/25nRDHdWic4DCEJbaI6iDe"
+      "url": "https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1492,7 +1492,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Somebody (Acoustic)",
-        "url": "https://open.spotify.com/album/5DbmSBevpqojf8A69IEwhR"
+        "url": "https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh"
       },
       "artists": [
         {
@@ -1502,7 +1502,7 @@
       ],
       "duration_ms": 168758,
       "name": "Somebody - Acoustic",
-      "url": "https://open.spotify.com/track/0nWFVoAELIeNcPikBntCJi"
+      "url": "https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1559,8 +1559,8 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "My My My! (Acoustic)",
-        "url": "https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q"
+        "name": "My My My! (Remixes)",
+        "url": "https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN"
       },
       "artists": [
         {
@@ -1570,7 +1570,7 @@
       ],
       "duration_ms": 223106,
       "name": "My My My! - Acoustic",
-      "url": "https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9"
+      "url": "https://open.spotify.com/track/2o7aTRkVOAiQSv0CoFUKxk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1592,7 +1592,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Never Seen The Rain (Alternate Version)",
-        "url": "https://open.spotify.com/album/6MX2RQGxwnKc0iGlxTaWoS"
+        "url": "https://open.spotify.com/album/7oVHtPdIA5kcxLLiCu2t7N"
       },
       "artists": [
         {
@@ -1602,13 +1602,13 @@
       ],
       "duration_ms": 300174,
       "name": "Never Seen The Rain - Alternate Version",
-      "url": "https://open.spotify.com/track/0bd5hilfGwAKLPehO4SnYP"
+      "url": "https://open.spotify.com/track/6MYNfMiLwCmA3bRdfzvfcs"
     },
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "i'm so tired... (Stripped - Live in LA)",
-        "url": "https://open.spotify.com/album/3bKSufZXpfGRvQ5qKBLJNh"
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7"
       },
       "artists": [
         {
@@ -1622,7 +1622,7 @@
       ],
       "duration_ms": 187675,
       "name": "i'm so tired... - Stripped - Live in LA",
-      "url": "https://open.spotify.com/track/6bnT4Xhs1lkOHgFjHq6M3b"
+      "url": "https://open.spotify.com/track/4dgY5vCvBBSylaRvgEd6dj"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1680,7 +1680,7 @@
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4g4c2rJ1Jwipxrvl568KtG"
+        "url": "https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi"
       },
       "artists": [
         {
@@ -1690,7 +1690,7 @@
       ],
       "duration_ms": 204294,
       "name": "Fool's Gold - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/5PTYfTSOaDdpJWV5u8MBWT"
+      "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
       "added_at": "2022-07-15 04:00:00",

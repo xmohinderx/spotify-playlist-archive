@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,115 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,300 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 44 | [Dance 2 The Beat](https://open.spotify.com/track/3sP5Qa52HgEZUpbJtNJKs0) | [HeyMcFly!](https://open.spotify.com/artist/65lYK1dU8mQjVthSTNtJS2) | [Dance 2 The Beat](https://open.spotify.com/album/6qwyUm3xT0G3C0acI1jlPY) | 3:36 |
 | 45 | [Don’t Keep Me Waiting](https://open.spotify.com/track/1aEHWqvtZ1JIBUl1loQBDn) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Don’t Keep Me Waiting](https://open.spotify.com/album/03fU1mpcpIJ70JaKzwmbbF) | 3:29 |
 | 46 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 |
-| 47 | [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 |
+| 47 | [The Players Anthem](https://open.spotify.com/track/2LoIZdDNnPXLMdFON1aEuZ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/7FndyrfOQ0ZJV5CwiVVKbu) | 3:17 |
 | 48 | [Crave The Bassline](https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Crave The Bassline](https://open.spotify.com/album/3magqmwQzm2mdGgI83lC3S) | 2:46 |
 | 49 | [Ride With Me](https://open.spotify.com/track/23R3csDLEeDUkxuas66ECG) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ) | [Ride With Me](https://open.spotify.com/album/5hSPTMOJn2XATqYl7l14vc) | 2:52 |
 | 50 | [True Colours](https://open.spotify.com/track/2WCA3a7LQRdsKYf93AleId) | [Sivz](https://open.spotify.com/artist/0NUhITSw1R757ncPIm3pGq), [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3) | [True Colours](https://open.spotify.com/album/1SDYcBpXWtPNYPtfRwc2XV) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 74 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 |
 | 75 | [Burnin'](https://open.spotify.com/track/7hlKyOcn8npRpIl1SGsgOG) | [Marzetti](https://open.spotify.com/artist/2nB7Ws9EvumfMMm6E6YbGA), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Burnin'](https://open.spotify.com/album/36MXx1SbuFEpfGR6C9XVgH) | 4:05 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDIwYjAwMDAwMTgyMjQxMGQ4ZTMwMDAwMDE4MjA3ZDI1ZGVk`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDJmNWFjMGJkOWE5YWY4MmFhNDExZGJkN2ExMTU0NTZj`

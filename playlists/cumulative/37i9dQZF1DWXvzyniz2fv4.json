@@ -1183,6 +1183,24 @@
     {
       "album": {
         "name": "Pra Praia",
+        "url": "https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186297,
+      "name": "Pra Praia",
+      "url": "https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK"
+    },
+    {
+      "album": {
+        "name": "Pra Praia",
         "url": "https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY"
       },
       "artists": [
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186297,
       "name": "Pra Praia",
       "url": "https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN"
@@ -1311,6 +1329,24 @@
     {
       "album": {
         "name": "Inverno",
+        "url": "https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Ros\u00e9",
+      "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
+    },
+    {
+      "album": {
+        "name": "Inverno",
         "url": "https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y"
       },
       "artists": [
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212137,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne"

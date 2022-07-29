@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Munaf Luhar, Artwork: Isu Kim
 
-509 songs - 1 day 6 hr 29 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+510 songs - 1 day 6 hr 32 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,8 +467,9 @@
 | [Treehouse](https://open.spotify.com/track/1Ve3LRB2TCZ2WPPXR9kT1R) | [Abstract Tide](https://open.spotify.com/artist/5blwMrHL5lFMMXHTFk06GK) | [Treehouse](https://open.spotify.com/album/5Gl8xu65T3Qw6dGHKtCM2t) | 5:27 | 2022-02-16 | 2022-02-24 |
 | [Tshirt from Every Lover](https://open.spotify.com/track/0EowI2XZZBPCAzzLw3chj2) | [Jade](https://open.spotify.com/artist/6ORdQjvgWDb4jw2MludymS) | [Tshirt from Every Lover](https://open.spotify.com/album/63DC104PU0hU6IvcdDqCNf) | 3:09 | 2022-01-12 | 2022-02-10 |
 | [Tu Na Jaane \- From "Gulmohar"](https://open.spotify.com/track/4w18QmkrEx6IWAawhyqNBO) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Tu Na Jaane \(From "Gulmohar"\)](https://open.spotify.com/album/4x3kbxgtHEXRpfO8v3cAHo) | 3:58 | 2021-12-01 | 2022-01-13 |
+| [Tum Ho Meri Jaan](https://open.spotify.com/track/11zUhzzHI3v67391OHYLxZ) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan \- Single](https://open.spotify.com/album/2a9ZIaQ32AVovWT2j6ejPN) | 3:11 | 2022-07-27 |  |
 | [Tum Ho Meri Jaan](https://open.spotify.com/track/1ep3GANsKxGfv3cnBtQH2e) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/2OGhq1iqXwWJzQJC7tffzy) | 3:11 | 2022-01-12 | 2022-03-10 |
-| [Tum Ho Meri Jaan](https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/3tywdYNa5HVTmdw0ROfBI0) | 3:11 | 2022-06-15 |  |
+| [Tum Ho Meri Jaan](https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/3tywdYNa5HVTmdw0ROfBI0) | 3:11 | 2022-06-15 | 2022-07-29 |
 | [Tum Meri Thi](https://open.spotify.com/track/4PN3qVs0PdkJLQ9NhKNZs0) | [Yashraj Shaw](https://open.spotify.com/artist/4Keab6DPv2j6t42GO9vmfI) | [Tum Meri Thi](https://open.spotify.com/album/4X5y4yLH8fUoTOpVdq3uGU) | 3:02 | 2022-01-12 | 2022-03-17 |
 | [Tum Mile Ho Badi Der Se](https://open.spotify.com/track/7pTWZLVQngaegF2Q2xROEx) | [Anshul joshi](https://open.spotify.com/artist/0Z9PXJOz9n6hswjUTrukT9) | [Tum Mile Ho Badi Der Se](https://open.spotify.com/album/6veMQnDdYHEcOToYSxEoE4) | 4:58 | 2022-01-26 | 2022-02-10 |
 | [Tum Nahi Ho](https://open.spotify.com/track/4hDPhgn39DpUVGe5qZe7Im) | [Razik Mujawar](https://open.spotify.com/artist/1h5mPiZCQ1NaYRaqV9PVus) | [Tum Nahi Ho](https://open.spotify.com/album/2aKEUIHD1g82QjYnjwEyg4) | 4:08 | 2022-02-23 | 2022-04-21 |

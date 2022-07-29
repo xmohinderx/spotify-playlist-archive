@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "Aegean Fantaisie",
+        "url": "https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7"
+      },
+      "artists": [
+        {
+          "name": "Jase Moran",
+          "url": "https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171122,
+      "name": "Aegean Fantaisie",
+      "url": "https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM"
+    },
+    {
+      "album": {
+        "name": "Aegean Fantaisie",
         "url": "https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY"
       },
       "artists": [
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171122,
       "name": "Aegean Fantaisie",
       "url": "https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY"
@@ -530,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY"
+    },
+    {
+      "album": {
         "name": "Apart",
         "url": "https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt"
       },
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195750,
       "name": "Apart",
       "url": "https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP"
@@ -2803,10 +2839,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162173,
       "name": "Hidcote Garden",
       "url": "https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc"
+      },
+      "artists": [
+        {
+          "name": "Moments",
+          "url": "https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162173,
+      "name": "Hidcote Garden",
+      "url": "https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK"
     },
     {
       "album": {
@@ -3009,6 +3063,24 @@
     {
       "album": {
         "name": "In Between",
+        "url": "https://open.spotify.com/album/6I8xdZRKAvp3iwHyNPLIa5"
+      },
+      "artists": [
+        {
+          "name": "Frozen Silence",
+          "url": "https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160261,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/1MkGNJtjgOH98OV1P2xt9M"
+    },
+    {
+      "album": {
+        "name": "In Between",
         "url": "https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil"
       },
       "artists": [
@@ -3019,7 +3091,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160261,
       "name": "In Between",
       "url": "https://open.spotify.com/track/20jCNFEkg7GZo64KKfgmY2"
@@ -3811,10 +3883,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa"
+    },
+    {
+      "album": {
+        "name": "Lost Words",
+        "url": "https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151761,
+      "name": "Lost Words",
+      "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
     },
     {
       "album": {
@@ -4233,6 +4323,24 @@
     {
       "album": {
         "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mursejler",
+      "url": "https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C"
+    },
+    {
+      "album": {
+        "name": "Mursejler",
         "url": "https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa"
       },
       "artists": [
@@ -4243,7 +4351,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc"
@@ -6151,10 +6259,36 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135466,
       "name": "Silent Agreement",
       "url": "https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        },
+        {
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        },
+        {
+          "name": "Rasmus Svensson",
+          "url": "https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135453,
+      "name": "Silent Agreement",
+      "url": "https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5"
     },
     {
       "album": {
@@ -6320,6 +6454,24 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234545,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/0auqJASBeDsWxuAU7PAmAn"
+    },
+    {
+      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/66857ii6GRtCy0WcRgrk6c"
       },
@@ -6331,10 +6483,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234545,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/2StF1wwPwe1QFeIOilnkDK"
+    },
+    {
+      "album": {
+        "name": "Promise / Sleepy Meadows",
+        "url": "https://open.spotify.com/album/5fjpACljPKC0LbstR0S2El"
+      },
+      "artists": [
+        {
+          "name": "Julia Andersson",
+          "url": "https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Sleepy Meadows",
+      "url": "https://open.spotify.com/track/20dwYxDyc17NkH4JM3d9JB"
     },
     {
       "album": {
@@ -6349,7 +6519,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209000,
       "name": "Sleepy Meadows",
       "url": "https://open.spotify.com/track/6ZolaAx9dpXGBDlD83TGAT"
@@ -6547,7 +6717,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175311,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5"
@@ -6749,10 +6919,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143773,
       "name": "Sun Burst",
       "url": "https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8"
+    },
+    {
+      "album": {
+        "name": "Perceptions",
+        "url": "https://open.spotify.com/album/2cAim7maiyIf86Y6PTdnrX"
+      },
+      "artists": [
+        {
+          "name": "Christopher Dicker",
+          "url": "https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Sun Burst",
+      "url": "https://open.spotify.com/track/5HVNys0JzY4zi3slDnU0Bv"
     },
     {
       "album": {
@@ -7055,10 +7243,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129000,
       "name": "The Deep End",
       "url": "https://open.spotify.com/track/5SqntbiG519DFOWmTd9B2K"
+    },
+    {
+      "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/6AzacQuQXwJE3dC1ts5NII"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "The Deep End",
+      "url": "https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE"
     },
     {
       "album": {
@@ -7170,6 +7376,24 @@
     },
     {
       "album": {
+        "name": "The Turn",
+        "url": "https://open.spotify.com/album/1HBOLQ0QoDkGDGnjhfdzPy"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120746,
+      "name": "The Hourglass",
+      "url": "https://open.spotify.com/track/6AUxUEdwGIBjnUaifqYOHe"
+    },
+    {
+      "album": {
         "name": "The Hourglass",
         "url": "https://open.spotify.com/album/1NTwTsMh0G56ws0HFtPCuC"
       },
@@ -7181,7 +7405,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120746,
       "name": "The Hourglass",
       "url": "https://open.spotify.com/track/6t4LgOBZsf14olwgwYRcCS"
@@ -8063,10 +8287,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183995,
       "name": "Vivid Patterns",
       "url": "https://open.spotify.com/track/0g7477jVToOCDZ61AvZYB2"
+    },
+    {
+      "album": {
+        "name": "Vivid Patterns",
+        "url": "https://open.spotify.com/album/1We8EWituq9rLx0F1SFAwN"
+      },
+      "artists": [
+        {
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183995,
+      "name": "Vivid Patterns",
+      "url": "https://open.spotify.com/track/66p8t05FIuV6lmU39Lek1k"
     },
     {
       "album": {
@@ -8081,10 +8323,28 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134660,
       "name": "Vogeltrek",
       "url": "https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu"
+    },
+    {
+      "album": {
+        "name": "Naar Huis",
+        "url": "https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv"
+      },
+      "artists": [
+        {
+          "name": "Doeke",
+          "url": "https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134660,
+      "name": "Vogeltrek",
+      "url": "https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b"
     },
     {
       "album": {
@@ -8305,6 +8565,24 @@
     {
       "album": {
         "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb"
+    },
+    {
+      "album": {
+        "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts"
       },
       "artists": [
@@ -8315,7 +8593,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158500,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD"

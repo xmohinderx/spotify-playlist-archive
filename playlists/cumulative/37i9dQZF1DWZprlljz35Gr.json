@@ -9,7 +9,7 @@
     {
       "album": {
         "name": "Malfunktionality Part One",
-        "url": "https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z"
+        "url": "https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2"
       },
       "artists": [
         {
@@ -20,6 +20,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 258776,
+      "name": "A Blues Malfunktion",
+      "url": "https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw"
+    },
+    {
+      "album": {
+        "name": "Malfunktionality Part One",
+        "url": "https://open.spotify.com/album/5gEOlPNZqkxTDafDyAqz2Z"
+      },
+      "artists": [
+        {
+          "name": "Beat Fatigue",
+          "url": "https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 258776,
       "name": "A Blues Malfunktion - Original Mix",
       "url": "https://open.spotify.com/track/4jhcv2U1ixMKewjowApJYK"
@@ -99,7 +117,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 146468,
       "name": "Black Blood",
       "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
@@ -175,7 +193,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 329733,
       "name": "Cold Wind Blows",
       "url": "https://open.spotify.com/track/5O61SnNgvNtA7NIJFQaDIi"
@@ -211,10 +229,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141333,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/1b8s2ikwLa1ZmJYAdOZAjR"
+    },
+    {
+      "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/7pPTrDwqzewb4h6cqJjl3w"
+      },
+      "artists": [
+        {
+          "name": "Mason Murphy",
+          "url": "https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/6i5tylayRLCg5LrgUFqg4Z"
     },
     {
       "album": {
@@ -301,7 +337,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207000,
       "name": "Fatboy",
       "url": "https://open.spotify.com/track/4AE3o0Zl933eTmA2FV0LPF"
@@ -337,7 +373,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 252284,
       "name": "Good & Gone - Original Mix",
       "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
@@ -355,7 +391,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 213933,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
@@ -391,7 +427,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210430,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/3EaoAfUtmDpe3DEtmEmCQf"
@@ -561,7 +597,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152843,
       "name": "John The Revelator",
       "url": "https://open.spotify.com/track/343lHi9sB146HH6sGmjsL1"
@@ -691,10 +727,28 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197013,
       "name": "Multiball",
       "url": "https://open.spotify.com/track/22MiGH2lQBET7dtLo5Iua8"
+    },
+    {
+      "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/2Q7l5NR9ZY8gfkkTtBnlBt"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289840,
+      "name": "Paper Trails",
+      "url": "https://open.spotify.com/track/1DK2JuYarBeNwcLNPw1Qyo"
     },
     {
       "album": {
@@ -709,7 +763,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 289840,
       "name": "Paper Trails",
       "url": "https://open.spotify.com/track/6rqONVHOT73QecUdJ5HVHy"
@@ -963,7 +1017,7 @@
     {
       "album": {
         "name": "The Good Girl Blues",
-        "url": "https://open.spotify.com/album/19oQwLtdfzcxPDu7U686QG"
+        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
       },
       "artists": [
         {
@@ -974,6 +1028,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Swamp Thang",
+      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
+    },
+    {
+      "album": {
+        "name": "The Good Girl Blues",
+        "url": "https://open.spotify.com/album/19oQwLtdfzcxPDu7U686QG"
+      },
+      "artists": [
+        {
+          "name": "The Soul Of John Black",
+          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 167973,
       "name": "Swamp Thang",
       "url": "https://open.spotify.com/track/4ONemlKmTMmNpuFecLr4r6"
@@ -1053,7 +1125,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
@@ -1071,7 +1143,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 595680,
       "name": "The Killing Ground",
       "url": "https://open.spotify.com/track/4TO703ZoI5BBF9VwLoatq7"

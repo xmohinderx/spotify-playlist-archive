@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297110,
       "name": "A Los Arboles (feat. Raag)",
       "url": "https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 235311,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
@@ -483,10 +483,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 263096,
       "name": "Contra La Corriente",
       "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+    },
+    {
+      "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263096,
+      "name": "Contra la Corriente",
+      "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
       "album": {
@@ -771,10 +789,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264186,
       "name": "El Invento - Sofia Kourtesis Remix",
       "url": "https://open.spotify.com/track/1lV1ELb1CUSe94zV7h082P"
+    },
+    {
+      "album": {
+        "name": "El Invento EP",
+        "url": "https://open.spotify.com/album/3HjkmLd8nsxhBhQfgTKD1w"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "El Invento - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
     },
     {
       "album": {
@@ -1014,6 +1054,24 @@
     },
     {
       "album": {
+        "name": "Madremonte",
+        "url": "https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Guadalupe",
+      "url": "https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg"
+    },
+    {
+      "album": {
         "name": "Guadalupe",
         "url": "https://open.spotify.com/album/6OGNpHbKy1Y7qFhiUBzBWS"
       },
@@ -1025,7 +1083,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
@@ -1079,10 +1137,28 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249846,
       "name": "Hoy Como Siempre",
       "url": "https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9"
+    },
+    {
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "album": {
@@ -1141,6 +1217,24 @@
       "duration_ms": 208064,
       "name": "Ild\u00e9 Pa\u2019 Beberte",
       "url": "https://open.spotify.com/track/59sYzy6WyqIzHQS2bH32cy"
+    },
+    {
+      "album": {
+        "name": "Ild\u00e9 Pa\u2019 Beberte",
+        "url": "https://open.spotify.com/album/1QX928uCKilM7KCE9G0xhO"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208064,
+      "name": "Ild\u00e9 Pa\u2019 Beberte",
+      "url": "https://open.spotify.com/track/5oKi2idPWZmWbpmIkYgvDc"
     },
     {
       "album": {
@@ -1225,10 +1319,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200307,
       "name": "La Loba (Form Remix)",
       "url": "https://open.spotify.com/track/6jtmeWIJr0i2rxrDIgBq7q"
+    },
+    {
+      "album": {
+        "name": "La Loba (Remixes)",
+        "url": "https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa"
+      },
+      "artists": [
+        {
+          "name": "La Chica",
+          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256336,
+      "name": "La Loba (Trooko Remix)",
+      "url": "https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz"
     },
     {
       "album": {
@@ -1247,7 +1363,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256336,
       "name": "La Loba - Trooko Remix",
       "url": "https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr"
@@ -1469,10 +1585,32 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228693,
       "name": "Mentiras Con Cari\u00f1o",
       "url": "https://open.spotify.com/track/6fG0RBjFWG2ptGMWKmL7rK"
+    },
+    {
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "album": {
@@ -1633,10 +1771,32 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 153269,
       "name": "Nena",
       "url": "https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj"
+    },
+    {
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271315,
+      "name": "Ni una Cosa Ni la Otra",
+      "url": "https://open.spotify.com/track/0cKXRG5rWgbjV92suoEXVR"
     },
     {
       "album": {
@@ -1655,10 +1815,28 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271315,
       "name": "Ni Una Cosa Ni la Otra",
       "url": "https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y"
+    },
+    {
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189574,
+      "name": "Ninfa de la Villa",
+      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
     },
     {
       "album": {
@@ -1673,7 +1851,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189574,
       "name": "Ninfa de la villa",
       "url": "https://open.spotify.com/track/7Ax9fR3OPue9dRH7n9Pidm"
@@ -1823,7 +2001,7 @@
     {
       "album": {
         "name": "Curandero",
-        "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
       },
       "artists": [
         {
@@ -1834,6 +2012,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 160680,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k"
@@ -1898,6 +2094,24 @@
     },
     {
       "album": {
+        "name": "ANRMAL (Live in M\u00e9xico)",
+        "url": "https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223404,
+      "name": "Paraguaya - ANRMAL - Live in M\u00e9xico",
+      "url": "https://open.spotify.com/track/6hqyN0cQeL25DreIYsl1Dn"
+    },
+    {
+      "album": {
         "name": "ANRMAL (En Vivo)",
         "url": "https://open.spotify.com/album/2PBK1zRRzjilywQ6yOEqPZ"
       },
@@ -1909,7 +2123,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223404,
       "name": "Paraguaya - En Vivo",
       "url": "https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf"
@@ -2015,7 +2229,7 @@
     {
       "album": {
         "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm"
+        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
       },
       "artists": [
         {
@@ -2026,6 +2240,24 @@
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
+    },
+    {
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 197493,
       "name": "PSILOCIBINA",
       "url": "https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH"
@@ -2181,7 +2413,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262400,
       "name": "Sal de Maras",
       "url": "https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb"
@@ -2315,10 +2547,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
+    },
+    {
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242306,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
     },
     {
       "album": {
@@ -2479,7 +2729,7 @@
     {
       "album": {
         "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
       },
       "artists": [
         {
@@ -2490,6 +2740,24 @@
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
+    },
+    {
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 200458,
       "name": "Towards The Mountain",
       "url": "https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa"
@@ -2547,7 +2815,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 264837,
       "name": "Ultramar",
       "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
@@ -2587,10 +2855,32 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201600,
       "name": "Vayay\u00f3 - Jiony Remix",
       "url": "https://open.spotify.com/track/2oLwAiavBBRwmJpEBsiVko"
+    },
+    {
+      "album": {
+        "name": "Ofrenda Remixes",
+        "url": "https://open.spotify.com/album/1IZY8qRezmtg1ftavo78iA"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Vayay\u00f3 - Jiony Remix",
+      "url": "https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE"
     },
     {
       "album": {
@@ -2623,7 +2913,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164651,
       "name": "wepa (Eggglub Remix)",
       "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"

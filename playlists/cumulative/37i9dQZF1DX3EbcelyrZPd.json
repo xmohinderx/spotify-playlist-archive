@@ -371,7 +371,7 @@
     {
       "album": {
         "name": "Fall",
-        "url": "https://open.spotify.com/album/1lWUiNiSLTAm8VPTR13YL4"
+        "url": "https://open.spotify.com/album/4lbAWl5b6osztxkmzLeCCb"
       },
       "artists": [
         {
@@ -382,6 +382,24 @@
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0FIWGHovemqfGGQFu2z8Ed"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/1lWUiNiSLTAm8VPTR13YL4"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 206400,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe"
@@ -432,6 +450,24 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/61LXZNptzJVcA8cfA1afhW"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204303,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4CVrXgRl6AgcoJrXUGP6dZ"
+    },
+    {
+      "album": {
         "name": "Yale",
         "url": "https://open.spotify.com/album/6pfvSkYxXAJCvnL7zT8ueO"
       },
@@ -443,7 +479,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204329,
       "name": "For You",
       "url": "https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW"
@@ -2397,10 +2433,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266408,
       "name": "Teamo",
       "url": "https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266408,
+      "name": "Teamo (feat. Messias Maricoa)",
+      "url": "https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf"
     },
     {
       "album": {

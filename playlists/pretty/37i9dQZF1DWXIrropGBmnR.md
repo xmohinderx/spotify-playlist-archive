@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 
 > Calm and soothing strings to help you get a good night's rest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,917 likes - 83 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,934 likes - 83 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 | 17 | [Where You Come From](https://open.spotify.com/track/3dw5tsMT1YnXBjUhH7im1w) | [Silver Maple](https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6) | [Midnight Textures](https://open.spotify.com/album/1ymgrXviamw7SrJlzXiAC2) | 3:32 |
 | 18 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 |
 | 19 | [Still Waters](https://open.spotify.com/track/7dB8hrXzmnFklsPeG0Nju1) | [Hannah Grey](https://open.spotify.com/artist/2e6cg4NeQypQjAyqZV0Sjs) | [Still Waters](https://open.spotify.com/album/39LdBTEMbtnn0243TjhbOi) | 2:16 |
-| 20 | [Torn Apart](https://open.spotify.com/track/0v7PpG98TDickF5DL15Dj5) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:00 |
+| 20 | [Torn Apart](https://open.spotify.com/track/6dKdF1KEA4r69NaOJgGdkS) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 3:00 |
 | 21 | [Moviente](https://open.spotify.com/track/350a3WXUZomHtuJE7CZE5n) | [Cuarteto El Huenoa](https://open.spotify.com/artist/5xDfmx38ewoEqGS9Yqg0fh) | [Moviente](https://open.spotify.com/album/2zeMdNMdmCJieRB9EOUYzA) | 1:58 |
 | 22 | [String Serenity](https://open.spotify.com/track/2YyOPD8UPgzDQyTFHo7Hdr) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [String Serenity](https://open.spotify.com/album/7wPh7ECKRf7wECHtUOqE9C) | 2:17 |
 | 23 | [Cove](https://open.spotify.com/track/77FHt9yDWhE45T4Zjh9wPu) | [CONDRON](https://open.spotify.com/artist/42hdEWPfETOHS6blYvt254) | [Cove](https://open.spotify.com/album/12xQQcDLFQ1RiD1BJuepGM) | 3:22 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 | 34 | [A Drop in the Ocean](https://open.spotify.com/track/2T6vRytpOROVVawULkC0AC) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 3:03 |
 | 35 | [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 |
 | 36 | [Largo Pt\. 1](https://open.spotify.com/track/0TYzilqgE6aJkXXYWkAmqf) | [Quartetscapes](https://open.spotify.com/artist/4ex219IMguvJ2NGwzifYCU) | [Largo Pt\. 1](https://open.spotify.com/album/7aWhUZMBuGrg5NmFE89WO5) | 2:14 |
-| 37 | [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 |
+| 37 | [Supposing](https://open.spotify.com/track/08nQNQ3joVf8kyjuZ9rEVv) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 3:07 |
 | 38 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 |
 | 39 | [Kalapas](https://open.spotify.com/track/5fWDUCwrMxj7xUAJT5uq6s) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Kalapas](https://open.spotify.com/album/6p1IOmTKWUdeG5RRSFpVeJ) | 2:45 |
 | 40 | [Starlight Lullaby](https://open.spotify.com/track/6Peo7ZJ0yva6gZVTSisL2M) | [Evan Wilson](https://open.spotify.com/artist/1H1srU5gDv9BwYPIr1CHLL) | [Starlight Lullaby](https://open.spotify.com/album/2rSW61YmLoLvvtavClOqGD) | 3:39 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIrropGBmnR.md) - [plain]
 | 82 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 |
 | 83 | [Berceuse \(Arr\. For viola and piano\)](https://open.spotify.com/track/6tWg05l8fgCms52XX9qI2C) | [Frank Bridge](https://open.spotify.com/artist/7rj5B6cNPEJhWLnZAPSw9c), [Enikő Magyar](https://open.spotify.com/artist/5ofQKCICPwvadwzRKWYqwe), [Tadashi Imai](https://open.spotify.com/artist/32s7vjlyqSCLwqDvqkkTuw) | [The English Viola](https://open.spotify.com/album/5L28fof2nWQNBwMmDvxtDA) | 3:34 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDA0ZDAwMDAwMTgyMjMzNDM0OGIwMDAwMDE4MTk1NTUyMDg4`
+Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDAwMDMzZDdlNmM2M2Q0ZWIyZGMwMjJhODU0YzViYjMxZmRh`

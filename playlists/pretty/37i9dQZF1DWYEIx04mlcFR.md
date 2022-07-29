@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Pau Laggies\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,685 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,735 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 18 | [Recaídas](https://open.spotify.com/track/2Cg87BdrAzZpx4SnjpJPar) | [Alex Soto](https://open.spotify.com/artist/5pzb04LnJQrbs8U6qQ6KxC) | [Recaídas](https://open.spotify.com/album/32bUYoMwwEd85f12JyGPuz) | 3:24 |
 | 19 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
 | 20 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 |
-| 21 | [Monstruos \(está bn estar mal\)](https://open.spotify.com/track/3vy6XKN0Tn07cldEYEyA5Z) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/7oLzFFlnvINd5OZmmZXu8L) | 3:23 |
+| 21 | [Monstruos \(está bn estar mal\)](https://open.spotify.com/track/2aQ9TR46OFGE40DSGhxc5o) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 3:23 |
 | 22 | [Sanalö](https://open.spotify.com/track/4a3TYChLrUfnKgTjTxZYFB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Sanalö](https://open.spotify.com/album/18N5wazSsD3jkwYlT8AAem) | 3:27 |
 | 23 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 |
 | 24 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 28 | [Si Te Vas](https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz) | [Angie Vazquez](https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s) | [Recuerdo](https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8) | 3:41 |
 | 29 | [Capricho](https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Capricho](https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh) | 2:40 |
 | 30 | [Sal Dulce](https://open.spotify.com/track/30iT8kFeJiOX3SFkXmf8Zi) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Sal Dulce](https://open.spotify.com/album/1WtgHitKYHxiCuwZbcuAkg) | 3:04 |
-| 31 | [Se Fue la Luz](https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Se Fue la Luz](https://open.spotify.com/album/2PyA5iAknP3uOjZEgQjcgt) | 2:39 |
+| 31 | [Se Fue la Luz](https://open.spotify.com/track/2M4UXjgRjbQnS8s7lNR9g3) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:39 |
 | 32 | [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 |
 | 33 | [Masoquista](https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC) | [GS](https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs), [Kyke](https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA) | [Masoquista](https://open.spotify.com/album/73YWwyUtJaENgk27l5NVCY) | 3:30 |
 | 34 | [Se Mejor](https://open.spotify.com/track/7xzwjemhJHTVOPnKszuUSP) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Se Mejor](https://open.spotify.com/album/4Si5bChIgshhQOL4LBcmvQ) | 2:44 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 36 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
 | 37 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 |
 | 38 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 |
-| 39 | [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 |
+| 39 | [Ya Casi Te Olvido](https://open.spotify.com/track/3Mplc3LHNZRLKijTavtyCC) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/1W6H0omeMvwCRyWhFJaah6) | 2:14 |
 | 40 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 |
 | 41 | [Uhh](https://open.spotify.com/track/2GHHK3hWifjsUeclBJQztl) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [Uhh](https://open.spotify.com/album/1yJxGmisZygFEcaLSHxfl3) | 2:55 |
 | 42 | [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 57 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
 | 58 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
 | 59 | [FAKE](https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FAKE](https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq) | 2:40 |
-| 60 | [Milk](https://open.spotify.com/track/6iqyYirdtDEyRddvYNLvLE) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/1GvXakoTv3Lwt318NAMoUz) | 3:41 |
+| 60 | [Milk](https://open.spotify.com/track/100SnCUiirUNKx24j5GPe2) | [Adryanna Cauduro](https://open.spotify.com/artist/0eesQ8fqOKzv8DbP3mvnyR) | [Milk](https://open.spotify.com/album/7vpBsLWsTTL95qenZACghq) | 3:41 |
 | 61 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 62 | [Después De Ti](https://open.spotify.com/track/2oqayEwuda4Jq1yvkZaTEg) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [Después De Ti](https://open.spotify.com/album/3IayybkRsPhakKWLdY5Jsu) | 2:57 |
 | 63 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 74 | [20 Minutos](https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [20 Minutos](https://open.spotify.com/album/1IgtGBd7kISzw15xkFwllh) | 3:23 |
 | 75 | [Otro Día](https://open.spotify.com/track/0bUfdeUmiVzHSIT5l2NmGa) | [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x), [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt) | [Otro Día](https://open.spotify.com/album/1YAp4K65JOhGKRpbu1gnMb) | 2:39 |
 
-Snapshot ID: `MTY1ODUyNTg2MSwwMDAwMDA1NzAwMDAwMTgyMjdkODQ0OGEwMDAwMDE4MWY4YWU4MjU2`
+Snapshot ID: `MTY1ODUyNTg2MSwwMDAwMDAwMGE1YzJlOTk2NjhhNjA0M2Y4NzU2NzRhMjhiYzAxNzJj`

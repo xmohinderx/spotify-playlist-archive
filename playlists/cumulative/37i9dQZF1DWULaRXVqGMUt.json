@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Rockin' With Danny And The Juniors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0AL8t9Dy1L9nf1ZnBlLeLq"
+      },
+      "artists": [
+        {
+          "name": "Danny & The Juniors",
+          "url": "https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "At The Hop",
+      "url": "https://open.spotify.com/track/4LcrHUkRmXG3c0YD5VYutn"
+    },
+    {
+      "album": {
         "name": "The Very Best Of Boogie Woogie",
         "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183800,
       "name": "Barrelhouse Boogie",
       "url": "https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 181093,
       "name": "Blue Lamp",
       "url": "https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200040,
       "name": "Bluegrass Boogie Woogie",
       "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
@@ -258,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/6KS6VWpM7TyBTqvTRUH0eX"
+      },
+      "artists": [
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161933,
+      "name": "Boogie Woogie Bugle Boy",
+      "url": "https://open.spotify.com/track/3axPhcbhVDOA9MnhkUrFcE"
+    },
+    {
+      "album": {
         "name": "My Greatest Songs",
         "url": "https://open.spotify.com/album/2z3CI0VjXbaNlSjLxJUI4d"
       },
@@ -287,7 +323,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159853,
       "name": "Boogie Woogie Country Girl",
       "url": "https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM"
@@ -341,7 +377,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 162600,
       "name": "Boogie Woogie Man",
       "url": "https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ"
@@ -381,10 +417,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174400,
       "name": "Boogie Woogie Storm",
       "url": "https://open.spotify.com/track/7c9eAJXGMcz3cFfpbeNIwg"
+    },
+    {
+      "album": {
+        "name": "Boogie Woogie & Blues",
+        "url": "https://open.spotify.com/album/4YrU3QBn4Gcf5OkLbTM5jk"
+      },
+      "artists": [
+        {
+          "name": "Piano Connection",
+          "url": "https://open.spotify.com/artist/4Zi01wuCkRLBOOwg2cjQtp"
+        },
+        {
+          "name": "Marcs Boogie",
+          "url": "https://open.spotify.com/artist/2WzEFvuOPW5vOXX1RaBEBm"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128440,
+      "name": "Boogie-Woogie Man",
+      "url": "https://open.spotify.com/track/0C9052f6xUxR4EDOjAJclV"
     },
     {
       "album": {
@@ -489,10 +547,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163506,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "album": {
@@ -525,7 +601,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181470,
       "name": "Chicago Breakdown",
       "url": "https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG"
@@ -561,7 +637,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164880,
       "name": "Choo Choo Ch' Boogie",
       "url": "https://open.spotify.com/track/4vPJK1gKyygRS2mep7iyDq"
@@ -669,7 +745,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Five Stacked High",
       "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
@@ -709,6 +785,24 @@
       "duration_ms": 195746,
       "name": "Hastings St.",
       "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
+    },
+    {
+      "album": {
+        "name": "Ragtime Guitar's Foremost Fingerpicker",
+        "url": "https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN"
+      },
+      "artists": [
+        {
+          "name": "Blind Blake",
+          "url": "https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193466,
+      "name": "Hastings Street",
+      "url": "https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg"
     },
     {
       "album": {
@@ -782,6 +876,24 @@
     },
     {
       "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138933,
+      "name": "I Got It - Remastered",
+      "url": "https://open.spotify.com/track/10AUTRYAZyhFkC0TpkZlsC"
+    },
+    {
+      "album": {
         "name": "Return Of The Boogie Man",
         "url": "https://open.spotify.com/album/15eemntusUQL8JekIGa6KU"
       },
@@ -847,7 +959,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
@@ -883,7 +995,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
@@ -919,10 +1031,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167786,
       "name": "Let Me Go Home Whiskey",
       "url": "https://open.spotify.com/track/33343QHpDEcf022acPZMw8"
+    },
+    {
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Let Me Go Home, Whiskey",
+      "url": "https://open.spotify.com/track/2ia7Z1wNt0DqPLtUfuH4gA"
     },
     {
       "album": {
@@ -955,10 +1085,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240773,
       "name": "Mac's Boogie",
       "url": "https://open.spotify.com/track/5uCPicEYKIfJwThUgpHkZh"
+    },
+    {
+      "album": {
+        "name": "Dr. John Plays Mac Rebennack The Legendary Sessions V. 1",
+        "url": "https://open.spotify.com/album/2YmByjFIRpY2ZX3c8OHkHF"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241386,
+      "name": "Mac's Boogie",
+      "url": "https://open.spotify.com/track/2foLnOSkNrOT27RjE0LygE"
     },
     {
       "album": {
@@ -1170,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+    },
+    {
+      "album": {
         "name": "Complete Jazz Series 1938 - 1939",
         "url": "https://open.spotify.com/album/49qNKP9EtVam3jzG7eci5T"
       },
@@ -1181,7 +1347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171106,
       "name": "Roll 'Em, Pete (12-30-38)",
       "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
@@ -1311,10 +1477,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171613,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
+    },
+    {
+      "album": {
+        "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
+        "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172973,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
     },
     {
       "album": {

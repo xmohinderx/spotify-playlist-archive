@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: CATTY, Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,570 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,642 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 61 | [You Don't Decide](https://open.spotify.com/track/1C3JCbvpq16SArd3dxZw5s) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [You Don't Decide](https://open.spotify.com/album/5S5U2QOZo3o38mY0gVhj59) | 2:41 |
 | 62 | [Lost](https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL) | [W1ZE](https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5) | [Lost](https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w) | 2:32 |
 | 63 | [Teddy Bears](https://open.spotify.com/track/0OoYSngy0SJ9kJDECRlGcU) | [Yael Danon](https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5) | [Teddy Bears](https://open.spotify.com/album/4hKg8WMPV1LXG41C2j7vqi) | 2:50 |
-| 64 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 |
+| 64 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 |
 | 65 | [Never Cry](https://open.spotify.com/track/5yZiWdQm0ddWKdC4LsfwHk) | [ZIDA](https://open.spotify.com/artist/7nfMjFOi7usk7HzVnSvU1T) | [Never Cry](https://open.spotify.com/album/1V1BxPupSoTewZ02d8I8Vo) | 3:14 |
 | 66 | [california from the backseat](https://open.spotify.com/track/17vwIZ7XPQzJE91ljTjuM5) | [Molly Seger](https://open.spotify.com/artist/0WtS5MfE3iVJN9puXPCjJ9) | [california from the backseat](https://open.spotify.com/album/41uZXshRhF6F1ivv7l58F9) | 3:12 |
 | 67 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 |
 | 68 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 |
 
-Snapshot ID: `MTY1ODkzNjMwNSwwMDAwMDZhOTAwMDAwMTgyNDA0ZjI2YTAwMDAwMDE4MjNmZmNkYjg3`
+Snapshot ID: `MTY1ODkzNjMwNSwwMDAwMDAwMDcyODgwOWQxODBjZDY4MTA0M2U2YzY3MDQ4ZmI3OTcy`

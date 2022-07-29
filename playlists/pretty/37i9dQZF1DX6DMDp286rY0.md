@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 
 > Iconic South Asian women artists through the decades by Brown Girl Mag\. Cover: Arooj Aftab
 
-[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 57 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 259 likes - 57 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Agg Paniyan Ch](https://open.spotify.com/track/59Ib7akxdOoKgSQQTk5gHZ) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:09 |
 | 2 | [Mera Laung Gawacha](https://open.spotify.com/track/1AotoLk8PYywQGvJwSR62h) | [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Laung Gawacha\-87](https://open.spotify.com/album/30i3ln77pke20gB2FUNFUN) | 3:11 |
-| 3 | [Aaja Re O Mere Dilbar Aaja](https://open.spotify.com/track/1Qy389BaX0PMacTKn91rd7) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy) | [Noorie](https://open.spotify.com/album/0vNReVMlk56kLViavRtZ53) | 4:59 |
+| 3 | [Aaja Re O Mere Dilbar Aaja, Pt\. 1](https://open.spotify.com/track/585PqsRh32DTPvtqwc9ZCy) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy) | [Noorie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6oZrmwhsDClGA1JBFK1vQi) | 4:59 |
 | 4 | [Sanun Nahar Wale Pul](https://open.spotify.com/track/5Va8mH395NByfbTPyp2h1q) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Meri Pasand](https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76) | 4:16 |
 | 5 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 |
 | 6 | [SHOOK](https://open.spotify.com/track/5aeDAGaeHr0y5ptbETaSLR) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [SHOOK](https://open.spotify.com/album/6o6Tp3dt6FbIjMWVyyso6j) | 3:10 |
 | 7 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
-| 8 | [Jahaan](https://open.spotify.com/track/47CGDsaQM44K0gJbR418No) | [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV) | [Periphery](https://open.spotify.com/album/1LUJ31ze5l1iVtgja9RnUp) | 7:30 |
+| 8 | [Jahaan](https://open.spotify.com/track/6Pxrhqskh9MPzbjUw7dbGR) | [Priya Darshini](https://open.spotify.com/artist/0HBnj5wwxLtAYL6H66jKJV) | [Periphery](https://open.spotify.com/album/40zdNIAGaTYzi4YCkBehwH) | 7:30 |
 | 9 | [Love Someone](https://open.spotify.com/track/3ImRkWFQbM9nzmhEgmV9Uu) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [Love Someone](https://open.spotify.com/album/6vNTBVBsAGBQSUBzxffkwY) | 3:37 |
 | 10 | [Make You Mine](https://open.spotify.com/track/4Am9AJz2rKsUHR0rSi5WdQ) | [Rianjali](https://open.spotify.com/artist/4zxAliXk8NpmSIdRUepyOG) | [Make You Mine](https://open.spotify.com/album/4OyqQsIJ5p3laXhmQGT0mn) | 4:30 |
 | 11 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 | 40 | [Quin](https://open.spotify.com/track/5ibwk7cR7LcrLoFJ5BVrMa) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Quin](https://open.spotify.com/album/53fllTiXLavj8jOoPCG95L) | 3:41 |
 | 41 | [Kingdom](https://open.spotify.com/track/7kmIkBCH8KkxdV4RlMRt6J) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Amritha Shakti](https://open.spotify.com/artist/3qFny3pC23f3V8IHnomOL1) | [Kingdom](https://open.spotify.com/album/3XaqtBmW5tCFSHYjErfUuK) | 3:18 |
 | 42 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 |
-| 43 | [Please](https://open.spotify.com/track/6gAyFXHDjvYHI1hS4lfr0R) | [Kayan.a](https://open.spotify.com/artist/2weeRj5ZUYq2JCi9dibgMI) | [Please](https://open.spotify.com/album/3w78TRq603lH8LSpaiNagO) | 4:12 |
+| 43 | [Please](https://open.spotify.com/track/1ocrhGpnpeGHY9De9H9Me9) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [Please](https://open.spotify.com/album/3knFzemAlDfS4Onx9ZAAPv) | 4:12 |
 | 44 | [Regular](https://open.spotify.com/track/54L1AhfqKYHIE8MbRThUk8) | [Shalmali](https://open.spotify.com/artist/3dLYIcScA9XAMhqiPPDFhb) | [Regular](https://open.spotify.com/album/1rWmQY4m4m3l8bwVPoaPOk) | 3:50 |
 | 45 | [Rebirth](https://open.spotify.com/track/5xXH9muwYwlZsdOWddFUsB) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Rebirth](https://open.spotify.com/album/0NJAZcuYYU4SJ6ukTF3BSB) | 4:49 |
-| 46 | [Golden](https://open.spotify.com/track/5Q57K8b59QPtii8WPYotTY) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Golden](https://open.spotify.com/album/3yngjxrmoyB1TtZ92orTPC) | 3:10 |
+| 46 | [Golden](https://open.spotify.com/track/6xobdRLW94Da5k30NbRgcR) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Golden](https://open.spotify.com/album/4Vs4c4YLbyKpUTYi4X0Uke) | 3:10 |
 | 47 | [Running Back to You](https://open.spotify.com/track/2xuX1R3yerP1qq5y12RPGI) | [Anish Sood](https://open.spotify.com/artist/7qjp4poDA0EDaiCEKuH1ZQ), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs) | [Running Back to You](https://open.spotify.com/album/7zYN5MCxCjkciiw2dFG1Vh) | 4:51 |
 | 48 | [Ik Meri](https://open.spotify.com/track/0vaZ0wG3R6VCUw0zNTWdzD) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Harjas](https://open.spotify.com/artist/3k4uBgVKglN6x9l6nVW3O6), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ik Meri](https://open.spotify.com/album/6lEVLEPdozMRx7et9kBYAf) | 3:04 |
 | 49 | [Oceana](https://open.spotify.com/track/3D1EsytchUJD71KMNw9t4m) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG) | [Oceana](https://open.spotify.com/album/0SGYDcxdGZYptiA1J2G59H) | 3:16 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DMDp286rY0.md) - [plain]
 | 56 | [Powar](https://open.spotify.com/track/1JiINEupahTpPzZJboYCqY) | [Horsepowar](https://open.spotify.com/artist/3Ws0i8XWVxQEFvFE0KxHZe) | [Powar](https://open.spotify.com/album/3uUMRYpWmSUwOKyhWsPntr) | 3:06 |
 | 57 | [Heat](https://open.spotify.com/track/3Ylp1AzwAGvJahOWQhbCje) | [Archana](https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH) | [Heat](https://open.spotify.com/album/1H8hQTIYFcbUd2h4ggAPLo) | 2:49 |
 
-Snapshot ID: `MTY1ODczNDk5NiwwMDAwMDAwMzAwMDAwMTgyMzQ0ZjZhZmMwMDAwMDE4MjAxM2MwMGQ1`
+Snapshot ID: `MTY1ODczNDk5NiwwMDAwMDAwMDJiYzI1NmEzOWMwYmUxNWIyZDFiNGQ1MjA3OWJmYjM2`

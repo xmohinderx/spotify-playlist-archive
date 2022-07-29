@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-65 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
+66 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/7INFH95A083YlsLkQccAbs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Tu Não Sabes](https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Tu Não Sabes](https://open.spotify.com/album/3wcBnAfGTwOUbhOI4YTdlG) | 4:11 | 2022-07-05 |  |
 | [Vencedor](https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [M.a.D.H.P.](https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl) | 4:20 | 2022-07-05 |  |
 | [Vivi Good](https://open.spotify.com/track/6MLQRF8D7LsOvZwkt1UcZP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Vivi Good](https://open.spotify.com/album/2bqAN9XzrQnnspO2LBfMVp) | 3:34 | 2022-07-05 |  |
-| [Voodoo](https://open.spotify.com/track/2ZHF5RmjHVEbwhFO0TAGBT) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/68ja1B1UPyyUTLxwEug0pG) | 4:50 | 2022-07-05 |  |
+| [Voodoo](https://open.spotify.com/track/2ZHF5RmjHVEbwhFO0TAGBT) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/68ja1B1UPyyUTLxwEug0pG) | 4:50 | 2022-07-05 | 2022-07-29 |
+| [Voodoo](https://open.spotify.com/track/4siqPZx55JCfT7yhK19y9w) | [GROGNation](https://open.spotify.com/artist/1rtrFjartQj3xws8TZ1dXu), [Filipe Gonçalves](https://open.spotify.com/artist/63PA6qLxy0FJNUxT00SctL) | [Na Via](https://open.spotify.com/album/7eCky9hSeUAwE8tKWWordR) | 4:50 | 2022-07-05 |  |
 | [À Vontade \(feat\. Fínix MG\)](https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 5:36 | 2022-07-05 |  |
 | [Última Noite](https://open.spotify.com/track/0azjYhx3vaByBQfcvrq8BC) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Vale D´judeus](https://open.spotify.com/album/3R9nwoCU3HQEe2lDZZVJFx) | 3:03 | 2022-07-05 |  |
 

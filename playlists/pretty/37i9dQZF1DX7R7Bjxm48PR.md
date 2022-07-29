@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,907 likes - 113 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,934 likes - 113 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 58 | [Volare](https://open.spotify.com/track/0eLjghxjAToU8mKhUqx4LX) | [Luca Magliano](https://open.spotify.com/artist/6rTUmNm0j9cHKtFUBa57B7) | [Volare](https://open.spotify.com/album/2VxTB9hSRKD4tCZbTbePvi) | 2:52 |
 | 59 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 |
 | 60 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 |
-| 61 | [Forgiveness](https://open.spotify.com/track/4nAMkbTM9SlANHZPLOQjL6) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/2LOFsoK01oNsHb5pwmhQYa) | 2:15 |
+| 61 | [Forgiveness](https://open.spotify.com/track/0sDQdDOiYsL5Dzk1nxAJx2) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Forgiveness](https://open.spotify.com/album/0DMxxCIZOqkOczbtnzPP6L) | 2:15 |
 | 62 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 | 63 | [Contrarium](https://open.spotify.com/track/6tKXlqopEqZM7Z8CRsAJqv) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Contrarium](https://open.spotify.com/album/1mvbBV8QQiCehqTYFrnQFU) | 2:09 |
 | 64 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 112 | [Dreaming](https://open.spotify.com/track/2ehZXVH7qTOFxxDZymEffu) | [Sarah Neumann](https://open.spotify.com/artist/5alCiHBSrsl9QwRvp2ASy1) | [Dreaming](https://open.spotify.com/album/1izkq2wwDzUJJ2FpN3Bqza) | 2:50 |
 | 113 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 |
 
-Snapshot ID: `MTY1ODkyNzU5NSwwMDAwMDA1NjAwMDAwMTgyM2ZjYTNmMjgwMDAwMDE4MjNmYzhlNTUy`
+Snapshot ID: `MTY1ODkyNzU5NSwwMDAwMDAwMDNmMjY5ZDdiNmVjYWVjYWYzMzA2ODQ2MjA0NzY0OTdj`

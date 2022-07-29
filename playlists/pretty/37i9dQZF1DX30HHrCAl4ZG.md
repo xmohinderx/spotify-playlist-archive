@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The resurgence is real\. Cover: Beach Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,144 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,114 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 |
+| 1 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 2 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 3 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 4 | [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 19 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 |
 | 20 | [down bad](https://open.spotify.com/track/0vjpfpch27QUf1cUs4seDl) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/1i4wFUJBONFpNJLlDGnj56) | 3:11 |
 | 21 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 |
-| 22 | [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 |
+| 22 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 23 | [Looking For Something](https://open.spotify.com/track/3mwUT3bzPAfUlrmOEpkzof) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Looking For Something](https://open.spotify.com/album/3xz0bN9WajSRfvXnm7F9qy) | 3:09 |
 | 24 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 25 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 64 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 |
 | 65 | [Call Me Junior](https://open.spotify.com/track/6i40xnCskeEWHGqWjNv7I5) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Call Me Junior](https://open.spotify.com/album/4OF5G4ZW72busgHBEjiTXb) | 3:12 |
 | 66 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 |
-| 67 | [Awkward Conversations](https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Awkward Conversations](https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf) | 3:19 |
+| 67 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 |
 | 68 | [pretty funny](https://open.spotify.com/track/6f9T8Q6xqWEWTvp3P87Wjm) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pink Songs 2](https://open.spotify.com/album/5Hss6ml2F35xoVJzFmnicV) | 3:25 |
 | 69 | [No Proper Life](https://open.spotify.com/track/3m1qGLyr7OMyZLfTBKWT9S) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [No Proper Life](https://open.spotify.com/album/01iuegbl5telLk3B5Cl52p) | 2:45 |
 | 70 | [FIND OUT THE HARD WAY](https://open.spotify.com/track/3pizWVgN68SuzQhCbM3Ezw) | [Mickey Darling](https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz) | [FIND OUT THE HARD WAY](https://open.spotify.com/album/3Tec3OQhtgh9dBOGhNHrZo) | 3:10 |
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 72 | [Rushh](https://open.spotify.com/track/1MKgLYh5VC8n1wKyeMe20n) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Rushh](https://open.spotify.com/album/1pKT67ESmAHQsVxdfSRbsx) | 3:10 |
 | 73 | [Apartment Complex on the Eastside](https://open.spotify.com/track/2nm0J9sicQTiW8M8k2yZ4x) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [Apartment Complex on the Eastside](https://open.spotify.com/album/52bzMUfIaS9YeVADl51eoT) | 4:07 |
 | 74 | [Speeding 72](https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Speeding 72](https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn) | 3:58 |
-| 75 | [Bull Breed](https://open.spotify.com/track/6wndWnjI4UxLDBBu1XeHsC) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/1mee0IS1v4ushnhl91NdHC) | 2:52 |
+| 75 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 |
 | 76 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 |
 | 77 | [Empty in My Mind](https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:52 |
 | 78 | [Bones \(God Like You\)](https://open.spotify.com/track/0xn9TXLniq8n4GkxQt1ytH) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Bones \(God Like You\)](https://open.spotify.com/album/7hIA421q14FIPWmehwRJOZ) | 2:48 |
-| 79 | [Whales](https://open.spotify.com/track/6XTQ6FLLNseIvbTKJmnC5v) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/4BFqoaKETPgls6ZnLnakjp) | 3:29 |
-| 80 | [Cool It Kid](https://open.spotify.com/track/2KvjcVx96wldW06f1Mcqqx) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/2cJE54uYoeyw389ozjQlzE) | 3:30 |
+| 79 | [Whales](https://open.spotify.com/track/3AvcYRJN8D1l0FzuDn4RWR) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Whales](https://open.spotify.com/album/3YXFTOK6Jt2VnPAH4ZNuHm) | 3:29 |
+| 80 | [Cool It Kid](https://open.spotify.com/track/76BWUDhCL1ebKLnrvbKuVJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Cool It Kid](https://open.spotify.com/album/7qFFfbfWeCxuSJ21nAI64K) | 3:30 |
 | 81 | [Toothpaste](https://open.spotify.com/track/3lBeoTslcKeB6WXCWkiwCI) | [EXES](https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa) | [Toothpaste](https://open.spotify.com/album/7ARiMgXSFu7NnKtTXPWs5k) | 2:29 |
 | 82 | [Really Want to See You Again](https://open.spotify.com/track/7z5v8TAMxPtBgWaIlAyqri) | [more\*](https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i) | [Really Want to See You Again](https://open.spotify.com/album/06TWxGHNgdSYYlLa69FMln) | 3:57 |
-| 83 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/5iYv4Kj9EEBMJRoFOlJWeb) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/album/5bIbXSqZjr3m6DBm6t7HPQ) | 3:45 |
+| 83 | [Where Are You Now? \(feat\. girlhouse\)](https://open.spotify.com/track/6yqCz1a30TyBBkLQrAcs7L) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34), [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [Sonder](https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20) | 3:45 |
 | 84 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 |
 | 85 | [Think Nothing](https://open.spotify.com/track/2beHFbJTzHSDZ9smRsq9TK) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [Think Nothing](https://open.spotify.com/album/1pW4u5dnjaMZVMJHR4oIZ6) | 3:31 |
 | 86 | [Today](https://open.spotify.com/track/7ItKJuyZQ1MZaj7poaKqiX) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [Today](https://open.spotify.com/album/5Z04J4vKoqbTdcPMav6SPC) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Not Sure How This Ends](https://open.spotify.com/track/41In7wBGR95EZbSjqVAQy0) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Not Sure How This Ends](https://open.spotify.com/album/2uc7M2vFAjY3jNovTI7YAu) | 4:05 |
 | 100 | [Gelato](https://open.spotify.com/track/58n2RzBcdATtC4dHuX21G1) | [Moxie](https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF) | [Gelato](https://open.spotify.com/album/4bSFWzSi1Nsdcs0kvL6lz2) | 2:29 |
 
-Snapshot ID: `MTY1ODk0Mjk4MSwwMDAwMDBiMDAwMDAwMTgyNDBiNTA0NmYwMDAwMDE4MjI3Mjk4MDM4`
+Snapshot ID: `MTY1ODk0Mjk4MSwwMDAwMDAwMDNhYzQwNjA1NjAwZGUwNDMzODkxYjkxZmU2ZjE3YTA5`

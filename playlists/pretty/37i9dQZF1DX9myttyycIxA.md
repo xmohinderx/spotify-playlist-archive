@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Enumclaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,468 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,568 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 10 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 11 | [Soundtrack for Your Backseat](https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6) | [sundiver ca](https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi) | [Superstar Baby](https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX) | 2:42 |
 | 12 | [Sleep In](https://open.spotify.com/track/7xAh188KXyqSqxisi0HL2j) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y), [Small Crush](https://open.spotify.com/artist/5MpGrez01Tx9nl5YQ1Aseq) | [Sleep In](https://open.spotify.com/album/22TydprUERlmijzweFcqpb) | 3:28 |
-| 13 | [Empty in My Mind](https://open.spotify.com/track/7oqpMyBrfVsk5QBjDMhqOZ) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Empty in My Mind](https://open.spotify.com/album/345yVSKKqobwMLX3Is8Lmz) | 2:52 |
+| 13 | [Empty in My Mind](https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:52 |
 | 14 | [Structure](https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu) | [Odd Sweetheart](https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg) | [Odd Sweetheart](https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG) | 2:31 |
 | 15 | [Dust Bunny](https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Dust Bunny](https://open.spotify.com/album/4Bmym3tMCYlY08OIpYQAb3) | 3:06 |
 | 16 | [I'm Your Guy](https://open.spotify.com/track/6yyAzOnYFGhNP36GmMBhar) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [I'm Your Guy](https://open.spotify.com/album/0uFbiaBaOp69O5MgAa66PI) | 2:17 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 26 | [Freight Yard](https://open.spotify.com/track/4l7VPmnud43dlONU9P1qhO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Freight Yard](https://open.spotify.com/album/6M6NRC6YX7imXi2LdqSQAP) | 2:27 |
 | 27 | [Spinning Wheel](https://open.spotify.com/track/5LtKOTf6vq5lTYyYVA0U9o) | [Rat Tally](https://open.spotify.com/artist/7kLaLiBdbGiIC6jYwcpZbb) | [Spinning Wheel](https://open.spotify.com/album/2sMt2rmTEt87ZdJFwBlfho) | 3:35 |
 | 28 | [bulletproof](https://open.spotify.com/track/4YPMxwrIkYt4UgjKtTNZdl) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn), [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [bulletproof](https://open.spotify.com/album/2ia7IV4V3rGZH2Gi08IVuZ) | 4:12 |
-| 29 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 |
+| 29 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 |
 | 30 | [It's Only Sex](https://open.spotify.com/track/6dtPJwNdLuyVGPWyHOI6GP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Living While Starving](https://open.spotify.com/album/3egPQUSqrInRvbXxPqXQYm) | 4:43 |
 | 31 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 |
 | 32 | [Righter](https://open.spotify.com/track/7aX7tlZXkjTfR2fTPtk5uN) | [Julianna Zachariou](https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO) | [Righter](https://open.spotify.com/album/7p0eKTOpxUkB2SxWDJJ2Nu) | 3:56 |
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 40 | [Trading Doses](https://open.spotify.com/track/2r3vdfi8SmACLX7BOUqcgg) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Trading Doses](https://open.spotify.com/album/3LDWBlzWbvuVlgYnHkFPmq) | 2:51 |
 | 41 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 |
 | 42 | [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 |
-| 43 | [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 |
+| 43 | [Endless Afternoon](https://open.spotify.com/track/3AIt9LB3C7Jz99OnvVjbyv) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/1kSTHq1yseNNxYpM48o3ry) | 4:35 |
 | 44 | [You Have Got to Be Kidding Me](https://open.spotify.com/track/3kai81vBptYiDfb0QXHv5X) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [You Have Got to Be Kidding Me](https://open.spotify.com/album/0e0c5rz0pMLFvqR7bDyXtc) | 3:36 |
 | 45 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 |
 | 46 | [Greta Thunberg](https://open.spotify.com/track/7M78bLZK6OCHPDFGc4rgxw) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Greta Thunberg](https://open.spotify.com/album/0iOdHACwU4yd7oJHVNHn4k) | 4:04 |
 | 47 | [Ruby](https://open.spotify.com/track/1TpnOSWYogJ42c6ZcGrhzR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Ruby](https://open.spotify.com/album/2DCczRf9UGm6zbZoAMJUAf) | 3:03 |
-| 48 | [Feelings Meeting](https://open.spotify.com/track/3ZNZlQHZR4SrZf27DVJD0I) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/4Wvn9tVWMtVQESSBgfiu6y) | 3:59 |
+| 48 | [Feelings Meeting](https://open.spotify.com/track/6wnzgUPgQhLzlvv8UQWf64) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Feelings Meeting](https://open.spotify.com/album/3L7nYxjsSoPUxpXivTutSf) | 3:59 |
 | 49 | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 |
 | 50 | [If You Feel Alone At Parties](https://open.spotify.com/track/60mVBegbZZTphS4TzKCezF) | [Blvck Hippie](https://open.spotify.com/artist/0mUwpdl65QY5krTuVVDoZd) | [If You Feel Alone At Parties](https://open.spotify.com/album/5z4tK2lRjOTgtG0sxyaARZ) | 4:19 |
-| 51 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
+| 51 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 52 | [Never Go](https://open.spotify.com/track/374rtbOx5NrgRFC9811Ghf) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Hawaii](https://open.spotify.com/album/5IBX9xg8sHWHf3L5a3QvrE) | 2:36 |
 | 53 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 |
 | 54 | [Emily Says](https://open.spotify.com/track/7LXLkR8IHaqUgXHaJ8H0xh) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Emily Says](https://open.spotify.com/album/3Se8kw4yGvGjogLq0SQVuK) | 3:18 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 64 | [I've Wasted So Much Time](https://open.spotify.com/track/2FNL28i0Q3RkwSYKK1aC42) | [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Deep Cuts \(2011\-2014\)](https://open.spotify.com/album/7BYdha593w1BAdWGBhmtVA) | 2:44 |
 | 65 | [Afterglow](https://open.spotify.com/track/6aDXqeOAbR9Hxfr6rQe0Fo) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Fall into Place / Afterglow](https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0) | 3:18 |
 | 66 | [Superstar](https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:40 |
-| 67 | [Cheers](https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Cheers](https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR) | 3:15 |
-| 68 | [Lore](https://open.spotify.com/track/2xcLyLijuMGQ1GANkSQGQW) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Heatwave](https://open.spotify.com/album/7J9hfaMEeWHUpNVm7ePRB8) | 3:21 |
+| 67 | [Cheers](https://open.spotify.com/track/3ruYlsPdwqrvb6mEDcfUUP) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:15 |
+| 68 | [Lore](https://open.spotify.com/track/7fYMNO8W4OQUwdZoLwzhW2) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:21 |
 | 69 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 |
 | 70 | [Once More](https://open.spotify.com/track/3pI9rsup0vcma9YE0PI10t) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Once More](https://open.spotify.com/album/33MciQPUWvqtKSCb1WPRG7) | 3:24 |
 | 71 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 |
-| 72 | [Brooklyn Baby](https://open.spotify.com/track/4pV0fLXSZLHnEzPoOYX55T) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/4mBmTU89uQZ0BSufoeWTXK) | 3:34 |
+| 72 | [Brooklyn Baby](https://open.spotify.com/track/5mSyag0Wf98fKcWRxTbSqt) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Halfway / Brooklyn Baby](https://open.spotify.com/album/7JGOsvnA3RpWUIRlhjo1FU) | 3:34 |
 | 73 | [John, Take Me With You](https://open.spotify.com/track/1IbJOWFjQgHYwwwD4ScyqN) | [JW Francis](https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6) | [WANDERKID](https://open.spotify.com/album/1F6LrJHFfmVb9AqB3Q5Ajs) | 3:30 |
 | 74 | [vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [vampire](https://open.spotify.com/album/13WWTAEpg25HmUqtqpVI0P) | 2:40 |
 | 75 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 80 | [Aubade](https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Public Storage](https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S) | 3:31 |
 | 81 | [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 |
 | 82 | [The Knife](https://open.spotify.com/track/45ikoDZrTVZxfBQIJPCu0T) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain \(Deluxe\)](https://open.spotify.com/album/2nY1MSBmfCYBiVY0oa013l) | 3:31 |
-| 83 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 |
-| 84 | [Dig Your Hips](https://open.spotify.com/track/5aroHA8g1TCzTcMKSPdmgJ) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Dig Your Hips](https://open.spotify.com/album/7wpDIL0q82nUS58eOyOZrh) | 3:18 |
+| 83 | [Spin](https://open.spotify.com/track/18Werbtn3J54qXLZO2dKyo) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Running](https://open.spotify.com/album/2HyRggDYNOCkvoB3bOlkCY) | 3:32 |
+| 84 | [Dig Your Hips](https://open.spotify.com/track/60pbL1E7ekFuAwtW4UNAxv) | [THE BOBBY LEES](https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI) | [Hollywood Junkyard EP](https://open.spotify.com/album/3U9iSgIU0CJswpRQvcaVPk) | 3:18 |
 | 85 | [Sailboat](https://open.spotify.com/track/3A2HGVAzXJ2CTx84ZzKvn6) | [Martin Courtney](https://open.spotify.com/artist/4JuWruv1jBeWne0sJTUH3k) | [Sailboat](https://open.spotify.com/album/4aNcOIkxmGSpuVK01wQgD5) | 3:06 |
 | 86 | [Nighttime](https://open.spotify.com/track/6k2PZOispJqQSjU0ybvs5X) | [Cold Showers](https://open.spotify.com/artist/101BwjqEzjeBNjiYDnLZwC) | [Strength In Numbers](https://open.spotify.com/album/76AT5aTaXjOCvmgF170LSk) | 2:53 |
 | 87 | [Give It Away](https://open.spotify.com/track/6LikaQCnbNOvmmfdn67Vb2) | [Blue Dahlia](https://open.spotify.com/artist/2Ls6NaK9OMltk9EYI3UPcw) | [Give It Away](https://open.spotify.com/album/2GoYefIW9m1a2yFRmaBYdv) | 5:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 |
 | 100 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 |
 
-Snapshot ID: `MTY1ODYwMzk5MCwwMDAwMDEyMjAwMDAwMTgyMmM4MDZiZjkwMDAwMDE4MjIxNWU0YzYx`
+Snapshot ID: `MTY1ODYwMzk5MCwwMDAwMDAwMDY0MmFmMjAwNzllZGZiOTBjMTBiY2VhMzczMWRlNTE3`

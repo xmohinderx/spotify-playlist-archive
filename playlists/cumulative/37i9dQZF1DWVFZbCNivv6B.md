@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de La Santa Grifa y Santa Fe Klan.
 
-178 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+179 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 | 2022-01-28 | 2022-03-18 |
 | [Puesta a Punto](https://open.spotify.com/track/2s7PgpafvRvsBGOAgJN6Pd) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Puesta a Punto](https://open.spotify.com/album/1iZWwAhTs7yRvC29yIiX8r) | 2:12 | 2022-04-15 | 2022-05-14 |
 | [Pura Borrachera](https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pura Borrachera](https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6) | 3:24 | 2022-01-28 |  |
-| [Que Si Fumo Tanto](https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam) | 3:40 | 2022-01-28 |  |
+| [Que Si Fumo Tanto](https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL) | 3:40 | 2022-07-25 |  |
+| [Que Si Fumo Tanto](https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Que Si Fumo Tanto](https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam) | 3:40 | 2022-01-28 | 2022-07-29 |
 | [Quién Ganará?](https://open.spotify.com/track/7uZQXmWOuvBYDTnH0l5BO0) | [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD) | [Quién Ganará?](https://open.spotify.com/album/6pjL3hvLxhizEOEDOw1DGp) | 3:09 | 2022-02-09 |  |
 | [Quién No Llora](https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Quién No Llora](https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy) | 3:56 | 2022-01-28 |  |
 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 | 2022-01-28 | 2022-03-26 |

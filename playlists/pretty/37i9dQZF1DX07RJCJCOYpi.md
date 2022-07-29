@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Samantha Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,741,018 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,741,004 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 9 | [MAMIII \- kryptogram Remix](https://open.spotify.com/track/46Lqs8FqqomRGmRmpm1Adx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [MAMIII \(kryptogram Remix\)](https://open.spotify.com/album/60CnppsgEGpKhlT4xV5TGz) | 3:29 |
 | 10 | [Nazareno](https://open.spotify.com/track/0RGpd5zCowfEItCUF7Itpr) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Nazareno](https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU) | 3:43 |
 | 11 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 |
-| 12 | [Me Medicaron \(Remix\)](https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/2tHaAgiYRoqiE674uJRO1u) | 3:22 |
+| 12 | [Me Medicaron \- Remix](https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n) | 3:22 |
 | 13 | [Siempre Happy](https://open.spotify.com/track/3aGf3ECy05mRNhthHjqlif) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Siempre Happy](https://open.spotify.com/album/3XhOTcxYjY05zs0m9rFmD6) | 3:34 |
 | 14 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 15 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 35 | [Nómada \(Viic Remix\)](https://open.spotify.com/track/4D3XtP9njTq47nrc0VXs08) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Nómada \(Viic Remix\)](https://open.spotify.com/album/3L19MWTcbsLDK5SZzrlFiP) | 2:25 |
 | 36 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 |
 | 37 | [Loco Toditos](https://open.spotify.com/track/3PCnoYjmTmOEZvTOopA8nJ) | [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB) | [Loco Toditos](https://open.spotify.com/album/3fLplolZzEdJ0BCg6gx7jL) | 4:19 |
-| 38 | [Hace Calor \- Remix](https://open.spotify.com/track/0Wb0G3YcE4hY7LbF3ppEEQ) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2) | [Hace Calor \(Remix\)](https://open.spotify.com/album/3xqKPEu68JbqshG5UXdEcP) | 3:17 |
+| 38 | [Hace Calor \- Remix](https://open.spotify.com/track/7jfE42hjNY8zUuKKJlmBz6) | [Eme Sarav](https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Hace Calor \(Remix\)](https://open.spotify.com/album/4CYQ2m9siG9HnQwzadPkcP) | 3:17 |
 | 39 | [Fenix \- Radio Edit](https://open.spotify.com/track/1kATj4UD3ZO9EeiEyRXBx0) | [Leeb](https://open.spotify.com/artist/3OW9y2kM7N3BAEksWU2xZM), [Hidd Sage](https://open.spotify.com/artist/3d6BUISFDk2Nkb1NUOuTrc) | [Fenix \(Radio Edit\)](https://open.spotify.com/album/4OWOcaoeR6A6HmOfC2UYyQ) | 2:35 |
 | 40 | [Yo Las Pongo](https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Yo Las Pongo](https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF) | 3:11 |
 | 41 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 65 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 66 | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/track/7HqtpURyE5eUVY2mMImqTX) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [PAP \(Pendiente Al Paso\)](https://open.spotify.com/album/57hEnKIuvKtgQHrGid8ubd) | 2:44 |
 
-Snapshot ID: `MTY1ODUyMTE3MywwMDAwMDBlZjAwMDAwMTgyMjc5MGJmYWUwMDAwMDE4MWY4MjcyMzdl`
+Snapshot ID: `MTY1ODUyMTE3MywwMDAwMDAwMDM5YzJlNjY3MzJmOTkxNWE2ZThhODA5ZWFhMDdkNTUz`

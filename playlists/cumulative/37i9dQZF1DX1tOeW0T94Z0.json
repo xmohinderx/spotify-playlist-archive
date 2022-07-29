@@ -133,7 +133,7 @@
     {
       "album": {
         "name": "The Promise",
-        "url": "https://open.spotify.com/album/5Ix6MoBe5fqEiDpNRppYfD"
+        "url": "https://open.spotify.com/album/7a36clUB9EeYb5ATXyBfxb"
       },
       "artists": [
         {
@@ -146,7 +146,43 @@
       "date_removed": null,
       "duration_ms": 250266,
       "name": "Beautiful U R",
+      "url": "https://open.spotify.com/track/2CqREodaZD7NRmm2kJr9eZ"
+    },
+    {
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/5Ix6MoBe5fqEiDpNRppYfD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250266,
+      "name": "Beautiful U R",
       "url": "https://open.spotify.com/track/5oL0hajsnGW2U3UKvRFt6J"
+    },
+    {
+      "album": {
+        "name": "Been Gone",
+        "url": "https://open.spotify.com/album/7vcQYMWiFizYmCDWmdIGZ7"
+      },
+      "artists": [
+        {
+          "name": "Keshia Chant\u00e9",
+          "url": "https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Been Gone",
+      "url": "https://open.spotify.com/track/0MoFEIqW3QFpI4GjRx5FaW"
     },
     {
       "album": {
@@ -161,7 +197,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215653,
       "name": "Been Gone",
       "url": "https://open.spotify.com/track/52FaLhmuRVqaN0JsLTGrr5"
@@ -197,10 +233,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234066,
       "name": "Big",
       "url": "https://open.spotify.com/track/16rS604ZDQUYLk3ZuxkGzi"
+    },
+    {
+      "album": {
+        "name": "Lyrics of Fury III",
+        "url": "https://open.spotify.com/album/2gwIsI7l0bZgUSL8rqKYJu"
+      },
+      "artists": [
+        {
+          "name": "Brassmunk",
+          "url": "https://open.spotify.com/artist/0mkac0FVvXY3uiOvQlcmtj"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234066,
+      "name": "Big",
+      "url": "https://open.spotify.com/track/6iu1itsoivbwdTvqOARpVi"
     },
     {
       "album": {
@@ -273,7 +327,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223560,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5PjUBCqb7RRIjyFFauVgdO"
@@ -313,10 +367,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218680,
       "name": "Does He Love Me",
       "url": "https://open.spotify.com/track/1oRCQ6gqeNoNVU5TccwTjh"
+    },
+    {
+      "album": {
+        "name": "Keshia Chant\u00e9",
+        "url": "https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI"
+      },
+      "artists": [
+        {
+          "name": "Keshia Chant\u00e9",
+          "url": "https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/3onQYp8A0eHb3QSLH8QVcb"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218680,
+      "name": "Does He Love Me (feat. Foxy Brown)",
+      "url": "https://open.spotify.com/track/6gLB9QPbZW4Xh2J0QtQxdG"
     },
     {
       "album": {
@@ -331,10 +407,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201502,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/0TdUSXxl28407JyN2Qfq9D"
+    },
+    {
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/53Wfv9yLqFI3WdrtxtiXop"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201502,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/5WlbWmsrfhKiDKpZRmneBN"
     },
     {
       "album": {
@@ -389,10 +483,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257666,
       "name": "Everyday (Rudebwoy)",
       "url": "https://open.spotify.com/track/3rIbZ1ElW0ZFF646ZQrYTj"
+    },
+    {
+      "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/40Ns0bZ8vDcncxeRIfwN6Q"
+      },
+      "artists": [
+        {
+          "name": "Classified",
+          "url": "https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252720,
+      "name": "Fall From Paradise",
+      "url": "https://open.spotify.com/track/0H1OureTxinowEaDHuR3pp"
     },
     {
       "album": {
@@ -407,7 +519,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254240,
       "name": "Fall From Paradise",
       "url": "https://open.spotify.com/track/7kAXueG6HY1SvZh83vyyzP"
@@ -447,10 +559,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236680,
       "name": "Friendamine - Remix Featuring Nelly Furtado",
       "url": "https://open.spotify.com/track/2uJH9wXUWtW4MvtYw66NNn"
+    },
+    {
+      "album": {
+        "name": "Shawn Desman",
+        "url": "https://open.spotify.com/album/0LgImGjtNUnBfhItlG3wAw"
+      },
+      "artists": [
+        {
+          "name": "Shawn Desman",
+          "url": "https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215866,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/7Lqt33oY4CmJ7jhJixnuGm"
     },
     {
       "album": {
@@ -465,7 +595,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212866,
       "name": "Get Ready - Radio Mix",
       "url": "https://open.spotify.com/track/4ZquVZdCLvB4Bw5N45HLnK"
@@ -513,7 +643,7 @@
     {
       "album": {
         "name": "Exit",
-        "url": "https://open.spotify.com/album/71soQS4n0VxmBuQloSzBJ8"
+        "url": "https://open.spotify.com/album/5Ntdx21X8Q2n89CaGzRUlV"
       },
       "artists": [
         {
@@ -524,6 +654,24 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 235040,
+      "name": "Heaven Only Knows",
+      "url": "https://open.spotify.com/track/7oC1Re5KCCMms35bIL37rp"
+    },
+    {
+      "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/71soQS4n0VxmBuQloSzBJ8"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 236173,
       "name": "Heaven Only Knows",
       "url": "https://open.spotify.com/track/165UiigRYHINqCCE9CSd7S"
@@ -759,7 +907,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299786,
       "name": "Let Your Backbone Slide",
       "url": "https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC"
@@ -795,10 +943,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235440,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/1H0QMpLbKMdBgKZ2PMZqhO"
+    },
+    {
+      "album": {
+        "name": "Memoirs Of Blake Savage",
+        "url": "https://open.spotify.com/album/5c1Ln2nyfegHmx2oUOIpuV"
+      },
+      "artists": [
+        {
+          "name": "Choclair",
+          "url": "https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS"
+        },
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/4SDQdOCIMSbBr3s9R9RDY6"
     },
     {
       "album": {
@@ -849,7 +1019,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258386,
       "name": "Money or Love",
       "url": "https://open.spotify.com/track/6pkupgGf333srAF5a6nr7p"
@@ -874,6 +1044,28 @@
     },
     {
       "album": {
+        "name": "Desired Effect",
+        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "More Soup",
+      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
+      "album": {
         "name": "The Desired Effect",
         "url": "https://open.spotify.com/album/6KqThT2IhrDgaw07eEASyd"
       },
@@ -889,7 +1081,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131080,
       "name": "More Soup (feat. MF Doom)",
       "url": "https://open.spotify.com/track/3sITI1dXm6vOhCSF1FaZM9"
@@ -914,6 +1106,24 @@
     },
     {
       "album": {
+        "name": "Black History Month: Funk + Hip-Hop",
+        "url": "https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2"
+      },
+      "artists": [
+        {
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
+      "url": "https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9"
+    },
+    {
+      "album": {
         "name": "Danger \"The Hip Hop Collection 5\"",
         "url": "https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn"
       },
@@ -925,7 +1135,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224760,
       "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
       "url": "https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC"
@@ -1079,7 +1289,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204240,
       "name": "Old Skool Love",
       "url": "https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ"
@@ -1127,7 +1337,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274866,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi"
@@ -1289,10 +1499,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205040,
       "name": "Seven Day Fool",
       "url": "https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Seven Day Fool",
+      "url": "https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj"
     },
     {
       "album": {
@@ -1307,10 +1535,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262480,
       "name": "Smile For Me",
       "url": "https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N"
+    },
+    {
+      "album": {
+        "name": "Massari",
+        "url": "https://open.spotify.com/album/6SAaxSKtAf5ZQUEEs73l36"
+      },
+      "artists": [
+        {
+          "name": "Massari",
+          "url": "https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262480,
+      "name": "Smile For Me",
+      "url": "https://open.spotify.com/track/4g3pq8WKIeXJF3ogSxjPt3"
     },
     {
       "album": {
@@ -1343,10 +1593,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216426,
       "name": "Still Believe in Love",
       "url": "https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4VNVEhCQmoi0TD13SZ5D4D"
+      },
+      "artists": [
+        {
+          "name": "jacksoul",
+          "url": "https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Still Believe in Love - Remastered",
+      "url": "https://open.spotify.com/track/4a0PDBAWdsoJZyHKXfEr1X"
     },
     {
       "album": {
@@ -1388,6 +1656,24 @@
     },
     {
       "album": {
+        "name": "Atlantis - Hymns For Disco",
+        "url": "https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN"
+    },
+    {
+      "album": {
         "name": "Now! 12",
         "url": "https://open.spotify.com/album/7soKb31c9JTxBllcJ0J2KT"
       },
@@ -1399,7 +1685,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/66HIKVRPx41akQmPu6iQ6O"
@@ -1439,10 +1725,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254106,
       "name": "The Things You Do",
       "url": "https://open.spotify.com/track/0jWEe6HAltIU9Jr1rTANSO"
+    },
+    {
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/1TxrxojeqyWD6XcYeol4UH"
+      },
+      "artists": [
+        {
+          "name": "Jully Black",
+          "url": "https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "The Things You Do",
+      "url": "https://open.spotify.com/track/7tWFRBo5EOdbYK10EQ9h9k"
     },
     {
       "album": {
@@ -1483,10 +1787,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215440,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/0Zgb43gj2uE9whLC3rft8R"
+    },
+    {
+      "album": {
+        "name": "Keshia Chant\u00e9",
+        "url": "https://open.spotify.com/album/5DX2VIiIzs2YOxIwu5ladI"
+      },
+      "artists": [
+        {
+          "name": "Keshia Chant\u00e9",
+          "url": "https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "Unpredictable",
+      "url": "https://open.spotify.com/track/1TMoF9LBoN1FJ5VJUnDAcv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,185 likes - 83 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,211 likes - 83 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 31 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 |
 | 32 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 |
 | 33 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 |
-| 34 | [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 |
+| 34 | [Suburban Love](https://open.spotify.com/track/7yaIMTgpZ6LeYERcEfdjoU) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside EP](https://open.spotify.com/album/1pMz5XuqVY07Hhg96cZdlH) | 5:10 |
 | 35 | [Menjadi Dewasa](https://open.spotify.com/track/0GesyQ4yRafkQoXuA1VMcT) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 4:22 |
 | 36 | [Winter Holiday](https://open.spotify.com/track/0IxXRtwQGRBZTEYPmG00Ag) | [Olivetree](https://open.spotify.com/artist/0YrrDoXzukjGeE16uxqQft) | [Return of Strawberry Rock](https://open.spotify.com/album/5PsgYpiJfgCwkbfRUL97B2) | 3:15 |
 | 37 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 62 | [Lucky Man](https://open.spotify.com/track/4bT1XPdIz61IdDUXUwIXvj) | [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [Friends](https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb) | 2:36 |
 | 63 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 |
 | 64 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 |
-| 65 | [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 |
+| 65 | [Am I Robot?](https://open.spotify.com/track/2l8AE5XXmRW3jSPBjvlXA1) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt) | 3:39 |
 | 66 | [Ali Baba](https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb) | [Boys Are Toys](https://open.spotify.com/artist/1b2zga59ICvBeqJ9uuxuu5) | [Weah Weah of the Blah Blah](https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI) | 2:48 |
 | 67 | [Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa](https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS), [Ugoran Prasad](https://open.spotify.com/artist/0pLLozVOEXjYuEu4c4vuE8) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 6:27 |
 | 68 | [Love Saturday](https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Hypnagogic](https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F) | 4:05 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 82 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 |
 | 83 | [Memento Mori](https://open.spotify.com/track/4h1V3EVBYFin06loiFlWfK) | [Everybody Loves Irene](https://open.spotify.com/artist/2P7CyetvRetf7Lp4unDRoY) | [The Very First Thing You Must Learn About Flying Is Gravity](https://open.spotify.com/album/3AlH5nivhVfwEQxrZeAmS7) | 3:10 |
 
-Snapshot ID: `MTY1NjAwMzYwMCwwMDAwMDA0NDAwMDAwMTgxOTE4MTlmMGUwMDAwMDE4MThlYzMxNjVm`
+Snapshot ID: `MTY1NjAwMzYwMCwwMDAwMDAwMDEyYTBlODc2ZTQzZDhlZjhhMTE4MGFiZDZiNDdhYzk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453,262 likes - 239 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,453,660 likes - 239 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 220 | [Departing](https://open.spotify.com/track/6iVbAwerjjEoH5NnEfFkkn) | [Hilma](https://open.spotify.com/artist/3PZ2nsGkyVMdbQB6b3auut) | [Departing](https://open.spotify.com/album/2L8PDzXReUaVksMHgNd5HB) | 2:10 |
 | 221 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 |
 | 222 | [Repose](https://open.spotify.com/track/7DwWJ7pMpFV6gok50clx3F) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Nautilus](https://open.spotify.com/album/2VasJoI8fBf5tBhf6ozAKL) | 3:33 |
-| 223 | [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 |
+| 223 | [Suffer Well](https://open.spotify.com/track/31inlxQZ2PUHNM78dssqkF) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:32 |
 | 224 | [Gelborn Heights](https://open.spotify.com/track/5D1t5wq4NGB1Z1r0fkcscF) | [Guyara](https://open.spotify.com/artist/49T0DVfkGS1kA17BI3PGKF) | [Soft Slow Sleep](https://open.spotify.com/album/5BdtXhbR9aIZ2RL8NJy5HK) | 3:13 |
 | 225 | [Echoes](https://open.spotify.com/track/0KIZ5Ser293PTUtY1x6Gha) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Jocelyn](https://open.spotify.com/album/4WBRH5wwDwGnIHbuVHA1dO) | 3:14 |
 | 226 | [New Endings](https://open.spotify.com/track/2IAZza3wdiTYT8QtO0hbLv) | [Bon Vie](https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ) | [New Endings](https://open.spotify.com/album/4Ik0uGl3JExFkEeN2ut64W) | 3:08 |
@@ -246,6 +246,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 236 | [First Bridge](https://open.spotify.com/track/09g7JMQLhGPspMm1hfeqCc) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Bridge](https://open.spotify.com/album/7Gs6ZfwzjlcnXfcCfeykSL) | 2:08 |
 | 237 | [Elixir](https://open.spotify.com/track/3qdcjaWIyUvivaO5lcpe0J) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:24 |
 | 238 | [Insomniac](https://open.spotify.com/track/1CgE3BgULa6UIBk5R3fa7t) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Insomniac](https://open.spotify.com/album/2D97fLRbV4XVzCIWxKAObW) | 4:21 |
-| 239 | [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 |
+| 239 | [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 |
 
-Snapshot ID: `MTY1ODQ5ODYxMywwMDAwMDA5NzAwMDAwMTgyMjYzODgyODAwMDAwMDE4MTk1ZTE1N2Yw`
+Snapshot ID: `MTY1ODQ5ODYxMywwMDAwMDAwMDY3ODFlOTY5YjkwODMzOWU2MzMwM2JlNDlhYzYyZGRj`

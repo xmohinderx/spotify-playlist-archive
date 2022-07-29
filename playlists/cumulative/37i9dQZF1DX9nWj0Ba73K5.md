@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-198 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
+199 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/6gIQ4ulEp086lqaMqKxqFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Nashville, TN](https://open.spotify.com/track/0fLeL6TVmrMgDMW1iC1puo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:35 | 2022-02-28 |  |
 | [Neon](https://open.spotify.com/track/51oFJ8Q2KufbTRnBSfsDjX) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 3:40 | 2022-02-28 |  |
 | [New Wings](https://open.spotify.com/track/5S74K9DFZmkMYhr32h7Ica) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB) | [New Wings](https://open.spotify.com/album/2KejjW4UZgG4LejGToYi9S) | 3:28 | 2022-01-01 |  |
-| [Night Shift](https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/26xwbEdqscNEcQPrgDvW3Y) | 2:59 | 2022-01-01 |  |
+| [Night Shift](https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/26xwbEdqscNEcQPrgDvW3Y) | 2:59 | 2022-01-01 | 2022-07-29 |
+| [Night Shift](https://open.spotify.com/track/4iHI9yGjIiDe9tmOz6Zben) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/4b8lsGJcFSnRp6llbuFetG) | 2:59 | 2022-07-08 |  |
 | [No More of 'Em](https://open.spotify.com/track/42JOeAAVPFkUVjUckTTvbe) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [No More of 'Em](https://open.spotify.com/album/7tHHcmBNOH2LD0oNNYKAux) | 3:08 | 2022-02-28 |  |
 | [Nobody But You](https://open.spotify.com/track/64zyVTT5sn3a4tJB91xxJV) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Spotify Singles](https://open.spotify.com/album/6p3jqERMCdhHa8sanNqvUD) | 3:09 | 2022-01-01 |  |
 | [Norwegian Wood](https://open.spotify.com/track/5saf8apVFYfrvplj03r6Xb) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Once In a Lifetime](https://open.spotify.com/album/3ehKE8T72sMLO0epU7OiEc) | 2:54 | 2022-01-01 |  |

@@ -27,7 +27,7 @@
     {
       "album": {
         "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
       "artists": [
         {
@@ -38,6 +38,24 @@
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192039,
+      "name": "45 (A Matter Of Time)",
+      "url": "https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 192039,
       "name": "45 (A Matter Of Time)",
       "url": "https://open.spotify.com/track/7pAl6xhxJtpuekgzY1dmlE"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215151,
       "name": "America (You're Freaking Me Out)",
       "url": "https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l"
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "American Futbol",
       "url": "https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156070,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6lOU4O7bUiwhil19BLfzoc"
@@ -199,10 +217,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125066,
       "name": "Artificial Life",
       "url": "https://open.spotify.com/track/34AF92V6myQHXrkvRIT96d"
+    },
+    {
+      "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125066,
+      "name": "Artificial Life - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6oQ4aZWJ665RrhzhXrMZrm"
     },
     {
       "album": {
@@ -217,10 +253,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129293,
       "name": "Biggest Lie",
       "url": "https://open.spotify.com/track/4U6A9MsnMyDuLW7yLX9aMN"
+    },
+    {
+      "album": {
+        "name": "The Feel Good Record of the Year",
+        "url": "https://open.spotify.com/album/4u8maWk9uRQ7ipjkKTVHup"
+      },
+      "artists": [
+        {
+          "name": "No Use For A Name",
+          "url": "https://open.spotify.com/artist/5p3WimI9yquAF6Lqhlm4Ol"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "Biggest Lie",
+      "url": "https://open.spotify.com/track/4h39acKcAORSlCCbWEYhek"
     },
     {
       "album": {
@@ -307,7 +361,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 87800,
       "name": "Corruption",
       "url": "https://open.spotify.com/track/1FqwMgOMkIt0hD6luMRbkP"
@@ -361,10 +415,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196849,
       "name": "Don't Wait (ft. Sam Carter)",
       "url": "https://open.spotify.com/track/0qOyIp7uxZedcUIVp6BWmT"
+    },
+    {
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196849,
+      "name": "Don't Wait (ft. Sam Carter)",
+      "url": "https://open.spotify.com/track/2ClpbVJnjvYLpYqYhSnEkL"
     },
     {
       "album": {
@@ -383,6 +455,24 @@
       "duration_ms": 140534,
       "name": "Dry Season",
       "url": "https://open.spotify.com/track/2Lnywi4yWWkrGaSTaBy2ho"
+    },
+    {
+      "album": {
+        "name": "Peace in Our Time",
+        "url": "https://open.spotify.com/album/6CVCVNnYEWtJslKbJOFLDE"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140534,
+      "name": "Dry Season",
+      "url": "https://open.spotify.com/track/44uEz0HaEadUrgZefxyKl5"
     },
     {
       "album": {
@@ -415,7 +505,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 220372,
       "name": "Everyone Is Digital",
       "url": "https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0"
@@ -469,10 +559,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145466,
       "name": "Franco Un-American",
       "url": "https://open.spotify.com/track/00AgttKx4gRJghhPETFrOE"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan"
     },
     {
       "album": {
@@ -487,10 +595,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/0xekz0DISgwV4pa1Gt3ui2"
+    },
+    {
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Fuck Authority",
+      "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
     },
     {
       "album": {
@@ -505,10 +631,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 49146,
       "name": "Generational Divide",
       "url": "https://open.spotify.com/track/2LGzWTksEvSYehttpvrcTV"
+    },
+    {
+      "album": {
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49146,
+      "name": "Generational Divide",
+      "url": "https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9"
     },
     {
       "album": {
@@ -523,7 +667,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163991,
       "name": "Get Radical",
       "url": "https://open.spotify.com/track/4p9Og5GQGdXjowHppyV7hD"
@@ -559,7 +703,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 214306,
       "name": "Gold Jacket, Green Jacket...",
       "url": "https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ"
@@ -649,10 +793,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224866,
       "name": "Holiday In Cambodia",
       "url": "https://open.spotify.com/track/0uzyN8QWbPGpOQLAXh27El"
+    },
+    {
+      "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb"
     },
     {
       "album": {
@@ -685,7 +847,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 161909,
       "name": "If There Was Ever a Time",
       "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
@@ -797,7 +959,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142861,
       "name": "On You",
       "url": "https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN"
@@ -815,7 +977,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 204266,
       "name": "ONE OF US",
       "url": "https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9"
@@ -841,7 +1003,7 @@
     {
       "album": {
         "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
       },
       "artists": [
         {
@@ -852,6 +1014,24 @@
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Oxy Moronic",
+      "url": "https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 236026,
       "name": "Oxy Moronic",
       "url": "https://open.spotify.com/track/3Sp7KjYl7Wyh5GIq3AaXRz"
@@ -905,7 +1085,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203150,
       "name": "Pursuit of Liberty",
       "url": "https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw"
@@ -941,10 +1121,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204076,
       "name": "Reckless Paradise",
       "url": "https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq"
+    },
+    {
+      "album": {
+        "name": "Crisis Of Faith",
+        "url": "https://open.spotify.com/album/3PvuvoZpz2XWzVKMOi52hW"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204076,
+      "name": "Reckless Paradise",
+      "url": "https://open.spotify.com/track/6sQD8a5zZ09yA60YkeqDRS"
     },
     {
       "album": {
@@ -1031,7 +1229,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203533,
       "name": "Stand For Something Or Die For Nothing",
       "url": "https://open.spotify.com/track/1iYG0d4Kx2TvcFz94tc88C"
@@ -1247,10 +1445,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145041,
       "name": "The Left is Right",
       "url": "https://open.spotify.com/track/1VRYOxNMYRbUjEr0jvHzex"
+    },
+    {
+      "album": {
+        "name": "Payola",
+        "url": "https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU"
+      },
+      "artists": [
+        {
+          "name": "Desaparecidos",
+          "url": "https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145041,
+      "name": "The Left is Right",
+      "url": "https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut"
     },
     {
       "album": {
@@ -1283,7 +1499,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230556,
       "name": "The United States Of Amnesiacs",
       "url": "https://open.spotify.com/track/3e3yoJojwM7oTNMRn92pyN"
@@ -1301,10 +1517,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 228720,
       "name": "The Violence",
       "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
+    },
+    {
+      "album": {
+        "name": "The Great Depression",
+        "url": "https://open.spotify.com/album/45WKwINtVCtMqKuHPugbby"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "The Wounded World",
+      "url": "https://open.spotify.com/track/5PWwjq6cIC2371nou33rdn"
     },
     {
       "album": {
@@ -1319,7 +1553,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149335,
       "name": "They Burned Our Paintings",
       "url": "https://open.spotify.com/track/180iTipGq8HMcMMtmafPy0"
@@ -1355,7 +1589,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 161523,
       "name": "Tyranny",
       "url": "https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B"
@@ -1409,10 +1643,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195600,
       "name": "War Machine Breakdown",
       "url": "https://open.spotify.com/track/0ciJhEzq04b8at8PyKR1Hu"
+    },
+    {
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "War Machine Breakdown",
+      "url": "https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP"
     },
     {
       "album": {
@@ -1427,10 +1679,28 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175306,
       "name": "We're Not Alright",
       "url": "https://open.spotify.com/track/0OFqUFNG279tneIkKYcrft"
+    },
+    {
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175272,
+      "name": "We\u2019re Not Alright",
+      "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
     },
     {
       "album": {
@@ -1463,7 +1733,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210342,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2SlMmA5z4o2vjF5iG4KzXi"
@@ -1499,10 +1769,46 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237840,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/19tN5YqeliYlDMvwkBcfmY"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Cop, Bad Cop",
+          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Womanarchist",
+      "url": "https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn"
     },
     {
       "album": {

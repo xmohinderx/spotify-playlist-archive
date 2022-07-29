@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here
 
-60 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
+63 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3YgHxpdqRDtLNVGeLk32oI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 | 2022-06-24 |  |
 | [Maneno](https://open.spotify.com/track/26CBYYDZANC7IaaAXTJIS1) | [Betty Bayo](https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T) | [11th Hour](https://open.spotify.com/album/3H9GR3WPkAnmcCseOj9XmS) | 6:10 | 2022-06-24 |  |
 | [Mifupani](https://open.spotify.com/track/0C2cGCNAmY64HF7qI4Km1r) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Trust \- EP](https://open.spotify.com/album/7n7K6yc1AkF1aX7ONFSbBC) | 4:13 | 2022-06-24 |  |
-| [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 |  |
+| [Mimi Ni Wa Juu](https://open.spotify.com/track/13uQrjPPEOv9pVfTJm14LU) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/6OYWPLTZstNkzi8de2fRdB) | 3:50 | 2022-06-24 |  |
+| [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 | 2022-07-29 |
 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 |  |
 | [Moyo Wangu](https://open.spotify.com/track/2QhujhH9Sq63INScYDMa0Z) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Coeur à Coeur](https://open.spotify.com/album/49ssUVOK4uqFvzQyVHNFkh) | 5:09 | 2022-06-24 |  |
 | [MOYO WANGU BMM Yombo Vituka](https://open.spotify.com/track/6X7sY5M6IziPbUJyG0G2xl) | [FLSA\_ENTERTAINMENT](https://open.spotify.com/artist/4KxxxfPxkFJ2IbWfVMU1Ye) | [EASTER PASAKA YETU](https://open.spotify.com/album/2sYU0Di9FKjrdTBn1nYQ1S) | 8:18 | 2022-06-24 |  |
@@ -56,10 +57,12 @@
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/1cHVVMDu1J9pCWGHHoMkIA) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/5xpGzNwYqlCRs1ViZqZG7w) | 5:12 | 2022-06-24 |  |
 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 | 2022-06-24 |  |
-| [Umezungushwa Na Sifa](https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF) | [Paul Clement](https://open.spotify.com/artist/3Z9HW7fckNI8pKKuYcOaTg) | [Usiyeshindwa](https://open.spotify.com/album/1UHqfMQCDTRHXhdvWVaSvQ) | 9:58 | 2022-06-24 |  |
+| [Umezungukwa Na Sifa](https://open.spotify.com/track/6vR5SlKDAVTPGVfgtxR0Qs) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 9:58 | 2022-06-24 |  |
+| [Umezungushwa Na Sifa](https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF) | [Paul Clement](https://open.spotify.com/artist/3Z9HW7fckNI8pKKuYcOaTg) | [Usiyeshindwa](https://open.spotify.com/album/1UHqfMQCDTRHXhdvWVaSvQ) | 9:58 | 2022-06-24 | 2022-07-29 |
 | [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 | 2022-06-24 |  |
 | [Utukuzwe](https://open.spotify.com/track/1v2QEyebDcGuDyhfJPpInb) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 4:53 | 2022-06-24 |  |
-| [Victory Belongs To Jesus](https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS) | 5:44 | 2022-06-24 |  |
+| [Victory Belongs To Jesus](https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS) | 5:44 | 2022-06-24 | 2022-07-29 |
+| [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 | 2022-06-24 |  |
 | [Vinakamilika](https://open.spotify.com/track/2ZIO3PTsc9fPcReItUXTb3) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Vinakamilika](https://open.spotify.com/album/1rWb2lyPR9VE2kaJsFzYDA) | 6:53 | 2022-06-24 |  |
 | [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 |  |
 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 | 2022-06-24 |  |

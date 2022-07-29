@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,434 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,437 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 30 | [ON DAT SHIT](https://open.spotify.com/track/2EydGl5jyjAPC4vAfRHm2U) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black](https://open.spotify.com/album/0zGITDnaDBlBAyixXP7gJi) | 2:38 |
 | 31 | [Tip Toe](https://open.spotify.com/track/5gHZrIUjZ6eniUIrySkv6Y) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [Tip Toe](https://open.spotify.com/album/67xWUOuZs8Dx36kpES3x4w) | 1:45 |
 | 32 | [Realest Richest Youngin \(feat\. Peezy\) \- Remix](https://open.spotify.com/track/5cRy5wKhPyIIvWSggmAYXQ) | [Roddy Rackzz](https://open.spotify.com/artist/3ZSeyqIqi0nHehsiJmAwOd), [Peezy](https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK) | [Realest Richest Youngin \(Remix\)](https://open.spotify.com/album/5s5ugmBkZDh1STPrJlw2Jt) | 3:10 |
-| 33 | [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 |
+| 33 | [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 |
 | 34 | [misery](https://open.spotify.com/track/5cFXiQihay0YifuVEP2EZM) | [N A E](https://open.spotify.com/artist/0WEHW7Jj438ZB3defLALxw), [Plant Dad](https://open.spotify.com/artist/4d9YNqjpyFiMAuQjRZeE6n) | [misery](https://open.spotify.com/album/3pkkgfWY1QlvDDVIFGpcrg) | 3:27 |
 | 35 | [Wop](https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Wop](https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo) | 2:53 |
 | 36 | [IMONFOUR](https://open.spotify.com/track/6W2UHUILmqhwvmZKk10EJp) | [Airospace](https://open.spotify.com/artist/6gnWD8bGyUUn1H9j87F0B1) | [IMONFOUR](https://open.spotify.com/album/1pZP63ZmkHUfBICAg9SZkN) | 2:48 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 60 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
 | 61 | [Diet Coke](https://open.spotify.com/track/25vP1c6ZkWsR4ejonbGFDF) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/5GpWWoHvsz1y5HPZTFvxzD) | 2:59 |
 
-Snapshot ID: `MTY1ODUxNTYwOCwwMDAwMDAzZTAwMDAwMTgyMjczYmQ0ODQwMDAwMDE4MjI3M2FlM2Fh`
+Snapshot ID: `MTY1ODUxNTYwOCwwMDAwMDAwMDE0MzE3NzA2YjA4ZmU1OTEwMjA3MjU2NmZmYmFlMDJi`

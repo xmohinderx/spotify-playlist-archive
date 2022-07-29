@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,790 likes - 104 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,795 likes - 104 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 24 | [After You've Gone](https://open.spotify.com/track/1dtR7BTT8888rsckbuzwod) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [After You've Gone](https://open.spotify.com/album/5AqFZGWYwyvmg8t8EyvG1i) | 3:04 |
 | 25 | [Turn Out The Stars](https://open.spotify.com/track/15zfQfeiejDgAA8MAc7S8d) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Love Walked In](https://open.spotify.com/album/47lb71I4VeNVfdXZma2o3M) | 4:23 |
 | 26 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 |
-| 27 | [The Folks Who Live on the Hill \- Live](https://open.spotify.com/track/6Pt0wJ4tViQRRcZBKHx3qx) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/4P8bWmuZtipCFvNsnzGXLd) | 9:50 |
+| 27 | [The Folks Who Live on the Hill \- Live](https://open.spotify.com/track/7kSaXrHANOFv8iXgh2gvgA) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Progression: The Art of the Trio, Vol\. 5](https://open.spotify.com/album/6b6b4JqCmmzwD4enWK8lf0) | 9:50 |
 | 28 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 |
 | 29 | [Clear as Autumn Nights](https://open.spotify.com/track/2PVMfghJc3ayLHjGbGjg3J) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [This Is What I Want for Christmas](https://open.spotify.com/album/6auL7NTcuJr1TVvUcxizeV) | 5:01 |
 | 30 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 44 | [I Didn't Know What Time It Was](https://open.spotify.com/track/4xmNWf3u3LM9hu2noChFzA) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 8:59 |
 | 45 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 |
 | 46 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 |
-| 47 | [Melancholia](https://open.spotify.com/track/45oMeeXLzWDPsLowRyrskL) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Melancholia](https://open.spotify.com/album/7j75kLY17tahXwnAydXhv6) | 3:50 |
+| 47 | [Melancholia](https://open.spotify.com/track/2drDXmNLJUcNyrnpq9XVl0) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 3:50 |
 | 48 | [Come Rain or Come Shine](https://open.spotify.com/track/2QdenAOSAlaoMuQEUuDxj6) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Come Rain or Come Shine](https://open.spotify.com/album/1tFgyR4GBYlizU5mbU9hSN) | 3:45 |
 | 49 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 |
 | 50 | [From Dream to Dream](https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [New Time, New 'Tet](https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP) | 7:33 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 69 | [Deep In A Dream](https://open.spotify.com/track/18hwNCTbIso4xsWBUo0XlT) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv), [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Curtain Call](https://open.spotify.com/album/1BoPscUZWGRFtPeUdrXI1c) | 5:58 |
 | 70 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:25 |
 | 71 | [I've Got You Under My Skin](https://open.spotify.com/track/3YIGwxuPgjiJNWwlfd1rqQ) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 6:18 |
-| 72 | [Stay Around](https://open.spotify.com/track/5Ccyefda1pTeRCAg2kUIbX) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Stay Around](https://open.spotify.com/album/0gJttdGylOHGnQce4AQTlz) | 5:43 |
+| 72 | [Stay Around](https://open.spotify.com/track/2n5K7rSaUuj2KNzQjESGg6) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 5:43 |
 | 73 | [My Ideal](https://open.spotify.com/track/6G0UnjCnn674okDwLhYR6W) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [My Ideal](https://open.spotify.com/album/1VPyA2gRCqIEGIXf2wtOQ9) | 3:27 |
 | 74 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 |
 | 75 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 103 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 |
 | 104 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 |
 
-Snapshot ID: `MTY1NDg2MTg3NCwwMDAwMDA0OTAwMDAwMTgxNGQ3NDQzOGMwMDAwMDE4MTRkNzQwZWIx`
+Snapshot ID: `MTY1NDg2MTg3NCwwMDAwMDAwMGJiMWVkOGVlMGFiM2FmNGViNjViZDY5MTBiM2U0MTAz`

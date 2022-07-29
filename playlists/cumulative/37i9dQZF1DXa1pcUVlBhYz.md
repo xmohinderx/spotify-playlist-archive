@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: TSHA.
 
-159 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
+162 songs - 9 hr 23 min - [published](https://open.spotify.com/playlist/2TNmeY42vrKnq2dfH2dCEO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Colours](https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Colours](https://open.spotify.com/album/12iI9cnI21f6BfPsXGLdE9) | 2:41 | 2022-02-01 | 2022-06-18 |
 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 | 2022-06-17 |  |
 | [Currents](https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:37 | 2022-07-08 |  |
-| [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-25 |  |
+| [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-25 | 2022-07-29 |
+| [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-07-22 |  |
 | [Dancin In The D](https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:10 | 2022-02-01 |  |
 | [Demons](https://open.spotify.com/track/29jPMXHd2Yhpubhf1qHOcx) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Demons](https://open.spotify.com/album/4t92zAGms07Tr2S1DDh4ud) | 3:20 | 2022-06-17 |  |
 | [Diffusus](https://open.spotify.com/track/4FLZkM2KJn8kj5A4J03ooQ) | [Tygapaw](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq) | [Diffusus](https://open.spotify.com/album/5mJ9jkh3ufpXiCAzJtCrKf) | 3:55 | 2022-02-01 | 2022-04-29 |
@@ -148,7 +149,8 @@
 | [Ubumnandi \(feat\. Nia Pearl & MDU a.k.a TRP\)](https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [MDU aka TRP](https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR) | [KOA II Part 1](https://open.spotify.com/album/3DbMb03o8Wu2BCipvcdw7q) | 6:24 | 2022-06-17 |  |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-04-01 | 2022-07-09 |
 | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/track/6Z6TBLPEQbQBWH7H5pnsKv) | [Pologeff](https://open.spotify.com/artist/3iHdatC6QKi6NRQdZ7XgZj) | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/album/1msgtXkVkBmp54hJTXmQ4c) | 3:05 | 2022-02-01 |  |
-| [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-02-01 |  |
+| [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 | 2022-02-01 | 2022-07-29 |
+| [Unreplaceable](https://open.spotify.com/track/6MOGEJj9xkoW9cjVdfLeBR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/0mXGk4yEN4sdNOOVxL8VBH) | 2:58 | 2022-07-22 |  |
 | [Vibe for Me \- Famba Remix](https://open.spotify.com/track/4wID2wXMDMxykwOW0Qpw7V) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Vibe for Me \(Famba Remix\)](https://open.spotify.com/album/22mu9DtDkcQlTZZ8P5xw6k) | 2:25 | 2022-02-01 |  |
 | [Violin](https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [Vanice](https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb) | 1:49 | 2022-02-01 |  |
 | [Waiting For The Day](https://open.spotify.com/track/19WKcEuuC6QVm6C2DdJmQA) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Waiting For The Day](https://open.spotify.com/album/1s7vhmyQbJxsmdGlZOeNyr) | 4:28 | 2022-04-22 |  |
@@ -166,6 +168,7 @@
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 |  |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2022-02-01 |  |
 | [You Wanna?](https://open.spotify.com/track/6BRJxAgTCr7zCOmTkZuY2Q) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 3:35 | 2022-02-25 |  |
-| [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 | 2022-02-01 |  |
+| [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 | 2022-02-01 | 2022-07-29 |
+| [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2022-07-22 |  |
 
 \*This playlist was first scraped on 2022-02-25. Prior content cannot be recovered.

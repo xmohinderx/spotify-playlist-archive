@@ -137,7 +137,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202240,
       "name": "BAD CON NICKY",
       "url": "https://open.spotify.com/track/5bmSver2b3ZXyuyLKtgnFI"
@@ -243,10 +243,46 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158400,
       "name": "Baila Baila Baila",
       "url": "https://open.spotify.com/track/7uH27oIt4a6cIFCA8ZPcyG"
+    },
+    {
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Bebesita",
+      "url": "https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS"
     },
     {
       "album": {
@@ -311,7 +347,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "Bola Rebola",
       "url": "https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg"
@@ -329,7 +365,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "BYE ME FUI",
       "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
@@ -405,7 +441,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229455,
       "name": "Caro",
       "url": "https://open.spotify.com/track/6it15CsDlkqB7N4lF0C1qM"
@@ -475,7 +511,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212250,
       "name": "Con Chapa",
       "url": "https://open.spotify.com/track/1fbOmJiHlwmJb48VwdxaTO"
@@ -497,7 +533,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 202308,
       "name": "Conf\u00eda",
       "url": "https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq"
@@ -519,7 +555,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 224680,
       "name": "Contra La Pared",
       "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
@@ -575,7 +611,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 250169,
       "name": "Coronao Now (Remix)",
       "url": "https://open.spotify.com/track/047WmwIeerHyIUstFAEz5A"
@@ -667,7 +703,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249733,
       "name": "Dembow y Reggaeton",
       "url": "https://open.spotify.com/track/1U3CZqgtekCchvUXV6o9l1"
@@ -751,10 +787,28 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219402,
       "name": "El Boom",
       "url": "https://open.spotify.com/track/4D3RlFtxWG1vcgddoovAsN"
+    },
+    {
+      "album": {
+        "name": "El Boom",
+        "url": "https://open.spotify.com/album/3TMJdmoW3lPHunsISMexIW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219402,
+      "name": "El Boom",
+      "url": "https://open.spotify.com/track/4hir6efnLrA73d06HuLbZo"
     },
     {
       "album": {
@@ -841,10 +895,32 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219357,
       "name": "Ella Quiere Beber - Remix",
       "url": "https://open.spotify.com/track/2cYnZNzFRFK0H7vSNxPsUq"
+    },
+    {
+      "album": {
+        "name": "Ella Quiere Beber (Remix)",
+        "url": "https://open.spotify.com/album/58NQUIHQRJnXyBUeGtG8KG"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219357,
+      "name": "Ella Quiere Beber - Remix",
+      "url": "https://open.spotify.com/track/3f5lA8nnc4YYF1qf78WpHw"
     },
     {
       "album": {
@@ -1048,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184435,
+      "name": "HP",
+      "url": "https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3"
+    },
+    {
+      "album": {
         "name": "HP",
         "url": "https://open.spotify.com/album/4Z6UQR992qmvuH2WLBD1pT"
       },
@@ -1059,7 +1153,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184435,
       "name": "HP",
       "url": "https://open.spotify.com/track/31UjYv5vLsDkzchJOtUMtW"
@@ -1081,7 +1175,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210606,
       "name": "Ignorantes",
       "url": "https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct"
@@ -1111,7 +1205,7 @@
     {
       "album": {
         "name": "LOST",
-        "url": "https://open.spotify.com/album/0owN7Uk2MRirowjo9PQv14"
+        "url": "https://open.spotify.com/album/3bncOq9bM24eCefxlJvrtK"
       },
       "artists": [
         {
@@ -1126,6 +1220,28 @@
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 259600,
+      "name": "Jangueo",
+      "url": "https://open.spotify.com/track/1bRpSCFv6P2OUhciByeRYR"
+    },
+    {
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/0owN7Uk2MRirowjo9PQv14"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 259600,
       "name": "Jangueo",
       "url": "https://open.spotify.com/track/5m3jpKkgkfoMcym1qjToFg"
@@ -1143,7 +1259,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "Keii",
       "url": "https://open.spotify.com/track/5eEQCfq7MXQr6aHLNRUZLs"
@@ -1417,7 +1533,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300579,
       "name": "La Romana",
       "url": "https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv"
@@ -1468,6 +1584,32 @@
     },
     {
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185194,
+      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "album": {
         "name": "Loco Contigo (with J. Balvin & Tyga)",
         "url": "https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01"
       },
@@ -1487,7 +1629,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
@@ -1531,6 +1673,24 @@
       "duration_ms": 186723,
       "name": "Marianela",
       "url": "https://open.spotify.com/track/5AaHjij4q5xMPhOYoanpMP"
+    },
+    {
+      "album": {
+        "name": "Marianela",
+        "url": "https://open.spotify.com/album/3DcQWl5CYS0R81XMNYGNDS"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188760,
+      "name": "Marianela",
+      "url": "https://open.spotify.com/track/3NVvbKNndun3sfDKJANhw4"
     },
     {
       "album": {
@@ -1593,10 +1753,32 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201361,
       "name": "Mejor",
       "url": "https://open.spotify.com/track/1mF6sMUsRU9MisrdB9qWvg"
+    },
+    {
+      "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201361,
+      "name": "Mejor",
+      "url": "https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB"
     },
     {
       "album": {
@@ -1667,7 +1849,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210367,
       "name": "MIA (feat. Drake)",
       "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
@@ -1703,7 +1885,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213281,
       "name": "Mujer Satisfecha",
       "url": "https://open.spotify.com/track/2dSy7VwJsM9qEs5wAE9GJV"
@@ -1732,6 +1914,24 @@
     },
     {
       "album": {
+        "name": "Gangalee",
+        "url": "https://open.spotify.com/album/1PgFsarDcIwCvLX32DpcxB"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228760,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/0REjFxlMJRQxPqWSdmXiAT"
+    },
+    {
+      "album": {
         "name": "Nadie",
         "url": "https://open.spotify.com/album/78Oz14a9RQV82w94fQPUle"
       },
@@ -1743,7 +1943,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228760,
       "name": "Nadie",
       "url": "https://open.spotify.com/track/2VRVV7cvAGPJ2EBU4FIVCz"
@@ -1791,7 +1991,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240000,
       "name": "No Te Hagas la Loca",
       "url": "https://open.spotify.com/track/4NGbpyKrKMlJX4kP8iTQFJ"
@@ -1813,6 +2013,28 @@
       "duration_ms": 201226,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/4k9byIhs9ppbYWE22waJMB"
+    },
+    {
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252440,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/0stKSegkdrfLTDvm5sIO38"
     },
     {
       "album": {
@@ -1873,10 +2095,52 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/224EVTFiLsdQignUFLvDeH"
+    },
+    {
+      "album": {
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360960,
+      "name": "Pa M\u00ed - Remix",
+      "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
     },
     {
       "album": {
@@ -1899,7 +2163,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Pa' Lante",
       "url": "https://open.spotify.com/track/24wIxeVejXRhYJPrOFpJbg"
@@ -1932,6 +2196,24 @@
     },
     {
       "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+    },
+    {
+      "album": {
         "name": "Parecen Viernes",
         "url": "https://open.spotify.com/album/4hsmoagPCQS5oikGuuAPdN"
       },
@@ -1943,7 +2225,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268440,
       "name": "Parecen Viernes",
       "url": "https://open.spotify.com/track/62E8JJRtwOwU85uup9C5Ox"
@@ -1987,10 +2269,28 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121240,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/5LsUdPeqmKVGlPJre2sIRt"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123253,
+      "name": "Perreito",
+      "url": "https://open.spotify.com/track/5ecJFbbgmywVJkqGQIfcuo"
     },
     {
       "album": {
@@ -2047,7 +2347,7 @@
     {
       "album": {
         "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
       "artists": [
         {
@@ -2058,6 +2358,24 @@
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 187125,
+      "name": "Quiere Beber",
+      "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 187125,
       "name": "Quiere Beber",
       "url": "https://open.spotify.com/track/3rPAD722s5FFNnwjC91t7Z"
@@ -2122,6 +2440,24 @@
     },
     {
       "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184254,
+      "name": "Relaci\u00f3n",
+      "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
+    },
+    {
+      "album": {
         "name": "Relaci\u00f3n",
         "url": "https://open.spotify.com/album/378KGomt21mlfxD786uF7c"
       },
@@ -2133,7 +2469,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL"
@@ -2181,7 +2517,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
@@ -2199,7 +2535,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195291,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/04Oynte1xZfgnPh8kXhmE7"
@@ -2247,7 +2583,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217226,
       "name": "Rutina",
       "url": "https://open.spotify.com/track/3YntiCUU0Xqq0B68FM3YAt"
@@ -2395,7 +2731,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213913,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4T4CZ3Q4z3GG7lU720YYhM"
@@ -2439,10 +2775,48 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200045,
       "name": "Solteroski",
       "url": "https://open.spotify.com/track/0ETRyccZjuZBXoStGB5kc6"
+    },
+    {
+      "album": {
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305526,
+      "name": "Suave (Remix)",
+      "url": "https://open.spotify.com/track/4phvdPGXE8MGXsTBhqB5ht"
     },
     {
       "album": {
@@ -2477,10 +2851,44 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 305500,
       "name": "Suave (Remix) [feat. Bryant Myers, Jon Z, Miky Woodz, Noriel & Plan B]",
       "url": "https://open.spotify.com/track/4joSWXgF9JfbeVtsEA3Bb4"
+    },
+    {
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/3pOj4mmxL5MUwR1IR8LPzL"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "G.O Kings Bred",
+          "url": "https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce]",
+      "url": "https://open.spotify.com/track/0wt9RjddODlWDetpuaXfRK"
     },
     {
       "album": {
@@ -2507,7 +2915,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294146,
       "name": "S\u00fabete - Remix",
       "url": "https://open.spotify.com/track/05WXONH3xdiHxSu5DhpiEn"
@@ -2563,10 +2971,28 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/0aCTSZQTlmnjQucALTF00s"
+    },
+    {
+      "album": {
+        "name": "Tak Tiki Tak",
+        "url": "https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212406,
+      "name": "Tak Tiki Tak",
+      "url": "https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM"
     },
     {
       "album": {
@@ -2621,10 +3047,32 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
     },
     {
       "album": {
@@ -2643,10 +3091,28 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201818,
       "name": "Te Robar\u00e9",
       "url": "https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw"
+    },
+    {
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Te So\u00f1\u00e9 de Nuevo",
+      "url": "https://open.spotify.com/track/4oPnxZzoc8HM5Pva4FDeIp"
     },
     {
       "album": {
@@ -2683,10 +3149,28 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "album": {
+        "name": "Toco Toco To",
+        "url": "https://open.spotify.com/album/2CfH5pST5AjnE4MZsbdoFm"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181557,
+      "name": "Toco Toco To",
+      "url": "https://open.spotify.com/track/2od5sSNb5SsiYvlfsdx3UK"
     },
     {
       "album": {
@@ -2701,7 +3185,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182125,
       "name": "Toco Toco To",
       "url": "https://open.spotify.com/track/3JNYsAbOnTg1VhJEHYnrWm"
@@ -2793,7 +3277,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164307,
       "name": "Un Dia Si",
       "url": "https://open.spotify.com/track/5qRhzFjGqvJN9RSQRFV2J2"
@@ -2907,10 +3391,32 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192024,
       "name": "Vete",
       "url": "https://open.spotify.com/track/5DxXgozhkPLgrbKFY91w0c"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2020-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
     },
     {
       "album": {
@@ -2929,7 +3435,7 @@
       ],
       "date_added": "2020-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"

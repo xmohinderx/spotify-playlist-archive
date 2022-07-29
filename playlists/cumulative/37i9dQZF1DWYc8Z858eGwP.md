@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF\_zPqg">Victony</a>
 
-109 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+110 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Everything](https://open.spotify.com/track/4ZTfcSSj7D52KPzgetsqip) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA) | [Small World](https://open.spotify.com/album/2L3Bo8bYXwCxD1Njtmx80W) | 3:11 | 2021-05-03 | 2022-05-06 |
 | [Ex](https://open.spotify.com/track/352jbBYOtwkzJEMC2KkuiG) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [A Side Of Me](https://open.spotify.com/album/6A66i8kXtfeQqrFpRyW7Em) | 3:24 | 2022-05-05 |  |
 | [Fashion Week](https://open.spotify.com/track/0Deqz1Pwbek73HLmf51iH2) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Fashion Week](https://open.spotify.com/album/3hnr7QZ2QdaVZgJ6WqARqc) | 2:32 | 2022-05-05 |  |
-| [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-05-05 |  |
+| [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-05-05 | 2022-07-29 |
+| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-05-05 |  |
 | [For Here](https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [In Transit](https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly) | 2:56 | 2022-05-05 |  |
 | [For My Sanity](https://open.spotify.com/track/5niAmm5V1bj0wY4IVcwd3u) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [The Burning Tree](https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2) | 3:24 | 2022-05-05 |  |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-05-05 |  |
@@ -82,7 +83,7 @@
 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 | 2022-05-05 |  |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-10-08 | 2022-05-06 |
 | [Over U](https://open.spotify.com/track/5SevsJvmoSo9GGVllZerpe) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Salem](https://open.spotify.com/album/5uBSHGOMcYcVSBYTWl1hKZ) | 2:56 | 2021-10-14 | 2022-05-06 |
-| [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-05-05 |  |
+| [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 | 2022-05-05 | 2022-07-29 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-10-08 | 2022-05-06 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-05-05 |  |

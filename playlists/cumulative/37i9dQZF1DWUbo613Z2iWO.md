@@ -4,7 +4,7 @@
 
 > Make room for these R&B/Soul artists on the rise! Photo: India Shawn
 
-263 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+265 songs - 13 hr 53 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [BAD bad](https://open.spotify.com/track/6wl5IN0HxYpqPJiG9ipWHG) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/1FCP81Y40A1EJgRAn70Rk1) | 2:49 | 2022-07-15 |  |
 | [Bad Idea \(feat\. Blxst\)](https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 3:36 | 2022-06-03 |  |
 | [Be Without You](https://open.spotify.com/track/5vdSk60SVmxr2ISu17KHB5) | [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [Natasha Mosley](https://open.spotify.com/album/2ljiL5OmK8EXW21ROuggvz) | 3:25 | 2022-05-27 | 2022-07-16 |
-| [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 | 2022-07-15 |  |
+| [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 | 2022-07-15 | 2022-07-29 |
+| [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-15 |  |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
 | [Black Heart Emoji](https://open.spotify.com/track/3hjNGfXk2O3LQI0954F320) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Cure for Paranoia](https://open.spotify.com/artist/4YRwYMJHtjOnfqkDd8EJbk) | [Black Heart Emoji](https://open.spotify.com/album/0mGYrk3E3q9TLbczQHvOgt) | 3:52 | 2022-03-25 | 2022-04-16 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-12-15 | 2022-02-26 |
@@ -78,7 +79,8 @@
 | [Fall Back](https://open.spotify.com/track/1xsCnWpqy3pqj1jC85SyLQ) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [Fall Back](https://open.spotify.com/album/5xctb8qcs4uSvzv1xLEynn) | 3:00 | 2021-12-15 | 2022-03-12 |
 | [Far Away \(feat\. A$AP Rocky\)](https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:19 | 2021-12-15 | 2022-03-12 |
 | [Fearful](https://open.spotify.com/track/0KDcWe5Bd41CgtaUaRUXEW) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [Fearful](https://open.spotify.com/album/13AvOXQDWRgbfxhQW9wfAY) | 2:42 | 2022-05-13 | 2022-07-10 |
-| [Fed Up](https://open.spotify.com/track/21GWS3miLMjg8X0ceJjUO7) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/2hyzhEi1zQuamaUmM7dJNJ) | 2:33 | 2022-07-22 |  |
+| [Fed Up](https://open.spotify.com/track/0viobJwqYbzSAh9VtIVJVs) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/11vtZ9Rq13B9ThD5EJP9xG) | 2:33 | 2022-07-22 |  |
+| [Fed Up](https://open.spotify.com/track/21GWS3miLMjg8X0ceJjUO7) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/2hyzhEi1zQuamaUmM7dJNJ) | 2:33 | 2022-07-22 | 2022-07-29 |
 | [Feel Good](https://open.spotify.com/track/3JeZ3qlEKKuOccXYcm0ZDo) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Strawberry Moon](https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq) | 4:16 | 2022-06-17 |  |
 | [Feels Good](https://open.spotify.com/track/39p6WaVTnpsqNiGkRmXw9a) | [Jay Wile](https://open.spotify.com/artist/1VvjB8ztJLmmj2fyL4TkCU), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Somewhere in Mind](https://open.spotify.com/album/5lUwPajCLxdOdSAWNFiPqS) | 2:40 | 2022-01-28 | 2022-03-12 |
 | [Figure It Out](https://open.spotify.com/track/7nZDS9vvNuDBE3w1JQNx3c) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Figure It Out](https://open.spotify.com/album/4KM1PhBa0e4oYkn3qQ3xGt) | 2:51 | 2022-03-18 | 2022-04-09 |

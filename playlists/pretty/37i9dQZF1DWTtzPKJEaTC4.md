@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:4UpA1KitN1RgIZVyWDbZ0U">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,653 likes - 33 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,676 likes - 33 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 6 | [What's New In Baltimore?](https://open.spotify.com/track/0dW2aSS9ccD9vYJAENTkQh) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Frank Zappa Meets The Mothers Of Prevention](https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr) | 5:19 |
 | 7 | [WHATUP](https://open.spotify.com/track/7vr9frLcyCM4m6A4KS1sex) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [WHATUP](https://open.spotify.com/album/6mPWY9kVPFlpXTtxdwFUuO) | 2:28 |
 | 8 | [Inception](https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 4:28 |
-| 9 | [Senhoras Do Amazonas](https://open.spotify.com/track/7CdifPWUbMFMqfXtNBgXIj) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/1aFnx8gd49EklcjqQvLNrA) | 4:40 |
+| 9 | [Senhoras Do Amazonas](https://open.spotify.com/track/2VOrmfKu0TnhiZh5AeLseC) | [Sérgio Mendes](https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7) | [Brasileiro](https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb) | 4:40 |
 | 10 | [Alien Orifice](https://open.spotify.com/track/0skWyK2HW9kbD62et9oSxR) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Frank Zappa Meets The Mothers Of Prevention](https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr) | 4:10 |
 | 11 | [Endangered Species](https://open.spotify.com/track/0npvCDdj6yUw83ALCBniLM) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Atlantis](https://open.spotify.com/album/1NM09Xma6x8N9sb2H2ZJEc) | 4:47 |
 | 12 | [About 360](https://open.spotify.com/track/6hpF2l92QotSQaY7ssgue0) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Still Casual](https://open.spotify.com/album/3gcxm67F1CudCIxqIxbJsy) | 4:08 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 20 | [Spectrum](https://open.spotify.com/track/7qbSVmCBNqbMrUSDYKrCKs) | [The Tony Williams Lifetime](https://open.spotify.com/artist/056ewKKC7ayMJeL7y5h2cb) | [Emergency!](https://open.spotify.com/album/1waasXN8fMNbWh4xq7Akeg) | 8:51 |
 | 21 | [A Shifting Design](https://open.spotify.com/track/6LdDhxHQOsudyypBd5xBFa) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Star of Jupiter](https://open.spotify.com/album/7APtR02ltX46hAC5jZ8Kwx) | 5:59 |
 | 22 | [The Black Page \#1](https://open.spotify.com/track/4A8ERk42FbZrmUDDeewfco) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [LÄTHER](https://open.spotify.com/album/3o1ccFPWBiGFbflfAWQ8L5) | 1:57 |
-| 23 | [Blackkk](https://open.spotify.com/track/6bHorlL4WAz2BtQz3ubDr1) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue) | 1:59 |
+| 23 | [Blackkk](https://open.spotify.com/track/2YzOFeQ8ZtgZG6pHDXPMQi) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 1:59 |
 | 24 | [Oh No](https://open.spotify.com/track/156dhtf7IUH1Eu9lS4AtlO) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Zappa Original Motion Picture Soundtrack](https://open.spotify.com/album/391z2l9eAfCttmdvE4O5LP) | 1:45 |
 | 25 | [Flim](https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 |
 | 26 | [Conception](https://open.spotify.com/track/1LKQbtkCbtjcIm2BwsHf1Q) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [Piano Interpretations](https://open.spotify.com/album/5lhA0QNprEfnDsH15udB9R) | 3:36 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 | 32 | [Pick Yourself Up](https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:11 |
 | 33 | [Have You Heard \- Live Version](https://open.spotify.com/track/7KfUZiQgcaUxoabDoF3vfy) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [The Road to You](https://open.spotify.com/album/6zhcd9npDiEUGn66l1lzSU) | 6:47 |
 
-Snapshot ID: `MTY1NzI5NDQwMiwwMDAwMDAyNTAwMDAwMTgxZGU3MWIzNGIwMDAwMDE4MTZjZDQ5ZWY2`
+Snapshot ID: `MTY1NzI5NDQwMiwwMDAwMDAwMDc3NGE5Njc1MjZkZTE2Y2U3ZDVjN2FkMjA2MmUxMGQ1`

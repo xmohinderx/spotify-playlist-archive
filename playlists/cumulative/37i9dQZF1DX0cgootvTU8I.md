@@ -4,7 +4,7 @@
 
 > Jungle is still massive
 
-89 songs - 7 hr 28 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
+93 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/5ESlyfMOh8TLILYBOWB5nc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,14 +44,18 @@
 | [Gimme the Loot](https://open.spotify.com/track/137WnFeesPp2yE0dJavANT) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Come & Reprazent / Gimme the Loot](https://open.spotify.com/album/2bTbgIQuoYmthIfpkz0pcp) | 5:18 | 2022-05-05 |  |
 | [Going In](https://open.spotify.com/track/3MlG2c9fZWbJVB6vI2izmy) | [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [Going in / Shadows](https://open.spotify.com/album/2NHxCLvarSGfVxZKj0p9G2) | 3:53 | 2022-05-05 |  |
 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 | 2022-05-05 |  |
-| [Good Time](https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd) | 4:37 | 2022-05-05 |  |
+| [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 | 2022-05-05 |  |
+| [Good Time](https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd) | 4:37 | 2022-05-05 | 2022-07-29 |
 | [H to the A to the R to the D to the C to the O to the R to the E](https://open.spotify.com/track/4iZJ48KwVMbTh8ws83eveN) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Interplanetary Radio](https://open.spotify.com/album/67B6T69LntdjyE7s17E5wk) | 5:07 | 2022-05-05 |  |
 | [Hood Mentality](https://open.spotify.com/track/0yjYd6ZSpua1KC54BhEupz) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Foul Play EP](https://open.spotify.com/album/2WJYBIppdkigTnRgWlQxtE) | 4:24 | 2022-05-05 |  |
-| [Infrasound](https://open.spotify.com/track/1Q2oiVvZ0DTdd2lBLiPULV) | [Spectre](https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c) | [Infrasound](https://open.spotify.com/album/5TjvVmeJULJUSSWMZUL8US) | 4:59 | 2022-05-05 |  |
+| [Infrasound](https://open.spotify.com/track/1CRorGbPh3yiMlENqQYX6s) | [Spectre](https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c) | [Infrasound](https://open.spotify.com/album/1Z0JNGkLgVQVhXU3ZlhGD4) | 4:59 | 2022-05-05 |  |
+| [Infrasound](https://open.spotify.com/track/1Q2oiVvZ0DTdd2lBLiPULV) | [Spectre](https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c) | [Infrasound](https://open.spotify.com/album/5TjvVmeJULJUSSWMZUL8US) | 4:59 | 2022-05-05 | 2022-07-29 |
 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 | 2022-05-05 |  |
-| [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2022-05-05 |  |
+| [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2022-05-05 | 2022-07-29 |
+| [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 | 2022-05-05 |  |
 | [Keep Up](https://open.spotify.com/track/1tBDA0pRMz4YZ0vialUuBS) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [SP:MC](https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2) | [Keep Up](https://open.spotify.com/album/5qr55cE8aHiPVwlAzh0Sdn) | 4:27 | 2022-05-05 |  |
-| [LA](https://open.spotify.com/track/11dDBAYvh97embjsF3qEK0) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Won't U / LA](https://open.spotify.com/album/76cHJ6oDPqYpf3HaaNlvUN) | 4:30 | 2022-05-05 |  |
+| [LA](https://open.spotify.com/track/11dDBAYvh97embjsF3qEK0) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Won't U / LA](https://open.spotify.com/album/76cHJ6oDPqYpf3HaaNlvUN) | 4:30 | 2022-05-05 | 2022-07-29 |
+| [LA](https://open.spotify.com/track/66WrKlrNWu3GAGerC3W59U) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Won't U / LA](https://open.spotify.com/album/2qcoRLFUcc0boZmkEyZHL9) | 4:30 | 2022-05-05 |  |
 | [Let It Go](https://open.spotify.com/track/5evTHtRKFyH8S4sb9dQqzg) | [T>I](https://open.spotify.com/artist/0MDSr2KF63ydZmcqIvSPR3) | [The Locksmith EP](https://open.spotify.com/album/0QfPlN0yjGVG5R2bvyVpuy) | 5:58 | 2022-05-05 |  |
 | [Let It Slide](https://open.spotify.com/track/45CXdDHgb5u5oylgMa13RJ) | [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Let It Slide / I Don't Know What The Future Brings](https://open.spotify.com/album/58t3SDOmzGkRR5386CH1k8) | 4:11 | 2022-05-05 |  |
 | [Lewk](https://open.spotify.com/track/2EHWtMeeXYRDpIR3TpSqSw) | [Phace](https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5) | [Lewk](https://open.spotify.com/album/1hZfh1DsN0QO1bTHuPyoCC) | 4:00 | 2022-05-05 |  |

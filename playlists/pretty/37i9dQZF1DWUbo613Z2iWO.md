@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: India Shawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,145 likes - 64 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,168 likes - 64 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 4 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 |
 | 5 | [The Web](https://open.spotify.com/track/4trYiL7jQ4KvqWOQiIgSDR) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:07 |
 | 6 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
-| 7 | [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 |
+| 7 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 |
 | 8 | [Call Me](https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Call Me](https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb) | 3:06 |
 | 9 | [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/6GmficOc27L6sOU77yehvW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 2:56 |
 | 10 | [Friends](https://open.spotify.com/track/6r5jZYV9v3Nt9sDD9RQCpE) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Friends](https://open.spotify.com/album/7LQ1EmfKNJSvvWC5mCGuPE) | 4:10 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 39 | [Real Love](https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [We're Gonna Be Just Fine](https://open.spotify.com/album/4n0an2l1BBvhFglpv1JTkM) | 3:09 |
 | 40 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 |
 | 41 | [trust \(feat\. RINI\)](https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [trust \(feat\. RINI\)](https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh) | 3:17 |
-| 42 | [Fed Up](https://open.spotify.com/track/21GWS3miLMjg8X0ceJjUO7) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/2hyzhEi1zQuamaUmM7dJNJ) | 2:33 |
+| 42 | [Fed Up](https://open.spotify.com/track/0viobJwqYbzSAh9VtIVJVs) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Pain Never Looked This Good \(Day\)](https://open.spotify.com/album/11vtZ9Rq13B9ThD5EJP9xG) | 2:33 |
 | 43 | [Happy Lonely Boy](https://open.spotify.com/track/5pEsbKaHJ0IrCiaGulBFBp) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Happy Lonely Boy](https://open.spotify.com/album/0E8tk6z5nzJUZAfKsC6Wck) | 2:15 |
 | 44 | [What's A Monday](https://open.spotify.com/track/3r3TNewGNpl7zKgzk9nYTJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [What's A Monday](https://open.spotify.com/album/6HfUGBPpQSsqAFDOAIzct1) | 2:33 |
 | 45 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 63 | [Summer's Gone](https://open.spotify.com/track/5quogPZVWEjwBJoiEwTcZR) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Casper Sage](https://open.spotify.com/album/5DAYEhp2PPv7eDL5UTf4vr) | 3:21 |
 | 64 | [What's Good](https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [What's Good](https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m) | 2:58 |
 
-Snapshot ID: `MTY1ODQ2MzMxOSwwMDAwMDAzODAwMDAwMTgyMjQxZGY3ODYwMDAwMDE4MjI0MWQ2Y2Fj`
+Snapshot ID: `MTY1ODQ2MzMxOSwwMDAwMDAwMGZiNjg1ODAwOGQyMjRhMTQ5YjBkYjUxYTQwNzQxMGRl`

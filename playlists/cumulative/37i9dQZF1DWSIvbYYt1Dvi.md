@@ -4,7 +4,7 @@
 
 > bin e rd é AULAS
 
-100 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
+101 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 | 2022-01-14 |  |
 | [Fica Até Umas Hora](https://open.spotify.com/track/7xga0gWCTSUpU7Uz5pldQS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/76mwd2KXWLCHumse2wW7Eq) | 3:48 | 2022-06-10 |  |
 | [Fora de Si \- Spotify Singles](https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fora de Si \- Spotify Singles](https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN) | 2:16 | 2022-02-07 | 2022-03-12 |
-| [Fragrância \- Remix](https://open.spotify.com/track/76E9YSvgci2hPaNFy3XZu1) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:51 | 2022-01-14 |  |
+| [Fragrância \- Remix](https://open.spotify.com/track/76E9YSvgci2hPaNFy3XZu1) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/0YpnBZ9kBPcGzoonbHZFaS) | 2:51 | 2022-01-14 | 2022-07-29 |
+| [Fragrância \- Remix \(feat\. PL Quest\)](https://open.spotify.com/track/5oRfOSWWJMkAcxBxnLxRN7) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Offlei Sounds](https://open.spotify.com/artist/7Kqcr4CkcQHjHiw3aPfFkC), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM) | [Atg Tape](https://open.spotify.com/album/7jKnLvcgsCQZuwpW3xJwVo) | 2:51 | 2022-07-04 |  |
 | [Fênix](https://open.spotify.com/track/0YYpDFN3kXT9dHspUkoi3z) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Rick Beatz](https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9) | [Melhor Momento](https://open.spotify.com/album/6kIoVuFEULMVH6bM7u7aVI) | 3:30 | 2022-01-14 | 2022-01-22 |
 | [Groupies](https://open.spotify.com/track/3ua3rqwBNmeGeQfcKnA3bT) | [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Groupies](https://open.spotify.com/album/6GyknQiPJF4HKS85cxB5Wi) | 2:44 | 2022-01-14 | 2022-03-18 |
 | [HERMÈS](https://open.spotify.com/track/65YQv0Ulsp2ZnL0Uv4l6Nu) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs) | [HERMÈS](https://open.spotify.com/album/1T8ofDIXhsAiB6jN9cxtcG) | 2:51 | 2022-01-14 |  |

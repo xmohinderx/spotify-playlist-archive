@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,112 likes - 105 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,113 likes - 105 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 9 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
 | 10 | [Happy](https://open.spotify.com/track/5V3T4m5Ak4wjfON9SekdYE) | [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1) | [A Colorful World](https://open.spotify.com/album/3rjX6PHBw0KW8aqhxxQXfc) | 3:02 |
 | 11 | [You Are Magic](https://open.spotify.com/track/5c2pIV0J5Jn7NtYfxYOHN1) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/1iBE3NdOlXJA9NUaAUD685) | 3:44 |
-| 12 | [Like Nobody Else](https://open.spotify.com/track/7Dyvh9iPegx9fy94brVfdz) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats: Like Nobody Else](https://open.spotify.com/album/2GNSfXk2BurMZgd201FYI1) | 1:40 |
+| 12 | [Like Nobody Else](https://open.spotify.com/track/4ab5Xa3DF4gm6heuhTvqr9) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [Tha Vill](https://open.spotify.com/artist/6NJ76YwhayxlWaCVMEzWIP) | [Big Heart Beats](https://open.spotify.com/album/3YzyCeKKhM8zFyxIc4C36M) | 1:40 |
 | 13 | [Hide and Seek](https://open.spotify.com/track/0x8qnlBomm4AaM4U0CYMsK) | [The Zing Zangs](https://open.spotify.com/artist/2SWcpBbgCZbpKV3FtGafez), [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt) | [Hide and Seek](https://open.spotify.com/album/186DtJ2hwhU7n0zCkc7URN) | 2:40 |
 | 14 | [Like This \- Who Where When Song](https://open.spotify.com/track/2z14Jx8XX75RQWImFgS7KB) | [Lingokids](https://open.spotify.com/artist/4JQisAFPMKPhssPnbV8l3O) | [Like This \(Who Where When Song\)](https://open.spotify.com/album/6PkSiM97Oc4ib8EPHil30T) | 2:41 |
 | 15 | [Dance with Me](https://open.spotify.com/track/4MKQfMCmqgJDKfON4yvIfT) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:49 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 87 | [Crayon Kids](https://open.spotify.com/track/4M3nufr1L2tt1U1ISbOIiO) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Crayon Kids](https://open.spotify.com/album/68ytofYrtp1M86bkZsC01y) | 4:31 |
 | 88 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 |
 | 89 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 |
-| 90 | [Hey Little Heart](https://open.spotify.com/track/2ZJVZ8DSgcyz5qAqpkhmJv) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/18p9FPbUlOrXgquY9xucjs) | 2:41 |
+| 90 | [Hey Little Heart](https://open.spotify.com/track/7lNWxEfi2bySX6IaPwX4GE) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [In My Garden](https://open.spotify.com/album/2D8ZsWo3AN7YzzmUYVbAA3) | 2:41 |
 | 91 | [Sing Out](https://open.spotify.com/track/4EKSLfEacTdoqOA9W0Y9JS) | [Peanut Butter Jams](https://open.spotify.com/artist/2kvrXvmS6qLg14n8Z9WZZq), [Mariand Torres](https://open.spotify.com/artist/3x4ArwCXrGaFMa84AkW9Nh) | [Sing Out](https://open.spotify.com/album/2oVGbRVEBDJ9uBoBykU0q7) | 2:55 |
 | 92 | [It Takes All Kinds](https://open.spotify.com/track/6buOAgCVrNmVjxa3VmKgd7) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz) | [All Kinds of You and Me](https://open.spotify.com/album/3ssKvHMvJ0QMpWO9Wo1Szv) | 3:07 |
 | 93 | [I'm Always Me](https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 3:08 |
 | 94 | [Every Day is a Dance](https://open.spotify.com/track/5zcwNyRK3GSlyFnj89cLrM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 2:29 |
 | 95 | [We Go Together Very Well](https://open.spotify.com/track/4RhmeK90NGyJ5bplwVjj0u) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:04 |
-| 96 | [Feelings Like The Weather](https://open.spotify.com/track/3c3TKJO5a2YMoGaQNflOGu) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/29XcuEEpUkyv5fc6Z26fP9) | 2:50 |
+| 96 | [Feelings Like The Weather](https://open.spotify.com/track/3v1zZp0M5ZHSOXjwwTyerM) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 2:50 |
 | 97 | [Be Yourself](https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:31 |
 | 98 | [I Hear America Singing](https://open.spotify.com/track/0nUSS3iQn8xRRbaHlluzZ6) | [Red Yarn](https://open.spotify.com/artist/13eFwXXIPS7klxrhNvU0jA), [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9) | [I Hear America Singing](https://open.spotify.com/album/2U9PJN4oTDBDxoe4yJX0uU) | 4:04 |
 | 99 | [Loon](https://open.spotify.com/track/0T5r5FKRfVQMqkDmhcAeGP) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 2:25 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 104 | [Aster & Goldenrod](https://open.spotify.com/track/0tfWVCen9NARGqo6KSkmW5) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Plants Rock](https://open.spotify.com/album/2qP0M5VHMVF6TC40tRckIg) | 3:29 |
 | 105 | [It's You I Like](https://open.spotify.com/track/3fwCUXBe36JmB8AP89KFd0) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: SLEEP](https://open.spotify.com/album/0nEw5zT6pJke7ivN6qnoXn) | 1:37 |
 
-Snapshot ID: `MTY1ODc1OTcwNSwwMDAwMDAyZjAwMDAwMTgyMzVjODc0ZGYwMDAwMDE3YjczMzU0NzUx`
+Snapshot ID: `MTY1ODc1OTcwNSwwMDAwMDAwMDgwMWY1ODdmYzEzYmMwZThhZDdiMjM5Zjg5MTBlNmVh`

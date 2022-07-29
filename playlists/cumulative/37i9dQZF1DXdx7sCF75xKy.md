@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Aisha Retno
 
-348 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+349 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Be Kind](https://open.spotify.com/track/1r73DoCuAo0SN5Jh80z0gC) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Be Kind](https://open.spotify.com/album/7HM12F2hFEIuQW2URxMrkv) | 2:46 | 2022-07-07 |  |
 | [Be Your Sunshine](https://open.spotify.com/track/5zvh2f3B9GPqJyg2A1ll2p) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [Be Your Sunshine](https://open.spotify.com/album/3Z1Ua9WOKPVhxhykfcnVyr) | 3:35 | 2022-01-04 |  |
 | [Beautiful Monsters](https://open.spotify.com/track/3Xwug6qff28bjWK2XiMUCF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Beautiful Monsters](https://open.spotify.com/album/6fJIV0gj7mciNciAI2flzJ) | 3:02 | 2022-07-07 |  |
-| [beautiful, in my skin](https://open.spotify.com/track/7wUyQoUikgAEhTQCGB3lOq) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7) | [beautiful, in my skin](https://open.spotify.com/album/2tnnSPzP1jqXF5ctailnZX) | 3:46 | 2022-07-07 |  |
+| [Beautiful, in My Skin](https://open.spotify.com/track/4kQCOdNxsvYiLnzGSyZfX4) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7) | [Better Not Bitter](https://open.spotify.com/album/5yIF6WeXQNetj56MZAIofs) | 3:46 | 2022-07-07 |  |
+| [beautiful, in my skin](https://open.spotify.com/track/7wUyQoUikgAEhTQCGB3lOq) | [Bitty](https://open.spotify.com/artist/1I6fZDt9lA1IKxyQaLbdL7) | [beautiful, in my skin](https://open.spotify.com/album/2tnnSPzP1jqXF5ctailnZX) | 3:46 | 2022-07-07 | 2022-07-29 |
 | [Bebas Jadi Diriku](https://open.spotify.com/track/7nSo4RbAOdmtMOVS0evGC2) | [Fatia](https://open.spotify.com/artist/6cW6LQN8Jd1QtQLGy1TIOh) | [Bebas Jadi Diriku](https://open.spotify.com/album/60jatGlZSaCgFjK7ClTzq9) | 3:25 | 2022-05-03 | 2022-07-08 |
 | [Bebaskan \- Malay Version](https://open.spotify.com/track/6ftsqp5fa945HWCLSROND2) | [Marsha Milan Londoh](https://open.spotify.com/artist/38324KnaJFziArL1zf0gTP) | [Let It Go The Complete Set \(From “Frozen”\)](https://open.spotify.com/album/7q2jd3qhtvWlV6H22h2AGe) | 3:43 | 2022-04-05 | 2022-05-04 |
 | [Berani](https://open.spotify.com/track/02LsjyEhRszT50M3zqBsbQ) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Berani](https://open.spotify.com/album/2lPgDRjtMqX8KtysPcxCJB) | 3:17 | 2022-04-05 | 2022-07-08 |
@@ -75,7 +76,7 @@
 | [Don't You Worry](https://open.spotify.com/track/2I0KPavWyOyMOyeiWFUOAF) | [Alicia Pan](https://open.spotify.com/artist/7MrVXflQntKvbvZ4MgGeoP) | [Alicia Pan](https://open.spotify.com/album/0RtWTehBBmzakRAxSK1SjU) | 4:26 | 2022-07-07 |  |
 | [Dreamin'](https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Dreamin'](https://open.spotify.com/album/24kIXLAef1zxugpKzZcNJ4) | 3:18 | 2022-02-02 | 2022-03-08 |
 | [Eh](https://open.spotify.com/track/4FEPAeyut4sCnHyGiq6edo) | [Zizi Kirana](https://open.spotify.com/artist/3HgrsNDURBPYS1KlN7LgnE) | [Eh](https://open.spotify.com/album/354mqKD3D67ikmx8tUKxsF) | 3:39 | 2022-03-07 | 2022-04-06 |
-| [Elegi Sepi](https://open.spotify.com/track/4RJn2WTUlUl1g8gYN6CeME) | [Azharina](https://open.spotify.com/artist/4UrnhDklfmyS1Czc615OTy) | [Pop Sensasi](https://open.spotify.com/album/3TxOhghQByi2ekOv564NS8) | 3:57 | 2022-07-07 |  |
+| [Elegi Sepi](https://open.spotify.com/track/4RJn2WTUlUl1g8gYN6CeME) | [Azharina](https://open.spotify.com/artist/4UrnhDklfmyS1Czc615OTy) | [Pop Sensasi](https://open.spotify.com/album/3TxOhghQByi2ekOv564NS8) | 3:57 | 2022-07-07 | 2022-07-29 |
 | [Emma](https://open.spotify.com/track/59WKpu7YcP47uY9DHtceyV) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Emma](https://open.spotify.com/album/0xvcLQ2UGoLDn1CELpXf7e) | 1:57 | 2022-02-02 | 2022-03-08 |
 | [Every time I look into your eyes](https://open.spotify.com/track/22GqJOz2SQ03dLUqdzbZy1) | [By2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [Every Time I Look Into Your Eyes](https://open.spotify.com/album/5vhW1AYQ48GnkuPRphdVM8) | 2:59 | 2022-01-04 | 2022-02-03 |
 | [Feel That \- From "A Song a Day"](https://open.spotify.com/track/3y23mDga43DjJi560IUffC) | [Miss Lou](https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Feel That \(From "A Song a Day"\)](https://open.spotify.com/album/0PmsdfZdhmdTvQGmhNiJ8n) | 2:50 | 2021-12-07 | 2022-01-05 |
@@ -200,7 +201,7 @@
 | [Paris](https://open.spotify.com/track/5zHFxC59MCfn01XMNyoyuG) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Paris](https://open.spotify.com/album/3n7swnYFrAkn0sK0corabt) | 3:34 | 2022-02-02 | 2022-03-08 |
 | [Pasrah](https://open.spotify.com/track/3GLXu8IpaGvN3yvh9VNL8k) | [Erra Fazira](https://open.spotify.com/artist/6y3xL5QLAWtVyNW8uok3XM) | [Cinta](https://open.spotify.com/album/430q8qTRSsM7DXiiADm9ou) | 4:26 | 2021-12-07 | 2022-01-05 |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2022-02-02 | 2022-03-08 |
-| [Patah Seribu](https://open.spotify.com/track/0Ni3RjjsQP0oz8lt8xsFIn) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Patah Seribu](https://open.spotify.com/album/2JTqrH85Z69skjX3YiqDie) | 3:56 | 2022-03-07 |  |
+| [Patah Seribu](https://open.spotify.com/track/0Ni3RjjsQP0oz8lt8xsFIn) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Patah Seribu](https://open.spotify.com/album/2JTqrH85Z69skjX3YiqDie) | 3:56 | 2022-03-07 | 2022-07-29 |
 | [Patah Seribu Hatiku](https://open.spotify.com/track/2wZG69nVDaKF442uGTIjUN) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Patah Seribu Hatiku](https://open.spotify.com/album/1lgFgpesKTSQde9uzu2gns) | 3:13 | 2021-12-07 | 2022-01-05 |
 | [Pause](https://open.spotify.com/track/1lYK2lDe2cHjv8bJUu1895) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Pause](https://open.spotify.com/album/0YKeAOLLQnTiO5cgy9nzUa) | 2:41 | 2022-02-02 | 2022-03-08 |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2022-02-02 | 2022-03-08 |

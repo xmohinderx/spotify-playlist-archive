@@ -441,10 +441,28 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 365196,
       "name": "How I",
       "url": "https://open.spotify.com/track/0Or359N2JTZz5wfy4Fyt45"
+    },
+    {
+      "album": {
+        "name": "Hatched 30",
+        "url": "https://open.spotify.com/album/2nQLp3j5BiiyT7ul0kXFbY"
+      },
+      "artists": [
+        {
+          "name": "RUFUS!",
+          "url": "https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj"
+        }
+      ],
+      "date_added": "2021-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365196,
+      "name": "How I",
+      "url": "https://open.spotify.com/track/2M3XIbJQEm25zOFogvcwzT"
     },
     {
       "album": {
@@ -825,7 +843,7 @@
     {
       "album": {
         "name": "A\u00f1o V-I",
-        "url": "https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6"
+        "url": "https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym"
       },
       "artists": [
         {
@@ -840,6 +858,28 @@
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 332312,
+      "name": "Uno A",
+      "url": "https://open.spotify.com/track/6kIhSbPdypemYcRZtaQ69H"
+    },
+    {
+      "album": {
+        "name": "A\u00f1o V-I",
+        "url": "https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Oaks",
+          "url": "https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x"
+        },
+        {
+          "name": "Cadency",
+          "url": "https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD"
+        }
+      ],
+      "date_added": "2021-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 332312,
       "name": "Uno A",
       "url": "https://open.spotify.com/track/7iJlLsF5jj3JBwcIDtq0EB"

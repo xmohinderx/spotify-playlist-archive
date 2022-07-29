@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-160 songs - 9 hr 26 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+163 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [I'll Be Seeing You](https://open.spotify.com/track/1nDdCstJ1Mz8eRiyHhr5pS) | [Chuck Ingels](https://open.spotify.com/artist/4CzMpvvFF26btXNUocepwY) | [I'll Be Seeing You](https://open.spotify.com/album/1K1bl5LvmHA4KAIhev8p0R) | 3:30 | 2021-12-07 |  |
 | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/track/3CSDvtLQExxVd5xoMAi8q8) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [I'm Afraid The Masquerade Is Over](https://open.spotify.com/album/2L1p6B26GF4vzr3QSQbmn7) | 2:27 | 2022-05-31 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [I'm Glad There Is You](https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ) | 4:46 | 2022-02-15 |  |
-| [I'm in the Mood for Love: I'm in the Mood for Love](https://open.spotify.com/track/6EZMZ5LIMiZZeSFcxU97xT) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/2ZtiolvP2GXkM646eiqi5F) | 2:15 | 2021-12-07 |  |
+| [I'm in the Mood for Love](https://open.spotify.com/track/0KxJiWlCoNYTEFhvMxVl3D) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Yoga & Meditation: Piano Instrumentals for Mind and Body, Vol\. 3](https://open.spotify.com/album/7I7urbYtKezMDBNNAQp4Sk) | 2:14 | 2022-06-28 |  |
+| [I'm in the Mood for Love: I'm in the Mood for Love](https://open.spotify.com/track/6EZMZ5LIMiZZeSFcxU97xT) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/2ZtiolvP2GXkM646eiqi5F) | 2:15 | 2021-12-07 | 2022-07-29 |
 | [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2021-12-07 | 2022-06-09 |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2021-12-07 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 |  |
@@ -118,7 +119,8 @@
 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 | 2021-12-07 |  |
 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 | 2021-12-07 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2021-12-07 |  |
-| [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2021-12-07 |  |
+| [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 | 2022-06-28 |  |
+| [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 | 2021-12-07 | 2022-07-29 |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2021-12-07 |  |
 | [Sharing](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 | 2021-12-07 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 |  |
@@ -155,7 +157,8 @@
 | [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 | 2021-12-07 | 2022-05-10 |
 | [time remembered](https://open.spotify.com/track/7vglqLr2HwKFWXMjZ1DN4c) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 2:55 | 2021-12-07 |  |
 | [Time Will Tell](https://open.spotify.com/track/5iLOx5BMblSA9Ge2goijPf) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Time Will Tell](https://open.spotify.com/album/1DR3K7na2wR32dBL2wNWdg) | 2:39 | 2022-04-11 |  |
-| [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-07 |  |
+| [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 | 2021-12-07 | 2022-07-29 |
+| [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-28 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-01-18 |  |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-07 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-141 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
+144 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0OFjYAHKTUhiFgc9oYNNXy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 | 2021-12-23 |  |
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2021-12-23 |  |
 | [Lac de Marion](https://open.spotify.com/track/7DOfjD9dGQiYdYdBOaDTcB) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Lac de Marion](https://open.spotify.com/album/7f3ISdhodcTS8WkTJQ7saM) | 2:10 | 2021-12-23 |  |
+| [Lake Constance](https://open.spotify.com/track/4IAIUOpxTzrrspahVpk88S) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Lake Constance](https://open.spotify.com/album/0Ux3osuVEO4LGxDxM2ddh9) | 1:34 | 2022-07-29 |  |
 | [Lakeside](https://open.spotify.com/track/3fRdZDTuvJruh5mHXwja88) | [Antoine Pepe](https://open.spotify.com/artist/1GZ7usuOguq1obg0YHjy2S) | [Lakeside](https://open.spotify.com/album/5lkbhoHHJFAMEuFKAm74Ud) | 2:18 | 2021-12-23 | 2022-05-27 |
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2021-12-23 |  |
 | [Let there be dusk](https://open.spotify.com/track/2vAwGQP1uwWbntjDBI7zqE) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Let there be dusk](https://open.spotify.com/album/0pJ3iGzScpSKx0d0YAuxjg) | 2:53 | 2021-12-23 |  |
@@ -89,8 +90,10 @@
 | [Mad World](https://open.spotify.com/track/1sTFd9Uzlpn1ezszKvfA8U) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Modern Composers on Guitar](https://open.spotify.com/album/1eMnPhrwbrQ2xCn75eNRo1) | 3:15 | 2021-12-23 | 2022-07-22 |
 | [Magic Guitar](https://open.spotify.com/track/0S6EowEvexHX4r4t1SscDd) | [Madjid Fahem](https://open.spotify.com/artist/4r2IfAxqQFZ3NFOa44wA4w) | [Magic Guitar](https://open.spotify.com/album/3fGydqF4H5ncJDD4jr1Nv2) | 2:36 | 2021-12-23 |  |
 | [Mainway Orchard](https://open.spotify.com/track/1rKEYO07UzuaGoVIuGNUVS) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:33 | 2021-12-23 |  |
-| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 | 2021-12-23 |  |
-| [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-23 |  |
+| [May](https://open.spotify.com/track/0L8gLmibYY2SA7ZkH6B4dm) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Gradual](https://open.spotify.com/album/7dBooHM0Yp9xJTiDf81X7T) | 1:20 | 2022-07-29 |  |
+| [Mayo](https://open.spotify.com/track/5Q5Dt6MsjoVz5lqnV8H93e) | [Jaume Torrent](https://open.spotify.com/artist/04QMH563wBsRiKHJCi0O24) | [Mayo](https://open.spotify.com/album/0XOMQ8PVzoWIUNcR6grxY7) | 1:20 | 2021-12-23 | 2022-07-29 |
+| [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2021-12-23 | 2022-07-29 |
+| [Melrose](https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa) | 2:04 | 2022-07-29 |  |
 | [Mendoza](https://open.spotify.com/track/1tDp655UeKaHN3J23HHave) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Mendoza](https://open.spotify.com/album/2Bxw8YfgCBm91kJrRk8U8k) | 4:31 | 2021-12-23 |  |
 | [Midnight in Olivebridge](https://open.spotify.com/track/73CfMnErjqLOpi1hIDtU4v) | [Marcel Vasnov](https://open.spotify.com/artist/0J6aflTK3MQGQGQgIqg9j3) | [Copake Lake](https://open.spotify.com/album/7bmwJew61SQ04jqcX9qW5U) | 2:43 | 2021-12-23 |  |
 | [Mixtlan](https://open.spotify.com/track/75p0DeAYdpGsevS7azLsPu) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 3:31 | 2021-12-23 | 2022-03-02 |

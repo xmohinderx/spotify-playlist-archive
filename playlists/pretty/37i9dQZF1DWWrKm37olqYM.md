@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Rican Da Menace
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,497 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,508 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 38 | [Shake It To The Ground](https://open.spotify.com/track/2bI3kWsArBEHG4X54RCOET) | [Blaqstarr](https://open.spotify.com/artist/0gOlGdYlQ1Z0tacM4v6Bc7), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Supastarr \- EP](https://open.spotify.com/album/2QewQPilYVcvCUN92hc5kx) | 2:48 |
 | 39 | [Hands Up Thumbs Down \(feat\. Deuce Tre Deuce\)](https://open.spotify.com/track/50d71NpWqsaQfHdBCBv05g) | [DJ K\-Swift](https://open.spotify.com/artist/4ns7AGltssCJD5p7EebmzS) | [The Club Queen K\-Swift Story](https://open.spotify.com/album/7Cafdih328pdjYfIsnE56P) | 2:54 |
 | 40 | [Run Hard](https://open.spotify.com/track/3uegwtrn0nB5ck0BbEu9PI) | [Say Wut](https://open.spotify.com/artist/3GBzhIGX4yybQ9JDWasQrj) | [Run Hard](https://open.spotify.com/album/1wrBcJ4DPpgLRDxjnJtGdF) | 3:33 |
-| 41 | [Cherry Hill & Down Yo Block](https://open.spotify.com/track/08l5dP3FDsCeoj6FOaRiQ5) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Mike\-Mike Zome](https://open.spotify.com/artist/083sFCkFJDjPPMVDnH1ll3), [Young H.I.D.](https://open.spotify.com/artist/6rtM1yxJ6bVTtGhQkMuaIg), [DJ K\-Spin](https://open.spotify.com/artist/5XZWOcShzwwL9OAHSFWbSb) | [Mighty EP](https://open.spotify.com/album/32KkfRdUjUKYy6bPgcsztr) | 4:01 |
+| 41 | [Cherry Hill & Down Ya Block](https://open.spotify.com/track/6zVcyW3yhvdpVsLR8D21Wq) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM), [Mike\-Mike Zome](https://open.spotify.com/artist/083sFCkFJDjPPMVDnH1ll3), [Young H.I.D.](https://open.spotify.com/artist/6rtM1yxJ6bVTtGhQkMuaIg), [DJ K\-Spin](https://open.spotify.com/artist/5XZWOcShzwwL9OAHSFWbSb) | [Mighty EP](https://open.spotify.com/album/2BRw5sB4aV7CHxew6akPln) | 4:01 |
 | 42 | [Shake](https://open.spotify.com/track/4Z0RI4RoY0UUMTnAVzEaMe) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 3:56 |
 | 43 | [Tsunami \- Bmore Club Remix](https://open.spotify.com/track/5HmexjTRnmxPr9RvqaCtJh) | [DeStorm](https://open.spotify.com/artist/25libc3N8IzygSDbkZeTqF), [Thunderbird Juicebox](https://open.spotify.com/artist/2Wq3sFgbCuAWmz38nTCzjN) | [Tsunami \(Bmore Club Remix\)](https://open.spotify.com/album/7ykKicCz33FsbbPiM7q4sO) | 2:49 |
 | 44 | [Milly Rock \- Baltimore Club Remix](https://open.spotify.com/track/1V77B2FoRDbFbRAQvmB8i4) | [Baltimega](https://open.spotify.com/artist/2rMchIS8V6g5z0YP6UAlwh) | [Milly Rock \(Baltimore Club Remix\)](https://open.spotify.com/album/3Ox6muVNftFtSoKUSuRq9W) | 2:20 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 48 | [Chapel](https://open.spotify.com/track/0YrjSNguDky4HAjedoy75D) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 3: Operation Shut Em Down](https://open.spotify.com/album/1TrPAu7lRjyh4CiysQGDvu) | 2:12 |
 | 49 | [Gimme Some Mo](https://open.spotify.com/track/0pwOqli5wukcScGgrES81e) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 4:59 |
 | 50 | [Did Dat](https://open.spotify.com/track/3bX9ad1aCeivH0QHsbuG62) | [Abdu Ali](https://open.spotify.com/artist/1sCfVwDw9jhng9PUMNcqlo) | [Mongo](https://open.spotify.com/album/3OfJyO6hn8MDBN6SuWX5rL) | 3:39 |
-| 51 | [Them Do It Horns](https://open.spotify.com/track/2Itc88OdB1bXroD9xqzOPb) | [James Nasty](https://open.spotify.com/artist/7wvP2lwU1zadibtqoebkFx) | [Da Movelt Posse : Episode 5](https://open.spotify.com/album/1224FjgExjJnR56Dh4gm6o) | 3:36 |
+| 51 | [Them Do It Horns](https://open.spotify.com/track/7aJYHYe3h02k3p08idc0Mf) | [James Nasty](https://open.spotify.com/artist/7wvP2lwU1zadibtqoebkFx) | [Da Movelt Posse Episode 5](https://open.spotify.com/album/1OwxoCSpCO4aR7JMKB6L1q) | 3:36 |
 | 52 | [Birthday](https://open.spotify.com/track/3VyVcPOFxprHGJW6keV96X) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w) | [Vol\. 1: Operation Startup](https://open.spotify.com/album/43FIoknvVjGX6qLBWdLD2t) | 2:14 |
 | 53 | [Hush That Fuss](https://open.spotify.com/track/7nsxgcx2mSkavqB5bAQ93j) | [Dukeyman](https://open.spotify.com/artist/3OeK0k6vkbUDkk0GSjYjcO) | [Baltimore Club Classics \(Dukeyman Greatest Hits\)](https://open.spotify.com/album/7C70nZLgZIPjXrqg5LLJgx) | 4:55 |
 | 54 | [Be Ya Girl](https://open.spotify.com/track/2SYtKPPZGyObiLe2XrqEfY) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [The Sound Of Love International \#002 \- Beautiful Swimmers](https://open.spotify.com/album/2cxbgAp9U7ZubuZ2ygijXk) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 | 59 | [Baltimore City](https://open.spotify.com/track/2GXNQhq760y65pC0OGAAFq) | [Rod Lee](https://open.spotify.com/artist/6h8bL2vqsdM7kLYjsHuU7w), [DJ Class](https://open.spotify.com/artist/7hbhhKxV5iT4C9kQMEW507) | [Vol\. 4: The Pressure](https://open.spotify.com/album/2WsSlehfEGLliibE7nRCJF) | 3:06 |
 | 60 | [Jerome](https://open.spotify.com/track/0Y8GBM1KJ9H91q4KviQBFD) | [KW Griff](https://open.spotify.com/artist/0c93ipDYZUvYQEKgAs1Vfu) | [Vol\. 2: Operation Not Done Yet](https://open.spotify.com/album/3RUyfLRSlRGfI6CRv3DV3r) | 2:26 |
 
-Snapshot ID: `MTY1NjY0NjAxNiwwMDAwMDAwZjAwMDAwMTgxYjdjYzFlZjQwMDAwMDE4MTkzZjRhOTc5`
+Snapshot ID: `MTY1NjY0NjAxNiwwMDAwMDAwMGNjY2Y3ZmJmZmM4ODQzYWRjMDQ1NjgzMThhNWMxMzhl`

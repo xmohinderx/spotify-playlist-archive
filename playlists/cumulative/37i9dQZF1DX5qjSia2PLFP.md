@@ -4,11 +4,12 @@
 
 > New music breaking waves\.  Cover: Rican Da Menace
 
-127 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+130 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 | 2022-05-20 |  |
+| [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 |  |
+| [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 | 2022-05-20 | 2022-07-29 |
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 |  |
 | [Already Lost](https://open.spotify.com/track/7ifHI0o7mJ7PgS9xrZRVtW) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Look What You've Done](https://open.spotify.com/album/6iH9AQjvi0Zsg2ej086ood) | 3:33 | 2021-08-13 | 2022-03-12 |
@@ -22,7 +23,8 @@
 | [BUDDAH ARMS](https://open.spotify.com/track/7AuogiLJdOZop0gEhqD1gT) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [FOREVER FIGUEROA 2](https://open.spotify.com/album/0DVvePo3RyEeGE6BArKnsc) | 1:57 | 2022-04-01 |  |
 | [Bussin](https://open.spotify.com/track/2wONmi2tLpuWThTIwLkyya) | [Femdot](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Bussin](https://open.spotify.com/album/2OA8LO3EzH1i1J1oYFcqrl) | 2:58 | 2021-10-29 | 2022-03-05 |
 | [Bust Back \(feat\. Gavo & MDMA\)](https://open.spotify.com/track/4NTVH64xInXu2XsUMfIHoP) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr), [Gavo](https://open.spotify.com/artist/5FpqbtdASHU1TchIDHRbrW), [MDMA](https://open.spotify.com/artist/6ObHBWkhqC6awDFfWDvpzg) | [Bust Back \(feat\. Gavo & MDMA\)](https://open.spotify.com/album/7miXtnnaMTjMlGxibwcykT) | 1:38 | 2021-09-03 | 2022-03-05 |
-| [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-04 |  |
+| [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9) | 1:56 | 2022-03-04 |  |
+| [By My Side \(feat\. Kaash Paige\)](https://open.spotify.com/track/1IDB4GxDCGZexvddxi6RM7) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 1:56 | 2022-03-04 | 2022-07-29 |
 | [Call 2 The Diaspora](https://open.spotify.com/track/3iqfgfU9k5AtkRSdsIthoi) | [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Call 2 The Diaspora](https://open.spotify.com/album/5lU5yTkm8LBPh6on2BOyhb) | 3:24 | 2022-03-25 |  |
 | [CAN'T EEM U TELL WHY](https://open.spotify.com/track/5htM1C5NozSJLuNWil7MYi) | [YTK](https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b) | [CAN'T EEM U TELL WHY](https://open.spotify.com/album/3OFACZUGe31bHXqdHDMUVM) | 1:34 | 2022-04-01 | 2022-05-13 |
 | [Catch Another Body](https://open.spotify.com/track/7g23Ror3VlN0Xo4wjBHTS6) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Catch Another Body](https://open.spotify.com/album/2zeMfb20Oa57Jj1ZbZ6Ccn) | 3:32 | 2022-03-04 | 2022-03-06 |
@@ -79,7 +81,8 @@
 | [LOVE4FREE](https://open.spotify.com/track/3zoXpiq5f5q87a2xnGdAdQ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [B4BMG: The Experience](https://open.spotify.com/album/1EeapC8eRWGPZkfPJrvPSs) | 2:03 | 2022-03-25 |  |
 | [Malibu](https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Malibu](https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc) | 1:32 | 2021-09-01 | 2022-03-05 |
 | [Mama Say](https://open.spotify.com/track/6bwgqPyy2RQeHclgHTbePg) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Mama Say](https://open.spotify.com/album/4RCjlQ9L75SJJ9tzZnJQjX) | 2:17 | 2021-08-13 | 2022-03-26 |
-| [MARINE](https://open.spotify.com/track/1pcVEepUUQqdoIdPvL0V4f) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [MARINE](https://open.spotify.com/album/0C387797zlHjOa4MFRU35T) | 3:22 | 2021-10-29 |  |
+| [MARINE](https://open.spotify.com/track/1pcVEepUUQqdoIdPvL0V4f) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [MARINE](https://open.spotify.com/album/0C387797zlHjOa4MFRU35T) | 3:22 | 2021-10-29 | 2022-07-29 |
+| [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2021-10-29 |  |
 | [Mask Off \(Feelings\)](https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 3:06 | 2021-09-03 | 2022-03-05 |
 | [Nostalgia](https://open.spotify.com/track/1Agbgd6dzSZfrQdZgnLpMC) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r) | [Nostalgia](https://open.spotify.com/album/5nUUDRXY7kPMH0j5Pz42UH) | 3:31 | 2021-10-29 | 2022-03-05 |
 | [NOT 4 NOTHIN](https://open.spotify.com/track/2vq2kV32I8xqpifY2p4Trs) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [NOT 4 NOTHIN](https://open.spotify.com/album/30hwDLUSj4GDp5qiMKmkt0) | 2:02 | 2022-05-27 |  |

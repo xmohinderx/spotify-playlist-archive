@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-53 songs - 2 hr 23 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
+54 songs - 2 hr 27 min - [published](https://open.spotify.com/playlist/35J8tx9xvVM0O8oKcmw2vk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/track/5J0NB5oOdZ0G8064e8PlEU) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Chelsea](https://open.spotify.com/artist/2cRZrfd2YZgyP9Rxi7Ndnl) | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/album/6asyAuurdLrjiqcY5maRR6) | 2:56 | 2021-12-01 |  |
 | [Trolls Wanna Have Good Times \(feat\. Icona Pop\)](https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl), [The Pop Trolls](https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:25 | 2021-12-01 |  |
 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/3N6kzbnfpTPB5J9NAGc1rU) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Twinkle Twinkle Little Star & More Kids Songs](https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu) | 2:32 | 2021-12-01 |  |
-| [We're All Fruit Salad!](https://open.spotify.com/track/0ylEvGmeO6kjbub8g9h2s1) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 4:07 | 2021-12-01 |  |
+| [We're All Fruit Salad!](https://open.spotify.com/track/0ylEvGmeO6kjbub8g9h2s1) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 4:07 | 2021-12-01 | 2022-07-29 |
+| [We're All Fruit Salad!](https://open.spotify.com/track/33oKCaVt6xCwqCpLqK88iX) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [James Harkness](https://open.spotify.com/artist/4EYbQ2JhYc3wuGRYMDIEKt), [Jawan Jackson](https://open.spotify.com/artist/0ONtiRe8jev5ZryJ1jskR2), [Lou Diamond Phillips](https://open.spotify.com/artist/4VzUgqK1LIfv3QtdxIqOHw), [Robert Rakete](https://open.spotify.com/artist/7tGYHmPlBT59QDcpWAp6l0), [Taylor Symone](https://open.spotify.com/artist/56pc6Yle76x3otXIMEBEeR), [Victor Valdes](https://open.spotify.com/artist/2tdfuvyFbLTS4xqbjzBQ0F) | [We're All Fruit Salad!](https://open.spotify.com/album/0QOq6fjnJ2fRjk9Xc8XpLu) | 4:07 | 2021-12-01 |  |
 | [Wheels on the Bus](https://open.spotify.com/track/5wVJTaoVAbhFrQC1QZVPO3) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by Cocomelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 3:27 | 2021-12-01 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-12-01 |  |
 

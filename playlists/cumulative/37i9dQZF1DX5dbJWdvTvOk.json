@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119786,
       "name": "Bella Flamenco",
       "url": "https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191108,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187250,
       "name": "El Raval",
       "url": "https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168196,
       "name": "El Viaje",
       "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177392,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/26ZLo3OE6vf6NK56YRn1I4"
@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "La Cascata",
+        "url": "https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131896,
+      "name": "La Cascata",
+      "url": "https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI"
+    },
+    {
+      "album": {
         "name": "La Suerte Llegara\u0301",
         "url": "https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR"
       },
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234000,
       "name": "Like A Tourist On Caminito",
       "url": "https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP"

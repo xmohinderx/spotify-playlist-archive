@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Nilay Özkara Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,271 likes - 74 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,279 likes - 74 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 60 | [Kime Kime Bu?](https://open.spotify.com/track/07k100ruEzTyEjgc6k1B7Y) | [Deli Bakkal](https://open.spotify.com/artist/13pPTJazkrLDg3hPVojanf) | [Kime Kime Bu?](https://open.spotify.com/album/0hCDZM6ysl7wLxUREBASGR) | 5:19 |
 | 61 | [Öyle Bir Aptalım](https://open.spotify.com/track/47ifCTuB4XVpLpPUYTnpYE) | [Turuncu Gökyüzü](https://open.spotify.com/artist/16d4nPQ35sMW1Y8s9NjjlG) | [Öyle Bir Aptalım](https://open.spotify.com/album/7FDgVFxiYG6Wj8lOYvmZ9B) | 3:35 |
 | 62 | [iki vücut tek gibi](https://open.spotify.com/track/7tknodE6jLdEmGPEwlBtRU) | [Görkem Açıkalın](https://open.spotify.com/artist/6woXN62V7Eb40ytrQ4sEb8) | [iki vücut tek gibi](https://open.spotify.com/album/5dTogtRPjVIDEiF93CZndc) | 3:15 |
-| 63 | [Bi' Beni Sev](https://open.spotify.com/track/06MuguHjItBsZRvRszbdTa) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4Qwd94lUkJEMD00psTV3QU) | 2:51 |
+| 63 | [Bi' Beni Sev](https://open.spotify.com/track/1TyrMcfECN6XYXPZgwQJna) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4xWRgqIhxraEwHTG0BFpWa) | 2:51 |
 | 64 | [Beyaz](https://open.spotify.com/track/1un2opN6VtDLYuFnKiGNFQ) | [kafası değişikler](https://open.spotify.com/artist/7g8sz4M3FJuMlAQsnkAHTT) | [Beyaz](https://open.spotify.com/album/3s9Gn748SIsHdSYsSIQAjq) | 3:22 |
 | 65 | [Anxiety 1](https://open.spotify.com/track/2rL61rr0UhAJnLyE4F1yai) | [İdil Acim](https://open.spotify.com/artist/27o9Q2aMglknrVr2ToSmXf) | [Anxiety 1](https://open.spotify.com/album/5y8ztwllGu3486at1v39vI) | 2:53 |
 | 66 | [İnandığın Bir Hayat Var](https://open.spotify.com/track/3NstlCZK6IFogEqkHi8Bkg) | [Efkan](https://open.spotify.com/artist/3S4rucRjt4jsC0l0efzrH1) | [İnandığın Bir Hayat Var](https://open.spotify.com/album/5cmQOAHkEC2FgCz3SYJTOW) | 3:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 73 | [Gerisi Kolay](https://open.spotify.com/track/6w0CJlmx1dnWilWdnnhCNi) | [Açık Hava Diskosu](https://open.spotify.com/artist/4LjXsCkKUW774tJG9HQAzm) | [Gerisi Kolay](https://open.spotify.com/album/31XHk7dDokCSLkjqcEG22K) | 4:23 |
 | 74 | [Bi Önemi Yok](https://open.spotify.com/track/4CQjsF9EIfAQaakFezKDos) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Bi Önemi Yok](https://open.spotify.com/album/5QvPlBy9HB7y2sV3vOJaP4) | 3:07 |
 
-Snapshot ID: `MTY1ODM5MDYzOCwwMDAwMDAyYjAwMDAwMTgyMWZjOGVkZmMwMDAwMDE4MjE3MDhjMGY4`
+Snapshot ID: `MTY1ODM5MDYzOCwwMDAwMDAwMGQzMTBiNDA3MjJkZmZiMmZkYTEyNDRhZWY2ODdmODI1`

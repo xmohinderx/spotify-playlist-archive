@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Forajido EP 1",
+        "url": "https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142758,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/16DThpmVTU5UfqglnMcYye"
+    },
+    {
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142758,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV"
@@ -77,7 +95,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144360,
       "name": "Aqu\u00ed Abajo",
       "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
@@ -157,7 +175,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "Caminos de Michoac\u00e1n",
       "url": "https://open.spotify.com/track/01N7WLJxshd4dDhK7f3WVe"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 186333,
       "name": "De Contrabando",
       "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
@@ -265,10 +283,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 169750,
       "name": "Decide Qu\u00e9 Somos",
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
     },
     {
       "album": {
@@ -283,7 +319,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222373,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/4jeAwDjr8nIj8EK6pVRbW9"
@@ -348,6 +384,28 @@
     },
     {
       "album": {
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+    },
+    {
+      "album": {
         "name": "Mis Duetos, Mis Amigos, Mis Canciones",
         "url": "https://open.spotify.com/album/6y32AnLnhc4u6Xpm3H7uDd"
       },
@@ -363,7 +421,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223013,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/5r2BZAr0eblp9p7SboOt3s"
@@ -403,7 +461,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258666,
       "name": "El Noa Noa",
       "url": "https://open.spotify.com/track/1wCddPsdYzh8fBUuxgE7UD"
@@ -450,6 +508,24 @@
     },
     {
       "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/3Cd9Lzxyqarjifb1T76W68"
+    },
+    {
+      "album": {
         "name": "Serie Coleccion 15 Autenticos Exitos",
         "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
       },
@@ -461,7 +537,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174426,
       "name": "En Mi Viejo San Juan",
       "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
@@ -509,10 +585,36 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "album": {
+        "name": "Esa Parte De M\u00ed",
+        "url": "https://open.spotify.com/album/3StKKTOhmUMbmrqZbH0tDi"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Esa Parte De M\u00ed",
+      "url": "https://open.spotify.com/track/2KGPEwZmxkTb3ibPeIq0Pv"
     },
     {
       "album": {
@@ -563,7 +665,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180320,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/6lDo6f5jT5b4lBRu8HAhQ9"
@@ -581,7 +683,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251853,
       "name": "Gavil\u00e1n o Paloma - Remasterizado",
       "url": "https://open.spotify.com/track/27IN0O7uhQSVEnMGIy04xF"
@@ -727,7 +829,7 @@
     {
       "album": {
         "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "url": "https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo"
       },
       "artists": [
         {
@@ -738,6 +840,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 202760,
+      "name": "La Gloria Eres Tu",
+      "url": "https://open.spotify.com/track/0toNfHRTPmbsHi63G7Vgdz"
+    },
+    {
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 202760,
       "name": "La Gloria Eres Tu",
       "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD"
@@ -813,7 +933,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196266,
       "name": "Loco",
       "url": "https://open.spotify.com/track/1tQYNmqyChbjXyZqOkto7s"
@@ -831,7 +951,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
@@ -867,7 +987,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226146,
       "name": "Me Estoy Acostumbrando A Ti",
       "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
@@ -975,7 +1095,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Mi Amuleto Eres T\u00fa",
       "url": "https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0"
@@ -1011,10 +1131,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223666,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/6fR2T8yJcoOygQddq4JbYB"
+    },
+    {
+      "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
     },
     {
       "album": {
@@ -1033,7 +1171,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254200,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6aiOkKVEe8Mo0O3ycrrn7z"
@@ -1062,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "El Cuatrero",
+        "url": "https://open.spotify.com/album/7La2o9LMM9fFhHpkBAZZxP"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189720,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/2PxGGRmj5yunYdNF2Ud2vm"
+    },
+    {
+      "album": {
         "name": "35 Anniversary Re-mastered Series, Vol. 20",
         "url": "https://open.spotify.com/album/0rWEzk7wh8xNUVdlz7vKHP"
       },
@@ -1073,7 +1229,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189720,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/67vAIQROidQxOUeqkSPmVo"
@@ -1221,7 +1377,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 200840,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
@@ -1279,7 +1435,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
@@ -1297,7 +1453,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244133,
       "name": "Nube Viajera",
       "url": "https://open.spotify.com/track/6L4fL5BzvvkDLTHs67Uqo6"
@@ -1319,10 +1475,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266015,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN"
+    },
+    {
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266213,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
     },
     {
       "album": {
@@ -1341,10 +1519,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198720,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
     },
     {
       "album": {
@@ -1377,10 +1577,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211773,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+    },
+    {
+      "album": {
+        "name": "Inv\u00e9ntame Un Amor",
+        "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Mariachi Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227288,
+      "name": "Pero La Recuerdo (Cumbia Santa Mar\u00eda)",
+      "url": "https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d"
     },
     {
       "album": {
@@ -1395,7 +1617,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227288,
       "name": "Pero La Recuerdo - Cumbia Santa Maria -",
       "url": "https://open.spotify.com/track/41amq6NLZaFLUzDfkMYS7V"
@@ -1417,7 +1639,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 342600,
       "name": "Pero Que Necesidad",
       "url": "https://open.spotify.com/track/5tiHTqiusHcF4JUR51cgjw"
@@ -1439,7 +1661,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
@@ -1497,10 +1719,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261131,
       "name": "Por Mujeres Como Tu",
       "url": "https://open.spotify.com/track/0CIz7t5BltLpaff8qyQFjB"
+    },
+    {
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
     },
     {
       "album": {
@@ -1541,7 +1781,7 @@
     {
       "album": {
         "name": "A Todo Galope",
-        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
+        "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
       },
       "artists": [
         {
@@ -1552,6 +1792,24 @@
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
+    },
+    {
+      "album": {
+        "name": "A Todo Galope",
+        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 176693,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy"
@@ -1598,6 +1856,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Se Apunta",
+        "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193539,
+      "name": "Qui\u00e9n Se Apunta",
+      "url": "https://open.spotify.com/track/5Dkh7EU3hI96fawhX1OE1n"
+    },
+    {
+      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -1613,6 +1893,24 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "album": {
+        "name": "Regres\u00e9 Porque Me Faltas",
+        "url": "https://open.spotify.com/album/1J149gTH0PD2XvqJHqTQiO"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203386,
+      "name": "Regres\u00e9 Porque Me Faltas",
+      "url": "https://open.spotify.com/track/4mbfdXD5X6tfgQrxMOLE5r"
     },
     {
       "album": {
@@ -1671,10 +1969,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167600,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/3mobtBsKazy1VC0UUiVrYJ"
+    },
+    {
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168400,
+      "name": "Sabor a M\u00ed",
+      "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
     },
     {
       "album": {
@@ -1689,7 +2009,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180337,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u"
@@ -1733,7 +2053,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159533,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
@@ -1755,6 +2075,24 @@
       "duration_ms": 186280,
       "name": "Se Muri\u00f3 De Amor",
       "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3LuHAtGWeuUngugaJHkZ9K"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144653,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/3nuM254L7Ldb2n6UvY7JCK"
     },
     {
       "album": {
@@ -1787,10 +2125,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187986,
       "name": "Si Te Falta Alguien",
       "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+    },
+    {
+      "album": {
+        "name": "Bronco Amigo",
+        "url": "https://open.spotify.com/album/08xEu0Znzc82NRFdBof3B6"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Si Te Vuelves A Enamorar",
+      "url": "https://open.spotify.com/track/1pIdEhQdhlZShpe6GoESfY"
     },
     {
       "album": {
@@ -1805,7 +2161,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181786,
       "name": "Si Te Vuelves a Enamorar - Remasterizado",
       "url": "https://open.spotify.com/track/3u8otnjkKmAXIlAX3jwsRT"
@@ -1841,7 +2197,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175173,
       "name": "Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/5h4GUucLHHuwYBzYnXVNmP"
@@ -1888,6 +2244,24 @@
     },
     {
       "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
+    },
+    {
+      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
@@ -1906,6 +2280,24 @@
     },
     {
       "album": {
+        "name": "Joan Sebastian Con Mariachi",
+        "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211255,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts"
+    },
+    {
+      "album": {
         "name": "Colecci\u00e0n De Oro Vol.5 - Joan Sebastian",
         "url": "https://open.spotify.com/album/3eBs0wd6Dq7JO59RK0PLW2"
       },
@@ -1917,7 +2309,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211371,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/1aGYzAXdp9Cqd7Nv6WrSGZ"
@@ -1935,10 +2327,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186640,
       "name": "Te Aprovechas",
       "url": "https://open.spotify.com/track/5XDzjngBmRhuY9Q1PAPvpe"
+    },
+    {
+      "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "album": {
@@ -1975,7 +2385,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-30",
+      "date_removed": null,
       "duration_ms": 186626,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/1sqtCRFaeXlqiMxM5MGMdC"
@@ -2102,6 +2512,24 @@
     },
     {
       "album": {
+        "name": "Una Julio 70",
+        "url": "https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175829,
+      "name": "Una Julio 70",
+      "url": "https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8"
+    },
+    {
+      "album": {
         "name": "Una Mujer Como T\u00fa",
         "url": "https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1"
       },
@@ -2160,6 +2588,24 @@
     },
     {
       "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
+    },
+    {
+      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
       },
@@ -2171,7 +2617,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228573,
       "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/4oMeUFw7OlTkoxdQnGD2Bk"

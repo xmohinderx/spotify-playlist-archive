@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177929,
       "name": "All My Loving - Madism Remix",
       "url": "https://open.spotify.com/track/6iW66aukghrIFDU1uqLZYf"
@@ -592,6 +592,28 @@
     },
     {
       "album": {
+        "name": "Better Days (Remixes)",
+        "url": "https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181927,
+      "name": "Better Days - Galantis Remix",
+      "url": "https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF"
+    },
+    {
+      "album": {
         "name": "Better Days (Galantis Remix)",
         "url": "https://open.spotify.com/album/6ZNriX3tJtzSHQ2hst7Ax2"
       },
@@ -607,7 +629,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181927,
       "name": "Better Days - Galantis Remix",
       "url": "https://open.spotify.com/track/2XxWAuRRhDGeWpl60uK6gB"
@@ -1175,7 +1197,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202381,
       "name": "Close To You - Kyle Watson Remix",
       "url": "https://open.spotify.com/track/1YOF2DRwmMpXoEq6ikjwCc"
@@ -1704,6 +1726,32 @@
     },
     {
       "album": {
+        "name": "Don't Forget My Love (John Summit Remix)",
+        "url": "https://open.spotify.com/album/0MmNbl4bIo9dSupmyxKBx7"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Don't Forget My Love - John Summit Remix",
+      "url": "https://open.spotify.com/track/55PAYYJuYlKsW4DEcaBpC3"
+    },
+    {
+      "album": {
         "name": "Don't Go Yet (Major Lazer Remix)",
         "url": "https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo"
       },
@@ -1797,7 +1845,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "Don\u2019t Forget My Love - John Summit Remix",
       "url": "https://open.spotify.com/track/4HcOBdrcaCmh29ogaEiE5n"
@@ -1875,7 +1923,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219811,
       "name": "Dopamine (feat. Eyelar) [Anna Lunoe Remix]",
       "url": "https://open.spotify.com/track/0kvWDUXayeCLy32HtAvoOt"
@@ -2593,7 +2641,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
@@ -3753,7 +3801,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 131065,
       "name": "In Da Getto",
       "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
@@ -3779,10 +3827,36 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267416,
       "name": "In The Dark - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/1pBLngw373DH81ew7BzACD"
+    },
+    {
+      "album": {
+        "name": "In The Dark (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/01bWDraeObhoL70kivgdOA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "In The Dark - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/1Wy1cBJEgd9yV6fg97vFVz"
     },
     {
       "album": {
@@ -3901,7 +3975,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX"
@@ -4563,10 +4637,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224649,
       "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1yYkset0nTuUteJQMl5Tx0"
+    },
+    {
+      "album": {
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
       "album": {
@@ -4933,7 +5029,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134318,
       "name": "Need Your Love - Jonasu Remix",
       "url": "https://open.spotify.com/track/0PeuTN6dAGOo9aWLWVXo27"
@@ -5697,6 +5793,28 @@
     {
       "album": {
         "name": "Dawn FM (Alternate World)",
+        "url": "https://open.spotify.com/album/3esNgb0dchNmQ3MhlUVaa7"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238032,
+      "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
+      "url": "https://open.spotify.com/track/4c4qqhFrvOgddweMQS0ptG"
+    },
+    {
+      "album": {
+        "name": "Dawn FM (Alternate World)",
         "url": "https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a"
       },
       "artists": [
@@ -5711,7 +5829,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238032,
       "name": "Sacrifice (Remix) (feat. Swedish House Mafia)",
       "url": "https://open.spotify.com/track/7aAsStiuC4Zw8vIbvRWtq7"
@@ -5877,7 +5995,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244413,
       "name": "See-Line Woman - Riton Remix",
       "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
@@ -6063,7 +6181,7 @@
       ],
       "date_added": "2021-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189677,
       "name": "Show Me Love - Dubdogz Remix",
       "url": "https://open.spotify.com/track/3rawuN6ZSevOzM5FiAFRIO"
@@ -6145,7 +6263,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 232632,
       "name": "Sinnerman - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL"
@@ -6463,7 +6581,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188031,
       "name": "Still Dancing - Kito Remix",
       "url": "https://open.spotify.com/track/1eXBUdg633i0wXocYOeMjJ"
@@ -6577,7 +6695,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 218110,
       "name": "Summer In New York - Illyus & Barrientos Remix",
       "url": "https://open.spotify.com/track/7wZdPcXiD9gqJa0uMxw2q9"
@@ -7171,6 +7289,28 @@
     {
       "album": {
         "name": "The Feels",
+        "url": "https://open.spotify.com/album/5kaDKzyrE5Cx9c4mLQZ6b1"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185218,
+      "name": "The Feels - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2uIgQIrUIy57d1jngcOODC"
+    },
+    {
+      "album": {
+        "name": "The Feels",
         "url": "https://open.spotify.com/album/637onaunbESh9eqTqVGMka"
       },
       "artists": [
@@ -7185,7 +7325,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185218,
       "name": "The Feels - Benny Benassi Remix",
       "url": "https://open.spotify.com/track/3zuOVDHUOI2E8dM3Rk5lmq"
@@ -7869,7 +8009,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 212727,
       "name": "What, Me Worry? - LP Giobbi Remix",
       "url": "https://open.spotify.com/track/3YwsjD1ckhneoesIqaHYZi"
@@ -8061,7 +8201,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 190327,
       "name": "Yo Yo - R3HAB Remix",
       "url": "https://open.spotify.com/track/3qJzTkJCiqEeoMcr0XYDGy"

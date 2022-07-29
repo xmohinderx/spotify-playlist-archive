@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,201 likes - 141 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,388 likes - 141 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 44 | [Never Let Me Go](https://open.spotify.com/track/6LkO16bRoZItqrR9yIbHQZ) | [Sonny Beckerlee](https://open.spotify.com/artist/0XMT5PoHDKRRWHj40qLg7K) | [Never Let Me Go](https://open.spotify.com/album/2aK4enHcBBbKBIYRwm1iSX) | 2:32 |
 | 45 | [Everything Happens To Me](https://open.spotify.com/track/0ElOE6iF6PcHKGafYHkr2T) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [Everything Happens To Me](https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI) | 4:40 |
 | 46 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 |
-| 47 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 |
+| 47 | [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 |
 | 48 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 |
 | 49 | [Someone To Watch Over Me](https://open.spotify.com/track/7i7I5cr7kXAzxUGicjfyJY) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Someone To Watch Over Me](https://open.spotify.com/album/3GNORDPunT2olont9mcX97) | 3:58 |
 | 50 | [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 77 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 |
 | 78 | [Body And Soul](https://open.spotify.com/track/4lUAG8GuCyKBCDzeEbhJHg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Body And Soul](https://open.spotify.com/album/5TlUCTFnIHb21H4fvGFPSf) | 4:00 |
 | 79 | [I Cover the Waterfront](https://open.spotify.com/track/4nMtlRwN03BaHf7fhIk6Ne) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [Someday My Prince Will Come](https://open.spotify.com/album/6WishxCgnWfUfAjSC07tJv) | 3:13 |
-| 80 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 |
+| 80 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 |
 | 81 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 |
 | 82 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 |
 | 83 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 |
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 114 | [As We Speak](https://open.spotify.com/track/1a2lP6SjYE38IRWc6Sxzmn) | [Logan Jameison](https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt) | [As We Speak](https://open.spotify.com/album/1TsNdg1ekGBfxYsjeEnOCy) | 2:56 |
 | 115 | [All The Things You Are](https://open.spotify.com/track/0bAtkqBlQwiqGGJ9AwQ6bH) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [All The Things You Are](https://open.spotify.com/album/0REx5Z6ns83cNF762mDcFw) | 3:25 |
 | 116 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 |
-| 117 | [I'm in the Mood for Love: I'm in the Mood for Love](https://open.spotify.com/track/6EZMZ5LIMiZZeSFcxU97xT) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/2ZtiolvP2GXkM646eiqi5F) | 2:15 |
+| 117 | [I'm in the Mood for Love](https://open.spotify.com/track/0KxJiWlCoNYTEFhvMxVl3D) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Yoga & Meditation: Piano Instrumentals for Mind and Body, Vol\. 3](https://open.spotify.com/album/7I7urbYtKezMDBNNAQp4Sk) | 2:14 |
 | 118 | [When We Meet Again](https://open.spotify.com/track/71vWUMeyrgikHr6MwkUpCv) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [When We Meet Again](https://open.spotify.com/album/6vOUy7BcO38Yzd8Sfepaqm) | 2:47 |
 | 119 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 |
 | 120 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 140 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 |
 | 141 | [Delusions](https://open.spotify.com/track/3ChiMcbwCPbw5hamXMt9CH) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 4:11 |
 
-Snapshot ID: `MTY1NjQwODA3MSwwMDAwMDA5NTAwMDAwMTgxYTk5ZDViNzYwMDAwMDE4MTRkOTVkZTRl`
+Snapshot ID: `MTY1NjQwODA3MSwwMDAwMDAwMGY4ZjhiMzBkOTJkMWVkNTllYTM4NjUwYjAxZmMzMjg3`

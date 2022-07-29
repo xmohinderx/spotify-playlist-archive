@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8"
+    },
+    {
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -37,7 +59,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
@@ -73,7 +95,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 275106,
       "name": "Bed",
       "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
@@ -95,7 +117,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-25",
+      "date_removed": null,
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
@@ -113,10 +135,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
+    },
+    {
+      "album": {
+        "name": "Epiphany (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227960,
+      "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+      "url": "https://open.spotify.com/track/1tkMs9wDPknQ3ZHcKDw1ES"
     },
     {
       "album": {
@@ -135,7 +179,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227960,
       "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
       "url": "https://open.spotify.com/track/2aIdVb8v9KTpEZnftkz2mD"
@@ -157,6 +201,24 @@
       "duration_ms": 47722,
       "name": "Career Reflections featuring Brandy",
       "url": "https://open.spotify.com/track/2x5D8ht7dQigcmpeH8PwMS"
+    },
+    {
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288333,
+      "name": "Cry Me a River",
+      "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
       "album": {
@@ -189,7 +251,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228266,
       "name": "Do You",
       "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
@@ -215,7 +277,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213226,
       "name": "Don't Mess With My Man (feat. Brian Casey & Brandon Casey)",
       "url": "https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y"
@@ -255,10 +317,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214600,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz"
+    },
+    {
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "album": {
@@ -313,7 +393,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
@@ -338,6 +418,24 @@
     },
     {
       "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
+    },
+    {
+      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -349,7 +447,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224146,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
@@ -367,7 +465,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 261426,
       "name": "Go On Girl",
       "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
@@ -385,7 +483,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262226,
       "name": "Happy",
       "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
@@ -464,6 +562,32 @@
     },
     {
       "album": {
+        "name": "Bad Boy 20th Anniversary Box Set Edition",
+        "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
+      },
+      "artists": [
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4rhq9myoBjElSDOpaFZiaV"
+        },
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt"
+    },
+    {
+      "album": {
         "name": "From The Bottom To The Top",
         "url": "https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f"
       },
@@ -479,7 +603,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251040,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F"
@@ -584,6 +708,28 @@
     },
     {
       "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "Kiss Kiss (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -643,7 +789,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215853,
       "name": "Like This (feat. Eve)",
       "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
@@ -719,7 +865,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231173,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD"
@@ -737,7 +883,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257426,
       "name": "Need U Bad",
       "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
@@ -780,6 +926,24 @@
     },
     {
       "album": {
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP"
       },
@@ -791,10 +955,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242466,
       "name": "Officially Missing You",
       "url": "https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo"
+    },
+    {
+      "album": {
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
       "album": {
@@ -809,7 +995,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 193093,
       "name": "Peaches & Cream",
       "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
@@ -885,7 +1071,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232840,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD"
@@ -907,7 +1093,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220866,
       "name": "Shoulda Let You Go",
       "url": "https://open.spotify.com/track/1yTfczdv9qGCfJpZF3y4yQ"
@@ -943,10 +1129,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258666,
       "name": "Slow Down - 12\" Version",
       "url": "https://open.spotify.com/track/3SfZpKjMwvUQKGCty1dJ0T"
+    },
+    {
+      "album": {
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258666,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "album": {
@@ -987,7 +1191,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
@@ -1005,7 +1209,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250106,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
@@ -1093,7 +1297,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251640,
       "name": "Thank God I Found You (feat. Joe & Nas) - Make It Last Remix Edit",
       "url": "https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O"
@@ -1111,7 +1315,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215960,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/08fhbfRSg7eEH0IZT7pB6a"
@@ -1151,7 +1355,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
@@ -1231,7 +1435,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232560,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5HIH7viDwuewZiv6Hs75ys"
@@ -1253,7 +1457,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
@@ -1271,10 +1475,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229040,
       "name": "Yo (Excuse Me Miss)",
       "url": "https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl"
+    },
+    {
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "album": {

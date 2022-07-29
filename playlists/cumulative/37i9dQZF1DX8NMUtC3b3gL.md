@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-167 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+171 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,9 @@
 | [Another](https://open.spotify.com/track/1KnTl30Tw99mB01rlm5VpN) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Another](https://open.spotify.com/album/7iH8qptr0RgdF8at4M9WzC) | 2:32 | 2022-05-27 |  |
 | [Anywhere](https://open.spotify.com/track/0eHG8d8vt9Od9fGU6mnrCL) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Anywhere](https://open.spotify.com/album/7IKpVNi7hkPwUYP6lAvPnD) | 1:34 | 2022-05-27 |  |
 | [Artifacts](https://open.spotify.com/track/0X3tR78eWkLh5yBDBXb1tF) | [Hi Hotel](https://open.spotify.com/artist/5XpDsM9N17TONXweroKN59) | [Cassette](https://open.spotify.com/album/2Q6LqD1dFcW7IuekRJ9C01) | 3:42 | 2022-05-27 |  |
+| [Baciati dall'Alba](https://open.spotify.com/track/1jxRI7gGElI8Ub2r3RfGmu) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Dolce far niente](https://open.spotify.com/album/6fwztztqcC6sBS4ceFEpiX) | 1:35 | 2022-07-29 |  |
 | [Bad Habits](https://open.spotify.com/track/3UjtiMq0d84U4XhSnDN5WL) | [b\_piranha](https://open.spotify.com/artist/2wA2YjeXY6LG3dT8Zz2blY) | [Bad Habits](https://open.spotify.com/album/5G9E2WxtFlyKfVpAteBJ6f) | 2:36 | 2022-05-27 |  |
+| [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 | 2022-07-29 |  |
 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 | 2022-05-27 | 2022-07-01 |
 | [Bravado](https://open.spotify.com/track/7sBADAbyjri5eDaU8qtCOK) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Feeling Something](https://open.spotify.com/album/4NQa8HcFQvWCheoZlMzMAc) | 2:07 | 2022-05-27 |  |
 | [Break Of Dawn](https://open.spotify.com/track/412vyUC3xYk6NtHvscmgXl) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx), [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Break Of Dawn](https://open.spotify.com/album/3Ywf3SRxZZaNoxHY1Hxtuc) | 2:32 | 2022-05-27 | 2022-07-01 |
@@ -35,6 +37,7 @@
 | [Cloud Base](https://open.spotify.com/track/3l4Sut89BnuWk7Ndn250DM) | [Timestreet](https://open.spotify.com/artist/1ZUmSYkOlZf9weqimkmtC6) | [Waterfalls](https://open.spotify.com/album/3NKUeD45OF8kHbL2zWNytO) | 2:37 | 2022-05-27 |  |
 | [Cloud Forests](https://open.spotify.com/track/6CQ0fkFPyBvTseKtCflFOr) | [Glen Lumens](https://open.spotify.com/artist/2CYMEJvnwlBrxNQo8eHdDS), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [Cloud Forests](https://open.spotify.com/album/3uJ8oFUdjZFMAHzCLV7C5f) | 2:45 | 2022-06-24 | 2022-07-01 |
 | [Cockpit Country](https://open.spotify.com/track/2C1NJiTMTVsLzpEn2BYw6e) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Cockpit Country](https://open.spotify.com/album/1GKmHhrSTwZnN2HnBwslqr) | 1:39 | 2022-06-17 |  |
+| [cold green tea](https://open.spotify.com/track/0w0UHCWlEoeCP9iXRuJwB9) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [cold green tea](https://open.spotify.com/album/31lyYka2W7Gy4N0CnH0KeK) | 2:33 | 2022-07-29 |  |
 | [Commes Des Garcon](https://open.spotify.com/track/4IXqR1jOqmBSXKhwkYyjL6) | [Hit Ropes](https://open.spotify.com/artist/58z4Qnl7rsu6egD2pMMWcG) | [Day Trip](https://open.spotify.com/album/6MFyOBoHdsSY8npqKydG1a) | 4:11 | 2022-05-27 |  |
 | [Complicated](https://open.spotify.com/track/7kTRDpp1p3Yd2gX5kEOyaX) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Complicated](https://open.spotify.com/album/1oinxow7bxtoCfkATM8Hzo) | 2:37 | 2022-05-27 | 2022-07-15 |
 | [Creme De La Creme](https://open.spotify.com/track/5q3ixgSPx7VC5pC2O1CnQe) | [G O L](https://open.spotify.com/artist/5UnjO9XLvCeBWIP1fiOden) | [Creme De La Creme](https://open.spotify.com/album/7rbmVzwB6iBNmLkMGoUmr3) | 2:15 | 2022-05-27 |  |
@@ -79,6 +82,7 @@
 | [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
+| [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 |  |
 | [Let's Downgrade!](https://open.spotify.com/track/3xIjrwRT9LFeMjKAO9NPGy) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Let's Downgrade!](https://open.spotify.com/album/1L1VolV9sQvMotcKQ9JJC3) | 2:21 | 2022-06-24 |  |
 | [Limitless Romance](https://open.spotify.com/track/2MTYZm8JCYRyPvO1wXq9fl) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Limitless Romance](https://open.spotify.com/album/7a7ggcxcyypfeusCE9LARB) | 2:25 | 2022-05-27 |  |
 | [LoFicious](https://open.spotify.com/track/1gH2c0errw3UWdcGUND49e) | [Ingolf](https://open.spotify.com/artist/39O4aZTj38oxLHIAeBuyE7) | [Moninho](https://open.spotify.com/album/3Sx8Ez6VvMbm0plgydVqEi) | 1:41 | 2022-05-27 |  |

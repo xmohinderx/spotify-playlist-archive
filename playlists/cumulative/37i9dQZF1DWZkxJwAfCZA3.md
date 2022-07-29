@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6TshTCYwh9ySzOO6Jy4Ux2"> Maya Jane Coles</a>' favorite tracks\. Updated regularly\. Curated by Maya Jane Coles Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-50 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
+52 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/0LmubJwhwYXatOoMu2UsGp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Guns](https://open.spotify.com/track/60IzOczom5b0OCdryKqutH) | [Guau](https://open.spotify.com/artist/3B09YsVwUYEmbxDAHqJhvs) | [Guns](https://open.spotify.com/album/3wbk0LqWoZ0Azv7hp3iUlS) | 4:19 | 2021-09-16 |  |
 | [Heart Breaker](https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Heart Breaker](https://open.spotify.com/album/1UG9lHQS3y5z56owpsLlI1) | 6:14 | 2021-09-16 |  |
 | [His Rope](https://open.spotify.com/track/02epNlK5mV917A8TzXoxso) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:32 | 2021-09-16 |  |
-| [How I](https://open.spotify.com/track/0Or359N2JTZz5wfy4Fyt45) | [RUFUS!](https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj) | [Hatched 30](https://open.spotify.com/album/4SNahl6SnPKSTIPPrCkj5J) | 6:05 | 2021-09-16 |  |
+| [How I](https://open.spotify.com/track/0Or359N2JTZz5wfy4Fyt45) | [RUFUS!](https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj) | [Hatched 30](https://open.spotify.com/album/4SNahl6SnPKSTIPPrCkj5J) | 6:05 | 2021-09-16 | 2022-07-29 |
+| [How I](https://open.spotify.com/track/2M3XIbJQEm25zOFogvcwzT) | [RUFUS!](https://open.spotify.com/artist/42Ay6NrtRwtWHFbUBgmzOj) | [Hatched 30](https://open.spotify.com/album/2nQLp3j5BiiyT7ul0kXFbY) | 6:05 | 2021-09-16 |  |
 | [Infrared](https://open.spotify.com/track/0SGiDqVr37ZzbKoHPtygJC) | [Deniro](https://open.spotify.com/artist/5OoDtYl4zYEnvAtFSxqf2W) | [Identifier](https://open.spotify.com/album/7qGpE1HoHANnQSeXnBVSsI) | 6:51 | 2021-09-16 |  |
 | [It's a Dark Day](https://open.spotify.com/track/6vmb3xoRlhN1jc9hX2nLJD) | [DJ Crisps](https://open.spotify.com/artist/0rgmU5SJvHMWARMPDL6b80) | [It's a Dark Day](https://open.spotify.com/album/1aFm8MdagUI5VYtJHYZ0rl) | 6:13 | 2021-09-16 |  |
 | [Know About](https://open.spotify.com/track/36qBEWI66VcB7MdnS9nIuM) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [M.F.S: Observatory](https://open.spotify.com/artist/0UNvC4HpuvEq34FrRSePW8) | [Know About](https://open.spotify.com/album/5Mb42Z0ajvNfN0uDXNAgrB) | 4:57 | 2021-09-16 |  |
@@ -50,7 +51,8 @@
 | [U Trippin](https://open.spotify.com/track/10cj75OrGOzk9ACiG39CzQ) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [The Muses Come Out at Night](https://open.spotify.com/album/6oklxHW7orD7EDYfSwO3Rh) | 6:51 | 2021-09-16 |  |
 | [Under Your Skin \- Club Cut](https://open.spotify.com/track/5XIwAp8P2t0ej7vh3CCqFm) | [Audiojack](https://open.spotify.com/artist/3Uvzk4iffO4mvchgRNJjbs), [Kevin Knapp](https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv) | [Under Your Skin](https://open.spotify.com/album/5SbC5SyzpAGs9VnzKOFfjI) | 6:37 | 2021-09-16 |  |
 | [Universal Future Sound](https://open.spotify.com/track/4WOv3gcmyMcGDlnbN7PQEN) | [Dax J](https://open.spotify.com/artist/2zJJIWKT0LiwdxcwW9RajQ) | [Utopian Surrealism Album Sampler](https://open.spotify.com/album/47jv3feIZiGRmDJVnRoPmT) | 7:50 | 2021-09-16 |  |
-| [Uno A](https://open.spotify.com/track/7iJlLsF5jj3JBwcIDtq0EB) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6) | 5:32 | 2021-09-16 |  |
+| [Uno A](https://open.spotify.com/track/6kIhSbPdypemYcRZtaQ69H) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/5fLv1lxrQ7zvF3pLzMazym) | 5:32 | 2021-09-16 |  |
+| [Uno A](https://open.spotify.com/track/7iJlLsF5jj3JBwcIDtq0EB) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Cadency](https://open.spotify.com/artist/7vtfW4vufE4fom6V6PSIgD) | [Año V\-I](https://open.spotify.com/album/0yvbaYBJiYhcPT2J1fhtk6) | 5:32 | 2021-09-16 | 2022-07-29 |
 | [Variations V2](https://open.spotify.com/track/4C44mvn338js9xEr9X1VMu) | [Radio Slave](https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3) | [Variations](https://open.spotify.com/album/5VBzQX4oT4rFbFo2jLryus) | 10:21 | 2021-09-16 |  |
 | [Walking With Ur Smile](https://open.spotify.com/track/469tf6NgOf4nscrty0G9Us) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 3:42 | 2021-09-16 |  |
 | [Watch & Learn \(feat\. Kid Enigma\)](https://open.spotify.com/track/5wAo9QTLppPX6bJBlSL6rh) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [M.F.S: Observatory](https://open.spotify.com/artist/0UNvC4HpuvEq34FrRSePW8), [Kid Enigma](https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE) | [Know About](https://open.spotify.com/album/5Mb42Z0ajvNfN0uDXNAgrB) | 5:24 | 2021-09-16 |  |

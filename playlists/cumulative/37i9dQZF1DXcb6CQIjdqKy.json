@@ -777,6 +777,24 @@
     {
       "album": {
         "name": "Are We There Yet?",
+        "url": "https://open.spotify.com/album/7CDuEXFRpmqlJbOdcw3ZIq"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307896,
+      "name": "Delightful (The Sower Never Wastes A Tear)",
+      "url": "https://open.spotify.com/track/1KJUtSUzPH7nx8G0Z1KrUN"
+    },
+    {
+      "album": {
+        "name": "Are We There Yet?",
         "url": "https://open.spotify.com/album/4in3Sv8dAflANuxJnt8Qo0"
       },
       "artists": [
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307896,
       "name": "Delightful (The Sower Never Wastes A Tear)",
       "url": "https://open.spotify.com/track/7dF6TYCE35cgOTeVMGmrrC"
@@ -1266,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+    },
+    {
+      "album": {
         "name": "Phenomena (DA DA) Remixes",
         "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
       },
@@ -1277,7 +1313,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154385,
       "name": "Freedom Is Coming - Reimagined",
       "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
@@ -1353,10 +1389,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220800,
       "name": "Glory I Couldn't See - Radio Version",
       "url": "https://open.spotify.com/track/0v95ozLbUJraCb21fP1xqk"
+    },
+    {
+      "album": {
+        "name": "Glory I Couldn't See (Radio Version)",
+        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Glory I Couldn't See - Radio Version",
+      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
     },
     {
       "album": {
@@ -2201,10 +2255,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/2ABtXR684ZxI9PjcFSyj5Y"
+    },
+    {
+      "album": {
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
     },
     {
       "album": {
@@ -3319,6 +3391,28 @@
     {
       "album": {
         "name": "These Same Skies (Studio)",
+        "url": "https://open.spotify.com/album/72875wC7QpXtC9dd8jUzDk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Mi-kaisha Rose",
+          "url": "https://open.spotify.com/artist/2U2ol5NQFCm5zI9NefWhCK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254235,
+      "name": "Never Walk Alone - Studio",
+      "url": "https://open.spotify.com/track/1tDibJz52vz9aIi8CI2p9D"
+    },
+    {
+      "album": {
+        "name": "These Same Skies (Studio)",
         "url": "https://open.spotify.com/album/162JpkoDVC2fowwp1pQ912"
       },
       "artists": [
@@ -3333,7 +3427,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254235,
       "name": "Never Walk Alone - Studio",
       "url": "https://open.spotify.com/track/7AbEm0TbdsKTpK0aMA2QwL"
@@ -4927,6 +5021,24 @@
     {
       "album": {
         "name": "Then Christ Came",
+        "url": "https://open.spotify.com/album/5lcngetkRmDaJCRCufVzYF"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "Then Christ Came",
+      "url": "https://open.spotify.com/track/3NRIwbb9GycU284G6MCZkM"
+    },
+    {
+      "album": {
+        "name": "Then Christ Came",
         "url": "https://open.spotify.com/album/7wLT25KAkHaDjZAxALxUl4"
       },
       "artists": [
@@ -4937,7 +5049,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223586,
       "name": "Then Christ Came",
       "url": "https://open.spotify.com/track/4XRoPS75FwMAI5zajoLerC"

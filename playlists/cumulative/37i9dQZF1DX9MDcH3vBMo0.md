@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-565 songs - 1 day 0 hr 50 min - [published](https://open.spotify.com/playlist/0yUFo2j2g53HOweP6brNAA)
+566 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/0yUFo2j2g53HOweP6brNAA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-04-21 | 2022-07-21 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-04-21 |  |
 | [Lost in Trees](https://open.spotify.com/track/4OKxyAfD6CQaMM8NiJlIPm) | [Quinn Richman](https://open.spotify.com/artist/6kUZujYelwuZqTBiSagcrn) | [Lost in Trees](https://open.spotify.com/album/7yy0RGH5aj74t0EYBeLZHE) | 2:54 | 2022-04-21 |  |
-| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-21 |  |
+| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-21 | 2022-07-29 |
+| [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-20 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-21 |  |
 | [Lullaby](https://open.spotify.com/track/1qfyGqDF1vypYOvglIkIM4) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Lullaby](https://open.spotify.com/album/5eMa53RcT7kpDo5T9LYD1d) | 2:33 | 2022-04-21 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-21 |  |

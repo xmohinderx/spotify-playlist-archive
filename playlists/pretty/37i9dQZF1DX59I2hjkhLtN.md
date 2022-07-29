@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,289 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,306 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Preço Certo](https://open.spotify.com/track/6qmVIklL8rJAyO8pNZnD07) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Preço Certo](https://open.spotify.com/album/2BGx8NF6cixk80Kc4RbNqV) | 3:24 |
-| 2 | [Satisfeito](https://open.spotify.com/track/53un6XZehFDFnNJCersXdp) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Satisfeito](https://open.spotify.com/album/3ian4QXCjTwe8ieHKKMobj) | 3:15 |
+| 2 | [Satisfeito](https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Enquadrado](https://open.spotify.com/album/1FKvPr2K5KPnVSNZ3ulUZU) | 3:15 |
 | 3 | [Welele](https://open.spotify.com/track/3whct7sAj8gHwQj5rNim9L) | [Nilton CM](https://open.spotify.com/artist/4konJYmhNGaurONrcE9JMp) | [Honestamente](https://open.spotify.com/album/4KcbXbCYk5kINfOUI76uFm) | 3:17 |
 | 4 | [Agradeço](https://open.spotify.com/track/1eWINvz1NEVXyskFINj5nT) | [Mary Jane](https://open.spotify.com/artist/7De3aXysEvuHh3pEGZqBau), [Uest](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5) | [Agradeço](https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g) | 2:58 |
 | 5 | [Insanus](https://open.spotify.com/track/3xOhQoNyy1BYdCk6A9SO9W) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Insanus](https://open.spotify.com/album/0AshDpfAYKEMRADbVPZM79) | 2:08 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 57 | [Turbulência](https://open.spotify.com/track/29Tna5t6Mtlg5jJNrAD0fB) | [Fradick Draizzy](https://open.spotify.com/artist/3HSBs2HKfPygr1SpDhwQWO), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Turbulência](https://open.spotify.com/album/5EHxu0zxciAayoNkchD4xL) | 2:25 |
 | 58 | [Não Desistas](https://open.spotify.com/track/0g2mHkXpRXMbmwZcNVu0Gm) | [Sidarta96](https://open.spotify.com/artist/65oPyHbYRBqIrKUl91isU1) | [Não Desistas](https://open.spotify.com/album/15W8AKHBsJIdZsMNeBJ1JL) | 2:41 |
 | 59 | [Longe](https://open.spotify.com/track/66ii269fE5Y774dpOO9a84) | [SINA](https://open.spotify.com/artist/2ge7jCnqVlhZCbB3mtOwTX) | [Longe](https://open.spotify.com/album/1yPNMW19LLKPwnsn9zTFi3) | 2:52 |
-| 60 | [Many Men \- Special Version](https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC) | [DJ Cirofox](https://open.spotify.com/artist/0w6M4MwOc9BCULOgqeNl4p), [Lz XROOTZ](https://open.spotify.com/artist/02bFLZcUEYAiFawaiPgD5V), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men \(Special Version\)](https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R) | 3:07 |
+| 60 | [Many Men](https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men](https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj) | 3:07 |
 | 61 | [Money](https://open.spotify.com/track/7M8KtzROar1vVhhMdYhCQR) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Money](https://open.spotify.com/album/5TBuEtjEKsTspmqj6aeMK4) | 2:31 |
 | 62 | [Sai Feiticeiro](https://open.spotify.com/track/1TnxG0q4CYSg2PyvuIOdjZ) | [Ama G](https://open.spotify.com/artist/5j3HpkNw30Hnq4J8O2GJVa) | [Sai Feiticeiro](https://open.spotify.com/album/6QPfDXLDXwuBLuGpZ3el1G) | 4:11 |
 | 63 | [Elizabeth](https://open.spotify.com/track/5LIzUa3a0UnqveHFrKoRKC) | [GBz\-UK](https://open.spotify.com/artist/4LRrEPvtZgg1I1SSEDac70) | [Elizabeth](https://open.spotify.com/album/3uGcqJ8AmJgCUqeASNshTj) | 4:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 73 | [Dispidida](https://open.spotify.com/track/5vll1bdUAaPHYRHvY1jv3g) | [Nico La Famy](https://open.spotify.com/artist/6OiYd1OPsZnLedI7cdmX6O), [Dany g](https://open.spotify.com/artist/51Dqw2yS6ekQfQJBHdGEGq), [Djahmurai](https://open.spotify.com/artist/4BeApFZpdJXDqnPoM4yCuY) | [Dispidida](https://open.spotify.com/album/0jwnSwco7vUoVawsqtR4uB) | 4:02 |
 | 74 | [Migalhas](https://open.spotify.com/track/2efNQgbiCxyul14somPFfF) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Migalhas](https://open.spotify.com/album/4q5Vt5fUyRAjT363uCRl6W) | 3:22 |
 
-Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDA0NzAwMDAwMTgyMjJmZDQ2MjAwMDAwMDE4MTE1YTA2OTg3`
+Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMDliZGNhMGUzOWFhNGJhNGQ4ZmZkYjYwMjgzYTljYjMw`

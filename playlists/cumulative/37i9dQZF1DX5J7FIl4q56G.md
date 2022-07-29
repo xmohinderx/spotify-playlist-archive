@@ -4,7 +4,7 @@
 
 > The latest and greatest metal tracks\. Cover: Slipknot
 
-1,291 songs - 3 day 15 hr 36 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
+1,293 songs - 3 day 15 hr 43 min - [published](https://open.spotify.com/playlist/5OQh8wHAw9gXsKdDndokZX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [Deathbound \(feat\. Rob Watson\)](https://open.spotify.com/track/5MEy0c82ohVIha9Tqq3HnU) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2), [Rob Watson](https://open.spotify.com/artist/0f2AZ0ttdPVrtYVICA2OPi) | [Deathbound \(feat\. Rob Watson\)](https://open.spotify.com/album/5awaFcEW4Afmb5LqnfNdk0) | 4:39 | 2022-05-20 | 2022-05-27 |
 | [Deathtouch](https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH) | [Deathtouch](https://open.spotify.com/album/4lK1lZBV3S2o8XhMvSbvHH) | 3:45 | 2022-03-03 | 2022-03-11 |
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-07-15 | 2022-07-23 |
-| [Dedication To Flesh](https://open.spotify.com/track/6EzwqSbVFo4lC5yF0P4FXs) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5mmoO045HsspNjifkhNmmZ) | 3:26 | 2022-07-22 |  |
+| [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 | 2022-07-22 |  |
+| [Dedication To Flesh](https://open.spotify.com/track/6EzwqSbVFo4lC5yF0P4FXs) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5mmoO045HsspNjifkhNmmZ) | 3:26 | 2022-07-22 | 2022-07-29 |
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-04-29 |
 | [DEFENSE MECHANISM](https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [DEFENSE MECHANISM](https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR) | 3:37 | 2022-07-15 | 2022-07-23 |
 | [Defiled Again](https://open.spotify.com/track/0WbxIk5w70BZMkGmaXXkMB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [It's Time...To Rise from the Grave](https://open.spotify.com/album/5pL9YDRmrXWNPEJGKiYUXs) | 3:15 | 2022-04-22 | 2022-04-29 |
@@ -1091,7 +1092,8 @@
 | [The Enemy](https://open.spotify.com/track/3mgF9Ku2ufETtnLpCRwyET) | [The GFM Band](https://open.spotify.com/artist/1G2MgpunAePYtc83tCxZYK), [Gold, Frankincense, & Myrrh](https://open.spotify.com/artist/2NzvxoOoIshAvoQ2wYbZhj) | [The Enemy](https://open.spotify.com/album/4SQrKvM6xrxbvGRd33bGty) | 4:21 | 2022-05-13 | 2022-05-20 |
 | [The Flood \(feat\. Blake Bedsaul & Morgan Rose\)](https://open.spotify.com/track/0INZTVhGPG7JpiwAx2jbLp) | [Burden of the Sky](https://open.spotify.com/artist/2jo30v0gfv84HRyL0A9WDW), [Blake Bedsaul](https://open.spotify.com/artist/5ZCx1VyzFfehGpE4wwoyzY), [Morgan Rose](https://open.spotify.com/artist/5Op6GcmwiNCOa0uUsChRmh) | [The Flood \(feat\. Blake Bedsaul & Morgan Rose\)](https://open.spotify.com/album/1Yi2iBSxsehDuYipFMvRtj) | 3:51 | 2022-06-17 | 2022-06-24 |
 | [The Frail](https://open.spotify.com/track/0yq0B53r1gLLLMsYadLI9A) | [RXPTRS](https://open.spotify.com/artist/6wZR4nBBIVGgEzBBtkzkJ8) | [The Frail](https://open.spotify.com/album/05HPD5dlZyeTo6PQIC4luS) | 4:36 | 2022-05-13 | 2022-05-20 |
-| [The Future Says Thank You](https://open.spotify.com/track/3f4yp4DitEYXVsB8e0Fvfb) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/1cp5LGXmohuveD6yAsyP54) | 3:38 | 2022-07-22 |  |
+| [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 | 2022-07-22 |  |
+| [The Future Says Thank You](https://open.spotify.com/track/3f4yp4DitEYXVsB8e0Fvfb) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/1cp5LGXmohuveD6yAsyP54) | 3:38 | 2022-07-22 | 2022-07-29 |
 | [The Gang's All Here](https://open.spotify.com/track/1k2wpoh1lyf4lNBUFtdLNK) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/6vLJmmaxCG3wGckRBKc8H7) | 3:38 | 2022-03-24 | 2022-04-01 |
 | [The Generation Of The Unknown](https://open.spotify.com/track/16fVt7LnO4z7N1AoWeigd7) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Rhen](https://open.spotify.com/artist/3I5A4K9cZSEYMrlR0A184k) | [You Are \(Not\) Alone](https://open.spotify.com/album/3raa995fqHsFPOHF85xjbM) | 2:45 | 2022-04-01 | 2022-04-08 |
 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 | 2022-07-08 | 2022-07-16 |

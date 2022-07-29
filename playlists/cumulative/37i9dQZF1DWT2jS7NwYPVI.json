@@ -879,6 +879,24 @@
     {
       "album": {
         "name": "Bad Spell",
+        "url": "https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195358,
+      "name": "Bad Spell",
+      "url": "https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93"
+    },
+    {
+      "album": {
+        "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq"
       },
       "artists": [
@@ -889,7 +907,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C"
@@ -2616,7 +2634,7 @@
     },
     {
       "album": {
-        "name": "Deep Cuts",
+        "name": "DEEP CUTS",
         "url": "https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO"
       },
       "artists": [
@@ -2629,7 +2647,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254129,
-      "name": "Deep Cuts",
+      "name": "DEEP CUTS",
       "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
     },
     {
@@ -6735,6 +6753,28 @@
     {
       "album": {
         "name": "(e)motion sickness",
+        "url": "https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185778,
+      "name": "Maniac (feat. Lindsey Stirling)",
+      "url": "https://open.spotify.com/track/68IZ94fW8i2g1b5zJeJZEU"
+    },
+    {
+      "album": {
+        "name": "(e)motion sickness",
         "url": "https://open.spotify.com/album/5Z9uaCooRD6HCzB8XqtxOZ"
       },
       "artists": [
@@ -6749,7 +6789,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185882,
       "name": "Maniac (feat. Lindsey Stirling)",
       "url": "https://open.spotify.com/track/3UOvbXlfZ34xiN1y0Mrjh9"
@@ -7343,10 +7383,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201333,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J"
+    },
+    {
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G"
     },
     {
       "album": {
@@ -7373,6 +7431,32 @@
     {
       "album": {
         "name": "My Friends",
+        "url": "https://open.spotify.com/album/4ny79UyAfOylO1MiMQo8Pp"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192371,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/2yS6CimlH5ZIU61HsCtLxg"
+    },
+    {
+      "album": {
+        "name": "My Friends",
         "url": "https://open.spotify.com/album/6bS31F8OQXh9Jd6YRWLsMa"
       },
       "artists": [
@@ -7391,7 +7475,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192371,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/3kkKjwmYd11TCpQWCunWXD"
@@ -9071,7 +9155,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
@@ -9089,7 +9173,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 197995,
       "name": "Save Yourself - Japanese Version",
       "url": "https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9"
@@ -9197,10 +9281,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236826,
       "name": "Scared Together",
       "url": "https://open.spotify.com/track/0TiFytLGWmpb19yI0jOe3N"
+    },
+    {
+      "album": {
+        "name": "Scared Together",
+        "url": "https://open.spotify.com/album/48lWaEKSlFV0VzV0B5PWle"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236826,
+      "name": "Scared Together",
+      "url": "https://open.spotify.com/track/1izfiChi4WU4EVXhhRtbcR"
     },
     {
       "album": {
@@ -9769,10 +9871,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200210,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/4cKYUcPZBniJthOcf89r20"
+      },
+      "artists": [
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200210,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/75CAy481QzLqCOKggIpsFi"
     },
     {
       "album": {

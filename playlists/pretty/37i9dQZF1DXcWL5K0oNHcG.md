@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: MONKY Dee Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,040 likes - 85 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,229 likes - 85 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 59 | [Be Blessed](https://open.spotify.com/track/1ZWPy0xWFMW2jL39eKFaNd) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T), [Steve Jordan](https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Clifford Carter](https://open.spotify.com/artist/4leUgqPn0NjDmWMBnOP5ud) | [Be Blessed](https://open.spotify.com/album/6g7AOtd94FFQq52geFt4Gx) | 5:19 |
 | 60 | [The Müllers](https://open.spotify.com/track/7GibKkf4JiiufIi7LneyqZ) | [Klawo](https://open.spotify.com/artist/6r5d1Zks1Q9qiiDmo3Gwox) | [Klawo](https://open.spotify.com/album/5pzGNRuE5Vn2x2tirrNwyF) | 5:07 |
 | 61 | [Quietest In The Room](https://open.spotify.com/track/275AxwNM7VYl1SYwa1ptRE) | [KVMTZ](https://open.spotify.com/artist/1D8kPNLkel9FZFCwSHkZ95) | [Quietest In The Room](https://open.spotify.com/album/0ytOZdDbhr8DfEezUquzEQ) | 3:02 |
-| 62 | [Tahin](https://open.spotify.com/track/4IBvlXUWv3ClXGbp42QKCH) | [TOYTOY](https://open.spotify.com/artist/3OYznxXLgTCCAWGCpOd4I8), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Originals 2](https://open.spotify.com/album/7DkNik8nf6tZMl6dOULW0R) | 2:48 |
+| 62 | [Tahin](https://open.spotify.com/track/6ojz8N29wLw9CUblt90qKn) | [TOYTOY](https://open.spotify.com/artist/3OYznxXLgTCCAWGCpOd4I8), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Tahin](https://open.spotify.com/album/7E1sTPZzOVV2qtyOBERpsh) | 2:48 |
 | 63 | [Baltimore](https://open.spotify.com/track/0PTdxZ0QwqFFP1Zr0wtlEz) | [Ray Estaire](https://open.spotify.com/artist/0lKJikwQ5t9bivXQHdOzbq) | [Baltimore](https://open.spotify.com/album/1tuRVv8vSpzKvh9aO1SnwA) | 5:16 |
 | 64 | [Ode to Europe](https://open.spotify.com/track/4JUMQpi7O1azMkVJjT6Vl2) | [Matt Anderson Quartet](https://open.spotify.com/artist/7bIhgczU76C2iclrh7MKKN) | [The Town and the City](https://open.spotify.com/album/5smQKkZKie7KBLiuRS2sql) | 8:22 |
 | 65 | [Olympus](https://open.spotify.com/track/75drB8mC9kdS43faubXluE) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Olympus](https://open.spotify.com/album/3QDjp3P2RKTyIO5K2tcMKJ) | 6:12 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 84 | [Kauai](https://open.spotify.com/track/1eBtqzkwNl4vzpqkclynDw) | [Makadi](https://open.spotify.com/artist/1rEQ6P5WQcRxmHkH9d43Ld) | [BRGNDY](https://open.spotify.com/album/7815yHEIOhqzMytNCPelra) | 2:36 |
 | 85 | [Mallscape](https://open.spotify.com/track/62SyFkYuSbRwhaJbtJESrd) | [Russell Favret](https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s) | [Mallscape](https://open.spotify.com/album/7MCDcBv9hxGFb4ebdDKxQx) | 2:29 |
 
-Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAzNDAwMDAwMTgyM2RjZmJhNzgwMDAwMDE4MjNhZDU5Y2Q1`
+Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAwMGJiNTExYTg5MTk2MGY2YTBhMmUzNWNiNTg3NTRjMWNj`

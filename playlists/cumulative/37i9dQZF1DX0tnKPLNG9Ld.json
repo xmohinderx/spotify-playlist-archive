@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 146173,
       "name": "Between The Devil And The Deep Blue Sea",
       "url": "https://open.spotify.com/track/6INVoNpTuZ2Uqi588Y5Fi2"
@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Bossa Antigua",
+        "url": "https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw"
+    },
+    {
+      "album": {
         "name": "The Complete RCA Victor Recordings",
         "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284373,
       "name": "Bossa Antigua",
       "url": "https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe"
@@ -380,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Hello Dolly To Goodbye Charlie",
+        "url": "https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124560,
+      "name": "Call Me Irresponsible",
+      "url": "https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5"
+    },
+    {
+      "album": {
         "name": "Oh! Look At Me Now/Hello Dolly To Goodbye Charlie",
         "url": "https://open.spotify.com/album/00guJqBHUMK4qJ6ZFEFggL"
       },
@@ -391,7 +427,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124560,
       "name": "Call Me Irresponsible",
       "url": "https://open.spotify.com/track/73sTJPWNYh2OZJdz41N4VR"
@@ -427,10 +463,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197626,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/35g4rTuhADuucoPzq01UIk"
+    },
+    {
+      "album": {
+        "name": "The Essential Fred Astaire",
+        "url": "https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198106,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN"
     },
     {
       "album": {
@@ -456,6 +510,24 @@
     },
     {
       "album": {
+        "name": "Harmonica Jazz",
+        "url": "https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j"
+      },
+      "artists": [
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132144,
+      "name": "Cocktails For Two",
+      "url": "https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK"
+    },
+    {
+      "album": {
         "name": "The Real... Toots Thielemans",
         "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
@@ -467,7 +539,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133480,
       "name": "Cocktails for Two",
       "url": "https://open.spotify.com/track/2LKQVRrrXW7cN34JJYmzC1"
@@ -543,7 +615,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155000,
       "name": "Destination Moon - 1997 Remaster",
       "url": "https://open.spotify.com/track/0SdLUQBG2EQBX7bEAcxA6m"
@@ -579,10 +651,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194840,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/1DQJd9IyanAqaQ04DItMt6"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
       "album": {
@@ -601,7 +691,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163253,
       "name": "Farmer's Market",
       "url": "https://open.spotify.com/track/138uFIGqcqv5e3b0jge5qb"
@@ -641,7 +731,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 147200,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/4eduZPo0PdAhlWRLEiOlSb"
@@ -685,7 +775,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 119533,
       "name": "Give Me the Simple Life",
       "url": "https://open.spotify.com/track/2VVhCjBklmv7SFnOX7P05W"
@@ -739,7 +829,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 103400,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/5cPvxqldO0sK9jjS6JAzHF"
@@ -757,7 +847,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 167853,
       "name": "Happy Little Sunbeam",
       "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
@@ -801,7 +891,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151920,
       "name": "Have You Met Miss Jones?",
       "url": "https://open.spotify.com/track/46JqjQRnB54xVejTR7VUUQ"
@@ -819,7 +909,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
@@ -1057,7 +1147,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 195106,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/3HYAO6bacg5rW3hVH2qoHF"
@@ -1371,7 +1461,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 224266,
       "name": "Lou's Blues",
       "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
@@ -1393,10 +1483,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164840,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi"
+    },
+    {
+      "album": {
+        "name": "Anita O'Day Swings Cole Porter With Billy May",
+        "url": "https://open.spotify.com/album/7fW57iJNSmeL29fUnBTTIO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164840,
+      "name": "Love For Sale - 1959 Version",
+      "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
     },
     {
       "album": {
@@ -1411,7 +1519,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149346,
       "name": "Lullaby of Birdland",
       "url": "https://open.spotify.com/track/1gcGuB0A9uOQxVu0SxeDA3"
@@ -1433,10 +1541,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 171666,
       "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
       "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
+    },
+    {
+      "album": {
+        "name": "The Velvet Fog: The Very Best of Mel Torme",
+        "url": "https://open.spotify.com/album/6M33HTGznZaqauVf3XTRWU"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "Lulu's Back In Town",
+      "url": "https://open.spotify.com/track/6YMbGEs68Nc9B17N5gmGXP"
     },
     {
       "album": {
@@ -1455,7 +1581,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185813,
       "name": "Lulu's Back in Town - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/4ONhNhDkeO9QGUe9MOK0kL"
@@ -1527,7 +1653,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142400,
       "name": "Oh! Look At Me Now",
       "url": "https://open.spotify.com/track/2QgtqdIQJTNhStSWal6ceV"
@@ -1629,7 +1755,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196853,
       "name": "People Will Say We're In Love",
       "url": "https://open.spotify.com/track/2aFhRDBzWZd1KG0OJ8caM4"
@@ -1745,7 +1871,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
@@ -1927,10 +2053,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "album": {
@@ -2025,7 +2169,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 305960,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/0zvEaTWTllcMVWNlOqMnk0"
@@ -2101,7 +2245,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 245800,
       "name": "Too Close For Comfort",
       "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
@@ -2119,7 +2263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
@@ -2141,7 +2285,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151093,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/4ZXPJ8Se9PUMm59rm6ohfd"
@@ -2257,7 +2401,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164000,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
@@ -2293,7 +2437,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 122800,
       "name": "You Couldn't Be Cuter",
       "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"

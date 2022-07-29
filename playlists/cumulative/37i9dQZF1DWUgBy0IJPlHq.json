@@ -421,10 +421,28 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
     },
     {
       "album": {
@@ -779,10 +797,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157080,
       "name": "Colorado Blues",
       "url": "https://open.spotify.com/track/2a1YnK5daxSlKjfYEdTveh"
+    },
+    {
+      "album": {
+        "name": "Run Like a Bull",
+        "url": "https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Culwell",
+          "url": "https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Colorado Blues",
+      "url": "https://open.spotify.com/track/2uug7N1S3J0IXW8LaytlDO"
     },
     {
       "album": {
@@ -844,6 +880,24 @@
     },
     {
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344973,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0uwYQTPWVQjXUKaNgH6oMZ"
+    },
+    {
+      "album": {
         "name": "Country Boy",
         "url": "https://open.spotify.com/album/5wL3srPM9VJ2lnUqwrws4b"
       },
@@ -855,7 +909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344973,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/5YuC9ltT0DKP5IteGHSzbF"
@@ -880,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Western Swing & Waltzes and Other Punchy Songs",
+        "url": "https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192626,
+      "name": "Cowpoke",
+      "url": "https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F"
+    },
+    {
+      "album": {
         "name": "Cowpoke",
         "url": "https://open.spotify.com/album/5lzka2jHklC4W6hYTeoNYd"
       },
@@ -891,7 +963,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl"
@@ -1385,6 +1457,28 @@
     {
       "album": {
         "name": "Welcome 2 Club XIII",
+        "url": "https://open.spotify.com/album/5QO99FKAyigde7NHHyGZaK"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "Forged In Hell And Heaven Sent",
+      "url": "https://open.spotify.com/track/4YzjGUn7KgL2w5d89DeIV0"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Club XIII",
         "url": "https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7"
       },
       "artists": [
@@ -1399,7 +1493,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285866,
       "name": "Forged in Hell and Heaven Sent",
       "url": "https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p"
@@ -1931,10 +2025,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200586,
       "name": "Highway 87",
       "url": "https://open.spotify.com/track/5gDmnDXs2Sjcn05lC0HvFV"
+    },
+    {
+      "album": {
+        "name": "Songs My Friends Wrote",
+        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Highway 87",
+      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
     },
     {
       "album": {
@@ -2167,6 +2279,24 @@
     {
       "album": {
         "name": "Music City USA",
+        "url": "https://open.spotify.com/album/1S3byHYDcWlhc7TVkbG2zY"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201163,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/2xukUi9mX3gH3n6j0aPyD7"
+    },
+    {
+      "album": {
+        "name": "Music City USA",
         "url": "https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG"
       },
       "artists": [
@@ -2177,7 +2307,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201163,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/7DrV8qvP5o1SWonZelyQuX"
@@ -4709,10 +4839,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251293,
       "name": "Wilder Days",
       "url": "https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
       "album": {

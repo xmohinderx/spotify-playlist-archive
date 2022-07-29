@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "ParadoxLive"! HIPHOPメディアミックスプロジェクト「ParadoxLive（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,533 likes - 96 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,582 likes - 96 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 95 | [Voice Drama "FATE" \- Part3](https://open.spotify.com/track/0uFvTwnuX94kgnF0PmmehK) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 16:32 |
 | 96 | [Voice Drama "FATE" \- Part4](https://open.spotify.com/track/4kmr23H13XEzuA1W4DssWT) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 17:14 |
 
-Snapshot ID: `MTY1ODg1MjAzOSwwMDAwMDAwYzAwMDAwMTgyM2I0OTViODAwMDAwMDE3OGZlMTM4NzRh`
+Snapshot ID: `MTY1ODg1MjAzOSwwMDAwMDAwMDc5ZmE0Njc2YzQzNDJhZjBkYjdjNWE2OWFiNzhiMmE2`

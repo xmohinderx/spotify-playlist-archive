@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: FLETCHER
 
-1,163 songs - 2 day 9 hr 49 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,165 songs - 2 day 9 hr 54 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Bittersweet](https://open.spotify.com/track/2BplE8wSkS98zAyqIi89mb) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Bittersweet](https://open.spotify.com/album/7qm3WLq9uemOUDp7P2KHLx) | 2:21 | 2022-02-25 | 2022-03-05 |
 | [Black Cloud](https://open.spotify.com/track/4tBehUVhRGqIUb3rTI9x8h) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/48ukfFIb3SBlV0RHTMohSr) | 3:14 | 2022-06-24 | 2022-07-09 |
 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 | 2022-04-15 | 2022-05-07 |
-| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-15 |  |
+| [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 | 2022-07-15 | 2022-07-29 |
+| [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 | 2022-07-22 |  |
 | [Blindside](https://open.spotify.com/track/47iGN5FfJJnBSZWh5pz1bZ) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Blindside](https://open.spotify.com/album/2iPcf10Dnk8YCSjpnCNH3l) | 3:38 | 2022-04-08 | 2022-04-16 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-04-29 |
 | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA) | 3:04 | 2022-02-18 | 2022-03-12 |
@@ -930,7 +931,8 @@
 | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/track/173ff06by7Ujur3An4cHWf) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Slidin' \(feat\. Kodak Black\)](https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT) | 2:36 | 2022-05-20 | 2022-06-11 |
 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 | 2022-05-13 | 2022-05-20 |
 | [Smoke Alarm](https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Us](https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY) | 3:07 | 2022-07-08 | 2022-07-23 |
-| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 |  |
+| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-15 | 2022-07-29 |
+| [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-07-22 |  |
 | [So Emotional](https://open.spotify.com/track/0TMa5i5gaTQDOTaYMOCvtM) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [So Emotional](https://open.spotify.com/album/2DcoRy7NY9K9WQ6QXS6AI8) | 2:54 | 2022-04-01 | 2022-04-23 |
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-06-10 | 2022-07-02 |
 | [So Good](https://open.spotify.com/track/0ZpHuEhi1CvOJgrqOSy8mv) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [So Good](https://open.spotify.com/album/1n5grA7m8IYGwHp6rUDMR2) | 2:26 | 2022-06-24 | 2022-07-09 |

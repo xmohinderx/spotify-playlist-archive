@@ -85,7 +85,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 159569,
       "name": "Badman",
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248965,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "Darkest Hour [UKF10]",
+        "url": "https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh"
+      },
+      "artists": [
+        {
+          "name": "Mohican Sun",
+          "url": "https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285393,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy"
+    },
+    {
+      "album": {
         "name": "Liquicity Reflections (Part 3)",
         "url": "https://open.spotify.com/album/4ul2wxlcoo00aBjK6YP8wL"
       },
@@ -343,7 +361,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/3Oww84xrmgjyr5J1ilOmAf"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146979,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196173,
       "name": "Eyes Low",
       "url": "https://open.spotify.com/track/4urIo6uuV3Dio7S0mEOjDn"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Falkor's Return",
       "url": "https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ"
@@ -499,6 +517,24 @@
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "album": {
+        "name": "Bohemia",
+        "url": "https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G"
+      },
+      "artists": [
+        {
+          "name": "ILS",
+          "url": "https://open.spotify.com/artist/5IS3dbDJPbnJBUEjQdJhPF"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278280,
+      "name": "Feed The Addiction",
+      "url": "https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n"
     },
     {
       "album": {
@@ -557,7 +593,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161200,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/3B9AHbLlaPrpeOWzbs4gkf"
@@ -597,7 +633,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 260457,
       "name": "Fire",
       "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
@@ -619,7 +655,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203996,
       "name": "Flip The Script",
       "url": "https://open.spotify.com/track/4S5Ns1YZPk4a343w792a1u"
@@ -673,7 +709,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245113,
       "name": "Galaxies",
       "url": "https://open.spotify.com/track/2wJwCrie7euxtBIl1uZGXi"
@@ -811,7 +847,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217142,
       "name": "Higher Purpose",
       "url": "https://open.spotify.com/track/67WV5EiiBY9zWPFnwK3yER"
@@ -829,10 +865,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164571,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/00m57vpWmpD8zuYIIYPhnV"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo"
+      },
+      "artists": [
+        {
+          "name": "Aeden",
+          "url": "https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by"
     },
     {
       "album": {
@@ -847,7 +901,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 266879,
       "name": "HOT DRUM",
       "url": "https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk"
@@ -869,7 +923,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169968,
       "name": "How to Treat You Right (Ruzer Remix)",
       "url": "https://open.spotify.com/track/4ET0dzN5MlTYFYPCfe2RlK"
@@ -891,7 +945,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137977,
       "name": "I don't give a Fuck",
       "url": "https://open.spotify.com/track/7dicq7Osp4mJvqRRFg4EOY"
@@ -909,7 +963,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235876,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/0IBnpls76TVHzixSJsLiQM"
@@ -927,7 +981,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194262,
       "name": "I Swirl",
       "url": "https://open.spotify.com/track/2DZe6IQX5WIhTgr2q5Mu3w"
@@ -949,7 +1003,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215172,
       "name": "If You Wanna",
       "url": "https://open.spotify.com/track/5BO9RCcQFzOcuweoahVaLZ"
@@ -967,7 +1021,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178994,
       "name": "In My Car",
       "url": "https://open.spotify.com/track/6iXxT2TCOyOmq15lDMHmiR"
@@ -989,7 +1043,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 168780,
       "name": "Issa Vibe",
       "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
@@ -1047,7 +1101,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229144,
       "name": "Let's Roll",
       "url": "https://open.spotify.com/track/35lF14PODtapsReNYnN6D9"
@@ -1131,7 +1185,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
@@ -1153,7 +1207,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-12",
+      "date_removed": null,
       "duration_ms": 206399,
       "name": "Open Spaces",
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
@@ -1215,7 +1269,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 200826,
       "name": "Phantom Pt. II",
       "url": "https://open.spotify.com/track/2A3emhzbZo7eSvEUtAm3ZS"
@@ -1233,7 +1287,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211200,
       "name": "Racing Light",
       "url": "https://open.spotify.com/track/0hIq1t9WEjjhm54r22DnGu"
@@ -1255,6 +1309,24 @@
       "duration_ms": 267108,
       "name": "Rain God",
       "url": "https://open.spotify.com/track/4XC8wCNrIneWEL0ihVZDwS"
+    },
+    {
+      "album": {
+        "name": "Rain God",
+        "url": "https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y"
+      },
+      "artists": [
+        {
+          "name": "Dawn Wall",
+          "url": "https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267108,
+      "name": "Rain God",
+      "url": "https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP"
     },
     {
       "album": {
@@ -1317,7 +1389,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274977,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov"
@@ -1387,7 +1459,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 264834,
       "name": "Snake Eyes",
       "url": "https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4"
@@ -1423,7 +1495,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 194050,
       "name": "SUB ZERO",
       "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
@@ -1463,7 +1535,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
@@ -1657,7 +1729,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179238,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA"
@@ -1675,7 +1747,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 304106,
       "name": "Watercolour - Full Version; Single",
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"
@@ -1693,7 +1765,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 194579,
       "name": "where r u",
       "url": "https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn"

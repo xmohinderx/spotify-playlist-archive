@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Armaan Malik
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,717 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,727 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 42 | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Rangisari \(From "Jugjugg Jeeyo"\)](https://open.spotify.com/album/5MB6DWb1irSWaalYH07Uzg) | 3:43 |
 | 43 | [Chaand Baaliyan \- Girl Let Me Tell You](https://open.spotify.com/track/07Wy1eKaBeKTUhCQVPvaKP) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Chaand Baaliyan \(Girl Let Me Tell You\)](https://open.spotify.com/album/2fV058poX4pEmnytGPP80J) | 2:15 |
 | 44 | [Kashmakash](https://open.spotify.com/track/291U0WoWgheq8g2MDm3lgN) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Swastika\-Sagnik](https://open.spotify.com/artist/6KS89X1vj94h6nObBaSCAt) | [Kashmakash](https://open.spotify.com/album/1lH7Gbt8tli2jeZdMTrgL7) | 4:09 |
-| 45 | [Darbadar](https://open.spotify.com/track/7GX4s65YNmIi3rnlZanTlX) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK) | [Darbadar \(From "Ittu Si Baat"\)](https://open.spotify.com/album/5oQsGpxY1UB8IWWARDwpvO) | 3:20 |
+| 45 | [Darbadar \(From "Ittu Si Baat"\)](https://open.spotify.com/track/5AP7uuBkKyNxqSCymIs5Hu) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Darbadar \(From "Ittu Si Baat"\) \- Single](https://open.spotify.com/album/2O48KBLWiZRB9Ouj63AfHC) | 3:20 |
 | 46 | [Ishq ka Manjha \(From "Ardh"\)](https://open.spotify.com/track/2hFqa8F4Gsho7Wg5xCryOl) | [Palash Muchhal](https://open.spotify.com/artist/33YZ8dADtqLFO3Ku60tGVS), [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ishq ka Manjha \(From "Ardh"\)](https://open.spotify.com/album/5vBHU4kC23F6WnnFmfeQ4c) | 4:34 |
 | 47 | [Ijazzat Hai](https://open.spotify.com/track/4CAg8E6aRFqQvYFdMfaCNj) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Ijazzat Hai](https://open.spotify.com/album/3Nye3KwuWgA9NxjFf5zCwC) | 3:15 |
 | 48 | [Jaane Kaise](https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI), [ANA](https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA) | [Jaane Kaise](https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO) | 3:09 |
 | 49 | [Nishaani](https://open.spotify.com/track/5G79CwW6bfDpVFONmjiSO3) | [Ajayank Singh](https://open.spotify.com/artist/6Ru6vD6eHEsxgMe9U8qnGM), [Ana Khan](https://open.spotify.com/artist/0i0yZ1eUzu2zQSpS1eyeSo) | [Nishaani](https://open.spotify.com/album/6QjsvM7dpohwGofretSi86) | 3:26 |
 | 50 | [Hairaan](https://open.spotify.com/track/4mWfZ7Y8uMPOqB6nmv3gBi) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Hairaan](https://open.spotify.com/album/32YGwReeRRTIh8MuT28w3v) | 3:30 |
 
-Snapshot ID: `MTY1ODUwMTQ4MiwwMDAwMDI3NzAwMDAwMTgyMjY2NDQ5MTUwMDAwMDE4MjI0Y2U5NmZj`
+Snapshot ID: `MTY1ODUwMTQ4MiwwMDAwMDAwMDUyNGYzZmQzNTQwYTBhODNmOWRlYjI5NDU4YmE4ZTY3`

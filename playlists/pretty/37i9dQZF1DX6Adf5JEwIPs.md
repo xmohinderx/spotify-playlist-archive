@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Grupo Marca Registrada, Junior H.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,681 likes - 51 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,715 likes - 51 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 50 | [La Lujuria](https://open.spotify.com/track/5G9UJ812F7HetBvOpcRaOe) | [Nuevo Regimiento](https://open.spotify.com/artist/2dYOoYpVWymc4PTl1KR5o6) | [La Lujuria](https://open.spotify.com/album/70ruvzfpRt1Wbr3t5xxTIv) | 2:12 |
 | 51 | [Diablos Somos \(En Vivo\)](https://open.spotify.com/track/0KqHRopQZt62bEXdADhym1) | [Carlos Sillas](https://open.spotify.com/artist/1Ta8B8r9bBCLMUUBbVDnKm) | [Diablos Somos \(En Vivo\)](https://open.spotify.com/album/0vo11WIxiFnbM5AU3wxTpL) | 2:37 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDE4ZTAwMDAwMTgyMjQxMGQ5MDcwMDAwMDE4MjIxZDkyYTFm`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDAwY2E4NWNhMzU3YjE5M2VmMzExNzcxNTEwYjIwNjM3`

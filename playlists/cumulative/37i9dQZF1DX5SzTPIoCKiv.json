@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184847,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/0L8zR080QMU9x9SySCQUG5"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307297,
       "name": "Ain't No Grave",
       "url": "https://open.spotify.com/track/2YGALkTVMM2Lnp4dcCOUDy"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241764,
       "name": "Alive & Breathing (feat. Elle Limebear)",
       "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214173,
       "name": "All God's Children",
       "url": "https://open.spotify.com/track/0DlGAxnYAx5hMSJO3QVPaH"
@@ -129,10 +129,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178461,
       "name": "All I See",
       "url": "https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3"
+    },
+    {
+      "album": {
+        "name": "inhale (exhale)",
+        "url": "https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245424,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF"
     },
     {
       "album": {
@@ -147,10 +165,46 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252257,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/0BzPKbK1FMlEdH7AxrLdgr"
+    },
+    {
+      "album": {
+        "name": "Burn The Ships",
+        "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393360,
+      "name": "Another In The Fire - Live",
+      "url": "https://open.spotify.com/track/5PmHmU5AaBy9ld3bdQkD96"
     },
     {
       "album": {
@@ -187,7 +241,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192980,
       "name": "As For Me (feat. Chris Tomlin)",
       "url": "https://open.spotify.com/track/1XFbNf7O1xycvXDZiO8NsK"
@@ -245,10 +299,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/09VSG1KLDlanpc5o0TNRJE"
+    },
+    {
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "album": {
@@ -270,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
+    },
+    {
+      "album": {
         "name": "A Week Away (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/0dD74nV0Y03hx2nXE6UInb"
       },
@@ -281,10 +375,36 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244020,
       "name": "Best Thing Ever",
       "url": "https://open.spotify.com/track/28NUh4A55zjrDyW744dj4E"
+    },
+    {
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
       "album": {
@@ -303,6 +423,24 @@
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187293,
+      "name": "Broken Things",
+      "url": "https://open.spotify.com/track/4v8GJxLdvUiN7R31cKcmNL"
     },
     {
       "album": {
@@ -335,7 +473,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254383,
       "name": "Canvas And Clay",
       "url": "https://open.spotify.com/track/404RzFqc13ZySX8auBFyub"
@@ -371,10 +509,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281177,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK"
+    },
+    {
+      "album": {
+        "name": "Chain Breaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196466,
+      "name": "Chain Breaker",
+      "url": "https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB"
     },
     {
       "album": {
@@ -389,7 +545,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181853,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/2wcuurzZpZpBz3nvaPTgww"
@@ -407,10 +563,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176702,
       "name": "Church (Take Me Back)",
       "url": "https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp"
+    },
+    {
+      "album": {
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Church (Take Me Back)",
+      "url": "https://open.spotify.com/track/02RCTBFKyLaECOTgfr0zTM"
     },
     {
       "album": {
@@ -443,10 +617,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 329600,
       "name": "Color",
       "url": "https://open.spotify.com/track/5sF2B4qmxPX38mpdEvVM5f"
+    },
+    {
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "album": {
@@ -483,6 +675,24 @@
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/1Y5YioVHxFvkyGlryt0x6O"
+    },
+    {
+      "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Come To the Table",
+      "url": "https://open.spotify.com/track/2gdSplXjHbjMMfLcwl3Nku"
     },
     {
       "album": {
@@ -540,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Followers",
+        "url": "https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Control (Somehow You Want Me)",
+      "url": "https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG"
+    },
+    {
+      "album": {
         "name": "Count on Me",
         "url": "https://open.spotify.com/album/1QURUAttDWCBlv3Av7WpMq"
       },
@@ -555,6 +783,24 @@
       "duration_ms": 226666,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/2IQGuX6Tz6iuwLbfA3zk6Y"
+    },
+    {
+      "album": {
+        "name": "The Story's Not Over",
+        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
     },
     {
       "album": {
@@ -580,6 +826,28 @@
     },
     {
       "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "album": {
         "name": "Own It",
         "url": "https://open.spotify.com/album/4ggS6OmzHrIqpfj0tYdzT0"
       },
@@ -595,10 +863,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 424373,
       "name": "Defender",
       "url": "https://open.spotify.com/track/3VHNtJNVPazkHGpeGgpoOd"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/3wfoaC3ApX2Yf30b7Q7P2q"
     },
     {
       "album": {
@@ -696,6 +982,42 @@
     },
     {
       "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+    },
+    {
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih"
+    },
+    {
+      "album": {
         "name": "Lifer",
         "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
@@ -707,7 +1029,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255160,
       "name": "Even If",
       "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
@@ -747,6 +1069,46 @@
       "duration_ms": 217809,
       "name": "Exit Us",
       "url": "https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m"
+    },
+    {
+      "album": {
+        "name": "Fresh Start",
+        "url": "https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Gabereal",
+          "url": "https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331613,
+      "name": "Eye of the Storm (feat. Gabe Real)",
+      "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
+    },
+    {
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284422,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ"
     },
     {
       "album": {
@@ -815,10 +1177,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162312,
       "name": "Find You",
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
+    },
+    {
+      "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Fires",
+      "url": "https://open.spotify.com/track/3rY3CMg06pvfMdqt04PgZU"
     },
     {
       "album": {
@@ -833,7 +1213,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228826,
       "name": "Fires",
       "url": "https://open.spotify.com/track/5iQtexsXvicSB9vLrpEGyF"
@@ -851,7 +1231,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217444,
       "name": "Follow You Into The Fire",
       "url": "https://open.spotify.com/track/69wTzxjSNve6gAz5WLaIps"
@@ -887,7 +1267,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194800,
       "name": "For My Good",
       "url": "https://open.spotify.com/track/2zRmDaYLsDw208NFV7CpFj"
@@ -959,7 +1339,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191563,
       "name": "Good Memories",
       "url": "https://open.spotify.com/track/4XhrBsxPkuFNAPojs3svt0"
@@ -981,10 +1361,54 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201533,
       "name": "Good To Be Loved By You (with Tyler Hubbard)",
       "url": "https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu"
+    },
+    {
+      "album": {
+        "name": "All Sons & Daughters",
+        "url": "https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296343,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840"
+    },
+    {
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "album": {
@@ -1006,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244066,
+      "name": "Haven't Seen It Yet",
+      "url": "https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz"
+    },
+    {
+      "album": {
         "name": "He Believes In You",
         "url": "https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD"
       },
@@ -1017,7 +1459,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241946,
       "name": "He Believes In You",
       "url": "https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0"
@@ -1035,7 +1477,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225053,
       "name": "He Is",
       "url": "https://open.spotify.com/track/2uO3Ldx1HaCiimUkJwAf6c"
@@ -1089,10 +1531,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273854,
       "name": "Hold Me Together",
       "url": "https://open.spotify.com/track/6pn23TuJqMqYpJNl0guFBJ"
+    },
+    {
+      "album": {
+        "name": "Hold Us Together (Hope Mix)",
+        "url": "https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278108,
+      "name": "Hold Us Together - Hope Mix",
+      "url": "https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl"
     },
     {
       "album": {
@@ -1111,6 +1575,24 @@
       "duration_ms": 242666,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/6zb0RH9FmYB8Ronad1uK02"
+    },
+    {
+      "album": {
+        "name": "Never Lose Sight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY"
     },
     {
       "album": {
@@ -1165,10 +1647,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256133,
       "name": "House Of The Lord",
       "url": "https://open.spotify.com/track/1jLAfwuB7v9lBdwDcJF39G"
+    },
+    {
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "House Of The Lord",
+      "url": "https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY"
     },
     {
       "album": {
@@ -1237,7 +1737,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-08",
+      "date_removed": null,
       "duration_ms": 432640,
       "name": "I Am Loved",
       "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
@@ -1273,7 +1773,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229119,
       "name": "I Believe It Now (Single Version)",
       "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -1291,7 +1791,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 266946,
       "name": "I CHOOSE TO WORSHIP",
       "url": "https://open.spotify.com/track/4lVkwkjR27tEl9i8ZG7MTb"
@@ -1309,7 +1809,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196093,
       "name": "I Don't Want To Miss It",
       "url": "https://open.spotify.com/track/05oo0oo50JXRWah6lVnCg2"
@@ -1439,7 +1939,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 234677,
       "name": "Into The Mystery",
       "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
@@ -1457,10 +1957,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241946,
       "name": "It's Always Been You",
       "url": "https://open.spotify.com/track/4vM708B1zJUObZEzwjZZZK"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203070,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/0MWxVd7Hk952psJoL249TT"
     },
     {
       "album": {
@@ -1475,7 +1993,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203070,
       "name": "Jericho",
       "url": "https://open.spotify.com/track/5pTpq4JWJHkZtcO2BjBN4V"
@@ -1493,7 +2011,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209019,
       "name": "Just As I Am",
       "url": "https://open.spotify.com/track/5UtCtph4JPzc4vLUqYf9DT"
@@ -1555,7 +2073,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 209840,
       "name": "Let It Rain (Is There Anybody)",
       "url": "https://open.spotify.com/track/3Rf7ZckSUqSffVhHmiwOde"
@@ -1580,6 +2098,24 @@
     },
     {
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210697,
+      "name": "Like You Love Me",
+      "url": "https://open.spotify.com/track/33bqWsuJvnjTgAYr8DMadN"
+    },
+    {
+      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1591,7 +2127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
@@ -1627,7 +2163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 214573,
       "name": "Look Up Child - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy"
@@ -1681,7 +2217,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262400,
       "name": "Love Has Won",
       "url": "https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa"
@@ -1747,7 +2283,7 @@
     {
       "album": {
         "name": "All In",
-        "url": "https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW"
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
       "artists": [
         {
@@ -1758,6 +2294,24 @@
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/5oGhtfRrxbMxbGIfCeOgwW"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 225560,
       "name": "Mercy Is A Song",
       "url": "https://open.spotify.com/track/5hEbWH2PJzc19N83i04WyQ"
@@ -1775,7 +2329,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 174438,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz"
@@ -1793,7 +2347,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202046,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo"
@@ -1815,6 +2369,24 @@
       "duration_ms": 187813,
       "name": "Move",
       "url": "https://open.spotify.com/track/6kDAhirLkl5VvKfJN29zfT"
+    },
+    {
+      "album": {
+        "name": "Rivers in the Wasteland",
+        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275560,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
     },
     {
       "album": {
@@ -1901,7 +2473,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200093,
       "name": "New Today",
       "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
@@ -1959,7 +2531,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
@@ -1981,6 +2553,24 @@
       "duration_ms": 205273,
       "name": "Not Finished Yet",
       "url": "https://open.spotify.com/track/6KOODaO7lys3ialQZJh2Db"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "album": {
@@ -2013,7 +2603,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207784,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3oSuWKvHUkNb3AUm6kd2y1"
@@ -2031,7 +2621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 223906,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
@@ -2067,7 +2657,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248386,
       "name": "Ordinary Days",
       "url": "https://open.spotify.com/track/2vfvPpkSwFwsuppSHbLCoR"
@@ -2125,10 +2715,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
+    },
+    {
+      "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320173,
+      "name": "Peace Be Still",
+      "url": "https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B"
     },
     {
       "album": {
@@ -2249,10 +2857,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198986,
       "name": "Reason",
       "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199531,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R"
     },
     {
       "album": {
@@ -2271,6 +2897,24 @@
       "duration_ms": 241746,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/0L9i1UxIS3ElJ0aIZ8e9AS"
+    },
+    {
+      "album": {
+        "name": "I Know A Ghost",
+        "url": "https://open.spotify.com/album/7JiKelPfVrHUCRNsu6k9lq"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "Red Letters",
+      "url": "https://open.spotify.com/track/0ezeXzG4Qi5GJGu9E3W4VY"
     },
     {
       "album": {
@@ -2328,6 +2972,24 @@
     },
     {
       "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -2357,7 +3019,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212066,
       "name": "Rest For Your Soul - Radio Edit",
       "url": "https://open.spotify.com/track/33SARMQfHP0TlKq7ZiLccc"
@@ -2397,7 +3059,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205427,
       "name": "Rise Up (Lazarus)",
       "url": "https://open.spotify.com/track/5whJyPtbKSw3BNU61o9sPE"
@@ -2451,7 +3113,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242432,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3HnuBJfiwfMKaeunoyN4YA"
@@ -2541,7 +3203,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231973,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/2Fu0gTnxT2qTPu2zevJNHW"
@@ -2577,7 +3239,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211133,
       "name": "Source of Life",
       "url": "https://open.spotify.com/track/3tl8OtHXna5VWrb16okaLA"
@@ -2613,10 +3275,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254106,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
+    },
+    {
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "album": {
@@ -2675,7 +3355,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 232333,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1B0kLftVGJsZqJZGdHbAWZ"
@@ -2705,6 +3385,28 @@
       "duration_ms": 211066,
       "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
+    },
+    {
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/5TigSX6SdwoGVhTS3sE8TW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        },
+        {
+          "name": "Dillon Chase",
+          "url": "https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/0Wc49GX11eFZV4BjJd8yh9"
     },
     {
       "album": {
@@ -2795,7 +3497,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268186,
       "name": "The Road",
       "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
@@ -2820,6 +3522,24 @@
     },
     {
       "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "album": {
         "name": "Turn It Over",
         "url": "https://open.spotify.com/album/00FkHcVhwwIzxd6eACpatn"
       },
@@ -2831,7 +3551,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245776,
       "name": "Turn It Over",
       "url": "https://open.spotify.com/track/0B8B1CtiX1UkfWmGV0aU7m"
@@ -2903,7 +3623,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222400,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/5bZQwgrDwYHE1aWWTrjBdD"
@@ -2921,7 +3641,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235760,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
@@ -3023,10 +3743,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200329,
       "name": "Weary Traveler",
       "url": "https://open.spotify.com/track/27YTT1WDp0UL1TdKssgbM1"
+    },
+    {
+      "album": {
+        "name": "Jordan St. Cyr",
+        "url": "https://open.spotify.com/album/3mDTBxxt06UjSoaNj2BpcK"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Weary Traveler",
+      "url": "https://open.spotify.com/track/4GvaupCSw4gKdfP0h9H9AB"
     },
     {
       "album": {
@@ -3067,7 +3805,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266862,
       "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
       "url": "https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x"
@@ -3089,6 +3827,28 @@
       "duration_ms": 208466,
       "name": "Who Else (Single Mix)",
       "url": "https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449253,
+      "name": "Whole Heart (Hold Me Now) - Live",
+      "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
     },
     {
       "album": {
@@ -3121,7 +3881,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
@@ -3157,7 +3917,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194680,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7"
@@ -3175,10 +3935,46 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218146,
       "name": "You've Always Been",
       "url": "https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218665,
+      "name": "You've Always Been",
+      "url": "https://open.spotify.com/track/7s2AninaWICPPvch6wBctw"
+    },
+    {
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Your Love Defends Me",
+      "url": "https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv"

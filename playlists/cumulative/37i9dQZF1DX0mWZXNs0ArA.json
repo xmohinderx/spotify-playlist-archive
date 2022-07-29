@@ -304,6 +304,28 @@
     },
     {
       "album": {
+        "name": "Faster (Sped Up)",
+        "url": "https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce"
+      },
+      "artists": [
+        {
+          "name": "A.Oonthebeat",
+          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146735,
+      "name": "Faster (Sped Up)",
+      "url": "https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3"
+    },
+    {
+      "album": {
         "name": "A.O Ultra",
         "url": "https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L"
       },
@@ -319,7 +341,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146729,
       "name": "Faster - Sped Up",
       "url": "https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy"
@@ -449,10 +471,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 110129,
       "name": "I'm so crazy for youuu </3",
       "url": "https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX"
+    },
+    {
+      "album": {
+        "name": "I'm so crazy for youuu </3",
+        "url": "https://open.spotify.com/album/3uW306euM0l6tAJpae90LS"
+      },
+      "artists": [
+        {
+          "name": "Rebzyyx",
+          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110133,
+      "name": "I'm so crazy for youuu </3",
+      "url": "https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg"
     },
     {
       "album": {
@@ -645,7 +685,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162956,
       "name": "mona lisa - sped up",
       "url": "https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG"

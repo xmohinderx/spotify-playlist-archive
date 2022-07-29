@@ -2,9 +2,9 @@
 
 ### [FRONTEO](https://open.spotify.com/playlist/37i9dQZF1DX6jW9mPgBGv2)
 
-> El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki, De La Ghetto, Quevedo
+> El rango más alto\. Ellos lo tienen y lo saben\. Foto: Duki
 
-64 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
+65 songs - 4 hr 10 min - [published](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2021-12-01 |  |
 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 | 2021-12-01 |  |
 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 | 2021-12-01 |  |
-| [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 |  |
+| [Caso Bugatti](https://open.spotify.com/track/55hvx2D6b0xar5U66kl4MG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Caso Bugatti](https://open.spotify.com/album/42TnzSeAzEeda2PPMs4U63) | 3:17 | 2021-12-01 | 2022-07-29 |
 | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Cazzu: Bzrp Music Sessions, Vol\. 32](https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2) | 2:26 | 2021-12-01 |  |
 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 | 2021-12-01 |  |
 | [ENCHULETIAO](https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:09 | 2022-03-26 |  |
@@ -30,6 +30,7 @@
 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 | 2021-12-01 |  |
 | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Fronteamos Porque Podemos \(feat\. Daddy Yankee, Yandel & Nengo Flow\)](https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc) | 5:15 | 2021-12-01 |  |
 | [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 | 2021-12-01 |  |
+| [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-28 |  |
 | [Gran Vida](https://open.spotify.com/track/2IvmWEs5kz7l8uTUsH2Qox) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:27 | 2022-04-25 |  |
 | [Hitboy](https://open.spotify.com/track/51dqvo5QYezL3rjL6qjksA) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 2:58 | 2021-12-01 |  |
 | [Invicto](https://open.spotify.com/track/7zooAwAq4UbQGXA82G2nVv) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Historias de un Capricornio](https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K) | 4:01 | 2021-12-01 |  |

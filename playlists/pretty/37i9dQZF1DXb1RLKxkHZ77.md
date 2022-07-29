@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nuha Bahrin, Naufal Azrin
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,915 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,040 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 15 | [BILA NANTI](https://open.spotify.com/track/4nAcExb3w5lk5LVGVULfcM) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [BILA NANTI](https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C) | 4:57 |
 | 16 | [Satu Malam Di Temasek](https://open.spotify.com/track/5nsfVwWz1M1sug2ILCVygq) | [Joe Flizzow](https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Satu Malam Di Temasek](https://open.spotify.com/album/6oMP9SqrAAZqr5QR2gVvWl) | 3:37 |
 | 17 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 |
-| 18 | [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 |
+| 18 | [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 |
 | 19 | [Malam Semakin Dingin](https://open.spotify.com/track/5ChJqcOG8z9NgSlFwmfYql) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Malam Semakin Dingin](https://open.spotify.com/album/5f0mJV2GE6xbYVyRm3nowB) | 4:42 |
 | 20 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 |
 | 21 | [Ragu](https://open.spotify.com/track/6EfM9gZnVkp3f13ifmOOz8) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jejak](https://open.spotify.com/album/3wPVyzCeB9iMdqW0RdVRvC) | 3:30 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 25 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 |
 | 26 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 |
 | 27 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 |
-| 28 | [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 |
+| 28 | [Hal Hebat](https://open.spotify.com/track/2AgdGjC0oatOoVa8jEjTRZ) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/1jG6zrzssLdWlKvGfl0FhY) | 5:22 |
 | 29 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 |
 | 30 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 |
 | 31 | [Khilaf Asmara](https://open.spotify.com/track/5ubqF9AMFQ0iU7dUnKi5Hs) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Khilaf Asmara](https://open.spotify.com/album/7x3XbkqzFCKljhqwyyAX11) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 |
 | 50 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 |
 
-Snapshot ID: `MTY1ODkyNzk0MiwwMDAwMDE0MDAwMDAwMTgyM2ZjZjhiYmIwMDAwMDE4MWI1MmEzMjJj`
+Snapshot ID: `MTY1ODkyNzk0MiwwMDAwMDAwMDc5N2NlNTFkMzdjY2QzYmRmM2MzZGU3NGY0ODEyYTBh`

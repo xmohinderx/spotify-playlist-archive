@@ -435,7 +435,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196016,
       "name": "Blanco & Negro",
       "url": "https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA"
@@ -997,7 +997,7 @@
     {
       "album": {
         "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp"
+        "url": "https://open.spotify.com/album/6NGR73dLgiLmHdX35AfZdE"
       },
       "artists": [
         {
@@ -1008,6 +1008,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 199833,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3t8I0xAZsBuNRyVoFazliy"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 199833,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y"

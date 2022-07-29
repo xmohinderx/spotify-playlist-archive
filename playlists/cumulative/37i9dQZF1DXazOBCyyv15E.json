@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: 49th & Main",
+  "description": "The home of the best new alternative music. Cover: Lava La Rue",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -179,6 +179,28 @@
     {
       "album": {
         "name": "4AM",
+        "url": "https://open.spotify.com/album/5KtRQ7foThUhGLBdHgEJkU"
+      },
+      "artists": [
+        {
+          "name": "Anushka",
+          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
+        },
+        {
+          "name": "Wolfgang Fl\u00fcr",
+          "url": "https://open.spotify.com/artist/2bXLBqSNmadcnCjRQaePRj"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283523,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/0DZR0DvzNAOqEA9d1R78gS"
+    },
+    {
+      "album": {
+        "name": "4AM",
         "url": "https://open.spotify.com/album/4fofMHSJocQI6nh7crQwz2"
       },
       "artists": [
@@ -193,7 +215,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283523,
       "name": "4AM",
       "url": "https://open.spotify.com/track/6j6h1dBCJKzTVMmouX9JeQ"
@@ -3490,6 +3512,24 @@
     },
     {
       "album": {
+        "name": "Cross the Sea",
+        "url": "https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216672,
+      "name": "Cross the Sea",
+      "url": "https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5"
+    },
+    {
+      "album": {
         "name": "Cross Yourself",
         "url": "https://open.spotify.com/album/0Uq5Fw1EzZHYBi08BTDz4M"
       },
@@ -4263,7 +4303,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217918,
       "name": "Don't Come Back",
       "url": "https://open.spotify.com/track/0woeyl9aHAxviN2nEcUxmj"
@@ -7231,6 +7271,24 @@
       "duration_ms": 268733,
       "name": "Hold No Grudge - Bonus Track",
       "url": "https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1"
     },
     {
       "album": {
@@ -10994,6 +11052,24 @@
     },
     {
       "album": {
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/6QipvBed5y4lifalcQ4CwO"
       },
@@ -12439,6 +12515,24 @@
       "duration_ms": 151441,
       "name": "poison!",
       "url": "https://open.spotify.com/track/39J00TSoY9aG1TpkseSxoT"
+    },
+    {
+      "album": {
+        "name": "Polygod",
+        "url": "https://open.spotify.com/album/3ckC8EdvfgHQ8lrM0kITWV"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181789,
+      "name": "Polygod",
+      "url": "https://open.spotify.com/track/7ecU6yTdlPj3Tas3hGR6uS"
     },
     {
       "album": {

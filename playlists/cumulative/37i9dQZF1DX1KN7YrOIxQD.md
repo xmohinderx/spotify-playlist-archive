@@ -4,7 +4,7 @@
 
 > Los éxitos del momento en Centroamérica, con Bizarrap y Quevedo en portada.
 
-126 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
+127 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 | 2021-10-08 | 2022-02-05 |
 | [Influencer](https://open.spotify.com/track/5sLeFOCod0pJMxM8CzVc1v) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Influencer](https://open.spotify.com/album/02GbKkHjaMiG88C5Bceolb) | 3:20 | 2022-07-15 |  |
 | [Jangueo](https://open.spotify.com/track/5TzKEqqKpPb2tbgpofiItm) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Jangueo](https://open.spotify.com/album/63YMOhWDb6PtPmQ9V4ygtP) | 3:17 | 2022-02-04 | 2022-02-26 |
-| [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-02-25 |  |
+| [Jordan](https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M) | 2:56 | 2022-02-25 | 2022-07-29 |
+| [Jordan](https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Jordan](https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI) | 2:56 | 2022-07-22 |  |
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2021-10-08 | 2022-04-29 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-06-24 |  |
 | [La Bandi](https://open.spotify.com/track/0aDIBzGaTSs3jTSh3fySgP) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/42ljyrHYLjYnv1kaWzlGoF) | 3:36 | 2022-03-11 | 2022-04-02 |

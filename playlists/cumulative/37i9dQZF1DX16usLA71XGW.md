@@ -4,7 +4,7 @@
 
 > East Africa Queens in their musical element.
 
-60 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
+61 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/2a1bfihdwFyMCcETvTMWBc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Rotate](https://open.spotify.com/track/4EBvUhVhJQVlUueTvH2Hnl) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Rotate](https://open.spotify.com/album/4XYAAKYsUt7MvnhwWdtj0e) | 2:49 | 2022-07-18 |  |
 | [Salsa \(Ready\)](https://open.spotify.com/track/4sA3oaBmIceYBuileHFjEf) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Salsa \(Ready\)](https://open.spotify.com/album/0nrKiDxIeeLFYem4v6vae6) | 3:39 | 2022-07-18 |  |
 | [SARE](https://open.spotify.com/track/6PBPQBCwEecZHzuTKoKjiq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [SARE](https://open.spotify.com/album/2dCE4ncQB0yQ0HAC1B6yyE) | 2:54 | 2022-07-18 |  |
-| [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 |  |
+| [Sitachelewa](https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY) | 3:54 | 2022-07-18 |  |
+| [Sitachelewa](https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1) | [Pryshon](https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Gifted](https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w) | 3:54 | 2022-07-18 | 2022-07-29 |
 | [Sitaki Mazoea](https://open.spotify.com/track/2dmwsNaaASKGnkZZJq7LAD) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sitaki Mazoea](https://open.spotify.com/album/7q5AQ6op2G8ETzjoykpK45) | 2:24 | 2022-07-18 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-07-18 |  |
 | [Skia](https://open.spotify.com/track/5UpnIhGL7UfPcgnLmsmbZU) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH) | [Skia](https://open.spotify.com/album/1lZCh8wawVRNTa5scsx3JY) | 2:58 | 2022-07-18 |  |

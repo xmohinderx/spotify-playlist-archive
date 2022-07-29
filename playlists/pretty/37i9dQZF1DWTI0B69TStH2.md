@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Nastia \| Playlista odświeżana w każdy wtorek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,679 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,690 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Suicide](https://open.spotify.com/track/4beM915ZzEzF0gfxPUMY3y) | [VELKRATIUK](https://open.spotify.com/artist/1NX5jyb39TJKiHqrn3HsRx) | [Suicide](https://open.spotify.com/album/3wMLuEbtVuWwFOhLERuWss) | 3:20 |
 | 100 | [Tlen](https://open.spotify.com/track/6uZqWMccUwbaP3LqlaJDSh) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Tlen](https://open.spotify.com/album/5UAQeFpqKe31gJgbVZezzk) | 3:12 |
 
-Snapshot ID: `MTY1ODc4NjQwMCwwMDAwMDAxZDAwMDAwMTgyMzc1ZmM3OWMwMDAwMDE4MjM1ZDRkMTE0`
+Snapshot ID: `MTY1ODc4NjQwMCwwMDAwMDAwMGZhNzc2MDJmMDMyNDgwMTBmNzZjMjM5MThjZWRlMmNj`

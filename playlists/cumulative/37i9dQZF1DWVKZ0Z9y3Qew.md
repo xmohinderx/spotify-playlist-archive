@@ -4,7 +4,7 @@
 
 > Pacific Northwest music breaking waves\. Cover, TeZATalks
 
-234 songs - 10 hr 54 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
+235 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/7rrnuxThUr8V2Q5Pzc1Cr6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All my time remix](https://open.spotify.com/track/75MthQyiam46pgz8ng9ggR) | [Myke Bogan](https://open.spotify.com/artist/5BLrsIX3Uipmt9QAiZGYEl) | [Sand helps you sea](https://open.spotify.com/album/3Tfh4vxkIhKd8aV6dI6kPw) | 2:37 | 2022-07-01 |  |
 | [Anna Mae](https://open.spotify.com/track/6jLv91MULwexA5OOjkg2vA) | [Maika Million](https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j) | [Anna Mae](https://open.spotify.com/album/0YMscNsYWv29sxxLfVIcOy) | 2:27 | 2022-02-18 | 2022-03-18 |
 | [Anti\-Social](https://open.spotify.com/track/1WydtZgDwzXHUHrXXM64mp) | [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE), [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Blakk Soul](https://open.spotify.com/artist/0gZgdRddDWYxFHUf1BX89S) | [As God Intended](https://open.spotify.com/album/7jws8jyywKHkSGtRKIyfCB) | 3:49 | 2022-02-18 | 2022-03-18 |
-| [Aquarius](https://open.spotify.com/track/7fLYq5pvsCEV39LVzj5yRd) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/00WWldRogRFJKGFHR2GdRT) | 3:04 | 2022-07-22 |  |
+| [Aquarius](https://open.spotify.com/track/1vH1CNL63dMulz5x2mIhaW) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/5q6N52kWVJxH4mwwiI0SLa) | 3:04 | 2022-07-22 |  |
+| [Aquarius](https://open.spotify.com/track/7fLYq5pvsCEV39LVzj5yRd) | [Keys Open Doors](https://open.spotify.com/artist/17VWSnuIuvdgNkBgIBC0jp) | [Feel Something](https://open.spotify.com/album/00WWldRogRFJKGFHR2GdRT) | 3:04 | 2022-07-22 | 2022-07-29 |
 | [B.I.G](https://open.spotify.com/track/1vrWbRfxRyD0XESo4I0TFo) | [BiG Paco](https://open.spotify.com/artist/4dbjkLK7W1zEg5GZX1X8Ft), [BIG Jone$](https://open.spotify.com/artist/6aoASPFrueu2e0EEWSO45X) | [B.I.G](https://open.spotify.com/album/5tLzG3blohQlXTXgJngPCU) | 2:10 | 2022-04-02 | 2022-05-14 |
 | [Bag Right](https://open.spotify.com/track/6T9P4cBsEuy8N1dKjdqkkf) | [Mr\. Nicenice](https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v) | [Bag Right](https://open.spotify.com/album/1ufELs9YcOF1mPbrA4cBep) | 3:13 | 2022-04-02 | 2022-05-28 |
 | [BALLERINAS](https://open.spotify.com/track/0IiIfoiauhTKTBQrmLGYUv) | [4nti.](https://open.spotify.com/artist/7t7QjpE8ZyifcCHdSuebge), [JENKO106](https://open.spotify.com/artist/2HEktPf7LuTmw2mz7vIYTb) | [BALLERINAS](https://open.spotify.com/album/4Kc5zvbjl9J7vsX7xnH5vW) | 2:38 | 2022-07-22 |  |

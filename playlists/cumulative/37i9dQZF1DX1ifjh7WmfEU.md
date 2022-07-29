@@ -4,7 +4,7 @@
 
 > Piano music for your massage session.
 
-155 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
+158 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/0MT14IFeha7RvTUzzRUcTI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Hopeful](https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Hopeful](https://open.spotify.com/album/3z22jBjUyXuZoBhqxS0CQF) | 3:15 | 2022-05-27 |  |
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-27 |  |
 | [I'll Be There \(In Time\)](https://open.spotify.com/track/5TU3nGBwp32iI4ZuA9OFSf) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [I'll Be There \(In Time\)](https://open.spotify.com/album/1zpi4qDUINUCPILwaJZJuO) | 2:59 | 2022-05-27 |  |
-| [Ichi](https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/4wPcgep4roXHBItiHY6YXc) | 3:00 | 2022-05-27 |  |
+| [Ichi](https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/2iN6rDyhD5EDMx8gWJkZXP) | 3:00 | 2022-07-27 |  |
+| [Ichi](https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/4wPcgep4roXHBItiHY6YXc) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2022-05-27 |  |
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2022-05-27 |  |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-05-27 |  |
@@ -83,7 +84,8 @@
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2022-05-27 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-05-27 |  |
 | [Luminous Sky](https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Highlands](https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231) | 2:28 | 2022-05-27 | 2022-07-28 |
-| [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2022-05-27 |  |
+| [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2022-05-27 | 2022-07-29 |
+| [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 | 2022-07-27 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-05-27 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-05-27 |  |
 | [Mangetsu](https://open.spotify.com/track/57p8sEB0RZILwSvgAAJgh4) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Mangetsu](https://open.spotify.com/album/6xldzkLO7dn1jE9qwm51dr) | 2:38 | 2022-07-27 |  |
@@ -124,7 +126,8 @@
 | [Sensibilities](https://open.spotify.com/track/2Utg4Imeeq5cI6DQ8AupwV) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:06 | 2022-05-27 |  |
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-05-27 |  |
 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 | 2022-05-27 |  |
-| [Sincerely](https://open.spotify.com/track/0ZcOyuTyRRZ6c7ZH1kPyXr) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/5kmRHZ0leaOMvS9RHCQmJG) | 2:09 | 2022-05-27 |  |
+| [Sincerely](https://open.spotify.com/track/0ZcOyuTyRRZ6c7ZH1kPyXr) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/5kmRHZ0leaOMvS9RHCQmJG) | 2:09 | 2022-05-27 | 2022-07-29 |
+| [Sincerely](https://open.spotify.com/track/37118DI0c687jeVzVJ7PpU) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/514tfPgBudvUqz3bM5AgYt) | 2:09 | 2022-07-27 |  |
 | [Sleeping Beauty](https://open.spotify.com/track/0l1YnleLOy8MYRImQBYB1Q) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sleeping Beauty](https://open.spotify.com/album/259LOCwtmWn8iDUzgNle8K) | 2:01 | 2022-05-27 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2022-05-27 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-27 |  |

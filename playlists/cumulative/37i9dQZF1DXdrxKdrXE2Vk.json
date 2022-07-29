@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "album": {
         "name": "Believe For It (Live)",
         "url": "https://open.spotify.com/album/1GKmThD0SJDo5YliRPBNL0"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/48xkeL7pEY4x2q2sz1vLMD"
@@ -427,6 +445,28 @@
     {
       "album": {
         "name": "Hope (Live)",
+        "url": "https://open.spotify.com/album/03SB4bjff4Om9xMV37S3hG"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        },
+        {
+          "name": "Justin Benson",
+          "url": "https://open.spotify.com/artist/4rY0dvWnOks5EGKXEXfCIs"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311712,
+      "name": "Even When (feat. Justin Benson) - Live",
+      "url": "https://open.spotify.com/track/3VaadoJF0zjptqIRR4o96D"
+    },
+    {
+      "album": {
+        "name": "Hope (Live)",
         "url": "https://open.spotify.com/album/00mkd51i4j1qYI4w8mhWuX"
       },
       "artists": [
@@ -441,7 +481,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 311712,
       "name": "Even When (Live)",
       "url": "https://open.spotify.com/track/4s5q3Hx8ViuUwYUIwdTxkc"
@@ -933,10 +973,32 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 598982,
       "name": "I Am Your Beloved - Live",
       "url": "https://open.spotify.com/track/13XM0BNHrBkxsoktnEDwyY"
+    },
+    {
+      "album": {
+        "name": "The Land I'm Livin' In (Live)",
+        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598982,
+      "name": "I Am Your Beloved - Live",
+      "url": "https://open.spotify.com/track/3wNS3dTyxxEQQdfDz3yFeK"
     },
     {
       "album": {
@@ -959,10 +1021,36 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 456000,
       "name": "I Believe - Live",
       "url": "https://open.spotify.com/track/1eVfW0BiP2cedS6y2XVkTO"
+    },
+    {
+      "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "I Believe - Live",
+      "url": "https://open.spotify.com/track/6p9Frj8pPOCWol6HMFihSs"
     },
     {
       "album": {
@@ -1186,6 +1274,32 @@
     },
     {
       "album": {
+        "name": "Foundations (Live)",
+        "url": "https://open.spotify.com/album/0WDoGX80kl6qj0pUe9cUKi"
+      },
+      "artists": [
+        {
+          "name": "Gas Street Music",
+          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
+        },
+        {
+          "name": "Millie Ferguson",
+          "url": "https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW"
+        },
+        {
+          "name": "Taku Mudere",
+          "url": "https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305478,
+      "name": "Keep On Proving It - Live",
+      "url": "https://open.spotify.com/track/0ZGv2mkHGQdrFnOO48Pwk0"
+    },
+    {
+      "album": {
         "name": "Keep On Proving It (Live)",
         "url": "https://open.spotify.com/album/4eMHvwwGtOo11ZkwEMu8ce"
       },
@@ -1205,7 +1319,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 305478,
       "name": "Keep On Proving It - Live",
       "url": "https://open.spotify.com/track/1YjQcIfdUki3GZemDcgqgW"
@@ -1322,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Death Died Live from Englishcombe Chapel",
+        "url": "https://open.spotify.com/album/2zScrgRimzjSdu0aLHbTmm"
+      },
+      "artists": [
+        {
+          "name": "Orphan No More Co",
+          "url": "https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382664,
+      "name": "Lost Its Grip (Live)",
+      "url": "https://open.spotify.com/track/6BDE2ZuAzCNS6HgrohrdYF"
+    },
+    {
+      "album": {
         "name": "Death Died Live From Englishcombe Chapel",
         "url": "https://open.spotify.com/album/3Lx6JvFGjpaJTNwEWQxRcS"
       },
@@ -1333,7 +1465,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 382664,
       "name": "Lost Its Grip - Live",
       "url": "https://open.spotify.com/track/0asIMrZC8xusLEpP2sMUVK"
@@ -1667,6 +1799,28 @@
     {
       "album": {
         "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422135,
+      "name": "Resurrender - Live",
+      "url": "https://open.spotify.com/track/2yYsMsc5Ic7HZoOS3DbGMZ"
+    },
+    {
+      "album": {
+        "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/3ShHQPOWPmRQybY6gh1b4g"
       },
       "artists": [
@@ -1681,7 +1835,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 422135,
       "name": "Resurrender - Live",
       "url": "https://open.spotify.com/track/6R6V0yswnkY01L9buDZa7O"
@@ -1717,10 +1871,28 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 503383,
       "name": "Sound Mind - Live",
       "url": "https://open.spotify.com/track/2unqTnIDSnt0i6JtpQmbM5"
+    },
+    {
+      "album": {
+        "name": "The Land I'm Livin' In (Live)",
+        "url": "https://open.spotify.com/album/0GHvAtGhtpQxwi9VPi8C9V"
+      },
+      "artists": [
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503383,
+      "name": "Sound Mind - Live",
+      "url": "https://open.spotify.com/track/61tocgks0qcsTuShYOJq0y"
     },
     {
       "album": {
@@ -1779,10 +1951,32 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 354650,
       "name": "Speak To The Mountains - Live From Revival Nights",
       "url": "https://open.spotify.com/track/1ryMCExZFXLu9i7gymKRMH"
+    },
+    {
+      "album": {
+        "name": "Speak To The Mountains",
+        "url": "https://open.spotify.com/album/1yS1JZVGvt5kGuYvVd9EQ6"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354650,
+      "name": "Speak To The Mountains - Live From Revival Nights",
+      "url": "https://open.spotify.com/track/5HXrKsddSznt2mk2QZmigu"
     },
     {
       "album": {
@@ -2055,10 +2249,36 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259750,
       "name": "To Be Known",
       "url": "https://open.spotify.com/track/3UHZO7O6BIeZI3cmXPsuBl"
+    },
+    {
+      "album": {
+        "name": "To Be Known",
+        "url": "https://open.spotify.com/album/3p36MULLWPQRmTzAsZtAd6"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Rory Mckenna",
+          "url": "https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c"
+        },
+        {
+          "name": "Shady Gendy",
+          "url": "https://open.spotify.com/artist/7theWETX3Dtvm23jQVDtHp"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259750,
+      "name": "To Be Known",
+      "url": "https://open.spotify.com/track/4tTzvoeIC5Xts0FeFKgmCB"
     },
     {
       "album": {
@@ -2171,10 +2391,40 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/09duiLJRbYHhY5PMSVP1i9"
+    },
+    {
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2022-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397216,
+      "name": "What He's Done - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
     },
     {
       "album": {

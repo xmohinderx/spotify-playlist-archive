@@ -3274,6 +3274,28 @@
     },
     {
       "album": {
+        "name": "Too Hot To Handle",
+        "url": "https://open.spotify.com/album/3v2XdXdv9v8KZsaaa8Ed5l"
+      },
+      "artists": [
+        {
+          "name": "Fiko",
+          "url": "https://open.spotify.com/artist/1eYLZ92uIQTOyaFn43A0iq"
+        },
+        {
+          "name": "BLUK",
+          "url": "https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Too Hot To Handle",
+      "url": "https://open.spotify.com/track/5k768a973EOTJtVjc7PPWg"
+    },
+    {
+      "album": {
         "name": "Touchdown",
         "url": "https://open.spotify.com/album/2pnH7DX0Mtj88WMkBAcLnK"
       },

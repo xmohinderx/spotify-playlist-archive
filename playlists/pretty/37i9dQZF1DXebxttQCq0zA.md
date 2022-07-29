@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,401 likes - 238 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,654 likes - 238 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 135 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 136 | [Angel Gamma Choir](https://open.spotify.com/track/3ecLObZD4KDhSTokl9HGOS) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Relaxing Delta](https://open.spotify.com/album/5O8YZFDlUoxesk17FCIECn) | 3:46 |
 | 137 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 138 | [Finistère](https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/4lwNTmD62b3cssnfE0G1yr) | 2:21 |
+| 138 | [Finistère](https://open.spotify.com/track/14eatj3LOOiVomamOwczLf) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Finistère](https://open.spotify.com/album/39MfK6NqI34RT34rwvHn2I) | 2:21 |
 | 139 | [Sapphire Destiny](https://open.spotify.com/track/4MX7s8DZ4nIAWhtPzaUK41) | [Real'ax Melody](https://open.spotify.com/artist/0PJmEawyjX5GHTMYmOZSif) | [A Relaxed Sleep](https://open.spotify.com/album/6tK8199QPE2y52zzGjxvkO) | 4:20 |
 | 140 | [Vast Surroundings](https://open.spotify.com/track/6xCgUaot7EEpxQRGtW7S0O) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:13 |
 | 141 | [Phi](https://open.spotify.com/track/48Tgnq986GrPCGJJz65n4M) | [Steven Goldmund](https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3) | [Constants](https://open.spotify.com/album/77TLggcnKVaRn7CyfdbUtH) | 3:45 |
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 145 | [Divine](https://open.spotify.com/track/49WYvbLAlLn9e663fBmCUl) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:49 |
 | 146 | [Dawning](https://open.spotify.com/track/2XEDcR9jHaHJD97TdjjNpF) | [Lights From A Distance](https://open.spotify.com/artist/4LPhXlMmFzBwyQVOCHtQAK) | [Dawning](https://open.spotify.com/album/2Svy1b5ONkkLv8q0brcgse) | 2:47 |
 | 147 | [As the Journey Begins](https://open.spotify.com/track/1FOWBeqc6Bh5oNzTn4Vbhr) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [As The Journey Begins](https://open.spotify.com/album/22La5mDDYfwZq946zZMEG7) | 3:04 |
-| 148 | [Moving Silence](https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW) | 2:05 |
+| 148 | [Moving Silence](https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9) | [Spirits Of Our Dreams](https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss) | [Dream Helpers](https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx) | 2:04 |
 | 149 | [Sylarna](https://open.spotify.com/track/3qbZGh0o76ZCq2dI32cF9o) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Skanderna](https://open.spotify.com/album/1iQ0WNFcTUjZFWg63oBf84) | 4:04 |
 | 150 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 |
 | 151 | [Spirito](https://open.spotify.com/track/7t8ODF7MgfkJzRRkpNb4DP) | [Pathos Humano](https://open.spotify.com/artist/7vXoDYDNvHHzx4DG7T1cO9) | [Sangre](https://open.spotify.com/album/4HZ6xvpX9SxOHE2JX72iar) | 4:38 |
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 190 | [Call to Rest](https://open.spotify.com/track/7FpuImiEfUmOWKKi4UyO9y) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Alert Reducer](https://open.spotify.com/album/0UcleaRv1AYTdADvHWRaXl) | 4:36 |
 | 191 | [Swallows](https://open.spotify.com/track/7AmUyc926ukQr9yzOpmFEG) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Swallows](https://open.spotify.com/album/1hKqfjKLmi6BjUGSzfuLwG) | 2:45 |
 | 192 | [Healing Spell](https://open.spotify.com/track/60SEHfpv0A1UkzwbB8guUO) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Healing Spell](https://open.spotify.com/album/5IByIwRPBjaO6Hg6igyZBw) | 2:48 |
-| 193 | [Owls](https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 2:26 |
+| 193 | [Owls](https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 2:26 |
 | 194 | [The Mystery](https://open.spotify.com/track/0FsQ35iQbVF9UQPZxBhbo1) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [The Mystery](https://open.spotify.com/album/5Khvo321SMlp5HVK6ZZDud) | 3:41 |
 | 195 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
 | 196 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 |
@@ -216,12 +216,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 206 | [Transcendence](https://open.spotify.com/track/4E1jg7m6rq4ofqfoKQ16LN) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Transcendence](https://open.spotify.com/album/0AwlDOSsp2rvCfUEFIpJEy) | 3:53 |
 | 207 | [Behind the Wall](https://open.spotify.com/track/4asYNMN8gnTvd24iUCbLvz) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian](https://open.spotify.com/album/2Dh5NJU1zhKK2hEUKpHWMU) | 3:28 |
 | 208 | [Skylines](https://open.spotify.com/track/3WeYjOyamokKdl3cvQysZq) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Magnetic](https://open.spotify.com/album/6fg80AhUt2EltjNlo2kMZa) | 2:46 |
-| 209 | [Our Secret Universe](https://open.spotify.com/track/5IIZnkPmHE3Kpa5mptrKVD) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/0gPXYxrGPArkcbUDWUkYYi) | 2:22 |
-| 210 | [Fragments Café](https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO) | 3:54 |
-| 211 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 |
-| 212 | [Raindrops](https://open.spotify.com/track/4E0yiWum59pIWFOYhMSmH1) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Far & Away](https://open.spotify.com/album/3nKaL2gpdF60hvUKfMBOBZ) | 3:11 |
+| 209 | [Our Secret Universe](https://open.spotify.com/track/7smnas9qQmvVSiGID6ZNRt) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Morning Dew](https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd) | 2:22 |
+| 210 | [Fragments Café](https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt) | [Paris Atmosphere](https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k) | [Paris Atmosphere](https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb) | 3:54 |
+| 211 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 |
+| 212 | [Raindrops](https://open.spotify.com/track/28xGur60VKWbXN0xO53r28) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 3:11 |
 | 213 | [Embracing \- Nothing But Love](https://open.spotify.com/track/6J7EO3pba2OeePYfO93edR) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [N D E](https://open.spotify.com/album/4K6A8N1N3xP1iu52NqzOpQ) | 4:06 |
-| 214 | [Tomorrow Will Save Us](https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/1IsXOWnEnSntKkJqVaPRhw) | 3:06 |
+| 214 | [Tomorrow Will Save Us](https://open.spotify.com/track/4QqwpUpSkt7WsljQxDAKda) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Tomorrow Will Save Us](https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC) | 3:06 |
 | 215 | [Visions of Sleep and Beyond](https://open.spotify.com/track/3TT0S61x8x2IFUn8lnqjq9) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Visions of Sleep and Beyond](https://open.spotify.com/album/3kCPg1GdYtz8ZdD3NILoTr) | 3:01 |
 | 216 | [The Road](https://open.spotify.com/track/3URXOzRa5EbLWiiriDDDI3) | [Juni Tinley](https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r) | [Escape Gravity](https://open.spotify.com/album/2q8JbhxMmq0UMn3ui8XdvB) | 3:00 |
 | 217 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 237 | [Fantasia Suave](https://open.spotify.com/track/1XeEpMLnB0dwTo1XAqiqbr) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:15 |
 | 238 | [Incan](https://open.spotify.com/track/5UjkShFEMrLqwajnpkzrL6) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Incan](https://open.spotify.com/album/0CmlUS7MiiPSxfP7qlmwzK) | 3:55 |
 
-Snapshot ID: `MTY1ODkzNjM3OCwwMDAwMDA4ZDAwMDAwMTgyNDA1MDQzMWYwMDAwMDE4MTk1ZWYwN2Iw`
+Snapshot ID: `MTY1ODkzNjM3OCwwMDAwMDAwMDA2MzYyZWZkYzBkNTExMzg1MDA5ZTQ2MWQ0NmQwN2Ux`

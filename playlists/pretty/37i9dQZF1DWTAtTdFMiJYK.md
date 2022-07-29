@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,548 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,624 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 7 | [Khabar](https://open.spotify.com/track/56dhkwFTzbq3AS54dguEEH) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Khabar](https://open.spotify.com/album/4nPqoBnVFAWcjDcWGpijBq) | 3:38 |
 | 8 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
 | 9 | [Rahguzar](https://open.spotify.com/track/29aAMNNgGe3g5G4CnwlHuL) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rahguzar](https://open.spotify.com/album/6fsdSpZ9mIXtePUwsNE4v3) | 3:28 |
-| 10 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 |
+| 10 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 |
 | 11 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 12 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 |
 | 13 | [Karwaan](https://open.spotify.com/track/78APpAdpP2eZ5uvTrI6Awx) | [Samarth Swarup](https://open.spotify.com/artist/4aJYDGgfPkCmnWOLQqskNK) | [Karwaan](https://open.spotify.com/album/4sXJC1aQtXFGeqSBfpIuTz) | 4:00 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 71 | [Sunrise](https://open.spotify.com/track/3zMiWxjsnyByaxmPm7Irlf) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Sunrise](https://open.spotify.com/album/3zfkbTXoeZiKLPfkXNYRmn) | 2:54 |
 | 72 | [Boonda Baandi](https://open.spotify.com/track/1CwU0cJqshRIJ14YFAFytm) | [Meghdeep Bose](https://open.spotify.com/artist/1e3Yx1PLC5EP8lz0OFOHda), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Boonda Baandi](https://open.spotify.com/album/7Kxpe3psy5jJQZwBL0JA3S) | 4:22 |
 | 73 | [Khaare Raste](https://open.spotify.com/track/54jXWKDWh2IAFnuYcYEwb3) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Khaare Raste](https://open.spotify.com/album/0UbMs14msg4N7BBzwWh1il) | 4:06 |
-| 74 | [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 |
+| 74 | [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 |
 | 75 | [Kaagaz Ki Naav](https://open.spotify.com/track/0VsdGpccIWa7h8sYZmaO0G) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Kaagaz Ki Naav](https://open.spotify.com/album/6T7enWmASSVnmlkK7UurGu) | 4:57 |
 
-Snapshot ID: `MTY1ODk3MDMyOCwwMDAwMDAwMDM1NTgxZDIyOWQ5YWQ3MWIwN2Y3ZmM0MjVhZTFhMDFj`
+Snapshot ID: `MTY1ODczMDA5MCwwMDAwMDAwMGRkMGJhNDI2ZDNlOTEyNmU0MGY5ODA4MmY0M2JmYzVh`

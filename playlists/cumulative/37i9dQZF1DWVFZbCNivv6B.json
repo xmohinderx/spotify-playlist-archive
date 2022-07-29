@@ -2851,6 +2851,24 @@
     {
       "album": {
         "name": "Que Si Fumo Tanto",
+        "url": "https://open.spotify.com/album/3SBkf0nDvsHIITpG9LLkRL"
+      },
+      "artists": [
+        {
+          "name": "Jauria Santa",
+          "url": "https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220009,
+      "name": "Que Si Fumo Tanto",
+      "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
+    },
+    {
+      "album": {
+        "name": "Que Si Fumo Tanto",
         "url": "https://open.spotify.com/album/1UsVwNTkhyn85UWR6RBbam"
       },
       "artists": [
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220009,
       "name": "Que Si Fumo Tanto",
       "url": "https://open.spotify.com/track/7AZH7Vn8THaOuaCmrKlMAk"

@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169266,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136723,
       "name": "M\u00eame Dans La Mort",
       "url": "https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU"
@@ -2687,6 +2687,24 @@
     {
       "album": {
         "name": "Tears of an Angel",
+        "url": "https://open.spotify.com/album/2MMTFk6cmPIrNPw17aLaB2"
+      },
+      "artists": [
+        {
+          "name": "Kjell \u00c5ge Hartveit Karlsen",
+          "url": "https://open.spotify.com/artist/00hIkKdGrTzRCMvQ3qirHQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176593,
+      "name": "Tears of an Angel",
+      "url": "https://open.spotify.com/track/3n20lU1lPLK86J7AoJ2KMH"
+    },
+    {
+      "album": {
+        "name": "Tears of an Angel",
         "url": "https://open.spotify.com/album/77j8C5X2LtnRFVdzlCjbIm"
       },
       "artists": [
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176593,
       "name": "Tears of an Angel",
       "url": "https://open.spotify.com/track/71BUlq3am1Izd2fo4pqTxC"
@@ -3097,7 +3115,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146901,
       "name": "Words In The Air",
       "url": "https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk"
@@ -3155,7 +3173,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194933,
       "name": "\u00c0 l'aventure",
       "url": "https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm"

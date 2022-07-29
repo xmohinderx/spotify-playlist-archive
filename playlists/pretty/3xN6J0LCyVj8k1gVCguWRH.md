@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3xN6J0LCyVj8k1gVCguWRH)
 
-### [Barack Obama's Summer Playlist 2022](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
+### [Barack Obama’s Summer Playlist 2022](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 87,813 likes - 148 songs - 9 hr 32 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 92,422 likes - 147 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,17 +144,16 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 134 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 |
 | 135 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 |
 | 136 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 |
-| 137 | [Better Days](https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Better Days](https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO) | 2:16 |
-| 138 | [Day After Day](https://open.spotify.com/track/5TH4YDNqAY5fxQPC1Ff6AE) | [Ann Weberg](https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO) | [Day After Day](https://open.spotify.com/album/3oOsVssbG4IgKSEGLx8962) | 4:17 |
-| 139 | [Let Me In](https://open.spotify.com/track/4Yvc45rphVERJgGmUELCD3) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Let Me In](https://open.spotify.com/album/3Jr961DPotjYYddmNMehKN) | 3:06 |
-| 140 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
-| 141 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 |
-| 142 | [Cruel Erosion](https://open.spotify.com/track/4Os9pd2O2BggN62wQn0TQK) | [Only in the Mornings](https://open.spotify.com/artist/5HCwmkzMb29AE70hpCuNQJ) | [Cruel Erosion](https://open.spotify.com/album/2cshHtjdZgz3miuywlk4ao) | 4:04 |
-| 143 | [The Truth](https://open.spotify.com/track/17ybzhdF7J5r7r9VTOCw1r) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk), [Kon Boogie](https://open.spotify.com/artist/6RsnRHy5qbXfKbtr1GjI2c) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:56 |
-| 144 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
-| 145 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
-| 146 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
-| 147 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 |
-| 148 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 |
+| 137 | [Day After Day](https://open.spotify.com/track/5TH4YDNqAY5fxQPC1Ff6AE) | [Ann Weberg](https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO) | [Day After Day](https://open.spotify.com/album/3oOsVssbG4IgKSEGLx8962) | 4:17 |
+| 138 | [Let Me In](https://open.spotify.com/track/4Yvc45rphVERJgGmUELCD3) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Let Me In](https://open.spotify.com/album/3Jr961DPotjYYddmNMehKN) | 3:06 |
+| 139 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
+| 140 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 |
+| 141 | [Cruel Erosion](https://open.spotify.com/track/4Os9pd2O2BggN62wQn0TQK) | [Only in the Mornings](https://open.spotify.com/artist/5HCwmkzMb29AE70hpCuNQJ) | [Cruel Erosion](https://open.spotify.com/album/2cshHtjdZgz3miuywlk4ao) | 4:04 |
+| 142 | [The Truth](https://open.spotify.com/track/17ybzhdF7J5r7r9VTOCw1r) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk), [Kon Boogie](https://open.spotify.com/artist/6RsnRHy5qbXfKbtr1GjI2c) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:56 |
+| 143 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
+| 144 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
+| 145 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
+| 146 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 |
+| 147 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 |
 
-Snapshot ID: `MzI0OSwwZTI4ZmM2ZTQ0ZDgwZDA3MjZkZTE5YTZkNjEzMzY1NTJjMjFmMDhm`
+Snapshot ID: `MzI1MixjOGMxYjczNjIxYTFiZmJiOTk3YjJlMTI4OWU1MWVhZjgzN2NlMWYx`

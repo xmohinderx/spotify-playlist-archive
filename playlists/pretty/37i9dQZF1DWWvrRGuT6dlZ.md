@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Tiara Maimun\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,433 likes - 66 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,18 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 51 | [ICE\-LEMON](https://open.spotify.com/track/027rTH7gb5WmEI1z67mL7t) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [Blank Canvas](https://open.spotify.com/album/6R7Pcj4kp69W8pjBVXu5if) | 1:52 |
 | 52 | [All That Matters](https://open.spotify.com/track/4KehwAKQP0Sl31aOmDZ5Hg) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [All That Matters](https://open.spotify.com/album/7im1alWyGUV9lSXxPUFz7r) | 3:57 |
 | 53 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 |
-| 54 | [WHAT YOU WANT](https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ) | [Zane Cotton](https://open.spotify.com/artist/7nXSLhAflRRo3t0AxWQOBq), [IN THE NOW](https://open.spotify.com/artist/7uBh7DKzz106BQ0VBDEBv6) | [WHAT YOU WANT](https://open.spotify.com/album/35oOzGPopdz0dXGXjK8Imo) | 2:41 |
-| 55 | [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 |
-| 56 | [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 |
-| 57 | [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 |
-| 58 | [Till the end of time](https://open.spotify.com/track/7l5cj7g9WjFhgV68FtR5hG) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Till the end of time](https://open.spotify.com/album/5ap5JUJsoseHLa3QYnNuW6) | 4:00 |
-| 59 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 |
-| 60 | [Minah](https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy) | [abgdanial](https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF), [DANNFOSHO](https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM) | [Minah](https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf) | 2:25 |
-| 61 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 |
-| 62 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 |
-| 63 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 |
-| 64 | [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 |
-| 65 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 |
-| 66 | [Goodbye](https://open.spotify.com/track/0YArqIQ6Hcdcomz0lobOCJ) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Goodbye](https://open.spotify.com/album/2UPncflsN2PT1mOUUKCtZ9) | 3:17 |
+| 54 | [Hindsight](https://open.spotify.com/track/2PIkCsG3y6rcrxQRGShCiR) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/1TBmwdtEcBOKGvPbnAFJ4o) | 3:03 |
+| 55 | [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 |
+| 56 | [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 |
+| 57 | [Till the end of time](https://open.spotify.com/track/7l5cj7g9WjFhgV68FtR5hG) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Till the end of time](https://open.spotify.com/album/5ap5JUJsoseHLa3QYnNuW6) | 4:00 |
+| 58 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 |
+| 59 | [Minah](https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy) | [abgdanial](https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF), [DANNFOSHO](https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM) | [Minah](https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf) | 2:25 |
+| 60 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 |
+| 61 | [BLAZE](https://open.spotify.com/track/0ckAdNFaRgNYboKjJ7iBv3) | [jupiterkid](https://open.spotify.com/artist/5QJNmXd5jutNELRRf5Pl8U) | [camp](https://open.spotify.com/album/1B34JEmiyHN9xCeyM3GTVX) | 3:09 |
+| 62 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 |
+| 63 | [YOUR EYES](https://open.spotify.com/track/7cKS9sDxGbbEe34KwagpoG) | [Kiyne](https://open.spotify.com/artist/1HTJf01tLwR7xXxaH3L92B) | [YOUR EYES](https://open.spotify.com/album/525LxSwLetm5KEbHEwo8ML) | 3:28 |
+| 64 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 |
+| 65 | [Goodbye](https://open.spotify.com/track/0YArqIQ6Hcdcomz0lobOCJ) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Goodbye](https://open.spotify.com/album/2UPncflsN2PT1mOUUKCtZ9) | 3:17 |
 
-Snapshot ID: `MTY1NzgxODAwMCwwMDAwMDA1MTAwMDAwMTgxZmRhNzJhZmYwMDAwMDE4MWI0NGMwYTcw`
+Snapshot ID: `MTY1OTAyNDAwMCwwMDAwMDAwMGIyMWE0Yzk2OGY2ZmU4MjE2NzU3OTEzODdlZTE4NjY1`

@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: El Cuarteto de Nos
 
-114 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
+116 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Calendarios y Acetatos](https://open.spotify.com/track/5MYNZr08MS0VeYYkLPL6hW) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Tienda de Discos](https://open.spotify.com/album/2LV2rvtaeAL9CSc7F7YxNw) | 4:43 | 2021-12-07 |  |
 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 | 2022-03-19 |  |
 | [Cardúmenes](https://open.spotify.com/track/1yPxCvOexqLtUwf3qN44ox) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Cardúmenes](https://open.spotify.com/album/5FVsr5tiRiRIb0RBQu2vze) | 3:05 | 2021-12-07 |  |
-| [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2021-12-07 |  |
+| [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-01 |  |
+| [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2021-12-07 | 2022-07-29 |
 | [Contradicción](https://open.spotify.com/track/6IMOlshlqaBsYulRzzMMXc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb), [Cachin Invernizzi](https://open.spotify.com/artist/0WTGRQKJ0bNZ9cedlfE3hw) | [Contradicción](https://open.spotify.com/album/4qc0pC1BmPkTNdEs0N9tbj) | 4:29 | 2022-03-19 |  |
 | [Corazón](https://open.spotify.com/track/5ubEpPWx9IDf75pmbOfHP8) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP) | [Respirar una Vez Mas](https://open.spotify.com/album/32qXAp0uwu8UOysuzdqlmD) | 4:34 | 2021-12-07 |  |
 | [Corazón de Lava](https://open.spotify.com/track/6UowyibhCgLMU42K6DOEIM) | [Vetusta Morla](https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8) | [Cable a Tierra](https://open.spotify.com/album/3pptf2GjIFWO0JlMbpIkKZ) | 4:16 | 2021-12-07 | 2022-04-29 |
@@ -32,7 +33,8 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/4tjyN06YMetNt75PeFn7kO) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/34cb3MKF8i4X0kDEPjtf4S) | 5:02 | 2021-12-07 | 2022-03-21 |
 | [El Huracán](https://open.spotify.com/track/1f81h4gdHwNXMdyFZ0UL8Q) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Huracán](https://open.spotify.com/album/37Fj54Cl2Fifcc50O2OhpT) | 3:39 | 2021-12-07 |  |
 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 | 2021-12-07 | 2022-02-19 |
-| [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 | 2021-12-07 |  |
+| [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 | 2022-07-01 |  |
+| [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 | 2021-12-07 | 2022-07-29 |
 | [El Tren](https://open.spotify.com/track/0vODZMS37nXEgtS3YKhYze) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Tren](https://open.spotify.com/album/7sFIIffw4qqW42XrGVARHO) | 4:42 | 2022-02-18 |  |
 | [Esquina Impar](https://open.spotify.com/track/6WRGlxDn5cFZiiGpBdDVOc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Esquina Impar](https://open.spotify.com/album/04xk5fZK7cY0Qke2pZQl8r) | 4:45 | 2021-12-07 | 2022-03-21 |
 | [Fiesta en lo del Dr\. Hermes](https://open.spotify.com/track/4KVP6bybvdVxIVg7dcbE8F) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Fiesta en lo del Dr\. Hermes](https://open.spotify.com/album/51cKqAdRkbrPIgbx5ZXjoF) | 4:15 | 2021-12-07 | 2022-04-29 |

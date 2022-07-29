@@ -228,6 +228,28 @@
     },
     {
       "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178225,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/6DQgQrSLYTat76WqutBPUI"
       },
@@ -589,10 +611,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
     },
     {
       "album": {
@@ -1411,7 +1451,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179347,
       "name": "Owo Ni Koko",
       "url": "https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH"
@@ -1993,6 +2033,28 @@
     {
       "album": {
         "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
+    },
+    {
+      "album": {
+        "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th"
       },
       "artists": [
@@ -2007,10 +2069,36 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230721,
       "name": "Time N Affection",
       "url": "https://open.spotify.com/track/1KapwhqF90mrl8aIlagtQR"
+    },
+    {
+      "album": {
+        "name": "To The Beach",
+        "url": "https://open.spotify.com/album/2hxrhZ91PVhpoZBaCLMLSU"
+      },
+      "artists": [
+        {
+          "name": "Bvg Boi Jay",
+          "url": "https://open.spotify.com/artist/3kT1Y27lqDx35NbU1jGR5J"
+        },
+        {
+          "name": "Amvis",
+          "url": "https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED"
+        },
+        {
+          "name": "ThatKidFrom94",
+          "url": "https://open.spotify.com/artist/2fE9BmzaOnVUzNhx91OkA5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "To The Beach",
+      "url": "https://open.spotify.com/track/2JBKNjD8GcbRTg8otsCWm0"
     },
     {
       "album": {
@@ -2033,10 +2121,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217263,
       "name": "To The Beach",
       "url": "https://open.spotify.com/track/7unffucKdD9uCsocyWT9ZP"
+    },
+    {
+      "album": {
+        "name": "DAAANGER",
+        "url": "https://open.spotify.com/album/4wNknHHonRmTicJPAfhdkz"
+      },
+      "artists": [
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Touch Di Road",
+      "url": "https://open.spotify.com/track/367GcZRYfBuX9h9wkR0EL0"
     },
     {
       "album": {
@@ -2099,10 +2205,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174545,
       "name": "Understand",
       "url": "https://open.spotify.com/track/3cC17ZyEHU4ljycyCaWbbr"
+    },
+    {
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu"
     },
     {
       "album": {
@@ -2185,6 +2309,24 @@
       "duration_ms": 181714,
       "name": "We Smoke",
       "url": "https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ"
+    },
+    {
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/5ResSYzjEMB3SbKvC8XmxQ"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178217,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4UYvRJDzEIKvyHRMA8LPNC"
     },
     {
       "album": {

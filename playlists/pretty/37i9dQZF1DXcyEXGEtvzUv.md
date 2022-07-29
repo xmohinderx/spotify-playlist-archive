@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap luso em 2021\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,201 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,215 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 7 | [Imagina](https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js) | [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Imagina](https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh) | 3:43 |
 | 8 | [Tinoni](https://open.spotify.com/track/3x3vUHznzPNEbXTJBUkhZb) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 2:32 |
 | 9 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
-| 10 | [Tequila \- A COLORS SHOW](https://open.spotify.com/track/5vpEYPAHuoLaHOjWni1xs8) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Wave \- A COLORS ENCORE](https://open.spotify.com/album/2WD8PiUCWBEhJpJXRH8Six) | 3:19 |
+| 10 | [Tequila \- A COLORS SHOW](https://open.spotify.com/track/0rUVc7nyw4qXytvodDAlle) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \- A COLORS SHOW](https://open.spotify.com/album/40HvcpWRmkzHzLdveModKu) | 3:19 |
 | 11 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 |
-| 12 | [Nós Pimba](https://open.spotify.com/track/5L9PsYMyTsyiXAbQaGi3aN) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/6GWMRBJ3DrcvocAGYhgSLh) | 3:28 |
+| 12 | [Nós Pimba](https://open.spotify.com/track/19rBtPDO8yQj5uP75UBpbT) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [E Agora Como É Que É](https://open.spotify.com/album/3wDIcln0ShOc0Bh1bngNFJ) | 3:28 |
 | 13 | [Louco](https://open.spotify.com/track/3fExatgv3vCcNT0CuU8mqM) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Coroa](https://open.spotify.com/album/4YgZaF5JQGTOqxes8h5s40) | 4:04 |
 | 14 | [Influencer](https://open.spotify.com/track/5wksDhHGiGwmqSGcozBFu1) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA) | [Mudanças](https://open.spotify.com/album/7pHhSh21J3IqdYdxjCqecZ) | 3:47 |
 | 15 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
 | 16 | [300](https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:17 |
 | 17 | [Pedrinha](https://open.spotify.com/track/7ItPibUAiTPtm2xHjX3aFi) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Pedrinha](https://open.spotify.com/album/6NnLzHbVQHiOhlYJZOLziL) | 2:56 |
 | 18 | [The City is a Jungle](https://open.spotify.com/track/0MrZX4ubbrpfweHuHxXUuk) | [Fumaxa](https://open.spotify.com/artist/1qMTgrvxRRHO3rflIONsCP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [The City is a Jungle](https://open.spotify.com/album/1DU1OLlmOvKknaUfn67ir2) | 4:25 |
-| 19 | [2 da Matina](https://open.spotify.com/track/2Nxl2DRXsj7jkRBQ66GUJv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [2 da Matina](https://open.spotify.com/album/69wSG4zSCMGNb6V7cnxPYS) | 3:31 |
+| 19 | [2 da Matina](https://open.spotify.com/track/6mHEUDWaySfb6YvLC7JgPN) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:31 |
 | 20 | [Na Minha](https://open.spotify.com/track/15CudiW2RzBg2opP4jxFXE) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Na Minha](https://open.spotify.com/album/1MUvM0eDQhzkoQXpFbcgCB) | 3:26 |
 | 21 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 22 | [Cupido](https://open.spotify.com/track/73iofOGRFr7eOsB4a1cT0Y) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Cupido](https://open.spotify.com/album/2L4xWpzZL1nspJXcz8KMNw) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 49 | [Amor Ou Segredo](https://open.spotify.com/track/0NAIF6FSjiH0jECUSy2xtU) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [Amor Ou Segredo](https://open.spotify.com/album/2fY2MEmSGaDqmHFJxj9Eql) | 4:04 |
 | 50 | [Casaco da Moncler](https://open.spotify.com/track/3NwXNPRWsMerVlL0RfkbBA) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Casaco da Moncler](https://open.spotify.com/album/6bjebOg4jFhmBKKkzxXzXd) | 3:19 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwODAwMDAwMTdkNzY0MDg3MDIwMDAwMDE3ZDRkNGY1YzU3`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDg1ZmRhYzNlZTFjY2Y4OWNmNDFkZTFjZDU4MjEyZTg5`

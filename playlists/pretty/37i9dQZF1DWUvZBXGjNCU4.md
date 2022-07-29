@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,101 likes - 131 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,117 likes - 131 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,14 +114,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 104 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 |
 | 105 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 |
 | 106 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
-| 107 | [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 |
+| 107 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 |
 | 108 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 |
 | 109 | [If I Can Make It To The Hill](https://open.spotify.com/track/4CMxXvhCI8kVTsHqdmN2IZ) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [If I Can Make It To The Hill](https://open.spotify.com/album/7Cd8BWAq74gw22EGkK8HIu) | 4:04 |
 | 110 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 |
 | 111 | [Road to Aberdeen](https://open.spotify.com/track/2oNdTP5o9Ry3BWWpPFWrFq) | [Michalina Francis](https://open.spotify.com/artist/4tt13ZKdlzc6s98cdZGf81) | [Golden Opportunity](https://open.spotify.com/album/2fFwjpeF46udY3BXN0qiAn) | 3:47 |
 | 112 | [Long Gone](https://open.spotify.com/track/7oZeBMWwQtci8I9QfeUsmh) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 2:26 |
 | 113 | [Peaceful Workshop](https://open.spotify.com/track/5FsZl5A4Pn38PX1tajTsTB) | [Ewan O'Connoll](https://open.spotify.com/artist/1RiZWCRIUcWj990GDoTQro) | [Peaceful Workshop](https://open.spotify.com/album/632wdGEM8BkJLGGhnCoHcl) | 2:06 |
-| 114 | [Gallowhill](https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/4M7nAqMxiwTcWua278roTf) | 2:05 |
+| 114 | [Gallowhill](https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj) | 2:05 |
 | 115 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 |
 | 116 | [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 |
 | 117 | [Forgotten Promises](https://open.spotify.com/track/0w0RedAq8WsbthP2BLFJkr) | [Giacomo Manaia](https://open.spotify.com/artist/4t76e9ebvylDIUTLrXriVk) | [Forgotten Promises](https://open.spotify.com/album/2CUNI5DLIIFEzugW8zqQcY) | 3:09 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 130 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 | 131 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDAzYjAwMDAwMTgyMjMzNDM0ODkwMDAwMDE4MWRlNDgxYmUy`
+Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDAwMDI3YzU5NzdmNGM1MjM0ZWU3Mzc3YWRjOGQ4YjNmNWVk`

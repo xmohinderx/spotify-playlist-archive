@@ -858,6 +858,36 @@
     },
     {
       "album": {
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj"
+      },
+      "artists": [
+        {
+          "name": "XROOTZ",
+          "url": "https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb"
+        },
+        {
+          "name": "LZ",
+          "url": "https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh"
+        },
+        {
+          "name": "Hoss",
+          "url": "https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4"
+        },
+        {
+          "name": "Boss Proud",
+          "url": "https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187116,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir"
+    },
+    {
+      "album": {
         "name": "Many Men (Special Version)",
         "url": "https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R"
       },
@@ -881,7 +911,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187116,
       "name": "Many Men - Special Version",
       "url": "https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC"
@@ -1352,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Enquadrado",
+        "url": "https://open.spotify.com/album/1FKvPr2K5KPnVSNZ3ulUZU"
+      },
+      "artists": [
+        {
+          "name": "Pardo",
+          "url": "https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195814,
+      "name": "Satisfeito",
+      "url": "https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20"
+    },
+    {
+      "album": {
         "name": "Satisfeito",
         "url": "https://open.spotify.com/album/3ian4QXCjTwe8ieHKKMobj"
       },
@@ -1363,7 +1411,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195814,
       "name": "Satisfeito",
       "url": "https://open.spotify.com/track/53un6XZehFDFnNJCersXdp"

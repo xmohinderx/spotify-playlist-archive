@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Searows \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,383 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,468 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 44 | [The Movie of Us](https://open.spotify.com/track/7F1D9wnYqR3y6Gd5UkiTOj) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [The Movie of Us](https://open.spotify.com/album/1W6ErGuu81Pwr5Lh7h0nOG) | 3:24 |
 | 45 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 |
 | 46 | [Jigsaw](https://open.spotify.com/track/16NDgpxqIktl0Uluplcz9A) | [Emma Worley](https://open.spotify.com/artist/4uKFpcmOUIswqq7B1c1Zdv) | [Sentimentalist](https://open.spotify.com/album/3iFfF1trCX7iUwWf28iJ2w) | 3:26 |
-| 47 | [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 |
+| 47 | [Clockwork](https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:21 |
 | 48 | [River Run](https://open.spotify.com/track/1725wOjQopDGXUqD6n7Cu6) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [River Run](https://open.spotify.com/album/5SIs2da6wmXQw4OFcPsTtp) | 4:25 |
 | 49 | [Far Side of the World](https://open.spotify.com/track/0nnLkKVp5uL2o1mCSPD45x) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG), [Jake Fine](https://open.spotify.com/artist/43Bw9eMbgU3flCZxlk238n) | [Far Side of the World](https://open.spotify.com/album/4QgzaZ3hmSQlfc6vHo3LK3) | 2:56 |
 | 50 | [Just Pick One](https://open.spotify.com/track/1ItOJBHm862L9pnbqKhNTq) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [mama](https://open.spotify.com/track/3JT1HTp2jSF9EbFYoXya68) | [BODE](https://open.spotify.com/artist/6Y5yfIGFf8KBsa4amo2gvj) | [mama](https://open.spotify.com/album/4aYDVap5RkEGK38GTLNeWU) | 3:50 |
 | 100 | [TLC Cagematch](https://open.spotify.com/track/0CHcpZYNvl8dWVcCvlAtxN) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [TLC Cagematch](https://open.spotify.com/album/1CrJt9bDnR6uqLgVL5fuJ9) | 3:52 |
 
-Snapshot ID: `MTY1ODMzMjgwMCwwMDAwMDAxNzAwMDAwMTgyMWM1NjY0YTAwMDAwMDE4MjE4MmM0ZjEw`
+Snapshot ID: `MTY1ODMzMjgwMCwwMDAwMDAwMGIwZDczNGEyYjNlOGQ1ZjRmZDdiNjQzYzFiMDg1OTI5`

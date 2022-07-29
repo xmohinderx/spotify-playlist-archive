@@ -122,6 +122,24 @@
     },
     {
       "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302950,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY"
+    },
+    {
+      "album": {
         "name": "Inside (The Songs)",
         "url": "https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3"
       },
@@ -133,7 +151,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302950,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ"
@@ -437,6 +455,24 @@
     {
       "album": {
         "name": "Butch 4 Butch",
+        "url": "https://open.spotify.com/album/66kse7y7d7ycufUwpUr184"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178318,
+      "name": "Butch 4 Butch",
+      "url": "https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1"
+    },
+    {
+      "album": {
+        "name": "Butch 4 Butch",
         "url": "https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC"
       },
       "artists": [
@@ -447,7 +483,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
       "url": "https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK"
@@ -849,6 +885,24 @@
     {
       "album": {
         "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252630,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml"
+    },
+    {
+      "album": {
+        "name": "Public Void",
         "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
       },
       "artists": [
@@ -859,7 +913,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252630,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/6e0vjU61OuUzcqVKPEXHb4"
@@ -1014,6 +1068,24 @@
     },
     {
       "album": {
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249428,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/2ySaltE2swk0QsimILPK05"
+    },
+    {
+      "album": {
         "name": "Inside (The Songs)",
         "url": "https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3"
       },
@@ -1025,7 +1097,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249428,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI"
@@ -1375,10 +1447,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182786,
       "name": "Mawce",
       "url": "https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7"
+    },
+    {
+      "album": {
+        "name": "Mawce",
+        "url": "https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7"
+      },
+      "artists": [
+        {
+          "name": "Everybody's Worried About Owen",
+          "url": "https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182809,
+      "name": "Mawce",
+      "url": "https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY"
     },
     {
       "album": {
@@ -1516,6 +1606,24 @@
     },
     {
       "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193720,
+      "name": "News At 9",
+      "url": "https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C"
+    },
+    {
+      "album": {
         "name": "News At 9",
         "url": "https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce"
       },
@@ -1527,7 +1635,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193720,
       "name": "News At 9",
       "url": "https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7"
@@ -1839,10 +1947,28 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194165,
       "name": "R\u00e4t",
       "url": "https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v"
+    },
+    {
+      "album": {
+        "name": "Public Void",
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194165,
+      "name": "R\u00e4t",
+      "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Moody beats for sleepless nights.
 
-284 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
+285 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/1KoQ1qVTSCCy8X3hTp8pGe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2022-05-20 |  |
 | [tullio](https://open.spotify.com/track/6xcfCLiTvMlbjx6wIJK1cx) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [patterns](https://open.spotify.com/album/2T4Lh1znFQFCQTzozoO6aX) | 0:58 | 2022-07-01 |  |
 | [Union Station](https://open.spotify.com/track/4sW9IMneuWCFGj3bZDbDcM) | [Calm Like Carl](https://open.spotify.com/artist/4yliz9yN6pHtswgNVEjiw0) | [Astor Place](https://open.spotify.com/album/71nfxEIhkcqhV2oI7o14Ha) | 2:06 | 2022-05-20 |  |
-| [Ups and Downs](https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k), [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU) | [Ups and Downs](https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI) | 2:09 | 2022-05-20 |  |
+| [Ups and Downs](https://open.spotify.com/track/5BA74NJ2labkPFbuB2lMDi) | [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU), [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k) | [Ups and Downs](https://open.spotify.com/album/2E8lMpGLtsymJsFTWE0NIX) | 2:09 | 2022-07-27 |  |
+| [Ups and Downs](https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU) | [Tyler.l](https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic), [Andrew Kyrmpatsos](https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k), [Stardog Lofi](https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU) | [Ups and Downs](https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI) | 2:09 | 2022-05-20 | 2022-07-29 |
 | [Urban Summer](https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Urban Summer](https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2) | 2:42 | 2022-07-15 |  |
 | [Uzak](https://open.spotify.com/track/442yQKLo9FM12Qgv7AoZT3) | [HVMZA XI](https://open.spotify.com/artist/5mHaC40O8DtkjUmHBQCjeZ) | [Uzak](https://open.spotify.com/album/2Kx0ZeUqRZnVM7nUWvYVcS) | 2:29 | 2022-06-03 | 2022-07-28 |
 | [Vaguely Familiar](https://open.spotify.com/track/6idquPxSFRAxjL8YZIuudz) | [Gloomi](https://open.spotify.com/artist/3M6KDspoVN5BoZYYURrvkt) | [Vaguely Familiar](https://open.spotify.com/album/4qSkBz77XobKTbhPfktVNs) | 2:33 | 2022-05-20 |  |

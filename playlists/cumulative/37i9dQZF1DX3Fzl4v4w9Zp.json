@@ -398,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l"
+    },
+    {
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228800,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB"
@@ -557,10 +575,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/0OhZEVzS5iCdPyVANAqGqm"
+    },
+    {
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247293,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
     },
     {
       "album": {
@@ -806,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+    },
+    {
+      "album": {
         "name": "Bronco: Chapter 1",
         "url": "https://open.spotify.com/album/5lGeIKePKFplfWbgfTBA8e"
       },
@@ -817,7 +871,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210840,
       "name": "C'mon Baby, Cry",
       "url": "https://open.spotify.com/track/6RdQx3nZNjYIZ9nlBw6JLG"
@@ -951,10 +1005,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259532,
       "name": "Chardonnay",
       "url": "https://open.spotify.com/track/1LlQ30lScv3YHBzR5jvots"
+    },
+    {
+      "album": {
+        "name": "Nashville No More",
+        "url": "https://open.spotify.com/album/4p6qLQ2eKBQfwaMjzBRrSK"
+      },
+      "artists": [
+        {
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259532,
+      "name": "Chardonnay",
+      "url": "https://open.spotify.com/track/39TOH43UmQRBQZEHEh1FdS"
     },
     {
       "album": {
@@ -1121,10 +1197,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP"
+    },
+    {
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "album": {
@@ -1607,6 +1701,28 @@
     {
       "album": {
         "name": "Welcome 2 Club XIII",
+        "url": "https://open.spotify.com/album/5QO99FKAyigde7NHHyGZaK"
+      },
+      "artists": [
+        {
+          "name": "Drive-By Truckers",
+          "url": "https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285866,
+      "name": "Forged In Hell And Heaven Sent",
+      "url": "https://open.spotify.com/track/4YzjGUn7KgL2w5d89DeIV0"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Club XIII",
         "url": "https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7"
       },
       "artists": [
@@ -1621,7 +1737,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285866,
       "name": "Forged in Hell and Heaven Sent",
       "url": "https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p"
@@ -1853,6 +1969,24 @@
     {
       "album": {
         "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+    },
+    {
+      "album": {
+        "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/1OKpR8qYXdOlf0jNjNuCTa"
       },
       "artists": [
@@ -1863,7 +1997,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 420123,
       "name": "Grow Together",
       "url": "https://open.spotify.com/track/34Rgx9VvqTonPGbE16tTeD"
@@ -1953,10 +2087,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227465,
       "name": "Hawk For The Dove",
       "url": "https://open.spotify.com/track/0YJeobNNtb6ZBtpk2QwA7B"
+    },
+    {
+      "album": {
+        "name": "Hawk For The Dove",
+        "url": "https://open.spotify.com/album/1JoezS6AZYgO7E1VxKZcSy"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Hawk For The Dove",
+      "url": "https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO"
     },
     {
       "album": {
@@ -2033,10 +2185,32 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188196,
       "name": "Hellbent For Leather",
       "url": "https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM"
+    },
+    {
+      "album": {
+        "name": "Co-Starring Too",
+        "url": "https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188196,
+      "name": "Hellbent For Leather",
+      "url": "https://open.spotify.com/track/5Xt2Syl11aWO4EPGJP7cVn"
     },
     {
       "album": {
@@ -3813,10 +3987,50 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
+    },
+    {
+      "album": {
+        "name": "Same History, New Feelings",
+        "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Resentment (New Feelings Version)",
+      "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
+    },
+    {
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "RHODODENDRON",
+      "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
     },
     {
       "album": {
@@ -3831,7 +4045,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
@@ -4197,10 +4411,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187533,
       "name": "Something More Than Love",
       "url": "https://open.spotify.com/track/0FAtowehYhY6B8GWVkKnUt"
+    },
+    {
+      "album": {
+        "name": "Something More Than Love",
+        "url": "https://open.spotify.com/album/3hih4g7LudeBQyzuZZBHrs"
+      },
+      "artists": [
+        {
+          "name": "Lera Lynn",
+          "url": "https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Something More Than Love",
+      "url": "https://open.spotify.com/track/5TyRTaciFtVQE4wXwBnIpw"
     },
     {
       "album": {
@@ -4284,6 +4516,24 @@
     },
     {
       "album": {
+        "name": "I Be Trying",
+        "url": "https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
+    },
+    {
+      "album": {
         "name": "Step In",
         "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
       },
@@ -4295,7 +4545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155026,
       "name": "Step In",
       "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
@@ -4602,6 +4852,28 @@
     },
     {
       "album": {
+        "name": "It's Gonna Be a Long Night",
+        "url": "https://open.spotify.com/album/4xeuhyLufa4YRXhkCxhY19"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        },
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218059,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/1svbMmmtcEyriimgAew0Xj"
+    },
+    {
+      "album": {
         "name": "The Good Old Days",
         "url": "https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF"
       },
@@ -4617,7 +4889,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218059,
       "name": "The Good Old Days",
       "url": "https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E"
@@ -4643,6 +4915,24 @@
     {
       "album": {
         "name": "The Light Saw Me",
+        "url": "https://open.spotify.com/album/2wbryQP9ji9Bfy1b91NcT1"
+      },
+      "artists": [
+        {
+          "name": "Jason Boland & The Stragglers",
+          "url": "https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192458,
+      "name": "The Light Saw Me",
+      "url": "https://open.spotify.com/track/7rOOMn14tYws0lxXSf5OzL"
+    },
+    {
+      "album": {
+        "name": "The Light Saw Me",
         "url": "https://open.spotify.com/album/4al4QK2Lk29ZOSr4F7DZvE"
       },
       "artists": [
@@ -4653,7 +4943,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192458,
       "name": "The Light Saw Me",
       "url": "https://open.spotify.com/track/7tl9ITHfqpalOAD1y3Tiqi"
@@ -4995,6 +5285,24 @@
     {
       "album": {
         "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248661,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2EYKPyHhYxiSs1SoN4DS2f"
+    },
+    {
+      "album": {
+        "name": "Watchhouse",
         "url": "https://open.spotify.com/album/4I0MTtE0olpLIVMzoN8KJN"
       },
       "artists": [
@@ -5005,7 +5313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248661,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3loKrxBymgzppOS7mhhNa5"
@@ -5483,10 +5791,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161139,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/2oP62DDj7RLqdQI3cmdvK1"
+    },
+    {
+      "album": {
+        "name": "Carry Me Home",
+        "url": "https://open.spotify.com/album/39JLsOUFJjzvKIIXEB8IsJ"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        },
+        {
+          "name": "Levon Helm",
+          "url": "https://open.spotify.com/artist/1PWHsS9haruM3AEebZuGs9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161139,
+      "name": "You Got To Move",
+      "url": "https://open.spotify.com/track/32Mf7nDU9RHDKazq2i7i0D"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,223 likes - 68 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,217 likes - 68 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 44 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/3zENRCKW6v5R0DxD3y8UoA) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI) | [The Ultimate Christmas Playlist](https://open.spotify.com/album/5UA8tyVUcZI7EzW1O2JFFx) | 3:19 |
 | 45 | [Santa Baby](https://open.spotify.com/track/2SOy3BewGYpYy3zIJKREqw) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Santa Baby](https://open.spotify.com/album/3LZEEwdEdWvZW0EIWHFhcL) | 2:50 |
 | 46 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
-| 47 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas meets Jazz](https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA) | 4:50 |
+| 47 | [Jolly Old Saint Nicholas](https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Christmas Meets Jazz](https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ) | 4:50 |
 | 48 | [O Little Town of Bethlehem](https://open.spotify.com/track/7qInMuxcT8bj0tHH7NqhXP) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [O Holy Night](https://open.spotify.com/album/77u3EzT2GRPilIcGSaI5lQ) | 1:52 |
 | 49 | [Winter Wonderland](https://open.spotify.com/track/0mIkPyFnpT5m4fFgLkQIxO) | [Tyler Yarema](https://open.spotify.com/artist/0KcV91K9QvNzCPxKq2K9yx), [Steve Wingfield](https://open.spotify.com/artist/2enPADqimWmAb5ovuXQihi), [Chris Gale](https://open.spotify.com/artist/0b8busMyBUGIilON3R2NJA) | [Tis the Season to Be Jazzy](https://open.spotify.com/album/02SiURFcsnXEBsgeBz8uWM) | 4:19 |
 | 50 | [Auld Lang Syne](https://open.spotify.com/track/777i3gdjJMVlWvVJvErZeu) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [Auld Lang Syne](https://open.spotify.com/album/3ct7cW6gOZZg8Md58zyna9) | 2:46 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 67 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/1QtANQCg5sUog4R0fBCToN) | [The Jazzagogs](https://open.spotify.com/artist/7pFWPdj7yTUGqLUCoIOHjF) | [Jazzy Christmas](https://open.spotify.com/album/6tb3VXCdGgjreH2uUrWoOU) | 2:27 |
 | 68 | [Frosty the snowman](https://open.spotify.com/track/1TT5txDzWtg7OF8BhS1lWa) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Here Comes Santa Claus](https://open.spotify.com/album/3KANZfLdfrcTDDYaIKWstX) | 2:09 |
 
-Snapshot ID: `MTY0MDA5MDg4NCwwMDAwMDAyMDAwMDAwMTdkZGQwOGQ4NDQwMDAwMDE3Y2NiNDFmMDdi`
+Snapshot ID: `MTY0MDA5MDg4NCwwMDAwMDAwMDkzY2IzZGYxMmY0OWQ5ZjIwYWFlZTBmYTg4ZDFiZjJk`

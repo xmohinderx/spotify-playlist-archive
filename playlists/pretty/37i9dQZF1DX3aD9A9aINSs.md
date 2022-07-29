@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Kool Jane x Idyl
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,420 likes - 57 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,422 likes - 57 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 56 | [Kurak](https://open.spotify.com/track/6N4xkxelkVPHAgBxcreHV2) | [Serenad Bayraktar](https://open.spotify.com/artist/3qWtoHeuQh2uzY7e7FQPzW) | [Kurak](https://open.spotify.com/album/6C1AjfzIhd3991I1q52s1P) | 3:03 |
 | 57 | [Döneceksin Diye Söz Ver](https://open.spotify.com/track/5xk7UchrxE2skVO9Mqq567) | [Sevda Deniz Karali](https://open.spotify.com/artist/15Z0sgBT1nnrFz5lkxVFmZ) | [Döneceksin Diye Söz Ver](https://open.spotify.com/album/15lUy90jOGqnamsxL0cVAU) | 3:23 |
 
-Snapshot ID: `MTY1NzcxNDE5NiwwMDAwMDAyZDAwMDAwMTgxZjc3NzNlM2IwMDAwMDE4MWI5Y2UzOTgz`
+Snapshot ID: `MTY1NzcxNDE5NiwwMDAwMDAwMDAzNmNmY2U5OGRhMmFhYzc3NDFmZWQyMWY2NzEzZTlm`

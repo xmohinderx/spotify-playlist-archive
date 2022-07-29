@@ -1,34 +1,18 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez (Courtesy of Fania)",
-  "num_followers": 56052,
+  "num_followers": 56099,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk3MDcwMywwMDAwMDAwMGIxN2U3ZTZhYzUxMTQ2ODRlMTQzYzczMDVhNGNmYzQz",
+  "snapshot_id": "MTY0OTQ3ODM5MiwwMDAwMDAwMGIzNGE3NzQ3OGQ2NGIwMmYxMWEyNWZiM2EzMGEyODY3",
   "tracks": [
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Camel Walk",
-        "url": "https://open.spotify.com/album/3EhyH1sdQKmnNSd3YJzEFG"
-      },
-      "artists": [
-        {
-          "name": "The Latinaires",
-          "url": "https://open.spotify.com/artist/4sTXPMY0WxaeBKN4HAXLIj"
-        }
-      ],
-      "duration_ms": 237944,
-      "name": "Afro Shingaling",
-      "url": "https://open.spotify.com/track/3DkeQ5mpbIPGBuGQ4DAcXg"
-    },
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Fania Signature Vol. III: Boogaloo",
-        "url": "https://open.spotify.com/album/3FZzICWs1LVtzIirWtQLlQ"
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
       },
       "artists": [
         {
@@ -36,141 +20,9 @@
           "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
         }
       ],
-      "duration_ms": 324800,
-      "name": "Micaela",
-      "url": "https://open.spotify.com/track/7uOddHRjCk9KE6hDgGB0NG"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "The Original Gangster",
-        "url": "https://open.spotify.com/album/0Csv84dozue6SsmJxp9t2Y"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Eso Se Baila Asi",
-      "url": "https://open.spotify.com/track/71pNDcd8132efh1p56PwUP"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        },
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 333280,
-      "name": "El Pito (I'll Never Go Back To Georgia)",
-      "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Introducing George Guzman",
-        "url": "https://open.spotify.com/album/1QqR4HsQos027cjTJC5MBM"
-      },
-      "artists": [
-        {
-          "name": "George Guzman",
-          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Marilu",
-      "url": "https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Back On The Streets Of Spanish Harlem",
-        "url": "https://open.spotify.com/album/3ea0oHYXJgewFJpRvH7iip"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 281426,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/1e6jHVb4C6ehwXrMgqBk47"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Live at the Red Garter Vol 2",
-        "url": "https://open.spotify.com/album/6D8lBJUjjeDz6ZhkhZlKCS"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        }
-      ],
-      "duration_ms": 510400,
-      "name": "Son Cuero Y Boogaloo",
-      "url": "https://open.spotify.com/track/3yGmOWLc5eScSOv84vs6dm"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
-    },
-    {
-      "added_at": "2022-04-09 04:25:14",
-      "album": {
-        "name": "Jos\u00e9",
-        "url": "https://open.spotify.com/album/2cGi5V4SM4khnF43D3NOnC"
-      },
-      "artists": [
-        {
-          "name": "Los Calvos",
-          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
-        }
-      ],
-      "duration_ms": 212257,
-      "name": "Jos\u00e9",
-      "url": "https://open.spotify.com/track/7yMjkYSTGoqFPsMYd8qi2Q"
+      "duration_ms": 265080,
+      "name": "I Like It Like That",
+      "url": "https://open.spotify.com/track/6Wy3X4jSszfisnRscJCHdq"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -193,10 +45,74 @@
       "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Under The Streetlamps: Anthology 1967-72",
+        "url": "https://open.spotify.com/album/678pt0QZ8mwQakkZRuuzQq"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 246173,
+      "name": "Gypsy Woman - Demo Version",
+      "url": "https://open.spotify.com/track/17v2ohSG0hO8u2AjKaU6MR"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Apollo Sound 5",
+        "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Que Se Sepa",
+      "url": "https://open.spotify.com/track/2mNLwOxMnm0TxXJBF1y5Ln"
+    },
+    {
       "added_at": "2021-09-07 18:02:03",
       "album": {
-        "name": "La Lupe - Greatest Hits",
-        "url": "https://open.spotify.com/album/03MZq6wqB3UwHpLa5kmCHJ"
+        "name": "Wanted Dead Or Alive (Bang Bang Push Push Push)",
+        "url": "https://open.spotify.com/album/4W0zbRYPZqZgxzjQDVA63H"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Bang! Bang!",
+      "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Reina de la Canci\u00f3n Latina",
+        "url": "https://open.spotify.com/album/2xx0ruNjs5BECoQRRVvOTu"
       },
       "artists": [
         {
@@ -204,189 +120,25 @@
           "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 165813,
+      "duration_ms": 165213,
       "name": "Fever",
-      "url": "https://open.spotify.com/track/78RPkU9Tb9mc3CrT1b4Uxt"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Fania Latin Boogaloo Essentials",
-        "url": "https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 247480,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4WHenMegy6rIakCNg98Vxf"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Orchestra Harlow Presenta A Ismael Miranda",
-        "url": "https://open.spotify.com/album/1vjHbuMmbI5zhLuN0eabmW"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Harlow",
-          "url": "https://open.spotify.com/artist/6JW9UcNPmjUsybgF1WFdkR"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Grazin' In The Grass",
-      "url": "https://open.spotify.com/track/039Mx8o4AA0xbVsd99L8FV"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Ali Baba",
-        "url": "https://open.spotify.com/album/4Snlez56Y9rfE7M8cvrO8T"
-      },
-      "artists": [
-        {
-          "name": "Louie Ramirez",
-          "url": "https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "It's Not What You Say",
-      "url": "https://open.spotify.com/track/2e5coCHCulu84SddM2ripp"
+      "url": "https://open.spotify.com/track/1DF9XPespiTUJKh5MRRStG"
     },
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Boogaloo Blues",
-        "url": "https://open.spotify.com/album/1ME1gBqz9bt3A0LXDQYHB4"
+        "name": "Discos Bailables",
+        "url": "https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI"
       },
       "artists": [
         {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+          "name": "TNT Band",
+          "url": "https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF"
         }
       ],
-      "duration_ms": 411680,
-      "name": "Boogaloo Blues",
-      "url": "https://open.spotify.com/track/48pCzNTXLLKneVT6Uel2oT"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Take A Trip Pussycat (feat. Luis Aviles)",
-        "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
-      },
-      "artists": [
-        {
-          "name": "The Latin Blues Band Featuring Luis Aviles",
-          "url": "https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM"
-        },
-        {
-          "name": "The Latin Blues Band",
-          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "I'll Be A Happy Man",
-      "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "The Queen Does Her Own Thing",
-        "url": "https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD"
-      },
-      "artists": [
-        {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Mongo Santamaria's Greatest Hits",
-        "url": "https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Watermelon Man",
-      "url": "https://open.spotify.com/track/2PyL58MwWwSFs5f4R2QJm1"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Joey",
-        "url": "https://open.spotify.com/album/4I6Y0n7bB7op6vgT9YfW3R"
-      },
-      "artists": [
-        {
-          "name": "Joey Pastrana and His Orchestra",
-          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
-        }
-      ],
-      "duration_ms": 452373,
-      "name": "That's How Rumors Start",
-      "url": "https://open.spotify.com/track/4HbyfigTHGdBuBaD1GsmKe"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Fania Records 60's Gold",
-        "url": "https://open.spotify.com/album/2bfg6X6O2NlWNlvCHqsD8h"
-      },
-      "artists": [
-        {
-          "name": "Johnny Colon",
-          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
-        }
-      ],
-      "duration_ms": 331868,
-      "name": "Boogaloo Blues",
-      "url": "https://open.spotify.com/track/7wLdPTpjA6xOluKGOFBrmR"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Fania Latin Boogaloo Essentials",
-        "url": "https://open.spotify.com/album/4J4m1XPyozIy8TDn1zxXKg"
-      },
-      "artists": [
-        {
-          "name": "Bobby Valentin",
-          "url": "https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Bad Breath",
-      "url": "https://open.spotify.com/track/50PULwtJCTv0EjRsP27MDt"
-    },
-    {
-      "added_at": "2022-04-09 04:26:32",
-      "album": {
-        "name": "Ralph Robles",
-        "url": "https://open.spotify.com/album/2pBp6tnOazUbSHFm7bdCN8"
-      },
-      "artists": [
-        {
-          "name": "Ralph Robles",
-          "url": "https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Come and Get It",
-      "url": "https://open.spotify.com/track/0Zqpc4C25DtWg7Fmhb0g63"
+      "duration_ms": 236796,
+      "name": "Sabre Olvidar",
+      "url": "https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -409,76 +161,300 @@
       "url": "https://open.spotify.com/track/5ZCHcxVW3vMPzJMTW9wBpc"
     },
     {
-      "added_at": "2022-04-09 04:26:32",
+      "added_at": "2022-04-09 04:25:14",
       "album": {
-        "name": "Joe Bataan Anthology",
-        "url": "https://open.spotify.com/album/4WdHyWjaXFd1dLFb6BlEPv"
+        "name": "...Y Que Calvos",
+        "url": "https://open.spotify.com/album/7o2KhBaz9BqbFyNPwEWWHZ"
       },
       "artists": [
         {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+          "name": "Los Calvos",
+          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
         }
       ],
-      "duration_ms": 246173,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Pow Wow",
-        "url": "https://open.spotify.com/album/3JZjVes4oar3ZOF3EmToMx"
-      },
-      "artists": [
-        {
-          "name": "Bobby Marin",
-          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
-        },
-        {
-          "name": "Orchestra Corchado",
-          "url": "https://open.spotify.com/artist/1byeIsRSkUbfuvsT9iZMaW"
-        }
-      ],
-      "duration_ms": 228598,
-      "name": "Pow Wow",
-      "url": "https://open.spotify.com/track/33iZ7YZRt32eqtsRIEe7yj"
-    },
-    {
-      "added_at": "2021-09-07 18:02:03",
-      "album": {
-        "name": "Boogaloo '67",
-        "url": "https://open.spotify.com/album/1x7WB2bsSYqHHfIQ7NeNyD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Col\u00f3n and His Orchestra",
-          "url": "https://open.spotify.com/artist/4yUkSaJEuOaiXGsw0NwIyD"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "You Gotta Love Me",
-      "url": "https://open.spotify.com/track/2G0CLkfLw9TSsKQbnp3aqu"
+      "duration_ms": 212257,
+      "name": "Jos\u00e9",
+      "url": "https://open.spotify.com/track/09T4yz1emL9O1yt3txtUKy"
     },
     {
       "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Aprovecha el Tiempo",
-        "url": "https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP"
+        "name": "Tiempo pa' Matar",
+        "url": "https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5"
       },
       "artists": [
         {
-          "name": "Manny Corchado & His Orchestra",
-          "url": "https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg"
-        },
-        {
-          "name": "Tito Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 213426,
-      "name": "Pow Wow",
-      "url": "https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13"
+      "duration_ms": 299373,
+      "name": "Tiempo Pa\u2019 Matar",
+      "url": "https://open.spotify.com/track/6LC8pFSA5K9zJVSWiVQwf8"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Acid",
+        "url": "https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 168093,
+      "name": "A Deeper Shade Of Soul",
+      "url": "https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Mr. Watermelon Man",
+        "url": "https://open.spotify.com/album/75Yd4kU10gcUGWBinUePWn"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/4oOxRYf9TBFKQxABhAQ96x"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 333280,
+      "name": "El Pito (I'll Never Go Back To Georgia)",
+      "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Ay Qu\u00e9 Rico",
+      "url": "https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Joey",
+        "url": "https://open.spotify.com/album/2N69ERhN11ludnptsYs16c"
+      },
+      "artists": [
+        {
+          "name": "Joey Pastrana and His Orchestra",
+          "url": "https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2"
+        }
+      ],
+      "duration_ms": 452373,
+      "name": "That's How Rumors Start",
+      "url": "https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Barretto",
+        "url": "https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Tito G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn"
+        }
+      ],
+      "duration_ms": 338520,
+      "name": "Guarar\u00e9",
+      "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "De Panama A Nueva York",
+        "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Descarga Caliente",
+      "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Introducing George Guzman",
+        "url": "https://open.spotify.com/album/6jP4TUoDIjzM85nWsPdFgb"
+      },
+      "artists": [
+        {
+          "name": "George Guzman",
+          "url": "https://open.spotify.com/artist/7wXX02Lo0mPh4IWhNCUmTL"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Marilu",
+      "url": "https://open.spotify.com/track/0fkWQUZ8Rhh99dNDAIT5Q1"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 325920,
+      "name": "Micaela - Live",
+      "url": "https://open.spotify.com/track/2FQNKdVthiJDP3OhFQNaP8"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 446400,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1OW3pXLhVdMm7giLW6siEm"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Orchestra Harlow Presenta a Ismael Miranda",
+        "url": "https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Grazin' In The Grass",
+      "url": "https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Psychedelic Goes Latin",
+        "url": "https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC"
+      },
+      "artists": [
+        {
+          "name": "The Lebron Brothers Orchestra",
+          "url": "https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD"
+        }
+      ],
+      "duration_ms": 284440,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Take A Trip Pussy Cat",
+        "url": "https://open.spotify.com/album/1bWv91UnA3Yue0fUCRouVg"
+      },
+      "artists": [
+        {
+          "name": "The Latin Blues Band",
+          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
+        },
+        {
+          "name": "Luis Aviles",
+          "url": "https://open.spotify.com/artist/0Gn61gQpTFRbP9l6lyEy49"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "(I'll Be A) Happy Man",
+      "url": "https://open.spotify.com/track/5LuzVIV75d9eaSeJfOfTJK"
     },
     {
       "added_at": "2022-04-09 04:26:32",
@@ -497,20 +473,56 @@
       "url": "https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK"
     },
     {
-      "added_at": "2021-09-07 18:02:03",
+      "added_at": "2022-04-09 04:26:32",
       "album": {
-        "name": "Joe Cuba - Greatest Hits",
-        "url": "https://open.spotify.com/album/1q43qMTgCmzoGC0JqpNkdV"
+        "name": "La Cuna",
+        "url": "https://open.spotify.com/album/3vcEuGjhuMh3BKNWYBFFqy"
       },
       "artists": [
         {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/2nwZM9xPnqYCq21bizt772"
+      "duration_ms": 514866,
+      "name": "Pastime Paradise",
+      "url": "https://open.spotify.com/track/36LpijZOR2wl2hGmVL1EN0"
+    },
+    {
+      "added_at": "2022-04-09 04:26:32",
+      "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Lo Atar\u00e1 la Arache",
+      "url": "https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV"
+    },
+    {
+      "added_at": "2021-09-07 18:02:03",
+      "album": {
+        "name": "Con Todos los Hierros: Everything But The Kitchen Sink",
+        "url": "https://open.spotify.com/album/4VXR5GVsHxY0dXM0XwK9rX"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        },
+        {
+          "name": "Cortijo Y Su Combo",
+          "url": "https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Arrecot\u00edn Arrecot\u00e1n",
+      "url": "https://open.spotify.com/track/4YvQolXPImTRwrhG40hqsf"
     }
   ],
   "unique_name": "Boogaloo Essentials",

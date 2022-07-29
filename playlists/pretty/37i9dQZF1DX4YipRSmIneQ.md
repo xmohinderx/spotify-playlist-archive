@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > it's a cruel summer ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,712 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,793 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guud Gurls](https://open.spotify.com/track/6yTAycvx2hDqGYerNaphfI) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Kzn](https://open.spotify.com/artist/5EZHJyeAbl8WK8PdMRR2eh) | [Hott Boyz](https://open.spotify.com/album/1Um9iDs4Iicg0mwa67yqDV) | 3:10 |
-| 2 | [Mugler](https://open.spotify.com/track/1klbppIovZXKWFRhqEJ2lb) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/3P6pnV1TtJowjF9wjwYtBA) | 2:31 |
+| 2 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
 | 3 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 |
 | 4 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 |
 | 5 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 26 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 27 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
 | 28 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
-| 29 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 |
+| 29 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 |
 | 30 | [Come Check This](https://open.spotify.com/track/3ImnbJHoSy5uUhC0ydBVI9) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Come Check This](https://open.spotify.com/album/6YnEvQjRcWyAAxm7dXNEfs) | 3:11 |
 | 31 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 |
 | 32 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 |
 | 50 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 |
 
-Snapshot ID: `MTY1ODQyNTM5MSwwMDAwMDAwYzAwMDAwMTgyMjFkYjNhMGMwMDAwMDE4MDE5OGZlNDkx`
+Snapshot ID: `MTY1ODQyNTM5MSwwMDAwMDAwMDZkYzE1NGY3ODFlMTMyMzA3Zjk4YThhYWIzODNmMGI2`

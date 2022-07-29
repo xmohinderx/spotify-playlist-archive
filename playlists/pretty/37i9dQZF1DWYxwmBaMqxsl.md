@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Soft and moody jazz for a rainy day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,968 likes - 133 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,098 likes - 133 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 82 | [Alone Together \- Rudy Van Gelder Remaster 2006](https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S) | 3:10 |
 | 83 | [I'm Through With Love](https://open.spotify.com/track/0QARP1SA6znqDMPSOcW7kp) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [I'm Through With Love](https://open.spotify.com/album/287itlXEIh2aQ2zqLZiBbE) | 5:56 |
 | 84 | [You Keep Coming Back Like A Song](https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 5:35 |
-| 85 | [Cry Me a River](https://open.spotify.com/track/4DVt0yWt30d7C4P62zpJir) | [Dexter Gordon All Stars](https://open.spotify.com/artist/5ZPrygYjYz8TPkL3r9SY7L) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/0b6BPplfrrYhxCVmOjEAH0) | 3:42 |
+| 85 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
 | 86 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 |
 | 87 | [Désespérés](https://open.spotify.com/track/1dGXWUU6oRMfyAJzX96C7i) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Désespérés](https://open.spotify.com/album/6BhsLsej4iUHKsBsGC3vVL) | 3:41 |
 | 88 | [Neighbours](https://open.spotify.com/track/0eo6CVRixQy70hPIUHh36m) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [In The Days Of Our Love](https://open.spotify.com/album/2QBCdxvkPxKABMrvkDd8aL) | 3:06 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 103 | [Still Life](https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Still Life](https://open.spotify.com/album/0pWn90Gk2Qj8baJa12Rm8w) | 3:06 |
 | 104 | [Soul Eyes](https://open.spotify.com/track/2WwFItAZw5RcYv3rECNFIZ) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:43 |
 | 105 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 |
-| 106 | [Naima](https://open.spotify.com/track/360beQMahQ2FdZ9OmWYiBT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps](https://open.spotify.com/album/7cZ6oBx0SEUPDAoxJtxNDh) | 4:18 |
+| 106 | [Naima \- Mono](https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 4:25 |
 | 107 | [The End Of A Love Affair](https://open.spotify.com/track/6wcsA3k0UzI0aFdwigs79C) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [The End Of A Love Affair](https://open.spotify.com/album/42PyETdAanQLbNeoNR1ulI) | 5:38 |
 | 108 | [Madison](https://open.spotify.com/track/4XJwaQOwqrfkiXkAuxZSNd) | [The Late Nighters](https://open.spotify.com/artist/22RipbQQrUasT0JEHZLOFa) | [Madison](https://open.spotify.com/album/0rzTWa0urikuszTgERM9Jd) | 2:33 |
 | 109 | [After Rain](https://open.spotify.com/track/62xixWZZULL8nW0bUJAi8J) | [Morgan Coleman Quintet](https://open.spotify.com/artist/2Ntcz3nIhmiM2R6LWNsjAZ) | [After Rain](https://open.spotify.com/album/3hCG5qX46IuTorWJSBloMI) | 3:40 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 | 128 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 |
 | 129 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 |
 | 130 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
-| 131 | [Seven Falls](https://open.spotify.com/track/3FjABO0prygR9Aku7CQk5c) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/163mq32tE467ICK50c4Wsr) | 4:04 |
+| 131 | [Seven Falls](https://open.spotify.com/track/0GoeKHEiKWSCYwCSHRzHTr) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Lower East](https://open.spotify.com/album/4sCDtwgXRr3G05gzpLX8Ui) | 4:04 |
 | 132 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 |
 | 133 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/6XZCXx5dOgq7pOJxjVdYAr) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 3:33 |
 
-Snapshot ID: `MTY1NjQyNjUyMywwMDAwMDA3OTAwMDAwMTgxYWFiNmVhMTcwMDAwMDE4MTVkNzRmNDUx`
+Snapshot ID: `MTY1NjQyNjUyMywwMDAwMDAwMGQ0YmRhMmJhYjkzNmNjODg1OGI2N2E0MDU2ZTBhZTAz`

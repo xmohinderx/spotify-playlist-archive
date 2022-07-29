@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-302 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+306 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2021-11-10 | 2022-04-15 |
 | [How Sweet](https://open.spotify.com/track/0g7bkITtFBBhIayGKw4GjK) | [Little Sweet Biscuit](https://open.spotify.com/artist/71AxOhThgbuuKMcGc3dZkS) | [How Sweet](https://open.spotify.com/album/19MCm8GdggxY3meOJgFvsc) | 2:12 | 2021-11-10 | 2022-05-20 |
 | [I and Love](https://open.spotify.com/track/0GFBdfj09IKlRucWbvOITu) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [I and Love](https://open.spotify.com/album/254L0w6tz1JkfmmYNCuX4t) | 4:01 | 2021-11-10 |  |
+| [i tried](https://open.spotify.com/track/6W7hFzh8GNeSTljK7qzCsT) | [ELEWAKA](https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq) | [i tried](https://open.spotify.com/album/3WyFAmRvYnIo7c3ZzyL7uo) | 3:12 | 2022-07-29 |  |
 | [I'm nothin'](https://open.spotify.com/track/4sVY4JmPEBLPsX5GRH8S6u) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [I'm nothin'](https://open.spotify.com/album/5L29YvrjfGVhkkTWLdeS31) | 3:42 | 2021-11-10 | 2022-05-27 |
 | [Idle](https://open.spotify.com/track/79gx3Gij4dKGWd51devriE) | [Forgt](https://open.spotify.com/artist/0OndrzOYkj0brCMkn66B5C) | [Idle](https://open.spotify.com/album/5WqJp4sumpU0cucq0iZSPl) | 3:30 | 2021-11-10 | 2022-05-20 |
 | [In Décadence](https://open.spotify.com/track/1L23g6T4UqzgP183gU8yET) | [Mad Traks](https://open.spotify.com/artist/7HCqxgA2Q8fexaublcxQmP) | [In Décadence](https://open.spotify.com/album/1L5jp2k7C6H7PIFD2uOpGF) | 2:04 | 2021-11-10 | 2022-01-22 |
@@ -147,6 +148,7 @@
 | [La Espera](https://open.spotify.com/track/7gcrgp7kVXdkODv834Wnwp) | [Ralf Holiday](https://open.spotify.com/artist/2qRViSWmqF4ZGcxP2A2iWB) | [La Espera](https://open.spotify.com/album/6O6mNzfpUyK5b1cUklSAMv) | 2:24 | 2021-11-10 | 2022-07-08 |
 | [Lacando](https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Lacando](https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg) | 2:10 | 2021-11-10 |  |
 | [lament orange](https://open.spotify.com/track/1NsENCo25TvQKmBk9khtNA) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [lament orange](https://open.spotify.com/album/5XgmzbVgztvwlUb3n0XwiY) | 2:56 | 2022-07-15 |  |
+| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
 | [Las Vegas](https://open.spotify.com/track/0748dugTfsE4teDzF7Dmhx) | [Spiral Solace](https://open.spotify.com/artist/2NNajlXb9VSrYlESf8AlKG) | [Las Vegas](https://open.spotify.com/album/18Pt5mnL3AsrQHiIVgeMUc) | 3:40 | 2021-11-10 | 2022-01-22 |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
@@ -183,6 +185,7 @@
 | [Midnite Chill](https://open.spotify.com/track/5trFjwQViRMRX6CiDMDV9c) | [l\_o\_f](https://open.spotify.com/artist/5I1DYYodDZBAiV7XvLUdxq) | [Midnite Chill](https://open.spotify.com/album/5ZMt3OjPppRN0EsYT2cb2f) | 2:11 | 2021-11-10 |  |
 | [milanaze](https://open.spotify.com/track/54vcW7KBQULivUu32NZ7ot) | [qorfu](https://open.spotify.com/artist/4RThihZi1QaMBUHyFpu3pY) | [milanaze](https://open.spotify.com/album/1ahaxm7I0wNWesi6fwvaS3) | 2:56 | 2021-11-10 |  |
 | [Milano](https://open.spotify.com/track/23LxW8Ssmlpn4GjFrnDTFs) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Metropolis](https://open.spotify.com/album/1DV8uae8K8K94y3W2RUHMW) | 1:59 | 2021-11-10 | 2022-05-11 |
+| [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/track/5Gl0KQIgkVSJYeWTwXx0BV) | [Tea](https://open.spotify.com/artist/3WCBCWEm40hroEP0QmaGBC), [Neil Larsen](https://open.spotify.com/artist/6pziRlUMU07bAeSUOTLKFl), [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Mirror Bay \(Sweatson Klank Remix\)](https://open.spotify.com/album/2BxHX0D6w8ZAKacgcctshc) | 3:54 | 2022-07-29 |  |
 | [Molecular Force](https://open.spotify.com/track/15cnM6N7rgjv7mBAHLiG63) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Molecular Force](https://open.spotify.com/album/4av4XmjYKDALjdQKSTozLZ) | 1:42 | 2021-11-10 | 2022-07-08 |
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2021-11-10 |  |
@@ -295,7 +298,8 @@
 | [Upside](https://open.spotify.com/track/3xqjgRw2hmbNX3MlKiAmV0) | [Kriz Luna](https://open.spotify.com/artist/4J2cbs2Cl60uWpSxcpnrjV) | [Upside](https://open.spotify.com/album/40f0AIYOvhhmdsQbr6EH2z) | 3:15 | 2021-11-10 |  |
 | [Vacation](https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n) | [Hanawal](https://open.spotify.com/artist/3xUcEsjHpe4Ps5ziYErlqs) | [Vacation](https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv) | 3:15 | 2022-05-20 |  |
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2021-11-10 |  |
-| [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 |  |
+| [Views from Yamashita Park](https://open.spotify.com/track/08GrJ04y6DrNm6t1OZ7a7N) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Views from Yamashita Park / Hatagaya Greenways](https://open.spotify.com/album/0CAD18JM3by6WU8WYPOMIC) | 1:40 | 2021-11-10 | 2022-07-29 |
+| [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 |  |
 | [Voids](https://open.spotify.com/track/3255ReEv4aYfeGdqAb0yfD) | [HÖNS](https://open.spotify.com/artist/7xJqZn92FHmrPc6tdWfDfu) | [Snow](https://open.spotify.com/album/0nOV8jyTKhK35vBKCZSrSh) | 2:30 | 2021-11-10 | 2022-07-08 |
 | [Waking Waves](https://open.spotify.com/track/2CCvwL3lgXH94oajKSOblm) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Waking Waves](https://open.spotify.com/album/0GTAbLRocrPLSAu3y1MQT6) | 3:07 | 2021-11-10 |  |
 | [Watch Me Now](https://open.spotify.com/track/2RVhZ74hHRhXVJ7sEBrHcO) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Watch Me Now](https://open.spotify.com/album/3vlO893TVV7tDjm2AShPoK) | 2:26 | 2021-11-10 | 2022-07-08 |

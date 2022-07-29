@@ -980,6 +980,24 @@
     },
     {
       "album": {
+        "name": "Floating Away & Gentle Landing",
+        "url": "https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp"
+      },
+      "artists": [
+        {
+          "name": "Byron Wolfe",
+          "url": "https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233044,
+      "name": "Floating Away",
+      "url": "https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B"
+    },
+    {
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e"
       },

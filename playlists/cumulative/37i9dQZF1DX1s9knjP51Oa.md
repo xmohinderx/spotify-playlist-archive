@@ -4,7 +4,7 @@
 
 > Slow down with some calming keys.
 
-470 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
+476 songs - 21 hr 5 min - [published](https://open.spotify.com/playlist/3pCIUS2io9Ubc0nMl8Q5Pg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 | 2022-05-26 |  |
 | [Eternal Bloom](https://open.spotify.com/track/0OYDV3vHPSXFQkKmVdodFn) | [Luis Álvarez](https://open.spotify.com/artist/3zowTYcPBFKlG4Hi98bPpq) | [Eternal Bloom](https://open.spotify.com/album/72ckrZrv9xw3vabgq5cLM1) | 3:11 | 2021-12-13 | 2022-03-18 |
 | [Evening Inn](https://open.spotify.com/track/04GkZnxmBFf8GXBvIGkAzj) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Chasing Grace](https://open.spotify.com/album/2MTntXzOQRcmBk44uL87ed) | 2:15 | 2021-12-13 |  |
-| [Evensong](https://open.spotify.com/track/3FhYBQP28W7QkYq09IAjPH) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Evensong](https://open.spotify.com/album/6tjtaoWIgfX935aTVx1HYb) | 2:11 | 2021-12-13 |  |
+| [Evensong](https://open.spotify.com/track/3FhYBQP28W7QkYq09IAjPH) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Evensong](https://open.spotify.com/album/6tjtaoWIgfX935aTVx1HYb) | 2:11 | 2021-12-13 | 2022-07-29 |
+| [Evensong](https://open.spotify.com/track/4b3x8mk3a6N9ccMIMdGLy1) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [All The Things We Could Know](https://open.spotify.com/album/0Ly9eRAx57KGgJOdkviBb7) | 2:11 | 2022-07-28 |  |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2021-12-13 |  |
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2021-12-13 |  |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2021-12-13 |  |
@@ -194,7 +195,8 @@
 | [In Good And Bad Times](https://open.spotify.com/track/4li3ITSBXpSovNGyNEBDeM) | [Leon den Engelsen](https://open.spotify.com/artist/0SoSwLhB42eDxhzzy5CU3Y) | [In Good And Bad Times](https://open.spotify.com/album/69lQz90VYRXxVElJDtgAEv) | 2:59 | 2021-12-13 |  |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2021-12-13 |  |
 | [In The Dark Hours](https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [In The Dark Hours](https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh) | 2:55 | 2021-12-13 |  |
-| [In The End](https://open.spotify.com/track/0yw26yMIBOt968JnWdDpMv) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Youth](https://open.spotify.com/album/1IkPGuEi81NE11tHafOjTs) | 2:46 | 2022-05-26 |  |
+| [In The End](https://open.spotify.com/track/0yw26yMIBOt968JnWdDpMv) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Youth](https://open.spotify.com/album/1IkPGuEi81NE11tHafOjTs) | 2:46 | 2022-05-26 | 2022-07-29 |
+| [In The End](https://open.spotify.com/track/23FvAAvnx3NzbTmMiod5nf) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [In The End](https://open.spotify.com/album/0LiQNUF6t6gTO3PTaD7XDb) | 2:46 | 2022-07-28 |  |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-03-02 |  |
 | [In The Mood For Dreaming](https://open.spotify.com/track/163EpITIjkN1ky0odOKy1b) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [In The Mood For Dreaming](https://open.spotify.com/album/29HPgBWHyeiRju7jogQNhT) | 3:03 | 2021-12-13 | 2022-07-22 |
 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 | 2021-12-13 |  |
@@ -250,7 +252,8 @@
 | [Luminous Sky](https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Highlands](https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231) | 2:28 | 2021-12-13 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2021-12-13 |  |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2021-12-13 | 2022-07-22 |
-| [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2021-12-13 |  |
+| [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2021-12-13 | 2022-07-29 |
+| [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 | 2022-07-28 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2021-12-13 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2021-12-13 |  |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2021-12-13 |  |
@@ -272,11 +275,13 @@
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2021-12-13 |  |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2021-12-13 |  |
 | [Musa](https://open.spotify.com/track/54wxg8ICliDYXmB9ijR6U9) | [Andrea Sperelli](https://open.spotify.com/artist/791xWcncgzwYXaGgBiQzLo) | [Musa](https://open.spotify.com/album/0UBWI3uhES0dtvO6v3cMyy) | 2:38 | 2021-12-13 |  |
-| [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2021-12-13 |  |
+| [My Only One](https://open.spotify.com/track/29Ys0ZMO3R4HfewkxjGvHR) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [My Only One](https://open.spotify.com/album/7p77pk33lJOZQeSD2Ot7CV) | 2:22 | 2021-12-13 | 2022-07-29 |
+| [My Only One](https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [In Itself](https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh) | 2:22 | 2022-07-28 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2021-12-13 |  |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2021-12-13 | 2022-02-03 |
 | [Mývatn](https://open.spotify.com/track/5ub9LeeFOXQrbBNScxNq2x) | [Petra Birgisdóttir](https://open.spotify.com/artist/3adgqj7rUBUySnFjtS9QCb) | [Mývatn](https://open.spotify.com/album/2Rhww7rg0TpfRyjaaLgF5o) | 1:58 | 2021-12-13 |  |
-| [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2021-12-13 |  |
+| [Nederlag](https://open.spotify.com/track/2Ibyx9m0rs3MSVWdqaCWkI) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/7aSmFOHD0J5i8Chj24XDzQ) | 2:17 | 2022-07-28 |  |
+| [Nederlag](https://open.spotify.com/track/2Or57lFpdUW3dtjg82VrBt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Nederlag](https://open.spotify.com/album/39AL4A5Eq7QEDW0TU36UzT) | 2:17 | 2021-12-13 | 2022-07-29 |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2021-12-13 |  |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-12-13 |  |
 | [No More Love to Give](https://open.spotify.com/track/7qQ3QwLptc5YtcJgSSKfI9) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [No More Love to Give](https://open.spotify.com/album/0x3BvWKAicOlzf34TwYDBI) | 2:28 | 2021-12-13 | 2022-01-19 |
@@ -477,6 +482,7 @@
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2021-12-13 |  |
 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 | 2021-12-13 |  |
 | [Zadar](https://open.spotify.com/track/0LOaCUBNsulgH8qEHH7Y4O) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Zadar](https://open.spotify.com/album/3pudp0e767UMQu6w1DWzfz) | 2:03 | 2021-12-13 |  |
-| [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-13 |  |
+| [Ótta](https://open.spotify.com/track/1HIsNXsMp337FECrM521V0) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/1FduT1J6puUxizGclSvYDA) | 2:47 | 2022-07-28 |  |
+| [Ótta](https://open.spotify.com/track/6FGOagWREYZY08x4dZ8b8m) | [Stefán Hafsteinsson](https://open.spotify.com/artist/57eZ1e0kwxtZYfYUs6GcF8) | [Ótta](https://open.spotify.com/album/4GgvUJmnCyC1w71Oxe8SQh) | 2:47 | 2021-12-13 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

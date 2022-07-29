@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-942 songs - 2 day 2 hr 45 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
+943 songs - 2 day 2 hr 47 min - [published](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Anyone](https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:10 | 2021-03-27\* | 2021-04-02 |
 | [Aomine Daiki](https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q) | [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Aomine Daiki](https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz) | 2:47 | 2021-10-07 | 2021-10-08 |
 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 | 2021-03-27\* | 2021-12-16 |
-| [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 |  |
+| [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 | 2022-07-23 | 2022-07-29 |
 | [ARISTOCRAT](https://open.spotify.com/track/0si4hbWQ2OwdxKLF6x5xEX) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:06 | 2021-05-30 | 2021-07-02 |
 | [Armastan ma luuserit](https://open.spotify.com/track/5rjbaNNIAMTulWMipobmHh) | [Smilers](https://open.spotify.com/artist/3gDHpjemovd3LuV3tHgjOq) | [XX \- 20 AASTAT METEORIITIDE SAJUS](https://open.spotify.com/album/635VEt0CR4DFjhQ2muHTfF) | 3:52 | 2022-06-24 | 2022-06-26 |
 | [Armed and Loaded](https://open.spotify.com/track/6yc8fz5nvwzdMDJM5Y7NxW) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Marcara](https://open.spotify.com/artist/465ntuGcUqEu6zb54NLwuu) | [Armed and Loaded](https://open.spotify.com/album/6YIrcUY7LSYlTX96SU5C4K) | 3:01 | 2022-05-21 | 2022-05-23 |
@@ -236,6 +236,7 @@
 | [Eikellegi Ma](https://open.spotify.com/track/3ERRAmfRkQjqxkHUo3aXT0) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 3:00 | 2022-05-07 | 2022-05-14 |
 | [El Diablo](https://open.spotify.com/track/0DGduxy7YSuqXm272C2LM6) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/0hddqJaLbuagDCHHSgULIm) | 3:01 | 2021-05-30 | 2021-06-06 |
 | [El Diablo](https://open.spotify.com/track/5qqQgao22OUr6rx3y0TPIe) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [El Diablo](https://open.spotify.com/album/4qtyEsRH9iNX3eDcYpeQzB) | 3:01 | 2021-05-21 | 2021-05-30 |
+| [Ella](https://open.spotify.com/track/2Zg840MpkbVhl2lWyZHOER) | [Trad.Attack!](https://open.spotify.com/artist/4y7F4eXlLbqZ5IF9hxoxb5) | [Ella](https://open.spotify.com/album/7kwtagQfCvU08lenUCErj7) | 2:27 | 2022-07-28 |  |
 | [Embers](https://open.spotify.com/track/5Dmq7XPXXcATuJnSOj8UrT) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Embers](https://open.spotify.com/album/1bqMVwx0B9ALlFQvDcFNLK) | 2:55 | 2021-05-25 | 2021-05-26 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-05 | 2022-02-07 |
 | [Endine](https://open.spotify.com/track/0XFa6jczIRucbIynBVC6sJ) | [Reket](https://open.spotify.com/artist/4vnAcwsYeJD9QcQsowEuKN), [An\-Marlen](https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx) | [Palun Puhka](https://open.spotify.com/album/0TXmnRaza2bJrtx4seTI9D) | 2:33 | 2022-05-07 | 2022-05-15 |

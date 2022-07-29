@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,882 likes - 128 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,003 likes - 130 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 11 | [Higher](https://open.spotify.com/track/646uaJeMJuuwKA5u769awi) | [Nuble](https://open.spotify.com/artist/2zBqV404liOJKn4DW0rYAa) | [Higher](https://open.spotify.com/album/4OJYXTQoqln2MHOuL91WCC) | 3:37 |
 | 12 | [Wax Poetry](https://open.spotify.com/track/2CEKenDIPepmr8rdOhfilr) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Wax Poetry](https://open.spotify.com/album/0iepUkNqUGDPxkKcC2Uwo8) | 1:57 |
 | 13 | [Miles](https://open.spotify.com/track/15mn6DKfYvoLRnu89LFDXJ) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Translation EP](https://open.spotify.com/album/5Ze1hIBeHeRnmp6d52VwCR) | 2:12 |
-| 14 | [Trillest](https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions Vol 1](https://open.spotify.com/album/2fPD6SfAuDrOmNMBjNpeTa) | 1:32 |
+| 14 | [Trillest](https://open.spotify.com/track/5b55DpeadBEClX3VLhaB8d) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Playground Sessions, Vol\. 1](https://open.spotify.com/album/24zPccDEE0hf9WTA7oE6eA) | 1:32 |
 | 15 | [Marigold Express](https://open.spotify.com/track/5235VAsve3HlQYNQpqqCkh) | [ViVi Lollypop](https://open.spotify.com/artist/4scLC6BXWEIHbcgJYPFVtw) | [Marigold Express](https://open.spotify.com/album/0m7Wgz5yDCJBgEcJlZ7y3F) | 2:12 |
 | 16 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 |
 | 17 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 36 | [Big Big Man](https://open.spotify.com/track/5LvWYD21qJLV4m5PpGuznD) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:06 |
 | 37 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 |
 | 38 | [Fresh Pour Over Jam](https://open.spotify.com/track/0T7gCTRVrjm7fKJcIciXm7) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Fresh Pour Over Jam](https://open.spotify.com/album/3mhufOmozF6GbopHw1JFmW) | 2:01 |
-| 39 | [Itchy Trigger Finger](https://open.spotify.com/track/6PkCrsCV8wWJDSP9XcEdjC) | [CVPELLV](https://open.spotify.com/artist/4SFBADSs8CVFY8w44Ti16o) | [Fat Beats, Vol\. 2](https://open.spotify.com/album/2o13OgHSSDgnqKQdzhiPXA) | 1:36 |
+| 39 | [Itchy Trigger Finger](https://open.spotify.com/track/5TSkyDqVJqpxPYit0lZqhg) | [CVPELLV](https://open.spotify.com/artist/4SFBADSs8CVFY8w44Ti16o) | [Fat Beats, Vol\. 2](https://open.spotify.com/album/5geBONEqSAfDQnusDZNfqw) | 1:36 |
 | 40 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 |
 | 41 | [Deeper \(You & Me\)](https://open.spotify.com/track/5RYaxKQYstksG8rNw8GPw9) | [Chip Sum](https://open.spotify.com/artist/0gQzA7cbsRzYIwQtNCaR6g) | [Deeper \(You & Me\)](https://open.spotify.com/album/55rAOu6q5xC3tqadSOUq0h) | 2:02 |
 | 42 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Stratotune](https://open.spotify.com/artist/4jj5GyEzbV9KzXTu5nXyi0) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 98 | [Fleeting Time](https://open.spotify.com/track/74CvjZd0jJsjBj6GdSNrTZ) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e), [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp) | [Fleeting Time](https://open.spotify.com/album/3rGd2MxgtRo1NfO5We8CLp) | 2:16 |
 | 99 | [Summer Glen](https://open.spotify.com/track/0keJSAw0wJT9dF94RalMAr) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Zero Billion](https://open.spotify.com/album/1Ee55THzxRTRn3inLIquYM) | 1:57 |
 | 100 | [Nightlife](https://open.spotify.com/track/7rFYeoifHq9wYNSL7nQpAj) | [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nightlife](https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP) | 2:03 |
-| 101 | [Ingleside](https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Ingleside](https://open.spotify.com/album/7vBTC4qkmg5CQsYBp6eKsQ) | 1:24 |
+| 101 | [Ingleside](https://open.spotify.com/track/1KQ1qJeoAPzgpQbLTAiceE) | [90sFlav](https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C) | [Collection II](https://open.spotify.com/album/6xjbfA7URpzEV1Po9eTAWB) | 1:24 |
 | 102 | [shogun](https://open.spotify.com/track/1hccHdv4Vb713T0cRgVg5l) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [moisture](https://open.spotify.com/album/2QQD51qrAwUfSyiqhf2UM9) | 1:32 |
 | 103 | [9th Power](https://open.spotify.com/track/50eSk8PGIs5Io8CGDJESmR) | [Henyao](https://open.spotify.com/artist/6cGhntyNrV6p2Dma040Erk) | [9th Power](https://open.spotify.com/album/3jNRHXHQKfMuSWNG2kp6J1) | 2:56 |
 | 104 | [Hot End](https://open.spotify.com/track/6uxlDRHd9HS6zdpQo1cqP8) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Hot End](https://open.spotify.com/album/3M5nW6u2XzMLMEHzRKKq8k) | 3:23 |
@@ -131,10 +131,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 121 | [Universal Unreal](https://open.spotify.com/track/3BUTu7gMvVlz8W0Qpya0YH) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Universal Unreal](https://open.spotify.com/album/0kcMVFZ6CtpWAuaIhuxEX1) | 2:26 |
 | 122 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 |
 | 123 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 |
-| 124 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
-| 125 | [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 |
-| 126 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
-| 127 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
-| 128 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
+| 124 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 |
+| 125 | [Brooklyn 94](https://open.spotify.com/track/4VRvLwyrBPJOxVqCj8ckvI) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brooklyn 94](https://open.spotify.com/album/4qXEssOIyUDixW8ZAr0sGu) | 1:40 |
+| 126 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
+| 127 | [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 |
+| 128 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
+| 129 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
+| 130 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDA0MzAwMDAwMTgyMjMzNDM0OTAwMDAwMDE4MWRlNjYwYjQx`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDY2ODhjYzk5N2Y2ZWQ4NTgxOWFiZWU3ZWYyNDI5NjVi`

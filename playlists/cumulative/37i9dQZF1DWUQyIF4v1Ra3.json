@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Aye Halo",
+        "url": "https://open.spotify.com/album/3Xd7aD3NfzQC1qKXC9AKvP"
+      },
+      "artists": [
+        {
+          "name": "Lalitya Munshaw",
+          "url": "https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110395,
+      "name": "Aaj Khushi Hai",
+      "url": "https://open.spotify.com/track/5BsrWcNcYddy8EqPL8IBeS"
+    },
+    {
+      "album": {
         "name": "Non Stop Raas Garba by Lalitya Munshaw",
         "url": "https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 110446,
       "name": "Aaj Khushi Hai",
       "url": "https://open.spotify.com/track/4NMrrnzCYTAh3HIiWKF0n7"
@@ -73,10 +91,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 93806,
       "name": "Ame Mahiyara Re",
       "url": "https://open.spotify.com/track/0ph2HoZv5JZkzXj14BRc81"
+    },
+    {
+      "album": {
+        "name": "The Versatile Vinod Rathod (Gujarati)",
+        "url": "https://open.spotify.com/album/6YfKcZB1pJe4ahxo3GAKvq"
+      },
+      "artists": [
+        {
+          "name": "Vinod Rathod",
+          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93885,
+      "name": "Ame Mahiyara Re",
+      "url": "https://open.spotify.com/track/6f2SSR9rh1HMKBvAahJaR7"
     },
     {
       "album": {
@@ -91,10 +127,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157524,
       "name": "Chalado",
       "url": "https://open.spotify.com/track/36kO9u36Tln5o2nFensdaG"
+    },
+    {
+      "album": {
+        "name": "Bamboo Beats (Disco Dandiya Hits)",
+        "url": "https://open.spotify.com/album/7hyZTOovgclhqA7iQdoUMl"
+      },
+      "artists": [
+        {
+          "name": "Rupal Doshi",
+          "url": "https://open.spotify.com/artist/0OOE5E66pjnINTv2x46oiA"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443242,
+      "name": "Chalo Pela",
+      "url": "https://open.spotify.com/track/3AL8Gzv3B52wHbg439rCpl"
     },
     {
       "album": {
@@ -109,7 +163,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 443242,
       "name": "Chalo Pela",
       "url": "https://open.spotify.com/track/7dOPoDOGhuLMMuO7TNuo0v"
@@ -357,7 +411,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 300000,
       "name": "Lahu Munh Lag Gaya",
       "url": "https://open.spotify.com/track/33XC6PPmZ9Y9oJ5MdugOhw"
@@ -566,6 +620,28 @@
     },
     {
       "album": {
+        "name": "Aye Halo",
+        "url": "https://open.spotify.com/album/3Xd7aD3NfzQC1qKXC9AKvP"
+      },
+      "artists": [
+        {
+          "name": "Lalitya Munshaw",
+          "url": "https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9"
+        },
+        {
+          "name": "Kishore Manraja",
+          "url": "https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70861,
+      "name": "O Rang Rasiya",
+      "url": "https://open.spotify.com/track/1qlloiFyBqr5zWjbknZ3Js"
+    },
+    {
+      "album": {
         "name": "Non Stop Raas Garba by Lalitya Munshaw",
         "url": "https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF"
       },
@@ -581,7 +657,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 70923,
       "name": "O Rang Rasiya",
       "url": "https://open.spotify.com/track/5Ft9JrP0K4YFPeDWFM201J"
@@ -603,7 +679,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116716,
       "name": "Odhani Odhu",
       "url": "https://open.spotify.com/track/2OLCnQP512OpkAdvJltKXD"
@@ -760,6 +836,28 @@
     },
     {
       "album": {
+        "name": "Aye Halo",
+        "url": "https://open.spotify.com/album/3Xd7aD3NfzQC1qKXC9AKvP"
+      },
+      "artists": [
+        {
+          "name": "Lalitya Munshaw",
+          "url": "https://open.spotify.com/artist/3e23DvNuM4Z78nPsX8P1D9"
+        },
+        {
+          "name": "Kishore Manraja",
+          "url": "https://open.spotify.com/artist/3ZFpN9rFHLxElJpqyABkMt"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105598,
+      "name": "Tari Baki Re",
+      "url": "https://open.spotify.com/track/1cxTZMXIWagcDNhYaWFSPw"
+    },
+    {
+      "album": {
         "name": "Non Stop Raas Garba by Lalitya Munshaw",
         "url": "https://open.spotify.com/album/1TU9rbZnCwB8n0NQrYHFbF"
       },
@@ -775,7 +873,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105640,
       "name": "Tari Baki Re",
       "url": "https://open.spotify.com/track/3ti03hYjfmcYN8WNsTdZb2"

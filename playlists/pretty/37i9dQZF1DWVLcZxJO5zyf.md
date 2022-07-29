@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento do pop BR! Foto: Vitão
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383,417 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,383,666 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 27 | [arrepiou](https://open.spotify.com/track/55JD9Pxjdqz9QX5mfrzmZ3) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [arrepiou](https://open.spotify.com/album/04H9F6V9ZG4oevOUFdo0TM) | 2:22 |
 | 28 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 |
 | 29 | [Sem Filtro \- Remix](https://open.spotify.com/track/5hmYzjDUg7ryYzlO734L0Y) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sem Filtro \(Remix\)](https://open.spotify.com/album/4lYcF6zK72YZaiuWag8yzc) | 3:44 |
-| 30 | [Saturno \(Ela é Malvada\)](https://open.spotify.com/track/3DFAj6yMZ6QLWez7cbL1Vc) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela é Malvada\)](https://open.spotify.com/album/3EJf6g8d84fp0glrKP1ZEF) | 2:22 |
+| 30 | [Saturno \(Ela É Malvada\)](https://open.spotify.com/track/3aBC5N2cfkKNKdFTosiL9c) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Saturno \(Ela É Malvada\)](https://open.spotify.com/album/6jYaHQcPsdVUoHM26cAWjq) | 2:22 |
 | 31 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
 | 32 | [A QUEDA](https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [A QUEDA](https://open.spotify.com/album/1nrGJRwyxKMNnGB8Rz1QJR) | 2:52 |
 | 33 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 47 | [Tipo Gin \- Ao Vivo](https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Todo Mundo Ama O Chris \(Ao Vivo\)](https://open.spotify.com/album/5bISzaxE6WVsJjQj2BpWTX) | 2:39 |
 | 48 | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Medley Lud Session \- Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 | 49 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
-| 50 | [Radar](https://open.spotify.com/track/0V4LaOkdQm1sJwNerXcxMl) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 3:02 |
+| 50 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 |
 
-Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDI3NDAwMDAwMTgyMjNkOTAwNjEwMDAwMDE4MjIzYzlhODk0`
+Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDAwMGY0OThiMmE4NGRmNjNhYjZjN2JkYmJjMjU5NzViNzhl`

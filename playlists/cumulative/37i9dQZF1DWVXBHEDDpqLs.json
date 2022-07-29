@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 183345,
       "name": "Another Chance - SBF17",
       "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 86424,
       "name": "Atomic",
       "url": "https://open.spotify.com/track/4JLOOh4uSHUv7bp14Gte2i"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224541,
       "name": "B2B",
       "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 178652,
       "name": "Banter",
       "url": "https://open.spotify.com/track/3u3eiXFxCifcIQnsgcmv43"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Banter - Sak Noel, Franklin Dam Remix",
       "url": "https://open.spotify.com/track/6BcgLpYUrgWdupgoq3pNIQ"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184529,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4wbOo8y5y3C96cXLZaSbER"
@@ -613,10 +613,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273386,
       "name": "Bussifame",
       "url": "https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K"
+    },
+    {
+      "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273386,
+      "name": "Bussifame",
+      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
     },
     {
       "album": {
@@ -635,10 +653,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143571,
       "name": "Bustin' At Em'",
       "url": "https://open.spotify.com/track/3vIvmbcfvC9ByPrpvTrSZq"
+    },
+    {
+      "album": {
+        "name": "Busy (Jaymie Silk Remix)",
+        "url": "https://open.spotify.com/album/1QZ38VPwqmFHNUbXurW20B"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Busy - Jaymie Silk Remix",
+      "url": "https://open.spotify.com/track/123p7SXAx8SBGLwLVlpmon"
     },
     {
       "album": {
@@ -657,7 +697,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "Busy - Jaymie Silk Remix",
       "url": "https://open.spotify.com/track/1HUmlcTxVNZZzGBFb7dz84"
@@ -797,7 +837,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 615260,
       "name": "Concrete Jungle (Remastered)",
       "url": "https://open.spotify.com/track/1yuKvCO1nQp30mTqhNOBDY"
@@ -903,7 +943,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
@@ -925,7 +965,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 192292,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR"
@@ -991,7 +1031,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
@@ -1123,6 +1163,24 @@
       "duration_ms": 95268,
       "name": "Fuck It up Challenge",
       "url": "https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft"
+    },
+    {
+      "album": {
+        "name": "Jersey Khan",
+        "url": "https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z"
+      },
+      "artists": [
+        {
+          "name": "DJ Telly Tellz",
+          "url": "https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95268,
+      "name": "Fuck It up Challenge",
+      "url": "https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje"
     },
     {
       "album": {
@@ -1281,7 +1339,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178177,
       "name": "Gone Crazy",
       "url": "https://open.spotify.com/track/0nFWkJE6AnANyYuLOfJGqb"
@@ -1417,7 +1475,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243720,
       "name": "Holding It Together",
       "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
@@ -1461,7 +1519,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173142,
       "name": "I Am In Love",
       "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
@@ -1487,7 +1545,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153317,
       "name": "I Like The Gangstas",
       "url": "https://open.spotify.com/track/4emERQBWLwVutRtgygswTU"
@@ -1527,7 +1585,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178560,
       "name": "I Said",
       "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
@@ -1579,6 +1637,32 @@
     {
       "album": {
         "name": "Impossible (Roska Remix)",
+        "url": "https://open.spotify.com/album/11yIOT6Gaqn2T4c1Lusgi4"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "Thai Chi Ros\u00e8",
+          "url": "https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR"
+        },
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Impossible - Roska Remix",
+      "url": "https://open.spotify.com/track/5y8vPSQJqelX46gjX0KYmi"
+    },
+    {
+      "album": {
+        "name": "Impossible (Roska Remix)",
         "url": "https://open.spotify.com/album/3YYmr2h0faY6vzkn5mfnKa"
       },
       "artists": [
@@ -1597,7 +1681,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239000,
       "name": "Impossible - Roska Remix",
       "url": "https://open.spotify.com/track/5zeqPOKP0LVy3FTm7txSjL"
@@ -1645,7 +1729,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 143399,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/7MyhIzwqpwfetObvzcTbkm"
@@ -1686,6 +1770,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
+      },
+      "artists": [
+        {
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
+    },
+    {
+      "album": {
         "name": "JIMMY CROOKS (Remix)",
         "url": "https://open.spotify.com/album/2MA1NPxeBKMzkCxWYguYYT"
       },
@@ -1697,7 +1799,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145711,
       "name": "JIMMY CROOKS - Remix",
       "url": "https://open.spotify.com/track/1Fyezl6Ep6Swory5K78NR3"
@@ -1999,6 +2101,24 @@
     {
       "album": {
         "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+      },
+      "artists": [
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
+    },
+    {
+      "album": {
+        "name": "Pepper Dem",
         "url": "https://open.spotify.com/album/3hsSHcXdv3J8QZkWe24xoh"
       },
       "artists": [
@@ -2009,7 +2129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193500,
       "name": "Pepper Dem",
       "url": "https://open.spotify.com/track/7BsRJ0qPuicpaMBWjfAAnM"
@@ -2061,7 +2181,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223636,
       "name": "Progression",
       "url": "https://open.spotify.com/track/4pnDR3Dbsn19PE7VRbI4ed"
@@ -2263,7 +2383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 184058,
       "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
       "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
@@ -2347,7 +2467,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
@@ -2435,7 +2555,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 116280,
       "name": "Sri Lanka",
       "url": "https://open.spotify.com/track/58oUv4YvqAthrjI0fMnYUI"
@@ -2555,7 +2675,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157058,
       "name": "Sweaty Clothes (feat. Cerrissa Koza)",
       "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
@@ -2657,7 +2777,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 342481,
       "name": "TEMPRANO",
       "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
@@ -2839,7 +2959,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 109000,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/0XjKi6RQNEbkOPXLNeg583"
@@ -2939,7 +3059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 144065,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/5bS6VIBCYdi9QL9T1upn3G"
@@ -2983,7 +3103,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3EinJKmldBC1cQ9rVDiHEp"
@@ -3041,7 +3161,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240000,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/1ox7ygxlRnNjwvCsKePvBC"

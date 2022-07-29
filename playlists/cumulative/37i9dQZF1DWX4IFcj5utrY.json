@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ?si=CCdobvU5S5yah3Kw6sdu9Q\">China Charmeleon</a> and <a href=\"https://open.spotify.com/artist/6PcHusHP9ow3HrIvqRJDua?si=NJpZCSShQzSSRNBJqvjjkQ\">AndileAndy</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM?si=Z2ozIwTCRZKWgevGK1Cs4w\">Citizen Deep</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 384017,
       "name": "Best Kept Secret",
       "url": "https://open.spotify.com/track/2ltQ39JLuR5LimblhEBoXV"
@@ -2114,6 +2114,24 @@
     },
     {
       "album": {
+        "name": "Cries Of Africa (incl.Deeplomatik Remix)",
+        "url": "https://open.spotify.com/album/2VczCSGaoLNOEtJmr3FJOL"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355979,
+      "name": "Cries Of Africa",
+      "url": "https://open.spotify.com/track/6MMoEzV4Wlpy1ayR3qQr3B"
+    },
+    {
+      "album": {
         "name": "Dark Nights",
         "url": "https://open.spotify.com/album/7oefeNYoUaoZtUd0QKVPZU"
       },
@@ -2764,6 +2782,28 @@
     },
     {
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/3FrP8iocoWiT6C0yU8P6jW"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393900,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/7xcahxhSAdTv28H4DjrisY"
+    },
+    {
+      "album": {
         "name": "The Third",
         "url": "https://open.spotify.com/album/3zvun5QyXRLt5N2iteMnIM"
       },
@@ -2933,7 +2973,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 466093,
       "name": "Fly - Original Mix",
       "url": "https://open.spotify.com/track/41DYK9ZzNStL0w1pooCSTc"
@@ -3202,6 +3242,28 @@
     },
     {
       "album": {
+        "name": "ARCADE 2",
+        "url": "https://open.spotify.com/album/0ZIrS00dQLvWC0lI01TEEw"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Umzulu Phaqa",
+          "url": "https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "Gqizi Qakala (feat. Umzulu Phaqa)",
+      "url": "https://open.spotify.com/track/04PM7dqR53p4F6Jo4vJOg6"
+    },
+    {
+      "album": {
         "name": "Text Me When You Get Home",
         "url": "https://open.spotify.com/album/0zVYDRBesK9ZvoEiqbjwLe"
       },
@@ -3265,7 +3327,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 459661,
       "name": "HAYII",
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
@@ -3585,7 +3647,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 332000,
       "name": "I Love Music - Original",
       "url": "https://open.spotify.com/track/4nF2mJhKy7NQcPBhtkuSTx"
@@ -4303,7 +4365,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 392016,
       "name": "Its Possible",
       "url": "https://open.spotify.com/track/2cUW4SwMThVmiVFoFVISV0"
@@ -4979,7 +5041,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 342976,
       "name": "Litunga",
       "url": "https://open.spotify.com/track/0RxNCCqUwvxViNPN4Hzu9f"
@@ -5909,7 +5971,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 450581,
       "name": "Mvemvane",
       "url": "https://open.spotify.com/track/2bWiI4pTlIsn4pamtZKxoC"
@@ -6253,7 +6315,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310960,
       "name": "Ntala",
       "url": "https://open.spotify.com/track/2Xoy2LMErRgoflqHFZuiq9"
@@ -6853,7 +6915,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242000,
       "name": "Respond",
       "url": "https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h"
@@ -7057,7 +7119,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211829,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/4cxlz09NQhRwJQaBG7yJ9z"
@@ -7201,6 +7263,28 @@
       "duration_ms": 340645,
       "name": "See What's Next",
       "url": "https://open.spotify.com/track/3HXEhmHvmq4eMpRiTrFpaj"
+    },
+    {
+      "album": {
+        "name": "Selimathunzi",
+        "url": "https://open.spotify.com/album/5t1EwXmFT2rnXL3aQD6Xcm"
+      },
+      "artists": [
+        {
+          "name": "Mmthi Junior",
+          "url": "https://open.spotify.com/artist/6YV6ti9QL77iI3rX40QMZd"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393745,
+      "name": "Selimathunzi",
+      "url": "https://open.spotify.com/track/40AnkG0nuRI9rvyuSqM9qF"
     },
     {
       "album": {
@@ -8607,7 +8691,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196320,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/70rIvrzenju3C2A53M3cto"
@@ -8683,6 +8767,32 @@
       "duration_ms": 415634,
       "name": "Tribute To Dr Phill Rsa",
       "url": "https://open.spotify.com/track/3TPrilYtzd5vXC2Or5soNx"
+    },
+    {
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/2KbP3jbRtnX3SWYS2Q6V2e"
+      },
+      "artists": [
+        {
+          "name": "Sytec",
+          "url": "https://open.spotify.com/artist/38z0wePbQl1fKZmTNyFouO"
+        },
+        {
+          "name": "Oluba",
+          "url": "https://open.spotify.com/artist/6N2fZTK6IY9ir9mprvScEl"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317824,
+      "name": "Trilogy",
+      "url": "https://open.spotify.com/track/0dPaSTEih9oRVdyqQD9URo"
     },
     {
       "album": {
@@ -9345,7 +9455,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240114,
       "name": "Weekend Special (with Brenda Fassie) - Shimza Remix Edit",
       "url": "https://open.spotify.com/track/1MkPykZ3pYXdjaz5PwjAQE"
@@ -9517,7 +9627,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 316456,
       "name": "Wind Up",
       "url": "https://open.spotify.com/track/6c1lqiDy10LpvHOJbjRP3W"

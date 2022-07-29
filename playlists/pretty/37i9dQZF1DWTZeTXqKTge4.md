@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Lebza Khey, Guessmi
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,141 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,152 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 |
 | 75 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 |
 
-Snapshot ID: `MTY1ODc2ODk0MSwwMDAwMDIyMzAwMDAwMTgyMzY1NTYxZDIwMDAwMDE4MjIyMjYzODlk`
+Snapshot ID: `MTY1ODc2ODk0MSwwMDAwMDAwMDViZDJlNTlmZDYxOWYwN2I1ZTVjMWUwOWRlMmZhMzE3`

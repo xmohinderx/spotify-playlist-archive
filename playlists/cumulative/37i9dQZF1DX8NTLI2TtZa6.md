@@ -4,7 +4,7 @@
 
 > Focus\-enhancing piano for your study session.
 
-288 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
+294 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/0rxDTjtFKjHnIItJrCyyMO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Anaïs](https://open.spotify.com/track/3ypf3tHRl2c8FsJRwAhDew) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Anaïs](https://open.spotify.com/album/6l2cjS9Z7tnOau7cUZBfzz) | 1:58 | 2021-12-07 |  |
 | [And I Always Will](https://open.spotify.com/track/2ELwSFL1CGiJIlpHP3XFbZ) | [Julien Thorsen](https://open.spotify.com/artist/4mm2IRrNFYuVoESj439Apn) | [And I Always Will](https://open.spotify.com/album/6IMQgMaokDB7ZS5QkOJuoK) | 1:59 | 2021-12-07 |  |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-01-18 |  |
-| [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 |  |
+| [Apart](https://open.spotify.com/track/6f0drxUwd9EIdAvuTmIKYY) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:15 | 2022-07-19 |  |
+| [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 | 2022-07-29 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 |  |
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 |  |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2021-12-07 | 2022-06-08 |
@@ -100,8 +101,10 @@
 | [Hands and Feet](https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Hands and Feet](https://open.spotify.com/album/3VLtmQVO6V5bkx17xTKkvO) | 1:54 | 2022-03-16 |  |
 | [Harmonie](https://open.spotify.com/track/2aGc5gn4ciDbXgMfUwa7YL) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Harmonie](https://open.spotify.com/album/3sRxIoe96aiN8KpZ6Ufm8Y) | 2:29 | 2021-12-07 |  |
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2021-12-07 |  |
-| [Her](https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Her](https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5) | 2:34 | 2021-12-07 |  |
-| [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 |  |
+| [Her](https://open.spotify.com/track/1h5J39FupEgSwZn43lSqgp) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Dreamer](https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN) | 2:34 | 2022-07-19 |  |
+| [Her](https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Her](https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5) | 2:34 | 2021-12-07 | 2022-07-29 |
+| [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 | 2022-07-29 |
+| [Hidcote Garden](https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc) | 2:42 | 2022-07-19 |  |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-12-07 | 2022-03-18 |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-12-07 |  |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2021-12-07 | 2022-05-21 |
@@ -114,7 +117,8 @@
 | [I Promise You This](https://open.spotify.com/track/3q0OFkCGpCB8XND1BKnnkL) | [Jenifer Tremblay](https://open.spotify.com/artist/0VnIScjCdDU0cmMZTTEnrf) | [I Promise You This](https://open.spotify.com/album/22fgElZ2UTCJHLkol5HfW4) | 2:09 | 2021-12-07 | 2022-02-16 |
 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 |  |
 | [Immersion](https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Immersion](https://open.spotify.com/album/2PitqdH877qhO9IIpPrKXi) | 2:24 | 2021-12-07 |  |
-| [In Between](https://open.spotify.com/track/20jCNFEkg7GZo64KKfgmY2) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [In Between](https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil) | 2:40 | 2021-12-07 |  |
+| [In Between](https://open.spotify.com/track/1MkGNJtjgOH98OV1P2xt9M) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [In Between](https://open.spotify.com/album/6I8xdZRKAvp3iwHyNPLIa5) | 2:40 | 2022-07-19 |  |
+| [In Between](https://open.spotify.com/track/20jCNFEkg7GZo64KKfgmY2) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [In Between](https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil) | 2:40 | 2021-12-07 | 2022-07-29 |
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 |  |
 | [In Spe](https://open.spotify.com/track/79mxmNCrdk8aYA0gyVvXnT) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [In Spe](https://open.spotify.com/album/7jXoNNfqaWvbDbkfHr9ac3) | 3:00 | 2022-07-19 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-12-07 |  |
@@ -145,7 +149,8 @@
 | [Loopholes](https://open.spotify.com/track/3AbK2ut769qCyhdAox3QVQ) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Loopholes](https://open.spotify.com/album/1pQLmDUih1YxJvoGF37Rzl) | 2:50 | 2022-05-27 |  |
 | [Lost](https://open.spotify.com/track/7nC2EOpMnpDT2DkvniimSm) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Lost](https://open.spotify.com/album/2RnNYYYXt2ZYpBmR645OWT) | 2:41 | 2021-12-07 | 2022-02-02 |
 | [Lost Nights](https://open.spotify.com/track/6nyxFKqmeUId9413dTb2Hb) | [Dana Leccia](https://open.spotify.com/artist/4ptl0i0yjT7UQ3seccQ484) | [Lost Nights](https://open.spotify.com/album/4eUA9CEYNwwBPLoK5VHmXP) | 2:34 | 2021-12-07 |  |
-| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 |  |
+| [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2021-12-07 | 2022-07-29 |
+| [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-19 |  |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2022-03-17 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 |  |
@@ -240,7 +245,7 @@
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 |  |
 | [Sonata del Giardino](https://open.spotify.com/track/2wNBTbBMhZ1FDFx5US3u3o) | [Domani Fendi](https://open.spotify.com/artist/1GaEeF01ebT6znhYvW1s7b) | [Sonata del Giardino](https://open.spotify.com/album/1L0WoZmWBaqsMwbs8oa4wm) | 2:45 | 2021-12-07 |  |
-| [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 |  |
+| [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-03-16 | 2022-07-29 |
 | [Sonne und Mond](https://open.spotify.com/track/2jpKwXSKceFIm2ZJF8gZO7) | [Vanya Sogaya](https://open.spotify.com/artist/52ZDvqSoUUMRtR9qjwyhq4) | [Sonne und Mond](https://open.spotify.com/album/01CosJGsY8PK0iH29KV2ht) | 3:15 | 2021-12-07 |  |
 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 | 2022-02-15 |  |
 | [Sparrow](https://open.spotify.com/track/2zFYk6wwcF2fTXrvsMaeEP) | [Ana Petrovna](https://open.spotify.com/artist/4g3wEGX9ERd45u8lFS7ei9) | [Sparrow](https://open.spotify.com/album/0vUq0BxoKFTGQTSK5ChdXM) | 2:10 | 2021-12-07 | 2022-05-21 |
@@ -288,7 +293,8 @@
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2021-12-07 | 2022-06-08 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-12-07 |  |
 | [When We First Met](https://open.spotify.com/track/0AACyZj1JuHVFtG19P8GTC) | [Ricki Westberg](https://open.spotify.com/artist/17cS5flbpagsd0kN3lchx4) | [When We First Met](https://open.spotify.com/album/6YgpWDw0IZl2pK5jvTbrQV) | 1:52 | 2021-12-07 | 2022-03-18 |
-| [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 |  |
+| [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 |  |
+| [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2021-12-07 | 2022-07-29 |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 |  |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 |  |
 | [Yesterdays Answer](https://open.spotify.com/track/4RcazdOk2fclED0uZ1S2K9) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Yesterdays Answer](https://open.spotify.com/album/7FSU0f8jsIuxR2RzK1XndN) | 2:39 | 2021-12-07 |  |

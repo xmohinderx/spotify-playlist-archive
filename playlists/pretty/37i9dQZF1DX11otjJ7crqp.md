@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: FLETCHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,344 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,434 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 8 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 |
 | 9 | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Are You Entertained \(feat\. Ed Sheeran\)](https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9) | 2:36 |
 | 10 | [If We Were A Party](https://open.spotify.com/track/10jL8CyereIW7EhM0pzsSD) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:35 |
-| 11 | [BLENDER](https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/2891xE2gNoKnHO1ermqSWG) | 2:27 |
+| 11 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 |
 | 12 | [Probabilities](https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Probabilities](https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ) | 2:28 |
 | 13 | [12345](https://open.spotify.com/track/0fxUGOzBYJGKgs5ZKw1Em5) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Egg in the Backseat](https://open.spotify.com/album/1iHhuUxL99xxbDjlLwHV8W) | 2:44 |
 | 14 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 70 | [call me when ur lonely](https://open.spotify.com/track/4k8xUKG3DpRKE5Vc7lRUOG) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [call me when ur lonely](https://open.spotify.com/album/6NmidioRUyQc1Bc14mXi5Q) | 2:39 |
 | 71 | [Come Back Home \- From "Purple Hearts"](https://open.spotify.com/track/2mPXui72mlIYR5sQUPZXwP) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Come Back Home \(From "Purple Hearts"\)](https://open.spotify.com/album/2O6Q9yickLm8XJfvy1SPdx) | 2:56 |
 | 72 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 |
-| 73 | [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 |
+| 73 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
 | 74 | [Spend Some Money](https://open.spotify.com/track/6ZEy0mLwBQ5KMZgiVi4BFB) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1Yh0SmqjhblyCIsjSM7COY) | 2:14 |
 | 75 | [Fever Dream](https://open.spotify.com/track/3EoIDD1XMO515GjCwBKz7I) | [Kathleen](https://open.spotify.com/artist/6UqUYZ8pMGiYhuyIcsH61y) | [Fever Dream / How Long Will This Last](https://open.spotify.com/album/3yhFmN0bM914flZzkDhV0q) | 2:38 |
 | 76 | [Part Of The Band](https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Part Of The Band](https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM) | 4:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [I'll Show Myself Out](https://open.spotify.com/track/3hEwJ3bIMjfM7PPt6WWjPa) | [Noelle Sucks](https://open.spotify.com/artist/2kj9J1mkap7VGmtgqJi5yB) | [I'll Show Myself Out](https://open.spotify.com/album/7hwpxxiqmtcWbKbAPGaY52) | 2:47 |
 | 100 | [Cognitive Dissonance](https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [Cognitive Dissonance](https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb) | 2:56 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDA1NjAwMDAwMTgyMjQwZmVlZjYwMDAwMDE4MjIzODJlYzU2`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGJkMzUwNzVmMjM1ZmEzZWNmMTBhN2UxMTQ5NWUwYzZj`

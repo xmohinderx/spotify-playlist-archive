@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient.
 
-278 songs - 13 hr 46 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
+280 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Acércate](https://open.spotify.com/track/6cCJLQydZi0hOugxKQPZUZ) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Acércate](https://open.spotify.com/album/3eukHG5mbRadhylbLUSHU9) | 3:13 | 2021-12-17 |  |
 | [Adore](https://open.spotify.com/track/51yCSSmO1jssfPUnliLwEk) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Adore](https://open.spotify.com/album/6GK3oF02smp4Cl0ZphttUP) | 3:20 | 2021-12-17 |  |
 | [Aestate Nocte](https://open.spotify.com/track/33kX0nz5uT0zqq3EYWvUjf) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Aestate Nocte](https://open.spotify.com/album/586nVYFWjCLPKqroTU1dVq) | 3:24 | 2021-12-17 |  |
-| [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 | 2021-12-17 |  |
+| [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 | 2021-12-17 | 2022-07-29 |
+| [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 | 2022-07-22 |  |
 | [All Is Well Now](https://open.spotify.com/track/5QfENz96Rk140fmTccgCPa) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [All Is Well Now](https://open.spotify.com/album/4wzi12NOvPJU4pxr8WROcV) | 2:08 | 2021-12-17 | 2022-04-22 |
 | [Alone Again](https://open.spotify.com/track/4QwJUFKuD3lVxeZ2S2ADg6) | [Polar Moon](https://open.spotify.com/artist/1QHavDqaVSc2l4wxcYqpK4) | [As Above, So Below](https://open.spotify.com/album/4lOFRblaFlmEtNKUSSC7h3) | 2:02 | 2021-12-17 |  |
 | [An Eternity With You](https://open.spotify.com/track/26lMzRXcIvEZZocZwGtu7e) | [Manny Chu](https://open.spotify.com/artist/5cqGSR5Eyh5XSYtlSStmmF) | [An Eternity With You](https://open.spotify.com/album/4OGr79gLRl9GuZM6e0gUfL) | 2:16 | 2021-12-17 |  |
@@ -27,7 +28,8 @@
 | [Augnablik](https://open.spotify.com/track/7bG1tltLLroslB2iN4NVXx) | [Næturkall](https://open.spotify.com/artist/57KgCAQY3AIYMaC0g2jOKb) | [Augnablik](https://open.spotify.com/album/6nHuSpEeI6dsKVHUlHaafK) | 2:43 | 2022-07-08 |  |
 | [Aurora](https://open.spotify.com/track/3thLpLQoMsbwCMhi26cwPs) | [Lights From A Distance](https://open.spotify.com/artist/4LPhXlMmFzBwyQVOCHtQAK) | [Aurora](https://open.spotify.com/album/3CYbmcSvawr8gb9y1JTTTm) | 1:59 | 2021-12-17 |  |
 | [Authentic](https://open.spotify.com/track/4WF88Pk0JMP7uOpdrd0bDL) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Authentic](https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX) | 3:12 | 2022-02-15 |  |
-| [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2021-12-17 |  |
+| [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 | 2021-12-17 | 2022-07-29 |
+| [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 | 2022-07-22 |  |
 | [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-12-17 |  |
 | [Ballerina \- Ambient Version](https://open.spotify.com/track/6OoZfXgh8Y6V869KQMVY4e) | [William Keats](https://open.spotify.com/artist/17LlecIqr0KpoiUMya3KEO) | [Ballerina](https://open.spotify.com/album/33QaWcLXPuFCDEbluuL4Nw) | 2:36 | 2021-12-17 | 2022-04-22 |
 | [Be Here Now](https://open.spotify.com/track/4PqMhMtaGWmI5oBSpbYKdM) | [Star River](https://open.spotify.com/artist/4dK4vT6WMq0uXkxfYolQXf) | [Feeling Calm](https://open.spotify.com/album/6qjVLVgVfP7EpvFREJWlwP) | 3:21 | 2021-12-17 |  |

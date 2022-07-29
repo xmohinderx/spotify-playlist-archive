@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. Lauran Hibberd
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,480 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,458 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 19 | [Memories \(with WILLOW\)](https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Memories \(with WILLOW\)](https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd) | 2:35 |
 | 20 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 21 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 |
-| 22 | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/track/0UjJ89GHYTykKaNUi55zvH) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/album/41d02ZUTdg1D67AAFZ8UuI) | 3:04 |
+| 22 | [TELL ME THAT YOU’RE OKAY](https://open.spotify.com/track/1sHJXrHy6zDP6V2gwJVZyk) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 3:04 |
 | 23 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 24 | [FALLING FROM MY GRACE](https://open.spotify.com/track/6t3MI9dLi4DJOHz15bE0uJ) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [FALLING FROM MY GRACE](https://open.spotify.com/album/1Kt4pp8S77Lkr9fHv5BPfG) | 2:47 |
 | 25 | [Cemetery Drive](https://open.spotify.com/track/2cViIXIe8Pbd1sOJExMJlK) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:08 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 37 | [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:30 |
 | 38 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 |
 | 39 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 |
-| 40 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |
+| 40 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 41 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 |
 | 42 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
 | 43 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 |
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 45 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 |
 | 46 | [Sleeping in Cars](https://open.spotify.com/track/20LGqs8akUvJKwn76nVAtC) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:36 |
 | 47 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
-| 48 | [hair out](https://open.spotify.com/track/0lRlsjGhgUDCjJzz3RjwNb) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [hair out](https://open.spotify.com/album/2mkGeTROsTphs5nrVRYJ82) | 2:40 |
+| 48 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 |
 | 49 | [Death Wish](https://open.spotify.com/track/5TeiMihQPtOXalkkhQC25r) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6), [Mason Levi](https://open.spotify.com/artist/2lx2zCw0a5evbYvfBlft1J) | [Death Wish](https://open.spotify.com/album/6wU1BcX0FRXBFHyNZ7XtQP) | 3:14 |
 | 50 | [Made You Cool](https://open.spotify.com/track/4j33FNursMn7WUao0tLb4O) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [Made You Cool](https://open.spotify.com/album/1FwoENdmB6fCMorZZaDmbv) | 3:14 |
 | 51 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
-| 52 | [Paranoid](https://open.spotify.com/track/6gGS0hjDNTPXlCowTPou0X) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/4v7M2QPlvrPIZvMTnAO082) | 4:17 |
+| 52 | [Paranoid](https://open.spotify.com/track/1ZLaWZGs81unqMVQZIasEa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Paranoid](https://open.spotify.com/album/0lePSvQnli7PXVgVLGAXK3) | 4:17 |
 | 53 | [Happier in Hell](https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happier in Hell](https://open.spotify.com/album/4eVkcMh1PhQIbLYrkjoBvn) | 2:53 |
 | 54 | [Breakup On The Weekend](https://open.spotify.com/track/6YmN4J2HoGJSLtrsicU7ow) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Red In Revenge \- EP](https://open.spotify.com/album/0K2XD1DvekT47y3o6MtCr3) | 2:35 |
 | 55 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 77 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 |
 | 78 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 |
 | 79 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 |
-| 80 | [HOMESICK](https://open.spotify.com/track/7rY4xDlBYGmnVJaszcAW8Y) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [BUBBLEGUM EP](https://open.spotify.com/album/4fPzNQS7yUPLSGffMKLJpM) | 3:09 |
+| 80 | [HOMESICK](https://open.spotify.com/track/4qP4kTX936djenzFcQIKrw) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [BUBBLEGUM EP](https://open.spotify.com/album/64BbfF6V1IuXhTzxPkwwg4) | 3:09 |
 
-Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDA1NjAwMDAwMTgyMjJmZDQ2MjkwMDAwMDE4MjIxOGNiODky`
+Snapshot ID: `MTY1ODQ0NDQwMCwwMDAwMDAwMDQ1OTJhMjc3NWY3OWYyY2JjZmY1MGNjYWFiNGNhNjdm`

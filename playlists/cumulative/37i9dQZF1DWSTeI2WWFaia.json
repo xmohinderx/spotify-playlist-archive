@@ -107,7 +107,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 142282,
       "name": "29 (Freestyle)",
       "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
@@ -260,6 +260,32 @@
     },
     {
       "album": {
+        "name": "Aquamarine (feat. Michael Kiwanuka)",
+        "url": "https://open.spotify.com/album/23vLIrzxssJTHCTlzTtDmu"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "Aquamarine (feat. Michael Kiwanuka)",
+      "url": "https://open.spotify.com/track/0aqR5bgmid39zzjuJofio7"
+    },
+    {
+      "album": {
         "name": "CLRD.",
         "url": "https://open.spotify.com/album/1XKhVI0EBWl0xj8liEeB60"
       },
@@ -349,7 +375,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270040,
       "name": "AUTOBOTO",
       "url": "https://open.spotify.com/track/31pih2HK5Vj1RwRXF0p6L7"
@@ -695,7 +721,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 151423,
       "name": "Bleed It",
       "url": "https://open.spotify.com/track/1D2gtAC32GhkOlGvGJ7hxk"
@@ -839,10 +865,40 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222307,
       "name": "Bricks & Bags",
       "url": "https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK"
+    },
+    {
+      "album": {
+        "name": "Montega (Deluxe)",
+        "url": "https://open.spotify.com/album/4sEf3ilXj6yuIY7dO9p4Wb"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222307,
+      "name": "Bricks & Bags",
+      "url": "https://open.spotify.com/track/4akL8L4126WSpzAloEqcwQ"
     },
     {
       "album": {
@@ -1015,7 +1071,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204248,
       "name": "Chaining Day",
       "url": "https://open.spotify.com/track/3DQORrfGUHMsNWY4qDpALB"
@@ -1121,7 +1177,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138750,
       "name": "Cocky Humble",
       "url": "https://open.spotify.com/track/0fIYXOOFWKMOnULDcQPEru"
@@ -1161,7 +1217,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
@@ -1273,8 +1329,8 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
-      "duration_ms": 279640,
+      "date_removed": null,
+      "duration_ms": 214187,
       "name": "Derrick Boleman",
       "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
     },
@@ -1419,7 +1475,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -1473,7 +1529,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271883,
       "name": "DRILL MUSIC IN ZION",
       "url": "https://open.spotify.com/track/7tTwAwHz8pDZOt2WVI8fmH"
@@ -1661,6 +1717,28 @@
     {
       "album": {
         "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
       "artists": [
@@ -1675,7 +1753,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
@@ -1697,10 +1775,32 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213980,
       "name": "Fly With Me (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/1sgFFV3J62Q9NTqbxS1ShI"
+    },
+    {
+      "album": {
+        "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
+        "url": "https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "FOOTBALL HEADS (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K"
     },
     {
       "album": {
@@ -2117,7 +2217,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230156,
       "name": "Hans Zimmer",
       "url": "https://open.spotify.com/track/6LJW7Yu0P0wvO4mieoRzcn"
@@ -2219,7 +2319,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229802,
       "name": "Heaven's Sky (feat. Rae Khalil)",
       "url": "https://open.spotify.com/track/55RLuYa5urfohvcAc0jtsb"
@@ -2373,7 +2473,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180680,
       "name": "How You Live It (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/6dW64vFw23XYoPihztXZuv"
@@ -2533,7 +2633,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
@@ -2595,6 +2695,40 @@
       "duration_ms": 177946,
       "name": "Is What It Is",
       "url": "https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem"
+    },
+    {
+      "album": {
+        "name": "Isis (Remix)",
+        "url": "https://open.spotify.com/album/2FKqCFX8YuORASp2wON4iQ"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Starringo",
+          "url": "https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj"
+        },
+        {
+          "name": "Catra",
+          "url": "https://open.spotify.com/artist/7clv57AT6aP2cMrphyksAb"
+        },
+        {
+          "name": "Lex Bratcher",
+          "url": "https://open.spotify.com/artist/72bCjI953sBXUcEccj0SWf"
+        },
+        {
+          "name": "Kvng Moses",
+          "url": "https://open.spotify.com/artist/6bke0iSCUylKssEtk3Ltr2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296982,
+      "name": "Isis - Remix",
+      "url": "https://open.spotify.com/track/2hf7qisR1NhP3MuedFyOkp"
     },
     {
       "album": {
@@ -2686,6 +2820,32 @@
     },
     {
       "album": {
+        "name": "God Don't Make Mistakes",
+        "url": "https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286503,
+      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+      "url": "https://open.spotify.com/track/2Ri3R5tB1FlZhYgLMqTjSn"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -2741,7 +2901,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 178620,
       "name": "Just So You Remember",
       "url": "https://open.spotify.com/track/6XC3zX8dEiFTpd2hPpOA9y"
@@ -2923,7 +3083,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139050,
       "name": "LAW OF AVERAGES",
       "url": "https://open.spotify.com/track/5H9dz6nY2JtAvtSkX8Xj5K"
@@ -2963,7 +3123,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173397,
       "name": "Legend (feat. Garren)",
       "url": "https://open.spotify.com/track/7rRNn6kTtJPkjK4R5QGN97"
@@ -3029,7 +3189,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
@@ -3073,7 +3233,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 166775,
       "name": "Lifestyle (with Bas feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/0URbdJpIV9B54W2d9yeMwt"
@@ -3537,7 +3697,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172524,
       "name": "Myself (feat. DEVN)",
       "url": "https://open.spotify.com/track/7mlOsqmNcuZK9c43W1p2hD"
@@ -3555,7 +3715,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 177949,
       "name": "NAOMI",
       "url": "https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu"
@@ -3635,7 +3795,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 266996,
       "name": "Never Freestyle",
       "url": "https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3"
@@ -3777,7 +3937,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136500,
       "name": "Nobles (feat. Earl Sweatshirt & Navy Blue)",
       "url": "https://open.spotify.com/track/4BZYQk0qoFTnTKY90Q8iBZ"
@@ -3971,7 +4131,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
@@ -4451,7 +4611,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -4473,7 +4633,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 172023,
       "name": "Rushmore Pack",
       "url": "https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww"
@@ -4525,10 +4685,36 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224466,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
     },
     {
       "album": {
@@ -4719,7 +4905,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186167,
       "name": "Skegee",
       "url": "https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu"
@@ -4977,7 +5163,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208211,
       "name": "Steak Um (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv"
@@ -5203,7 +5389,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144868,
       "name": "Taco",
       "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
@@ -5233,7 +5419,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
@@ -5251,7 +5437,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 140373,
       "name": "TALK2ME",
       "url": "https://open.spotify.com/track/3argucLqn1gBoVSBe6M7Cz"
@@ -5365,6 +5551,24 @@
       "duration_ms": 124973,
       "name": "Tetris",
       "url": "https://open.spotify.com/track/5sqs99n1gCg2Ygg3eNz6rJ"
+    },
+    {
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
     },
     {
       "album": {
@@ -5617,7 +5821,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194652,
       "name": "The Stellar Ray Theory",
       "url": "https://open.spotify.com/track/52emBfS1l9frzMlxvaRSbE"
@@ -5653,7 +5857,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 173372,
       "name": "THE_EVIL_THAT_MEN_DO",
       "url": "https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K"
@@ -5701,6 +5905,28 @@
       "duration_ms": 155454,
       "name": "Three Cuts (feat. Maino)",
       "url": "https://open.spotify.com/track/35qdXRGCZj9isoXmae1gUy"
+    },
+    {
+      "album": {
+        "name": "THROUGH 2 U",
+        "url": "https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv"
+      },
+      "artists": [
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161963,
+      "name": "THROUGH 2 U",
+      "url": "https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP"
     },
     {
       "album": {
@@ -5755,7 +5981,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
@@ -5821,7 +6047,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160000,
       "name": "Troubles [Feat. T-Pain]",
       "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
@@ -6199,7 +6425,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142409,
       "name": "Wimbledon",
       "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
@@ -6217,7 +6443,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146953,
       "name": "World Champ",
       "url": "https://open.spotify.com/track/6Nt8M5jgmtRCxY2yGZdGKK"
@@ -6253,7 +6479,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 170133,
       "name": "Worst Comes To Worst",
       "url": "https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049"

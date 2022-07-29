@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como MARO, com o volume no máximo
 
-198 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
+200 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Da Vida Quero Os Sinais](https://open.spotify.com/track/5pC2Mt0ISrhj5ZVu2z477P) | [Mísia](https://open.spotify.com/artist/0YJLjcCzXjIoXUwcBfLODJ) | [Da Vida Quero Os Sinais](https://open.spotify.com/album/3DugiQbI82e7PM0QtRgjst) | 4:26 | 2022-04-05 | 2022-05-04 |
 | [Dantes](https://open.spotify.com/track/3I6w8DimxdMr9ovdZUgNAS) | [Marta Dias](https://open.spotify.com/artist/6scezziTZMaFJjThbtt8Oj), [Ana Vieira](https://open.spotify.com/artist/4TjYXzr3YwvqfsJsO53WW5) | [Dantes](https://open.spotify.com/album/242HUA0L6Ynz35pm1g1opB) | 2:31 | 2021-12-08 | 2022-02-02 |
 | [Dança](https://open.spotify.com/track/1vLcGFGIlnWvgaOwzvZa92) | [Constança Quinteiro](https://open.spotify.com/artist/4BklsgbRXLBkddcA93W1DZ) | [Aventurina](https://open.spotify.com/album/7uWxR1fQ2MfcXt7hGWop0m) | 3:38 | 2021-12-08 | 2022-01-05 |
-| [Decidiste Voltar](https://open.spotify.com/track/55PSGhZEhXXNhRwspoUK5y) | [Viviane](https://open.spotify.com/artist/35q7wCZmIpgxkD05U1Ufj5) | [Quando Tiveres Tempo](https://open.spotify.com/album/01qBEhb2gM2ks5yyk5gXaN) | 2:52 | 2022-05-31 |  |
+| [Decidiste Voltar](https://open.spotify.com/track/55PSGhZEhXXNhRwspoUK5y) | [Viviane](https://open.spotify.com/artist/35q7wCZmIpgxkD05U1Ufj5) | [Quando Tiveres Tempo](https://open.spotify.com/album/01qBEhb2gM2ks5yyk5gXaN) | 2:52 | 2022-05-31 | 2022-07-29 |
+| [Decidiste Voltar](https://open.spotify.com/track/59NV2ydj6YAulk2UQ1TNY4) | [Viviane](https://open.spotify.com/artist/35q7wCZmIpgxkD05U1Ufj5) | [Quando Tiveres Tempo](https://open.spotify.com/album/0Blu0Sgr11k23MlRTx10NQ) | 2:52 | 2022-07-05 |  |
 | [Defesa](https://open.spotify.com/track/2n7d5A0XJY6UhT3w2sFfaH) | [Sílvia Barros](https://open.spotify.com/artist/17ZThjc3szh3OqLLhICDxu) | [Defesa](https://open.spotify.com/album/2WefsGseGGW3j7C2hTgjVz) | 3:21 | 2022-04-05 | 2022-06-01 |
 | [Destino](https://open.spotify.com/track/2EvWlRoqD1JIgOsa3tMYNG) | [Zara Tejo](https://open.spotify.com/artist/5itnJWrEdGZ16UkifkAZHr) | [Destino](https://open.spotify.com/album/3n0YFWjeS7e2QKUrrH2zJ0) | 3:32 | 2021-12-08 | 2022-02-02 |
 | [Dilúvio](https://open.spotify.com/track/60Cb0rudOVwN8PnveCNDcM) | [A garota não](https://open.spotify.com/artist/7uCICyVlZh7EL1y4QLbNi0) | [Dilúvio](https://open.spotify.com/album/5vps2Z6G0w9j41DY9jLXbd) | 4:03 | 2022-04-05 | 2022-05-04 |
@@ -105,7 +106,8 @@
 | [Jump](https://open.spotify.com/track/4RM6bRhpdmxu3o2qYR2JNc) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Jump](https://open.spotify.com/album/5alD17F8n1tsyOvIPefZug) | 2:48 | 2022-04-05 | 2022-07-06 |
 | [Já Passou da Hora](https://open.spotify.com/track/66VGwICijuSfqBPbUrQems) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Já Passou da Hora](https://open.spotify.com/album/71Hi5Fq7xv5WkIEZOyHbz2) | 3:00 | 2022-03-08 | 2022-05-04 |
 | [King of Ruining](https://open.spotify.com/track/5XIV2uTJ4OKleztwCqDp4T) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [King of Ruining](https://open.spotify.com/album/5eu0HLThrAcHGjVxT0AUEW) | 3:16 | 2021-12-08 | 2022-01-05 |
-| [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 | 2022-07-05 |  |
+| [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 | 2022-07-05 | 2022-07-29 |
+| [Kwanza Sul](https://open.spotify.com/track/3wee6Fymfcvt9LH4DIU2i8) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Uma Música Angolana](https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI) | 3:57 | 2022-07-05 |  |
 | [Leva\-Me a Viajar](https://open.spotify.com/track/5Zjb9BXxEUGvLHHhCxTHj7) | [Sara Carreira](https://open.spotify.com/artist/4ZWBY6qCj0UzSZoEjdBnBH) | [Leva\-Me a Viajar](https://open.spotify.com/album/0XQdOLyu9G6UY2G6p54U8v) | 3:40 | 2022-01-05 | 2022-02-02 |
 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 | 2022-07-05 |  |
 | [Lobisomem](https://open.spotify.com/track/6s2dfXDxAS9o1IculpMGFW) | [Maria Reis](https://open.spotify.com/artist/0DWQj8MLymKN8IpUcB2Yh9) | [Benefício da Dúvida](https://open.spotify.com/album/1yhNNdKPvfXDXrJvKoZBB3) | 4:30 | 2022-05-31 |  |

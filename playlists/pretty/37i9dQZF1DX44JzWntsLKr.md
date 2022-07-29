@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 
 > Every Monbebe's HERO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,874 likes - 119 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,935 likes - 119 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 66 | [Magnetic](https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Magnetic](https://open.spotify.com/album/7p7sMoHzbLumNCUaW2mRIu) | 3:06 |
 | 67 | [MISBEHAVE](https://open.spotify.com/track/7hemsIJRQ45qEFCrBUtabJ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV \(Extended Version\)](https://open.spotify.com/album/064rnjNzpvTNDPGOmhFoyI) | 3:24 |
 | 68 | [Find you](https://open.spotify.com/track/0vewmpnpkzr24oImA5vLaI) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FOLLOW \- FIND YOU](https://open.spotify.com/album/3s5WpeDw4JOec54wEgmJBy) | 3:38 |
-| 69 | [Play It Cool](https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Play It Cool](https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN) | 2:49 |
+| 69 | [Play It Cool](https://open.spotify.com/track/1gdLUGdyYpXcckmzP1rTUm) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Neon Future IV](https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc) | 2:49 |
 | 70 | [IT AIN'T OVER](https://open.spotify.com/track/6N45wltlGQDQbxabEYhxun) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:10 |
 | 71 | [Stand Up](https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:21 |
 | 72 | [Play It Cool](https://open.spotify.com/track/0gxkqxGiLg1ylKzgToCcHY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:06 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 85 | [COOL LOVE \(Prod\. dress\)](https://open.spotify.com/track/3BgamBEaNxWkO7BFe1EzzL) | [HONGBIN](https://open.spotify.com/artist/42v37YfovlfevjT7WkYk9G), [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [THE LOVE OF SUMMER : THE PERFORMANCE](https://open.spotify.com/album/6FVAyZtifggLrVvbz5IH7b) | 3:23 |
 | 86 | [INTRO: WE ARE HERE](https://open.spotify.com/track/1cFrRHNHae4bw6ssxvGdNZ) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 1:12 |
 | 87 | [RUSH](https://open.spotify.com/track/3dKx1EvSEaceoN5Qnhe5iS) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:42 |
-| 88 | [SPOTLIGHT](https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SPOTLIGHT](https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k) | 3:59 |
+| 88 | [SPOTLIGHT](https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [PIECE](https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c) | 3:56 |
 | 89 | [난기류](https://open.spotify.com/track/06vXZ4guKCWbhPtenXWESL) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:21 |
 | 90 | [Queen](https://open.spotify.com/track/6RikqnZEtACiF2w12v0u51) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2 <GUILTY>](https://open.spotify.com/album/2aYSiytcrXyVj6ADo6Z7Cl) | 3:12 |
 | 91 | [Stealer](https://open.spotify.com/track/79NmwJEiY9maHX8djC3FN7) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:28 |
@@ -126,6 +126,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44JzWntsLKr.md) - [plain]
 | 116 | [Gone Bad](https://open.spotify.com/track/5XaKlbCu1SK1M83wOccc3X) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [RUSH](https://open.spotify.com/album/0ESTAnvX2zjMBxzesNAiR7) | 3:42 |
 | 117 | [No Exit](https://open.spotify.com/track/1FPVD4nged0Vts6C3qnnX7) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [TRESPASS](https://open.spotify.com/album/2G4ZHQd4z2hbiNWdxLKrsq) | 3:28 |
 | 118 | [I'll Be There](https://open.spotify.com/track/3AhSHpQhUasqq1Ni8xRh3c) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [THE CLAN pt.2.5 \[BEAUTIFUL\]](https://open.spotify.com/album/2QCHpaj2zkIhrghESZwPui) | 3:12 |
-| 119 | [부나비 The Tiger Moth](https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf) | 3:24 |
+| 119 | [부나비 \(The Tiger Moth\)](https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [쇼핑왕 루이 Shopping King Louie \(Music from the Korean Tv Drama\)](https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm) | 3:24 |
 
-Snapshot ID: `MTY1MTExNDcwNywwMDAwMDAzODAwMDAwMTgwNmUxYjBhMzcwMDAwMDE3ZGIxYzZiMmMw`
+Snapshot ID: `MTY1MTExNDcwNywwMDAwMDAwMDcwMTM2NjkxZmZmYzQ1NWUwZGRkMTA2NWE0MDFmODgz`

@@ -4,13 +4,14 @@
 
 > Texas music breaking waves\. Cover, Megan Thee Stallion
 
-199 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
+200 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3z4DK6QkxF2O2T2EB2ZrKi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Years](https://open.spotify.com/track/3IgI0TzODwJxJ3coO9aqjC) | [Jayson Lyric](https://open.spotify.com/artist/2CtJ90yJjxn0nL4a2lH0SA) | [100 Years](https://open.spotify.com/album/55StU7kaJVUrOg2d8cDubS) | 2:12 | 2022-02-25 | 2022-05-14 |
 | [1942](https://open.spotify.com/track/57M7zz6261e3C16CE7urOv) | [Startheonly1ne](https://open.spotify.com/artist/1CHx79WailhfSLpBvUvWqt) | [1942](https://open.spotify.com/album/7tCg3OiduEfxOrvyK1zJL4) | 2:09 | 2022-02-18 | 2022-04-02 |
-| [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-05-20 |  |
+| [24 Hrs](https://open.spotify.com/track/0GMxsSQhO9Yj8aKhN8ljFe) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/3t9cOTSY2P2Nj7pkbGv7M3) | 2:47 | 2022-05-20 | 2022-07-29 |
+| [24 Hrs \(feat\. Lil Tjay\)](https://open.spotify.com/track/1LZtjIkC9X3Ji8XylhCEa1) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [24 Hrs](https://open.spotify.com/album/5hFQFFREMK36OtrifdmTCO) | 2:47 | 2022-05-20 |  |
 | [24 Hrs \(feat\. Lil Tjay\) Chopped Not Slopped Remix](https://open.spotify.com/track/4YvD5XLIGCsZBIdoNCcSVE) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ) | [24 Hrs \(Chopped Not Slopped Remix\)](https://open.spotify.com/album/5rsAKcad5dmkUSa9j8qWp3) | 4:01 | 2022-07-22 |  |
 | [4 the love of the game](https://open.spotify.com/track/2urE4My6PcNLELXCRnCoVj) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:16 | 2022-01-29 | 2022-06-11 |
 | [5 Years](https://open.spotify.com/track/55JPb1FVudHjZnFTvB8LPG) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY) | [5 Years](https://open.spotify.com/album/7gFrVtLi2Oy0EMYaHtNDQM) | 2:47 | 2022-06-07 | 2022-07-23 |

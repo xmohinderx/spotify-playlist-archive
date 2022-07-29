@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "Tumble Bee",
+        "url": "https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136053,
+      "name": "All the Pretty Little Horses",
+      "url": "https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO"
+    },
+    {
+      "album": {
+        "name": "Tumble Bee",
         "url": "https://open.spotify.com/album/41bFok4mb7CrZlC8NioTGe"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136053,
       "name": "All The Pretty Little Horses",
       "url": "https://open.spotify.com/track/6UCLWz7yZsDW5g4G6TbATn"
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 159546,
       "name": "Awesome Blossom",
       "url": "https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139040,
       "name": "Blowing In the Wind",
       "url": "https://open.spotify.com/track/0C4KwX7o6nHvZwiBrutqAO"
@@ -215,6 +233,36 @@
     {
       "album": {
         "name": "Rocket Ship Beach",
+        "url": "https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        },
+        {
+          "name": "Donald Saaf",
+          "url": "https://open.spotify.com/artist/0zvHI3EGFTFN2BSwNFihvC"
+        },
+        {
+          "name": "The Rocket Ship Singers",
+          "url": "https://open.spotify.com/artist/6Nw2fZEx7sqeRo73QwjTQE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "Bushel And A Peck",
+      "url": "https://open.spotify.com/track/4AaiUYbKY7RTN4KwAQTdsr"
+    },
+    {
+      "album": {
+        "name": "Rocket Ship Beach",
         "url": "https://open.spotify.com/album/2oxeITbYy8ET2Wx9hPqvEe"
       },
       "artists": [
@@ -237,7 +285,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169466,
       "name": "Bushel And A Peck",
       "url": "https://open.spotify.com/track/4kdf9wUqVfbHwRYBAxe36n"
@@ -255,10 +303,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184973,
       "name": "Can You Canoe?",
       "url": "https://open.spotify.com/track/0IjbQr3DnBtbe32g6oKnki"
+    },
+    {
+      "album": {
+        "name": "Can You Canoe? A Mississippi River Adventure Album",
+        "url": "https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184973,
+      "name": "Can You Canoe?",
+      "url": "https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9"
     },
     {
       "album": {
@@ -343,7 +409,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 279156,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/3R0OeErDymaNnBvNq03CLb"
@@ -423,10 +489,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160826,
       "name": "Erie Canal",
       "url": "https://open.spotify.com/track/1eQO6u5JlWh6G6TChvUdWS"
+    },
+    {
+      "album": {
+        "name": "Rocket Ship Beach",
+        "url": "https://open.spotify.com/album/0XuyWTrLhNgUWT0cb7btJJ"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160826,
+      "name": "Erie Canal",
+      "url": "https://open.spotify.com/track/7fVZ6BoI9xnUElpSGHyL5M"
     },
     {
       "album": {
@@ -467,6 +559,24 @@
     {
       "album": {
         "name": "Family Time",
+        "url": "https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260853,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1aqS5msEei59kvSOhCU9Is"
+    },
+    {
+      "album": {
+        "name": "Family Time",
         "url": "https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn"
       },
       "artists": [
@@ -477,7 +587,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/6hHg2WvX0JYQt8Sw2qTAoP"
@@ -567,7 +677,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213733,
       "name": "Frog Went A-Courtin'",
       "url": "https://open.spotify.com/track/77tu5ZdU2IPNpHoAQQgyWA"
@@ -691,10 +801,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157880,
       "name": "Happy Trails",
       "url": "https://open.spotify.com/track/43fPABag9neCVtugDO9acg"
+    },
+    {
+      "album": {
+        "name": "Sings Ballads & Blues",
+        "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
+      },
+      "artists": [
+        {
+          "name": "Odetta",
+          "url": "https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114466,
+      "name": "He's Got the Whole World in His Hands",
+      "url": "https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39"
     },
     {
       "album": {
@@ -709,10 +837,46 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157311,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0wc2Tvr3N1y1n8ovv21XWy"
+    },
+    {
+      "album": {
+        "name": "My Tiny Twilight",
+        "url": "https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157311,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7"
+    },
+    {
+      "album": {
+        "name": "50 Great Nursery Rhymes, Vol. 2",
+        "url": "https://open.spotify.com/album/2H7OWPAgm35qkKDNNwXxBv"
+      },
+      "artists": [
+        {
+          "name": "ABC Kids",
+          "url": "https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "Here We Go Looby Loo",
+      "url": "https://open.spotify.com/track/4Ponyyh31zaPT5OLr16QeJ"
     },
     {
       "album": {
@@ -751,7 +915,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170053,
       "name": "Here We Go Looby Loo",
       "url": "https://open.spotify.com/track/3F7hlXt0v4hORe0EzSJ9om"
@@ -806,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Presenting Roy Rogers",
+        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155733,
+      "name": "Home on the Range",
+      "url": "https://open.spotify.com/track/1MAXtir2OgyGQKfQAxDK6c"
+    },
+    {
+      "album": {
         "name": "Music From And Inspired By Fallout New Vegas",
         "url": "https://open.spotify.com/album/3wIyhO4NLRbG8fXCCFzbhU"
       },
@@ -817,7 +999,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158840,
       "name": "Home On The Range",
       "url": "https://open.spotify.com/track/1dlJCWx76cJKTsILnljLYs"
@@ -853,10 +1035,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168798,
       "name": "Hope Machine",
       "url": "https://open.spotify.com/track/0kiLpHNyBNkW1hr1guDYHc"
+    },
+    {
+      "album": {
+        "name": "Songs for Singin'",
+        "url": "https://open.spotify.com/album/6NqD66DThZCoAYP0V6INpB"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168798,
+      "name": "Hope Machine",
+      "url": "https://open.spotify.com/track/34bqUQ5NteJZjgpu5VW408"
     },
     {
       "album": {
@@ -882,6 +1082,28 @@
     },
     {
       "album": {
+        "name": "Nursery Rhymes For Kinder Times",
+        "url": "https://open.spotify.com/album/1s0mvvzPuE4sTJCTiTur3n"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Lindsay Munroe",
+          "url": "https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114893,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/1VVbl4g9ONkwINYC5PXx5Y"
+    },
+    {
+      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3BNT9v6mjkgruMF5yMEEsH"
       },
@@ -893,7 +1115,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 90662,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/0gb4qwhAFCLTEnsbiBTCMG"
@@ -919,6 +1141,28 @@
       "duration_ms": 171893,
       "name": "I Got a Boy and His Name Is John",
       "url": "https://open.spotify.com/track/6U8URqc3zh8f0u1E4CvKzm"
+    },
+    {
+      "album": {
+        "name": "The Johnny Cash Children's Album",
+        "url": "https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "I Got a Boy and His Name Is John (with June Carter Cash)",
+      "url": "https://open.spotify.com/track/2HCxr7MRt7iTevb58uwd9o"
     },
     {
       "album": {
@@ -955,10 +1199,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
+    },
+    {
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "album": {
@@ -980,6 +1242,24 @@
     },
     {
       "album": {
+        "name": "I'm Your Mama",
+        "url": "https://open.spotify.com/album/1VTUKX01NDIJI7eQIdIbJG"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81877,
+      "name": "I'm Your Mama",
+      "url": "https://open.spotify.com/track/0O2LFi46EqEuoiFtwHvKMl"
+    },
+    {
+      "album": {
         "name": "My Tiny Twilight",
         "url": "https://open.spotify.com/album/6JgT1z71Q2vCyYS5486C3N"
       },
@@ -991,7 +1271,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 81877,
       "name": "I'm Your Mama",
       "url": "https://open.spotify.com/track/3HZj9sJWp7mBK8JWSZvGC9"
@@ -1035,10 +1315,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 74933,
       "name": "If All Of The Raindrops",
       "url": "https://open.spotify.com/track/0PursvcXaOfKR79VxOOSDV"
+    },
+    {
+      "album": {
+        "name": "Songs for Wiggleworms",
+        "url": "https://open.spotify.com/album/4bTD53mtiKyg7wiiHaGxqa"
+      },
+      "artists": [
+        {
+          "name": "Old Town School of Folk Music",
+          "url": "https://open.spotify.com/artist/68xJjwAFcVSDmF9vTlnqi8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74933,
+      "name": "If All Of The Raindrops",
+      "url": "https://open.spotify.com/track/5POM2lseA6sONqP0O9pxWC"
     },
     {
       "album": {
@@ -1053,7 +1351,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 121053,
       "name": "If I Had a Hammer - 2004 Remaster",
       "url": "https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl"
@@ -1071,7 +1369,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 128744,
       "name": "In the Kitchen",
       "url": "https://open.spotify.com/track/6WVuoOPXjJ6R9v0FWDq6Ix"
@@ -1096,6 +1394,28 @@
     },
     {
       "album": {
+        "name": "Sesame Street: Songs From The Street, Vol. 2",
+        "url": "https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        },
+        {
+          "name": "The Sesame Street Kids",
+          "url": "https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120373,
+      "name": "Jellyman Kelly",
+      "url": "https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA"
+    },
+    {
+      "album": {
         "name": "Sesame Street: Songs from the Street, Vol. 2",
         "url": "https://open.spotify.com/album/6bGpYDKODHu1L65bNbYdtI"
       },
@@ -1111,7 +1431,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120373,
       "name": "Jellyman Kelly (feat. James Taylor)",
       "url": "https://open.spotify.com/track/2wfAgSoTDtvykYKfbxxQoe"
@@ -1147,7 +1467,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92000,
       "name": "Kindness Grows",
       "url": "https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k"
@@ -1237,7 +1557,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 129853,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/4fOcebJWLdjGBbmb8O3hbj"
@@ -1273,7 +1593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144773,
       "name": "Matter of Fact",
       "url": "https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9"
@@ -1403,7 +1723,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 62371,
       "name": "Old Dan Tucker",
       "url": "https://open.spotify.com/track/1ZLcb3xbst0LEkwinZ7R3Y"
@@ -1439,7 +1759,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 304466,
       "name": "Over The Rainbow/What A Wonderful World",
       "url": "https://open.spotify.com/track/0Cll7d8lmNn05ZOVm5l5va"
@@ -1475,7 +1795,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 49920,
       "name": "Pop! Goes the Weasle",
       "url": "https://open.spotify.com/track/5lnZ9EZ8GhNi1X5Rt6K0E4"
@@ -1537,6 +1857,24 @@
     {
       "album": {
         "name": "You Are My Flower",
+        "url": "https://open.spotify.com/album/73UdZAjg3scbVKIO4r15PG"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Mitchell",
+          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63653,
+      "name": "Shoo-Fly",
+      "url": "https://open.spotify.com/track/2gAy17REwCV6A0qgrfbiHz"
+    },
+    {
+      "album": {
+        "name": "You Are My Flower",
         "url": "https://open.spotify.com/album/1fMtshKFSZV9oSn3tEFKg7"
       },
       "artists": [
@@ -1547,10 +1885,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 63653,
       "name": "Shoo-Fly",
       "url": "https://open.spotify.com/track/7CWSwa1pIvWOC9tEddY1cQ"
+    },
+    {
+      "album": {
+        "name": "Little Steps Big Adventures",
+        "url": "https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte"
+      },
+      "artists": [
+        {
+          "name": "Tiptoe Giants",
+          "url": "https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204999,
+      "name": "Shoobeedoo (We Go Together)",
+      "url": "https://open.spotify.com/track/0bbtmAAVUxxWBZPn3z92bM"
     },
     {
       "album": {
@@ -1565,7 +1921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204999,
       "name": "Shoobeedoo (We Go Together)",
       "url": "https://open.spotify.com/track/7JPUkMOrayjfYdoIHRe1aM"
@@ -1594,6 +1950,24 @@
     },
     {
       "album": {
+        "name": "Cisco Houston",
+        "url": "https://open.spotify.com/album/1PBjD5r7GmDGdXv47bQMZi"
+      },
+      "artists": [
+        {
+          "name": "Cisco Houston",
+          "url": "https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171401,
+      "name": "Skip to My Lou",
+      "url": "https://open.spotify.com/track/5mbwoWoIUulWO7M8ojU3RV"
+    },
+    {
+      "album": {
         "name": "Folk Songs For Kids",
         "url": "https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB"
       },
@@ -1605,7 +1979,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175373,
       "name": "Skip To My Lou",
       "url": "https://open.spotify.com/track/1ycZhe1J06t6RZ0OK383f6"
@@ -1641,7 +2015,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 140685,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P"
@@ -1659,10 +2033,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240093,
       "name": "Sweet Betsy From Pike",
       "url": "https://open.spotify.com/track/2WVsQMKqEttZBzkL6hdvsx"
+    },
+    {
+      "album": {
+        "name": "Can You Canoe? A Mississippi River Adventure Album",
+        "url": "https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "The Bullfrog Opera",
+      "url": "https://open.spotify.com/track/40jZFJBVYMzxdEpMptacUM"
     },
     {
       "album": {
@@ -1677,7 +2069,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181240,
       "name": "The Bullfrog Opera",
       "url": "https://open.spotify.com/track/4HEzo4s9z3iE6FGzT3XP3y"
@@ -1699,6 +2091,24 @@
       "duration_ms": 151266,
       "name": "The Crawdad Song",
       "url": "https://open.spotify.com/track/4iqH98UJzbmo9CnrjTxBSJ"
+    },
+    {
+      "album": {
+        "name": "50 Great Nursery Rhymes",
+        "url": "https://open.spotify.com/album/2wA20u6TpgFEzHdeUOa9L7"
+      },
+      "artists": [
+        {
+          "name": "ABC Kids",
+          "url": "https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145533,
+      "name": "The Farmer in the Dell",
+      "url": "https://open.spotify.com/track/04obgfgMddJpPnv8xeEfgR"
     },
     {
       "album": {
@@ -1733,10 +2143,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145853,
       "name": "The Farmer In The Dell",
       "url": "https://open.spotify.com/track/3YPwfZNGB2NuFhXVail7c8"
+    },
+    {
+      "album": {
+        "name": "Little Nut Tree",
+        "url": "https://open.spotify.com/album/0W2eDCYklT4jJShYaoL0AT"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "The Farmer Is The One",
+      "url": "https://open.spotify.com/track/1lD0KqDiIgyVaVC7FXa9tt"
     },
     {
       "album": {
@@ -1755,7 +2187,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145426,
       "name": "The Farmer Is The One",
       "url": "https://open.spotify.com/track/2RSMt7gFKGY6aL7K0JNM3N"
@@ -1791,7 +2223,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95426,
       "name": "The Tailor and The Mouse",
       "url": "https://open.spotify.com/track/7Bj9hysNfSkpr0bfR1UJ0N"
@@ -1809,7 +2241,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195600,
       "name": "The Wagon",
       "url": "https://open.spotify.com/track/3NEna3nCmD8tHklC7njS9a"
@@ -1845,7 +2277,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 139693,
       "name": "This Land is Your Land",
       "url": "https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT"
@@ -1867,10 +2299,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 83413,
       "name": "Three Kind Mice",
       "url": "https://open.spotify.com/track/0gVU9sPPjwvq5d4CRey6ei"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "album": {
@@ -1892,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "Can You Canoe? And Other Adventure Songs (Music from the Book)",
+        "url": "https://open.spotify.com/album/6HvDBSXbInDRMGfNRzaCKQ"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181805,
+      "name": "Through the Woods",
+      "url": "https://open.spotify.com/track/1aS1L9QlIEC6LoFLh6kkLC"
+    },
+    {
+      "album": {
         "name": "Through the Woods",
         "url": "https://open.spotify.com/album/0vwtGaMdQPfmqiuWdMCT2e"
       },
@@ -1903,7 +2371,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181805,
       "name": "Through the Woods",
       "url": "https://open.spotify.com/track/579El11n6O3biw8XjOPQ8x"
@@ -1943,10 +2411,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172973,
       "name": "We Shall Not Be Moved",
       "url": "https://open.spotify.com/track/0vq2Nd0lvBDAjxrzwQuyP2"
+    },
+    {
+      "album": {
+        "name": "House Party",
+        "url": "https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Friends",
+          "url": "https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172973,
+      "name": "We Shall Not Be Moved",
+      "url": "https://open.spotify.com/track/38UmswDbJCKoyx4Dbi0zeO"
     },
     {
       "album": {
@@ -1987,6 +2477,24 @@
     {
       "album": {
         "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/7jxHX5gjHedHa2vTAZSPfY"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Mitchell",
+          "url": "https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168826,
+      "name": "You Are My Sunshine (Version 1)",
+      "url": "https://open.spotify.com/track/10CsMKlayFJOj4Lai9tAvm"
+    },
+    {
+      "album": {
+        "name": "You Are My Sunshine",
         "url": "https://open.spotify.com/album/4y8c6SoPIRsPy1cxXLmR17"
       },
       "artists": [
@@ -1997,7 +2505,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168826,
       "name": "You Are My Sunshine (Version 1)",
       "url": "https://open.spotify.com/track/1va0w9M5N3w2xhCeXGQAZ0"
@@ -2015,10 +2523,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260026,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/3gt92ML8F3iDyd0mwGcHz0"
+    },
+    {
+      "album": {
+        "name": "Circle Game: Folk Music For Kids",
+        "url": "https://open.spotify.com/album/2Nh4WorK8cOAugqhaIt6vW"
+      },
+      "artists": [
+        {
+          "name": "Shoshana Bush",
+          "url": "https://open.spotify.com/artist/5zUYzAWsEmyUdQRLJk4XbE"
+        },
+        {
+          "name": "MFLP Players",
+          "url": "https://open.spotify.com/artist/5mbzHs7PtniiLTQGx36j9P"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259959,
+      "name": "You've Got A Friend",
+      "url": "https://open.spotify.com/track/0cFTfiONITD9JfCnhKExRx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3uZHsihe90o"

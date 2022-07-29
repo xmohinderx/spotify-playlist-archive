@@ -4,7 +4,7 @@
 
 > Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
 
-85 songs - 5 hr 52 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+87 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aku Cinta J.A.K.A.R.T.A](https://open.spotify.com/track/5fFgx8X3SjZ4boxGu0vxeY) | [C'mon Lennon](https://open.spotify.com/artist/1RDrenzYUkREj4MDKQmdnP) | [Ketika La La La](https://open.spotify.com/album/1heP6tMSv3osMfEx4btHFd) | 3:24 | 2022-05-19 |  |
 | [Aku Lupa Aku Luka](https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:31 | 2021-11-25 |  |
 | [Ali Baba](https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb) | [Boys Are Toys](https://open.spotify.com/artist/1b2zga59ICvBeqJ9uuxuu5) | [Weah Weah of the Blah Blah](https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI) | 2:48 | 2021-11-25 |  |
-| [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 | 2021-11-25 |  |
+| [Am I Robot?](https://open.spotify.com/track/2l8AE5XXmRW3jSPBjvlXA1) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love and Turbo Action](https://open.spotify.com/album/5Npg1T6dJZa81yj1cQaGFt) | 3:39 | 2022-06-23 |  |
+| [Am I Robot?](https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Love And Turbo Action](https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA) | 3:39 | 2021-11-25 | 2022-07-29 |
 | [Amerika](https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy) | [Armada Racun](https://open.spotify.com/artist/4eQQrNIgQpYGk0MvdNHncq) | [La Peste](https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa) | 2:31 | 2021-11-25 |  |
 | [Another Song for Her](https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:10 | 2022-01-06 |  |
 | [Apple \(Suicide On Your Stereo Set\)](https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG) | [Annemarie](https://open.spotify.com/artist/510UvK3f9UNOBh4CNZuSoJ) | [ABC On Tv](https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3) | 3:38 | 2021-11-25 |  |
@@ -80,7 +81,8 @@
 | [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |
 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 | 2021-11-25 |  |
 | [Strange Is the Song in Our Conversation](https://open.spotify.com/track/10s8XK7vzEIfDP1fSIVzst) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98), [Marsha Suryawinata](https://open.spotify.com/artist/74ImuWk6U363Ktn4QbQjsL) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 4:48 | 2022-05-04 |  |
-| [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 |  |
+| [Suburban Love](https://open.spotify.com/track/5idywMLoczcnF9P3w26bTq) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside](https://open.spotify.com/album/6Zt1SG67JijuskYbTSwxDs) | 5:10 | 2022-04-14 | 2022-07-29 |
+| [Suburban Love](https://open.spotify.com/track/7yaIMTgpZ6LeYERcEfdjoU) | [Lipstik Lipsing](https://open.spotify.com/artist/4TjOT7gITmHkn7X0NUEPhc) | [Room for Outside EP](https://open.spotify.com/album/1pMz5XuqVY07Hhg96cZdlH) | 5:10 | 2022-06-23 |  |
 | [Ta' Ada Yang Gelap](https://open.spotify.com/track/0csrfbjfJcRxCDcp4KzhDO) | [FABLE](https://open.spotify.com/artist/6GoEL7hKaBGHSLoDkcFMNm) | [Fable](https://open.spotify.com/album/3ItOraUy3QuOtiiWHAVFO9) | 4:21 | 2021-11-25 |  |
 | [Tarian](https://open.spotify.com/track/1QVHsfLzOrsoKJTbRnbWZS) | [L'Alphalpha](https://open.spotify.com/artist/46ipdIq678HcnKpQqYFPuh) | [Von Stufe Zu Stufe](https://open.spotify.com/album/3xBAgVZ2bjZeUbRmO4CMUH) | 5:16 | 2021-11-25 |  |
 | [Telescope](https://open.spotify.com/track/4W9qZ9HziEYeBkBGExW7e9) | [Hollywood Nobody](https://open.spotify.com/artist/227hPsCkg7IeGxtgboqx62) | [Everything Happens for a Reason](https://open.spotify.com/album/4sCtz1eFV9MKR1TeDf0fIX) | 4:09 | 2021-11-25 |  |

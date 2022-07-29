@@ -4,7 +4,7 @@
 
 > Start your day with these beautiful scores.
 
-74 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
+78 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/77k28aHRsXOHJFjfmZMjS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-06-10 |  |
 | [I'm Yours](https://open.spotify.com/track/3vGp33C7IFjgJdvFDhvRc9) | [Karolina Szcześniak](https://open.spotify.com/artist/5pcFuJmgWmT0JvJELnkHrS) | [I'm Yours](https://open.spotify.com/album/4hMVTdiiq47rlHysJYOcfR) | 2:43 | 2022-07-08 |  |
 | [In My Sight](https://open.spotify.com/track/6zZTUG7kGV3GAOS5JPcRm0) | [Oscar Rhodes](https://open.spotify.com/artist/3ICSZdpAbJIZRtvYCxlAzX) | [Path of The Moon](https://open.spotify.com/album/4l5q2eFbVXYKWdrcjFJHo1) | 2:27 | 2022-06-10 |  |
-| [Iridescent](https://open.spotify.com/track/1KTUpvg6XroGOSnmpjuyVi) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:37 | 2022-06-10 |  |
+| [Iridescent](https://open.spotify.com/track/1KTUpvg6XroGOSnmpjuyVi) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:37 | 2022-06-10 | 2022-07-29 |
+| [Iridescent](https://open.spotify.com/track/5fpojFWTYwnkwzyRm2D3du) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:37 | 2022-07-29 |  |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-06-10 |  |
 | [Just Before Morning](https://open.spotify.com/track/1GPB6ZrLXvrkJAAGIRifA8) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [Just Before Morning](https://open.spotify.com/album/1MQ7w7BpVcXvKXby233Wd1) | 1:36 | 2022-06-10 |  |
 | [Kalapas](https://open.spotify.com/track/5fWDUCwrMxj7xUAJT5uq6s) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Kalapas](https://open.spotify.com/album/6p1IOmTKWUdeG5RRSFpVeJ) | 2:45 | 2022-06-10 |  |
@@ -53,7 +54,8 @@
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-10 |  |
 | [Nine Times around the Heart](https://open.spotify.com/track/5KEhwMi5xD7HxfoXe0iPM7) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Nocturne in Green](https://open.spotify.com/album/7KqJAgIwlqINIVJzeg00KN) | 2:57 | 2022-06-10 |  |
 | [NYC Waltz](https://open.spotify.com/track/270VPYYS4uR1haVazI85N3) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [NYC Waltz](https://open.spotify.com/album/1SC79YaRaFEcgbro7JSAfF) | 2:24 | 2022-07-08 |  |
-| [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-06-10 |  |
+| [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 | 2022-06-10 | 2022-07-29 |
+| [Opal](https://open.spotify.com/track/6nqhj6vFNMey63HMUcIvLS) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:33 | 2022-07-29 |  |
 | [Pendulum](https://open.spotify.com/track/0kQZcp9q1i3Cg1EfsqXGbf) | [Clearius Ensemble](https://open.spotify.com/artist/14MEzH0WXErAIVtRpQitLW) | [Pendulum](https://open.spotify.com/album/4m9nsk0a4Xcfhv5uePHb8x) | 2:23 | 2022-06-10 |  |
 | [Prélude](https://open.spotify.com/track/6CIVHlBDakr82sbXYweF8x) | [Massimo Romanza](https://open.spotify.com/artist/6n1878S9P9QD4u959fAZeM) | [Prélude](https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL) | 2:01 | 2022-06-10 |  |
 | [Quiet](https://open.spotify.com/track/2UcVa056va7cCBfVfw9nm1) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Crossing the Rubicon](https://open.spotify.com/album/5cYUwcGiSuMUBKf7ykzO04) | 2:45 | 2022-06-10 |  |
@@ -71,10 +73,12 @@
 | [Sugarcane](https://open.spotify.com/track/7G3IcyTXBdeyDNCc25GSVV) | [Ensemble Rivr Dane](https://open.spotify.com/artist/2bYTGyR3eWFQmQ9FJElnBP), [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Atoms Et Sugarcane](https://open.spotify.com/album/3XsOQQJYWhuGdJZujpcMLo) | 2:24 | 2022-06-10 |  |
 | [Suji](https://open.spotify.com/track/1c7J3x5nUIl7krcxbZqpW0) | [Hein Talbot](https://open.spotify.com/artist/234b7Rdxg4ncW2ok5s67p7) | [Suji](https://open.spotify.com/album/5p87YHJXjd0ZuaEPemyrRr) | 2:13 | 2022-06-10 |  |
 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 | 2022-06-10 |  |
-| [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 | 2022-06-10 |  |
+| [Supposing](https://open.spotify.com/track/08nQNQ3joVf8kyjuZ9rEVv) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 3:07 | 2022-07-29 |  |
+| [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 | 2022-06-10 | 2022-07-29 |
 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 | 2022-06-10 |  |
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2022-06-10 |  |
-| [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 | 2022-06-10 |  |
+| [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 | 2022-06-10 | 2022-07-29 |
+| [The Streets of Belgrade](https://open.spotify.com/track/57zYO8q3f19ksGdHcCFpk9) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:21 | 2022-07-29 |  |
 | [Three Pointer](https://open.spotify.com/track/1gUHSxsrCohFFQC8zuI1Cv) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Three Pointer](https://open.spotify.com/album/29ELg1RDinuDy0xw7oPd9L) | 1:00 | 2022-06-10 |  |
 | [To Capture The Infinite](https://open.spotify.com/track/0hrTFLbtNvhe5X8b40DVOC) | [5th Dimension String Quartet](https://open.spotify.com/artist/0fd2h7Ve7ZDxWFW00AjxqL) | [To Capture The Infinite](https://open.spotify.com/album/1d8nHTu03NrgdX7KtwmNHk) | 2:47 | 2022-06-10 |  |
 | [Transition](https://open.spotify.com/track/00Jh6031MKpE5nunLJzvyM) | [Elora Bonilla](https://open.spotify.com/artist/5ytoulK1Bp6GLoU6VWs0Nr) | [Transition](https://open.spotify.com/album/0P61A45wt4xVVneycMqdyp) | 2:55 | 2022-06-10 |  |

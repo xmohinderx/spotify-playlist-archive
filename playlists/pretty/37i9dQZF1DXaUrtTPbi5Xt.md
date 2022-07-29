@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUrtTPbi5Xt.md) - [plain]
 
 > ¡Y así suena..\. Julión Álvarez Y Su Norteño Banda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,257 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,424 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUrtTPbi5Xt.md) - [plain]
 | 49 | [Santos Cantú](https://open.spotify.com/track/3kXtpdPc6w5PdTDL33RHDl) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corridos](https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy) | 2:55 |
 | 50 | [Del Zapotal Al Recodo](https://open.spotify.com/track/13Tl0I0SGDE7wJ2XVqfCNk) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corridos](https://open.spotify.com/album/0dAb8o8AA2xIaFrXJ0skzy) | 2:38 |
 
-Snapshot ID: `MTY1NTkzNDAxOSwwMDAwMDAwOTAwMDAwMTgxOGQ1YmU4MzYwMDAwMDE4MTgyNTc2Nzk3`
+Snapshot ID: `MTY1NTkzNDAxOSwwMDAwMDAwMDZhNTViMDI4NWYxZDA5ZDFlYzVhYWY5M2YyOTAzNzcw`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/315bvK1m77RNynw5ycETfA">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-85 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
+86 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/2t8ugsWZMHNaJAkYvjfVuP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Still Healing \(feat\. JAMiiSON\)](https://open.spotify.com/track/5pzQ6SHl5ZzsYnWSZaaXwF) | [OFF TOP](https://open.spotify.com/artist/1qfVE7DbB6U9djizm6Qtsl), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/6N44nmfMlrEp1vHV9mRmMC) | 2:15 | 2022-05-29 |  |
 | [stockholm's a ghost town](https://open.spotify.com/track/7cdXnczyweF4F6v7lfB8xh) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [stockholm's a ghost town](https://open.spotify.com/album/7yv0GU6bkJGMBxI0C4H6W1) | 2:50 | 2022-05-29 |  |
 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 | 2022-05-29 |  |
-| [There for You](https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/6Mg4BvozVs7H9L6QGl5tJB) | 2:37 | 2022-05-29 |  |
+| [There for You](https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/6Mg4BvozVs7H9L6QGl5tJB) | 2:37 | 2022-05-29 | 2022-07-29 |
+| [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 | 2022-07-28 |  |
 | [Too Fire](https://open.spotify.com/track/7Jk8iKurfAjKtwHJGKe4Wh) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [SPACE DAUGHTER](https://open.spotify.com/album/33IGC1O1gF3s6Dnn8kmbyE) | 3:06 | 2022-05-29 |  |
 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 | 2022-05-29 |  |
 | [twenty something](https://open.spotify.com/track/3ZQDiTdMdujWmiwUOi8DUQ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:30 | 2022-07-27 |  |

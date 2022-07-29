@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-105 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+107 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 | 2022-01-07 |  |
 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 | 2022-06-02 |  |
 | [Angel Dust](https://open.spotify.com/track/6SXEIHzo9REiTw88SX18kR) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Pan Flute Sessions 1](https://open.spotify.com/album/3AchEUirca9Quy6RBg32qs) | 4:10 | 2022-01-07 | 2022-06-03 |
-| [Before Sinking](https://open.spotify.com/track/05AuLszwgKMdiV9TQ7Y5zi) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 3:07 | 2022-01-07 |  |
+| [Before Sinking](https://open.spotify.com/track/05AuLszwgKMdiV9TQ7Y5zi) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/05ECaoh4qEPv4Ph2M1htDX) | 3:07 | 2022-01-07 | 2022-07-29 |
+| [Before Sinking](https://open.spotify.com/track/6P5McVugUltkaP8qzenZfC) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Views from Sixteen Stories](https://open.spotify.com/album/5W0f89f4bEX9dgbkk1UgmL) | 3:07 | 2022-06-02 |  |
 | [Better and better](https://open.spotify.com/track/2wtThYMGGoZQ18CIwBlbZv) | [Project Gayā](https://open.spotify.com/artist/76PzU6hA4dr6ViFleVXtyD) | [Project Gayā](https://open.spotify.com/album/6Iz5qEsZN5rB962SlPlOm7) | 3:56 | 2022-01-07 |  |
 | [Birth](https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Birth](https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM) | 2:55 | 2022-05-12 |  |
 | [Blossom \- Studio Edit](https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-07 |  |
@@ -94,7 +95,8 @@
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-01-07 | 2022-06-03 |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2022-01-07 |  |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2022-01-07 |  |
-| [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2022-01-07 |  |
+| [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 | 2022-06-02 |  |
+| [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-02 |  |
 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2022-01-07 |  |
 | [Undulate](https://open.spotify.com/track/3VcEjU1dF3GWsOllMFChWb) | [Blake Child](https://open.spotify.com/artist/2prVqy64VMNySVSHnIzz69) | [Undulate](https://open.spotify.com/album/37mHMJMu26lsc7RKyDlSj8) | 2:16 | 2022-01-07 |  |

@@ -317,10 +317,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186299,
       "name": "BOMBAY",
       "url": "https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA"
+    },
+    {
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "album": {
@@ -687,10 +705,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224146,
       "name": "Crack Rock",
       "url": "https://open.spotify.com/track/125FPswReMD9Ggvn69M7Ch"
+    },
+    {
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Crack Rock",
+      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P"
     },
     {
       "album": {
@@ -1035,7 +1071,7 @@
     {
       "album": {
         "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
+        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
       },
       "artists": [
         {
@@ -1046,6 +1082,24 @@
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 344293,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 344293,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/4rBFiGHlaujBGnyQgSdWPh"

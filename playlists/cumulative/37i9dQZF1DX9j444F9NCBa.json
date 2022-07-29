@@ -865,10 +865,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165882,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw"
+    },
+    {
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb"
     },
     {
       "album": {

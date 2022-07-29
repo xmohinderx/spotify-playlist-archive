@@ -4,7 +4,7 @@
 
 > Ambient drone to make you feel weightless.
 
-157 songs - 8 hr 11 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
+159 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/23lwFG5SZoywUexjbeApF0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Dust](https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G) | [En Orbita](https://open.spotify.com/artist/3Ud2jApPbXIj7Jjksbgf3o) | [Dust](https://open.spotify.com/album/6g0TXmygrKouGJ5Y2j44X1) | 3:17 | 2022-01-21 |  |
 | [Emerald Isles](https://open.spotify.com/track/0aRcChTQ4UOQAE3fuvOdS5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Emerald Isles](https://open.spotify.com/album/1KjGAHeyl9kHti8Z6ZT1pd) | 3:53 | 2021-11-10 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-21 |  |
-| [eternity](https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [eternity](https://open.spotify.com/album/3PUHobRYFiCDRjrJCnXZNO) | 2:53 | 2021-11-10 |  |
+| [eternity](https://open.spotify.com/track/5aBE5Xdf8mqQcYaNjzFeA7) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:53 | 2022-07-27 |  |
+| [eternity](https://open.spotify.com/track/78sv6AmYs4TZpSOjWKAQzr) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [eternity](https://open.spotify.com/album/3PUHobRYFiCDRjrJCnXZNO) | 2:53 | 2021-11-10 | 2022-07-29 |
 | [Eudaemonia](https://open.spotify.com/track/3ZxQ9iLS9QWcnoyg0tbSME) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Eudaemonia](https://open.spotify.com/album/0E08nTyn985xgztmBEy8V4) | 2:58 | 2021-11-10 |  |
 | [Fair Game](https://open.spotify.com/track/0q1cjVlW64TLWVsn7m8rKy) | [Phlieng](https://open.spotify.com/artist/42CYfnqvxyFOZwgXPNEyIB) | [Fair Game](https://open.spotify.com/album/2HxC0AIJtD05UpH8WUoaOT) | 3:46 | 2021-11-10 |  |
 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 | 2022-01-21 |  |
@@ -137,7 +138,8 @@
 | [Slow Comets](https://open.spotify.com/track/3RooVmiw2ZTwu3rnBNAq1f) | [Elder Tones](https://open.spotify.com/artist/3F3LvjnePHn3mn8uuLQdcU) | [Slow Comets](https://open.spotify.com/album/6KkIHN9fRp96181Q3Y1kV5) | 2:40 | 2022-04-06 |  |
 | [Snesl bych ti modré z nebe](https://open.spotify.com/track/1v8nEP8CRicvuRiGxxjZF6) | [Václav Slezák](https://open.spotify.com/artist/3VHBfS16hX93D0BLGwraUz) | [Snesl bych ti modré z nebe](https://open.spotify.com/album/4XDdhhDFoUgsmSjcVFRJp0) | 4:19 | 2021-11-10 |  |
 | [somnus state](https://open.spotify.com/track/6mVQDQzb0msscfSVhVwp7g) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [somnus state](https://open.spotify.com/album/71t1pesucp5VobQLTKOqhI) | 4:40 | 2021-11-10 |  |
-| [Soon for Cali](https://open.spotify.com/track/4FOQOEe2XexdK3puJjgi0i) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon for Cali](https://open.spotify.com/album/6L9NHfCyLYV2lZH8Ir2bpR) | 3:26 | 2021-11-10 |  |
+| [Soon For Cali](https://open.spotify.com/track/2rsgcPUIYBCFosRWPGJgv7) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon For Cali](https://open.spotify.com/album/0Dicmt7fUioNWoi4hBe7GH) | 3:26 | 2022-07-27 |  |
+| [Soon for Cali](https://open.spotify.com/track/4FOQOEe2XexdK3puJjgi0i) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Soon for Cali](https://open.spotify.com/album/6L9NHfCyLYV2lZH8Ir2bpR) | 3:26 | 2021-11-10 | 2022-07-29 |
 | [Soul Of Light](https://open.spotify.com/track/4tw8SLHzUKnY7rcG5keXxQ) | [Skyler Wilson](https://open.spotify.com/artist/2V2FOQ4bEqDyrhGnzLBCr3) | [Far Beyond](https://open.spotify.com/album/5H0dON6aSS7BEUsfxRxQZD) | 4:09 | 2021-11-10 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2021-11-10 |  |
 | [South of Lapland](https://open.spotify.com/track/4iyc69HBbLOpfOgwBjn1LS) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [South of Lapland](https://open.spotify.com/album/2Ms9zH4Skbpa0fbIYTLeu5) | 3:16 | 2021-11-10 |  |

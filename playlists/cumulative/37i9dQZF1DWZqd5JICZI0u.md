@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-388 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
+390 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/1a9OD5PvttwSZSpUE20NrJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 | 2021-05-18 |  |
 | [Celestial](https://open.spotify.com/track/4alwurSGuv4U63w9549o1s) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Diamond Dust](https://open.spotify.com/album/1vqX5sa60aQWxIwEAOjgUg) | 3:16 | 2021-12-09 |  |
 | [Clear Blue](https://open.spotify.com/track/4UEs7H32py3zfPCor8nbZZ) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Clear Blue](https://open.spotify.com/album/570gd1Pe8AyrSI6KCayw4p) | 2:31 | 2022-04-01 |  |
-| [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2020-09-30\* |  |
+| [Coast](https://open.spotify.com/track/1aCoMulG9sc93W4kn9i1yf) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Sunset](https://open.spotify.com/album/6OdEUJfbi8EzUJ3i5HZ3bZ) | 6:13 | 2022-07-22 |  |
+| [Coast](https://open.spotify.com/track/5qvo43hXyTAY1YN0pWtPil) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Coast](https://open.spotify.com/album/3CUZFecDhE3yQ1gy5mo6Wn) | 6:13 | 2020-09-30\* | 2022-07-29 |
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Colors](https://open.spotify.com/track/1DuxD8wBMdWvovBVcYkWwN) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Resilience](https://open.spotify.com/album/0yJC30cj8WL90J2Din78qZ) | 4:04 | 2021-01-06 |  |
 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 | 2022-01-28 |  |
@@ -331,7 +332,8 @@
 | [Stratus](https://open.spotify.com/track/72FRs65Zmikn6KvZG3kolE) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Cotton](https://open.spotify.com/album/2jd08QhDM85KldC8tjagjI) | 4:07 | 2021-10-13 |  |
 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 | 2022-03-24 |  |
 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 | 2020-09-30\* |  |
-| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 | 2020-09-30\* |  |
+| [Suffer Well](https://open.spotify.com/track/31inlxQZ2PUHNM78dssqkF) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/7alwKgozubw1Cmf68SA2eg) | 2:32 | 2022-07-22 |  |
+| [Suffer Well](https://open.spotify.com/track/7sja76lX8ntiFjv7iDxX5d) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Breath of Life](https://open.spotify.com/album/4rVHSkEgzT6BwBYiS8NUAg) | 2:32 | 2020-09-30\* | 2022-07-29 |
 | [Suilven](https://open.spotify.com/track/3mNYWG8IAA5pCcPzuZ3jnU) | [Keeva Craig](https://open.spotify.com/artist/6xTIuLiCQBph46JUwkf2Fp) | [Suilven](https://open.spotify.com/album/1NNcF0tflr5jmYMRO1EoTE) | 3:58 | 2021-01-06 |  |
 | [Sun Gazer](https://open.spotify.com/track/1EXOPJwnGEJfBnScmeaESH) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Yet Undiscovered](https://open.spotify.com/album/5DKtUx5YIWfeT0LKsrCY2R) | 4:30 | 2020-09-30\* | 2021-09-14 |
 | [Sunset](https://open.spotify.com/track/4gpqUShgtvlOZbtcVLjBM0) | [Vera Martin](https://open.spotify.com/artist/0niimfX9PMavXj1AWDcAjs) | [Sunset](https://open.spotify.com/album/2dPiwfhNgVCS1AHPcNkRsd) | 3:21 | 2021-01-06 |  |

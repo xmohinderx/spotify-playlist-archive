@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 
 > Soundtrack your 2022 resolutions with Joie Chavis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,726 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,738 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKunwBLkjR6.md) - [plain]
 | 39 | [NEON PEACH feat\. Tyler, The Creator](https://open.spotify.com/track/5PF2WtSZV4EtmGx4oER1zt) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:12 |
 | 40 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 
-Snapshot ID: `MTY0MjAwMDc2NywwMDAwMDAwMjAwMDAwMTdlNGVkZjVhYmUwMDAwMDE3ZTQ1YWNmM2Y2`
+Snapshot ID: `MTY0MjAwMDc2NywwMDAwMDAwMDkwZTdjMDg4ZDQ3ZjUwMjJiZTcxZjBjZTEzMmU0OWE5`

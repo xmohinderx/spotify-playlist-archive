@@ -4,7 +4,7 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-92 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+94 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [On the Run](https://open.spotify.com/track/6COsFwxCkIpXBYw4iiVWH4) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:00 | 2022-05-19 |  |
 | [Opr](https://open.spotify.com/track/12Ypr3PCVJ2i7Uwz93q1Vl) | [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Conspiracy Pt.2](https://open.spotify.com/album/3WSHoNpx7QQMcmfm26wksh) | 3:53 | 2022-05-19 |  |
 | [Paris](https://open.spotify.com/track/2H7F7EfsVhy0jNLsVz8MLH) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Paris](https://open.spotify.com/album/3VZSHfMooekIWZFgymsD4m) | 3:29 | 2022-05-19 |  |
-| [Peroxide](https://open.spotify.com/track/5r0nz4nalNOBQAPKchQKRY) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:34 | 2022-05-19 |  |
+| [Peroxide](https://open.spotify.com/track/1fbmkoREwP13dkXJI5YGfn) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/443fOM9A1XN8A0HImpYKVT) | 3:34 | 2022-05-19 |  |
+| [Peroxide](https://open.spotify.com/track/5r0nz4nalNOBQAPKchQKRY) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX) | [E](https://open.spotify.com/album/1I8mUtgebG39rNBApC7clb) | 3:34 | 2022-05-19 | 2022-07-29 |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2022-05-19 |  |
 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 | 2022-05-19 |  |
 | [Polynomial\-C](https://open.spotify.com/track/1CaTIckDNXtzUypdTOAghF) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Xylem Tube EP](https://open.spotify.com/album/6Lvdji4Bkcr17XHwVZyRfX) | 4:46 | 2022-05-19 |  |
@@ -88,7 +89,8 @@
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2022-05-19 |  |
 | [Synrise \- Soulwax Remix](https://open.spotify.com/track/7CBfP01G2qOB9GFWAN7ocL) | [GOOSE](https://open.spotify.com/artist/3gAnduA93Ykv75yNrwXhz5), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Synrise \(10 Year Anniversary Edition\)](https://open.spotify.com/album/50bwcjkUxwqx6GS3pP5Cvb) | 3:42 | 2022-05-19 |  |
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2022-05-19 |  |
-| [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 | 2022-05-19 |  |
+| [Technologic](https://open.spotify.com/track/0LSLM0zuWRkEYemF7JcfEE) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo) | 4:44 | 2022-05-19 |  |
+| [Technologic](https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Human After All](https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu) | 4:44 | 2022-05-19 | 2022-07-29 |
 | [Tesla](https://open.spotify.com/track/4J8yNRPLsdfO1jFgt1ZM5u) | [Corvad](https://open.spotify.com/artist/1uAeRH61SbagcD2W1DWjB6) | [Prime](https://open.spotify.com/album/6pnSnPhTqOlgRw88X9r6PK) | 5:26 | 2022-05-19 |  |
 | [The End](https://open.spotify.com/track/1CfCme9SvYiCwegwOS6rKH) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [The End](https://open.spotify.com/album/0no9vd20lVRbHZooRhqUHb) | 4:35 | 2022-05-19 |  |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-05-19 |  |

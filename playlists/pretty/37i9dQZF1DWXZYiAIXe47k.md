@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 
 > "Absolute Six" and also "Above BrandNew Six".
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,383 likes - 78 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,401 likes - 78 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 | 26 | [MERRY\-GO\-ROUND](https://open.spotify.com/track/0nZJq7yJ1bBbVMNqHygyN1) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:24 |
 | 27 | [A LONG WINTER](https://open.spotify.com/track/6rMsZCcBEQCQJXvBfLPHs5) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:21 |
 | 28 | [STAY YOUNG](https://open.spotify.com/track/3B1nflnhZHmUpbIovL66Pk) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:28 |
-| 29 | [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[AB6IX Remix\]](https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR) | 3:32 |
+| 29 | [Fallin’ \(Adrenaline\) \- AB6IX Remix](https://open.spotify.com/track/2c7h4G9kkMxeKCgh6Md7VR) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fallin’ \(Adrenaline\) \[Remixes\]](https://open.spotify.com/album/7EBYUtgXTfna1divfwxeuq) | 3:32 |
 | 30 | [BREATHE](https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [B:COMPLETE](https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V) | 3:37 |
 | 31 | [SALUTE](https://open.spotify.com/track/1S16NbaZItWP83Skxf0tZP) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:08 |
 | 32 | [THE ANSWER](https://open.spotify.com/track/1L1N5X35wFk8d5VlyNy2Oa) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [VIVID](https://open.spotify.com/album/75uAqARjBVK6RYQBddduIJ) | 3:10 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZYiAIXe47k.md) - [plain]
 | 77 | [MELTING](https://open.spotify.com/track/1uO3h6GtQ4Q57HMOBP7WiX) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH), [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd) | [BRANDNEW YEAR 2019 'DO THAT BRANDNEW THING'](https://open.spotify.com/album/4IyIHTwpkxntQlugXUYewH) | 3:11 |
 | 78 | [CHANDELIER](https://open.spotify.com/track/2NQKN3x5Evk8xsOEqUBUjX) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [BDC](https://open.spotify.com/artist/3FgebbL1Lp8wynkXgtscfd), [Lee Eun Sang](https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ) | [BRANDNEW YEAR 2020: BRANDNEW UP](https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9) | 3:16 |
 
-Snapshot ID: `MTY1MzIyODUwNywwMDAwMDAwODAwMDAwMTgwZWMxOTEwNDEwMDAwMDE4MGVjMThlOGEx`
+Snapshot ID: `MTY1MzIyODUwNywwMDAwMDAwMDRmZjBlNWQxN2M1ODY4NTc1ZDExNzE3MDBhOTBhODRi`

@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191947,
       "name": "Love Can Turn the World",
       "url": "https://open.spotify.com/track/7kZ3BiNXRDwXUpKWInpkBU"
@@ -1637,10 +1637,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240000,
       "name": "Perfection // T r u s t",
       "url": "https://open.spotify.com/track/54ohrKq1emSHaPVauPQJl8"
+    },
+    {
+      "album": {
+        "name": "Perfection // T r u s t",
+        "url": "https://open.spotify.com/album/5Kiuk1QzG3PmhDucI9M3Nw"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Perfection // T r u s t",
+      "url": "https://open.spotify.com/track/72d92oIlrhVcRILDWSk20R"
     },
     {
       "album": {

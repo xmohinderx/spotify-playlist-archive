@@ -4,15 +4,17 @@
 
 > Soft jazz piano to help you focus during the workday.
 
-159 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/7gjdSVAZmOoZ8qVS2F3i19)
+161 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/7gjdSVAZmOoZ8qVS2F3i19)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-06-14 |  |
+| [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 | 2022-06-29 |  |
+| [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 | 2022-06-14 | 2022-07-29 |
 | [A Few Days Ahead](https://open.spotify.com/track/71qHUeI08SIXKXzSrOqcxj) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [A Few Days Ahead](https://open.spotify.com/album/65sw0dCunefgxhFgS3GHuv) | 3:05 | 2022-06-14 |  |
 | [A Gentle Reminder](https://open.spotify.com/track/2pwKVc1O6cUQZRXIJ74Lh6) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 3:29 | 2022-06-14 |  |
 | [A Life Remembered](https://open.spotify.com/track/1Z2syyXirlJMUq8NRh6r3t) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [A Life Remembered](https://open.spotify.com/album/787bxoPDOcR9LASFyyWlHA) | 2:56 | 2022-06-14 |  |
-| [A Peaceful Tremor](https://open.spotify.com/track/5ksTqdBANamDrmSaFgeX0d) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/1mHFzljp8Gd2m90wVgwqNL) | 5:05 | 2022-06-14 |  |
+| [A Peaceful Tremor](https://open.spotify.com/track/5ksTqdBANamDrmSaFgeX0d) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/1mHFzljp8Gd2m90wVgwqNL) | 5:05 | 2022-06-14 | 2022-07-29 |
+| [A Peaceful Tremor](https://open.spotify.com/track/6Nyj8xaSeKTPoxMyt18WMW) | [Gene Jackson](https://open.spotify.com/artist/6vmvNKIhsms4fxFD8YfQG8) | [Power of Love](https://open.spotify.com/album/00bfBN3Qe2D48Im8EpBSML) | 5:05 | 2022-06-29 |  |
 | [A Quiet Place](https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [A Quiet Place](https://open.spotify.com/album/6pJy7KHyUogF78gFgqQOgu) | 2:28 | 2022-06-14 |  |
 | [A Smile on Your Face](https://open.spotify.com/track/3Eq2oTBtcGjEBgMCpO9QWx) | [Sophie Lemon Jazz](https://open.spotify.com/artist/05VVW01ALS5OQsRVeNflON) | [A Smile on Your Face](https://open.spotify.com/album/7EA2XJpF3Jy2LmqmRf6DNc) | 4:45 | 2022-06-14 |  |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-06-14 |  |

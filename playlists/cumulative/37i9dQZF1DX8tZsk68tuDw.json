@@ -14071,7 +14071,7 @@
     {
       "album": {
         "name": "I Want You",
-        "url": "https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L"
+        "url": "https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T"
       },
       "artists": [
         {
@@ -14082,6 +14082,24 @@
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R"
@@ -18849,10 +18867,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169218,
       "name": "Moon Groove",
       "url": "https://open.spotify.com/track/3adJKRdGrvuuuibXlDc6Sq"
+    },
+    {
+      "album": {
+        "name": "Moon Groove",
+        "url": "https://open.spotify.com/album/2dhRWYUYiWrUjweff8C99R"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169218,
+      "name": "Moon Groove",
+      "url": "https://open.spotify.com/track/4ixljSkFedlTMtrG6BNnrG"
     },
     {
       "album": {
@@ -30257,10 +30293,36 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232706,
       "name": "Wake Up! (feat. Kaleta)",
       "url": "https://open.spotify.com/track/167msRZW7cXIc6KYs0k2R1"
+    },
+    {
+      "album": {
+        "name": "Wake Up! (feat. Kaleta)",
+        "url": "https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232745,
+      "name": "Wake Up! (feat. Kaleta)",
+      "url": "https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J"
     },
     {
       "album": {
@@ -31719,10 +31781,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210240,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/4EHMB2LvLEnbpdQKBNbGBq"
+    },
+    {
+      "album": {
+        "name": "Whole Again (feat. John Martin)",
+        "url": "https://open.spotify.com/album/5IcKR43R4u5Mz69sudJ4YD"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Whole Again (feat. John Martin)",
+      "url": "https://open.spotify.com/track/5oOwmECfqsMOaxprNaDxHK"
     },
     {
       "album": {

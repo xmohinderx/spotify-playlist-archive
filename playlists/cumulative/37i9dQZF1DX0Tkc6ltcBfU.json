@@ -5735,10 +5735,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135419,
       "name": "The End",
       "url": "https://open.spotify.com/track/2N5zNxZreOMAhDz2KFsptl"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
     },
     {
       "album": {

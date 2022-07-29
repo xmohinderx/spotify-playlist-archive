@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Dom Dolla
 
-241 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
+242 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,8 @@
 | [Tested](https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Tested](https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK) | 2:57 | 2022-05-13 | 2022-07-16 |
 | [The Afterhour Waltz](https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [The Afterhour Waltz](https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC) | 3:00 | 2022-03-25 | 2022-04-23 |
 | [The Beat Goes](https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [The Beat Goes](https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm) | 3:09 | 2022-03-18 | 2022-07-23 |
-| [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 | 2022-04-01 |  |
+| [The Players Anthem](https://open.spotify.com/track/2LoIZdDNnPXLMdFON1aEuZ) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/7FndyrfOQ0ZJV5CwiVVKbu) | 3:17 | 2022-05-27 |  |
+| [The Players Anthem](https://open.spotify.com/track/3i2r4pHerk6x5xZJZkZTUj) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [The Players Anthem](https://open.spotify.com/album/0xwquOj4FyO51teiVjtpkL) | 3:17 | 2022-04-01 | 2022-07-29 |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2022-04-15 | 2022-06-25 |
 | [This Feeling](https://open.spotify.com/track/3hQpBuFdNnFM38NjTeg0XQ) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [This Feeling](https://open.spotify.com/album/5H39x8Yael0buJaEmmK7Xe) | 3:16 | 2022-04-22 | 2022-07-16 |
 | [Time 2 Stop \(A\-Trak Remix\)](https://open.spotify.com/track/0kM7Dh31FmxZ2tOy5DuMV2) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Time 2 Stop \(A\-Trak Remix\)](https://open.spotify.com/album/7uUpJ37ltfpcxGoKu9kdvP) | 3:12 | 2022-03-11 | 2022-04-02 |

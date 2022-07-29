@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,580 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,718 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 10 | [\(Not\) Enough](https://open.spotify.com/track/65jOD2RMAErYoB1rGUOoLz) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [APOPHYSITIS](https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR) | 4:22 |
 | 11 | [See No Evil, Hear No Evil](https://open.spotify.com/track/7A61G3HRgUWZJEgcuS05n6) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [See No Evil, Hear No Evil](https://open.spotify.com/album/1h0WWO7QEbyIztxbalxp23) | 4:54 |
 | 12 | [DRAIN](https://open.spotify.com/track/4B6ttDdrG5vwDQijfyHbhY) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [AntiRivet](https://open.spotify.com/artist/69W522rYLzVgNClxqPMqer) | [DRAIN](https://open.spotify.com/album/2OVGHmuZxuLwN9s8hpVDjk) | 3:37 |
-| 13 | [Dedication To Flesh](https://open.spotify.com/track/6EzwqSbVFo4lC5yF0P4FXs) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/5mmoO045HsspNjifkhNmmZ) | 3:26 |
+| 13 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 |
 | 14 | [Barberryans](https://open.spotify.com/track/4EQF3NftgNsIOQxtKLAmEB) | [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e) | [Barberryans](https://open.spotify.com/album/4pitfRktK2odzFCkRk6kkG) | 4:03 |
 | 15 | [:Signal:](https://open.spotify.com/track/4St47VFpw5X3g01SLNNUL2) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [:Signal:](https://open.spotify.com/album/1QH4f4Nh1LRSK6KaPZBUmp) | 3:29 |
 | 16 | [My Head Is Bleeding \- The Pleasure Majenta Remix](https://open.spotify.com/track/7sc3vGR9L9rstA95DvqnJy) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR), [The Pleasure Majenta](https://open.spotify.com/artist/3rZkKhXMBzGrtrhnUBw9C8) | [My Head Is Bleeding \(The Pleasure Majenta Remix\)](https://open.spotify.com/album/1cjrXC7k0gnNXHDvNQVHSL) | 3:44 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 43 | [Dystopia](https://open.spotify.com/track/6hba7MjhZ92bbxv1heDk5H) | [Teethgrinder](https://open.spotify.com/artist/0J9eNWKbu2RTQ5bcQ0eJS6) | [Dystopia](https://open.spotify.com/album/3DUKY2j6ymhvYwjqnYRwu5) | 8:16 |
 | 44 | [Dreamkiller](https://open.spotify.com/track/5z0Y6jwTDwH6YbhH0DLWRR) | [Sumerlands](https://open.spotify.com/artist/5rASExwQQilVMuKmaOV2eW) | [Dreamkiller](https://open.spotify.com/album/7p3f8b0cCBnrHmP7VpGZgw) | 5:11 |
 | 45 | [Keyhole Romance](https://open.spotify.com/track/1dlfy7PdZE2MlHCVMgu1jd) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Keyhole Romance](https://open.spotify.com/album/29b0LofzQ5LJwvhx9orzoN) | 3:40 |
-| 46 | [The Future Says Thank You](https://open.spotify.com/track/3f4yp4DitEYXVsB8e0Fvfb) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/1cp5LGXmohuveD6yAsyP54) | 3:38 |
+| 46 | [The Future Says Thank You](https://open.spotify.com/track/3J8MRSDB7D7XSBAdpEP5Lx) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [The Future Says Thank You](https://open.spotify.com/album/6YlTLvkZDgjiB9VUmXTjzg) | 3:38 |
 | 47 | [Extending Obscurity](https://open.spotify.com/track/5DpmC9LG2152tAodIgFFRK) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Extending Obscurity](https://open.spotify.com/album/2fbegWCx4Evi0U8OWLDkb0) | 3:54 |
 | 48 | [Full Fathom Five](https://open.spotify.com/track/2zBmWfRbtON2JgjwAVHorP) | [Atlantis Chronicles](https://open.spotify.com/artist/2yQwuvF6qxv98dqMrZ8iTm) | [Nera](https://open.spotify.com/album/7lxj95PeLr0SAQtSTNJxQH) | 3:51 |
 | 49 | [Venerate \(The Undoing of All\)](https://open.spotify.com/track/5Ps564pDdgWs1dOGbYCHxr) | [Wake](https://open.spotify.com/artist/3eI8VStKilt8Wb2R4AD4vh) | [Thought Form Descent](https://open.spotify.com/album/7EjCMFid4UoMFYxsJMs020) | 8:13 |
 | 50 | [Primordial Impurity](https://open.spotify.com/track/5XAXDgitClxUGCmmr7JvRL) | [Power From Hell](https://open.spotify.com/artist/1LC9G5jqosufT48QBBqwl7) | [Primordial Impurity](https://open.spotify.com/album/2n9YAXDHwepVtHak5N9s1E) | 5:50 |
 
-Snapshot ID: `MTY1ODQ5NDgwMCwwMDAwMDRmZjAwMDAwMTgyMjVmZTUxMDcwMDAwMDE4MjFjM2NhZGIz`
+Snapshot ID: `MTY1ODQ5NDgwMCwwMDAwMDAwMDBkNDU4ZTIxNTFkNDQ0ODA4NjFmNDI3NTA1NGUyZDFl`

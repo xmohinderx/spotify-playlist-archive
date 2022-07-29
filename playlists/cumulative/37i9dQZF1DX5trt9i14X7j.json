@@ -103,6 +103,24 @@
     {
       "album": {
         "name": "I Was Arthur",
+        "url": "https://open.spotify.com/album/414Z4UXOjGS0AdGEbPeJQw"
+      },
+      "artists": [
+        {
+          "name": "August Wilhelmsson",
+          "url": "https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/4BPjphA5WmmKaJk66jF3oB"
+    },
+    {
+      "album": {
+        "name": "I Was Arthur",
         "url": "https://open.spotify.com/album/37lG6j92FSavjmG8anuy8a"
       },
       "artists": [
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 131416,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/3uJhBCgvI4Gmkfoz7R5Be8"
@@ -207,10 +225,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f"
+    },
+    {
+      "album": {
+        "name": "Angel's Flight",
+        "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352357,
+      "name": "Angel's Flight",
+      "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
       "album": {
@@ -340,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148546,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/0UAazxzt45u787JmxJGoUA"
+    },
+    {
+      "album": {
         "name": "Klassik Lounge Nightflight Vol.05 (compiled by DJ Nartak)",
         "url": "https://open.spotify.com/album/39VIYItsoIbn6fGVUEi09F"
       },
@@ -351,7 +405,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150546,
       "name": "Candles",
       "url": "https://open.spotify.com/track/7qH6ICtmf08M8l3bvM27Gc"
@@ -517,10 +571,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199422,
       "name": "Day One",
       "url": "https://open.spotify.com/track/1ClIKr4uKzosk6FOpHwLJM"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199422,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw"
     },
     {
       "album": {
@@ -731,6 +803,24 @@
     {
       "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Forces of Attraction",
+      "url": "https://open.spotify.com/track/4NpX4g7sdnZtgteu1m2m3S"
+    },
+    {
+      "album": {
+        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0"
       },
       "artists": [
@@ -741,7 +831,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 123157,
       "name": "Forces of Attraction",
       "url": "https://open.spotify.com/track/6YjNHauEMtw8cWsOnoBUf3"
@@ -843,6 +933,24 @@
     {
       "album": {
         "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191529,
+      "name": "Happy Man",
+      "url": "https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2"
+    },
+    {
+      "album": {
+        "name": "For Ever",
         "url": "https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r"
       },
       "artists": [
@@ -853,7 +961,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191529,
       "name": "Happy Man",
       "url": "https://open.spotify.com/track/5nF6drlQTtXc5iThQoyONB"
@@ -915,6 +1023,24 @@
     {
       "album": {
         "name": "Chillhop Essentials Spring 2019",
+        "url": "https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "i wish it would never stop snowing",
+      "url": "https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G"
+    },
+    {
+      "album": {
+        "name": "Chillhop Essentials Spring 2019",
         "url": "https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0"
       },
       "artists": [
@@ -925,10 +1051,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196500,
       "name": "i wish it would never stop snowing",
       "url": "https://open.spotify.com/track/5nKSxq2yNgQLtgzqJxPn41"
+    },
+    {
+      "album": {
+        "name": "India",
+        "url": "https://open.spotify.com/album/7tWlk2K6jN6TaCxUTtkYFd"
+      },
+      "artists": [
+        {
+          "name": "EarthLife",
+          "url": "https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535370,
+      "name": "India",
+      "url": "https://open.spotify.com/track/2SetYZYntcZBRG4PnKYej8"
     },
     {
       "album": {
@@ -943,7 +1087,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 535370,
       "name": "India - Original Mix",
       "url": "https://open.spotify.com/track/4k919G9E096WoXenUv0Hdi"
@@ -961,10 +1105,46 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127920,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0bXpmJyHHYPk6QBFj25bYF"
+    },
+    {
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127920,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5VfEuwErhx6X4eaPbyBfyu"
+    },
+    {
+      "album": {
+        "name": "Chillhop Daydreams 2",
+        "url": "https://open.spotify.com/album/3bh5l0g7pcX9eKNywTuIvd"
+      },
+      "artists": [
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Iridescence",
+      "url": "https://open.spotify.com/track/3RvJhKWy33BYK1aHgJ6NlO"
     },
     {
       "album": {
@@ -979,7 +1159,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171750,
       "name": "Iridescence",
       "url": "https://open.spotify.com/track/6NplMK5VZVFTTr2NrGoeHj"
@@ -1015,10 +1195,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277559,
       "name": "L",
       "url": "https://open.spotify.com/track/4yX50PMifhGzVEo1wv3guc"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277559,
+      "name": "L",
+      "url": "https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4"
     },
     {
       "album": {
@@ -1145,10 +1343,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241114,
       "name": "Mauer Blues",
       "url": "https://open.spotify.com/track/1NqGRBFJXZKeQDlenJSMbs"
+    },
+    {
+      "album": {
+        "name": "By the Deep Sea",
+        "url": "https://open.spotify.com/album/364G2DGbhBt4xwR5KCZC82"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241114,
+      "name": "Mauer Blues",
+      "url": "https://open.spotify.com/track/1lLuJ1PTq8wXAorPqHwMOd"
     },
     {
       "album": {
@@ -1203,10 +1419,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295853,
       "name": "Monsters Theme",
       "url": "https://open.spotify.com/track/1ZF7dgpDrpruRFeS2EXlFk"
+    },
+    {
+      "album": {
+        "name": "Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295853,
+      "name": "Monsters Theme",
+      "url": "https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg"
     },
     {
       "album": {
@@ -1319,6 +1553,24 @@
     {
       "album": {
         "name": "Domicile",
+        "url": "https://open.spotify.com/album/3WU8Qb7Biyfi8BOeK0M3JG"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323573,
+      "name": "Our Distance",
+      "url": "https://open.spotify.com/track/4FEcEOyyGbPR1cnYMBTRfO"
+    },
+    {
+      "album": {
+        "name": "Domicile",
         "url": "https://open.spotify.com/album/4OJBymBLVo6PpdaFDkGopP"
       },
       "artists": [
@@ -1329,7 +1581,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323573,
       "name": "Our Distance",
       "url": "https://open.spotify.com/track/4PNoSnnJGeLmxOs8K0jvJC"
@@ -1355,6 +1607,24 @@
     {
       "album": {
         "name": "Residuum",
+        "url": "https://open.spotify.com/album/1KcRjaSyfxRWSV8vjJvgIR"
+      },
+      "artists": [
+        {
+          "name": "Silver Maple",
+          "url": "https://open.spotify.com/artist/5aL7sOIxn0GV0JoFGdONT6"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163150,
+      "name": "Particle Emission",
+      "url": "https://open.spotify.com/track/7svM6oRnsecnQd30A6prDc"
+    },
+    {
+      "album": {
+        "name": "Residuum",
         "url": "https://open.spotify.com/album/27HGND1rcDXj1Yrjywg2Lf"
       },
       "artists": [
@@ -1365,7 +1635,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163156,
       "name": "Particle Emission",
       "url": "https://open.spotify.com/track/7Gkse5oUgdsjBeVQn980ce"
@@ -1480,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383513,
+      "name": "S.T.A.Y.",
+      "url": "https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2"
+    },
+    {
+      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3N8fGhRcHWqyy0SfWa92H0"
       },
@@ -1491,7 +1779,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383513,
       "name": "S.T.A.Y.",
       "url": "https://open.spotify.com/track/780LdT9wWORqCCUUiLfRvi"
@@ -1603,10 +1891,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298333,
       "name": "So We Won't Forget",
       "url": "https://open.spotify.com/track/1sL0oHu8NCQpImkjxkoVXj"
+    },
+    {
+      "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
       "album": {
@@ -1675,10 +1981,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168648,
       "name": "Stay Near",
       "url": "https://open.spotify.com/track/0ZQEigvvONyBFp7cYWv2Xy"
+    },
+    {
+      "album": {
+        "name": "Sjangeli",
+        "url": "https://open.spotify.com/album/2m7iZ2BHRYm8Et8ah0Qdgb"
+      },
+      "artists": [
+        {
+          "name": "Luwaks",
+          "url": "https://open.spotify.com/artist/74m92HtAJpU0X1B8h54RIr"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168648,
+      "name": "Stay Near",
+      "url": "https://open.spotify.com/track/0bDLgavXGx0Nskjydn1NpF"
     },
     {
       "album": {
@@ -1737,6 +2061,24 @@
     {
       "album": {
         "name": "North Pole",
+        "url": "https://open.spotify.com/album/2tCFpKgvx1HO064rFnKSDo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1uiU2DsVH9AIGo1JUl9tMg"
+    },
+    {
+      "album": {
+        "name": "North Pole",
         "url": "https://open.spotify.com/album/5O8TzNyhGK7xTMN0kccpiX"
       },
       "artists": [
@@ -1747,7 +2089,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176000,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/69ScUfmrwMZgyqb0XRGw12"

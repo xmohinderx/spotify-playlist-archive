@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,193 likes - 46 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Head On The Block](https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/23qrC1VsWOSP2USqSLHZ4m) | 2:26 |
+| 1 | [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 |
 | 2 | [Sweet Love](https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT) | [Sweet Love](https://open.spotify.com/album/1ktETQfJTMuoyH0oq4xXrz) | 4:05 |
 | 3 | [Dans M'n Ogen Dicht](https://open.spotify.com/track/1KTYxEsgVcoyCa3PE28ZnH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dans M'n Ogen Dicht](https://open.spotify.com/album/42tXcJPo0MY8U9tv9U6Q7e) | 3:05 |
 | 4 | [Iced Out](https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Iced Out](https://open.spotify.com/album/5zFLy61k07leoBrxjNbjKE) | 3:01 |
 | 5 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 |
-| 6 | [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 |
+| 6 | [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 |
 | 7 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 |
 | 8 | [Tegen De Klippen Op](https://open.spotify.com/track/4mfJi6sHY0LjLARpYSLel3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Tegen De Klippen Op](https://open.spotify.com/album/5GlSAiTCsD7DF8OUSN34tE) | 2:50 |
 | 9 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 25 | [The Things That You Are Not \(Part 1\)](https://open.spotify.com/track/2Lo6dinJC6pLfMRK2H0ehd) | [Thomas Porter](https://open.spotify.com/artist/1HWwfeXkUm1jrOHiI61Q6C) | [Manic Pixie Dream Girl](https://open.spotify.com/album/5coRlQYIHdjSU37K7cRC3n) | 2:52 |
 | 26 | [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 |
 | 27 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 |
-| 28 | [Numbers Up](https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU) | 3:25 |
+| 28 | [Numbers Up](https://open.spotify.com/track/2rPcQeiLE5nYhuSFTUAdK0) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/3g6EiOXZ7PNeV3gpuuMjuh) | 3:25 |
 | 29 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 |
 | 30 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
-| 31 | [What Goes, Let Go](https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/5rIh0IGTwv2Y7m10VnJb4k) | 4:34 |
+| 31 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 |
 | 32 | [Body And Mind](https://open.spotify.com/track/3IRooi7Z3RsocwcQblHza8) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:06 |
 | 33 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 |
 | 34 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 45 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 |
 | 46 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 
-Snapshot ID: `MTY1NzgxMzIxMiwwMDAwMDA0YzAwMDAwMTgxZmQ1ZTFkYzkwMDAwMDE4MTgwOGIxMmQ1`
+Snapshot ID: `MTY1NzgxMzIxMiwwMDAwMDAwMDgzOTFjZmQ0NWRhZmI2NDI0ZjgyNzAyMDY5OGJiNDJj`

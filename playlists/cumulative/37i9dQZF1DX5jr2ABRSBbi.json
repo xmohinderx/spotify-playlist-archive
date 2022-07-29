@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "side effects of being human",
+        "url": "https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "almost 20",
+      "url": "https://open.spotify.com/track/6k7xfz8AzcXfavWKWmRMyf"
+    },
+    {
+      "album": {
+        "name": "side effects of being human",
         "url": "https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8"
       },
       "artists": [
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132000,
       "name": "almost 20",
       "url": "https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n"
@@ -1541,6 +1559,28 @@
     {
       "album": {
         "name": "Ri\u0165",
+        "url": "https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179649,
+      "name": "Ri\u0165",
+      "url": "https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h"
+    },
+    {
+      "album": {
+        "name": "Ri\u0165",
         "url": "https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K"
       },
       "artists": [
@@ -1555,7 +1595,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179649,
       "name": "Ri\u0165",
       "url": "https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ"

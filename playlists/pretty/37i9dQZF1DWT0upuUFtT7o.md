@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Tchotchke, Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,647 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,729 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [EVERYTHING](https://open.spotify.com/track/0vGaG5Su2XNfN7iBx8Pqq9) | [Stella Smyth](https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx) | [EVERYTHING](https://open.spotify.com/album/1BH5q685dSrzTUzKCKjmaI) | 3:04 |
 | 100 | [twentyone](https://open.spotify.com/track/1VohwuTMRDmNLxZeJKdCsn) | [Ben Ohr](https://open.spotify.com/artist/4RTUllFdPttQHfthpDXKoG) | [twentyone](https://open.spotify.com/album/6XPoIFRZlNSvdNKJ9Mq60Q) | 3:39 |
 
-Snapshot ID: `MTY1ODkzNjIyMCwwMDAwMDBmNDAwMDAwMTgyNDA0ZGRjM2IwMDAwMDE4MjQwNDRiZmM3`
+Snapshot ID: `MTY1ODkzNjIyMCwwMDAwMDAwMGMyMmJkZGZkZmQ5ZmE4MGFlYjhiYjExMDI1MTRhNDMy`

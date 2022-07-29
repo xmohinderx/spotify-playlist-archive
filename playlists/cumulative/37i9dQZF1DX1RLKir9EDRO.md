@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Nilay Özkara Çizim: Isu Kim
 
-217 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
+218 songs - 13 hr 13 min - [published](https://open.spotify.com/playlist/2SD1ylRiXJ4kfEeC2aTpUY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Berlin’de Kış](https://open.spotify.com/track/4TuEZOk3HdNd4JDCmOOwoy) | [Kana Kana](https://open.spotify.com/artist/79m8TbKxx4eO0G80RgmZox) | [Berlin’de Kış](https://open.spotify.com/album/0yuW7RDfgYCP2oscrNDXlN) | 4:18 | 2021-12-03 | 2022-01-14 |
 | [Beyaz](https://open.spotify.com/track/1un2opN6VtDLYuFnKiGNFQ) | [kafası değişikler](https://open.spotify.com/artist/7g8sz4M3FJuMlAQsnkAHTT) | [Beyaz](https://open.spotify.com/album/3s9Gn748SIsHdSYsSIQAjq) | 3:22 | 2022-02-27 |  |
 | [Bi Önemi Yok](https://open.spotify.com/track/4CQjsF9EIfAQaakFezKDos) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Bi Önemi Yok](https://open.spotify.com/album/5QvPlBy9HB7y2sV3vOJaP4) | 3:07 | 2022-01-13 |  |
-| [Bi' Beni Sev](https://open.spotify.com/track/06MuguHjItBsZRvRszbdTa) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4Qwd94lUkJEMD00psTV3QU) | 2:51 | 2022-02-17 |  |
+| [Bi' Beni Sev](https://open.spotify.com/track/06MuguHjItBsZRvRszbdTa) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4Qwd94lUkJEMD00psTV3QU) | 2:51 | 2022-02-17 | 2022-07-29 |
+| [Bi' Beni Sev](https://open.spotify.com/track/1TyrMcfECN6XYXPZgwQJna) | [Yaren Gözcü](https://open.spotify.com/artist/4R6VkmBQe4G6oImsuu11Pa), [Jason The Great](https://open.spotify.com/artist/5Dji8rPi6AojXGAX4aRKgk) | [Bi' Beni Sev](https://open.spotify.com/album/4xWRgqIhxraEwHTG0BFpWa) | 2:51 | 2022-07-21 |  |
 | [Bil istedim](https://open.spotify.com/track/7dTCoHArBZYO6QcpsQYmhc) | [Emre Uludogan](https://open.spotify.com/artist/4X1Ww8BMKKB2M4u4D4PjnH) | [Bil istedim](https://open.spotify.com/album/5VgDWtB2NVRsebRlmypsOm) | 3:27 | 2022-01-19 |  |
 | [Bitmez Geceler](https://open.spotify.com/track/2JI3I3M3Nf4diqcGAaygCN) | [Bunfyah](https://open.spotify.com/artist/0chdiUtdJBgB8LKgE7od4N), [Cemre Arca](https://open.spotify.com/artist/46WhZAVIUhaGA0JidvlSgd) | [Bitmez Geceler](https://open.spotify.com/album/31yM1uCA2jPDxicLZmGlTC) | 5:48 | 2022-04-29 |  |
 | [Bu Kalp Hep Seninle](https://open.spotify.com/track/1C6Tx5HXkG7t6BDJdt1kVx) | [Yavuz Ozan Uçar](https://open.spotify.com/artist/2WxPG4Qx10YbitbHelZVIt), [Rüya Beril Çalış](https://open.spotify.com/artist/7G4Y5JjQS4Hd6pMtPS8nqr) | [Bu Kalp Hep Seninle](https://open.spotify.com/album/4C6GRLd4HHMqInqjdMmKxn) | 2:38 | 2022-01-19 | 2022-04-16 |

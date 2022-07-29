@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Discover new artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,397 likes - 27 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,414 likes - 27 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 7 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 |
 | 8 | [Up!](https://open.spotify.com/track/7aii4AQA1uyyzGcfqtApy1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Up!](https://open.spotify.com/album/7w4JTsBGb2znmXyNhpaWmN) | 3:52 |
 | 9 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 |
-| 10 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 |
+| 10 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 |
 | 11 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 |
 | 12 | [Paraluman](https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:44 |
 | 13 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 26 | [BETTERMAN](https://open.spotify.com/track/60jYOyxr1FHGFnofoIXPCq) | [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Because](https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [GARUDA](https://open.spotify.com/album/4xyf45M38hJVUA0esmu7ks) | 4:50 |
 | 27 | [When I'm with You](https://open.spotify.com/track/7cUL0JOx3w4uvhEkZJlQam) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [The Light](https://open.spotify.com/album/221mR3WaKt3P8PVSbTiZqj) | 3:52 |
 
-Snapshot ID: `MTY1ODk3MDUxMywwMDAwMDAwMGQ1ZTI0YWM2ZTVlOTI3ZTBjOGUwOGFkY2JiZjdiNDk1`
+Snapshot ID: `MTY1Nzg3NTYwMCwwMDAwMDAwMDAxOTRmMTYxMWVlYjk1MjdhMjM1ZGRhMGYyNTIwNjA2`

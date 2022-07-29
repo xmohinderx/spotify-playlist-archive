@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre più o meno distorte \(e, in cover, Manuel Agnelli\)
+> Chitarre più o meno distorte \(e, in cover, i Baobab!\)
 
-130 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+133 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Better Days](https://open.spotify.com/track/3MGWaWeAl4XWovfBnZAGg3) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [A Life Designed for Fun \(Pastimes Vol\. II\)](https://open.spotify.com/album/645TLVk1UxX0AM8FWFxuQ3) | 3:57 | 2022-07-21 |  |
 | [Blu](https://open.spotify.com/track/1IkTSLdOm3yd2V7fRliXH8) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Blu](https://open.spotify.com/album/7Jevt4v3RwRgpS8stYD9Hj) | 2:40 | 2022-05-26 | 2022-07-15 |
 | [Blue Eyes](https://open.spotify.com/track/0wJ60VHGY9Ehsaz89nCMll) | [Kæry Ann](https://open.spotify.com/artist/5fyWgPHjsdMY9xcNciixy2) | [Blue Eyes](https://open.spotify.com/album/4HYIjRDw48b28XWDvN9i9O) | 3:52 | 2022-06-09 | 2022-06-17 |
-| [Buio](https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6) | 3:20 | 2022-07-07 |  |
+| [Buio](https://open.spotify.com/track/2lsKGcKe6FizRGPimPtBal) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/3LwsCmNWnnlwQm5TAMFzaW) | 3:19 | 2022-07-28 |  |
+| [Buio](https://open.spotify.com/track/6X1PE6tOCJa9mpXdcCIswg) | [LOREN](https://open.spotify.com/artist/7i1dBxscRnTkZIVoo0F29h) | [Buio](https://open.spotify.com/album/0SWsn6jGy0EQzBGGQysYc6) | 3:20 | 2022-07-07 | 2022-07-29 |
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |
 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 | 2022-05-09 | 2022-05-13 |
 | [Cadetto Lin non ferma su Marte](https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET) | [Lantern](https://open.spotify.com/artist/0oSXdle7wTokdA7ZrVlOXW) | [Cadetto Lin non ferma su Marte](https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx) | 2:15 | 2022-05-09 | 2022-06-24 |
@@ -72,7 +73,8 @@
 | [Kill me](https://open.spotify.com/track/61NuA3h0Sci2DzqMKJuQRj) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Rich Meyer](https://open.spotify.com/artist/0gf7WPq62Kdo41WVmYQmMV) | [Kill me](https://open.spotify.com/album/2mERqCNjJa8xQ8AmGwxvTv) | 1:58 | 2022-05-09 | 2022-05-20 |
 | [Kinder Cereali all'amianto](https://open.spotify.com/track/220I3ZfW30nk9VWtYkMNHT) | [Nicolò Carnesi](https://open.spotify.com/artist/0ZGHrDv9xsaEJgRzfKLLQE), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Kinder Cereali all'amianto](https://open.spotify.com/album/2vLROsFj2B8hG0fYJNV8O5) | 3:10 | 2022-05-09 | 2022-07-15 |
 | [L'abisso](https://open.spotify.com/track/0ttpILKiL7nkg9fCZlYsDs) | [Labissodeigiorniavenire](https://open.spotify.com/artist/6mSVh5QjIeIt1FajKzINZd) | [L'abisso](https://open.spotify.com/album/3MA9uoKQBKPx7aNuYVGJX3) | 2:14 | 2022-06-02 | 2022-06-24 |
-| [La fine dell'eternità](https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66) | 3:04 | 2022-06-09 |  |
+| [La fine dell'eternità](https://open.spotify.com/track/2DTSHEAcv2hUnVoRvYiOmo) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/2I6L45zp4O8twWUyAHirSj) | 3:04 | 2022-07-28 |  |
+| [La fine dell'eternità](https://open.spotify.com/track/6mzLHYb0VGDkYBTwcSAASe) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Ansia Capitale](https://open.spotify.com/album/1I3StDZUGbkIkBJrHLwY66) | 3:04 | 2022-06-09 | 2022-07-29 |
 | [La vita fa schifo](https://open.spotify.com/track/38OPZDQmw8dhrl63CafT14) | [Le Feste Antonacci](https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe) | [La vita fa schifo](https://open.spotify.com/album/0yzB3qbjWR5nybthxPp772) | 4:44 | 2022-07-21 |  |
 | [Libellula](https://open.spotify.com/track/0XbO1VbFRlFlycqvnaNuYn) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Libellula](https://open.spotify.com/album/4xo1lo7z4A2sawH7WI7Eev) | 3:06 | 2022-06-30 |  |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
@@ -125,7 +127,7 @@
 | [Turnover](https://open.spotify.com/track/5Y2EMG7xInrfl5xeZI56A5) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Turnover](https://open.spotify.com/album/1aCpnw0VjbPYz38eNzdNWe) | 2:25 | 2022-06-30 |  |
 | [Ubi maior minor cessat](https://open.spotify.com/track/5yTZP8kf3715F8pyenn4WP) | [Rough Enough](https://open.spotify.com/artist/6b9jVW7JfqMLiRvoTYEA1i), [Ufo \(The Zen Circus\)](https://open.spotify.com/artist/2ut96FTqfxeNNiZyK4bdBL) | [Che la testa ti sia lieve](https://open.spotify.com/album/2RMy3VEmIUgiSWLsxnP48q) | 4:00 | 2022-05-19 |  |
 | [Un equilibrio da proteggere](https://open.spotify.com/track/3ddt91PaOtE9LQ4UCaN3ge) | [Il Corpo Docenti](https://open.spotify.com/artist/54fov0UfPlOOvOWid3VL7p) | [Un posto sicuro](https://open.spotify.com/album/2eocM3c7Mj3d9rx7DUmITa) | 2:54 | 2022-05-09 | 2022-05-13 |
-| [Un istante](https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Un istante](https://open.spotify.com/album/2T1psFrFRJaV1SStNt2aHy) | 3:24 | 2022-06-23 |  |
+| [Un istante](https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Un istante](https://open.spotify.com/album/2T1psFrFRJaV1SStNt2aHy) | 3:24 | 2022-06-23 | 2022-07-29 |
 | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/track/2RIpuPWfnNgXF7eQBaugdA) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UN SANTO, UN RICCO, UN FASCIO](https://open.spotify.com/album/2xEiFuPfW9NcYYn44f1fIP) | 2:54 | 2022-05-09 | 2022-05-13 |
 | [Una festa](https://open.spotify.com/track/25aCtC19xMjjLdejTxJ0z3) | [Cara Calma](https://open.spotify.com/artist/2FK3lJvn42dNrSeVzs5MoC) | [GOSSIP!](https://open.spotify.com/album/4oMB0omyxPz000ZHH4oesR) | 3:28 | 2022-05-09 | 2022-06-10 |
 | [UNO, DUE](https://open.spotify.com/track/75HUCYfX4wop5tV0qKrHbR) | [Le Endrigo](https://open.spotify.com/artist/19iWcNNkOaOpcFtSRF7q5a) | [UNO, DUE](https://open.spotify.com/album/3lpVkPyUEVk6Swojw19kzs) | 3:25 | 2022-06-30 |  |
@@ -135,8 +137,9 @@
 | [Voglio invecchiare male \(feat\. Management\)](https://open.spotify.com/track/1UioMVlhDjrjJ3o6HP2Vhr) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Cari Fottutissimi Amici](https://open.spotify.com/album/43iU5QUL15hYLkbiZfk1aB) | 4:19 | 2022-05-26 |  |
 | [Vortice](https://open.spotify.com/track/6RA1qE9WbVXmWdLWmjN8Z3) | [Raniss](https://open.spotify.com/artist/5V0f1RKm4X0Lh6HBLSps3V) | [Credere Di Pensare](https://open.spotify.com/album/74zRzOFTdEjTGycktwGa0Q) | 3:40 | 2022-05-09 | 2022-05-27 |
 | [What a Heart Is For](https://open.spotify.com/track/18xVzYlFYM20dK5OP6E35n) | [Smile](https://open.spotify.com/artist/3eJqABrN5Xq65jILXl6wl9) | [What a Heart Is For](https://open.spotify.com/album/7wyItDSY7RXNIsbnoJhqyD) | 3:18 | 2022-05-09 | 2022-05-27 |
-| [What's In Your Mind?](https://open.spotify.com/track/19FavAnu4EeUTZ7awOvb7V) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [What's In Your Mind?](https://open.spotify.com/album/7fGYMPoPRGUsPZlCR9SuSG) | 3:33 | 2022-07-07 |  |
-| [WHAT’S THE POINT](https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [SLEEP MODE \(Side A\)](https://open.spotify.com/album/2qrh3fufNveJk6XWJlHOj2) | 3:36 | 2022-05-09 |  |
-| [Wølf](https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/1FvZ4OAf10KWPstkToqte8) | 3:15 | 2022-06-23 |  |
+| [What's In Your Mind?](https://open.spotify.com/track/19FavAnu4EeUTZ7awOvb7V) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [What's In Your Mind?](https://open.spotify.com/album/7fGYMPoPRGUsPZlCR9SuSG) | 3:33 | 2022-07-07 | 2022-07-29 |
+| [WHAT’S THE POINT](https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [SLEEP MODE \(Side A\)](https://open.spotify.com/album/2qrh3fufNveJk6XWJlHOj2) | 3:36 | 2022-05-09 | 2022-07-29 |
+| [WØLF](https://open.spotify.com/track/2IFcT2vLnkFjfRAIeTIx3j) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/3WIcSy6wxoHa7CUztnrPlg) | 3:15 | 2022-07-28 |  |
+| [Wølf](https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/1FvZ4OAf10KWPstkToqte8) | 3:15 | 2022-06-23 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

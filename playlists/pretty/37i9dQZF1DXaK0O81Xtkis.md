@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Mark Ambor
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,630 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,688 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 48 | [Too Much](https://open.spotify.com/track/4wJtYAMOzz013zi6KjHDeT) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Too Much](https://open.spotify.com/album/4XXC4nxkEl1Q29lsTXbi4z) | 3:34 |
 | 49 | [Wish You Were Here](https://open.spotify.com/track/5HH4smD2ZGTGx0H7rHTutW) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Wish You Were Here](https://open.spotify.com/album/4RlftpZGhEgnraSN2vUV2h) | 2:10 |
 | 50 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 |
-| 51 | [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 |
+| 51 | [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 |
 | 52 | [Wish You the Worst](https://open.spotify.com/track/0JBtSBz5wwJYIYkGpRk4wS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/3CJXPqgGd9igKie4C0YyiJ) | 2:23 |
 | 53 | [frown](https://open.spotify.com/track/0P2CBPHJsD0BgdsqHedugp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE) | 2:19 |
 | 54 | [Chelsea's Coming Over](https://open.spotify.com/track/3HmmoFYkenukJHgHFUf38A) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Chelsea's Coming Over](https://open.spotify.com/album/1VA0zdqUK2Y7mIHzLsUpql) | 2:48 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 76 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 |
 | 77 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 78 | [Room 421](https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Room 421](https://open.spotify.com/album/1ezYtPUMHwEnlcgGbkN7v1) | 2:40 |
-| 79 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 |
+| 79 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 |
 | 80 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 
-Snapshot ID: `MTY1ODQ2MzAwMCwwMDAwMDBiNDAwMDAwMTgyMjQxOTE2MTMwMDAwMDE4MWYyZmU1MWEw`
+Snapshot ID: `MTY1ODQ2MzAwMCwwMDAwMDAwMDkwMGZhMDUxNTFiNzBmZDE0OWU3OTcyZDMwNDZlMTdl`

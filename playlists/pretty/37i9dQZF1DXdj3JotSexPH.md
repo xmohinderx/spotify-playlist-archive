@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > Takeover by Mertzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,739 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,790 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 3 | [Inner Peace \(feat\. Anderson .Paak\)](https://open.spotify.com/track/05hyO45lzOkCpMBomiKsMP) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 4:46 |
 | 4 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 | 5 | [Deep Cut \(Soliven's Romance\) \[feat\. Soliven\]](https://open.spotify.com/track/46bydSCm1mD0j8MH2j0zf3) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Soliven](https://open.spotify.com/artist/2TUxgW1yLs08HDC5gRQK35) | [No Saints on Knight Street](https://open.spotify.com/album/4NcVOJfCpGq5BFEhhvjge4) | 3:15 |
-| 6 | [FRIENDS](https://open.spotify.com/track/4rBFiGHlaujBGnyQgSdWPh) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46) | 5:44 |
+| 6 | [FRIENDS](https://open.spotify.com/track/0gu5B9dUOiLezdDjrLPCCV) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 5:44 |
 | 7 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 |
 | 8 | [Obsesion](https://open.spotify.com/track/65H6t1WQBim6q93yM8fEwn) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 4:14 |
 | 9 | [Toxic Toxic](https://open.spotify.com/track/5Dk1JOMCNd4FACuaWPbkgS) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:00 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 23 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
 | 24 | [Black Boy](https://open.spotify.com/track/0RjG2DjFuFLyrKfQ2UET8N) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs) | [Sgt Culpepper](https://open.spotify.com/album/43mTFLfF5mNMhuA7MtDcSi) | 4:03 |
 | 25 | [Trippin](https://open.spotify.com/track/6kE3hVEVJ67VVdQvVP3SMD) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 2:44 |
-| 26 | [BOMBAY](https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi) | 3:06 |
+| 26 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 |
 | 27 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 |
 | 28 | [AMBER](https://open.spotify.com/track/29wrhqZUPQFPjREFM6vayu) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/1iIGc6gmBf9I0iWYPpjZLU) | 3:31 |
 | 29 | [Soon](https://open.spotify.com/track/1RHFCBtdbB0a44LcPYrRX6) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Flight Plan 001](https://open.spotify.com/album/5WqMgmDRifpGVoMdtlmuC0) | 3:09 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 37 | [Super Wavy! \(Why You Try To Play Me\)](https://open.spotify.com/track/1rmUDtH49SJpxsTaAP3xM7) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Yokohama](https://open.spotify.com/album/0FYhiuGtJFmvjlgd9qGTkC) | 3:53 |
 | 38 | [Fields](https://open.spotify.com/track/0zh4UsKtESn0jq9nstzx0u) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Fields](https://open.spotify.com/album/5FU8LsUSMr37hKdBjDnXn6) | 3:40 |
 | 39 | [Down Girl](https://open.spotify.com/track/4PZ4xyWBCCJqAeWI8uSLca) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Waking at Dawn](https://open.spotify.com/album/2uh03RWTrpLJzfrrqeEIZs) | 2:49 |
-| 40 | [Crack Rock](https://open.spotify.com/track/125FPswReMD9Ggvn69M7Ch) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 3:44 |
+| 40 | [Crack Rock](https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:44 |
 | 41 | [Backseat](https://open.spotify.com/track/2LTFSIFfYR9tjPdzX4if0Z) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 2:54 |
 | 42 | [Tarantino](https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Tarantino](https://open.spotify.com/album/0gogCIBdXMS2ZR3FtWqAav) | 2:34 |
 | 43 | [REBOUND!](https://open.spotify.com/track/7J8V76XTLhJXAm8hwCQKXG) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [LP!](https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 49 | [Superclean](https://open.spotify.com/track/0hxl37ZV9GgcY1Pn8UiPWK) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:35 |
 | 50 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 
-Snapshot ID: `MTY1ODk1NTYwMCwwMDAwMDA1NzAwMDAwMTgyNDE3NTkxMzUwMDAwMDE4MjNlYTE5YzFi`
+Snapshot ID: `MTY1ODk1NTYwMCwwMDAwMDAwMGYzODM2ZjAyZDA0ZTMzMTkyMmFmMTAyNGNkZDc0MzI5`

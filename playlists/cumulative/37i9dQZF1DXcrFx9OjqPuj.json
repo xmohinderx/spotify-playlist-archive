@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 416320,
       "name": "Beyond The Blue Horizon",
       "url": "https://open.spotify.com/track/6PIGn43hhLuLnfOWT6XYKA"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 540933,
       "name": "Blue Greens And Beans",
       "url": "https://open.spotify.com/track/4FvJiE3b6APJ8QlJ4VjZTW"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 291600,
       "name": "Blues For The Blues",
       "url": "https://open.spotify.com/track/3sNHMM8crYF0BPL9GRPV8k"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183760,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/0shoksPjN2cZXVhTwhYOjK"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 428133,
       "name": "Fidel - Remastered",
       "url": "https://open.spotify.com/track/7DGD76uSCMikhXmhOQnbj7"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 477880,
       "name": "Haitian Fight Song",
       "url": "https://open.spotify.com/track/4Red4KhaYnxkjo3osEbxl4"
@@ -906,6 +906,24 @@
     },
     {
       "album": {
+        "name": "The Hard Swing",
+        "url": "https://open.spotify.com/album/5ppHHedKagWqeeg5O70CIz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/6DaExxnrF56oEF0qHR3Izl"
+    },
+    {
+      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281226,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/0kCs2MagFVwOM90kpwSR5V"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 372466,
       "name": "Lester Leaps In - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 291533,
       "name": "Let's Face The Music And Dance - Remastered",
       "url": "https://open.spotify.com/track/0dtTW39z3xmjSo9JHBQuO9"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-15",
+      "date_removed": null,
       "duration_ms": 324466,
       "name": "Lizzy's Bounce",
       "url": "https://open.spotify.com/track/6DXYegZOJPvQ07OhKgDlHM"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 353106,
       "name": "Move",
       "url": "https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 344013,
       "name": "Move - Remastered 2006 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 347133,
       "name": "Sneaky Pete",
       "url": "https://open.spotify.com/track/5Gd7CJ9wlg5fah94ZsXBWK"
@@ -1741,10 +1759,40 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
+    },
+    {
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407600,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"
     },
     {
       "album": {
@@ -1759,7 +1807,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212066,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/1paZKdYXEFYTb2IHls5FK4"
@@ -1795,7 +1843,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 538973,
       "name": "Straight Ahead - Remasted 1998/ Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4wupMhFWAQzP8CGROC1D2r"
@@ -1849,7 +1897,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 317733,
       "name": "Swingin' The Samba - Rudy Van Gelder Edition / Remastered",
       "url": "https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR"
@@ -1885,7 +1933,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 330120,
       "name": "Tariff - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3WJpTTRFQr46ZF2Td29bTj"
@@ -1961,10 +2009,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143800,
       "name": "The Best Things In Life Are Free",
       "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+    },
+    {
+      "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
     },
     {
       "album": {
@@ -2037,7 +2103,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 304453,
       "name": "The Joker - Remastered",
       "url": "https://open.spotify.com/track/5NgqgpKQz0zjyERVrmY9hb"
@@ -2207,7 +2273,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 327600,
       "name": "Tickle Toe",
       "url": "https://open.spotify.com/track/4V73ybTMOp2a2ePP8wx6t3"
@@ -2279,10 +2345,28 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128040,
       "name": "Toki's Theme",
       "url": "https://open.spotify.com/track/2diV5YJNLCW73J8IGo6arS"
+    },
+    {
+      "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128040,
+      "name": "Toki's Theme",
+      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
     },
     {
       "album": {
@@ -2353,7 +2437,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 511853,
       "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
@@ -2451,7 +2535,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271506,
       "name": "Wheelin' And Dealin'",
       "url": "https://open.spotify.com/track/57uQYzZCSVEGMkJbeAToQk"

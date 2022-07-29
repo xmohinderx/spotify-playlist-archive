@@ -3252,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "Kyivstar",
+        "url": "https://open.spotify.com/album/3LyobgdDU47a5kN865tt5r"
+      },
+      "artists": [
+        {
+          "name": "EeOneGuy",
+          "url": "https://open.spotify.com/artist/55pAFvoJUtQLajo9oqDF0q"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Kyivstar",
+      "url": "https://open.spotify.com/track/0mOR5OSzH7zoBD36umptZD"
+    },
+    {
+      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -6919,7 +6937,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134142,
       "name": "We Gotta Get Love",
       "url": "https://open.spotify.com/track/4AMCdODHG4ZZ1BiErHt0VI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: emanuelino, Uzi Lvke",
+  "description": "La nuova generazione del rap italiano. Cover: Kuremino",
   "name": "Raptopia",
   "published_playlist_ids": [
     "6nhHRG6xegRC3RJpPdvh9l"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165454,
       "name": "Cose Losche",
       "url": "https://open.spotify.com/track/0Q0gqAXmbdjs3Jg0RqLxSl"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154531,
       "name": "Cucaracha",
       "url": "https://open.spotify.com/track/4h9MncHxnveRZ6NOEdslYL"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 122125,
       "name": "DOGS",
       "url": "https://open.spotify.com/track/6POMHazmbA3zSjSuBRaoVp"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124714,
       "name": "FAKE LOV3",
       "url": "https://open.spotify.com/track/0uddaGz9eiKu58im2uqqlG"
@@ -1487,6 +1487,24 @@
       "duration_ms": 171428,
       "name": "Gabbana",
       "url": "https://open.spotify.com/track/54cmnDAECHzgNsvIHt6E4r"
+    },
+    {
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/12gN8jxbq9WohnOVqc8opK"
+      },
+      "artists": [
+        {
+          "name": "Blito",
+          "url": "https://open.spotify.com/artist/3Bk8w4bGBA3Wy9Uprczikc"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/3ZQ7r3RCWJCPyPTV0nFFrn"
     },
     {
       "album": {
@@ -2041,6 +2059,52 @@
     {
       "album": {
         "name": "PROVINCIALE",
+        "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        },
+        {
+          "name": "Madfingerz",
+          "url": "https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo"
+        },
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        },
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309650,
+      "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
+      "url": "https://open.spotify.com/track/3I8BqKLrfzZk1oGRe2pcnV"
+    },
+    {
+      "album": {
+        "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo"
       },
       "artists": [
@@ -2079,7 +2143,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309650,
       "name": "La Famiglia (feat. 8blevrai, Kassimi, Yunes LaGrintaa, Sisco, N\u00e9za & Nabi)",
       "url": "https://open.spotify.com/track/4fuCi43DogsknVxQtVpnx0"
@@ -2437,7 +2501,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144705,
       "name": "MRIGL",
       "url": "https://open.spotify.com/track/6ivA4XEjWjTzY0Kx5vHhI4"
@@ -2521,6 +2585,28 @@
       "duration_ms": 176261,
       "name": "Nei pensieri",
       "url": "https://open.spotify.com/track/6YzDPCtvn2wFVZ1v1GA1pG"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0tG0TLE9xuhbIKVu0MmqEa"
+      },
+      "artists": [
+        {
+          "name": "Jack Chan",
+          "url": "https://open.spotify.com/artist/4gWN4OBM0FWyqZ6xapWp8R"
+        },
+        {
+          "name": "Matma",
+          "url": "https://open.spotify.com/artist/2iMmuG7mBNlsVLPy9sLkuK"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279529,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/4YWvc70x0VzrmCBN6UWHqC"
     },
     {
       "album": {
@@ -3259,7 +3345,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157341,
       "name": "Tigresse",
       "url": "https://open.spotify.com/track/6FtWOgaI3icr8D7TNabM5H"

@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-316 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+319 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [die Langustine](https://open.spotify.com/track/0XH5kwUQixnpXeQmPzxMua) | [Brit Koch](https://open.spotify.com/artist/3kxcXQwZj8D8tXsHLnswf4) | [Wasserstein](https://open.spotify.com/album/7Lb1jCjxXYfsaUzd9bsx2a) | 3:37 | 2021-12-08 |  |
 | [Die Wanderbiene](https://open.spotify.com/track/45m0JU1iR7C5hJ0kPh86F2) | [Felix Trapp](https://open.spotify.com/artist/2hLNTVEFdpDyQrTMTousC6) | [Die Wanderbiene](https://open.spotify.com/album/2FbEevKy2zwnMLb4d7h1IY) | 3:09 | 2021-12-08 |  |
 | [die Zeder](https://open.spotify.com/track/5IyPSusjmxJFNcFSFJ7Cmp) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [die Zeder](https://open.spotify.com/album/0W7VUre7uBbVzcx735mXr1) | 3:04 | 2021-12-08 |  |
+| [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-29 |  |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-08 | 2022-06-10 |
 | [Don't Be Shy](https://open.spotify.com/track/5RmX0yhb5eeLI9QUawpnHp) | [Jennifer Pérez](https://open.spotify.com/artist/6TbznI0U93j8IuSXoJ4bOz) | [Don't Be Shy](https://open.spotify.com/album/3CbgkGlLHbAvU8I8L9IBcu) | 3:53 | 2021-12-08 | 2022-05-11 |
 | [Don't Belong Anywhere](https://open.spotify.com/track/6ehsAZzWS6dADcl5bQ5Hyb) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Don't Belong Anywhere](https://open.spotify.com/album/1qdJJiWx2rAQBmHJIo4Bgj) | 3:53 | 2021-12-08 | 2022-04-06 |
@@ -153,12 +154,14 @@
 | [Kékes](https://open.spotify.com/track/1Y95ZqpRL9fDfPylinDvtS) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:17 | 2021-12-08 |  |
 | [kleine Seitengasse](https://open.spotify.com/track/1Cjc3bcWZ26D8ghDT3D5Iu) | [Marc Neuer](https://open.spotify.com/artist/78g28CYicu3HUg0nsmh9FV) | [Regenbogen](https://open.spotify.com/album/6PBEKfVOxMDYBO9pxD3daL) | 3:37 | 2021-12-08 | 2022-06-17 |
 | [Kleiner Singvogel](https://open.spotify.com/track/679O0Eirjl5rJGdFu3PV9q) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [when the stars align](https://open.spotify.com/album/7dd2msGOs5dEYWMjYAvcJq) | 3:02 | 2021-12-08 |  |
+| [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-29 |  |
 | [la familia](https://open.spotify.com/track/2ArbrTWgX8XTAVXMXmecq9) | [Anona Helene](https://open.spotify.com/artist/489KvuYBhHiNJYYnb2d2l2) | [la familia](https://open.spotify.com/album/7BmDGMolR3JJqisdj7vDKZ) | 3:38 | 2021-12-08 | 2022-05-11 |
 | [La Suerte Llegará](https://open.spotify.com/track/6kkupWXVg8I0XjbCbx7lHu) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [La Suerte Llegará](https://open.spotify.com/album/1kGSX1V9qlLqa51ldvn9TR) | 2:25 | 2021-12-08 | 2022-07-15 |
 | [La Table Solitaire](https://open.spotify.com/track/3fafaQOs2400DlCuZmdgTK) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [La Table Solitaire](https://open.spotify.com/album/7cubCU7XJawe0P6jIqsdko) | 2:12 | 2022-05-27 |  |
 | [lago azul](https://open.spotify.com/track/5TaKQs2zs5EvEcZVeQKXcv) | [Jesse Edwards](https://open.spotify.com/artist/709zLNADbgTrKat7mNELgy) | [Camilla](https://open.spotify.com/album/57cP0FEzhoCtxvuge5fh2u) | 3:22 | 2021-12-08 | 2022-05-27 |
 | [Lagrima](https://open.spotify.com/track/7K89U0T12BAWUxh9gXMp4V) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Clara Jansen](https://open.spotify.com/artist/36naeGyvAeqzuXPIVtAY6C) | [Romance d'amour](https://open.spotify.com/album/20eQWEKfXxNTeFl34aKtmr) | 2:08 | 2021-12-08 | 2022-07-15 |
 | [Laguna Sunrise](https://open.spotify.com/track/1jIOlJTeBfdKSv1Finn8Hg) | [Harish Powar](https://open.spotify.com/artist/35XLb3RIu3ckAQOSYq8xd6) | [The Ballad of the Laughing Stars](https://open.spotify.com/album/1RC3Pt2aC5xufw8dF5cq9O) | 4:04 | 2022-07-08 | 2022-07-15 |
+| [Lake Constance](https://open.spotify.com/track/4IAIUOpxTzrrspahVpk88S) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Lake Constance](https://open.spotify.com/album/0Ux3osuVEO4LGxDxM2ddh9) | 1:34 | 2022-07-29 |  |
 | [Larghetto](https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Larghetto](https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1) | 3:05 | 2022-01-06 |  |
 | [Largo Rv\. 443 For Guitar](https://open.spotify.com/track/4Z109P3vVF3jVEOXbrR3wO) | [Marcel Depuis](https://open.spotify.com/artist/6rWVhqYY4PMyTdfA48grAa) | [Largo Rv\. 443 For Guitar](https://open.spotify.com/album/3ZHuhIvcDpukmYgcPuxWWf) | 2:45 | 2021-12-08 |  |
 | [Las Rosas](https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Las Rosas](https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T) | 2:41 | 2021-12-22 |  |
@@ -173,7 +176,7 @@
 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 | 2021-12-08 |  |
 | [Lolita](https://open.spotify.com/track/6H0gr9KWIXDbmL7XUXG0mH) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Nachtwanderung](https://open.spotify.com/album/1PSO23LhCcQehNc781fy9I) | 2:39 | 2021-12-08 | 2022-04-06 |
 | [Lonely Prayer](https://open.spotify.com/track/0skz7fjP31epf0dBesxbI7) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Lonely Prayer](https://open.spotify.com/album/0dz5PGLVD6QEdPtYWJShbq) | 2:47 | 2021-12-08 |  |
-| [Los Andes](https://open.spotify.com/track/4SPEmf8qMLbQwSbGzZrYG3) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Los Andes](https://open.spotify.com/album/089JMl8TmoCPDtLy5TAvdZ) | 2:23 | 2021-12-08 |  |
+| [Los Andes](https://open.spotify.com/track/4SPEmf8qMLbQwSbGzZrYG3) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Los Andes](https://open.spotify.com/album/089JMl8TmoCPDtLy5TAvdZ) | 2:23 | 2021-12-08 | 2022-07-29 |
 | [Lost in the North Sea](https://open.spotify.com/track/2CEGRzR5zR1wB3hHJgfJ5M) | [Nelson Gomes](https://open.spotify.com/artist/1OSiaLKfv7utlBDRS3Qr31) | [Streets of Lisbon](https://open.spotify.com/album/0JJWqOvCxGTd5GiXtJazx7) | 3:56 | 2021-12-08 | 2022-05-11 |
 | [Love me again](https://open.spotify.com/track/4Nt6VXEs0TiEVoLOHu6xkF) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Taormina](https://open.spotify.com/album/0J3DkSJheCCLgfQSyhdurt) | 1:53 | 2022-02-25 |  |
 | [Love Theme from Cinema Paradiso](https://open.spotify.com/track/4MUav1d7d504Wf8VT129dT) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [Love Theme from Cinema Paradiso](https://open.spotify.com/album/2zTHgwYMoODuee24i4GPUH) | 2:55 | 2021-12-08 |  |
@@ -195,7 +198,7 @@
 | [Morgensonne](https://open.spotify.com/track/1DVehVLP2YEOGjFgUl4DE0) | [Dominik Buchheim](https://open.spotify.com/artist/7e8fzJdZ6xHzokB2aGULSA) | [Morgensonne](https://open.spotify.com/album/1oAeUw1cBcoek76UVXFRer) | 3:03 | 2021-12-08 | 2022-05-11 |
 | [Mountain Train](https://open.spotify.com/track/56PyPh8da7AnBnHkSvICfG) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Mountain Train](https://open.spotify.com/album/6WPjFsCNnKId7wQkP9RDlg) | 2:46 | 2021-12-08 |  |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 |  |
-| [Mudanças](https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V) | [Ogden Rhone](https://open.spotify.com/artist/0EBhni5PCPCZpF93k9chyo) | [De Nieuwe Kerk](https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt) | 2:56 | 2021-12-08 |  |
+| [Mudanças](https://open.spotify.com/track/2DGPgil0GkkDTuLzTtAU6V) | [Ogden Rhone](https://open.spotify.com/artist/0EBhni5PCPCZpF93k9chyo) | [De Nieuwe Kerk](https://open.spotify.com/album/1aezKfZ0mXc76tSl9VSCTt) | 2:56 | 2021-12-08 | 2022-07-29 |
 | [My Hidden Treasure](https://open.spotify.com/track/39O2ZVUHRX2HukoEsbUyPx) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [My Hidden Treasure](https://open.spotify.com/album/1Ecf1rib8FEc9X9rbvmN1B) | 4:04 | 2021-12-08 |  |
 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 |  |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2021-12-08 | 2022-06-17 |

@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura\. Cover: Rory, RAAHiiM, Shantel May
 
-312 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+313 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-15 | 2022-05-20 |
 | [WILD](https://open.spotify.com/track/1uWRs1aJzqYENu4T5YLWve) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC) | [WILD](https://open.spotify.com/album/6K7aiPuUiL3dgx52TDRPbv) | 2:32 | 2022-06-17 |  |
 | [Wildest Dreams](https://open.spotify.com/track/6rp1MrZlgg22oAdptVGXUR) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:12 | 2022-02-18 |  |
-| [You Got Feets](https://open.spotify.com/track/1Xplcrav8cqwpKU8ziwGVC) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Owen O'Sound Lee](https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Don't Trip](https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz) | 5:11 | 2022-07-22 |  |
+| [You Got Feets](https://open.spotify.com/track/0ccgFQCVtdU29F2gozRbch) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Owen O'Sound Lee](https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Don't Trip](https://open.spotify.com/album/3W9Sluk9IfQnZZOAcq4tdB) | 5:11 | 2022-07-22 |  |
+| [You Got Feets](https://open.spotify.com/track/1Xplcrav8cqwpKU8ziwGVC) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Owen O'Sound Lee](https://open.spotify.com/artist/3Ws00TjHOfdaKBEdAiKvfW), [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Don't Trip](https://open.spotify.com/album/5VzOrCKdBBmMwguy8bNbIz) | 5:11 | 2022-07-22 | 2022-07-29 |
 | [you know.](https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [you know.](https://open.spotify.com/album/1URgQgR5u5Fvt4lSf7VuKK) | 3:55 | 2022-07-15 |  |
 | [You're It](https://open.spotify.com/track/2e5RcXn0N1CA93iD2QXfJi) | [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [You're It](https://open.spotify.com/album/1cNl7YVm7DShD68IJUgEDh) | 1:30 | 2022-02-25 | 2022-03-09 |
 | [Your Love](https://open.spotify.com/track/63asiN85mrvspPRZIqSLS2) | [Apartment205](https://open.spotify.com/artist/1QK0ynReqlRx2S4xqGZnb0) | [Your Love](https://open.spotify.com/album/5RQiVQxHqsQTWzoDSJJXm3) | 2:19 | 2022-06-10 | 2022-07-16 |

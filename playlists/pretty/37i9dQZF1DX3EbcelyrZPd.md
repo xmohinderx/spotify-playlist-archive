@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,489 likes - 69 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,534 likes - 69 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 33 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 |
 | 34 | [Ng'ari Ng'ari](https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Ng'ari Ng'ari](https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4) | 4:29 |
 | 35 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 |
-| 36 | [Teamo](https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN) | 4:26 |
+| 36 | [Teamo \(feat\. Messias Maricoa\)](https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 4:26 |
 | 37 | [U & I](https://open.spotify.com/track/7eC2CHUQLTUCMoM4TJWlWS) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH) | [U & I](https://open.spotify.com/album/5w7M7I2kIAO2wkmjfQl9kh) | 2:26 |
 | 38 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 |
 | 39 | [Melody \(feat\. Jaywillz\)](https://open.spotify.com/track/5c9ZCWYpUEiT00SxM1WhJI) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [First Of All](https://open.spotify.com/album/6v6K6mV2H1PcOTs0KfJkBx) | 2:49 |
@@ -66,16 +66,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 56 | [IDWT](https://open.spotify.com/track/59u9PBmy9cvXyoqVWZKjnE) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [IDWT](https://open.spotify.com/album/2MsqUhm5EJ5hKZmwiyg5kx) | 3:20 |
 | 57 | [Naoa](https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [V the Album](https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy) | 3:20 |
 | 58 | [Inatosha](https://open.spotify.com/track/5j5hhTlvg38VVgdvhu56n4) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Inatosha](https://open.spotify.com/album/0bcMmlUK2P3ASSY26wiPLy) | 4:07 |
-| 59 | [Fall](https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Fall](https://open.spotify.com/album/1lWUiNiSLTAm8VPTR13YL4) | 3:26 |
+| 59 | [Fall](https://open.spotify.com/track/0FIWGHovemqfGGQFu2z8Ed) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Fall](https://open.spotify.com/album/4lbAWl5b6osztxkmzLeCCb) | 3:26 |
 | 60 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 |
 | 61 | [Nimekuzoea](https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Nimekuzoea](https://open.spotify.com/album/0Hr25mTjVlrkNexp2CbKDc) | 2:43 |
 | 62 | [Komesha](https://open.spotify.com/track/2dkVYJdwNJJ3XHxLwbcfaG) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Promise](https://open.spotify.com/album/4CT3hQlman2OTpgiJMokQf) | 3:07 |
 | 63 | [Loyalty \(feat\. Marioo & Nandy\)](https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Slave Becomes A King](https://open.spotify.com/album/3ub6cQMUMtwMbX9zZMJ1jO) | 3:25 |
-| 64 | [For You](https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yale](https://open.spotify.com/album/6pfvSkYxXAJCvnL7zT8ueO) | 3:24 |
+| 64 | [For You](https://open.spotify.com/track/4CVrXgRl6AgcoJrXUGP6dZ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [For You](https://open.spotify.com/album/61LXZNptzJVcA8cfA1afhW) | 3:24 |
 | 65 | [Sweet \(feat\. Guchi\)](https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Sweet \(feat\. Guchi\)](https://open.spotify.com/album/1yEsOT4CfaR47lFXfXUcHJ) | 3:00 |
 | 66 | [Leo Leo](https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Leo Leo](https://open.spotify.com/album/5TmDMmHEW9pNDthQL6a13V) | 3:07 |
 | 67 | [I Don't Care](https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Don't Care](https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h) | 3:00 |
 | 68 | [Beer Tam](https://open.spotify.com/track/2YVBBDQoMn8oHrSysWWhla) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Abbah](https://open.spotify.com/artist/4hIkgBZ3paEVhtceKiMiBV), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO) | [Beer Tam](https://open.spotify.com/album/3sG9Yb7heI3k5qVWCgJvQZ) | 4:53 |
 | 69 | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/track/31MN3z8m1u2fcd5q1zWrV2) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Toroka \(feat\. Harmonize\)](https://open.spotify.com/album/4h0DfQ52UCckHUf4khRyGX) | 3:19 |
 
-Snapshot ID: `MTY1ODQ3Nzg0MywwMDAwMDA1YzAwMDAwMTgyMjRmYjk0MjkwMDAwMDE4MWQ5YzM4M2Fj`
+Snapshot ID: `MTY1ODQ3Nzg0MywwMDAwMDAwMDJmZDYyYjkzYWFhOTQxNGY0MjFlYWZhMzZjMDQyMjEw`

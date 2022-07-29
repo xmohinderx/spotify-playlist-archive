@@ -4,7 +4,7 @@
 
 > make it pop! cover: Mark Ambor
 
-339 songs - 17 hr 4 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+341 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,8 @@
 | [I Could Do This All Night](https://open.spotify.com/track/4MYVPz0rYU0jhT5HtFQni3) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [I Could Do This All Night](https://open.spotify.com/album/6TV5kVpf7hUVDhJ3lroF2V) | 3:08 | 2022-07-15 |  |
 | [I Don't Daydream Anymore](https://open.spotify.com/track/2urI2TKhLqK3o4hTR3i2R8) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [I Don't Daydream Anymore](https://open.spotify.com/album/4EJ9SaQoI47rBKnNhxRXMQ) | 3:44 | 2022-03-04 | 2022-04-29 |
 | [I Don't Like How Much I Like You](https://open.spotify.com/track/7nDYjp6n0BdOLBn3N3N4Jx) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [I Don't Like How Much I Like You](https://open.spotify.com/album/3ae8vmYLjucBzAXPn9VRsH) | 2:44 | 2021-11-19 | 2022-02-26 |
-| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2022-01-14 |  |
+| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-06-10 |  |
+| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-13 | 2022-07-23 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-10-29 | 2022-02-19 |
 | [i love u](https://open.spotify.com/track/4h83bb7xRzB7Qo735CjLMH) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [i love u](https://open.spotify.com/album/6f3F3cp9VVYCFKerzAp82n) | 2:43 | 2022-02-25 | 2022-03-12 |
@@ -261,7 +262,8 @@
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-01 | 2022-04-09 |
 | [Searching For The Light](https://open.spotify.com/track/0QVZBtrQavTRm7yqWFwm7n) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Searching For The Light](https://open.spotify.com/album/7GFUOjsy0ae2MH8YqNDR0O) | 3:07 | 2021-10-29 | 2022-01-08 |
 | [Semi Pro](https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Semi Pro](https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp) | 3:02 | 2021-12-03 | 2022-02-05 |
-| [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-20 |  |
+| [Settling](https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/6ZWVafX159Z2jQP3UW5PsR) | 3:08 | 2022-05-20 | 2022-07-29 |
+| [Settling](https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling](https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c) | 3:08 | 2022-06-10 |  |
 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 | 2022-07-22 |  |
 | [Shoe](https://open.spotify.com/track/37IMOr92pqfixF3XH87YS8) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Good Morning It's Now Tomorrow](https://open.spotify.com/album/4eyBviSES0CZjUaipdnHku) | 3:37 | 2022-05-27 | 2022-06-04 |
 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 | 2022-01-14 | 2022-03-12 |

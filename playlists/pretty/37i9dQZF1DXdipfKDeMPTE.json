@@ -1,12 +1,12 @@
 {
   "description": "Moody beats for sleepless nights.",
-  "num_followers": 112696,
+  "num_followers": 112729,
   "original_name": "Moonlight Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkxNTc0NywwMDAwMDA0OTAwMDAwMTgyM2YxNTc2NDkwMDAwMDE4MWRlNTRhNmZk",
+  "snapshot_id": "MTY1ODkxNTc0NywwMDAwMDAwMDY1ZTU2OTU2ZDcwZGU2ZWE0M2ExMjE1NjgwMDE3MGVm",
   "tracks": [
     {
       "added_at": "2022-07-27 09:55:47",
@@ -844,9 +844,13 @@
       "added_at": "2022-07-27 09:55:47",
       "album": {
         "name": "Ups and Downs",
-        "url": "https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI"
+        "url": "https://open.spotify.com/album/2E8lMpGLtsymJsFTWE0NIX"
       },
       "artists": [
+        {
+          "name": "Stardog Lofi",
+          "url": "https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU"
+        },
         {
           "name": "Tyler.l",
           "url": "https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic"
@@ -854,15 +858,11 @@
         {
           "name": "Andrew Kyrmpatsos",
           "url": "https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k"
-        },
-        {
-          "name": "Stardog Lofi",
-          "url": "https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU"
         }
       ],
       "duration_ms": 129054,
       "name": "Ups and Downs",
-      "url": "https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU"
+      "url": "https://open.spotify.com/track/5BA74NJ2labkPFbuB2lMDi"
     },
     {
       "added_at": "2022-07-27 09:55:47",

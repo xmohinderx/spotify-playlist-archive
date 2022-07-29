@@ -4,7 +4,7 @@
 
 > The newest, freshest R&B tunes\.  Cover: SZA & Doechii
 
-332 songs - 18 hr 8 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
+333 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-05-06 | 2022-06-25 |
 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-17 | 2022-02-08 |
 | [hurt \(feat\. Somni\)](https://open.spotify.com/track/03SQMh0CFBDYSrqmbk5hWH) | [Criibaby](https://open.spotify.com/artist/6gQzBYh1naIayoJA567ATQ), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [hurt](https://open.spotify.com/album/24Krp20zsgYBvpisHMRBLI) | 2:12 | 2022-06-10 | 2022-07-09 |
-| [i](https://open.spotify.com/track/7aWcVnsMmJ23ZfCO19YYyW) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:12 | 2022-07-15 |  |
+| [i](https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:12 | 2022-07-15 |  |
+| [i](https://open.spotify.com/track/7aWcVnsMmJ23ZfCO19YYyW) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:12 | 2022-07-15 | 2022-07-29 |
 | [I Can See The Future](https://open.spotify.com/track/0nmQwklag0P4BtyesFqstc) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:56 | 2022-03-04 | 2022-04-02 |
 | [I Do](https://open.spotify.com/track/0sUIWpfKKS7tVmthGQ5dtc) | [Nick Cannon](https://open.spotify.com/artist/480i0t8YiGc2aoOR6BeLAb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [The Explicit Tape: Raw & B](https://open.spotify.com/album/6eBsCryxtT5MspsXSkf8dM) | 2:57 | 2022-06-17 | 2022-07-16 |
 | [I Don't Wanna](https://open.spotify.com/track/30xoUvcCyCXeQBdu8QmrQF) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [I Don't Wanna](https://open.spotify.com/album/1hHhYr9cofmRR0mCpV6tDx) | 2:28 | 2021-12-17 | 2022-02-05 |

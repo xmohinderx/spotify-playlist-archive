@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Searows \| Visual Artist: Bailey Elder
 
-137 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
+138 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/4p9gFX9hA25IbWFzEcHGmF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Caterpillar](https://open.spotify.com/track/0hXfaaPKEVCsteJCkBD7ud) | [Julie Odell](https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R) | [Caterpillar](https://open.spotify.com/album/1S4hXkm2TcDtjQWWkkM3LY) | 5:18 | 2022-05-25 |  |
 | [change](https://open.spotify.com/track/0EvDzKDIwY5NkYWxzsOy3P) | [elkyn](https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM) | [holy spirit social club](https://open.spotify.com/album/5YMex9qqYgeG2xPvcyaxyx) | 3:06 | 2022-05-25 |  |
 | [Chloe](https://open.spotify.com/track/00N1bt6M23xVek6x28qPMq) | [Rossa Murray & the blowin' winds](https://open.spotify.com/artist/4M0FHorc9Coefb8RhmOey7) | [Chloe](https://open.spotify.com/album/1qn7pFUKW2bl9cYF1oV5gD) | 4:40 | 2022-05-25 |  |
-| [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 | 2022-05-25 |  |
+| [Clockwork](https://open.spotify.com/track/06MAgI9FF2nWUDoJSork3Z) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Clockwork](https://open.spotify.com/album/0UKHelKXNZsPdWNamldnb4) | 2:21 | 2022-05-25 | 2022-07-29 |
+| [Clockwork](https://open.spotify.com/track/3aSdRudIrqMCoa4teNQDRq) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:21 | 2022-07-20 |  |
 | [Cocaine Angel](https://open.spotify.com/track/2y13K9uWsgfqOItXO1fHyQ) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN) | [Cocaine Angel](https://open.spotify.com/album/0dfViZEtz1FHxk9HgwtZwV) | 2:21 | 2022-07-20 |  |
 | [Coop Running Through the Halls](https://open.spotify.com/track/5FszTomTWNyVVOGWwrLJX9) | [Jack M\. Senff](https://open.spotify.com/artist/4ZVwJlIgvmh6DTxPnf28x3) | [Low Spirit](https://open.spotify.com/album/0a807me7Pk3YZuTENtPnWo) | 3:08 | 2022-06-15 |  |
 | [Copilot](https://open.spotify.com/track/585vhTzFBQuUGui6SWULfp) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 4:47 | 2022-05-25 | 2022-06-30 |

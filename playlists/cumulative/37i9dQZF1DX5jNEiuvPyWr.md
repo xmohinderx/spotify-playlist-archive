@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Gianni
+> Le meilleur du rap français version cloud\. Photo : DMS
 
-52 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,14 +15,16 @@
 | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/track/6Rze4VVS34G8jyume7rIgj) | [Chinwvr](https://open.spotify.com/artist/0FO41jGlT3izLX7oULFUlr) | [C'est pas d'ma faute c'est l'mood](https://open.spotify.com/album/4Frq8x9BsYMkWmYi2sPSKO) | 3:39 | 2022-07-14 |  |
 | [Calciné](https://open.spotify.com/track/1FSDo0QfL9gQh32MxzqsZO) | [SLØW](https://open.spotify.com/artist/6jPpTPMBhULm8sukMmyrTW), [MPablo](https://open.spotify.com/artist/4Pmp4phME9ksNwnpPHumHU) | [Blizzard](https://open.spotify.com/album/49sFNtfB0KYvor4eL1yBJY) | 3:44 | 2022-07-14 |  |
 | [CAUCHEMAR](https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit) | 2:52 | 2022-07-14 |  |
-| [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 |  |
-| [Comme ça](https://open.spotify.com/track/1uBJsPHcyDfyg9wewkYUj7) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Comme ça](https://open.spotify.com/album/7GJ0cZpKrkJe8Kv52V2ur9) | 2:42 | 2022-07-14 |  |
+| [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 | 2022-07-29 |
+| [Comme ça](https://open.spotify.com/track/1uBJsPHcyDfyg9wewkYUj7) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Comme ça](https://open.spotify.com/album/7GJ0cZpKrkJe8Kv52V2ur9) | 2:42 | 2022-07-14 | 2022-07-29 |
+| [Comme ça](https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz) | [Le Club](https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ) | [Sans rancune](https://open.spotify.com/album/5mUSYIz36ISQy7PjJUHB2b) | 2:42 | 2022-07-28 |  |
 | [COMPLIQUÉ](https://open.spotify.com/track/0OTmlCY3Ufhkjl5pmtlZXt) | [Dehmo](https://open.spotify.com/artist/5oM4ylX9mgzyzDD6yYPUal) | [PŒTIC BENDO II](https://open.spotify.com/album/56VCAtiAOS6dDVfxuP8eeT) | 3:56 | 2022-07-14 |  |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 |  |
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 |  |
-| [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 |  |
+| [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 |  |
+| [DOPE & FLOW](https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [CITÉS D'OR](https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3) | 2:46 | 2022-07-14 | 2022-07-29 |
 | [Encre noire](https://open.spotify.com/track/0bk75qIrxgJ0FEGbgOzJUg) | [Seventiine](https://open.spotify.com/artist/6e8flkZ70WOzklwhYol7qA) | [Encre noire](https://open.spotify.com/album/3RVlLLK6BbaGeNZBCAaGjO) | 2:49 | 2022-07-21 |  |
-| [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 |  |
+| [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 | 2022-07-29 |
 | [Fauves](https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL) | [Couleur de ma peine](https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB) | 3:30 | 2022-07-14 |  |
 | [Fin heureuse](https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fin heureuse](https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12) | 2:43 | 2022-07-14 |  |
 | [GRENADE](https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [GRENADE](https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg) | 2:56 | 2022-07-14 |  |
@@ -51,14 +53,17 @@
 | [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 |  |
 | [PARADOXE](https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO) | [L’As](https://open.spotify.com/artist/3VTjgKLiBLDXWCigMpjFan), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [PARADOXE](https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh) | 3:35 | 2022-07-14 |  |
 | [Perdu](https://open.spotify.com/track/2YPxuRn3QTh4vQ6Qfh2EpG) | [GOYA](https://open.spotify.com/artist/2qq8zPVsSnIZqvmG09oFRr) | [Perdu](https://open.spotify.com/album/0TPzjKqIXdyoxIeSlmXA1y) | 3:32 | 2022-07-14 | 2022-07-22 |
-| [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 |  |
-| [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 |  |
-| [Pour bientôt](https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/5nujvuksXeAXd0y7d3MWxa) | 3:50 | 2022-07-14 |  |
+| [Piano Black](https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 4:04 | 2022-07-14 | 2022-07-29 |
+| [Piano Black](https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 4:05 | 2022-07-28 |  |
+| [Plus jeune](https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/0Vmsj0ANTL4CsFmXPHJadZ) | 3:23 | 2022-07-14 | 2022-07-29 |
+| [Plus jeune](https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [Restez Prince](https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs) | 3:25 | 2022-07-28 |  |
+| [Pour bientôt](https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/5nujvuksXeAXd0y7d3MWxa) | 3:50 | 2022-07-14 | 2022-07-29 |
+| [Pour bientôt](https://open.spotify.com/track/7ERxzmcy8blEDA1457Jjo7) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Clairobscur 1](https://open.spotify.com/album/0J4WGhxbLVpx4S4ep5KN2C) | 3:50 | 2022-07-28 |  |
 | [PÈLERINAGE](https://open.spotify.com/track/0tvP9GO0Rfr8ft3GU0aIGA) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [PÈLERINAGE](https://open.spotify.com/album/3SFxtJqFRhpFnfzu3LI7Ih) | 3:01 | 2022-07-14 |  |
 | [Regarde](https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [Regarde](https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY) | 3:22 | 2022-07-14 |  |
 | [SANS TOI](https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [EROSE](https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl) | 3:08 | 2022-07-14 |  |
 | [Schémas Monotones](https://open.spotify.com/track/6cQrLizVUnTNQz5hNdnmIV) | [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Schémas Monotones](https://open.spotify.com/album/6YZxi7O8YpLl1VIPZRS3zJ) | 2:26 | 2022-07-14 |  |
 | [Tapion](https://open.spotify.com/track/2vHzw04q8IL0wRKJmBDocw) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Tapion](https://open.spotify.com/album/0aOEqCwX0R9fr9vpdXIdEA) | 3:17 | 2022-07-14 |  |
-| [¥2S °6 : ZLM](https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [¥2S °6 : ZLM](https://open.spotify.com/album/0lJUtwW9eGdcbJYswcujWa) | 2:14 | 2022-07-14 |  |
+| [¥2S °6 : ZLM](https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [¥2S °6 : ZLM](https://open.spotify.com/album/0lJUtwW9eGdcbJYswcujWa) | 2:14 | 2022-07-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-07-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,551 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 34 | [جايي لك](https://open.spotify.com/track/5O2M4jyybgemMnEycvY0d7) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [جايي لك](https://open.spotify.com/album/2QrMIPEdF4w9TBiaGBGio7) | 3:16 |
 | 35 | [كوني](https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk) | [Oma](https://open.spotify.com/artist/0m0lZ1flHVDnhBWMAaZ9OD) | [كوني](https://open.spotify.com/album/1TAeZ2WnLp3PRhFLpO3ETs) | 2:53 |
 | 36 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 |
-| 37 | [3abali](https://open.spotify.com/track/5IfQ6aRrUAAZvR0in4uoyA) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Amygdala \- EP](https://open.spotify.com/album/5Qo3Ex6JhkUf9W8LaiMa31) | 3:21 |
+| 37 | [3abali](https://open.spotify.com/track/11Eb5dyeLaWfBgo9CuUhCO) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8), [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Amygdala](https://open.spotify.com/album/1cOXVnqOJwaUSmVQ6FIM8H) | 3:21 |
 | 38 | [Hawelna Keter](https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [Hawelna Keter](https://open.spotify.com/album/4qFvAkgf4FfCDKZvOV8JLn) | 4:17 |
 | 39 | [Drama](https://open.spotify.com/track/3d4Tcv2Cjq51lPoTTU6dse) | [Alaa Al Hendi](https://open.spotify.com/artist/6r7at5fcu4jX0fRlZEyOxn) | [Drama](https://open.spotify.com/album/5rONkE94pV9zuGG7eiYjmg) | 3:12 |
 | 40 | [Met3ala2 Beeky](https://open.spotify.com/track/5HS17JQ7GlTOZrensjIbNO) | [Ahmed El Ruby](https://open.spotify.com/artist/4bYHqS5oBc6Jk8LfjbbWTf) | [Met3ala2 Beeky](https://open.spotify.com/album/6l9K0N3YqtarzoeDyyWwh7) | 3:20 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 56 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 |
 | 57 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 |
 | 58 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 |
-| 59 | [Yjeek Youm](https://open.spotify.com/track/0na0JDk8c1wQhUjnotuJRu) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2udasZn8HgsRRuvL4A4mYy) | 3:36 |
+| 59 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 |
 | 60 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 3:15 |
 
-Snapshot ID: `MTY1ODQwNjY3MiwwMDAwMDAxOTAwMDAwMTgyMjBiZDk4YmIwMDAwMDE4MTZiNzI0ZWQx`
+Snapshot ID: `MTY1ODQwNjY3MiwwMDAwMDAwMGNiZTg4ZGIxOTg1MmZhNmI3MTA2MGQ2NjFkNDhjNjkx`

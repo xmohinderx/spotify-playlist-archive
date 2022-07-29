@@ -410,6 +410,28 @@
     },
     {
       "album": {
+        "name": "Brooklyn 94",
+        "url": "https://open.spotify.com/album/4qXEssOIyUDixW8ZAr0sGu"
+      },
+      "artists": [
+        {
+          "name": "7&Nine",
+          "url": "https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy"
+        },
+        {
+          "name": "Chill Moon Music",
+          "url": "https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100534,
+      "name": "Brooklyn 94",
+      "url": "https://open.spotify.com/track/4VRvLwyrBPJOxVqCj8ckvI"
+    },
+    {
+      "album": {
         "name": "Caminos",
         "url": "https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n"
       },
@@ -1375,10 +1397,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 84652,
       "name": "Ingleside",
       "url": "https://open.spotify.com/track/0S93H7eyA5mCZdjrZAk85p"
+    },
+    {
+      "album": {
+        "name": "Collection II",
+        "url": "https://open.spotify.com/album/6xjbfA7URpzEV1Po9eTAWB"
+      },
+      "artists": [
+        {
+          "name": "90sFlav",
+          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84652,
+      "name": "Ingleside",
+      "url": "https://open.spotify.com/track/1KQ1qJeoAPzgpQbLTAiceE"
     },
     {
       "album": {
@@ -1437,6 +1477,24 @@
     {
       "album": {
         "name": "Fat Beats, Vol. 2",
+        "url": "https://open.spotify.com/album/5geBONEqSAfDQnusDZNfqw"
+      },
+      "artists": [
+        {
+          "name": "CVPELLV",
+          "url": "https://open.spotify.com/artist/4SFBADSs8CVFY8w44Ti16o"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96072,
+      "name": "Itchy Trigger Finger",
+      "url": "https://open.spotify.com/track/5TSkyDqVJqpxPYit0lZqhg"
+    },
+    {
+      "album": {
+        "name": "Fat Beats, Vol. 2",
         "url": "https://open.spotify.com/album/2o13OgHSSDgnqKQdzhiPXA"
       },
       "artists": [
@@ -1447,7 +1505,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 96072,
       "name": "Itchy Trigger Finger",
       "url": "https://open.spotify.com/track/6PkCrsCV8wWJDSP9XcEdjC"
@@ -1589,6 +1647,24 @@
       "duration_ms": 128808,
       "name": "Key Credit",
       "url": "https://open.spotify.com/track/0dcNLhcMbcFd1eduLDNuNT"
+    },
+    {
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH"
+      },
+      "artists": [
+        {
+          "name": "Sineg",
+          "url": "https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187355,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk"
     },
     {
       "album": {
@@ -2841,10 +2917,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 92897,
       "name": "Trillest",
       "url": "https://open.spotify.com/track/2PmHbcDaBmWr3OmoD09vTd"
+    },
+    {
+      "album": {
+        "name": "Playground Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/24zPccDEE0hf9WTA7oE6eA"
+      },
+      "artists": [
+        {
+          "name": "isaintjames",
+          "url": "https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92897,
+      "name": "Trillest",
+      "url": "https://open.spotify.com/track/5b55DpeadBEClX3VLhaB8d"
     },
     {
       "album": {

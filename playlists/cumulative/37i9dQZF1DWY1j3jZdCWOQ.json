@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "10 Things I Hate About You",
+        "url": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6"
+      },
+      "artists": [
+        {
+          "name": "Leah Kate",
+          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157138,
+      "name": "10 Things I Hate About You",
+      "url": "https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH"
+    },
+    {
+      "album": {
         "name": "A Hangover You Don't Deserve",
         "url": "https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-30",
+      "date_removed": null,
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 212293,
       "name": "Animal",
       "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "Animal I Have Become",
       "url": "https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199341,
       "name": "Beachboy",
       "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267466,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK"
@@ -621,10 +639,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154666,
       "name": "Bubblegum Bitch",
       "url": "https://open.spotify.com/track/0ZFBKLOZLIM16RAUb5eomN"
+    },
+    {
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Bubblegum Bitch",
+      "url": "https://open.spotify.com/track/6IbnUaczZBT34DhaD6S18F"
     },
     {
       "album": {
@@ -639,7 +675,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177626,
       "name": "Candy Coated Lie$",
       "url": "https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh"
@@ -704,6 +740,24 @@
     },
     {
       "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220146,
+      "name": "Check Yes, Juliet",
+      "url": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
+    },
+    {
+      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -751,7 +805,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183992,
       "name": "Cigarette Ahegao",
       "url": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF"
@@ -877,7 +931,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197301,
       "name": "death wish",
       "url": "https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF"
@@ -1153,7 +1207,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
@@ -1189,7 +1243,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199840,
       "name": "Freaking Out",
       "url": "https://open.spotify.com/track/2uvTqA4hY5Tsqgeu6iTTO2"
@@ -1225,7 +1279,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127339,
       "name": "FUCKBOI REJECTS",
       "url": "https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr"
@@ -1337,7 +1391,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215402,
       "name": "Good Girls (Don\u2019t Get Used)",
       "url": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
@@ -1601,7 +1655,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 177582,
       "name": "i hope ur miserable until ur dead",
       "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
@@ -1637,7 +1691,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
@@ -1663,7 +1717,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 169397,
       "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
       "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
@@ -1681,7 +1735,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157440,
       "name": "I Threw Glass at My Friend's Eyes and Now I'm on Probation",
       "url": "https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE"
@@ -1735,7 +1789,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-12",
+      "date_removed": null,
       "duration_ms": 198333,
       "name": "I'm Just a Kid",
       "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
@@ -1771,7 +1825,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
@@ -1861,7 +1915,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 209200,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7"
@@ -1919,7 +1973,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-01",
+      "date_removed": null,
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
@@ -2009,7 +2063,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150733,
       "name": "LIFE'S A BIT",
       "url": "https://open.spotify.com/track/17r3SCcSZ9EVohyGJbnMCq"
@@ -2045,7 +2099,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202319,
       "name": "Lotta True Crime",
       "url": "https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY"
@@ -2125,6 +2179,28 @@
       "duration_ms": 170133,
       "name": "maybe (feat. Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7"
+    },
+    {
+      "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "maybe (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
     },
     {
       "album": {
@@ -2319,7 +2395,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 105351,
       "name": "My Mother Wants Me Dead",
       "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
@@ -2355,7 +2431,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164211,
       "name": "NEVER FUCKIN KNOW",
       "url": "https://open.spotify.com/track/4j0x1Io7KDUB81LrssaPRg"
@@ -2467,7 +2543,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
@@ -2503,7 +2579,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142765,
       "name": "People I Don't Like",
       "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
@@ -2557,7 +2633,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186902,
       "name": "please put me in a medically induced coma",
       "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
@@ -2741,7 +2817,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179556,
       "name": "Rough",
       "url": "https://open.spotify.com/track/4lalLstnInAdtSWUpOumhn"
@@ -2777,7 +2853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Scotty Doesn't Know",
       "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
@@ -2860,6 +2936,24 @@
     },
     {
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+    },
+    {
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/34lnwhjUmMRr9lyu3be5VC"
       },
@@ -2889,7 +2983,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 195747,
       "name": "sTraNgeRs",
       "url": "https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ"
@@ -3001,7 +3095,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 175093,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
@@ -3073,7 +3167,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 218786,
       "name": "The Drug In Me Is You",
       "url": "https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj"
@@ -3109,10 +3203,46 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/0dQVYG5kXtmlDi9haVuQ6T"
+    },
+    {
+      "album": {
+        "name": "Boys Like Girls",
+        "url": "https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj"
+      },
+      "artists": [
+        {
+          "name": "Boys Like Girls",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm"
+    },
+    {
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "album": {
@@ -3199,7 +3329,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
@@ -3235,7 +3365,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162577,
       "name": "Turbulent",
       "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
@@ -3253,10 +3383,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
+    },
+    {
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L"
     },
     {
       "album": {
@@ -3379,7 +3527,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 220706,
       "name": "What the Hell",
       "url": "https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo"
@@ -3527,7 +3675,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177760,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
@@ -3545,7 +3693,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186559,
       "name": "You Are Going to Hate This",
       "url": "https://open.spotify.com/track/4upw9RT8Cs96EQhCuoNryV"
@@ -3563,7 +3711,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195951,
       "name": "You Stupid Bitch",
       "url": "https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH"
@@ -3581,7 +3729,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"

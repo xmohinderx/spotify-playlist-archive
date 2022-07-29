@@ -929,10 +929,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149647,
       "name": "ESA BABY",
       "url": "https://open.spotify.com/track/5IVQKv9TK2morkPpy3rqLD"
+    },
+    {
+      "album": {
+        "name": "Dulce",
+        "url": "https://open.spotify.com/album/3IVOd1dsyTs08Pd3mh9Fnd"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cortez",
+          "url": "https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "Esa Baby",
+      "url": "https://open.spotify.com/track/5asWoAwtYbem833C829Y6k"
     },
     {
       "album": {
@@ -2383,7 +2401,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137621,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/5LDbt6EZgm5cyph6bNq3e6"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Riri",
       "url": "https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU"

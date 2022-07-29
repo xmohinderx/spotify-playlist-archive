@@ -4,7 +4,7 @@
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: Tabitha
 
-72 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
+76 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2021-12-10 |  |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-03 | 2022-06-17 |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-12-10 |  |
-| [Head On The Block](https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/23qrC1VsWOSP2USqSLHZ4m) | 2:26 | 2022-07-14 |  |
+| [Head On The Block](https://open.spotify.com/track/0XCoLBUd9ogoPbEpRlcu2J) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/2wlgFeYBZGJGsVkeFnpdHp) | 2:26 | 2022-07-14 |  |
+| [Head On The Block](https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [red](https://open.spotify.com/album/23qrC1VsWOSP2USqSLHZ4m) | 2:26 | 2022-07-14 | 2022-07-29 |
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2021-12-10 | 2022-04-29 |
 | [Iced Out](https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Iced Out](https://open.spotify.com/album/5zFLy61k07leoBrxjNbjKE) | 3:01 | 2022-07-07 |  |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-10 | 2022-03-12 |
@@ -50,8 +51,10 @@
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2021-12-10 | 2022-03-04 |
 | [Niemandsland](https://open.spotify.com/track/6HhIYDdrEDrop9DysAOdma) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Niemandsland](https://open.spotify.com/album/2MEH4QZXoKYJIKMHv1c4Xi) | 3:02 | 2021-12-10 | 2022-03-12 |
 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-01-24 | 2022-06-17 |
-| [Numbers Up](https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU) | 3:25 | 2021-12-10 |  |
-| [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-06 |  |
+| [Numbers Up](https://open.spotify.com/track/2rPcQeiLE5nYhuSFTUAdK0) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/3g6EiOXZ7PNeV3gpuuMjuh) | 3:25 | 2022-07-12 |  |
+| [Numbers Up](https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU) | 3:25 | 2021-12-10 | 2022-07-29 |
+| [Olivia](https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw) | 2:27 | 2022-07-12 |  |
+| [Olivia](https://open.spotify.com/track/5Hit62TgQpCUwIdsU3KV14) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Olivia](https://open.spotify.com/album/7KRMWbRSpFfyBqvkrHegWw) | 2:27 | 2022-06-06 | 2022-07-29 |
 | [Olé](https://open.spotify.com/track/6cTSInCxBcwkxzPkPWgeZa) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Olé](https://open.spotify.com/album/3Hb5IQlGre1L2S6VJf3ier) | 3:12 | 2021-12-10 |  |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-10 | 2022-06-17 |
 | [pocket locket](https://open.spotify.com/track/0SWVKG9dVSv0s1qdJKxp5c) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [parallel universe pt\. 1](https://open.spotify.com/album/4hKWAWw7dOBJvPiwghGWC5) | 3:08 | 2021-12-10 |  |
@@ -72,7 +75,8 @@
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-12-10 | 2022-06-17 |
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 |  |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-02-03 |  |
-| [What Goes, Let Go](https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/5rIh0IGTwv2Y7m10VnJb4k) | 4:34 | 2021-12-10 |  |
+| [What Goes, Let Go](https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/5rIh0IGTwv2Y7m10VnJb4k) | 4:34 | 2021-12-10 | 2022-07-29 |
+| [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 | 2022-07-12 |  |
 | [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 | 2022-02-10 |  |
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-06-16 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 |  |

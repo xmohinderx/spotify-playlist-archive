@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,317 likes - 143 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,422 likes - 143 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 142 | [Crown Chakra \- Asian Flute for Centering](https://open.spotify.com/track/0BK6O7XWuSGQTZPe2nJ4EW) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Chakra Healing \- Massage & Meditation: Tibetan Singing Bowls & Native Flute](https://open.spotify.com/album/7FWWljVBhFUQsc9pF8nkNa) | 5:12 |
 | 143 | [Green Hills](https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Green Hills](https://open.spotify.com/album/1DUHn8GY9yw3x6atGVnHtP) | 3:13 |
 
-Snapshot ID: `MTY1ODQ5ODQwMSwwMDAwMDAzNTAwMDAwMTgyMjYzNTQ0OTcwMDAwMDE4MjE2YjhhZTMx`
+Snapshot ID: `MTY1OTAxNzE5MywwMDAwMDAwMDliOTBmODY5MGQxOTczMGQxNWIzZTUyYmU0OWRmNWJl`

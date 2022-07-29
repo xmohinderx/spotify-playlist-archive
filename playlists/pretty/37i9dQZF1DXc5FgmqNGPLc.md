@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,875 likes - 82 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,889 likes - 82 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 42 | [Monaco \- Set 1 / Live From Cafe Bohemia/1956](https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [The Complete 'Round About Midnight At The Cafe Bohemia \(Live\)](https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0) | 5:38 |
 | 43 | [Out 'N' In \- live](https://open.spotify.com/track/77QDXNb6mor0iUdD3F9vcx) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Rudy Van Gelder](https://open.spotify.com/artist/0XMh2eSb9EmhFxqIKcFzKx) | [Joe Henderson In Japan](https://open.spotify.com/album/5aDmGHhMGNNGLtWz5WK67Q) | 9:05 |
 | 44 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 |
-| 45 | [Okonkole' Y Trompa \- Live in Japan 1982](https://open.spotify.com/track/1JTyErCbO6j5gPDSvJRJpg) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Twins Live In Japan 1982](https://open.spotify.com/album/77E3yGa6D6O5HJRuK90KyG) | 6:55 |
+| 45 | [Okonkole' Y Trompa \- Remastered](https://open.spotify.com/track/6P03MjTK2iTrkVBrGf1Qtd) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX) | [Smooth Jazz Hits](https://open.spotify.com/album/3PmD3OrZ0yYdvyslH6VkUz) | 7:04 |
 | 46 | [Straight, No Chaser \- Live](https://open.spotify.com/track/1DkanoZx9FPP09j977x5ch) | [Miles Davis Sextet](https://open.spotify.com/artist/1i4ed4I1y7YerI0fQV4lVc) | [Miles and Monk at Newport \(Live\)](https://open.spotify.com/album/4bBbkwePNn99UrJrSNIs1L) | 8:46 |
 | 47 | [Juan](https://open.spotify.com/track/1q3Z0ZRmjLK32PvTFT9u2P) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [The Wynton Marsalis Quartet Live At Blues Alley](https://open.spotify.com/album/1LPznJ8gbsnXp3kWdMm9wd) | 7:33 |
 | 48 | [Poinciana \- Live At The Pershing, Chicago, 1958](https://open.spotify.com/track/19CKYnx17KtyWRtmCa5tMf) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [Ahmad Jamal At The Pershing: But Not For Me](https://open.spotify.com/album/3nUwuIFxJid3GQo8c4F6HY) | 8:08 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 60 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 |
 | 61 | [The Prophet \- Live](https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Eric Dolphy At The Five Spot \- Vol\. 1](https://open.spotify.com/album/2QmssU0RNrWDa0YIJwDcb7) | 21:25 |
 | 62 | [Mediterranean Sundance / Rio Ancho \- Live at Warfield Theatre, San Francisco, CA \- December 1980](https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Friday Night In San Francisco](https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT) | 11:31 |
-| 63 | [December in New York \- Live](https://open.spotify.com/track/5tfpp6qdEkDkYDbhxop5ah) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Live at Union Chapel](https://open.spotify.com/album/1F8kkZsV6ETDAwq0CIJeKu) | 5:16 |
+| 63 | [December in New York](https://open.spotify.com/track/3rXiWzhHkG5QPVyDQroix8) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Live at Union Chapel](https://open.spotify.com/album/4o85w82Kto6QbSKHTmBSRN) | 5:16 |
 | 64 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 |
 | 65 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 |
 | 66 | [Teach Me Tonight \- Original Edited Concert \- Live at Sunset School, Carmel\-by\-the\-Sea, CA, September 1955](https://open.spotify.com/track/32mkhw8UkqgsEiDhfz0r1n) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Concert By The Sea](https://open.spotify.com/album/6P8W18Qy0P2vreXHoEeVQL) | 3:44 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 81 | [Sweet Georgia Brown \(Live\)](https://open.spotify.com/track/6ptWwk9T4s1CBWNRV1w975) | [Anat Cohen](https://open.spotify.com/artist/64uVMGwRMxvNbymPIveiZH), [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Clarinetwork: Live at the Village Vanguard](https://open.spotify.com/album/3brnYanZeSKFMtx9JGuqaf) | 7:25 |
 | 82 | [Air Pakistan](https://open.spotify.com/track/3KuhFmxiL8cbFdJs8LobPk) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Live](https://open.spotify.com/album/7EpgY8SeCWDsNAN9rZTOUb) | 9:41 |
 
-Snapshot ID: `MTY1NzI1MjkyMCwwMDAwMDAxYTAwMDAwMTgxZGJmOGJiYjAwMDAwMDE3ZDlhNmU1YTBj`
+Snapshot ID: `MTY1NzI1MjkyMCwwMDAwMDAwMDM4OTNhYTgzMjIwMGFiM2JjMTE2NjQ4ODdkMDQ2OGFh`

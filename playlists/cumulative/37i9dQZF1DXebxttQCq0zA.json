@@ -1449,10 +1449,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141041,
       "name": "Finist\u00e8re",
       "url": "https://open.spotify.com/track/0Qp6bdPb0XxwGCW2TDzL9d"
+    },
+    {
+      "album": {
+        "name": "Finist\u00e8re",
+        "url": "https://open.spotify.com/album/39MfK6NqI34RT34rwvHn2I"
+      },
+      "artists": [
+        {
+          "name": "xerLK",
+          "url": "https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141041,
+      "name": "Finist\u00e8re",
+      "url": "https://open.spotify.com/track/14eatj3LOOiVomamOwczLf"
     },
     {
       "album": {
@@ -1475,6 +1493,24 @@
     {
       "album": {
         "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Fragments Cafe\u0301",
+      "url": "https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
         "url": "https://open.spotify.com/album/71Ao0d8AcoKZdzOFhZzScO"
       },
       "artists": [
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234666,
       "name": "Fragments Cafe\u0301",
       "url": "https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0"
@@ -2429,6 +2465,24 @@
     {
       "album": {
         "name": "Dream Helpers",
+        "url": "https://open.spotify.com/album/06NLTkcv0jd2VU5nJ9BvYx"
+      },
+      "artists": [
+        {
+          "name": "Spirits Of Our Dreams",
+          "url": "https://open.spotify.com/artist/2RmEoDzAVo3AKLolGZ1Uss"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124864,
+      "name": "Moving Silence",
+      "url": "https://open.spotify.com/track/1hk4wGfZMRqmfUzaPtQQL9"
+    },
+    {
+      "album": {
+        "name": "Dream Helpers",
         "url": "https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW"
       },
       "artists": [
@@ -2439,7 +2493,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125078,
       "name": "Moving Silence",
       "url": "https://open.spotify.com/track/08Mk6wrJu3giNbV2oy6Vv8"
@@ -2691,10 +2745,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142498,
       "name": "Our Secret Universe",
       "url": "https://open.spotify.com/track/5IIZnkPmHE3Kpa5mptrKVD"
+    },
+    {
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Our Secret Universe",
+      "url": "https://open.spotify.com/track/7smnas9qQmvVSiGID6ZNRt"
     },
     {
       "album": {
@@ -2727,10 +2799,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146483,
       "name": "Owls",
       "url": "https://open.spotify.com/track/42CQUucCi6h2gHB5BQfSbb"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/217hUO8Iila5lozKvwmElh"
+      },
+      "artists": [
+        {
+          "name": "Ebb & Flod",
+          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146483,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/6PVUZBg7qJv94rC8EoWXrL"
     },
     {
       "album": {
@@ -2950,6 +3040,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83"
+      },
+      "artists": [
+        {
+          "name": "Enzo",
+          "url": "https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191632,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/28xGur60VKWbXN0xO53r28"
+    },
+    {
+      "album": {
         "name": "Far & Away",
         "url": "https://open.spotify.com/album/3nKaL2gpdF60hvUKfMBOBZ"
       },
@@ -2961,7 +3069,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191632,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/4E0yiWum59pIWFOYhMSmH1"
@@ -3825,10 +3933,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192793,
       "name": "Threads",
       "url": "https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/217hUO8Iila5lozKvwmElh"
+      },
+      "artists": [
+        {
+          "name": "Ebb & Flod",
+          "url": "https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192793,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0"
     },
     {
       "album": {
@@ -3915,10 +4041,28 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186000,
       "name": "Tomorrow Will Save Us",
       "url": "https://open.spotify.com/track/1veAhdOE3JSQIAFfXlPHa6"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Will Save Us",
+        "url": "https://open.spotify.com/album/7GQ5hOaFFAcwBhJqSCZCCC"
+      },
+      "artists": [
+        {
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Tomorrow Will Save Us",
+      "url": "https://open.spotify.com/track/4QqwpUpSkt7WsljQxDAKda"
     },
     {
       "album": {

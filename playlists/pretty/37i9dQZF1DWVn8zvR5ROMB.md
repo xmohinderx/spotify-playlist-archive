@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Cover: Jon Pardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,205 likes - 41 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,482 likes - 41 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 40 | [County Roads \- Live At The Basement East](https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/7wrvsCtkqd3jh8qAkR5773) | 3:30 |
 | 41 | [You In A Honky Tonk \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/4gAjEyTsKIdc38HUVGJv4k) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Live at Brooklyn Bowl Nashville](https://open.spotify.com/album/3s5C5x17UMwQ3WE0nsS6af) | 2:56 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDE4NTAwMDAwMTgyMjQwZmVlZmUwMDAwMDE4MjIzMzBlNDVm`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDE4ZDY1NTgzMmYyMzcxNTk1OGFkZTMyZDBlZmNmM2Qy`

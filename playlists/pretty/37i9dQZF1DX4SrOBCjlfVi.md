@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nardo Wick, Lil Uzi Vert, and Megan Thee Stallion\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,455 likes - 52 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,555 likes - 52 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 51 | [Don Julio](https://open.spotify.com/track/06SxEkpBBcjsoaB9woR7kQ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Don Julio](https://open.spotify.com/album/7LlaZNYJSASqBm7rNNsu41) | 2:29 |
 | 52 | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU) | 3:01 |
 
-Snapshot ID: `MTY1ODg2MTkxNSwwMDAwMDBmMDAwMDAwMTgyM2JlMDBlY2QwMDAwMDE4MjFjYWM1OTIz`
+Snapshot ID: `MTY1ODg2MTkxNSwwMDAwMDAwMDFmYTU3MWMxNzFiNGNmMWJmOWM1MDlhMzM2Y2EyMDZm`

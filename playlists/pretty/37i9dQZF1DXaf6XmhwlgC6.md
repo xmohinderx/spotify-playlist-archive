@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,957 likes - 87 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,994 likes - 87 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 31 | [Rent a New Place, Everything Could Change](https://open.spotify.com/track/42T8hyzch4rCR4UsDQ4TS6) | [Merz](https://open.spotify.com/artist/5OLpeoin9igrD2GR6CRkyp), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Dreams of Sleep and Wakes of Sound](https://open.spotify.com/album/203n39LZt0ktgcQ6mLWLoa) | 5:45 |
 | 32 | [ouma](https://open.spotify.com/track/0WRbfmpoYdrlMRv4BmJcPS) | [Fall Ball](https://open.spotify.com/artist/4fuQaoYKyoJhGu6Vabhrv3) | [ouma](https://open.spotify.com/album/4WrX59hznwV9m58GN5J4EZ) | 2:57 |
 | 33 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 |
-| 34 | [Runeii](https://open.spotify.com/track/1nwGXWalB0Ls4Jm4mGUYkp) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 4:58 |
+| 34 | [Runeii](https://open.spotify.com/track/4ADboMaZ1PMfK4Np69Zb4K) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 4:57 |
 | 35 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 |
 | 36 | [Western Wishes Intro](https://open.spotify.com/track/476KeGkyl75OZKcHqRZPvf) | [Boxhead Ensemble](https://open.spotify.com/artist/516tPEDcawc8UNGdFZmWZn) | [The Unseen Hand: Music for Documentary Film](https://open.spotify.com/album/3KHpM4lpSW949zzlf9TjPM) | 2:49 |
 | 37 | [Narrowed Down](https://open.spotify.com/track/6EancDMLEZXKyGvRWwmzWL) | [Elevated States](https://open.spotify.com/artist/7ylpJybZ4ixg9kzdnWBDQQ) | [Narrowed Down](https://open.spotify.com/album/4K2mMpyONR4MpBYbHBCe7T) | 3:03 |
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 56 | [line up](https://open.spotify.com/track/4RQFT3aZPjhuafwXNUnL6x) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [line up](https://open.spotify.com/album/1FzTPoHFZ0QDthxwSHCBgl) | 2:25 |
 | 57 | [When we go](https://open.spotify.com/track/0AREwUN0iRNPjQxYGQf9BP) | [NYMK](https://open.spotify.com/artist/49kckQu5DktnBTpPlsJTDA) | [When we go](https://open.spotify.com/album/2Rrba97lDOHXALfvZSpRx7) | 3:27 |
 | 58 | [Les Paul Sanitarium](https://open.spotify.com/track/3HZOYhBlwuAVKO9wxT66B1) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXI](https://open.spotify.com/album/2mIu9oDUCuMCdowK2ocHYt) | 1:57 |
-| 59 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 |
+| 59 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 |
 | 60 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 |
-| 61 | [The C In Certain](https://open.spotify.com/track/0ODPuMwahnYlaQpwgSnjtd) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/5OpO6CnNwj9uBUc3JaupAr) | 6:23 |
+| 61 | [The C In Certain](https://open.spotify.com/track/1rNqvHHH5PTpX2E7guUwbj) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [Creep Mission](https://open.spotify.com/album/07ZrOXMlp266UZ7QILUOFO) | 6:23 |
 | 62 | [Big Sleep](https://open.spotify.com/track/6ZEfWrG6f2LCm3gs03Ugsj) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Big Sleep](https://open.spotify.com/album/5sxwUVTxRO8Dh4mXj0MiMe) | 4:25 |
 | 63 | [Silver Moon Over Sleeping Steeples](https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 2:21 |
 | 64 | [Variation](https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk) | [Amplified Pieces](https://open.spotify.com/artist/3SkCH9mqHBodnNbNCIZKKI) | [Variation](https://open.spotify.com/album/4H5WDOqJRlOEwE05jFsxZs) | 3:31 |
-| 65 | [Up to Pizmo](https://open.spotify.com/track/2v2fB67bubipR2zP5zOO20) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed:: Content](https://open.spotify.com/album/7h1WlPlMEcgicPHkkUzmkV) | 6:21 |
+| 65 | [Up to Pizmo](https://open.spotify.com/track/7L14iI3eSCPPn239JIOyuC) | [Labradford](https://open.spotify.com/artist/6vxqO8B12AXOoETpxVSgH0) | [Fixed: : Context](https://open.spotify.com/album/2L7Xv6PUY3LZFjvCYJjQyd) | 6:20 |
 | 66 | [Undiscovered](https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Undiscovered](https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT) | 3:38 |
 | 67 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 |
 | 68 | [Just An Unkind Time](https://open.spotify.com/track/7cmSGCMt0V9C3junM4m29v) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Hold You Up](https://open.spotify.com/album/6Dd9ZLCztKoulxoSTGXBn4) | 5:02 |
@@ -83,12 +83,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 73 | [Forest Canvas](https://open.spotify.com/track/0Y67hBf8raOl4JYVvohHR2) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 3:59 |
 | 74 | [Riverside](https://open.spotify.com/track/02YiNo9Ltw4N1aIuf7u8c3) | [Wil Bolton](https://open.spotify.com/artist/63ANock0nMaF32m4e4U1Rt) | [Above The Neon Glow](https://open.spotify.com/album/4qDk81Z78TXyclmv3NSEBm) | 6:40 |
 | 75 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 |
-| 76 | [For Dinner… \- Remastered](https://open.spotify.com/track/6yBmGf0yUUWnKWefP1qsfg) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/5aCh5uldkBY1tInUgVhVO0) | 5:05 |
+| 76 | [For Dinner…](https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:05 |
 | 77 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 |
 | 78 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 |
 | 79 | [Small Hours](https://open.spotify.com/track/1sFh9LmPrsZarW5PqhOFD9) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [One World](https://open.spotify.com/album/78WlsSQKrX4suYf909Fcrm) | 8:45 |
 | 80 | [Ocean Flow Zither \- Mia Doi Todd Remix](https://open.spotify.com/track/09ppgcPGVtmFioqXjHIWJs) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Mia Doi Todd](https://open.spotify.com/artist/1r3efMZ0kcejkPKP8oQZzv) | [Sun Transformations](https://open.spotify.com/album/36tmFK2dtwsUrPWjsjnaEL) | 4:16 |
-| 81 | [Treefingers](https://open.spotify.com/track/4DPQvbgSM0IdX4O3HOACwL) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 3:42 |
+| 81 | [Treefingers](https://open.spotify.com/track/4LrfsgQ5AGouvH3PlxW2PC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:42 |
 | 82 | [Thinking About Thinking](https://open.spotify.com/track/4wRESAxmq6EiKtouyOb2hC) | [Laura Groves](https://open.spotify.com/artist/680a4iDO5tGb0Mb3IIcrVz) | [Thinking About Thinking](https://open.spotify.com/album/7BF0FWt9cJIoWFpQ8j5IZG) | 4:09 |
 | 83 | [The Real Devil](https://open.spotify.com/track/4cbMi6XGtpDQ8GsBlKXkqv) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [The World Is A House On Fire](https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J) | 5:36 |
 | 84 | [Make We Here Our Camp of Winter](https://open.spotify.com/track/6r4AmkZbvhorcU7gxpev3z) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3OrrYv7sHlX3Azpvak9w6w) | 5:42 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 86 | [Seven States Of Bliss](https://open.spotify.com/track/1dZczT24YixYv7YpIbY5eT) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Celestial Railroads](https://open.spotify.com/album/4ZVfELsVXfYfu39mpanZDh) | 4:39 |
 | 87 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MTY1Nzg5NDQwMywwMDAwMDAyNjAwMDAwMTgyMDIzNGZmOTAwMDAwMDE4MWFmMDg1N2Q4`
+Snapshot ID: `MTY1Nzg5NDQwMywwMDAwMDAwMDVkZDc0NjVjOWVjNWYyZTYyNjZhZTI0NzJhZGM0MGMw`

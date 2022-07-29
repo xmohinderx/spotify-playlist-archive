@@ -4,7 +4,7 @@
 
 > Yooo this is <a href="https://www.instagram.com/kaysan/?hl=en">FaZe Kaysan</a>, while I game, this is what I'm listening to.
 
-159 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
+160 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/0baera3LhxgyRhDcpAQcGW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Already Won \(feat\. Lil Durk\)](https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:32 | 2022-06-03 |  |
 | [At Me](https://open.spotify.com/track/1YN04xz1MVqlRp5Oltkl6i) | [KEVZOR](https://open.spotify.com/artist/6E3uQqu3tML9MKdzxrIE7I) | [At Me](https://open.spotify.com/album/0fMfmcbUoLoZTfY5yCv7Ji) | 2:15 | 2021-11-03 | 2022-02-19 |
 | [Aurora \(Steve Aoki Presents Ninja Attack\)](https://open.spotify.com/track/6mMkFGViRCPf1vvtHEc3JO) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ninja Attack](https://open.spotify.com/artist/0CtQ1tyXNhetEdGyhuqcF7) | [Aurora \(Steve Aoki Presents Ninja Attack\)](https://open.spotify.com/album/4rCyA9ZFw2evFXuWCqJraK) | 2:38 | 2022-02-18 | 2022-06-04 |
-| [Backseat Of The Rolls Truck](https://open.spotify.com/track/02klhHnYULKbtshTiSePOB) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Backseat Of The Rolls Truck](https://open.spotify.com/album/7v2uZkYs9mxYuAiHg7UZw8) | 2:35 | 2022-06-03 |  |
+| [Backseat Of The Rolls Truck](https://open.spotify.com/track/20rVROIRP6UR5npeFCT6eW) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:35 | 2022-06-13 |  |
+| [Backseat Of The Rolls Truck](https://open.spotify.com/track/02klhHnYULKbtshTiSePOB) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Backseat Of The Rolls Truck](https://open.spotify.com/album/7v2uZkYs9mxYuAiHg7UZw8) | 2:35 | 2022-06-03 | 2022-07-29 |
 | [Be Free \(feat\. Gallie Fisher\)](https://open.spotify.com/track/39LNfQZt8US6WBi87S4ZaT) | [Digital Skies](https://open.spotify.com/artist/6EFE76AqKXcTjs1f4ppNdX), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [Be Free \(feat\. Gallie Fisher\)](https://open.spotify.com/album/6B8yPJe83J9BaWLzYvobKw) | 3:28 | 2022-02-18 | 2022-06-04 |
 | [Believe In Me](https://open.spotify.com/track/6ZAbsMxZlLuTVr3lBsHYyf) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [Donkong](https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX) | [Believe In Me](https://open.spotify.com/album/1xzm0cUFtmU7WFsZrVx6vJ) | 3:11 | 2022-02-18 | 2022-06-04 |
 | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/track/79vHcg0q40NY8PZ6Oyf0pA) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Blastoff \(feat\. Juice Wrld & Trippie Redd\)](https://open.spotify.com/album/0YPVtDqEwrdXCD8TQgkEUd) | 2:54 | 2021-11-03 | 2022-02-19 |

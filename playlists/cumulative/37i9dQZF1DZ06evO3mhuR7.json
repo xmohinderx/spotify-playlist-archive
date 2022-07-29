@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 442217,
       "name": "A Huge Ever Growing Pulsating Brain That Rules From The Centre Of The Ultraworld : Loving You - Aubrey Mix Mk 11 By Jimmy Cauty & Dr. Alex Paterson",
       "url": "https://open.spotify.com/track/5JN6YQJWXMrwaDt43DNKXw"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 251057,
       "name": "Ball of Fire",
       "url": "https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 884200,
       "name": "God's Mirrorball",
       "url": "https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 253544,
       "name": "H. O. O",
       "url": "https://open.spotify.com/track/1dcKekvRNoO7tP1KwowdUQ"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 261141,
       "name": "Hold Me Upsetter",
       "url": "https://open.spotify.com/track/3bMR9NyBHxt1pZadTvGbRs"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244311,
       "name": "Man in the Moon",
       "url": "https://open.spotify.com/track/2IdEhAIOQS0T6d79DBaTr6"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-04",
+      "date_removed": null,
       "duration_ms": 399800,
       "name": "Molten Love",
       "url": "https://open.spotify.com/track/50d54uCsxATy9amaJTanTm"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 641533,
       "name": "Montagne D'Or (Der Gute Berg)",
       "url": "https://open.spotify.com/track/5DRapdJgelwzIP7wWcXWj1"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 834533,
       "name": "Occidental",
       "url": "https://open.spotify.com/track/7cTPTSaSWMpeL2Ea8gdAuF"
@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "Cydonia",
+        "url": "https://open.spotify.com/album/104kapJ0A7RBMaNKzL4oD6"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Promis",
+      "url": "https://open.spotify.com/track/43V7oxArZZrZZWDABM3FpX"
+    },
+    {
+      "album": {
         "name": "Okie Dokie It\u00b4s The Orb On Kompakt",
         "url": "https://open.spotify.com/album/3m3V6T3l7IczkqgMKy5QVI"
       },
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168749,
       "name": "Siren 33 (Orphee Mirror)",
       "url": "https://open.spotify.com/track/4KM94c8EBLbggsN37T7gfp"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 362234,
       "name": "Soulman",
       "url": "https://open.spotify.com/track/1RaWh6yydQyNMVjxhUwSWV"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 490573,
       "name": "Star 6 & 7 8 9",
       "url": "https://open.spotify.com/track/2rptpw6hQQ8YewzB2hKOrj"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 418560,
       "name": "Strong Man's Variations of a Camel Party",
       "url": "https://open.spotify.com/track/5Yxq6XoSEM0nPb1991W7Sn"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 716733,
       "name": "Super Nova At The End Of The Universe",
       "url": "https://open.spotify.com/track/1QOIvqLUacNvxOBAoA1cDJ"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283000,
       "name": "Switch on Leon",
       "url": "https://open.spotify.com/track/5YYjzjQKL32k7pqJmaJRQn"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 238398,
       "name": "The 10 Sultans Of Rudyard (Moo Moo Mix)",
       "url": "https://open.spotify.com/track/1LAQpdO8e6MvPpN6lCK0zK"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320000,
       "name": "Toi 1338b - Edit",
       "url": "https://open.spotify.com/track/5Cyl770vOUPdfxSTBPOdJ8"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 456066,
       "name": "Valley",
       "url": "https://open.spotify.com/track/06iL7u9ZQPKeQf0kMKoPBE"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 576600,
       "name": "White River Junction",
       "url": "https://open.spotify.com/track/1Cy8r0ylCPuFiljj7V7hMQ"

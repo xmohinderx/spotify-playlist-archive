@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-72 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+74 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,15 @@
 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 | 2021-11-12 |  |
 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 | 2021-11-12 |  |
 | [Pouca Pausa](https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Cortesia Da Casa](https://open.spotify.com/artist/4DdazUhIad0cymOHGifQO6), [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Pouca Pausa](https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1) | 4:39 | 2021-11-12 |  |
-| [Pra Praia](https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY) | 3:06 | 2021-11-12 |  |
+| [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 | 2022-06-24 |  |
+| [Pra Praia](https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Pra Você Ficar](https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Pra Você Ficar](https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl) | 2:40 | 2021-11-12 |  |
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2021-11-12 |  |
 | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8) | 4:05 | 2021-11-12 |  |
 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 | 2021-11-12 |  |
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 |  |
-| [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 |  |
+| [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |
+| [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |
 | [Sabe Qual É](https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe) | [Nathan](https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA) | [Sabe Qual É](https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd) | 2:30 | 2021-11-12 |  |
 | [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 |  |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2021-11-12 |  |

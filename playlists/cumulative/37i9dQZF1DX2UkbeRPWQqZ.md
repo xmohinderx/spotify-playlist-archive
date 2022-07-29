@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-105 songs - 3 hr 36 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+106 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Fade In To Dreams](https://open.spotify.com/track/4OB6kC727SMiIxVlN8iGQI) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Fade In To Dreams](https://open.spotify.com/album/5w8IVZyRXJayO37WcljsvO) | 2:56 | 2021-11-11 |  |
 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 | 2021-11-11 |  |
 | [Feathers](https://open.spotify.com/track/1e1Mm7eqfM9gUphsLADBDj) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Feathers](https://open.spotify.com/album/6VQ4YVvFlaavpopygw9eqz) | 1:17 | 2021-11-11 |  |
-| [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-11-11 |  |
+| [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-11-11 | 2022-07-29 |
+| [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-07-26 |  |
 | [Flowers For Mom](https://open.spotify.com/track/3FBAIOe82lMFTybK8eKjrA) | [Lauraine Rowe](https://open.spotify.com/artist/0hzimoZUHifb1Yn9TR0D6u) | [Flowers For Mom](https://open.spotify.com/album/4WP9Gl5uQTdlq1qZRLoW65) | 1:51 | 2021-11-11 |  |
 | [Girls And Boys Come Out To Play](https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Rainbow Connection](https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc) | 1:56 | 2022-01-21 |  |
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-11 |  |

@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 619715,
       "name": "A Cookie From Space",
       "url": "https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315766,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 460273,
       "name": "Another Dimension - Electric Universe Remix",
       "url": "https://open.spotify.com/track/1CWX1NxYcjUwbOqiNUBQ7A"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 440547,
       "name": "Around the Stars",
       "url": "https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
@@ -261,6 +261,46 @@
       "duration_ms": 140434,
       "name": "Babylonia",
       "url": "https://open.spotify.com/track/5TJAq4LbOtVs8jY8USwTPa"
+    },
+    {
+      "album": {
+        "name": "Back 2 Rave",
+        "url": "https://open.spotify.com/album/6TukxozNPkSu12iDmvOWNM"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190182,
+      "name": "Back 2 Rave",
+      "url": "https://open.spotify.com/track/4rTOQUiYpf0dZW51IvWkxd"
+    },
+    {
+      "album": {
+        "name": "Bansuri",
+        "url": "https://open.spotify.com/album/0rf8VJA0Omu4xXgwwUslir"
+      },
+      "artists": [
+        {
+          "name": "Electric Universe",
+          "url": "https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450206,
+      "name": "Bansuri",
+      "url": "https://open.spotify.com/track/5PTwd54TX8VWHOD2UgR32f"
     },
     {
       "album": {
@@ -423,7 +463,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252173,
       "name": "Buzzing",
       "url": "https://open.spotify.com/track/2OTiWzHcsCsRO9Ot3VdDmF"
@@ -477,7 +517,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 500281,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2iU4ZlFm68vUQ5u3Xd4lN3"
@@ -525,10 +565,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379994,
       "name": "Concussion - Richard Tanselli Club Dub",
       "url": "https://open.spotify.com/track/6YwlmScgyt5R9MWSRmq2q8"
+    },
+    {
+      "album": {
+        "name": "Concussion (Richard Tanselli Remixes)",
+        "url": "https://open.spotify.com/album/2rfO0LiWO0yhs0ENCE5tfQ"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Kent",
+          "url": "https://open.spotify.com/artist/2XLaVBSQKWqvaQprjWOSyp"
+        },
+        {
+          "name": "Richard Tanselli",
+          "url": "https://open.spotify.com/artist/7hXgKNe1G0JyXysay7awaV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379994,
+      "name": "Concussion - Richard Tanselli Remix",
+      "url": "https://open.spotify.com/track/3ydoePq5WEsUnCCIwKaPoE"
     },
     {
       "album": {
@@ -609,7 +671,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/1pmuzoDKupFOcxHkMzpsvY"
@@ -667,7 +729,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 388158,
       "name": "Dancin' On Me",
       "url": "https://open.spotify.com/track/249gmgGjdauLwoaGrhrDA0"
@@ -721,7 +783,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256000,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT"
@@ -827,7 +889,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 560571,
       "name": "Dusk Till Dawn",
       "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
@@ -867,7 +929,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 433043,
       "name": "End of a Government - 2019 Remix",
       "url": "https://open.spotify.com/track/5kElAiWCna42paMRY7ngZi"
@@ -885,7 +947,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 510000,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/7F8ACXtI6sU7dmYuBJJfrh"
@@ -903,7 +965,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 419130,
       "name": "Famous",
       "url": "https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0"
@@ -995,7 +1057,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 271448,
       "name": "Formula",
       "url": "https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW"
@@ -1013,10 +1075,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 448695,
       "name": "Fragments of Insanity",
       "url": "https://open.spotify.com/track/3ufcdGKKbcNZq2bZ183HiI"
+    },
+    {
+      "album": {
+        "name": "Confused Miracles",
+        "url": "https://open.spotify.com/album/4fCpDzJSNpYNsId0tNCadn"
+      },
+      "artists": [
+        {
+          "name": "Gaudium",
+          "url": "https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448695,
+      "name": "Fragments of Insanity",
+      "url": "https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3"
     },
     {
       "album": {
@@ -1083,7 +1163,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 435428,
       "name": "Frequency - Aura Vortex Remix",
       "url": "https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I"
@@ -1149,7 +1229,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 311101,
       "name": "Gayatri",
       "url": "https://open.spotify.com/track/0uETXz9EaPbQPgvHppOQYr"
@@ -1197,10 +1277,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251586,
       "name": "Go And Get It",
       "url": "https://open.spotify.com/track/5XDJepxre66jd5hKUXrk3u"
+    },
+    {
+      "album": {
+        "name": "Go and Get It",
+        "url": "https://open.spotify.com/album/3jxpgjPvKIfVj6yDFS7q6J"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Massivebass",
+          "url": "https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI"
+        },
+        {
+          "name": "Massivo",
+          "url": "https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251586,
+      "name": "Go and Get It",
+      "url": "https://open.spotify.com/track/68mHAuRNqFWBKVTxF1qtth"
     },
     {
       "album": {
@@ -1251,10 +1357,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 439190,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5dFXMKwmElFkdBXEII2HpR"
+    },
+    {
+      "album": {
+        "name": "Half Of It",
+        "url": "https://open.spotify.com/album/0meKTHM26wnyXCWRleNLhh"
+      },
+      "artists": [
+        {
+          "name": "Abraxis",
+          "url": "https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7"
+        },
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Dimibo",
+          "url": "https://open.spotify.com/artist/4s10B1BltDZ1heQIhTFs59"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Half Of It",
+      "url": "https://open.spotify.com/track/5qjj4GCSAEbnuqPGrWsNpT"
     },
     {
       "album": {
@@ -1291,7 +1423,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 214290,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6m8BCfpZIVikVsm5YKVQrC"
@@ -1313,7 +1445,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 573333,
       "name": "Heaven Eleven",
       "url": "https://open.spotify.com/track/2U3FOnuf7V4D5vcqgrZadj"
@@ -1375,7 +1507,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 377058,
       "name": "High Pressure",
       "url": "https://open.spotify.com/track/3RMouv8TGwWC1fVqehAIf7"
@@ -1451,7 +1583,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253500,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5GyZRuphTVUYfwdKgZAMJD"
@@ -1649,7 +1781,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254896,
       "name": "look into the mirror",
       "url": "https://open.spotify.com/track/1CN9SDbF4slNTJPVAcWzJa"
@@ -1744,6 +1876,54 @@
     },
     {
       "album": {
+        "name": "Meditatiohm",
+        "url": "https://open.spotify.com/album/4pS0TGMoSyifWzHBZyAnYY"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Major7",
+          "url": "https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V"
+        },
+        {
+          "name": "Rexalted",
+          "url": "https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346285,
+      "name": "Meditatiohm",
+      "url": "https://open.spotify.com/track/20Lvy05zDo3yJOA3nVp1uQ"
+    },
+    {
+      "album": {
+        "name": "Mind Is God - Single",
+        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
+      },
+      "artists": [
+        {
+          "name": "Space Tribe",
+          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
+        },
+        {
+          "name": "Mad Maxx",
+          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540000,
+      "name": "Mind Is God - Original Mix",
+      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/5bTj4TS8SQsL4t2ID7Gglr"
       },
@@ -1829,7 +2009,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189254,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0lFjo6mqV1VtP1T0XFc3Ng"
@@ -2071,7 +2251,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 521142,
       "name": "Out of the Blue - One Function Remix",
       "url": "https://open.spotify.com/track/7Iw7iKzQPu2sJoiWFwa2mu"
@@ -2115,10 +2295,32 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 326073,
       "name": "Pa Moru",
       "url": "https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI"
+    },
+    {
+      "album": {
+        "name": "Parallels",
+        "url": "https://open.spotify.com/album/5RsJYaaEgSqv7KbK81HDoe"
+      },
+      "artists": [
+        {
+          "name": "Day Din",
+          "url": "https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9"
+        },
+        {
+          "name": "Gaudium",
+          "url": "https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404317,
+      "name": "Parallels",
+      "url": "https://open.spotify.com/track/1yJ6dZFRecONfZHGnIrYru"
     },
     {
       "album": {
@@ -2137,7 +2339,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 404317,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/5c2vAbtzVOYtUq2wTz6cdA"
@@ -2181,7 +2383,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 407382,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
@@ -2251,7 +2453,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 454285,
       "name": "Psychedelic Doctor - Original Mix",
       "url": "https://open.spotify.com/track/4lEDVWeadQqpJElNbPMec1"
@@ -2269,7 +2471,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 368571,
       "name": "Psychedelic Inception",
       "url": "https://open.spotify.com/track/1yl8FxmVKpQ5JKn42kWyA6"
@@ -2353,6 +2555,28 @@
       "duration_ms": 252191,
       "name": "remote flow dynamics",
       "url": "https://open.spotify.com/track/1AR79Gd3IRhRIQgR1Od96Y"
+    },
+    {
+      "album": {
+        "name": "Riot",
+        "url": "https://open.spotify.com/album/7yVr8cUBPP4FC0yJpEzvSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171440,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/6ITJJfjs52aEB6MVbGcmzc"
     },
     {
       "album": {
@@ -2593,7 +2817,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334000,
       "name": "Silent",
       "url": "https://open.spotify.com/track/7s2Ao9oB7J4uRU9zJ2VGrP"
@@ -2641,7 +2865,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 501971,
       "name": "Snap",
       "url": "https://open.spotify.com/track/7aj4xtdZhFZW1kJ2TygT0C"
@@ -2707,7 +2931,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 329142,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0fFsHbbvN4HRu6XE2vrPyO"
@@ -2725,7 +2949,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 272350,
       "name": "Space",
       "url": "https://open.spotify.com/track/60P4NFoheamHGCvC1lDU2G"
@@ -2751,6 +2975,50 @@
       "duration_ms": 252087,
       "name": "Spaceland",
       "url": "https://open.spotify.com/track/2BFjJ43x7zFBwZoamrl0kb"
+    },
+    {
+      "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+    },
+    {
+      "album": {
+        "name": "STFD (Remix)",
+        "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "WHITENO1SE",
+          "url": "https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2"
+        },
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178206,
+      "name": "STFD (Remix)",
+      "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
     },
     {
       "album": {
@@ -2791,7 +3059,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 418285,
       "name": "Summer Never Ends",
       "url": "https://open.spotify.com/track/2TIPueGSHKcRuvsKf7VJmI"
@@ -2893,7 +3161,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 362608,
       "name": "The Blood - Abraxis Remix",
       "url": "https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2"
@@ -3065,7 +3333,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 308785,
       "name": "Threshold to Eternity",
       "url": "https://open.spotify.com/track/3jwTytbMyU02URPoexfyCy"
@@ -3193,6 +3461,28 @@
     {
       "album": {
         "name": "Viera",
+        "url": "https://open.spotify.com/album/0I1PNYIS289CGyTOOo4wug"
+      },
+      "artists": [
+        {
+          "name": "Stevie Melani",
+          "url": "https://open.spotify.com/artist/5V4bg7oqV1I1l6acHS18Qx"
+        },
+        {
+          "name": "Sousa",
+          "url": "https://open.spotify.com/artist/41HmpeBfYeKmfs7wL3qyHU"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "Viera",
+      "url": "https://open.spotify.com/track/121Qef9f4Fa2AKfsBLQWpW"
+    },
+    {
+      "album": {
+        "name": "Viera",
         "url": "https://open.spotify.com/album/3ZC3crqk6y2iwEugMpw54Z"
       },
       "artists": [
@@ -3207,7 +3497,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150909,
       "name": "Viera",
       "url": "https://open.spotify.com/track/1WLomcEjsvUCsjAnALioxF"
@@ -3225,7 +3515,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 178285,
       "name": "War of the Gods",
       "url": "https://open.spotify.com/track/2fSuULcE8VMeOHxBsXIy0d"
@@ -3365,7 +3655,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 427605,
       "name": "We are Psychedelic - GMS Remix",
       "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
@@ -3449,7 +3739,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 358285,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2hXlub5ZvPv7lUiQao52I5"
@@ -3467,7 +3757,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280026,
       "name": "YOLO (You Only Live Once)",
       "url": "https://open.spotify.com/track/6yvyvvVCSIU2ylpx9ud1Xj"
@@ -3529,7 +3819,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 390011,
       "name": "You Wanna Stay",
       "url": "https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh"
@@ -3547,7 +3837,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 406750,
       "name": "Yuma",
       "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"

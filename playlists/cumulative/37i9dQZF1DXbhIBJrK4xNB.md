@@ -4,7 +4,7 @@
 
 > A collection of Motown classics for the whole family.
 
-59 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/0la4NIXzJwCAFXOJTs9Tbe)
+60 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/0la4NIXzJwCAFXOJTs9Tbe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,10 @@
 | [Dancing On The Ceiling](https://open.spotify.com/track/6QueWxs5YJnRtqIdsH0EGR) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:35 | 2021-04-20 |  |
 | [Do You Love Me](https://open.spotify.com/track/4TuS29oERAnYEvokiCYUkI) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [NOW That's What I Call Motown](https://open.spotify.com/album/4oE29r8F2noxVV9VmzdIL4) | 2:53 | 2021-04-20 |  |
 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 | 2021-04-20 |  |
-| [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6OYlE1SrosD9Swah1Rxkdt) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK) | 3:38 | 2021-04-20 |  |
+| [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6OYlE1SrosD9Swah1Rxkdt) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/2e6N9mz4kFIR1sM9givKpK) | 3:38 | 2021-04-20 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 4:16 | 2021-04-20 |  |
-| [Endless Love](https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 4:25 | 2022-01-10 |  |
+| [Endless Love](https://open.spotify.com/track/4GBPZmnLHEMdthyo2RDolF) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 4:25 | 2022-01-10 | 2022-07-29 |
+| [Endless Love \- From "The Endless Love" Soundtrack](https://open.spotify.com/track/0rt0dZ11FVsvprbarag5tk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:28 | 2022-01-10 |  |
 | [Get Ready \- Single Version](https://open.spotify.com/track/5F6XsffCcDXwJmJXiuPRle) | [Rare Earth](https://open.spotify.com/artist/6eEsIl4wosvhuWI0mfXxAF) | [Fill Your Head: The Studio Albums 1969\-1974](https://open.spotify.com/album/4hQkBc4Nq3fOYpie0WhK2s) | 2:46 | 2021-04-20 |  |
 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 | 2021-04-20 |  |
 | [How Sweet It Is \(To Be Loved By You\)](https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [How Sweet It Is To Be Loved By You](https://open.spotify.com/album/1kYeM6oy6I8tK7668jM7Hw) | 2:57 | 2021-04-20 |  |

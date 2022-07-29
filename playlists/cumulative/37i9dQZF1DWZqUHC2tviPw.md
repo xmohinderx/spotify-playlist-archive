@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-144 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+147 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Life I Live](https://open.spotify.com/track/6HsVc3Q5pBMWEgAVI4vBia) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Sprinter](https://open.spotify.com/album/2d9dXXSS9PSMWOcMja9xgG) | 2:32 | 2022-04-22 |  |
 | [Loading](https://open.spotify.com/track/3WVicQ4glIQr9TzyfzAe97) | [Siu](https://open.spotify.com/artist/7ntLYl3u3vBksf8JJji0vp), [Ludde](https://open.spotify.com/artist/74doVqtsvgXzLMtNBzf7te) | [Loading](https://open.spotify.com/album/3hs2paejJDhVKam4LOf454) | 1:29 | 2022-06-17 |  |
 | [Locked On](https://open.spotify.com/track/5HwN0NUNhHstan9XrltELy) | [A P O L L O](https://open.spotify.com/artist/7iMNGur6r3uLndsrLSCpdU) | [Lost Dreams](https://open.spotify.com/album/0amb3h42QL9goRS9hm7j7l) | 2:39 | 2021-11-11 |  |
-| [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-11-11 |  |
+| [Lone Time](https://open.spotify.com/track/1Ps9RScxUuJMwdSeU2BaZk) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/1aUqLa76nEsc0GXWcPi3xw) | 3:50 | 2022-07-29 |  |
+| [Lone Time](https://open.spotify.com/track/4VLNtvBPryNoSAa4EA1pHG) | [Suhail Ahmad](https://open.spotify.com/artist/2ZpK8jtlu8EnNAZZnMyYLk) | [Lone Time](https://open.spotify.com/album/7w2GVmp5BY8pxCZSvcEiM3) | 3:50 | 2021-11-11 | 2022-07-29 |
 | [Long Way Back](https://open.spotify.com/track/01YRpfh6Tj63CB4vNvJ35J) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Step on Soil](https://open.spotify.com/album/27uH6NAoDw5sa0Us0QrHrO) | 2:39 | 2022-06-17 |  |
 | [Lowkey Vibes](https://open.spotify.com/track/1ggZHmCBAMFqj673h6jApl) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [Stole My Crown](https://open.spotify.com/album/5xNrBmPMd45A8VBkc4UBBS) | 2:57 | 2021-11-11 |  |
 | [Lunch Break](https://open.spotify.com/track/3MGkKTSuULSWZFdKgUqFG8) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [No Justice No Peace](https://open.spotify.com/album/5QOaH71IIS6PFIZlqhl6FD) | 2:59 | 2021-11-11 |  |
@@ -124,7 +125,8 @@
 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 | 2021-11-11 |  |
 | [Tenfold](https://open.spotify.com/track/0qAtNFoHtl9eeS4Ztkcy9u) | [Ray Ford](https://open.spotify.com/artist/4pl1vdN8xHWjo9PhTUeKFy) | [Tenfold](https://open.spotify.com/album/35ZmQNZr3vi2qq3CQF7cuW) | 2:24 | 2021-11-11 | 2022-04-22 |
 | [The Only Way Is Up](https://open.spotify.com/track/7rHuepPgmSd5rn5v5UvGIT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [The Only Way Is Up](https://open.spotify.com/album/69s27L8CloHAZCXvqgHdmi) | 3:41 | 2021-11-11 |  |
-| [The Other Side Of Existence](https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Context 4](https://open.spotify.com/album/3GvwwetLLw133FCVvRZW18) | 3:29 | 2021-11-11 |  |
+| [The Other Side Of Existence](https://open.spotify.com/track/55A3X6pEv4CdhGQ2rRS1IF) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [Context 4](https://open.spotify.com/album/3GvwwetLLw133FCVvRZW18) | 3:29 | 2021-11-11 | 2022-07-29 |
+| [The Other Side Of Existence](https://open.spotify.com/track/3F18almxaf6ifbx75o8YxW) | [Yuni Wa](https://open.spotify.com/artist/4RhG0qGKMzfWNdi4OM6obG) | [The Other Side Of Existence](https://open.spotify.com/album/6ITE6HEeLZNa7uh1GNqQtU) | 3:29 | 2022-07-29 |  |
 | [The Plug](https://open.spotify.com/track/5PAcIswNLJJoCgjDBnSyBQ) | [Calyps](https://open.spotify.com/artist/5rcAoYM8NZrlnPZES9S8KV) | [Welcome To Glory EP](https://open.spotify.com/album/0mpgOnBwkQUuFPLxQS98it) | 2:39 | 2022-04-08 |  |
 | [The Riddle of the Record](https://open.spotify.com/track/0RYIUB2SNWbr9CEEWL9tVW) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Soul Single Serenade](https://open.spotify.com/album/71zjHfvYVpew9IVpwXR5ve) | 2:18 | 2021-11-11 |  |
 | [The Waiting Room](https://open.spotify.com/track/13LIzPaFE1Qakaz7fIHy7N) | [Charley Hewits](https://open.spotify.com/artist/5OoQPrcf3KU2VKXC7zXR2o) | [The Waiting Room](https://open.spotify.com/album/6I32AysQxSNOVqDk6fuHI6) | 2:26 | 2021-11-11 |  |
@@ -136,7 +138,8 @@
 | [Took It Too Far](https://open.spotify.com/track/1B9mJ0e6rKVfUUi5nCvvim) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj) | [To The Factory](https://open.spotify.com/album/4nvHLzp2CInKEzvz8QTquQ) | 2:56 | 2021-11-11 |  |
 | [Top of the Line](https://open.spotify.com/track/0hozPW69A9O8m8SDSeeHRY) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Top of the Line](https://open.spotify.com/album/4YZJrAvoRBtb6KvektTwz0) | 2:46 | 2022-02-16 |  |
 | [Trap or Die](https://open.spotify.com/track/5usDXoiwAWVB3Ec0XoB9iG) | [narcotics](https://open.spotify.com/artist/6oaVSzY9kQxXhuRyDQ8B4N), [Bayram](https://open.spotify.com/artist/1GUr7nWTvDXwMWlngqx9Wb) | [Incognito](https://open.spotify.com/album/5Gu49xUPnxox2tRgqAra7F) | 3:10 | 2022-05-20 |  |
-| [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2021-11-11 |  |
+| [Trapped](https://open.spotify.com/track/0Z1dHxSujWwG84iW25NtEd) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/0o3NCtLP4nGD0qWjhioJcM) | 3:53 | 2021-11-11 | 2022-07-29 |
+| [Trapped](https://open.spotify.com/track/2REWMmkPCYbvxlKaIncUk6) | [Trill Beats Bangin'](https://open.spotify.com/artist/3lsqjedxoWGa4hFpzECSmi) | [Trapped](https://open.spotify.com/album/5Bn1qc91MUZO5U9dDh4bQb) | 3:53 | 2022-07-29 |  |
 | [Twenty Ten](https://open.spotify.com/track/6GfH6Y1L94563PL4sQxmzk) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Stadium Scam](https://open.spotify.com/album/4kTys2lZTk8hpIDkkcRL6F) | 2:31 | 2022-04-08 |  |
 | [Twisted](https://open.spotify.com/track/6sDk75o8Fm7a4YCVbyfWHF) | [RICE / DJ Bucket](https://open.spotify.com/artist/1qG9STeWScqJTttVvcxfsD) | [Twisted](https://open.spotify.com/album/5l9PPNh220r3rE0PJIDAhG) | 5:20 | 2021-11-11 |  |
 | [Unleashed](https://open.spotify.com/track/6OoCs6YivnKTUwZ2iLjOHi) | [HiveMind](https://open.spotify.com/artist/4J3kswR8gVfSE4sOIwNeLA) | [Unleashed](https://open.spotify.com/album/6wVqII9WsXzgC3GFgnjTu5) | 3:22 | 2021-11-11 |  |

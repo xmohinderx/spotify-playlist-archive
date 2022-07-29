@@ -1,29 +1,13 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 139539,
+  "num_followers": 140275,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MDg0MiwwMDAwMDA2MzAwMDAwMTgyMzFhZGIwYjQwMDAwMDE4MTI2MDVlZTdj",
+  "snapshot_id": "MTY1OTAyNjI3OCwwMDAwMDAwMDA1ODhiZDAzNDE0NDdhMTc5YzNjMTEwZDcwNjY1ZTcx",
   "tracks": [
-    {
-      "added_at": "2022-06-07 00:40:43",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
-    },
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
@@ -91,6 +75,22 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3"
+    },
+    {
+      "added_at": "2022-06-07 00:40:43",
+      "album": {
         "name": "Yes, Virginia",
         "url": "https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR"
       },
@@ -140,7 +140,7 @@
       "added_at": "2022-06-07 00:40:43",
       "album": {
         "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
       "artists": [
         {
@@ -150,7 +150,7 @@
       ],
       "duration_ms": 194165,
       "name": "R\u00e4t",
-      "url": "https://open.spotify.com/track/25z6kpmIwkCUqk2IORrJ5v"
+      "url": "https://open.spotify.com/track/4blPH3Uy89WnOnYlIv7Ev4"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -284,7 +284,7 @@
       "added_at": "2022-06-07 00:40:43",
       "album": {
         "name": "Public Void",
-        "url": "https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g"
+        "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
       "artists": [
         {
@@ -294,7 +294,7 @@
       ],
       "duration_ms": 252630,
       "name": "Feel Better",
-      "url": "https://open.spotify.com/track/6e0vjU61OuUzcqVKPEXHb4"
+      "url": "https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -435,30 +435,6 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
-        "name": "Heathers: The Musical (World Premiere Cast Recording)",
-        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
-      },
-      "artists": [
-        {
-          "name": "Ryan McCartan",
-          "url": "https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn"
-        },
-        {
-          "name": "Barrett Wilbert Weed",
-          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
-        },
-        {
-          "name": "Michelle Duffy",
-          "url": "https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Meant to Be Yours",
-      "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"
-    },
-    {
-      "added_at": "2022-06-07 00:40:43",
-      "album": {
         "name": "Pomplamoose Live",
         "url": "https://open.spotify.com/album/3dA0Ge9uyMIyGrUV2qQg50"
       },
@@ -571,8 +547,8 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
-        "name": "Inside (The Songs)",
-        "url": "https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3"
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
       },
       "artists": [
         {
@@ -582,7 +558,31 @@
       ],
       "duration_ms": 249428,
       "name": "Goodbye",
-      "url": "https://open.spotify.com/track/6tfPsgvkgbGHWGwq2PpzCI"
+      "url": "https://open.spotify.com/track/2ySaltE2swk0QsimILPK05"
+    },
+    {
+      "added_at": "2022-06-07 00:40:43",
+      "album": {
+        "name": "Heathers: The Musical (World Premiere Cast Recording)",
+        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
+      },
+      "artists": [
+        {
+          "name": "Ryan McCartan",
+          "url": "https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn"
+        },
+        {
+          "name": "Barrett Wilbert Weed",
+          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
+        },
+        {
+          "name": "Michelle Duffy",
+          "url": "https://open.spotify.com/artist/4KyX6IwYaHVTz4KSHtMJw0"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Meant to Be Yours",
+      "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -604,7 +604,7 @@
       "added_at": "2022-06-07 00:40:43",
       "album": {
         "name": "Butch 4 Butch",
-        "url": "https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC"
+        "url": "https://open.spotify.com/album/66kse7y7d7ycufUwpUr184"
       },
       "artists": [
         {
@@ -614,7 +614,7 @@
       ],
       "duration_ms": 178318,
       "name": "Butch 4 Butch",
-      "url": "https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK"
+      "url": "https://open.spotify.com/track/1ztwML7G0PytrYEUE0XTa1"
     },
     {
       "added_at": "2022-07-12 19:41:13",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
-        "name": "News At 9",
-        "url": "https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce"
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU"
       },
       "artists": [
         {
@@ -1014,7 +1014,7 @@
       ],
       "duration_ms": 193720,
       "name": "News At 9",
-      "url": "https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7"
+      "url": "https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2022-06-07 00:40:43",
       "album": {
-        "name": "Inside (The Songs)",
-        "url": "https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3"
+        "name": "INSIDE",
+        "url": "https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a"
       },
       "artists": [
         {
@@ -1062,7 +1062,7 @@
       ],
       "duration_ms": 302950,
       "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/3rV5y8rcQrwRt9fWGLmjOQ"
+      "url": "https://open.spotify.com/track/2Q6RiCAKOrxRYtvl9pcpjY"
     },
     {
       "added_at": "2022-06-07 00:40:43",
@@ -1184,7 +1184,7 @@
       "added_at": "2022-06-07 00:40:43",
       "album": {
         "name": "Mawce",
-        "url": "https://open.spotify.com/album/3oFi7F2V5tfDvhd07ixnNc"
+        "url": "https://open.spotify.com/album/4T4HBzxpLymOrndGcgwNC7"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/2xV9kLZH2pToABQfvwTqJx"
         }
       ],
-      "duration_ms": 182786,
+      "duration_ms": 182809,
       "name": "Mawce",
-      "url": "https://open.spotify.com/track/2cy5F36NoF5DihBkx0S3G7"
+      "url": "https://open.spotify.com/track/5zdhuWhl2JAGmfJ8lhaKzY"
     },
     {
       "added_at": "2022-06-07 00:40:43",

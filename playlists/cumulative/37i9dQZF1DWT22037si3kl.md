@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Salaga, Clara Lima
 
-108 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
+109 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Assault \(Carro Forte\)](https://open.spotify.com/track/7BwjZ1jy4B0ZyXTY4YQM9A) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP) | [Assault \(Carro Forte\)](https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO) | 5:04 | 2022-04-08 |  |
 | [Auge](https://open.spotify.com/track/4nR9sj1U7lLieKZ3vjv1kr) | [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Auge](https://open.spotify.com/album/1CxRmZrU24VERjcFy72EBF) | 3:33 | 2022-06-03 | 2022-06-11 |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-04-05 |  |
-| [Bandido Não Dança BB](https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu) | 2:13 | 2022-04-12 |  |
+| [Bandido Não Dança BB](https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC) | 2:13 | 2022-07-18 |  |
+| [Bandido Não Dança BB](https://open.spotify.com/track/57WYicG97oHBu0uJgd6u38) | [OG BEBEL](https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Bandido Não Dança BB](https://open.spotify.com/album/3DF7jgjk6GJP0zrAmp2HGu) | 2:13 | 2022-04-12 | 2022-07-29 |
 | [Black Money](https://open.spotify.com/track/2wacfAitU4g6zbwQoeszk4) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF), [Marreta](https://open.spotify.com/artist/0glk5tMutCR844wvAoFJ8J) | [Black Money](https://open.spotify.com/album/7yqp64q9Ylrh3iwU4YIlLV) | 2:48 | 2022-04-11 | 2022-04-19 |
 | [Burberry](https://open.spotify.com/track/6WUszwWJVz8CCtrTEOllSD) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5) | [Burberry](https://open.spotify.com/album/7FqQD9hlanh1SElgB38FtE) | 2:44 | 2022-04-15 | 2022-06-18 |
 | [Closet](https://open.spotify.com/track/1XRyaPfm8Y3Z3cX3Mzw04s) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Closet](https://open.spotify.com/album/6r89rNhNKEvGd6Uoviv5tJ) | 1:49 | 2022-07-01 |  |

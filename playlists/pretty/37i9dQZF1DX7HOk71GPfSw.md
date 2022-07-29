@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> belive the hype Cover: Alice Longyu Gao & Oli Sykes
+> believe the hype Cover: Alice Longyu Gao & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,546 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,711 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [mt fuji](https://open.spotify.com/track/35HGf3Vy2S83VOVE5ST4Gm) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [mt fuji](https://open.spotify.com/album/1csjl8kXXVuP5nzKwuqfMG) | 3:12 |
 | 100 | [Staring at the Ceiling](https://open.spotify.com/track/1vPRVC9OhWpLUFmHwUCziG) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Staring at the Ceiling](https://open.spotify.com/album/2pI8tzfUm19pAGtH3ZHfq5) | 3:43 |
 
-Snapshot ID: `MTY1ODY5MTEzNCwwMDAwMDE4NjAwMDAwMTgyMzFiMjI0OGYwMDAwMDE4MWI1ZjAwYzM4`
+Snapshot ID: `MTY1OTAyMTI0NSwwMDAwMDAwMGRhYTU2NTI3YjFiNDkwZGIwZjgzODFjMDg4YjMzMGVj`

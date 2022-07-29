@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Extraordinary Attorney Woo \(이상한 변호사 우영우\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,449,797 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,450,254 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 21 | [Unknown World \(Prod\. by Nam Hye Seung\)](https://open.spotify.com/track/6EQpKimgfteh1hQwMfzJKC) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/41gG0EPC1j5qBhA1OeNbCT) | 2:08 |
 | 22 | [Ghost Buster](https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d) | [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Minamdang \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i) | 3:00 |
 | 23 | [Christmas Tree](https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l) | 3:29 |
-| 24 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 |
+| 24 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 |
 | 25 | [I can't love anymore](https://open.spotify.com/track/26TLhUe2t436udQCo2ip8i) | [Seo J](https://open.spotify.com/artist/5zAvIIMHD6Iar6M9ot3fWu) | [Bravo, My Life OST Part.21](https://open.spotify.com/album/5q7yMgmZjNe3bRHaYli9JA) | 3:33 |
 | 26 | [Always Love With You](https://open.spotify.com/track/0bV00a2H2qtIyMPkr5PzS8) | [Floody](https://open.spotify.com/artist/1btrLpznqZabTXLcxUHDUF) | [Gold Mask \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/5jTJ5WZNBHOMyrododzcm7) | 3:24 |
 | 27 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(Original Television Soundtrack\) \(O′PENing\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 109 | [JAMSOO](https://open.spotify.com/track/66iI9spr5VTGqkdmdjKz3G) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Chanju](https://open.spotify.com/artist/0NRIbW4KwwagasAJw8GfTm) | [JAMSOO \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/7DaBWuXwdIRQtlzI5aKbsi) | 3:23 |
 | 110 | [Diamond](https://open.spotify.com/track/5ZmmsJEfOJu5b7JzsLsjFT) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [My Liberation Notes OST Part 8](https://open.spotify.com/album/4TPylqoJdF8ELf8IwTrquV) | 3:04 |
 
-Snapshot ID: `MTY1ODk3MTAxNiwwMDAwMDAwMDlmZGIyNGZiYTAzZDQ5MDE4OTIzMjViODU1MDdjMDkw`
+Snapshot ID: `MTY1ODkwNDkyNCwwMDAwMDAwMGJlMjI2MjI5NzljNmUyNWRjODM5Mzk3ZmFjNjQ0NWU2`

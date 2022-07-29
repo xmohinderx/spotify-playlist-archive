@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: K\u00f6lsch, Magit Cacoon",
+  "description": "The best new electronic music from Electronica to Techno. Cover: Stella Bossi",
   "name": "Electronic Rising",
   "published_playlist_ids": [
     "1PJKlmQboCNGXvNYEgYkxk"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 448600,
       "name": "A Save Haven",
       "url": "https://open.spotify.com/track/2ruVbRVcklVj2xPh4pyGsH"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243991,
       "name": "All the Music",
       "url": "https://open.spotify.com/track/4UGsSWGkwLR5zH0bQIjuvT"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 398822,
       "name": "Anodyne",
       "url": "https://open.spotify.com/track/6y5xzKTHv1ERv2yLoFPSIQ"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 400523,
       "name": "Bom",
       "url": "https://open.spotify.com/track/2CefyeSJ9lfy7a912eZ0gc"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250553,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/4rMOMzdO1tlcayilkK1AML"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203520,
       "name": "Concentrate",
       "url": "https://open.spotify.com/track/3RGCgtTX3J8lnZGf97oVip"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323337,
       "name": "Crawler",
       "url": "https://open.spotify.com/track/5pBucw37w7mT856uaYgRUP"
@@ -2418,6 +2418,24 @@
     },
     {
       "album": {
+        "name": "Dense Metaverse",
+        "url": "https://open.spotify.com/album/7teNbjdosS30JB38wjG15Y"
+      },
+      "artists": [
+        {
+          "name": "Elisa Bee",
+          "url": "https://open.spotify.com/artist/3S7HQV1qUD8yBppcFbsBfX"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341974,
+      "name": "Dense Metaverse",
+      "url": "https://open.spotify.com/track/6HgUNScygasBr2xtbTpueF"
+    },
+    {
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/1mwiBmnAqfntxCXACaIjot"
       },
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212465,
       "name": "Do What You Love - Radio-Edit",
       "url": "https://open.spotify.com/track/4CTuVz5tENS6NBycViNyz3"
@@ -2571,10 +2589,32 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 356097,
       "name": "Don't Hold Back - Yotto Remix",
       "url": "https://open.spotify.com/track/2NA6sbp1th99SalqDA8hzi"
+    },
+    {
+      "album": {
+        "name": "Don't Hold Back (Yotto Remix)",
+        "url": "https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356097,
+      "name": "Don't Hold Back - Yotto Remix",
+      "url": "https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q"
     },
     {
       "album": {
@@ -3013,7 +3053,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 401361,
       "name": "Epic Resurrection",
       "url": "https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI"
@@ -3121,7 +3161,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296449,
       "name": "Fake Is Fashion",
       "url": "https://open.spotify.com/track/7sMzFIeVWD6GSdSXsMdQ8k"
@@ -3515,7 +3555,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298852,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0rfN0qfndV2e50p9naAvoo"
@@ -3853,7 +3893,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 446106,
       "name": "Glitter and Litter",
       "url": "https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp"
@@ -4045,7 +4085,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 361960,
       "name": "Heather Park",
       "url": "https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd"
@@ -4225,7 +4265,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
@@ -4255,7 +4295,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336780,
       "name": "Home - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/1mhQoHvJl0BGS0P61alj5k"
@@ -4405,7 +4445,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200889,
       "name": "Hula-Hoop",
       "url": "https://open.spotify.com/track/3qe4ovnqf6DYT080J5SCjD"
@@ -4631,7 +4671,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
@@ -4959,7 +4999,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315026,
       "name": "Kami",
       "url": "https://open.spotify.com/track/5ak3bl5dEdCV0fggWAot4C"
@@ -5399,7 +5439,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 561280,
       "name": "Magic Moment",
       "url": "https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o"
@@ -5833,7 +5873,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360230,
       "name": "Missing Love - Jennifer Cardini & Damon Jee Remix",
       "url": "https://open.spotify.com/track/17mFLqm58e3YUrxE4ZQzIk"
@@ -5887,7 +5927,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 411877,
       "name": "Moody Fuse",
       "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
@@ -6351,7 +6391,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179472,
       "name": "Not My Type",
       "url": "https://open.spotify.com/track/1sI68W5hWXTjmLMjoc5xIk"
@@ -6905,10 +6945,32 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261750,
       "name": "Pure Puma",
       "url": "https://open.spotify.com/track/6rKWRfzVmSkW4EyuuwjQsy"
+    },
+    {
+      "album": {
+        "name": "Rainbows and Dreams",
+        "url": "https://open.spotify.com/album/3DNBXQjwAZI8mtjMWWViWr"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281060,
+      "name": "Rainbows and Dreams",
+      "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
     },
     {
       "album": {
@@ -7313,7 +7375,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 285046,
       "name": "Satyr",
       "url": "https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1"
@@ -7513,7 +7575,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220309,
       "name": "Skyway",
       "url": "https://open.spotify.com/track/0iGHKQrXFK5ciq1BXYoDnR"
@@ -7543,6 +7605,24 @@
       "duration_ms": 330393,
       "name": "Slow Wave - The Blaze Remix",
       "url": "https://open.spotify.com/track/5QSApYuBclglDXd5QVx5cA"
+    },
+    {
+      "album": {
+        "name": "Sl\u00f3\u00f0",
+        "url": "https://open.spotify.com/album/5brZZM1k3XmR9Fn3GB0vj2"
+      },
+      "artists": [
+        {
+          "name": "Janus Rasmussen",
+          "url": "https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336930,
+      "name": "Sl\u00f3\u00f0",
+      "url": "https://open.spotify.com/track/5IBJpZrQQjMeGxGtqWQ8QB"
     },
     {
       "album": {
@@ -8063,7 +8143,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 312727,
       "name": "Symmetry",
       "url": "https://open.spotify.com/track/12BdcH3gvLgwMYLcHyyuAu"
@@ -8151,6 +8231,24 @@
       "duration_ms": 400557,
       "name": "Take Me In",
       "url": "https://open.spotify.com/track/5cxx6SgUinxSOcMODwyvEb"
+    },
+    {
+      "album": {
+        "name": "Take You",
+        "url": "https://open.spotify.com/album/0GtlyPeJ3UhVY5yX2JVlzP"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324705,
+      "name": "Take You",
+      "url": "https://open.spotify.com/track/6CWvElMTKXAZ1jTrqHczPz"
     },
     {
       "album": {
@@ -8397,7 +8495,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195692,
       "name": "The Mascot",
       "url": "https://open.spotify.com/track/0buZKE91rR2IQlUVYv6KMo"
@@ -9113,7 +9211,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 353000,
       "name": "Unrest",
       "url": "https://open.spotify.com/track/0DCF9xBBUNFEy1iFyh37v9"
@@ -9419,7 +9517,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 397442,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/54QqN0qkFht9nirh0j0Hb9"
@@ -9475,6 +9573,28 @@
       "duration_ms": 250000,
       "name": "Wasted On You (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/4VuPDFBRjG2KkmF9jsZwTF"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298713,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
     },
     {
       "album": {
@@ -9587,7 +9707,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344125,
       "name": "Why Can't We Make It Work",
       "url": "https://open.spotify.com/track/3U4GFMirchEzUoYL9pRYOc"

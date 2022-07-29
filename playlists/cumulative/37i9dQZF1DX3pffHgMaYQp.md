@@ -4,7 +4,7 @@
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-60 songs - 3 hr 21 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
+62 songs - 3 hr 27 min - [published](https://open.spotify.com/playlist/7FbH27wWWIzTyGHnxAk9gv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 |  |
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-03-25 |  |
 | [Amigos \- En Vivo \- Mazunte 3016](https://open.spotify.com/track/3MjFHWF85f099edPlGN4Mm) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Amigos \(En Vivo \- Mazunte 3016\)](https://open.spotify.com/album/1JLlqbasqPbugK1n2U7DRA) | 3:04 | 2022-03-25 |  |
-| [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 |  |
+| [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 | 2022-03-25 | 2022-07-29 |
+| [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 | 2022-03-25 |  |
 | [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 | 2022-03-25 |  |
 | [Caballerango](https://open.spotify.com/track/3zFQzGdQPduroZfdl6hgQm) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Como Es](https://open.spotify.com/album/41tg5Kh7UmdBZepCrXLvrt) | 4:25 | 2022-03-25 |  |
 | [Clarita \- En Vivo](https://open.spotify.com/track/0xXy1xcDSbAtiF8PJg8LKJ) | [La Muerte De...](https://open.spotify.com/artist/0HRghElI5OBUiatdsMNQAM) | [Clarita \(En Vivo\)](https://open.spotify.com/album/2tlfU2R8OXoR1WHXKnFqCC) | 5:26 | 2022-03-25 |  |
@@ -62,7 +63,8 @@
 | [Vademécum](https://open.spotify.com/track/1t6ce3FryKUksIyCYZMNyQ) | [Chaqueta de Chándal](https://open.spotify.com/artist/5RMGElrEO6UepEfrrn0Qg4) | [Vademécum](https://open.spotify.com/album/5YQBK3VLDzJ8VeSWtvSl5H) | 2:24 | 2022-03-25 |  |
 | [Verde Pastel](https://open.spotify.com/track/1CWFgWVLWJEJ8JM0hBaGd7) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Limonada Rosa](https://open.spotify.com/album/3Gb7PPDBOwE7fXZqKhSVXI) | 2:13 | 2022-03-25 |  |
 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 | 2022-03-25 |  |
-| [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-03-25 |  |
+| [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-03-25 | 2022-07-29 |
+| [videoclub \(Remasterizado 2021\)](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 | 2022-03-25 |  |
 | [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 |  |
 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 |  |
 | [Ya Levántate](https://open.spotify.com/track/41TKk1hgkuFRDJW3ChgtdR) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [SGTP](https://open.spotify.com/album/3p84mr0OXYOme5pVKGfTt4) | 4:05 | 2022-03-25 |  |

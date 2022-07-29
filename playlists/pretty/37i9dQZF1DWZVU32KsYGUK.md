@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 
 > Restaurant style, elegant music for your fancy dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,170 likes - 180 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,188 likes - 180 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 81 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 |
 | 82 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 |
 | 83 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 |
-| 84 | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/5VVRELmvr0DhwDxeYWvVCf) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/album/21mDWW3R1U36MSVCBXUG5L) | 3:31 |
+| 84 | [Hedonic \(felt piano arrangement\)](https://open.spotify.com/track/7vNsnSXls09yAFMPwYERwU) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [The Self](https://open.spotify.com/album/5ULLBGQvMfWw2EeyLiVP56) | 3:31 |
 | 85 | [Misérable](https://open.spotify.com/track/1KVKQkKQ6pk8Hai7aKj5nx) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Misérable](https://open.spotify.com/album/3opiWhoPDVS44H2iYcrC08) | 2:00 |
 | 86 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 |
 | 87 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 137 | [Yellow river](https://open.spotify.com/track/5NBR0JGRYOcWmGk25ri4k4) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Legendary Love](https://open.spotify.com/album/68T3xbvdcXwFTpgdYmyUYk) | 3:20 |
 | 138 | [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 |
 | 139 | [Changes](https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Changes](https://open.spotify.com/album/1iXM8jYPYT1ELoWbwwHuhy) | 1:55 |
-| 140 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 |
+| 140 | [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 |
 | 141 | [Aldebaran](https://open.spotify.com/track/4bn5nDWccvgalkZGVzth00) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aldebaran](https://open.spotify.com/album/4O4wtNtbrhX90609vI1IzN) | 3:18 |
 | 142 | [I Wrote You A Song](https://open.spotify.com/track/59qHsSncWfBdugXAp2E5AH) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:03 |
 | 143 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 |
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 149 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 |
 | 150 | [Hautacam](https://open.spotify.com/track/0k88FjJbOMDAye9Vvk43hm) | [Francesco de Galdeano](https://open.spotify.com/artist/4vihcZjBHiBslHO1b9JPPH) | [Adela](https://open.spotify.com/album/1riQYFOXYqcKR3dLxh1w9R) | 3:25 |
 | 151 | [Reveries](https://open.spotify.com/track/2Wq70oxNy3i4KOW175fUs2) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Reveries](https://open.spotify.com/album/7Jl54jIBzvZjzED55yLj23) | 3:35 |
-| 152 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 |
+| 152 | [Scenery](https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [In the Valley](https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU) | 2:17 |
 | 153 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 |
 | 154 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 |
 | 155 | [On the Other Side](https://open.spotify.com/track/7GhkhTL5VK9Co25CbiBf9T) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [On the Other Side](https://open.spotify.com/album/633hqMGhBHeMIyTOFfNzm7) | 2:50 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVU32KsYGUK.md) - [plain]
 | 179 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 |
 | 180 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 |
 
-Snapshot ID: `MTY1NzE5Nzk3OCwwMDAwMDA5NzAwMDAwMTgxZDhiMjY1MWIwMDAwMDE4MTM5ZTAwOTdm`
+Snapshot ID: `MTY1NzE5Nzk3OCwwMDAwMDAwMGY3OTM0ZTE5OWE0NGUzMTRiNjU3NzE4MDRjM2FhYjZj`

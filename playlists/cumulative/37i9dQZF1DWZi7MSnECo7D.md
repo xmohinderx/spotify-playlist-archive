@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-234 songs - 13 hr 25 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+237 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [20 Anos e Meio](https://open.spotify.com/track/3QMQqmpesGqVcHuV0vMv2m) | [Aquino e a Orquestra Invisível](https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA) | [20 Anos e Meio](https://open.spotify.com/album/08NkxNDTSEsHlvRpVQPexm) | 3:06 | 2022-01-14 | 2022-06-04 |
 | [A Arte de Se Bastar](https://open.spotify.com/track/7dsbEhIpErUsTewANX617F) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Arte de Se Bastar](https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr) | 2:18 | 2022-07-22 |  |
 | [A Fogueira](https://open.spotify.com/track/7fAlzuAQK9JXDqmATf0CVQ) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [A Fogueira](https://open.spotify.com/album/5A7nbwGuraxP0ghwAAeNyd) | 3:58 | 2022-01-14 |  |
-| [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 | 2022-01-14 |  |
+| [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 | 2022-01-14 | 2022-07-29 |
+| [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 | 2022-07-22 |  |
 | [A Morte Do Amor](https://open.spotify.com/track/2vQjFQUozq8AiZV4xPEAMO) | [Do Amor](https://open.spotify.com/artist/2dQAz3jNlenyLHfeknfNsn) | [A Morte Do Amor](https://open.spotify.com/album/2m5jb2RptwBY3ooWTRmTCd) | 2:09 | 2022-02-11 | 2022-03-05 |
 | [A Vida É Uma Aventura](https://open.spotify.com/track/5hLBfsgyN2FJvO9r0GZBgR) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [A Vida É Uma Aventura](https://open.spotify.com/album/727SCH0aOEgXR2UR72D3At) | 3:47 | 2022-04-01 |  |
 | [ACORDA PEDRINHO](https://open.spotify.com/track/2sUhjzuc6w4SRFwoC3LvXZ) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [ACORDA PEDRINHO](https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6) | 2:53 | 2022-03-25 | 2022-07-16 |
@@ -32,7 +33,8 @@
 | [Aulus](https://open.spotify.com/track/7KtPb4RSS9YCDsBE8WTbl8) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Aulus](https://open.spotify.com/album/3pqnkMtRDxT20PGZV4BPPI) | 4:14 | 2022-01-14 | 2022-06-04 |
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-02-04 | 2022-07-23 |
 | [Aviões](https://open.spotify.com/track/3743IvJexIgIZCUk2zc1Kc) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Aviões](https://open.spotify.com/album/1VFwIIhSrwyx0oTNgjG1Kn) | 2:46 | 2022-03-04 |  |
-| [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 |  |
+| [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-07-29 |
+| [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 | 2022-07-22 |  |
 | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/track/4urIUktF6jtKJhvjFU5hwy) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [BB \(Garupa de Moto Amarela\)](https://open.spotify.com/album/7ExE0OsPgAEOywkveeWoeL) | 2:46 | 2022-05-20 |  |
 | [Beat](https://open.spotify.com/track/2D5qQa9nFYKwax9V7LNUBH) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Kintsugi](https://open.spotify.com/album/2FFM0AsTpvCC5Q6jLxAG3n) | 2:41 | 2022-04-29 | 2022-05-14 |
 | [bem vindo, amanhecer](https://open.spotify.com/track/7mWaj5XGPlLn26oz8Ml5WT) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/3NIuGYI8AlF2z29olKZo3e) | 3:21 | 2022-04-08 | 2022-07-23 |
@@ -220,7 +222,8 @@
 | [Traumas de Estimação](https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Traumas de Estimação](https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS) | 5:07 | 2022-02-11 | 2022-03-12 |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-01-14 | 2022-03-18 |
 | [Tão Bom](https://open.spotify.com/track/3N3CYAXcoMidDy23zqmb76) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Tão Bom](https://open.spotify.com/album/5q7Ro5XgKmvB56PLxea3qW) | 2:25 | 2022-03-11 | 2022-04-09 |
-| [Ultraleve](https://open.spotify.com/track/3gzeiDNfU4OwnSmsk3xwCK) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Ultraleve](https://open.spotify.com/album/7lqAhSyVbl2kMmuCOtkjdU) | 3:51 | 2022-01-14 |  |
+| [Ultraleve](https://open.spotify.com/track/3Rab6Z0ZW6knxay13dEvx7) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/1nnNN82IroJUO8dhiGFPXz) | 3:51 | 2022-07-22 |  |
+| [Ultraleve](https://open.spotify.com/track/3gzeiDNfU4OwnSmsk3xwCK) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Ultraleve](https://open.spotify.com/album/7lqAhSyVbl2kMmuCOtkjdU) | 3:51 | 2022-01-14 | 2022-07-29 |
 | [Um Jeito de Te Ver](https://open.spotify.com/track/48SszxHGmA1ur8cLYiLOjN) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Um Jeito de Te Ver](https://open.spotify.com/album/0VNr3di0Wzka6Rq5ZZoUE7) | 4:13 | 2022-06-24 |  |
 | [Um Milhão de Coisas](https://open.spotify.com/track/0nRiU5YRgqDMqueJIKc3PS) | [Rafa Bicalho](https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE), [Marina Linhares](https://open.spotify.com/artist/18CW4muXWkQYm6AWdnGaZN) | [Um Milhão de Coisas](https://open.spotify.com/album/10HVepUzkvVL56OEagQSlR) | 3:07 | 2022-01-14 | 2022-06-04 |
 | [Uma Grande Saudade Boba](https://open.spotify.com/track/1E2VQwCR0BndVnisLn8Frg) | [Bordoá](https://open.spotify.com/artist/1iAW1QQLoyyWN2yrcWt4ct) | [Uma Grande Saudade Boba](https://open.spotify.com/album/4kEgbijNbP9KRKww5xNcjN) | 3:17 | 2022-04-29 |  |

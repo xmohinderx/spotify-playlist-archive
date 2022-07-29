@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,539 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,612 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 54 | [Antítesis](https://open.spotify.com/track/2sOE1BdMO5iW9WTG4yWSJU) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Antítesis](https://open.spotify.com/album/05PPWZrJxJGPOYr9vkCDqP) | 3:05 |
 | 55 | [Tus Ojos Me Hablaron](https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Slim Ans](https://open.spotify.com/artist/4JFse8c35wKHAuzJO9BTqO), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Tus Ojos Me Hablaron](https://open.spotify.com/album/1DB93h9fw0dyrn9LOoYHeM) | 3:21 |
 | 56 | [amable](https://open.spotify.com/track/2UZUINJukkXWvBv4hpByAT) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [amable](https://open.spotify.com/album/2yT1zEJgfTCy2uJJ2d6Zec) | 3:18 |
-| 57 | [Loop](https://open.spotify.com/track/3w3aUB2r1gcAeO8OsBTtjN) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Loop](https://open.spotify.com/album/3yNmliCH10IlyFsMRUk564) | 2:40 |
+| 57 | [Loop](https://open.spotify.com/track/5wIplDRMg13vvFOmkLOPwG) | [Alex Gracia](https://open.spotify.com/artist/1NigV8ujfzVjZd5PVDjKNX) | [Memorias](https://open.spotify.com/album/3Qp9rzY87PqpkcYh3ePpCa) | 2:40 |
 | 58 | [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 |
 | 59 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
 | 60 | [mira bien](https://open.spotify.com/track/2WzziudaeI02xFL38R4qk9) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [mira bien](https://open.spotify.com/album/3xws9ugMCUibdGIVbrWIpg) | 3:44 |
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 81 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
 | 82 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 |
 | 83 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 |
-| 84 | [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 |
+| 84 | [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 |
 | 85 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
 | 86 | [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 |
 | 87 | [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [Aunque Eso Está Mal](https://open.spotify.com/track/6I9aVdCh6umJ63BVzDksDh) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Leo X](https://open.spotify.com/artist/3W4km1swUPuED74s4dPH3A), [FRANCO](https://open.spotify.com/artist/5qtLffWJkguvvZvZEPkEiU) | [Aunque Eso Está Mal](https://open.spotify.com/album/34akGcSedAxvJ5b9vFqkWN) | 2:49 |
 | 100 | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/track/1gCvHsRHayoF9pjScWnbcO) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Lucauy](https://open.spotify.com/artist/5bm3h7dBIpjofczY1v8jD4), [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [A Través Del Espejo \(feat\. Kendall Peña & Melanie Espinosa\)](https://open.spotify.com/album/2qZv4vmdDS6VnNinS6VgPo) | 3:26 |
 
-Snapshot ID: `MTY1ODQ2NjAwMCwwMDAwMDE3OTAwMDAwMTgyMjQ0NmRkMWMwMDAwMDE4MjIzY2QxZTJk`
+Snapshot ID: `MTY1ODQ2NjAwMCwwMDAwMDAwMDcxOGE0NTUwYmY2OTIwZjMxZjJkYmRmNzdkZjdkMDdh`

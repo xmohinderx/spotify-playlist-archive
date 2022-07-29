@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Megan Moroney, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,687 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,740 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 59 | [Some Horses](https://open.spotify.com/track/21xFRdEeoEq1CFq1benMgr) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Some Horses](https://open.spotify.com/album/6h5OIBQ6IOSYSzVYFplbuf) | 4:09 |
 | 60 | [If You Never Broke My Heart](https://open.spotify.com/track/7rwVlm5LhFTO8utknjR6Kt) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [If You Never Broke My Heart](https://open.spotify.com/album/6GpGV4UyrECTpu9MGFLblF) | 3:17 |
 
-Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDFiODAwMDAwMTgyM2RjZmJhNzgwMDAwMDE4MWFkOTI0MWMw`
+Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAwMGY0NzA4ZGUyZTVlNmNjMTMyMTU2NWFjM2Y3MTc1Y2Jk`

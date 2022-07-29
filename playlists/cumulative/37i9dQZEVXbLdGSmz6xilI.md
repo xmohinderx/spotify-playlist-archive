@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-502 songs - 1 day 5 hr 40 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+503 songs - 1 day 5 hr 43 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA) | 3:42 | 2021-03-27\* |  |
 | [Bài Này Chill Phết](https://open.spotify.com/track/2AiZm17zqkV7llT3SHz4Nu) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Bài Này Chill Phết](https://open.spotify.com/album/5V9sf4PHbbTbrAG11xUzRQ) | 4:36 | 2021-03-27\* | 2021-05-29 |
 | [Bên Trên Tầng Lầu](https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf) | [Tăng Duy Tân](https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ) | [Bên Trên Tầng Lầu](https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG) | 3:04 | 2022-07-08 |  |
-| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* |  |
+| [Bước Qua Mùa Cô Đơn](https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Mùa Cô Đơn](https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s) | 4:38 | 2021-03-27\* | 2022-07-29 |
 | [Bước Qua Nhau](https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Bước Qua Nhau](https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU) | 4:17 | 2021-11-13 |  |
 | [Bắt Cóc Con Tim](https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si) | [Lou Hoang](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Bắt Cóc Con Tim](https://open.spotify.com/album/538vBy7c27uatest2Eu58q) | 3:17 | 2022-07-05 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-22 |
@@ -468,6 +468,7 @@
 | [uhgood](https://open.spotify.com/track/5vI1exL3zFhqFWDSL9fq5H) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 3:14 | 2022-05-09 | 2022-05-11 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-21 |  |
 | [Victorious](https://open.spotify.com/track/2pm1GTb24KWgbBHGKlYr0i) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Victorious](https://open.spotify.com/album/38DL0Sxx17dD0Oz0HWL98k) | 3:56 | 2021-11-27 | 2021-12-25 |
+| [vào hạ](https://open.spotify.com/track/6Bh5qRgU4AysQh3Vv2N5Nt) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:16 | 2022-07-28 |  |
 | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/track/5mG5cQE6SEYxnGCX3I09IC) | [Miu Lê](https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Chau Dang Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Vì Mẹ Anh Bắt Chia Tay](https://open.spotify.com/album/4GRaUdMpYBxlTw88lnF0op) | 4:21 | 2022-06-15 |  |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-07 |
 | [We are Bulletproof : the Eternal](https://open.spotify.com/track/133ocfbXXG4HTk76qgSeUb) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:21 | 2021-12-27 | 2021-12-29 |

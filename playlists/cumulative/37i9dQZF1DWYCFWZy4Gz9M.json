@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 375120,
       "name": "Baba Arabi",
       "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179640,
       "name": "Bambala",
       "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
@@ -267,10 +267,32 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 444786,
       "name": "Bambraka",
       "url": "https://open.spotify.com/track/1m4tIPPUrlO4OIjz2A3u81"
+    },
+    {
+      "album": {
+        "name": "The Gnawa Caravan: Salt",
+        "url": "https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA"
+      },
+      "artists": [
+        {
+          "name": "Simo Lagnawi",
+          "url": "https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK"
+        },
+        {
+          "name": "Griselda Sanderson",
+          "url": "https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444786,
+      "name": "Bambraka",
+      "url": "https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr"
     },
     {
       "album": {
@@ -285,7 +307,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 323615,
       "name": "Bangara",
       "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
@@ -363,7 +385,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379744,
       "name": "Baniya",
       "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
@@ -381,7 +403,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A"
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320388,
       "name": "Bouhali",
       "url": "https://open.spotify.com/track/6IEDKu0MAwj1qZ8cznuzkp"
@@ -547,7 +569,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 832840,
       "name": "Chorfa",
       "url": "https://open.spotify.com/track/0nmDCBvIy4gDP1fyDInu1I"
@@ -948,6 +970,28 @@
     },
     {
       "album": {
+        "name": "Marhaba",
+        "url": "https://open.spotify.com/album/7g5cShRnbgXW9xwQjKNFow"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud Guinia",
+          "url": "https://open.spotify.com/artist/0pvLXdsgWnpJClomaQ41JQ"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498971,
+      "name": "Mimoun Marhaba",
+      "url": "https://open.spotify.com/track/68tS8zt1kpPHxunJ7Xq4PI"
+    },
+    {
+      "album": {
         "name": "Marrakech Undermoon: The Black Album, Vol. 2a",
         "url": "https://open.spotify.com/album/4kerOs40h4AzoV7sjOYrDn"
       },
@@ -959,7 +1003,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 410573,
       "name": "Mimouna Gnawa",
       "url": "https://open.spotify.com/track/7ahy3fhvPApYDTYtI8jHJN"
@@ -981,7 +1025,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 309000,
       "name": "Mister X",
       "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
@@ -1095,7 +1139,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Sandia",
       "url": "https://open.spotify.com/track/0ysNragBX6DPqvEYvlYnLA"
@@ -1149,7 +1193,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 530803,
       "name": "Shaba Kouria",
       "url": "https://open.spotify.com/track/0eLQZtoejBfpa6H7iiWo6i"
@@ -1205,7 +1249,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
@@ -1223,7 +1267,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 372558,
       "name": "Soltani",
       "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
@@ -1335,7 +1379,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 270651,
       "name": "Yobadi",
       "url": "https://open.spotify.com/track/5DbrFW9JN9I10x6YlN48Xv"

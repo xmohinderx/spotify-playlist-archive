@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Blondshell, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,267 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,343 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 49 | [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 |
 | 50 | [Better On You](https://open.spotify.com/track/5Jxsl8JBL1ueHSw6LuRfXA) | [Sean Frayne](https://open.spotify.com/artist/0ls0E0dRdpuVShBEZes23p) | [Better On You](https://open.spotify.com/album/1uP4m7dqgSrQgPtrXGeq1Q) | 2:16 |
 
-Snapshot ID: `MTY1ODkzNjE3MiwwMDAwMDFkMDAwMDAwMTgyNDA0ZDIwMDIwMDAwMDE4MjQwMGNmYTg4`
+Snapshot ID: `MTY1ODkzNjE3MiwwMDAwMDAwMDBiZjk0YjcxYTJhYzY3OWQ1ZGZmZmE4MTQ0MzRmMzY2`

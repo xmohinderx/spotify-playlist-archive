@@ -4,7 +4,7 @@
 
 > Cuando las palabras no alcanzan, siempre habrá canciones para decirle lo que sientes\. Sebastián Yatra y Pablo Alborán en portada.
 
-158 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
+161 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/7uQBD2uEj9JYWsbOq2NLVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Ibuprofeno](https://open.spotify.com/track/6YPvpcUcjot5d9iA9mFSN8) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:33 | 2022-07-01 | 2022-07-23 |
 | [La Gata Bajo la Lluvia \- Sesión Acústica en Vivo](https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [La Gata Bajo la Lluvia \(Sesión Acústica en Vivo\)](https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T) | 4:08 | 2022-02-18 |  |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2022-04-01 |  |
-| [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 |  |
+| [La Verbena y el Moriviví](https://open.spotify.com/track/3IQcQJgFhKusvVRMb52Twe) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [La Verbena y el Moriviví](https://open.spotify.com/album/06wwHze6wq4qk3lcuz6ttw) | 3:46 | 2022-02-04 | 2022-07-29 |
+| [La Verbena y el Moriviví](https://open.spotify.com/track/67ApdtYt5c3qOUTtO8eU3C) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 3:46 | 2022-07-22 |  |
 | [Lenguas Muertas](https://open.spotify.com/track/5C9T6pqEEUhKAuIFSc38i7) | [Orión](https://open.spotify.com/artist/1QOKIsJjvDd9sHkSj96fI3) | [Lenguas Muertas](https://open.spotify.com/album/0lIpfG8AgaXOQZtSznBXJR) | 3:58 | 2022-02-04 | 2022-07-02 |
 | [Ley De Gravedad](https://open.spotify.com/track/2vKbltUtfh6QxlnfPKZTda) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Ley De Gravedad](https://open.spotify.com/album/4iuzVlCaj60ttwNyV1tHFg) | 2:22 | 2022-02-11 |  |
 | [Linda](https://open.spotify.com/track/01zArdPE8GBGOGwewivgbO) | [BERH](https://open.spotify.com/artist/0nL78jZ6Bm621Cxs3nXlYB) | [Guía para fracasar en el amor](https://open.spotify.com/album/1iXyss38cSa8VE6mdilgxA) | 2:26 | 2022-07-01 | 2022-07-23 |
@@ -111,7 +112,8 @@
 | [NQSTA](https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [NQSTA](https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0) | 3:04 | 2022-02-04 | 2022-02-19 |
 | [ojalá </3](https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [ojalá </3](https://open.spotify.com/album/0dZbJuwWFwFqXSq6BC1xes) | 2:51 | 2022-03-11 |  |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-06-29 |  |
-| [Ojos Noche](https://open.spotify.com/track/671JE9keXdBM48B8Ojwymd) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ojos Noche](https://open.spotify.com/album/16gH2tSyz5R3s26hxGNlmW) | 4:00 | 2022-07-01 |  |
+| [Ojos Noche](https://open.spotify.com/track/671JE9keXdBM48B8Ojwymd) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ojos Noche](https://open.spotify.com/album/16gH2tSyz5R3s26hxGNlmW) | 4:00 | 2022-07-01 | 2022-07-29 |
+| [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2022-07-22 |  |
 | [Ojos Tristes \(feat\. Karin B.\) \- Sesión En Vivo](https://open.spotify.com/track/3wASVtmroZS4SKosTe06s1) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Karin B.](https://open.spotify.com/artist/0bjRjeUe0JxWX6s8sxnZsc) | [Esencial \(En Vivo\)](https://open.spotify.com/album/6KpqTOBOSlypz3j3ZsP3zu) | 3:39 | 2022-06-02 |  |
 | [Oso Polar](https://open.spotify.com/track/6vjRW06bdpsbDpvrp3XDpR) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia](https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL) | 4:13 | 2022-07-01 | 2022-07-23 |
 | [Otra Noche en L.A.](https://open.spotify.com/track/1LH8gbxJsh9PmHozgPdWGu) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Otra Noche en L.A.](https://open.spotify.com/album/7aUBwzyc4bnGBDD3elUh3U) | 3:31 | 2022-02-04 | 2022-06-30 |
@@ -161,7 +163,8 @@
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-07-22 |  |
 | [Vuelve](https://open.spotify.com/track/32tWreE2GOVOm2ejNodqec) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Vuelve](https://open.spotify.com/album/4wHg1eyuGM2bssjPqjuuR7) | 4:13 | 2022-02-04 | 2022-02-18 |
 | [Vuelves](https://open.spotify.com/track/3LWVY4DMOKW2JpOttms6Q6) | [Neela](https://open.spotify.com/artist/3c5q3H7Y58kioMJEZfAPgF) | [Vuelves](https://open.spotify.com/album/3AGWL2gr3nB14n0vts7Vld) | 3:17 | 2022-02-04 |  |
-| [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 | 2022-03-11 |  |
+| [Ya Casi Te Olvido](https://open.spotify.com/track/3Mplc3LHNZRLKijTavtyCC) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/1W6H0omeMvwCRyWhFJaah6) | 2:14 | 2022-07-22 |  |
+| [Ya Casi Te Olvido](https://open.spotify.com/track/4GBx2b88twICiMHVgmkRl9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ya Casi Te Olvido](https://open.spotify.com/album/0vTenUdY3FK08gAmq1qZ4T) | 2:14 | 2022-03-11 | 2022-07-29 |
 | [Yo No Quiero Suerte](https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Sanz](https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4) | 4:24 | 2022-02-04 |  |
 | [Yo Te Espero](https://open.spotify.com/track/4KSlOvbkQTJPYlBBMMPrbW) | [Fehr Rivas](https://open.spotify.com/artist/37U8NRF583ABrv1mlYcxce) | [Rockmántico](https://open.spotify.com/album/58XRXCgqyjkKpNRgaLsIpy) | 3:25 | 2022-02-04 | 2022-03-12 |
 | [¿Tú Cómo Estás? \- Radio Edit](https://open.spotify.com/track/6RGhcwYMhKy3Sqn7hK4kaP) | [Alexander Acha](https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh) | [Las Italianas](https://open.spotify.com/album/1Wfv0oIMRHCkU2ZI9uSDRi) | 3:47 | 2022-07-11 | 2022-07-23 |

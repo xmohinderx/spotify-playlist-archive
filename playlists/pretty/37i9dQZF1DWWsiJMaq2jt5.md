@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Julia Wieniawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,717 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,722 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 69 | [Something Like Real Love](https://open.spotify.com/track/1leeusKnfuIv6UJWm1M8Ho) | [Maria Niklińska](https://open.spotify.com/artist/0PdsiwVp9sTnNQ9jhWpW1K) | [Something Like Real Love](https://open.spotify.com/album/7Kqx5FBeS9nKp84CedDPOw) | 3:38 |
 | 70 | [This Is My Time](https://open.spotify.com/track/5b4XrJ0mZdvq6Hdn9olGXP) | [Klaudia Magica](https://open.spotify.com/artist/42PFKrcP52mjw7EaV6702S) | [This Is My Time](https://open.spotify.com/album/1uBvzFBWmnBI7etKIyIRDH) | 2:57 |
 
-Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAxNjAwMDAwMTgxZDA2MDk3ODUwMDAwMDE4MWE0NGRlNzhj`
+Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAwMDc2M2YxNDFlNWU1ZDQzNzJlY2Q4YjIxMmU0NTE2YzRj`

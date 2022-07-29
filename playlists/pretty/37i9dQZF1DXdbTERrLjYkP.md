@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,527 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,626 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 11 | [Small Talk](https://open.spotify.com/track/5J17jC78SZXMPfcoCvs0Uk) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Small Talk](https://open.spotify.com/album/7iuROt2yxUMHIrFFni6pyh) | 3:08 |
 | 12 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 |
 | 13 | [People Can Change](https://open.spotify.com/track/0dtysSew3Hb1o8e4h1IPSz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [People Can Change](https://open.spotify.com/album/5VR3ZzZuM7c4LaHu1vjOBV) | 2:49 |
-| 14 | [life, im over you](https://open.spotify.com/track/5RQwYJPOkEnl38hFVrylP3) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/3BEM2nUE9H1v3xyhBgWpbR) | 3:23 |
+| 14 | [life, i'm over you](https://open.spotify.com/track/4tI1u9uQXYLnswRzcysxDo) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [we're all sad here](https://open.spotify.com/album/1twRDbvHKiuFTLeAKfMbH4) | 3:23 |
 | 15 | [A song about a 14 hour drive](https://open.spotify.com/track/6DQo14uIZJpra7QYQqY165) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr) | [A song about a 14 hour drive](https://open.spotify.com/album/3LMduFUb5BYbMTTgGWK4RK) | 3:14 |
 | 16 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 |
 | 17 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 48 | [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 |
 | 49 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 |
 | 50 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 51 | [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 |
+| 51 | [Let Her Remember](https://open.spotify.com/track/5LO2ZPe4MPJqrTyGnhypyL) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:32 |
 | 52 | [Google Translate / poppies](https://open.spotify.com/track/5SWkedKGlTLmjMRvhu0xXX) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 4:23 |
 | 53 | [Getting Older](https://open.spotify.com/track/3ug0z5meuf80xze4Pq7KUf) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Getting Older](https://open.spotify.com/album/0QlI1E0LgBtZNHeCGt0WSI) | 2:45 |
 | 54 | [2%](https://open.spotify.com/track/4fV8zuE5GmRCjzl8b3JUgg) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later](https://open.spotify.com/album/2nf6Ptrirj20PgJaGqZhcE) | 3:27 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 73 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 |
 | 74 | [Ride Or Die](https://open.spotify.com/track/1ly4juuAEfCQbkfioOL8v0) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9), [Griffin Lancaster](https://open.spotify.com/artist/2EsnUC4uKX3AV7CGyBClmy) | [Ride Or Die](https://open.spotify.com/album/1ZhAKhbixWHAHiZDrNLyI7) | 3:19 |
 | 75 | [House of Cards](https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [House of Cards](https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4) | 3:07 |
-| 76 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 |
+| 76 | [Since I Met You](https://open.spotify.com/track/34VVaSIR9qIwlz8tihRMPq) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [If It's Not Forever](https://open.spotify.com/album/5OhIJcMEADcrAKH5kkAvzT) | 4:30 |
 | 77 | [All Our Friends Are Splitting Up](https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:40 |
 | 78 | [Seen](https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Seen](https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg) | 3:27 |
 | 79 | [Feels Like Magic](https://open.spotify.com/track/4OQAl1UeO0DF6aP3XgXp6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Feels Like Magic](https://open.spotify.com/album/15alEIqBgadwC3kR7xq99y) | 3:07 |
 | 80 | [pretty when u cry](https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [pretty when u cry](https://open.spotify.com/album/5o9b4Ff3zqrviSAtUfFt3w) | 3:38 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDA1ZjAwMDAwMTgyMjQxMGQ5NDEwMDAwMDE4MjFkYzVjODZi`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDZiMjU0NGYwMWVlNTljYjJmOGMwODdjMzUyOWVmZWU1`

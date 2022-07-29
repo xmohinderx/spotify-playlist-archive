@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-778 songs - 1 day 12 hr 30 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
+779 songs - 1 day 12 hr 32 min - [published](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
 | [KNIGHT](https://open.spotify.com/track/3oN1sJcKLYbc8z4tO6sjVE) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [KNIGHT](https://open.spotify.com/album/3bAXICFyUXi62zJocAPhd3) | 2:02 | 2022-03-08 | 2022-03-13 |
 | [KUPALA](https://open.spotify.com/track/2kWuVqpxPnj131Z53vxF98) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [ela.](https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx) | [KUPALA](https://open.spotify.com/album/2Thrc9F0LIRpXyGUyUubij) | 2:48 | 2022-07-07 |  |
+| [Kyivstar](https://open.spotify.com/track/0mOR5OSzH7zoBD36umptZD) | [EeOneGuy](https://open.spotify.com/artist/55pAFvoJUtQLajo9oqDF0q) | [Kyivstar](https://open.spotify.com/album/3LyobgdDU47a5kN865tt5r) | 1:57 | 2022-07-28 |  |
 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 | 2021-05-28 | 2021-05-29 |
 | [Ladidadida](https://open.spotify.com/track/5Pjmv35PxL2ByHadh1oRxN) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:00 | 2021-10-23 | 2021-12-03 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2021-09-15 |
@@ -362,7 +363,7 @@
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-26 |
 | [WARLORD](https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP) | [Dzhizus](https://open.spotify.com/artist/7kB4F3PktJEy9jbwI6ujjZ) | [WARLORD](https://open.spotify.com/album/0NiO0NJTCfoVvJAyxeKzE6) | 2:02 | 2022-01-29 | 2022-01-31 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-06 |
-| [We Gotta Get Love](https://open.spotify.com/track/4AMCdODHG4ZZ1BiErHt0VI) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [We Gotta Get Love](https://open.spotify.com/album/4vxj8g2gHKyJarkxxPWCgI) | 2:14 | 2022-07-23 |  |
+| [We Gotta Get Love](https://open.spotify.com/track/4AMCdODHG4ZZ1BiErHt0VI) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [We Gotta Get Love](https://open.spotify.com/album/4vxj8g2gHKyJarkxxPWCgI) | 2:14 | 2022-07-23 | 2022-07-29 |
 | [Where Are You](https://open.spotify.com/track/5DkZZnIip2biMlFXb8zgJy) | [Ollane](https://open.spotify.com/artist/38QFXoA64TnwDvE0nK2TYa), [Miyagi & Andy Panda](https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3) | [Where Are You](https://open.spotify.com/album/4iOUh84nmhzrywU4GU45sa) | 4:01 | 2021-05-23 | 2021-05-24 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-04-02 | 2021-04-03 |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2022-04-15 | 2022-04-17 |

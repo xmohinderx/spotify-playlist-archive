@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 
 > Music to reduce insomnia and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,325 likes - 260 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,335 likes - 260 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUFOo47GEsI.md) - [plain]
 | 259 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 |
 | 260 | [Cool Air](https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl) | [Lily Augustadt](https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6) | [Cool Air](https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA) | 3:06 |
 
-Snapshot ID: `MTY1ODQ5ODUzMywwMDAwMDA4YzAwMDAwMTgyMjYzNzQ5ZmQwMDAwMDE4MWFhYmMxODdk`
+Snapshot ID: `MTY1ODQ5ODUzMywwMDAwMDAwMDhhYjBhM2EyNDdmMjVmZjZjYjJkNmRkZGZmYmFjNWYx`

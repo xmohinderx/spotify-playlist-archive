@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: JROCHEMAN\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,875 likes - 105 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,888 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 104 | [Bimm Vibration](https://open.spotify.com/track/6V7lxuK5ncfh5mCxoBenbK) | [SK Simeon](https://open.spotify.com/artist/3hZ4mgW0lM6GBP8EgCIxjP) | [Bimm Vibration](https://open.spotify.com/album/7Fv2ZtpGKIC2eoLxTrOCYk) | 2:27 |
 | 105 | [Static](https://open.spotify.com/track/3WUAqgzCygtI3kyF1v2UcB) | [PollyHill](https://open.spotify.com/artist/66oPXcN1mDhQLwveHEaJWX) | [Pulse & Static](https://open.spotify.com/album/3HJhe1sBbRZPQDVXClpWCi) | 2:04 |
 
-Snapshot ID: `MTY1ODkxMjE2MCwwMDAwMDA0ZjAwMDAwMTgyM2VkZWJjNzQwMDAwMDE4MjNlZGNiYzI0`
+Snapshot ID: `MTY1ODkxMjE2MCwwMDAwMDAwMDc0N2ZlMTE1NDAwOWQyNWFkY2IzZTQzYzE3ZDI4MWVh`

@@ -63,7 +63,7 @@
     {
       "album": {
         "name": "Crocodile Teeth LP",
-        "url": "https://open.spotify.com/album/2vTffZefaNNkR5h2dW7EHP"
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
       },
       "artists": [
         {
@@ -74,6 +74,24 @@
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 165703,
+      "name": "Beethoven",
+      "url": "https://open.spotify.com/track/3Vxe2Fe84a6M9iUXdtWxsh"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/2vTffZefaNNkR5h2dW7EHP"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 165703,
       "name": "Beethtoven",
       "url": "https://open.spotify.com/track/39npGGRn8PCNVIBmZaEx6b"
@@ -131,10 +149,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250212,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/1cc282JtAEefN7O792U5P5"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/6eYxm1llvPLQe5oW3d5tba"
+      },
+      "artists": [
+        {
+          "name": "Prince Swanny",
+          "url": "https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250357,
+      "name": "Catch 22",
+      "url": "https://open.spotify.com/track/4ZYs6suTVIJPg5vxibOyIw"
     },
     {
       "album": {
@@ -535,10 +571,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221016,
       "name": "Piana",
       "url": "https://open.spotify.com/track/1dts9tOA7h5in0W9ADk7DR"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221016,
+      "name": "Piana",
+      "url": "https://open.spotify.com/track/2QT2B9AbK9wQForVGxyP9a"
     },
     {
       "album": {
@@ -619,10 +673,36 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180610,
       "name": "Rocket Launcher",
       "url": "https://open.spotify.com/track/0ewYjU1bxDmtmTzv28Yhlo"
+    },
+    {
+      "album": {
+        "name": "Crocodile Teeth LP",
+        "url": "https://open.spotify.com/album/6lYAnTu7dtbj0Cb8SDhHDH"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180610,
+      "name": "Rocket Launcher (feat. Rich The Kid & Popcaan)",
+      "url": "https://open.spotify.com/track/60gXgJTs7MAxZr91ZG3dVx"
     },
     {
       "album": {
@@ -855,10 +935,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192052,
       "name": "Try Dat",
       "url": "https://open.spotify.com/track/0xOuKUSSRKZ3CXrFcpmipS"
+    },
+    {
+      "album": {
+        "name": "Try Dat Riddim, Vol.2",
+        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192156,
+      "name": "Try Dat",
+      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
     },
     {
       "album": {

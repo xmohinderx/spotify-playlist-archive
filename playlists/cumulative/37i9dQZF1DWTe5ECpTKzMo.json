@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "99'S",
+        "url": "https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH"
+      },
+      "artists": [
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233941,
+      "name": "99'S",
+      "url": "https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p"
+    },
+    {
+      "album": {
         "name": "99's",
         "url": "https://open.spotify.com/album/45Fa646VrOWBLE1mwrVFkk"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234005,
       "name": "99's",
       "url": "https://open.spotify.com/track/2L6MlX6DWzZQ6xKblKXuww"
@@ -69,7 +87,7 @@
     {
       "album": {
         "name": "Amnesia",
-        "url": "https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu"
+        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
       },
       "artists": [
         {
@@ -80,6 +98,24 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 188604,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/3ihNLfYyXbYNyp5FHCUdtu"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/3T0DeQvOtdqd7Yo3t2Ig3N"
@@ -120,7 +156,7 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 165801,
+      "duration_ms": 166000,
       "name": "Borracho Gacho",
       "url": "https://open.spotify.com/track/4OzmPHAqniJC1yMuDh9lmC"
     },
@@ -283,10 +319,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238394,
       "name": "Debo Entender",
       "url": "https://open.spotify.com/track/3prVkXw3tw2iCSfyS1hrmr"
+    },
+    {
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "album": {
@@ -328,7 +390,7 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 229610,
+      "duration_ms": 229813,
       "name": "El Catr\u00edn",
       "url": "https://open.spotify.com/track/5ZEtlzWIMKPyLcZUbTbn5w"
     },
@@ -416,6 +478,28 @@
     },
     {
       "album": {
+        "name": "La Calle Sonrie",
+        "url": "https://open.spotify.com/album/5RN9GcIQ3o743VcoOlWN3Z"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251990,
+      "name": "La Calle Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2JNYzc4a2GlRu9gSwtVm2y"
+    },
+    {
+      "album": {
         "name": "La Calle Sonr\u00ede",
         "url": "https://open.spotify.com/album/3QGxjngNRoRgxjxCDi3M8J"
       },
@@ -431,7 +515,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251990,
       "name": "La Calle Sonr\u00ede",
       "url": "https://open.spotify.com/track/69WvBBAL7hhyydMnUWjHvg"
@@ -479,7 +563,7 @@
     {
       "album": {
         "name": "Locofon\u00edas",
-        "url": "https://open.spotify.com/album/2cWEZoGiwW4gvLMn00rdTU"
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
       "artists": [
         {
@@ -496,7 +580,63 @@
       "date_removed": null,
       "duration_ms": 182700,
       "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
+    },
+    {
+      "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/2cWEZoGiwW4gvLMn00rdTU"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182700,
+      "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/7FQZJSWOqJyX1lObjsOwpY"
+    },
+    {
+      "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "Duende",
+          "url": "https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Quetzal",
+          "url": "https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360724,
+      "name": "Liga Malandra",
+      "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
     },
     {
       "album": {
@@ -527,7 +667,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/1xM8kJ0TDNKHc80caITtRn"
@@ -571,10 +711,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200040,
       "name": "L\u00edrica Y Metralla",
       "url": "https://open.spotify.com/track/35nRezEpbqASQor29VGTgW"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "L\u00edrica y Metralla",
+      "url": "https://open.spotify.com/track/6WjrtAetRWDX6Lbt9Vgvhd"
     },
     {
       "album": {
@@ -600,6 +758,28 @@
     },
     {
       "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Nada Me Va A Importar",
+      "url": "https://open.spotify.com/track/7jd9nQ7JYbcAtB3k3HG7ao"
+    },
+    {
+      "album": {
         "name": "Nada Me Va Importar",
         "url": "https://open.spotify.com/album/5dHXsjDqasdcq2vU1HMhgw"
       },
@@ -615,10 +795,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162038,
       "name": "Nada Me Va Importar",
       "url": "https://open.spotify.com/track/24Nj9n6CiMVdKEdnBJxECj"
+    },
+    {
+      "album": {
+        "name": "Nosotros Somos la Under Side Karnal",
+        "url": "https://open.spotify.com/album/3EhmA2L1zzqE5ibQaoyNnL"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308485,
+      "name": "Ni Muy Muy Ni Tan Tan",
+      "url": "https://open.spotify.com/track/0IQ0mB0s9OB1opgTEniuf2"
     },
     {
       "album": {
@@ -633,7 +831,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 308506,
       "name": "Ni Muy Muy Ni Tan Tan",
       "url": "https://open.spotify.com/track/083IcGzprHpWcVhJHa3uo3"
@@ -745,7 +943,7 @@
     {
       "album": {
         "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp"
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
       },
       "artists": [
         {
@@ -765,6 +963,32 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208026,
+      "name": "Pesao",
+      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
+    },
+    {
+      "album": {
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/38aLvR344hV3HWZoe29Lpp"
+      },
+      "artists": [
+        {
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208026,
       "name": "Pesao (feat. Cartel de Santa & Millonario)",
       "url": "https://open.spotify.com/track/6yly6C4QeDi4N1CpnFrJc7"
     },
@@ -781,10 +1005,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214153,
       "name": "Pollo y Conejo",
       "url": "https://open.spotify.com/track/1xeLSOaNvDg68FGjIkJxkU"
+    },
+    {
+      "album": {
+        "name": "Pollo y Conejo",
+        "url": "https://open.spotify.com/album/486wFfAd63UihpKn7Cimiv"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Pollo y Conejo",
+      "url": "https://open.spotify.com/track/4dFzuZePy7GYvbPFNwJyyl"
     },
     {
       "album": {
@@ -825,10 +1067,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266841,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/5OPR2NjXIco5x0gum6OVA0"
+    },
+    {
+      "album": {
+        "name": "Prohibida",
+        "url": "https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Zornoza",
+          "url": "https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266866,
+      "name": "Prohibida",
+      "url": "https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt"
     },
     {
       "album": {
@@ -1005,7 +1269,7 @@
     {
       "album": {
         "name": "Smile",
-        "url": "https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC"
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
       "artists": [
         {
@@ -1018,7 +1282,43 @@
       "date_removed": null,
       "duration_ms": 213560,
       "name": "Si Nunca Va a Amanecer",
+      "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213560,
+      "name": "Si Nunca Va a Amanecer",
       "url": "https://open.spotify.com/track/62mv8OMTIeYjlL7ofwgvMI"
+    },
+    {
+      "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219573,
+      "name": "Si Te Vienen a Contar",
+      "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
     },
     {
       "album": {
@@ -1033,7 +1333,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219573,
       "name": "Si Te Vienen a Contar",
       "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
@@ -1063,7 +1363,7 @@
     {
       "album": {
         "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
@@ -1084,7 +1384,55 @@
       "date_removed": null,
       "duration_ms": 273485,
       "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273485,
+      "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/3oBJ5L6SEAKXgxuU0eeG7H"
+    },
+    {
+      "album": {
+        "name": "Te Ire A Buscar",
+        "url": "https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218045,
+      "name": "Te Ire A Buscar",
+      "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
     },
     {
       "album": {
@@ -1103,7 +1451,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218045,
       "name": "Te Ire a Buscar",
       "url": "https://open.spotify.com/track/5NEIEghTIfcIIOKuLlaKPc"
@@ -1223,10 +1571,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185099,
       "name": "Ya Te la Cypress",
       "url": "https://open.spotify.com/track/6Y9wSsggUc9zLbIqRd0o5c"
+    },
+    {
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187106,
+      "name": "Ya Te la Cypress",
+      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
     },
     {
       "album": {
@@ -1253,7 +1619,7 @@
     {
       "album": {
         "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+        "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
       "artists": [
         {
@@ -1268,6 +1634,28 @@
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 289013,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/6vTUJrl67jx0ijds0oYjBJ"
+      },
+      "artists": [
+        {
+          "name": "Millonario & W. Corona",
+          "url": "https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 289013,
       "name": "\u00c9xtasis (feat. Cartel de Santa)",
       "url": "https://open.spotify.com/track/4xbMF8jx0msGGgrtJaAuXE"

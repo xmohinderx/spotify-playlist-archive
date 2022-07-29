@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,492 likes - 73 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,664 likes - 73 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 38 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 39 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 |
 | 40 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
-| 41 | [1second 1minute 1hour \(Something Between Us X 2am\)](https://open.spotify.com/track/3EbrxxZPM9DF1AtpTRWIxJ) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [1second 1minute 1hour \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/5Yh02vaodFrkPZzC7Oei0H) | 3:36 |
+| 41 | [1second 1minute 1hour \(Something Between Us X 2am\)](https://open.spotify.com/track/3zOfZsJpefV3GP8YVvEpxf) | [2am](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [1second 1minute 1hour \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/0kvfmlPE9ZmDt5gazP1jsG) | 3:36 |
 | 42 | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [AN DA EUN](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 |
 | 43 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 |
 | 44 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 60 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 |
 | 61 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 |
 | 62 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 |
-| 63 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/6BnQTBEWTioAJ8wVUQXthB) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/2HKIoDcbh22DS3R1xxEe88) | 4:01 |
+| 63 | [Leaving you \(From "Tomb Raider King"\)](https://open.spotify.com/track/15SkcMXeM3kBDqC0ckm7Bq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Tomb Raider King \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/1ABAgDrnDMD9MzWVBOuLJA) | 4:01 |
 | 64 | [What I want](https://open.spotify.com/track/2ScUp6vBAjf54kK6nxSHdo) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [What I want \(From "Odd Girl Out" \[Original Soundtrack\]\)](https://open.spotify.com/album/3lWs144DBXJa8j6hERrwQK) | 3:58 |
 | 65 | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/track/3X9cumMpP7bPFiqYBcoSTZ) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [An Old Love Story \(2021\) \(Romance 101 X KCM\)](https://open.spotify.com/album/0QxfahBU97uktmdLCLr6xG) | 4:26 |
 | 66 | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/track/340ukejhWUMEDKdHCCpJm4) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Write about you \(Romance 101 X Lyn\)](https://open.spotify.com/album/6sD8MQDSyDX4CYQeOG5rWo) | 3:27 |
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 70 | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/track/77HhbrrRrEJzBcgaaUx3cZ) | [EB](https://open.spotify.com/artist/5dTfHslH6PS97tNNgDwYaC) | [Your Name \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 1\]](https://open.spotify.com/album/0425VpxacGwIfKNdxvR4rj) | 3:14 |
 | 71 | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG) | 3:27 |
 | 72 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
-| 73 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 |
+| 73 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 |
 
-Snapshot ID: `MTY1ODI5MDYyOSwwMDAwMDAxOTAwMDAwMTgyMTlkMmU5YzEwMDAwMDE4MWYxYTM5M2Vl`
+Snapshot ID: `MTY1ODI5MDYyOSwwMDAwMDAwMDQyZTc4NWMwNjJlYWVkYTMzMzk2YWIzOTFjOGQ2YWVh`

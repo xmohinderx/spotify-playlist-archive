@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 32 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
 | 33 | [wash your hands](https://open.spotify.com/track/2jpM1xm3XkQRsPyQdcTbYM) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [wash your hands](https://open.spotify.com/album/4Gw0Ny1PuwGrKYmmHT8ZIL) | 2:32 |
 | 34 | [icy love](https://open.spotify.com/track/56M81fLMWQMyTt6bZiEmT8) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:17 |
-| 35 | [There for You](https://open.spotify.com/track/38IkWM27SIOSsJXOUpTMFh) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/6Mg4BvozVs7H9L6QGl5tJB) | 2:37 |
+| 35 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
 | 36 | [california queen](https://open.spotify.com/track/56PlKUHEtipIDiHbcZkU50) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 2:36 |
 | 37 | [Top of My List](https://open.spotify.com/track/4SxUmLltcw9E4GX3LJUTZf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 2:22 |
 | 38 | [Hung Up](https://open.spotify.com/track/5piGbFZr6mMi7jfVvQUzGC) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [Hung Up](https://open.spotify.com/album/3lP2uvFc1EPkSL6Seyr6f5) | 4:18 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 70 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 71 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `Mjc2NDk1MjEsMDAwMDAwMDBiOTRjYThlYjI2ZjNhYzg5NDY3N2NkYTdkNTQzYzM1Zg==`
+Snapshot ID: `Mjc2NTA5NjEsMDAwMDAwMDBkYjViYzA2ZmNlZmQ3NjUwY2EzZWFhZGYwMzRkZjhlMw==`

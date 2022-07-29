@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Munaf Luhar, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,570 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,623 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 83 | [Tera Zikr](https://open.spotify.com/track/05iQB3iUamGZrowDs7ub7D) | [Manav](https://open.spotify.com/artist/51JL41wIGc0LJonGMZcsyM) | [Tera Zikr](https://open.spotify.com/album/0hqU29dVOem2Cq04UkB5Tq) | 3:57 |
 | 84 | [Sitting on my bed](https://open.spotify.com/track/018VqIUlNVC00Cf7F8M4qY) | [Raghav Mangrulkar](https://open.spotify.com/artist/1R2ObkMaIAIVcTXAkrfdBH) | [Sitting on my bed](https://open.spotify.com/album/7CNQjjsORk9bf2sRSxpfzp) | 2:57 |
 | 85 | [Pebbles In A River](https://open.spotify.com/track/5P2r0HMdmq7s14V0dtozhr) | [Nav's Hook](https://open.spotify.com/artist/5mzMIkIsGaD0PvwYvlHSqg) | [Pebbles In A River](https://open.spotify.com/album/6gYEeD6WdQdHYJWQGe5YhG) | 4:02 |
-| 86 | [Tum Ho Meri Jaan](https://open.spotify.com/track/2DqSQgNvvn4iktgrdDLCoj) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan](https://open.spotify.com/album/3tywdYNa5HVTmdw0ROfBI0) | 3:11 |
+| 86 | [Tum Ho Meri Jaan](https://open.spotify.com/track/11zUhzzHI3v67391OHYLxZ) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Tum Ho Meri Jaan \- Single](https://open.spotify.com/album/2a9ZIaQ32AVovWT2j6ejPN) | 3:11 |
 | 87 | [Jaadugar](https://open.spotify.com/track/702aSTeNYc27sU1JerBGYE) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol), [shreshth.](https://open.spotify.com/artist/02gRmLTUQdbvdEs56lhlH0) | [Jaadugar](https://open.spotify.com/album/5bwc6AGW4DHTX16hCE9jAQ) | 4:23 |
 | 88 | [Takhtiyaan](https://open.spotify.com/track/5CxjXzKKDLLLEWBLv3ZYP4) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z), [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Takhtiyaan](https://open.spotify.com/album/12aV5sB02tDuXWysxRucWE) | 4:11 |
 | 89 | [Umeed](https://open.spotify.com/track/4cqq8AEHXZkfHuXHvJQ4je) | [Parth Bhatt](https://open.spotify.com/artist/7GmJhVIDRsNUG41dpCf64x) | [Umeed](https://open.spotify.com/album/10Y8kBYTs2bnWFnCTD1XQv) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Dekho Wahaan Pe \- Four Lane](https://open.spotify.com/track/10pzp3sppIrKAi5ak31DPU) | [Gamak](https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN) | [Dekho Wahaan Pe \(Four Lane\)](https://open.spotify.com/album/3pRNNflZfxEJNWS3IISp1d) | 3:09 |
 | 100 | [Jaane Kaise](https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI), [ANA](https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA) | [Jaane Kaise](https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO) | 3:09 |
 
-Snapshot ID: `MTY1ODkwMzUyNiwwMDAwMDFlZTAwMDAwMTgyM2U1YWZkM2YwMDAwMDE4MjNhZjMwYTM1`
+Snapshot ID: `MTY1ODkwMzUyNiwwMDAwMDAwMGRjNDRlZmQ3NTdhZjVmMTU4ZWNjZjM0NDQwYjBjMWQ3`

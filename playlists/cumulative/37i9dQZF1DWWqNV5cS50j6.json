@@ -10398,6 +10398,24 @@
     },
     {
       "album": {
+        "name": "MANDELA EFFECT",
+        "url": "https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU"
+      },
+      "artists": [
+        {
+          "name": "HEARTBREAKHOTEL",
+          "url": "https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93667,
+      "name": "MANDELA EFFECT",
+      "url": "https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh"
+    },
+    {
+      "album": {
         "name": "MANIC MAN",
         "url": "https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb"
       },
@@ -13277,7 +13295,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-01",
+      "date_removed": null,
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok"
@@ -13295,7 +13313,7 @@
       ],
       "date_added": "2022-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172346,
       "name": "PORN ACTING*",
       "url": "https://open.spotify.com/track/5BkazOzXKqpVE4RI7Dbxnw"
@@ -17553,24 +17571,6 @@
       "duration_ms": 192862,
       "name": "the third.",
       "url": "https://open.spotify.com/track/3YlAV7GIa662CkAJDbqS7Y"
-    },
-    {
-      "album": {
-        "name": "Themanwithtwofaces",
-        "url": "https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU"
-      },
-      "artists": [
-        {
-          "name": "HEARTBREAKHOTEL",
-          "url": "https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 93667,
-      "name": "Themanwithtwofaces",
-      "url": "https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh"
     },
     {
       "album": {

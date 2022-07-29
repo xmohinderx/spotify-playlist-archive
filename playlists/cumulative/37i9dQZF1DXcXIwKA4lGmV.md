@@ -4,11 +4,12 @@
 
 > Songs all about cleaning up.
 
-33 songs - 1 hr 9 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
+34 songs - 1 hr 10 min - [published](https://open.spotify.com/playlist/2ReI04f5VoYE7BBtfAWes4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Clean It Up](https://open.spotify.com/track/2VAlEyBUcnPJBlnynApOwO) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Classroom Favorites](https://open.spotify.com/album/0yBz0GmNIjkR9pTxNwSx1o) | 1:20 | 2022-04-08 |  |
+| [Clean It Up](https://open.spotify.com/track/2VAlEyBUcnPJBlnynApOwO) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Classroom Favorites](https://open.spotify.com/album/0yBz0GmNIjkR9pTxNwSx1o) | 1:20 | 2022-04-08 | 2022-07-29 |
+| [Clean It Up](https://open.spotify.com/track/240jwZegpLXJzrxrYMCBuz) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 1:23 | 2022-04-08 |  |
 | [Clean It Up!](https://open.spotify.com/track/1MQtc9JALkjXqOafjdeJnJ) | [The Juicebox Jukebox](https://open.spotify.com/artist/5E97AmvYFM4aGWCOtJkzYH) | [Now Hear This!](https://open.spotify.com/album/2cYNQhLqOi3bjGUqhfu34q) | 2:02 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 | 2022-04-08 |  |
 | [Clean Up](https://open.spotify.com/track/0t1rkqsHhGf4JsZycaeNSs) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Tunes, Vol\. 3](https://open.spotify.com/album/4yXRgaXo2hTMr4aRPCL21b) | 2:51 | 2022-04-08 |  |

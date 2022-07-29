@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,100 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,105 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 30 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 |
 | 31 | [Raat Kay Sapna](https://open.spotify.com/track/6bK5f9cYKD3wdB9sbbp5da) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:32 |
 | 32 | [Gunga Ghana](https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Dubraj Persad](https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX) | [Gunga Ghana](https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk) | 4:07 |
-| 33 | [Chutney Bachannal](https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP) | [Byron Lee & The Dragonaires](https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy) | [Soca Engine](https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv) | 3:03 |
-| 34 | [Dip](https://open.spotify.com/track/2NWKeFC8heQQ9AkxctKN4X) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Force It Riddim](https://open.spotify.com/album/1846aL6BF1twe5PHfT1pha) | 2:02 |
+| 33 | [Chutney Bachannal](https://open.spotify.com/track/5P0X7qfDz1XsrlOi31vi1g) | [Byron Lee](https://open.spotify.com/artist/1qerVYQkyneFNgZfMKH6HX), [The Dragonaires](https://open.spotify.com/artist/6lSdMYrQWXU22MBTq1qc0y) | [Soca Engine](https://open.spotify.com/album/1XZv3qPdcRhpyQXpULHedg) | 3:03 |
+| 34 | [Dip](https://open.spotify.com/track/4GHN02Kv3PXDZM1a6IZP8X) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [iShal](https://open.spotify.com/album/3v6iti36iXjQ289j4zMcd1) | 2:01 |
 | 35 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 36 | [Radica](https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:21 |
 | 37 | [Yard Fowl](https://open.spotify.com/track/6YOozIEU54Llwp9nXczxBW) | [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI), [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6) | [Yard Fowl](https://open.spotify.com/album/66OX7dotLuIJuR5XOcrGEr) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 49 | [Balkissoon](https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57) | [Omardath Maharaj](https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Balkissoon](https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy) | 3:44 |
 | 50 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 
-Snapshot ID: `MTY1NzYyMzU1NSwwMDAwMDAxNzAwMDAwMTgxZjIxMDJjZjUwMDAwMDE3MGM0ZDA4YWVi`
+Snapshot ID: `MTY1NzYyMzU1NSwwMDAwMDAwMGE5NDdkYzY2YzIzYmFlMmRkN2M5OTk0ZDE2N2RmMmI2`

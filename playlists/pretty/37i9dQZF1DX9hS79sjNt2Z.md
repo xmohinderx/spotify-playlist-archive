@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 
 > Easter songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 631 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Easter's Just Around The Corner](https://open.spotify.com/track/2GUUh2zqfuiUmFcclc5iDL) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Favorite Easter Songs](https://open.spotify.com/album/3msrrfMbwnI1B0otC8oxfx) | 2:24 |
-| 2 | [Hosanna Rock](https://open.spotify.com/track/4kz07ixLQshK8EkodShvpM) | [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK), [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [Happy Day Everyday](https://open.spotify.com/album/2qsA6ZAsnQ4OGNolZUzXr7) | 2:20 |
+| 2 | [Hosanna Rock](https://open.spotify.com/track/1C9GzLSV6dYRzeRHf9cInr) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu), [Little Praise Party](https://open.spotify.com/artist/58LoGVb6PvorhE0XwZwtYK) | [Happy Day Everyday](https://open.spotify.com/album/3XxNDjaH8AS7LTUyyjPHRv) | 2:20 |
 | 3 | [Happy Day](https://open.spotify.com/track/4G46VgTSuWhtWFD4qHZ0iO) | [Worship For Kids](https://open.spotify.com/artist/4G3cNWUeiPYbH9OgUsMHVA) | [Happy Day](https://open.spotify.com/album/0vpSj9bEfrkaG7ggdE6tbk) | 3:21 |
 | 4 | [On That First Easter](https://open.spotify.com/track/4BRsKAav6GkT3DNr5YX9JQ) | [God's Kids Worship Band](https://open.spotify.com/artist/4ps6pooxJprtllhZ1hR1Xc) | [Easter Wonder](https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA) | 2:42 |
 | 5 | [You Rose Again](https://open.spotify.com/track/3qyZcGymLRGDEGUzui4k54) | [Trevor Ranger](https://open.spotify.com/artist/0IpLn3LnSMQ3MLilc3lwVF) | [Essential Songs for Kids \- This Little Light of Mine](https://open.spotify.com/album/4G0OKBYCcT9HyL8u3YH7tk) | 4:20 |
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 10 | [The Easter Bunny Parade](https://open.spotify.com/track/0dkextwm106FDaSMFkfGwh) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI), [Mr\. Steve](https://open.spotify.com/artist/6zO8I3N6qSLXrQ39Ht0Gxu) | [Easter Bunny Songs!](https://open.spotify.com/album/0oGAsQqWZh5MIxFgs3UST7) | 1:53 |
 | 11 | [Jesus Paid It All](https://open.spotify.com/track/1a0V3HFe90DLvRQhlznIIJ) | [God's Kids Worship Band](https://open.spotify.com/artist/4ps6pooxJprtllhZ1hR1Xc) | [Easter Wonder](https://open.spotify.com/album/2YydZZFVOOoTDdQnL4ifyA) | 3:42 |
 | 12 | [Christ the Lord Has Risen Today](https://open.spotify.com/track/1WPzTgmAbR9hBBTmL0ueqg) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Easter Songs](https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I) | 2:37 |
-| 13 | [1, 2, 3, 4, 5 Jesus Christ Is Now Alive](https://open.spotify.com/track/41oaEtLJcGKjNGCI6qnZQ0) | [Emu Music](https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip) | [A Very, Very, Very Big God](https://open.spotify.com/album/0kgtviJUDwa3iAxfBp8luQ) | 1:05 |
+| 13 | [1, 2, 3, 4, 5 Jesus Christ Is Now Alive](https://open.spotify.com/track/2nkvejSUbGKn67amq9E3Pj) | [Emu Kids](https://open.spotify.com/artist/4TP4IyNuShPQKsLGMfH8IX) | [A Very, Very, Very Big God](https://open.spotify.com/album/3RgCTduZ0zCbipyirCEBdb) | 1:05 |
 | 14 | [Jesus Is Alive](https://open.spotify.com/track/6kDcslmJPGR71E0B4DvUkF) | [Singin' Praise Tots](https://open.spotify.com/artist/5IdgJpb54e6YMm2NUZoWDa) | [Singin' Praise Tots Easter](https://open.spotify.com/album/15Hxq7h2c1bJIL81u8kjnK) | 2:39 |
-| 15 | [Going on an Egg Hunt](https://open.spotify.com/track/3uQcAhFumcnFyK09PJiHN2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hop Little Bunnies! Happy Easter Nursery Rhymes](https://open.spotify.com/album/3Oclqm5KqXXk2UQqasClEN) | 1:54 |
+| 15 | [Easter Egg Hunt!](https://open.spotify.com/track/6ijiS6TK6bPNuLLHRUgAiD) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hop Little Bunnies! Happy Easter Nursery Rhymes](https://open.spotify.com/album/4l8ubVl3ZuL18cIC4qgF7L) | 1:54 |
 | 16 | [Joyful, Joyful We Adore Thee](https://open.spotify.com/track/09ZBhEhoOzItFFdudh77SD) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Easter Songs & Hymns for Kids](https://open.spotify.com/album/5cCs99eMsdLYsDlyuH9FxF) | 1:56 |
 | 17 | [He's Alive \(Matthew 28:6\)](https://open.spotify.com/track/45kkw7M1Iofs2YwPO5sJOB) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Favorite Easter Verses](https://open.spotify.com/album/7xGr68B1Jo7TDEcxvhkQK5) | 2:05 |
 | 18 | [Easter Bunny Hop](https://open.spotify.com/track/3OaedH1p7l7ey66DxJYNso) | [VeggieTales](https://open.spotify.com/artist/4QKx7KohkWZAOkO4sI3GRx) | [A Very Veggie Easter](https://open.spotify.com/album/5a1G1mo2BhpX6Xdgt6BRZ0) | 3:55 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 31 | [On the Third Day](https://open.spotify.com/track/2UJPE9y4UrhJMEoufssWOV) | [Nick & Becky Drake](https://open.spotify.com/artist/3jfLD5DtjrE6sk5cYpNhJQ) | [God Is Here](https://open.spotify.com/album/00MoSFw6UXISxCjwZby5TV) | 3:54 |
 | 32 | [I Believe](https://open.spotify.com/track/6SPnO1v4T3TraOc5lPacGs) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [I Believe \(An Easter Curriculum\)](https://open.spotify.com/album/1XI67b6DN7yvPAscGjrjMr) | 3:06 |
 | 33 | [God Is so Good](https://open.spotify.com/track/4OzcdElOOHyJULyPcePFGn) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Easter Songs](https://open.spotify.com/album/7k96z6PC4ViB8GvRKRhV5I) | 1:15 |
-| 34 | [The Best Thing About Easter \(Jesus Is Alive!\)](https://open.spotify.com/track/6u76bJ9FiwihesMlBmUONu) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/07rrPVnGBOIw9c7ma8cACK) | 0:58 |
+| 34 | [The Best Thing About Easter \(Jesus is Alive!\)](https://open.spotify.com/track/2ywhjnLZRvIvzbYMByhuMq) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo) | 0:58 |
 | 35 | [Jelly Beans in My Tummy](https://open.spotify.com/track/2I8DxBSiYv8wyq89RfqrKY) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Kids Pop Songs for Easter](https://open.spotify.com/album/3710jZ7w18fCMjjwtleXDl) | 1:56 |
 | 36 | [Easter Bunny Song](https://open.spotify.com/track/0JPlozTo20nLGrjZXmL1BI) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Easter Bunny Song](https://open.spotify.com/album/4kwLm89dxeSbzyaOczfgHm) | 2:21 |
-| 37 | [Jesus Christ Was Raised to Life](https://open.spotify.com/track/7k7PchQIg5xBIfMsnXAXjy) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/07rrPVnGBOIw9c7ma8cACK) | 2:14 |
+| 37 | [Jesus Christ Was Raised to Life](https://open.spotify.com/track/3ZU7LI3XOn8p17orSX1nZL) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Boss of the Cross](https://open.spotify.com/album/54GHJVVB77PyoJRAuazmfo) | 2:14 |
 | 38 | [What a Friend We Have in Jesus](https://open.spotify.com/track/00uKYabMtNbg9rJ6M3A6Vf) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Easter Hymns](https://open.spotify.com/album/6pCJF76lwE3kM5zCBPFF0j) | 2:08 |
 | 39 | [Gonna Hop 'til I Drop](https://open.spotify.com/track/6FfCbDjWtYkQgDpDJ2UXRN) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Kids Sing Favorite Easter Songs](https://open.spotify.com/album/3msrrfMbwnI1B0otC8oxfx) | 1:50 |
 | 40 | [Let's Rock to Get Ready for Easter](https://open.spotify.com/track/5K1fY5zQeBgjcaDSVU3N0L) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Let's Rock to Get Ready for Easter](https://open.spotify.com/album/2ns9vKKbNAYvVC7nY9K2U5) | 2:03 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9hS79sjNt2Z.md) - [plain]
 | 100 | [Lead Me To The Cross](https://open.spotify.com/track/6OJZWfDfxubWxWYWhHI0Og) | [Kids Praise! Company](https://open.spotify.com/artist/13EBQsdgR822icqaSKAGwT) | [Good Good Father](https://open.spotify.com/album/79hijgvISuI86XQD7Q9By2) | 4:21 |
 | 101 | [Christ Is Risen, He Is Risen Indeed](https://open.spotify.com/track/5Fcqe3AVjIf8OBeCZswCOZ) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Getty Kids Hymnal \- In Christ Alone](https://open.spotify.com/album/7yiENPxEnhGvOLisic94jw) | 4:10 |
 
-Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwNDAwMDAwMTc4YjcxMmZmMDIwMDAwMDE3ODIxZDliNTk3`
+Snapshot ID: `MTYxNzk3OTE3OCwwMDAwMDAwMDI5OTcxZTVjMWZlODNhYmQzODE5NTMwZjRjM2QyNWMy`

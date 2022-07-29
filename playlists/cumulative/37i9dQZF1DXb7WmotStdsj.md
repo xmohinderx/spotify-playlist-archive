@@ -4,14 +4,16 @@
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-54 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+57 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3adyani Bel Gros \- Remix Master T](https://open.spotify.com/track/1Z3UznHCGkclMLMOBRxeHN) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Master T](https://open.spotify.com/artist/6zNY7V2iBFiUfOXTSNwA15) | [3adyani Bel Gros \(Remix Master T\)](https://open.spotify.com/album/0RdUojL9QBTuDHECRDrGFt) | 3:46 | 2021-10-19 |  |
-| [3inehom Mesawsa](https://open.spotify.com/track/4oPwHrcH1bhl2lOqNobnCY) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 3:50 | 2021-10-19 |  |
+| [3inehom Mesawsa](https://open.spotify.com/track/4oPwHrcH1bhl2lOqNobnCY) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 3:50 | 2021-10-19 | 2022-07-29 |
+| [3inehom Mesawsa](https://open.spotify.com/track/1jlbsu52lXFfz9rE6VWwId) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 3:50 | 2022-05-11 |  |
 | [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 | 2021-10-19 |  |
-| [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 |  |
+| [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
+| [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 |  |
 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 |  |
 | [Bagi Nwali Milliardaire](https://open.spotify.com/track/5PEdfV2WSVKIywE2dTgPQF) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Bagi Nwali Milliardaire](https://open.spotify.com/album/0HLrF0mYDsHcIPtUcILGhN) | 4:24 | 2021-10-19 |  |
 | [Bechouiya 3la Galbi](https://open.spotify.com/track/073EMBsQPqd4j89yoztZ47) | [Rai Mix](https://open.spotify.com/artist/03sJ8qPVXuuOkHBdswV4pj) | [Dj ANes ReMix Rai](https://open.spotify.com/album/3e4hbnsuCNBmXPXdTDexzO) | 4:05 | 2021-10-19 | 2022-03-26 |
@@ -47,7 +49,7 @@
 | [Mazalni Kima Bakri](https://open.spotify.com/track/4qnmWklH3MwTy41kDCbex9) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Mazalni Kima Bakri](https://open.spotify.com/album/539HX5WN2FIVRu6dguBtyg) | 3:44 | 2021-10-19 |  |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 |  |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-11 |  |
-| [N3ichou la vida](https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [N3ichou la vida](https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB) | 3:41 | 2022-04-15 |  |
+| [N3ichou la vida](https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [N3ichou la vida](https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB) | 3:41 | 2022-04-15 | 2022-07-29 |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 |  |
 | [Nti Daout El Kheir](https://open.spotify.com/track/0w9SfiXXJsC8sXPocUatO6) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Nti Daout El Kheir](https://open.spotify.com/album/6vSuWq4upKblZk9JPISsrX) | 4:25 | 2021-10-19 |  |
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 |  |
@@ -56,7 +58,8 @@
 | [Twahachtek ana](https://open.spotify.com/track/2kfxJQaJsGpe0eYjM8pIxE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Twahachtek ana](https://open.spotify.com/album/08QVX3oPM46w3beaRWgfGE) | 4:03 | 2021-10-19 |  |
 | [Twahachtek Omri](https://open.spotify.com/track/1QcJ7OsYeuhFsCzKyy1j4L) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe) | [Twahachtek Omri](https://open.spotify.com/album/7DIDz2uxqKJ4mhhBqCj4jZ) | 4:38 | 2021-10-19 |  |
 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 | 2021-10-19 |  |
-| [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 |  |
+| [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
+| [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 |  |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 |  |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 |  |
 | [على رواحنا منكذبوش](https://open.spotify.com/track/5BaSu9ES2R8LIYxAZBTqQA) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [على رواحنا منكذبوش](https://open.spotify.com/album/0Oe1AG3aTF6lEyNyKAzo68) | 4:20 | 2021-10-19 |  |

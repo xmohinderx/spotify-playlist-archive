@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: MoJaNaD.
 
-84 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
+86 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5Kcna48CrV8fuYA6mNyZOZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Hazina](https://open.spotify.com/track/3JLhpzsdRKu2XX40hWkAo0) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Hazina](https://open.spotify.com/album/1YouEiz9p93Tp51juzplSP) | 3:57 | 2021-12-23 | 2022-03-15 |
 | [Helwa Ya Baladi](https://open.spotify.com/track/16XFirWEReR8H21pJfIL49) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Helwa Ya Baladi](https://open.spotify.com/album/25t09XMGJxntx0Yk8H1bev) | 4:10 | 2021-12-23 |  |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2021-12-23 | 2022-01-21 |
-| [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-23 |  |
+| [ISMAK](https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL) | 3:10 | 2022-07-23 |  |
+| [ISMAK](https://open.spotify.com/track/43VNzrxl9c8l3BHbzLHQTY) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [ISMAK](https://open.spotify.com/album/1yLtoNHRhnWC0LN8b04gjp) | 3:10 | 2021-12-23 | 2022-07-29 |
 | [Kefaya](https://open.spotify.com/track/4de9VEoQzSNVUNJ365htJR) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kefaya](https://open.spotify.com/album/1zSToNW52s7GW0rj7bDfoK) | 3:26 | 2021-12-23 | 2022-01-22 |
 | [Khaleeki](https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [Khaleeki](https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr) | 2:24 | 2022-07-23 |  |
 | [Khayal](https://open.spotify.com/track/6oItsPDKVtqJFtbIn8V4AW) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Khayal](https://open.spotify.com/album/7seFxa9r1rPYcgdCka6hcN) | 3:45 | 2021-12-23 | 2022-02-26 |
@@ -88,7 +89,8 @@
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 |  |
 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 | 2021-12-23 | 2022-02-16 |
 | [زي زمان](https://open.spotify.com/track/57Hzblv2Su9kcvpQ6Wuis3) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [زي زمان](https://open.spotify.com/album/4VvlIUieIPAhvIO3tBRwMY) | 3:54 | 2022-02-17 |  |
-| [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 |  |
+| [عشانك](https://open.spotify.com/track/0cJ6V9clK0gZCwPHxgKB5D) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/7IeH8T12RVRbIlppvS83x3) | 3:07 | 2022-07-23 |  |
+| [عشانك](https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk) | 3:07 | 2022-01-01 | 2022-07-29 |
 | [في السماء \(Fe Samaa\)](https://open.spotify.com/track/1dIf1Gc7gIoXSuRzlnOTWC) | [Bawrut](https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV), [ڭليثر Glitter٥٥](https://open.spotify.com/artist/2KWnDPIjSGjvYrwexIdYyI) | [في السماء \(Fe Samaa\)](https://open.spotify.com/album/03rlICPw5ab843v5pXMo4H) | 3:53 | 2021-12-23 | 2022-04-19 |
 | [لحالها](https://open.spotify.com/track/64NJb1lr4J9IXDUNl63nxo) | [Molham](https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom) | [لحالها](https://open.spotify.com/album/2War9jZBTVTUv12nB0YkUz) | 2:53 | 2021-12-23 | 2022-04-16 |
 | [وين اليوم](https://open.spotify.com/track/3D4FAxWer4j9RD2ASrdfv2) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [وين اليوم](https://open.spotify.com/album/4Bw1p9br1qbIaA8tZz42td) | 3:45 | 2022-01-13 |  |

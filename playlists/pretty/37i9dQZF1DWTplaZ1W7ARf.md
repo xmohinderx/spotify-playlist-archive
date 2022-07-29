@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: NoCap
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,060 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,091 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 5 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 |
 | 6 | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/track/6yo90VmiX3oiCAZJfZQspi) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Love of the Money \(feat\. Hotboii\)](https://open.spotify.com/album/2jHHkewIxIxHCBoGOSJJCU) | 3:01 |
 | 7 | [Vette Motors](https://open.spotify.com/track/02Cj2MSlERvamTj5A7Zi0P) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Vette Motors](https://open.spotify.com/album/4fbvMPy3XjJZieGyRokQop) | 2:53 |
-| 8 | [livin wild](https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:22 |
+| 8 | [livin wild](https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:22 |
 | 9 | [Time Flies](https://open.spotify.com/track/5uIA7QTMH8r8notgfWO3E9) | [Trav](https://open.spotify.com/artist/3JugPn0f37nRk6DP7k4xIM), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [P.I.T.S](https://open.spotify.com/album/0Fls2Hx0zCRw1FV4soFllc) | 3:16 |
 | 10 | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/track/1kTUHCB8NPqAPSnI5D1YIG) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [YNW BSlime](https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu) | [How It Feels \(feat\. YNW BSlime\)](https://open.spotify.com/album/28Fjbqnkqv9LmOGLehRIVT) | 2:33 |
 | 11 | [Congratulations](https://open.spotify.com/track/1UWwGCTP14FDO3N1B7EUQ7) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [DJ ESCO](https://open.spotify.com/artist/2J0JN7EFN10G1Tty6hX0AN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FACE \(Deluxe Edition\)](https://open.spotify.com/album/4GZSso90oXNVv0OdzXGjth) | 3:25 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 22 | [Letter 2 My Brother](https://open.spotify.com/track/5QIT3l4ZyXIUn9fe0hYfr3) | [Lil Kee](https://open.spotify.com/artist/21UqznWenhsInMOKxpVPBd) | [Letter 2 My Brother](https://open.spotify.com/album/4IhixF00YHMV3nPGVdFzMS) | 3:22 |
 | 23 | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/track/6PEpJzJHOb0tb0XzzeFYgp) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Save The Day \(feat\. Kodak Black\)](https://open.spotify.com/album/4z5D4nPO3ndg4mMNRljux3) | 2:36 |
 | 24 | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/track/0IJjdH8S6f1hcctRtXKaUZ) | [GANG51E JUNE](https://open.spotify.com/artist/5WPIT3gvl0GWGIMFBkFvUe), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Static Rain \(feat\. Birdy\)](https://open.spotify.com/album/21j9EyGoFPhmq5sYrajjLT) | 2:55 |
-| 25 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 |
+| 25 | [Feelin Like Rylo](https://open.spotify.com/track/2CXIvdXp0IC6KrNHXNuDzz) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:25 |
 | 26 | [Set Me Free](https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Set Me Free](https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx) | 3:13 |
 | 27 | [Best End](https://open.spotify.com/track/2y7qBvh9NqMRdQrLICIsiC) | [Lul Bob](https://open.spotify.com/artist/6GJeLBoNe1m9Yk1dEAUgJj) | [Best End](https://open.spotify.com/album/2QLjvhGJ9p8ZspwhhOYj8v) | 2:25 |
 | 28 | [Closure](https://open.spotify.com/track/0X5lj4BaAPT5TZPp9Qd5DB) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Closure](https://open.spotify.com/album/407bge0e0JWWnqqf1bMPjd) | 4:48 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 31 | [Slums](https://open.spotify.com/track/71gCSQlGoGC2N9BOGAjbk5) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [Slums](https://open.spotify.com/album/4p498ruZiGZNe5q1AzNpP3) | 3:12 |
 | 32 | [Forever Ballin' \(feat\. Shenseea\)](https://open.spotify.com/track/4FA9xmJIHU00p0ajkniuW0) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [CM10: Free Game \(Side B\)](https://open.spotify.com/album/4x3Rld7KvaO5HH8dJN8eDU) | 3:37 |
 | 33 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 |
-| 34 | [Shackles to Diamonds](https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Teaser](https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm) | 2:56 |
+| 34 | [Shackles to Diamonds](https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:56 |
 | 35 | [Still Here \(feat\. Cordae\)](https://open.spotify.com/track/1WmOlcya9zgYB714iujmVb) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Still Here \(feat\. Cordae\)](https://open.spotify.com/album/0zeQClmSZ283w0KoFrB14b) | 3:16 |
 | 36 | [Soul Bleed](https://open.spotify.com/track/4jHz6x0LTLdRsAnWWlVx5w) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Soul Bleed](https://open.spotify.com/album/74S4OzUeGxO911OCx638cM) | 2:51 |
 | 37 | [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Heart & Soul](https://open.spotify.com/track/0PFgeiQORt3eqq5OX7BxCc) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/2oyN9nzl627l8ZeovPo46F) | 3:49 |
 | 50 | [Buzz](https://open.spotify.com/track/0V3mdaIPmadVbYujq3nfSd) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Buzz](https://open.spotify.com/album/4PG7NHDf5vmrTtkUXkqJrh) | 3:16 |
 
-Snapshot ID: `MTY1Nzg1NzY2MCwwMDAwMDA1MDAwMDAwMTgyMDAwNDU1MzcwMDAwMDE4MDZkMGE2Mzc1`
+Snapshot ID: `MTY1Nzg1NzY2MCwwMDAwMDAwMDVlNDc0ZGNlNWM0YzY3Zjc1OThiZDFhMWZkNWI2NTdj`

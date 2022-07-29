@@ -4,7 +4,7 @@
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
+82 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 | 2022-06-01 |  |
 | [Stop Bzdurom \(The Bad Gays\)](https://open.spotify.com/track/78xBVzCxu76P01HldHdaeE) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 4:33 | 2021-06-22 | 2022-06-01 |
 | [Straty](https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms) | 4:04 | 2022-06-10 |  |
-| [Suka jak Ja](https://open.spotify.com/track/4ycrPLMf7MzGM2x1N2LIfG) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Suka jak Ja](https://open.spotify.com/album/3IddZSA2Lrgfs1ruhbzSFD) | 3:10 | 2022-06-01 |  |
+| [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 | 2022-07-22 |  |
+| [Suka jak Ja](https://open.spotify.com/track/4ycrPLMf7MzGM2x1N2LIfG) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Suka jak Ja](https://open.spotify.com/album/3IddZSA2Lrgfs1ruhbzSFD) | 3:10 | 2022-06-01 | 2022-07-29 |
 | [Suwenir](https://open.spotify.com/track/4q2gmv1VIaI0a8i4AVjewe) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Suwenir](https://open.spotify.com/album/3WobIG2LjPmQcE2hbGJXRy) | 3:49 | 2022-06-01 | 2022-07-02 |
 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 | 2022-06-13 |  |
 | [Tamto Lato](https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:12 | 2022-06-10 |  |

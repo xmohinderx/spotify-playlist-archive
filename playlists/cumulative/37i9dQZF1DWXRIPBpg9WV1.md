@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-92 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
+95 songs - 5 hr 18 min - [published](https://open.spotify.com/playlist/7BlL5UpDQdx2iXZ9eRyjoI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Forever Young](https://open.spotify.com/track/3DqIOV0st55MNgcPADbZ5g) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [Forever Young](https://open.spotify.com/album/1RgBMeU6q2y0byQeHJk2Pb) | 3:23 | 2022-05-20 |  |
 | [Ghost](https://open.spotify.com/track/3FW8rKculGoPgzYuvvpExG) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Ghost](https://open.spotify.com/album/6wHrmWj44OsD6Z7koSa7PR) | 3:11 | 2022-05-20 |  |
 | [God Only Knows](https://open.spotify.com/track/2OzZdwUjDKvHml7nV3rVAO) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [God Only Knows](https://open.spotify.com/album/4Wv2pkk3BdYTT5DAmFPf3M) | 2:18 | 2022-05-20 |  |
-| [Goodbye Yellow Brick Road](https://open.spotify.com/track/1by7FAjCJUlTCSSCb1NZPu) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/4JPPbRiq1anB5eGisCJ4ea) | 3:13 | 2022-05-20 |  |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/1by7FAjCJUlTCSSCb1NZPu) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/4JPPbRiq1anB5eGisCJ4ea) | 3:13 | 2022-05-20 | 2022-07-29 |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO) | 3:13 | 2022-07-26 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/69yGmOlMXuVMBhmJipSA1r) | [Glenn Roth](https://open.spotify.com/artist/2HVU7yTOl9v0FwAnK9c78d) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/0ka00dwBBtENB19SEIM3yU) | 3:26 | 2022-05-20 |  |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-05-20 |  |
 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 | 2022-05-20 |  |
@@ -57,7 +58,8 @@
 | [Iris](https://open.spotify.com/track/32710csZDUuG7Q65jUmyHF) | [Gary Trunket](https://open.spotify.com/artist/0O5CYvPvY4crcuQPSmCPIJ) | [Iris](https://open.spotify.com/album/3UIw5d1XM2kD9azjb7jiWp) | 3:43 | 2022-05-20 |  |
 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 | 2022-05-20 |  |
 | [James](https://open.spotify.com/track/5SJVQcy3KMrvth7gnE0ffV) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 4:19 | 2022-05-20 |  |
-| [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 |  |
+| [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 | 2022-05-20 | 2022-07-29 |
+| [Just Like Heaven](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 | 2022-07-26 |  |
 | [Let Her Go](https://open.spotify.com/track/2g1Dmw32Vmnnj9yy0GLj3m) | [James Bartholomew](https://open.spotify.com/artist/1Vyppo6e0BeS9y2MDF2h4g) | [Acoustic Covers, Vol\. 1](https://open.spotify.com/album/0QfTHR4KvqlWXQAnpaSpqA) | 4:13 | 2022-05-20 |  |
 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 | 2022-05-20 |  |
 | [Light Switch](https://open.spotify.com/track/0gpE9hyrd3hjERocbNwW5A) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Light Switch](https://open.spotify.com/album/1UEfAxnaJrTiTWej5d1ihK) | 3:25 | 2022-06-15 |  |
@@ -85,7 +87,8 @@
 | [thank u, next](https://open.spotify.com/track/1k8qyGwxBAYnrxJB275I3J) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [thank u, next](https://open.spotify.com/album/1N5vigLqBS3jOrWeWr3mRY) | 2:30 | 2022-05-20 |  |
 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 |  |
 | [The Times They Are a\-Changin’](https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [The Times They Are a\-Changin’](https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US) | 2:22 | 2022-05-20 |  |
-| [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 |  |
+| [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 | 2022-05-20 | 2022-07-29 |
+| [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 | 2022-07-26 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0lazFQfhuD9CDjkceTIj9E) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [Anna Kitkowska](https://open.spotify.com/album/02yT961mEldwOgfmrwzW0Z) | 4:04 | 2022-05-20 |  |
 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 | 2022-05-20 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/7yuJEGsaEhonLWpqX67h5v) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Visa vid vindens ängar](https://open.spotify.com/album/4hjS1cyVshSuAk0oLhVGKB) | 2:26 | 2022-05-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > I Prevail on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,954 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,242 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 12 | [Eye of the Storm](https://open.spotify.com/track/0TTSQeJnGnpCxX7LWsdD9F) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Eye of the Storm](https://open.spotify.com/album/6qqCXmeilVuyFxSaOpp59b) | 3:54 |
 | 13 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
 | 14 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 |
-| 15 | [Tear It Down](https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13) | 3:57 |
+| 15 | [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 |
 | 16 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 |
 | 17 | [Heartache](https://open.spotify.com/track/2TBDweMyj3Wen6bu9gYwrn) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Heartache](https://open.spotify.com/album/1202mNUlTJufiL8oVbS7nO) | 3:45 |
 | 18 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 21 | [Plagued](https://open.spotify.com/track/7vEfK1zL7FF5SVy4s1sYUC) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Plagued](https://open.spotify.com/album/0WgDndMMinCJLLMQ2MMoxP) | 3:29 |
 | 22 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 |
 | 23 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 |
-| 24 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 |
+| 24 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 |
 | 25 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
-| 26 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 |
+| 26 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 |
 | 27 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 |
 | 28 | [SPIRITS](https://open.spotify.com/track/3ssc9tjQwV4gk40pkktbOD) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [SPIRITS](https://open.spotify.com/album/2rE2XeImSA5qCuS4faICNV) | 5:39 |
 | 29 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 37 | [Enough](https://open.spotify.com/track/46PbPFnjEgaUQtxiYh334k) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0), [Will King](https://open.spotify.com/artist/4k3IKj51sqFK9nKz7qPdbM) | [Enough](https://open.spotify.com/album/6bqhEARnShL0e5LenCwvzk) | 2:49 |
 | 38 | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/track/35S0Oh0JrXAhGzrLHzUvw8) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Crosses \(feat\. Spencer Chamberlain of Underoath\)](https://open.spotify.com/album/0b2vVXjAlHWSyLfnQAUmtv) | 3:29 |
 | 39 | [The Great Heathen Army](https://open.spotify.com/track/15rzwcnr5ZRaRF7xQjg9Wd) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [The Great Heathen Army](https://open.spotify.com/album/2Ge7U7lz8QrfTEI9RmBEhc) | 4:04 |
-| 40 | [Shallow \- Single\-Edit](https://open.spotify.com/track/7y27laiBQrE01XuFLkndaz) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/28FlPG6SvLLb8Z4KbHbJ5X) | 3:25 |
+| 40 | [Shallow \(feat\. Mike Perez\) \- Single Edit](https://open.spotify.com/track/1yH6xfN3nET67Ryux09k5s) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk), [Mike Perez](https://open.spotify.com/artist/5PCYLbDOlfd0EyAWOp7umQ) | [Shallow](https://open.spotify.com/album/61WbhTzQSPw5CruJreLXQQ) | 3:25 |
 | 41 | [Jester](https://open.spotify.com/track/2hLzDI8XizgkPsMzs2ULTt) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Jester](https://open.spotify.com/album/2ocH2F2vvI62odBkqvnSdR) | 4:02 |
 | 42 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 |
 | 43 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
 | 60 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 |
 
-Snapshot ID: `MTY1ODUxMzI4MywwMDAwMDRlYTAwMDAwMTgyMjcxODVhNDEwMDAwMDE4MjFkMTdkZmNi`
+Snapshot ID: `MTY1ODUxMzI4MywwMDAwMDAwMDliMWNlYWNhYTY3ZDliYWQ0MTRkMmE5MzhhODg5NDhk`

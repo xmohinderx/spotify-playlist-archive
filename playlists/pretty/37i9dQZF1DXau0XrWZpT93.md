@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 
 > Start your day with these beautiful scores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,467 likes - 73 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,480 likes - 73 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Lies Bleeding](https://open.spotify.com/track/5sQwJ3rAWhIe1B1kZiuG4X) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Love Lies Bleeding](https://open.spotify.com/album/1hyOH3QLhykwuNnsw0z1NB) | 2:09 |
 | 2 | [Sunrise](https://open.spotify.com/track/0nsDRLBkStw53EuYXbibO4) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Polaris](https://open.spotify.com/album/4zRFfOm7i3DhHqmW0rIIru) | 2:56 |
-| 3 | [Supposing](https://open.spotify.com/track/7vCNVMDqzV2tsdZi5Rodi6) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 3:07 |
+| 3 | [Supposing](https://open.spotify.com/track/08nQNQ3joVf8kyjuZ9rEVv) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 3:07 |
 | 4 | [Eaux](https://open.spotify.com/track/3o0bY0fJyynYhTwOH4yVci) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Three Days in Venice](https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop) | 3:31 |
 | 5 | [Look to the Stars](https://open.spotify.com/track/6gEpi8OJ4bB7ukrJLGpmHf) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Dancing in the Rain](https://open.spotify.com/album/3RANLwqogQqjy2xGFZC7ip) | 2:49 |
 | 6 | [Home](https://open.spotify.com/track/0BZK74rauKeNrOevBkhNE8) | [Gorka](https://open.spotify.com/artist/6kPHDVsuzYXW2oTAZ80QJj) | [Meditations II](https://open.spotify.com/album/3nVaUZTPIjtP99Ebri2LaS) | 3:14 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 12 | [Quiet](https://open.spotify.com/track/2UcVa056va7cCBfVfw9nm1) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Crossing the Rubicon](https://open.spotify.com/album/5cYUwcGiSuMUBKf7ykzO04) | 2:45 |
 | 13 | [Riposo](https://open.spotify.com/track/2nfCGwzsOxPJPl16g74I5I) | [Calma Flow](https://open.spotify.com/artist/19ImXdXZLbAXcDGgIpN56k) | [Riposo](https://open.spotify.com/album/4QDiZv3kD08DOYlAlzQcPm) | 2:17 |
 | 14 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 |
-| 15 | [The Streets of Belgrade](https://open.spotify.com/track/4cNtJQaOgmjlBSChAlrsBT) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:21 |
+| 15 | [The Streets of Belgrade](https://open.spotify.com/track/57zYO8q3f19ksGdHcCFpk9) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:21 |
 | 16 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 |
 | 17 | [Luna piena](https://open.spotify.com/track/5G984mbolQgTzqNGTStNeJ) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Luna piena](https://open.spotify.com/album/2rh0SnHln8ywEyVAhF7lQ7) | 2:24 |
 | 18 | [Pendulum](https://open.spotify.com/track/0kQZcp9q1i3Cg1EfsqXGbf) | [Clearius Ensemble](https://open.spotify.com/artist/14MEzH0WXErAIVtRpQitLW) | [Pendulum](https://open.spotify.com/album/4m9nsk0a4Xcfhv5uePHb8x) | 2:23 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 41 | [Sostenuto](https://open.spotify.com/track/2pmzW6PbqlAunOXe0AdYIw) | [Camilla Solheim](https://open.spotify.com/artist/0paoGI3ZzVd4kwjmsJI6B0) | [Sostenuto](https://open.spotify.com/album/5bve8ozqZzt01twy16odc3) | 2:09 |
 | 42 | [Endurance](https://open.spotify.com/track/7kRnLUIABJA0Q21X13XmwJ) | [Aerian](https://open.spotify.com/artist/7bMCx1XzOM2Bb6XTk2sHKf) | [Endurance](https://open.spotify.com/album/1kIaz392QGviN4kPIOhCe5) | 2:29 |
 | 43 | [Desert Parade](https://open.spotify.com/track/4xOHne4S1xas4MI5qPs69D) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Breathing Like the Pastures](https://open.spotify.com/album/2rzImKEk1JZHAyC6dVGJ5t) | 3:08 |
-| 44 | [Iridescent](https://open.spotify.com/track/1KTUpvg6XroGOSnmpjuyVi) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:37 |
+| 44 | [Iridescent](https://open.spotify.com/track/5fpojFWTYwnkwzyRm2D3du) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:37 |
 | 45 | [Prélude](https://open.spotify.com/track/6CIVHlBDakr82sbXYweF8x) | [Massimo Romanza](https://open.spotify.com/artist/6n1878S9P9QD4u959fAZeM) | [Prélude](https://open.spotify.com/album/0Q5sbKw0dl9z7ANapFmIHL) | 2:01 |
 | 46 | [The Mountain Disconnect](https://open.spotify.com/track/0KBIN2eno2koWYL4Flsf7S) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [The Mountain Disconnect](https://open.spotify.com/album/7hEd3BEoTsDTFgBFPnBLDR) | 3:06 |
 | 47 | [Daylight](https://open.spotify.com/track/1pJrauys2fPNopv4TuyltK) | [Karel Havlíček](https://open.spotify.com/artist/2Yuk4eHfD3UrJ1qnYCHmJl) | [Daylight](https://open.spotify.com/album/4I7VJg3F07ymbMiobj6yfP) | 2:59 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 56 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 |
 | 57 | [Flare Inévitable](https://open.spotify.com/track/2P3LnLs7poXbWyKrf6KNav) | [Karin Reverdi](https://open.spotify.com/artist/2cUUKmjuAiKJqKyPP4VZbP) | [Flare Inévitable](https://open.spotify.com/album/4lkf9FvLdBo4UDUxl4alCL) | 2:40 |
 | 58 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 |
-| 59 | [Opal](https://open.spotify.com/track/3vb6ZHxSckbWkqM5wNdsA5) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Opal](https://open.spotify.com/album/7zXuTzVmAVe1fbNw93N4QV) | 3:33 |
+| 59 | [Opal](https://open.spotify.com/track/6nqhj6vFNMey63HMUcIvLS) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp) | [Humming Bird Rework](https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m) | 3:33 |
 | 60 | [Lyric for Violin & Harp](https://open.spotify.com/track/3rwK4xsqG5UvXcoqi4xuAc) | [Kerwin Young](https://open.spotify.com/artist/2b5Fg9UseBuYNTk4oAyG6n), [Lucia Lin](https://open.spotify.com/artist/51XNYYFWrEEctz41t292mD), [Charles Overton](https://open.spotify.com/artist/1K98DJ68l2U9IRZTxHQed4) | [In Tandem](https://open.spotify.com/album/6jOBNoIEGEwikzAyOiCo61) | 5:34 |
 | 61 | [Breathing Softly](https://open.spotify.com/track/5fOXMCEaxYSAObSdJ7nvCV) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Breathing Softly](https://open.spotify.com/album/6W9cOGtIJZtT1J5ypPCcHR) | 2:43 |
 | 62 | [Blossom Peak](https://open.spotify.com/track/5NRyda6chosK9GspXprHgK) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Blossom Peak & Warmcrest](https://open.spotify.com/album/5M8iB0dg3kg54ppszLVI9G) | 2:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau0XrWZpT93.md) - [plain]
 | 72 | [Frankenthaler](https://open.spotify.com/track/6fZyNWUtqDD9CXZI4Llh7G) | [Bromeliad](https://open.spotify.com/artist/3XlQzOKje7lZLZhMDnKZz3) | [Frankenthaler](https://open.spotify.com/album/2l8wc98B9kwJpXiQaZ4l35) | 1:45 |
 | 73 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 |
 
-Snapshot ID: `MTY1ODQ0ODAwMCwwMDAwMDA0MTAwMDAwMTgyMjMzNDM0OWQwMDAwMDE4MTk1NTNjMjU5`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGFhNTlkMjYzZDAwMzQ2ZGJiODczNmY4ZmZlYjk2YjYw`

@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Libro Abierto",
+        "url": "https://open.spotify.com/album/31yC0iAahwdEbZdFEPY0wg"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259706,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/09Z84ntGDFOBesN399sJdl"
+    },
+    {
+      "album": {
+        "name": "Libro Abierto",
         "url": "https://open.spotify.com/album/7rf2CEkEXlav1vNOXSHpmL"
       },
       "artists": [
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259706,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/0LSFh7ioli4956i24hvekc"
@@ -153,6 +171,24 @@
     {
       "album": {
         "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt"
+      },
+      "artists": [
+        {
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA"
+    },
+    {
+      "album": {
+        "name": "Amor Con Filo",
         "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
       "artists": [
@@ -163,7 +199,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "Amor Con Filo",
       "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
@@ -255,7 +291,7 @@
     {
       "album": {
         "name": "Caminito",
-        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
+        "url": "https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq"
       },
       "artists": [
         {
@@ -270,6 +306,28 @@
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
+    },
+    {
+      "album": {
+        "name": "Caminito",
+        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
+      },
+      "artists": [
+        {
+          "name": "Coco Green",
+          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
@@ -399,10 +457,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 251199,
       "name": "Como una Flecha",
       "url": "https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs"
+    },
+    {
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "album": {
@@ -1101,10 +1177,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162077,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2WawgpEKS68gge1UzxWPsZ"
+    },
+    {
+      "album": {
+        "name": "Soda de Uva",
+        "url": "https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY"
     },
     {
       "album": {
@@ -2089,10 +2183,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165572,
       "name": "Y T\u00fa No",
       "url": "https://open.spotify.com/track/31T6w8SRDYJI3LI4sZc8ct"
+    },
+    {
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165572,
+      "name": "Y T\u00fa No",
+      "url": "https://open.spotify.com/track/56FAtkjYkS2DqyuyKAo4d1"
     },
     {
       "album": {

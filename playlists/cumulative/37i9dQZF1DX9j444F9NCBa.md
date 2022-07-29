@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-126 songs - 6 hr 39 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+127 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Forever Young](https://open.spotify.com/track/4SSCgMiOi06l74FrQhaHwC) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Forever Young](https://open.spotify.com/album/2WSQbJ9oBwXXzCcQgDjyPd) | 2:46 | 2022-01-21 |  |
 | [God Only Knows](https://open.spotify.com/track/2OzZdwUjDKvHml7nV3rVAO) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [God Only Knows](https://open.spotify.com/album/4Wv2pkk3BdYTT5DAmFPf3M) | 2:18 | 2022-01-21 |  |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-01-21 | 2022-06-09 |
-| [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-01-21 |  |
+| [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-01-21 | 2022-07-29 |
+| [Hallelujah](https://open.spotify.com/track/3OIuwKMMuO3tVZ9futeIfb) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/5iFn9WyVbL1FIRJACbkdlR) | 2:45 | 2022-07-27 |  |
 | [Hallelujah](https://open.spotify.com/track/5N8j7CpnWXB8GNJ1p4hkn7) | [Kim Jonas](https://open.spotify.com/artist/1FlrpSI88fx7RNjHNHbc2H) | [Hallelujah](https://open.spotify.com/album/0TKpJk97pMW4Ud7jOHG6Ql) | 2:21 | 2022-01-21 |  |
 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 | 2022-01-21 |  |
 | [Happier Than Ever](https://open.spotify.com/track/4SKDQlj3g2vIS9AD1C5No9) | [Sarah Lauren](https://open.spotify.com/artist/5vblz7nYQR7uwDnbl38gEL) | [Happier Than Ever](https://open.spotify.com/album/0up0W5DjP25o6LtF9DF8jJ) | 2:57 | 2022-01-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. 男性声優キャララップバトル、ヒプノシスマイク」公式プレイリスト！© King Record Co., Ltd\. All rights reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,738 likes - 137 songs - 23 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,757 likes - 137 songs - 23 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 60 | [WELCOME U](https://open.spotify.com/track/4kVGu2ehrBlFg2AucOk3T5) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(麻天狼\)](https://open.spotify.com/artist/2AT6gFE6PkBts8KDBzGpZy) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 3:33 |
 | 61 | [One and Two, and Law](https://open.spotify.com/track/4fXtuqfsBhPStfFwT9Rysq) | [ヒプノシスマイク \-D.R.B\- \(Bad Ass Temple\)](https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup), [ヒプノシスマイク \-D.R.B\- \(天国 獄\)](https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP) | [ヒプノシスマイク ナゴヤ・ディビジョン 「Bad Ass Temple Funky Sounds」](https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt) | 3:16 |
 | 62 | [T.D.D LEGEND](https://open.spotify.com/track/3baggMyfPltTqJsNInQsVu) | [ヒプノシスマイク \-D.R.B\- \(The Dirty Dawg\)](https://open.spotify.com/artist/6zxwWMAn61LG88YKWGCZJG) | [Enter the Hypnosis Microphone](https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j) | 5:19 |
-| 63 | [The Champion](https://open.spotify.com/track/2oNkpkAXnOPkWkUTWmLCON) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [The Champion](https://open.spotify.com/album/5NaVkZdqTT4MrWqg3bq0DD) | 3:49 |
-| 64 | [DEATH RESPECT](https://open.spotify.com/track/0Lwrc1NXl4jf4ZGdpfDEd0) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [DEATH RESPECT](https://open.spotify.com/album/3Npdo8OZdMREvwcfQUCq0s) | 4:20 |
+| 63 | [The Champion](https://open.spotify.com/track/4wGsmReTJuirobf8pzOxO8) | [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [The Champion/T.D.D LEGEND](https://open.spotify.com/album/1x2bL3EPuwQx0u4vTpPT5C) | 3:49 |
+| 64 | [DEATH RESPECT](https://open.spotify.com/track/4UUlTRKeCgAiVErmyaKsut) | [Hypnosis Mic \-D.R.B.\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [Hypnosis Mic \-D.R.B.\- \(Matenrou\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [MAD TRIGGER CREW VS 麻天狼](https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1) | 4:20 |
 | 65 | [FACES](https://open.spotify.com/track/5fyv8ggkDjaDgyTFiI7kSw) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(天谷奴零\)](https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 4:01 |
 | 66 | [School of IKB](https://open.spotify.com/track/6NmgDrdiqr9JA2MojWtpO8) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G), [ヒプノシスマイク \-D.R.B\- \(山田二郎\)](https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE) | [Buster Bros!!! \-Before The 2nd D.R.B\-](https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo) | 3:38 |
 | 67 | [SCRAMBLE GAMBLE](https://open.spotify.com/track/20zF7W9oqE65eGkRoT36IY) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(有栖川帝統\)](https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht) | [Fling Posse \-Before The 2nd D.R.B\-](https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i) | 3:08 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f9ryYBYPg3.md) - [plain]
 | 136 | [Drama Track 「Fling Posse Inc.」](https://open.spotify.com/track/1cvBkFJBVWKOsLRiVeFtp7) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 14:51 |
 | 137 | [Drama Track 「Mixed Up」](https://open.spotify.com/track/27XLH8ZrFhqwV1x3cdMztM) | [HYPNOSISMIC \-D.R.B\- \(Division All Stars\)](https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0) | [CROSS A LINE](https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV) | 45:38 |
 
-Snapshot ID: `MTY1Nzg3NjcxOSwwMDAwMDBiZDAwMDAwMTgyMDEyNzI3YzUwMDAwMDE3ZDUyMmE0ZDk3`
+Snapshot ID: `MTY1Nzg3NjcxOSwwMDAwMDAwMGYyNGRiZWM5ZmM0MDU2YzE3ZmU0M2FlZDJkOTRmNjIy`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Iz\u00efa",
+  "description": "The best French indie tracks right now. Cover: Oscar Anton",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145002,
       "name": "Mauvaises habitudes",
       "url": "https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236607,
       "name": "Oc\u00e9an",
       "url": "https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj"
@@ -2918,6 +2918,24 @@
     },
     {
       "album": {
+        "name": "dani",
+        "url": "https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f"
+      },
+      "artists": [
+        {
+          "name": "Dani Terreur",
+          "url": "https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "\u00c9ternel",
+      "url": "https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL"
+    },
+    {
+      "album": {
         "name": "\u00c9ternel",
         "url": "https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff"
       },
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194986,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK"

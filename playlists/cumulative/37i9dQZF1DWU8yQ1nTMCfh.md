@@ -4,7 +4,7 @@
 
 > Lo mejor del Rock en Español de hoy\. Cover: Aleesha
 
-108 songs - 6 hr 8 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
+109 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/1oUEjRuRAeBE25oqoZZ6lQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Brindis](https://open.spotify.com/track/0MkY0QR03foMp3dFXc9zBa) | [BRUNO](https://open.spotify.com/artist/2RvoJbFSTxNnTZSyi2CwDd), [Alejandro Rosso](https://open.spotify.com/artist/2C6ud5Sihy5UODK6aKM6vo) | [Brindis](https://open.spotify.com/album/781zGGAuejqCiyXhfQJ4Qh) | 2:32 | 2022-07-19 |  |
 | [Brutal](https://open.spotify.com/track/53A2Mrrj1EJmJIdfi7NFBu) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Brutal](https://open.spotify.com/album/4bMwAGWco8vww47fDYsD9T) | 2:43 | 2022-07-19 |  |
 | [Cantar de los Magos](https://open.spotify.com/track/6wNVd3n0AYoZrbuF45MYAL) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Cantar de los Magos](https://open.spotify.com/album/4AIbSPwiL3wb35iJTvqXFN) | 4:44 | 2022-04-15 |  |
-| [Celosa](https://open.spotify.com/track/5lx3ZGWICq1EuSpkt0Zg04) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/4LwIDAHt4ALnQemPmkenUr) | 4:22 | 2022-04-15 |  |
+| [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 | 2022-07-19 |  |
+| [Celosa](https://open.spotify.com/track/5lx3ZGWICq1EuSpkt0Zg04) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/4LwIDAHt4ALnQemPmkenUr) | 4:22 | 2022-04-15 | 2022-07-29 |
 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 | 2022-04-15 |  |
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-04-15 |  |
 | [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 | 2022-04-15 |  |

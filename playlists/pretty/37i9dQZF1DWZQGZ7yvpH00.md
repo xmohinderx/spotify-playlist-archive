@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Leonilo Jaimes en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,670 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,139 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 16 | [Substancias](https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Substancias](https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb) | 3:24 |
 | 17 | [Tu Mirada](https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Mirada](https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd) | 2:29 |
 | 18 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 |
-| 19 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 |
-| 20 | [Esta Noche](https://open.spotify.com/track/6FJbKBPUiFVPC4e5S3uesc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Esta Noche](https://open.spotify.com/album/1uVGFC7Zio3Sc4UTfz4Y7Y) | 3:09 |
+| 19 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 |
+| 20 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
 | 21 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 |
 | 22 | [Que Me Hiciste](https://open.spotify.com/track/7DODSQw9dsnwETuU1UtlSn) | [Estilo Noreste](https://open.spotify.com/artist/1vdVGzUNrVi6PFCUTeFY7r) | [Que Me Hiciste](https://open.spotify.com/album/7vUpsaiqHYSAo9PUqharum) | 4:07 |
 | 23 | [Distantes](https://open.spotify.com/track/0o3DbryDgbWANJNZJo8x9R) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Distantes](https://open.spotify.com/album/2bLiF7ZGHwIHco3WGb9vsM) | 3:33 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 25 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 |
 | 26 | [Maldito Olvido](https://open.spotify.com/track/4A75U7EeJPMcY0e2k0AdRB) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF), [Reflejo Nuevo](https://open.spotify.com/artist/5HOOxSdjMwgdg5jKIzHAU9) | [Maldito Olvido](https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS) | 3:34 |
 | 27 | [Llamadas Perdidas](https://open.spotify.com/track/2Njnz4h488q7hT6hRXuwQT) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Llamadas Perdidas](https://open.spotify.com/album/4Nkw7UzpoBnf8gasrKjncS) | 4:21 |
-| 28 | [Dejalo Ir](https://open.spotify.com/track/2f1u0yTIYN95nmScvQmZiQ) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed](https://open.spotify.com/album/1r0GC7OLM12sPncbIMWiUC) | 2:57 |
+| 28 | [Dejalo Ir](https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 2:57 |
 | 29 | [Dulcito e Coco](https://open.spotify.com/track/3tD4abUOGHZHeL1eOl0gyy) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU), [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Dulcito e Coco](https://open.spotify.com/album/74yUD8QPWPKOFsyLS93g92) | 3:18 |
 | 30 | [solo](https://open.spotify.com/track/3Ca34mFUBOXwWhWxfOsUv3) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [solo](https://open.spotify.com/album/7GqXnEzfhxnXYFdutyomuG) | 3:48 |
 | 31 | [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Te Gusta La Loquera](https://open.spotify.com/track/7d6bOOk4QUDfEbxLa7Gsil) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Te Gusta La Loquera](https://open.spotify.com/album/0yuvjX1IIfzunRGzqefwNN) | 3:07 |
 | 50 | [Loco y Enamorado](https://open.spotify.com/track/5iAqV54YrGxX0t7ks3CMqQ) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Loco y Enamorado](https://open.spotify.com/album/6LdEvPHHmTenzOEJqwZsq5) | 2:06 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDA2NzAwMDAwMTgyMjQxMGQ5NDcwMDAwMDE4MjIxNzRiMTY2`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDgzNTMzNTZjYmZkNWZjZTI1MjZmZTNkNjkzZjE3Yzdl`

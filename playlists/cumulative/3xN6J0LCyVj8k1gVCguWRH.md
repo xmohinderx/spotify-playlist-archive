@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md) - cumulative - [plain](/playlists/plain/3xN6J0LCyVj8k1gVCguWRH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3xN6J0LCyVj8k1gVCguWRH)
 
-### [Barack Obama's Summer Playlist 2022](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
+### [Barack Obama’s Summer Playlist 2022](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
@@ -169,7 +169,7 @@
 | [Best Part of Me](https://open.spotify.com/track/7rV8dlbAAj4pLdrfmgb4Jb) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Best Part of Me](https://open.spotify.com/album/6uzupQZcB8MdToJPpkRwyD) | 3:32 | 2021-07-04 | 2021-09-03 |
 | [Better \(feat\. Shana Tucker & Eric Roberson\)](https://open.spotify.com/track/0hihs6rrk3eL2iRS0xzmpX) | [The Foreign Exchange](https://open.spotify.com/artist/60R4M19QBXvs0gO4IL6CpS), [Shana Tucker](https://open.spotify.com/artist/0KNylMopqFPVtgIDUt7xmR), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Love In Flying Colors](https://open.spotify.com/album/54oV0CtDdfiAlwGiixJyS5) | 4:58 | 2022-07-26 |  |
 | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa) | 3:11 | 2020-02-27 | 2020-03-11 |
-| [Better Days](https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Better Days](https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO) | 2:16 | 2022-07-12 |  |
+| [Better Days](https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Better Days](https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO) | 2:16 | 2022-07-12 | 2022-07-29 |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-07-12 | 2021-11-19 |
 | [Better for Me](https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Better for Me](https://open.spotify.com/album/0CtWFpNS16zbK3C1wHDT4v) | 2:56 | 2021-02-26 | 2021-03-14 |
 | [Better Than This](https://open.spotify.com/track/72QD8GncVMD1DdHOtTjDM5) | [Calista Del Toro](https://open.spotify.com/artist/2AdpTsL9U2vslmS8y7XXtc) | [Better Than This](https://open.spotify.com/album/5fvNHqH5OcWu55dUAi03qP) | 2:44 | 2021-10-01 | 2021-10-20 |

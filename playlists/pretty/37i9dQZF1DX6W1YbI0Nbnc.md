@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 一起感受香港製造的女聲力量！\(cover: 方皓玟\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,569 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 49 | [浸浴](https://open.spotify.com/track/1UpICWgzC4wN2jC1IKYHfL) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:00 |
 | 50 | [不清醒都巿](https://open.spotify.com/track/4x6mdk7XUKXPUI4Kgc0Egr) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [拋海](https://open.spotify.com/artist/0gM5NtTCoLfsP1thegM6w2) | [不清醒都巿](https://open.spotify.com/album/3Qsv3c1H65NXYtE0PMPU7C) | 4:10 |
 
-Snapshot ID: `MTY1NzAzNjgwMCwwMDAwMDAxNTAwMDAwMTgxY2YxNzAwNzYwMDAwMDE4MTkxMjNjZjMz`
+Snapshot ID: `MTY1NzAzNjgwMCwwMDAwMDAwMGQ4NjhiYTI1ZTQ3ZThjZDNlN2ZjN2VlOGFhM2U0NDMw`

@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen\. En portada: Julieta Venegas
 
-281 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
+282 songs - 16 hr 6 min - [published](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Roller Derby Girls](https://open.spotify.com/track/0AQ4DgrCyJBSUy3Gd6J4qZ) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Sonido Lasser](https://open.spotify.com/artist/0erpWRj9eIOjaRun5ZtYTA) | [Roller Derby Girls](https://open.spotify.com/album/7opcM0aC70L8VOQLTUcLJl) | 4:13 | 2022-06-01 | 2022-07-07 |
 | [Réplica](https://open.spotify.com/track/2gx50X4fo4FeVlfzBsZfTU) | [Micca Mont](https://open.spotify.com/artist/3Mcs80YyahnlFronaLHtqv) | [Réplica](https://open.spotify.com/album/2gfggcXf2oMHUX2cWBNm9t) | 3:40 | 2022-02-02 | 2022-04-07 |
 | [Sabes Amor](https://open.spotify.com/track/1Dayvy645fabCn16EtgexZ) | [Gaby Romero](https://open.spotify.com/artist/1LWE6vCfCcdzmBLJ8aTkKy), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Sabes Amor](https://open.spotify.com/album/6rdS5uZDnz4M3gi7e5sYoa) | 3:20 | 2022-07-06 |  |
-| [Sabré Olvidar](https://open.spotify.com/track/4LJkVlkTfD1gWQ7FXXz4dW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 4:29 | 2022-07-06 |  |
+| [Sabré Olvidar](https://open.spotify.com/track/184AZys8BsmwAH69cicDeQ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 4:29 | 2022-07-06 |  |
+| [Sabré Olvidar](https://open.spotify.com/track/4LJkVlkTfD1gWQ7FXXz4dW) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 4:29 | 2022-07-06 | 2022-07-29 |
 | [Salir De Aquí](https://open.spotify.com/track/28ASv5ejhdUv4DT4fExQpz) | [Cuarto Paisaje](https://open.spotify.com/artist/3tcFEwQkk95yAtjJY3mdtp) | [Salir De Aquí](https://open.spotify.com/album/4gTxAapzjnspfiQXQ50GcT) | 2:50 | 2022-03-03 | 2022-04-07 |
 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 | 2022-03-03 | 2022-06-01 |
 | [Seele II](https://open.spotify.com/track/7uvXRNzEvUJXHFdw7PjxpG) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 1:35 | 2022-06-01 | 2022-07-07 |

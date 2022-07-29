@@ -4,7 +4,7 @@
 
 > Fabiana Cantilo y más mujeres, a todo volumen.
 
-325 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
+326 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/2QVxsIRorz9KsDBcQ2nOCU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baby](https://open.spotify.com/track/37oaImGdDkQgIIUZDvFGdr) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:44 | 2022-01-05 | 2022-04-07 |
 | [Bendiciones](https://open.spotify.com/track/2sCr66qUpHz1ZTUAydlwWI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3HD8ZYEkhIDwjXAVWwsGpj) | 3:30 | 2022-07-06 |  |
 | [Bipolar](https://open.spotify.com/track/2C12teb4pJtRH7apSYEI8e) | [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ) | [Bipolar](https://open.spotify.com/album/6rW2eJMKgMM7fcWRUZ6g6x) | 2:52 | 2021-12-17 | 2022-01-06 |
-| [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-02-02 |  |
+| [Blanco & Negro](https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Blanco & Negro](https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO) | 3:16 | 2022-02-02 | 2022-07-29 |
 | [Bombón](https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX) | [Rosal](https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O) | [Educación Sentimental](https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi) | 2:48 | 2022-07-06 |  |
 | [Borderline](https://open.spotify.com/track/741q0GDvqVWefSAZC8ixpO) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [Borderline](https://open.spotify.com/album/1nhsbhOUpQRUi2lT0AoTK8) | 2:24 | 2021-12-17 | 2022-01-06 |
 | [Brindo por el tiempo que perdí](https://open.spotify.com/track/4Tkc6JuglEHFvy6BOVKsiA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Brindo por el tiempo que perdí](https://open.spotify.com/album/3w9onXJHH3lcgtwwcSgvtW) | 3:12 | 2022-02-02 | 2022-03-09 |
@@ -60,7 +60,8 @@
 | [Como Tú](https://open.spotify.com/track/1nC3XXneEcPbQXPjFAc1zT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Como Tú](https://open.spotify.com/album/1iQXKHgwIP2jttVdHkRRqD) | 2:46 | 2022-03-08 | 2022-04-07 |
 | [Contigo](https://open.spotify.com/track/0zoqxeTaRQf6QbdMwsa7n9) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k) | [Contigo](https://open.spotify.com/album/2AQ7PaeUi7IffLWrvovNFp) | 4:51 | 2022-02-02 | 2022-03-09 |
 | [Corazón](https://open.spotify.com/track/3omZ7MPOGKa4ZEu0Pqv58a) | [Cumbia Nena](https://open.spotify.com/artist/5BNVbfGIjyuFgjnZbnUJrx) | [Corazón](https://open.spotify.com/album/7wMSRB2X42AgyH3W9DRrlL) | 3:15 | 2022-04-06 | 2022-05-05 |
-| [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-07-06 |  |
+| [Corazón](https://open.spotify.com/track/3t8I0xAZsBuNRyVoFazliy) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6NGR73dLgiLmHdX35AfZdE) | 3:19 | 2022-07-06 |  |
+| [Corazón](https://open.spotify.com/track/4oXrjrE3R1GJpDZOyRr64Y) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6KRdrJAGK5tr9niwAI90kp) | 3:19 | 2022-07-06 | 2022-07-29 |
 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 | 2022-02-02 | 2022-07-07 |
 | [Corazón Verde](https://open.spotify.com/track/7db88fb0PnqlhoVYS6OTvw) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Santo Entendimiento](https://open.spotify.com/album/270GF8UBhPXwdU6t5IvoZT) | 2:51 | 2022-04-06 | 2022-05-05 |
 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 | 2022-07-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano versions of jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,678 likes - 73 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,696 likes - 73 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 42 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 |
 | 43 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 |
 | 44 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 |
-| 45 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 |
+| 45 | [Sangfroid](https://open.spotify.com/track/24qMIt9iEQPSvhcIhHI21K) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/21jfPwKTFCZsmRpn23hdMD) | 2:57 |
 | 46 | [Sleep](https://open.spotify.com/track/1ioBY89B2OmRRO9sPrClGw) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Lullabies](https://open.spotify.com/album/3hq11SFFr5N1GiPUkx4xWZ) | 2:22 |
 | 47 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 |
 | 48 | [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:56 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 72 | [Dolphin Dance](https://open.spotify.com/track/1db8iPd7L5PMc7T2R1MOrR) | [Alfred Silverstein](https://open.spotify.com/artist/0n0lqiPhrNcf4uF5hjCkbW) | [The Nearness Of You](https://open.spotify.com/album/6ma76nnxJK36EugzKI3vPI) | 4:10 |
 | 73 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY1NjQ5MjQzNywwMDAwMDAxYTAwMDAwMTgxYWVhNGIwNGIwMDAwMDE4MTRkZDcxYTIy`
+Snapshot ID: `MTY1NjQ5MjQzNywwMDAwMDAwMDM5ZDQxZDBmOGM2ZGMxMThmMWE0NGIwYzdlNGE3MjA4`

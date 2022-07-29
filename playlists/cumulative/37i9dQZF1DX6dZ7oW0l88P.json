@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259859,
       "name": "Finding Sense",
       "url": "https://open.spotify.com/track/016tIV3HidSnnPOYDQVPRf"
@@ -567,6 +567,24 @@
     {
       "album": {
         "name": "Late Night Sketch",
+        "url": "https://open.spotify.com/album/0jhAlda3sHD23TSqEXNOz8"
+      },
+      "artists": [
+        {
+          "name": "Kyradeen",
+          "url": "https://open.spotify.com/artist/30vDwD43Sj0SGHkXtSPSKo"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400670,
+      "name": "Late Night Sketch",
+      "url": "https://open.spotify.com/track/1sydW6HsMZkaTayu8ZOplv"
+    },
+    {
+      "album": {
+        "name": "Late Night Sketch",
         "url": "https://open.spotify.com/album/13eXz4mO3b4AH2w9YGKJiv"
       },
       "artists": [
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 400670,
       "name": "Late Night Sketch",
       "url": "https://open.spotify.com/track/64APCNQMUudINeHwjcKR0j"
@@ -595,10 +613,46 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267013,
       "name": "Lenaerts: Fantaisie sur la Boh\u00e8me de Puccini, Pt. 1",
       "url": "https://open.spotify.com/track/19ECnW3LhP8fMx35Wqzauw"
+    },
+    {
+      "album": {
+        "name": "Vienna Stories",
+        "url": "https://open.spotify.com/album/4h7nbnfSBW24nzK8iaMATx"
+      },
+      "artists": [
+        {
+          "name": "Anneleen Lenaerts",
+          "url": "https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267013,
+      "name": "Lenaerts: Fantaisie sur la Boh\u00e8me de Puccini, Pt. 1",
+      "url": "https://open.spotify.com/track/3j9dQrn1E6TWojRj1BEWxx"
+    },
+    {
+      "album": {
+        "name": "Margie Butler: Carolan's Draught - Celtic Harp",
+        "url": "https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt"
+      },
+      "artists": [
+        {
+          "name": "Margie Butler",
+          "url": "https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236333,
+      "name": "Limerick is Beautiful - Kilcash",
+      "url": "https://open.spotify.com/track/71T51fQHRA9XY7uvkaOyK2"
     },
     {
       "album": {
@@ -621,7 +675,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236333,
       "name": "Limerick Is Beautiful - Kilcash (Arr. M. Butler)",
       "url": "https://open.spotify.com/track/0dSau5G5jj9we5Kudvhpvt"
@@ -683,6 +737,24 @@
     {
       "album": {
         "name": "Margie Butler: Carolan's Draught - Celtic Harp",
+        "url": "https://open.spotify.com/album/0Pk1Nevws7Ry5gZ6ghqYbt"
+      },
+      "artists": [
+        {
+          "name": "Margie Butler",
+          "url": "https://open.spotify.com/artist/78sAgFtzkqS9AsapvytY7z"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Marsh of Rhudlands",
+      "url": "https://open.spotify.com/track/3OTSlT6GJg2cDcxfs9bMQ2"
+    },
+    {
+      "album": {
+        "name": "Margie Butler: Carolan's Draught - Celtic Harp",
         "url": "https://open.spotify.com/album/5juxWbAu431jd0NqDlklHh"
       },
       "artists": [
@@ -697,7 +769,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191600,
       "name": "Marsh of Rhudlands",
       "url": "https://open.spotify.com/track/4VcJfNEKOuqWgj32L4yn4u"
@@ -741,6 +813,24 @@
     {
       "album": {
         "name": "Aryeh Frankfurter: Celtic Harp - Tunes From Ireland, Scotland and Scandinavia",
+        "url": "https://open.spotify.com/album/2gUUuHz0ZTGPfV97oZDv7N"
+      },
+      "artists": [
+        {
+          "name": "Aryeh Frankfurter",
+          "url": "https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309200,
+      "name": "Music of Spey",
+      "url": "https://open.spotify.com/track/0ecznKoNRZ07IK0VUFPIBB"
+    },
+    {
+      "album": {
+        "name": "Aryeh Frankfurter: Celtic Harp - Tunes From Ireland, Scotland and Scandinavia",
         "url": "https://open.spotify.com/album/6K4TptQVWMmtysoIwb6um7"
       },
       "artists": [
@@ -755,7 +845,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 309200,
       "name": "Music of Spey (Arr. A. Frankfurter)",
       "url": "https://open.spotify.com/track/2sv6rDTWhdx4Cmmviv5QY5"
@@ -827,7 +917,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176807,
       "name": "Nyhavn",
       "url": "https://open.spotify.com/track/3YivETFj5CLJb88bxMyNVw"
@@ -1199,10 +1289,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 225861,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2LJ5PtEVQjbsEVn90QLMbE"
+    },
+    {
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4sLbsssUGuonFVCyXaQhWC"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Huber",
+          "url": "https://open.spotify.com/artist/6KXQXgnyqN0bOU5BQdi6aj"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225861,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2QUzGxebyjqN5qStur0Shc"
     },
     {
       "album": {
@@ -1405,6 +1513,24 @@
     {
       "album": {
         "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112555,
+      "name": "The Whirling Ways of Stars that Pass",
+      "url": "https://open.spotify.com/track/1VWYKR91K0WYMxyBHNaYxt"
+    },
+    {
+      "album": {
+        "name": "The Theory of Everything (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5FjUdfCXezlLwJEDuGel0I"
       },
       "artists": [
@@ -1415,7 +1541,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 112555,
       "name": "The Whirling Ways of Stars That Pass",
       "url": "https://open.spotify.com/track/7HDWH2xgDr83VAIE3QFFZS"

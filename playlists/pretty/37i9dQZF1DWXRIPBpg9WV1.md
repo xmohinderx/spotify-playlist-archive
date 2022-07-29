@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,868 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,982 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 21 | [James](https://open.spotify.com/track/5SJVQcy3KMrvth7gnE0ffV) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 4:19 |
 | 22 | [Intentions](https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow) | [Jean Cruiz](https://open.spotify.com/artist/4xS5okCP5UkUKVM1uZh9uD) | [Intentions](https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4) | 3:02 |
 | 23 | [Everything I wanted](https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY) | [Wayne Mack](https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI) | [Wayne Mack](https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU) | 3:13 |
-| 24 | [Time After Time](https://open.spotify.com/track/1Papec9BTj4JFjMVYGfL2u) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Time After Time](https://open.spotify.com/album/3Z5CeREn2cKKrrCpyHT5nl) | 3:31 |
+| 24 | [Time after Time](https://open.spotify.com/track/7cuNUdSbrrFIiqejH4tbsI) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 2](https://open.spotify.com/album/3vOxhVB13qQHb2IVv2wq6j) | 3:32 |
 | 25 | [Baby Can I Hold You \- Instrumental](https://open.spotify.com/track/0xDWWuPkhZ4ZBzN8rNGLyL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers Vol\. 3](https://open.spotify.com/album/73kpQrKjqV1DQhiC0gJ2Wh) | 3:15 |
 | 26 | [When I Was Your Man \- Acoustic Instrumental](https://open.spotify.com/track/2Oej38AKkUraslaWEK1ATx) | [Edward Ong](https://open.spotify.com/artist/511vWnluvbgTL9TDgqlwVZ), [Guus Dielissen](https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P) | [When I Was Your Man \(Acoustic Instrumental\)](https://open.spotify.com/album/5iwJPbUmhTUapFPmP3MoRU) | 3:35 |
-| 27 | [Just Like Heaven](https://open.spotify.com/track/3dXrQxEAeL5c0z8k3cLrtL) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Just Like Heaven](https://open.spotify.com/album/2D36TIiniExKk98Srb2XcS) | 3:24 |
+| 27 | [Just Like Heaven](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 |
 | 28 | [I Just Called To Say I Love You](https://open.spotify.com/track/6dUP73tiRW1NyyFAbVqLkM) | [Ronald Simel](https://open.spotify.com/artist/3WAGPIS1MuIRLDN32soc71) | [Willow](https://open.spotify.com/album/3pnS4OYR8fWJkp5UUTWSB2) | 4:16 |
 | 29 | [I Want to Break Free](https://open.spotify.com/track/1aYkNGlELBA8tjp3cVW1oT) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [I Want to Break Free](https://open.spotify.com/album/687NJvdn5hgkC5XCyILJ0u) | 1:56 |
 | 30 | [At Last](https://open.spotify.com/track/7yJoZTd6PwMU9J0rLFdgHH) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [At Last](https://open.spotify.com/album/0oBRuyGG8rJJAcZ3xQjkqH) | 2:57 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 45 | [Stay](https://open.spotify.com/track/5PVEhEtuO3Lr3AI8Mh2uHJ) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [Stay](https://open.spotify.com/album/0wttAbqc24NaBJCE2j4BX4) | 2:29 |
 | 46 | [Höstvisa](https://open.spotify.com/track/0mzIHWDRo3GNCE24OxU5Cn) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Höstvisa](https://open.spotify.com/album/2At7owW3nBBJ2OTsUucXi6) | 2:42 |
 | 47 | [Easy On Me](https://open.spotify.com/track/7nZrgOtCRXGvrXCbPhuHch) | [Ivy Parry](https://open.spotify.com/artist/1yOVQN4qupWRciASq2Fz6I) | [Easy On Me](https://open.spotify.com/album/1JjZRAcvYYpjY6IALupLZl) | 2:56 |
-| 48 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/1by7FAjCJUlTCSSCb1NZPu) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/4JPPbRiq1anB5eGisCJ4ea) | 3:13 |
+| 48 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO) | 3:13 |
 | 49 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 50 | [Your Song](https://open.spotify.com/track/0ZSFjbcjmMccbJbWouNRxR) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Your Song](https://open.spotify.com/album/6sXEv9gm3KucaAjT8FIvif) | 3:54 |
 | 51 | [Love Song](https://open.spotify.com/track/5OFd5vy1z9MlPkevJZszFI) | [Ren Anderson](https://open.spotify.com/artist/1GFIqy0jybt5CDJawIbHS8) | [Shape of You](https://open.spotify.com/album/5ddlKDkaTG9bHBK60YO4al) | 4:38 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 87 | [Hallelujah](https://open.spotify.com/track/0pt4S6qXybR7reJW8AfEka) | [Eddy Tyler](https://open.spotify.com/artist/7KT0K9Jyst149sFJoP4s3D) | [Guitar Instrumental Covers](https://open.spotify.com/album/11AG80Bq1aK3OldgwCYw4g) | 5:01 |
 | 88 | [Isn't She Lovely](https://open.spotify.com/track/7eI6DqHynamtKvtUWOk1Gn) | [Sonia Campra](https://open.spotify.com/artist/6seSt7No9xstCMTTx9GJy4) | [You Are My Sunshine](https://open.spotify.com/album/5lNeXMPn3aRN72aSTmiYZ8) | 1:54 |
 
-Snapshot ID: `MTY1ODgzMDUxNywwMDAwMDAyODAwMDAwMTgyM2EwMGYzZWQwMDAwMDE4MjNhMDBjYzBk`
+Snapshot ID: `MTY1ODgzMDUxNywwMDAwMDAwMDBmZDI2ZGQyZmJmNWNkZmJiNTNkM2NhOWVhNjNkMjVk`

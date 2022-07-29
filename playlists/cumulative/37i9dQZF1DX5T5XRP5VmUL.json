@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295773,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/3UexKn4vs5KOEwv4i7L81W"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 200291,
       "name": "3 Hos",
       "url": "https://open.spotify.com/track/0bBR7awdHvrP4Rwb2lQpdK"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182146,
       "name": "A Time For Having Fun",
       "url": "https://open.spotify.com/track/6FHTUfMGuIZTf2wX9L4opW"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253215,
       "name": "Ain't Christmas Without You",
       "url": "https://open.spotify.com/track/6fllrEGp68zr1x4woBjovV"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 184853,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/6r7dQe9qCH3ag5orO2WnJw"
@@ -193,10 +193,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200746,
       "name": "Another December",
       "url": "https://open.spotify.com/track/0tS0XtGwRbPWjfMfIHJ7id"
+    },
+    {
+      "album": {
+        "name": "Dreaming Time Again - EP",
+        "url": "https://open.spotify.com/album/6vtOgyM8mqBML5vTVxTrrN"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "Another December",
+      "url": "https://open.spotify.com/track/0vGvie247As4QVcq7z3o64"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157733,
       "name": "Baby It's Cold Outside",
       "url": "https://open.spotify.com/track/2geS45BIgEJ8JTU1qrWG1F"
@@ -291,6 +309,24 @@
       "duration_ms": 198103,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0kduPPngE4wsCylRRMPoF3"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/35kQKWhXUUcw5sn6FlBIuG"
+      },
+      "artists": [
+        {
+          "name": "LOKRE",
+          "url": "https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198103,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0NDQqQod50GsUoqnJOsbc7"
     },
     {
       "album": {
@@ -323,7 +359,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 145973,
       "name": "Bring Me Cheer",
       "url": "https://open.spotify.com/track/2N32rAJetRBwo8NidqXdj6"
@@ -359,7 +395,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221666,
       "name": "Can't Wait Till Christmas",
       "url": "https://open.spotify.com/track/5EFDul5zvAw4yI3SV38cbP"
@@ -377,7 +413,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/0v0dIbR2koou6d1kO9u9SK"
@@ -413,7 +449,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206347,
       "name": "Christmas Alone",
       "url": "https://open.spotify.com/track/4IMBxJ8v95UNXLeAzJTC64"
@@ -471,10 +507,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 217941,
       "name": "Christmas Cheers",
       "url": "https://open.spotify.com/track/2i9F4Tl8AH8NnXld2QjtLY"
+    },
+    {
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Christmas Eve",
+      "url": "https://open.spotify.com/track/4u3p9G8NEyF37rfQ0OHS4T"
     },
     {
       "album": {
@@ -525,7 +579,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193253,
       "name": "Christmas Highway",
       "url": "https://open.spotify.com/track/533wiiwyoGfFRHYCjPxffL"
@@ -597,7 +651,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207720,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
@@ -651,7 +705,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145425,
       "name": "Christmas Morning is Finally Here!",
       "url": "https://open.spotify.com/track/1Sc8DzuJiO913kKggm13KU"
@@ -673,7 +727,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193117,
       "name": "Christmas Mourn",
       "url": "https://open.spotify.com/track/3cJopoeRGYSXkbU5VGRZhJ"
@@ -691,7 +745,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182357,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/6w7Gyt2FzAGeacHgTi6rvi"
@@ -709,7 +763,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163510,
       "name": "Christmas Time's A Comin'",
       "url": "https://open.spotify.com/track/4DfkKEmirSH505jdSR2m2i"
@@ -727,7 +781,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 133633,
       "name": "christmas vacation",
       "url": "https://open.spotify.com/track/5il893TZOiFSpukoeuHoVc"
@@ -781,10 +835,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297093,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6TEFIyrVxQlNt16lX6jxxH"
+    },
+    {
+      "album": {
+        "name": "The Vault",
+        "url": "https://open.spotify.com/album/1gGhTcbrSPda9mrozwGkJe"
+      },
+      "artists": [
+        {
+          "name": "The Trews",
+          "url": "https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297093,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/6fZMHNc6CdBSVLLuRD5MKv"
     },
     {
       "album": {
@@ -799,7 +871,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 207792,
       "name": "Coming Home (For Christmas)",
       "url": "https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O"
@@ -817,7 +889,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 138844,
       "name": "Cool Yule (Christmas Edition)",
       "url": "https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew"
@@ -835,7 +907,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 220960,
       "name": "Count Your Blessings Instead Of Sheep",
       "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
@@ -871,7 +943,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 134307,
       "name": "Don't Give Your Heart Away for Christmas",
       "url": "https://open.spotify.com/track/6fE2Kjwd5Fh2xF9IeuiOY4"
@@ -889,7 +961,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217746,
       "name": "Don't You Know It's Christmas",
       "url": "https://open.spotify.com/track/4WZ51l7xdSwPLQcXeReBfG"
@@ -907,7 +979,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235500,
       "name": "Downtown Christmas Eve",
       "url": "https://open.spotify.com/track/47rFim9XdQwbseI60niP25"
@@ -965,7 +1037,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217104,
       "name": "Family For Christmas",
       "url": "https://open.spotify.com/track/4gc4UD9nony5vYnR5nxDI0"
@@ -1001,7 +1073,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177600,
       "name": "Feeling the Christmas Night",
       "url": "https://open.spotify.com/track/5zkBUklFcnVFkzC0u1GScD"
@@ -1019,7 +1091,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 135840,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0IukEGWvArmeQc2O3s3ZUY"
@@ -1062,6 +1134,24 @@
     },
     {
       "album": {
+        "name": "GIFT 2 U",
+        "url": "https://open.spotify.com/album/4Jz9J0dBhLvUKe2QaZkB3G"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191030,
+      "name": "GIFT 2 U",
+      "url": "https://open.spotify.com/track/3CVbAFuBbae8279r6D98Yg"
+    },
+    {
+      "album": {
         "name": "Go Tell It On The Mountain",
         "url": "https://open.spotify.com/album/3uc9cbSv6XfwMNE8lRtR0G"
       },
@@ -1095,10 +1185,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206480,
       "name": "God Rest Ye Merry Gentlemen (feat. Sarah McLachlan)",
       "url": "https://open.spotify.com/track/6YgKtmBkCAm2ew0JYZFVVd"
+    },
+    {
+      "album": {
+        "name": "Barenaked For The Holidays",
+        "url": "https://open.spotify.com/album/6IRBJEl3iDCSTwATVsQfzX"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206480,
+      "name": "God Rest Ye Merry Gentlemen / We Three Kings",
+      "url": "https://open.spotify.com/track/6eou298JmAGYShrwYuLxJ2"
     },
     {
       "album": {
@@ -1113,10 +1225,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233653,
       "name": "Good King Wenceslas",
       "url": "https://open.spotify.com/track/3pw8zpeohwko3l6RojpeKp"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4eEnHnlWUNeUd6N387IEjn"
+      },
+      "artists": [
+        {
+          "name": "Skydiggers",
+          "url": "https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/67coyu2OnSVJNENhFHLinC"
     },
     {
       "album": {
@@ -1171,7 +1301,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201613,
       "name": "Happy Holiday",
       "url": "https://open.spotify.com/track/5kuhQjY80oIsygVaOdHV4z"
@@ -1189,7 +1319,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 235354,
       "name": "Happy Xmas (War is Over)",
       "url": "https://open.spotify.com/track/3PHMypTQ1sug3L37o0STr9"
@@ -1233,7 +1363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 122352,
       "name": "Hark The Herald Angels Sing",
       "url": "https://open.spotify.com/track/72PSnMgQWeC4tcNdxgqXYM"
@@ -1305,7 +1435,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204926,
       "name": "Home for Christmas",
       "url": "https://open.spotify.com/track/0cdUyb2LUwHjJCVv9O52ae"
@@ -1323,7 +1453,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142493,
       "name": "Home for the Holidays",
       "url": "https://open.spotify.com/track/0uvywHmSjlt2F2Bg9jvMzq"
@@ -1341,7 +1471,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "How Can It Be Christmas",
       "url": "https://open.spotify.com/track/7xVQOFm6ql6S1mJCsxH7TB"
@@ -1399,7 +1529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260173,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/556WbQbFI94lJCiPY8981h"
@@ -1457,7 +1587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254640,
       "name": "I'll Be There Christmas Eve",
       "url": "https://open.spotify.com/track/0hTCb2EhkJmaYoi4rWRQWb"
@@ -1475,7 +1605,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250000,
       "name": "If Christmas Comes This Year",
       "url": "https://open.spotify.com/track/1n89cEk1qmayPDVUlEwejQ"
@@ -1493,7 +1623,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193714,
       "name": "Indie Rock Christmas",
       "url": "https://open.spotify.com/track/41KFE22jaMvcGg5LXMyl7e"
@@ -1511,7 +1641,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182773,
       "name": "It Ain't Christmas",
       "url": "https://open.spotify.com/track/4sUSJHR1y85TY4SNhF8aRa"
@@ -1536,6 +1666,24 @@
     },
     {
       "album": {
+        "name": "They Don\u2019t Make Them Like That Anymore",
+        "url": "https://open.spotify.com/album/4HtQJ64lhKr84L5LRHVVEt"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "It Came Upon a Midnight Clear",
+      "url": "https://open.spotify.com/track/4WxKGeo6ghHDgyhwW9qZF0"
+    },
+    {
+      "album": {
         "name": "It Snowed",
         "url": "https://open.spotify.com/album/5d7XWrnwFwMMHcvOtdSlU9"
       },
@@ -1547,7 +1695,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224026,
       "name": "It Snowed - Remastered",
       "url": "https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38"
@@ -1565,7 +1713,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193900,
       "name": "It Won't Be Christmas",
       "url": "https://open.spotify.com/track/7N2Nct5EFTfe5LDyTlenWf"
@@ -1583,7 +1731,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240000,
       "name": "It Won't Be Christmas ('Till You're Here)",
       "url": "https://open.spotify.com/track/3Vwrd5byXhpb64EDA9vPhz"
@@ -1637,7 +1785,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217398,
       "name": "It's Christmas (Snow is Falling)",
       "url": "https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU"
@@ -1662,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "Songs of December (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289786,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+    },
+    {
+      "album": {
         "name": "It's Me & You (This Christmas)",
         "url": "https://open.spotify.com/album/6RzwwQCGUvDObqgEW2pnBp"
       },
@@ -1673,7 +1839,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 148202,
       "name": "It\u2019s Me & You (This Christmas)",
       "url": "https://open.spotify.com/track/77uAudKrrHMGMEOKLY24Zs"
@@ -1691,7 +1857,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172146,
       "name": "Jingle All The Way / Jingle Bells / Hark The Herald Angels Sing - Medley / Alternate Version",
       "url": "https://open.spotify.com/track/3c96DLRFxEpEmXBRSh2n3L"
@@ -1709,7 +1875,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124493,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/1D7hNc5MALLU7RyjJ1j7NH"
@@ -1763,7 +1929,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 180694,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/2gwTSk4cypsnt1nckURmDM"
@@ -1785,7 +1951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 224083,
       "name": "Kissin' In The Cold",
       "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
@@ -1821,10 +1987,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191340,
       "name": "Last Christmas with Your Love",
       "url": "https://open.spotify.com/track/5WwBjeV964pJVId737SjvC"
+    },
+    {
+      "album": {
+        "name": "Last Xmas",
+        "url": "https://open.spotify.com/album/2u9Rn2STUFI6gtvsoHRTqH"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Last Xmas",
+      "url": "https://open.spotify.com/track/5Iylu9FEarJW7j3VXJO7UN"
     },
     {
       "album": {
@@ -1839,7 +2023,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226000,
       "name": "Last Xmas",
       "url": "https://open.spotify.com/track/6RvXE6jgaNIRus7cFtS2FG"
@@ -1922,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Spirit Of Christmas",
+        "url": "https://open.spotify.com/album/08hEESdzvovYiCi1jNnjkG"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134360,
+      "name": "Little Toy Trains",
+      "url": "https://open.spotify.com/track/6s3WO7Fuk6Om2h0XnVz9p1"
+    },
+    {
+      "album": {
         "name": "A Different Christmas",
         "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
@@ -1959,7 +2161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 189783,
       "name": "Lonely Christmas Eve",
       "url": "https://open.spotify.com/track/6yxy0cylMdUm9OcTKSJNoV"
@@ -1984,6 +2186,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/6gqhPighIztVIp72MbJfYv"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254562,
+      "name": "Love Is Christmas",
+      "url": "https://open.spotify.com/track/53PKK3VnmRgBqK0r3cgRb7"
+    },
+    {
+      "album": {
         "name": "Together For The Holidays",
         "url": "https://open.spotify.com/album/0aWP95Ex1gAuaoN9T9S6p5"
       },
@@ -1999,6 +2219,24 @@
       "duration_ms": 211013,
       "name": "Make It To Christmas",
       "url": "https://open.spotify.com/track/2VVbkcGQTRsnK2FYPqx5DK"
+    },
+    {
+      "album": {
+        "name": "Make It To Christmas",
+        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Make It To Christmas",
+      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
     },
     {
       "album": {
@@ -2020,6 +2258,24 @@
     },
     {
       "album": {
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112746,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH"
+    },
+    {
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh"
       },
@@ -2031,7 +2287,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 150697,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1"
@@ -2067,7 +2323,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 212866,
       "name": "Miss Christmas",
       "url": "https://open.spotify.com/track/5atM92gismXIqb3IVRIEov"
@@ -2085,7 +2341,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -2125,6 +2381,24 @@
       "duration_ms": 251800,
       "name": "Mittens",
       "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
+    },
+    {
+      "album": {
+        "name": "Moonshine & Mistletoe",
+        "url": "https://open.spotify.com/album/1GeOL6E71MavgSGhzrxNsg"
+      },
+      "artists": [
+        {
+          "name": "Sons of Daughters",
+          "url": "https://open.spotify.com/artist/6PFwa7Q53EIBWY2Yc1K0nR"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207347,
+      "name": "Moonshine & Mistletoe",
+      "url": "https://open.spotify.com/track/2ULrRAVrZR0iTvOItaB4oc"
     },
     {
       "album": {
@@ -2175,7 +2449,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 175318,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/38M3eiPzW8pqOXmtvXgx4q"
@@ -2193,7 +2467,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "My Little Snowflake",
       "url": "https://open.spotify.com/track/2AVOlfywRkziYM3DgzEPpG"
@@ -2287,7 +2561,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149873,
       "name": "O Little Town",
       "url": "https://open.spotify.com/track/4QXRhWSVeU3Vmwtj38Curv"
@@ -2313,7 +2587,7 @@
     {
       "album": {
         "name": "One More Day of Christmas / Do You Hear What I Hear",
-        "url": "https://open.spotify.com/album/5k9ppnL9FLBSMzG7tHV2lj"
+        "url": "https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s"
       },
       "artists": [
         {
@@ -2324,6 +2598,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 162749,
+      "name": "One More Day of Christmas",
+      "url": "https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D"
+    },
+    {
+      "album": {
+        "name": "One More Day of Christmas / Do You Hear What I Hear",
+        "url": "https://open.spotify.com/album/5k9ppnL9FLBSMzG7tHV2lj"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 162749,
       "name": "One More Day of Christmas",
       "url": "https://open.spotify.com/track/4cazW4uHaiRhaQPN9Qddw6"
@@ -2341,7 +2633,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 218461,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/5ywWYZ2CNhlt677JXlwLzD"
@@ -2377,7 +2669,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
@@ -2403,7 +2695,7 @@
     {
       "album": {
         "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke"
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
       },
       "artists": [
         {
@@ -2414,6 +2706,24 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
+    },
+    {
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 147134,
       "name": "Rise Up Shepherd",
       "url": "https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp"
@@ -2449,7 +2759,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 139840,
       "name": "Rudolph the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0jBluzLFPwqhMkUvu0YppQ"
@@ -2467,7 +2777,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187462,
       "name": "Run Run Rudolph",
       "url": "https://open.spotify.com/track/5TuRxXi6IUpCBPZ9yFCbkq"
@@ -2503,7 +2813,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 208806,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW"
@@ -2521,7 +2831,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148317,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/7eyKJEA8BQLxT5VEY93Gdb"
@@ -2593,7 +2903,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 152480,
       "name": "Silent Night (Piano Solo) - Spotify Singles",
       "url": "https://open.spotify.com/track/4mHAUxQtR2a3c4y2RQyvpp"
@@ -2615,7 +2925,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 226950,
       "name": "Silver Bells",
       "url": "https://open.spotify.com/track/03ljZ6wgRlc7jTsKiO9Sni"
@@ -2731,7 +3041,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186890,
       "name": "Someday at Christmas",
       "url": "https://open.spotify.com/track/5iXpw1SFBcjh7lNwuyKi7X"
@@ -2749,10 +3059,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221733,
       "name": "Sometimes A Whisper",
       "url": "https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ"
+    },
+    {
+      "album": {
+        "name": "Amero Little Christmas",
+        "url": "https://open.spotify.com/album/7Eun4E53zX1dZGDFIIDTKz"
+      },
+      "artists": [
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221733,
+      "name": "Sometimes A Whisper",
+      "url": "https://open.spotify.com/track/2eK7jQ79l60Pdnuv9lWu4C"
     },
     {
       "album": {
@@ -2767,7 +3095,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188040,
       "name": "Song for a Winter's Night",
       "url": "https://open.spotify.com/track/4ajgMDTE5a7HTcw4EsYTgC"
@@ -2807,10 +3135,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213626,
       "name": "Takin' Care Of Christmas",
       "url": "https://open.spotify.com/track/0BLHp2n7sdosXiGYAcN14m"
+    },
+    {
+      "album": {
+        "name": "Takin' Care Of Christmas",
+        "url": "https://open.spotify.com/album/55HArZ8d6oaHrv2NTZWyYG"
+      },
+      "artists": [
+        {
+          "name": "Randy Bachman",
+          "url": "https://open.spotify.com/artist/1Q4aI4HsIQmidZrgCOAcBg"
+        },
+        {
+          "name": "Beverley Mahood",
+          "url": "https://open.spotify.com/artist/2Ur7EJdq2Lv5rOAQDNbCl7"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213626,
+      "name": "Takin' Care Of Christmas",
+      "url": "https://open.spotify.com/track/1KCFZtY7YZA610dHQTSG8z"
     },
     {
       "album": {
@@ -2894,6 +3244,28 @@
     },
     {
       "album": {
+        "name": "Wonder (Holiday Deluxe)",
+        "url": "https://open.spotify.com/album/01haNCctw4EUPl8xUHVhdl"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196254,
+      "name": "The Christmas Song (Shawn Mendes & Camila Cabello)",
+      "url": "https://open.spotify.com/track/66VenHDtrQAw7FCjyF2J56"
+    },
+    {
+      "album": {
         "name": "Christmas (Deluxe 10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
       },
@@ -2959,7 +3331,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 207581,
       "name": "The Last Christmas (We Ever Spend Apart)",
       "url": "https://open.spotify.com/track/7IJuZ1XUVCpiOSWqEZySIk"
@@ -2977,7 +3349,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230858,
       "name": "The World Needs Christmas",
       "url": "https://open.spotify.com/track/05HhA6gGqdiXLGsCDz2fqC"
@@ -2995,7 +3367,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 176167,
       "name": "This Christmas Day",
       "url": "https://open.spotify.com/track/2a1N8RvxN5TajDX8ByRF5m"
@@ -3013,7 +3385,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "This is Christmas",
       "url": "https://open.spotify.com/track/27EP5GDTRtx45fzJX8vSrp"
@@ -3031,7 +3403,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219429,
       "name": "Throw Another Log (On The Fire)",
       "url": "https://open.spotify.com/track/3h1nmogA5dTrLn0I9Lkndf"
@@ -3049,10 +3421,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216031,
       "name": "Tinsel Town",
       "url": "https://open.spotify.com/track/4FH3tBJKZUWRSKcsxpL4o0"
+    },
+    {
+      "album": {
+        "name": "Tinsel Town",
+        "url": "https://open.spotify.com/album/5geLUoFqgN4GpktaxO7zUf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Rankin",
+          "url": "https://open.spotify.com/artist/2OQPlCSsa0Hs0V0oMT5YdU"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224974,
+      "name": "Tinseltown",
+      "url": "https://open.spotify.com/track/1L6bTqfeKD3VRyJyoteUc9"
     },
     {
       "album": {
@@ -3085,7 +3475,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214000,
       "name": "Tonight It's Christmas Time",
       "url": "https://open.spotify.com/track/0gRz22tPjoMEiFOhaCv9f4"
@@ -3103,7 +3493,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198000,
       "name": "Ugly Christmas Sweater",
       "url": "https://open.spotify.com/track/0QPhJofLIF8oRdACKDoavR"
@@ -3121,7 +3511,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159860,
       "name": "We Always Had Christmas",
       "url": "https://open.spotify.com/track/4INZXkC6mKi8LUDxnVRz1S"
@@ -3139,7 +3529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232466,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/05WAz4ycsNIpQ9o2cCV52u"
@@ -3157,10 +3547,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236250,
       "name": "We Wish You a Merry X-Mas",
       "url": "https://open.spotify.com/track/1jtsmScROCQK6RIUXQsBox"
+    },
+    {
+      "album": {
+        "name": "What Are You Doing New Year's Eve",
+        "url": "https://open.spotify.com/album/0A3jVFaGT9SHplxTBzTQg4"
+      },
+      "artists": [
+        {
+          "name": "Sykamore",
+          "url": "https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115375,
+      "name": "What Are You Doing New Year's Eve",
+      "url": "https://open.spotify.com/track/3Mtn0qUhUg0ykT0AKFkcWr"
     },
     {
       "album": {
@@ -3179,6 +3587,28 @@
       "duration_ms": 115375,
       "name": "What Are You Doing New Year's Eve",
       "url": "https://open.spotify.com/track/42DRM86n9XCMFrlgZQ0MZn"
+    },
+    {
+      "album": {
+        "name": "A Celtic Family Christmas",
+        "url": "https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS"
+      },
+      "artists": [
+        {
+          "name": "Natalie MacMaster",
+          "url": "https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t"
+        },
+        {
+          "name": "Donnell Leahy",
+          "url": "https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254572,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF"
     },
     {
       "album": {
@@ -3251,7 +3681,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179373,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/7stYKLLBpbwrbce4kqhuG9"
@@ -3269,7 +3699,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242206,
       "name": "Winter",
       "url": "https://open.spotify.com/track/1GNo5jlhEdsK4XxlKyg57k"

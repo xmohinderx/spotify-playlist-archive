@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 
 > Beachy, acoustic tunes for lazy summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,484 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,497 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 17 | [El Pajaro Cu](https://open.spotify.com/track/5BvfFJdJFOKmbZMuy5vUdS) | [Las Hermanas Mala Gana](https://open.spotify.com/artist/5aN9hmF2wSYUXnsootg2FF) | [El Pajaro Cu](https://open.spotify.com/album/5zaWrTge6JZfg8kQR1i0Vv) | 3:18 |
 | 18 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 |
 | 19 | [Volition](https://open.spotify.com/track/7MnW1eLaCPKhssI9Pq44l6) | [Julian Pereira](https://open.spotify.com/artist/1t4ZlQTc5HH5YMylnyDnBT) | [Volition](https://open.spotify.com/album/15Ac5DJYCoK5LPeDmO8kP5) | 1:52 |
-| 20 | [Soak up the Sun](https://open.spotify.com/track/1BT8IDlFYmMel8FidLu0oK) | [The Smooth Day Sessions](https://open.spotify.com/artist/7nlyKpx26nRLVda7O4NEA5) | [Ukulele Surf Style \(Acoustic Style Covers\)](https://open.spotify.com/album/73ReNL7RJuuQppRERCQqOd) | 3:16 |
+| 20 | [Soak Up the Sun](https://open.spotify.com/track/03hVrrbV52cKFbg1stXgmS) | [The Shady Ukulele Band](https://open.spotify.com/artist/6IM4lWFpB2575q6CKQTd2I) | [Hawaiian Ukulele Hits](https://open.spotify.com/album/1dKU3TRpFCRwcDAheqiyPe) | 3:16 |
 | 21 | [A Whole New World](https://open.spotify.com/track/7op9X5ZYlq9UdauKylkaHH) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [A Whole New World](https://open.spotify.com/album/7xBiLnPeo8O8Wy1JxIe9AI) | 2:40 |
 | 22 | [Frozen Caipirinha](https://open.spotify.com/track/0rl1WFFKnRVG0tDlrB2vJU) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Frozen Caipirinha](https://open.spotify.com/album/3OXLuVmNEUvts49jtiSqw4) | 3:11 |
 | 23 | [Kahakai](https://open.spotify.com/track/2cX6M5AO0xQAaZtXtHgwYj) | [Wave Catchers](https://open.spotify.com/artist/666Y0fEHAFWPzV1iznA7RA) | [Kahakai](https://open.spotify.com/album/0fTMgwOLelHGCctAZYUfzR) | 2:21 |
 | 24 | [Colors](https://open.spotify.com/track/6nbEqrP3sm08UJ7fBgjEqM) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Colors](https://open.spotify.com/album/7soao7wkz07f7w3EZn7p6Q) | 3:02 |
 | 25 | [A Thousand Years](https://open.spotify.com/track/4nhlQ1y76rSqrQs0SZwylA) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 4:43 |
 | 26 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 |
-| 27 | [Mountain Hymn](https://open.spotify.com/track/6zPASzVCy6QEcB8ys2ZE4L) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Serender](https://open.spotify.com/album/3ekC5yEZkQS873zuUmO289) | 2:39 |
+| 27 | [Mountain Hymn](https://open.spotify.com/track/32Rj2nucYWWwbqJvdiF13P) | [Realizer](https://open.spotify.com/artist/7I2pqQX5c5XTjyl8InIrbt) | [Serender](https://open.spotify.com/album/6ckORjcNVEyH3Or0lkv6Qf) | 2:39 |
 | 28 | [The Scientist](https://open.spotify.com/track/17ejm3j1Pm74j0tC19FenK) | [Laurie Hefner](https://open.spotify.com/artist/1HPtAbPmANFoJ2nNizJVQ1) | [Me and My Uke](https://open.spotify.com/album/1WnVfKETKb2fdedwiRBCFn) | 4:00 |
 | 29 | [Riptide](https://open.spotify.com/track/26WunHZg3SjYMOu8SzNPGF) | [Dev Lin](https://open.spotify.com/artist/5Qz8NfhvVepyU3JXyLQq88) | [Riptide](https://open.spotify.com/album/7AWubZyMIE5eGvfG9UiOhV) | 3:35 |
 | 30 | [Volar con el viento](https://open.spotify.com/track/22LSqWnEYxqZeJOSOMlp4C) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Volar con el viento](https://open.spotify.com/album/7quiaEPm1wVGreNGivVaeK) | 2:37 |
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 54 | [Blackbird](https://open.spotify.com/track/6QyjSdg6KkGcSSzsCJ2lC1) | [Eva Bratt](https://open.spotify.com/artist/1gnNyXSO3QNIXZrCTFUNtg) | [Blackbird](https://open.spotify.com/album/6i4ROBArDpDqW1DGBmJJEX) | 1:59 |
 | 55 | [Take Me Home, Country Roads](https://open.spotify.com/track/6Fs6w8DpsvDWSBZ31YMQOO) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:17 |
 | 56 | [Tierra Nordica](https://open.spotify.com/track/620RWeJkit6UuXOca8jlue) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 2:40 |
-| 57 | [Audrey Horne](https://open.spotify.com/track/1pkQDlaCXB58kAouuVZGgB) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/673anqqhs8SSQMtQuTRaN4) | 2:56 |
+| 57 | [Audrey Horne](https://open.spotify.com/track/1cNNPJSTu1ZQALIijHvwqV) | [Golden Retriever](https://open.spotify.com/artist/71TknewZmcMQGt4R313xoo) | [Capablanca](https://open.spotify.com/album/5mENq4ZwKjrjofLKzmyvG7) | 2:56 |
 | 58 | [Afrodite](https://open.spotify.com/track/6skzlMw87XL85eM9YhMAxR) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:46 |
 | 59 | [Chacharerita Mia](https://open.spotify.com/track/535hSZOoxufWFeB3sstnep) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Chacharerita Mia](https://open.spotify.com/album/5FWVfIerIXzDqEOB3LKeei) | 3:31 |
 | 60 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 |
-| 61 | [Kalena Kai](https://open.spotify.com/track/42ZtKeVuYhMZRvnByfxX2M) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/0RYdFktBJKdNLh8rRAYvAp) | 4:25 |
+| 61 | [Kalena Kai](https://open.spotify.com/track/491T7mr4TMQoGNDgceIIAo) | [Keola Beamer](https://open.spotify.com/artist/3HH77UShAG2WJW5nBSjFdY) | [Wooden Boat](https://open.spotify.com/album/5zMsw0HrRHbUI2sbPB28Ku) | 4:22 |
 | 62 | [Let It Be](https://open.spotify.com/track/5R9dK5Ia3ZFjPtZZbVLWwI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/1ydxRAszbsOi1V9SMWsoP8) | 4:59 |
 | 63 | [Dancing In The Moonlight](https://open.spotify.com/track/6KeHsd0q92Sm9nMpXw7kbp) | [Miles Stevens](https://open.spotify.com/artist/4iFBTDdERv7dXIDdtJ70Rd) | [Dancing In The Moonlight](https://open.spotify.com/album/1WiRcfUayPpf5PiDIb3NhI) | 2:49 |
 | 64 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 80 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 81 | [Promenade](https://open.spotify.com/track/4VIrNjPtGefpTAgQygmMQj) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548), [Eltaly](https://open.spotify.com/artist/2843lHYtQpsY6AROyz0CRg) | [Horai](https://open.spotify.com/album/15TYXN1TmXcgavXe07R4Mw) | 3:36 |
 | 82 | [Clear Skies](https://open.spotify.com/track/5IbREiXznEMSrENm8iOOtw) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Clear Skies](https://open.spotify.com/album/3bIlYKIGezGDTciPBX3JLU) | 3:15 |
-| 83 | [Radio Hula \- Instrumental](https://open.spotify.com/track/6Ix3gDxTKEfaNQqcqsTaWe) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 2](https://open.spotify.com/album/6bwChwiwN9rexZRQmXfdAb) | 3:35 |
+| 83 | [Radio Hula](https://open.spotify.com/track/0ucKNafOslGlsuxPB0H6Ck) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Waltz of the Wind](https://open.spotify.com/album/4TF9XpVgoymaVHAXD7eTw0) | 3:33 |
 | 84 | [Unchained Melody](https://open.spotify.com/track/2qjBshXhqSVt5zYN0mXbgH) | [Bluetones](https://open.spotify.com/artist/19iDNndStvcWZ9squJXTQH) | [Unchained Melody](https://open.spotify.com/album/3nAn6vR2DDVo61rwaX9L5G) | 2:18 |
 | 85 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
 | 86 | [Mia](https://open.spotify.com/track/4HSwNVOzXCeQjJ8QrSNaMp) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Mia](https://open.spotify.com/album/1zFY9asEG1Oik76NugKsRN) | 2:22 |
@@ -107,9 +107,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHKTQ2s1l8q.md) - [plain]
 | 97 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 |
 | 98 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 | 99 | [Ku'u Pua I Paoakalani](https://open.spotify.com/track/5SgbhhOYg3NSGPHSTTAuEf) | [Herb Ohta, Jr.](https://open.spotify.com/artist/1Dp5erLcQqBYQBOR3qs1Dp) | ['Ukulele Nahenahe](https://open.spotify.com/album/3J17HyASPEoCKqVvCmpeQW) | 3:17 |
-| 100 | [Lei 'Awapuhi](https://open.spotify.com/track/1dVyAJFUCAD5TjbWTKzpk0) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/66dhjYbfLwwC4r87dSFYl6) | 4:42 |
+| 100 | [Lei 'Awapuhi \- Yellow Ginger Lei](https://open.spotify.com/track/7jVT5ATucVf0V2R5ztUnYJ) | [Bob Brozman](https://open.spotify.com/artist/0rbQ6RnCd7jkHUr9zof16V), [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Kīkā Kila Meets Kī Hō'alu](https://open.spotify.com/album/3lD6160vY7QdfYnjTh4tid) | 4:39 |
 | 101 | [Moon River](https://open.spotify.com/track/5oWqyasMpL9FQFNg7nsEcD) | [Doron Talman](https://open.spotify.com/artist/2fbMccjpD1NvbideK6wp8c) | [Moon River](https://open.spotify.com/album/48HgOIi4dFhBDYI25dlV97) | 2:55 |
 | 102 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 |
 | 103 | [Dew](https://open.spotify.com/track/6JqfE4pSUOgILE5nbkjnRQ) | [Hilder Sky](https://open.spotify.com/artist/4VtFCdJXVb9aKGq8Pt5dZQ) | [Dew](https://open.spotify.com/album/0EZFTQf7FtZP5N8Qqwz4ip) | 2:32 |
 
-Snapshot ID: `MTY1ODgyOTY4NywwMDAwMDAyMzAwMDAwMTgyMzlmNDRiYjcwMDAwMDE4MjM5ZjI2ZTMy`
+Snapshot ID: `MTY1ODgyOTY4NywwMDAwMDAwMDIzNGJmM2UyNTc1MzViZGMyZDhiZTExZGQ0MGIzZjMx`

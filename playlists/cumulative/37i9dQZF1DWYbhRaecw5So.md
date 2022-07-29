@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-51 songs - 5 hr 5 min - not published yet
+52 songs - 5 hr 15 min - [published](https://open.spotify.com/playlist/0umjXykMErxEDJOEfw95Pu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Starblast \- Mixed](https://open.spotify.com/track/2CEaoB1Z09F2CV5ZIexHnk) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB), [Alex Kaspersky](https://open.spotify.com/artist/63UXhrqsOY2vKDXbQ0yjRX) | [Global Underground: Adapt \#4 \(Mixed\)](https://open.spotify.com/album/4kZKneq5jTpZ95UgjXoC97) | 2:19 | 2022-07-23 |  |
 | [Steps](https://open.spotify.com/track/1pIBxvFjjnp7tAKOTwA0Az) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Steps](https://open.spotify.com/album/0uin82gWKieM4DTE77Ayrk) | 5:58 | 2022-07-23 |  |
 | [Sugar \(Joeski Remix\) \- Extended Mix](https://open.spotify.com/track/69mySPZdQdQygMvVdG9kAj) | [Virak](https://open.spotify.com/artist/7gEgxCJulGmrl6vAa39NcK), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Sugar](https://open.spotify.com/album/6uRa9aKvcRhOdQjVNNT7tb) | 7:31 | 2022-07-23 |  |
-| [Superior Conjunction](https://open.spotify.com/track/44Mag4B4by9bXU2gh3DA5Y) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF) | [Superior Conjunction EP](https://open.spotify.com/album/3giCQx7p1117uiuoMJSPrL) | 9:29 | 2022-07-23 |  |
+| [Superior Conjunction](https://open.spotify.com/track/44Mag4B4by9bXU2gh3DA5Y) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF) | [Superior Conjunction EP](https://open.spotify.com/album/3giCQx7p1117uiuoMJSPrL) | 9:29 | 2022-07-23 | 2022-07-29 |
+| [Superior Conjunction](https://open.spotify.com/track/4I4sgAJbcmIcoNaz27H882) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF) | [Superior Conjunction EP](https://open.spotify.com/album/0klU1jLgFLaQNn3bMcWF33) | 9:29 | 2022-07-23 |  |
 | [Tarambana](https://open.spotify.com/track/1v0JtVdAEIuClhZgF8uwbx) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Plot EP](https://open.spotify.com/album/6pOC4Dizjrquu2HZ2sflRc) | 8:04 | 2022-07-23 |  |
 | [Tempter](https://open.spotify.com/track/0KkAy1QezXydVuogqlmS9l) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI) | [Tempter](https://open.spotify.com/album/1AjfddaP7o0S4WlXkH3he3) | 6:45 | 2022-07-23 |  |
 | [The Best Part \- Patrice Bäumel Remix](https://open.spotify.com/track/4I11eaQ6EfG6tOflYiov0a) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Bien](https://open.spotify.com/artist/2uodbv2953Z7R1ipwucK2A), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [The Best Part \(Remixes\)](https://open.spotify.com/album/0PoVJDMe5nPBD76a5rxapD) | 4:11 | 2022-07-23 |  |

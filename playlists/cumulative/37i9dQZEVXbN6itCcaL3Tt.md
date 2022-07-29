@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-738 songs - 1 day 14 hr 29 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+739 songs - 1 day 14 hr 32 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Barbie](https://open.spotify.com/track/0VdSlJ7owUK1MuS8Kp7LdE) | [BLACHA](https://open.spotify.com/artist/71tiWMKZ5wpl6E0BdwVQza), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Barbie](https://open.spotify.com/album/7noCMYG0mfRymxeBNXQuGz) | 2:21 | 2021-09-05 | 2021-09-09 |
 | [Bardziej Sobą Niż Kiedykolwiek](https://open.spotify.com/track/00KWg3ywQZVELTUa1U2vsx) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 3:31 | 2022-06-11 | 2022-06-13 |
 | [Batman](https://open.spotify.com/track/7dtPm74yO2bHZs4IAAVtTp) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Rysy](https://open.spotify.com/artist/1g8ymDLzZuSX7H7QGY3mGX) | [Batman](https://open.spotify.com/album/2ic3eJZGU3nIuMvNa3Nw7P) | 2:52 | 2022-03-29 | 2022-04-02 |
-| [BEDOESIARA](https://open.spotify.com/track/7kRCfAV3W39reD8Tjie8jP) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [BEDOESIARA](https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c) | 2:49 | 2022-05-27 |  |
+| [BEDOESIARA](https://open.spotify.com/track/0wMGcWjZ2Lymgnbxjy5FXN) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [BEDOESIARA](https://open.spotify.com/album/4VhH1mvUxQfk9lr8jZ2Y0W) | 2:49 | 2022-07-28 |  |
+| [BEDOESIARA](https://open.spotify.com/track/7kRCfAV3W39reD8Tjie8jP) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [Bedoes](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Abel de Jong](https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt) | [BEDOESIARA](https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c) | 2:49 | 2022-05-27 | 2022-07-29 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-02 | 2021-09-19 |
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-01 |
 | [BELWEDER \(omamale\)](https://open.spotify.com/track/1BHp12cQ54QXlO2LpUECR6) | [mgng](https://open.spotify.com/artist/2btodWRF2aoshNisaYZhMc), [MASNY BEN](https://open.spotify.com/artist/4lS1f07YGBEKA9ai638UbU) | [BELWEDER \(omamale\)](https://open.spotify.com/album/7GwLVCs9hTyhtR0CjoYk58) | 2:18 | 2021-11-20 | 2022-01-27 |

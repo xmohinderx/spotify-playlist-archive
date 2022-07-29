@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom
 
-100 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+102 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-05-27 |  |
 | [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-05-27 |  |
 | [God Who Saves](https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Ballroom](https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN) | 4:50 | 2022-05-27 |  |
-| [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2022-05-27 |  |
+| [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2022-05-27 | 2022-07-29 |
+| [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 | 2022-05-27 |  |
 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 | 2022-05-27 |  |
 | [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 | 2022-05-27 |  |
 | [Grace Greater](https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Grace Greater](https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv) | 4:22 | 2022-05-27 |  |
@@ -49,7 +50,8 @@
 | [I See Heaven On Earth](https://open.spotify.com/track/6Np39XMxggFHRDG8OUMEab) | [Jim Sonefeld](https://open.spotify.com/artist/0KNodVzuH2zoT1tglc3C9k) | [I See Heaven On Earth](https://open.spotify.com/album/3irmMXTzkzVkctuv2mMJZz) | 3:59 | 2022-05-27 |  |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-05-27 |  |
 | [I'm Open](https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [I'm Open](https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM) | 3:34 | 2022-05-27 |  |
-| [In You](https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG) | 3:25 | 2022-05-27 |  |
+| [In You](https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO) | 3:25 | 2022-05-27 |  |
+| [In You](https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc) | [Iveth Luna](https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv) | [In You](https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG) | 3:25 | 2022-05-27 | 2022-07-29 |
 | [Invited](https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Better View, Part II](https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy) | 3:04 | 2022-05-27 |  |
 | [Jesus Did](https://open.spotify.com/track/1HhUXOuE3wbuvXk00AaOSj) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Jesus Did](https://open.spotify.com/album/1MUu3CWuxuRfmyPfi7SU3b) | 3:23 | 2022-05-27 |  |
 | [Jesus Victorious \(Jezus Overwinnaar\)](https://open.spotify.com/track/7HPI24EvtUi1BBnOB8SLph) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Jesus Victorious \(Jezus Overwinnaar\)](https://open.spotify.com/album/5dt12Hf53YydCqmQT5hnEq) | 5:36 | 2022-05-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > living in beatopia
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,420 likes - 110 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,647 likes - 110 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 109 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 |
 | 110 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 |
 
-Snapshot ID: `MTY1ODkzODY5OSwwMDAwMDNiNzAwMDAwMTgyNDA3M2FlZTAwMDAwMDE4MjAxYzFlYTc1`
+Snapshot ID: `MTY1ODkzODY5OSwwMDAwMDAwMGUzNTdkN2Y3NTg3MGYyOThlMjM5Y2YxMzk1Y2JkOGM1`

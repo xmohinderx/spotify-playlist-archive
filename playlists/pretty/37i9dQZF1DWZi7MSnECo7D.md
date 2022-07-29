@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,691 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,757 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 5 | [voltas \(áudio de whatsapp\)](https://open.spotify.com/track/3qROJDOCZ7eoxAbr6hiKkB) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [n sei usar excel](https://open.spotify.com/album/5uxJG9jWXfk8LVHS39aGrE) | 2:09 |
 | 6 | [Até Meu Violão](https://open.spotify.com/track/47T54qbp9SreG2h7RBaMEG) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos](https://open.spotify.com/album/2arek67vZ8dshMyO3U4gLH) | 2:49 |
 | 7 | [Vira\-Lata](https://open.spotify.com/track/0rUvuGRs0uYbh1LZUtBF7g) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Vira\-Lata](https://open.spotify.com/album/42XXrbrpqdGr6oJ2BQ6M7E) | 3:59 |
-| 8 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 |
+| 8 | [Bateria Social](https://open.spotify.com/track/1wicDKdH62DL55tNHK9PhA) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/4jKJMo24vOWI38n5jJrR8S) | 2:59 |
 | 9 | [Pode Chegar](https://open.spotify.com/track/1xY1qLVrlFZPYjpklP1cl4) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Parte do Que Vem](https://open.spotify.com/album/7s4EA9tZu5gK98FOSBL1ZS) | 4:15 |
 | 10 | [O que devia ser](https://open.spotify.com/track/1Job3TZZQ6vsF2DopblZ5t) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [O outro lado do rio](https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C) | 3:25 |
 | 11 | [O Palhaço](https://open.spotify.com/track/1YDEW8R55VUbx0NmNB0y5u) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [O Palhaço](https://open.spotify.com/album/42q2NlFRAL4jao2SeSE0uQ) | 4:43 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 78 | [Suco de Umbu](https://open.spotify.com/track/6fZsGcrr8ee5BErIAqb8Sw) | [Florais Da Terra Quente](https://open.spotify.com/artist/4o2BxKIeP7nFrkIQZCNl1R), [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Suco de Umbu](https://open.spotify.com/album/5XzQwlFEVncfk4BvGaFeIt) | 3:54 |
 | 79 | [Somos Só](https://open.spotify.com/track/0djmDwUQSh156s9wuvl4Tt) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Somos Só](https://open.spotify.com/album/5Cw0fuWecAhIsSoWbugI65) | 3:33 |
 | 80 | [Seu Ex](https://open.spotify.com/track/2eY3y3Rf2mhE9ZV8haXKK4) | [Banda Tereza](https://open.spotify.com/artist/2jIkaAwhzf31RMBCmOxD3T), [Léo Soma](https://open.spotify.com/artist/6zAnNubrVXt74QU2WqAGsO), [Nixon Silva](https://open.spotify.com/artist/7ExQN8npW8unboofPLTMMC) | [Seu Ex](https://open.spotify.com/album/52x09F005pv9ahvlmheXs9) | 2:44 |
-| 81 | [Ultraleve](https://open.spotify.com/track/3gzeiDNfU4OwnSmsk3xwCK) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Ultraleve](https://open.spotify.com/album/7lqAhSyVbl2kMmuCOtkjdU) | 3:51 |
+| 81 | [Ultraleve](https://open.spotify.com/track/3Rab6Z0ZW6knxay13dEvx7) | [Jennifer Souza](https://open.spotify.com/artist/5GQ1guYM9sT7BHVPbQUWxm) | [Pacífica Pedra Branca](https://open.spotify.com/album/1nnNN82IroJUO8dhiGFPXz) | 3:51 |
 | 82 | [Maquiada](https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP) | [João Cortez](https://open.spotify.com/artist/53RdXNH4yHV9BGrbMPkmc3), [Olivier](https://open.spotify.com/artist/4UAqN2U4TLaw2XiSwkcm9y), [Erraudo](https://open.spotify.com/artist/3WMrwahbAyOHX1BN54smJ0) | [Maquiada](https://open.spotify.com/album/7ELgVDiXijxfvkv4zdlII0) | 2:56 |
 | 83 | [Risco](https://open.spotify.com/track/4YnFFesMh6JYIGCTtzapv5) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Risco](https://open.spotify.com/album/1zLk5joVdgeDeukWMyKjta) | 2:22 |
 | 84 | [A Fogueira](https://open.spotify.com/track/7fAlzuAQK9JXDqmATf0CVQ) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [A Fogueira](https://open.spotify.com/album/5A7nbwGuraxP0ghwAAeNyd) | 3:58 |
-| 85 | [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 |
+| 85 | [a gente não tem nada a ver](https://open.spotify.com/track/5nb12r6ybXzM0rtBuqjwq3) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5AQ9zGD6JEYYyY0lMzBNK8) | 4:02 |
 
-Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDFmOTAwMDAwMTgyMjNkOTAwMTkwMDAwMDE4MjIyMTE2OGQ1`
+Snapshot ID: `MTY1ODQ1ODgwMCwwMDAwMDAwMGFmYjcwOTRhOGRmMzY4MTgwOTNjN2EzYmU2MTUwNTU4`

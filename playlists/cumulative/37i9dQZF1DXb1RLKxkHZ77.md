@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nuha Bahrin, Naufal Azrin
 
-61 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+63 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,15 @@
 | [Bisik](https://open.spotify.com/track/4YNhulUIAnaulDVlemRVzX) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bisik](https://open.spotify.com/album/51J63QPmvNrjbhIFPNc3Wx) | 4:00 | 2022-07-21 |  |
 | [Bukan Milikmu](https://open.spotify.com/track/7ng6S2AgkeiTUQxqt144Oh) | [Han Byul](https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP) | [Bukan Milikmu](https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d) | 4:00 | 2022-05-25 |  |
 | [CASABLANCA](https://open.spotify.com/track/7gvhpn0qGA0r3GDqrPnmhD) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [CASABLANCA](https://open.spotify.com/album/79q2SC1pSKJ5feP5NfKGaU) | 3:00 | 2022-06-30 |  |
-| [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 | 2022-05-25 |  |
+| [Cinta](https://open.spotify.com/track/0jkJChuTxiVr05C2oUAlht) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/1gAC5jqOsnhlGjfucDDkWo) | 3:54 | 2022-07-27 |  |
+| [Cinta](https://open.spotify.com/track/390rIF5dbH5QRIb7r3NxOF) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Cinta](https://open.spotify.com/album/2aPLN3NAn2iPab8GMY4pV5) | 3:54 | 2022-05-25 | 2022-07-29 |
 | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/track/1ovwOL1O06VVKOzqPYunSS) | [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Dia Masa Lalumu, Aku Masa Depanmu](https://open.spotify.com/album/1b21c8HRBOiv6wilAXMRAG) | 4:02 | 2022-07-21 |  |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2022-05-25 |  |
 | [DU](https://open.spotify.com/track/0F390DrzwfhUrR3QqXgZKZ) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [DU](https://open.spotify.com/album/0yYX0uMUbpKeDmzfV4zbw8) | 3:49 | 2022-05-25 |  |
 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 |  |
 | [Gurauan Berkasih](https://open.spotify.com/track/0JUinU1l9QXI3seXiVr1A6) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Gurauan Berkasih](https://open.spotify.com/album/1cTHOYKnVcZTBbDun5eKbR) | 4:05 | 2022-05-25 |  |
-| [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 | 2022-07-27 |  |
+| [Hal Hebat](https://open.spotify.com/track/2AgdGjC0oatOoVa8jEjTRZ) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp) | [Hal Hebat](https://open.spotify.com/album/1jG6zrzssLdWlKvGfl0FhY) | 5:22 | 2022-07-27 |  |
+| [Hal Hebat](https://open.spotify.com/track/0FE59fpqBysKEsp2NPeBcM) | [Govinda](https://open.spotify.com/artist/0VRcgURXZCZdHJAeURqLsp), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Hal Hebat](https://open.spotify.com/album/2F92waWafUCISVLk06k4y5) | 5:22 | 2022-07-27 | 2022-07-29 |
 | [Harum Sundal Malam](https://open.spotify.com/track/5Y5A2d8zVU62bONx0pck5o) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Harum Sundal Malam](https://open.spotify.com/album/2z7a3zoAL6BuzF7rypiCp5) | 3:33 | 2022-05-25 | 2022-07-28 |
 | [HATI](https://open.spotify.com/track/7qUclEieAYxZH07yl9BnnF) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19), [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR) | [HATI](https://open.spotify.com/album/2ZjFUUNd76Fm1tInQHNF3N) | 3:26 | 2022-07-27 |  |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-05-25 |  |

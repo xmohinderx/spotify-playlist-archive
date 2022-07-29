@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-184 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+186 songs - 8 hr 40 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Forgotten Promises](https://open.spotify.com/track/0w0RedAq8WsbthP2BLFJkr) | [Giacomo Manaia](https://open.spotify.com/artist/4t76e9ebvylDIUTLrXriVk) | [Forgotten Promises](https://open.spotify.com/album/2CUNI5DLIIFEzugW8zqQcY) | 3:09 | 2022-05-13 |  |
 | [Found](https://open.spotify.com/track/2T2EemW8X3GlKvJe1gxpBC) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Found](https://open.spotify.com/album/2LtKNN5HRbG0Acos9YDAMA) | 2:39 | 2022-05-13 | 2022-06-10 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-05-13 |  |
-| [Gallowhill](https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/4M7nAqMxiwTcWua278roTf) | 2:05 | 2022-05-13 |  |
+| [Gallowhill](https://open.spotify.com/track/6SxZOktPKFDclsZaXvTyRF) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/4M7nAqMxiwTcWua278roTf) | 2:05 | 2022-05-13 | 2022-07-29 |
+| [Gallowhill](https://open.spotify.com/track/7vaRxV3zmbu9jlkZNfCpDi) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Across The Pond](https://open.spotify.com/album/29nlogZZVuuaLvA9lwjgTj) | 2:05 | 2022-07-22 |  |
 | [Gilmerton](https://open.spotify.com/track/2zJvW1rqjvYHFNPl2mYuPk) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Gilmerton](https://open.spotify.com/album/1X2C2VeeduvqLPPA9X6KlC) | 2:19 | 2022-05-13 |  |
 | [Golden Coast](https://open.spotify.com/track/0waUQx6xGwUQALnhBt9Hr8) | [Alexis Snell](https://open.spotify.com/artist/2meBF8usB3g5MDVAfJC8EK) | [Golden Coast](https://open.spotify.com/album/5kPv7r06j48SQ5FaItaA2a) | 3:20 | 2022-05-13 |  |
 | [Goodbye](https://open.spotify.com/track/0tDUVtkNs3dn799WQIfk97) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Randal L Meek](https://open.spotify.com/artist/7IbVTpxbYawdWViVedEJIB) | [Goodbye](https://open.spotify.com/album/5hCt1vCsVJrb4RocHLRiBF) | 3:25 | 2022-06-10 |  |
@@ -133,7 +134,8 @@
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-05-13 |  |
 | [Rainy Window](https://open.spotify.com/track/7qtNQxxjeHjxZPszQWrpRW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:42 | 2022-05-13 | 2022-06-10 |
 | [raven](https://open.spotify.com/track/5o6X2A8XqhphXjR5kpIQXy) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [raven](https://open.spotify.com/album/0XUjhMDUqt4OxUujlgZTgl) | 3:56 | 2022-05-13 |  |
-| [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2022-05-13 |  |
+| [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2022-05-13 | 2022-07-29 |
+| [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 | 2022-07-22 |  |
 | [Red Cliff](https://open.spotify.com/track/6lsYXz5zZ1DLxk1es2Z3Te) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Red Cliff](https://open.spotify.com/album/7Mri2V8TsAD6Qh2kBtaQuJ) | 2:48 | 2022-05-27 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-05-13 |  |
 | [Reunited](https://open.spotify.com/track/6eirYUJx3GarqrbDhgc51B) | [Daniel Fernando](https://open.spotify.com/artist/7KxUzzHsRoyRrtGMkYnH6y) | [Reunited](https://open.spotify.com/album/1WeMb5lu8JhRQrfNH4311X) | 3:02 | 2022-05-13 |  |

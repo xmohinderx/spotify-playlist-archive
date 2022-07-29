@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: 3AM",
+  "description": "Fresh Latin pop on the rise. Cover: Pau Laggies",
   "name": "el nuevo pop",
   "published_playlist_ids": [
     "7Ccvzuluaa4ypGALpBeYBn"
@@ -99,6 +99,24 @@
       "duration_ms": 179616,
       "name": "After",
       "url": "https://open.spotify.com/track/13VKzAXOVaZvdID3eg7GRU"
+    },
+    {
+      "album": {
+        "name": "Agua Salada",
+        "url": "https://open.spotify.com/album/3bKROtBqvLYbu3zXuRqR3W"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213434,
+      "name": "Agua Salada",
+      "url": "https://open.spotify.com/track/22QO6gby3fhNRkNVAFxp5v"
     },
     {
       "album": {
@@ -695,7 +713,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181395,
       "name": "Cuando Sube el Sol",
       "url": "https://open.spotify.com/track/6kehs9Uc57B6w76X9fx5sN"
@@ -910,6 +928,46 @@
     },
     {
       "album": {
+        "name": "Duele Tanto",
+        "url": "https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193900,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M"
+    },
+    {
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182764,
+      "name": "D\u00cdA DEL AMOR",
+      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
+    },
+    {
+      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/59chl7fGmsBjN3KbUNg2JB"
       },
@@ -983,7 +1041,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 113469,
       "name": "EL PEOR",
       "url": "https://open.spotify.com/track/3StJXDAzM3RFl5c3T9anFr"
@@ -1230,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Gracias x Nada",
+        "url": "https://open.spotify.com/album/2SRL17miIXiQ1aAonnxXU0"
+      },
+      "artists": [
+        {
+          "name": "Nanizzie",
+          "url": "https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172655,
+      "name": "Gracias x Nada",
+      "url": "https://open.spotify.com/track/1MzHoEWtfuLGAtoxVk5fTZ"
+    },
+    {
+      "album": {
         "name": "Guay",
         "url": "https://open.spotify.com/album/0tqQ2CaKB7HMaWKWeQOnOR"
       },
@@ -1339,7 +1415,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 150742,
       "name": "H\u00e1blame Claro",
       "url": "https://open.spotify.com/track/5zMbxpqETt0qsKL1lXgiVJ"
@@ -1467,7 +1543,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206181,
       "name": "Kokeo",
       "url": "https://open.spotify.com/track/3ae5wSGD2kCCnUdPb0TmoS"
@@ -1543,7 +1619,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195200,
       "name": "Llorar En La Ducha",
       "url": "https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR"
@@ -1673,7 +1749,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178601,
       "name": "Mira Loco",
       "url": "https://open.spotify.com/track/4U3m6mG7gzJR38lNyzoZa5"
@@ -1811,7 +1887,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206250,
       "name": "Nada Tuyo",
       "url": "https://open.spotify.com/track/5KyC2wlH7acp95IFTQ2yLN"
@@ -2180,6 +2256,28 @@
     },
     {
       "album": {
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Plut\u00f3n",
+      "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "album": {
         "name": "PobreDiablo (Interlude)",
         "url": "https://open.spotify.com/album/1RgNyfYRFkoMGW3hLusIf2"
       },
@@ -2337,6 +2435,32 @@
       "duration_ms": 194840,
       "name": "QUEREME",
       "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
+    },
+    {
+      "album": {
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "album": {
@@ -2518,6 +2642,54 @@
     },
     {
       "album": {
+        "name": "Sin Se\u00f1al",
+        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
+    },
+    {
+      "album": {
+        "name": "Fantasy Gateway",
+        "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232298,
+      "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/6OwLG0sDsLlruI8JToGkew"
       },
@@ -2551,6 +2723,28 @@
       "duration_ms": 172000,
       "name": "solo m\u00eda",
       "url": "https://open.spotify.com/track/2MP4w74qYD5dMIPbsMTFXU"
+    },
+    {
+      "album": {
+        "name": "Solos",
+        "url": "https://open.spotify.com/album/128JK5zcSwTC1kSNvQqCbS"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179805,
+      "name": "Solos",
+      "url": "https://open.spotify.com/track/7vEPWsovwnkHa2fN5I3tST"
     },
     {
       "album": {
@@ -2867,7 +3061,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182281,
       "name": "Tu Boca",
       "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
@@ -2979,7 +3173,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210913,
       "name": "\u00c1cido Sabor",
       "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"

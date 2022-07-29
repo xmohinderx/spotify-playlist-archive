@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Arturo",
+      "url": "https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW"
+    },
+    {
+      "album": {
         "name": "Arturo",
         "url": "https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172000,
       "name": "Arturo",
       "url": "https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E"
@@ -3083,10 +3101,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202977,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/0zJmKWFxWOw61bWy8HWnPt"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202977,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     },
     {
       "album": {
@@ -3757,7 +3793,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186980,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u"
@@ -3811,10 +3847,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134660,
       "name": "Vogeltrek",
       "url": "https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu"
+    },
+    {
+      "album": {
+        "name": "Naar Huis",
+        "url": "https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv"
+      },
+      "artists": [
+        {
+          "name": "Doeke",
+          "url": "https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134660,
+      "name": "Vogeltrek",
+      "url": "https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b"
     },
     {
       "album": {

@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 132000,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/2sQxhX9xg3cliZbhS56lv7"
@@ -331,10 +331,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133629,
       "name": "Blanca",
       "url": "https://open.spotify.com/track/3AWBuykfXVYCsnLpcFaTZD"
+    },
+    {
+      "album": {
+        "name": "Journey To Osaka",
+        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+      },
+      "artists": [
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        },
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133629,
+      "name": "Blanca",
+      "url": "https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp"
     },
     {
       "album": {
@@ -1235,6 +1257,24 @@
     {
       "album": {
         "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf"
+      },
+      "artists": [
+        {
+          "name": "Thymes",
+          "url": "https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136296,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g"
+    },
+    {
+      "album": {
+        "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH"
       },
       "artists": [
@@ -1245,7 +1285,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136296,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ"
@@ -1299,7 +1339,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 113992,
       "name": "Gin Basil Smash",
       "url": "https://open.spotify.com/track/70rDQkdlpsQT48Fegnttd1"
@@ -1870,6 +1910,24 @@
     },
     {
       "album": {
+        "name": "later that year",
+        "url": "https://open.spotify.com/album/39Yw5V2DkO0QaH8BoeIuE6"
+      },
+      "artists": [
+        {
+          "name": "harvest boy",
+          "url": "https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130190,
+      "name": "later that year",
+      "url": "https://open.spotify.com/track/1yCHrKV9rVX8TJewzt92bt"
+    },
+    {
+      "album": {
         "name": "lazos",
         "url": "https://open.spotify.com/album/1eQowgre1jsz7vxsEhunt0"
       },
@@ -2011,10 +2069,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120950,
       "name": "Lonely Horseman",
       "url": "https://open.spotify.com/track/3VDiKLJhDIRktINkdoIfUC"
+    },
+    {
+      "album": {
+        "name": "Notunderstand",
+        "url": "https://open.spotify.com/album/6fIWwF6dIrqtZV70lg0i6g"
+      },
+      "artists": [
+        {
+          "name": "Smuff Tha Quiz",
+          "url": "https://open.spotify.com/artist/3RoPCko9qLmfQiDg8mHaZn"
+        },
+        {
+          "name": "Walterwarm",
+          "url": "https://open.spotify.com/artist/07kiOUGRiofjbQZbEPH8yk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120950,
+      "name": "Lonely Horseman",
+      "url": "https://open.spotify.com/track/7KnqIFUolPsMygtJBJ28N5"
     },
     {
       "album": {
@@ -2087,6 +2167,28 @@
       "duration_ms": 155424,
       "name": "Magic Mind",
       "url": "https://open.spotify.com/track/3nqicEuiIvZvqtHeQtue74"
+    },
+    {
+      "album": {
+        "name": "Blooming Forest",
+        "url": "https://open.spotify.com/album/6AkQRDSp2H9CF412FjMeZC"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116254,
+      "name": "Magical Flowers",
+      "url": "https://open.spotify.com/track/0HWebiXAg2lknOcP1wyUsx"
     },
     {
       "album": {
@@ -2387,7 +2489,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 88615,
       "name": "Navigators",
       "url": "https://open.spotify.com/track/52a4rzZ0bOk2OfVawjiNVC"
@@ -2709,7 +2811,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 120004,
       "name": "Peace",
       "url": "https://open.spotify.com/track/0qt32QPTlsD4qL8l2B4Hj3"
@@ -2789,6 +2891,24 @@
       "duration_ms": 96007,
       "name": "Plucktonal",
       "url": "https://open.spotify.com/track/1ganpYVHbwzHFsmramAXgA"
+    },
+    {
+      "album": {
+        "name": "Poppy Field",
+        "url": "https://open.spotify.com/album/0CynghnebBt19Jiw0Yjoin"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Hayashi Egnell",
+          "url": "https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164874,
+      "name": "Poppy Field",
+      "url": "https://open.spotify.com/track/26PQ7EGKWIGGO7BmWFqBBZ"
     },
     {
       "album": {
@@ -3439,7 +3559,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 108169,
       "name": "spaceportaladventure",
       "url": "https://open.spotify.com/track/5Z42EcS4orw1I8BeXufWQZ"
@@ -3849,7 +3969,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165482,
       "name": "Wandering Spirits",
       "url": "https://open.spotify.com/track/76m67K7hbJPgW4rtsPKO6j"
@@ -3889,10 +4009,50 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144917,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/5728OBye3peeIkv9qlps0H"
+    },
+    {
+      "album": {
+        "name": "Warm Breeze",
+        "url": "https://open.spotify.com/album/1qpP75rfcwrM7UO1n0KhFH"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144917,
+      "name": "Warm Breeze",
+      "url": "https://open.spotify.com/track/6yqhvnDpwXKxITVp4U76QB"
+    },
+    {
+      "album": {
+        "name": "wasabi flow",
+        "url": "https://open.spotify.com/album/73dMTdgtZFuHpIXkzuaFQM"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146930,
+      "name": "wasabi flow",
+      "url": "https://open.spotify.com/track/5dScI6hiDI0kYvVVzlr34Q"
     },
     {
       "album": {

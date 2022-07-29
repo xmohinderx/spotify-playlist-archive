@@ -4,7 +4,7 @@
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-55 songs - 5 hr 20 min - not published yet
+55 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/3VPyFHCP4HjYLBccRSFFLz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,678 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,731 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 25 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 |
 | 26 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
 | 27 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 |
-| 28 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 |
+| 28 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 |
 | 29 | [Men vs Men](https://open.spotify.com/track/0hYb8esbOsGwnqmfSDhGNV) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Men vs Men](https://open.spotify.com/album/6Ha8T2JkW1ExteeCapbbWr) | 2:19 |
 | 30 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 |
 | 31 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 69 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
 | 70 | [Las Horas Perdidas](https://open.spotify.com/track/4eEUVSwru8TQ3AidGqe99c) | [Willi Piancioli](https://open.spotify.com/artist/50JL2GBMP1oqMj8WiqMt0D) | [\#Innatural](https://open.spotify.com/album/6da4ohtqwwrXBmdiyzI4Mf) | 4:56 |
 | 71 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
-| 72 | [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 |
+| 72 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 |
 | 73 | [Pop para el Fin del Mundo](https://open.spotify.com/track/06tJ4LbmloGojZcUXiL7il) | [TAPPAN](https://open.spotify.com/artist/23DnlRuTAuHrgdtWH8PU4x) | [Pop para el Fin del Mundo](https://open.spotify.com/album/64XG3pFyj5Z6YLjHsGriYI) | 4:54 |
 | 74 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 |
 | 75 | [Del Otro Lado del Mar](https://open.spotify.com/track/5m8Xop4iN3MH3bfdaKh1Y6) | [Pirañas](https://open.spotify.com/artist/4XxfZ6vRHggyMge7HglgFL) | [Del Otro Lado del Mar](https://open.spotify.com/album/6J6HBkeZaCI7F5vG4iRqrS) | 3:38 |
 
-Snapshot ID: `MTY1NjY4OTc1NCwwMDAwMDA1ODAwMDAwMTgxYmE2NzgyZmIwMDAwMDE4MWJhNjZmMGUw`
+Snapshot ID: `MTY1NjY4OTc1NCwwMDAwMDAwMDM4NGE0MDllMDM1ZTFkZTk1OTVkZTBiZjdiOTAyZGUy`

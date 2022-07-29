@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Sima
 
-126 songs - 6 hr 52 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+128 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [19 Minutes](https://open.spotify.com/track/0Q9spd6gWzo0SxeuIx4yce) | [Evvie](https://open.spotify.com/artist/0aUemj8TRmO7rCYc2xqulu) | [19 Minutes](https://open.spotify.com/album/6KsdmtbKMnr1EdpqpWVTVr) | 4:54 | 2021-12-07 | 2022-01-05 |
 | [400 Miles](https://open.spotify.com/track/5CREOJS7dM2XYrHR9CLlyY) | [Evvie](https://open.spotify.com/artist/0aUemj8TRmO7rCYc2xqulu) | [400 Miles](https://open.spotify.com/album/23yARo1fBZyOZYm2KMgOZs) | 3:23 | 2022-01-04 | 2022-02-02 |
 | [All My Pain](https://open.spotify.com/track/0vmWpF1eBbIIGivF6Bj0cY) | [Sofie](https://open.spotify.com/artist/04PFwMAplZyzOerV1UcDMw) | [All My Pain](https://open.spotify.com/album/6JAqDVVNtOybUte31lYIoy) | 4:00 | 2022-05-31 |  |
-| [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-03-07 |  |
+| [almost 20](https://open.spotify.com/track/6k7xfz8AzcXfavWKWmRMyf) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/7Api824sEAaKjtdrbNsncZ) | 2:12 | 2022-06-30 |  |
+| [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-03-07 | 2022-07-29 |
 | [Alter Ego](https://open.spotify.com/track/275xXbu1bAryi3n5H65EQ2) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Alter Ego](https://open.spotify.com/album/5GNZUz9HCl5bF4unXNwIAA) | 2:48 | 2022-02-01 | 2022-03-08 |
 | [Are You There](https://open.spotify.com/track/6rVgVKdD7w6MN3IZ7Ub6Tc) | [Elly](https://open.spotify.com/artist/58SiiPGMtAPMaQyNkn9Fbs) | [Are You There](https://open.spotify.com/album/15fhpyv7ZgiuPALWaHuHvz) | 3:03 | 2021-12-07 | 2022-03-08 |
 | [Babička](https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H) | [Barbara Kanyzová](https://open.spotify.com/artist/3XTgXJI96qMpTbrwSbTEdo) | [Vzpomněnky](https://open.spotify.com/album/5fp5UTrsmABvoTEKoKRSNS) | 2:38 | 2022-02-01 | 2022-07-01 |
@@ -90,7 +91,8 @@
 | [pull the trigger](https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [Mom, I’m Lost](https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA) | 2:56 | 2022-02-01 | 2022-05-04 |
 | [Půlnoc](https://open.spotify.com/track/4A9L4HX1otUuiE6ZX1eJuu) | [Tereza Balonová](https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq) | [Půlnoc](https://open.spotify.com/album/4khu0PnlvU5K2hN1ZgdOvr) | 3:16 | 2022-04-05 |  |
 | [Right Place Wrong Guy](https://open.spotify.com/track/00YbUbfTzwBOnnmvD8rp9p) | [Nykki](https://open.spotify.com/artist/4tr3FhDOdmSORCDrH6Q4CX) | [Right Place Wrong Guy](https://open.spotify.com/album/4Kun5hAcBGWT4uQsDcn9tT) | 3:16 | 2022-06-30 |  |
-| [Riť](https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K) | 2:59 | 2022-05-31 |  |
+| [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 | 2022-06-30 |  |
+| [Riť](https://open.spotify.com/track/7kwdDoDDM9yon6fA7PqToJ) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/6sTXyVWd5op4bDeWiXhn0K) | 2:59 | 2022-05-31 | 2022-07-29 |
 | [Roztomilá Holka](https://open.spotify.com/track/3I2lMpY9rwDQD9mHtWuqk0) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Roztomilá Holka](https://open.spotify.com/album/5o0wvWo4Awr6SSuHoZI0c3) | 2:29 | 2022-02-01 | 2022-07-01 |
 | [RUNNIN’ OUT OF F\* TIME](https://open.spotify.com/track/55pQMGSGWHu9eQ4QVOkkws) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [RUNNIN’ OUT OF F\* TIME](https://open.spotify.com/album/5g9cJGBVdKJvLmyp6247b7) | 2:57 | 2021-12-07 | 2022-05-04 |
 | [Růže](https://open.spotify.com/track/2Smx0BJT24nVMbOOGq8JbO) | [Kaczi](https://open.spotify.com/artist/6e5TZZ5oltfQdCEL3c8RJQ) | [Nahá](https://open.spotify.com/album/67YoR0F4qupJDwOe3kpHMT) | 2:48 | 2021-12-07 | 2022-04-06 |

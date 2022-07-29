@@ -3339,6 +3339,28 @@
     {
       "album": {
         "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
+    },
+    {
+      "album": {
+        "name": "Partilhar",
         "url": "https://open.spotify.com/album/76ASoWg3gEXhmElT2oJXLJ"
       },
       "artists": [
@@ -3353,7 +3375,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262552,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/6GfRv9IRF7rcJLss3kEw6d"
@@ -3537,6 +3559,24 @@
     {
       "album": {
         "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162960,
+      "name": "Portas",
+      "url": "https://open.spotify.com/track/5LwO15oqifZindqtrC79uH"
+    },
+    {
+      "album": {
+        "name": "Portas",
         "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
       },
       "artists": [
@@ -3547,7 +3587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162960,
       "name": "Portas",
       "url": "https://open.spotify.com/track/7rbAmQfqxxrdmxqjBcN2qA"
@@ -5019,10 +5059,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm"
+    },
+    {
+      "album": {
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "Vento Sardo",
+      "url": "https://open.spotify.com/track/6zqqCZA5EOvMXj5nRKuTy7"
     },
     {
       "album": {

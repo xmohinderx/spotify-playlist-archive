@@ -1386,6 +1386,28 @@
     },
     {
       "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169812,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/1gdLUGdyYpXcckmzP1rTUm"
+    },
+    {
+      "album": {
         "name": "Play It Cool",
         "url": "https://open.spotify.com/album/28WUoBcwY0V5acKZhnzakN"
       },
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169812,
       "name": "Play It Cool",
       "url": "https://open.spotify.com/track/3WE4GE18Yq8s3Z7uV743I4"
@@ -1696,6 +1718,24 @@
     },
     {
       "album": {
+        "name": "PIECE",
+        "url": "https://open.spotify.com/album/25JXdPqltw5vOH8KPOzd2c"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "SPOTLIGHT",
+      "url": "https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL"
+    },
+    {
+      "album": {
         "name": "SPOTLIGHT",
         "url": "https://open.spotify.com/album/2EACxpJBI294N9hY6VQA6k"
       },
@@ -1707,7 +1747,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239226,
       "name": "SPOTLIGHT",
       "url": "https://open.spotify.com/track/6fMODL9vNyFi54ONiQLoXw"
@@ -2137,7 +2177,7 @@
     {
       "album": {
         "name": "\uc1fc\ud551\uc655 \ub8e8\uc774 Shopping King Louie (Music from the Korean Tv Drama)",
-        "url": "https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf"
+        "url": "https://open.spotify.com/album/5akkvAV2X14XXJdWawFUxm"
       },
       "artists": [
         {
@@ -2148,6 +2188,24 @@
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204373,
+      "name": "\ubd80\ub098\ube44 (The Tiger Moth)",
+      "url": "https://open.spotify.com/track/1h68rW9DjBqyphvchkFHNE"
+    },
+    {
+      "album": {
+        "name": "\uc1fc\ud551\uc655 \ub8e8\uc774 Shopping King Louie (Music from the Korean Tv Drama)",
+        "url": "https://open.spotify.com/album/7EMKu5tGIDNQHUY31EBzwf"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 204373,
       "name": "\ubd80\ub098\ube44 The Tiger Moth",
       "url": "https://open.spotify.com/track/4UM6PVSTq5LssDNyUPDfrY"

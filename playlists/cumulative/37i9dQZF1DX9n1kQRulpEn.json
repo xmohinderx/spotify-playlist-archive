@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334786,
       "name": "63rd Street Theme",
       "url": "https://open.spotify.com/track/0kFEFWOd5bNB1PuHYaXooo"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229773,
       "name": "Blues For Benny - Remastered 1998",
       "url": "https://open.spotify.com/track/78jOpEmX8qzsEzXCe4C0FX"
@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Bluesnik (Remastered)",
+        "url": "https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439693,
+      "name": "Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg"
+    },
+    {
+      "album": {
         "name": "Swedish Jazz Masters: Alla Mina Kompisar",
         "url": "https://open.spotify.com/album/37T5k8hlw2LGP1IWpKyJkV"
       },
@@ -365,10 +383,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 461053,
       "name": "Blues in the Closet",
       "url": "https://open.spotify.com/track/5bjFrN5d3vfutXT3NTnf9F"
+    },
+    {
+      "album": {
+        "name": "Chet Is Back!",
+        "url": "https://open.spotify.com/album/0QDJTS0a9b63Wl5aHh7Dfy"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461773,
+      "name": "Blues in the Closet",
+      "url": "https://open.spotify.com/track/548Bzz1GqkPMfev8nPSVTP"
     },
     {
       "album": {
@@ -507,7 +543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 457040,
       "name": "Bouncing With Myself",
       "url": "https://open.spotify.com/track/5sQmQ2bd4rRnw4t350a7Qz"
@@ -543,7 +579,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 265893,
       "name": "Camouflage - Rudy Van Gelder Edition/1998 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/3OANaB4dlcU6CjFE1geQhz"
@@ -597,7 +633,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 703026,
       "name": "Chroma",
       "url": "https://open.spotify.com/track/3REQeIjN47k7TtsRC1HzsJ"
@@ -709,7 +745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 425480,
       "name": "Devilette",
       "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
@@ -727,7 +763,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 369386,
       "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
@@ -789,7 +825,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 405653,
       "name": "Doodlin' - Remastered",
       "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
@@ -841,7 +877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 541047,
       "name": "Erzeben Strasse",
       "url": "https://open.spotify.com/track/6ywQqhJPlYreIMU4MuHK4P"
@@ -895,7 +931,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 473693,
       "name": "Half Past Late",
       "url": "https://open.spotify.com/track/5zmOsIXvpZh1RUiGL4kDan"
@@ -931,7 +967,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334000,
       "name": "Heavy Axe",
       "url": "https://open.spotify.com/track/2wVdn4JWyiQvamWXTZOFWG"
@@ -1119,10 +1155,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 320173,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3LaeuU3ARGFpakTK7o06Ue"
+    },
+    {
+      "album": {
+        "name": "Barcode",
+        "url": "https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Carmelo Leotta",
+          "url": "https://open.spotify.com/artist/5XjdbxwJFTIrDkSVQNhn0k"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320226,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/795N79I1xfTR1FnfL7J8pp"
     },
     {
       "album": {
@@ -1137,7 +1199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 371706,
       "name": "K.D.'s Cab Ride - Rudy Van Gelder Edition; 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/753tWMTGOJLzWAsFtwGZLN"
@@ -1235,7 +1297,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 391266,
       "name": "Main Spring - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G"
@@ -1539,7 +1601,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 315893,
       "name": "One For Newk - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
@@ -1557,7 +1619,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 444626,
       "name": "Out Of The Night - Rudy Van Gelder Edition / 1999 Digital Remaster / 24-Bit Mastering",
       "url": "https://open.spotify.com/track/1tboD29pvEqSOHz6fLGauk"
@@ -1611,7 +1673,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232666,
       "name": "Point of No Return",
       "url": "https://open.spotify.com/track/1hWQR3Ymxm7OPxfKVxeur3"
@@ -1669,7 +1731,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 389429,
       "name": "Red Cross",
       "url": "https://open.spotify.com/track/7bVQTik4JV0jgs2ygPdH8W"
@@ -1741,7 +1803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 451560,
       "name": "Rhubarb",
       "url": "https://open.spotify.com/track/2zuMEXTZ2hYiATJTgrTho9"
@@ -1849,7 +1911,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 496047,
       "name": "Sippin' At Bells - Remastered",
       "url": "https://open.spotify.com/track/6lMuLsSY67KBXLPhQVCbUW"
@@ -1903,10 +1965,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 376666,
       "name": "Soulville - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm"
+    },
+    {
+      "album": {
+        "name": "Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/0xvKY28Z5isacgZ1CoEn8r"
+      },
+      "artists": [
+        {
+          "name": "Trio X of Sweden",
+          "url": "https://open.spotify.com/artist/51s0AOLvBvXk75SsVUqIKZ"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383320,
+      "name": "Sound the Trumpet, Beat the Drum - Welcome Ode for James II",
+      "url": "https://open.spotify.com/track/3kZnRnwj66Ye6UYwm7y0iT"
     },
     {
       "album": {
@@ -1921,7 +2001,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 383320,
       "name": "Sound the Trumpet, Beat the Drum - Welcome Ode for James II (Arr. J. Ekberg, P.V. Johansson and L. Simonsson)",
       "url": "https://open.spotify.com/track/3zLE65A4teh3zifUWjUke9"
@@ -1951,10 +2031,40 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
+    },
+    {
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Doug Watkins",
+          "url": "https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407600,
+      "name": "St. Thomas",
+      "url": "https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8"
     },
     {
       "album": {
@@ -2025,7 +2135,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 294893,
       "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
@@ -2196,6 +2306,24 @@
     },
     {
       "album": {
+        "name": "Further Explorations By The Horace Silver Quintet (Remastered)",
+        "url": "https://open.spotify.com/album/36xIGxHuD4QVkNdii8NZGw"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365013,
+      "name": "The Outlaw - 2007 Digital Remaster; Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3px36D49hATHtIUvKh7xv2"
+    },
+    {
+      "album": {
         "name": "Further Explorations By The Horace Silver Quintet",
         "url": "https://open.spotify.com/album/0CwBhf4CsMHvZcBlQpqjwN"
       },
@@ -2207,7 +2335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 367266,
       "name": "The Outlaw - Remastered",
       "url": "https://open.spotify.com/track/0AVsLKbGvkZTN3728YE44l"
@@ -2297,10 +2425,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282165,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/03CX928cwzWG8lBqqH16h4"
+    },
+    {
+      "album": {
+        "name": "Hero Trio",
+        "url": "https://open.spotify.com/album/3FF9NPwv2gznqYaLbilwaX"
+      },
+      "artists": [
+        {
+          "name": "Rudresh Mahanthappa",
+          "url": "https://open.spotify.com/artist/3OaIGXcN9CnCX6etIGVf8G"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282165,
+      "name": "The Windup",
+      "url": "https://open.spotify.com/track/4OCZosYvqSIZ0iU55mxhV1"
     },
     {
       "album": {
@@ -2315,7 +2461,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 419160,
       "name": "The Wobbler",
       "url": "https://open.spotify.com/track/7aiZS7kjkHTtpSZudOHYQe"
@@ -2381,7 +2527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 445853,
       "name": "Tinderly",
       "url": "https://open.spotify.com/track/5R1XH67b7xUBpnbGdw4VJj"
@@ -2461,7 +2607,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 511853,
       "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
@@ -2555,7 +2701,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"

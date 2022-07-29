@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover: Izïa
+> The best French indie tracks right now\. Cover: Oscar Anton
 
-158 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+159 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Mademoiselle](https://open.spotify.com/track/07yFYf562vEHlWVBaGXhCz) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Charlotte Casiraghi](https://open.spotify.com/artist/5h8kHvSPcreeL9fErOCEUi) | [EXTATIC](https://open.spotify.com/album/68dFckjqN3mRFHZtU0UrkM) | 2:55 | 2022-07-14 |  |
 | [Masque d'or](https://open.spotify.com/track/2XvLofkaGVsRK7OFHJke4h) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Masque d'or](https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt) | 3:31 | 2021-12-16 |  |
 | [Mauvaise Idée](https://open.spotify.com/track/1yYLMVMSM2u7t1yfzAivy1) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Mauvaise Idée](https://open.spotify.com/album/6UlkvH6RmJXEQ2Vk0fB20p) | 3:43 | 2021-12-16 | 2022-01-21 |
-| [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 |  |
+| [Mauvaises habitudes](https://open.spotify.com/track/0s1QWICdAhug2jCIZJ4QQZ) | [La Belle Vie](https://open.spotify.com/artist/7MrDzS5aCy6jjBVqRidPCY) | [Mauvaises habitudes](https://open.spotify.com/album/4m2wFrYax0HZnx8eIAheGv) | 2:25 | 2021-12-16 | 2022-07-29 |
 | [Meguro](https://open.spotify.com/track/1QBhGI8QTvMYpp6i8FYiE0) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Meguro](https://open.spotify.com/album/1bI0XTLqwlY50uXcT9ZFJz) | 3:24 | 2021-12-16 | 2022-03-25 |
 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 | 2021-12-16 |  |
 | [Mirage](https://open.spotify.com/track/51xm7ThW7RFWFequh489x2) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [Mirage](https://open.spotify.com/album/1yyd5eQ1MlUHP8kJNEuAtC) | 3:02 | 2022-01-06 | 2022-05-07 |
@@ -109,7 +109,7 @@
 | [Nostalgique](https://open.spotify.com/track/4Vs7Qi8ESNARuWK4aFcNFB) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Nostalgique](https://open.spotify.com/album/3u4LgNSMLiBrh3X1vN7OV3) | 2:46 | 2022-02-03 | 2022-06-17 |
 | [NOT WHAT YOU WANTED](https://open.spotify.com/track/0d7LopGyWjUsXKCeKOEJzO) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [NOT WHAT YOU WANTED](https://open.spotify.com/album/6dIgyaXR88Mjfuym9ZTkdm) | 3:34 | 2022-06-23 | 2022-07-15 |
 | [Nouveau Genre](https://open.spotify.com/track/0hLa19JP4bItkpyTjopqOb) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 3:22 | 2021-12-16 | 2022-02-18 |
-| [Océan](https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Océan](https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ) | 3:56 | 2022-06-23 |  |
+| [Océan](https://open.spotify.com/track/0zPZjj4E6Yp1Ir2X0zqThj) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Océan](https://open.spotify.com/album/4J04pYuyMrnmrO3LodaDwQ) | 3:56 | 2022-06-23 | 2022-07-29 |
 | [Oiseau de Paradis](https://open.spotify.com/track/2lPuLP88b7BUiJuh1jurXV) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Oiseau de Paradis](https://open.spotify.com/album/5FKhkWVXjUjJZXFQlSkh4b) | 2:53 | 2022-06-30 |  |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-07 | 2022-06-03 |
 | [ophelie](https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/56lKtiUwaGjhT1qwSY2aFU) | 3:56 | 2021-12-16 | 2022-01-28 |
@@ -163,7 +163,8 @@
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 | 2022-07-01 |
 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 | 2022-07-07 |  |
 | [Zéro](https://open.spotify.com/track/2p3WQbRO3rEhugBATJDZKU) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [JTM](https://open.spotify.com/album/0S1kVPGRBW6jGggQ5HlG0O) | 2:51 | 2022-06-09 |  |
-| [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 |  |
+| [Éternel](https://open.spotify.com/track/0CGMRBUggHCveV09rurvlL) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 3:14 | 2022-07-28 |  |
+| [Éternel](https://open.spotify.com/track/3RjXf0cgpbZ5z4xY8KxLGK) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Éternel](https://open.spotify.com/album/0SU9ZVZWmLUDVZRLJHS0Ff) | 3:14 | 2022-05-12 | 2022-07-29 |
 | [Étrange \(feat\. Nikola\)](https://open.spotify.com/track/0zXiOaEnJitNoaVqn7EpNx) | [MAGENTA](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [Étrange \(feat\. Nikola\)](https://open.spotify.com/album/7gkYV3SMUbils9c8mTj24H) | 3:04 | 2022-06-16 |  |
 | [Ô ma belle](https://open.spotify.com/track/3gqGa4qbSoYVHDfaTUdkEA) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Voyage I](https://open.spotify.com/album/2lKQPMov6YiNbdI5xmpbiP) | 3:07 | 2022-07-21 |  |
 

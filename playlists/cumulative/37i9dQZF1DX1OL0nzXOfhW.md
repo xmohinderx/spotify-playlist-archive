@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: COLLAR
+> 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 麗英@小薯茄
 
-39 songs - 2 hr 18 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
+42 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/2GxyEQrmuXvghh261BCyYI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/1OWUZvmvabogBms3h8ryXF) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Someday My Prince Will Come](https://open.spotify.com/album/3vj37vVVTW7Fn3V982rq4T) | 4:12 | 2022-05-26 |  |
 | [Sway Away](https://open.spotify.com/track/2lZlk0IZvi3ywkOyEDECyM) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [Grow](https://open.spotify.com/album/1et4LPyDPAAdlHhyfydzDH) | 3:26 | 2022-05-26 |  |
 | [WHO A U ?](https://open.spotify.com/track/2DQu0YogNHLS2ibdSvxMVf) | [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHO A U ?](https://open.spotify.com/album/4Sbu7zsMLYtlVUeYdsQgzD) | 3:22 | 2022-05-26 |  |
-| [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 |  |
+| [係咁先啦](https://open.spotify.com/track/6BZaPX5NnjIIasH6EO0P63) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj), [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [係咁先啦](https://open.spotify.com/album/0dIldrE3LEHIaSzPHUb1bm) | 3:29 | 2022-07-28 |  |
+| [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/track/4I2nZnEp1JZoHO4RB27VTR) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [係咁先啦 \(feat\. Kayan9896\)](https://open.spotify.com/album/2D3q1OIBnzdntbEsYvF8Of) | 3:29 | 2022-05-26 | 2022-07-29 |
 | [列車](https://open.spotify.com/track/16VxP8nA8hfedGcO6qQufW) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [列車](https://open.spotify.com/album/2pYtIJDaTsExRe9XPIIOpK) | 4:40 | 2022-05-26 |  |
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 |  |
 | [同步舞曲](https://open.spotify.com/track/6NLX0sK1uP6hAmPoRiDhGp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [同步慢呼吸](https://open.spotify.com/album/3PjBngCx1Ft4FhGL7T8MTq) | 3:51 | 2022-05-26 |  |
@@ -40,11 +41,13 @@
 | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 | 2022-06-23 |  |
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-05-26 |  |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 |  |
+| [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 |  |
 | [無恙](https://open.spotify.com/track/26iJfJ442rlJQuZIAxBDPt) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [無恙](https://open.spotify.com/album/5xeX4hzucOx2sh7BNWxN0S) | 3:35 | 2022-05-26 |  |
 | [皮外傷](https://open.spotify.com/track/67e3Jd8pMdEOGdV7XGUkQQ) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [皮外傷](https://open.spotify.com/album/0DK2EbDRBTkJpFhJWv4yo2) | 3:09 | 2022-05-26 |  |
 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 | 2022-05-26 |  |
-| [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 |  |
+| [跌嘢唔好搵](https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/6IovMmC40xqVfBCzXwxChg) | 3:11 | 2022-05-26 | 2022-07-29 |
+| [跌嘢唔好搵](https://open.spotify.com/track/4i1RCwJXyCM8ay5sXJTK2s) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [跌嘢唔好搵](https://open.spotify.com/album/1qjK50aArwff8NhitLm8KT) | 3:11 | 2022-07-28 |  |
 | [距離](https://open.spotify.com/track/4jxVPx9LaVbEtJlWTUcqQ1) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [距離](https://open.spotify.com/album/2LzTqzNDP0u9Fh84oF6dE8) | 4:22 | 2022-05-26 |  |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-05-26 |  |
 

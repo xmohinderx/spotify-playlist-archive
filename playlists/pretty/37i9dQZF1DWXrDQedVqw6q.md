@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,199 likes - 143 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,254 likes - 143 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 120 | [Moon Ballad](https://open.spotify.com/track/4v2YcdQ5O3jaL4kAo9RLMC) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:37 |
 | 121 | [Infinite Sustain](https://open.spotify.com/track/5AciiCKJKTLKRrAPSrKQy5) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:29 |
 | 122 | [The Air Within](https://open.spotify.com/track/3rv1zUyotgtooIhn1QtCSe) | [Sandfires](https://open.spotify.com/artist/2OqTid1w1CFR9vQVd8EZoj) | [The Air Within](https://open.spotify.com/album/2aJZEWUnzQL9d9EvmAoeXf) | 3:11 |
-| 123 | [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 |
+| 123 | [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 |
 | 124 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 |
 | 125 | [The Five Times I Loved You](https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Pyramid Train](https://open.spotify.com/album/0GYSu9KaftfjSxHE3vqW66) | 3:25 |
 | 126 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 131 | [Purposes](https://open.spotify.com/track/6Ji4BNyWqNOilFD9AyD0o2) | [Paul Dennehy](https://open.spotify.com/artist/5borNkYeud0HRvJWIdG3aM) | [A new beginning](https://open.spotify.com/album/3Xd0DUFkobavWbWXTQe5M0) | 3:26 |
 | 132 | [A Shade of Steam](https://open.spotify.com/track/0wpRLs9YguxI7en46ke3yZ) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:38 |
 | 133 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 |
-| 134 | [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 |
+| 134 | [Two Soon](https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ) | 5:03 |
 | 135 | [Way Home](https://open.spotify.com/track/3yPnVoPrPjPV7cTtfRB50o) | [Morning Flowers](https://open.spotify.com/artist/1DeMgRnkbGP7ESjYVVP8CA) | [Way Home](https://open.spotify.com/album/2JOXFsxulNevoTsBvMmeKS) | 2:28 |
 | 136 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 |
 | 137 | [In the Past](https://open.spotify.com/track/7BGQQE0Xgic9Bvk7BlRumP) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Acceptance](https://open.spotify.com/album/5TifGwgK5S9VTApf5z4Qfx) | 1:56 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 142 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 |
 | 143 | [Wandering](https://open.spotify.com/track/3DSmKmCgRH7vSmdZXBbH4P) | [Jars Of Bees](https://open.spotify.com/artist/3Ni9BAJnZMfBG74X6Osx9N) | [An Opening](https://open.spotify.com/album/5n0dpiHtn11yPUbyBQY5Ak) | 3:15 |
 
-Snapshot ID: `MTY1NzI5MDIzNywwMDAwMDA3MDAwMDAwMTgxZGUzMjI0YjUwMDAwMDE4MWFiMGM0NTkx`
+Snapshot ID: `MTY1NzI5MDIzNywwMDAwMDAwMDRkNGM0OGY2YTRhMDY2NjdkMGNhZTIzMTEzZGE0MmQ0`

@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "Bombay Dreams",
+        "url": "https://open.spotify.com/album/2VA8qF2mFzvMiFcHquVOEj"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185305,
+      "name": "Aao Chalein",
+      "url": "https://open.spotify.com/track/0wNf3Yk11625KJ6mDkEjzu"
+    },
+    {
+      "album": {
+        "name": "Bombay Dreams",
         "url": "https://open.spotify.com/album/4mMnTBM6r70UINlb5Ag6jA"
       },
       "artists": [
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185305,
       "name": "Aao Chalein",
       "url": "https://open.spotify.com/track/4LX8OArGCZ3hS0imHepe83"
@@ -291,7 +309,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 222096,
       "name": "Baaraat",
       "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
@@ -313,7 +331,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222096,
       "name": "Baaraat",
       "url": "https://open.spotify.com/track/2ntHbBDXOy9kiC0p8liLiU"
@@ -537,10 +555,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 281218,
       "name": "cold/mess",
       "url": "https://open.spotify.com/track/2AoWWiMelowkStJoqPMDed"
+    },
+    {
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281218,
+      "name": "cold/mess",
+      "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
     },
     {
       "album": {
@@ -1277,10 +1313,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182039,
       "name": "Khaali Si Rooh",
       "url": "https://open.spotify.com/track/1QUZRkSFhpdYDWiD5cyu20"
+    },
+    {
+      "album": {
+        "name": "Khaali Si Rooh",
+        "url": "https://open.spotify.com/album/724wbbB0GTCGXVQAOW5yYQ"
+      },
+      "artists": [
+        {
+          "name": "Athul Prabhu",
+          "url": "https://open.spotify.com/artist/2H1oIuuXf49PDcKOa1fRP6"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182039,
+      "name": "Khaali Si Rooh",
+      "url": "https://open.spotify.com/track/6VoAyZQ3LDhrySUdI1XHzP"
     },
     {
       "album": {
@@ -1655,6 +1709,24 @@
     {
       "album": {
         "name": "Milon Chala",
+        "url": "https://open.spotify.com/album/3kkhdt3cKKiZySDihwFbPG"
+      },
+      "artists": [
+        {
+          "name": "Ashu Shukla",
+          "url": "https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "Milon Chala",
+      "url": "https://open.spotify.com/track/0ZnlE3PfamXPMCsT5wr3sK"
+    },
+    {
+      "album": {
+        "name": "Milon Chala",
         "url": "https://open.spotify.com/album/1ORhB6Qy0t3uSwPFpCMYUh"
       },
       "artists": [
@@ -1665,7 +1737,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190270,
       "name": "Milon Chala",
       "url": "https://open.spotify.com/track/3EZRMX38CXvegTt5cMbRNR"
@@ -2064,6 +2136,24 @@
     },
     {
       "album": {
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
+    },
+    {
+      "album": {
         "name": "Sage",
         "url": "https://open.spotify.com/album/7sDecy4TUrJpkPnOmAiVKn"
       },
@@ -2075,7 +2165,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230204,
       "name": "Sage",
       "url": "https://open.spotify.com/track/64RkEV5b7bG697vhIPMlrl"
@@ -2586,6 +2676,24 @@
     },
     {
       "album": {
+        "name": "Waqt Ki Baatein",
+        "url": "https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243310,
+      "name": "Waqt Ki Baatein",
+      "url": "https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db"
+    },
+    {
+      "album": {
         "name": "Waqt Ki Baatein - Single",
         "url": "https://open.spotify.com/album/0SH6gTE06saGgjmvsDWIba"
       },
@@ -2597,7 +2705,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243310,
       "name": "Waqt Ki Baatein",
       "url": "https://open.spotify.com/track/1lIYP8fDGGnp91OMTUnwjV"
@@ -2655,10 +2763,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191460,
       "name": "Woh Raat",
       "url": "https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL"
+    },
+    {
+      "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        },
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sound of choral and instrumental classical music from the Renaissance era.",
-  "num_followers": 77426,
+  "num_followers": 77481,
   "original_name": "Relaxing Renaissance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE1MTgxMCwwMDAwMDAwYTAwMDAwMTgyMTE4Y2I0NzAwMDAwMDE4MjExOGM2ODRl",
+  "snapshot_id": "MTY1ODE1MTgxMCwwMDAwMDAwMDMyODJjZTdjMjBhY2NiMmUzY2FjZjBkMmZkNjk2YWM5",
   "tracks": [
     {
       "added_at": "2022-07-18 13:43:30",
@@ -411,10 +411,14 @@
     {
       "added_at": "2022-07-18 13:43:30",
       "album": {
-        "name": "Josquin Desprez - Volume 2",
-        "url": "https://open.spotify.com/album/2Axn8LUxyMcfCmACAuO6tp"
+        "name": "Josquin Desprez, Vol. 2",
+        "url": "https://open.spotify.com/album/2yrXEuRmuZz83kt06pLJjN"
       },
       "artists": [
+        {
+          "name": "Josquin des Prez",
+          "url": "https://open.spotify.com/artist/31f23hmZawdqgp0sECAzE8"
+        },
         {
           "name": "A Sei Voci",
           "url": "https://open.spotify.com/artist/1MLIqgEgZSgEMBsqMSTzCs"
@@ -426,15 +430,11 @@
         {
           "name": "Ma\u00eetrise des Pays de Loire",
           "url": "https://open.spotify.com/artist/6YmWUXdLyVUuWNuhn8S1hl"
-        },
-        {
-          "name": "Bertrand Lermaire",
-          "url": "https://open.spotify.com/artist/2HJC9FdaJj4e3KhBHqSmut"
         }
       ],
       "duration_ms": 487866,
-      "name": "Missa l'homme arm\u00e9 super voces musicales: Agnus Dei",
-      "url": "https://open.spotify.com/track/2G9e7m1xbTodcmOQgBTfBi"
+      "name": "Missa l'homme arm\u00e9 super voces musicales: V. Agnus Dei",
+      "url": "https://open.spotify.com/track/0Z0JD8rj0ZgQ9zuHawbUdg"
     },
     {
       "added_at": "2022-07-18 13:43:30",
@@ -524,7 +524,7 @@
       "added_at": "2022-07-18 13:43:30",
       "album": {
         "name": "Ockeghem: Requiem / Missa Fors seulement",
-        "url": "https://open.spotify.com/album/5H682IkmG60fK4dgpkoU7l"
+        "url": "https://open.spotify.com/album/4bfwL1fvAsWJE92V8CAgWe"
       },
       "artists": [
         {
@@ -542,7 +542,7 @@
       ],
       "duration_ms": 748800,
       "name": "Du tout plongiet/Fors seulement",
-      "url": "https://open.spotify.com/track/2qaD4igXBJb8W6eFSyCL62"
+      "url": "https://open.spotify.com/track/4GeINy8JYsHPofZZR36zyN"
     },
     {
       "added_at": "2022-07-18 13:43:30",
@@ -572,7 +572,7 @@
       "added_at": "2022-07-18 13:43:30",
       "album": {
         "name": "Pavans And Fantasies From The Age Of Dowland",
-        "url": "https://open.spotify.com/album/11YZ7bLfXrkzsP6byd4BZe"
+        "url": "https://open.spotify.com/album/4KNooIjkHKW2ALhwCRDaUK"
       },
       "artists": [
         {
@@ -594,7 +594,7 @@
       ],
       "duration_ms": 251000,
       "name": "Fantasy For 2 Trebles And Bass (From \"The Broken Consort\")",
-      "url": "https://open.spotify.com/track/5GspQWRiTcQxGc6W7MeQoW"
+      "url": "https://open.spotify.com/track/2RoSHqaRXA1wIhaB6JiNCw"
     },
     {
       "added_at": "2022-07-18 13:43:30",
@@ -716,7 +716,7 @@
       "added_at": "2022-07-18 13:43:30",
       "album": {
         "name": "Tallis: The Lamentations Of Jeremiah",
-        "url": "https://open.spotify.com/album/5gMOEzoVfghYeo9sPedL5d"
+        "url": "https://open.spotify.com/album/5xzL1xekOtok9HF0STLt5n"
       },
       "artists": [
         {
@@ -726,15 +726,11 @@
         {
           "name": "The Hilliard Ensemble",
           "url": "https://open.spotify.com/artist/0L8W3JzyTX29RLKZgc3bqS"
-        },
-        {
-          "name": "Paul Hillier",
-          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
         }
       ],
-      "duration_ms": 309240,
+      "duration_ms": 309196,
       "name": "Mass For Four Voices: 1. Gloria",
-      "url": "https://open.spotify.com/track/2PhclxPrZW16t67YAGRYoR"
+      "url": "https://open.spotify.com/track/6GzfuT24wqfHZquZZwLYIV"
     },
     {
       "added_at": "2022-07-18 13:43:30",
@@ -847,8 +843,8 @@
     {
       "added_at": "2022-07-18 13:43:30",
       "album": {
-        "name": "Court and Cathedral: The Two Worlds of Francisco de Penalosa",
-        "url": "https://open.spotify.com/album/3I7d2RXJ7gHyFT88E7hfjo"
+        "name": "Court and Cathedral: The Two Worlds of Francisco de Pe\u00f1alosa",
+        "url": "https://open.spotify.com/album/7ibdZ1xKMVZ0w5uWgkyQMN"
       },
       "artists": [
         {
@@ -865,8 +861,8 @@
         }
       ],
       "duration_ms": 206826,
-      "name": "Missa Nunca Fue Pena Major: Agnus Dei",
-      "url": "https://open.spotify.com/track/0NTo4M8emWnQ4uBwjB7GFd"
+      "name": "Missa Nunca Fue Pena Major: V. Agnus Dei",
+      "url": "https://open.spotify.com/track/2d4jajdBMxlAWXQ7TUjBXd"
     },
     {
       "added_at": "2022-07-18 13:43:30",

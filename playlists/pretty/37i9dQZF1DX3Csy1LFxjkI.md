@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Csy1LFxjkI.md) - [plain]
 
 > All his biggest hits, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,976 likes - 43 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,201 likes - 43 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Csy1LFxjkI.md) - [plain]
 | 42 | [Say You Won't Let Go \- Luca Schreiner Remix](https://open.spotify.com/track/720IIHD0NvNfDURgWSB3rP) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [Say You Won't Let Go \(Luca Schreiner Remix\)](https://open.spotify.com/album/7vXaIbolfjJtxuEPLBnEwd) | 3:24 |
 | 43 | [You're Nobody 'Til Somebody Loves You](https://open.spotify.com/track/6rlgy1boD69A3mcV7VzPRL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:21 |
 
-Snapshot ID: `MTY1ODkyNTY0NSwwMDAwMDAyMzAwMDAwMTgyM2ZhYzdkYzIwMDAwMDE3N2Y3ZjFkY2Qy`
+Snapshot ID: `MTY1ODkyNTY0NSwwMDAwMDAwMGEwYzE4OTIxMzBkMDZkMGY2ZTU3ZTdkOThkODAxMjcx`

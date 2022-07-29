@@ -274,6 +274,24 @@
     },
     {
       "album": {
+        "name": "Gulu Gulu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2KmLcrWoKDFkc5gDADIzue"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124124,
+      "name": "Amma Nah Nah",
+      "url": "https://open.spotify.com/track/3GUTLZjsJ7YbZso2pv9m21"
+    },
+    {
+      "album": {
         "name": "Anbarey (From \"Gulu Gulu\")",
         "url": "https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH"
       },
@@ -395,10 +413,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295954,
       "name": "Azhagazhaga",
       "url": "https://open.spotify.com/track/1v0Crb1uBBCXxq2c7BtGNI"
+    },
+    {
+      "album": {
+        "name": "Azhagazhaga (From \"Janakiram\") - Single",
+        "url": "https://open.spotify.com/album/5q8iQ8UgZpmq6hx08nSu3Z"
+      },
+      "artists": [
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295954,
+      "name": "Azhagazhaga (From \"Janakiram\")",
+      "url": "https://open.spotify.com/track/0va3hP1KEhzmySebZSjHYb"
     },
     {
       "album": {
@@ -1001,10 +1041,32 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199044,
       "name": "En Mel Vizhundha Mazhaiye",
       "url": "https://open.spotify.com/track/7pRGQW4Q2BGL9eIraIUTht"
+    },
+    {
+      "album": {
+        "name": "En Mel Vizhundha Mazhaiye (From \"Dejavu\") - Single",
+        "url": "https://open.spotify.com/album/7i30RXzaG2FbVE5NQq522b"
+      },
+      "artists": [
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "En Mel Vizhundha Mazhaiye (From \"Dejavu\")",
+      "url": "https://open.spotify.com/track/7bYJeI6AAiP4TIB1vtCh3J"
     },
     {
       "album": {
@@ -2354,6 +2416,32 @@
     },
     {
       "album": {
+        "name": "The Legend (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Mukesh Mohamed",
+          "url": "https://open.spotify.com/artist/5AVWP78N063ZsGfOfCb6L5"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284502,
+      "name": "Mosalo Mosalu",
+      "url": "https://open.spotify.com/track/3g2hHiLoH4Z94JxjH8G0vG"
+    },
+    {
+      "album": {
         "name": "Mosalo Mosalu (From \"The Legend\")",
         "url": "https://open.spotify.com/album/2yKqahOc07iCMLcQmpY4LZ"
       },
@@ -2373,7 +2461,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284502,
       "name": "Mosalo Mosalu - From \"The Legend\"",
       "url": "https://open.spotify.com/track/3ag1ImLPQDHjng5UogKWKd"
@@ -2561,10 +2649,36 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 266760,
       "name": "Nee Yaaro",
       "url": "https://open.spotify.com/track/3Yy3RLCEPEcHBNBK0T1tdR"
+    },
+    {
+      "album": {
+        "name": "Nee Yaaro (From \"Thudikkum Karangal\") - Single",
+        "url": "https://open.spotify.com/album/3gCItKsUWgmWP0lfRJQLcZ"
+      },
+      "artists": [
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        },
+        {
+          "name": "Mridula Warrier",
+          "url": "https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh"
+        },
+        {
+          "name": "Y. Raghav Prasad",
+          "url": "https://open.spotify.com/artist/6QVQPJSvISqluxk5RId9fE"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "Nee Yaaro (From \"Thudikkum Karangal\")",
+      "url": "https://open.spotify.com/track/4NREOwrJB5FJfWey4ElzPr"
     },
     {
       "album": {
@@ -3161,6 +3275,32 @@
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
+    },
+    {
+      "album": {
+        "name": "Singleu (From \"Poikkal Kuthirai\")",
+        "url": "https://open.spotify.com/album/2sQTlYr65j47WnGRTsO7EG"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208111,
+      "name": "Singleu - From \"Poikkal Kuthirai\"",
+      "url": "https://open.spotify.com/track/7dThYMvX1kNCOA2KVvs63J"
     },
     {
       "album": {
@@ -3762,6 +3902,32 @@
     },
     {
       "album": {
+        "name": "The Legend (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258437,
+      "name": "Vaadi Vaasal",
+      "url": "https://open.spotify.com/track/7B2UXJ94o0eeD6NN9V74KW"
+    },
+    {
+      "album": {
         "name": "Vaadi Vaasal (From \"The Legend\")",
         "url": "https://open.spotify.com/album/2xc1j2STHlCyX00edTUkOc"
       },
@@ -3781,7 +3947,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258437,
       "name": "Vaadi Vaasal - From \"The Legend\"",
       "url": "https://open.spotify.com/track/1603c8fUKw65aJubrsTnAt"
@@ -3941,7 +4107,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144428,
       "name": "Yaathri (From \"Gargi (Tamil)\")",
       "url": "https://open.spotify.com/track/39y2C8ORgW5Z4Pthdlfzrv"

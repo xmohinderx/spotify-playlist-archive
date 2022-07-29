@@ -1713,6 +1713,40 @@
     {
       "album": {
         "name": "BEDOESIARA",
+        "url": "https://open.spotify.com/album/4VhH1mvUxQfk9lr8jZ2Y0W"
+      },
+      "artists": [
+        {
+          "name": "2115",
+          "url": "https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m"
+        },
+        {
+          "name": "Bedoes",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        },
+        {
+          "name": "Abel de Jong",
+          "url": "https://open.spotify.com/artist/6uXPdkcF1OSFxmG7gF22rt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169428,
+      "name": "BEDOESIARA",
+      "url": "https://open.spotify.com/track/0wMGcWjZ2Lymgnbxjy5FXN"
+    },
+    {
+      "album": {
+        "name": "BEDOESIARA",
         "url": "https://open.spotify.com/album/2FnOLu5VGjUZcId983Jn0c"
       },
       "artists": [
@@ -1739,7 +1773,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169428,
       "name": "BEDOESIARA",
       "url": "https://open.spotify.com/track/7kRCfAV3W39reD8Tjie8jP"

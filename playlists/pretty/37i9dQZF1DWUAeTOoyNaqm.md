@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 
 > Relax and fall asleep to ASMR trigger sounds \(no talking\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,643 likes - 96 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,603 likes - 96 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 77 | [ASMR Coins in Hand](https://open.spotify.com/track/5IbtTOfqR3sbDNVfvisXI2) | [ASMR Mateo](https://open.spotify.com/artist/7uEuyUsDa6GZxIRiQOzfsX) | [ASMR Triggers](https://open.spotify.com/album/1Lp2oR6vppRucZIiNdzjuM) | 1:45 |
 | 78 | [Wiro ASMR](https://open.spotify.com/track/0gAyd9D0XsZT241m2k5Qs4) | [Ezequiel Calvo](https://open.spotify.com/artist/5WBRIgdYpUWKbQ1Hr4e07K) | [Disparador ASMR](https://open.spotify.com/album/4GJccfhFDa6BSuGVJmGIFa) | 2:00 |
 | 79 | [Tingly Glove and Lotion Sounds, Pt\. 2](https://open.spotify.com/track/7wWroPtmrMy3ccDU3GoyNd) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Tingly Glove and Lotion Sounds for Sleep](https://open.spotify.com/album/0QCmcnG0xQTGdL2UVvirqO) | 4:39 |
-| 80 | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/track/3EOwSI9uF1xvVtCCU19Nmd) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/album/6w8X2jlZbuIpAUCmccgIEG) | 3:14 |
+| 80 | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/track/3XojBsxcgPYvr1PpkMRrQm) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [ASMR Series: Crinkling Newspaper](https://open.spotify.com/album/3k71JYMic013ihhTkv6s3C) | 3:14 |
 | 81 | [100 Tech Triggers, Pt\. 1](https://open.spotify.com/track/1DbOW67uXida5PIrK3ESRg) | [ASMR Art of Sound](https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3) | [100 Tech Triggers in 6 Minutes ASMR \(No Talking\)](https://open.spotify.com/album/6aqzVGen3aeOWCi6u8SqGn) | 2:31 |
 | 82 | [Opening and Closing Lids ASMR](https://open.spotify.com/track/07Oue9BnnlQR1jIxnwXWSO) | [Alice ASMR](https://open.spotify.com/artist/6O99TZRD50g7R3IMBSkg58) | [ASMR Trigger Sounds](https://open.spotify.com/album/1fxu8izIhOZoNLqbk8rXVA) | 1:39 |
 | 83 | [Crinkly Plastic Tingles \[Oddly Satisfying Bubble Wrap\] Pt.4](https://open.spotify.com/track/0SgV2XbM20nyo4EMPHAqhI) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Crinkly Plastic Tingles \[Oddly Satisfying Bubble Wrap\]](https://open.spotify.com/album/3mrMqdeXkAnkSq7iSmmUEh) | 4:35 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAeTOoyNaqm.md) - [plain]
 | 95 | [Flipping Through an Old Book, Pt\. 2](https://open.spotify.com/track/0iGKKPHvk0lTaQDb9mQw12) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [ASMR Flipping Through Old Book by Candlelight](https://open.spotify.com/album/46zfBFpGDavTkh2dtOmFvC) | 4:22 |
 | 96 | [Brushing the Microphone ASMR](https://open.spotify.com/track/3CYq5eDRNgrq2nm5FG5I7x) | [ASMR Insomnia Aid & Sounds for Sleep](https://open.spotify.com/artist/0yN0qOhddGt45V7av1mNVO), [ASMR Sounds](https://open.spotify.com/artist/3k8lnyyV1B08YBjFNIFfIG) | [ASMR Looped Sounds for Relax, Sleep, Mind Cleansing and Calming](https://open.spotify.com/album/1o2iMD9Lt4dLWOlVWlupoJ) | 2:10 |
 
-Snapshot ID: `MTY1ODQyNTI1MiwwMDAwMDA1YTAwMDAwMTgyMjFkOTE4YjkwMDAwMDE4MWRkZjVjMjZk`
+Snapshot ID: `MTY1ODQyNTI1MiwwMDAwMDAwMGRmODljMDIwMjE4NjU5ZTY1NDU0Y2FiM2Y1NzE1YzU1`

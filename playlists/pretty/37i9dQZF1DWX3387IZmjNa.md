@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,898,478 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898,505 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 27 | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1GDmorBhnsYZYUU04LiFEm) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OT \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0fui89rpESfYKoh0e01jdO) | 3:04 |
 | 28 | [Mad At Her](https://open.spotify.com/track/7nW1oORHIjElSCjC6cWEkA) | [BRS Kash](https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa) | [Mad At Her](https://open.spotify.com/album/4nEvGOK5tet14OyE7HKWoH) | 3:00 |
 | 29 | [Blocklist](https://open.spotify.com/track/79cq3PF1wgkDVTAFMlOjNB) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:06 |
-| 30 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 |
+| 30 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 31 | [Relapse](https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Young & Restless Vol\. 1 Baby Don](https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa) | 2:36 |
 | 32 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 | 33 | [Non Judgmental](https://open.spotify.com/track/64b14VPe2ScA1l9jEbFNqB) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Non Judgmental](https://open.spotify.com/album/2uGbuQOjYFe03bOXUCcLKj) | 3:02 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 37 | [By MySelf](https://open.spotify.com/track/6htZCLDzCJUePPPjVCDBEv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [By MySelf](https://open.spotify.com/album/58QPTOR2nMzNFsfWX7iAEB) | 2:41 |
 | 38 | [In Touch](https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:44 |
 | 39 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
-| 40 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 |
+| 40 | [We Cry Together](https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 5:41 |
 | 41 | [Every Good Girl](https://open.spotify.com/track/6VYBCG9nCZwUUImVqZQVet) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Before You Go](https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte) | 2:56 |
-| 42 | [you & me](https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:24 |
+| 42 | [you & me](https://open.spotify.com/track/6f9GhvtmiQR6JNXRZJKYlj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:24 |
 | 43 | [Naked \(feat\. Latto\)](https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Naked \(feat\. Latto\)](https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM) | 2:54 |
 | 44 | [Side Piece](https://open.spotify.com/track/0203aGEIzVVlmvQ8lX4fmV) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:54 |
 | 45 | [Who We Are \(feat\. Yung Bleu\)](https://open.spotify.com/track/2h0DSm6aLpjO5T8iBExkZD) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BLEU](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Who We Are](https://open.spotify.com/album/6DE3o3k2KbubhYaBsmf5as) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 49 | [Difference Is \(feat\. Summer Walker\)](https://open.spotify.com/track/1qzoBWC6US7szlOsIQ1VxZ) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:13 |
 | 50 | [2hrs+ \(feat\. T\-Pain\)](https://open.spotify.com/track/51qu8Dd4FeYsfpSRWnGJJq) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 3:14 |
 
-Snapshot ID: `MTY1ODUxNzE2NSwwMDAwMDUxZTAwMDAwMTgyMjc1Mzk0OWIwMDAwMDE4MWI3ZGFhZTA0`
+Snapshot ID: `MTY1ODUxNzE2NSwwMDAwMDAwMDgxNDNhZmY1NDdjYTJkNzgwNTYzN2MyNGRmMzNjMjNj`

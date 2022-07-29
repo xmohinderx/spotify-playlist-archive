@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,465 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,452 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 30 | [Sneaky Link Shemix](https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [Sneaky Link Shemix](https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb) | 1:38 |
 | 31 | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/track/0zZjAX9aWMb0dgL0uSRZU6) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Buss It Open \(feat\. Lakeyah\)](https://open.spotify.com/album/6b83VgfA5oTJgUyyw9q0w5) | 1:45 |
 | 32 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 |
-| 33 | [Fuck It Up](https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Fuck It Up](https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX) | 2:12 |
+| 33 | [Fuck It Up](https://open.spotify.com/track/0DFKrmx5uIo71gPm6VtPgq) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [BALIPRINT](https://open.spotify.com/album/7h9NtyH8tMRvzRCWSJeDTE) | 2:12 |
 | 34 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 |
 | 35 | [No Panties](https://open.spotify.com/track/65aGF0Q6hLvlbIyuY2OXwX) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [No Panties](https://open.spotify.com/album/3CnXWlwLHgv4E1PaUnla28) | 2:22 |
 | 36 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 49 | [Hoop Earrings](https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Hoop Earrings](https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j) | 2:23 |
 | 50 | [Cry Baby \(feat\. DaBaby\)](https://open.spotify.com/track/4aarlAfLKVCTxUDNgbwhjH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:17 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDQ4NzAwMDAwMTgyMDAwMzZhZjIwMDAwMDE3YTVlZWJhNGQw`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMGRjMzc3NTEwZmJiZmRmZWRkN2EzNDk1YWM2MTllZDgz`

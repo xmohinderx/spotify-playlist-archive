@@ -6339,7 +6339,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
@@ -11954,6 +11954,28 @@
     },
     {
       "album": {
+        "name": "goda vards cetri",
+        "url": "https://open.spotify.com/album/3isqZZkkDC4gYIt2zwcdb6"
+      },
+      "artists": [
+        {
+          "name": "Mauku Sencis",
+          "url": "https://open.spotify.com/artist/7FXv76BVQm45E05ROsU4K5"
+        },
+        {
+          "name": "Grandmasters Neons",
+          "url": "https://open.spotify.com/artist/3SDLuzbc4E8VLIiWlofSpH"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255606,
+      "name": "Piepist Seju",
+      "url": "https://open.spotify.com/track/0fyfPkT2929pU4hsqJqp7y"
+    },
+    {
+      "album": {
         "name": "Piepist Seju",
         "url": "https://open.spotify.com/album/1MF2ZbOh7xcy5GCEDFMcsN"
       },
@@ -11969,7 +11991,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255606,
       "name": "Piepist Seju",
       "url": "https://open.spotify.com/track/3m77VlCrla1zGdOGzIvbaC"
@@ -14663,7 +14685,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 350320,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC"
@@ -14681,7 +14703,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
@@ -16311,7 +16333,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"

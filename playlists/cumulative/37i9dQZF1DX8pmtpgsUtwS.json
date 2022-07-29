@@ -265,6 +265,24 @@
     {
       "album": {
         "name": "Up",
+        "url": "https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S"
+      },
+      "artists": [
+        {
+          "name": "Karsh Kale",
+          "url": "https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262893,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/3ShRnMuzOl0lXPRs7AidZ0"
+    },
+    {
+      "album": {
+        "name": "Up",
         "url": "https://open.spotify.com/album/6VjOF7kwF60XQ9LxSgABZA"
       },
       "artists": [
@@ -275,7 +293,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262948,
       "name": "Butterfly Effect (Feat. Ankita Joshi)",
       "url": "https://open.spotify.com/track/0vofqBIpb5xvsH1doPF8qr"
@@ -467,6 +485,24 @@
     {
       "album": {
         "name": "Up",
+        "url": "https://open.spotify.com/album/30f4bIRZBaGq5TalJs6D2S"
+      },
+      "artists": [
+        {
+          "name": "Karsh Kale",
+          "url": "https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1ejKjr17tS1xJdfnUroTdK"
+    },
+    {
+      "album": {
+        "name": "Up",
         "url": "https://open.spotify.com/album/6VjOF7kwF60XQ9LxSgABZA"
       },
       "artists": [
@@ -477,7 +513,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166504,
       "name": "High",
       "url": "https://open.spotify.com/track/6Hmi8Jfvluc8fLpIrdsqIC"
@@ -735,6 +771,24 @@
     {
       "album": {
         "name": "Sabar",
+        "url": "https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY"
+      },
+      "artists": [
+        {
+          "name": "Shadow and Light",
+          "url": "https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260256,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P"
+    },
+    {
+      "album": {
+        "name": "Sabar",
         "url": "https://open.spotify.com/album/6HBuyYm1e9up6Er9hwH8BL"
       },
       "artists": [
@@ -745,7 +799,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260256,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/7oRuSgwhqOH15SYxsCY45W"
@@ -921,10 +975,36 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296826,
       "name": "Main Ek Saaya",
       "url": "https://open.spotify.com/track/2Ol5Fwol3OzzdYi0rdATr4"
+    },
+    {
+      "album": {
+        "name": "Main Ek Saaya",
+        "url": "https://open.spotify.com/album/2n0wqhNOk5l0CditUWJj01"
+      },
+      "artists": [
+        {
+          "name": "Reeshabh Purohit",
+          "url": "https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E"
+        },
+        {
+          "name": "Nisha Satpute",
+          "url": "https://open.spotify.com/artist/4F0EXuNCrBbH7l5F10jomr"
+        },
+        {
+          "name": "Malavika Dikshit",
+          "url": "https://open.spotify.com/artist/4xZNsY7nYoZZy6xp752Ohe"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296810,
+      "name": "Main Ek Saaya",
+      "url": "https://open.spotify.com/track/198JS19D86t3HzphIFF7DB"
     },
     {
       "album": {
@@ -1011,7 +1091,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 99567,
       "name": "Mo Funk (Indo-Western Fusion)",
       "url": "https://open.spotify.com/track/4C95pR86Pp1CiRDJQnGFWk"
@@ -1249,10 +1329,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254400,
       "name": "Pathjhad",
       "url": "https://open.spotify.com/track/4Q7UfNfqcehy5HYebOdsqG"
+    },
+    {
+      "album": {
+        "name": "Sabar",
+        "url": "https://open.spotify.com/album/44gFbG7mWYc4u0lENFlQSY"
+      },
+      "artists": [
+        {
+          "name": "Shadow and Light",
+          "url": "https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Pathjhad",
+      "url": "https://open.spotify.com/track/5yuzt5Ib1KhOCxBLKhaeol"
     },
     {
       "album": {
@@ -1297,6 +1395,28 @@
     {
       "album": {
         "name": "Purvayi",
+        "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
+      },
+      "artists": [
+        {
+          "name": "Midival Punditz",
+          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
+        },
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310146,
+      "name": "Purvayi",
+      "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
+    },
+    {
+      "album": {
+        "name": "Purvayi",
         "url": "https://open.spotify.com/album/4Gi91Mb6apBXFFq0kIqQJ7"
       },
       "artists": [
@@ -1311,7 +1431,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310146,
       "name": "Purvayi (feat Papon)",
       "url": "https://open.spotify.com/track/2FBsVowygJJv4lg32ZHk5l"
@@ -1413,10 +1533,28 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 338840,
       "name": "Rasiya",
       "url": "https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU"
+    },
+    {
+      "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338840,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO"
     },
     {
       "album": {

@@ -2689,7 +2689,7 @@
     {
       "album": {
         "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
@@ -2700,6 +2700,24 @@
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192518,
+      "name": "i",
+      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
+    },
+    {
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 192518,
       "name": "i",
       "url": "https://open.spotify.com/track/7aWcVnsMmJ23ZfCO19YYyW"

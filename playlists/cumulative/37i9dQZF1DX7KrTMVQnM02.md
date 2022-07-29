@@ -4,7 +4,7 @@
 
 > Gentle classical music to help you relax and reflect.
 
-27 songs - 1 hr 23 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
+28 songs - 1 hr 27 min - [published](https://open.spotify.com/playlist/5X2uSgbooDuJBwhTBFmpAA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Tempelhof \(Arr\. for Viola & Piano\)](https://open.spotify.com/track/3yblFlwWzkW5LeVxSe8NXZ) | [Adrien La Marca](https://open.spotify.com/artist/2qzpSZAf2BgnOlNVGliHKP), [Danae Dörken](https://open.spotify.com/artist/4a1RQnX1cbtYySbQl2f7zt) | [Chanson bohème](https://open.spotify.com/album/2e3KWoeu1Di24TlYx0g2ZR) | 2:41 | 2021-11-15 |  |
 | [The Well\-Tempered Clavier, Book I: Fugue No\. 13 in F\-Sharp Major, BWV 858](https://open.spotify.com/track/5g7gpsexlU28tnVEVYc5dU) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Bach: The Well\-Tempered Piano I](https://open.spotify.com/album/4A7qvfGfv2nREOAI00dBWP) | 2:12 | 2021-11-15 |  |
 | [The Well\-Tempered Clavier, Book I: Fugue No\. 3 in C\-Sharp Major, BWV 848](https://open.spotify.com/track/4oGgm03jvj8m9svvsnKKfQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Bach: The Well\-Tempered Piano I](https://open.spotify.com/album/4A7qvfGfv2nREOAI00dBWP) | 2:08 | 2021-11-15 |  |
-| [Violin Sonata No\. 3 in C Major, BWV 1005: III\. Largo](https://open.spotify.com/track/5iug7ySoYIrM52268l70TX) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX) | [Bach: Violin Partitas Nos\. 2, 3 & Violin Sonata No\. 3](https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt) | 3:56 | 2021-11-15 |  |
+| [Violin Sonata No\. 3 in C Major, BWV 1005: III\. Largo](https://open.spotify.com/track/2IBDWA85qEq5hpTI7mxjM7) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX) | [Hilary Hahn Plays Bach](https://open.spotify.com/album/2GLJLkriVbdfDi5W5e3LJM) | 3:56 | 2021-11-15 |  |
+| [Violin Sonata No\. 3 in C Major, BWV 1005: III\. Largo](https://open.spotify.com/track/5iug7ySoYIrM52268l70TX) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX) | [Bach: Violin Partitas Nos\. 2, 3 & Violin Sonata No\. 3](https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt) | 3:56 | 2021-11-15 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

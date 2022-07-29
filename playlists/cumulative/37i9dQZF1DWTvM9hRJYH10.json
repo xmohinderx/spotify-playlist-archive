@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Broke It Down",
+        "url": "https://open.spotify.com/album/6qRYlTlWMwzlhGqiE9w7yR"
+      },
+      "artists": [
+        {
+          "name": "Brian Callihan",
+          "url": "https://open.spotify.com/artist/1824BaJGxO8XNW4JfdaxyE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201976,
+      "name": "Broke It Down",
+      "url": "https://open.spotify.com/track/6ZdihJGxUzaM8BHCpSWLxO"
+    },
+    {
+      "album": {
         "name": "Broke It Down (Remastered)",
         "url": "https://open.spotify.com/album/4kb0SKbENUF550V4mMo1b3"
       },
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201976,
       "name": "Broke It Down - Remastered",
       "url": "https://open.spotify.com/track/7g3XsZcztJW1i7pD3RacWt"
@@ -545,10 +563,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188780,
       "name": "Couldn't Care Less",
       "url": "https://open.spotify.com/track/2wz6AeBog3TfuqQY9NXVII"
+    },
+    {
+      "album": {
+        "name": "Couldn't Care Less",
+        "url": "https://open.spotify.com/album/1tT0T7vuC0KCDHIr8dB8HL"
+      },
+      "artists": [
+        {
+          "name": "Hannah May Allison",
+          "url": "https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188780,
+      "name": "Couldn't Care Less",
+      "url": "https://open.spotify.com/track/426FCekR1d7INAvM8Qb7aX"
     },
     {
       "album": {
@@ -1633,10 +1669,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171554,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy"
+    },
+    {
+      "album": {
+        "name": "Tiera",
+        "url": "https://open.spotify.com/album/50jNCjQGuhYEG5z6iVmzRC"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171554,
+      "name": "Laid Back",
+      "url": "https://open.spotify.com/track/2Q6u01A9qrtBnKEmwD9QOM"
     },
     {
       "album": {
@@ -1802,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/5tUM4uP2IVeOa5Lh4F0FzS"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146117,
+      "name": "Love You Now, Love You Later",
+      "url": "https://open.spotify.com/track/0o7j1UwXNH88OGQQOwM9Oe"
+    },
+    {
+      "album": {
         "name": "Love You Now, Love You Later",
         "url": "https://open.spotify.com/album/7hAYEzQB22bvzQjRZPvxSe"
       },
@@ -1813,7 +1885,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146117,
       "name": "Love You Now, Love You Later",
       "url": "https://open.spotify.com/track/5IE9hrw4ToKfw2pO08If5j"
@@ -1867,10 +1939,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201322,
       "name": "Make It Past Georgia",
       "url": "https://open.spotify.com/track/2jt5TmTYrmdr46cGHrcFjq"
+    },
+    {
+      "album": {
+        "name": "Travelin' Kind",
+        "url": "https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI"
+      },
+      "artists": [
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201322,
+      "name": "Make It Past Georgia",
+      "url": "https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd"
     },
     {
       "album": {
@@ -2224,6 +2314,24 @@
     },
     {
       "album": {
+        "name": "Born in July",
+        "url": "https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Not Supposed To Know Each Other",
+      "url": "https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p"
+    },
+    {
+      "album": {
         "name": "Not Supposed To Know Each Other",
         "url": "https://open.spotify.com/album/56YMpDRIc0HTB7FDBq3IC8"
       },
@@ -2235,7 +2343,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161632,
       "name": "Not Supposed To Know Each Other",
       "url": "https://open.spotify.com/track/2OK9HiOcSsFBKynCdPRUvo"

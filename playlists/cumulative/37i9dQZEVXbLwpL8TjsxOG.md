@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-422 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+423 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 | 2021-12-25 | 2021-12-27 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-12 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2021-12-04 |
-| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-17 |  |
+| [SNEAKERS](https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2) | 2:59 | 2022-07-17 | 2022-07-29 |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-25 | 2021-12-29 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-18 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2021-05-12 |
@@ -352,7 +352,7 @@
 | [東京人壽](https://open.spotify.com/track/1qc9E4zCJ5utXDQVIAZlkm) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [東京人壽](https://open.spotify.com/album/0w2tKyjNG1x1wgYyAnlTbG) | 4:17 | 2021-03-27\* | 2021-05-13 |
 | [某種老朋友](https://open.spotify.com/track/4c9hHw1PUYXHfKFASXo8H0) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [某種老朋友](https://open.spotify.com/album/4F9PntJ91ej5Uxyo1wgMii) | 4:30 | 2022-02-17 |  |
 | [樹](https://open.spotify.com/track/2QYGFCVQTALeyYGNvKHn9T) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹](https://open.spotify.com/album/4RcQZBChNpUMXKcJmF5ErJ) | 3:55 | 2021-12-18 | 2021-12-19 |
-| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 | 2022-07-28 |
+| [樹木真美](https://open.spotify.com/track/3V62hqp8AIqkSfr8Ys2lzP) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [樹木真美](https://open.spotify.com/album/24gJxtIlfZDK6SnR2MiuiU) | 4:06 | 2022-06-25 |  |
 | [櫻花樹下](https://open.spotify.com/track/2FgDWCqMCIAATvqr9ozeYm) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Urban Emotions](https://open.spotify.com/album/3fem0d1l01dbTq5goqW7QJ) | 4:09 | 2022-05-20 | 2022-07-03 |
 | [正式開始](https://open.spotify.com/track/1jVw3apCOogFU1mOquNIhC) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [正式開始](https://open.spotify.com/album/40i8Il5hBAX9OlqcZvQ2t0) | 3:28 | 2021-03-27\* | 2021-09-24 |
 | [每次你走的時分](https://open.spotify.com/track/5re2sW79DkSu7tyBjxCqUS) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [每次你走的時分](https://open.spotify.com/album/5t0kPdHWUbtFPugupIGZrO) | 2:59 | 2021-08-26 | 2021-09-01 |
@@ -385,7 +385,8 @@
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-25 |
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-07-07 |  |
 | [網絡安全隱患](https://open.spotify.com/track/4J3xGcdeTondAni5xd9kmm) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7), [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [網絡安全隱患](https://open.spotify.com/album/2U0RPpcvALJOyO7daXdGU4) | 3:01 | 2021-04-21 | 2021-05-03 |
-| [老派約會之必要](https://open.spotify.com/track/4Z2JLzxDyJCqjX88ObHOpp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/1S2BJwobnDIUkkPuCv3G3y) | 3:43 | 2022-07-20 |  |
+| [老派約會之必要](https://open.spotify.com/track/2lMVTk3I232dE7jnkufOSt) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/6Vgd72xB0XvQL23Nu5QlJ1) | 3:43 | 2022-07-28 |  |
+| [老派約會之必要](https://open.spotify.com/track/4Z2JLzxDyJCqjX88ObHOpp) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [老派約會之必要](https://open.spotify.com/album/1S2BJwobnDIUkkPuCv3G3y) | 3:43 | 2022-07-20 | 2022-07-29 |
 | [聖誕很忙](https://open.spotify.com/track/3Tp3NMKc3zX2Yi1WfUecmF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [聖誕很忙](https://open.spotify.com/album/5FjHZIzF8XJS5xDk2ti8Uh) | 3:57 | 2021-12-21 | 2022-03-13 |
 | [聖誕很忙](https://open.spotify.com/track/73hJX8fSv4P3oViAtF6nPF) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [藍仔頭](https://open.spotify.com/artist/0iDhHxkV18aQ1jWTx0xnFx) | [聖誕很忙](https://open.spotify.com/album/1W92hFAUDd0xuFJkiAPauP) | 3:57 | 2021-12-09 | 2022-01-08 |
 | [聖馬力諾之心](https://open.spotify.com/track/46v9FzDCZyGELTEsAnnXFf) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [聖馬力諾之心](https://open.spotify.com/album/1lmrJQ24t9TlpgJDCfkEo0) | 4:26 | 2021-05-20 | 2022-01-17 |

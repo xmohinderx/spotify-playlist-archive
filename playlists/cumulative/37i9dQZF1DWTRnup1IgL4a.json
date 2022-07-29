@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Doing Better",
+        "url": "https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reiger",
+          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108255,
+      "name": "Doing Better",
+      "url": "https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo"
+    },
+    {
+      "album": {
         "name": "Clinton Hill",
         "url": "https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI"
       },
@@ -689,6 +707,24 @@
       "duration_ms": 156617,
       "name": "Green Quartz",
       "url": "https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM"
+    },
+    {
+      "album": {
+        "name": "arrow clouds | guiding torch",
+        "url": "https://open.spotify.com/album/6ENT6YprbGElGS7XDkImeu"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176855,
+      "name": "guiding torch",
+      "url": "https://open.spotify.com/track/498q55SF7VSIt5PCeagVGs"
     },
     {
       "album": {
@@ -1139,10 +1175,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124333,
       "name": "Melrose",
       "url": "https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe"
+    },
+    {
+      "album": {
+        "name": "Melrose",
+        "url": "https://open.spotify.com/album/4zoWw8eWOuWUUXaXoObfPa"
+      },
+      "artists": [
+        {
+          "name": "Olma",
+          "url": "https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124333,
+      "name": "Melrose",
+      "url": "https://open.spotify.com/track/7o39DRcwrKMz17xUNc0BbN"
     },
     {
       "album": {
@@ -1687,6 +1741,24 @@
     {
       "album": {
         "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
+      },
+      "artists": [
+        {
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
+    },
+    {
+      "album": {
+        "name": "Floating Hearts",
         "url": "https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI"
       },
       "artists": [
@@ -1697,7 +1769,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199831,
       "name": "Svalbard",
       "url": "https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r"

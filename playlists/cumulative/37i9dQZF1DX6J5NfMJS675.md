@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-356 songs - 1 day 12 hr 39 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
+357 songs - 1 day 12 hr 45 min - [published](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Pigment](https://open.spotify.com/track/1XvBnB6LguiCDjfTklJL0m) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Pigment](https://open.spotify.com/album/4KydJolwk6ocA2lbQUFMDB) | 6:08 | 2021-02-27 | 2021-10-09 |
 | [Planet X](https://open.spotify.com/track/46N0cSUeoKfdGOGG852Jk1) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Planet X](https://open.spotify.com/album/0gNfR8j6CmCJCbzDDtSMt7) | 3:47 | 2020-09-04 | 2021-02-13 |
 | [Pop Gun](https://open.spotify.com/track/45sIGdWKH2VROt4LcHf6qb) | [DESNA](https://open.spotify.com/artist/6mjU0EJu6TLflogUHAVNeg) | [Pop Gun](https://open.spotify.com/album/0UevOiKSqBIWYqURvqA1it) | 6:00 | 2020-04-18\* | 2020-05-24 |
-| [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-03-25 |  |
+| [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 | 2022-07-08 |  |
+| [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-03-25 | 2022-07-29 |
 | [Power](https://open.spotify.com/track/1VZtBR63uLVG6v0NBid5Cv) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Power EP](https://open.spotify.com/album/5FGxjyCy6PAMGFcvh8Kjnu) | 5:51 | 2021-06-26 | 2022-02-12 |
 | [Power Plant \- Radio Edit](https://open.spotify.com/track/6RzWVsOkcep95wOkHecytK) | [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Power Plant](https://open.spotify.com/album/6CaMFGOv8TEtGMB2ibTvLY) | 4:35 | 2020-08-22 | 2020-12-05 |
 | [Predator \- Original Mix](https://open.spotify.com/track/4CbEP5CJiJsC3KE7Ssaorw) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Predator EP](https://open.spotify.com/album/5cxcjuNazD5RsGoqMLgc5K) | 6:52 | 2020-06-13 | 2021-05-03 |

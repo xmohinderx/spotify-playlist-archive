@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mira Paula
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,156 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,181 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 46 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 |
 | 47 | [Quémame](https://open.spotify.com/track/055qZwqAr7oVrNMufIsbCt) | [Mareo!](https://open.spotify.com/artist/0zN60I3ofQ5rrmzs0fI1Cx) | [Quémame](https://open.spotify.com/album/3WmQF2Y7MTu5ydimtSl4jE) | 3:14 |
 | 48 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 |
-| 49 | [Nada Te Lastima](https://open.spotify.com/track/6XEEI8Fepn9n99SYwPTy95) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/7bINF9zY5uRXEssR7PKvhM) | 4:08 |
+| 49 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
 | 50 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
 
-Snapshot ID: `MTY1ODQ4Nzk2NSwwMDAwMDE4ODAwMDAwMTgyMjU5NjA1ZTUwMDAwMDE4MjI1OTU5ZWNj`
+Snapshot ID: `MTY1ODQ4Nzk2NSwwMDAwMDAwMGQ4YTI4MWQyNTA2NGU4OGVhZmE5ZDJjYzIyZDRiODhl`

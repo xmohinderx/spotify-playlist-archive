@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Neoma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,984 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,988 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 13 | [Luisa](https://open.spotify.com/track/46yArd7VDfAZxKDGoKgE7Z) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Luisa](https://open.spotify.com/album/41J6vPb5TIgniMbscw4s9w) | 4:09 |
 | 14 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 |
 | 15 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
-| 16 | [Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/1T4rUon9lBzvZWGzhlKP6t) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0PwQraZWaO5BkmJ5SsRshr) | 3:34 |
+| 16 | [Yo\-Po\-No\-Po Prieto Riddiman Remixes \- Yo\-Po\-No\-Po, Versión 1 \- Prieto Riddiman Remix](https://open.spotify.com/track/7xgBaxGvCFnyJqLhMrMAIJ) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H), [Prieto Riddiman](https://open.spotify.com/artist/25y4BwAI7JVq6UFvMuYjrD) | [Yo\-Po\-No\-Po Prieto Riddiman Remixes](https://open.spotify.com/album/0ahus37xHDFIzFfq7sdzU4) | 3:34 |
 | 17 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
 | 18 | [Cocoloco](https://open.spotify.com/track/4DXaFrBzHcZaz1wFKhiMkm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Cocoloco](https://open.spotify.com/album/0LrmYFkMJ4u7myFE3QHjga) | 2:55 |
 | 19 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 49 | [Todo Lo Que Sube](https://open.spotify.com/track/4Nue2wVbfAAVURd26kjNEN) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Todo Lo Que Sube](https://open.spotify.com/album/0rnPkYTulKklj3XbNuP9Ar) | 4:25 |
 | 50 | [TELODÍ](https://open.spotify.com/track/2w0lO85zsO2TeUIIZtmFKP) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [TELODÍ](https://open.spotify.com/album/6bW5WxABfMFCUyVhe7V0kN) | 3:15 |
 
-Snapshot ID: `MTY1NTE4MjgwMSwwMDAwMDAzMzAwMDAwMTgxNjA5NTNiZmIwMDAwMDE4MTVmNTJlYTBh`
+Snapshot ID: `MTY1NTE4MjgwMSwwMDAwMDAwMGU4YWQxOWM2YWU3OGQxODdlYzQ5MTFlZDZmYzA4NmI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Lo mejor del Rock en Español de hoy\. Cover: Aleesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,340 likes - 107 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,347 likes - 107 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 26 | [Punks vs Emos](https://open.spotify.com/track/3hEyHrTsHskOcIzi7PDAR1) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:19 |
 | 27 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 |
 | 28 | [La Nieve](https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [La Nieve](https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt) | 3:31 |
-| 29 | [Celosa](https://open.spotify.com/track/5lx3ZGWICq1EuSpkt0Zg04) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/4LwIDAHt4ALnQemPmkenUr) | 4:22 |
+| 29 | [Celosa](https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Celosa](https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB) | 4:22 |
 | 30 | [Divergencia](https://open.spotify.com/track/0uA76b98PXOa8dtkjdqor8) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Divergencia](https://open.spotify.com/album/0kT0qtLqqPl44l7AmWbw5C) | 3:45 |
 | 31 | [El Punto](https://open.spotify.com/track/1jwJrt9jMQEjzdzqbuFxAh) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Punto](https://open.spotify.com/album/0zqO7xoKsIvpYqcaZDSRBZ) | 4:42 |
 | 32 | [La Fórmula Secreta](https://open.spotify.com/track/1hbmlgKAdNqA6WHBKht7S1) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:59 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 106 | [La Despedida](https://open.spotify.com/track/7sRV1vbWO6eiSHMc2LDcFt) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD) | [La Despedida](https://open.spotify.com/album/72KvjC47bQejCXrTaqGEIT) | 3:42 |
 | 107 | [Mota o Perreo](https://open.spotify.com/track/0MRB04KQD10chU3wJjPIww) | [Michelle Blades](https://open.spotify.com/artist/2CXuLCYPAqkO8acjDoZWGG) | [Nombrar las Cosas](https://open.spotify.com/album/3BqdeMQuHncO2zm5SW1s4t) | 2:24 |
 
-Snapshot ID: `MTY1ODIxNTgwMCwwMDAwMDA4YTAwMDAwMTgyMTU1ZDFlZTYwMDAwMDE4MjE1NWNkYzNk`
+Snapshot ID: `MTY1ODIxNTgwMCwwMDAwMDAwMDc5ZjRlZjIxY2I0MDljMjA1NTdlNzYwNzQ4YzZlOWY3`

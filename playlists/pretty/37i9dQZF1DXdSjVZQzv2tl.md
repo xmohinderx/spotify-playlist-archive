@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Hugo & Guilherme
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,473,277 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,474,242 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 5 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 |
 | 6 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 |
 | 7 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 |
-| 8 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Cola Aqui, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai) | 2:51 |
+| 8 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 |
 | 9 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 |
 | 10 | [Vagabundo Chora \- Ao Vivo](https://open.spotify.com/track/2ebFBmle5uXcdbrCAOvPcZ) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Vagabundo Chora \(Ao Vivo\)](https://open.spotify.com/album/1plYdPJYejQQpBvlebGdnk) | 2:41 |
 | 11 | [Meu Número \- Ao Vivo](https://open.spotify.com/track/3XF598RmEUF3XW4XKo1lyP) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Próximo Passo \(Ao Vivo\)](https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9) | 3:28 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 22 | [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 |
 | 23 | [ABALO EMOCIONAL \- Ao Vivo](https://open.spotify.com/track/53RxHysDJ0cjugMcPymwja) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY AVENIDA AMARILDO SANTANA \(Ao Vivo\)](https://open.spotify.com/album/5kzhYibysBoVBzdWtFsGxF) | 2:33 |
 | 24 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 |
-| 25 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 |
+| 25 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/2wSCalnGOnXdAJC0Fn8OUY) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/0JKlc3z8LMvYXvAvCv1EzG) | 3:11 |
 | 26 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 |
 | 27 | [Boca Ocupada](https://open.spotify.com/track/36mUWhjTM3GNpncYy7RR6z) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Cleber & Cauan No Rio Quente](https://open.spotify.com/album/0sEb6tyxysVFuoKfaN5WdA) | 2:45 |
 | 28 | [Dá Intimidade Pra Ver \- Ao Vivo](https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 2](https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 |
 | 50 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 |
 
-Snapshot ID: `MTY1ODUwMjk5MiwwMDAwMDFlMjAwMDAwMTgyMjY3YjUzYjYwMDAwMDE4MjIyOWRhMzFi`
+Snapshot ID: `MTY1ODUwMjk5MiwwMDAwMDAwMDcwYWI5OGYwMWQxZWYzMTlmZDJiNDU4ODljZGExYWY1`

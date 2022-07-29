@@ -3192,6 +3192,24 @@
     },
     {
       "album": {
+        "name": "dear amelia",
+        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128851,
+      "name": "Julian, king of manhattan",
+      "url": "https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE"
+    },
+    {
+      "album": {
         "name": "Julian, king of manhattan",
         "url": "https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP"
       },
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128851,
       "name": "Julian, king of manhattan",
       "url": "https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9"
@@ -6115,10 +6133,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165893,
       "name": "THE FLOOR IS LAVA!!",
       "url": "https://open.spotify.com/track/1FaMB3EXxtUSHQLeG7TJ2l"
+    },
+    {
+      "album": {
+        "name": "THE FLOOR IS LAVA!!",
+        "url": "https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "THE FLOOR IS LAVA!!",
+      "url": "https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8"
     },
     {
       "album": {
@@ -6151,10 +6187,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210306,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/10U8wmvelEGOTIXJhjY9mk"
+    },
+    {
+      "album": {
+        "name": "S.I.D.E.S.",
+        "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6QASlPwSe8YIhpSqTkTPoB"
     },
     {
       "album": {

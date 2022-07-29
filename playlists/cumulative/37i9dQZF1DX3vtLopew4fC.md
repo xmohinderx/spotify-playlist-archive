@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume! Cover: Lilyisthatyou
 
-388 songs - 20 hr 21 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
+391 songs - 20 hr 30 min - [published](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [JiggaBoo](https://open.spotify.com/track/0TJoUCrdWmTsQRzxELjLwG) | [Sinzere](https://open.spotify.com/artist/5cz6c3YrUMlDVbmfZfdCat) | [JiggaBoo](https://open.spotify.com/album/6VEXLRJePS1cG1esJpP2gn) | 2:48 | 2022-07-06 |  |
 | [Jinx](https://open.spotify.com/track/1jlwVdghHRjWUKkP6W1uFB) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Jinx](https://open.spotify.com/album/0xxP3ktTkNDO3XC7upMDi2) | 3:32 | 2022-01-05 | 2022-02-03 |
 | [Julia](https://open.spotify.com/track/2YDE0tqWm0fR1Hpv1tdefZ) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Julia](https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ) | 2:31 | 2022-01-05 | 2022-02-03 |
-| [Julian, king of manhattan](https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Julian, king of manhattan](https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP) | 2:08 | 2022-07-06 |  |
+| [Julian, king of manhattan](https://open.spotify.com/track/5TrtrNlAvPJ4Rqh1UOb3HE) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 2:08 | 2022-07-08 |  |
+| [Julian, king of manhattan](https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Julian, king of manhattan](https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP) | 2:08 | 2022-07-06 | 2022-07-29 |
 | [Just Like That](https://open.spotify.com/track/5JmveZsPWCIkPMsgw3NHP5) | [Jennie Harluk](https://open.spotify.com/artist/2nik10Ty0mtiWMAL6bTFWw) | [Just Like That](https://open.spotify.com/album/6PZboDuZzAMFWWacFXauUW) | 2:31 | 2022-01-05 | 2022-02-03 |
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-05-04 | 2022-06-01 |
 | [Kissed Me Like That](https://open.spotify.com/track/5ZUuLmIU1laEV2RMQCztIp) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Kissed Me Like That](https://open.spotify.com/album/0OmmnPHYRa1qLmROhDUoPo) | 3:07 | 2022-05-04 | 2022-06-01 |
@@ -340,9 +341,11 @@
 | [The Coochie Song](https://open.spotify.com/track/1ZKnx75UImiBGaSHp4d8Kg) | [Staasia Daniels](https://open.spotify.com/artist/0VLvev050tpAMCM7FeVZ0n) | [The Coochie Song](https://open.spotify.com/album/7n5avnSR9wyediAPHVWeHR) | 2:55 | 2022-07-06 |  |
 | [The Day Unfolds](https://open.spotify.com/track/2QhOCkKvPTL4PdQkwv2kUg) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [When It Comes](https://open.spotify.com/album/4zma1QiIS0nQSjmAIgrs99) | 4:47 | 2022-05-04 | 2022-06-01 |
 | [The Falls](https://open.spotify.com/track/6E0d534IEAkuYWHPvdh2lC) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [The Falls](https://open.spotify.com/album/6M7LJCq0Cuvyelq1uTwFaB) | 2:52 | 2022-05-04 | 2022-06-01 |
-| [THE FLOOR IS LAVA!!](https://open.spotify.com/track/1FaMB3EXxtUSHQLeG7TJ2l) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/4P9uC9OIwlsJTYxwIYGT08) | 2:45 | 2022-07-06 |  |
+| [THE FLOOR IS LAVA!!](https://open.spotify.com/track/1FaMB3EXxtUSHQLeG7TJ2l) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/4P9uC9OIwlsJTYxwIYGT08) | 2:45 | 2022-07-06 | 2022-07-29 |
+| [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-07-08 |  |
 | [The Old Me](https://open.spotify.com/track/2dW8FQL3XdiMd08FGCz6OE) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Therapy](https://open.spotify.com/album/6mzxiA4wsf2FEDjWaIUjuo) | 2:56 | 2022-04-06 | 2022-05-04 |
-| [The Other Side](https://open.spotify.com/track/10U8wmvelEGOTIXJhjY9mk) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.i.d.e.s.](https://open.spotify.com/album/486groONGZO3VIRKvoy2Z9) | 3:30 | 2022-07-06 |  |
+| [The Other Side](https://open.spotify.com/track/10U8wmvelEGOTIXJhjY9mk) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.i.d.e.s.](https://open.spotify.com/album/486groONGZO3VIRKvoy2Z9) | 3:30 | 2022-07-06 | 2022-07-29 |
+| [The Other Side](https://open.spotify.com/track/6QASlPwSe8YIhpSqTkTPoB) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s) | 3:30 | 2022-07-08 |  |
 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 | 2022-04-06 | 2022-05-04 |
 | [The People's Champ](https://open.spotify.com/track/30KKd33s2z1nigw5P1sPVE) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [The People's Champ](https://open.spotify.com/album/5BQ3QqutRn91TpvTBJ0w0w) | 1:53 | 2022-07-06 |  |
 | [THE WAY I FEEL](https://open.spotify.com/track/3sUznPWwYhczB0v6SFkgc0) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [THE WAY I FEEL](https://open.spotify.com/album/7mzTwyIJGqxoejmhBXOMnX) | 3:33 | 2021-12-08 | 2022-03-09 |

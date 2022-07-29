@@ -589,10 +589,28 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 164848,
       "name": "Emiliana",
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I"
     },
     {
       "album": {
@@ -1106,6 +1124,24 @@
     },
     {
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/2E6QMP1mJcyD319Izd5mIK"
+    },
+    {
+      "album": {
         "name": "Phoenix Deluxe",
         "url": "https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3"
       },
@@ -1117,7 +1153,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217493,
       "name": "Meaningless",
       "url": "https://open.spotify.com/track/2w8OmA0tz54P74o8kLMcfb"
@@ -1539,6 +1575,24 @@
     {
       "album": {
         "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168704,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
+    },
+    {
+      "album": {
+        "name": "Trompeta",
         "url": "https://open.spotify.com/album/2CouSn57DmTvVmvNvYaApP"
       },
       "artists": [
@@ -1549,7 +1603,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168704,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/1xyz2xqqpnhT3k1ApFPu6S"
@@ -1669,10 +1723,32 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX"

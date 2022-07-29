@@ -2,7 +2,7 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/3MGKwPbzEu5ZFlDAJA75uD?si=x\_nRgwIaQ62keJzW6OG4iA">Louise Carver</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw">Black Cat Bones</a>
 
 111 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
@@ -28,7 +28,7 @@
 | [Dapper](https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Dapper](https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB) | 3:08 | 2021-11-18 |  |
 | [Deliver Me](https://open.spotify.com/track/4Xb2pl8kkMOqjiFRUZ4hKo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Deliver Me](https://open.spotify.com/album/4J5ybYI29YiDIeDpwbvTBN) | 3:46 | 2022-04-28 | 2022-05-27 |
 | [Demons](https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e) | [No Handshake](https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk), [Bobby XX](https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp) | [Demons](https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8) | 2:05 | 2022-01-21 |  |
-| [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 |  |
+| [Didn't Want To Fall In Love With You \- Radio Edit](https://open.spotify.com/track/1SLwPTrcTMwEDX2b7pQp8s) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Didn't Want To Fall In Love With You \(Radio Edit\)](https://open.spotify.com/album/6mxPuV54mjYg3kOYDNOkgh) | 2:55 | 2021-11-25 | 2022-07-29 |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Druppels](https://open.spotify.com/track/6jZR5jBiTTfWIlR0dIlZnc) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Druppels](https://open.spotify.com/album/719CSrqyLBVI2KKrr1hDeL) | 3:49 | 2022-03-03 |  |
 | [Eisbein](https://open.spotify.com/track/4dv4j1YkymrFPZEiEjyofL) | [Yndian Mynah](https://open.spotify.com/artist/5vPZcy1yojk3MN9D2g1c0C) | [Eisbein](https://open.spotify.com/album/1qbb2G6mIZsigTkoS9jR0U) | 5:12 | 2021-11-11 |  |
@@ -42,7 +42,7 @@
 | [EX\-GIRLFRIEND](https://open.spotify.com/track/6z2gZVqlUUhl0ilSSDpFY8) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND](https://open.spotify.com/album/6D5taPEIOdazo0DMHRRJnQ) | 2:25 | 2022-03-24 |  |
 | [EX\-GIRLFRIEND \- Radio Edit](https://open.spotify.com/track/1gyaVHGHkYeyFcckiMZ3Zz) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [EX\-GIRLFRIEND \(Radio Edit\)](https://open.spotify.com/album/5jvtsz7stvqP9tjSNqGXUS) | 2:25 | 2022-03-17 |  |
 | [Fade](https://open.spotify.com/track/5d0j1i2GP8XwXbLqBUgkcz) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Fade](https://open.spotify.com/album/0ahHE8vBjPVQ1zr2tji7L0) | 5:11 | 2021-09-02 | 2022-07-22 |
-| [Feast Or Famine](https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Feast Or Famine](https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq) | 4:33 | 2021-07-15 |  |
+| [Feast Or Famine](https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Feast Or Famine](https://open.spotify.com/album/3E3xF6HFKSqhi9dT8hO1wq) | 4:33 | 2021-07-15 | 2022-07-29 |
 | [Fight Song for a Funeral](https://open.spotify.com/track/1RDxGpz9HVRfhc966hUCa2) | [Jake Bennett](https://open.spotify.com/artist/3chSPsmCBrOXJXD4o86p5Y) | [Fight Songs for a Funeral](https://open.spotify.com/album/7z250E9LHwElD5B7DmbZNN) | 2:41 | 2021-11-25 | 2022-05-27 |
 | [Flashlight](https://open.spotify.com/track/4Wyp39FezkRqfmm1m862ve) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Flashlight](https://open.spotify.com/album/6GfNLxzDAHsoYuVBylzslj) | 2:37 | 2021-07-01 |  |
 | [For You](https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [For You](https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J) | 3:34 | 2021-06-10 | 2022-03-04 |

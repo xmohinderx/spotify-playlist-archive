@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "Arco\u00edris",
       "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
@@ -203,10 +203,36 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/1lrcVGmFdapqohjfaXy3Xk"
+    },
+    {
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "before",
+      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
     },
     {
       "album": {
@@ -225,7 +251,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156293,
       "name": "Big On You",
       "url": "https://open.spotify.com/track/6rJMPqaNUqU1zLS7bdmxpl"
@@ -321,7 +347,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
@@ -347,7 +373,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178863,
       "name": "Check Yuh Flex",
       "url": "https://open.spotify.com/track/3jmqR46wZETwifGvOKSFNL"
@@ -377,7 +403,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
@@ -399,7 +425,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177600,
       "name": "Chilli Pepper",
       "url": "https://open.spotify.com/track/3LaSa0jNnrYx693hh04y12"
@@ -521,7 +547,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 196973,
       "name": "Diggy Dee - Remix",
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
@@ -569,7 +595,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 203598,
       "name": "Don't Go (feat. Becky G and Mr. Eazi)",
       "url": "https://open.spotify.com/track/3owxTeAZ7UXqQjeGloHGKg"
@@ -661,10 +687,32 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187926,
       "name": "Dumebi (Remix)",
       "url": "https://open.spotify.com/track/1GxRU2jUq6Xt5vwi1vrDyK"
+    },
+    {
+      "album": {
+        "name": "Dumebi (Becky G Remix)",
+        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187926,
+      "name": "Dumebi - Becky G Remix",
+      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
     },
     {
       "album": {
@@ -705,7 +753,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 205400,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/5sU7NsHPwHF991Gir4ovn5"
@@ -749,7 +797,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174985,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/5uW0vbHDebFv9YLHCQSNid"
@@ -787,6 +835,28 @@
     {
       "album": {
         "name": "Getting Late",
+        "url": "https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254557,
+      "name": "Getting Late",
+      "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
+    },
+    {
+      "album": {
+        "name": "Getting Late",
         "url": "https://open.spotify.com/album/3fxqOwmITBpQnS5Ub5Zyjy"
       },
       "artists": [
@@ -801,7 +871,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII"
@@ -867,10 +937,36 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155368,
       "name": "iluminada",
       "url": "https://open.spotify.com/track/29pHChpWM7i7ut8F85LvRb"
+    },
+    {
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155368,
+      "name": "iluminada",
+      "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
     },
     {
       "album": {
@@ -885,7 +981,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 190108,
       "name": "JA ARA E",
       "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
@@ -933,7 +1029,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-09",
+      "date_removed": null,
       "duration_ms": 218981,
       "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
       "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
@@ -1003,10 +1099,36 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145909,
       "name": "lo siento",
       "url": "https://open.spotify.com/track/1aX1ZHapv5nrkMznR3IuUi"
+    },
+    {
+      "album": {
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+        },
+        {
+          "name": "anatu",
+          "url": "https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145909,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/3UoaastAGLCnmL8kghw7uR"
     },
     {
       "album": {
@@ -1033,7 +1155,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 248499,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq"
@@ -1055,7 +1177,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166730,
       "name": "LoLo (Remix) [feat. Farina]",
       "url": "https://open.spotify.com/track/05s2GU3X9VET94jDtQi4bg"
@@ -1191,7 +1313,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197210,
       "name": "Mare Mare",
       "url": "https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV"
@@ -1213,7 +1335,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207234,
       "name": "Maria",
       "url": "https://open.spotify.com/track/33UTgzWoQmA8tJHoAt9pbX"
@@ -1301,10 +1423,28 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/0Z4mRtb8Uc8xASEhGUlUyI"
+    },
+    {
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
     },
     {
       "album": {
@@ -1367,7 +1507,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186006,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/6R9kmo7MbGMudfLBNRTSnL"
@@ -1393,7 +1533,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162063,
       "name": "My Touch - Latin Remix",
       "url": "https://open.spotify.com/track/4faRENej6649h5zWYLK9v5"
@@ -1423,7 +1563,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
@@ -1489,7 +1629,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169396,
       "name": "Popor\u00f3",
       "url": "https://open.spotify.com/track/1u0gZYeHRGAknZZTjmZ6uK"
@@ -1533,10 +1673,32 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194042,
       "name": "Prende",
       "url": "https://open.spotify.com/track/3YucK8mlZPMEApdOkS4fmu"
+    },
+    {
+      "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "album": {
@@ -1665,6 +1827,32 @@
     {
       "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
       },
       "artists": [
@@ -1683,7 +1871,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
@@ -1713,7 +1901,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 231520,
       "name": "Sanga Zoo (feat. Farruko)",
       "url": "https://open.spotify.com/track/6RcQeYGYy2N8CR6N1HJN5T"
@@ -1739,7 +1927,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
@@ -1805,7 +1993,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172500,
       "name": "SOLO CON MI CANCI\u00d3N",
       "url": "https://open.spotify.com/track/52vcLD3PXtuXWXrHPctLUD"
@@ -1879,7 +2067,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 238208,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0GsPeFVhoWKJljDoV1pPnx"
@@ -1927,7 +2115,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
@@ -1967,7 +2155,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226866,
       "name": "Tun Up",
       "url": "https://open.spotify.com/track/282NqBO5Lzg6oXoaNGK9kd"
@@ -1997,6 +2185,36 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
+    },
+    {
+      "album": {
+        "name": "Vamos com tudo",
+        "url": "https://open.spotify.com/album/7zKyAGw6YQERUqQ0VRWKa2"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Preto Show",
+          "url": "https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245414,
+      "name": "Vamos com tudo",
+      "url": "https://open.spotify.com/track/74PgANamgS7BiWb1DoV6nz"
     },
     {
       "album": {
@@ -2045,7 +2263,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143529,
       "name": "Why",
       "url": "https://open.spotify.com/track/2jZI89shtgD12aRZYV3ody"
@@ -2085,7 +2303,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"

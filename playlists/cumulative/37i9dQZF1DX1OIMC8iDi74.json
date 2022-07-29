@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-25",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Arena",
       "url": "https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Blame (Tim Gunter Remix)",
       "url": "https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155129,
       "name": "Blinker",
       "url": "https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118522,
       "name": "Chicken Wang (feat. Diplo, Snappy Jit)",
       "url": "https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 178333,
       "name": "Coming Over (feat. James Hersey)",
       "url": "https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152000,
       "name": "Dojo (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/3BtWcgc7ZrtpYWu2eP2rHu"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Dum Dee Dum",
       "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181388,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 243354,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-08",
+      "date_removed": null,
       "duration_ms": 173871,
       "name": "Friday Night\u202c\u202c\u202c",
       "url": "https://open.spotify.com/track/78zc6DT7A2ccehmIqef9mT"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 201642,
       "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
       "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
@@ -1541,6 +1541,28 @@
     {
       "album": {
         "name": "Kid Calamity",
+        "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
+      },
+      "artists": [
+        {
+          "name": "Oski",
+          "url": "https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl"
+        },
+        {
+          "name": "The Arcturians",
+          "url": "https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "Go My Way",
+      "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "album": {
+        "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45"
       },
       "artists": [
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE"
@@ -2055,7 +2077,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-14",
+      "date_removed": null,
       "duration_ms": 168641,
       "name": "In My Room (feat. Ty Dolla $ign & Tyga)",
       "url": "https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b"
@@ -2927,6 +2949,28 @@
     {
       "album": {
         "name": "NO TOMORROW",
+        "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174334,
+      "name": "NO TOMORROW",
+      "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
+    },
+    {
+      "album": {
+        "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/4v7TAHvOlgbPlwojDlcyi3"
       },
       "artists": [
@@ -2941,7 +2985,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174341,
       "name": "NO TOMORROW",
       "url": "https://open.spotify.com/track/0dLHJRrBKfLM3OwLHvrmEd"
@@ -3199,7 +3243,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141349,
       "name": "q-edits #2",
       "url": "https://open.spotify.com/track/13YU8o2EdM9XZk8EU35YHQ"
@@ -3261,7 +3305,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
@@ -3403,7 +3447,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139153,
       "name": "Run Around",
       "url": "https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX"
@@ -3521,7 +3565,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166821,
       "name": "Sense",
       "url": "https://open.spotify.com/track/3mAHtO5lWZmVmZ898Vp3mB"
@@ -3785,6 +3829,28 @@
     {
       "album": {
         "name": "STAY STRONG",
+        "url": "https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183816,
+      "name": "STAY STRONG",
+      "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
+    },
+    {
+      "album": {
+        "name": "STAY STRONG",
         "url": "https://open.spotify.com/album/2x211pbSpVexGZvTsAtSaD"
       },
       "artists": [
@@ -3799,7 +3865,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183823,
       "name": "STAY STRONG",
       "url": "https://open.spotify.com/track/3aPaa10F8G5yzzh9Eb6ayQ"
@@ -3927,10 +3993,40 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235186,
       "name": "The Buzz (feat. Big K.R.I.T., Mataya & Young Tapz) - Bonus Track",
       "url": "https://open.spotify.com/track/6aCxdt2bMItKgGKoznDppY"
+    },
+    {
+      "album": {
+        "name": "Dark Night Sweet Light",
+        "url": "https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Mataya",
+          "url": "https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ"
+        },
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/0MH2SnPBynNlz9HRqC84ZK"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235186,
+      "name": "The Buzz - Bonus Track",
+      "url": "https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt"
     },
     {
       "album": {
@@ -3945,7 +4041,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 229850,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp"

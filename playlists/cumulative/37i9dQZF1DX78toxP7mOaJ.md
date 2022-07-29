@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Pool Kids \| Artwork: Jim Klok
 
-441 songs - 1 day 0 hr 44 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+445 songs - 1 day 0 hr 57 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Fallout](https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Fallout](https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4) | 2:46 | 2021-12-01 | 2022-03-24 |
 | [Fear of Being Fixed](https://open.spotify.com/track/0rw6KnCCMQbrgWHzf4TSIZ) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Fear of Being Fixed](https://open.spotify.com/album/4XcOTUDsMrzuf5vhRolP8B) | 3:45 | 2022-01-19 | 2022-04-28 |
 | [Feel It Now](https://open.spotify.com/track/0pwAnKBvP6xol5K4MlTc3w) | [Jacky Boy](https://open.spotify.com/artist/0RS9XoenYruXTronG5nC97) | [Mush](https://open.spotify.com/album/4pVgqQJpIxnibQ3RJJBHQ6) | 2:49 | 2022-05-11 | 2022-07-21 |
-| [Find The Light](https://open.spotify.com/track/1oy5dRgm9gp4K2hdt1JHdr) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/21CSKaWFOpMMXb17S0Cbk3) | 2:50 | 2022-06-08 |  |
+| [Find The Light](https://open.spotify.com/track/1oy5dRgm9gp4K2hdt1JHdr) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/21CSKaWFOpMMXb17S0Cbk3) | 2:50 | 2022-06-08 | 2022-07-29 |
+| [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 | 2022-07-27 |  |
 | [Fine Everything](https://open.spotify.com/track/2uMB0oBd8A2RuW1MW1CwSz) | [CIEL](https://open.spotify.com/artist/419lBVMZC4wFzJg8evBZ4g) | [Fine Everything](https://open.spotify.com/album/3V3xhOgIQ6neWBN3hXevSZ) | 3:08 | 2022-04-06 | 2022-06-30 |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-01-19 | 2022-03-10 |
 | [Follow My Heart](https://open.spotify.com/track/11oCrF91vRFU4CZ6Obfd0m) | [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Bleed Your Heart Out](https://open.spotify.com/album/55ow5n5coIs45tttCxuSVu) | 3:40 | 2022-05-04 | 2022-07-21 |
@@ -320,7 +321,8 @@
 | [REAL LOVE IS FOREVER](https://open.spotify.com/track/5zIgpbN65gUnQ10huitXmi) | [hotjohnmichael](https://open.spotify.com/artist/0dLcRSFtKULuHblq7wsPaR) | [REAL LOVE IS FOREVER](https://open.spotify.com/album/2zMUXFVMltkRSS3RcXr6Qa) | 2:33 | 2022-05-25 | 2022-06-16 |
 | [Really Big Shrimp](https://open.spotify.com/track/4keBrel4hcVl8BhPYIIih2) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Really Big Shrimp](https://open.spotify.com/album/1geczTpVEMH5Un9wxMRusf) | 4:23 | 2022-02-02 | 2022-05-05 |
 | [RECORD STORE](https://open.spotify.com/track/2SoPlq2FLSG2ODFJVPoLzl) | [Drens](https://open.spotify.com/artist/3Q8NJFycXKD7l7TGADQuHw) | [RECORD STORE](https://open.spotify.com/album/3hTyvipfyAFbpNkAoU53mp) | 2:54 | 2022-01-26 | 2022-04-14 |
-| [Red, White, & Blue](https://open.spotify.com/track/1NaDFmwOaAYDDDNCKIInWo) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/4Qq6XHRgVkgAltYNGpUyAL) | 2:42 | 2022-07-20 |  |
+| [Red, White, & Blue](https://open.spotify.com/track/1NaDFmwOaAYDDDNCKIInWo) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/4Qq6XHRgVkgAltYNGpUyAL) | 2:42 | 2022-07-20 | 2022-07-29 |
+| [Red, White, & Blue](https://open.spotify.com/track/3uQGhH7WjwJ9CEmPNhJJOp) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/1sU0VVU5cs5E83FMy6ZfGa) | 2:42 | 2022-07-27 |  |
 | [Rhythm](https://open.spotify.com/track/1IrFThsLj5TDaPAxILkSNC) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Rhythm](https://open.spotify.com/album/5E28tN4cwIgmLR9hUBVrdz) | 4:03 | 2022-06-29 |  |
 | [Riley](https://open.spotify.com/track/6Q5gS9SZp1rNqtVfo9iy5c) | [Ezra](https://open.spotify.com/artist/4t3LO0Or2OMeBrH9Jy1bLY), [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [Riley](https://open.spotify.com/album/6wj8ik8f8SsW5adBeBm8KE) | 3:31 | 2022-03-23 | 2022-06-16 |
 | [Rip Curl Sweatshirt](https://open.spotify.com/track/0OAGQp7hptybZ6vfjAshRL) | [Trestles](https://open.spotify.com/artist/7hmPErlX3ndzdXcrg8WblE) | [Rip Curl Sweatshirt](https://open.spotify.com/album/18RLd7dXVIW73t3LW7L3AK) | 3:20 | 2022-05-04 | 2022-07-28 |
@@ -329,7 +331,8 @@
 | [Rosey](https://open.spotify.com/track/4Ep0nSZT79o5sT4v0sssH4) | [New Junk City](https://open.spotify.com/artist/4kcvkXddIYZxnvLue1uPOM) | [Rosey](https://open.spotify.com/album/2e3aAKfMRB6QaO27Nuzg2A) | 3:15 | 2022-06-15 | 2022-07-21 |
 | [Round The Bend](https://open.spotify.com/track/1ViwUAv7xkPCbac8XmTzgH) | [The Kairos](https://open.spotify.com/artist/6zEu8fRL48KCcp63YVG3qR) | [Round The Bend](https://open.spotify.com/album/3kGy669AMs9f2Ak6DHmYDf) | 3:08 | 2022-01-19 | 2022-05-05 |
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-03-16 | 2022-06-16 |
-| [Running My Luck](https://open.spotify.com/track/0bQHsGEM3U17GCgpo0AGWZ) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Running My Luck](https://open.spotify.com/album/0SLjHcTIQtorAcNLY3n1dm) | 4:06 | 2022-07-06 |  |
+| [Running My Luck](https://open.spotify.com/track/0bQHsGEM3U17GCgpo0AGWZ) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Running My Luck](https://open.spotify.com/album/0SLjHcTIQtorAcNLY3n1dm) | 4:06 | 2022-07-06 | 2022-07-29 |
+| [Running My Luck](https://open.spotify.com/track/6OLbHBGPFcHJe6H974S0wS) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Bigger Sprout](https://open.spotify.com/album/6KufZVK7ZztV1n8bjN2Zfc) | 4:06 | 2022-07-27 |  |
 | [Sad Chick](https://open.spotify.com/track/5OjpGyQoINQ95njzOppfaa) | [talker](https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm) | [In Awe of Insignificance](https://open.spotify.com/album/1tLzBkScFZcxVRkDfIas8B) | 3:43 | 2022-03-30 | 2022-05-05 |
 | [SAFEWORD](https://open.spotify.com/track/7deJGxQIiAgNdp2NUvNtyK) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO) | [SAFEWORD](https://open.spotify.com/album/02rRus23EQLzH4HZeOLJH8) | 3:21 | 2022-06-08 |  |
 | [Same Difference](https://open.spotify.com/track/0fLB4BtBqarIqFattC2n8A) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Same Difference](https://open.spotify.com/album/4KkYMIEwXR8QthqLAW0Kdb) | 2:55 | 2022-06-15 |  |
@@ -370,7 +373,8 @@
 | [Spread Thin](https://open.spotify.com/track/3gusZ6ocEzuRbGr8qKMUBi) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [Walls of Mirrors](https://open.spotify.com/album/0yc692LeHOlErC5wdy21dS) | 3:37 | 2022-03-23 | 2022-05-26 |
 | [staring at the moon](https://open.spotify.com/track/2xhPeq2JkRk92QCN1uwB5x) | [THE BAND LIGHT](https://open.spotify.com/artist/43ix3ePMC5sMmP0TQeIilZ) | [staring at the moon](https://open.spotify.com/album/4NYcreHJt9V4WBdst1EG2H) | 3:08 | 2022-05-18 |  |
 | [Storyteller](https://open.spotify.com/track/1LeY0GzMcLwAc2NQe9RCUf) | [Maggie Koerner](https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe) | [The Bartholomew Songs](https://open.spotify.com/album/24cBWx1hlT9GUBZBOJjcal) | 4:32 | 2022-04-06 | 2022-05-26 |
-| [Strange World](https://open.spotify.com/track/5eEoPPcDszgnt83ZcVcKlJ) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/4WmRbMDCsNZhuKIgcyCvvE) | 3:05 | 2022-06-08 |  |
+| [Strange World](https://open.spotify.com/track/4Aey28bQNP6iirxE1VMnRw) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/6PaXjnpxQ7A7yFoKEITMd8) | 3:05 | 2022-07-27 |  |
+| [Strange World](https://open.spotify.com/track/5eEoPPcDszgnt83ZcVcKlJ) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/4WmRbMDCsNZhuKIgcyCvvE) | 3:05 | 2022-06-08 | 2022-07-29 |
 | [Strawberries](https://open.spotify.com/track/7ma8O2AhYJCjktw6CHyT7b) | [Daphne's Couch](https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq) | [Strawberries](https://open.spotify.com/album/5HEWG1W9fe4SBz0XnSlNHi) | 2:49 | 2022-03-23 | 2022-06-30 |
 | [Stretch](https://open.spotify.com/track/0acXuhdDyDzyiR021H8a45) | [Breathe Panel](https://open.spotify.com/artist/1vHpYL8AjsVy8GUFlbShAP) | [Lets It In](https://open.spotify.com/album/3QzntBBr8tvtUG3f86j9lM) | 2:11 | 2021-12-01 | 2022-01-27 |
 | [Sugarcoated](https://open.spotify.com/track/6IYpiUaE479ntE29xtf7Yu) | [Crooked Teeth](https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP) | [Sugarcoated](https://open.spotify.com/album/5Xtueb3pcJbrf6WiDu4kFl) | 2:47 | 2022-07-20 |  |

@@ -2793,6 +2793,28 @@
     {
       "album": {
         "name": "Piel de Cordero",
+        "url": "https://open.spotify.com/album/5VIiMnuhe882wXxhOdXGdf"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213647,
+      "name": "Piel de Cordero",
+      "url": "https://open.spotify.com/track/04d4GpLedinwpfctvgOIhY"
+    },
+    {
+      "album": {
+        "name": "Piel de Cordero",
         "url": "https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH"
       },
       "artists": [
@@ -2807,7 +2829,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213647,
       "name": "Piel de Cordero",
       "url": "https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R"
@@ -3859,6 +3881,24 @@
     {
       "album": {
         "name": "Universitaria",
+        "url": "https://open.spotify.com/album/6WSUOZbCvKMTMLtOvE1KW0"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133022,
+      "name": "Universitaria",
+      "url": "https://open.spotify.com/track/3durq4YUSFRaeoodpfHBmJ"
+    },
+    {
+      "album": {
+        "name": "Universitaria",
         "url": "https://open.spotify.com/album/5lgPIcUdcRbeYUONIUJhQq"
       },
       "artists": [
@@ -3869,7 +3909,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133022,
       "name": "Universitaria",
       "url": "https://open.spotify.com/track/6HOtqhx0LMZWEgJYRzdSuz"

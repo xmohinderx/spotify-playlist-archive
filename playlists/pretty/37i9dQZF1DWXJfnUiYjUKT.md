@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,911 likes - 96 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,987 likes - 96 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,10 +99,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 89 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 |
 | 90 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 |
 | 91 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 |
-| 92 | [Deep Cuts](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Deep Cuts](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
+| 92 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 |
 | 93 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 |
 | 94 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 |
 | 95 | [tendencies.](https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:12 |
 | 96 | [Whatever Fits Together](https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Whatever Fits Together](https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS) | 3:45 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDM4NTAwMDAwMTgyMjQwZmVlYjYwMDAwMDE4MjIyYzc4NmVk`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDBmZDcyYzFmNzliN2FhOWIwN2FkYTBlODljZmFmMzFj`

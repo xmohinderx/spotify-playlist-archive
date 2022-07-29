@@ -1164,6 +1164,40 @@
     },
     {
       "album": {
+        "name": "Work From Home With French Classics",
+        "url": "https://open.spotify.com/album/1zAmRFoyUF2ity7WdyEwfs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Deutsches Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/6MOokA8GHsPYpyNGc8Rz2f"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        },
+        {
+          "name": "Rundfunkchor Berlin",
+          "url": "https://open.spotify.com/artist/4DqlvoyKHnvnT4lvFmTSkG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Cantique de Jean Racine, Op. 11 (Arr. Rutter)",
+      "url": "https://open.spotify.com/track/3g94F6G8ja1uvYas7HdtW5"
+    },
+    {
+      "album": {
         "name": "Spheres - Einaudi, Glass, Nyman, P\u00e4rt, Richter",
         "url": "https://open.spotify.com/album/3fgv2psQv8GMNdHh9Q1WQM"
       },
@@ -1191,7 +1225,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255106,
       "name": "Cantique de Jean Racine, Op. 11 (Arr. Rutter)",
       "url": "https://open.spotify.com/track/6jQFvoqtHGm7sG5Z1IwF7F"
@@ -3477,7 +3511,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183211,
       "name": "La Havane",
       "url": "https://open.spotify.com/track/4gRrAwPFlaVAf1ZqgaP5TJ"
@@ -3499,6 +3533,24 @@
       "duration_ms": 185666,
       "name": "La Havane",
       "url": "https://open.spotify.com/track/2V8XnMnzngZDZLHCBaLj9P"
+    },
+    {
+      "album": {
+        "name": "PLANET",
+        "url": "https://open.spotify.com/album/3jo1XNxlYqBAX0a3IUvY38"
+      },
+      "artists": [
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "La Havane",
+      "url": "https://open.spotify.com/track/2X6ivL5R3YymBbg75Ivz3F"
     },
     {
       "album": {
@@ -4703,10 +4755,36 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202032,
       "name": "Pavane, Op. 50 - Excerpt",
       "url": "https://open.spotify.com/track/1Zj3dAEBXI29E2hKhx3Lfa"
+    },
+    {
+      "album": {
+        "name": "Classical Study: Faur\u00e9",
+        "url": "https://open.spotify.com/album/0I1eZMlje0PwStYCDgjVWl"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Jean Fournet",
+          "url": "https://open.spotify.com/artist/3V8SvHOgAFTS1ECUiLUdr2"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202032,
+      "name": "Pavane, Op. 50 - Excerpt",
+      "url": "https://open.spotify.com/track/5FQDlHEznLAcRJYlqYiCDl"
     },
     {
       "album": {
@@ -7220,6 +7298,24 @@
     },
     {
       "album": {
+        "name": "Mancini Plays the Theme from \"Love Story\"",
+        "url": "https://open.spotify.com/album/47hCW3leEMJW4ldcIC5qDE"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Theme from \"Love Story\"",
+      "url": "https://open.spotify.com/track/0zH63dNKyJBCxWROIVODnU"
+    },
+    {
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/1MWPStPe8xV50pL6n9aRih"
       },
@@ -7231,7 +7327,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171200,
       "name": "Theme from Love Story",
       "url": "https://open.spotify.com/track/0drEWIv7A6GOvZPgGSb1mQ"

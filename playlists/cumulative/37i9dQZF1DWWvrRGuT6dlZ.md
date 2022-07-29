@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: Chara Kai\-Le\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Tiara Maimun\. Artwork: Isu Kim.
 
-245 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+247 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 | 2022-06-17 |
 | [HICCUP](https://open.spotify.com/track/5Os4PkEIabbek8GjbUKnIn) | [Carla D](https://open.spotify.com/artist/3heuUvsVe9yRoFcul0A5vX) | [HICCUP](https://open.spotify.com/album/7fQPuVRQENuUUbwj3i5TTc) | 2:42 | 2022-06-02 |  |
-| [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 | 2022-05-05 |  |
+| [Hindsight](https://open.spotify.com/track/2PIkCsG3y6rcrxQRGShCiR) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/1TBmwdtEcBOKGvPbnAFJ4o) | 3:03 | 2022-07-28 |  |
+| [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 | 2022-05-05 | 2022-07-29 |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [home.](https://open.spotify.com/track/6x6i7ky72K8OgytVjmDPpJ) | [Lincoln Lim](https://open.spotify.com/artist/6SWt2vc0oCLKFQKy5OB253) | [home.](https://open.spotify.com/album/78qhhu1f0mzaBHHnH5e3Ev) | 5:31 | 2022-01-20 | 2022-06-17 |
 | [Homemade Chicken Soup](https://open.spotify.com/track/0ZDb1gKLEmimWszMPX6QjY) | [thelandofgreysea](https://open.spotify.com/artist/1elZrGAuUvrokatVLMnUWl), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Homemade Chicken Soup](https://open.spotify.com/album/0tNXJpv0SkYP1aB6Xv0vWw) | 2:05 | 2022-01-13 | 2022-07-01 |
@@ -182,7 +183,8 @@
 | [Planet Platonic](https://open.spotify.com/track/2iLKtJzLGtRjoRrMvVH5OU) | [The Filters](https://open.spotify.com/artist/0aI4dzoQSvBzjaBZgUuBW5) | [Exhaler](https://open.spotify.com/album/0UDeKLntX39tPUbxU4hW9n) | 6:10 | 2022-05-27 |  |
 | [Platform Heels](https://open.spotify.com/track/5UNXUEUP9tWQUfNHqrOSvI) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [ARE YOU OKAY?](https://open.spotify.com/album/0QdpUwL2nYTpTOgs7oDtxZ) | 1:52 | 2022-04-21 |  |
 | [PrettyGirlBop](https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [PrettyGirlBop](https://open.spotify.com/album/253sTENcjmo16asURVBroB) | 2:34 | 2021-12-01 | 2022-01-14 |
-| [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 |  |
+| [Push & Pull](https://open.spotify.com/track/0O19gG2dvbYJArdP6ebvRN) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/6DFor8T41j9pm1S90ePUPV) | 2:32 | 2022-01-20 | 2022-07-29 |
+| [Push & Pull](https://open.spotify.com/track/6kkjVksSuXj5t3JPOczMND) | [RON](https://open.spotify.com/artist/1qT72Xscp5ZJmag1foTRtO) | [Push & Pull](https://open.spotify.com/album/237kLywoj0cuKwN1ifqmWg) | 2:32 | 2022-07-28 |  |
 | [Reckless](https://open.spotify.com/track/60l7qW1hphyq0Aj7yvNpOl) | [Aquila Young](https://open.spotify.com/artist/3VX1a20isB4AkHOBCBY18s) | [Eternal Atrophy](https://open.spotify.com/album/4QI8dPnl9s6jj0hr3jqA0n) | 3:37 | 2022-06-30 |  |
 | [Ride with Me](https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb) | [Maqyl](https://open.spotify.com/artist/1TsQNoSAfBuzmgHN0475Sw), [Kalyan Rath](https://open.spotify.com/artist/1bdzqJILHZDRI49lqMS5mc) | [Ride with Me](https://open.spotify.com/album/05s3PEx8pGlodj3gvSgm2y) | 2:58 | 2022-01-13 | 2022-06-17 |
 | [Run Again \(Acoustic\)](https://open.spotify.com/track/0r7x4FURS4dwkPZah6Nosf) | [Phoebe Tsen](https://open.spotify.com/artist/06Bshz3mErx5BEZxwd4gPE) | [Run Again \(Acoustic\)](https://open.spotify.com/album/66cDvMNDovrj2QNnL7aCs9) | 3:08 | 2022-03-31 | 2022-06-17 |
@@ -235,7 +237,7 @@
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 | 2022-01-13 | 2022-03-11 |
-| [WHAT YOU WANT](https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ) | [Zane Cotton](https://open.spotify.com/artist/7nXSLhAflRRo3t0AxWQOBq), [IN THE NOW](https://open.spotify.com/artist/7uBh7DKzz106BQ0VBDEBv6) | [WHAT YOU WANT](https://open.spotify.com/album/35oOzGPopdz0dXGXjK8Imo) | 2:41 | 2022-04-28 |  |
+| [WHAT YOU WANT](https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ) | [Zane Cotton](https://open.spotify.com/artist/7nXSLhAflRRo3t0AxWQOBq), [IN THE NOW](https://open.spotify.com/artist/7uBh7DKzz106BQ0VBDEBv6) | [WHAT YOU WANT](https://open.spotify.com/album/35oOzGPopdz0dXGXjK8Imo) | 2:41 | 2022-04-28 | 2022-07-29 |
 | [when it's not okay](https://open.spotify.com/track/4WJbqIU8HC6xaQFXrcWx7E) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [when it's not okay](https://open.spotify.com/album/1fkIoo5XN2F9VFAVLBmxPH) | 3:03 | 2022-04-21 |  |
 | [where do i go?](https://open.spotify.com/track/5sn3NDqkXVfWj0r7HhdeFj) | [JQ x ZUL](https://open.spotify.com/artist/5TrKlQCi5tcAKAXfWKrR4N) | [where do i go?](https://open.spotify.com/album/2LGiCNgUyWiwBNlo83FQFD) | 2:57 | 2022-01-13 | 2022-06-17 |
 | [Where or When](https://open.spotify.com/track/5wVXgqUdJC9lJ5SYAyuBOW) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Where or When](https://open.spotify.com/album/1Qw3VnXePVHqW2gfpB6yTu) | 4:49 | 2022-01-27 | 2022-06-17 |

@@ -169,7 +169,7 @@
     {
       "album": {
         "name": "Age Of Ascent",
-        "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
+        "url": "https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA"
       },
       "artists": [
         {
@@ -180,6 +180,24 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn"
+    },
+    {
+      "album": {
+        "name": "Age Of Ascent",
+        "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
@@ -321,10 +339,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273065,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/4d99cprqBqicUIpKDvVAox"
+    },
+    {
+      "album": {
+        "name": "Time For Ballads - The Studio Sessions",
+        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273065,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/6NUli2QH1hyvAzFuHOcM8O"
     },
     {
       "album": {
@@ -936,6 +972,36 @@
     },
     {
       "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412668,
+      "name": "Blood Diamond",
+      "url": "https://open.spotify.com/track/2nYINWjMcy78mubSgJHsT0"
+    },
+    {
+      "album": {
         "name": "Blood Diamond",
         "url": "https://open.spotify.com/album/62XolLgrIE94KkWdtm43LD"
       },
@@ -959,7 +1025,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 412668,
       "name": "Blood Diamond",
       "url": "https://open.spotify.com/track/3XwJ3KEhhRokcx1yAxdJdQ"
@@ -1869,10 +1935,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192937,
       "name": "Dream Another",
       "url": "https://open.spotify.com/track/5AZuKKo4LcoQKOGCrA8eGU"
+    },
+    {
+      "album": {
+        "name": "Dream Another",
+        "url": "https://open.spotify.com/album/6QXvKWIg9KSRqLjm7yqqUE"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "Dream Another",
+      "url": "https://open.spotify.com/track/6O5WxhFGEdNVRJw7vnwhiy"
     },
     {
       "album": {
@@ -6309,7 +6393,7 @@
     {
       "album": {
         "name": "Sun of June",
-        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
       },
       "artists": [
         {
@@ -6320,6 +6404,24 @@
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Sun of June",
+      "url": "https://open.spotify.com/track/4rIDC72fAd26dB4U9pCAGa"
+    },
+    {
+      "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 225600,
       "name": "Sun of June",
       "url": "https://open.spotify.com/track/6ql8UeREHiP4vcTbbZXDyC"
@@ -7205,10 +7307,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158906,
       "name": "This Too",
       "url": "https://open.spotify.com/track/287T0cB8b0UQiYk0gv8hyP"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "This Too",
+      "url": "https://open.spotify.com/track/2HuhBv7mhKIm3H7Wvb9dqw"
     },
     {
       "album": {
@@ -7565,7 +7685,7 @@
     {
       "album": {
         "name": "Victory Dance",
-        "url": "https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9"
+        "url": "https://open.spotify.com/album/7CCp7nQx5T7GBtU8TiKtRq"
       },
       "artists": [
         {
@@ -7576,6 +7696,24 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295893,
+      "name": "Victory Dance",
+      "url": "https://open.spotify.com/track/65vqkVT78sHmYc3fTB3uQw"
+    },
+    {
+      "album": {
+        "name": "Victory Dance",
+        "url": "https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 295893,
       "name": "Victory Dance",
       "url": "https://open.spotify.com/track/6cQzmvrbnCM1d51XOodmPR"

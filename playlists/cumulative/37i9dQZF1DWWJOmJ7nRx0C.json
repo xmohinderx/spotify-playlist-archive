@@ -1780,7 +1780,7 @@
     },
     {
       "album": {
-        "name": "Deep Cuts",
+        "name": "DEEP CUTS",
         "url": "https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO"
       },
       "artists": [
@@ -1793,7 +1793,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 254129,
-      "name": "Deep Cuts",
+      "name": "DEEP CUTS",
       "url": "https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk"
     },
     {
@@ -2113,10 +2113,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 296906,
       "name": "EARTHRISE",
       "url": "https://open.spotify.com/track/56v5UfviHZFpZ0lghilvOI"
+    },
+    {
+      "album": {
+        "name": "HORIZONS",
+        "url": "https://open.spotify.com/album/0tJI0EBOHEcxov6V1ddIo7"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "EARTHRISE",
+      "url": "https://open.spotify.com/track/7slyqv1VP7r8293rf7wUMK"
     },
     {
       "album": {
@@ -2131,10 +2149,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199250,
       "name": "Echo",
       "url": "https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve"
+    },
+    {
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3"
     },
     {
       "album": {
@@ -2323,10 +2359,32 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/07GYummphjTwkCjNfJvIca"
+    },
+    {
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
     },
     {
       "album": {
@@ -2474,6 +2532,24 @@
     },
     {
       "album": {
+        "name": "Diamond Star Halos",
+        "url": "https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Fire It Up",
+      "url": "https://open.spotify.com/track/1iFbbuxwxIKdXVaTU1737K"
+    },
+    {
+      "album": {
         "name": "Fire It Up",
         "url": "https://open.spotify.com/album/5BDAPbqXoXGOy8lwur9SxF"
       },
@@ -2485,7 +2561,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199532,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/2NtTPFydPxZnZ3p6wlkYdq"
@@ -3291,10 +3367,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235040,
       "name": "I Still Burn",
       "url": "https://open.spotify.com/track/6aXpsIVZDN1lfdt88T8fX1"
+    },
+    {
+      "album": {
+        "name": "Boombox",
+        "url": "https://open.spotify.com/album/2IZGL8m1sfmD1f0mi2iMPY"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235040,
+      "name": "I Still Burn",
+      "url": "https://open.spotify.com/track/7LYlvig8Sjclil4xO7ZKjk"
     },
     {
       "album": {
@@ -3607,7 +3701,7 @@
     {
       "album": {
         "name": "Kill Or Be Killed",
-        "url": "https://open.spotify.com/album/7p4zzMN5NEUE6AMQdZFnzc"
+        "url": "https://open.spotify.com/album/7tg11V9qhF2C9OoJgB1fnX"
       },
       "artists": [
         {
@@ -3618,6 +3712,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 299060,
+      "name": "Kill Or Be Killed",
+      "url": "https://open.spotify.com/track/4E6pemZ3WutASrphiRINbd"
+    },
+    {
+      "album": {
+        "name": "Kill Or Be Killed",
+        "url": "https://open.spotify.com/album/7p4zzMN5NEUE6AMQdZFnzc"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 299066,
       "name": "Kill Or Be Killed",
       "url": "https://open.spotify.com/track/3J93pKujr39UHezVy10MW1"
@@ -4141,10 +4253,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 515386,
       "name": "Master Of Puppets",
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
+    },
+    {
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "album": {
@@ -4333,6 +4463,24 @@
     {
       "album": {
         "name": "Nevermore",
+        "url": "https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275924,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw"
+    },
+    {
+      "album": {
+        "name": "Nevermore",
         "url": "https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc"
       },
       "artists": [
@@ -4343,7 +4491,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275924,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr"
@@ -4671,7 +4819,7 @@
     {
       "album": {
         "name": "Pawns & Kings",
-        "url": "https://open.spotify.com/album/2wfXgRSZLmPjExyR5yzAOS"
+        "url": "https://open.spotify.com/album/4GdmE5jEDgN7bI8H4BphBT"
       },
       "artists": [
         {
@@ -4682,6 +4830,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 378313,
+      "name": "Pawns & Kings",
+      "url": "https://open.spotify.com/track/3MNZ79grelbBXsQcKUQZAh"
+    },
+    {
+      "album": {
+        "name": "Pawns & Kings",
+        "url": "https://open.spotify.com/album/2wfXgRSZLmPjExyR5yzAOS"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 378313,
       "name": "Pawns & Kings",
       "url": "https://open.spotify.com/track/6DtUSmnvbuMqOQSNxXfMVU"
@@ -6277,10 +6443,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237291,
       "name": "Tear It Down",
       "url": "https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV"
+    },
+    {
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237291,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8"
     },
     {
       "album": {
@@ -6997,10 +7181,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196669,
       "name": "Waiting On You",
       "url": "https://open.spotify.com/track/71f22NnyQgS5r0Ekyfrxrm"
+    },
+    {
+      "album": {
+        "name": "Rain City Drive",
+        "url": "https://open.spotify.com/album/5sgQU7Ac1EtuuYTBcVOCUm"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196669,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/7kAH59f7kgFaRScFnPI8BL"
     },
     {
       "album": {
@@ -7233,10 +7435,28 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202838,
       "name": "Where You Go I Go",
       "url": "https://open.spotify.com/track/1k8ItZUN3SgDbe8RJvZ2Dw"
+    },
+    {
+      "album": {
+        "name": "APOPHYSITIS",
+        "url": "https://open.spotify.com/album/4n1Y8Djpo0xnuhuPWcKYbR"
+      },
+      "artists": [
+        {
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202838,
+      "name": "Where You Go I Go",
+      "url": "https://open.spotify.com/track/38maix7OKjT3XwFZn8D6pu"
     },
     {
       "album": {

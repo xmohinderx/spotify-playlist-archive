@@ -4,7 +4,7 @@
 
 > Finest of the Indian English Indie\. Cover \- Prateek Kuhad
 
-98 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
+100 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/4hbRgfKnTzMsI4t17faPau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 | 2022-03-25 |  |
-| [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-03-25 |  |
+| [I'm On Holiday](https://open.spotify.com/track/1o80HBoapHZKj4DfiEAvE2) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/2qUiZUyvXbvqyDXEUrkPIC) | 3:32 | 2022-07-28 |  |
+| [I'm On Holiday](https://open.spotify.com/track/7ywG4HmmsUCoM2g88z1D0f) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [I'm On Holiday](https://open.spotify.com/album/618dFbVK7B8HN1dLHuj8Nw) | 3:32 | 2022-03-25 | 2022-07-29 |
 | [i'm tired](https://open.spotify.com/track/5UeN38kwUvd2pSd4gn1kAt) | [Trisha](https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1) | [i'm tired](https://open.spotify.com/album/1hPXi29Hl972CSqagCVNNT) | 2:54 | 2022-05-25 |  |
 | [If I Tried](https://open.spotify.com/track/1GBzKGW8kLGhL6eMPZRly8) | [Sheil Sagar](https://open.spotify.com/artist/2PEzZphNZ2CtfL7V8j9AWy) | [If I Tried](https://open.spotify.com/album/7tAEmbfsN6V6fwnULj3rrd) | 4:18 | 2022-03-25 |  |
 | [Impact](https://open.spotify.com/track/4dkUcbDgKJ7f4PQRlpSSOQ) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Demons](https://open.spotify.com/album/3GfYjzOZ4XXKgsXnwzl17V) | 4:58 | 2022-03-25 |  |
@@ -96,7 +97,8 @@
 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 | 2022-03-25 |  |
 | [Start Over](https://open.spotify.com/track/00o6tjjeGukLZiL6E42Oki) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Start Over](https://open.spotify.com/album/4uAIRF3atS9Oy6xxmVoFdC) | 2:38 | 2022-03-25 |  |
 | [Straight Through](https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Straight Through](https://open.spotify.com/album/32fagwM4LQVX8UmxSfQK3w) | 4:18 | 2022-04-25 |  |
-| [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-03-25 |  |
+| [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-03-25 | 2022-07-29 |
+| [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 | 2022-07-28 |  |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-03-25 |  |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2022-03-25 |  |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne, Ravi Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,580 likes - 85 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,611 likes - 85 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 67 | [Siri](https://open.spotify.com/track/1zq6YYl7MxrMj4yqtOxwuB) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [KillerB](https://open.spotify.com/artist/40V9FiVXsO9bAxg9XIKGks), [Sandaru Sathsara](https://open.spotify.com/artist/473SusuHKpeUibUcV0W7az) | [Siri](https://open.spotify.com/album/7bKj8axmc8pa1j95a2zV3t) | 2:15 |
 | 68 | [Wiramayak](https://open.spotify.com/track/340dfMzZ1GCacVbtbaFJiC) | [Maduwa](https://open.spotify.com/artist/6T9FobM9aIj7dJW3daMrGV) | [Wiramayak](https://open.spotify.com/album/6E0ahoc7SAPrBSM0No3SrN) | 3:25 |
 | 69 | [Prema Nikmana](https://open.spotify.com/track/56ZrGZKdMief70wQRRxR5Z) | [Tharindu Damsara](https://open.spotify.com/artist/6xigw0uLrcdmOgqQwVN1FE), [Himansa Samarakoon](https://open.spotify.com/artist/0HOBl8MmakWKW0cnhSXdv2) | [Prema Nikmana](https://open.spotify.com/album/2QrTSWJxNEySxHVFDusuUG) | 2:34 |
-| 70 | [Manabandu Karanawak](https://open.spotify.com/track/26MhmSydPGGhhdy5VyBsJV) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Manabandu Karanawak](https://open.spotify.com/album/3YIblNJTctbjk798mrNNCK) | 2:57 |
+| 70 | [Manabandu Karanawak](https://open.spotify.com/track/7ha2TzmkgClpKKiLD2WJG8) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Manabandu Karanawak](https://open.spotify.com/album/5sJnrVN5bVRlPa3Vmhug7P) | 2:57 |
 | 71 | [Loka Sithiyama](https://open.spotify.com/track/1BIokroaGLYloONIDsga8W) | [NaadhaGama](https://open.spotify.com/artist/6OcxQ6JR8KBybmQOJNWvTU), [Dhanith Sri](https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs), [Methun SK](https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x) | [Loka Sithiyama](https://open.spotify.com/album/6HerR0p7gPzUva3eToMZPi) | 4:15 |
 | 72 | [Rap Malsara](https://open.spotify.com/track/6kY2Ap75Z0OQ6guT4IygOp) | [Dulan ARX](https://open.spotify.com/artist/1UyD155ls8RhCxSQsmdgZX) | [Rap Malsara](https://open.spotify.com/album/7Fh0zPLFDx0LpdgOo1pAuZ) | 3:00 |
 | 73 | [Mulawe](https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Mulawe](https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc) | 3:55 |
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 77 | [Paata Gawe Man](https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Paata Gawe Man](https://open.spotify.com/album/539f3h6YfO0KKFCRgZ1puS) | 2:45 |
 | 78 | [Laga Lagatama \- Remix](https://open.spotify.com/track/1iIOK68SJyv4HGiAI8SrNh) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Zack N](https://open.spotify.com/artist/7ArDql3vEsoh5HXcqP9aOy) | [Laga Lagatama \(Remix\)](https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3) | 2:48 |
 | 79 | [Sanda Wage Pena](https://open.spotify.com/track/0KhbsQkUeVErDzElMRdZMG) | [Hana Shafa](https://open.spotify.com/artist/7occ8YAUAF3XJbC3uCq1iL), [Dilo](https://open.spotify.com/artist/7lrGPpmDUbhyg2DE8dD8cJ) | [Sanda Wage Pena](https://open.spotify.com/album/4xFYfMgcHq4ZRzjw7fey1w) | 3:00 |
-| 80 | [Thaniwama](https://open.spotify.com/track/5iTTTURz6Q7RqertWDlg5O) | [NAVI Katugampala](https://open.spotify.com/artist/0Uijw6YUBx3J7nw2nD4JEd), [Shaniya](https://open.spotify.com/artist/1NAbrukGb9uG8swM5g7XDJ) | [Thaniwama](https://open.spotify.com/album/1LsttTRa9EOmukyXJhxhrR) | 4:21 |
+| 80 | [Thaniwama](https://open.spotify.com/track/6NQzm9KuXMtKBk60UYw75z) | [NAVI Katugampala](https://open.spotify.com/artist/0Uijw6YUBx3J7nw2nD4JEd), [Shaniya](https://open.spotify.com/artist/1NAbrukGb9uG8swM5g7XDJ) | [Thaniwama](https://open.spotify.com/album/1by2GMjYDWOdIyy9g3Dhmx) | 4:21 |
 | 81 | [Hulan Banis](https://open.spotify.com/track/2EkTq3VZyGRkpfLjJDp85h) | [La Signore](https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP), [Randhir](https://open.spotify.com/artist/1YMDbJ09hbqy97l9YU4R08) | [Hulan Banis](https://open.spotify.com/album/5LuerMlqDZeTwEp3PniP22) | 4:11 |
 | 82 | [Hadisida Manda](https://open.spotify.com/track/0CkNKzssNAh57audyrH4on) | [Kanchana Anuradhi](https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u) | [Hadisida Manda](https://open.spotify.com/album/0ElpRevvStUmwmtFSmoQqt) | 3:03 |
 | 83 | [Hanthana Sulange](https://open.spotify.com/track/5zFWB4cNjPiLNSnpyV4N4n) | [Stereomiinds](https://open.spotify.com/artist/24OHgf3gPyP5DomDcDVu8T), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC), [Nipuni Herath](https://open.spotify.com/artist/2jJNXKV8EVepbVOKgpxK5P) | [Hanthana Sulange](https://open.spotify.com/album/1DZWyKLKp7k9UFZGsojfxS) | 3:12 |
 | 84 | [Pem Kekula](https://open.spotify.com/track/6NWjTke7IJDThX8ze3DUJN) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA), [Romaine Willis](https://open.spotify.com/artist/5KW7Z7pvvXDPbig7Dlt4Rp), [Apzi](https://open.spotify.com/artist/12xBvaWtsb3RT5WPljGy2o) | [Pem Kekula](https://open.spotify.com/album/1mIVw6IZ0jqXKtDbeMWR42) | 2:38 |
 | 85 | [Kaalaye](https://open.spotify.com/track/6LMVEszqcrimXu6W7ueoUr) | [Vidula Ravishara](https://open.spotify.com/artist/4FzhdScTHPgweAc4Ka9fOB) | [Kaalaye](https://open.spotify.com/album/40oBMZD8C0NmAsMB8DaKzw) | 3:53 |
 
-Snapshot ID: `MTY1Nzg4MDc0NiwwMDAwMDAzNTAwMDAwMTgyMDE2NDliMzUwMDAwMDE4MjAxNjQzYzZj`
+Snapshot ID: `MTY1Nzg4MDc0NiwwMDAwMDAwMDg3Njk2ZDEzNzFkZDk2MjI1M2M4M2RmNzQ5OGMzNTI1`

@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Forch",
+          "url": "https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Arturo",
+      "url": "https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW"
+    },
+    {
+      "album": {
         "name": "Arturo",
         "url": "https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT"
       },
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 172000,
       "name": "Arturo",
       "url": "https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E"
@@ -4301,10 +4319,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa"
+    },
+    {
+      "album": {
+        "name": "Lost Words",
+        "url": "https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151761,
+      "name": "Lost Words",
+      "url": "https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91"
     },
     {
       "album": {
@@ -6767,10 +6803,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135466,
       "name": "Silent Agreement",
       "url": "https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        },
+        {
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        },
+        {
+          "name": "Rasmus Svensson",
+          "url": "https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135453,
+      "name": "Silent Agreement",
+      "url": "https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5"
     },
     {
       "album": {

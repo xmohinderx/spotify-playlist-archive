@@ -453,10 +453,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 118733,
       "name": "Choo Choo Express",
       "url": "https://open.spotify.com/track/7nr1mMXozxQtPtM1PDCFky"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118733,
+      "name": "Choo Choo Express",
+      "url": "https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53"
     },
     {
       "album": {
@@ -500,6 +518,28 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Mickey Mornings",
+        "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102613,
+      "name": "Disney Junior Music: Make It a Mickey Morning",
+      "url": "https://open.spotify.com/track/02Fn1rxmlveZZfx4iltIMz"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Make It a Mickey Morning (From \"Mickey Mornings\")",
         "url": "https://open.spotify.com/album/29sfhfZcyWIOEi6RIyw1LW"
       },
@@ -515,7 +555,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 101695,
       "name": "Disney Junior Music: Make It a Mickey Morning - From \"Mickey Mornings\"",
       "url": "https://open.spotify.com/track/7FlQiOdu7Y3K2M3qVD3uW8"
@@ -827,6 +867,48 @@
     {
       "album": {
         "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr"
+      },
+      "artists": [
+        {
+          "name": "Mickey",
+          "url": "https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Pete",
+          "url": "https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114866,
+      "name": "Happy Thanks a Bunch Day",
+      "url": "https://open.spotify.com/track/0TvI13tx9sRbrJXzE8PhiH"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
         "url": "https://open.spotify.com/album/3RfXYhZGjcBVWAGxkP5i5L"
       },
       "artists": [
@@ -861,7 +943,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 114866,
       "name": "Happy Thanks a Bunch Day",
       "url": "https://open.spotify.com/track/1Wv4xyM6kb46YJsA7BZ2WD"

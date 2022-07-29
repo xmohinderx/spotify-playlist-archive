@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: dvsn
 
-3,011 songs - 6 day 16 hr 19 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+3,012 songs - 6 day 16 hr 23 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2863,7 +2863,8 @@
 | [Weak \(feat\. BIG30\)](https://open.spotify.com/track/1r2mef8nQFVUZjyBalNNhW) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Stoner's Night](https://open.spotify.com/album/32LNK3gHcEGOh0M7fcmRhb) | 3:31 | 2022-02-11 | 2022-02-19 |
 | [Weatherman](https://open.spotify.com/track/5CmIIBRVQWLX2uXAkuBlS8) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1zyIXJ3Y7IRMaCbIVAgHYq) | 2:25 | 2022-02-18 | 2022-02-26 |
 | [Web](https://open.spotify.com/track/4C79MQWKw9ov99q8AXXBpe) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Web](https://open.spotify.com/album/2P0ebrotEYGBlrTn7cKC1E) | 2:06 | 2022-05-06 | 2022-05-14 |
-| [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 | 2022-07-22 |  |
+| [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 | 2022-07-22 | 2022-07-29 |
+| [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 | 2022-07-22 |  |
 | [Weekends \(I Can Feel It\)](https://open.spotify.com/track/4lJG3byxSnynXXfjfvegg2) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Weekends \(I Can Feel It\)](https://open.spotify.com/album/1G3WdWNwzYeBpKrrI9mMew) | 2:40 | 2022-05-06 | 2022-05-14 |
 | [Welcome to the Playhouse](https://open.spotify.com/track/1qXTtWP0sNcePb3tT2eHWL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Welcome to the Playhouse](https://open.spotify.com/album/6hhEQkw3cuI1HQ61Xma7Cy) | 3:08 | 2022-01-07 | 2022-01-15 |
 | [well that's the price i pay for being empathetic](https://open.spotify.com/track/2yM21jB2RJVjxpbFs6b6Vr) | [Cavasoul](https://open.spotify.com/artist/2lgIfsA4UzQVEtEQ8zfze7) | [holy dumpster fire](https://open.spotify.com/album/7mmZl4bD6ClHFWDSjqLk1S) | 2:52 | 2022-04-22 | 2022-04-29 |

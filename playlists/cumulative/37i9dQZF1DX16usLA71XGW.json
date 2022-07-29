@@ -905,7 +905,7 @@
     {
       "album": {
         "name": "Gifted",
-        "url": "https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w"
+        "url": "https://open.spotify.com/album/0q80Hj7RGzccRcHTZcb0HY"
       },
       "artists": [
         {
@@ -920,6 +920,28 @@
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Sitachelewa",
+      "url": "https://open.spotify.com/track/2V8JCAL5fAYIuetBGKfj7X"
+    },
+    {
+      "album": {
+        "name": "Gifted",
+        "url": "https://open.spotify.com/album/5gYoLbLpGgLziilCmpMV0w"
+      },
+      "artists": [
+        {
+          "name": "Pryshon",
+          "url": "https://open.spotify.com/artist/10tow6yKkH4OjXuZA0PR0w"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 234666,
       "name": "Sitachelewa",
       "url": "https://open.spotify.com/track/2pEKF6WOg0Z4IalfGDwYp1"

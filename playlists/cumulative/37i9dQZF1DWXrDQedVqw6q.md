@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-146 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
+148 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/3ZGPhyEiXz7uhWF13D0N9j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Bord de L’eau](https://open.spotify.com/track/0g6LbYjAdDmV4YQcnzV4tF) | [Lou D'Audrey](https://open.spotify.com/artist/1Af7tZT5ll2gtgG4jO1Kxl) | [Une Dernière Histoire](https://open.spotify.com/album/7z1hYYM53riIc9GF9PN41P) | 2:38 | 2022-03-21 |  |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2022-03-21 |  |
 | [Calm](https://open.spotify.com/track/4CK6vuYb4BaaQ2oYbkASuB) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Calm](https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9) | 1:49 | 2022-03-21 |  |
-| [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 | 2022-03-21 |  |
+| [Castaway](https://open.spotify.com/track/3BUiTyv4rgWL1GfVoBPwNH) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Endless](https://open.spotify.com/album/6KdAlVq1oJu7uaA8eAYJf6) | 4:15 | 2022-03-21 | 2022-07-29 |
+| [Castaway](https://open.spotify.com/track/6HUD7q1WnnVbZ7W29y0V3c) | [Enzo](https://open.spotify.com/artist/2zhxw6A7BNmwZpgCJkjwRz) | [Sunrise](https://open.spotify.com/album/4OqOKmqpBvfAw1NF68Vd83) | 4:15 | 2022-07-08 |  |
 | [Cedar Tree](https://open.spotify.com/track/3eGM7i0W651ugxqdKx9kJj) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Cedar Tree](https://open.spotify.com/album/6qOdM0nwzdD6vFt2OiTsZn) | 4:11 | 2022-03-21 |  |
 | [Changes Within](https://open.spotify.com/track/4hdZ8pWXvypfP0FrQTVwCs) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [A Moment of Peace](https://open.spotify.com/album/5tmAu34wwfkAzZrQZZqa3M) | 2:55 | 2022-03-21 |  |
 | [Chuva](https://open.spotify.com/track/7knFmwt8bh2YmMNd4noQtd) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Chuva](https://open.spotify.com/album/4kJzbCXoNly7cLZuyFRVGW) | 1:48 | 2022-03-21 |  |
@@ -140,7 +141,8 @@
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2022-03-21 |  |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-21 |  |
 | [Twilight](https://open.spotify.com/track/4tWrqO0LQozZ8fmBN642Z3) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Twilight](https://open.spotify.com/album/6DqVZ8vsZhFFBMQ5VY9nMe) | 2:44 | 2022-03-21 |  |
-| [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 | 2022-03-21 |  |
+| [Two Soon](https://open.spotify.com/track/4pRiULkvghCp6XM3U5t2d8) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/1b56Njt19KHgniIzWNWaYf) | 5:03 | 2022-03-21 | 2022-07-29 |
+| [Two Soon](https://open.spotify.com/track/7D1WYWKWix6WOSnxbtI8sn) | [String Balloons](https://open.spotify.com/artist/3jgPCm3fQkceAaF5F8mMdF) | [One Go](https://open.spotify.com/album/2SPnHtMaCIMyg6pkU68BkZ) | 5:03 | 2022-07-08 |  |
 | [Unknown](https://open.spotify.com/track/0CBVAaE1crsiQgrYui9qEg) | [DREAMY charlie](https://open.spotify.com/artist/1UBUvukXhNixw4V7h4r808) | [Spectrum](https://open.spotify.com/album/3HUqYyfkP0i5CqCAf2m1dM) | 2:33 | 2022-03-21 |  |
 | [Vaggvisa](https://open.spotify.com/track/2swOksshgCYLGAypm1fh1v) | [Nathanael Ekström](https://open.spotify.com/artist/6qaR7CUv9sfW87JDpjqw9Y) | [Vaggvisa](https://open.spotify.com/album/2q2I0k4FPubYO3EfyaN0zO) | 1:58 | 2022-03-21 |  |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2022-03-21 | 2022-05-06 |

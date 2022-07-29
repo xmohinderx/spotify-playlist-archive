@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,505 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,632 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 34 | [Apple](https://open.spotify.com/track/1vBBPAR0hvBIBuq8NkYAUu) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis.](https://open.spotify.com/album/5udBfaGdflGiQRkL9TORN2) | 3:19 |
 | 35 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 |
 | 36 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
-| 37 | [Only You](https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Only You](https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5) | 3:14 |
+| 37 | [Only You](https://open.spotify.com/track/5MUvzjJ2XXvPZq3KU6znpP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:14 |
 | 38 | [Chicago Bae](https://open.spotify.com/track/50ID9KN4y15DZIqjIIJXkP) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Chicago Bae](https://open.spotify.com/album/5cg6sg0Qd6rEqxs2qtlSG3) | 3:11 |
 | 39 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 40 | [Play Too Much](https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Play Too Much](https://open.spotify.com/album/4POCpTZfG4JAiLDisEjfZv) | 3:17 |
 | 41 | [all of your love](https://open.spotify.com/track/0E8GYDcN69ahYTUEQMTHNr) | [Luke James](https://open.spotify.com/artist/4E7AV8mtElSjHZP3xA9kyU) | [all of your love](https://open.spotify.com/album/3HEGCuxlqu4t5AYrjwLdR8) | 3:38 |
 | 42 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
-| 43 | [Intentions](https://open.spotify.com/track/4K9cCtDfk9pr6EGFzl0ec8) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Intentions](https://open.spotify.com/album/3Ltqe8yE6rI8XuIxjGZ0In) | 3:43 |
+| 43 | [Intentions](https://open.spotify.com/track/4eI6gfUfYEK7bU6wxPcVIB) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Big Sleepover](https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q) | 3:43 |
 | 44 | [Western World](https://open.spotify.com/track/6SKQvtF2QMELjqpnAyrH6O) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Western World](https://open.spotify.com/album/5v9nVNjfCMUFjzWRiOboag) | 4:13 |
 | 45 | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/track/04jVEb76Kw5OrmGtlXlHxI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Time Alone With You \(feat\. Daniel Caesar\)](https://open.spotify.com/album/1pwXpbHvWEMH4nCAlhlwf7) | 4:15 |
-| 46 | [King James](https://open.spotify.com/track/0TtSoFrbLGjmpIgY4KgBeq) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [King James](https://open.spotify.com/album/4oLEB2ABMfxqC6mchADZp7) | 3:17 |
-| 47 | [My Side](https://open.spotify.com/track/2m0BIvy0p9oCTxDmJkzMyl) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [My Side](https://open.spotify.com/album/14Wn2OaKXs2xtm0jWEAk1B) | 3:26 |
+| 46 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 |
+| 47 | [My Side](https://open.spotify.com/track/4DB4pVDQ2JR7EuNmSsO53T) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [To Forgive](https://open.spotify.com/album/08Y2FNHDlpJsK5BPgF4teN) | 3:26 |
 | 48 | [Feel Good](https://open.spotify.com/track/0eM7kmyvr2cWFH8oNAk8FB) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [St\. Mark Rd.](https://open.spotify.com/album/7kfxdR7gPu4gi82FVxUe14) | 3:57 |
 | 49 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 50 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MTY1ODUwMTU1OSwwMDAwMDA2YTAwMDAwMTgyMjY2NTc2NTYwMDAwMDE2ZDE1MzJiMDAy`
+Snapshot ID: `MTY1ODUwMTU1OSwwMDAwMDAwMDBjNTM1NTMwMWJmZjQyNjg3MGI3NjhmYzg0NGIwNDM2`

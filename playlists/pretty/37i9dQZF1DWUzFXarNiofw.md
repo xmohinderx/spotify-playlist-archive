@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: SZA & Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 910,903 likes - 64 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,377 likes - 64 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 12 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 |
 | 13 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 |
 | 14 | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [I WANT YOU BUT YOU'LL NEVER KNOW...](https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD) | 3:50 |
-| 15 | [i](https://open.spotify.com/track/7aWcVnsMmJ23ZfCO19YYyW) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 3:12 |
+| 15 | [i](https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:12 |
 | 16 | [Friends](https://open.spotify.com/track/6r5jZYV9v3Nt9sDD9RQCpE) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Friends](https://open.spotify.com/album/7LQ1EmfKNJSvvWC5mCGuPE) | 4:10 |
 | 17 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 |
 | 18 | [Long Overdue](https://open.spotify.com/track/1tqr4YfDVX4Yp9TzWaNQUD) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:48 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 63 | [EXCHANGE](https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [EXCHANGE](https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw) | 2:54 |
 | 64 | [Blü Moon](https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Blü Moon](https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz) | 3:09 |
 
-Snapshot ID: `MTY1ODQ5OTA4OSwwMDAwMDU3MzAwMDAwMTgyMjYzZmM2NDUwMDAwMDE4MjFjNjQyODM3`
+Snapshot ID: `MTY1ODQ5OTA4OSwwMDAwMDAwMDJjODA4ZGI1ZTM5MTk5YjU4OTUwYTU2YzY5NGVjN2U1`

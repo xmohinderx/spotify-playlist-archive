@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,069 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,263 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [The God Hour](https://open.spotify.com/track/4Acntw4W2FfI7CDAIsCBjq) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Lil Black Jean Jacket 3](https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn) | 2:35 |
 | 50 | [Bobby Bitch](https://open.spotify.com/track/6j8lAie0mdUNreql5d5Ejz) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Bobby Bitch](https://open.spotify.com/album/4vramOSuKx9DJHCHswEnan) | 2:40 |
 
-Snapshot ID: `MTY1Nzc0OTU4MSwwMDAwMDAwZjAwMDAwMTgxZjk5MzJmMmEwMDAwMDE3ZjA0ZDUyYzQ3`
+Snapshot ID: `MTY1Nzc0OTU4MSwwMDAwMDAwMGFhMmU3OTk3Y2YzNzkxMjFkNjJjOTA4ODQ3OWIyMWE4`

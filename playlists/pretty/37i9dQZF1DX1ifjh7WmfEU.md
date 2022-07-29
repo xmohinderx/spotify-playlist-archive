@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 
 > Piano music for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,021 likes - 144 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,050 likes - 144 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 3 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 |
 | 4 | [Me Donner Un Essai](https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Me Donner Un Essai](https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue) | 1:57 |
 | 5 | [Clear Day](https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Clear Day](https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH) | 2:45 |
-| 6 | [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 |
+| 6 | [Lyra](https://open.spotify.com/track/2SzsBwBFIiPquJXYAjPobX) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/5L3UdjWZwLklOtFkA1VDNF) | 2:45 |
 | 7 | [Ocean View](https://open.spotify.com/track/6TeajBISE83AbcnnhMmvhN) | [Amalou](https://open.spotify.com/artist/0Fa4owCW21dPiAF9bLUMKZ) | [Ocean View](https://open.spotify.com/album/2CUiHuVgbGODA8cgxV2yUB) | 3:00 |
 | 8 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 |
 | 9 | [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 52 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 |
 | 53 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 |
 | 54 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
-| 55 | [Sincerely](https://open.spotify.com/track/0ZcOyuTyRRZ6c7ZH1kPyXr) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/5kmRHZ0leaOMvS9RHCQmJG) | 2:09 |
+| 55 | [Sincerely](https://open.spotify.com/track/37118DI0c687jeVzVJ7PpU) | [Thomas Erwin](https://open.spotify.com/artist/72Ojcdg0bCLAURS3HTWEDm) | [Sincerely](https://open.spotify.com/album/514tfPgBudvUqz3bM5AgYt) | 2:09 |
 | 56 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 |
 | 57 | [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 |
 | 58 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 65 | [Insouciance](https://open.spotify.com/track/5iXYIu04vkN1pT11qqKBM9) | [Sarah Coponat](https://open.spotify.com/artist/58O8ofa5HggGnIPuu3Oo7U) | [Insouciance](https://open.spotify.com/album/2a50JLyn7zSyXwUVWI5Mrl) | 2:03 |
 | 66 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 |
 | 67 | [Resplendence](https://open.spotify.com/track/5k9AFzNbx9ODY0VRgz3uWw) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Resplendence](https://open.spotify.com/album/4Bz9JY3wKoFL6zAAIL5uat) | 2:54 |
-| 68 | [Ichi](https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/4wPcgep4roXHBItiHY6YXc) | 3:00 |
+| 68 | [Ichi](https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/2iN6rDyhD5EDMx8gWJkZXP) | 3:00 |
 | 69 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 |
 | 70 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 |
 | 71 | [Se Réveiller](https://open.spotify.com/track/5NZHO5vtIllEHntPiTwfwd) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Se Réveiller](https://open.spotify.com/album/6zGXtuaQh1J6UHyd2Su7zt) | 3:03 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ifjh7WmfEU.md) - [plain]
 | 143 | [Santa Cruz](https://open.spotify.com/track/75b0f1695j8tRmXL6cvtmb) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Santa Cruz](https://open.spotify.com/album/49uampA9yQFlptFHMpghab) | 3:57 |
 | 144 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 
-Snapshot ID: `MTY1ODkyNTg1MCwwMDAwMDA1ZDAwMDAwMTgyM2ZhZjllZmQwMDAwMDE4MjNmYWY0NzQ1`
+Snapshot ID: `MTY1ODkyNTg1MCwwMDAwMDAwMDkyMjVkM2M2YTE5NjNkYzVhNzgzYTc0YzExZTI1Mzhk`

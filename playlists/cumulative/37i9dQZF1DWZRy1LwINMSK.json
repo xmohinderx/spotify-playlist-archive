@@ -247,6 +247,24 @@
     {
       "album": {
         "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177073,
+      "name": "Asueto",
+      "url": "https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm"
+    },
+    {
+      "album": {
+        "name": "S.U.N.O",
         "url": "https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF"
       },
       "artists": [
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177073,
       "name": "Asueto",
       "url": "https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za"
@@ -348,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Las Cr\u00f3nicas de Ngangu",
+        "url": "https://open.spotify.com/album/2fk8VUTdS2sYc8HYyPozRE"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223750,
+      "name": "Brokeboi",
+      "url": "https://open.spotify.com/track/0EoolsXtSPPpapygXOv9BU"
+    },
+    {
+      "album": {
         "name": "Las Cr\u00f3nicas De Ngangu",
         "url": "https://open.spotify.com/album/7Lj5OzGoQBzSb4PeghYlLp"
       },
@@ -359,7 +395,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223750,
       "name": "Brokeboi",
       "url": "https://open.spotify.com/track/6go2VEJUSmwls8c3a8aggf"
@@ -489,10 +525,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196694,
       "name": "Como Lo So\u00f1amos",
       "url": "https://open.spotify.com/track/73MxLebHswOiNzYqHlKDW9"
+    },
+    {
+      "album": {
+        "name": "Como Lo So\u00f1amos",
+        "url": "https://open.spotify.com/album/2kIi0RG1UBF33p5FiWoTHb"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Como Lo So\u00f1amos",
+      "url": "https://open.spotify.com/track/41pHCnygRX0uSLjX27uIqa"
     },
     {
       "album": {
@@ -2005,7 +2059,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169448,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/6o1xsjjF4rexpcfkafwec0"
@@ -2127,6 +2181,36 @@
     {
       "album": {
         "name": "Tate Pendiente",
+        "url": "https://open.spotify.com/album/7BOd9ehLDu0EeAOudjwlKO"
+      },
+      "artists": [
+        {
+          "name": "Papi Trujillo",
+          "url": "https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Pochi",
+          "url": "https://open.spotify.com/artist/7wbgA4GKIqnYmnUUJbRdrb"
+        },
+        {
+          "name": "GoldChains",
+          "url": "https://open.spotify.com/artist/2kLiB5H38ap10iGLQRV8SG"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Tate Pendiente",
+      "url": "https://open.spotify.com/track/4205hBquJ1hJUjwHXxgyrW"
+    },
+    {
+      "album": {
+        "name": "Tate Pendiente",
         "url": "https://open.spotify.com/album/48UG8Wc8ive3y286gpIT7Q"
       },
       "artists": [
@@ -2149,7 +2233,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214925,
       "name": "Tate Pendiente",
       "url": "https://open.spotify.com/track/4vr04s6ObXgqnpmohQ7RRq"
@@ -2175,6 +2259,28 @@
     {
       "album": {
         "name": "Tierra y Venus",
+        "url": "https://open.spotify.com/album/6Rd9WfSOzBTvNF8RaLaCDA"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Tierra y Venus",
+      "url": "https://open.spotify.com/track/5p9qC7CUghVEBPObrkLP1c"
+    },
+    {
+      "album": {
+        "name": "Tierra y Venus",
         "url": "https://open.spotify.com/album/4IqS69vK7500PsECB82x2W"
       },
       "artists": [
@@ -2189,7 +2295,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226280,
       "name": "Tierra y Venus",
       "url": "https://open.spotify.com/track/5pKau7iaikQaYX1jprFht0"
@@ -2295,10 +2401,36 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217730,
       "name": "Truquitos Pa Verme",
       "url": "https://open.spotify.com/track/1IFIKSb1sL9fq2ZzKrW6xC"
+    },
+    {
+      "album": {
+        "name": "Truquitos Pa Verme",
+        "url": "https://open.spotify.com/album/5betxhFozxZ6NVvS4kt1Pu"
+      },
+      "artists": [
+        {
+          "name": "area3",
+          "url": "https://open.spotify.com/artist/2A48K9DM2YIGuaG7zV726Z"
+        },
+        {
+          "name": "Alex D",
+          "url": "https://open.spotify.com/artist/1b83QsnZFe3kwjmaExNMAM"
+        },
+        {
+          "name": "Likestyle",
+          "url": "https://open.spotify.com/artist/0ALRVBP9v3BpRxC4vgaeRN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219711,
+      "name": "Truquitos Pa Verme",
+      "url": "https://open.spotify.com/track/2HahVUyXYzllUgxzpfyILF"
     },
     {
       "album": {
@@ -2441,10 +2573,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154991,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/306litzTzjMQqyXlF9HxHd"
+    },
+    {
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154991,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/3CV6tcIs0tqW3aJtu6THaM"
     },
     {
       "album": {
@@ -2525,6 +2675,28 @@
     {
       "album": {
         "name": "Vivo Como Quiero",
+        "url": "https://open.spotify.com/album/5KttP33PxDtk4076lN1h6e"
+      },
+      "artists": [
+        {
+          "name": "Carlitos Junior",
+          "url": "https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182892,
+      "name": "Vivo Como Quiero",
+      "url": "https://open.spotify.com/track/7JK8Z5ETSuzCaEW2SkQhV4"
+    },
+    {
+      "album": {
+        "name": "Vivo Como Quiero",
         "url": "https://open.spotify.com/album/1d4mn0erQfeC5TJg7x6YfT"
       },
       "artists": [
@@ -2539,7 +2711,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183050,
       "name": "Vivo Como Quiero",
       "url": "https://open.spotify.com/track/4Zop3VgmXAkUXqzNZqqOzn"
@@ -2568,6 +2740,40 @@
     },
     {
       "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/5CPoCagiLaJlU3ILJ65FdY"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "H Empire",
+          "url": "https://open.spotify.com/artist/5NrnVIh7EqdzSFQpWmxZUH"
+        },
+        {
+          "name": "Delay Lama",
+          "url": "https://open.spotify.com/artist/4jGrj8pcC0gKQTRB968V8P"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223020,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/1XePyPToFkWPaqa4kksAbu"
+    },
+    {
+      "album": {
         "name": "V\u00e1monos (feat. Nfx & DrefQuila)",
         "url": "https://open.spotify.com/album/1L0NO0pTkL7XXjgiSi31Wj"
       },
@@ -2587,7 +2793,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223020,
       "name": "V\u00e1monos (feat. Nfx & DrefQuila)",
       "url": "https://open.spotify.com/track/7AqH0htxZWaGcSBExgUlXV"

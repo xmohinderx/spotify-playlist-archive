@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: dvsn
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,914 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,937 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 48 | [Summertime](https://open.spotify.com/track/0WBBh6JTY5ckeZI2f6SIbz) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Summertime](https://open.spotify.com/album/6ybhLR9ftltyxSig8KsDXy) | 3:29 |
 | 49 | [Birds of a Feather \(feat\. Ashleigh Ball\)](https://open.spotify.com/track/38JRSBIHNomRQpxuuA3wc4) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh), [Ashleigh Ball](https://open.spotify.com/artist/1rJcBvUoAMPLfQN0ua01ZA) | [Birds of a Feather \(feat\. Ashleigh Ball\) / Beyond Four Walls](https://open.spotify.com/album/6iqBtCEtRTPnkeKlXz8fDi) | 3:59 |
 | 50 | [Forgive Me \(feat\. Izzy Bizu\)](https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:28 |
-| 51 | [Weeds](https://open.spotify.com/track/0V8goaHiomq5tSniH4GWQt) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Weeds](https://open.spotify.com/album/6r83JgayrMdKgfGDmmvt2y) | 3:22 |
+| 51 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 52 | [80 90 \- Spotify Singles](https://open.spotify.com/track/2Xh7UWFpUNLpVfY420u7c3) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Spotify Singles](https://open.spotify.com/album/2amvrQLu6W6CHTRhe2YImN) | 4:05 |
 | 53 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 |
 | 54 | [Memory Lane](https://open.spotify.com/track/0BCNSmIcyYpFd62IucNCbB) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Memory Lane](https://open.spotify.com/album/67hR1a7A7BwmSTrjCU20td) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Coffee & You](https://open.spotify.com/track/6uAOOuOt5PyhCDjc4aUOTX) | [august brodie](https://open.spotify.com/artist/0aIzyzaRQYsWCtzfNKBiui) | [Coffee & You](https://open.spotify.com/album/4pF87VYlVMRisbAlV61FUp) | 2:12 |
 | 100 | [Madonna \- Edit](https://open.spotify.com/track/2aWtTYCmZttOM48q7Lb7Gf) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Madonna](https://open.spotify.com/album/3xEyIYcWKxgs6JH4IJD85p) | 3:38 |
 
-Snapshot ID: `MTY1ODUwMDA1MywwMDAwMDJlNzAwMDAwMTgyMjY0ZTc5YWEwMDAwMDE4MjIyOWNhZTA0`
+Snapshot ID: `MTY1ODUwMDA1MywwMDAwMDAwMDQ4YmVhMmE0NzcwZjE4NjNlNmFiOWI4ZmZmYWFjN2Qy`

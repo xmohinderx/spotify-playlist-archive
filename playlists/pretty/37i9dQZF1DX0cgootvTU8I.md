@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,577 likes - 89 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,614 likes - 89 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,19 +26,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 16 | [BMW Track](https://open.spotify.com/track/0gpMU1RQvZdPLLp8wpJzBF) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [BMW Track / So U Kno](https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt) | 7:23 |
 | 17 | [Consume Me](https://open.spotify.com/track/66BFj1k8VthfvDWY1e0PUp) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 3:17 |
 | 18 | [Shhh](https://open.spotify.com/track/1N6FeBvfd4a8s4aGx1NxT2) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Pulling Teeth](https://open.spotify.com/album/3KSdfgM7AbMcbFDMTq0cbU) | 3:58 |
-| 19 | [LA](https://open.spotify.com/track/11dDBAYvh97embjsF3qEK0) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Won't U / LA](https://open.spotify.com/album/76cHJ6oDPqYpf3HaaNlvUN) | 4:30 |
+| 19 | [LA](https://open.spotify.com/track/66WrKlrNWu3GAGerC3W59U) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Won't U / LA](https://open.spotify.com/album/2qcoRLFUcc0boZmkEyZHL9) | 4:30 |
 | 20 | [MTX In the RS](https://open.spotify.com/track/6CW2KMV0cptgI8H3rZEUXK) | [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [MTX In the RS](https://open.spotify.com/album/0GoMvmVdmE2kDsDeX9Ky2V) | 5:30 |
 | 21 | [Flep](https://open.spotify.com/track/42WlfhhpnZcoxx8bGhYSbm) | [Mitekiss](https://open.spotify.com/artist/1yOKWVERbo2WSQb9kcsNbH) | [Flep](https://open.spotify.com/album/19s53RB2jgtMVyClpSv8es) | 2:56 |
 | 22 | [Skrrrrr](https://open.spotify.com/track/43GXTiZjRqGoGlLvddtyRv) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Skrrrrr EP](https://open.spotify.com/album/2bWQF1wLD3GepnShL3oT1c) | 3:55 |
 | 23 | [Keep Up](https://open.spotify.com/track/1tBDA0pRMz4YZ0vialUuBS) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs), [SP:MC](https://open.spotify.com/artist/1YLeUsNujSB7Fp1tnCWZi2) | [Keep Up](https://open.spotify.com/album/5qr55cE8aHiPVwlAzh0Sdn) | 4:27 |
 | 24 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 25 | [Infrasound](https://open.spotify.com/track/1Q2oiVvZ0DTdd2lBLiPULV) | [Spectre](https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c) | [Infrasound](https://open.spotify.com/album/5TjvVmeJULJUSSWMZUL8US) | 4:59 |
+| 25 | [Infrasound](https://open.spotify.com/track/1CRorGbPh3yiMlENqQYX6s) | [Spectre](https://open.spotify.com/artist/1WwDMZS8uPVbqyeujblu8c) | [Infrasound](https://open.spotify.com/album/1Z0JNGkLgVQVhXU3ZlhGD4) | 4:59 |
 | 26 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
 | 27 | [Burning Babylon](https://open.spotify.com/track/1WNMQpJyz6U9G0rrscRQH9) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Burning Babylon](https://open.spotify.com/album/5cXqAiqBUuBmBYws3GWkow) | 4:52 |
 | 28 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
 | 29 | [Tell Dem](https://open.spotify.com/track/6RZhTyaAILaiIH5LO9vv8z) | [Sage](https://open.spotify.com/artist/16UhH9qadhcnH1YpaJnKcx), [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k) | [Tell Dem](https://open.spotify.com/album/3Ex8u7oUHOUFL6IQFGmQb6) | 4:02 |
-| 30 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 |
-| 31 | [Good Time](https://open.spotify.com/track/5BpypPrHuuAvFeZ1LtUgzQ) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/50aLwBuEQ2bU1bSm2KXyFd) | 4:37 |
+| 30 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 |
+| 31 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
 | 32 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
 | 33 | [Momofuku](https://open.spotify.com/track/1Ple5T9u981z3BErGUxBxV) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Momofuku](https://open.spotify.com/album/10XaG82hlhYBT9EcxSiuMF) | 4:50 |
 | 34 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 88 | [All the Time](https://open.spotify.com/track/29medaTijeF8nnq85prKuG) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Comfort Zone](https://open.spotify.com/artist/18vGijDYHI9NWRnZxI8B89) | [Banoffee Pies White Label Series 01](https://open.spotify.com/album/6p4pRZKzRQv71uJ6yVjKSX) | 6:06 |
 | 89 | [Let It Slide](https://open.spotify.com/track/45CXdDHgb5u5oylgMa13RJ) | [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Let It Slide / I Don't Know What The Future Brings](https://open.spotify.com/album/58t3SDOmzGkRR5386CH1k8) | 4:11 |
 
-Snapshot ID: `MTY1MTc1OTY4MSwwMDAwMDAwYzAwMDAwMTgwOTQ4YzhmMTEwMDAwMDE3Yzc5OThiMjY4`
+Snapshot ID: `MTY1MTc1OTY4MSwwMDAwMDAwMGU5YjhjYThiNjk3MjM4NmUyZmMxYTdjYmNjZDFhOTM0`

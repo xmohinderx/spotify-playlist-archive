@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 229800,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227520,
       "name": "Borracho Drunk Steady Beer",
       "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 279849,
       "name": "C\u00f3mo Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/6nQE34XyP1UwtvaNoqBsyR"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/6r73gMODmuQgBgYon2Suuo"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 296355,
       "name": "El Dejado",
       "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"
@@ -619,10 +619,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "album": {
@@ -785,10 +803,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157466,
       "name": "Estambul Ska",
       "url": "https://open.spotify.com/track/28crGPhhYX7xEQJhj40PCE"
+    },
+    {
+      "album": {
+        "name": "Ska, Vol. 2",
+        "url": "https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157675,
+      "name": "Estambul Ska",
+      "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
     },
     {
       "album": {
@@ -875,10 +911,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135626,
       "name": "Jamaica Ska",
       "url": "https://open.spotify.com/track/1dHHOMzAF9aFj0tYrX05XB"
+    },
+    {
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135810,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/0TC4bsmObl4K0tbI5IFcTD"
     },
     {
       "album": {
@@ -987,7 +1041,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
@@ -1023,7 +1077,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3"
@@ -1059,7 +1113,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239693,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy"
@@ -1337,10 +1391,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153652,
       "name": "M\u00e9rida Ska",
       "url": "https://open.spotify.com/track/2CT6XYuOhOIJPjIWDrhYQf"
+    },
+    {
+      "album": {
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153861,
+      "name": "M\u00e9rida Ska",
+      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
     },
     {
       "album": {
@@ -1435,10 +1507,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217800,
       "name": "Ni un paso atras",
       "url": "https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F"
+    },
+    {
+      "album": {
+        "name": "Canciones de Carretera: Conducir Por Espa\u00f1a",
+        "url": "https://open.spotify.com/album/1B7nU2MOVmYdivGbfhoBj9"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Ni un paso atras",
+      "url": "https://open.spotify.com/track/18IS6FcCXbJODmeWrM7uAf"
     },
     {
       "album": {
@@ -1837,7 +1927,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133080,
       "name": "Si Tu Boquito Fuera",
       "url": "https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW"
@@ -1903,7 +1993,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217773,
       "name": "Skapate",
       "url": "https://open.spotify.com/track/0mGNPivC5BpTowR3NF45bD"
@@ -2175,7 +2265,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239666,
       "name": "Tanto amor me marea",
       "url": "https://open.spotify.com/track/4jGSfblxObklndcGJprEoa"
@@ -2211,7 +2301,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 213813,
       "name": "Toloache Pa Mi Negra",
       "url": "https://open.spotify.com/track/1WMD4z3lsY6RDRDpXR9A47"
@@ -2229,10 +2319,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213813,
       "name": "Toloache Pa' Mi Negra",
       "url": "https://open.spotify.com/track/1lXaFoSpPIaqXVRSRc6OOk"
+    },
+    {
+      "album": {
+        "name": "De parranda",
+        "url": "https://open.spotify.com/album/73X0aOzw7Q120vKne5tt3e"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2TdZdQmQ0zMmzav6f8Gkn5"
     },
     {
       "album": {
@@ -2247,7 +2355,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196093,
       "name": "Total",
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"

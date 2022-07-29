@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
@@ -207,7 +225,7 @@
     {
       "album": {
         "name": "California",
-        "url": "https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC"
+        "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
       },
       "artists": [
         {
@@ -218,6 +236,24 @@
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 167094,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/1og5RxTX9bM7v7yw5qOFqC"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mitchell",
+          "url": "https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9"
@@ -325,10 +361,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165760,
       "name": "Darlin' Don't",
       "url": "https://open.spotify.com/track/5OhmXu30aRLsWWMxjIVi4c"
+    },
+    {
+      "album": {
+        "name": "Man On The Roof",
+        "url": "https://open.spotify.com/album/5Y8eHIc4FrBeZwHqSzD0hH"
+      },
+      "artists": [
+        {
+          "name": "Stephen Fretwell",
+          "url": "https://open.spotify.com/artist/6xdlt4biT0b4DKB3DMAfoj"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Darlin' Don't",
+      "url": "https://open.spotify.com/track/7AiSsmjgMnO4bvJYdDkUhy"
     },
     {
       "album": {
@@ -455,10 +509,32 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217864,
       "name": "Fast Car - Acoustic",
       "url": "https://open.spotify.com/track/618v3huzqDQQBfMogznSb3"
+    },
+    {
+      "album": {
+        "name": "Greatest Covers Ever",
+        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217864,
+      "name": "Fast Car - Acoustic",
+      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
     },
     {
       "album": {
@@ -481,6 +557,24 @@
     {
       "album": {
         "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+    },
+    {
+      "album": {
+        "name": "From Now On",
         "url": "https://open.spotify.com/album/74W6K2vDRhPEtjqbgnAoVL"
       },
       "artists": [
@@ -491,10 +585,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242746,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/6lRXBamqNKFVKBRf7aBp31"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "album": {
@@ -509,7 +621,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
@@ -809,6 +921,24 @@
     {
       "album": {
         "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214786,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/3rocTBn0NsGrVAHGOZNzH5"
+    },
+    {
+      "album": {
+        "name": "We Don't Eat EP",
         "url": "https://open.spotify.com/album/03PET5SB0u5YLHrROp1WsL"
       },
       "artists": [
@@ -819,7 +949,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214786,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/5ita5p8yV0UbQNuCXNZQgM"
@@ -953,10 +1083,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166438,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/37N5kMRSKMZ51e7z2C9TLy"
+    },
+    {
+      "album": {
+        "name": "Sunshine on a Cloudy Day",
+        "url": "https://open.spotify.com/album/3EgPYI4IKI0YWHVPdDV8NF"
+      },
+      "artists": [
+        {
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166438,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/4unFohIcd9kN5SeeYrqtXk"
     },
     {
       "album": {
@@ -1051,6 +1199,24 @@
     {
       "album": {
         "name": "Iris",
+        "url": "https://open.spotify.com/album/3IPuJNlxmL7CVT3DA0TBth"
+      },
+      "artists": [
+        {
+          "name": "Michael Constantino",
+          "url": "https://open.spotify.com/artist/5RIA0Nu4LvmOvomuo99oIJ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204738,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/31Nyfw6uXmIB6qPUMHZs9N"
+    },
+    {
+      "album": {
+        "name": "Iris",
         "url": "https://open.spotify.com/album/1iELy8aDaoOv1DE3Zl2oUi"
       },
       "artists": [
@@ -1061,7 +1227,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204738,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yNdyVqnK95Tw4yZCEZBIX"
@@ -1123,6 +1289,24 @@
     {
       "album": {
         "name": "& Covers",
+        "url": "https://open.spotify.com/album/78Fl6oqSvF7jm7QuDsLOo2"
+      },
+      "artists": [
+        {
+          "name": "Cattle & Cane",
+          "url": "https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218175,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5Pz3fsfmozPwGTXOZzVt1L"
+    },
+    {
+      "album": {
+        "name": "& Covers",
         "url": "https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN"
       },
       "artists": [
@@ -1133,7 +1317,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218175,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r"
@@ -1313,10 +1497,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240195,
       "name": "New Slang",
       "url": "https://open.spotify.com/track/3GkL6as11lsXOHLQOLvUod"
+    },
+    {
+      "album": {
+        "name": "New Slang",
+        "url": "https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y"
+      },
+      "artists": [
+        {
+          "name": "Big Love and Little Hollywood",
+          "url": "https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240195,
+      "name": "New Slang",
+      "url": "https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe"
     },
     {
       "album": {
@@ -1451,6 +1653,28 @@
     {
       "album": {
         "name": "People, Turn Around",
+        "url": "https://open.spotify.com/album/2kxEB6jtPIeZlNOZkUvSAC"
+      },
+      "artists": [
+        {
+          "name": "Billy Allen",
+          "url": "https://open.spotify.com/artist/3VNE2RRYAlEARq4BLodRTO"
+        },
+        {
+          "name": "The Pollies",
+          "url": "https://open.spotify.com/artist/598trStGjYePaRmeDHip8u"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410329,
+      "name": "People, Turn Around",
+      "url": "https://open.spotify.com/track/4BnR951eUWjZX2A3DQNiiI"
+    },
+    {
+      "album": {
+        "name": "People, Turn Around",
         "url": "https://open.spotify.com/album/7AhTcT99Y1Ept2ZcM2Q43s"
       },
       "artists": [
@@ -1465,10 +1689,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 410329,
       "name": "People, Turn Around",
       "url": "https://open.spotify.com/track/6ClQBXNubAOMjQgJxhz2Oe"
+    },
+    {
+      "album": {
+        "name": "Last Smoke Before the Snowstorm",
+        "url": "https://open.spotify.com/album/2V5uxReEmjn0j5tAG6oHI0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah"
     },
     {
       "album": {
@@ -1483,7 +1725,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179346,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2FlG7RSmCD0e3uvSNzdiMe"
@@ -1508,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Hard Settle, Ain't Troubled",
+        "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203869,
+      "name": "Portland, Maine",
+      "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+    },
+    {
+      "album": {
         "name": "Portland, Maine",
         "url": "https://open.spotify.com/album/1JdFJfWFPgE8UWUOd3R2gm"
       },
@@ -1519,7 +1779,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203893,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/6u1E03WKp0QsOfK5FEzzGr"
@@ -1537,10 +1797,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152357,
       "name": "positions - Acoustic",
       "url": "https://open.spotify.com/track/0vcQ2pIVpCjda0peOjOXP1"
+    },
+    {
+      "album": {
+        "name": "positions (Acoustic)",
+        "url": "https://open.spotify.com/album/0MDeIBghODZkcjb9F3KRSp"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152357,
+      "name": "positions - Acoustic",
+      "url": "https://open.spotify.com/track/1Ca0BlORhLRm0Z3F66gh5t"
     },
     {
       "album": {
@@ -1747,10 +2025,32 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197227,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/0oJdAKfEck3cQxi28lExu2"
+    },
+    {
+      "album": {
+        "name": "Save Me from Myself",
+        "url": "https://open.spotify.com/album/4CaPBj0KseqE1HfB2f8Dil"
+      },
+      "artists": [
+        {
+          "name": "Julien Manaud",
+          "url": "https://open.spotify.com/artist/0lMBZbZTldvvkoXmzExY6f"
+        },
+        {
+          "name": "Alexis Dumais",
+          "url": "https://open.spotify.com/artist/0OyCCkPg57myMPlxOO2zXY"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197227,
+      "name": "Save Me from Myself",
+      "url": "https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP"
     },
     {
       "album": {
@@ -1783,10 +2083,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141880,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/4nYxHYLezGh4WWuEEjIoPs"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/5l4P7N8kapeqHFOysjbj3H"
+      },
+      "artists": [
+        {
+          "name": "NIGHT FLIGHT",
+          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141880,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/731dSbCulpvDSrbqqCX8Az"
     },
     {
       "album": {
@@ -1873,10 +2191,28 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326002,
       "name": "Sink",
       "url": "https://open.spotify.com/track/5Z4zJH6Z3cntnr5hRvptXB"
+    },
+    {
+      "album": {
+        "name": "Sink",
+        "url": "https://open.spotify.com/album/7n6OTr4FWWreKfj7R47uyk"
+      },
+      "artists": [
+        {
+          "name": "Elkvilla",
+          "url": "https://open.spotify.com/artist/3i8HbRFV4MShCZTOrdYZWz"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326002,
+      "name": "Sink",
+      "url": "https://open.spotify.com/track/5g759dIqVspdTQ8PKnAiqE"
     },
     {
       "album": {
@@ -1939,6 +2275,24 @@
     {
       "album": {
         "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "album": {
+        "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
       "artists": [
@@ -1949,7 +2303,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
@@ -2137,6 +2491,24 @@
     {
       "album": {
         "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+    },
+    {
+      "album": {
+        "name": "Tomb",
         "url": "https://open.spotify.com/album/0H3WQSbJ7SgZtB35BEOP9P"
       },
       "artists": [
@@ -2147,7 +2519,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236819,
       "name": "Time",
       "url": "https://open.spotify.com/track/4oU6HYNtuW2DzjgyYrOy8J"

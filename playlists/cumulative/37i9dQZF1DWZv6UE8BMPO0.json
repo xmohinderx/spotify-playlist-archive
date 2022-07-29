@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Christmas Meets Jazz",
+        "url": "https://open.spotify.com/album/4DIxYBpOVMQGxK8BKYrUgJ"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Tateishi Trio",
+          "url": "https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Jolly Old Saint Nicholas",
+      "url": "https://open.spotify.com/track/3rEK1zgBRES9twQz0Cqqi5"
+    },
+    {
+      "album": {
         "name": "Christmas meets Jazz",
         "url": "https://open.spotify.com/album/2VsPkNzP7Cur70oIqATTPA"
       },
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290693,
       "name": "Jolly Old Saint Nicholas",
       "url": "https://open.spotify.com/track/50mhd6xVp1pfSxLbV1G9Kl"

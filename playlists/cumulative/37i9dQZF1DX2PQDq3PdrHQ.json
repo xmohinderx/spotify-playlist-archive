@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Anubi",
+        "url": "https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG"
+      },
+      "artists": [
+        {
+          "name": "DNH Missile",
+          "url": "https://open.spotify.com/artist/1TLVJpSimMMm35fNj4x0lO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Anubi",
+      "url": "https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c"
+    },
+    {
+      "album": {
         "name": "Artifact",
         "url": "https://open.spotify.com/album/21Z8K7bbSZnLKRG7NHoZxb"
       },
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121764,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6FKKapoOHeVdJZ8GK6Uggf"
@@ -243,6 +261,24 @@
       "duration_ms": 138352,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/5t5BmOhtdM7SJU36n4vtdS"
+    },
+    {
+      "album": {
+        "name": "bread timer",
+        "url": "https://open.spotify.com/album/2KWvj66QMKOylLCjfr7GDk"
+      },
+      "artists": [
+        {
+          "name": "skwabble",
+          "url": "https://open.spotify.com/artist/2nXpiS1kIldCqmgGtYpPvr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91022,
+      "name": "bread timer",
+      "url": "https://open.spotify.com/track/1LEMyrWFF9OP6C2V4b7tdv"
     },
     {
       "album": {
@@ -724,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Vanish into the Sky",
+        "url": "https://open.spotify.com/album/2WzPmGFAI0VH1HitLOfU60"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145079,
+      "name": "Despite the Falling Rain",
+      "url": "https://open.spotify.com/track/0B0evj9COrmp8QklJ8wOxs"
+    },
+    {
+      "album": {
         "name": "Despite the Falling Rain",
         "url": "https://open.spotify.com/album/7dqyqtb2PZF8iMFlEQQPn2"
       },
@@ -735,7 +789,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145079,
       "name": "Despite the Falling Rain",
       "url": "https://open.spotify.com/track/2lSUiEOYZxFfBZNjqeaCtT"
@@ -1575,10 +1629,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 139139,
       "name": "In Another World",
       "url": "https://open.spotify.com/track/3B4IYZc5fU9JYX6JCmyCun"
+    },
+    {
+      "album": {
+        "name": "Vanish into the Sky",
+        "url": "https://open.spotify.com/album/2WzPmGFAI0VH1HitLOfU60"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139139,
+      "name": "In Another World",
+      "url": "https://open.spotify.com/track/6wDycqcHVo3MNiUTcCrfS9"
     },
     {
       "album": {
@@ -2749,7 +2821,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191384,
       "name": "otro",
       "url": "https://open.spotify.com/track/35JZvq1urpfpokZF4FtggR"
@@ -3105,6 +3177,32 @@
       "duration_ms": 137580,
       "name": "roadtrip",
       "url": "https://open.spotify.com/track/70Kjb1MyC82FjzhiPiBPU4"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4Jrb0JkxPR6TIeDTgS1eQR"
+      },
+      "artists": [
+        {
+          "name": "Elsei",
+          "url": "https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo"
+        },
+        {
+          "name": "Nice Pajamas",
+          "url": "https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/2pXcmoCWm36Z9AefDRBfOi"
     },
     {
       "album": {
@@ -3669,7 +3767,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142784,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8"
@@ -3899,6 +3997,24 @@
       "duration_ms": 138301,
       "name": "Through the Streets",
       "url": "https://open.spotify.com/track/2f2QZvcV1qvgz8tiQ3xc6G"
+    },
+    {
+      "album": {
+        "name": "Tinkerer",
+        "url": "https://open.spotify.com/album/4FyPos8muBshzBWUqHburL"
+      },
+      "artists": [
+        {
+          "name": "Svedje",
+          "url": "https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Tinkerer",
+      "url": "https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo"
     },
     {
       "album": {
@@ -4265,10 +4381,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 144666,
       "name": "You Find Home",
       "url": "https://open.spotify.com/track/1UXcQC5oQbiRrcb4K9W8Ty"
+    },
+    {
+      "album": {
+        "name": "Vanish into the Sky",
+        "url": "https://open.spotify.com/album/2WzPmGFAI0VH1HitLOfU60"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "You Find Home",
+      "url": "https://open.spotify.com/track/5VZIbQtw707N7WoY67nHIM"
     },
     {
       "album": {

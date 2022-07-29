@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-27",
   "description": "<a href=\"spotify:artist:5tYqFEuFELxnJZgGmmsfSh\">Catz 'n Dogz</a>' favorite tracks. Updated regularly. Curated by Catz 'n Dogz. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
   "name": "Catz 'n Dogz' track IDs",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "35BxVuk2IVvbzeuyIpcjEy"
+  ],
   "tracks": [
     {
       "album": {
@@ -586,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Happy Little Accidents",
+        "url": "https://open.spotify.com/album/3r64AULLsX50hfDD73vT4r"
+      },
+      "artists": [
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379133,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/3TGCNpRBC3zSKNlGPJZocA"
+    },
+    {
+      "album": {
         "name": "Happy Little Accidents, Pt. 1",
         "url": "https://open.spotify.com/album/7leAwD3lWZ4sX74IVkxNc0"
       },
@@ -597,7 +617,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 379133,
       "name": "In Between",
       "url": "https://open.spotify.com/track/4bK3QPAhLkPlnovNcyVPB5"
@@ -1215,10 +1235,28 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 380839,
       "name": "To the Right",
       "url": "https://open.spotify.com/track/3HeSdVn7ffskl9qFjMKnsx"
+    },
+    {
+      "album": {
+        "name": "Volume 2",
+        "url": "https://open.spotify.com/album/69bEGDBxxbbSjsKE9qk2mB"
+      },
+      "artists": [
+        {
+          "name": "Transitive Elements",
+          "url": "https://open.spotify.com/artist/04i3qUlQHYQk8jNEaj6Hfb"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380839,
+      "name": "To the Right",
+      "url": "https://open.spotify.com/track/5khY81g7xPfzj43TzzkfBT"
     },
     {
       "album": {

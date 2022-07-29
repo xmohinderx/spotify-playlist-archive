@@ -4,7 +4,7 @@
 
 > In partnership with <a href ="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-107 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
+108 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [T5](https://open.spotify.com/track/5pgzFZFM60GvbnbBwvq98p) | [Swet Shop Boys](https://open.spotify.com/artist/3ah2OYM4PbK5p1XIS5HfGD), [Riz Ahmed](https://open.spotify.com/artist/5R8TntIOEwJcu4NnhGi8KW), [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu) | [Cashmere](https://open.spotify.com/album/0wL2jTDIlsPrvwEm7Le0ML) | 2:27 | 2022-05-18 | 2022-07-13 |
 | [Tabahi](https://open.spotify.com/track/3BApUOeS8cihFTyoMKQTVk) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Tabahi](https://open.spotify.com/album/2Od4IVeYxEW6dVG4KZwRYs) | 2:48 | 2022-05-18 | 2022-07-13 |
 | [Talk](https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Talk](https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV) | 2:38 | 2022-05-18 | 2022-07-13 |
-| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-18 |  |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-18 | 2022-07-29 |
+| [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-12 |  |
 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 | 2022-05-18 | 2022-07-13 |
 | [The Weekend](https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [The Weekend](https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq) | 2:47 | 2022-05-18 | 2022-07-13 |
 | [The Weekend \- MILLI Remix](https://open.spotify.com/track/1XVQu6SXMMEJ3nc9BOGhgk) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [The Weekend \(MILLI Remix\)](https://open.spotify.com/album/4d6HwJXZUDUPC46qWPwTbq) | 2:48 | 2022-07-12 |  |

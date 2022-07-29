@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,645 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,717 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 6 | [Better Than Me](https://open.spotify.com/track/4TJRhzksocpuGeNh8qJFT8) | [KS](https://open.spotify.com/artist/5DKEV4yJBpfHWFoqzSpNzU) | [Better Than Me](https://open.spotify.com/album/2nt2URWLUB0tMiNOpdVjsp) | 2:26 |
 | 7 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
 | 8 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
-| 9 | [Alone with You](https://open.spotify.com/track/7AK01WpnqURCRFbOX4LOHa) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 3:15 |
+| 9 | [Alone With You](https://open.spotify.com/track/0W7brFokN6QtGRNp32RCQP) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Alone With You](https://open.spotify.com/album/1nTaMUZsk7VOqjpY0WQHWb) | 3:15 |
 | 10 | [Love & Attention](https://open.spotify.com/track/1lhakluflmCQiaL4sjPMQA) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [Love & Attention](https://open.spotify.com/album/4enxFg7zaeWZvmQwZSg5t3) | 2:37 |
 | 11 | [Elevate](https://open.spotify.com/track/0nmW4fvqTwUDjlz13MNpJU) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Elevate](https://open.spotify.com/album/4aKGX3kexucFfeBoNBxQcr) | 2:25 |
 | 12 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 18 | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/track/7IAfy3gQAOXhp2GZUUZwC6) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Popular Loner \(Remix\) \[feat\. ARZ & JBee\]](https://open.spotify.com/album/5dgLLxotbmPvWKKTDeP3au) | 2:39 |
 | 19 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
 | 20 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
-| 21 | [Novacane](https://open.spotify.com/track/6RmKXyV7UPKye1lMX9memT) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/4GkK9r315cec1U2IY3ODfq) | 3:12 |
+| 21 | [Novacane](https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA) | 3:12 |
 | 22 | [I Wanna Start My Life Again](https://open.spotify.com/track/7lYNiZgNS2Khdd4nXznIEj) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2s9x5mMnJixYOj8K3UIduO) | 2:30 |
 | 23 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
 | 24 | [Hoods Hottest](https://open.spotify.com/track/1ZX0LUTVpuh8YzbQe7WbvU) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Hoods Hottest](https://open.spotify.com/album/0NQw8iZDOn5TWIR6NUdsgC) | 3:07 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 35 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 36 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 37 | [Better With You Than On My Own](https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Better With You Than On My Own](https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7) | 2:20 |
-| 38 | [4am](https://open.spotify.com/track/4OSCSOIUKJKvWlHbwXBDah) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/1eQig2V4KTmi0LcUBU1kD9) | 3:13 |
+| 38 | [4am](https://open.spotify.com/track/3jTWd38NseaNnSuIK2Ybsp) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [4am](https://open.spotify.com/album/4E2DxZyxPcP3vWCBoXodTT) | 3:13 |
 | 39 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 40 | [My Girl \(Gemini\)](https://open.spotify.com/track/5rRWBRjLeIv9BwKgpeLrQb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/4HcQrTOX1TQMHu5QzBJJLh) | 2:33 |
 | 41 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 48 | [Change](https://open.spotify.com/track/0VxPoNX9h5HpsEgSNcHCmG) | [Adzmilli](https://open.spotify.com/artist/3A4ei4RiCL5NLy4D7RpVdk) | [Change](https://open.spotify.com/album/7CR7VDXqW18NylxV3UkIQL) | 3:18 |
 | 49 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 50 | [Ether](https://open.spotify.com/track/0IfMv5YeXCrbNJtNrlIdxS) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Ether](https://open.spotify.com/album/4k64kkyvTH0kzjjN2akVgm) | 3:05 |
-| 51 | [No Games](https://open.spotify.com/track/7IkTZBm0sT1MMW261mU7O7) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 2:33 |
-| 52 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/7x19JpxcxilHUPLbrWdpDW) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/album/0ZkZLnALuAYzd70tjy0Y9R) | 4:05 |
+| 51 | [No Games](https://open.spotify.com/track/3wpnvzQY2AKFnIvrx1o9Mf) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [No Games](https://open.spotify.com/album/6mdanK35TKkMBZDVOEAjwc) | 2:33 |
+| 52 | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/track/6ytZECedDqFmfyuoRMnaJQ) | [Isong](https://open.spotify.com/artist/1v73SfOVR7QnGw7FEnhe5Z) | [Have You Ever Heard A Love Song On Drill?](https://open.spotify.com/album/5jEmBbvQ1imzmzg37p2F98) | 4:05 |
 | 53 | [A Teen](https://open.spotify.com/track/3N23avLnmgSKQEfMPub95G) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [A Teen](https://open.spotify.com/album/53iCPeqg2JYDQPj3z4qlsi) | 3:21 |
 | 54 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
 | 55 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 |
@@ -90,15 +90,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 80 | [Never Really Mine](https://open.spotify.com/track/62K84Fv61CS9dGt7JQqDlM) | [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Dutch From The 5th](https://open.spotify.com/album/6AWCZp78ApmGVCT4UlWF9b) | 2:18 |
 | 81 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
 | 82 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
-| 83 | [6am on the Island](https://open.spotify.com/track/1TTGOYBfXgRrTrEJmifKoQ) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv) | [6am on the Island](https://open.spotify.com/album/2pLiHH0rrxCd5tOPcClRDh) | 3:25 |
+| 83 | [6AM On The Island](https://open.spotify.com/track/5m7trVw65VAc0Gs6BkF43e) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv) | [Plato](https://open.spotify.com/album/7q5gKPOCmHJmSVGHAtZwsU) | 3:20 |
 | 84 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
 | 85 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 86 | [If I knew how to save us](https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [If I knew how to save us](https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1) | 2:37 |
 | 87 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
-| 88 | [Deeper Than Drill](https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG) | 2:54 |
+| 88 | [Deeper Than Drill](https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF) | 2:54 |
 | 89 | [Know You](https://open.spotify.com/track/4Iu79YQJG8AHpyLzMAkzeu) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Know You](https://open.spotify.com/album/2KbN3IJShH1uxc4Y423IAU) | 2:56 |
 | 90 | [Meaning Of Love](https://open.spotify.com/track/1r42qcKQ61V3nKUd0QFXY3) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/7jkSX5GicpDprXyjh8ITO7) | 3:27 |
-| 91 | [18+](https://open.spotify.com/track/09ZtF118npmR6x9Ef0emf3) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/2zkDRZD1dSXrFCkOc3exV5) | 2:08 |
+| 91 | [18+](https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb) | 2:08 |
 | 92 | [Champagne Shots](https://open.spotify.com/track/7dbyaRWWFvB9UG2vcwTd3J) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Local Mvp](https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN) | 2:24 |
 | 93 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
 | 94 | [Woolwich Arsenal \(DLR\)](https://open.spotify.com/track/6OJafQ0Wani47osF2yNCKv) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [c2c](https://open.spotify.com/album/27sSI2AzVhhO1ldaekF2Wz) | 1:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
 | 100 | [Drowning](https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf) | 2:13 |
 
-Snapshot ID: `MTY1MzQxMTk1NCwwMDAwMDAxNTAwMDAwMTgwZjcwODQwYmIwMDAwMDE4MDY2ZGZjMmYw`
+Snapshot ID: `MTY1MzQxMTk1NCwwMDAwMDAwMDYyMTEyMzhlOTY4ZTYwMjlhZTQ1ZTU1NjQ1NjZjZTdh`

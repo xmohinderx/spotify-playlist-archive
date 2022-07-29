@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Steff
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,987 likes - 56 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,012 likes - 56 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 30 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
 | 31 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
 | 32 | [SESENTAYNUEVE](https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs) | [Alan Wittels](https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g) | [SESENTAYNUEVE](https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET) | 2:02 |
-| 33 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 |
+| 33 | [Tu Foto](https://open.spotify.com/track/2QUf55I8VHFfi5jOnRf1Mf) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/7rkNePNqJG53hXl4GzO320) | 3:00 |
 | 34 | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Charles Ans x Neto Peña x Yoss Bones \- LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 |
 | 35 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 36 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 55 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 |
 | 56 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
 
-Snapshot ID: `MTY1NjYzMDAwMCwwMDAwMDExNDAwMDAwMTgxYjZkN2JhMzUwMDAwMDE4MWI2YjQ4NzY0`
+Snapshot ID: `MTY1NjYzMDAwMCwwMDAwMDAwMDkzMWFlNTFhZjVkMjVhZDMxMTE3MGVhYzM2OGIyMDUw`

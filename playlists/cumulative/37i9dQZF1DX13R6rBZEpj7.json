@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 160482,
       "name": "Amazon Prime",
       "url": "https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212354,
       "name": "Casual",
       "url": "https://open.spotify.com/track/1fg8X5xFJIkICvQ3rgIP3L"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260650,
       "name": "Dealing Wit",
       "url": "https://open.spotify.com/track/1ih35oQ4ucmBxSM0jiNFLD"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
@@ -773,10 +773,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235000,
       "name": "Eww",
       "url": "https://open.spotify.com/track/7LliyCcHRU5OQEj2Ob2LPf"
+    },
+    {
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/40txDk5tPTbOKwKj4HVnt6"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0HhugGmV2QI2vUTq8lzm2I"
     },
     {
       "album": {
@@ -791,7 +809,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193384,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/5JNDl6ZhqQcvlesSAbdYlD"
@@ -831,7 +849,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 250918,
       "name": "Far",
       "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
@@ -878,6 +896,28 @@
     },
     {
       "album": {
+        "name": "Flow (Habstrakt Remix)",
+        "url": "https://open.spotify.com/album/2m7F7EZT7uXsPEvGwqvPuI"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Flow - Habstrakt Remix",
+      "url": "https://open.spotify.com/track/4oSebgS2hJQ9ZTkZwq2kUd"
+    },
+    {
+      "album": {
         "name": "Fly With Us",
         "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
       },
@@ -893,7 +933,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
@@ -1099,7 +1139,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231100,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6HvxFxVD2YshIPMB4RjGqH"
@@ -1117,7 +1157,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232888,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
@@ -1135,7 +1175,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217847,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6cAQp72PYiCVJfsp9ksLAt"
@@ -1161,10 +1201,36 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 317538,
       "name": "Hot Flush",
       "url": "https://open.spotify.com/track/3EWHkgA4CWTaFn8IjWkUmZ"
+    },
+    {
+      "album": {
+        "name": "Hot Flush",
+        "url": "https://open.spotify.com/album/4lKHOh8edLTDSrPgPQ5QDn"
+      },
+      "artists": [
+        {
+          "name": "My Nu Leng",
+          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
+        },
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317538,
+      "name": "Hot Flush",
+      "url": "https://open.spotify.com/track/3Pwcb7LvFeCexk1QzZo225"
     },
     {
       "album": {
@@ -1281,7 +1347,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/6y83sAg5Mx81YSzKSUw36j"
@@ -1343,7 +1409,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
@@ -1585,7 +1651,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1UfJuFf3V0DfFigaURj3yJ"
@@ -1603,7 +1669,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234692,
       "name": "Need To",
       "url": "https://open.spotify.com/track/3PibpsKwq89Or7JcDBnvqS"
@@ -1701,7 +1767,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216902,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/3qnOkCq9clIjUbiFkUcBZg"
@@ -1897,7 +1963,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166153,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
@@ -2025,7 +2091,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 236408,
       "name": "Run It",
       "url": "https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0"
@@ -2185,7 +2251,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 191818,
       "name": "Take Me as I Am - Holy Goof Remix",
       "url": "https://open.spotify.com/track/7bPkaPxJFBqyieS9HtDx4Q"
@@ -2419,7 +2485,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 302769,
       "name": "Verdansk VIP - VIP",
       "url": "https://open.spotify.com/track/0VMcpOqA0TF5es9miEFje3"
@@ -2491,7 +2557,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226874,
       "name": "What To Do",
       "url": "https://open.spotify.com/track/2U9J2leuFsABpW7Vxt1ZR4"
@@ -2509,7 +2575,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Who's Got The Bag",
       "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"

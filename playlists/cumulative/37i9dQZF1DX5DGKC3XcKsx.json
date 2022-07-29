@@ -34,6 +34,24 @@
     },
     {
       "album": {
+        "name": "7 A.M",
+        "url": "https://open.spotify.com/album/5OYAGfU1tMNwH7kwgQnpYa"
+      },
+      "artists": [
+        {
+          "name": "44 Kid",
+          "url": "https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "7 A.M",
+      "url": "https://open.spotify.com/track/2H9xMTGgWM7gTcIVgzKzSV"
+    },
+    {
+      "album": {
         "name": "7 AM",
         "url": "https://open.spotify.com/album/3zxeVolzN93HB9ZVNH6FLP"
       },
@@ -45,7 +63,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170880,
       "name": "7 AM",
       "url": "https://open.spotify.com/track/1Vt3BS11Xafs471CiFksGY"
@@ -115,6 +133,24 @@
     {
       "album": {
         "name": "Ahora No Puedo Dormir",
+        "url": "https://open.spotify.com/album/0vQWHdxMrmhw2h8HxIc8hL"
+      },
+      "artists": [
+        {
+          "name": "Alain Verdier",
+          "url": "https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160809,
+      "name": "Ahora No Puedo Dormir",
+      "url": "https://open.spotify.com/track/73d3mhXUHvzdoPT4kUncs6"
+    },
+    {
+      "album": {
+        "name": "Ahora No Puedo Dormir",
         "url": "https://open.spotify.com/album/6k7BF11jOV9gSZjuLkw4i3"
       },
       "artists": [
@@ -129,7 +165,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156720,
       "name": "Ahora No Puedo Dormir",
       "url": "https://open.spotify.com/track/3iQDeOqPl30DkC7KUECpGs"
@@ -273,7 +309,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221350,
       "name": "Billy & Mandy",
       "url": "https://open.spotify.com/track/6Wzbvmcn2nVS4d2Cn94UaB"
@@ -471,10 +507,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183496,
       "name": "Diesel",
       "url": "https://open.spotify.com/track/1U7vCWwZqYbLjWftI8nXlS"
+    },
+    {
+      "album": {
+        "name": "Diesel",
+        "url": "https://open.spotify.com/album/07cdRKFYt5bF64tmsxf5Gi"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183496,
+      "name": "Diesel",
+      "url": "https://open.spotify.com/track/6R4Wd9RoM1EgVw0BGXvk7E"
     },
     {
       "album": {
@@ -601,6 +655,24 @@
     {
       "album": {
         "name": "Hot Box",
+        "url": "https://open.spotify.com/album/1ts9do5lw5wt3Fa1H4iV3o"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121339,
+      "name": "Hot Box",
+      "url": "https://open.spotify.com/track/2GintlSiqb7EQiPJwa3etY"
+    },
+    {
+      "album": {
+        "name": "Hot Box",
         "url": "https://open.spotify.com/album/2rdFLotVCZXVsOG6RLXpHx"
       },
       "artists": [
@@ -611,7 +683,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 121339,
       "name": "Hot Box",
       "url": "https://open.spotify.com/track/4WiYKp8a6JKu4uAejn7ELd"
@@ -731,6 +803,36 @@
     {
       "album": {
         "name": "LOCO",
+        "url": "https://open.spotify.com/album/4ILXSxyZkw5YcShYBeInhB"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Icey M",
+          "url": "https://open.spotify.com/artist/4TPbwp5DRBRpSJ2mzJMpxV"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "Hache Souza",
+          "url": "https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293182,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/0ybmZk2XJ8bbSJuqlENAfm"
+    },
+    {
+      "album": {
+        "name": "LOCO",
         "url": "https://open.spotify.com/album/6KU1TCVf55PwcpyKDT0VbB"
       },
       "artists": [
@@ -753,7 +855,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293182,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5HilSFHJwJebu4tVndG49n"
@@ -881,10 +983,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 170723,
       "name": "Mesita: Bzrp Music Sessions, Vol. 12",
       "url": "https://open.spotify.com/track/3HxP2g1l2jc9r1QgrA3dmf"
+    },
+    {
+      "album": {
+        "name": "Mesita: Bzrp Music Sessions, Vol.12",
+        "url": "https://open.spotify.com/album/5rz0BWc0MXamhwFvgoYAbj"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170723,
+      "name": "Mesita: Bzrp Music Sessions, Vol.12",
+      "url": "https://open.spotify.com/track/2d3aX0XSf9I4PY5EEu9rt2"
     },
     {
       "album": {
@@ -921,10 +1045,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 153600,
       "name": "Mula",
       "url": "https://open.spotify.com/track/0CmFQpw063ops72u6jyWPX"
+    },
+    {
+      "album": {
+        "name": "Mula",
+        "url": "https://open.spotify.com/album/7i0cQWbO5ub6IG1sQoz4Ar"
+      },
+      "artists": [
+        {
+          "name": "Davus",
+          "url": "https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Mula",
+      "url": "https://open.spotify.com/track/1lbDAsBsUQFvQcBoXTelqM"
     },
     {
       "album": {
@@ -1035,6 +1177,24 @@
     {
       "album": {
         "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4"
+    },
+    {
+      "album": {
+        "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/4ZButRMFWGR1PRyvv20y6n"
       },
       "artists": [
@@ -1045,10 +1205,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176519,
       "name": "No Soy Yo",
       "url": "https://open.spotify.com/track/2tQpf521ZLKH2O22fB5GR9"
+    },
+    {
+      "album": {
+        "name": "Obama",
+        "url": "https://open.spotify.com/album/1e6cbBUcVLlGDth1BLVAom"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142303,
+      "name": "Obama",
+      "url": "https://open.spotify.com/track/4Pe7K3i2JWTdL2x5ZmGW15"
     },
     {
       "album": {
@@ -1067,7 +1245,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142303,
       "name": "Obama",
       "url": "https://open.spotify.com/track/2E4ghKxmuc6POSedHiPlmN"
@@ -1085,10 +1263,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180303,
       "name": "Orangutan",
       "url": "https://open.spotify.com/track/18GVAsNcABmpn3s4SSLg3t"
+    },
+    {
+      "album": {
+        "name": "Orangutan",
+        "url": "https://open.spotify.com/album/5470pf2kOxCht3U7laZO3K"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180303,
+      "name": "Orangutan",
+      "url": "https://open.spotify.com/track/1Ytlu66YWuZDcgwjwOeix8"
     },
     {
       "album": {
@@ -1205,7 +1401,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181250,
       "name": "Polaris",
       "url": "https://open.spotify.com/track/2zCsasxMJ1KpTl8uWJSG2s"
@@ -1235,6 +1431,24 @@
     {
       "album": {
         "name": "Rangos",
+        "url": "https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK"
+      },
+      "artists": [
+        {
+          "name": "Peke\u00f1o 77",
+          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128880,
+      "name": "Rangos",
+      "url": "https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe"
+    },
+    {
+      "album": {
+        "name": "Rangos",
         "url": "https://open.spotify.com/album/3eQrdbzORGQgBAvoUdEcE3"
       },
       "artists": [
@@ -1245,7 +1459,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 128893,
       "name": "Rangos",
       "url": "https://open.spotify.com/track/71n2JpYIDKZ3YXDo9KuQNB"
@@ -1327,10 +1541,32 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179000,
       "name": "Salgo Pa La Calle",
       "url": "https://open.spotify.com/track/0KebgQBmTVa4BVmE8Z3qDx"
+    },
+    {
+      "album": {
+        "name": "Salgo Pa La Calle",
+        "url": "https://open.spotify.com/album/3RI95RhBmxx7hMrB7vjW7a"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Salgo Pa La Calle",
+      "url": "https://open.spotify.com/track/1OSMYyDIhuLzTskju4MTO7"
     },
     {
       "album": {
@@ -1403,7 +1639,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133686,
       "name": "Tu Mirada",
       "url": "https://open.spotify.com/track/3Bl6VMvrPDyVCQFYTGlygq"
@@ -1447,7 +1683,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190909,
       "name": "Valentino Rossi",
       "url": "https://open.spotify.com/track/7EVuU6XXGinBd8Km7tHbct"
@@ -1481,6 +1717,24 @@
     {
       "album": {
         "name": "Vivimo' As\u00ed",
+        "url": "https://open.spotify.com/album/69d66xYUwQVvs8i3oag2c3"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190732,
+      "name": "Vivimo' As\u00ed",
+      "url": "https://open.spotify.com/track/5rZ9x55jPqUcXGLxBd2Fnt"
+    },
+    {
+      "album": {
+        "name": "Vivimo' As\u00ed",
         "url": "https://open.spotify.com/album/5Y0hS0bBjwq5tVQlmcttXE"
       },
       "artists": [
@@ -1491,7 +1745,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190732,
       "name": "Vivimo' As\u00ed",
       "url": "https://open.spotify.com/track/6X5JqcWJLpDP7bNtPrYEJf"
@@ -1527,10 +1781,40 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163570,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/737DzXIpX8200dVRur7f1z"
+    },
+    {
+      "album": {
+        "name": "Yakuza",
+        "url": "https://open.spotify.com/album/4njpct4ZRvdI4ZsdrkRyQo"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "El Futuro Fuera De Orbita",
+          "url": "https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268330,
+      "name": "Yakuza",
+      "url": "https://open.spotify.com/track/0gPM83N4pcucaFMNbUX2eR"
     },
     {
       "album": {
@@ -1557,7 +1841,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268330,
       "name": "Yakuza",
       "url": "https://open.spotify.com/track/5TqygamzZB0stiKif5fFs6"

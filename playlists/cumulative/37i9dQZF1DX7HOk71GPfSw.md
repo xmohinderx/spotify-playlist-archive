@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> belive the hype Cover: Alice Longyu Gao & Oli Sykes
+> believe the hype Cover: Alice Longyu Gao & Oli Sykes
 
 1,356 songs - 2 day 13 hr 35 min - [published](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Billie Eilish, Megan Thee Stallion & Future, Lil Uzi Vert, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,940,115 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,940,377 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 |
 | 100 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDNiZjAwMDAwMTgyMjQwZmVlZjIwMDAwMDE4MjIyMmMwOTUy`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDUxNTFkOTBiMmM4MmUxM2QwYjMwZGNkMDM3YTU4NmQy`

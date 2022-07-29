@@ -4,7 +4,7 @@
 
 > where music and fashion meet, soundtrack for the look by designer, Brandon Blackwood
 
-134 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/6R9HPbNN64wdiHcaYefrSn)
+135 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/6R9HPbNN64wdiHcaYefrSn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [MET GALA](https://open.spotify.com/track/4loM16743hROPC6uIJG6wM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:29 | 2022-05-02 | 2022-06-01 |
 | [Money](https://open.spotify.com/track/7wfQfnNFGWLD0BzcDngCRg) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Wash & Set](https://open.spotify.com/album/1VAZdFNZ1t5BYugJ3NfaZh) | 2:55 | 2022-06-01 |  |
 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2022-04-29 | 2022-05-21 |
-| [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-06-01 |  |
+| [Mr\. Morale](https://open.spotify.com/track/6CmpZfKUQ2KerzBFZ3QKFr) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:30 | 2022-06-01 |  |
+| [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-06-01 | 2022-07-29 |
 | [My Legacy](https://open.spotify.com/track/4V9K7DLPZNhCH77wLsAiNF) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pluto x Baby Pluto \(Deluxe\)](https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR) | 3:13 | 2022-04-29 | 2022-06-01 |
 | [My Type \(feat\. City Girls & Jhené Aiko\) \- Remix](https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [My Type \(feat\. City Girls & Jhené Aiko\) \[Remix\]](https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5) | 2:52 | 2022-06-01 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-04-29 | 2022-06-01 |

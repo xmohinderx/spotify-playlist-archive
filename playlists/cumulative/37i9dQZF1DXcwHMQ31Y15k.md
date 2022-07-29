@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Bayu Skak
 
-97 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
+101 songs - 8 hr 24 min - [published](https://open.spotify.com/playlist/6MWAwkgQhB2wRNopb9pKvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,14 +34,16 @@
 | [Kabur Kanginan](https://open.spotify.com/track/6DRBeuRymM6gRvAn1WgU0S) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Kabur Kanginan](https://open.spotify.com/album/5QQa65NbHXXMZSVCbdiWYP) | 4:34 | 2022-05-26 |  |
 | [Kartonyono Medot Janji](https://open.spotify.com/track/6bnCgtR9tDcADREMONA91t) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Kartonyono Medot Janji](https://open.spotify.com/album/0WlqBbLuZrAOgh6asdiign) | 4:30 | 2022-05-26 |  |
 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 | 2022-05-26 |  |
-| [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 | 2022-05-26 |  |
+| [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 | 2022-07-28 |  |
+| [Kelingan Mantan](https://open.spotify.com/track/6hdIeCcyyiaktYIH8DvJhU) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [PJR](https://open.spotify.com/artist/6bD3YWzWbah6b66U3jLkQK) | [NDX A.K.A\. FAMILIA](https://open.spotify.com/album/3ZoeNQiKCsbCP5cY1O6yus) | 3:20 | 2022-05-26 | 2022-07-29 |
 | [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2022-05-26 |  |
 | [Konco Mesra](https://open.spotify.com/track/4I7goB9uxNnA2Jg3Sf8Dwv) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz) | [Konco Mesra](https://open.spotify.com/album/2ijzNP6wya6HesN5nH3nNV) | 5:01 | 2022-05-26 |  |
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2022-05-26 |  |
 | [Koyo Jogja Istimewa \- From "Cidro Asmoro"](https://open.spotify.com/track/1GVygn86oLm8eDLNPUtC2N) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Koyo Jogja Istimewa \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3QABkEdROjx6VqbjLWuIWr) | 4:29 | 2022-05-26 |  |
 | [Kuatno Atimu](https://open.spotify.com/track/5SsjDIA3DhUQXM9cDjQ5sI) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Damara De](https://open.spotify.com/artist/6NhM3owQiKUDl34pFoia2K) | [Kuatno Atimu](https://open.spotify.com/album/1QAOqCiyn6FoOrVyKrpUou) | 5:16 | 2022-05-26 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 |  |
-| [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2022-05-26 |  |
+| [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 | 2022-07-28 |  |
+| [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2022-05-26 | 2022-07-29 |
 | [Lintang Sewengi](https://open.spotify.com/track/4qYRw5qEaofw25P36WWfSR) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Lintang Sewengi](https://open.spotify.com/album/5lgBjIdAiFNjBsw01LRqQe) | 5:05 | 2022-05-26 |  |
 | [Los Dol](https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv) | 4:48 | 2022-05-26 |  |
 | [Lungaku](https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Lungaku](https://open.spotify.com/album/13eXr1lmUyXeJtUEGHoBP6) | 5:59 | 2022-05-26 |  |
@@ -56,6 +58,7 @@
 | [Nutupi Laraku](https://open.spotify.com/track/5LN58cdv408OOXh52VY99L) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Nutupi Laraku](https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw) | 5:38 | 2022-05-26 |  |
 | [Nyambangi Ati](https://open.spotify.com/track/6NPQT0KJ0Atca2etKqAoyh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Nyambangi Ati](https://open.spotify.com/album/5zeYnW7UwbJPy1eWxAqc45) | 4:27 | 2022-06-09 |  |
 | [nyikso batin](https://open.spotify.com/track/5x6iMwlE967QS90rA0OYlN) | [dela poyz](https://open.spotify.com/artist/73BKKlWbAd4m7AbvXgFs3t) | [nyikso batin](https://open.spotify.com/album/46cFNRFRfADKib0ac3Q3JE) | 4:40 | 2022-07-01 |  |
+| [Ojo Di Bandingke](https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj) | 5:47 | 2022-07-28 |  |
 | [Ojo Nangis](https://open.spotify.com/track/2yfVlejxMMg163nZWalBte) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Ojo Nangis](https://open.spotify.com/album/0mz1frKC3NxPhHL1E1v3gQ) | 5:13 | 2022-05-26 |  |
 | [Ojo Nangis](https://open.spotify.com/track/55ZdI8As6tgaM1X6P8XQ4U) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Ojo Nangis](https://open.spotify.com/album/6xnklJBg3JlMENDJBdFqiR) | 5:30 | 2022-05-26 |  |
 | [Ojo Nangis \- Keroncong Version](https://open.spotify.com/track/5eZ8DNqoPcJd1cTwkKzoEk) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis \(Keroncong Version\)](https://open.spotify.com/album/2vrslGgUCj5smWJEbJSib4) | 5:46 | 2022-05-26 |  |
@@ -71,6 +74,7 @@
 | [Piye Kabare](https://open.spotify.com/track/7MKuL6VuzjLAb09qLNSpDR) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare](https://open.spotify.com/album/28S0iNmcM3csWHIc6m9ob9) | 5:35 | 2022-05-26 |  |
 | [Piye Kabarmu](https://open.spotify.com/track/0Xwy9IezFUwQhOXDDaVPhs) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Piye Kabarmu](https://open.spotify.com/album/35g5oR2BuklU5XMQ7LBlNZ) | 5:36 | 2022-06-16 |  |
 | [Prei Kanan Kiri](https://open.spotify.com/track/6P8sNmw5rUZaSrcF3SUTFT) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Prei Kanan Kiri](https://open.spotify.com/album/64EKhd4vAGVqGy4an2MKoC) | 5:20 | 2022-05-26 |  |
+| [Putusen Isun](https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era) | [Suci Tacik](https://open.spotify.com/artist/3TKvWnJYLr7jadsDJkyNod) | [Putusen Isun](https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5) | 4:32 | 2022-07-29 |  |
 | [Ra Bakal Keganti](https://open.spotify.com/track/3PZiVaw4ebgLkMM17qvOHA) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Delva](https://open.spotify.com/artist/3q32ggqpx55HIH2C2JfSFK) | [Ra Bakal Keganti](https://open.spotify.com/album/0QRVAgABQ1R6wrNPhzpshS) | 4:09 | 2022-05-26 |  |
 | [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 |  |
 | [Roso Atiku](https://open.spotify.com/track/6OCoaRux8abVtVxPhE5N0M) | [Rindra Putra](https://open.spotify.com/artist/48eHObVYwCaw6k3ct9mWCO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Roso Atiku](https://open.spotify.com/album/6f3YYxy5mYMnH8Bx4iN6eJ) | 6:01 | 2022-05-26 |  |

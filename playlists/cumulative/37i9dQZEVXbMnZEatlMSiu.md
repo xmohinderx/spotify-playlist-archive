@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-447 songs - 1 day 3 hr 33 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+448 songs - 1 day 3 hr 38 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Tides](https://open.spotify.com/track/3RbrcQSXMHp2UbhIdPw6OS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [SKY](https://open.spotify.com/album/0Mr9Rd4e1jvMMK9eDpUdp8) | 2:59 | 2021-05-22 | 2021-06-18 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-03-15 |  |
 | [Trash Talk](https://open.spotify.com/track/36gzVLH9Bq0p544PdDu8WS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Trash Talk](https://open.spotify.com/album/7LNFEHBmTVb3MMrQxPyuHs) | 2:55 | 2021-04-15 | 2021-04-23 |
+| [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-28 |  |
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-26 | 2021-12-27 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-10 |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-20 | 2022-02-16 |
@@ -402,7 +403,7 @@
 | [睡不著](https://open.spotify.com/track/0GM2W66glRyOBd1Ckw43eF) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:00 | 2021-08-24 | 2021-09-24 |
 | [禁愛條款](https://open.spotify.com/track/4Z76Dk74jIBsbKAcjJ2YYr) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q), [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [禁愛條款](https://open.spotify.com/album/0NxEowsTradcFNzSR00FvU) | 2:56 | 2021-06-24 | 2021-07-01 |
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-09-18 | 2021-09-24 |
-| [等你下課](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 |  |
+| [等你下課](https://open.spotify.com/track/3j2O0gUZaIT5SSpC9F4Emw) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:30 | 2022-07-16 | 2022-07-29 |
 | [粉色海洋](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 | 2022-07-26 |
 | [精神分裂](https://open.spotify.com/track/37f3lHvINSdzriJeBNTuJY) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2622](https://open.spotify.com/album/4FsfJ4W3zxBFfkiBNUpdo6) | 2:37 | 2021-09-02 | 2021-10-16 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 |  |

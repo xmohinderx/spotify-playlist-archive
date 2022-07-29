@@ -337,6 +337,24 @@
     {
       "album": {
         "name": "Blue / Billow",
+        "url": "https://open.spotify.com/album/417GpTkRc9qXb5SwhkcTOO"
+      },
+      "artists": [
+        {
+          "name": "Slow Crush",
+          "url": "https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208985,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/61sE4FBxsAKEgv4Pj0CzZi"
+    },
+    {
+      "album": {
+        "name": "Blue / Billow",
         "url": "https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN"
       },
       "artists": [
@@ -347,7 +365,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208985,
       "name": "Billow",
       "url": "https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66"
@@ -761,10 +779,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204593,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/0uBGLU72sQe6eArUmzOMRc"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204593,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi"
     },
     {
       "album": {
@@ -1259,10 +1295,28 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 116485,
       "name": "Gotta Let It Go",
       "url": "https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP"
+    },
+    {
+      "album": {
+        "name": "40 oz. to Fresno",
+        "url": "https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116485,
+      "name": "Gotta Let It Go",
+      "url": "https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc"
     },
     {
       "album": {
@@ -1807,10 +1861,28 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201333,
       "name": "Motorbike",
       "url": "https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J"
+    },
+    {
+      "album": {
+        "name": "Household Name",
+        "url": "https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G"
     },
     {
       "album": {

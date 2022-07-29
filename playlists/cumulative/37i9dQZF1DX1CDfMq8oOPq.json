@@ -507,10 +507,36 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152625,
       "name": "FREESTYLE DAS FAIXA ROSA",
       "url": "https://open.spotify.com/track/1lx5dn3ESLOPPhEQ0G6TgB"
+    },
+    {
+      "album": {
+        "name": "FEBRE AMARELA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL"
+      },
+      "artists": [
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "FREESTYLE DAS FAIXA ROSA",
+      "url": "https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK"
     },
     {
       "album": {
@@ -1366,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Sinal",
+        "url": "https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Sinal",
+      "url": "https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30"
+    },
+    {
+      "album": {
         "name": "Affair",
         "url": "https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90"
       },
@@ -1377,7 +1421,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173023,
       "name": "Sinal",
       "url": "https://open.spotify.com/track/3c61X2aLcCAVMMQV1YzSfH"

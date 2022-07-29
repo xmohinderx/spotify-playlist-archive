@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Set the Record Straight",
+        "url": "https://open.spotify.com/album/65HZxbBL9viNkzeFJM53tE"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        },
+        {
+          "name": "JENCARLOS",
+          "url": "https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194398,
+      "name": "Achy Breaky Heart 25 (Spanglish) [feat. Jencarlos Canela]",
+      "url": "https://open.spotify.com/track/6AJJN8totfQ19PPft5qJqt"
+    },
+    {
+      "album": {
         "name": "Achy Breaky Heart 25 - Spanglish (feat. Jencarlos Canela)",
         "url": "https://open.spotify.com/album/3fO7J7vXdxv5IdixnK2O3K"
       },
@@ -27,7 +49,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194280,
       "name": "Achy Breaky Heart 25 - Spanglish (feat. Jencarlos Canela)",
       "url": "https://open.spotify.com/track/7BsOKmHxQ9vvpFZaRR8Tzm"
@@ -79,6 +101,24 @@
     {
       "album": {
         "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
+    },
+    {
+      "album": {
+        "name": "Faded Gloryville",
         "url": "https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6"
       },
       "artists": [
@@ -89,7 +129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/6dben05JiKn09x31h1JgOW"
@@ -302,6 +342,24 @@
     },
     {
       "album": {
+        "name": "Cuarentena",
+        "url": "https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181589,
+      "name": "Drinkin' Problem (Brindemos)",
+      "url": "https://open.spotify.com/track/6RJH2nSmmxFOynFDzNfik8"
+    },
+    {
+      "album": {
         "name": "Drinkin' Problem (Brindemos)",
         "url": "https://open.spotify.com/album/6X84FPyedv5spo1tdQxLuQ"
       },
@@ -313,7 +371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181589,
       "name": "Drinkin' Problem (Brindemos)",
       "url": "https://open.spotify.com/track/70TQ2bBSD5J39rmggn0wRR"
@@ -593,10 +651,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205798,
       "name": "How Many Times (Spanish Version)",
       "url": "https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx"
+    },
+    {
+      "album": {
+        "name": "How Many Times (Spanish Version)",
+        "url": "https://open.spotify.com/album/3uWvFEAurqos8bEdEkPJRG"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205798,
+      "name": "How Many Times - Spanish Version",
+      "url": "https://open.spotify.com/track/2yPWdo1Uo15owusJkamkTy"
     },
     {
       "album": {
@@ -789,10 +865,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193611,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0dJUbqKkP9EwuBtyLeQWHt"
+    },
+    {
+      "album": {
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/7cve9lcdp9KQUpbbaj8Mlp"
+      },
+      "artists": [
+        {
+          "name": "Jake Hoot",
+          "url": "https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7"
+        },
+        {
+          "name": "Ricky Duran",
+          "url": "https://open.spotify.com/artist/1C18TJ6Co8ihwnIUYbrfiy"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193611,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/25oidgdkH3NlGpJtDV7ujD"
     },
     {
       "album": {
@@ -1503,10 +1601,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245866,
       "name": "The Unforgiven",
       "url": "https://open.spotify.com/track/4xfUlRu5KWuf3RvpyBzkgg"
+    },
+    {
+      "album": {
+        "name": "The Unforgiven",
+        "url": "https://open.spotify.com/album/7KpZPUNuZBarex1NYPCezR"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245875,
+      "name": "The Unforgiven",
+      "url": "https://open.spotify.com/track/2OzMQSnYu4wVYBhCm3sNSZ"
     },
     {
       "album": {

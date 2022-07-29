@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como MARO, com o volume no máximo
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,244 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,246 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 6 | [Conta\-me](https://open.spotify.com/track/2jzw8D6jbndbwYambYs3Fc) | [Constança Quinteiro](https://open.spotify.com/artist/4BklsgbRXLBkddcA93W1DZ) | [Conta\-me](https://open.spotify.com/album/6yiecrWiDNF8cR8EKSzZFV) | 3:37 |
 | 7 | [Ser Mulher](https://open.spotify.com/track/30oVq7DYscRKPts5ry5CFs) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [Ser Mulher](https://open.spotify.com/album/2KEcHj85NXJskjYgYaiBEc) | 3:26 |
 | 8 | [Clouds](https://open.spotify.com/track/1bL0YIoydaag05wXcMLKCR) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Clouds](https://open.spotify.com/album/5U6yQtanwTiGlhLFlGIA6L) | 2:57 |
-| 9 | [Kwanza Sul](https://open.spotify.com/track/0q8gHw5aB1wmzd39ky5pOs) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Kwanza Sul](https://open.spotify.com/album/2RT1MPpnndasJbAv7zUkeo) | 3:57 |
+| 9 | [Kwanza Sul](https://open.spotify.com/track/3wee6Fymfcvt9LH4DIU2i8) | [Aline Frazão](https://open.spotify.com/artist/6IsFWHFEmSi9ZYnf7JYVLO) | [Uma Música Angolana](https://open.spotify.com/album/5Etk8veWJAYvVJorNwZfcI) | 3:57 |
 | 10 | [A Primeira Carta](https://open.spotify.com/track/2Tpgbc5ThpBtWF8m1sP4jW) | [Mayonezze](https://open.spotify.com/artist/5IihFK8bNjA7paKtVAdej9) | [A Primeira Carta](https://open.spotify.com/album/4RUvVf1COv2YcUWwAO0w2g) | 2:54 |
 | 11 | [Cura](https://open.spotify.com/track/65qS9nnzZApHbaXmgfRdIy) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Cura](https://open.spotify.com/album/3hQvIFMzmbiWE2RvX8Fu3F) | 2:47 |
 | 12 | [Querido Futuro Namorado](https://open.spotify.com/track/4Jr8T5PEyi9yvahMTw1W4o) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Querido Futuro Namorado](https://open.spotify.com/album/72SvQQWEG3ZE4iJS5n7jsE) | 4:19 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 38 | [um dia destes](https://open.spotify.com/track/5jjHlCkAwp8sjSJKcMB8TK) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ) | [um dia destes](https://open.spotify.com/album/508pG4Mz7IbnZnJbaqGl5A) | 3:21 |
 | 39 | [Ai as Gentes Ai a Vida](https://open.spotify.com/track/0cELydtPcEYEsq5RDwHoqY) | [Cristina Madeira](https://open.spotify.com/artist/7pROFxNBsX1SuHhZLNw1Go) | [Novo Rumo](https://open.spotify.com/album/0Konf6PbANuEoxie8PUAoX) | 3:57 |
 | 40 | [Nem Mal Me Queres](https://open.spotify.com/track/6GI69S6ViZ9WOCNHv85gBP) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Nem Mal Me Queres](https://open.spotify.com/album/3Tw828Sv0rF8A9YJ6m2uMG) | 3:18 |
-| 41 | [Decidiste Voltar](https://open.spotify.com/track/55PSGhZEhXXNhRwspoUK5y) | [Viviane](https://open.spotify.com/artist/35q7wCZmIpgxkD05U1Ufj5) | [Quando Tiveres Tempo](https://open.spotify.com/album/01qBEhb2gM2ks5yyk5gXaN) | 2:52 |
+| 41 | [Decidiste Voltar](https://open.spotify.com/track/59NV2ydj6YAulk2UQ1TNY4) | [Viviane](https://open.spotify.com/artist/35q7wCZmIpgxkD05U1Ufj5) | [Quando Tiveres Tempo](https://open.spotify.com/album/0Blu0Sgr11k23MlRTx10NQ) | 2:52 |
 | 42 | [As Facas](https://open.spotify.com/track/6boRAE0PSDACUuGatvhcru) | [Cristina Madeira](https://open.spotify.com/artist/7pROFxNBsX1SuHhZLNw1Go) | [Essência do Fado](https://open.spotify.com/album/1Sc6M16yO3vasP73Z5b8FG) | 2:57 |
 | 43 | [Plutão](https://open.spotify.com/track/3XBsQQ3itfhbFBNABL99h7) | [MARIANA](https://open.spotify.com/artist/3DchlZTozYrn0EwFiUhNgr) | [Plutão](https://open.spotify.com/album/3bd4eb60I1oOBur6Y4UAso) | 2:56 |
 | 44 | [Gano](https://open.spotify.com/track/3b3FUT5P69xpowmS8zr9bo) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW) | [GANO](https://open.spotify.com/album/4IGwZhKIxwd6AbL6Yf8D5d) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Perda](https://open.spotify.com/track/4mwlNX7KQOCPA7OdFJxiHB) | [Nayela](https://open.spotify.com/artist/7bJaYw4jbgEpFicu97uMgH) | [Perda](https://open.spotify.com/album/3EkQ6Po2XmpO5V07N4iboH) | 3:07 |
 | 50 | [porquê?](https://open.spotify.com/track/15yPX5GRQbQ4zheqqg3aFf) | [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [porquê?](https://open.spotify.com/album/7MJ5xHjrKNei5GkRl602Ya) | 3:33 |
 
-Snapshot ID: `MTY1NzA2MjAwMCwwMDAwMDAxNDAwMDAwMTgxZDA5Nzg2MDkwMDAwMDE4MWNhMWU3ZWE0`
+Snapshot ID: `MTY1NzA2MjAwMCwwMDAwMDAwMDYzYWE4MjkzOGEyMjhmNDJmODJmMmRkNzcyZWZiNmY0`

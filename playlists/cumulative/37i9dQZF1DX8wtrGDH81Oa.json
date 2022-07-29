@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Cat Street Fight",
+        "url": "https://open.spotify.com/album/2NgRFkMxlbO0Hifee0yDvF"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178952,
+      "name": "Cat Street Fight",
+      "url": "https://open.spotify.com/track/1xrwba40SrADws8j0nDkgd"
+    },
+    {
+      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY"
       },
@@ -2151,6 +2169,24 @@
       "duration_ms": 200510,
       "name": "Rose - Edit",
       "url": "https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa"
+    },
+    {
+      "album": {
+        "name": "running emotion",
+        "url": "https://open.spotify.com/album/0iHbisELLIEFVvRithDFAx"
+      },
+      "artists": [
+        {
+          "name": "Hayzei",
+          "url": "https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "running emotion",
+      "url": "https://open.spotify.com/track/50qTed10S2KaDtGAYbD4dr"
     },
     {
       "album": {

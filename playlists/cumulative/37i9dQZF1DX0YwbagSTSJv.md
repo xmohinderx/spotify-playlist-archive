@@ -4,7 +4,7 @@
 
 > Let it all go.
 
-116 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
+118 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/3yPTKwCyOEi0lpqAaQ8E7k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Eternity and Beyond](https://open.spotify.com/track/0D8bO0kfpOsdxZ8fLLp38A) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Eternity and Beyond](https://open.spotify.com/album/5eyxjz1D0sA4KPH7wrOa05) | 4:11 | 2021-12-23 |  |
 | [Eudaimonia](https://open.spotify.com/track/5CPNW8gaWplZXw9ltkTqQu) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Eudaimonia](https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw) | 3:05 | 2022-02-18 |  |
 | [Far And Away](https://open.spotify.com/track/44DKn5hqvnO4912GLZqHYI) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:04 | 2021-12-23 |  |
-| [Fiction](https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC) | 3:31 | 2021-12-23 |  |
+| [Fiction](https://open.spotify.com/track/2cQJCXUhGKilLJT7OE40w0) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/5DdCboBXyuP9VJDaiJ3Y61) | 3:31 | 2022-07-22 |  |
+| [Fiction](https://open.spotify.com/track/7N3pnzacUb4TpSEgRSlgw5) | [Drifting Phonetics](https://open.spotify.com/artist/31Ai45YFkzvuP30R2HBDQy) | [Fiction](https://open.spotify.com/album/1MLutcc8zOKfnxA00EoVwC) | 3:31 | 2021-12-23 | 2022-07-29 |
 | [Finding Neverness](https://open.spotify.com/track/2Z76YJ8By50mep2bAonJ2Y) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [Gentle Sleep](https://open.spotify.com/album/267UdQxOhHcrW7ddx7lAjJ) | 3:25 | 2021-12-23 |  |
 | [Floating Peace](https://open.spotify.com/track/1vpzs2y4nduldNWjJdPMQ6) | [Ee Ve](https://open.spotify.com/artist/18NItzXyxJgwcsJ6skOoPb) | [Transcend](https://open.spotify.com/album/12DfL5OyYopS4UqF8AgCyq) | 3:34 | 2021-12-23 |  |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2021-12-23 |  |
@@ -115,7 +116,8 @@
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-12-23 |  |
 | [Víðsýni](https://open.spotify.com/track/00Q952UnckMdqLHYn7duKD) | [Traum Fanger](https://open.spotify.com/artist/0yyAswmbegMXrWvdxTEIkF) | [Víðsýni](https://open.spotify.com/album/5XSm8RCqT1LqvbcYubwIfT) | 2:49 | 2021-12-23 |  |
 | [Volare](https://open.spotify.com/track/52HE5STVKycLtrSpaPhSkn) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Volare](https://open.spotify.com/album/2eXUJSQS958ElgtyUnyvfi) | 3:23 | 2021-12-23 |  |
-| [Waits Dreaming](https://open.spotify.com/track/365CgMIdzM2P2t3sgTmwJt) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:18 | 2021-12-23 |  |
+| [Waits Dreaming](https://open.spotify.com/track/0zBnOKgmkEp4LDJdWkDl1U) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/2q3FLsl0yqx0eplaC3rM3t) | 5:18 | 2022-07-22 |  |
+| [Waits Dreaming](https://open.spotify.com/track/365CgMIdzM2P2t3sgTmwJt) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Filament and Place](https://open.spotify.com/album/5ZRUr2HqVBVKeRfoN8rKQz) | 5:18 | 2021-12-23 | 2022-07-29 |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2021-12-23 | 2022-05-26 |
 | [Where Peaceful Waters Flow](https://open.spotify.com/track/06k0KNOgWngBL962uONmeV) | [Dani Hadad](https://open.spotify.com/artist/4dplzww3ZxsFV5sNlOcYmn) | [Peace](https://open.spotify.com/album/1ScFHV7vGlCdruwg6vUUKs) | 3:27 | 2021-12-23 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-05-19 |  |

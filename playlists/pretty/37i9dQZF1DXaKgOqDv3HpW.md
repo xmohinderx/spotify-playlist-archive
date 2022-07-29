@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,317 likes - 171 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,351 likes - 171 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 74 | [Etheral Ease](https://open.spotify.com/track/5jKGlvcYrkQjoqwvAtMZ70) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Etheral Ease](https://open.spotify.com/album/3rcdVstalXGxGDggOZ9Dne) | 3:15 |
 | 75 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 |
 | 76 | [Sotto La Superficie](https://open.spotify.com/track/1YvgFUa5OxOw8z9GZQQLHR) | [Alcine Sala](https://open.spotify.com/artist/6sXYZyjQRKE4ID1x9Y7ZiC) | [Sotto La Superficie](https://open.spotify.com/album/0hY1Y1Jk2abRgY1KeVN9Kf) | 2:27 |
-| 77 | [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 |
+| 77 | [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 |
 | 78 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 |
 | 79 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 |
 | 80 | [Kustlijnen](https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Kustlijnen](https://open.spotify.com/album/3Y9r2EA6hru4h1v8UEuZii) | 2:34 |
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 122 | [Another Wake](https://open.spotify.com/track/0YwgnE2yI600aenbcJdqgq) | [Northern Lights](https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny) | [String Theory](https://open.spotify.com/album/4NAAHdaq1RRDCEdsSddHcl) | 2:18 |
 | 123 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 |
 | 124 | [Morning Reflection](https://open.spotify.com/track/444EJ06sxk2RAyemHmO5OM) | [Mikael Robbins](https://open.spotify.com/artist/68uqJ5ki8H7F4SHIh4kubp) | [Morning Reflection](https://open.spotify.com/album/5Je7r02QkjH8nLcEkminFc) | 3:49 |
-| 125 | [At Last](https://open.spotify.com/track/3l8ILux1wF7VJt8MJXmLyN) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/3K6jSzRzY3EfWv0gIVzEdV) | 2:48 |
+| 125 | [At Last](https://open.spotify.com/track/0awdCTFrzeyVtRlZnMtqlH) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:48 |
 | 126 | [Movements of Dimensions](https://open.spotify.com/track/7BQDfK8Emfh80YJuvoGrb4) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [The One We Got](https://open.spotify.com/album/1dAqoThlD7EKzg0Kg03NY3) | 2:40 |
 | 127 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 |
 | 128 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 162 | [Descending](https://open.spotify.com/track/6i1azfJNXmsV9fNIA41tea) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 3:30 |
 | 163 | [Satori \- Without Ambience](https://open.spotify.com/track/2lHPRp0fGmU59ArT2z2t25) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Satori](https://open.spotify.com/album/3C3HvzERaQbTUVh8gz2xK8) | 3:37 |
 | 164 | [Orca Matriarch](https://open.spotify.com/track/4J5GTc9yuEMKjvjGoFomJO) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Orca Matriarch](https://open.spotify.com/album/1u5jX2gYozad5UWrIIoqSa) | 3:59 |
-| 165 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 |
+| 165 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 |
 | 166 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 167 | [My Father's Tears](https://open.spotify.com/track/0pFAWeCiim0NCmwRgbg1Q7) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [My Father's Tears](https://open.spotify.com/album/4YdXelsfVbqox0h7DW4HaG) | 1:40 |
 | 168 | [Drowsy](https://open.spotify.com/track/0UN65yFrhpHPOWVRgPDJ3J) | [Paul Martinson](https://open.spotify.com/artist/3bRs4tOeVr1K0EVWi1BKkj) | [Drowsy](https://open.spotify.com/album/6yUJ7asi7Ns3PME7zE037D) | 3:31 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 170 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 |
 | 171 | [Ancient Presence](https://open.spotify.com/track/4fEP8wZL27vkaydhMuZGzq) | [Efrim](https://open.spotify.com/artist/2oqzUZdcvknx7EVSJTJJhJ) | [Ancient Presence](https://open.spotify.com/album/2x8VkZap61imM4ukBV26P8) | 2:09 |
 
-Snapshot ID: `MTY1ODIzNzk3OCwwMDAwMDA1MzAwMDAwMTgyMTZhZjg3NWMwMDAwMDE4MjE2YWY2YjE4`
+Snapshot ID: `MTY1ODIzNzk3OCwwMDAwMDAwMDQ4NTU0NTgwY2U0M2IxODFmZTdkYjc4NGZjYjM0ZGE1`

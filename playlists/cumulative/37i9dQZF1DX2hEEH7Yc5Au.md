@@ -4,13 +4,14 @@
 
 > 一起來支持女性音樂人的精采表現！Cover: 劉若英 \(Rene Liu\)
 
-181 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
+186 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Merry Feeling](https://open.spotify.com/track/7qS5awG1zfGCIgTDfQnU1d) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [A Merry Feeling](https://open.spotify.com/album/7iDrybj4pmCwGkL8MNssOI) | 3:08 | 2022-01-04 | 2022-02-02 |
 | [Aim High](https://open.spotify.com/track/4447zXCsgDBPORAbbz3Pia) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:43 | 2022-05-03 | 2022-06-01 |
-| [CACTUS](https://open.spotify.com/track/2LD5PEKbjFvNcCZ0pZkFts) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 4:07 | 2022-07-05 |  |
+| [CACTUS](https://open.spotify.com/track/2LD5PEKbjFvNcCZ0pZkFts) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 4:07 | 2022-07-05 | 2022-07-29 |
+| [CACTUS](https://open.spotify.com/track/38JPRtY1onei2PP2FPiwdf) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 4:07 | 2022-07-05 |  |
 | [Cappuccino](https://open.spotify.com/track/3hCyGYmytCmkExrFmT4I7w) | [Elva Hsiao](https://open.spotify.com/artist/6yTAPw3o7oDH7lhj34jvbH) | [蕭亞軒\-\-](https://open.spotify.com/album/2iFxrSfOHMw68At3k5JVE9) | 3:39 | 2022-05-31 | 2022-07-06 |
 | [Cazzo](https://open.spotify.com/track/4pJQMN5De2I6ztA5bGZwCL) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 4:05 | 2022-02-01 |  |
 | [Daydreaming](https://open.spotify.com/track/5u4pdxFOFonW0PcOeZxkFX) | [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Daydreaming](https://open.spotify.com/album/4dzARC6zQePZWFny78KhOi) | 3:43 | 2022-02-01 | 2022-03-08 |
@@ -23,12 +24,15 @@
 | [Nothing On You](https://open.spotify.com/track/1vYUQCh1MtcjBvyL5wQdMh) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [原來如此!!](https://open.spotify.com/album/7d13UhcqIboxcCDDQShRvN) | 4:24 | 2022-03-07 | 2022-05-04 |
 | [Our Pop Song](https://open.spotify.com/track/1n6pdgudBqigbk1SBl0miA) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ), [Ellen Loo](https://open.spotify.com/artist/3fzkQF4hAwDkHQhzp5G2uC) | [PLUTO](https://open.spotify.com/album/2dAegw6SJ1TYiX7s1DMNZz) | 4:45 | 2022-02-01 | 2022-05-04 |
 | [Retail Therapy](https://open.spotify.com/track/5rvc1stC0zZmiC35aXIbta) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Retail Therapy](https://open.spotify.com/album/7kv17pppmOWQk02mV9WozB) | 3:10 | 2022-07-05 |  |
+| [Return](https://open.spotify.com/track/7w9ynX2bnR5aSTjhSBzMrc) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [?](https://open.spotify.com/album/2o0O5RZWgBErMLfaWxO6ks) | 4:07 | 2022-07-05 |  |
 | [ROMADIW](https://open.spotify.com/track/7KYxCBxCcAUx6la1F0rWlL) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [ROMADIW](https://open.spotify.com/album/4MAouXbCXW1kvaN4xv3N1C) | 3:19 | 2022-01-04 | 2022-02-02 |
 | [things things things \- 2ession](https://open.spotify.com/track/6nSqrQoCHLAev5a7PUjryM) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2ession](https://open.spotify.com/album/55zxCUQ3WL7Pmjps4ROlrT) | 3:53 | 2022-05-03 | 2022-06-01 |
 | [uncertainty \- 2ession](https://open.spotify.com/track/3ngGiWWdR8zH8xhTH6xBnr) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [uncertainty \(2ession\)](https://open.spotify.com/album/5Tgi7vQhv2k3zqqfRBd0zX) | 3:34 | 2022-04-06 | 2022-05-04 |
 | [V & I \(回憶組曲新唱版\)](https://open.spotify.com/track/5MHN05L4SL4DursLCHj64L) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [V & I \(回憶組曲新唱版\)](https://open.spotify.com/album/5Urg68qIe7IDxL3SP7vSMJ) | 4:37 | 2022-03-17 | 2022-05-04 |
+| [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 | 2022-07-05 |  |
 | [VIVILAND](https://open.spotify.com/track/2YEHJGKtd0Njx7WTr9srBn) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [VIVILAND](https://open.spotify.com/album/5LLOZ6R2ydMhQgXktOJ1Nb) | 2:58 | 2022-03-07 | 2022-03-18 |
 | [Warning Signs](https://open.spotify.com/track/4zRcmMBLYd5nYpk5Jy1Gq7) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [Warning Signs](https://open.spotify.com/album/3oy0O4DrNBpqfY54WCayI6) | 3:29 | 2022-07-05 |  |
+| [You Better Not Think About Me](https://open.spotify.com/track/0mpo3w2SHXb3rsfepeG5Pr) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [Insignificance](https://open.spotify.com/album/1iD3lBhC6wCUgqNTIMEidj) | 4:40 | 2022-07-05 |  |
 | [You Like Me](https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [You Like Me](https://open.spotify.com/album/7gDEwYDkvHA7J2BOWnntBX) | 3:00 | 2022-01-04 | 2022-02-02 |
 | [一個人還是想著一個人 \- 《終極一班3》片尾曲](https://open.spotify.com/track/6jStVWa7OfddLSVdAxEyxR) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 4:52 | 2022-07-05 |  |
 | [一周的朋友 \- 電影《一周的朋友》主題曲](https://open.spotify.com/track/4YROtR4blPL5jWPlha52fJ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [一周的朋友 \(電影《一周的朋友》主題曲\)](https://open.spotify.com/album/2Ef4YcXyvgMRJRul0Rx8YA) | 4:34 | 2022-07-05 |  |
@@ -48,7 +52,7 @@
 | [你啊你啊 \- 電視劇「用九柑仔店」插曲](https://open.spotify.com/track/4nyO1azSuhT5JrETvzEahs) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [末路狂花](https://open.spotify.com/album/7c1IN5kHYhL8HbeGoahRKf) | 5:26 | 2022-01-04 | 2022-02-02 |
 | [你夠了](https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [你夠了](https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ) | 3:21 | 2022-05-03 |  |
 | [你存在](https://open.spotify.com/track/4o34abHrsUXOpw64ImhfjK) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [你存在](https://open.spotify.com/album/0SwyQIU4AGERP46HUUgSB0) | 4:51 | 2022-03-07 | 2022-06-01 |
-| [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 | 2022-01-04 |  |
+| [你就不要想起我](https://open.spotify.com/track/6AQNQq12X7SkN2VEdYhruE) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 4:40 | 2022-01-04 | 2022-07-29 |
 | [你敢不敢](https://open.spotify.com/track/2bkrZWJ7JRXPOal7pWiyDO) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [理想人生](https://open.spotify.com/album/7dKLZlMYgc3Cz6f0e49gbn) | 3:55 | 2022-07-05 |  |
 | [你是不是有點動心 \- Original](https://open.spotify.com/track/0FIRHGE4loKAH5o5ByiqG0) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [1:28 \(Original\)](https://open.spotify.com/album/39MCCipCiuLjzl76bY7NmU) | 4:28 | 2022-04-06 | 2022-07-06 |
 | [你是不會當樹嗎](https://open.spotify.com/track/51nFnRWMHTRq26EZd8F7PX) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [優雅的刺蝟](https://open.spotify.com/album/2IPPtaA2Fm3SiBS5UzWzkF) | 5:17 | 2022-02-01 | 2022-07-06 |
@@ -131,7 +135,7 @@
 | [查有此人 \- 電視劇 《茶金》主題曲](https://open.spotify.com/track/4jNBdaDWebxUPzWlTR3A4t) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [查有此人 \(電視劇 《茶金》主題曲\)](https://open.spotify.com/album/7GGF4MlH5BXGKxOLDNczs8) | 5:02 | 2022-01-04 | 2022-07-06 |
 | [歐若拉](https://open.spotify.com/track/7fIP72hHPvNFI8XPYsxwQ9) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [歐若拉](https://open.spotify.com/album/5sIp9R8I3ZuXESPpkBI4i2) | 4:19 | 2022-05-03 | 2022-07-06 |
 | [殘缺的彩虹](https://open.spotify.com/track/4XQYk51C9UaGZO3o5NSurv) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [沙發海](https://open.spotify.com/album/47gZvbKIMWIHFLOXnxhUZA) | 3:28 | 2022-01-04 | 2022-07-06 |
-| [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-05 |  |
+| [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-05 | 2022-07-29 |
 | [漢堡包](https://open.spotify.com/track/3hIzlOuqBKJnCINERJKiyY) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [漢堡包](https://open.spotify.com/album/0ileEFpKqNcdH0iAHeDESt) | 3:21 | 2022-02-01 | 2022-05-04 |
 | [為i篩檢](https://open.spotify.com/track/07iGY9KfBhKAPJPm8rQQKn) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [為i篩檢](https://open.spotify.com/album/74nFzcXwMxIwcWELYtQTqj) | 3:31 | 2022-01-04 | 2022-07-06 |
 | [為你的寂寞唱歌](https://open.spotify.com/track/7E3wQo9DsPArSkvQoGG18h) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [為你的寂寞唱歌](https://open.spotify.com/album/1AqZM8bfxSUIeQKBtO85ix) | 5:03 | 2022-01-04 | 2022-02-02 |
@@ -177,7 +181,7 @@
 | [遇上愛](https://open.spotify.com/track/33Qa9FMlFCbWHGaJCcnpEt) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [遇上愛](https://open.spotify.com/album/50xBfOCnFW58MOYmxljZiJ) | 3:51 | 2022-07-05 |  |
 | [遠距離練習 \(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/track/5pk0iFUSN5iiVzeUcAP3U2) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [遠距離練習 \(電影《我是真的討厭異地戀》主題曲\)](https://open.spotify.com/album/0pI3r6arJZNrPQnewiKTbI) | 5:12 | 2022-05-31 | 2022-07-06 |
 | [遺失的美好](https://open.spotify.com/track/3kcnCi8MfkMqFKeznqEEOE) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [Over The Rainbow](https://open.spotify.com/album/5pIMneTJoyhQMS9nVPsmcT) | 4:21 | 2022-01-04 |  |
-| [還](https://open.spotify.com/track/6SNgicL5iQ0kzLYBYGFa5E) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [還](https://open.spotify.com/album/0zjq0CI7NnFHttJ3TPSnry) | 4:10 | 2022-07-05 |  |
+| [還](https://open.spotify.com/track/6SNgicL5iQ0kzLYBYGFa5E) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [還](https://open.spotify.com/album/0zjq0CI7NnFHttJ3TPSnry) | 4:10 | 2022-07-05 | 2022-07-29 |
 | [還好](https://open.spotify.com/track/1PIPzILhqi26YRr7vpFLay) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [副駕駛座的風景](https://open.spotify.com/album/398wDYmZeYVab1qz5CKvFw) | 4:14 | 2022-01-04 | 2022-02-02 |
 | [還是會寂寞](https://open.spotify.com/track/6ATlLN9OAiHqiwOPKuD7DT) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [還是會寂寞](https://open.spotify.com/album/6QoQSkyOklbAKOdmHvgRuu) | 4:32 | 2022-02-01 | 2022-05-04 |
 | [都沒差 \(Equal in the Darkness\)](https://open.spotify.com/track/6BWZXxnygBWgq983XP9lIK) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Equal in the Darkness \(The Remixes\)](https://open.spotify.com/album/13Ctc58yxc9LaKBtq5L6bU) | 3:30 | 2022-03-07 | 2022-06-01 |
@@ -187,7 +191,8 @@
 | [陽光](https://open.spotify.com/track/4mJGxW5pj1YFwnooXVwTMI) | [張粹方](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [陽光](https://open.spotify.com/album/2qBnr5O6XwBdYfjVVDI44C) | 4:35 | 2022-02-01 | 2022-03-08 |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2022-05-04 | 2022-07-06 |
 | [雨愛](https://open.spotify.com/track/553GNiNqcudWfsF55RBDqz) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 | 2022-01-04 | 2022-02-02 |
-| [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-07-05 |  |
+| [電線桿上的鳥](https://open.spotify.com/track/1t4HsbksxswOkhArZcLZ5t) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/1Eq1IRbDhCLWfjbp0pNQ1p) | 3:55 | 2022-07-05 | 2022-07-29 |
+| [電線桿上的鳥](https://open.spotify.com/track/5qwczaEoBqJG2S5T2LqZKk) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [LÜCY](https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX) | 3:55 | 2022-07-05 |  |
 | [類似快樂的信 \- 電視劇《戀戀小酒窩》片尾曲](https://open.spotify.com/track/6rlJBa8cJCYcKZSs4QgYva) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [類似快樂的信 \(電視劇《戀戀小酒窩》片尾曲\)](https://open.spotify.com/album/5LzdZ3RwlsiRYjDEGkZJok) | 4:43 | 2022-02-01 | 2022-03-08 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

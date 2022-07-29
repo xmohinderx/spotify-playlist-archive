@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: afternoon bike ride
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,049 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,068 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 31 | [Tidal Wave](https://open.spotify.com/track/6batG48NWXXFdB9k6V2pK2) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Tidal Wave](https://open.spotify.com/album/5AVyDFH7uijN9sXikqMzIT) | 3:49 |
 | 32 | [Count on Me](https://open.spotify.com/track/0PJXUpD6Og6jy5gMv14knO) | [earth2zoe](https://open.spotify.com/artist/4weid71nei8BXt61GNFZiQ) | [Count on Me](https://open.spotify.com/album/1iMsm7bddlthQjZr1STePf) | 3:03 |
 | 33 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 |
-| 34 | [Nobody Like You](https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Nobody Like You](https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi) | 2:03 |
+| 34 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 |
 | 35 | [i could die](https://open.spotify.com/track/3M94jcrpYyJpMDkvoriPYC) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i could die](https://open.spotify.com/album/4qZnP5lDjnUhm9p8doZJBo) | 2:35 |
 | 36 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 |
 | 37 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/2z344vvIbh4Sk4oVgbgxFD) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/4239Z8wD4pZdLNYAM8imWe) | 2:38 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 53 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 |
 | 54 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 | 55 | [Ghost](https://open.spotify.com/track/2t7JR00zCp35xLqsxjRnyo) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Ghost](https://open.spotify.com/album/6fAMMhsoOgYNO5ktqLhJ9U) | 2:45 |
-| 56 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 |
+| 56 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 |
 | 57 | [Satellite](https://open.spotify.com/track/6kG8HRKKUAmhYVybHuumQs) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Birthdays In July](https://open.spotify.com/album/3BiFlyltCdmuo1z2Yjf85R) | 3:04 |
 | 58 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 |
 | 59 | [When It Kills Me](https://open.spotify.com/track/7heSG5oy44Si0bc8toOsYX) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [When It Kills Me: Pt\. 2](https://open.spotify.com/album/5g0ADZD2v0pRnkgX8UhHaX) | 3:41 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 63 | [I Could Die](https://open.spotify.com/track/7ygrZLtm1fACjfPTYHjBLK) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [I Could Die](https://open.spotify.com/album/788D1lbGLyKuaUtL6euBPv) | 2:47 |
 | 64 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 |
 | 65 | [11:45 in Nolita](https://open.spotify.com/track/1CBZo2mVGLyk1QLp6ZDXEB) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Flight Tag](https://open.spotify.com/album/2UBuPuR4sKbSRxJPtdJfR0) | 2:15 |
-| 66 | [Failed English](https://open.spotify.com/track/6D9exPFD7jVyYcvEo6UhFo) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Drowning in the Culture](https://open.spotify.com/album/15vCcROXi4C7fYl9Vrpgn7) | 2:43 |
+| 66 | [Failed English](https://open.spotify.com/track/16BnRyqzdVcurz038JKdje) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [DROWNING IN THE CULTURE](https://open.spotify.com/album/777rLqZdiuGhPNvkpzpfkx) | 2:43 |
 | 67 | [Addicted](https://open.spotify.com/track/3OEzp4UBS6xWHsyMHyKD6r) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5), [Jordan Everett](https://open.spotify.com/artist/2YSPK0T0sY2lSkZ7NL9Joz) | [Addicted](https://open.spotify.com/album/40TyLun5MURuGGNVeSvtq3) | 2:53 |
 | 68 | [fly](https://open.spotify.com/track/3jH30PGXQDOx1VP9nL75lU) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [it didn't know it was a butterfly](https://open.spotify.com/album/4EHYixLT41BFnQrBiBOOzI) | 3:19 |
 | 69 | [Overthinking](https://open.spotify.com/track/1BdZg2Id9Xq8n9w2owkoaz) | [Lupo](https://open.spotify.com/artist/2pnytFYOgeUDdpZSXnO0pk) | [Overthinking](https://open.spotify.com/album/7FaGK2kvmc8vskLYsVIJKa) | 2:55 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 72 | [Baby Magic](https://open.spotify.com/track/1OTvZnxAQucT1ybiU4j4yw) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Baby Magic](https://open.spotify.com/album/3FFPTfSqHeIfcndetAJht3) | 4:45 |
 | 73 | [SAVE ME](https://open.spotify.com/track/1sUsD3oaNVO0nIysvQUbo6) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [SAVE ME](https://open.spotify.com/album/1tsTfiUC8uHWQEL3KmevsD) | 2:13 |
 | 74 | [October Birds](https://open.spotify.com/track/23WVcYeTP5SUoOB7oXb32j) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [October Birds](https://open.spotify.com/album/2ttBuqxGYwwTHIK9XWUbtr) | 3:01 |
-| 75 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 |
+| 75 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 |
 | 76 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 |
 | 77 | [Mr\. Forgettable](https://open.spotify.com/track/39ZVkOVxjG8ypNdUSVNkxU) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Mr\. Forgettable](https://open.spotify.com/album/5BuLxv7glwXEzwPUddgXAa) | 3:07 |
 | 78 | [ohfuckimnotok](https://open.spotify.com/track/6w0t6KnnmifuC5N6O231Dk) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I'm A Disappointment](https://open.spotify.com/album/4TeUmayh0oTlUaMHkQPTXE) | 2:24 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 91 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 |
 | 92 | [Magazines](https://open.spotify.com/track/3jqkxkAoFA9T3ohkLmaeJs) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Magazines](https://open.spotify.com/album/5qiV1lVO8EGxnIwcBXtSJ2) | 2:43 |
 | 93 | [Never Be Okay](https://open.spotify.com/track/3suBx1FwnByNTLB0ba8LOA) | [Lilianna Wilde](https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY) | [Never Be Okay](https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P) | 2:16 |
-| 94 | [HOLD ON](https://open.spotify.com/track/6V0QJXTeEjlf8IGLg41Xxs) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/3MO5VVGYYxolic0GrkB1JI) | 3:50 |
+| 94 | [HOLD ON](https://open.spotify.com/track/21yOc5i6QFilcX7I3e5uQT) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [HOLD ON](https://open.spotify.com/album/00fxoc0ZvTu44iL61RE7Cx) | 3:50 |
 | 95 | [Path](https://open.spotify.com/track/1NKjucBIJZW67Q6MAD96dM) | [Tess Roby](https://open.spotify.com/artist/6LRMOu9O4czC6WcNZWIpOh) | [Path](https://open.spotify.com/album/0gR17mkWzcgXjWbwQCMHyc) | 3:28 |
 | 96 | [Crutches](https://open.spotify.com/track/4MdxHfa5fmIdvPwYXM56gS) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Crutches](https://open.spotify.com/album/4U59RIA6eisih8TNjz7CzP) | 2:50 |
 | 97 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Panic Attack](https://open.spotify.com/track/5aXqav0oqptwqmhdRrH5e8) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Panic Attack](https://open.spotify.com/album/72aADhEzG3mFn55ASNRahw) | 3:14 |
 | 100 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 |
 
-Snapshot ID: `MTY1ODUyMzgwOCwwMDAwMDMxMTAwMDAwMTgyMjdiOGY0Y2QwMDAwMDE4MjI2ZjM2ZWNm`
+Snapshot ID: `MTY1ODUyMzgwOCwwMDAwMDAwMDJiM2NlNDFiNzY4MzlmMWY4ODBlN2ZhNGY5MGFmODY1`

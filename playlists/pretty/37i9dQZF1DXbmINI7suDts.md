@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 629 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 648 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 49 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 |
 | 50 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 |
 
-Snapshot ID: `MTY1ODczNDczNCwwMDAwMDAwNjAwMDAwMTgyMzQ0YjZhZjEwMDAwMDE4MTRjYjczZDM3`
+Snapshot ID: `MTY1ODczNDczNCwwMDAwMDAwMGNlNjc1NzJlMGVjMDNmNTdmNzI2MThkZjliOWQ3N2Nk`

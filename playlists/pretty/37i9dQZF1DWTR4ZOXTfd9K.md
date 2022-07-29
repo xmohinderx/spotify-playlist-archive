@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,521 likes - 101 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,620 likes - 101 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 39 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 |
 | 40 | [Spinning Wheel \- Remastered](https://open.spotify.com/track/6jBlCAZroSB2ZSKXE08LXL) | [Dr\. Lonnie Smith](https://open.spotify.com/artist/1ZpPJRe9erwiWi548SKVyn) | [Drives](https://open.spotify.com/album/2teLy7sTvctRCe2CXCcYyn) | 7:37 |
 | 41 | [Mystic Brew](https://open.spotify.com/track/40XIh4aEp1Ts5F4XEQM2lj) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [Two Headed Freap](https://open.spotify.com/album/2raiYCmtaHV9E2RFtovGfE) | 4:14 |
-| 42 | [Slim's Return](https://open.spotify.com/track/5bx0tMIUHBVBtfcZjo2iab) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/2yJg6KbkrE5SShCFWkmXhG) | 3:56 |
+| 42 | [Slim's Return](https://open.spotify.com/track/74iAhjBEJ9PqlXxMSV73Ry) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Shades Of Blue: Madlib Invades Blue Note](https://open.spotify.com/album/6jRvDpOc9oi3sjQuoPK7if) | 3:56 |
 | 43 | [Afro Blue](https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Black Radio](https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X) | 5:07 |
 | 44 | [Harlem River Drive](https://open.spotify.com/track/6aP8aMehThSiaLJozzGeUh) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Blacks And Blues](https://open.spotify.com/album/1zCeavwN7ZhPIGR5phKxJv) | 7:50 |
 | 45 | [Down Here On The Ground \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6ydWUkitVqMOvXWuZl9CDm) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 6:48 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 100 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 |
 | 101 | [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 |
 
-Snapshot ID: `MTY0NjM4MjYxNiwwMDAwMDAzMTAwMDAwMTdmNTQwZDBmNDEwMDAwMDE3ZDc1NGVhYzRl`
+Snapshot ID: `MTY0NjM4MjYxNiwwMDAwMDAwMDgzZDAyNDJhMTVhZGM4ZGJjNTRjZTZmZDExMGFmN2Nk`

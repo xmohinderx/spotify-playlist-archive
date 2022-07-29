@@ -4,7 +4,7 @@
 
 > Feel 'New Establish Style Tempo' in here.
 
-74 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/48qDvQRSVFhyZylVKkXDVY)
+75 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/48qDvQRSVFhyZylVKkXDVY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Love Paint \(every afternoon\) \(2022 Remastered Version\)](https://open.spotify.com/track/7G0wgREvPSXWWRkuOuqPiy) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:07 | 2022-03-17 |  |
 | [Moon Dance](https://open.spotify.com/track/36eS6VwpO4kVvWJIhHeq87) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 3:39 | 2022-03-17 |  |
 | [Must](https://open.spotify.com/track/3bXXhkK0oTt5Df2ZNaiUgI) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Nocturne](https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW) | 4:06 | 2022-03-17 |  |
-| [NA.NA.NA.涙](https://open.spotify.com/track/3s0R32RLmGDGgodudUulDt) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/7DZjjPhb4umCBM6k5dfL8y) | 4:00 | 2022-03-17 |  |
+| [NA.NA.NA.涙](https://open.spotify.com/track/699Ha1qP9mDY9tkaRtIAyd) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/639mTWGqnCvPZ4KCXiQXHi) | 3:59 | 2022-03-17 |  |
+| [NA.NA.NA.涙](https://open.spotify.com/track/3s0R32RLmGDGgodudUulDt) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Bridge the World](https://open.spotify.com/album/7DZjjPhb4umCBM6k5dfL8y) | 4:00 | 2022-03-17 | 2022-07-29 |
 | [NEED IT \(BAEKHO SOLO\)](https://open.spotify.com/track/5vZgUGWzoPGqjIpIKoBlLK) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:23 | 2022-03-17 |  |
 | [Not Over You](https://open.spotify.com/track/2ziLxRduZ6AyEItQ3LcUdj) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Action](https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7) | 3:35 | 2022-03-17 |  |
 | [ONE KISS2](https://open.spotify.com/track/6f0EGkuzLjedCwGbfLx5qS) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [Q is.](https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv) | 4:13 | 2022-03-17 |  |

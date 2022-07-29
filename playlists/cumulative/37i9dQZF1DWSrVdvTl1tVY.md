@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Joshwa + Jaded + Eliza Legzdina
 
-270 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
+271 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Feel It](https://open.spotify.com/track/2MhH5aAORsvCgl3E8aOC1q) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Feel It](https://open.spotify.com/album/0Xlrltos3265GCIltt7uXX) | 3:00 | 2022-05-13 |  |
 | [Feelings](https://open.spotify.com/track/0m0Nae1WBwOJgCKhwDJNj5) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx), [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r) | [Feelings](https://open.spotify.com/album/1fasUB7a8BNQnEs3vVQATH) | 3:02 | 2022-01-21 | 2022-05-06 |
 | [Feels](https://open.spotify.com/track/7eJholoRepkkrXmXmPTo4g) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Just Aaron](https://open.spotify.com/artist/3P0enmC2QzJvz1alkJydUk), [Jinadu](https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp) | [Feels EP](https://open.spotify.com/album/2SGuIvWlWhB2M7xKXbFm8F) | 3:57 | 2022-01-07 | 2022-04-23 |
-| [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-18 |  |
+| [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-03-18 | 2022-07-29 |
+| [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-22 |  |
 | [Fiorucci Made Me Hardcore](https://open.spotify.com/track/4SXZvIjujIcmMtWbjnSwZT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Fiorucci Made Me Hardcore](https://open.spotify.com/album/1pidRw3j1dO2bHEWDCR0ep) | 3:51 | 2022-05-06 |  |
 | [Fits Together](https://open.spotify.com/track/6TQoD0YJbQxfVCVVDXLjNO) | [Cassy](https://open.spotify.com/artist/7JNP0OcJnBFXQWixpWmb5V) | [Fits Together](https://open.spotify.com/album/1R0D5PSIQ8kmSsqBjNe8TN) | 4:35 | 2022-06-23 |  |
 | [Flashbang](https://open.spotify.com/track/6gAsn8MZK8rQjrfLAkKS6d) | [Big Miz](https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo) | [FLASHBANG](https://open.spotify.com/album/515ceCQqo2wUsMtym2LokC) | 5:54 | 2022-02-18 | 2022-05-06 |

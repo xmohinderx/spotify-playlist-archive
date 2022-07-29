@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,218 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,410 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 17 | [O Chamado](https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M) | [O Chamado](https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08) | 3:26 |
 | 18 | [O Justo Não Treme](https://open.spotify.com/track/032k6qsKSvNfdBndLe4rCD) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [O Justo Não Treme](https://open.spotify.com/album/6aBT64xdKe8JcurjpmJTzA) | 2:49 |
 | 19 | [Floresta 2](https://open.spotify.com/track/20DD1yza3vjR3G2s41DHgi) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Secret Box, Vol\. 3](https://open.spotify.com/album/4axyzL2hcYgd97pR7ymhtw) | 2:49 |
-| 20 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [Mvk7](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
+| 20 | [Exibido](https://open.spotify.com/track/4Exjs0i5CFfKpIegAqcYOg) | [MVK](https://open.spotify.com/artist/6kZfwxPFYvs3pZVeEnDuxR), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Exibido](https://open.spotify.com/album/0tK8meVFOCcUPOOyFfueJs) | 2:22 |
 | 21 | [Nata](https://open.spotify.com/track/5dBKzhtE24DZKcF0SJ4gbm) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [Nata](https://open.spotify.com/album/7wzSMlu0oj2HAupFSeNuHn) | 2:05 |
 | 22 | [Malokeragem](https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Malokeragem](https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR) | 2:53 |
 | 23 | [Só Rock 2](https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Young Ganni](https://open.spotify.com/artist/1Hm3uKt8JXy3dnxIFfJUog), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Rock Danger, Vol\. 1](https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu) | 3:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 69 | [Sem Dó](https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Sem Dó](https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E) | 4:27 |
 | 70 | [Pérola](https://open.spotify.com/track/0OUFQe9fTQPUDh04a2IbaE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Pérola](https://open.spotify.com/album/5GJLRXEEBcQoPp1X8nFpyK) | 1:54 |
 
-Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDFjMzAwMDAwMTgyMjNkYmJmMGQwMDAwMDE4MjFkOTdhZTI1`
+Snapshot ID: `MTY1ODQ1ODk4MCwwMDAwMDAwMGVkMzZkZjQyMTgyYzRiNjc5ZTlkZTQyYmRmNDVjMzc1`

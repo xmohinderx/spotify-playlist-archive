@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "album": {
         "name": "The Bright Side",
         "url": "https://open.spotify.com/album/1XnJZ2AcYJKgTylccXfUsA"
       },
@@ -116,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/1P1NwZkprQPUmVs65JQ1lJ"
+      },
+      "artists": [
+        {
+          "name": "Evie Borgia",
+          "url": "https://open.spotify.com/artist/0sKrDcettSyvQJ58oAygJi"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181707,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/28DeebbtRZEcOLeVCzMhCo"
+    },
+    {
+      "album": {
         "name": "Big Energy",
         "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
       },
@@ -131,6 +167,32 @@
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p"
+        },
+        {
+          "name": "Bri Bryant",
+          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq"
     },
     {
       "album": {
@@ -192,6 +254,58 @@
     },
     {
       "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "album": {
+        "name": "1.6 (feat. Joywave)",
+        "url": "https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh"
+      },
+      "artists": [
+        {
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Oliver",
+          "url": "https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "Dangerous (feat. Joywave) - Oliver Remix",
+      "url": "https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP"
+    },
+    {
+      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/0oHV4B249PRzsiIsabn10Y"
       },
@@ -214,6 +328,36 @@
     },
     {
       "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
+    },
+    {
+      "album": {
         "name": "Start the Fire",
         "url": "https://open.spotify.com/album/6blU1V0zyCyyAx7xbScFks"
       },
@@ -229,6 +373,24 @@
       "duration_ms": 212307,
       "name": "Everybody Get Up",
       "url": "https://open.spotify.com/track/7L3qjYAK8WqoTwaV5dmRWO"
+    },
+    {
+      "album": {
+        "name": "Eyes Don\u2019t Lie",
+        "url": "https://open.spotify.com/album/5oga4aKPFCUavGaIVSCyK6"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236184,
+      "name": "Eyes Don\u2019t Lie",
+      "url": "https://open.spotify.com/track/2RSqIGxbnTQQjZIS5Iyakn"
     },
     {
       "album": {
@@ -362,6 +524,24 @@
     },
     {
       "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159735,
+      "name": "Good as Hell",
+      "url": "https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV"
+    },
+    {
+      "album": {
         "name": "Big Big Life",
         "url": "https://open.spotify.com/album/3y5IAPGjNS6zytNRCdzvwI"
       },
@@ -377,6 +557,42 @@
       "duration_ms": 202429,
       "name": "Good Day Coming",
       "url": "https://open.spotify.com/track/5U1iqZ6hcoOVbJQRrm5V11"
+    },
+    {
+      "album": {
+        "name": "Cardigan Club",
+        "url": "https://open.spotify.com/album/2qLVTHlk77pgn94xTYNw5i"
+      },
+      "artists": [
+        {
+          "name": "Cardigan Club",
+          "url": "https://open.spotify.com/artist/6L6CvdHfpiOkQqdlUORPvW"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184752,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/76XpZsw27HJv3uiMeBVKmD"
+    },
+    {
+      "album": {
+        "name": "HAUNTED",
+        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137851,
+      "name": "HAUNTED",
+      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
     },
     {
       "album": {
@@ -556,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Graffiti Ghosts",
+        "url": "https://open.spotify.com/album/7Kp0nFQAuBadQTrFByTipG"
+      },
+      "artists": [
+        {
+          "name": "Graffiti Ghosts",
+          "url": "https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "I'm Coming for You",
+      "url": "https://open.spotify.com/track/6bI19UEwJvcuxcWjqf8b2O"
+    },
+    {
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
@@ -592,6 +826,28 @@
     },
     {
       "album": {
+        "name": "Jungle Out There",
+        "url": "https://open.spotify.com/album/7MvMRHE6KvHdYeYMeYEVHy"
+      },
+      "artists": [
+        {
+          "name": "UNSECRET",
+          "url": "https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c"
+        },
+        {
+          "name": "Sam Tinnesz",
+          "url": "https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164004,
+      "name": "Jungle Out There",
+      "url": "https://open.spotify.com/track/0OuF9wJGSVKOKNAsM9qfOb"
+    },
+    {
+      "album": {
         "name": "Blood Harmony (Deluxe)",
         "url": "https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0"
       },
@@ -607,6 +863,28 @@
       "duration_ms": 190348,
       "name": "Let's Fall in Love for the Night",
       "url": "https://open.spotify.com/track/3n5te2xbUAPjzAnhLgA42z"
+    },
+    {
+      "album": {
+        "name": "Love Tonight (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158095,
+      "name": "Love Tonight - David Guetta Remix Edit",
+      "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
     },
     {
       "album": {
@@ -646,6 +924,24 @@
     },
     {
       "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197867,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
+    },
+    {
+      "album": {
         "name": "No One Dies From Love",
         "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
       },
@@ -661,6 +957,24 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "album": {
+        "name": "Good Days",
+        "url": "https://open.spotify.com/album/6NxyS1NtzsTBKRMwSI1eKF"
+      },
+      "artists": [
+        {
+          "name": "Goldbeam",
+          "url": "https://open.spotify.com/artist/6jKZwcKkpcHRGKco0O6TuZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194037,
+      "name": "Not Giving Up",
+      "url": "https://open.spotify.com/track/7EYR3GjoC4l9g66mRFvQ6F"
     },
     {
       "album": {
@@ -759,6 +1073,28 @@
       "duration_ms": 180690,
       "name": "Play with Fire (feat. Yacht Money)",
       "url": "https://open.spotify.com/track/7vguMCv8uVuZLiQJ156u3Z"
+    },
+    {
+      "album": {
+        "name": "Ready or Not (feat. Esthero)",
+        "url": "https://open.spotify.com/album/6cm8vvv5HPoiF13ebfCR9a"
+      },
+      "artists": [
+        {
+          "name": "Mischa \"Book\" Chillak",
+          "url": "https://open.spotify.com/artist/31nZOLCXFsFlhMP1BBhfsa"
+        },
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Ready or Not (feat. Esthero)",
+      "url": "https://open.spotify.com/track/0tjTzWkZwjoyQwd0NgnL3y"
     },
     {
       "album": {
@@ -922,6 +1258,78 @@
     },
     {
       "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/2yqmdglb3I3gjwPR7gyhFx"
+      },
+      "artists": [
+        {
+          "name": "Katie Boeck",
+          "url": "https://open.spotify.com/artist/1czkcUmBO9PZgJonjrCwKA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261557,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/5ic8rTak2Oayk2CAgcDtfL"
+    },
+    {
+      "album": {
+        "name": "Sequels",
+        "url": "https://open.spotify.com/album/4PBhKayEcOZG2LXoWiiMEO"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5zj80ti5GGOgMwXHWyqaDm"
+    },
+    {
+      "album": {
+        "name": "Royalty",
+        "url": "https://open.spotify.com/album/5bfZVXwPOwwKCShPhidWWJ"
+      },
+      "artists": [
+        {
+          "name": "Kat Meoz",
+          "url": "https://open.spotify.com/artist/3ONmBYM261icTRuD38N9vS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7LqUwzOSDAdQp111VQG9Mk"
+    },
+    {
+      "album": {
         "name": "Schmack!",
         "url": "https://open.spotify.com/album/4EgOBcsLkHKN3rEwVHYftt"
       },
@@ -958,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "West Coast",
+        "url": "https://open.spotify.com/album/1EM2RddQo9GGjrCsE1bk7a"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192947,
+      "name": "West Coast",
+      "url": "https://open.spotify.com/track/0sBJA2OCEECMs0HsdIQhvR"
+    },
+    {
+      "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/4fm1WiDmZsWHCxbjTZzU0U"
       },
@@ -977,6 +1403,28 @@
       "duration_ms": 180004,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/4oyUjJauYl4zVrozOYk3il"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197993,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
     },
     {
       "album": {

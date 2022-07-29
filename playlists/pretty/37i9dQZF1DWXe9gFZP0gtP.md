@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,555 likes - 239 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,776 likes - 239 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,7 +172,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 162 | [No me despiertes](https://open.spotify.com/track/3CkHOquzU3g6ekoYiuo5Fo) | [Artura Ponce Valles](https://open.spotify.com/artist/1V3rUG8q0KGU4wPVS0LIq1) | [No me despiertes](https://open.spotify.com/album/2ZiLz7HnpiTwkZiP3ZW7gF) | 3:07 |
 | 163 | [I et andet liv](https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [I et andet liv](https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG) | 3:06 |
 | 164 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 |
-| 165 | [awakening](https://open.spotify.com/track/00KTcw8dXiI7Dyxug4S0lt) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [awakening](https://open.spotify.com/album/1eGEmH0bohAxBY6oFXixqR) | 2:34 |
+| 165 | [awakening](https://open.spotify.com/track/33UkNFczzJIiLxSAuxfFsL) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [serenity \(sleep\)](https://open.spotify.com/album/4thjYHaj4xryisnspMw8Hv) | 2:34 |
 | 166 | [Waiting](https://open.spotify.com/track/4ZSGXijB26jEnbOknNDzTT) | [Selma Ström](https://open.spotify.com/artist/62k2sifCiGij6HZx3Z7dTp) | [Waiting](https://open.spotify.com/album/6VyRgVoqU92qlLzn67RsSJ) | 2:13 |
 | 167 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 |
 | 168 | [Ängarna](https://open.spotify.com/track/13RPTSwWAEQ2XU7PgHj6YQ) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Ängarna](https://open.spotify.com/album/48qEJ2qLRnVcrd9b4unnAJ) | 3:05 |
@@ -246,6 +246,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 236 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 |
 | 237 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 |
 | 238 | [Slumber](https://open.spotify.com/track/6A72j6HPfF8Y52nPK6BXRk) | [Richard Ramsey](https://open.spotify.com/artist/1wrKAWlJXtkD5eVfAa5IJi) | [Slumber](https://open.spotify.com/album/3RhTSEYSGcXwcDMmdx3jnx) | 1:58 |
-| 239 | [All Is Good](https://open.spotify.com/track/2taX1reIQRP5APwN3AYmDq) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/6BbtnPyEH0COVx1F0bsIpk) | 2:25 |
+| 239 | [All Is Good](https://open.spotify.com/track/2236Rw4h6OBwtNTtAUiyJ5) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:25 |
 
-Snapshot ID: `MTY1ODQ5ODU5MywwMDAwMDA5MTAwMDAwMTgyMjYzODMzYmUwMDAwMDE4MjE3MWQ0ZjQ2`
+Snapshot ID: `MTY1ODQ5ODU5MywwMDAwMDAwMDUyMDczMzRkYzI0MWUyYjVlMTZkMzlhNDllMzc1MjMw`

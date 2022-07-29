@@ -4981,6 +4981,32 @@
     {
       "album": {
         "name": "Ups and Downs",
+        "url": "https://open.spotify.com/album/2E8lMpGLtsymJsFTWE0NIX"
+      },
+      "artists": [
+        {
+          "name": "Stardog Lofi",
+          "url": "https://open.spotify.com/artist/3a745TfKuAA2igLhyg7eOU"
+        },
+        {
+          "name": "Tyler.l",
+          "url": "https://open.spotify.com/artist/4k4EIaXDU8iKDBMRhrV6Ic"
+        },
+        {
+          "name": "Andrew Kyrmpatsos",
+          "url": "https://open.spotify.com/artist/1PlxoLgN0m9punp5Ey6P7k"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129054,
+      "name": "Ups and Downs",
+      "url": "https://open.spotify.com/track/5BA74NJ2labkPFbuB2lMDi"
+    },
+    {
+      "album": {
+        "name": "Ups and Downs",
         "url": "https://open.spotify.com/album/6ZuKr33qLPXNe1npyLCeXI"
       },
       "artists": [
@@ -4999,7 +5025,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129054,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/6yffhtipWCT2gWOXiVbCcU"

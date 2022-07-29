@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Junior H en portada.
 
-59 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+60 songs - 3 hr 3 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [El Piquetito](https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Piquetito](https://open.spotify.com/album/1tj8rwJ06KkWtWYPR2Sgxc) | 2:50 | 2022-06-24 |  |
 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 | 2022-06-08 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
-| [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-02-04 |  |
+| [en el Refuego](https://open.spotify.com/track/2dDfS3g7VYjQLDqPnMY8oB) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [en el Refuego](https://open.spotify.com/album/2pGsHPDALnunKWNyvnr03f) | 3:04 | 2022-02-04 | 2022-07-29 |
+| [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-02-04 |  |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-02-04 |  |
 | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/track/1nW1RDf642yzi44mOMd4pM) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Gente Del Flaco \(En Vivo\)](https://open.spotify.com/album/5xXahZGlUcDx4oYEsAiBjg) | 2:40 | 2022-03-18 | 2022-06-25 |
 | [It's Really True](https://open.spotify.com/track/4qkiBGqsJkBB5EW2Lc9hLD) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [Para El Barrio](https://open.spotify.com/album/3h1QUeKikkGZKEU6B1L8yq) | 2:51 | 2022-02-21 | 2022-06-25 |

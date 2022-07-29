@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Blitzkrieg 2022 - Drammen",
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
@@ -5351,7 +5351,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171933,
       "name": "Give That Wolf A Banana",
       "url": "https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL"
@@ -6005,7 +6005,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -8190,6 +8190,32 @@
     },
     {
       "album": {
+        "name": "Komi\u00f0 A\u00f0 \u00dev\u00ed",
+        "url": "https://open.spotify.com/album/76NnsPLmHabEZVUajUoQWE"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "J\u00f3hanna Gu\u00f0r\u00fan",
+          "url": "https://open.spotify.com/artist/4KsGMNzBc29HS8e4QrVvDu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Komi\u00f0 A\u00f0 \u00dev\u00ed",
+      "url": "https://open.spotify.com/track/28MwPJYh5Ot9NMvRSLgyPy"
+    },
+    {
+      "album": {
         "name": "Kviksyndi",
         "url": "https://open.spotify.com/album/7dgmPnQnhzCCRDBmkCUQ09"
       },
@@ -9315,6 +9341,36 @@
       "duration_ms": 232060,
       "name": "L\u00edfi\u00f0 er yndislegt",
       "url": "https://open.spotify.com/track/1S8Jk828glVlmQVY4eGm9G"
+    },
+    {
+      "album": {
+        "name": "\u00cd dalnum - Eyjal\u00f6gin s\u00edvins\u00e6lu",
+        "url": "https://open.spotify.com/album/2ZnUg7a2Ku1bu5gE9c5iPU"
+      },
+      "artists": [
+        {
+          "name": "Bergsveinn",
+          "url": "https://open.spotify.com/artist/5iZQPGKEVJj1aEBbYxpAKX"
+        },
+        {
+          "name": "Magni",
+          "url": "https://open.spotify.com/artist/4TtHWUNqH65KPY075VxsmD"
+        },
+        {
+          "name": "Hreimur",
+          "url": "https://open.spotify.com/artist/3JqhkiwnK1tNP7CZj4vAKQ"
+        },
+        {
+          "name": "Grettisk\u00f3rinn",
+          "url": "https://open.spotify.com/artist/1sBsS0m5sZyZNur46MQw36"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233499,
+      "name": "L\u00edfi\u00f0 er yndislegt",
+      "url": "https://open.spotify.com/track/3kfClySQg8DNqklz946TQM"
     },
     {
       "album": {
@@ -10937,7 +10993,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -14523,7 +14579,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216448,
       "name": "The 30th",
       "url": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
@@ -16001,7 +16057,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -16565,6 +16621,32 @@
     {
       "album": {
         "name": "Segir ekki neitt",
+        "url": "https://open.spotify.com/album/1rB7LCX78vQQ5yl97QeSEy"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        },
+        {
+          "name": "Albatross",
+          "url": "https://open.spotify.com/artist/4lCNVlc7c5rZSqJZ9A8UTn"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236966,
+      "name": "\u00c1stin \u00e1 s\u00e9r sta\u00f0",
+      "url": "https://open.spotify.com/track/0rKRoNSGc9JlfR5Jpta1NP"
+    },
+    {
+      "album": {
+        "name": "Segir ekki neitt",
         "url": "https://open.spotify.com/album/2Bv0exG1Jz26BctYGmFI7E"
       },
       "artists": [
@@ -16935,6 +17017,28 @@
       "duration_ms": 186750,
       "name": "\u00d8ve Os P\u00e5 Hinanden",
       "url": "https://open.spotify.com/track/5KLDajsSLvA5n2zTwKycvF"
+    },
+    {
+      "album": {
+        "name": "F\u00f6studagsl\u00f6gin",
+        "url": "https://open.spotify.com/album/7tlwi8KaUrAqemzLec1r4W"
+      },
+      "artists": [
+        {
+          "name": "Halld\u00f3r Gunnar",
+          "url": "https://open.spotify.com/artist/15mE2JovaBOHOVgd2rkLC2"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269815,
+      "name": "\u00dear sem hjarta\u00f0 sl\u00e6r (\u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0arlag 2012)",
+      "url": "https://open.spotify.com/track/2lWTuFXXVJJ6VEBbXQqLkF"
     },
     {
       "album": {

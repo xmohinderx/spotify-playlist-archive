@@ -2657,6 +2657,32 @@
     {
       "album": {
         "name": "Replay",
+        "url": "https://open.spotify.com/album/4vWWXiXM8w1PwYXgCAtWq1"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        },
+        {
+          "name": "Heinzy",
+          "url": "https://open.spotify.com/artist/6ggdCM7twuPUqhASRIGZ2u"
+        },
+        {
+          "name": "Jeef Beatz",
+          "url": "https://open.spotify.com/artist/4cQelZIsreIHrD5WbvShqa"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124878,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4Kmt0TVjvOWO4VG3lylUcQ"
+    },
+    {
+      "album": {
+        "name": "Replay",
         "url": "https://open.spotify.com/album/3sn9P22zPZKbHmTknR3pe5"
       },
       "artists": [
@@ -2675,7 +2701,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 124878,
       "name": "Replay",
       "url": "https://open.spotify.com/track/54tnBgNP2xVdOaJQfkK1bn"

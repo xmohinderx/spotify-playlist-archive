@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 125%
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,242 likes - 52 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,420 likes - 51 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 23 | [Jenny \- Hearteye Speed Mix](https://open.spotify.com/track/5B3UxvXTvcjFoIFiCfhTH2) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(Hearteye Speed Mix\)](https://open.spotify.com/album/6qLuZEfEiDrVoyfTQXYs8t) | 2:58 |
 | 24 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
 | 25 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 |
-| 26 | [Faster \- Sped Up](https://open.spotify.com/track/1MShtYPzkiw12vVAooL4zy) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [A.O Ultra](https://open.spotify.com/album/5X2NqD0hP43ZuYEIcXcW1L) | 2:26 |
+| 26 | [Faster \(Sped Up\)](https://open.spotify.com/track/1tlPauwjMeBY5ZiQA5wLH3) | [A.Oonthebeat](https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J), [Jupyter](https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9) | [Faster \(Sped Up\)](https://open.spotify.com/album/6MYpoQeEO6l8yxd15w6Rce) | 2:26 |
 | 27 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 28 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 |
 | 29 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 38 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/5eWhCWydXXHguwz33H7SA1) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/2Fo4LNB3FGC6D0efPS5P0R) | 1:20 |
 | 39 | [Wasted \(Nightcore\)](https://open.spotify.com/track/0zSDG1EI7SGhM62M5iBiGI) | [Murkish](https://open.spotify.com/artist/5anIaPEacO0S5sVfxg6cVw), [Huken](https://open.spotify.com/artist/2i5ApczYJfGAYrtf7QmjCV) | [Wasted \(Nightcore\)](https://open.spotify.com/album/338C6sxO1twtEJn8YqGeh4) | 3:14 |
 | 40 | [go \- Higher & Faster](https://open.spotify.com/track/3KQfm7tt72I1Bv0umREOvi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go \(Higher & Faster\)](https://open.spotify.com/album/4AYcD9XP7uY260D49LoQU6) | 2:51 |
-| 41 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 |
+| 41 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 |
 | 42 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 | 43 | [No Sl33p](https://open.spotify.com/track/6i6whmV36EJmxs5zFahMrb) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 1:28 |
 | 44 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
@@ -58,7 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 48 | [All Falls Down \(feat\. Juliander\) \- Sped up Remix](https://open.spotify.com/track/2LFqAEqtqHPYDFVlOvseUR) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Sped up](https://open.spotify.com/album/15nKoT8899TsRJfPWaTkXW) | 2:55 |
 | 49 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 |
 | 50 | [zombie \(hyper\)](https://open.spotify.com/track/4YKfwSVcrK85r3TaUeUHGd) | [Ka$tro](https://open.spotify.com/artist/22AaKQKPmQXX1xFhc825rJ), [Keepitinside](https://open.spotify.com/artist/78cc6k0CLZpWYSO4x5xnro) | [reaper / zombie \(remixes\)](https://open.spotify.com/album/6rIGvpDxSbZABArWo8hwko) | 2:16 |
-| 51 | [mona lisa \- sped up](https://open.spotify.com/track/2K7YLBqzKW6sg8cOFC8cJG) | [xmxtoon](https://open.spotify.com/artist/19yU1mDfHim6ziKP6po5Pi) | [mona lisa](https://open.spotify.com/album/1T6pSOp4SAC3gnm1EHPYyK) | 2:42 |
-| 52 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
+| 51 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 |
 
-Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAxMTAwMDAwMTgyM2RjZmJhNWMwMDAwMDE4MTRhMzY1YWRm`
+Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAwMGYwZGMyYTNmYzY1NmYxNGQ4ZDU1NTIwMDVjMmFjMTU4`

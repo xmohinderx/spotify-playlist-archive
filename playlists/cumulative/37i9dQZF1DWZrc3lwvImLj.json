@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "A World Without Pain",
+        "url": "https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A World Without Pain",
+      "url": "https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK"
+    },
+    {
+      "album": {
+        "name": "A World Without Pain",
         "url": "https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd"
       },
       "artists": [
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 156000,
       "name": "A World Without Pain",
       "url": "https://open.spotify.com/track/536rm114S2ByPbh906pksj"
@@ -134,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Old Friends New Friends",
+        "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95942,
+      "name": "All Numbers End",
+      "url": "https://open.spotify.com/track/1QGlEQJkixOXsbijKqNTDB"
+    },
+    {
+      "album": {
         "name": "All Numbers End",
         "url": "https://open.spotify.com/album/2J8z6obkyZkBrBHUjiXERN"
       },
@@ -145,7 +181,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 95942,
       "name": "All Numbers End",
       "url": "https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5"
@@ -854,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6XmJ5PZcZSw0fq9ilu5Bth"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/0Gfi0NProXzPEQbgBaz48D"
+    },
+    {
+      "album": {
         "name": "Ethereal",
         "url": "https://open.spotify.com/album/3lsobtnj6yx1BiCvZkIbSs"
       },
@@ -865,7 +919,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203653,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/1kYSrILEgy19j5rxsskuM3"
@@ -1484,6 +1538,28 @@
     },
     {
       "album": {
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "S\u00f8ren Tarding",
+          "url": "https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Lillian",
+      "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
+    },
+    {
+      "album": {
         "name": "Lillian",
         "url": "https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A"
       },
@@ -1499,7 +1575,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq"
@@ -1751,10 +1827,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152123,
       "name": "Moods Anemoia",
       "url": "https://open.spotify.com/track/0VphIydrd19Os41mBxcn3K"
+    },
+    {
+      "album": {
+        "name": "Moods Anemoia",
+        "url": "https://open.spotify.com/album/2MgvsYBhmzWSWJe57z5Fvl"
+      },
+      "artists": [
+        {
+          "name": "Mario Vi\u00f1uela",
+          "url": "https://open.spotify.com/artist/4hAdpygElM5qnAI534XVRp"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "Moods Anemoia",
+      "url": "https://open.spotify.com/track/1OypaCAJWzAKpsh9PEX2fk"
     },
     {
       "album": {
@@ -1849,6 +1943,24 @@
     {
       "album": {
         "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mursejler",
+      "url": "https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C"
+    },
+    {
+      "album": {
+        "name": "Mursejler",
         "url": "https://open.spotify.com/album/1NIXN7r0W9hiSVB4cw9bPa"
       },
       "artists": [
@@ -1859,7 +1971,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc"
@@ -1913,10 +2025,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169200,
       "name": "Night",
       "url": "https://open.spotify.com/track/4eovAKOoQDLp09q27z4BgY"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/3slCbiuCaDhabpOf7PWrHN"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/5wEbriJa2SDzgsU18Xknql"
     },
     {
       "album": {
@@ -2615,10 +2745,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 198174,
       "name": "Solituned",
       "url": "https://open.spotify.com/track/1f88reZiqjn7GAyNy8TBRG"
+    },
+    {
+      "album": {
+        "name": "Solituned",
+        "url": "https://open.spotify.com/album/3HtvOePMqTZ6XXSUbzL5gi"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wiese",
+          "url": "https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198174,
+      "name": "Solituned",
+      "url": "https://open.spotify.com/track/2IBVV6781F86tJbtVP0M6k"
     },
     {
       "album": {
@@ -3095,7 +3243,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142616,
       "name": "Tout Doucement",
       "url": "https://open.spotify.com/track/3q3LCzKr47um4mipbkIplC"
@@ -3257,7 +3405,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223776,
       "name": "Unfamiliar",
       "url": "https://open.spotify.com/track/3MRwHipWorPelSEg7oee4X"

@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
 
-117 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+118 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [What a Man](https://open.spotify.com/track/5ChrWAc3mGRrRcKP3wBIPz) | [Niomí](https://open.spotify.com/artist/16rklq8X2KwUNb7D51VvhQ) | [What a Man](https://open.spotify.com/album/7kh5DqndbncrTfaoIeBmdk) | 4:22 | 2021-12-06 | 2022-03-05 |
 | [Yaqeen](https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Yaqeen](https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt) | 3:54 | 2021-12-06 | 2022-06-17 |
 | [You and I](https://open.spotify.com/track/7EsRRR13vJUBY4w3melVOe) | [Saba](https://open.spotify.com/artist/4MfJpctdjE0XWsRmTJbCMY), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [You and I](https://open.spotify.com/album/6vo4H24QWt2XyqhqnZbArD) | 3:29 | 2021-12-06 | 2022-03-05 |
-| [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 | 2021-12-06 |  |
+| [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 | 2021-12-06 | 2022-07-29 |
+| [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 | 2022-07-05 |  |
 | [Zooted](https://open.spotify.com/track/62PH2BRDOFw0AHZYar3zfD) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Zooted](https://open.spotify.com/album/4yL8vNrO9vE7i59jK28Xhi) | 3:41 | 2021-12-06 | 2022-03-05 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

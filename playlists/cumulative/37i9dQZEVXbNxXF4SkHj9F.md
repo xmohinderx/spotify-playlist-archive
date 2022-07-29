@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-797 songs - 1 day 21 hr 15 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
+799 songs - 1 day 21 hr 22 min - [published](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Holly Jolly Christmas \- Single Version](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-26 | 2021-12-27 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-20 |
 | [a p p l y i n g \. p r e s s u r e](https://open.spotify.com/track/1d7q712nXjG98HiwHk7HFS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:57 | 2021-05-16 | 2021-05-17 |
-| [A Psalm of Life](https://open.spotify.com/track/1E14FuM0BRaHAJSJ9YxMVu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:53 | 2022-07-01 |  |
+| [A Psalm of Life](https://open.spotify.com/track/1E14FuM0BRaHAJSJ9YxMVu) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:53 | 2022-07-01 | 2022-07-29 |
 | [A Psalm of Life](https://open.spotify.com/track/3nnp4wrQCJPbaSZPYt5Wci) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:53 | 2022-06-06 | 2022-07-02 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-13 |
 | [A Walk](https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Love, Yerin](https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ) | 3:25 | 2021-09-12 | 2021-10-02 |
@@ -160,6 +160,7 @@
 | [Crush](https://open.spotify.com/track/68kHuoBxtNcWZWxBu1V007) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:49 | 2021-10-23 | 2021-10-30 |
 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 | 2021-04-01 | 2021-04-06 |
 | [Daisy \(feat\. pH\-1\)](https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Daisy](https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA) | 3:09 | 2021-04-10 | 2021-04-16 |
+| [Dangerously](https://open.spotify.com/track/4BLpd6QINAs4UXd1lVtdhj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD) | 3:19 | 2022-07-28 |  |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-03-02 | 2022-04-20 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-17 | 2022-05-15 |
 | [Darl+ing](https://open.spotify.com/track/2j1Es5qEl4pD8GEe2WsYgP) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:56 | 2022-05-28 | 2022-07-23 |
@@ -354,7 +355,7 @@
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-16 | 2021-12-29 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-12-19 | 2021-12-27 |
 | [It’s Yours](https://open.spotify.com/track/0a4svaW6XiBnyoXECjcmGw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:44 | 2022-03-29 | 2022-04-03 |
-| [I’m not myself when I’m around you \(Feat\. 10CM\)](https://open.spotify.com/track/56kfw7CKOCgcYqaoDU5o0B) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [I’m not myself when I’m around you](https://open.spotify.com/album/3lb7CQlyZU5YN9Ni9jbdx3) | 3:31 | 2022-07-23 |  |
+| [I’m not myself when I’m around you \(Feat\. 10CM\)](https://open.spotify.com/track/56kfw7CKOCgcYqaoDU5o0B) | [DINDIN](https://open.spotify.com/artist/63cvWayCvPbWYNDi537w0z), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [I’m not myself when I’m around you](https://open.spotify.com/album/3lb7CQlyZU5YN9Ni9jbdx3) | 3:31 | 2022-07-23 | 2022-07-29 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-14 |
 | [Jail pt 2](https://open.spotify.com/track/7f1w2rZoIf7g56McEUTh5W) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-09-02 | 2021-09-05 |
 | [Je T'aime](https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Je T'aime](https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH) | 4:21 | 2021-06-02 | 2021-06-09 |
@@ -646,6 +647,7 @@
 | [so let’s love](https://open.spotify.com/track/7IDUo5rlyHw08w8l3UpAcE) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:42 | 2021-04-22 | 2021-04-23 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-13 | 2021-06-27 |
 | [Some Nights](https://open.spotify.com/track/1Q03Eti3fdmnN7DA2Y6gAp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:27 | 2022-02-15 | 2022-02-28 |
+| [Sparkling](https://open.spotify.com/track/34lKiKHCKhMe9PAfGcdFNE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/5KLYmSbrtpo5pqjOMzDDLi) | 3:06 | 2022-07-28 |  |
 | [Spring Day](https://open.spotify.com/track/5xFoqABWVj4FIAf7vQX8FN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/5liZcQeYT5zHkwdZbtRa3M) | 4:34 | 2021-06-05 | 2021-06-06 |
 | [Spring Day](https://open.spotify.com/track/2j1fFjWHCI9KJSwcuYAOyF) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 4:34 | 2022-06-11 | 2022-06-18 |
 | [SSKK](https://open.spotify.com/track/4xZtkGQiFjG1DNA6bQYyHg) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [Ghenn](https://open.spotify.com/album/69FHIXspR1TqcpIfmS0ZZR) | 3:35 | 2022-03-04 | 2022-03-07 |

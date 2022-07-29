@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 55 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 55 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 54 | [A Love \[Underground Mix\]](https://open.spotify.com/track/3QSPU5Fa94Bcg5KNxBbZl1) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Scum](https://open.spotify.com/album/3UbDaNFOlwDEUTm4SbeCRS) | 7:57 |
 | 55 | [45°49'57"6°51'53"](https://open.spotify.com/track/22g6cVx02D4mcNkdqbbiMn) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [45°49'57"6°51'53"](https://open.spotify.com/album/1fl08UN9pZE6gn7TiKOD4q) | 4:28 |
 
-Snapshot ID: `MTY1ODczNzk3OCwwMDAwMDAwMzAwMDAwMTgyMzQ3Y2ViMTcwMDAwMDE4MjI2NjUxODlk`
+Snapshot ID: `MTY1ODczNzk3OCwwMDAwMDAwMDliNTRlMDJkOWE4ODk2MTVjZDgzYWE4ZjY5ZGE4NWE5`

@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "All\u00e1 Cay\u00f3",
       "url": "https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213405,
       "name": "Amor Enfermo",
       "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 217626,
       "name": "Aqu\u00ed No Hay Playa",
       "url": "https://open.spotify.com/track/4PRJD9T23GQKQYKhJQcGGY"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 165046,
       "name": "Ay! Ay! Amor!",
       "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303866,
       "name": "A\u00f1ejo W",
       "url": "https://open.spotify.com/track/2G1xuAHETbSHApZEjJcnMm"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 186848,
       "name": "Bailando Como Mono",
       "url": "https://open.spotify.com/track/7GOBsKucPG5Bh8qzStmrQ6"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248626,
       "name": "Brindo Por Ti",
       "url": "https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ"
@@ -507,10 +507,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "album": {
+        "name": "El Vals Del Obrero",
+        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265213,
+      "name": "Cannabis",
+      "url": "https://open.spotify.com/track/3pKEYZcL428BwPWiP2udxz"
     },
     {
       "album": {
@@ -533,7 +551,7 @@
     {
       "album": {
         "name": "99%",
-        "url": "https://open.spotify.com/album/28ZYz1HPTD0tqLexVmkm5I"
+        "url": "https://open.spotify.com/album/4XqbCTI7eyQUZ4pnya9hOo"
       },
       "artists": [
         {
@@ -544,6 +562,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278234,
+      "name": "Canto a la Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3Omx1tugYI03ULA1zcLCj6"
+    },
+    {
+      "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/28ZYz1HPTD0tqLexVmkm5I"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 282933,
       "name": "Canto a la rebeli\u00f3n",
       "url": "https://open.spotify.com/track/29iWR8iGZRzuBl6INU3qsC"
@@ -641,7 +677,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 329026,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
@@ -681,7 +717,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 254145,
       "name": "Como Te Voy a Olvidar - Edit",
       "url": "https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206694,
       "name": "Convaleciente",
       "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
@@ -927,7 +963,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-06",
+      "date_removed": null,
       "duration_ms": 262157,
       "name": "Dejando Libre el Amor",
       "url": "https://open.spotify.com/track/4IvYW5NRB5U8FE1nHTQkGn"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 302813,
       "name": "Delfino",
       "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
@@ -963,10 +999,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248066,
       "name": "Demasiada Presi\u00f3n",
       "url": "https://open.spotify.com/track/4TeNu0jKZZ8GsMIgGfKGuY"
+    },
+    {
+      "album": {
+        "name": "Los Fabulosos Cadillacs - Vol. V",
+        "url": "https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252426,
+      "name": "Demasiada Presi\u00f3n - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF"
     },
     {
       "album": {
@@ -999,7 +1053,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 198053,
       "name": "Despideme",
       "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
@@ -1089,10 +1143,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "album": {
+        "name": "Lucha Rock",
+        "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "El Esqueleto",
+      "url": "https://open.spotify.com/track/0CucYEXuGngb0vfUMpOmID"
     },
     {
       "album": {
@@ -1107,7 +1179,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 277600,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/5a12LL01YPhltXHeuWjSnG"
@@ -1187,7 +1259,7 @@
     {
       "album": {
         "name": "El Vals Del Obrero",
-        "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
+        "url": "https://open.spotify.com/album/3RDhOpQknjJcp0D9kZ7E6V"
       },
       "artists": [
         {
@@ -1198,6 +1270,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 277906,
+      "name": "El Vals del Obrero",
+      "url": "https://open.spotify.com/track/5JaVj5jhYQGYTo7C7nAf9p"
+    },
+    {
+      "album": {
+        "name": "El Vals Del Obrero",
+        "url": "https://open.spotify.com/album/2AfAFiYuMD6XYFIaUiVNcf"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 277933,
       "name": "El Vals del Obrero",
       "url": "https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC"
@@ -1407,7 +1497,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205933,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB"
@@ -1523,7 +1613,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171243,
       "name": "Hey!",
       "url": "https://open.spotify.com/track/43KUPORhukozt0vzeEcEO1"
@@ -1541,7 +1631,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/6MXl7W1mWO7hVDMoDfsibq"
@@ -1559,7 +1649,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 293247,
       "name": "Infiernos",
       "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
@@ -1577,7 +1667,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-18",
+      "date_removed": null,
       "duration_ms": 221306,
       "name": "Jaia",
       "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
@@ -1675,7 +1765,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304986,
       "name": "Kil\u00f3metros - En Vivo",
       "url": "https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw"
@@ -1787,7 +1877,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-16",
+      "date_removed": null,
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
@@ -1805,7 +1895,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3"
@@ -1823,7 +1913,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 314772,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
@@ -1848,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+    },
+    {
+      "album": {
         "name": "Camino Clandestino",
         "url": "https://open.spotify.com/album/5zueG558h4DXnC7KORcaLm"
       },
@@ -1859,7 +1967,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239693,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/2b8OrrQmDScF3TtbDvwWfy"
@@ -1895,7 +2003,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 284924,
       "name": "La Rumba del Mezcal",
       "url": "https://open.spotify.com/track/1Awj73E7Zc3Yc7KwPFYJef"
@@ -1913,7 +2021,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 243813,
       "name": "La Zona del Terror",
       "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
@@ -1939,6 +2047,28 @@
     {
       "album": {
         "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Labios Rojos",
+      "url": "https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7"
+    },
+    {
+      "album": {
+        "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/08kUnQ8s0LRXCnL3u5h7wW"
       },
       "artists": [
@@ -1953,7 +2083,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219386,
       "name": "Labios Rojos",
       "url": "https://open.spotify.com/track/4zwddhqNpRKrDNYkiG8f3y"
@@ -1997,7 +2127,7 @@
     {
       "album": {
         "name": "Mugre",
-        "url": "https://open.spotify.com/album/2oDt2uwP1dwAlwZx71WmPY"
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
       "artists": [
         {
@@ -2008,6 +2138,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Levanten las Copas",
+      "url": "https://open.spotify.com/track/5qeQlJTeVzakGj1Y1VPgjP"
+    },
+    {
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/2oDt2uwP1dwAlwZx71WmPY"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 210840,
       "name": "Levanten las Copas",
       "url": "https://open.spotify.com/track/3B16kdIfgnqJ8U4SVQDeKA"
@@ -2169,7 +2317,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 198373,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
@@ -2317,7 +2465,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 156655,
       "name": "Morocha",
       "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
@@ -2459,7 +2607,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217133,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
@@ -2641,10 +2789,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194840,
       "name": "Noreste Caliente",
       "url": "https://open.spotify.com/track/3RcbqfgP46e6HgtYpWCzIl"
+    },
+    {
+      "album": {
+        "name": "The Pre End Of The World Soundtrack",
+        "url": "https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd"
+      },
+      "artists": [
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Noreste Caliente",
+      "url": "https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy"
     },
     {
       "album": {
@@ -2677,7 +2843,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297034,
       "name": "Olvidar",
       "url": "https://open.spotify.com/track/1Kff9M64hU5w2sC8RpxT51"
@@ -2725,7 +2891,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 246100,
       "name": "Osito Dormil\u00f3n (feat. Tony Hernandez El Gran Silencio)",
       "url": "https://open.spotify.com/track/0AisSsUIcNNDPBFUuShQxr"
@@ -2899,7 +3065,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273559,
       "name": "Pasa la Vida",
       "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
@@ -3031,7 +3197,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 146452,
       "name": "Puto Alcohol",
       "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
@@ -3071,7 +3237,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 247800,
       "name": "P\u00e1rate Y Mira",
       "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
@@ -3107,7 +3273,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179720,
       "name": "Que Corran",
       "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
@@ -3129,7 +3295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149269,
       "name": "Queda en Esta Noche",
       "url": "https://open.spotify.com/track/1PA14CUHy7pwikmVZCCuj7"
@@ -3169,7 +3335,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
@@ -3357,7 +3523,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 189133,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
@@ -3379,6 +3545,24 @@
       "duration_ms": 219649,
       "name": "Sanguchito",
       "url": "https://open.spotify.com/track/4LJqVbAfZleoJFKeINXEWb"
+    },
+    {
+      "album": {
+        "name": "Anakena (Deluxe)",
+        "url": "https://open.spotify.com/album/36txqKziJ3cJlk0mrbR8rG"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219649,
+      "name": "Sanguchito",
+      "url": "https://open.spotify.com/track/7cFJVQ6Slyv5y4cVJYTFcO"
     },
     {
       "album": {
@@ -3429,7 +3613,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235602,
       "name": "Seamos m\u00e1s que amigos - Remastered",
       "url": "https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok"
@@ -3447,7 +3631,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 248706,
       "name": "Selva",
       "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
@@ -3473,7 +3657,7 @@
     {
       "album": {
         "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
+        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
       },
       "artists": [
         {
@@ -3484,6 +3668,24 @@
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
+    },
+    {
+      "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 205693,
       "name": "Se\u00f1orita a Mi Me Gusta Su Style",
       "url": "https://open.spotify.com/track/2jvsbpAxcBkFp6VScarkzT"
@@ -3501,10 +3703,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360071,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
+    },
+    {
+      "album": {
+        "name": "96 - 05",
+        "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
     },
     {
       "album": {
@@ -3519,7 +3739,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133080,
       "name": "Si Tu Boquito Fuera",
       "url": "https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW"
@@ -3537,7 +3757,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228360,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
@@ -3667,7 +3887,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "Skalari Rude Klub (SRK)",
       "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
@@ -3715,10 +3935,40 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217773,
       "name": "Skapate",
       "url": "https://open.spotify.com/track/0mGNPivC5BpTowR3NF45bD"
+    },
+    {
+      "album": {
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/0r0eibQp01HGqJ2G5ZI7ZC"
+        },
+        {
+          "name": "Cheko Biloba",
+          "url": "https://open.spotify.com/artist/15Iv3aQ1jLdyRLvbJ5Vdo2"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/4y4EPNQdZnWTw0XoNWF7c1"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Sk\u00e1pate",
+      "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
     },
     {
       "album": {
@@ -3769,7 +4019,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-14",
+      "date_removed": null,
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
@@ -3787,7 +4037,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 194493,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/5S7u325wiVi83XXuqmJQrw"
@@ -3827,7 +4077,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 222306,
       "name": "Song Bomb",
       "url": "https://open.spotify.com/track/112dsuBzOAVvDbY7qvkhDD"
@@ -3885,7 +4135,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-16",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "Spanish Bombs",
       "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
@@ -3907,7 +4157,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
@@ -3961,7 +4211,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-22",
+      "date_removed": null,
       "duration_ms": 206039,
       "name": "S\u00f3lo Vivir",
       "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
@@ -3979,7 +4229,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239666,
       "name": "Tanto amor me marea",
       "url": "https://open.spotify.com/track/4jGSfblxObklndcGJprEoa"
@@ -4015,7 +4265,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 204933,
       "name": "Te Quiero Comer La Boca",
       "url": "https://open.spotify.com/track/6Y5k0NupErwLzOQXDxfVFa"
@@ -4207,10 +4457,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196093,
       "name": "Total",
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Tu Alma M\u00eda & Adelita",
+      "url": "https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8"
     },
     {
       "album": {
@@ -4225,7 +4493,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229426,
       "name": "Tu Alma M\u00eda & Adelita",
       "url": "https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa"
@@ -4243,7 +4511,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239253,
       "name": "Tu Especialidad",
       "url": "https://open.spotify.com/track/1Sm9CTdh9zjU3OZ7laWbIn"
@@ -4261,10 +4529,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224813,
       "name": "Tu Que Pediras",
       "url": "https://open.spotify.com/track/3oGvCVIV0IBTfNwRMiFkfj"
+    },
+    {
+      "album": {
+        "name": "The Maskatonians All Stars And Friends",
+        "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "Tu Que Pediras",
+      "url": "https://open.spotify.com/track/43rvPyr8S3YGjE61efRlrw"
     },
     {
       "album": {
@@ -4315,7 +4601,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203173,
       "name": "Una Lagrima Por Ti 2005",
       "url": "https://open.spotify.com/track/2bYf9Popw7l8tdffqeFj4v"
@@ -4373,10 +4659,36 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 235786,
       "name": "Voy a Volver",
       "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
+    },
+    {
+      "album": {
+        "name": "Latin Ska Force",
+        "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        },
+        {
+          "name": "Diego Benlliure",
+          "url": "https://open.spotify.com/artist/632hZrvw4igilYgJr25TNF"
+        },
+        {
+          "name": "Jos\u00e9 Grela",
+          "url": "https://open.spotify.com/artist/6asUVMkGHy6e5CeyRtygEn"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "War 4 Peace",
+      "url": "https://open.spotify.com/track/3beXppvBycZ5qD0ZNpRiXb"
     },
     {
       "album": {
@@ -4399,7 +4711,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 206533,
       "name": "War 4 Peace",
       "url": "https://open.spotify.com/track/7K7TlxnuXC5zRCnTvpRxde"
@@ -4457,7 +4769,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174400,
       "name": "Yo No Me Sentar\u00eda en Tu Mesa",
       "url": "https://open.spotify.com/track/7yJe8pOHppu5pqLxd15xlc"
@@ -4493,10 +4805,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 212426,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/7d6HMhA8yAsWgavZCj5rPo"
+    },
+    {
+      "album": {
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/2PKkCGoCc4idF91R6RvFEN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdNw9eeM3mpo"

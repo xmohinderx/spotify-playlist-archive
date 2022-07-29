@@ -265,7 +265,7 @@
     {
       "album": {
         "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6"
+        "url": "https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome"
       },
       "artists": [
         {
@@ -276,6 +276,24 @@
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240666,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U"
+    },
+    {
+      "album": {
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4GoINkOwOUS17uL017LeP6"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 241666,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/66sgJDWffGSEw3huWPjNWA"
@@ -300,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295454,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj"
       },
@@ -311,7 +347,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI"
@@ -668,6 +704,24 @@
     },
     {
       "album": {
+        "name": "living room sessions 2",
+        "url": "https://open.spotify.com/album/3LJZtEJFAbw8SFdANQ2C9X"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135288,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/5SLwFfhLzD8ekzhIaeQkej"
+    },
+    {
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/7tCmNKU1tMnDLNCqcfMvTD"
       },
@@ -679,7 +733,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135288,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB"
@@ -965,10 +1019,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130705,
       "name": "iknowiknow",
       "url": "https://open.spotify.com/track/2eawTHlYcv1LilpGnV3VOe"
+    },
+    {
+      "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/0ucs6jX7iFtv1e1SS8HTO5"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130705,
+      "name": "iknowiknow",
+      "url": "https://open.spotify.com/track/7ig0m6wR3xUP0ECJR1iJkL"
     },
     {
       "album": {
@@ -1441,10 +1513,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 273112,
       "name": "No Body",
       "url": "https://open.spotify.com/track/1QNsIhJE16pNICoOa7R1VW"
+    },
+    {
+      "album": {
+        "name": "No Body",
+        "url": "https://open.spotify.com/album/62zBV884X3VSsrxqlcYsoY"
+      },
+      "artists": [
+        {
+          "name": "Living Hour",
+          "url": "https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273112,
+      "name": "No Body",
+      "url": "https://open.spotify.com/track/3sii6IckVtDEZrMiEeVdFG"
     },
     {
       "album": {
@@ -1549,10 +1639,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 223786,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/2Ru68Iv4ZT40sjxPB2XuSb"
+    },
+    {
+      "album": {
+        "name": "A Pillar of Salt (Deluxe)",
+        "url": "https://open.spotify.com/album/7pEhrrMcqjsQRLImLZNhCC"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223786,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/6yHqOUZB0NzzL2prJQmZdB"
     },
     {
       "album": {
@@ -1767,6 +1875,24 @@
     {
       "album": {
         "name": "House to House",
+        "url": "https://open.spotify.com/album/120E5ApM0a40DxBE42tK0r"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "See This Through",
+      "url": "https://open.spotify.com/track/1Wk4JJfIWWM2ZAWC6b1yit"
+    },
+    {
+      "album": {
+        "name": "House to House",
         "url": "https://open.spotify.com/album/1bgLbawfHvuMhOEE9WQA8w"
       },
       "artists": [
@@ -1777,7 +1903,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207253,
       "name": "See This Through",
       "url": "https://open.spotify.com/track/1wxz9GnfLDCirNWULzTFFq"
@@ -2143,10 +2269,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248533,
       "name": "Sweet Home",
       "url": "https://open.spotify.com/track/2fnoVSzvOqstrEIzJ9F0Mh"
+    },
+    {
+      "album": {
+        "name": "Sweet Home",
+        "url": "https://open.spotify.com/album/3JVnUmC4nMLjgMtztt26I4"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248533,
+      "name": "Sweet Home",
+      "url": "https://open.spotify.com/track/6gxWNvzbOJnSFqU0GlzHPR"
     },
     {
       "album": {
@@ -2168,6 +2312,24 @@
     },
     {
       "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260903,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/1f2o76aJKHGCeMx5vH7iyP"
+    },
+    {
+      "album": {
         "name": "Top Down",
         "url": "https://open.spotify.com/album/1OLO1IBqSnjI1NNBBt1CGW"
       },
@@ -2179,7 +2341,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260903,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7oVQfidyQVhkxUT4Lg1foI"
@@ -2511,10 +2673,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222367,
       "name": "What In The World",
       "url": "https://open.spotify.com/track/2tnP8nZxy6lx3qow73IZ7A"
+    },
+    {
+      "album": {
+        "name": "Come Morning",
+        "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
+      },
+      "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222367,
+      "name": "What in the World",
+      "url": "https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv"
     },
     {
       "album": {

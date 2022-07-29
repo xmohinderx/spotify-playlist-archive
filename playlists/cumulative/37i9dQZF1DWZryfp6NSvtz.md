@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Jack White
 
-1,499 songs - 3 day 14 hr 27 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,500 songs - 3 day 14 hr 30 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Cold Charlie](https://open.spotify.com/track/3MGvORkRndr4qpEUroQ5mj) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [TV Boyfriends](https://open.spotify.com/album/1ReyIXP1ge46Vo1t5NFv9p) | 2:32 | 2022-05-26 | 2022-06-03 |
 | [Colm's Conquest](https://open.spotify.com/track/5BgZICkaefcFYwABOQx84Z) | [Secondhand Sound](https://open.spotify.com/artist/7F5gkuNk8gKIYIQtXJNFAw) | [Colm's Conquest](https://open.spotify.com/album/1HuArP4NcwTjAKSfgxIObl) | 2:51 | 2022-05-12 | 2022-05-20 |
 | [Comatose](https://open.spotify.com/track/78NXFhK5TfE7MCbdUHPu3i) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Comatose](https://open.spotify.com/album/4ewoGU67cjp00afCZRjRiY) | 3:10 | 2022-05-19 | 2022-05-27 |
-| [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 | 2022-07-22 |  |
+| [Come Apart](https://open.spotify.com/track/2qkAa6IrUy5WWizVE1rpeh) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/2qimyFod7MXk4bVSuXY1lQ) | 3:04 | 2022-07-22 | 2022-07-29 |
+| [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 | 2022-07-22 |  |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2022-03-18 | 2022-03-25 |
 | [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 | 2022-04-28 | 2022-05-13 |
 | [Compliance](https://open.spotify.com/track/27hktiddJj63mK6gZAQp4q) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Compliance](https://open.spotify.com/album/6RDo0wdixcLsAyJY6YeWm0) | 4:10 | 2022-03-18 | 2022-03-25 |
@@ -317,7 +318,7 @@
 | [Decompress](https://open.spotify.com/track/0MjcjSg3l138CERciX7Zry) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:39 | 2022-03-18 | 2022-03-25 |
 | [Deconstruction](https://open.spotify.com/track/6YbHDcOmcwMDgxIJi82syL) | [SKIES](https://open.spotify.com/artist/6ibOZLYvvJ6y2LcUekrZKK) | [Deconstruction](https://open.spotify.com/album/3rTwURnrOn2ZzOBIxVzrCB) | 3:46 | 2022-06-30 | 2022-07-09 |
 | [DEEMED ! \- b\-side](https://open.spotify.com/track/6gtV2v5PmYeC3onBwwWe4t) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [DEEMED !](https://open.spotify.com/album/5PhMMFDiG6c3Z9V4ubJPkO) | 3:20 | 2022-06-23 | 2022-07-01 |
-| [Deep Cuts](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Deep Cuts](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-22 |  |
+| [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-22 |  |
 | [Deepest Darkness](https://open.spotify.com/track/3jvddiuMH5ss968qZouoPa) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Deepest Darkness](https://open.spotify.com/album/5wm4O6G18mqcxarZqT0Yh8) | 4:03 | 2022-05-26 | 2022-06-03 |
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-04-29 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-22 |  |

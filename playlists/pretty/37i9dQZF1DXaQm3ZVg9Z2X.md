@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 
 > This is Coldplay\. The essential tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,869,811 likes - 54 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,871,885 likes - 54 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQm3ZVg9Z2X.md) - [plain]
 | 53 | [When I Need A Friend](https://open.spotify.com/track/0UvUivL70eDwhTWBd8S38I) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 2:35 |
 | 54 | [Christmas Lights \- Live from Spotify London](https://open.spotify.com/track/4QVdnpSO5JGMFOEl6ys4RQ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live from Spotify London](https://open.spotify.com/album/573eP6oKtAJDqnpco7Fn9c) | 4:28 |
 
-Snapshot ID: `MTY1NzI2NzI2MCwwMDAwMDA0OTAwMDAwMTgxZGNkMzhhY2QwMDAwMDE3OTQxNjEzZDU5`
+Snapshot ID: `MTY1NzI2NzI2MCwwMDAwMDAwMGY2ODg5ZmQ1Y2Q4MjYxMjNjYzMyMjY4NGNmMzYyNjgz`

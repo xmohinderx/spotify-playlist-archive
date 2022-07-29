@@ -45,6 +45,24 @@
     {
       "album": {
         "name": "Age Of Ascent",
+        "url": "https://open.spotify.com/album/3SOJxg7oLNmP5Z1WAhcJbA"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298533,
+      "name": "Age Of Ascent",
+      "url": "https://open.spotify.com/track/3ReELxpeTArWKsyTbmNoqn"
+    },
+    {
+      "album": {
+        "name": "Age Of Ascent",
         "url": "https://open.spotify.com/album/1Nd4fQbsxZQUnLjSCLc4ud"
       },
       "artists": [
@@ -55,7 +73,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
@@ -355,10 +373,36 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254930,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/6Viym8BZHFleUwoJk3TdWB"
+    },
+    {
+      "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/68wyKzF5o9UvXm6foHmUwM"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        },
+        {
+          "name": "Max Mutzke",
+          "url": "https://open.spotify.com/artist/2XTN4g2qnzFw0TG2NHuQxl"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254930,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/7arEDlCpggFCaKMv36K6Xq"
     },
     {
       "album": {
@@ -629,10 +673,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 185346,
       "name": "Hallelujah, I Love Him So - First Sessions Outtake",
       "url": "https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Hallelujah, I Love Him So - First Sessions Outtake",
+      "url": "https://open.spotify.com/track/1QLBKel4BFnZIk6VTQiiqY"
     },
     {
       "album": {
@@ -1693,10 +1755,28 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 215688,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4p8FHio2RFZ64jQDHphsjT"
+    },
+    {
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215688,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/7qyZC802poeH9jzL8JXwfw"
     },
     {
       "album": {
@@ -1909,10 +1989,28 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/2hsbJHiMjljKFNtd5OGshn"
+    },
+    {
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/6LCI8AhbdDJzbuidDhGBv6"
     },
     {
       "album": {
@@ -1939,6 +2037,24 @@
     {
       "album": {
         "name": "Victory Dance",
+        "url": "https://open.spotify.com/album/7CCp7nQx5T7GBtU8TiKtRq"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295893,
+      "name": "Victory Dance",
+      "url": "https://open.spotify.com/track/65vqkVT78sHmYc3fTB3uQw"
+    },
+    {
+      "album": {
+        "name": "Victory Dance",
         "url": "https://open.spotify.com/album/7x5W5TIWobdV7SeF6kFtn9"
       },
       "artists": [
@@ -1949,7 +2065,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 295893,
       "name": "Victory Dance",
       "url": "https://open.spotify.com/track/6cQzmvrbnCM1d51XOodmPR"
@@ -2041,10 +2157,28 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200213,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8"
+    },
+    {
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
     },
     {
       "album": {

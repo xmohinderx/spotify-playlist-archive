@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 6 hr 43 min - not published yet
+74 songs - 6 hr 56 min - [published](https://open.spotify.com/playlist/35BxVuk2IVvbzeuyIpcjEy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Hotplay \- Paramida's Hotpants Remix](https://open.spotify.com/track/5HvVpXrtKBv0EDQFs1FXGF) | [Baldo](https://open.spotify.com/artist/4v335SBw5WxgrqJZCl4VWL), [Paramida](https://open.spotify.com/artist/3bFxfwnZ1vmvzoNYz8z2vh) | [Groove Radiance](https://open.spotify.com/album/7lFH3gP2N3LNLNsv3SUmrl) | 6:37 | 2022-07-23 |  |
 | [I Love Tekno \- Alt Mix / 4/10/96](https://open.spotify.com/track/1eDste5AxdNmvhkU2gVdpm) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [I Love Tekno \(Alt Mix / 4/10/96\)](https://open.spotify.com/album/2T62BhcaW7sXAop6kdWi2f) | 6:47 | 2022-07-23 |  |
 | [I.M.O.K\. R.U.O.K\. \- Or:la Remix](https://open.spotify.com/track/79ihjuGeU7WzxM7FM31DV8) | [Dimension 23](https://open.spotify.com/artist/4wRN0H0pPTse4duEwdN7IQ), [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf) | [I.M.O.K\. R.U.O.K\. \(Or:la Remix\)](https://open.spotify.com/album/4HA2gFEejm3xg4WB0735G6) | 6:19 | 2022-07-23 |  |
-| [In Between](https://open.spotify.com/track/4bK3QPAhLkPlnovNcyVPB5) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Happy Little Accidents, Pt\. 1](https://open.spotify.com/album/7leAwD3lWZ4sX74IVkxNc0) | 6:19 | 2022-07-23 |  |
+| [In Between](https://open.spotify.com/track/3TGCNpRBC3zSKNlGPJZocA) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Happy Little Accidents](https://open.spotify.com/album/3r64AULLsX50hfDD73vT4r) | 6:19 | 2022-07-23 |  |
+| [In Between](https://open.spotify.com/track/4bK3QPAhLkPlnovNcyVPB5) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Happy Little Accidents, Pt\. 1](https://open.spotify.com/album/7leAwD3lWZ4sX74IVkxNc0) | 6:19 | 2022-07-23 | 2022-07-29 |
 | [Lanzarote Howl \- Mano Le Tough Remix](https://open.spotify.com/track/3GOXrzeluCHaDNqkj0NWPA) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S), [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Trust / Lanzarote Howl \(Remixes\)](https://open.spotify.com/album/4ztVVUlOz5iipqy8VXOfgO) | 6:03 | 2022-07-23 |  |
 | [Long Time](https://open.spotify.com/track/4tIQ0UIdK3XS5VCxbfW0pV) | [DJ Savage](https://open.spotify.com/artist/47GN1uLflnwszUOzKfLttK) | [Grooves 2000​\-​2002](https://open.spotify.com/album/0hMiQEiHXzijay2rAezHb3) | 5:08 | 2022-07-23 |  |
 | [Love Divide](https://open.spotify.com/track/2q1fb1ENmNiJAeosPZqAlC) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 4:29 | 2022-07-23 |  |
@@ -69,7 +70,8 @@
 | [The Ground Beneath](https://open.spotify.com/track/2XzrDd0L0mqiksI6mfnWyj) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Sun Strut EP](https://open.spotify.com/album/4efqdQPgcLhIGVpYuQ8noW) | 5:10 | 2022-07-23 |  |
 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 | 2022-07-23 |  |
 | [This is your Life](https://open.spotify.com/track/3Bq8lk2qUwEt7RK5B0nvta) | [ishi vu](https://open.spotify.com/artist/1YUA9X2dr5rzNXdMCUa5rH) | [La Luz](https://open.spotify.com/album/2utsontyjBT4r8eNc1a7qm) | 5:52 | 2022-07-23 |  |
-| [To the Right](https://open.spotify.com/track/3HeSdVn7ffskl9qFjMKnsx) | [Transitive Elements](https://open.spotify.com/artist/04i3qUlQHYQk8jNEaj6Hfb) | [Volume 2](https://open.spotify.com/album/4DMzsTcIWtUOxgPvR9SKlw) | 6:20 | 2022-07-23 |  |
+| [To the Right](https://open.spotify.com/track/3HeSdVn7ffskl9qFjMKnsx) | [Transitive Elements](https://open.spotify.com/artist/04i3qUlQHYQk8jNEaj6Hfb) | [Volume 2](https://open.spotify.com/album/4DMzsTcIWtUOxgPvR9SKlw) | 6:20 | 2022-07-23 | 2022-07-29 |
+| [To the Right](https://open.spotify.com/track/5khY81g7xPfzj43TzzkfBT) | [Transitive Elements](https://open.spotify.com/artist/04i3qUlQHYQk8jNEaj6Hfb) | [Volume 2](https://open.spotify.com/album/69bEGDBxxbbSjsKE9qk2mB) | 6:20 | 2022-07-23 |  |
 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/5NY8FqMU71tJbuz6qiZ69C) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2kV9ScIQHMVQs1XLWQetEz) | 6:38 | 2022-07-23 |  |
 | [Tr\-ago\-909](https://open.spotify.com/track/7Kqn5mPoMg3LVoXEVrMa4t) | [David Vunk](https://open.spotify.com/artist/1GWOp8EQ7wk8PHp27u9FBJ) | [You Can Trust a Man With a Moustache Vol\. 3](https://open.spotify.com/album/6Tl2zVNLfhDgonD8abXgHo) | 5:13 | 2022-07-23 |  |
 | [Trust](https://open.spotify.com/track/7r6ncyvcnNompBYgkQzmxp) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Trust EP](https://open.spotify.com/album/6hyUbx7yrv3RIf6akVuTeO) | 5:45 | 2022-07-23 |  |

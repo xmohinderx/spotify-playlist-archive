@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-110 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
+111 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/7qJRjOP78BEAfkaayVTtAa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Sunrise Glory](https://open.spotify.com/track/1jAENgcKZknON4aQSvr4Be) | [Laksmi Sand](https://open.spotify.com/artist/7H5gwCLGNCQ8guLmXFdoJy) | [Laksmi Sand](https://open.spotify.com/album/4zERgFjOw6RNdbpGBeI4EO) | 2:32 | 2021-12-22 |  |
 | [Surrounding](https://open.spotify.com/track/7IW08v4Bnug7Tn7869gZp3) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Surrounding](https://open.spotify.com/album/3qPDbOCPQSKh2OiuJOzWk9) | 3:24 | 2021-12-22 |  |
 | [Svítání](https://open.spotify.com/track/0uA3VsjMlOtOD805k4hdZw) | [Lois Haas](https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5) | [Svítání](https://open.spotify.com/album/5cT9er9WCaNLhMllt5D1SJ) | 3:13 | 2021-12-22 |  |
-| [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2021-12-22 |  |
+| [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2021-12-22 | 2022-07-29 |
+| [The Enigma of Consciousness](https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd) | 3:14 | 2022-07-22 |  |
 | [The Last Raindrop](https://open.spotify.com/track/122nfGTV3hCL0xchNbtbgH) | [Harvey Lanza](https://open.spotify.com/artist/6gbF9RxLqZUcMD39LLySqh) | [The Last Raindrop](https://open.spotify.com/album/0Z7EPuL0xGG4JoVancz4nI) | 3:46 | 2021-12-22 |  |
 | [The Magical Forest](https://open.spotify.com/track/3vHmuBwbtMLwo0hfUyENAU) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [History of a Legend](https://open.spotify.com/album/4e8l7QDGdpAHrCN4bJatXj) | 3:22 | 2021-12-22 |  |
 | [The Note of Comfort](https://open.spotify.com/track/6ewCIo6kSfhMivU6EtAzpg) | [Reiki](https://open.spotify.com/artist/6FwOq8Kolj0BnP7PMhsqb0) | [Reiki Music \(My Spiritual Practice\)](https://open.spotify.com/album/3W1zD6ELr5fp93a5HMnNaP) | 6:04 | 2021-12-22 |  |

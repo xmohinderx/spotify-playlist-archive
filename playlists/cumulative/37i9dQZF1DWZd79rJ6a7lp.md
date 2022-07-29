@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-642 songs - 1 day 8 hr 47 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+643 songs - 1 day 8 hr 49 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,8 @@
 | [Norm and Mirza](https://open.spotify.com/track/5IRmwahDW9Du2lJMpCHeFj) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [The Quarter is Served](https://open.spotify.com/album/5TFwtVclee1QHlnqXSTZ4Y) | 3:58 | 2020-10-20\* | 2021-08-17 |
 | [Northern Sirenes](https://open.spotify.com/track/6wELTXkMA16b4sOgFl7011) | [Malie Aolani](https://open.spotify.com/artist/0MHLh3lEKY42exyifjlDbf) | [Northern Sirenes](https://open.spotify.com/album/02yNGBTR9KMkk6iBlbsuxZ) | 2:09 | 2021-10-23 |  |
 | [Nostalgia](https://open.spotify.com/track/3SPPdz0CTI2RSZ8HROkHy8) | [Will Carano](https://open.spotify.com/artist/6J60g4WW0jL1uCe6cwyAZd) | [Nostalgia](https://open.spotify.com/album/4ctuDxjwJGSMsgJG8EOeQV) | 2:41 | 2021-06-16 |  |
-| [Notes](https://open.spotify.com/track/0Pw89E5ah5yuXtLm9yQ24t) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [ppp](https://open.spotify.com/album/3HZPRy9Ma50IqCFOdgRS9C) | 2:07 | 2021-03-14 |  |
+| [Notes](https://open.spotify.com/track/0Pw89E5ah5yuXtLm9yQ24t) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [ppp](https://open.spotify.com/album/3HZPRy9Ma50IqCFOdgRS9C) | 2:07 | 2021-03-14 | 2022-07-29 |
+| [Notes](https://open.spotify.com/track/3ASr0AXBDjIzS9Rwi5tLxy) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Notes](https://open.spotify.com/album/3Hkp9N92ailBc5Wx4xDLY5) | 2:07 | 2022-07-22 |  |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-06-16 |  |
 | [Nuuk](https://open.spotify.com/track/2Wx7l5zsE7N5YQssh32eqq) | [Peer Lynge](https://open.spotify.com/artist/6RCPJMCnR1oF3uis5UNBp7) | [Nuuk](https://open.spotify.com/album/4pT4omK2Xji9ZIdh0JCHdb) | 2:44 | 2020-10-20\* | 2021-05-04 |
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2020-10-20\* | 2020-12-12 |

@@ -271,6 +271,24 @@
     {
       "album": {
         "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+      },
+      "artists": [
+        {
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
+    },
+    {
+      "album": {
+        "name": "Herencia",
         "url": "https://open.spotify.com/album/03kAdjjhZySWGj6617vyub"
       },
       "artists": [
@@ -281,7 +299,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237520,
       "name": "Cuando Llegue el Alba",
       "url": "https://open.spotify.com/track/77hNwkwupXzT2hiMFjkhOB"
@@ -306,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Coplas de Sangre, Vol. 5",
+        "url": "https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK"
+      },
+      "artists": [
+        {
+          "name": "Mariana Carrizo",
+          "url": "https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Cuequita del Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/0yNasMmFNCvAv6X7QDk4AJ"
+    },
+    {
+      "album": {
         "name": "Coplas de Sangre",
         "url": "https://open.spotify.com/album/011zFfQ0I8631cVIxfNyTn"
       },
@@ -317,7 +353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165040,
       "name": "Cuequita del Desenga\u00f1o",
       "url": "https://open.spotify.com/track/5Kr39KxODTjvdNQ66XFyJm"
@@ -407,7 +443,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186899,
       "name": "Disfruto (En Vivo, Teatro Provincial J.C.Saravia - Salta)",
       "url": "https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u"
@@ -461,7 +497,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196253,
       "name": "Do\u00f1a Ubenza",
       "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
@@ -497,10 +533,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178893,
       "name": "D\u00e9cimas",
       "url": "https://open.spotify.com/track/2N3uT3zYXkj4N7zSmqpmQR"
+    },
+    {
+      "album": {
+        "name": "Como respirar",
+        "url": "https://open.spotify.com/album/17R6jsK6zbmF8JVAPtJczY"
+      },
+      "artists": [
+        {
+          "name": "Georgina Hassan",
+          "url": "https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175945,
+      "name": "D\u00e9cimas",
+      "url": "https://open.spotify.com/track/0AyDFVksN7gBHYiLk2FWwO"
     },
     {
       "album": {
@@ -515,10 +573,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 140600,
       "name": "D\u00edas para Celebrar",
       "url": "https://open.spotify.com/track/5OTCEGumPZ97hp5D4asiyg"
+    },
+    {
+      "album": {
+        "name": "Alma Andina",
+        "url": "https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Toro",
+          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "El Antigal",
+      "url": "https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1"
     },
     {
       "album": {
@@ -533,7 +609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258000,
       "name": "El Antigal",
       "url": "https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd"
@@ -605,7 +681,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
@@ -677,10 +753,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 249160,
       "name": "Guitarrero Cuyano y Cantor",
       "url": "https://open.spotify.com/track/5FRFfzoOaoMIOpanETm3HU"
+    },
+    {
+      "album": {
+        "name": "Noticias de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6kSKUQ5Zm7DFubjcwWszqa"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Abraham",
+          "url": "https://open.spotify.com/artist/7h7OOifiiMnu024OYqMbJT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249160,
+      "name": "Guitarrero Cuyano y Cantor",
+      "url": "https://open.spotify.com/track/7nNGfQjetTiGpy70Ljwl2e"
     },
     {
       "album": {
@@ -767,10 +861,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269960,
       "name": "La de los Humildes",
       "url": "https://open.spotify.com/track/1bJWTTxX4kvVTRTfoELBj5"
+    },
+    {
+      "album": {
+        "name": "Armando Tejada G\u00f3mez",
+        "url": "https://open.spotify.com/album/6hYlxzIksLuMOyDGK4yx9c"
+      },
+      "artists": [
+        {
+          "name": "Nadia Larcher",
+          "url": "https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269960,
+      "name": "La de los Humildes",
+      "url": "https://open.spotify.com/track/2xoJstLwBDTtczvKUI6F7A"
     },
     {
       "album": {
@@ -873,7 +985,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "La Maimare\u00f1a",
       "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
@@ -1039,7 +1151,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 214077,
       "name": "Morenito",
       "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
@@ -1118,6 +1230,28 @@
     },
     {
       "album": {
+        "name": "Illa",
+        "url": "https://open.spotify.com/album/36clIg69CVidSiJSABdhlH"
+      },
+      "artists": [
+        {
+          "name": "Paula Neder",
+          "url": "https://open.spotify.com/artist/2MPDqzRlmcCjqAKMPbU1pb"
+        },
+        {
+          "name": "Liliana Herrero",
+          "url": "https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207231,
+      "name": "Pecnectao",
+      "url": "https://open.spotify.com/track/2O54SJ9WWYKfAP0AgVUsYQ"
+    },
+    {
+      "album": {
         "name": "illa",
         "url": "https://open.spotify.com/album/4cfbzZI3A18wvDsQGbKFJR"
       },
@@ -1133,7 +1267,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207231,
       "name": "Pecnectao",
       "url": "https://open.spotify.com/track/6u81JlGPvFBHm3TBClBXps"
@@ -1191,7 +1325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "Quisiera Amarte Menos",
       "url": "https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3"
@@ -1369,7 +1503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 256800,
       "name": "Tres Cerritos",
       "url": "https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy"
@@ -1463,7 +1597,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 299978,
       "name": "Zamba azul",
       "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
@@ -1481,10 +1615,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210506,
       "name": "Zamba de Amor en Vuelo",
       "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
     },
     {
       "album": {
@@ -1565,7 +1717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261760,
       "name": "Zamba Enamorada (feat. Liliana Herrero)",
       "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"

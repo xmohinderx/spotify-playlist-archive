@@ -4,7 +4,7 @@
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Aluna, Prettyboy D\-O & Kooldrink.
 
-12,880 songs - 33 day 9 hr 35 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
+12,882 songs - 33 day 9 hr 44 min - [published](https://open.spotify.com/playlist/4TOQwqGEcog6JnWS2hyokn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2196,7 +2196,8 @@
 | [Convince Me](https://open.spotify.com/track/0zujGHmFkevTMEwDbgtvRe) | [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Convince Me](https://open.spotify.com/album/4NQZi4XsULycm4thQi4bHe) | 2:45 | 2022-06-17 | 2022-06-25 |
 | [Convo](https://open.spotify.com/track/34ol7Eg0ZMHBlBYlz6oeFO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Convo](https://open.spotify.com/album/5XiY8TBrVuKs7u3moYyJus) | 3:22 | 2020-07-03 | 2020-07-10 |
 | [Convolution](https://open.spotify.com/track/6bg0LCcr6402mvGTHfdADi) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Convolution EP](https://open.spotify.com/album/6PyN4rOHk1DDovK2hCNvaL) | 5:22 | 2021-07-31 | 2021-08-07 |
-| [Coochie \(a bedtime story\)](https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18) | 3:02 | 2022-07-22 |  |
+| [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-07-22 |  |
+| [Coochie \(a bedtime story\)](https://open.spotify.com/track/5YZQKpxMO2VDzoAiLCRbzt) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/24bJOVy2HNPw8qB0kWbA18) | 3:02 | 2022-07-22 | 2022-07-29 |
 | [Cookie Dough](https://open.spotify.com/track/5s7haoE3AEkqpjeirAREfj) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Cookie Dough](https://open.spotify.com/album/3AcSv0CbHWHuWJQmKZENJb) | 2:16 | 2020-10-16 | 2020-10-23 |
 | [Cool](https://open.spotify.com/track/6Pvul1mrxhmbrq2kcNQv5F) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Cool](https://open.spotify.com/album/6bANY9hEjzLOANhdIw3I3o) | 2:21 | 2020-07-03 | 2020-07-10 |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2021-10-02 |
@@ -2781,7 +2782,8 @@
 | [Don't Hit My Line](https://open.spotify.com/track/1ydVJBv3N3MHIkOYtuNsT7) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Don't Hit My Line](https://open.spotify.com/album/4kcvM6m4TvHuLN27Nvme8Y) | 3:39 | 2021-06-19 | 2021-06-26 |
 | [Don't Hold Back \- Edit](https://open.spotify.com/track/7g2ubdOa7LFHBGgt4UcjqO) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Don't Hold Back \(Edit\)](https://open.spotify.com/album/3MG0AAwNKfBPAUMGJR3mRz) | 4:30 | 2021-09-11 | 2021-09-18 |
 | [Don't Hold Back \- Tensnake Remix](https://open.spotify.com/track/1l4JRjRVQahJrGltwjVfdl) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Don't Hold Back \(Tensnake Remix\)](https://open.spotify.com/album/3TkARUZbLy6NICmNJXVqSf) | 2:51 | 2021-06-26 | 2021-07-04 |
-| [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/2NA6sbp1th99SalqDA8hzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/4w6dtZqh3znVUuQkqCS5O6) | 5:56 | 2022-07-22 |  |
+| [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/2NA6sbp1th99SalqDA8hzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/4w6dtZqh3znVUuQkqCS5O6) | 5:56 | 2022-07-22 | 2022-07-29 |
+| [Don't Hold Back \- Yotto Remix](https://open.spotify.com/track/63ebHHCzHnakkKlDdQxb7Q) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Don't Hold Back \(Yotto Remix\)](https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4) | 5:56 | 2022-07-22 |  |
 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 | 2022-06-10 | 2022-06-18 |
 | [Don't Judge Me](https://open.spotify.com/track/2ixabSVbccs9np9r5CpbWW) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Don't Judge Me](https://open.spotify.com/album/12xYnvNkZWg4yPn2edO0cm) | 3:33 | 2021-01-29 | 2021-02-06 |
 | [Don't Kick Me](https://open.spotify.com/track/2zJFeCI8KtP0Olwf3W3w8R) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Don't Kick Me](https://open.spotify.com/album/6XrzH0s8ghY4hwIwmsunAx) | 3:27 | 2021-11-20 | 2021-11-27 |

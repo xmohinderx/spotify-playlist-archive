@@ -485,6 +485,24 @@
     {
       "album": {
         "name": "Refuge",
+        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261665,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
+    },
+    {
+      "album": {
+        "name": "Refuge",
         "url": "https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto"
       },
       "artists": [
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261666,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo"
@@ -621,10 +639,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162783,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/0mMc1o5pBIL7jgnibS6VFP"
+    },
+    {
+      "album": {
+        "name": "Heartbeats",
+        "url": "https://open.spotify.com/album/47Qge8RmoCNl1tAL5OmDer"
+      },
+      "artists": [
+        {
+          "name": "John T",
+          "url": "https://open.spotify.com/artist/4FSTubpEay1eorvJrQd2du"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162783,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5apRczvf1mIiHL4s4uhYlu"
     },
     {
       "album": {
@@ -1015,10 +1051,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224170,
       "name": "Mirrors - Acoustic",
       "url": "https://open.spotify.com/track/3U4ek9i5n2C9OXSLsuubzY"
+    },
+    {
+      "album": {
+        "name": "Mirrors (Acoustic)",
+        "url": "https://open.spotify.com/album/0m5G4XqzE3BjpbtiLO4aUC"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224170,
+      "name": "Mirrors - Acoustic",
+      "url": "https://open.spotify.com/track/4AYITlwiumljGdv0NIGR4T"
     },
     {
       "album": {
@@ -1069,7 +1123,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204004,
       "name": "Ooh La La - Live From My Bedroom)",
       "url": "https://open.spotify.com/track/7t5ZovheDpNgWCQaqYO0rY"

@@ -81,10 +81,32 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220540,
       "name": "Achfa",
       "url": "https://open.spotify.com/track/5SHMbXzrzJBmCY49BozjTT"
+    },
+    {
+      "album": {
+        "name": "Achfa",
+        "url": "https://open.spotify.com/album/6OOqXK1DmU094IBelKPdha"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "Achfa",
+      "url": "https://open.spotify.com/track/5t1doPqDqgFotgdXezDeea"
     },
     {
       "album": {
@@ -660,6 +682,28 @@
     },
     {
       "album": {
+        "name": "LA FIN",
+        "url": "https://open.spotify.com/album/6WbcUioeZ8btnVMNbAyjtD"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        },
+        {
+          "name": "Mezyane",
+          "url": "https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186976,
+      "name": "LA FIN",
+      "url": "https://open.spotify.com/track/3tYu6F0oRwqVq1TNMYU2Qe"
+    },
+    {
+      "album": {
         "name": "Lafin",
         "url": "https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf"
       },
@@ -675,7 +719,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186976,
       "name": "Lafin",
       "url": "https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw"
@@ -737,6 +781,28 @@
     {
       "album": {
         "name": "Mali Mali",
+        "url": "https://open.spotify.com/album/3Y8J4MzMdcCLeG5x7LroyP"
+      },
+      "artists": [
+        {
+          "name": "Fouzi Torino",
+          "url": "https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv"
+        },
+        {
+          "name": "Nassi",
+          "url": "https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222752,
+      "name": "Mali Mali",
+      "url": "https://open.spotify.com/track/706oWNT12qKmhjMjnxcDkx"
+    },
+    {
+      "album": {
+        "name": "Mali Mali",
         "url": "https://open.spotify.com/album/1KGDcuZAQLkzBnxBdPpuSG"
       },
       "artists": [
@@ -751,7 +817,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224744,
       "name": "Mali Mali",
       "url": "https://open.spotify.com/track/7hwSdPkjoyg7JrjriaoFZ2"
@@ -1293,10 +1359,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224427,
       "name": "YA SAMRA",
       "url": "https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3"
+    },
+    {
+      "album": {
+        "name": "Ya Samra Hobek welali jamra",
+        "url": "https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL"
+      },
+      "artists": [
+        {
+          "name": "Yacine Tigre",
+          "url": "https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224104,
+      "name": "Ya Samra Hobek welali jamra",
+      "url": "https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR"
     },
     {
       "album": {

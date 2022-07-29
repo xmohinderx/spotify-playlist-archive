@@ -1,12 +1,12 @@
 {
   "description": "New R&B/Soul from independent artists & labels every Wednesday. Cover: Annahstasia",
-  "num_followers": 159521,
+  "num_followers": 159692,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMDg0MiwwMDAwMDBkZjAwMDAwMTgyM2ZmYmNkNjAwMDAwMDE4MjNjNWEzNjg5",
+  "snapshot_id": "MTY1OTA1NDI2NCwwMDAwMDAwMGU0NTUxNWVmNzk2MWQyNDRmYTQxZWRhYTEzN2VjZTQ5",
   "tracks": [
     {
       "added_at": "2022-07-27 14:07:22",
@@ -39,6 +39,26 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
+      "added_at": "2022-07-28 22:16:23",
+      "album": {
+        "name": "Into The Blue Light",
+        "url": "https://open.spotify.com/album/5Y5hByZ0qL2hMLgIBmn44A"
+      },
+      "artists": [
+        {
+          "name": "ImaniCarolyn",
+          "url": "https://open.spotify.com/artist/1XxDHmr1Cb6x8JtKD8W9OX"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 218054,
+      "name": "About A Gemini, Pt. 3",
+      "url": "https://open.spotify.com/track/5nsNIkhHNiatcdavaoGkly"
     },
     {
       "added_at": "2022-07-27 14:07:22",
@@ -125,6 +145,22 @@
       "url": "https://open.spotify.com/track/7lTp8ScQlND1bNaO0ejh3r"
     },
     {
+      "added_at": "2022-07-29 00:24:24",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/2bcV8Cc8rDSHCfKnSbVetD"
+      },
+      "artists": [
+        {
+          "name": "Dri Jack",
+          "url": "https://open.spotify.com/artist/6vqlVtHBaO2QuoDPvNTfKO"
+        }
+      ],
+      "duration_ms": 178204,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1CujYPWsKTn8v8wDqh4ct8"
+    },
+    {
       "added_at": "2022-07-27 14:07:22",
       "album": {
         "name": "We Got This",
@@ -157,6 +193,22 @@
       "url": "https://open.spotify.com/track/22Lpeq9oezftwqZQ3p5L9v"
     },
     {
+      "added_at": "2022-07-29 00:24:24",
+      "album": {
+        "name": "YOU + I",
+        "url": "https://open.spotify.com/album/5n9JcX3AEYYHBpysgZWdrE"
+      },
+      "artists": [
+        {
+          "name": "Naomi Wild",
+          "url": "https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg"
+        }
+      ],
+      "duration_ms": 198354,
+      "name": "YOU + I",
+      "url": "https://open.spotify.com/track/61LOAMiPICe8qewWxgALmv"
+    },
+    {
       "added_at": "2022-07-27 14:07:22",
       "album": {
         "name": "Foolish",
@@ -176,7 +228,7 @@
       "added_at": "2022-07-27 14:07:22",
       "album": {
         "name": "High",
-        "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
+        "url": "https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu"
       },
       "artists": [
         {
@@ -186,13 +238,13 @@
       ],
       "duration_ms": 176611,
       "name": "High",
-      "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
+      "url": "https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO"
     },
     {
       "added_at": "2022-07-09 03:19:39",
       "album": {
         "name": "Creaming Soda",
-        "url": "https://open.spotify.com/album/3joGA0kAek2nPslFHD1WR1"
+        "url": "https://open.spotify.com/album/6hkd8eyjKYtR7cdXR8CEJn"
       },
       "artists": [
         {
@@ -202,7 +254,7 @@
       ],
       "duration_ms": 218499,
       "name": "Creaming Soda",
-      "url": "https://open.spotify.com/track/4VoKlLD8ElWwd9kYN3erGD"
+      "url": "https://open.spotify.com/track/5JfTnXx1mHsMiStHHlukvk"
     },
     {
       "added_at": "2022-07-09 03:19:39",
@@ -767,22 +819,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/1335ZraXDbHNdiknfgItJ5"
-      },
-      "artists": [
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 198947,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/64LRuZiztfxL4o3IPXvYqo"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "One Call Away",
         "url": "https://open.spotify.com/album/7K2wZcw7Xonx3eGgcWHu63"
       },
@@ -1011,22 +1047,6 @@
       "duration_ms": 234330,
       "name": "Lowe Mi",
       "url": "https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ"
-    },
-    {
-      "added_at": "2022-06-09 03:39:58",
-      "album": {
-        "name": "Magic Stick",
-        "url": "https://open.spotify.com/album/1E8Fj0u9buhFYMkyboWYY8"
-      },
-      "artists": [
-        {
-          "name": "Tre\u0300 Samuels",
-          "url": "https://open.spotify.com/artist/45vC474xQVArVv4KZ4K8Kq"
-        }
-      ],
-      "duration_ms": 167972,
-      "name": "Magic Stick",
-      "url": "https://open.spotify.com/track/03UnyayYg7B7G78F5PlDe9"
     },
     {
       "added_at": "2022-06-02 16:48:28",
@@ -1271,22 +1291,6 @@
     {
       "added_at": "2022-06-09 03:39:58",
       "album": {
-        "name": "LOSE YOU",
-        "url": "https://open.spotify.com/album/5NeqXYuu7ER0POYf9UH4u4"
-      },
-      "artists": [
-        {
-          "name": "Sabina Ddumba",
-          "url": "https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS"
-        }
-      ],
-      "duration_ms": 181220,
-      "name": "LOSE YOU",
-      "url": "https://open.spotify.com/track/54OIzoPpuWIzSluMIMnchp"
-    },
-    {
-      "added_at": "2022-06-09 03:39:58",
-      "album": {
         "name": "Red Handed",
         "url": "https://open.spotify.com/album/67mUKShwkfh8J6NACuQ85k"
       },
@@ -1315,26 +1319,6 @@
       "duration_ms": 148608,
       "name": "Garden",
       "url": "https://open.spotify.com/track/7tqncrBGsGJQqc24e5Ffiv"
-    },
-    {
-      "added_at": "2022-06-09 03:39:58",
-      "album": {
-        "name": "Sucr\u00e9",
-        "url": "https://open.spotify.com/album/6zt4y1B8i4TnSvxtcXrEwY"
-      },
-      "artists": [
-        {
-          "name": "noiir",
-          "url": "https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz"
-        },
-        {
-          "name": "Juic3Boy",
-          "url": "https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5"
-        }
-      ],
-      "duration_ms": 156664,
-      "name": "Sucr\u00e9",
-      "url": "https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy"
     },
     {
       "added_at": "2022-05-26 07:09:42",
@@ -1415,22 +1399,6 @@
       "duration_ms": 146666,
       "name": "Prove Sumn",
       "url": "https://open.spotify.com/track/0tMQLXN6E32vMf57xZARrX"
-    },
-    {
-      "added_at": "2022-05-26 07:09:42",
-      "album": {
-        "name": "Ernesto (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/6AYl9xxhzY8jenvkmipT4Y"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
-        }
-      ],
-      "duration_ms": 231538,
-      "name": "Ernesto - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0cjhPcpQ6jTA5UPO9ELwNT"
     },
     {
       "added_at": "2022-05-18 17:39:36",
@@ -1619,8 +1587,8 @@
     {
       "added_at": "2022-04-27 16:00:00",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/1d6d8AezYNJ2PgpY7Oc5IQ"
+        "name": "Bigger Dreams",
+        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
       },
       "artists": [
         {
@@ -1630,7 +1598,7 @@
       ],
       "duration_ms": 182811,
       "name": "In The Morning",
-      "url": "https://open.spotify.com/track/2u1lDhvkGDUkc8UQWWcC2Y"
+      "url": "https://open.spotify.com/track/1N9B7K3F6a8PCDm1KyXiuU"
     }
   ],
   "unique_name": "Fresh Finds R&B",

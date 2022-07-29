@@ -653,7 +653,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 180000,
       "name": "FUGA",
       "url": "https://open.spotify.com/track/69VqWU96VxzeBgFeVrO1PB"
@@ -955,10 +955,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227653,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4AFdUHHDslEOgQOzGjIJwJ"
+    },
+    {
+      "album": {
+        "name": "Lollipop (feat. Faster)",
+        "url": "https://open.spotify.com/album/5gT5UTgfm278U4QRLobMSV"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/1amWffp8N3JVSxoYyu76jh"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Lollipop (feat. Faster)",
+      "url": "https://open.spotify.com/track/5Kuz2B5fkTmTGFXUYz1tO5"
     },
     {
       "album": {
@@ -1029,10 +1051,32 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200186,
       "name": "Me mato",
       "url": "https://open.spotify.com/track/6ehcQY0jLuWqOIeVmUJFow"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/3P0lwQkCeeTGpwrRsNb1pE"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Me Mat\u00f3 (feat. Faster)",
+      "url": "https://open.spotify.com/track/74JdIMGaguuZqFdgoGfKeZ"
     },
     {
       "album": {
@@ -1415,10 +1459,52 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360960,
       "name": "Pa M\u00ed - Remix",
       "url": "https://open.spotify.com/track/224EVTFiLsdQignUFLvDeH"
+    },
+    {
+      "album": {
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360960,
+      "name": "Pa M\u00ed - Remix",
+      "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
     },
     {
       "album": {

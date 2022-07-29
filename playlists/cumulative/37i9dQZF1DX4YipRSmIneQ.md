@@ -4,7 +4,7 @@
 
 > it's a cruel summer ;\)
 
-167 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+169 songs - 9 hr 35 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Mile High Club](https://open.spotify.com/track/0ku3go0J40aUwBycKipoKA) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Mile High Club](https://open.spotify.com/album/6pMGro2oQh4gNL4ChkcO68) | 2:45 | 2022-03-16 | 2022-06-24 |
 | [Mistress Violet](https://open.spotify.com/track/39gdqL1vq9y5X56zaIaUM6) | [Violet Chachki](https://open.spotify.com/artist/39MrkAPZRa0GzXX7KaSC3m), [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Lecomte De Brégeot](https://open.spotify.com/artist/0Y3QSSc5Uw3g2ZHPkR2bdA) | [Mistress Violet](https://open.spotify.com/album/6SFdTIOCRauxm6itm7Lie2) | 3:36 | 2022-03-16 | 2022-07-22 |
 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 | 2022-03-16 |  |
-| [Mugler](https://open.spotify.com/track/1klbppIovZXKWFRhqEJ2lb) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/3P6pnV1TtJowjF9wjwYtBA) | 2:31 | 2022-06-24 |  |
+| [Mugler](https://open.spotify.com/track/1klbppIovZXKWFRhqEJ2lb) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/3P6pnV1TtJowjF9wjwYtBA) | 2:31 | 2022-06-24 | 2022-07-29 |
+| [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 | 2022-06-24 |  |
 | [Nasty](https://open.spotify.com/track/0SfmpgvdH8nm4cfxc5vj1O) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nasty](https://open.spotify.com/album/59P8nU2rZUFJaavj4FHDg0) | 2:07 | 2022-03-16 | 2022-04-12 |
 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 | 2022-03-16 | 2022-06-25 |
 | [Not Yours](https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Not Yours](https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa) | 4:51 | 2022-05-15 | 2022-06-23 |
@@ -168,7 +169,8 @@
 | [Vixen House](https://open.spotify.com/track/67rW3sURHwamxZNF3FUbGq) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 3:12 | 2022-07-14 | 2022-07-22 |
 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 | 2022-03-16 | 2022-06-25 |
 | [WANT NEED LOVE \- LSDXOXO Remix](https://open.spotify.com/track/2mE1WGxym75ezXYa8anIY7) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [WANT NEED LOVE \(Remixes\)](https://open.spotify.com/album/50ctTZBiLC8KW4B6Wx9RrT) | 3:24 | 2022-03-16 | 2022-07-22 |
-| [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2022-03-16 |  |
+| [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2022-03-16 | 2022-07-29 |
+| [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2022-06-24 |  |
 | [WAY2](https://open.spotify.com/track/1k5UHWNfNn2SKlUamQkfFr) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [WAY2](https://open.spotify.com/album/278BInjt42Mw6946myitgd) | 3:21 | 2022-03-16 | 2022-06-18 |
 | [Wet n Wild](https://open.spotify.com/track/2iA8Fx5GsMSeclTgWkQ5QR) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:14 | 2022-05-15 | 2022-06-17 |
 | [What the Girlies Lack](https://open.spotify.com/track/16CYKwsnfK1KVL4Z1CghJW) | [Nattalie Blake](https://open.spotify.com/artist/2QJSx4tM6efojkBDxog9FB) | [What the Girlies Lack](https://open.spotify.com/album/3MbNxkKz4xl0uPOWAbkjj1) | 3:29 | 2022-03-16 | 2022-06-23 |

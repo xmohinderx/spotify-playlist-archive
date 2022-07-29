@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-195 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+198 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Another Love](https://open.spotify.com/track/4XTrIwsTRgNHQm6RGGligj) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX) | [Another Love](https://open.spotify.com/album/5WDRlShcbymeQXkdjL560h) | 1:46 | 2022-06-24 |  |
 | [Beach Bums](https://open.spotify.com/track/6kBXI5i7TtXvfGo6QbNaQJ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Beach Bums](https://open.spotify.com/album/0orNpYK3DeR7oiPm7opYbp) | 3:55 | 2022-05-20 |  |
 | [Beatiful Love](https://open.spotify.com/track/7GPxO1sEVCo1ZFuZ6NgSdV) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/217LLrb47lzGE3HANjBLnn) | 0:50 | 2022-05-20 | 2022-06-25 |
+| [Bicycle](https://open.spotify.com/track/2Cgmzxm4MPmNFFbOvXaVCH) | [Pedro Coudsi](https://open.spotify.com/artist/4MyQP1cvmiyGzSilWSJg1h) | [Bicycle](https://open.spotify.com/album/72SXioi40kiKjCGN4IxbPD) | 2:55 | 2022-07-29 |  |
 | [Big El](https://open.spotify.com/track/69aMbPMuyQLVUOW0M52Cbc) | [Aican](https://open.spotify.com/artist/4UCgzSRu7AqsgDKDCaPeUb), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Big El](https://open.spotify.com/album/2m8cmhKHiVvCfR2cYu1Eys) | 1:54 | 2022-05-20 | 2022-07-08 |
 | [Boba Date](https://open.spotify.com/track/1FswPcE0Km0F6SLilmx19r) | [Horizon Terminal](https://open.spotify.com/artist/5FE0jNoXdkYBQl78Dni7DZ), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Lamchop](https://open.spotify.com/artist/04V09hOaV8J9dISRfEcZvE) | [Pastel Lovers](https://open.spotify.com/album/6itBAqL7GJ1fMKnAHjCRtw) | 2:07 | 2022-05-20 |  |
 | [Bonsai Leaves](https://open.spotify.com/track/2pdYunyCJgWozx9tlAyu1V) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V) | [Pasture](https://open.spotify.com/album/6jAPtWXrCP066JPaKeG3gs) | 2:17 | 2022-05-20 |  |
@@ -61,7 +62,8 @@
 | [Forget the Past](https://open.spotify.com/track/52MRgQwJkRKd4XHCWVaycl) | [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb) | [Forget the Past](https://open.spotify.com/album/7wYEmOIMaghQjyKpY8AkoP) | 1:37 | 2022-05-20 |  |
 | [fotka](https://open.spotify.com/track/6Xtcf7QFYmF4ye41fkpOh9) | [Dan Betz](https://open.spotify.com/artist/79qPqKymS6xDTlnGzCraZr) | [fotka](https://open.spotify.com/album/6dURtxzLtI0TorlX6kxCk4) | 2:01 | 2022-05-20 |  |
 | [Found it hard](https://open.spotify.com/track/2AzFlRHnk47ucORREL1igj) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:49 | 2022-05-20 |  |
-| [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2022-05-20 |  |
+| [Free as a Bird](https://open.spotify.com/track/2HPJBZmbHZmiCkSmkxIw8g) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/5T7xJ7wlxCMSmD0ZD9XUcf) | 2:16 | 2022-07-29 |  |
+| [Free as a Bird](https://open.spotify.com/track/7Aliz46GPdkIzoo0iHW8aQ) | [Thymes](https://open.spotify.com/artist/0GxIjbHfr6z8hjKOg7HJzu) | [Free as a Bird](https://open.spotify.com/album/3SlSO5PTeflUYsTh4nPWEH) | 2:16 | 2022-05-20 | 2022-07-29 |
 | [Frozen Trees](https://open.spotify.com/track/5FkZ9xAb6k2XfHrR1zjnee) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [Frozen Trees](https://open.spotify.com/album/5Vj6vsFcWunXh1CbRZbtlQ) | 2:09 | 2022-05-20 |  |
 | [fusions](https://open.spotify.com/track/505vdK8fP7XVkNmK3zicyC) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [power to flow](https://open.spotify.com/album/5C8StkM3ZYGtkDAEqmV5ll) | 4:40 | 2022-05-20 | 2022-07-08 |
 | [Give in to you](https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs) | [Gachagchi](https://open.spotify.com/artist/4gYhpOBdTKEhnrjRsYrhXe) | [I am the one](https://open.spotify.com/album/0hN15c8jV4wx6Q8PkqWKZf) | 1:44 | 2022-05-20 |  |
@@ -166,6 +168,7 @@
 | [Sunshine In The Rain](https://open.spotify.com/track/5BT81IYxSte0ledyySYmWe) | [Jazzavelha](https://open.spotify.com/artist/2Rif6F63hq2L9p8DWkFq4k) | [Sunshine In The Rain](https://open.spotify.com/album/2GH5th8g2YU8fiuxjMiqFj) | 2:15 | 2022-05-20 | 2022-07-15 |
 | [Sweet Home](https://open.spotify.com/track/4K0rbmXkGLx1a8pdfDhPTw) | [Amarià](https://open.spotify.com/artist/4cINnaHD0aezcbeGklAzGm), [Grisby](https://open.spotify.com/artist/5UbHC1X5ez55xfl4SHQ9eK) | [Sweet Home](https://open.spotify.com/album/5fIuYDIia6DJkyFkYi442F) | 1:40 | 2022-07-22 |  |
 | [Swift Coasting](https://open.spotify.com/track/2M7KlFrPtccH6wNjTk4P87) | [Drift Crew](https://open.spotify.com/artist/1izsiM2GuR0dyNhBZ1HwXI) | [Swift Coasting](https://open.spotify.com/album/3zgpEvqf1mxy3ZWmp913R8) | 1:55 | 2022-05-20 | 2022-05-27 |
+| [Take It or Leave It](https://open.spotify.com/track/7tAoeaOoVEizKJ67Xln5jX) | [With All Respect](https://open.spotify.com/artist/1owj0RO3l3iK7vPwn4rV1O) | [Take It or Leave It](https://open.spotify.com/album/40BGwehnsepICk24hRi5tq) | 2:39 | 2022-07-29 |  |
 | [Tall Grass](https://open.spotify.com/track/2EQkLsBElVQZU35xdsTr45) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Tall Grass](https://open.spotify.com/album/0693VKyfsOAqKY6MXJAPbn) | 2:06 | 2022-05-20 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-05-20 |  |
 | [The Daily News](https://open.spotify.com/track/3CFE8CIX6xG52LolmQWUEt) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:14 | 2022-05-20 |  |

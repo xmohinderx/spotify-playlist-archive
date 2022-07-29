@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-137 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+139 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 | 2021-12-25 | 2022-02-23 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-11 | 2022-07-17 |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2021-12-25 | 2022-06-10 |
-| [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-09 |  |
+| [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-25 |  |
+| [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-02-09 | 2022-07-29 |
 | [Khalliha](https://open.spotify.com/track/6F6Nwb6sShRSRxJCr3XDsI) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp), [Omar Belmir](https://open.spotify.com/artist/17vRJZ5WQBC1CvEW7XVGlL) | [Khalliha](https://open.spotify.com/album/2nJ1cTZcJxzAbjZXcnkHNJ) | 2:56 | 2022-06-08 |  |
 | [Kida](https://open.spotify.com/track/5kWDoxO6nZWPTaTEEXPcQW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [Kida](https://open.spotify.com/album/3mEltufWAiHRCDI2WvplCK) | 3:15 | 2022-03-03 | 2022-04-12 |
 | [Kouni Liya](https://open.spotify.com/track/7w599w2PChoiHg9SNXloXz) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Kouni Liya](https://open.spotify.com/album/5dtPSOpA9sTUGxOvhXneLb) | 3:42 | 2021-12-25 | 2022-06-23 |
@@ -87,7 +88,8 @@
 | [Ma Yestahelni](https://open.spotify.com/track/0gfGG3WfawLCBbLf5Pc7ad) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Ma Yestahelni](https://open.spotify.com/album/5tW7LUqVAw9WxjZKqPjYJU) | 3:20 | 2021-12-25 | 2022-03-11 |
 | [MAAK](https://open.spotify.com/track/4g1AKn1RwrNmCUTzl6pSI3) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [MAAK](https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y) | 3:24 | 2022-02-11 |  |
 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 | 2022-03-20 | 2022-05-06 |
-| [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 |  |
+| [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-25 |  |
+| [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 | 2022-07-29 |
 | [Magnifique](https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [Comoriano](https://open.spotify.com/artist/4lAuN82ZeMgrNRReNybKOT), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ljasos](https://open.spotify.com/artist/18Zp1qI0chLfqQPq6i3yTJ) | [Magnifique](https://open.spotify.com/album/59iV1eX9oRXELm1zEO8nKB) | 4:01 | 2022-07-21 |  |
 | [Mahmouma](https://open.spotify.com/track/6ihD584TA3v6QFUywtf6UP) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Mahmouma](https://open.spotify.com/album/1sQ0PkcBKrbrr1NdmQwNiG) | 3:03 | 2022-02-24 | 2022-05-20 |
 | [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-06-27 |  |

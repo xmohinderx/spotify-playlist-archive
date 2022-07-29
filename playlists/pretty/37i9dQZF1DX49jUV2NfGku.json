@@ -1,12 +1,12 @@
 {
   "description": "New classics and essential cuts from all your favorite rock bands. Cover: Rage Against The Machine",
-  "num_followers": 1337997,
+  "num_followers": 1338553,
   "original_name": "Rock Solid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDA1YjAwMDAwMTgxYjdlYTYyZjkwMDAwMDE4MWI2YWJmN2Rl",
+  "snapshot_id": "MTY1OTA0Mjc0OSwwMDAwMDAwMGVkMGI4YzNmZjAzNjRkODFhZjJmMjYxODdiMzg4OTc2",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 269373,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Glycerine",
+      "url": "https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -107,8 +107,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "No Need To Argue",
-        "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 306426,
+      "duration_ms": 306440,
       "name": "Zombie",
-      "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+      "url": "https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -176,7 +176,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Toxicity",
-        "url": "https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB"
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
       "artists": [
         {
@@ -186,7 +186,23 @@
       ],
       "duration_ms": 210240,
       "name": "Chop Suey!",
-      "url": "https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD"
+      "url": "https://open.spotify.com/track/2DlHlPMa4M17kufBvI2lEN"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -224,7 +240,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
@@ -232,15 +248,15 @@
           "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 278746,
+      "duration_ms": 278706,
       "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N"
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
       },
       "artists": [
         {
@@ -248,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 231920,
+      "duration_ms": 232106,
       "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -287,8 +303,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water (Explicit Version)",
-        "url": "https://open.spotify.com/album/3uOEEa9T9s1lpoKzVCxZU0"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
@@ -298,7 +314,7 @@
       ],
       "duration_ms": 321040,
       "name": "Take A Look Around",
-      "url": "https://open.spotify.com/track/0N5aQPSHQAADNV3VbRH7Ph"
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -416,7 +432,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Enema Of The State",
-        "url": "https://open.spotify.com/album/1fF8kYX49s5Ufv4XEY5sjW"
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
       "artists": [
         {
@@ -424,15 +440,15 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 168000,
+      "duration_ms": 167066,
       "name": "All The Small Things",
-      "url": "https://open.spotify.com/track/12qZHAeOyTf93YAWvGDTat"
+      "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "To Be Loved: The Best Of Papa Roach (Explicit Version)",
-        "url": "https://open.spotify.com/album/03n4EmWNweUARTWYtmlPqt"
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 200480,
+      "duration_ms": 199906,
       "name": "Last Resort",
-      "url": "https://open.spotify.com/track/4V05j7HDUU2bZQwDOeIySh"
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -479,8 +495,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "The Better Life - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6P77jds0hG6gVzUuIQVj7E"
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 233826,
+      "duration_ms": 233933,
       "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/3bbUkaQYGQHkx1TJi7gPSL"
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -512,7 +528,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Smash",
-        "url": "https://open.spotify.com/album/5SLfrjQtPxbh5Cf1dukV7g"
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
       },
       "artists": [
         {
@@ -522,7 +538,7 @@
       ],
       "duration_ms": 257826,
       "name": "Self Esteem",
-      "url": "https://open.spotify.com/track/6PVMOFV7IjuP7LxulzSA43"
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -639,8 +655,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
       "artists": [
         {
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
         }
       ],
-      "duration_ms": 193613,
-      "name": "Interstate Love Song",
-      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
+      "duration_ms": 194853,
+      "name": "Interstate Love Song - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -687,24 +703,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Sixteen Stone (Remastered)",
-        "url": "https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Glycerine",
-      "url": "https://open.spotify.com/track/0l9l90a1zB3wUObtwWbqHy"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
@@ -712,15 +712,15 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 258732,
+      "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
       "artists": [
         {
@@ -729,8 +729,8 @@
         }
       ],
       "duration_ms": 388733,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+      "name": "Nothing Else Matters (Remastered)",
+      "url": "https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -768,7 +768,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/5eAoPNZzWRn2C409kAUsbE"
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 255333,
+      "duration_ms": 255733,
       "name": "Freak On a Leash",
-      "url": "https://open.spotify.com/track/7B9S4RiRczdw1B9ddjpFe8"
+      "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -831,8 +831,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV"
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
       },
       "artists": [
         {
@@ -840,15 +840,15 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 168253,
+      "duration_ms": 165853,
       "name": "The Middle",
-      "url": "https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA"
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
       "artists": [
         {
@@ -858,13 +858,13 @@
       ],
       "duration_ms": 237026,
       "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/6ooluO7DiEhI1zmK94nRCM"
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w"
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
       "artists": [
         {
@@ -872,15 +872,15 @@
           "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 222586,
+      "duration_ms": 222973,
       "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Brothers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gVxPZ2tcMgyzLxyw8k1z7"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
@@ -889,8 +889,8 @@
         }
       ],
       "duration_ms": 191800,
-      "name": "Howlin' For You",
-      "url": "https://open.spotify.com/track/5jdvRj8zXHJ7XpKsBKT9CZ"
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -912,7 +912,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "A Beautiful Lie",
-        "url": "https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h"
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
       "artists": [
         {
@@ -921,8 +921,8 @@
         }
       ],
       "duration_ms": 231533,
-      "name": "The Kill (Bury Me)",
-      "url": "https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4"
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -959,8 +959,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Telephantasm",
-        "url": "https://open.spotify.com/album/4Ut4g1YBsA9IbKkkMG26mu"
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 317693,
+      "duration_ms": 318586,
       "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/1sBfyE1iF7RP3LTc0zUTdp"
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Bush Digital Collection",
-        "url": "https://open.spotify.com/album/6qxLUeyoz4DpQL4cXbUK0v"
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
       "artists": [
         {
@@ -1144,15 +1144,15 @@
           "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 256360,
+      "duration_ms": 256333,
       "name": "Machinehead",
-      "url": "https://open.spotify.com/track/1iTzI4NSQNLIETWDJ1WNWi"
+      "url": "https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2"
     },
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Veni Vidi Vicious",
-        "url": "https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z"
+        "url": "https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
         }
       ],
-      "duration_ms": 200693,
+      "duration_ms": 199759,
       "name": "Hate To Say I Told You So",
-      "url": "https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5"
+      "url": "https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/5jp2GvFmxYbKge605mja3F"
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
       "artists": [
         {
@@ -1370,7 +1370,7 @@
       ],
       "duration_ms": 264706,
       "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/0d2YnyIPgmPQqNSzDg8s8Q"
+      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1400,7 +1400,7 @@
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Last Splash",
-        "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
+        "url": "https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A"
       },
       "artists": [
         {
@@ -1410,7 +1410,7 @@
       ],
       "duration_ms": 213693,
       "name": "Cannonball",
-      "url": "https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU"
+      "url": "https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb"
     },
     {
       "added_at": "2022-07-01 04:00:00",

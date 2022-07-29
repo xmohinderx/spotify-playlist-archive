@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: EMEI
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,935 likes - 70 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,063 likes - 70 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 19 | [Competition](https://open.spotify.com/track/6TmA5FkmxRxwsznOmUjY3L) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Competition](https://open.spotify.com/album/1REKQVuOhUOMOykEHYUeYK) | 3:06 |
 | 20 | [Greenroom](https://open.spotify.com/track/3O0fBwrKLBlCXEFgaT3U09) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Greenroom](https://open.spotify.com/album/5LMJdkvvdIW1TdwpNfwKsN) | 2:45 |
 | 21 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 |
-| 22 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 |
+| 22 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 |
 | 23 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 |
 | 24 | [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 |
 | 25 | [Happier Than Ever \- Edit](https://open.spotify.com/track/3Wc4jQhzto9iZehUirrzcM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 2:05 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 53 | [Love Me Till U Hate Me](https://open.spotify.com/track/0f72jNvO6UORzL8J51jPIW) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Love Me Till U Hate Me](https://open.spotify.com/album/6OB6AKoC7SXypIT5j8mViB) | 3:32 |
 | 54 | [Psychopath](https://open.spotify.com/track/2muY007Tkz4pMR9L15jlJL) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Psychopath](https://open.spotify.com/album/306xhPeWyo9hurUtAbp19u) | 2:00 |
 | 55 | [DIY \(From “American Song Contest”\)](https://open.spotify.com/track/4JW9qAFkAuPkENUEDvO4hr) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [American Song Contest: Episode 4](https://open.spotify.com/album/5tLEwslxrLWstMLpvNflyc) | 2:39 |
-| 56 | [10 Things I Hate About You](https://open.spotify.com/track/1shKa7wLElW8CrbHOJk85M) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/0pIt9H9KU1FyhygpHAOs2l) | 2:37 |
+| 56 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
 | 57 | [Honestly I'm Disappointed](https://open.spotify.com/track/4XeELrZsC6BNUF9RjGdDx3) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [Honestly I'm Disappointed](https://open.spotify.com/album/4ueJumymqxktXKi8uSfzF1) | 2:19 |
-| 58 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 |
+| 58 | [Aimed to Kill](https://open.spotify.com/track/3EZekHDwiGXJo7tH1Jolhv) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/7dwwAbCnp5xxAD1Hz0P3Tf) | 3:22 |
 | 59 | [When You Say My Name](https://open.spotify.com/track/3a8b6uo4vnQSJroGhaNhgG) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [When You Say My Name](https://open.spotify.com/album/4xoST8PDJr9fDe8OKhT0a5) | 2:28 |
 | 60 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 |
-| 61 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 |
+| 61 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 |
 | 62 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 63 | [Library Card](https://open.spotify.com/track/4zQiuvLmOFXI9lRxBEeb94) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Library Card](https://open.spotify.com/album/2F6Iz0xIZevO0WH1BwDSPn) | 3:26 |
 | 64 | [CAROUSEL](https://open.spotify.com/track/2oIwlCLMTmNm21n1V16phB) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [CAROUSEL](https://open.spotify.com/album/0cVhAl4V39EyqY9iSg1SVL) | 2:58 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 66 | [FUCK MY EXES](https://open.spotify.com/track/03xqIbvagvjf3K75qqL0fC) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [FUCK MY EXES](https://open.spotify.com/album/0HkYxUI2kqixf8MgY8fUhi) | 2:50 |
 | 67 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 |
 | 68 | [Mean](https://open.spotify.com/track/2SniviLus5g8LNMCpObLx4) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [ASHS](https://open.spotify.com/album/6OTXcfrNRCVHiuvf6rsPaG) | 2:05 |
-| 69 | [Dirty Thoughts](https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil) | 2:09 |
+| 69 | [Dirty Thoughts](https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dirty Thoughts](https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto) | 2:09 |
 | 70 | [this is how i learn to say no](https://open.spotify.com/track/4yb8suVmTLxvSb8hT6EmT6) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [this is how i learn to say no](https://open.spotify.com/album/3iW6t3t4c18qRC8NjvHenG) | 2:22 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDA5MzAwMDAwMTgyMjQxMGQ4ZmYwMDAwMDE4MWYzYjUzNDBm`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMGIyM2YzOGNjZTEwYmVkOTg4N2FhOTdjMmNlMjkzMzIz`

@@ -4,7 +4,7 @@
 
 > The hit tracks we can't get enough of, from our favorite LGBTQ+ movies and shows\. Presented by @most, Netflix's home to queer storytelling.
 
-25 songs - 1 hr 28 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
+26 songs - 1 hr 33 min - [published](https://open.spotify.com/playlist/0apMnsLqqy4OYzTgiQlxlm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 | 2022-07-22 |  |
 | [I Want To Be With You](https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:59 | 2022-07-22 |  |
 | [Material Girl](https://open.spotify.com/track/2PMcv8wvhIrAGBCFSsiP4w) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 4:00 | 2022-07-22 |  |
-| [Running Up That Hill \(A Deal with God\)](https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 5:00 | 2022-07-22 |  |
+| [Running Up That Hill \(A Deal with God\)](https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 5:00 | 2022-07-22 | 2022-07-29 |
+| [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-07-22 |  |
 | [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 | 2022-07-22 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2022-07-22 |  |
 | [The Zombie Song](https://open.spotify.com/track/2bfNnO1OpLCxaDR73phdMk) | [Stephanie Mabey](https://open.spotify.com/artist/11ymgw8TwTMPeYllQ6V1uw) | [Wake Up Dreaming](https://open.spotify.com/album/2xbFouhkVLqxXMGEXYPFMj) | 2:52 | 2022-07-22 |  |

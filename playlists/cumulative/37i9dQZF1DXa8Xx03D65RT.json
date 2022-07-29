@@ -1889,6 +1889,24 @@
     {
       "album": {
         "name": "Dvale",
+        "url": "https://open.spotify.com/album/5xLLJf0vaJI7XaX86NmtFw"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Dvale",
+      "url": "https://open.spotify.com/track/38NHJt6bYHiIiXzAqUMlCO"
+    },
+    {
+      "album": {
+        "name": "Dvale",
         "url": "https://open.spotify.com/album/32YKmdwX6mljtaTRxcFJNx"
       },
       "artists": [
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179000,
       "name": "Dvale",
       "url": "https://open.spotify.com/track/3bfXhbANHZ65viUlQMYtBR"
@@ -4355,6 +4373,24 @@
     {
       "album": {
         "name": "Like Before",
+        "url": "https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p"
+      },
+      "artists": [
+        {
+          "name": "Ole-Bj\u00f8rn Talstad",
+          "url": "https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "Like Before",
+      "url": "https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF"
+    },
+    {
+      "album": {
+        "name": "Like Before",
         "url": "https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp"
       },
       "artists": [
@@ -4365,10 +4401,32 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 135903,
       "name": "Like Before",
       "url": "https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm"
+    },
+    {
+      "album": {
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        },
+        {
+          "name": "S\u00f8ren Tarding",
+          "url": "https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Lillian",
+      "url": "https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p"
     },
     {
       "album": {
@@ -4387,7 +4445,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 127000,
       "name": "Lillian",
       "url": "https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq"
@@ -4942,6 +5000,24 @@
     },
     {
       "album": {
+        "name": "In Itself",
+        "url": "https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Moment of Silence",
+      "url": "https://open.spotify.com/track/6iJNQx3fdBJYnlzukRoTZU"
+    },
+    {
+      "album": {
         "name": "Moment of Silence",
         "url": "https://open.spotify.com/album/1dNQqeC8YWcWicqTOd7ngE"
       },
@@ -4953,7 +5029,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213066,
       "name": "Moment of Silence",
       "url": "https://open.spotify.com/track/5bAeFY9aWmcu0PKqDfUNgc"
@@ -5231,6 +5307,24 @@
     {
       "album": {
         "name": "New Chapter",
+        "url": "https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149197,
+      "name": "New Chapter",
+      "url": "https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx"
+    },
+    {
+      "album": {
+        "name": "New Chapter",
         "url": "https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI"
       },
       "artists": [
@@ -5241,7 +5335,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149197,
       "name": "New Chapter",
       "url": "https://open.spotify.com/track/4691T6692tOUpmqOcgPz71"
@@ -5321,6 +5415,24 @@
     {
       "album": {
         "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
+    },
+    {
+      "album": {
+        "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE"
       },
       "artists": [
@@ -5331,7 +5443,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo"
@@ -6649,10 +6761,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 137819,
       "name": "Scenery",
       "url": "https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891"
+    },
+    {
+      "album": {
+        "name": "In the Valley",
+        "url": "https://open.spotify.com/album/1pV5ZENPMTVvw349BPUflU"
+      },
+      "artists": [
+        {
+          "name": "Alavilla Mailla",
+          "url": "https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137819,
+      "name": "Scenery",
+      "url": "https://open.spotify.com/track/4P5jSwg9Zx6DxKb5u7TfmG"
     },
     {
       "album": {
@@ -7729,10 +7859,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145001,
       "name": "The Mist That Surrounds",
       "url": "https://open.spotify.com/track/25ScmRjdUWeTd6lfGpvvOn"
+    },
+    {
+      "album": {
+        "name": "A Place I Know",
+        "url": "https://open.spotify.com/album/2qAc4RulUwgwubmQw9RoQU"
+      },
+      "artists": [
+        {
+          "name": "Jacob LaVallee",
+          "url": "https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145001,
+      "name": "The Mist That Surrounds",
+      "url": "https://open.spotify.com/track/4gwUfFUFWoeGK1u6OJ5tIi"
     },
     {
       "album": {

@@ -394,6 +394,28 @@
     },
     {
       "album": {
+        "name": "ANHMATSV",
+        "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187071,
+      "name": "Coron\u00e9",
+      "url": "https://open.spotify.com/track/0SepUdFlQjKMBB3LETGaeK"
+    },
+    {
+      "album": {
         "name": "Coron\u00e9",
         "url": "https://open.spotify.com/album/5IHsWTk87UdGdSb9TJca4v"
       },
@@ -409,7 +431,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187071,
       "name": "Coron\u00e9",
       "url": "https://open.spotify.com/track/6KHtkTlIFgN8ZISoX8X9sN"
@@ -1011,10 +1033,32 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224810,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1"
+    },
+    {
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
     },
     {
       "album": {

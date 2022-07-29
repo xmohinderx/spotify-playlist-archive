@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 
 > The hit tracks we can't get enough of, from our favorite LGBTQ+ movies and shows\. Presented by @most, Netflix's home to queer storytelling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 25 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 25 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 6 | [Colours Of You](https://open.spotify.com/track/7hjPM7rlZo3netjXWOZqcT) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Colours Of You](https://open.spotify.com/album/6VJe4cAIDoLXMbntuNpbO3) | 4:15 |
 | 7 | [Waiting for Tonight \- Hex's Momentous Radio Mix](https://open.spotify.com/track/5WD55ZJWhumwIDGau2Q9lM) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J To Tha L\-O! The Remixes](https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm) | 4:32 |
 | 8 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 |
-| 9 | [Running Up That Hill \(A Deal with God\)](https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 5:00 |
+| 9 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
 | 10 | [Bang Bang Bang](https://open.spotify.com/track/62Tbkc4dhrraGN9tWrlssr) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Bang Bang Bang](https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ) | 2:22 |
 | 11 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/6lXjIRVsn4anV7sBhLBoiX) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 3:51 |
 | 12 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc88qbKkzeR0.md) - [plain]
 | 24 | [Heaven Is A Place On Earth](https://open.spotify.com/track/58mFu3oIpBa0HLNeJIxsw3) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth](https://open.spotify.com/album/4PLM698gAODdpx7Wy3LNPj) | 4:07 |
 | 25 | [C'mon Loretta](https://open.spotify.com/track/4SarHQAmYeNtRqFG7g5Ewg) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [C'mon Loretta](https://open.spotify.com/album/4s6IYtOqC3vHFhs76ImrxJ) | 2:53 |
 
-Snapshot ID: `MTY1ODUxODc2NywwMDAwMDAwMjAwMDAwMTgyMjc2YzA2MDEwMDAwMDE4MjI3NjgxYWUw`
+Snapshot ID: `MTY1ODUxODc2NywwMDAwMDAwMDgwMWY3NjMwYjQ1ZmZkYjc2NjQ4M2Y3OGQyNTEyYTg5`

@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21308,
+  "num_followers": 21304,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTg3NSw1NjBmNjA3NTJiZDNmNDM0OGJkYWI0MTY2NjFiMTdjN2JiNjQwNjE2",
+  "snapshot_id": "OTg4Myw1MTBiZTY0NmVlOTk0OWY5NGFlNThlMjNhYjZkZmE4NGMyZjk5ZDY4",
   "tracks": [
     {
       "added_at": "2022-07-19 05:29:33",
@@ -799,6 +799,30 @@
       "duration_ms": 174155,
       "name": "find your way - Elohim Remix",
       "url": "https://open.spotify.com/track/2UYeqwRXXMeYY1qrnBz036"
+    },
+    {
+      "added_at": "2022-07-29 00:20:39",
+      "album": {
+        "name": "Colors (with Eyelar)",
+        "url": "https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Eyelar",
+          "url": "https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX"
+        }
+      ],
+      "duration_ms": 231832,
+      "name": "Colors (with Eyelar)",
+      "url": "https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK"
     },
     {
       "added_at": "2022-06-24 17:23:35",
@@ -1747,6 +1771,22 @@
       "duration_ms": 204369,
       "name": "Pick Yourself Up",
       "url": "https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn"
+    },
+    {
+      "added_at": "2022-07-28 17:05:01",
+      "album": {
+        "name": "I'm With The DJ",
+        "url": "https://open.spotify.com/album/4QjPl6fliUZnwvGsWuMnXb"
+      },
+      "artists": [
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "I'm With The DJ",
+      "url": "https://open.spotify.com/track/6glWuI8u4DdoIkNIwhyk2N"
     }
   ],
   "unique_name": "Moving Castle Monthly",

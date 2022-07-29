@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "1990",
+        "url": "https://open.spotify.com/album/5r6b3rdja0d8jaYZYFpGyd"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207911,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/1GSK7npbQEdKiclB49ANwT"
+    },
+    {
+      "album": {
+        "name": "1990",
         "url": "https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 207911,
       "name": "1990",
       "url": "https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq"
@@ -353,10 +371,32 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 218493,
       "name": "Chica del Verano",
       "url": "https://open.spotify.com/track/6ydFgO4uHX1YH2LD3R51E5"
+    },
+    {
+      "album": {
+        "name": "Una Caricia",
+        "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221512,
+      "name": "Chica del Verano",
+      "url": "https://open.spotify.com/track/1utTQCIQFdqCrA9KjjLub3"
     },
     {
       "album": {
@@ -472,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Esos D\u00edas",
+        "url": "https://open.spotify.com/album/5YTwmNj6F1khhCCos7DV7w"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151426,
+      "name": "Esos D\u00edas",
+      "url": "https://open.spotify.com/track/6oRyIk7U3jWGFH6zRKOT5T"
+    },
+    {
+      "album": {
         "name": "Esos D\u00edas - Spotify Singles",
         "url": "https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ"
       },
@@ -483,7 +541,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 151020,
       "name": "Esos D\u00edas - Spotify Singles",
       "url": "https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY"
@@ -635,10 +693,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222857,
       "name": "Hace Rato",
       "url": "https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C"
+    },
+    {
+      "album": {
+        "name": "Hace Rato",
+        "url": "https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Hace Rato",
+      "url": "https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB"
     },
     {
       "album": {
@@ -941,10 +1017,32 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240362,
       "name": "Me Ense\u00f1aste (Remix)",
       "url": "https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2"
+    },
+    {
+      "album": {
+        "name": "Me Ense\u00f1aste (Remix)",
+        "url": "https://open.spotify.com/album/3TNDvI62UbwgzEK0RZ99Rt"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Me Ense\u00f1aste - Remix",
+      "url": "https://open.spotify.com/track/4tFglUmIjJtN0ViGNNv4mi"
     },
     {
       "album": {
@@ -1643,6 +1741,32 @@
     {
       "album": {
         "name": "Water",
+        "url": "https://open.spotify.com/album/3qdQV2P5OM19g675aZkRlQ"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3RCxWl2N0lPx83c7PPRmxW"
+    },
+    {
+      "album": {
+        "name": "Water",
         "url": "https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa"
       },
       "artists": [
@@ -1661,7 +1785,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190153,
       "name": "Water",
       "url": "https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki"

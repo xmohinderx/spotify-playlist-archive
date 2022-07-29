@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 270586,
       "name": "And They All Came Marching Out Of The Woods",
       "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 389600,
       "name": "Bagatell",
       "url": "https://open.spotify.com/track/0FmKbJQBVPFcgw9uxmHuuf"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 388800,
       "name": "Blodspredikan",
       "url": "https://open.spotify.com/track/53S5imgb3cHA3i19m2EuLP"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 352000,
       "name": "C Moll Maj",
       "url": "https://open.spotify.com/track/2vmTcBCnGPosTKkcPEnhlb"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 433693,
       "name": "Curious Child",
       "url": "https://open.spotify.com/track/3K3XDLibupBe9YYlr5ozQq"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321386,
       "name": "Home",
       "url": "https://open.spotify.com/track/2MB1PKNcexHx9vA2T9Q7TO"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 330266,
       "name": "Kun Lun",
       "url": "https://open.spotify.com/track/1klS4kVAikIo3w4AxKLBSl"
@@ -935,10 +935,32 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 171093,
       "name": "Leilani",
       "url": "https://open.spotify.com/track/1QVPEOqvQv6v7A5vyXI105"
+    },
+    {
+      "album": {
+        "name": "A Fine Line",
+        "url": "https://open.spotify.com/album/4EvdavzDE5DxKviRFqM0Fn"
+      },
+      "artists": [
+        {
+          "name": "LITANGEN",
+          "url": "https://open.spotify.com/artist/2cb1UAUUAWqIUqnTjDZquX"
+        },
+        {
+          "name": "Ole Edvard Antonsen",
+          "url": "https://open.spotify.com/artist/67zPWYYHFQtUG522o2V6PR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "Leilani",
+      "url": "https://open.spotify.com/track/7JFqgygDKJYZpGmoPrXgw2"
     },
     {
       "album": {
@@ -1097,6 +1119,32 @@
     {
       "album": {
         "name": "Dreamer",
+        "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        },
+        {
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        },
+        {
+          "name": "Rasmus Svensson",
+          "url": "https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301253,
+      "name": "Mirages",
+      "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
         "url": "https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM"
       },
       "artists": [
@@ -1115,7 +1163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 301266,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/33EECZugQ5GZEErMrBfw6b"
@@ -1137,7 +1185,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 296133,
       "name": "Mutatio",
       "url": "https://open.spotify.com/track/4oCM3JquuXQZhMJzx5O5Jd"
@@ -1425,7 +1473,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 411640,
       "name": "Polska Of Despair (1)",
       "url": "https://open.spotify.com/track/56YZA4Zy6UNZMBSLBTUh1k"
@@ -1551,7 +1599,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 367120,
       "name": "Remembrance VI",
       "url": "https://open.spotify.com/track/2SM3oWZWcqeokeblS158k5"
@@ -1617,7 +1665,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 335320,
       "name": "Rossetti",
       "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
@@ -1639,7 +1687,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 459000,
       "name": "Sacred Rituals",
       "url": "https://open.spotify.com/track/6SwDBJGfwfN3yEVskM5xN4"
@@ -1691,7 +1739,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344215,
       "name": "Seasons' Change",
       "url": "https://open.spotify.com/track/39qOYqccZpJBs8gHb8EkPy"
@@ -1713,7 +1761,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 449893,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
@@ -1779,7 +1827,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 294760,
       "name": "Slow Fox",
       "url": "https://open.spotify.com/track/3SfRQdSlVB3hIppPaALL1I"
@@ -1797,10 +1845,40 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 469706,
       "name": "So I Write",
       "url": "https://open.spotify.com/track/3o3Dc7QwhroESyg80IzkyV"
+    },
+    {
+      "album": {
+        "name": "So I Write",
+        "url": "https://open.spotify.com/album/4vAwdCMgU6JptyBoGx85rH"
+      },
+      "artists": [
+        {
+          "name": "Sidsel Endresen",
+          "url": "https://open.spotify.com/artist/3nXJ669yt47ssgwwGeFat3"
+        },
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Django Bates",
+          "url": "https://open.spotify.com/artist/0aPobuZcU7C6OgpGU0R5V8"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469706,
+      "name": "So I Write",
+      "url": "https://open.spotify.com/track/4HsqVdZAwDB7SasYlWOn0H"
     },
     {
       "album": {
@@ -1851,7 +1929,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241120,
       "name": "Space Is the Place",
       "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
@@ -1873,7 +1951,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Svevende",
       "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
@@ -2079,10 +2157,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 370093,
       "name": "The Second Page - Live",
       "url": "https://open.spotify.com/track/0snWsjgZL15nWMrwbwrRMg"
+    },
+    {
+      "album": {
+        "name": "Live in Gothenburg",
+        "url": "https://open.spotify.com/album/6X0P7XyEdeTrt3p8H59EHW"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370093,
+      "name": "The Second Page - Live",
+      "url": "https://open.spotify.com/track/4gm27nUNV7cj747hTWKJAA"
     },
     {
       "album": {
@@ -2105,7 +2201,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
@@ -2185,7 +2281,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 375653,
       "name": "Triumph Of Being",
       "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
@@ -2349,7 +2445,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 346333,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"

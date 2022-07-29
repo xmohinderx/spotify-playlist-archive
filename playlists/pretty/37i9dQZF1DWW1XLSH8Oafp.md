@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring yunè pinku
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,212 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,344 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 38 | [GENESIS](https://open.spotify.com/track/2N1Svyzht9aczL81SHCxcg) | [Nedaj](https://open.spotify.com/artist/56huNdCA3s7tthaMNhIXLU) | [GENESIS](https://open.spotify.com/album/1egf6sduxPOZEfnHzxWngA) | 3:09 |
 | 39 | [Nails Matching My Fit](https://open.spotify.com/track/13CDnyCYtI6nytVMQwPYLG) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Shanae](https://open.spotify.com/artist/4hHwz6dfb9rarQOUGf9ajx) | [Nails Matching My Fit](https://open.spotify.com/album/4b735RciIIW2Skt0TOmoK2) | 3:49 |
 | 40 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 |
-| 41 | [Turquoise Hyperfizz](https://open.spotify.com/track/6OKkWaaLFy3yupHMFbrmW9) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/1WZcWo7WBsUdQRCoFwNjXJ) | 5:16 |
+| 41 | [Turquoise Hyperfizz](https://open.spotify.com/track/6DU1DoOuwvKmooJAOQkOAM) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 5:16 |
 | 42 | [i lost my friend at a rave](https://open.spotify.com/track/1XvIHLaJ1pX7lDC8CW9sTV) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [i lost my friend at a rave](https://open.spotify.com/album/6nP8L69qkApF7sJ0LSag6g) | 3:00 |
 | 43 | [That Feeling](https://open.spotify.com/track/3SZGQebN9xqyh5cUbUD5fN) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [That Feeling](https://open.spotify.com/album/35eHXYp0PzTza3KUHoR7eM) | 2:58 |
 | 44 | [Stuck](https://open.spotify.com/track/6iBtDRlPzeeHn0wQUJZbsk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [XNom](https://open.spotify.com/artist/4ST9qgTT0c4mgIBta6CLPf) | [Stuck](https://open.spotify.com/album/6vRpRT7mRjKa61o0utjGTC) | 2:02 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 72 | [Fall Into Place](https://open.spotify.com/track/1wLg7RjXTcPUMfa5hZswmf) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Fall Into Place](https://open.spotify.com/album/4V60NNPJMG4EM2B1fwbJz9) | 3:32 |
 | 73 | [Bluff](https://open.spotify.com/track/5P5xuOwnMwaTY38yT8laSl) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Bluff](https://open.spotify.com/album/0n7tJPogMxhFS8YNTFlF5l) | 3:07 |
 | 74 | [dune](https://open.spotify.com/track/5m8eFMfMToHYKRoxgJVRfw) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [dune](https://open.spotify.com/album/1dsKxU3rVrWFDDg7PDskV9) | 2:29 |
-| 75 | [low down](https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/6Q9y1eI1EbuyVt5md6SlOT) | 3:02 |
+| 75 | [low down](https://open.spotify.com/track/5hwQBJojbljFjxg7t49r03) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Dan Fable](https://open.spotify.com/artist/4tfGcCoLFmUtfhgB9sREHq) | [low down](https://open.spotify.com/album/48KWh33PB86WJeyFhQOkVl) | 3:02 |
 | 76 | [low key](https://open.spotify.com/track/4rBlO3uwANGtnw1Yh8kKxc) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [low key](https://open.spotify.com/album/1qbXphuo6yT2CeW1G5bc0L) | 3:28 |
 | 77 | [теряю](https://open.spotify.com/track/5QuD7ZrP38cZZwelNKYG4o) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [теряю](https://open.spotify.com/album/21lKKYs9spOzIFXYmKMuNb) | 4:15 |
 | 78 | [heavensleep](https://open.spotify.com/track/7jqiOS9oxnSpCooYGHlNbR) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [heavensleep](https://open.spotify.com/album/3Rn7Lgvtgm3BIUpQBdFn0w) | 2:00 |
 | 79 | [Castles](https://open.spotify.com/track/7pbDDgeQjKt3fOrjePnwFu) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Castles](https://open.spotify.com/album/5FwmwXbnU9thmvR0WrnO53) | 3:03 |
 | 80 | [Fashion](https://open.spotify.com/track/2uBEgKTzyiyqn6pKY5d1Vg) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [a Cherry Riddim](https://open.spotify.com/album/0QuesQuf9JdoiU3dLw5rx5) | 4:17 |
 | 81 | [It's Alright](https://open.spotify.com/track/4Bmk7CoGZWB4baz6Zqo3fK) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [It's Alright](https://open.spotify.com/album/1Agh9HDns2chodEFH14mh8) | 4:05 |
-| 82 | [FRESH](https://open.spotify.com/track/73Q8I5wBGnUFXY9rjWXPzy) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FRESH](https://open.spotify.com/album/3395RngNLyEQ2jR6iChmqz) | 2:31 |
+| 82 | [FRESH](https://open.spotify.com/track/51O1GVKmV5xJhemFjotvSV) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [MIMO](https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21) | 2:31 |
 | 83 | [Save Me](https://open.spotify.com/track/5Ru2NOdxgo0f6mvqfVGZo9) | [GnB Chili](https://open.spotify.com/artist/0BbAouKPCNKRe8uo2k2XGU) | [Basement Popstar](https://open.spotify.com/album/3g6BGhwBDj0uRYIWV35iQ0) | 2:25 |
 | 84 | [Heartbreak Engineering](https://open.spotify.com/track/5Fg8x715LGYUz1qkOMUq9n) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Heartbreak Engineering](https://open.spotify.com/album/5BsySWCUfLgRERQweADjn3) | 2:19 |
 | 85 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 116 | [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 |
 | 117 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 118 | [Audio](https://open.spotify.com/track/2C4kl8zvhUwmdlofcRcbH3) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Audio](https://open.spotify.com/album/1MpGcRFAoTJi1e5fCEBoAd) | 3:31 |
-| 119 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 |
+| 119 | [JUNGLE TEKNAH](https://open.spotify.com/track/68TFG76EGGL6WZ5NlSu0fo) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/5CiPiMVy48leoaMEdzz9df) | 4:01 |
 | 120 | [remember](https://open.spotify.com/track/2xwtIrjHLg4f61q6bFBbL4) | [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB) | [remember](https://open.spotify.com/album/7bXEMpMJNRWkzQpnKziufZ) | 1:23 |
 | 121 | [Altered Reality](https://open.spotify.com/track/2JL9TRq38dryFpSoMHPNok) | [DreamWeaver](https://open.spotify.com/artist/5eJLr9gChrfI4p6AuEGT4z) | [Cloud9](https://open.spotify.com/album/6NW5PiEHF9eN8cCCcrPFCT) | 3:25 |
 | 122 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 124 | [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 |
 | 125 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 |
 
-Snapshot ID: `MTY1ODk3MDUyNiwwMDAwMDAwMDNjNTk1MWFhZjM5NTE1N2EwOGFhNGU3MGI4YWQ0ZmE3`
+Snapshot ID: `MTY1ODg2NzQwOCwwMDAwMDAwMDkyYzMyOTc4YjdkMTUxMzQ4MDFlODkxMzU1MGUzZmVm`

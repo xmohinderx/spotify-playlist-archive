@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Pancho Barraza
 
-250 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
+251 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Por Un Amor](https://open.spotify.com/track/3YibdBCjkHdhJ0RfucR0sZ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Décimo Aniversario](https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca) | 2:23 | 2022-05-13 | 2022-05-29 |
 | [Porqué Como Tú](https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf) | [Grupo Mojado](https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7) | [Porqué Como Tú](https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU) | 3:59 | 2022-05-13 |  |
 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 | 2022-06-01 |  |
-| [Probablemente](https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-05-13 | 2022-07-28 |
+| [Probablemente](https://open.spotify.com/track/4prmUBle7TtAeeUgCnsc3Z) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 | 2022-05-13 |  |
 | [Puedes Taparte](https://open.spotify.com/track/1BkDe3AUbdxW4FMCtGhRFr) | [Jerry Bazúa](https://open.spotify.com/artist/1roZccuDF0VijnsjS0KmjH), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Puedes Taparte](https://open.spotify.com/album/7hPrksWbIg8kQ1HpCPU3Vw) | 3:52 | 2022-05-13 | 2022-06-01 |
 | [Pídeme](https://open.spotify.com/track/0BIdwub6gFNtiRe6NEGBtj) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Pídeme](https://open.spotify.com/album/6QRBG30LYs5knvpB9bZ3HK) | 3:32 | 2022-05-13 |  |
 | [Que Bonito](https://open.spotify.com/track/39sco9W7GMYRX6MEV4x3Co) | [El Palomo Y El Gorrion](https://open.spotify.com/artist/2Gj87zcTRtTLtGZhS8O5Q7), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Que Bonito](https://open.spotify.com/album/38mLYuauxywvFDMgl54os7) | 2:53 | 2022-05-13 | 2022-06-01 |
@@ -253,9 +253,10 @@
 | [Ya No Me Importa](https://open.spotify.com/track/1uVQ9tclCufSbqpaOHgfU4) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Ya No Me Importa](https://open.spotify.com/album/7sZubnxahx4tIddCErjwFR) | 2:25 | 2022-06-01 |  |
 | [Ya no me importa](https://open.spotify.com/track/71ATzRONbggfWE2KJ0L6XN) | [Sebas Estrada](https://open.spotify.com/artist/2zRwtBlZ7NdX5M1YeFVQnx) | [Ya no me importa](https://open.spotify.com/album/5EWW8ZwEEPJmREjOhqUHyf) | 2:54 | 2022-06-01 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-05-13 |  |
-| [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 | 2022-06-01 | 2022-07-26 |
+| [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 | 2022-06-01 |  |
 | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [¿Con Qué Se Pega un Corazón?](https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF) | 3:48 | 2022-07-01 |  |
-| [¿Dónde Estabas Tú?](https://open.spotify.com/track/1fLmabFCw5UpyjgbWVCxo4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/2nOlcZVussuCXAI2nKHXXk) | 2:44 | 2022-07-01 |  |
+| [¿Dónde Estabas Tú?](https://open.spotify.com/track/1fLmabFCw5UpyjgbWVCxo4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/2nOlcZVussuCXAI2nKHXXk) | 2:44 | 2022-07-01 | 2022-07-29 |
+| [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 | 2022-07-01 |  |
 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 | 2022-05-13 | 2022-06-01 |
 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 | 2022-07-01 |  |
 

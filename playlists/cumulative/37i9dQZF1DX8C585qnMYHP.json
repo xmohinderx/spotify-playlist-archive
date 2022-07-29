@@ -377,7 +377,7 @@
     {
       "album": {
         "name": "Medicine Singers",
-        "url": "https://open.spotify.com/album/15rM0z2mbsQXrcq4Kt87dQ"
+        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
       },
       "artists": [
         {
@@ -388,6 +388,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 122646,
+      "name": "A Cry",
+      "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
+    },
+    {
+      "album": {
+        "name": "Medicine Singers",
+        "url": "https://open.spotify.com/album/15rM0z2mbsQXrcq4Kt87dQ"
+      },
+      "artists": [
+        {
+          "name": "Medicine Singers",
+          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 122646,
       "name": "A Cry",
       "url": "https://open.spotify.com/track/72YJ1eWACPAhxrLVdr2bwO"
@@ -871,10 +889,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 420893,
       "name": "Amalgamation",
       "url": "https://open.spotify.com/track/13PNbxOG3tppOvxdfXRT2p"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420893,
+      "name": "Amalgamation",
+      "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
     },
     {
       "album": {
@@ -4675,10 +4711,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268073,
       "name": "Emptiness Follows (Dreams of Our Love)",
       "url": "https://open.spotify.com/track/1shK4Q3V85HOxrIeMLgBii"
+    },
+    {
+      "album": {
+        "name": "Emptiness Follows",
+        "url": "https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7"
+      },
+      "artists": [
+        {
+          "name": "Aoife Nessa Frances",
+          "url": "https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268073,
+      "name": "Emptiness Follows (Dreams of Our Love)",
+      "url": "https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h"
     },
     {
       "album": {
@@ -4953,10 +5007,28 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 265200,
       "name": "Exile on \u00c6r\u00f8",
       "url": "https://open.spotify.com/track/09SB3jpDTJfA1NRnmce5G5"
+    },
+    {
+      "album": {
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "date_added": "2022-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
     },
     {
       "album": {
@@ -5870,6 +5942,24 @@
     },
     {
       "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264533,
+      "name": "Fruits Of Labour",
+      "url": "https://open.spotify.com/track/7tB3VQuxTJP6GcIvgkddjT"
+    },
+    {
+      "album": {
         "name": "Fruits Of Labour",
         "url": "https://open.spotify.com/album/7x9Adq2mpCGfjnyeF6GWVY"
       },
@@ -5881,7 +5971,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 267593,
       "name": "Fruits Of Labour",
       "url": "https://open.spotify.com/track/4S8NpZvc4hDcHIUlKTkdPZ"
@@ -15131,10 +15221,28 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 237166,
       "name": "The Break Up",
       "url": "https://open.spotify.com/track/1QRorXA5Mb2EnTdnewD2rC"
+    },
+    {
+      "album": {
+        "name": "Escapology",
+        "url": "https://open.spotify.com/album/00oSeWmq01gNDogovg8OIU"
+      },
+      "artists": [
+        {
+          "name": "Kode9",
+          "url": "https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237166,
+      "name": "The Break Up",
+      "url": "https://open.spotify.com/track/7ocDXq81c6WcYzGJ6KuSna"
     },
     {
       "album": {

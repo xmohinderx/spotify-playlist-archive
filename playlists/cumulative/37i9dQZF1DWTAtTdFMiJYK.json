@@ -2929,7 +2929,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 341052,
       "name": "Wahin Ka Wahin",
       "url": "https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7"
@@ -2947,7 +2947,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 341052,
       "name": "Wahin Ka Wahin",
       "url": "https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg"
@@ -2987,10 +2987,32 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191460,
       "name": "Woh Raat",
       "url": "https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL"
+    },
+    {
+      "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX"
+      },
+      "artists": [
+        {
+          "name": "Shivoryx",
+          "url": "https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo"
+        },
+        {
+          "name": "Ronit Vinta",
+          "url": "https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC"
     },
     {
       "album": {

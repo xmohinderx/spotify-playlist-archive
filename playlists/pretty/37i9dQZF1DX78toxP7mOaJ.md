@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Pool Kids \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,422 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,531 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 29 | [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 |
 | 30 | [Black Boys On The Radio](https://open.spotify.com/track/3sVKwJt9LzP0fiI0kVgNh4) | [Benjamin Carter](https://open.spotify.com/artist/2mN6M9Kde408WNk0YrHnQn) | [Black Boys On The Radio](https://open.spotify.com/album/57VY5F9t9pTr2kJXl4bOpZ) | 3:29 |
 | 31 | [My Shadow](https://open.spotify.com/track/2qmFOMNW04BMvDvcBUxTT8) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [My Shadow](https://open.spotify.com/album/4MjD5GUwJ74gqc0u9qRUvW) | 1:49 |
-| 32 | [Red, White, & Blue](https://open.spotify.com/track/1NaDFmwOaAYDDDNCKIInWo) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/4Qq6XHRgVkgAltYNGpUyAL) | 2:42 |
+| 32 | [Red, White, & Blue](https://open.spotify.com/track/3uQGhH7WjwJ9CEmPNhJJOp) | [Proper.](https://open.spotify.com/artist/07fRiLziB7HEpoJippeKdK) | [The Great American Novel](https://open.spotify.com/album/1sU0VVU5cs5E83FMy6ZfGa) | 2:42 |
 | 33 | [Mango](https://open.spotify.com/track/5bClQMywAeHJBA4qE5DXSZ) | [Cheem](https://open.spotify.com/artist/2bRu14RxwtT4Uu9uZI3vdH) | [Guilty Pleasure](https://open.spotify.com/album/4lQmVNHg6Rda3X4UkYKwOj) | 2:28 |
 | 34 | [It Wants Me Dead](https://open.spotify.com/track/5Xb0wpyVf9DEJnfgtiUoLx) | [Skuff Micksun](https://open.spotify.com/artist/7oGAs6hBlictxtFq3td4Ag) | [It Wants Me Dead](https://open.spotify.com/album/7mafZXhP9Ih9YFg1WJ28i8) | 3:07 |
 | 35 | [Headspace](https://open.spotify.com/track/4tY0EKwHcKv09vUMkx02vz) | [Indio Ink](https://open.spotify.com/artist/3MVjv7zc6tJHPV057Oid1T) | [Headspace](https://open.spotify.com/album/2kvx7Aa5PNKke0VyZmccio) | 3:16 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 48 | [En Route Distress](https://open.spotify.com/track/7g6N89sMw2qeHY0qUbkKQP) | [SHEAFS](https://open.spotify.com/artist/7rXC72g2KwyPUJzWxW9CLo) | [A Happy Medium](https://open.spotify.com/album/36UTzYG0Pvd0wmNMkxyXw9) | 4:45 |
 | 49 | [Hooked On U](https://open.spotify.com/track/1UeKJKmNuIs2mOrb7Tzfns) | [Hippie Trim](https://open.spotify.com/artist/4NoLhg2lDgMdSvmD7GUJet) | [Hooked On U](https://open.spotify.com/album/2BIOun313lZu81EzhKpNt3) | 3:50 |
 | 50 | [Covered In Sunshine](https://open.spotify.com/track/59OnNNCfCEaaIGNf8efV3t) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z) | [Covered In Sunshine](https://open.spotify.com/album/18L9jA6pBoa0UCNTdrPHFd) | 3:28 |
-| 51 | [Running My Luck](https://open.spotify.com/track/0bQHsGEM3U17GCgpo0AGWZ) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Running My Luck](https://open.spotify.com/album/0SLjHcTIQtorAcNLY3n1dm) | 4:06 |
+| 51 | [Running My Luck](https://open.spotify.com/track/6OLbHBGPFcHJe6H974S0wS) | [Lawn](https://open.spotify.com/artist/5Dk3G2pCM54sYxkRpzcMUh) | [Bigger Sprout](https://open.spotify.com/album/6KufZVK7ZztV1n8bjN2Zfc) | 4:06 |
 | 52 | [Holiday in My Head](https://open.spotify.com/track/7GrCfI8A87IekzGb37lGOX) | [The Velvet Hands](https://open.spotify.com/artist/3apmyVOBGwhnh7AwyRaF81) | [Holiday in My Head](https://open.spotify.com/album/7sNosmIEcn33uMiLOkVXEZ) | 2:23 |
 | 53 | [Can't Even Drown](https://open.spotify.com/track/4RaVwE2tpvFhv5DRLUkf2G) | [Big Smile](https://open.spotify.com/artist/6aRUlxUt0AIBeAkMVykgbM) | [Can't Even Drown](https://open.spotify.com/album/3rvF7ppj8Kix5rSoCDj1IC) | 3:21 |
 | 54 | [Need You Around](https://open.spotify.com/track/0GEovNslRt5kStCl6GWemD) | [Well Wisher](https://open.spotify.com/artist/0dWdiTWk7xiwAfoceq1sXz) | [Need You Around](https://open.spotify.com/album/6TzKi3S80fmYkcUHtbTbjJ) | 2:49 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 72 | [Under Your Skin](https://open.spotify.com/track/7BKdb4GNYKW3XJSRubvtSm) | [Deathcruiser](https://open.spotify.com/artist/2TsHAB2qyWpuSKBYhpRxu3) | [Under Your Skin](https://open.spotify.com/album/09JgN3TaRLayNPDzPkfi1y) | 3:07 |
 | 73 | [Trader Joe's](https://open.spotify.com/track/2BwKe3zhLFkWYqY2DDB1Yo) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Trader Joe's](https://open.spotify.com/album/5sSf26h9dzlgnSkAnTLv3a) | 2:57 |
 | 74 | [Chromosomes](https://open.spotify.com/track/4CCv4OkiLz9O9UFa0NgHvU) | [KHARTOUM](https://open.spotify.com/artist/4hYvirqM4pHCsklzddaMsM) | [Chromosomes](https://open.spotify.com/album/3OJv0xBtpzQBtsPPgTxAac) | 2:52 |
-| 75 | [Strange World](https://open.spotify.com/track/5eEoPPcDszgnt83ZcVcKlJ) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/4WmRbMDCsNZhuKIgcyCvvE) | 3:05 |
+| 75 | [Strange World](https://open.spotify.com/track/4Aey28bQNP6iirxE1VMnRw) | [Hazy Sour Cherry](https://open.spotify.com/artist/3PsepAwOMZT9vSREseiDW5) | [Strange World](https://open.spotify.com/album/6PaXjnpxQ7A7yFoKEITMd8) | 3:05 |
 | 76 | [You Will Never Be the Best at Anything You Try \(Surely Not\)](https://open.spotify.com/track/3kuRDe1vBmCXldgLl4ZJY9) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 4:09 |
 | 77 | [Super](https://open.spotify.com/track/3mVspRxR2jteR5dUHmhBje) | [Fade Awaays](https://open.spotify.com/artist/0Rqj2TKWepOjQICi4KxNKD) | [Super](https://open.spotify.com/album/0SXEJ7dB8XcvOHq7DDKs9k) | 2:07 |
 | 78 | [Being Alone](https://open.spotify.com/track/5BS9buGfakKrYO1YcClFHZ) | [Wiri Donna](https://open.spotify.com/artist/5KRlUqqqEnoRLlzmuF9I4L) | [Being Alone](https://open.spotify.com/album/1hNeywMB1R3pT2uNW6EV5O) | 4:18 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 88 | [A Heart That's Not Your Kind](https://open.spotify.com/track/25cnDiBcLXeyCuO9WTNW4X) | [Matt Sahadi](https://open.spotify.com/artist/5b7Y3QJu63E4noZh8cLJei) | [A Heart That's Not Your Kind](https://open.spotify.com/album/16Zzh8KHgcTwyZT2cWtXcV) | 3:51 |
 | 89 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
 | 90 | [Kick Like A Girl](https://open.spotify.com/track/4YKur03p6QQaPhXAjBhGzb) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Kick Like A Girl](https://open.spotify.com/album/3xVZOwOtBakTmN9AQ8OPf0) | 2:28 |
-| 91 | [Find The Light](https://open.spotify.com/track/1oy5dRgm9gp4K2hdt1JHdr) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/21CSKaWFOpMMXb17S0Cbk3) | 2:50 |
+| 91 | [Find The Light](https://open.spotify.com/track/0uzhHBYfoXelqQ0IICgZnx) | [Jasmyn](https://open.spotify.com/artist/5DPKgkwwBB3lKQza7s58HY) | [In The Wild](https://open.spotify.com/album/0YNHnVxMqfHsVQUdJn7HgI) | 2:50 |
 | 92 | [Blah Blah Blah](https://open.spotify.com/track/6SC0uKm0gUResbIo7bHb79) | [PJ Western](https://open.spotify.com/artist/6bU0xhW8wK2ugmnk9D0oHh) | [Blah Blah Blah](https://open.spotify.com/album/2FY9tjPkyWw52obnSnmZBk) | 3:30 |
 | 93 | [The Numbers](https://open.spotify.com/track/3cihHdDIf5M5RW93a9IzBa) | [Valleyheart](https://open.spotify.com/artist/39cSG80bKnk96yuvGv5KlT) | [Heal My Head](https://open.spotify.com/album/18dzUk1Jw12nmH3STO659R) | 3:39 |
 | 94 | [Rage](https://open.spotify.com/track/1yDDdwsDKcQoZFs5zO0xD4) | [FABER](https://open.spotify.com/artist/3flURQ5mXBE6GW0HsVwLH0) | [Rage](https://open.spotify.com/album/7yTFxH27HPPMcL3tLUi41O) | 3:01 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 109 | [A Thing That I Like](https://open.spotify.com/track/3hfPi3a4TjFGK6psC7o8OZ) | [FASONE](https://open.spotify.com/artist/462fRkRVN0VKvtVaODlSDB), [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [A Thing That I Like](https://open.spotify.com/album/4od7cGdNoJO8V03amRhtoN) | 2:37 |
 | 110 | [Honestly](https://open.spotify.com/track/6urlg4tyPc3fG4vsWiUXzH) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Honestly](https://open.spotify.com/album/2zF2mOK0H1wRFt1gn0Hd8r) | 3:26 |
 
-Snapshot ID: `MTY1ODk0NjMyOSwwMDAwMDY5ZTAwMDAwMTgyNDBlODFjOTMwMDAwMDE4MjE3NzA5MWMz`
+Snapshot ID: `MTY1ODk0NjMyOSwwMDAwMDAwMDIwM2YwN2Q0Y2UwNTgxNDI0ZjI3NmQ1Zjc1Y2M1NjNk`

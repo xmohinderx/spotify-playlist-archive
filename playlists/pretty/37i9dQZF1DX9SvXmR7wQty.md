@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Gab Bouchard
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,673 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,670 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 9 | [Dernière danse](https://open.spotify.com/track/7rCgUChULpKv1y0MLOaB4X) | [Many Hundred Towns](https://open.spotify.com/artist/3AXB2ECtH25kZuyZG1e5xU), [Jolane Simard](https://open.spotify.com/artist/2AkZ1lqL87lS6vBuX8SYxA) | [Dernière danse](https://open.spotify.com/album/2NZmzydGXjD71uTmwIDSFY) | 3:32 |
 | 10 | [Ordinaire](https://open.spotify.com/track/5XOU00eDPnL8N67wD1h6RP) | [L'Affaire Pélican](https://open.spotify.com/artist/1ksofERLywmzgMqjit8iAY) | [Ordinaire](https://open.spotify.com/album/4ETAzo6wdR5Lup7xFt1oMD) | 2:39 |
 | 11 | [Cerf\-volant](https://open.spotify.com/track/50ek80p3iu1DkArxrxitmn) | [VIVACE](https://open.spotify.com/artist/65pD5eCYUYBXQ8HtFFonYj) | [Cerf\-volant](https://open.spotify.com/album/208mJEpcsUJvhqMMDAeSck) | 4:07 |
-| 12 | [On s'est compris \(feat\. Koba LaD\)](https://open.spotify.com/track/6CysmL5giqn1fGn3C6w8hi) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [On s'est compris \(feat\. Koba LaD\)](https://open.spotify.com/album/4MlYPC6ZjhpsI6HulUG24w) | 3:02 |
+| 12 | [On s'est compris](https://open.spotify.com/track/6CysmL5giqn1fGn3C6w8hi) | [Gotti Maras](https://open.spotify.com/artist/0IhPOW5cO2phSUCYqWuTTb), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [On s'est compris](https://open.spotify.com/album/4MlYPC6ZjhpsI6HulUG24w) | 3:02 |
 | 13 | [Fais de l'argent](https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Fais de l'argent](https://open.spotify.com/album/12vTC7BH3Scluv2woieacw) | 2:25 |
 | 14 | [Bar\-Mitzvah](https://open.spotify.com/track/0HtbhFPKGWDyQ4DaqnDdXx) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Bar\-Mitzvah](https://open.spotify.com/album/2ViwDVuKHnZB19SPraHgu0) | 2:07 |
 | 15 | [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Billie Jeans](https://open.spotify.com/track/3nYRH42PPjz4igkYrtNoZK) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 2:48 |
 | 50 | [Les amourettes](https://open.spotify.com/track/30zwnPdJ9CIfebBZMpQC9s) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [Les amourettes](https://open.spotify.com/album/6qWbvCgV8X7p50mEgStUJO) | 4:03 |
 
-Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDQyODAwMDAwMTgyMjQxMGQ5MWYwMDAwMDE4MjIxYWRlNWJj`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMDgyNzA3ZTIzNmZiZmNkOWFmNGY3NGNhNTljNDgxYjRm`

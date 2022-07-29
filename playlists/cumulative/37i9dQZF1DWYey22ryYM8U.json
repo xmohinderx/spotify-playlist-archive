@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244476,
       "name": "A Mi Me Gusta",
       "url": "https://open.spotify.com/track/3OfyRk370vzQR24Q2OkjbN"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231575,
       "name": "Adicto - Salsa Version",
       "url": "https://open.spotify.com/track/6LoZsbVlGfwIPhw91VYqop"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 209500,
       "name": "Aventurero",
       "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
@@ -883,6 +883,24 @@
     {
       "album": {
         "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229945,
+      "name": "Con Mi Amiga",
+      "url": "https://open.spotify.com/track/0FbZzSZ48zfYrXFhJMJZ6Y"
+    },
+    {
+      "album": {
+        "name": "Esa Soy Yo",
         "url": "https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW"
       },
       "artists": [
@@ -893,7 +911,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229945,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/2bIIQIXgi5blVkSZ7Y2uTh"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240722,
       "name": "Depende de Ti",
       "url": "https://open.spotify.com/track/00OQK5pU5dbz2EU08GUYN9"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 224040,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/7dySLMBYZOxtPDjWuvzBPd"
@@ -1785,7 +1803,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 226777,
       "name": "Hoy en Dia",
       "url": "https://open.spotify.com/track/19z37VNtPVvo0HzXxkdCsn"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 220624,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/2YROs8P1p8hMpWcpxxdJ8A"
@@ -2041,10 +2059,32 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188102,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
+    },
+    {
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "LA FAMA (with The Weeknd)",
+      "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
     },
     {
       "album": {
@@ -2103,7 +2143,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 210528,
       "name": "La Latina",
       "url": "https://open.spotify.com/track/2PpsZRMsFNDcJPJul0khH4"
@@ -2311,7 +2351,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 221933,
       "name": "Lluvia y Samba - Tradicional",
       "url": "https://open.spotify.com/track/0wSzNVdyGoteYK1ud9LDgO"
@@ -2329,7 +2369,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310186,
       "name": "Lo Peor de M\u00ed",
       "url": "https://open.spotify.com/track/7iXdo6hpRStLGnV6ZbSzEE"
@@ -2369,7 +2409,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 241760,
       "name": "Lo Que Te Di",
       "url": "https://open.spotify.com/track/0W8NvcMsIuygeFnfNz2KnC"
@@ -2435,7 +2475,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 200176,
       "name": "Lo Veo y No Lo Creo",
       "url": "https://open.spotify.com/track/1OYqZAcqNOUtEpG7GnoCGk"
@@ -2475,7 +2515,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
@@ -2519,7 +2559,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214891,
       "name": "Luna De Queso",
       "url": "https://open.spotify.com/track/6RZfZgF9YdezFWLWxs4j6I"
@@ -2555,7 +2595,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
@@ -2913,7 +2953,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259433,
       "name": "No Hay",
       "url": "https://open.spotify.com/track/1EKaKgdN9gHpKG0QoWe1eZ"
@@ -2931,7 +2971,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190615,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb"
@@ -3021,7 +3061,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 221610,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/1cC0I76YKUEDg9z27puUL4"
@@ -3519,7 +3559,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 220903,
       "name": "Religi\u00f3n",
       "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
@@ -3537,7 +3577,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 206720,
       "name": "Rosal\u00eda",
       "url": "https://open.spotify.com/track/3oKULEJqUz4ytF6L5dNEzC"
@@ -3595,10 +3635,28 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269231,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE"
+    },
+    {
+      "album": {
+        "name": "Esa Soy Yo",
+        "url": "https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269231,
+      "name": "Se\u00f1or Mentira",
+      "url": "https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno"
     },
     {
       "album": {
@@ -3653,7 +3711,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 213186,
       "name": "Si Me Das Tu Amor",
       "url": "https://open.spotify.com/track/1O34fFJyV7djSqRtOuRSVh"
@@ -3945,7 +4003,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 290520,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/1siATRpCTikt3dpJiBonfk"
@@ -4025,7 +4083,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-26",
+      "date_removed": null,
       "duration_ms": 263586,
       "name": "Te Di - Bachata Version",
       "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
@@ -4159,7 +4217,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Traici\u00f3nalo Conmigo",
       "url": "https://open.spotify.com/track/5NmKNwXMyZiWcPlL6QcXUT"
@@ -4203,7 +4261,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248182,
       "name": "Tranquila Beb\u00e9",
       "url": "https://open.spotify.com/track/3EnCSIjl03MII5J1agQZud"
@@ -4311,7 +4369,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 179368,
       "name": "Tu Me Matas",
       "url": "https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd"
@@ -4855,7 +4913,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 184333,
       "name": "Y Le Dije No - Salsa",
       "url": "https://open.spotify.com/track/2NcuCrsWUKklKE0glhndJD"

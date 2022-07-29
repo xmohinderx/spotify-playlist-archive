@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,939 likes - 192 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,949 likes - 192 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 118 | [Learning To Live Again](https://open.spotify.com/track/4KM4KZ0LSxiJqQZyNPVtDO) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 3:43 |
 | 119 | [Deciding Who to Be](https://open.spotify.com/track/4RLc5qTQTrraUBOUGYRqfx) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Deciding Who to Be](https://open.spotify.com/album/3W73Hea7h4JxaM39Y9gJfe) | 3:16 |
 | 120 | [These Days](https://open.spotify.com/track/55OrXbHnrlFw9wCRg6Nf4Q) | [Jeffrey Steele](https://open.spotify.com/artist/2Znov2bFtJO4sppc5bSa2d) | [Gold\. Platinum\. Chrome And Steele](https://open.spotify.com/album/0PDRvOfhJAm8mEASzCl3Rj) | 4:23 |
-| 121 | [Night Shift](https://open.spotify.com/track/3ZjdOqo5c1PJNxDyKSv9Rf) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/26xwbEdqscNEcQPrgDvW3Y) | 2:59 |
+| 121 | [Night Shift](https://open.spotify.com/track/4iHI9yGjIiDe9tmOz6Zben) | [Billy Montana](https://open.spotify.com/artist/6B68vYYyj4afbUqedI6Mqc) | [Night Shift](https://open.spotify.com/album/4b8lsGJcFSnRp6llbuFetG) | 2:59 |
 | 122 | [If the Boot Fits](https://open.spotify.com/track/39XSf0AnSQYbTrfC9G2cZo) | [Jordan Schmidt](https://open.spotify.com/artist/4iCsvE9FD8ZQbvb0B4CHmu), [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo) | [2017 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/00M4zevPXWPAejRamqLJwp) | 2:42 |
 | 123 | [See You Again](https://open.spotify.com/track/28nO80586CILwu5kNXj3NI) | [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Keeping It Original for Alive: A Celebration of Songwriters Benefiting Alive Hospice, Vol\. 1](https://open.spotify.com/album/1kwMPmio6OJkwHRYWK6q8p) | 3:24 |
 | 124 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 191 | [Girl Crush](https://open.spotify.com/track/1wPwNfgLh54akyMFRhkMzZ) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:25 |
 | 192 | [The Highwayman](https://open.spotify.com/track/5Uq2mhb7ZHCGlLLbVVIuAF) | [Jimmy Webb](https://open.spotify.com/artist/0YJUdunUDA1pTDxJ8AJlyB) | [Highwayman: The Greatest Hits](https://open.spotify.com/album/34u1HXTINbB3kfKUAj6PzV) | 3:50 |
 
-Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAyZTAwMDAwMTgxZGJmNmU2ZTQwMDAwMDE4MTFiZDgyNTgw`
+Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAwMDRjZjljNTAxNTU3ZDZjMjY2NzMyM2VmZjJkOGYzODJi`

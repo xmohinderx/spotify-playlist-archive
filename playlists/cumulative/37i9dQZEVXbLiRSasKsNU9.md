@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-674 songs - 1 day 12 hr 44 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
+675 songs - 1 day 12 hr 46 min - [published](https://open.spotify.com/playlist/2KskEo1wQpaUWnAdZJ1BFM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/1Gwu3d6lZjL99kw4dcFCsq) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/0BIVeIl2HY2fElVxUCD9RV) | 3:06 | 2022-06-30 | 2022-07-14 |
 | [MIDNIGHT](https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9) | [PLAYAMANE](https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [MIDNIGHT](https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W) | 2:01 | 2022-05-28 | 2022-06-29 |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-02-08 | 2022-03-30 |
-| [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-26 |  |
+| [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-26 | 2022-07-29 |
 | [Miserable Man](https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Miserable Man](https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4) | 3:52 | 2022-02-01 | 2022-02-09 |
 | [Miss You](https://open.spotify.com/track/4VgSGm7CroAlCCt9GKQ75Z) | [Jérémie Makiese](https://open.spotify.com/artist/6VCBinAerlvZxvXSHAFVuq) | [Miss You](https://open.spotify.com/album/65zDaQ8wTT3GptmsF98fXs) | 2:53 | 2022-05-14 | 2022-05-29 |
 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 | 2021-12-27 | 2021-12-29 |
@@ -639,6 +639,7 @@
 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 | 2022-04-26 | 2022-04-29 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-02 | 2022-05-25 |
 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 | 2022-06-14 |  |
+| [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-28 |  |
 | [Victoria’s Secret](https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret](https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg) | 2:56 | 2022-07-26 |  |
 | [Viernes 13](https://open.spotify.com/track/0IJoJOVw1hSws1kLH96e7d) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más < :\-\)](https://open.spotify.com/album/7oVXimCOW8ArhedbQGY2Hm) | 3:01 | 2022-05-14 | 2022-05-29 |
 | [Virando o Olhinho](https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Virando o Olhinho](https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN) | 2:22 | 2022-07-09 |  |

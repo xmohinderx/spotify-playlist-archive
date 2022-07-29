@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/1gGlPQjBUdJ7mTtcumuFjC"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3lykOhcfTlJmrlnVcXNpu0"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/5RH7e8dotrJNLdfbDgXkxG"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/6jnVe0mrlljgBx7il7YtUJ"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7ubJ40WEvyuzjmiFsH6RQa"
@@ -109,10 +109,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226651,
       "name": "Angels From The Realms Of Glory",
       "url": "https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ"
+    },
+    {
+      "album": {
+        "name": "Quietime - Peace On Earth",
+        "url": "https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz"
+      },
+      "artists": [
+        {
+          "name": "Eric Nordhoff",
+          "url": "https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Angels From The Realms Of Glory",
+      "url": "https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk"
     },
     {
       "album": {
@@ -153,7 +171,7 @@
     {
       "album": {
         "name": "Away in a Manger",
-        "url": "https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy"
+        "url": "https://open.spotify.com/album/02EzVlaMiFQspWECiEBYLd"
       },
       "artists": [
         {
@@ -164,6 +182,24 @@
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 107493,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/4oBbsBouyrXW33ZbGiPnlH"
+    },
+    {
+      "album": {
+        "name": "Away in a Manger",
+        "url": "https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy"
+      },
+      "artists": [
+        {
+          "name": "The Masked Guitarist",
+          "url": "https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 107493,
       "name": "Away in a Manger",
       "url": "https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa"
@@ -413,7 +449,7 @@
     {
       "album": {
         "name": "Quietime - Peace On Earth",
-        "url": "https://open.spotify.com/album/26xeKrPelJVKuspC13ySh9"
+        "url": "https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz"
       },
       "artists": [
         {
@@ -424,6 +460,24 @@
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 207106,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/6yJoCZIFEUx0UFhVmE2QDm"
+    },
+    {
+      "album": {
+        "name": "Quietime - Peace On Earth",
+        "url": "https://open.spotify.com/album/26xeKrPelJVKuspC13ySh9"
+      },
+      "artists": [
+        {
+          "name": "Eric Nordhoff",
+          "url": "https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 207106,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/7jB8pSChFzxNfGOIhHGNho"

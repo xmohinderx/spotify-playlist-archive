@@ -845,10 +845,28 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 191999,
       "name": "Chambea",
       "url": "https://open.spotify.com/track/6ElmxV9B2mSNscEjP27M7i"
+    },
+    {
+      "album": {
+        "name": "Chambea",
+        "url": "https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192001,
+      "name": "Chambea",
+      "url": "https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy"
     },
     {
       "album": {
@@ -951,10 +969,36 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+    },
+    {
+      "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
     },
     {
       "album": {
@@ -2803,6 +2847,36 @@
     {
       "album": {
         "name": "Loca Remix",
+        "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346460,
+      "name": "Loca - Remix",
+      "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+    },
+    {
+      "album": {
+        "name": "Loca Remix",
         "url": "https://open.spotify.com/album/7cxeVJQVXJlwIblOXISb5j"
       },
       "artists": [
@@ -2825,7 +2899,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 346460,
       "name": "Loca Remix",
       "url": "https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM"
@@ -3093,10 +3167,44 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 325265,
       "name": "Me Ama Me Odia",
       "url": "https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv"
+    },
+    {
+      "album": {
+        "name": "Me Ama Me Odia",
+        "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
+      },
+      "artists": [
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326936,
+      "name": "Me Ama Me Odia",
+      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
     },
     {
       "album": {
@@ -3167,10 +3275,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q"
+    },
+    {
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
     },
     {
       "album": {
@@ -4507,6 +4633,24 @@
     {
       "album": {
         "name": "Antezana 247 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5tPDpnIZLtftbejuG6BllH"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216056,
+      "name": "Tamo Loco",
+      "url": "https://open.spotify.com/track/3EsXS6UlpHtJvopnLTbsiT"
+    },
+    {
+      "album": {
+        "name": "Antezana 247 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NzElJ86YkzcxrOP61724y"
       },
       "artists": [
@@ -4517,7 +4661,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216056,
       "name": "Tamo Loco",
       "url": "https://open.spotify.com/track/3eIPYPrEGvbAKc2rSjlErW"
@@ -4889,6 +5033,24 @@
     {
       "album": {
         "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214125,
+      "name": "T\u00fa No Lo Amas",
+      "url": "https://open.spotify.com/track/0fLOPPoyIaPTe8dm2Mrft3"
+    },
+    {
+      "album": {
+        "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
       },
       "artists": [
@@ -4899,7 +5061,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214125,
       "name": "T\u00fa No Lo Amas",
       "url": "https://open.spotify.com/track/5Wr2fVAVxcEfFwvJhIInH7"

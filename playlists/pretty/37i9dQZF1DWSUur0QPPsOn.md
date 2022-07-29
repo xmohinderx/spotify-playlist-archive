@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/zackbia/?hl=en">Zack Bia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,715 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,114 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 5 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 6 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 |
 | 7 | [Yam](https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I) | [sharkboy](https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [UNDERWATER](https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4) | 2:45 |
-| 8 | [Yes Sir](https://open.spotify.com/track/104mFOY5wuBms2wwEC14Qk) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/117i43x9P3zxUQ7UAcxrBV) | 4:08 |
+| 8 | [Yes Sir](https://open.spotify.com/track/69SNw01e7QOpN2xyLlO1tS) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/19U7uimektA9B78KaLaydy) | 4:08 |
 | 9 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 |
 | 10 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
 | 11 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
-| 12 | [Talk 2 Me](https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI) | 2:19 |
+| 12 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 | 13 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 |
 | 14 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 |
 | 15 | [Burn One \(Interlude\)](https://open.spotify.com/track/6WgkOAIOPoumdilSCdYFPB) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 1:48 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 31 | [Champion](https://open.spotify.com/track/7gXQeFv66TUng1LyjjHDvb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 2:47 |
 | 32 | [Candy Rain](https://open.spotify.com/track/4j1Bk0BEIGCF9hR7cSwl9d) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:36 |
 | 33 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
-| 34 | [proud](https://open.spotify.com/track/7s2LDcpMI32Dy7jqJXanIm) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [proud](https://open.spotify.com/album/4bjKxCXgkALEfVAJSE06OQ) | 2:38 |
+| 34 | [Proud](https://open.spotify.com/track/6QnmXF5D5CH0WM9F7Nz3xt) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Proud](https://open.spotify.com/album/2gWZLUStRmDNXSq8oHA3z0) | 2:38 |
 | 35 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 36 | [A Keeper](https://open.spotify.com/track/0nAZGkBGKQCXyaoSJfRhC1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 2:53 |
 | 37 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [Savage](https://open.spotify.com/track/3EkiwX3Mp9GuT9Ne4HQy4D) | [Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [LARRY](https://open.spotify.com/album/19oWyPxJTqnAQnhvzIs8CS) | 2:54 |
 | 50 | [Butterfly Doors](https://open.spotify.com/track/4QbB0QbO9BtwgIGn7k9ZMI) | [Onlybino!](https://open.spotify.com/artist/2kdZj6QvBXkeo95aio52pF) | [Butterfly Doors](https://open.spotify.com/album/2xnbz07xbVryLEPAfKvv5j) | 1:52 |
 
-Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDA0ZDAwMDAwMTgxYjdlYTYyZDIwMDAwMDE4MWI3Y2NkMTY2`
+Snapshot ID: `MTY1NjY0ODAwMCwwMDAwMDAwMDQ1MzdhMGQ0NjU3OTA4ZTc2Yzc4MGQxYTljMWFkODBk`

@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods.
 
-393 songs - 22 hr 43 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+394 songs - 22 hr 46 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [Here With Me \(feat\. Anderson .Paak\)](https://open.spotify.com/track/43VYKBAP5U88u4dkCxvTqV) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Good Morning Gorgeous](https://open.spotify.com/album/3nsB4o3510eSLWoFdE6wqA) | 2:19 | 2022-07-08 |  |
 | [Home](https://open.spotify.com/track/0XK8bRXJfQpQHQZu5HrPB7) | [BHUMBLE](https://open.spotify.com/artist/1lLZSPeW3zUzXfHA3r8RzH) | [In Too Deep](https://open.spotify.com/album/51TdpTNVy6XhnfRt90nS1o) | 3:17 | 2022-05-19 | 2022-07-09 |
 | [Honey Dew](https://open.spotify.com/track/5IQzzrwxQ3tFNOf1Ixnwft) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Cosmic Wind](https://open.spotify.com/album/61daGwqgh0MGK2MigtyVfv) | 3:13 | 2019-07-10\* | 2019-11-05 |
-| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-17 |  |
+| [Hrs & Hrs](https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5) | 3:24 | 2022-05-19 |  |
+| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 | 2021-07-01 | 2022-03-12 |
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-11-10 | 2022-03-12 |
 | [I Don't Think You're Ready](https://open.spotify.com/track/3cBDXeBa5jR7nCks8KQQrN) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Don't Think You're Ready](https://open.spotify.com/album/4254aK6cnGgGZGPSyVb3Pq) | 2:43 | 2019-08-23 | 2020-03-27 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/0qzsmjWYgiSIRNFrTEEsdP"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3a6enSby0Rw9mrRPKDvqEL"
@@ -279,6 +279,24 @@
     {
       "album": {
         "name": "N.Y. Atmosphere",
+        "url": "https://open.spotify.com/album/3chIewuk3sw5OO43UWwlG9"
+      },
+      "artists": [
+        {
+          "name": "N.Y. Atmosphere",
+          "url": "https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Central Park",
+      "url": "https://open.spotify.com/track/2ByYM9IxAQYcR6UjGS2bMl"
+    },
+    {
+      "album": {
+        "name": "N.Y. Atmosphere",
         "url": "https://open.spotify.com/album/7GzZ1PrE5t47Nkm05EsRwQ"
       },
       "artists": [
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262000,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/4RW3rLdFGTmGWRFe5G6epg"
@@ -315,6 +333,24 @@
     {
       "album": {
         "name": "Winds Of Fuji",
+        "url": "https://open.spotify.com/album/4QKngpNjlNhdHLESKhcbde"
+      },
+      "artists": [
+        {
+          "name": "Mandala Dreams",
+          "url": "https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229996,
+      "name": "Colors Of The Moon",
+      "url": "https://open.spotify.com/track/2m9dwTEyYuMREZTttiFKmF"
+    },
+    {
+      "album": {
+        "name": "Winds Of Fuji",
         "url": "https://open.spotify.com/album/6kIQSKwUKjiE4hxxMyMkBc"
       },
       "artists": [
@@ -325,7 +361,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 229996,
       "name": "Colors Of The Moon",
       "url": "https://open.spotify.com/track/7oJTS0gsP7c97MrpYOAprd"
@@ -350,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Awarness",
+        "url": "https://open.spotify.com/album/4Pyk7xBsaCzB3UeFEWJa63"
+      },
+      "artists": [
+        {
+          "name": "Out Of Gravity",
+          "url": "https://open.spotify.com/artist/4TFNHaPqofW42WWVafTX7o"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268926,
+      "name": "Cosmic Awareness",
+      "url": "https://open.spotify.com/track/3wUiacFzzsmxvdwramIwwg"
+    },
+    {
+      "album": {
         "name": "Cosmic Awareness",
         "url": "https://open.spotify.com/album/3hecCEF63VmN2b0ZUbhMAV"
       },
@@ -361,7 +415,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 268926,
       "name": "Cosmic Awareness",
       "url": "https://open.spotify.com/track/4piid7tPoN2WkIqAxathMC"
@@ -621,6 +675,24 @@
     {
       "album": {
         "name": "Enter",
+        "url": "https://open.spotify.com/album/3gkHD3Lrf6J3LQNBgKmbuW"
+      },
+      "artists": [
+        {
+          "name": "Milo Heart",
+          "url": "https://open.spotify.com/artist/5WOoGqaGJ9zND9M0SNzXL1"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214945,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/6ILOMqjC2nX80Rg1ACdUvZ"
+    },
+    {
+      "album": {
+        "name": "Enter",
         "url": "https://open.spotify.com/album/2itmHyFe6x0pzdWES5yIjn"
       },
       "artists": [
@@ -631,7 +703,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -685,10 +757,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202747,
       "name": "Findings",
       "url": "https://open.spotify.com/track/343ddQVZOlgpQ4FWiSwMHP"
+    },
+    {
+      "album": {
+        "name": "Findings",
+        "url": "https://open.spotify.com/album/3clSZEB0Fg1q8HE6Ckp2ya"
+      },
+      "artists": [
+        {
+          "name": "August Wilhelmsson",
+          "url": "https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202747,
+      "name": "Findings",
+      "url": "https://open.spotify.com/track/47fsmEwOq739Cy3pzUgWIQ"
+    },
+    {
+      "album": {
+        "name": "Paris Atmosphere",
+        "url": "https://open.spotify.com/album/0hEKprQBXJUWFSgrYxbGYb"
+      },
+      "artists": [
+        {
+          "name": "Paris Atmosphere",
+          "url": "https://open.spotify.com/artist/7nd5uBLriymq37OCBKq71k"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Fragments Cafe\u0301",
+      "url": "https://open.spotify.com/track/0BIStdXlI7hvMEkIfROFUt"
     },
     {
       "album": {
@@ -703,7 +811,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 234666,
       "name": "Fragments Cafe\u0301",
       "url": "https://open.spotify.com/track/3jg4Z0yPJsVx5M3BOYkBS0"
@@ -739,10 +847,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193726,
       "name": "Frontiers Are Where You Find Them",
       "url": "https://open.spotify.com/track/0pYcmN2XmJSWNEvjgGFodh"
+    },
+    {
+      "album": {
+        "name": "Luminescence",
+        "url": "https://open.spotify.com/album/4JFvicXoNpfbIB1gAm7uxw"
+      },
+      "artists": [
+        {
+          "name": "Trevor Kowalski",
+          "url": "https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193726,
+      "name": "Frontiers Are Where You Find Them",
+      "url": "https://open.spotify.com/track/4JHBDESS5rxMXjMXaKGYHf"
     },
     {
       "album": {
@@ -793,10 +919,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216678,
       "name": "Hibernation",
       "url": "https://open.spotify.com/track/1mYTROYR85RaiaVEtQztis"
+    },
+    {
+      "album": {
+        "name": "Hibernation",
+        "url": "https://open.spotify.com/album/5dVDeiMsoSUGb0KJhXnpmi"
+      },
+      "artists": [
+        {
+          "name": "Hushed",
+          "url": "https://open.spotify.com/artist/6Jkxik23CyCBIj3rKlflPn"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216678,
+      "name": "Hibernation",
+      "url": "https://open.spotify.com/track/7AcNOiZhA5jRxCp5c3wOyz"
     },
     {
       "album": {
@@ -865,10 +1009,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 130285,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6bmyYlH5GVcYz6bJwurxxp"
+    },
+    {
+      "album": {
+        "name": "At First Light",
+        "url": "https://open.spotify.com/album/7j0q8lAzQtUNdcfLgyoQU0"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/7rVVerTSC0AqlnWkB1AqJS"
     },
     {
       "album": {
@@ -1063,10 +1225,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 304285,
       "name": "Lost Secrets",
       "url": "https://open.spotify.com/track/0xXb8rsGM77cixpWrOz3ES"
+    },
+    {
+      "album": {
+        "name": "Lost Secrets",
+        "url": "https://open.spotify.com/album/6NT9hhZJ22oIh5017K6gHD"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304285,
+      "name": "Lost Secrets",
+      "url": "https://open.spotify.com/track/1TyHhyFlgu60ib6t8vdHAW"
     },
     {
       "album": {
@@ -1233,6 +1413,24 @@
     {
       "album": {
         "name": "Tokyo Atmospheres",
+        "url": "https://open.spotify.com/album/23nI7Is88g5gn0kzKevRmr"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Atmospheres",
+          "url": "https://open.spotify.com/artist/2hoYdIIKopoBO1KV3QvK1r"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231935,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/0FXj7j1qnZ33pPfZJsdYVE"
+    },
+    {
+      "album": {
+        "name": "Tokyo Atmospheres",
         "url": "https://open.spotify.com/album/6ycai16HNU5VpoOq9XILmF"
       },
       "artists": [
@@ -1243,7 +1441,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231935,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/7e0gtNaxjn49Mj9rwPCJaC"
@@ -1287,6 +1485,24 @@
     {
       "album": {
         "name": "Hong Kong Atmosphere",
+        "url": "https://open.spotify.com/album/1koomOATdwc9FdybvbcF2g"
+      },
+      "artists": [
+        {
+          "name": "Hong Kong Atmosphere",
+          "url": "https://open.spotify.com/artist/4ww3eAw5FQQrpRlhPTlXRj"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Ocean Park",
+      "url": "https://open.spotify.com/track/4PonoWVbvE9hFoCK4ugvRz"
+    },
+    {
+      "album": {
+        "name": "Hong Kong Atmosphere",
         "url": "https://open.spotify.com/album/2LBrlYHFKRYCKdrE6pRdlB"
       },
       "artists": [
@@ -1297,10 +1513,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 282000,
       "name": "Ocean Park",
       "url": "https://open.spotify.com/track/6PnaH2MuhcqRxXQe7UNQRX"
+    },
+    {
+      "album": {
+        "name": "Barcelona Atmosphere",
+        "url": "https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS"
+      },
+      "artists": [
+        {
+          "name": "Barcelona Atmosphere",
+          "url": "https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Parc Gu\u0308ell",
+      "url": "https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek"
     },
     {
       "album": {
@@ -1315,7 +1549,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208000,
       "name": "Parc Gu\u0308ell",
       "url": "https://open.spotify.com/track/1znpMS5QcPwMIkE3cnb6sL"
@@ -1369,10 +1603,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 142601,
       "name": "Persepolis",
       "url": "https://open.spotify.com/track/1UIoHCfDQC2eszgXMsImpD"
+    },
+    {
+      "album": {
+        "name": "Morning Dew",
+        "url": "https://open.spotify.com/album/3Z9zu4MUl1nu4qDyAQiLBd"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143214,
+      "name": "Persepolis",
+      "url": "https://open.spotify.com/track/6B8dXkHi9J04EFvlDncRCm"
     },
     {
       "album": {
@@ -1557,6 +1809,24 @@
     {
       "album": {
         "name": "La Mancha 34",
+        "url": "https://open.spotify.com/album/0T7TfOC2jHTwFFT0Spdkz9"
+      },
+      "artists": [
+        {
+          "name": "Salvador Vega",
+          "url": "https://open.spotify.com/artist/2r485eL2sjIfMsTNsvpHNs"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Salamanca",
+      "url": "https://open.spotify.com/track/04NXOnaOXZdHPYkldpqcCg"
+    },
+    {
+      "album": {
+        "name": "La Mancha 34",
         "url": "https://open.spotify.com/album/3SMBwU08IA8vUO3QgC8MK3"
       },
       "artists": [
@@ -1567,7 +1837,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 210000,
       "name": "Salamanca",
       "url": "https://open.spotify.com/track/0wcO44QmAQWAXaCRbyWJzG"
@@ -2071,10 +2341,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233684,
       "name": "Yes/No - Sanctuary Mix",
       "url": "https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y"
+    },
+    {
+      "album": {
+        "name": "Yes/No",
+        "url": "https://open.spotify.com/album/6hFUbfCDZaaWhnYzMkJs4T"
+      },
+      "artists": [
+        {
+          "name": "Tao Lounge",
+          "url": "https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233684,
+      "name": "Yes/No - Sanctuary Mix",
+      "url": "https://open.spotify.com/track/6btq4xcQtbnDMYgfR7LmAu"
     },
     {
       "album": {
@@ -2089,10 +2377,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160515,
       "name": "You Are Loved",
       "url": "https://open.spotify.com/track/0QYlKxVXf0pCnFzHIxNFBl"
+    },
+    {
+      "album": {
+        "name": "You Are Loved",
+        "url": "https://open.spotify.com/album/3cIqbLD9m8DHpPVmiZ1SFT"
+      },
+      "artists": [
+        {
+          "name": "Sam Eber",
+          "url": "https://open.spotify.com/artist/5KzipUgM2we3eTM3n2VrLk"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160515,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/2puyeVYaXabtN2eniDV1sa"
     },
     {
       "album": {

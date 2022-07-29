@@ -1,12 +1,12 @@
 {
   "description": "Slow jazz for evening listening pleasure.",
-  "num_followers": 132893,
+  "num_followers": 132907,
   "original_name": "Evening Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQ4OTU2MSwwMDAwMDA3YjAwMDAwMTgxYWU3OGNlMDYwMDAwMDE4MTRkMDkwNDQ4",
+  "snapshot_id": "MTY1NjQ4OTU2MSwwMDAwMDAwMGIxY2U3MGI2MTVjZTZkNTEyNDdjODE5Zjg2MGViMTAy",
   "tracks": [
     {
       "added_at": "2022-06-29 07:59:21",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-06-29 07:59:21",
       "album": {
-        "name": "Ballads (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44M3n6XShRwkwAk0z5hnmL"
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
         }
       ],
-      "duration_ms": 262426,
+      "duration_ms": 259813,
       "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/3aPjTvCKcGXF1TbVILWP4e"
+      "url": "https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk"
     },
     {
       "added_at": "2022-06-29 07:59:21",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2022-06-29 07:59:21",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
         }
       ],
-      "duration_ms": 529240,
-      "name": "Since I Fell For You - Remastered",
-      "url": "https://open.spotify.com/track/11S6NRCdcsxKpEstEPCDg7"
+      "duration_ms": 528933,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/4TTPpmbvhD6lykELuXZoSh"
     },
     {
       "added_at": "2022-06-29 07:59:21",
@@ -1915,10 +1919,14 @@
     {
       "added_at": "2022-06-29 07:59:21",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/2gZMDsQHC8kPl0jRhe1651"
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC"
       },
       "artists": [
+        {
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
         {
           "name": "Claus Waidtl\u00f8w",
           "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
@@ -1926,15 +1934,11 @@
         {
           "name": "Nikolaj Hess",
           "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
-        },
-        {
-          "name": "Portraits in Jazz",
-          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
         }
       ],
       "duration_ms": 272585,
       "name": "Velvet",
-      "url": "https://open.spotify.com/track/368cbpZzyCxc564UhTULxA"
+      "url": "https://open.spotify.com/track/27EA3eyGv6Scd80kEiTvB8"
     },
     {
       "added_at": "2022-06-29 07:59:21",

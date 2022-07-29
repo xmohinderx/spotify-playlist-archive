@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 51 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 51 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 46 | [Tarambana](https://open.spotify.com/track/1v0JtVdAEIuClhZgF8uwbx) | [AFFKT](https://open.spotify.com/artist/1VCo9PBRImHKuQyiubNSqF) | [Plot EP](https://open.spotify.com/album/6pOC4Dizjrquu2HZ2sflRc) | 8:04 |
 | 47 | [Somebody To Love](https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Somebody To Love](https://open.spotify.com/album/69Jz6rL189yH01zQZzm7Y9) | 3:42 |
 | 48 | [Phonogene](https://open.spotify.com/track/79q4IDQiMnIUbNQNHCmMjA) | [Guido Cusani](https://open.spotify.com/artist/4mDZCUzA1j7a38Um1YpN1s) | [Phonogene](https://open.spotify.com/album/1tiYcSQtgxF6ZVwrNywmju) | 7:28 |
-| 49 | [Superior Conjunction](https://open.spotify.com/track/44Mag4B4by9bXU2gh3DA5Y) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF) | [Superior Conjunction EP](https://open.spotify.com/album/3giCQx7p1117uiuoMJSPrL) | 9:29 |
+| 49 | [Superior Conjunction](https://open.spotify.com/track/4I4sgAJbcmIcoNaz27H882) | [Marvin & Guy](https://open.spotify.com/artist/6mUe67fPenWJZXz5JalmjF) | [Superior Conjunction EP](https://open.spotify.com/album/0klU1jLgFLaQNn3bMcWF33) | 9:29 |
 | 50 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 |
 | 51 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 
-Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMjAwMDAwMTgyMmQxMzBmOTMwMDAwMDE4MjI2NmRmM2U2`
+Snapshot ID: `MTY1ODYxMzYwMCwwMDAwMDAwMDQ4ZWNhNWU0NmYwOGNjMjE4MDQ2NmZlYzVjNDg4NzRm`

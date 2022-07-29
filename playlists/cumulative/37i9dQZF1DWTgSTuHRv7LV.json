@@ -663,7 +663,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 189833,
       "name": "Beibi",
       "url": "https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183200,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/0kHS60aDOHYi4Z6W1HvP0o"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182458,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/5F5d2SNc5MiJd0XZ4R6G4q"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
@@ -1793,10 +1793,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182435,
       "name": "El Mundo Es Tuyo",
       "url": "https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh"
+    },
+    {
+      "album": {
+        "name": "El Mundo Es Tuyo",
+        "url": "https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182435,
+      "name": "El Mundo Es Tuyo",
+      "url": "https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD"
     },
     {
       "album": {
@@ -2481,10 +2499,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 159322,
       "name": "Get Money",
       "url": "https://open.spotify.com/track/1GHm53pGbnQF6sXQgota78"
+    },
+    {
+      "album": {
+        "name": "Get Money",
+        "url": "https://open.spotify.com/album/2k4cBntVyNcN7IQJf4Gy35"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159322,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/7uPDRSd1sVwlmEy5T1cv2R"
     },
     {
       "album": {
@@ -2885,7 +2925,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 176560,
       "name": "Huyendo de Mi",
       "url": "https://open.spotify.com/track/0fFQaolg95SYOgP0JQCfrW"
@@ -6007,7 +6047,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217952,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/6ZJclxPNQ7ENAKLanZwQRu"
@@ -7015,7 +7055,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 213060,
       "name": "Whoopty (Latin Mix) [feat. Anuel AA and Ozuna]",
       "url": "https://open.spotify.com/track/7mP1G2qfxiqCoHaTvQ2WHf"
@@ -7033,7 +7073,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 170232,
       "name": "WINDSTAR",
       "url": "https://open.spotify.com/track/1sTAidnhAkNB8E9WSoAlyX"

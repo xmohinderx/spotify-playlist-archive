@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 
 > Spend an afternoon jamming to this curated playlist of all Asian and Pacific Islander musicians across genres and geographies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,143 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,177 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBIwevZ5Lux.md) - [plain]
 | 39 | [Afterglow](https://open.spotify.com/track/661ahmgEHrphIbXHYqxq5n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:18 |
 | 40 | [This Is A Life \- Extended](https://open.spotify.com/track/2YDj0uV5P7kKN4gGcUMEJT) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 3:35 |
 
-Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMzAwMDAwMTgwODVhMjY1YmMwMDAwMDE4MDcyMjZhN2Fh`
+Snapshot ID: `MTY1MTUwOTQ1NCwwMDAwMDAwMGRjMzllN2ZlOTc4MTc0NGUxNzVkMjBjMTcyOGU1YjFh`

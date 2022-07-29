@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best new alternative rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,962 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,033 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 |
 | 2 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 |
-| 3 | [Coming Home](https://open.spotify.com/track/0Ezo65AK5eoUg6CZl75X0Q) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/6oZrOIZ4g01FSJkbWoxrKZ) | 3:24 |
+| 3 | [Coming Home](https://open.spotify.com/track/3NMl2nhvhEnUvwJswPHEYi) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Coming Home](https://open.spotify.com/album/0uBGLU72sQe6eArUmzOMRc) | 3:24 |
 | 4 | [New](https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [New](https://open.spotify.com/album/17GOiT4gUgDWj3or9gkBCn) | 3:00 |
 | 5 | [NEW HEART DESIGN](https://open.spotify.com/track/6J2Y5iz8C5b83ndoPun6aF) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:27 |
 | 6 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 16 | [Midnight Zone](https://open.spotify.com/track/0lTfs6V90Lf2xWEyFtCjON) | [Common Sage](https://open.spotify.com/artist/3DE3WMda6z9BuyMEQyRNFn) | [Midnight Zone](https://open.spotify.com/album/6LADF5HBDOCLtk5b0CosVw) | 4:02 |
 | 17 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
 | 18 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 |
-| 19 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 |
+| 19 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 |
 | 20 | [talking to the drugs](https://open.spotify.com/track/3Lz6teL5yOL4pp30hKj9LT) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [talking to the drugs](https://open.spotify.com/album/2XwXXhDUuX7SDqsQpgEwHU) | 2:56 |
 | 21 | [Your Favourite Blade](https://open.spotify.com/track/5Ki3w952P2LC2m2HFbPQTv) | [The Escape Artist](https://open.spotify.com/artist/1wth8NJW8FHh2XtnAGKguk) | [Pursuing Love at Its Darkest](https://open.spotify.com/album/3U2McQehfcjpSKFTvFcUsk) | 4:34 |
 | 22 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 29 | [Back For You](https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Back For You](https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb) | 4:06 |
 | 30 | [i've got more than i need \(and i don’t have much\)](https://open.spotify.com/track/3kpuZSjSvebrST7m74ImZO) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [i've got more than i need \(and i don’t have much\)](https://open.spotify.com/album/7MrpFQHsePcwjjWRfTsz8d) | 3:41 |
 | 31 | [Bash Out](https://open.spotify.com/track/1eEi76zQSIuNYTw2Zc62ZO) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Bash Out](https://open.spotify.com/album/1PpJI2AhT8IXSOmI98YF4d) | 3:00 |
-| 32 | [Gotta Let It Go](https://open.spotify.com/track/4UOXsWNP7J2xFT9HvhgwVP) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Gotta Let It Go](https://open.spotify.com/album/1DbUmnPCXKJSimJw4FoFgb) | 1:56 |
+| 32 | [Gotta Let It Go](https://open.spotify.com/track/7Mu5u6zgKWRj020HFsEnFc) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [40 oz\. to Fresno](https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3) | 1:56 |
 | 33 | [Clean Hands](https://open.spotify.com/track/5u4RZp5KS6Kbl70xPtJYCv) | [The Darling Fire](https://open.spotify.com/artist/280ynciDmBOnHdsAwrewis) | [Clean Hands](https://open.spotify.com/album/05UaLB7zgQ8lcjLlnVIXcz) | 4:14 |
 | 34 | [Buoyancy](https://open.spotify.com/track/0QP7g52ZwptqZoP6FHQ370) | [Body Type](https://open.spotify.com/artist/2gOqvEhTe5TjetSBfivC4D) | [Everything Is Dangerous But Nothing's Surprising](https://open.spotify.com/album/02isuorLo6tPExAe4qGVAD) | 3:09 |
 | 35 | [Little Miss Innocent](https://open.spotify.com/track/12IZSgW7o6fR37QUIfBA1A) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Here's To Being Alive](https://open.spotify.com/album/7yuj8y6ZPVxQUTMJoRRggq) | 2:48 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 45 | [Nothing](https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Nothing](https://open.spotify.com/album/1SqK00QPYl2QcZe3HD1pel) | 3:59 |
 | 46 | [Nothing Is Real](https://open.spotify.com/track/63QGDqeDMOdQe9j06GYLRd) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nothing Is Real](https://open.spotify.com/album/3Zvib0aCBmAwaJIeAQu4mb) | 4:33 |
 | 47 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 |
-| 48 | [Billow](https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/6ZENWkVVA2aHc8Jufcu6WN) | 3:28 |
+| 48 | [Billow](https://open.spotify.com/track/61sE4FBxsAKEgv4Pj0CzZi) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Blue / Billow](https://open.spotify.com/album/417GpTkRc9qXb5SwhkcTOO) | 3:28 |
 | 49 | [Who Let The Hawgz Out?](https://open.spotify.com/track/0LhLKXxOYLOJGqTqD7k4GK) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x) | [Exercise Your Demons](https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF) | 3:36 |
 | 50 | [Sway](https://open.spotify.com/track/4pW0Z7cIfzKglcD5aBJMbC) | [SHEER](https://open.spotify.com/artist/1t1MZaxu6GhHdWTkZwx8W4) | [Sway](https://open.spotify.com/album/2qgWb4WmKxAe9xZp6l5DzV) | 3:58 |
 | 51 | [Eleven the Fair](https://open.spotify.com/track/1LffL6iYYSPCwKzbX9tRId) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [HLA\-11TF](https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [25](https://open.spotify.com/track/4BVhT8hPa0RVTl5fixJlBR) | [Ready For Mars](https://open.spotify.com/artist/2YFoFKcC1vQhddH2aCEKD1) | [25](https://open.spotify.com/album/3EafDY5hu3gxtoLfn2TKDL) | 3:07 |
 | 60 | [Therapy 2](https://open.spotify.com/track/5Xch2bmKG4TBYuKPWIMpMt) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [The Therapy Sessions](https://open.spotify.com/album/4Ree7F8kKBluzkGcKcFo0P) | 3:02 |
 
-Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDExNDAwMDAwMTgxZGJmNmU2ZDgwMDAwMDE3ZmY4YWZmMzVl`
+Snapshot ID: `MTY1NzI1MjgwMCwwMDAwMDAwMDJjOGIwN2ZiNDUwZDE0NGE1NDI0MGZhYTU5MDk5NDcz`

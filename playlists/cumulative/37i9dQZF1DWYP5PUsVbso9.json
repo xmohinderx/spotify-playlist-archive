@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+    },
+    {
+      "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 139760,
       "name": "Amos Moses",
       "url": "https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU"
@@ -95,6 +113,24 @@
       "duration_ms": 180693,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+    },
+    {
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
     },
     {
       "album": {
@@ -145,7 +181,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 215360,
       "name": "Blanket On The Ground",
       "url": "https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ"
@@ -163,7 +199,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
@@ -199,10 +235,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 213440,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+    },
+    {
+      "album": {
+        "name": "By The Time I Get To Phoenix (Remastered)",
+        "url": "https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "By The Time I Get To Phoenix - Remastered 2001",
+      "url": "https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9"
     },
     {
       "album": {
@@ -217,10 +271,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181666,
       "name": "Coal Miner's Daughter",
       "url": "https://open.spotify.com/track/1em1d8w28YNTYz5U3NNFc1"
+    },
+    {
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
     },
     {
       "album": {
@@ -260,6 +332,42 @@
     },
     {
       "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Coward Of The County",
+      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
+    },
+    {
+      "album": {
+        "name": "Night Things",
+        "url": "https://open.spotify.com/album/6SKcfybHqgbi425YFczgUH"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142773,
+      "name": "Daydreams About Night Things",
+      "url": "https://open.spotify.com/track/1PTngmREtR0P0YMLdqVWBj"
+    },
+    {
+      "album": {
         "name": "The Essential Ronnie Milsap",
         "url": "https://open.spotify.com/album/16GtIUhmqYMj82brhEkmyB"
       },
@@ -271,7 +379,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 143333,
       "name": "Daydreams About Night Things",
       "url": "https://open.spotify.com/track/3rX2dDipynV30H8TYrmTRU"
@@ -332,6 +440,28 @@
     },
     {
       "album": {
+        "name": "Good 'N' Country",
+        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        },
+        {
+          "name": "Deborah Allen",
+          "url": "https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139466,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7IHtSLCPFIRxhDSErCZzYy"
       },
@@ -361,7 +491,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177266,
       "name": "Don't the Girls All Get Prettier at Closing Time",
       "url": "https://open.spotify.com/track/0dFPe0V76Q9eXHbXVxG3C9"
@@ -401,7 +531,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 194879,
       "name": "Dueling Banjos",
       "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
@@ -419,10 +549,32 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 167706,
       "name": "East Bound and Down",
       "url": "https://open.spotify.com/track/7rLaJmjANgWaHEys3p6SDu"
+    },
+    {
+      "album": {
+        "name": "Every Time Two Fools Collide",
+        "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Every Time Two Fools Collide",
+      "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
     },
     {
       "album": {
@@ -556,6 +708,24 @@
     },
     {
       "album": {
+        "name": "The Kendalls - 42 Massive Hits",
+        "url": "https://open.spotify.com/album/0TLnx23a5jjqtakfXHLHdz"
+      },
+      "artists": [
+        {
+          "name": "The Kendalls",
+          "url": "https://open.spotify.com/artist/1rFQlnVFNwI3H6QLDL7LFN"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145253,
+      "name": "Heaven's Just A Sin Away",
+      "url": "https://open.spotify.com/track/2MQMTw0ErhEAecLfm2ClUk"
+    },
+    {
+      "album": {
         "name": "Heaven's Just A Sin Away",
         "url": "https://open.spotify.com/album/4OqnmwpbHOdLF0Zo81oKaJ"
       },
@@ -567,7 +737,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146466,
       "name": "Heaven's Just A Sin Away",
       "url": "https://open.spotify.com/track/7F0duVleRBoCey6qtIFC79"
@@ -675,7 +845,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 238333,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
@@ -729,10 +899,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 125666,
       "name": "I Love",
       "url": "https://open.spotify.com/track/4uZ4gkFvrJFwiMLV3b3ob2"
+    },
+    {
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "album": {
@@ -844,6 +1032,28 @@
     },
     {
       "album": {
+        "name": "Hello, I'm Johnny Cash",
+        "url": "https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "June Carter Cash",
+          "url": "https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "If I Were a Carpenter",
+      "url": "https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ"
+    },
+    {
+      "album": {
         "name": "Ramblin' Fever",
         "url": "https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX"
       },
@@ -855,7 +1065,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196000,
       "name": "If We're Not Back In Love By Monday",
       "url": "https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM"
@@ -873,7 +1083,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 196266,
       "name": "If You Love Me (Let Me Know)",
       "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
@@ -967,7 +1177,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155226,
       "name": "Just Good Ol' Boys",
       "url": "https://open.spotify.com/track/1eKTcxiptSrdGKZuPNQdCr"
@@ -1003,7 +1213,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177986,
       "name": "Let Me Be There",
       "url": "https://open.spotify.com/track/2SS6MAZIFjrn1XNkjgJuV4"
@@ -1039,7 +1249,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162693,
       "name": "Linda On My Mind - Single Version",
       "url": "https://open.spotify.com/track/02q9atOyzjCRfk2uUcfqxe"
@@ -1057,7 +1267,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193960,
       "name": "Lonely Women Make Good Lovers",
       "url": "https://open.spotify.com/track/5je7nvdte7odjJvs5iM1bS"
@@ -1104,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+    },
+    {
+      "album": {
         "name": "Ultimate Collection: Gene Watson",
         "url": "https://open.spotify.com/album/7MX4FrybOtKHPp2k6YCMS4"
       },
@@ -1115,7 +1343,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201240,
       "name": "Love In The Hot Afternoon",
       "url": "https://open.spotify.com/track/0DT0jbuh51K52Rn5sTqWeq"
@@ -1140,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+    },
+    {
+      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/00CBhqdZu9aooYsvTkYWgT"
       },
@@ -1151,7 +1397,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219360,
       "name": "Lucille - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/53JzReeFzXYkCUTCHuulkW"
@@ -1249,7 +1495,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 172986,
       "name": "Man in Black",
       "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
@@ -1267,7 +1513,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 190773,
       "name": "Marie Laveau",
       "url": "https://open.spotify.com/track/7nIcb2zJj0HPNws3PRCl7k"
@@ -1303,7 +1549,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175933,
       "name": "Misty",
       "url": "https://open.spotify.com/track/7uomyxZYl0CXHEgVphykOB"
@@ -1321,7 +1567,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173853,
       "name": "Mother Country Music",
       "url": "https://open.spotify.com/track/06z1kxyyax5xkyJVWK0U3K"
@@ -1339,7 +1585,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211106,
       "name": "My Woman, My Woman, My Wife",
       "url": "https://open.spotify.com/track/7K40sZ0ZV6vGjzSso2nFyr"
@@ -1397,7 +1643,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 158973,
       "name": "Paper Roses",
       "url": "https://open.spotify.com/track/00oIqmk1eRn9D2y8BzNLS1"
@@ -1422,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
+    },
+    {
+      "album": {
         "name": "Ultimate Ronnie Milsap",
         "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
       },
@@ -1433,7 +1697,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140960,
       "name": "Pure Love - Remastered",
       "url": "https://open.spotify.com/track/0bR9zhqRwYTV7dgexsXIb6"
@@ -1491,7 +1755,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 126200,
       "name": "Ridin' My Thumb To Mexico",
       "url": "https://open.spotify.com/track/4cts2JWIBKsSyMuclg7yZP"
@@ -1563,7 +1827,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 146800,
       "name": "Rub It In",
       "url": "https://open.spotify.com/track/6q014fQ3SqLy180KPuCTG1"
@@ -1599,7 +1863,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 209733,
       "name": "Shadows In The Moonlight",
       "url": "https://open.spotify.com/track/7i6YbLIaM45ntr0OnkEfBj"
@@ -1671,7 +1935,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168360,
       "name": "Some Broken Hearts Never Mend - Single Version",
       "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
@@ -1707,7 +1971,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 201600,
       "name": "Stop And Smell The Roses",
       "url": "https://open.spotify.com/track/0gXj72vNlNoh7kiC8zPEQp"
@@ -1841,6 +2105,24 @@
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169266,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/7A3TAN0Epolvort9IcqKvq"
     },
     {
       "album": {
@@ -2017,7 +2299,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 160693,
       "name": "The Midnight Oil",
       "url": "https://open.spotify.com/track/2DjWwfXYH5CnuXPUU0qU30"
@@ -2096,6 +2378,24 @@
     },
     {
       "album": {
+        "name": "In Search Of A Song",
+        "url": "https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "The Year That Clayton Delaney Died",
+      "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
+    },
+    {
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Tom T. Hall",
         "url": "https://open.spotify.com/album/6d1bcCPwsPB0YGrspKeexk"
       },
@@ -2107,7 +2407,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165293,
       "name": "The Year That Clayton Delaney Died",
       "url": "https://open.spotify.com/track/5Sxz7cjDvezdZgjx3aZNvz"
@@ -2125,7 +2425,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 144733,
       "name": "This Time",
       "url": "https://open.spotify.com/track/03T4H6czLK426qcW870hBZ"
@@ -2233,10 +2533,28 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 239066,
       "name": "What a Difference You've Made in My Life",
       "url": "https://open.spotify.com/track/2aRZlcf5SE7Qq0SslQh30R"
+    },
+    {
+      "album": {
+        "name": "It Was Almost Like A Song",
+        "url": "https://open.spotify.com/album/2x8TSQw4wmfjIENmrGlvO1"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241080,
+      "name": "What A Difference You've Made In My Life",
+      "url": "https://open.spotify.com/track/4sxet9Zdu2Z9hdhAKbjlNI"
     },
     {
       "album": {
@@ -2305,7 +2623,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 188386,
       "name": "Whiskey Bent And Hell Bound",
       "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
@@ -2341,7 +2659,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174226,
       "name": "Y'all Come Back Saloon",
       "url": "https://open.spotify.com/track/5O8eCRZGcjLfztSye87CMw"
@@ -2453,7 +2771,7 @@
       ],
       "date_added": "2018-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 181932,
       "name": "You've Never Been This Far Before",
       "url": "https://open.spotify.com/track/2PX54jMPTjvpgAod0oIuIP"

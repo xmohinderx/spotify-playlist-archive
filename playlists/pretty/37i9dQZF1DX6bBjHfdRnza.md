@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: obviouslydan, Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,720 likes - 95 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,805 likes - 95 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 69 | [Faded Love](https://open.spotify.com/track/2BGdN0sQGTni2wtVkMoOZH) | [Jonah Vii](https://open.spotify.com/artist/0O8bHP7mInxHsEPgj2EMrk) | [Faded Love EP](https://open.spotify.com/album/7zzeBMh4tef2HTUJjVbqgf) | 4:40 |
 | 70 | [Always Wanted](https://open.spotify.com/track/5VXZKexlA1D9xm4RPfAZgQ) | [On Point](https://open.spotify.com/artist/3hBSz6Qu8teV6HPLpV0rB2) | [Always Wanted](https://open.spotify.com/album/09vOPRxFyiqxYCasw2rzot) | 3:35 |
 | 71 | [Palma](https://open.spotify.com/track/25xCDpudKgR3fKpAoJpDSY) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Palma](https://open.spotify.com/album/1AvJKmHJIWQq0kh8ZUNx7I) | 3:04 |
-| 72 | [Black Shores](https://open.spotify.com/track/44mieoM8fisTfs1chRZ0I7) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Black Shores](https://open.spotify.com/album/5bxElW3ymKNLZj3t5QMwwu) | 3:25 |
+| 72 | [Black Shores](https://open.spotify.com/track/1i1OqIqpsZJssmaQuWTsJe) | [Tommy Loude](https://open.spotify.com/artist/1Tw4EeFgfssOA3CHXCSkvF) | [Black Shores](https://open.spotify.com/album/428eaDwL1FxJvcIADr7mR7) | 3:25 |
 | 73 | [Dancefloor](https://open.spotify.com/track/1aDd5ioq8tzscMo3tYVLfU) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [Dancefloor](https://open.spotify.com/album/0LHWlUFCB7xkGVmlgfZFI2) | 4:00 |
 | 74 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 |
 | 75 | [Mission](https://open.spotify.com/track/2O7lNYqE0OPcG7tuyzudxq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Rion S](https://open.spotify.com/artist/1sZpZv5Da0fzYvrbdXnXU7) | [Mission](https://open.spotify.com/album/4yBeXuc7Qfr7glD1Mq2sXQ) | 2:50 |
-| 76 | [Navigator](https://open.spotify.com/track/5RRU4gyaVCQqrrJfRQujPz) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Navigator](https://open.spotify.com/album/1UA761iApzFnKz7kNVdFsF) | 6:36 |
+| 76 | [Navigator](https://open.spotify.com/track/4sqZe3k0FfyxQxmC2XRdln) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Navigator](https://open.spotify.com/album/6ozm0XQcvdg3oJZuB6nXVL) | 6:36 |
 | 77 | [Circuit Breaker](https://open.spotify.com/track/6MHUVKKq0BRffHXohy7NFQ) | [Kilig](https://open.spotify.com/artist/6bV9MqjsNFkMwryuBkWvXX) | [Circuit Breaker](https://open.spotify.com/album/13nmoPuijcrQfYYogB5ppJ) | 3:44 |
 | 78 | [Djembe Talk](https://open.spotify.com/track/7jz0cxGZZvqdCRJ6A7C1LN) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:27 |
 | 79 | [Movin'](https://open.spotify.com/track/0YlRqNyRkUHzjDlzSMMhUu) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Movin'](https://open.spotify.com/album/2AMOcFCKIBuojv3eaDeN5x) | 3:28 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 94 | [Francuski łącznik](https://open.spotify.com/track/3641llTDy8rJ502J8SnKUP) | [Tropiki](https://open.spotify.com/artist/7ayr90eJXhw76dWqkHT9hw) | [Panorama](https://open.spotify.com/album/7zZfUf4jVsH38OvemHiuGP) | 4:15 |
 | 95 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 
-Snapshot ID: `MTY1ODk0MDEyNCwwMDAwMDcxNTAwMDAwMTgyNDA4OTZiODcwMDAwMDE4MjFjMjUxNTg0`
+Snapshot ID: `MTY1ODk0MDEyNCwwMDAwMDAwMGQxMjdjNzhkOGQyY2M2ODc1MGEwNGU2MTk5NzU3ZDMw`

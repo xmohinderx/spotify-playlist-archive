@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,753 likes - 96 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,785 likes - 96 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 80 | [On Top of Old Smokey \(Instrumental Version\)](https://open.spotify.com/track/0iPYaJS6hbMahRGl7VtueR) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Baby Lullabye Music \- Acoustic Songs for Children](https://open.spotify.com/album/0Udhpg3Zp3Y2jZkwb4M0lE) | 1:58 |
 | 81 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 |
 | 82 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 |
-| 83 | [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 |
+| 83 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 |
 | 84 | [Do You Know How Many Stars There Are?](https://open.spotify.com/track/63uUcdVFFBPHnBOcOxUijY) | [Michael Kolmstetter](https://open.spotify.com/artist/3AZEqZQrbhVYSO254o3y2L) | [Childhood Memories & Lullabies on Guitar](https://open.spotify.com/album/2cGfYsy7PrcUkRVZEgjfV1) | 2:01 |
 | 85 | [Mother's Waltz](https://open.spotify.com/track/7186LEkov9fIXeZlJwP8Nj) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Mother's Waltz](https://open.spotify.com/album/1n9x0IjxN4hWtOqtp19HLZ) | 1:55 |
 | 86 | [My Bed](https://open.spotify.com/track/4EsDXeCeFgLEEDMQGBIXSj) | [The Easy Peasy](https://open.spotify.com/artist/4ABRagNQJwJqLUxgQw2WM2) | [My Bed](https://open.spotify.com/album/3PKwLGdrqdjdVshN4H0PUu) | 1:14 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 95 | [Farmer in the Dell](https://open.spotify.com/track/23AYYClz4RHhc2ofulvAe7) | [Olga Reus](https://open.spotify.com/artist/2vbW8tMHXQpmhNiNsazxMq) | [Farmer in the Dell](https://open.spotify.com/album/6UPoPdeZSzSzshXq6MySPV) | 1:17 |
 | 96 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 |
 
-Snapshot ID: `MTY1ODgyNzc0MywwMDAwMDAxNzAwMDAwMTgyMzlkNmEwNmMwMDAwMDE4MjM5ZDY2NTk5`
+Snapshot ID: `MTY1ODgyNzc0MywwMDAwMDAwMDNjNDAxNmJkYTYwZDg3MzJmYjIxYTkxNWE4MzA4MGYz`

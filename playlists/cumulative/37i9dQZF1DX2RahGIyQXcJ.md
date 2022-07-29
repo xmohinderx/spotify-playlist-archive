@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Divine's favourite tracks by South Asian creators.
 
-125 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
+126 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/6197j99ueBobh4gmxMLKTT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Baller](https://open.spotify.com/track/7ecil8YftFlihyxZPe66tk) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Lit Happu](https://open.spotify.com/artist/0z6H0b4Jvoti5MtOvXQR5l) | [Chaand Paar](https://open.spotify.com/album/5n1hD5KEXWdbeQQY9Rl4aY) | 2:56 | 2022-04-07 | 2022-06-03 |
 | [Bandish](https://open.spotify.com/track/0LAQGavx2bOA6zx63c1oPw) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Shareh](https://open.spotify.com/artist/3y9g9xthZriyjyUu8ZeEHa), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Bandish](https://open.spotify.com/album/0BKQwNIOay1F9kt9iEYsI0) | 4:52 | 2021-12-03 | 2022-07-19 |
 | [Basti Ka Hasti](https://open.spotify.com/track/3k9PtGmPNnQtt32TKWm6f3) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:15 | 2022-02-21 | 2022-06-17 |
-| [Big Fax](https://open.spotify.com/track/1K2hdKCErRLLIhVZVHjJ7s) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/4uVbUiZKHCaXYqpkdwsMgH) | 3:01 | 2022-07-18 |  |
+| [Big Fax](https://open.spotify.com/track/1K2hdKCErRLLIhVZVHjJ7s) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/4uVbUiZKHCaXYqpkdwsMgH) | 3:01 | 2022-07-18 | 2022-07-29 |
+| [Big Fax](https://open.spotify.com/track/2S02LvvwUmD4I4AIdpWNFR) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa) | [Big Fax \- Single](https://open.spotify.com/album/6EQ7LfsOrORHDDcM3chntZ) | 3:01 | 2022-07-18 |  |
 | [Bindis and Bangles](https://open.spotify.com/track/4ayoGc9wRRbOUowta8OrYZ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Bindis and Bangles](https://open.spotify.com/album/6mKpIIUMij8TpG1mQm91Si) | 3:19 | 2021-12-03 | 2022-07-19 |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-03 | 2022-07-19 |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2022-07-18 |  |

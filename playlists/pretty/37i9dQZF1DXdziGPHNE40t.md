@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day with calm and cool jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,853 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,006 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 68 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 |
 | 69 | [All the Time](https://open.spotify.com/track/0XxT9BefucZG5PNIMNCgEM) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [All the Time](https://open.spotify.com/album/1I0vmtYXaxsa5sBE2CJlTK) | 2:55 |
 | 70 | [What's New](https://open.spotify.com/track/7KkuAiPMECCD5FB2sbDyU2) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [What's New](https://open.spotify.com/album/4EGFMBsIGjesECjoVb2uSD) | 2:51 |
-| 71 | [A Better Place](https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson Blixt](https://open.spotify.com/artist/7KYea3HNjnreWiEJWn3CkI) | [A Better Place](https://open.spotify.com/album/69jewLma1l3nUoR9FR6yCk) | 2:13 |
+| 71 | [A Better Place](https://open.spotify.com/track/6ZDLHi8UtQeT203JjiQU6N) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [A Better Place](https://open.spotify.com/album/5kIBKvyTDfkVFeL3INbvBZ) | 2:13 |
 | 72 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/0HFVyPMlIufaMqeLgnz8Ec) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 |
 | 73 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 |
 | 74 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 78 | [Old Folks](https://open.spotify.com/track/7ompCdUDzOZEqVcCJSGLzH) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp), [Joe Farnsworth](https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4) | [Perambulation](https://open.spotify.com/album/0m1yRg0o4MOhxWHGz5jFLq) | 7:53 |
 | 79 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 |
 | 80 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 |
-| 81 | [People Time](https://open.spotify.com/track/1qpREc7J77glPZPIhqokQ0) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/0ZghK6zyOioeWsT9nnLrCZ) | 4:26 |
+| 81 | [People Time](https://open.spotify.com/track/5LAuwiqOPjlJ8VSNlNSvGn) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Emanuele Cisi](https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn) | [People Time](https://open.spotify.com/album/5KM7qQN7tu4wrgsqnWANct) | 4:26 |
 | 82 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 |
 | 83 | [I've Never Been in Love Before](https://open.spotify.com/track/7bsrxWD78NPHkQGdWDtVKA) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [I've Never Been in Love Before](https://open.spotify.com/album/1X73HhmwH7gDohGimuAagb) | 3:46 |
 | 84 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 119 | [I Can’t Get Started](https://open.spotify.com/track/3lHeTorlEnYb3icowpiDiR) | [Elton Willis Trio](https://open.spotify.com/artist/3dnm59R1zLsrNl8wXA9Aui) | [I Can’t Get Started](https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv) | 4:24 |
 | 120 | [Come Rain or Come Shine](https://open.spotify.com/track/1IuKgGmHL5q5SntLbpuW9X) | [The Red Robin Quartet](https://open.spotify.com/artist/6JonKaJAREHNEYiCFcJBVn) | [Mellow Tone](https://open.spotify.com/album/3O30VlAacllXWOuJzXEW0S) | 4:17 |
 
-Snapshot ID: `MTY1NjQxODA2NiwwMDAwMDA2NjAwMDAwMTgxYWEzNWRmZTQwMDAwMDE4MTRkY2E3MmY5`
+Snapshot ID: `MTY1NjQxODA2NiwwMDAwMDAwMDlmYjI4MDg3N2I0NmM0NjU2NDRjNjc0MjlkYzZlNDNj`

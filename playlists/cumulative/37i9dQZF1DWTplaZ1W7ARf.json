@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Small Town Hero",
+        "url": "https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J"
+      },
+      "artists": [
+        {
+          "name": "Lil Darius",
+          "url": "https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145521,
+      "name": "Feelin Like Rylo",
+      "url": "https://open.spotify.com/track/2CXIvdXp0IC6KrNHXNuDzz"
+    },
+    {
+      "album": {
         "name": "Feelin Like Rylo",
         "url": "https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl"
       },
@@ -481,7 +499,7 @@
       ],
       "date_added": "2022-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 145521,
       "name": "Feelin Like Rylo",
       "url": "https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d"
@@ -909,7 +927,7 @@
     {
       "album": {
         "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
       "artists": [
         {
@@ -920,6 +938,24 @@
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 142226,
+      "name": "livin wild",
+      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
+    },
+    {
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
@@ -1508,6 +1544,24 @@
     },
     {
       "album": {
+        "name": "Mr. Crawford",
+        "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
+      },
+      "artists": [
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176697,
+      "name": "Shackles to Diamonds",
+      "url": "https://open.spotify.com/track/1uPxCL3bvUZKMnwXmAz6rM"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford Teaser",
         "url": "https://open.spotify.com/album/01aYWhU8KqQKOEKAzFrUOm"
       },
@@ -1519,7 +1573,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176697,
       "name": "Shackles to Diamonds",
       "url": "https://open.spotify.com/track/5e3gWKvlWtGLy5wh7tg1KY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 > música para insubordinados\. Las Decapitadas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,485 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,496 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 48 | [Todo el mundo miente](https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:27 |
 | 49 | [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 |
 | 50 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
-| 51 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 |
+| 51 | [videoclub \(Remasterizado 2021\)](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 |
 | 52 | [El Mamado](https://open.spotify.com/track/3XXqSjT0L6zNCZfZgIWyYB) | [NecroMorfo](https://open.spotify.com/artist/6YDoxyvY3LtbFAmafiPEz7) | [1 Soldado en cada Hijo te Dió](https://open.spotify.com/album/5dTcSCSkBzmcDaWENrbe3e) | 2:45 |
 | 53 | [Perro Quieto](https://open.spotify.com/track/1xrODYFckm3LB32KtUgpbJ) | [Loiis](https://open.spotify.com/artist/3VBZYuZlqBLBXKNtCz5knz) | [Wimbledon](https://open.spotify.com/album/1MwiOHgqYHnyfzuHIKhw5p) | 5:13 |
 | 54 | [Cuarzo](https://open.spotify.com/track/7BfEoUL8MA6kEL2Wgo30Mn) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Mar Rojo](https://open.spotify.com/album/0nhIXD1q9Yi2SocNaHUfR0) | 3:26 |
 | 55 | [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 |
-| 56 | [Año de Mierda](https://open.spotify.com/track/52Gh9CvRUV2BdFo7ywL8IC) | [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/1OHKTDWW6BOpRKuKX8ehVB) | 2:51 |
+| 56 | [Año de Mierda](https://open.spotify.com/track/7q1ugxgWb8J7kOeDIRbXdd) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4), [Artistas Fifí](https://open.spotify.com/artist/7JlaLRHjy1CAcVvIaYFRro) | [Elesplit](https://open.spotify.com/album/0VwxKnWVX5fKLp2CQN3Yyc) | 2:51 |
 | 57 | [Hoy No](https://open.spotify.com/track/7z9mN39lIQgPKkGliAQYCt) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Maleza](https://open.spotify.com/album/6HJm0w7q1ockTAIpw53YY7) | 2:07 |
 | 58 | [Barrio de Tepito](https://open.spotify.com/track/6iSpy9OSSGcnIdZ8jdtKVo) | [Torso Corso](https://open.spotify.com/artist/4M6TN8LGWYXUoezRTUp8F8) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 4:07 |
 | 59 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 |
 | 60 | [Esqueletos Muertos](https://open.spotify.com/track/14uJk2QtpPjPWv5LLMkVYo) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [La Fortaleza del Sonido](https://open.spotify.com/album/2zt8e2xw1GIw7nZ7w9UI5o) | 4:33 |
 
-Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAxODAwMDAwMTgwNmM3NWI0MzgwMDAwMDE4MDZjNzU3ZTFl`
+Snapshot ID: `MTY1MTA4NzA5NCwwMDAwMDAwMDFjY2FkZjA5ZTBiODM4MThlYmE3MTI4NGFhNmIxN2Q4`

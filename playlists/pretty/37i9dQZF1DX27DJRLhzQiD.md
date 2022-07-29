@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > Corina Smith y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,102 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,105 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 3 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 4 | [Vivir Contigo](https://open.spotify.com/track/0XB66yNWY2LGLZrurpSkLG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Vivir Contigo](https://open.spotify.com/album/1QGGfBqYnDq2uwlVMDHLjs) | 4:24 |
 | 5 | [Refugio](https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Refugio](https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn) | 3:13 |
-| 6 | [Señor Mentira](https://open.spotify.com/track/1euUy5iIipadV7jrHQRiYE) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/5qPa8E6bhoC1iCGaJOvhzW) | 4:29 |
+| 6 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
 | 7 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 |
 | 8 | [Si Quieres Tenerme](https://open.spotify.com/track/5aOYQ6P64bDwlsld671J7Z) | [Wendy Sulca](https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2) | [Evolución](https://open.spotify.com/album/4b9k435jzvtWVZ9OSM3QGA) | 3:27 |
 | 9 | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Piketona \(with Kim Loaiza\)](https://open.spotify.com/album/4JWW3H1HSUA5beQdZ8oj8K) | 2:38 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 26 | [Tears at Bae](https://open.spotify.com/track/6pENXPucJChxJiDRnww8ds) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Tears at Bae](https://open.spotify.com/album/3vi5FG3o3lIdbGG6Ztu3JF) | 3:22 |
 | 27 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 |
 | 28 | [Bésame Bonito](https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Bésame Bonito](https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi) | 3:00 |
-| 29 | [Negra Presuntuosa](https://open.spotify.com/track/6NVirfsnzXgZdSoasFbwLw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/745bovopinCyeNzU9uCLbG) | 4:16 |
+| 29 | [Negra Presentuosa](https://open.spotify.com/track/3jooX1EZOvGdaYaG52c6YS) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:16 |
 | 30 | [Emocional](https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Emocional](https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM) | 3:09 |
 | 31 | [Haz Que Suceda](https://open.spotify.com/track/536jJ35C2ffUenqA9e2JMx) | [María Buendía](https://open.spotify.com/artist/6Homgh6CeRc8pXDca1xmxw) | [Haz Que Suceda](https://open.spotify.com/album/3xPOdaKfRdSs39dEhWy04J) | 3:43 |
 | 32 | [Tiempo](https://open.spotify.com/track/1nsiPGzcLFP9upVrzleLRW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:26 |
@@ -45,28 +45,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 | 35 | [Déjala](https://open.spotify.com/track/4Aa6TYTI7q9SqnPKVA7Lfq) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [A Fuego](https://open.spotify.com/album/3W7PrpNjJDSFkOpAiITb7m) | 5:22 |
 | 36 | [Llorando Tu Partida](https://open.spotify.com/track/1JHE3fgK8QvaWdj2IjmzgL) | [Ada Y La Nueva Pasion](https://open.spotify.com/artist/19tl2bzCLRXDglG9AAozA0) | [Ada Y La Nueva Pasion](https://open.spotify.com/album/1oy6xKrcERrCYLqZxcqCdI) | 3:49 |
 | 37 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
-| 38 | [Obscuro Obituario](https://open.spotify.com/track/408zijg9l4YdpENJB4eIsi) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Obscuro Obituario](https://open.spotify.com/album/1jVABPpRra4c76wXbFMybc) | 4:02 |
+| 38 | [Obscuro Obituario](https://open.spotify.com/track/44ljBuq92yekvBQEcEa4cf) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Envejeciendo](https://open.spotify.com/album/1ZNzA90PfZbJzmSFlWAO1k) | 4:02 |
 | 39 | [Raices del Festejo \- Le Dije a Papa](https://open.spotify.com/track/4VufezCz0uNJknt5ffTtgs) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [25 Años, 25 Exitos](https://open.spotify.com/album/4fRHhR0AhoWhsSNCYg85xK) | 4:06 |
 | 40 | [Imposible Olvidarte](https://open.spotify.com/track/0yPN0chyb4wxdGdlHKBDqm) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Agua Bella y Sus Grandes Éxitos](https://open.spotify.com/album/2SumbKIZjNFcn3EcxcF2iG) | 4:11 |
 | 41 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |
-| 42 | [Nunca Es Suficiente](https://open.spotify.com/track/5bNZVcZIPFX9eyeCzsjEUz) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/22qXCxQhiH4Cg0TAqHYbOt) | 4:32 |
+| 42 | [Nunca Es Suficiente](https://open.spotify.com/track/0KFJIvtAx5VfrHPcIDV5as) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Nunca Es Suficiente](https://open.spotify.com/album/6pYclaUw0Iy0vjwYPiW5Eu) | 4:32 |
 | 43 | [Descifrar](https://open.spotify.com/track/431vrxogdCt65ZSWfUrP1G) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Descifrar](https://open.spotify.com/album/0CNmIBrerT1NQGzIkm20eA) | 2:58 |
-| 44 | [FIXXIÓN](https://open.spotify.com/track/3YCwaFpPituwo6yx2Eu6PC) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [FIXXIÓN](https://open.spotify.com/album/4wa2jkm7yOAXCR70ZrLj74) | 3:07 |
+| 44 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 | 45 | [LA SUERTE](https://open.spotify.com/track/1ZvH6ijf4f7kO2lpZK8Rie) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [LA SUERTE](https://open.spotify.com/album/31zundrva1JBJAprVqxsz8) | 4:29 |
 | 46 | [Déjenme Sufrir](https://open.spotify.com/track/3kwM3eVq6Eoe64zm3spri2) | [Katy Jara y Banda Mix](https://open.spotify.com/artist/0gQ8SI9XgOALHs21Tcxkdb) | [La Reyna del Sur](https://open.spotify.com/album/2L6syCnwuNfHJuDiFKXBPM) | 3:29 |
 | 47 | [Te Vas a Arrepentir](https://open.spotify.com/track/3EEH5ZZ74BJ5TV3rQAPbLi) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Te Vas a Arrepentir](https://open.spotify.com/album/3Mn6khCVmpcSk7g5991JmR) | 4:12 |
 | 48 | [Nunca Pense Llorar](https://open.spotify.com/track/3oXF0sRycbyJUDRd5BqTUw) | [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ) | [Como un Dulce Poema, Vol\. 3](https://open.spotify.com/album/0XdMiGlG64yiq2Np190XbY) | 4:09 |
 | 49 | [Agua de Mar](https://open.spotify.com/track/5gIgObxUAIAvUqBW59uujT) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [Agua de Mar](https://open.spotify.com/album/3o1hlsCJ1MdPQjQgomvF42) | 3:41 |
-| 50 | [Decidí Vivir Sin Ti](https://open.spotify.com/track/4RtN2IFlUBe21klyvRQgtK) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Expreso Tropical Parada 1](https://open.spotify.com/album/5MsouwV0Vo7CdIYYQpjPsG) | 3:39 |
+| 50 | [Decidí Vivir Sin Ti](https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Expreso Tropical Parada 1](https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9) | 3:39 |
 | 51 | [Mal Paso](https://open.spotify.com/track/0WQxjCbARUvuQU9qV132td) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Ritmo, Color y Sabor](https://open.spotify.com/album/2DRnZ7W7xkPcjlFwOND41f) | 3:32 |
 | 52 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 53 | [Callao](https://open.spotify.com/track/6nTZdy0g6OmvMMiCO2mmz3) | [Anna Carina](https://open.spotify.com/artist/7moMwCf6s2SVquYO0rrlR8) | [Callao](https://open.spotify.com/album/1OgHuBpc4AZ88BVFgRajO9) | 3:04 |
 | 54 | [Maldito](https://open.spotify.com/track/5JeuAHIghPJs6XSNIW8JCQ) | [Mayra Goñi](https://open.spotify.com/artist/1JKrt7a4sLz6t0cYXBaTxB) | [Maldito](https://open.spotify.com/album/2yUoJY37l0YyovqQ1h6yRy) | 3:30 |
-| 55 | [Malo tu corazon](https://open.spotify.com/track/0duUu4jrUUzJzS0XyB9ri2) | [Amaranta](https://open.spotify.com/artist/18MbBAbtk2Knvmk75JXFqd) | [Gneraciones I](https://open.spotify.com/album/1yXLurSOgiWPywuZRSgk7R) | 4:18 |
+| 55 | [Malo tu corazon](https://open.spotify.com/track/4s5AbfnGmq1oRB4cTrR41M) | [Amaranta](https://open.spotify.com/artist/18MbBAbtk2Knvmk75JXFqd) | [GENERACIONES \- I](https://open.spotify.com/album/2znOsynR8x4Lhi8T3Jmjh3) | 4:18 |
 | 56 | [En Mis Sueños](https://open.spotify.com/track/2VcaRHo67bYVqGE3jTMxgN) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [En Mis Sueños](https://open.spotify.com/album/1vD0S9OkuoWrIT6734vTfB) | 3:19 |
 | 57 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 58 | [Mala Sombra](https://open.spotify.com/track/23y2ZM0Zp4f1uOt0grl9KU) | [Carmencita Lara](https://open.spotify.com/artist/66w4fQLV82B4bqFzeNAhde) | [Viva el Norte](https://open.spotify.com/album/2Opqxeq1Y9Gm7MLVO4XyUc) | 2:52 |
-| 59 | [La Flor De La Canela](https://open.spotify.com/track/3ciDewwDbazjc7UnDtY4nA) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [Cada Cancion Con Su Razon](https://open.spotify.com/album/4Ofme8jRzdsKyDs8P6LQKa) | 3:21 |
-| 60 | [Lunera](https://open.spotify.com/track/01b3QISqCOPkxcxF0f8RPt) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/3q2Hqnvc5M83pfhXNqjNPK) | 4:24 |
+| 59 | [La Flor de Canela](https://open.spotify.com/track/3WhQJVHA1ilGCE6x2HYdS4) | [Chabuca Granda](https://open.spotify.com/artist/5tEUnEwJfkZDP2ZuLy4Fzu) | [The Platinum Collection](https://open.spotify.com/album/2LmwGG63vYukETIXU71Sc0) | 3:20 |
+| 60 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 |
 
-Snapshot ID: `MTY1NzA4NDUxMywwMDAwMDAyMjAwMDAwMTgxZDFlZjBiN2EwMDAwMDE4MWQxZWRmOTlm`
+Snapshot ID: `MTY1NzA4NDUxMywwMDAwMDAwMDMyN2VhZjdhYzdlZWFjOGJlZjEzZmQzNGQxYzk2NzFj`

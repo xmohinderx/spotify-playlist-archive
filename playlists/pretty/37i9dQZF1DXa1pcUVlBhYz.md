@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,307 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,336 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 54 | [Murder](https://open.spotify.com/track/5gIEBVBMo82RxHQIHW2aeD) | [Mighty Mark](https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM) | [Murder](https://open.spotify.com/album/5yNwpK71K5BUv4SeSePUI7) | 2:33 |
 | 55 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 56 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
-| 57 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 |
+| 57 | [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 |
 | 58 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 59 | [Ethiopia \- Boddhi Satva Ancestral Soul Dub](https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Ethiopia \(Boddhi Satva Ancestral Soul Dub\)](https://open.spotify.com/album/5NllzQSC7PQYXXF2qccTK5) | 4:09 |
 | 60 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Bad Side](https://open.spotify.com/track/5bjFpzQwiBw2frtVJQrLZA) | [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Kiddy Smile](https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx), [Gisele Xtravaganza](https://open.spotify.com/artist/10cC6kKAFKzHHsIIrRj5Ie) | [Bad Side](https://open.spotify.com/album/1PcSnt68dXoAZlG2GLMfXl) | 3:21 |
 | 75 | [Cleo](https://open.spotify.com/track/329bGHOHCK2HFuTkrVvJKQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Cleo](https://open.spotify.com/album/5KSCqW3RuJ9TFnfRl4uR7H) | 3:49 |
 | 76 | [Vibe for Me \- Famba Remix](https://open.spotify.com/track/4wID2wXMDMxykwOW0Qpw7V) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM) | [Vibe for Me \(Famba Remix\)](https://open.spotify.com/album/22mu9DtDkcQlTZZ8P5xw6k) | 2:25 |
-| 77 | [Unreplaceable](https://open.spotify.com/track/0PiBkWGuBSzZRYLvQaS3Qe) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 2:58 |
+| 77 | [Unreplaceable](https://open.spotify.com/track/6MOGEJj9xkoW9cjVdfLeBR) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [It's Not So Bad](https://open.spotify.com/album/0mXGk4yEN4sdNOOVxL8VBH) | 2:58 |
 | 78 | [These Days](https://open.spotify.com/track/20vHCWboPFuhfLVYWyL27T) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [These Days](https://open.spotify.com/album/6guB22g2F0QDgRuQCT57DK) | 3:03 |
 | 79 | [Play](https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Play](https://open.spotify.com/album/20sS6wKU6D5dQfps6dGh41) | 3:21 |
 | 80 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 97 | [High & Choking, Pt\. 1](https://open.spotify.com/track/2anDfzfVPHRHjfJz8UsOHq) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [High & Choking / Chains](https://open.spotify.com/album/4Y07bfqiny3326X8EPB1KF) | 3:05 |
 | 98 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
 | 99 | [Keep You Close](https://open.spotify.com/track/3xYWczqcz54jMm3K7vD9zu) | [Monsieur Frazier](https://open.spotify.com/artist/3hHJfet2F71jJl9FE7WALQ), [Nick Garcia](https://open.spotify.com/artist/6bYqAD7QrVbEFYtlqvvlsG) | [Monsieur Frazier EP](https://open.spotify.com/album/79jwkyOfXm3NDYkFsMhapz) | 4:43 |
-| 100 | [YOU'RE THE ONE](https://open.spotify.com/track/2b4SSorCTQ2VzmllaeWuuT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/1dZZh7PvVgce1DDsDPzy8Z) | 3:47 |
+| 100 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 |
 | 101 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 
-Snapshot ID: `MTY1ODk3MTY2OCwwMDAwMDAwMGE2NzM0ZWEyYTNjYzU1MDFlOGI3ZWU4MGRhYTc1Yjdh`
+Snapshot ID: `MTY1ODQ2MjQ2MCwwMDAwMDAwMGFlN2ZkNTQzYzlmNGFkNjc2ZTQ4YzEwOTMyMDAwMDBl`

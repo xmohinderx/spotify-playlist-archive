@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Marmi
+> Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-124 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+127 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 | 2022-02-17 |  |
 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 | 2022-06-06 |  |
 | [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 | 2022-06-06 |  |
-| [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-17 |  |
+| [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-17 | 2022-07-29 |
 | [Alex Turner](https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Alex Turner](https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j) | 2:39 | 2022-06-06 |  |
 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 | 2022-02-24 |  |
 | [Angelina](https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Angelina](https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX) | 2:46 | 2022-06-06 |  |
@@ -20,7 +20,8 @@
 | [Beef Mac](https://open.spotify.com/track/2u1VymaQE1qwy8h9HzTRd6) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Beef Mac](https://open.spotify.com/album/74KscgggMT2lphlAbKp9cY) | 3:26 | 2021-12-31 | 2022-01-07 |
 | [Bonita](https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Bonito](https://open.spotify.com/album/1XoRwACvB8LyKkBV2cSeVB) | 2:52 | 2022-02-03 | 2022-07-15 |
 | [CAMALEÓN](https://open.spotify.com/track/5H1LLTRLRw59GZh6Xd5lGe) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Camaleón](https://open.spotify.com/album/0jCM9KSax5G30ZScKCTvAG) | 2:55 | 2021-12-31 | 2022-01-07 |
-| [canción de amor](https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh) | 2:57 | 2022-03-31 |  |
+| [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 | 2022-07-28 |  |
+| [canción de amor](https://open.spotify.com/track/6YB52qsOLvjW0Q25NN9ngp) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/7h6aG4Z7zNpbbMKJhKn6Nh) | 2:57 | 2022-03-31 | 2022-07-29 |
 | [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 |  |
 | [Ciencia Ficción](https://open.spotify.com/track/3In29m8LwiMqdbjtOcsmt8) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Ciencia Ficción](https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi) | 3:16 | 2021-12-31 | 2022-04-01 |
 | [Cinderella](https://open.spotify.com/track/5R7l05dglCrUX0qjZ1Eec1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Cinderella](https://open.spotify.com/album/6ckqiQSyFDaf9bbvN5hPOa) | 3:13 | 2022-07-14 |  |
@@ -44,7 +45,7 @@
 | [Ego](https://open.spotify.com/track/63Tbdp0N66oYehT5YNhjDP) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Ego](https://open.spotify.com/album/0idabbOWN94aQoL7uwI7Gg) | 2:44 | 2022-06-06 |  |
 | [En Dos](https://open.spotify.com/track/13Pe624JlpZ8c7Ktjybzav) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [En Dos](https://open.spotify.com/album/7AMe9ECyROJ6z0mQCQUjQ2) | 3:07 | 2022-01-06 | 2022-06-07 |
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-06-06 |  |
-| [en ningún lugar](https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [en ningún lugar](https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At) | 2:42 | 2022-02-17 |  |
+| [en ningún lugar](https://open.spotify.com/track/09fMLOWC1wK7DtHRRr1deO) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [en ningún lugar](https://open.spotify.com/album/7fo1vAt1nKL7jUOka8w1At) | 2:42 | 2022-02-17 | 2022-07-29 |
 | [Entre Tejados](https://open.spotify.com/track/2l9l2sUyStglyl5nsJ2lde) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Entre Tejados](https://open.spotify.com/album/0LmAWZNlPluZIv6LUjPcdA) | 2:50 | 2022-06-06 |  |
 | [Esa morena \(feat Keen Levy\)](https://open.spotify.com/track/7yx1eAtnhzTmug79lKq2O4) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [Esa morena \(feat Keen Levy\)](https://open.spotify.com/album/4YW4Vd9V1si0ym0q1Pyhs7) | 3:11 | 2021-12-31 | 2022-01-07 |
 | [Estaba Claro](https://open.spotify.com/track/5psmMQiputcntcZXslMboK) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Estaba Claro](https://open.spotify.com/album/5m0uBpLcelWpmifp4LteUu) | 2:26 | 2022-03-17 |  |
@@ -53,6 +54,7 @@
 | [Fuimos](https://open.spotify.com/track/06JbxvU7hdbBw1eoEOUWW6) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Fuimos](https://open.spotify.com/album/0r8nYWTQM6CnzwgjvQjlkP) | 3:01 | 2022-02-17 | 2022-07-15 |
 | [grisgrisgris](https://open.spotify.com/track/38QsArD3UEW1jptzNR0PH0) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [grisgrisgris](https://open.spotify.com/album/3uAfxiZxSBOTporlZvNF7X) | 2:49 | 2022-01-27 | 2022-06-07 |
 | [Huracán 2.0](https://open.spotify.com/track/1vVpGcJToyVgpH2n4QkSc5) | [Ruiseñora](https://open.spotify.com/artist/5lWL0858SCbKL77z7Ff5Vs) | [Huracán 2.0](https://open.spotify.com/album/7B1QXHzOmKxNVWuNTpwLEz) | 2:28 | 2021-12-31 | 2022-01-28 |
+| [Indie esperanzador](https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Indie esperanzador](https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc) | 2:50 | 2022-07-28 |  |
 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 | 2022-03-31 |  |
 | [Inteligencia Emocional](https://open.spotify.com/track/15xKQcRO5wIWCcKXliNwrf) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [Inteligencia Emocional](https://open.spotify.com/album/6zzK6DBHzdpfdD51FiX3w7) | 2:46 | 2022-01-06 | 2022-06-07 |
 | [Invítame a Tu Casa](https://open.spotify.com/track/2RSmvIrwCr0jiNth0kdIaN) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Casa Vargas](https://open.spotify.com/album/6tRHKz0BfNOH9e1E7JvpSh) | 3:55 | 2021-12-31 | 2022-02-25 |
@@ -124,7 +126,8 @@
 | [Un Amor De Locos](https://open.spotify.com/track/0KngGwsqYzLisleU46WuLH) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Un Amor De Locos](https://open.spotify.com/album/3GUmhfkz5WZo0LN9daXoGp) | 3:17 | 2022-06-06 |  |
 | [Un Paseo Más](https://open.spotify.com/track/7gVESyKinmw7wpQEBM9x69) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Un Paseo Más](https://open.spotify.com/album/1QUKV49LaQiYrbAE0AvVrq) | 3:43 | 2021-12-31 | 2022-01-28 |
 | [Un paso atrás](https://open.spotify.com/track/5LAHynRwzePn7JQvBxuCjI) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g), [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Mudar la piel](https://open.spotify.com/album/0xwTpgU6vTP5es4CXe4jpc) | 3:53 | 2022-01-27 | 2022-06-07 |
-| [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-06 |  |
+| [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-07-28 |  |
+| [un poco más](https://open.spotify.com/track/5MRRGF2Si2Aql4TobjfGGf) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/4EZwSUtUU2l136RiMYkAO0) | 2:18 | 2022-06-06 | 2022-07-29 |
 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 | 2022-06-06 |  |
 | [Universitaria](https://open.spotify.com/track/13goZ7smSa0LkMnNaxKiVF) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Universitaria](https://open.spotify.com/album/7ugNb8tgXC5q1FKGdfuadl) | 3:16 | 2021-12-31 | 2022-04-01 |
 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 | 2022-03-31 |  |

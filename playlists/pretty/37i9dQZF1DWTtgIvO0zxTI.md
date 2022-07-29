@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Danny Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,981 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,022 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 10 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 |
 | 11 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 |
 | 12 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
-| 13 | [Hasta Que Salga el Sol](https://open.spotify.com/track/2u02P0y6omgiLmEVCd7WdV) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hasta Que Salga el Sol](https://open.spotify.com/album/1z3dJze0v30WJxORECHCE8) | 3:29 |
+| 13 | [Hasta Que Salga el Sol](https://open.spotify.com/track/1QqZIOb0TJN5e0xvU1GmMp) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Hay Vida en Venus](https://open.spotify.com/album/0sWnir8GiTLpROsfBuMHRF) | 3:29 |
 | 14 | [Vacile](https://open.spotify.com/track/0UyFBKCoQOU9GiPCLICTXG) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Vacile](https://open.spotify.com/album/2Gf7Rcxy8gYKFlvpD303NR) | 3:27 |
 | 15 | [Te Encontré](https://open.spotify.com/track/0OgEvHb3pNvg50nbocB0AK) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Te Encontré](https://open.spotify.com/album/3T1vAfySBdF7YX0NBA9Kkd) | 3:02 |
 | 16 | [Báilame \- Remix](https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [La Criatura](https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Pal Cara](https://open.spotify.com/track/3sF3aJWl0tVITCSuuL9Uun) | [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Pal Cara](https://open.spotify.com/album/1jkTWmdZURPAMZdkKZ6Wyz) | 3:15 |
 | 60 | [Error](https://open.spotify.com/track/2zJ72e7aoDwpyWkw8Ohz9T) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Error](https://open.spotify.com/album/4Iia6he8VBkkbiIXrsmGGN) | 2:53 |
 
-Snapshot ID: `MTY1NzI1Mjg2MCwwMDAwMDA0OTAwMDAwMTgxZGJmN2QyYTUwMDAwMDE4MWQ1NzVhNGUz`
+Snapshot ID: `MTY1NzI1Mjg2MCwwMDAwMDAwMDc1NGJmZTFmYjQ2YTFiNzM2YTI5YmVhOWMwNDYwMGM0`

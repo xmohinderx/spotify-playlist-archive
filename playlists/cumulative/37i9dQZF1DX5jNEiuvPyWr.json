@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Gianni",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DMS",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219808,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx"
@@ -183,10 +183,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 162300,
       "name": "Comme \u00e7a",
       "url": "https://open.spotify.com/track/1uBJsPHcyDfyg9wewkYUj7"
+    },
+    {
+      "album": {
+        "name": "Sans rancune",
+        "url": "https://open.spotify.com/album/5mUSYIz36ISQy7PjJUHB2b"
+      },
+      "artists": [
+        {
+          "name": "Le Club",
+          "url": "https://open.spotify.com/artist/4PlMVWxO3DGtAvMwbXgctQ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162300,
+      "name": "Comme \u00e7a",
+      "url": "https://open.spotify.com/track/4bOdmHfgSw7e0ZrwgOHbqz"
     },
     {
       "album": {
@@ -248,6 +266,28 @@
     },
     {
       "album": {
+        "name": "DOPE & FLOW",
+        "url": "https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        },
+        {
+          "name": "La P\u00e9pite",
+          "url": "https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166585,
+      "name": "DOPE & FLOW",
+      "url": "https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4"
+    },
+    {
+      "album": {
         "name": "CIT\u00c9S D'OR",
         "url": "https://open.spotify.com/album/0SHzFt4bn69jklshAtcDu3"
       },
@@ -263,7 +303,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166585,
       "name": "DOPE & FLOW",
       "url": "https://open.spotify.com/track/2xEtaNqgy2PogrwrY4GjuJ"
@@ -299,7 +339,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE"
@@ -865,10 +905,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244146,
       "name": "Piano Black",
       "url": "https://open.spotify.com/track/0MRPmZVCxKAf5HSaglBoDV"
+    },
+    {
+      "album": {
+        "name": "Restez Prince",
+        "url": "https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245893,
+      "name": "Piano Black",
+      "url": "https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7"
     },
     {
       "album": {
@@ -883,10 +941,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203866,
       "name": "Plus jeune",
       "url": "https://open.spotify.com/track/1mWoxD27fEJ4scLSlBHEs3"
+    },
+    {
+      "album": {
+        "name": "Restez Prince",
+        "url": "https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Plus jeune",
+      "url": "https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck"
     },
     {
       "album": {
@@ -901,10 +977,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230000,
       "name": "Pour bient\u00f4t",
       "url": "https://open.spotify.com/track/0qRS9WjPTtfwgR3iT8YZZl"
+    },
+    {
+      "album": {
+        "name": "Clairobscur 1",
+        "url": "https://open.spotify.com/album/0J4WGhxbLVpx4S4ep5KN2C"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Pour bient\u00f4t",
+      "url": "https://open.spotify.com/track/7ERxzmcy8blEDA1457Jjo7"
     },
     {
       "album": {
@@ -1013,7 +1107,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134426,
       "name": "\u00a52S \u00b06 : ZLM",
       "url": "https://open.spotify.com/track/2gVBlMRlzAPjt6e4oljra4"

@@ -137,10 +137,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168450,
       "name": "Bijlee Bijlee",
       "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "album": {
+        "name": "Happy Chocolate Day 2022",
+        "url": "https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV"
     },
     {
       "album": {
@@ -1229,6 +1247,36 @@
     {
       "album": {
         "name": "Stunner",
+        "url": "https://open.spotify.com/album/736BvsDHIUqd4TQSHQzN0L"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Stunner",
+      "url": "https://open.spotify.com/track/3bwf3lKuDOi0uVVo3MKdHS"
+    },
+    {
+      "album": {
+        "name": "Stunner",
         "url": "https://open.spotify.com/album/6hJuAaYqPKKmdUeSVKlqHj"
       },
       "artists": [
@@ -1251,7 +1299,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 186947,
       "name": "Stunner",
       "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
@@ -1475,10 +1523,36 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261224,
       "name": "Why",
       "url": "https://open.spotify.com/track/04qQIzDitcAY9Y2YWf28Q1"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/6EFwmBkArb4qjWwB3dlPIi"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261224,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6712goAF36pcQ2k51UwbIe"
     },
     {
       "album": {

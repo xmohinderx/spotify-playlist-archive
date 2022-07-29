@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Himonshu Parikh
 
-159 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+160 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,10 +155,11 @@
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2022-01-31 |  |
 | [That Morning](https://open.spotify.com/track/2ZNYeQ0yS3zjTOlvUrhdaW) | [Ronnie & Barty](https://open.spotify.com/artist/1VEKDeyV79I5cUU1KA2grq) | [Chapter One](https://open.spotify.com/album/7Ck1njcK2VB2BIsMHE5fzu) | 3:19 | 2022-01-10 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |
-| [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 |  |
-| [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 | 2021-12-06 | 2022-01-11 |
+| [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 | 2022-07-29 |
+| [Wahin Ka Wahin](https://open.spotify.com/track/4ezXXcPdzmOwjfBTR3m2Zg) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [SUPERPOWER 2020](https://open.spotify.com/album/1etLBphNhwNpbzlS3quw1W) | 5:41 | 2021-12-06 |  |
 | [Windy](https://open.spotify.com/track/24eAf2cgB8ZQbaxE1HaygY) | [Kevin Fernando](https://open.spotify.com/artist/0hLMKcdVjEseHo45rgzeIq), [Belinda Terry](https://open.spotify.com/artist/01r8UcTZF5qe9aodd9ypsx) | [Chérie](https://open.spotify.com/album/3VpTYKbea17lRbiCHob5ov) | 3:18 | 2021-12-06 | 2022-01-11 |
-| [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 | 2022-04-14 |  |
+| [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 | 2022-04-14 | 2022-07-29 |
+| [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 | 2022-07-25 |  |
 | [Won't Back Down](https://open.spotify.com/track/14tpQ2ToEOMT3doUxpCPca) | [Samantha Noella](https://open.spotify.com/artist/0ISd1Q32dp6LK0uQgni1ZO) | [Won't Back Down](https://open.spotify.com/album/0zlUQwuiqfLZPYWcNXfCyE) | 3:59 | 2021-12-06 | 2022-01-11 |
 | [Yaadein](https://open.spotify.com/track/559lQBU46ePjxVXS9cNsmW) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Yaadein](https://open.spotify.com/album/2G5NDAUQru6BAMBN8s1eGG) | 4:41 | 2022-04-10 |  |
 | [Yahan](https://open.spotify.com/track/4yq61v0vaI2MpifznBCpBh) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Yahan](https://open.spotify.com/album/4NVB7RqJMhWow5gY1oBCdd) | 4:02 | 2022-03-16 |  |

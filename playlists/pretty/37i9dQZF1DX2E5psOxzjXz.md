@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,462 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,500 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 56 | [Qadar](https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv) | [Erazzy](https://open.spotify.com/artist/2WFDhtzpAkZWoklk5B7nIj), [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Qadar](https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1) | 2:36 |
 | 57 | [Bachi Patakhi](https://open.spotify.com/track/7h0YOhIsuPAf3SPh6n1N3Z) | [Yung Pakei](https://open.spotify.com/artist/1oXF5VeAEmTvXK4OwDLWdA) | [Bachi Patakhi](https://open.spotify.com/album/6yuIow8n4wJBOsgLYAuH1w) | 2:47 |
 | 58 | [HICO](https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [HICO](https://open.spotify.com/album/1VM1CsYQjbmrVUNjqqkY2U) | 2:28 |
-| 59 | [Zardarazir](https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv) | 3:16 |
+| 59 | [Zardarazir](https://open.spotify.com/track/72r78Fn09sIr0TZVdd8KlM) | [Poor Rich Boy](https://open.spotify.com/artist/2DtZwsXs6iF0xOAF17ziBP) | [Old Money](https://open.spotify.com/album/3taQvmtkWiEAQcA0zQwwwc) | 3:16 |
 | 60 | [Down](https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS) | [Hashir](https://open.spotify.com/artist/3daREed4KlrtvohgJjSkJr) | [Down](https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud) | 2:06 |
 | 61 | [Jo Tu Chahay](https://open.spotify.com/track/4SaTP95BkR4m1NkunRCDiK) | [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassaan Bin Shaheen](https://open.spotify.com/artist/3XpqnPbSJ2ZNYAYzEOj6R2) | [Jo Tu Chahay](https://open.spotify.com/album/732ZY5OgnrJ3MDBApSHTXS) | 2:25 |
 | 62 | [Slow](https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI) | [Gentle Robot](https://open.spotify.com/artist/4ZDRGSvFQnQUTs3438PIls) | [Breathe](https://open.spotify.com/album/1mLlCvxN1VRoBt3GRB5uMP) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 79 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 | 80 | [Tum Kaafi Ho](https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX) | [Zahra Paracha](https://open.spotify.com/artist/3g76TAx9tdF5YZpsSwqL0K) | [Tum Kaafi Ho](https://open.spotify.com/album/3RSad5lC4GUToepucxTIca) | 2:44 |
 
-Snapshot ID: `MTY1NzAyOTczOSwwMDAwMDAzYTAwMDAwMTgxY2VhYjQzZDEwMDAwMDE4MWNlYWFiZTI1`
+Snapshot ID: `MTY1NzAyOTczOSwwMDAwMDAwMDIzZGQ2MDczZjUwZjA4NTA4MzI0M2VkNmIxMjU2ODUy`

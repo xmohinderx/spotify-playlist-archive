@@ -4,7 +4,7 @@
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-198 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/1zMXtcZg2CxRNKT4ViRg0A)
+199 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/1zMXtcZg2CxRNKT4ViRg0A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [PC 459](https://open.spotify.com/track/1A9jSMh6ZVFeTAepvYG25z) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PC 459](https://open.spotify.com/album/26wMZSnU6xJa1OOEQRjVxd) | 3:19 | 2022-01-10 | 2022-03-16 |
 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 | 2022-03-15 |  |
 | [Poppin](https://open.spotify.com/track/29Rs8j7cVLGCCyEJabER8t) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Poppin](https://open.spotify.com/album/6t5tqQ1NMRIlzumjtfTAO1) | 2:57 | 2022-01-10 | 2022-03-16 |
-| [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 | 2022-06-07 | 2022-07-27 |
+| [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 | 2022-06-07 |  |
 | [Poppin](https://open.spotify.com/track/3wn8nOygkHLUQ9dlXM1rKW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 2:47 | 2022-03-15 |  |
 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 | 2022-06-07 |  |
 | [PRO CLUB](https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PRO CLUB](https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61) | 2:46 | 2022-02-25 |  |
@@ -187,7 +187,8 @@
 | [Tic Tack](https://open.spotify.com/track/0iUOzlPAIPXMDT3ZEEUGWA) | [Ratchetón](https://open.spotify.com/artist/3KtoMerxi4LwxzYytFbgx5), [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Harlay](https://open.spotify.com/artist/0aN1efj8fytfb8PUYyjZus) | [Tic Tack](https://open.spotify.com/album/2wjJCxLdfSGWVNjt4gKI5G) | 3:26 | 2022-01-31 | 2022-02-26 |
 | [Top Tier](https://open.spotify.com/track/2DoBk0WTu2xkD1amA93sDq) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Top Tier](https://open.spotify.com/album/5F7pohVMaavHhPPC4JxEbb) | 2:50 | 2022-01-10 | 2022-02-26 |
 | [Toxic](https://open.spotify.com/track/2HzSAg4A7t5yM8Ly3JpaZR) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Toxic](https://open.spotify.com/album/2EMFr4pSI55v5Xm6FgUBvk) | 2:39 | 2022-06-07 |  |
-| [Trials n Tribulations](https://open.spotify.com/track/6F4tbGwVmjjAlTcgLfSNZm) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/13dvej0VDvrJhmGQHXBU6M) | 4:31 | 2022-01-10 |  |
+| [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 | 2022-07-15 |  |
+| [Trials n Tribulations](https://open.spotify.com/track/6F4tbGwVmjjAlTcgLfSNZm) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/13dvej0VDvrJhmGQHXBU6M) | 4:31 | 2022-01-10 | 2022-07-29 |
 | [Trophy](https://open.spotify.com/track/0qPNdJpCAumxWHHuYQ0lcY) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [Trophy](https://open.spotify.com/album/5uVe8iSF0rJxaCysIiKq8W) | 2:55 | 2022-01-31 | 2022-07-07 |
 | [True 2 This \(feat\. Bravo The Bagchaser\)](https://open.spotify.com/track/1pb5KSuYRZgmSuVseAmnbB) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Fenix Flexin Vol\. 1](https://open.spotify.com/album/2Iiyf1OLVobPU2OVhB2h04) | 2:38 | 2022-01-10 | 2022-07-07 |
 | [Tryna Win](https://open.spotify.com/track/6L8G3taO8ZyFZymPRhPNb7) | [Jewl$](https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF) | [HardTimes](https://open.spotify.com/album/7GRRCaAdCFbWavntMe21gH) | 2:11 | 2022-01-10 | 2022-07-07 |

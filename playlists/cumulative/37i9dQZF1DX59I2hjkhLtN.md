@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: BDK
 
-85 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
+87 songs - 4 hr 33 min - [published](https://open.spotify.com/playlist/0yWUJgN7fowGbytoYMefKR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Longe](https://open.spotify.com/track/66ii269fE5Y774dpOO9a84) | [SINA](https://open.spotify.com/artist/2ge7jCnqVlhZCbB3mtOwTX) | [Longe](https://open.spotify.com/album/1yPNMW19LLKPwnsn9zTFi3) | 2:52 | 2022-07-07 |  |
 | [M I A](https://open.spotify.com/track/1EGYWrS4XM2MFLDiZmnTHf) | [HeartLess](https://open.spotify.com/artist/72bZdVlE9OFvEJcWj7q23r) | [M I A](https://open.spotify.com/album/37msRqUkkICBWAHd5o2QcQ) | 2:44 | 2022-07-07 | 2022-07-22 |
 | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Xakal Da Gun](https://open.spotify.com/artist/4swNK0k8teorELHJdglw6S) | [M.O.D \(feat\. Xakal Da Gun & Piruka \)](https://open.spotify.com/album/1ROz5se04TrvGR6sIaMZGv) | 4:10 | 2022-07-07 |  |
-| [Many Men \- Special Version](https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC) | [DJ Cirofox](https://open.spotify.com/artist/0w6M4MwOc9BCULOgqeNl4p), [Lz XROOTZ](https://open.spotify.com/artist/02bFLZcUEYAiFawaiPgD5V), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men \(Special Version\)](https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R) | 3:07 | 2022-07-07 |  |
+| [Many Men](https://open.spotify.com/track/2FWGa7ifIbKNxDvgfhPIir) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [LZ](https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men](https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj) | 3:07 | 2022-07-21 |  |
+| [Many Men \- Special Version](https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC) | [DJ Cirofox](https://open.spotify.com/artist/0w6M4MwOc9BCULOgqeNl4p), [Lz XROOTZ](https://open.spotify.com/artist/02bFLZcUEYAiFawaiPgD5V), [Hoss](https://open.spotify.com/artist/0sPiA2lvteJ0pW5MV3Z2D4), [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Many Men \(Special Version\)](https://open.spotify.com/album/40hk62MfatGW1mdy7GLn4R) | 3:07 | 2022-07-07 | 2022-07-29 |
 | [Marocco](https://open.spotify.com/track/1GlqQa7xoePH7BzqavBeqE) | [Pika](https://open.spotify.com/artist/3N8p0SELgr5vZLgUTdmCNi), [Osémio Boémio](https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx) | [Marocco](https://open.spotify.com/album/5pfLksBgsgJ0E4l1vPoTJg) | 2:31 | 2022-07-07 |  |
 | [Migalhas](https://open.spotify.com/track/2efNQgbiCxyul14somPFfF) | [Escriba](https://open.spotify.com/artist/5cuFpe5IkDDWeYMXBmamTP) | [Migalhas](https://open.spotify.com/album/4q5Vt5fUyRAjT363uCRl6W) | 3:22 | 2022-07-07 |  |
 | [Money](https://open.spotify.com/track/7M8KtzROar1vVhhMdYhCQR) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Money](https://open.spotify.com/album/5TBuEtjEKsTspmqj6aeMK4) | 2:31 | 2022-07-07 |  |
@@ -74,7 +75,8 @@
 | [Quem Diria](https://open.spotify.com/track/1fMTCZHVN3COMa5N9BcLw1) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN), [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Quem Diria](https://open.spotify.com/album/1AtnRKMSIVOeOXxg4kvVMV) | 4:29 | 2022-07-07 |  |
 | [Sai Feiticeiro](https://open.spotify.com/track/1TnxG0q4CYSg2PyvuIOdjZ) | [Ama G](https://open.spotify.com/artist/5j3HpkNw30Hnq4J8O2GJVa) | [Sai Feiticeiro](https://open.spotify.com/album/6QPfDXLDXwuBLuGpZ3el1G) | 4:11 | 2022-07-07 |  |
 | [Sangue](https://open.spotify.com/track/6MEOW2h9FfRhkrnZCYv1sU) | [ENOCK](https://open.spotify.com/artist/0ZQbhzbdCo4Mm77BxPVBIY), [LO KYO](https://open.spotify.com/artist/0x7ZY4ZNkD8Af2UixK4tUi) | [Sangue](https://open.spotify.com/album/1pDuOefGj0PWu3M1PcPjUJ) | 3:13 | 2022-07-07 |  |
-| [Satisfeito](https://open.spotify.com/track/53un6XZehFDFnNJCersXdp) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Satisfeito](https://open.spotify.com/album/3ian4QXCjTwe8ieHKKMobj) | 3:15 | 2022-07-07 |  |
+| [Satisfeito](https://open.spotify.com/track/24qakudGyiOuOhTDTaTQ20) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Enquadrado](https://open.spotify.com/album/1FKvPr2K5KPnVSNZ3ulUZU) | 3:15 | 2022-07-21 |  |
+| [Satisfeito](https://open.spotify.com/track/53un6XZehFDFnNJCersXdp) | [Pardo](https://open.spotify.com/artist/7I2mGF3XBNuIa5hs1NeeGm) | [Satisfeito](https://open.spotify.com/album/3ian4QXCjTwe8ieHKKMobj) | 3:15 | 2022-07-07 | 2022-07-29 |
 | [Saturno](https://open.spotify.com/track/5hh5DzGtzkckcSKNPbCmtj) | [Villa 35](https://open.spotify.com/artist/6kInma2MwqsXIqXbcyRc1Z), [Rieff](https://open.spotify.com/artist/4lYkUsbtMYMF528KmpdmKO), [Obstrum](https://open.spotify.com/artist/0eSDF9nSHNAiVSr8m6gwee) | [Saturno](https://open.spotify.com/album/3EYl3AtzTZREIElZJxy0sw) | 3:05 | 2022-07-07 |  |
 | [Sempre Fui Leal](https://open.spotify.com/track/6G7VvGHnosjY3sGWXNfpdh) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq) | [Sempre Fui Leal](https://open.spotify.com/album/68x8aRx7OIgGTkSETpLyjJ) | 2:58 | 2022-07-07 | 2022-07-22 |
 | [Sicklos](https://open.spotify.com/track/6LtMg68L47ecWM9rGk7NQ1) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sicklos](https://open.spotify.com/album/148fCYh6wwJ3EQ1L5nDSG3) | 3:39 | 2022-07-07 |  |

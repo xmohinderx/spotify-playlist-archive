@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Justin Morales en portada.
 
-74 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
+75 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/20A5pNUH5lOcBuXoAP4e1k)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-05-13 |  |
 | [Es Pura Envidia](https://open.spotify.com/track/53JTWuW3LongStI3kWEJDX) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Es Pura Envidia](https://open.spotify.com/album/1Lh0cxdCnKIxxLRP0qqDBN) | 2:01 | 2022-06-07 |  |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-29 |  |
-| [Flores](https://open.spotify.com/track/1uM5lfjOrfYfdc5AOopUN3) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Flores](https://open.spotify.com/album/1qRuiaQJYQIMGEFaUocYnR) | 2:37 | 2022-06-24 |  |
+| [Flores](https://open.spotify.com/track/1uM5lfjOrfYfdc5AOopUN3) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Flores](https://open.spotify.com/album/1qRuiaQJYQIMGEFaUocYnR) | 2:37 | 2022-06-24 | 2022-07-29 |
+| [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-23 |  |
 | [Guerra Sin Cuartel](https://open.spotify.com/track/1gcmEv26KMm3zzJIBFq2XQ) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Guerra Sin Cuartel](https://open.spotify.com/album/7tGjK4C7DkQwmViEtev57v) | 2:48 | 2022-07-08 |  |
 | [Ismael \- En Vivo](https://open.spotify.com/track/4dpvDZEeipCA9bbI1I6a47) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras de Servandozl](https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR) | 2:23 | 2022-04-01 |  |

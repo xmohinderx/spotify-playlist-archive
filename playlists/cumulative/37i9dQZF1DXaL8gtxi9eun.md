@@ -4,7 +4,7 @@
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Tamer Hosny
 
-93 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
+98 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/3oCJHmm7pEXb9N40JMypnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,10 @@
 | [Khayef](https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Khayef](https://open.spotify.com/album/0ZU2uWc2wZiYb5lMzufWA3) | 3:15 | 2022-05-04 | 2022-06-04 |
 | [Kollou Bel Hob](https://open.spotify.com/track/0Xc1IryxstydDJ3lsrAAJL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Kollou Bel Hob](https://open.spotify.com/album/1ZQ9tCItxkzmfiZ2UTLeYv) | 2:56 | 2022-05-04 | 2022-07-15 |
 | [Kona Momken Netefeq](https://open.spotify.com/track/5z3KFdmPIPoknsiUE8KWeD) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Kona Momken Netefeq](https://open.spotify.com/album/2V67koitIZsuGNzVvxS87j) | 4:46 | 2022-05-04 |  |
-| [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 | 2022-05-04 |  |
-| [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2022-05-04 |  |
+| [La Malama \(Bonus Track\)](https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [La Malama \(Bonus Track\)](https://open.spotify.com/album/6PMtOPP4EYJEOoqBJE5pP2) | 3:48 | 2022-05-04 | 2022-07-29 |
+| [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 |  |
+| [Law Hatsib](https://open.spotify.com/track/2a7NX3ftu4GAO52dnCRxXM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Law Hatsib](https://open.spotify.com/album/0CeV0YaRQp0nqdO5JYWtPV) | 3:48 | 2022-05-04 | 2022-07-29 |
+| [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 |  |
 | [Leh](https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Leh](https://open.spotify.com/album/2Uf6xHsAZVMKqie8koQSfC) | 3:59 | 2022-05-04 | 2022-07-15 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2022-05-04 |  |
 | [Lewjah Tani](https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lewjah Tani](https://open.spotify.com/album/2iObUozOdxAw1Dag3mHssf) | 3:30 | 2022-05-04 | 2022-07-11 |
@@ -87,7 +89,8 @@
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2022-05-04 |  |
 | [Shattabna](https://open.spotify.com/track/4138h4unKb8WMM4EgoZZGi) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Shattabna](https://open.spotify.com/album/3aqfxGWKG9jLi5Z3cuZUxW) | 3:52 | 2022-05-04 | 2022-07-15 |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-05-04 | 2022-07-13 |
-| [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2022-05-04 |  |
+| [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-14 |  |
+| [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2022-05-04 | 2022-07-29 |
 | [Ti Ra Ra](https://open.spotify.com/track/10OU7eWlVd6U1nPAUoAlCv) | [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM), [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Ti Ra Ra](https://open.spotify.com/album/3KMm49eJBEaIvtS2K2ZIlz) | 2:27 | 2022-05-04 |  |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 |  |
 | [Ya Aasal](https://open.spotify.com/track/2qIYndgPCXthIaBjnVv7Dr) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ya Aasal](https://open.spotify.com/album/1Gq60ipemX1b0qAe69Jed3) | 3:30 | 2022-05-04 | 2022-07-15 |
@@ -96,10 +99,12 @@
 | [Yama](https://open.spotify.com/track/2LFXoehu5ZfYXnKob64neu) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 4:08 | 2022-05-04 |  |
 | [Yom Min el Ayyam](https://open.spotify.com/track/2KDcnJ2ooNZUIHiHTnWE2b) | [Zainab Hassan](https://open.spotify.com/artist/0WhuydXuCatjNCoMjab4M7) | [Yom Min el Ayyam](https://open.spotify.com/album/5rOBlOyJbFnhAsu2BhcQc9) | 3:40 | 2022-05-04 |  |
 | [Zahmet Weshoush](https://open.spotify.com/track/75oCHG4P4pcpTx79twBdpF) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Zahmet Weshoush](https://open.spotify.com/album/5htGDfQfI8xRnbI2S1G7h8) | 3:49 | 2022-05-04 |  |
-| [Zayaha Meen](https://open.spotify.com/track/5NBR9Pd73CpmzdCWTpBbFj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Zayaha Meen](https://open.spotify.com/album/4ousdr4gRYNebJqEgz0pGs) | 3:24 | 2022-05-04 |  |
+| [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/track/5ksURzwZba1aZd7LVyU9DL) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [Zahra Hala Helwa \(Maa Myriam Fares W Asser Yassin\)](https://open.spotify.com/album/2coqbgNvH5tanBqXSlZrt4) | 1:57 | 2022-07-14 |  |
+| [Zayaha Meen](https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:24 | 2022-07-14 |  |
+| [Zayaha Meen](https://open.spotify.com/track/5NBR9Pd73CpmzdCWTpBbFj) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Zayaha Meen](https://open.spotify.com/album/4ousdr4gRYNebJqEgz0pGs) | 3:24 | 2022-05-04 | 2022-07-29 |
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 |  |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-15 |
-| [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 |  |
+| [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 | 2022-07-29 |
 | [نهارنا وردي](https://open.spotify.com/track/1AZELIVj9dbzculbZXocRS) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [نهارنا وردي](https://open.spotify.com/album/02l1jHBJrh68fU2kaiM8V7) | 3:09 | 2022-05-04 | 2022-07-10 |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

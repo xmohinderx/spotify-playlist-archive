@@ -399,10 +399,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
+    },
+    {
+      "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
     },
     {
       "album": {
@@ -783,7 +801,7 @@
     {
       "album": {
         "name": "In You",
-        "url": "https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG"
+        "url": "https://open.spotify.com/album/6CGOHFD1cO5u0jldukqYNO"
       },
       "artists": [
         {
@@ -794,6 +812,24 @@
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205060,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
+    },
+    {
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/0dzyMrEMalmslY1kKOPkWG"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 205080,
       "name": "In You",
       "url": "https://open.spotify.com/track/04i7lHNiTQfSnt0FTkL9Oc"

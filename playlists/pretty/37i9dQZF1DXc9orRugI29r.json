@@ -1,13 +1,29 @@
 {
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "num_followers": 275589,
-  "original_name": "HOT NOW: Camilo, Nicki Nicole - Naturaleza",
+  "num_followers": 275893,
+  "original_name": "HOT NOW: ROSAL\u00cdA - DESPECH\u00c1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUzNzAwOCwwMDAwMDJiYTAwMDAwMTgyMjg4MjVlMGIwMDAwMDE4MjIzNGE0NmYx",
+  "snapshot_id": "MTY1ODk4NDQwMCwwMDAwMDAwMGEzMDNmMGRhZTUxNjNlMGM2MzA2NDQwNjllYzU0MmE0",
   "tracks": [
+    {
+      "added_at": "2022-07-28 05:00:00",
+      "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
     {
       "added_at": "2022-07-23 00:43:28",
       "album": {
@@ -676,7 +692,7 @@
       "added_at": "2022-07-23 00:43:28",
       "album": {
         "name": "Jordan",
-        "url": "https://open.spotify.com/album/1GuZxmifdAu3zq2189iT5M"
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
       "artists": [
         {
@@ -686,7 +702,7 @@
       ],
       "duration_ms": 176142,
       "name": "Jordan",
-      "url": "https://open.spotify.com/track/2rDZhKnPaPG054ExZ6nXUS"
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2022-07-23 00:43:28",
@@ -895,28 +911,8 @@
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
-    },
-    {
-      "added_at": "2022-07-23 00:43:28",
-      "album": {
-        "name": "Estamos Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 182698,
-      "name": "Estamos Aqu\u00ed",
-      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
     }
   ],
-  "unique_name": "HOT NOW: Camilo, Nicki Nicole - Naturaleza",
+  "unique_name": "HOT NOW: ROSAL\u00cdA - DESPECH\u00c1",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

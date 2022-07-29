@@ -81,6 +81,24 @@
     {
       "album": {
         "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+    },
+    {
+      "album": {
+        "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci"
       },
       "artists": [
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161612,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv"
@@ -416,6 +434,24 @@
     },
     {
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
@@ -427,7 +463,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
@@ -445,10 +481,28 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
+    },
+    {
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "album": {
@@ -583,6 +637,24 @@
     {
       "album": {
         "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+    },
+    {
+      "album": {
+        "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
       "artists": [
@@ -593,7 +665,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
@@ -1033,10 +1105,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 233422,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Part",
+        "url": "https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
     },
     {
       "album": {
@@ -1426,6 +1516,24 @@
     },
     {
       "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/0ltlJlYNzuXoMMv7fie9D9"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/0TCmhnbMpw5zwPsTvlXTJi"
+    },
+    {
+      "album": {
         "name": "Runaway (Piano Version)",
         "url": "https://open.spotify.com/album/1RMa1zy758lywJmKwI7fAb"
       },
@@ -1437,7 +1545,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 250040,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1oKhOLQj9kU5W8asB5c1uW"
@@ -1683,10 +1791,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 262960,
       "name": "we'll be fine",
       "url": "https://open.spotify.com/track/4TRL1Y8sOR54I3AvRzUZHk"
+    },
+    {
+      "album": {
+        "name": "we'll be fine",
+        "url": "https://open.spotify.com/album/6vLZ785JdIDq7VO3hVX6at"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "we'll be fine",
+      "url": "https://open.spotify.com/track/7KKamdf8oLVz1eFcNRjvnq"
     },
     {
       "album": {
@@ -1766,6 +1892,24 @@
     },
     {
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    },
+    {
+      "album": {
         "name": "Your Power",
         "url": "https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3"
       },
@@ -1777,7 +1921,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 245896,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD"

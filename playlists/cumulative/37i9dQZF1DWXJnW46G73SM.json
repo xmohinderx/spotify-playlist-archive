@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0646\u0627\u0646\u0633\u064a \u0639\u062c\u0631\u0645 \u0648\u0645\u0627\u0631\u0634\u0645\u064a\u0644\u0648",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
   "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "7rd0UNTK9BBzffp6c0LMpx"
@@ -1344,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Heya Elnas",
+        "url": "https://open.spotify.com/album/5H2gvYWORvnxFSpsbVgwHi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249703,
+      "name": "Heya Elnas",
+      "url": "https://open.spotify.com/track/1w6kXQlGG8m1KnatAlhuCT"
+    },
+    {
+      "album": {
         "name": "Hob Meen",
         "url": "https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw"
       },
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 152200,
       "name": "Kalam Kobar",
       "url": "https://open.spotify.com/track/0bBNbNMZiU5WQ8Qe5y2peh"
@@ -2789,7 +2807,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 228000,
       "name": "Touba (Intro Of Touba Series)",
       "url": "https://open.spotify.com/track/2hb9SS3ObGXd6MwwxiKPqr"
@@ -3334,6 +3352,24 @@
     },
     {
       "album": {
+        "name": "\u064a\u0627\u0633\u0627\u062a\u0631 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u064a\u0648\u062a\u064a\u0631\u0646)",
+        "url": "https://open.spotify.com/album/78u5iHbe5J8ZdISmRI1ymr"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236042,
+      "name": "\u064a\u0627\u0633\u0627\u062a\u0631 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u064a\u0648\u062a\u064a\u0631\u0646",
+      "url": "https://open.spotify.com/track/4dXTPZWeidbo3JOPqa6Zjv"
+    },
+    {
+      "album": {
         "name": "\u064a\u0648\u062a\u064a\u0631\u0646 (\u0627\u0644\u062a\u062a\u0631 \u0627\u0644\u0623\u0635\u0644\u064a \u0644\u0644\u0645\u0633\u0644\u0633\u0644)",
         "url": "https://open.spotify.com/album/5LO5YiSV2hXf24DCmKqC9r"
       },
@@ -3345,7 +3381,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232899,
       "name": "\u064a\u0648\u062a\u064a\u0631\u0646 - \u0627\u0644\u062a\u062a\u0631 \u0627\u0644\u0623\u0635\u0644\u064a \u0644\u0644\u0645\u0633\u0644\u0633\u0644",
       "url": "https://open.spotify.com/track/5nxONHnWKd5namYsbyuSLE"

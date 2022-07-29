@@ -4,7 +4,7 @@
 
 > Soundtrack your dinner with bossa sounds.
 
-108 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
+111 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/00GgJo3w4SYrEnE4bIAXpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 | 2022-04-26 |  |
 | [Alter do Chão](https://open.spotify.com/track/6QGwP5HGzrFq8J6RyEf4ku) | [Ailani Akoni](https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k) | [Alter do Chão](https://open.spotify.com/album/5UKi55d1VLwwR9Hx5e7yyo) | 2:32 | 2022-04-26 |  |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-04-26 |  |
-| [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-04-26 |  |
+| [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 | 2022-06-28 |  |
+| [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-04-26 | 2022-07-29 |
 | [Arrow](https://open.spotify.com/track/0uVEYY44hSFpA7czgNooR9) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Sombre](https://open.spotify.com/album/4j8NxXtdsYzudnOzeEQwxm) | 3:33 | 2022-04-26 |  |
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2022-04-26 |  |
 | [Beatrice](https://open.spotify.com/track/521g9IAwMmDwXsjWNNmEV5) | [Sunset Cafe Jazz Band](https://open.spotify.com/artist/3sKiXQhuMcP5SwY9qYvzfk) | [All of Me](https://open.spotify.com/album/4dxTboBUKrZ0diLyBkiyRq) | 4:30 | 2022-04-26 |  |
@@ -22,7 +23,8 @@
 | [Black Orpheus](https://open.spotify.com/track/3VCzknPQgKeeggh1AQcNYF) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Black Orpheus](https://open.spotify.com/album/2nVeJ916nEQC4pnoCGCb2P) | 3:24 | 2022-05-10 |  |
 | [Black Orpheus](https://open.spotify.com/track/509iWZpdj11TayPbutE5JG) | [David Clough Quartet](https://open.spotify.com/artist/7sBV16McZ6qZy9O78hGbNG) | [My Favorite Things](https://open.spotify.com/album/28283G5mmwjrwg9RKnukIK) | 5:10 | 2022-04-26 | 2022-05-11 |
 | [Blue Bossa](https://open.spotify.com/track/7w5Plin7KHi7vC1bjSeLpW) | [Horace Ingram Trio](https://open.spotify.com/artist/2upKKzpVjxy1rxfwEM7pqT) | [Laura](https://open.spotify.com/album/11rDo8Bvg7KcPW7QDMhDWq) | 5:34 | 2022-04-26 |  |
-| [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-04-26 |  |
+| [Bossa Antigua](https://open.spotify.com/track/5kapVb34raTBsynt0Zj6qw) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:42 | 2022-06-28 |  |
+| [Bossa Antigua](https://open.spotify.com/track/6QJT16QV1nGu0ZPjL4HCMe) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 4:44 | 2022-04-26 | 2022-07-29 |
 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 | 2022-04-26 |  |
 | [Bossa De Urso](https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:14 | 2022-04-26 |  |
 | [Bossa for Baden](https://open.spotify.com/track/0xp48lPf2ngBBC9CgW9LE6) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Botafogo](https://open.spotify.com/album/4RiZs4dwqI2Jybd4nHL59H) | 3:09 | 2022-04-26 |  |
@@ -57,7 +59,8 @@
 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 | 2022-04-26 |  |
 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 | 2022-04-26 |  |
 | [Gringo na Lapa](https://open.spotify.com/track/2gyJ9qVNvQ01qnIXGqqJ27) | [Samuel Furtado](https://open.spotify.com/artist/0ovOJBn9DrE5qU4THpWpsx) | [Gringo na Lapa](https://open.spotify.com/album/29r2JdeDoQkiSm3yfBXT96) | 4:32 | 2022-04-26 |  |
-| [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-04-26 |  |
+| [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 | 2022-06-28 |  |
+| [Half The Perfect World](https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 4:22 | 2022-04-26 | 2022-07-29 |
 | [Happy](https://open.spotify.com/track/3VoamGkXelS0NOIVm1BBJg) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Flora](https://open.spotify.com/album/0lVw3DmkHCtxL9iIzWmgOK) | 3:27 | 2022-04-26 |  |
 | [Hermana](https://open.spotify.com/track/5JR2HVcJoTWsk7ekHMd5RM) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 4:33 | 2022-04-26 |  |
 | [how insensitive](https://open.spotify.com/track/3NfjsizJtx8XWnmsZxOohA) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 3:50 | 2022-04-26 |  |

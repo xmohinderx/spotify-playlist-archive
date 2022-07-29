@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: CATTY, Artwork: Paola Saliby
 
-2,463 songs - 5 day 6 hr 7 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
+2,464 songs - 5 day 6 hr 10 min - [published](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,7 +1306,8 @@
 | [Lose Somebody](https://open.spotify.com/track/4COe7is66x7lW1VpqUhWoQ) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Lose Somebody](https://open.spotify.com/album/0Ibu1TJquKMxhb4aBzlAsg) | 2:23 | 2021-01-15 | 2021-02-25 |
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-27 | 2022-06-16 |
 | [Losers](https://open.spotify.com/track/33JYOYXiB9HjAlXx6VZgFb) | [BXB LOVE](https://open.spotify.com/artist/03k90jclqTrew2X2DFnRCC) | [Losers](https://open.spotify.com/album/0Yw4AKw6snyXnWiEggiDwI) | 2:34 | 2021-06-18 | 2021-08-05 |
-| [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-06-29 |  |
+| [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-06-29 | 2022-07-29 |
+| [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-06-29 |  |
 | [Losing You](https://open.spotify.com/track/24PcKwVvoOkLlu8zkDwpAf) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Losing You](https://open.spotify.com/album/2SpeI2UWZyJoAF7H9PesIW) | 2:53 | 2022-02-09 | 2022-03-24 |
 | [Lost](https://open.spotify.com/track/7lgr3spqIXsLxTPBWOd8g2) | [Fischer King](https://open.spotify.com/artist/0t9705f7dLyQTsVCILQhei) | [Lost](https://open.spotify.com/album/27BZ6bQ6W37Ui3o4esuFde) | 3:37 | 2020-10-13\* | 2020-10-22 |
 | [Lost](https://open.spotify.com/track/4aflKB9woUwqWTqYvHR1GL) | [W1ZE](https://open.spotify.com/artist/5yEpeaMokz3lTtjloWgQO5) | [Lost](https://open.spotify.com/album/0e1duhKpJ6Kik6d77iLe4w) | 2:32 | 2022-07-06 |  |

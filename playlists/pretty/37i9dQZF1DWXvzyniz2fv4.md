@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,022 likes - 65 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,098 likes - 65 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 33 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 | 34 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
 | 35 | [Equação](https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Equação](https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC) | 3:02 |
-| 36 | [Pra Praia](https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY) | 3:06 |
+| 36 | [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 |
 | 37 | [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 |
 | 38 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
 | 39 | [Nossa Viagem](https://open.spotify.com/track/2CYjW7iosrYhe80Ydm6PEz) | [MARCELA](https://open.spotify.com/artist/3hFbbks3zwyoCO6GEBu3wt), [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Nossa Viagem](https://open.spotify.com/album/1llvdGgxHkX8ivOSwb8u3i) | 2:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 46 | [Meia Hora](https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ) | [Gabriel Henriques](https://open.spotify.com/artist/2CFXlx3qilobAs8x2acmIe), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Meia Hora](https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV) | 3:17 |
 | 47 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
 | 48 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 |
-| 49 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 |
+| 49 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 |
 | 50 | [4 da Manhã \- Acústico](https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Acústico: Sem Perceber + 4 da Manhã](https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR) | 3:28 |
 | 51 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 |
 | 52 | [Lua](https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Lua](https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd) | 2:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 64 | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/track/3KArCRSFdHcVxN0z7tlX0F) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Batz Ninja](https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Cúmplice \(Papasessions \#4\)](https://open.spotify.com/album/7M1FD7Ji63zxEUpaZD5E1D) | 3:41 |
 | 65 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
 
-Snapshot ID: `MTY1NjAzOTY2MCwwMDAwMDA3NTAwMDAwMTgxOTNhN2RhMzMwMDAwMDE3MmYxYzU1MTVh`
+Snapshot ID: `MTY1NjAzOTY2MCwwMDAwMDAwMDZiMjkwMzg0NDgxMjNhYmZmYjA3ODliZTg1YzdmNWQw`

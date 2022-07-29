@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1?si=repPmCNuTgyrUPWN5Zki0w\">Snow Deep</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=bDrTnbegSAK2FgCjdBlnhw\">Mellow & Sleazy</a>",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
@@ -1272,6 +1272,24 @@
     },
     {
       "album": {
+        "name": "Barcadi Fest",
+        "url": "https://open.spotify.com/album/0dx8GE77ZYIRJULOfsGK1f"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445731,
+      "name": "Badimo ba Pitori",
+      "url": "https://open.spotify.com/track/78gwoq97fVu6GjOTG7Y5uP"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E"
       },
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 360884,
       "name": "Batlao Hurda",
       "url": "https://open.spotify.com/track/7C4vgE4Vdfc0pDaJ90jR7m"
@@ -2571,7 +2589,7 @@
     {
       "album": {
         "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
@@ -2586,6 +2604,28 @@
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
@@ -2919,6 +2959,24 @@
       "duration_ms": 497295,
       "name": "Ebusuku (feat. Nkosazana Daughter)",
       "url": "https://open.spotify.com/track/1T85qf7aGYCd7wA793pfRR"
+    },
+    {
+      "album": {
+        "name": "Ekasi (Amapiano)",
+        "url": "https://open.spotify.com/album/5rTuIpmOFXSXEA8SuGUPP4"
+      },
+      "artists": [
+        {
+          "name": "Deejay Soso",
+          "url": "https://open.spotify.com/artist/6t9XXzELFCYuL7ZCaRTDNe"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371714,
+      "name": "Ekasi - Amapiano",
+      "url": "https://open.spotify.com/track/1T1HMWAkGENPp3AlhUEEsN"
     },
     {
       "album": {
@@ -3671,7 +3729,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 344469,
       "name": "Gibela (feat. Blaqnick & MasterBlaq)",
       "url": "https://open.spotify.com/track/6Uibkmo1vKWQS7IxrrWhCu"
@@ -4355,7 +4413,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 398808,
       "name": "Imali",
       "url": "https://open.spotify.com/track/0TQrSV9VZ1p9lrx1wP3sFa"
@@ -5817,7 +5875,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 330500,
       "name": "Koropa",
       "url": "https://open.spotify.com/track/1yaA9xNZzJinAgWagRFlwB"
@@ -6397,7 +6455,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 259474,
       "name": "Mali",
       "url": "https://open.spotify.com/track/69nAoxPJd35lSSDThLSc3A"
@@ -6907,7 +6965,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 430094,
       "name": "Moria",
       "url": "https://open.spotify.com/track/6fyuclocY9ryzkwUYzOtLQ"
@@ -7655,7 +7713,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 376118,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/5F6WUepBgKnRQ3ZJBHhPPl"
@@ -7800,6 +7858,36 @@
     },
     {
       "album": {
+        "name": "0202 EP",
+        "url": "https://open.spotify.com/album/0ORaa0I0PP4rPIYWUDFucG"
+      },
+      "artists": [
+        {
+          "name": "Kay Invictus",
+          "url": "https://open.spotify.com/artist/032XWTfikybkuikEsBqLRc"
+        },
+        {
+          "name": "Azi",
+          "url": "https://open.spotify.com/artist/68a9wbn6HzaypFnVAiciMl"
+        },
+        {
+          "name": "Boontle SA",
+          "url": "https://open.spotify.com/artist/0tK0Cu3dmpJZEpqK1fDcv7"
+        },
+        {
+          "name": "Papi",
+          "url": "https://open.spotify.com/artist/1seuCAgNtazhgOk3LaP68H"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415714,
+      "name": "Nkosi Sikelela (feat. Azi, Papi & Boontle SA)",
+      "url": "https://open.spotify.com/track/2ZdHj3xlxXjIr6iiUje85g"
+    },
+    {
+      "album": {
         "name": "Nomayinini",
         "url": "https://open.spotify.com/album/3KNjx6Y0NXql8M5MhtIIUa"
       },
@@ -7905,7 +7993,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 336919,
       "name": "Ntate Mogolo",
       "url": "https://open.spotify.com/track/0Ml4TMjBKedGGoAoARCGIu"
@@ -8035,7 +8123,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 276106,
       "name": "Papapu",
       "url": "https://open.spotify.com/track/6kEvmo6uQopt9H1qacjSTx"
@@ -8273,7 +8361,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 516077,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4P2gthOytLLGmjK4nLDPzh"
@@ -8978,6 +9066,28 @@
     },
     {
       "album": {
+        "name": "Shout (feat. Kabza De Small)",
+        "url": "https://open.spotify.com/album/0VDFp3j0td9GuR54DOytN4"
+      },
+      "artists": [
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383104,
+      "name": "Shout (feat. Kabza De Small)",
+      "url": "https://open.spotify.com/track/6M2zY3buvwsU2cxIpxeFSH"
+    },
+    {
+      "album": {
         "name": "Shubisa",
         "url": "https://open.spotify.com/album/2R2hLzApG9uexzcPPtCb1i"
       },
@@ -9017,7 +9127,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 429573,
       "name": "Shubisa (ft. 031 Choppa, EeQue, Pushkin & Springle)",
       "url": "https://open.spotify.com/track/7xlLtT36iahTEH6e74dyGv"
@@ -9477,7 +9587,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261101,
       "name": "Sosha (feat. Sino Msolo & Toss)",
       "url": "https://open.spotify.com/track/0DbFtSdv8ji3c9tsD25fB4"
@@ -9599,6 +9709,40 @@
       "duration_ms": 347402,
       "name": "Space Wave",
       "url": "https://open.spotify.com/track/0ZDLljKk7QWR4TpKmiYfpS"
+    },
+    {
+      "album": {
+        "name": "Sporofita (feat. 2woshort, LastbornDiroba, Al xapo & Sunde)",
+        "url": "https://open.spotify.com/album/5VCzXrtq44Tf8gUXO7zQhz"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "2woshort",
+          "url": "https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825"
+        },
+        {
+          "name": "LastbornDiroba",
+          "url": "https://open.spotify.com/artist/69bAy03h3A10xDSsb8xj3G"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        },
+        {
+          "name": "Sunde",
+          "url": "https://open.spotify.com/artist/5uNBTq61yDEqa3PHqHByTr"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360223,
+      "name": "Sporofita (feat. 2woshort, LastbornDiroba, Al xapo & Sunde)",
+      "url": "https://open.spotify.com/track/2Hse6wF70MSGbjwuPixL7S"
     },
     {
       "album": {
@@ -11339,7 +11483,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 334330,
       "name": "Unga Jampisi (Dub Mix)",
       "url": "https://open.spotify.com/track/3bPFo2YEpIB3osangioC7y"

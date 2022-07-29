@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Screaming, crying, throwing up!! Like this, you'll love <a href="spotify:playlist:37i9dQZF1DX1SbnWqcjJBz">DESERVED</a>\. Cover:  Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,855 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,928 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 31 | [for the girls](https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [for the girls](https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB) | 2:37 |
 | 32 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 |
 | 33 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
-| 34 | [Girls](https://open.spotify.com/track/07fqC2Puj13frv9iYtlcri) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/2rwRvLdjGzjSYl9AS3UbvH) | 4:00 |
+| 34 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 |
 | 35 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 |
 | 36 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 |
 | 37 | [Explosive](https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [Explosive](https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl) | 3:22 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 79 | [Sugar Daddy](https://open.spotify.com/track/2ViSWfhT0kvEulXA1HH7Wk) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [EP 8](https://open.spotify.com/album/5JDYyeV93HlRyB5EKqt3We) | 3:23 |
 | 80 | [Kiss Me Right Now](https://open.spotify.com/track/6YgSKX15auxiOAkCSpbdX8) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Treat Me Right](https://open.spotify.com/album/7DTsjf0nnG22p9P7pZLrfI) | 4:00 |
 | 81 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
-| 82 | [Remedy](https://open.spotify.com/track/5wXpoS2j5VYb7V3nK66xDe) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/3HbUBiBpAWBzQlVej5s73c) | 2:27 |
+| 82 | [Remedy](https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Remedy](https://open.spotify.com/album/5DkP7hUfhlC2lvvJ0d1jtz) | 2:27 |
 | 83 | [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 |
 | 84 | [I Hate People \(Willow Pill\)](https://open.spotify.com/track/5PbCpQEQnc7xXBv5aoN2Tl) | [The Cast of RuPaul's Drag Race, Season 14](https://open.spotify.com/artist/1rHLf5OwIQWxToS6Q4Kx1V) | [I Hate People \(Willow Pill\)](https://open.spotify.com/album/3PpaCJae6ubbL8gKGa5fre) | 1:11 |
 | 85 | [Headphones](https://open.spotify.com/track/1R7WcoUBGKJY15HGQxb62G) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Headphones](https://open.spotify.com/album/1wby36csRn1oBpSZWjz56F) | 2:28 |
-| 86 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 |
+| 86 | [Twisted Mind](https://open.spotify.com/track/3spv7jSmQFkEbU6Xa8hdLW) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 5:20 |
 | 87 | [Lightning](https://open.spotify.com/track/4aguR8nLIlmF6WCOlCArhT) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:57 |
 | 88 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 |
 | 89 | [Check Check](https://open.spotify.com/track/15ibpzLxaUqycubbAfPFpe) | [OhEm](https://open.spotify.com/artist/5a9tuA9hAvmwXEjk9t6x0U) | [Check Check](https://open.spotify.com/album/2cjrye5FaoK9ExMD1rwWa6) | 4:03 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 92 | [HATEFUCK](https://open.spotify.com/track/2G6AOP03YY7hCCxvskZLb4) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [HATEFUCK](https://open.spotify.com/album/2JN7YYzP0l4WkIlHIeFfIa) | 3:16 |
 | 93 | [I Can't Get Enough](https://open.spotify.com/track/1F3NBThWyr845YUwpm5n1F) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [I Can't Get Enough](https://open.spotify.com/album/5LSeEdLSgCi2zQKYhmdIsb) | 2:48 |
 | 94 | [Baby](https://open.spotify.com/track/4KNk5VS4bR4nUVvnJwVmUE) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Baby](https://open.spotify.com/album/7guVedOngStKyoYMzMdWzj) | 2:39 |
-| 95 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 |
+| 95 | [Haunted House](https://open.spotify.com/track/0lRWCC1H4Ik57AoCDywzPl) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/0kPDBpsKB8gnIePmj1pas7) | 3:01 |
 | 96 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 |
 | 97 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 |
 | 98 | [24 Hours](https://open.spotify.com/track/58uUDYcy9U1dqS84ykFTFD) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [24 Hours](https://open.spotify.com/album/6eoDeTDawu6tl2CgNL2RDS) | 4:01 |
 | 99 | [Bruxelles je t’aime](https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:48 |
 | 100 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 |
 
-Snapshot ID: `MTY1ODc5MzUzNCwwMDAwMDA0MTAwMDAwMTgyMzdjY2EzM2QwMDAwMDE4MjFkOTY3YjA2`
+Snapshot ID: `MTY1ODc5MzUzNCwwMDAwMDAwMGFjZDlmODUyYjI4N2E0MWMyMmRjY2U5ZGEzYzYwMmZk`

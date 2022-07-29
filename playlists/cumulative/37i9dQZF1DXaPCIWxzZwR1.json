@@ -767,6 +767,24 @@
     {
       "album": {
         "name": "Aimed to Kill",
+        "url": "https://open.spotify.com/album/7dwwAbCnp5xxAD1Hz0P3Tf"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202721,
+      "name": "Aimed to Kill",
+      "url": "https://open.spotify.com/track/3EZekHDwiGXJo7tH1Jolhv"
+    },
+    {
+      "album": {
+        "name": "Aimed to Kill",
         "url": "https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij"
       },
       "artists": [
@@ -777,7 +795,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202721,
       "name": "Aimed to Kill",
       "url": "https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th"
@@ -2057,10 +2075,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 147744,
       "name": "BLENDER",
       "url": "https://open.spotify.com/track/2LBnpm1lEMkzD45ZGLmrQd"
+    },
+    {
+      "album": {
+        "name": "BLENDER",
+        "url": "https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147744,
+      "name": "BLENDER",
+      "url": "https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B"
     },
     {
       "album": {
@@ -4273,6 +4309,24 @@
     {
       "album": {
         "name": "Dirty Thoughts",
+        "url": "https://open.spotify.com/album/5bQZRw0e4UHu3KrkGrVKto"
+      },
+      "artists": [
+        {
+          "name": "Chloe Adams",
+          "url": "https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129698,
+      "name": "Dirty Thoughts",
+      "url": "https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz"
+    },
+    {
+      "album": {
+        "name": "Dirty Thoughts",
         "url": "https://open.spotify.com/album/4fx89RUIG0uiPUebkD3iil"
       },
       "artists": [
@@ -4283,7 +4337,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 129698,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/3ngV3q1Mplay2vhxAwamZP"
@@ -4845,10 +4899,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213133,
       "name": "drunk text me",
       "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
+    },
+    {
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "album": {
@@ -7329,10 +7401,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136363,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7"
+    },
+    {
+      "album": {
+        "name": "HAUNTED",
+        "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137851,
+      "name": "HAUNTED",
+      "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
     },
     {
       "album": {
@@ -8370,6 +8460,24 @@
     },
     {
       "album": {
+        "name": "dear amelia",
+        "url": "https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "i miss myself",
+      "url": "https://open.spotify.com/track/1ySWbdFs3026uRQCixRLqI"
+    },
+    {
+      "album": {
         "name": "i miss myself",
         "url": "https://open.spotify.com/album/4MHQH93N0VSN6wpXThBp1R"
       },
@@ -8381,7 +8489,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 222400,
       "name": "i miss myself",
       "url": "https://open.spotify.com/track/7Cts3DcDyQyDqfoSloC1pL"
@@ -10825,6 +10933,24 @@
     {
       "album": {
         "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
+    },
+    {
+      "album": {
+        "name": "Me Myself & I",
         "url": "https://open.spotify.com/album/4CS1fOZMGrfaRb6qpDRb5O"
       },
       "artists": [
@@ -10835,7 +10961,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177879,
       "name": "Me Myself & I",
       "url": "https://open.spotify.com/track/1LQVMV7Zl93gB048DwolvK"

@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "songs that you'll probably never hear, pt. 3",
+        "url": "https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1"
+      },
+      "artists": [
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "crying in my car",
+      "url": "https://open.spotify.com/track/0a593TcPTKixO9Melp5p8A"
+    },
+    {
+      "album": {
         "name": "songs that you'll probably never hear pt. 3",
         "url": "https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz"
       },
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 177454,
       "name": "crying in my car",
       "url": "https://open.spotify.com/track/7o1XtPp4otuCj5oTAXt55z"
@@ -3393,7 +3411,7 @@
     {
       "album": {
         "name": "Freckle Season",
-        "url": "https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5"
+        "url": "https://open.spotify.com/album/4emwoxUmeMCYHSsYosCdOW"
       },
       "artists": [
         {
@@ -3404,6 +3422,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178000,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/35qRwSUu7Z5bvqTE7iGyxi"
+    },
+    {
+      "album": {
+        "name": "Freckle Season",
+        "url": "https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 179439,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/33Erxwd8RV55M6ZX6KigNt"
@@ -3919,10 +3955,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP"
+    },
+    {
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271206,
+      "name": "Rae Street",
+      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
     },
     {
       "album": {

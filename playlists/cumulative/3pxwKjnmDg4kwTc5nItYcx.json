@@ -2664,6 +2664,24 @@
     },
     {
       "album": {
+        "name": "Newcomer",
+        "url": "https://open.spotify.com/album/1sXxuN4YB7Fisgjmp96l9k"
+      },
+      "artists": [
+        {
+          "name": "Harper Finn",
+          "url": "https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/7F4p9HU836tGnUBLwJhHiu"
+    },
+    {
+      "album": {
         "name": "EVERGREEN",
         "url": "https://open.spotify.com/album/1KF7MFZGSKagaCWXtMzFmA"
       },
@@ -9385,6 +9403,28 @@
       "duration_ms": 220306,
       "name": "Square 1",
       "url": "https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF"
+    },
+    {
+      "album": {
+        "name": "Sriracha (feat. Woosung)",
+        "url": "https://open.spotify.com/album/18bpLLLl7pXC7KO7p8oyq2"
+      },
+      "artists": [
+        {
+          "name": "The Attire",
+          "url": "https://open.spotify.com/artist/5DPoUW5HGgfsoAelpybURt"
+        },
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182197,
+      "name": "Sriracha (feat. Woosung)",
+      "url": "https://open.spotify.com/track/7ldhMIeSYJQNYxdoZ0MKiM"
     },
     {
       "album": {

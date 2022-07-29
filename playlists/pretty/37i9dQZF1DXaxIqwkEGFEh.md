@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,327 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,676 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 89 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 |
 | 90 | [They Don't Know](https://open.spotify.com/track/2grbjy3hdw9ucfG3zJ4pCm) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [They Don't Know](https://open.spotify.com/album/7m9YSsj7bOyKOqd4Etu5LO) | 2:27 |
 | 91 | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/track/2oX9VjMLgO8hYMZ3Mh4J8o) | [Lil Mexico](https://open.spotify.com/artist/5HL0VTY0iLTz0RcoeI4cmY), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Can't Lose \(feat\. Lil Durk\)](https://open.spotify.com/album/6IlNeUhzVDjbwrMPfjqkyx) | 3:12 |
-| 92 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 |
+| 92 | [Thump Shit](https://open.spotify.com/track/5tLdDm1cVYAH2kk7TyjmdW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 3:46 |
 | 93 | [MilTroit \(feat\. Lakeyah\)](https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 2:24 |
 | 94 | [Street Signs](https://open.spotify.com/track/1tu6h8NPmeS4q2RRpEGjT8) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Street Signs](https://open.spotify.com/album/7e9S1FRNCWxw2UeIQtmFAP) | 1:53 |
-| 95 | [Very Special](https://open.spotify.com/track/3S6DSiBFZuQrkqirp33iSB) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford Sampler](https://open.spotify.com/album/3wTBdbTjE7aGH1e7WEs7A3) | 2:17 |
+| 95 | [Very Special](https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:17 |
 | 96 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 |
 | 97 | [Go\-Realer](https://open.spotify.com/track/1T5h7MaOGpeaSMOo4qokvt) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:54 |
 | 98 | [Yak Flow](https://open.spotify.com/track/0PP7bQ2n8pnTrHT81t3GPd) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Yak Flow](https://open.spotify.com/album/09E5HODaBOJacIB2xHlzrL) | 2:37 |
 | 99 | [The Biggest Dookie](https://open.spotify.com/track/4EbVMIPdmOl7q14twrYF5H) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX) | [The Biggest Dookie](https://open.spotify.com/album/4J12HgyZvzAMtKEQjXeo2p) | 2:08 |
 
-Snapshot ID: `MTY1ODc4MTkwMCwwMDAwMDUxYzAwMDAwMTgyMzcxYjFlMmEwMDAwMDE4MWI2ODg5YmIw`
+Snapshot ID: `MTY1ODc4MTkwMCwwMDAwMDAwMDYwMzlhMzUzYzY5MmExMDA5NzM1ODU2MWE5YjI3NzE3`

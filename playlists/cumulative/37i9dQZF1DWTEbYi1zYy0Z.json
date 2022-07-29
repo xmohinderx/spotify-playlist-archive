@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 231080,
       "name": "A Brighter Day",
       "url": "https://open.spotify.com/track/5NbqBSwhgnd601B9lu80U6"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 249813,
       "name": "A to Z",
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 253500,
       "name": "Believe",
       "url": "https://open.spotify.com/track/27Ip6QauFp1x7uU5UZd1Ze"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 283648,
       "name": "Catalina",
       "url": "https://open.spotify.com/track/5IbGa32pL7TZ1Li1zuQZ54"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 321750,
       "name": "Coastline Drive",
       "url": "https://open.spotify.com/track/5j05IaaOCvj4AGfZmrp656"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 260083,
       "name": "Defy",
       "url": "https://open.spotify.com/track/3Nafj5uljh3v8anIABX3aM"
@@ -1277,10 +1277,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261562,
       "name": "Drive",
       "url": "https://open.spotify.com/track/24lqTPV5AGbWoYUz92YdsA"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2Xx94sKdbpy6vb55fho0QD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261562,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
       "album": {
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 241986,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk"
@@ -1563,7 +1581,7 @@
     {
       "album": {
         "name": "A Sunny Day",
-        "url": "https://open.spotify.com/album/4IWLvBdzQ1VpvLIYNSgd3y"
+        "url": "https://open.spotify.com/album/2zboDFwCox3Ust1NUbTDrA"
       },
       "artists": [
         {
@@ -1578,6 +1596,28 @@
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255466,
+      "name": "Fika Talk",
+      "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
+    },
+    {
+      "album": {
+        "name": "A Sunny Day",
+        "url": "https://open.spotify.com/album/4IWLvBdzQ1VpvLIYNSgd3y"
+      },
+      "artists": [
+        {
+          "name": "WaKaNa",
+          "url": "https://open.spotify.com/artist/707I9mm4dUetOtYJpqrTQ6"
+        },
+        {
+          "name": "Jonathan Fritz\u00e9n",
+          "url": "https://open.spotify.com/artist/5CYmlWkTi0RV4UxgREp6fM"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 255466,
       "name": "Fika Talk",
       "url": "https://open.spotify.com/track/7ALCSITDKSMaKSfwWwnQys"
@@ -1711,10 +1751,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 217151,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/2GYcLZuDL2u26oqwYILFTk"
+    },
+    {
+      "album": {
+        "name": "Foolish Heart",
+        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
+      },
+      "artists": [
+        {
+          "name": "Johnny James Dr J",
+          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217151,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "album": {
@@ -1729,7 +1787,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 316061,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S"
@@ -1853,7 +1911,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 244093,
       "name": "Gift to the World",
       "url": "https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S"
@@ -1889,7 +1947,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
@@ -2005,7 +2063,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 208445,
       "name": "Hrs and Hrs",
       "url": "https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn"
@@ -2511,7 +2569,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
@@ -2889,7 +2947,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 254734,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm"
@@ -2955,7 +3013,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 222253,
       "name": "Mystical Moment",
       "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
@@ -3019,7 +3077,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 187818,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
@@ -3071,7 +3129,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
@@ -3133,7 +3191,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 280649,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/1agamZXMvCbzZKN6F7oopr"
@@ -3235,7 +3293,7 @@
     {
       "album": {
         "name": "Open Portals",
-        "url": "https://open.spotify.com/album/3XTAVcAJaGSN47yrAWK5N9"
+        "url": "https://open.spotify.com/album/5tnH3LQps0UMpgKmETCZ1I"
       },
       "artists": [
         {
@@ -3246,6 +3304,24 @@
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 263646,
+      "name": "Open Portals",
+      "url": "https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM"
+    },
+    {
+      "album": {
+        "name": "Open Portals",
+        "url": "https://open.spotify.com/album/3XTAVcAJaGSN47yrAWK5N9"
+      },
+      "artists": [
+        {
+          "name": "Kayla Waters",
+          "url": "https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
       "duration_ms": 263646,
       "name": "Open Portals",
       "url": "https://open.spotify.com/track/6eqt7TkFU0a3gShpGFXyFn"
@@ -3397,7 +3473,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240652,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/3B9f8Piyib9RZsl4ikNhjK"
@@ -3427,7 +3503,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 219759,
       "name": "Protest Injustice",
       "url": "https://open.spotify.com/track/1aREJJkEL35o73R4uw5w0z"
@@ -3591,7 +3667,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 369000,
       "name": "Run Through the Urban City",
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
@@ -3953,7 +4029,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-31",
+      "date_removed": null,
       "duration_ms": 228223,
       "name": "Somewhere out There - Radio Edit",
       "url": "https://open.spotify.com/track/1waCZ5tOkptUrXsrnPhFWI"
@@ -4015,7 +4091,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 228102,
       "name": "Soul to Soul - 2022 Version",
       "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
@@ -4341,10 +4417,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2"
+    },
+    {
+      "album": {
+        "name": "Summer in Blue",
+        "url": "https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269129,
+      "name": "Summer In Blue",
+      "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
       "album": {
@@ -4363,7 +4457,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-17",
+      "date_removed": null,
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
@@ -4541,7 +4635,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 246458,
       "name": "The Goddess",
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
@@ -4577,7 +4671,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 326253,
       "name": "The Last Minute",
       "url": "https://open.spotify.com/track/3tzYgQTDUiJbJfbac2pvpH"
@@ -4767,7 +4861,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 248697,
       "name": "Tried and True",
       "url": "https://open.spotify.com/track/5nBPBnrLdedTDobt38Ysmn"
@@ -4913,7 +5007,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230386,
       "name": "Wait! - Smooth Jazz Mix",
       "url": "https://open.spotify.com/track/5R7wrZ2QIHMFzNX76WDgCv"
@@ -4953,7 +5047,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 249720,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
@@ -5018,6 +5112,24 @@
     },
     {
       "album": {
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/498VXH5Fae33kH2f8CsPpV"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297750,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
+    },
+    {
+      "album": {
         "name": "What You Do to Me",
         "url": "https://open.spotify.com/album/62tnuuUQBGrMYp4AkUCrI1"
       },
@@ -5029,7 +5141,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297750,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6KvdalfItAMjqd8KeQMcdl"

@@ -2547,6 +2547,24 @@
     {
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195190,
+      "name": "I Don't Wanna Talk (I Just Wanna Dance)",
+      "url": "https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA"
+    },
+    {
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
       },
       "artists": [
@@ -2557,7 +2575,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 195190,
       "name": "I Don't Wanna Talk (I Just Wanna Dance)",
       "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
@@ -4697,10 +4715,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 188316,
       "name": "Settling",
       "url": "https://open.spotify.com/track/6EEBiJswbgcLqnpKkuHM00"
+    },
+    {
+      "album": {
+        "name": "Settling",
+        "url": "https://open.spotify.com/album/0LuaDQd1gfG4Q22WQMDi5c"
+      },
+      "artists": [
+        {
+          "name": "Ripe",
+          "url": "https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Settling",
+      "url": "https://open.spotify.com/track/6jQALCbfH7gYSN46Ns839Q"
     },
     {
       "album": {

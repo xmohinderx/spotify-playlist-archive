@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Lil Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,326 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,433 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 49 | [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 |
 | 50 | [APPARENT](https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [APPARENT](https://open.spotify.com/album/7mlxFceSjfCACrEhIwVscy) | 1:36 |
 
-Snapshot ID: `MTY1ODk0OTQ1OCwwMDAwMDExYjAwMDAwMTgyNDExN2RjMTYwMDAwMDE4MjE5ZThmMDQ1`
+Snapshot ID: `MTY1ODk0OTQ1OCwwMDAwMDAwMGQzM2Y5ZDZiN2FlZjVmYWJkODM3M2JmY2ZhODdhMGNk`

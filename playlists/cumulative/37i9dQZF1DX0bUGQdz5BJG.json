@@ -3167,6 +3167,24 @@
     {
       "album": {
         "name": "Feel Good",
+        "url": "https://open.spotify.com/album/26JNFifNHZuO5Xe3fKhepz"
+      },
+      "artists": [
+        {
+          "name": "Five Roses",
+          "url": "https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169875,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/2kH5KD0eUomWpiUFpQQCqj"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
         "url": "https://open.spotify.com/album/6EbuNiak8igHrZhvm8dmzA"
       },
       "artists": [
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 169875,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/4uYDlFubKq2MFdosNK0Q04"
@@ -7329,10 +7347,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 261032,
       "name": "Morning In New Orleans",
       "url": "https://open.spotify.com/track/4kST2f9vJjqqOQgxy8M0C3"
+    },
+    {
+      "album": {
+        "name": "Morning In New Orleans",
+        "url": "https://open.spotify.com/album/69LkhTSf0Dk2Opaafcp6AF"
+      },
+      "artists": [
+        {
+          "name": "Matt Roy",
+          "url": "https://open.spotify.com/artist/00hgDE113euRrneQug8LV7"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261032,
+      "name": "Morning In New Orleans",
+      "url": "https://open.spotify.com/track/58ecPv0XoQ0nO0Fh9ZEp8N"
     },
     {
       "album": {

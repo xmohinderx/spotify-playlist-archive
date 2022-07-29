@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157080,
       "name": "Adios Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/6c9C5tlbSJLC2HY2ItbBcH"
@@ -275,6 +275,28 @@
     {
       "album": {
         "name": "Alma Andina",
+        "url": "https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Toro",
+          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
+        },
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163892,
+      "name": "Cielo de la Baguala",
+      "url": "https://open.spotify.com/track/1oBlxQKBDeuxTlxhM4Cbnz"
+    },
+    {
+      "album": {
+        "name": "Alma Andina",
         "url": "https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz"
       },
       "artists": [
@@ -289,7 +311,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168605,
       "name": "Cielo de la Baguala",
       "url": "https://open.spotify.com/track/0AjOTP9Ald9iClH4oavIVX"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197706,
       "name": "De ahicito",
       "url": "https://open.spotify.com/track/5u7lYW3VKzFI90N1NSAQzD"
@@ -503,6 +525,24 @@
     {
       "album": {
         "name": "Alma Andina",
+        "url": "https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Toro",
+          "url": "https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "El Antigal",
+      "url": "https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1"
+    },
+    {
+      "album": {
+        "name": "Alma Andina",
         "url": "https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz"
       },
       "artists": [
@@ -513,7 +553,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258000,
       "name": "El Antigal",
       "url": "https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd"
@@ -597,10 +637,36 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155077,
       "name": "El Nono Luigi",
       "url": "https://open.spotify.com/track/0BblpWQrMXZvsv3vUUVKVA"
+    },
+    {
+      "album": {
+        "name": "El Nono Luigi",
+        "url": "https://open.spotify.com/album/1mL7Ec3Cm0FGAmz2hjJdp9"
+      },
+      "artists": [
+        {
+          "name": "Los Nombradores del Alba",
+          "url": "https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX"
+        },
+        {
+          "name": "Facundo Toro",
+          "url": "https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX"
+        },
+        {
+          "name": "Nacho Prado Y Daniel Campos",
+          "url": "https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155077,
+      "name": "El Nono Luigi",
+      "url": "https://open.spotify.com/track/5SfnR3pstQbeNCNeGfUqcB"
     },
     {
       "album": {
@@ -663,6 +729,28 @@
     {
       "album": {
         "name": "Festivalero",
+        "url": "https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        },
+        {
+          "name": "Sergio Galleguillo",
+          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Febrero Es Carnaval",
+      "url": "https://open.spotify.com/track/5sGFvenxnClUZ6cV89v6Gh"
+    },
+    {
+      "album": {
+        "name": "Festivalero",
         "url": "https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K"
       },
       "artists": [
@@ -677,7 +765,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 203844,
       "name": "Febrero Es Carnaval",
       "url": "https://open.spotify.com/track/3P2jmXKi39mCteMPCY8npI"
@@ -771,10 +859,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173627,
       "name": "Juan de la Calle",
       "url": "https://open.spotify.com/track/3DPLr9BavOPisMFAHwsCCJ"
+    },
+    {
+      "album": {
+        "name": "Festivalero",
+        "url": "https://open.spotify.com/album/0A4WmGsLF5CXiQcvpsisBR"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Juan de la Calle",
+      "url": "https://open.spotify.com/track/6jIh1e1KgSF5c7FaK0rmC5"
     },
     {
       "album": {
@@ -855,6 +961,24 @@
     {
       "album": {
         "name": "La Canci\u00f3n de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/6BT25DiCRkOLy3om6fE23O"
+      },
+      "artists": [
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211645,
+      "name": "La Canci\u00f3n de la Alegr\u00eda",
+      "url": "https://open.spotify.com/track/41rWjU20AiwfVN5pmOtn6I"
+    },
+    {
+      "album": {
+        "name": "La Canci\u00f3n de la Alegr\u00eda",
         "url": "https://open.spotify.com/album/6wfZc70VuJqOIdIh67ZwwJ"
       },
       "artists": [
@@ -865,7 +989,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 211645,
       "name": "La Canci\u00f3n de la Alegr\u00eda",
       "url": "https://open.spotify.com/track/4ecpwcIuLSrnon9Te6aMxf"
@@ -999,6 +1123,28 @@
     {
       "album": {
         "name": "La Sembradora",
+        "url": "https://open.spotify.com/album/6sTrPx3XKKRgSb1aWCvw6c"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Asis",
+          "url": "https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs"
+        },
+        {
+          "name": "Facundo Toro",
+          "url": "https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179362,
+      "name": "La Sembradora",
+      "url": "https://open.spotify.com/track/0XyqBaoT1pjHNAFbNYpM2D"
+    },
+    {
+      "album": {
+        "name": "La Sembradora",
         "url": "https://open.spotify.com/album/3twy4ow92Rj6tityaqKszB"
       },
       "artists": [
@@ -1013,7 +1159,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 179362,
       "name": "La Sembradora",
       "url": "https://open.spotify.com/track/51XaWigPTFlriXvHJ4w6nN"
@@ -1047,7 +1193,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184080,
       "name": "La Solis Pizarro",
       "url": "https://open.spotify.com/track/5zoqKvQ83lGJHqR8fgTaMp"
@@ -1065,10 +1211,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 704048,
       "name": "La Tristecita / Zamba del Pa\u00f1uelo / Zamba del Carbonero / Guitarra de Medianoche / Zamba del Carpintero / Recuerdo Salte\u00f1o / Tonada del Viejo Amor / Mi Burrito Cordob\u00e9s",
       "url": "https://open.spotify.com/track/0FnxmC5vhA5ZbwUDp31rPS"
+    },
+    {
+      "album": {
+        "name": "La Tristecita / Zamba del Pa\u00f1uelo / Zamba del Carbonero / Guitarra de Medianoche / Zamba del Carpintero / Recuerdo Salte\u00f1o / Tonada del Viejo Amor / Mi Burrito Cordob\u00e9s",
+        "url": "https://open.spotify.com/album/2kSnnv4jAQzXiTEYd9zAFf"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704048,
+      "name": "La Tristecita / Zamba del Pa\u00f1uelo / Zamba del Carbonero / Guitarra de Medianoche / Zamba del Carpintero / Recuerdo Salte\u00f1o / Tonada del Viejo Amor / Mi Burrito Cordob\u00e9s",
+      "url": "https://open.spotify.com/track/1SVWvmZqujJv3P3gZiAstV"
     },
     {
       "album": {
@@ -1239,6 +1403,32 @@
     {
       "album": {
         "name": "Mi Lunita Cordobesa",
+        "url": "https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U"
+      },
+      "artists": [
+        {
+          "name": "Los Nombradores del Alba",
+          "url": "https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX"
+        },
+        {
+          "name": "Facundo Toro",
+          "url": "https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX"
+        },
+        {
+          "name": "Nacho Prado Y Daniel Campos",
+          "url": "https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149016,
+      "name": "Mi Lunita Cordobesa",
+      "url": "https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo"
+    },
+    {
+      "album": {
+        "name": "Mi Lunita Cordobesa",
         "url": "https://open.spotify.com/album/4u0P9UEKJZzvU9bULx7LM0"
       },
       "artists": [
@@ -1257,7 +1447,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 149016,
       "name": "Mi Lunita Cordobesa",
       "url": "https://open.spotify.com/track/3qsDt6tpHNSWf7CsFCaOvm"
@@ -1351,7 +1541,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 240560,
       "name": "No Te Vayas Carnaval",
       "url": "https://open.spotify.com/track/4P1iwTp5ZqynYoV4X1GQx4"
@@ -1395,6 +1585,24 @@
     {
       "album": {
         "name": "Reevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Peregrinos",
+      "url": "https://open.spotify.com/track/2w1rq3ysjtTcdavtECYLxE"
+    },
+    {
+      "album": {
+        "name": "Reevoluci\u00f3n",
         "url": "https://open.spotify.com/album/6mh57IdIEVmRX7YWnG83pO"
       },
       "artists": [
@@ -1405,7 +1613,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 182466,
       "name": "Peregrinos",
       "url": "https://open.spotify.com/track/6zkFyFTX1jVxrd8s1cpa9A"
@@ -1553,10 +1761,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 184432,
       "name": "Siempre Chaque\u00f1o Ser\u00e9",
       "url": "https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g"
+    },
+    {
+      "album": {
+        "name": "Siempre Chaque\u00f1o Ser\u00e9",
+        "url": "https://open.spotify.com/album/3RcFgjx90b78YbtXLHYeV6"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184432,
+      "name": "Siempre Chaque\u00f1o Ser\u00e9",
+      "url": "https://open.spotify.com/track/5wCIhh0ieeby8Atimn1Nkn"
     },
     {
       "album": {
@@ -1589,10 +1815,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 307026,
       "name": "Singani Congani",
       "url": "https://open.spotify.com/track/0CK0TsK2jCFxKroamAJxR5"
+    },
+    {
+      "album": {
+        "name": "El Derecho de Vivir en Paz, Vol. 2",
+        "url": "https://open.spotify.com/album/24sX3nI5YRu2KkS9XIkLBI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Arias",
+          "url": "https://open.spotify.com/artist/59OheJsvimLlXWvuL9j7Df"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307026,
+      "name": "Singani Congani",
+      "url": "https://open.spotify.com/track/5yJXLxQ5opZoU0T8WpwBq3"
     },
     {
       "album": {
@@ -1734,6 +1978,24 @@
     },
     {
       "album": {
+        "name": "Todos a bailar",
+        "url": "https://open.spotify.com/album/2fQyZxI828ZzSf5N0tOe9v"
+      },
+      "artists": [
+        {
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140243,
+      "name": "Todos a bailar",
+      "url": "https://open.spotify.com/track/5Y5mSH2yYRK8f0jlyP03Kq"
+    },
+    {
+      "album": {
         "name": "Todos a bailar (Feat. Los Carabajal & Leandro Lovato)",
         "url": "https://open.spotify.com/album/3Hn9aFx7d6Gon6TPDNvKXa"
       },
@@ -1749,7 +2011,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 140243,
       "name": "Todos a bailar - Feat. Los Carabajal & Leandro Lovato",
       "url": "https://open.spotify.com/track/50GrKcRst0KzdkUeO08r34"
@@ -1789,10 +2051,50 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 216949,
       "name": "Un Beso Tuyo",
       "url": "https://open.spotify.com/track/319Gag1zq0amHN4APzdts7"
+    },
+    {
+      "album": {
+        "name": "Rabia al Silencio",
+        "url": "https://open.spotify.com/album/2JBv39NYe8qK8dzjFLhBSJ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3ndor Sbarbati",
+          "url": "https://open.spotify.com/artist/6MR2IdgCSFxDvRvD0SNDZz"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216949,
+      "name": "Un Beso Tuyo",
+      "url": "https://open.spotify.com/track/55ErfHRkSZOpMbY4pTj0wV"
+    },
+    {
+      "album": {
+        "name": "Reevoluci\u00f3n",
+        "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Una Flor y una Cruz",
+      "url": "https://open.spotify.com/track/0DSenAmygCKDdMelU6mZsz"
     },
     {
       "album": {
@@ -1807,7 +2109,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 193533,
       "name": "Una Flor y una Cruz",
       "url": "https://open.spotify.com/track/1rICbblyhrPDlwmCDyELrd"
@@ -1869,6 +2171,24 @@
     {
       "album": {
         "name": "Viaje",
+        "url": "https://open.spotify.com/album/3GVVx7A9HewidYwsqs518a"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174888,
+      "name": "Viaje",
+      "url": "https://open.spotify.com/track/1sx0wAmnvniAus4EJzIN5g"
+    },
+    {
+      "album": {
+        "name": "Viaje",
         "url": "https://open.spotify.com/album/2sfFfPFl3UsWwThTi3fcnu"
       },
       "artists": [
@@ -1879,10 +2199,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 174888,
       "name": "Viaje",
       "url": "https://open.spotify.com/track/4UjDVvkhkQ8QtC5BtfWQvr"
+    },
+    {
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/3fFfsF1BIYQ5h8BSSqFpaF"
+      },
+      "artists": [
+        {
+          "name": "Sergio Galleguillo",
+          "url": "https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297598,
+      "name": "Volver a Tilcara",
+      "url": "https://open.spotify.com/track/16geadYN33K4xS9tRG19Aq"
     },
     {
       "album": {
@@ -1897,7 +2235,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 297598,
       "name": "Volver a Tilcara",
       "url": "https://open.spotify.com/track/1Ab4W9QwZf30bFMsiH3RpM"

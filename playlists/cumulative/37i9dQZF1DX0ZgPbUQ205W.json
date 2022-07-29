@@ -9,6 +9,24 @@
     {
       "album": {
         "name": "Mette Henriette",
+        "url": "https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": ".oOo.",
+      "url": "https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k"
+    },
+    {
+      "album": {
+        "name": "Mette Henriette",
         "url": "https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT"
       },
       "artists": [
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 227066,
       "name": ".oOo.",
       "url": "https://open.spotify.com/track/7vrUHvt40IKya566MZIQol"
@@ -45,7 +63,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 298293,
       "name": "22",
       "url": "https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE"
@@ -75,6 +93,32 @@
       "duration_ms": 298440,
       "name": "22 - Var.",
       "url": "https://open.spotify.com/track/4kYbo2VRkqIwF9joXPDAuH"
+    },
+    {
+      "album": {
+        "name": "Silence Trio 3",
+        "url": "https://open.spotify.com/album/3wiQ4CkjCsvuGgZk6ULxfb"
+      },
+      "artists": [
+        {
+          "name": "Jakob Davidsen",
+          "url": "https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8"
+        },
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        },
+        {
+          "name": "Jesper Egelund",
+          "url": "https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303080,
+      "name": "8-Dust Motes Dancing In The Sunbeams (Hammersh\u00f8i)",
+      "url": "https://open.spotify.com/track/64Pqln5ASlvOLzlGGQ9Iz6"
     },
     {
       "album": {
@@ -143,7 +187,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 373573,
       "name": "AG76",
       "url": "https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR"
@@ -223,7 +267,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 183426,
       "name": "Amarinthine",
       "url": "https://open.spotify.com/track/31c6uaIRRejku8CXA4ms92"
@@ -426,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252773,
+      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
+      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
         "url": "https://open.spotify.com/album/6M21ytCR5Bld1vicN8JvQc"
       },
@@ -437,7 +499,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 252773,
       "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
       "url": "https://open.spotify.com/track/75MUAXmFXalRbe44eYPzfG"
@@ -463,7 +525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 412986,
       "name": "Carol",
       "url": "https://open.spotify.com/track/0TVIaWi5j7Tk1mgcEfrRlH"
@@ -579,7 +641,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275066,
       "name": "Dans mon pays",
       "url": "https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9"
@@ -667,7 +729,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 303080,
       "name": "Dust Motes Dancing In The Sunbeams (Hammersh\u00f8i)",
       "url": "https://open.spotify.com/track/1lIXjtM3QvNgF7nmG8rSG4"
@@ -685,10 +747,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 310200,
       "name": "D\u00e9j\u00e0 La Nuit",
       "url": "https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd"
+    },
+    {
+      "album": {
+        "name": "Le pas du chat noir",
+        "url": "https://open.spotify.com/album/1Vi1fmvatCuzuASdvUGTuf"
+      },
+      "artists": [
+        {
+          "name": "Anouar Brahem",
+          "url": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310200,
+      "name": "D\u00e9j\u00e0 la nuit",
+      "url": "https://open.spotify.com/track/73ZGYEqVdoHVd1F4mXok8S"
     },
     {
       "album": {
@@ -776,6 +856,24 @@
     },
     {
       "album": {
+        "name": "His Name Is John",
+        "url": "https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN"
+      },
+      "artists": [
+        {
+          "name": "Tomas Raae",
+          "url": "https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547803,
+      "name": "Fear Not, Zechariah",
+      "url": "https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0"
+    },
+    {
+      "album": {
         "name": "Fear Not, Zechariah",
         "url": "https://open.spotify.com/album/64vGhTLHLsKKhSEx8tfwlL"
       },
@@ -795,7 +893,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 547803,
       "name": "Fear Not, Zechariah",
       "url": "https://open.spotify.com/track/2KXJiwIG1GO9tWrcbtmUbK"
@@ -927,6 +1025,24 @@
     {
       "album": {
         "name": "Jacob Karlzon Trio: Today",
+        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp"
+    },
+    {
+      "album": {
+        "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA"
       },
       "artists": [
@@ -937,7 +1053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204773,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3bIW46Go72C43usLCm2ADr"
@@ -991,10 +1107,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192341,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0AMPAQDveqkaf1yfKcXPbr"
+    },
+    {
+      "album": {
+        "name": "Natten",
+        "url": "https://open.spotify.com/album/5diGvRKDzIcb79QbSrVr2J"
+      },
+      "artists": [
+        {
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192341,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/1lJ0ZAKzcuM8AGkpHk5q0p"
     },
     {
       "album": {
@@ -1266,6 +1400,24 @@
     },
     {
       "album": {
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "album": {
         "name": "It's Beginning to Rain Again",
         "url": "https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N"
       },
@@ -1277,7 +1429,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf"
@@ -1329,6 +1481,24 @@
     {
       "album": {
         "name": "A Long Story",
+        "url": "https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H"
+      },
+      "artists": [
+        {
+          "name": "Anat Fort",
+          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134360,
+      "name": "Just Now, Var. III",
+      "url": "https://open.spotify.com/track/2Tox3k9eKRDg0tcsvVIs1a"
+    },
+    {
+      "album": {
+        "name": "A Long Story",
         "url": "https://open.spotify.com/album/5ox7Q1cWqEiv8OHI2rP44T"
       },
       "artists": [
@@ -1339,7 +1509,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 134360,
       "name": "Just Now, Var. III",
       "url": "https://open.spotify.com/track/5rkbRJ922Kd9ECEmck7FAZ"
@@ -1507,6 +1677,32 @@
     {
       "album": {
         "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+      },
+      "artists": [
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Lyskaster",
+      "url": "https://open.spotify.com/track/3Ex9d18dywAHyaRvq3hWK3"
+    },
+    {
+      "album": {
+        "name": "Gefion",
         "url": "https://open.spotify.com/album/4bCL8xtITM6drTzu1WNZN4"
       },
       "artists": [
@@ -1525,7 +1721,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 254773,
       "name": "Lyskaster",
       "url": "https://open.spotify.com/track/4oLF2w04mPazWAkHt8PPaD"
@@ -1587,7 +1783,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 258773,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3C39yMMp5FZC7Dvk10KFrA"
@@ -1762,6 +1958,24 @@
     },
     {
       "album": {
+        "name": "Watercolors",
+        "url": "https://open.spotify.com/album/0zlSV683pRVrcTmtyQ8IZ9"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5id8E9yAsSjcuSyCqTQEXp"
+    },
+    {
+      "album": {
         "name": "Selected Recordings",
         "url": "https://open.spotify.com/album/6xXj1VXURnV5OAtOwAWDdD"
       },
@@ -1773,7 +1987,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 242986,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5N6tm37Qh5mO78e86ZWRHH"
@@ -1813,7 +2027,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 306213,
       "name": "Origin Of Species",
       "url": "https://open.spotify.com/track/1HywDfnuO3zXm7vNcCKxvX"
@@ -1839,7 +2053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-21",
+      "date_removed": null,
       "duration_ms": 208293,
       "name": "Osmosis Part I",
       "url": "https://open.spotify.com/track/3LVDBYPP9jFUg2daGEZ3ZB"
@@ -1927,6 +2141,28 @@
     {
       "album": {
         "name": "Poetry",
+        "url": "https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd"
+      },
+      "artists": [
+        {
+          "name": "Adam Baldych",
+          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/3o4gJffzc5xbKggjuMZTQY"
+    },
+    {
+      "album": {
+        "name": "Poetry",
         "url": "https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY"
       },
       "artists": [
@@ -1941,7 +2177,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232053,
       "name": "Poetry",
       "url": "https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy"
@@ -1989,10 +2225,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 371266,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg"
+    },
+    {
+      "album": {
+        "name": "Provenance",
+        "url": "https://open.spotify.com/album/4GUldwVIDwkiaTX4jJxNnf"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rn Meyer",
+          "url": "https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371266,
+      "name": "Provenance",
+      "url": "https://open.spotify.com/track/5d4K958gElIpnX53Olbgvu"
     },
     {
       "album": {
@@ -2201,7 +2455,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 420493,
       "name": "Seak Fruits",
       "url": "https://open.spotify.com/track/2l9J8shXr61aKfZPd9dLm9"
@@ -2385,7 +2639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 213066,
       "name": "Skulde Jeg Min Gud Ei Prise",
       "url": "https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi"
@@ -2461,7 +2715,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 496693,
       "name": "Song Of Yearning",
       "url": "https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR"
@@ -2731,10 +2985,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 155000,
       "name": "The Endless Grace",
       "url": "https://open.spotify.com/track/5ORB0k2kxwmVoe585bOnVY"
+    },
+    {
+      "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "The Endless Grace",
+      "url": "https://open.spotify.com/track/7K3SQ3ec3Wuh9g23mlUja4"
     },
     {
       "album": {
@@ -3015,10 +3287,40 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 412080,
       "name": "Traces I",
       "url": "https://open.spotify.com/track/1aUAEjPEyazQvsGlw9dEZt"
+    },
+    {
+      "album": {
+        "name": "Atmosph\u00e8res",
+        "url": "https://open.spotify.com/album/6bWRFvvfLzVFw7vZZHMHaK"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412080,
+      "name": "Traces I",
+      "url": "https://open.spotify.com/track/7M4XMWNi9ud4skdKeldTHM"
     },
     {
       "album": {
@@ -3033,7 +3335,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 124626,
       "name": "Two Poets",
       "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
@@ -3095,10 +3397,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163946,
       "name": "Velvet Gloves & Spit",
       "url": "https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf"
+    },
+    {
+      "album": {
+        "name": "Mondenkind",
+        "url": "https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Wollny",
+          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163946,
+      "name": "Velvet Gloves & Spit",
+      "url": "https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC"
     },
     {
       "album": {

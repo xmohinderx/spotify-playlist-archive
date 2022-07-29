@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm and soothing soundtrack to your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,516 likes - 211 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,519 likes - 211 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,7 +217,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 207 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 |
 | 208 | [Seeking The Autumn Wind](https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE) | [Brian Busch](https://open.spotify.com/artist/6aRyxVvym2hAGccdLKcUB1) | [Brief Respite](https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6) | 2:59 |
 | 209 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 |
-| 210 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 |
+| 210 | [New Chapter](https://open.spotify.com/track/0PoJrtrLvVaoT6A9WnvEjx) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/6KxPhx5LU7ybLt3Hd1b4o8) | 2:29 |
 | 211 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 |
 
-Snapshot ID: `MTY1NzU2Mzk1MSwwMDAwMDA2OTAwMDAwMTgxZWU4MmIxNmEwMDAwMDE4MWQ4YzM4NmY0`
+Snapshot ID: `MTY1OTAxNjg2MSwwMDAwMDAwMGQxY2QxNGY5YmJlNGY0MTc5ZGY1MzA5ZDM3ZjMxNDU2`

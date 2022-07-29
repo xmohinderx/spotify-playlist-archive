@@ -733,10 +733,32 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 232549,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/2SmgFAhQkQCQPyBiBxR6Te"
+    },
+    {
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "album": {
@@ -1783,7 +1805,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 352093,
       "name": "LEYENDAS",
       "url": "https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp"
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Mayores",
       "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
@@ -2059,6 +2081,28 @@
       "duration_ms": 172561,
       "name": "MENTIRA",
       "url": "https://open.spotify.com/track/1Pu4cnq4smdcFpDkYNfAPM"
+    },
+    {
+      "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
     },
     {
       "album": {
@@ -2207,7 +2251,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-19",
+      "date_removed": null,
       "duration_ms": 236215,
       "name": "NI BIEN NI MAL",
       "url": "https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8"
@@ -2969,7 +3013,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197967,
       "name": "Solo de Mi",
       "url": "https://open.spotify.com/track/5YOkA7qd2983FtBQnP8sYx"
@@ -3017,7 +3061,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 163053,
       "name": "SORRY PAPI",
       "url": "https://open.spotify.com/track/5jZ32WOU7sqzDYbzINwMUk"

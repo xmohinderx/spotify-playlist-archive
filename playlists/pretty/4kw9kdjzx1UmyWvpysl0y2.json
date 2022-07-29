@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128500,
+  "num_followers": 128514,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU0MixhN2E3OGFlMjEwNmM0OWJkNzA1NmE4OGFiMWVmYjg2ZTY2NjBhNWFk",
+  "snapshot_id": "MzU0NCw0MWMxMmYyNjlkZTQ1MDJhZWFlNTI2MDQ2MWQzMmEzNTNkODg0MzYw",
   "tracks": [
+    {
+      "added_at": "2022-07-28 16:57:26",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
     {
       "added_at": "2022-07-27 17:01:05",
       "album": {
@@ -1103,26 +1119,6 @@
       "duration_ms": 221028,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
-    },
-    {
-      "added_at": "2022-05-18 16:40:32",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI"
-      },
-      "artists": [
-        {
-          "name": "Bound to Divide",
-          "url": "https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "When The Sun Goes Down",
-      "url": "https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

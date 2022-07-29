@@ -1135,10 +1135,32 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 230026,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+    },
+    {
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nm6u7mp61RmClng9Okg1t"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Pa Ti (For You)",
+      "url": "https://open.spotify.com/track/5AL7osnKigcHhRpMlK20c8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Livio Cori",
+  "description": "Il meglio dell'R&B italiano. Cover: AIN\u00c9, Ethan",
   "name": "anima R&B",
   "published_playlist_ids": [
     "6baLMOVUAzKiyXO33cGiRz"
@@ -19,10 +19,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 178032,
       "name": "2000 \u20ac",
       "url": "https://open.spotify.com/track/3zvESN9KJ7FSHuzEP14FCM"
+    },
+    {
+      "album": {
+        "name": "Leggera",
+        "url": "https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "2000 \u20ac",
+      "url": "https://open.spotify.com/track/4M7xe51VhlPIjmsBnTuHvz"
     },
     {
       "album": {
@@ -59,7 +77,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 226285,
       "name": "Alice",
       "url": "https://open.spotify.com/track/5zQZLyhTWu7sOWni4HrFrJ"
@@ -266,6 +284,24 @@
     },
     {
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb"
+      },
+      "artists": [
+        {
+          "name": "Joana",
+          "url": "https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm"
+    },
+    {
+      "album": {
         "name": "Catena",
         "url": "https://open.spotify.com/album/6483X446suoGQDcMIATLTI"
       },
@@ -295,7 +331,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 136027,
       "name": "CD",
       "url": "https://open.spotify.com/track/0aIlrqoiw0VEJ3sI5niW57"
@@ -403,7 +439,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 133609,
       "name": "Come fai",
       "url": "https://open.spotify.com/track/6EZ6ay901NLycnIWyMCEni"
@@ -487,7 +523,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158000,
       "name": "Come sta il gatto",
       "url": "https://open.spotify.com/track/6VZFonwEjQz2bH05rJXb8x"
@@ -625,7 +661,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168000,
       "name": "DARK DRAGONITE (feat. Missey)",
       "url": "https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9"
@@ -817,7 +853,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 257153,
       "name": "Easy Girl",
       "url": "https://open.spotify.com/track/7dAcl4BwYFs1wetMYhUHw3"
@@ -889,7 +925,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 165000,
       "name": "Felpa",
       "url": "https://open.spotify.com/track/6u4G4dVFHQCwWOWs822Puk"
@@ -955,7 +991,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 187800,
       "name": "Fior di glicine",
       "url": "https://open.spotify.com/track/3XdumBkBt85bdQTMGEdbEn"
@@ -1101,7 +1137,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 176666,
       "name": "Hot Thing",
       "url": "https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp"
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 205751,
       "name": "Ion",
       "url": "https://open.spotify.com/track/1YmNkL6FHnO8GgpN2HqWaS"
@@ -1312,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Kuni",
+        "url": "https://open.spotify.com/album/40dfgXsb0aemwlP10pfGCx"
+      },
+      "artists": [
+        {
+          "name": "LNDFK",
+          "url": "https://open.spotify.com/artist/2PyFLSnE2J670nBHdmwil4"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275095,
+      "name": "Ku",
+      "url": "https://open.spotify.com/track/35Lf2OYrSXe4Dquhd87Djh"
+    },
+    {
+      "album": {
         "name": "Ku",
         "url": "https://open.spotify.com/album/4nGcz59HrKCQHjvJVrkwaH"
       },
@@ -1323,7 +1377,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 275095,
       "name": "Ku",
       "url": "https://open.spotify.com/track/40I9VS4TKqDHjd4wyFHw2Y"
@@ -1381,7 +1435,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 204512,
       "name": "La Ruota",
       "url": "https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e"
@@ -1439,7 +1493,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 166109,
       "name": "Lacrime dolci",
       "url": "https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf"
@@ -1515,7 +1569,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 161124,
       "name": "Lo Sguardo Degli Angeli",
       "url": "https://open.spotify.com/track/1wql7SfwYxxTpjTIUtL63K"
@@ -1725,7 +1779,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 183000,
       "name": "non ci sta",
       "url": "https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu"
@@ -1747,7 +1801,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 173333,
       "name": "NON HO VOGLIA DI BERE",
       "url": "https://open.spotify.com/track/36b3q6725OsbEUGZKCrSLW"
@@ -1870,6 +1924,28 @@
     },
     {
       "album": {
+        "name": "Ormai (feat. Nico Kyni)",
+        "url": "https://open.spotify.com/album/6Lt0209HACUMQr5WQcBLdd"
+      },
+      "artists": [
+        {
+          "name": "Esa Abrate",
+          "url": "https://open.spotify.com/artist/3NgxOxH2jpNzkyOOU5W2hD"
+        },
+        {
+          "name": "Nico Kyni",
+          "url": "https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123488,
+      "name": "Ormai (feat. Nico Kyni)",
+      "url": "https://open.spotify.com/track/46w5z88efX5KqYt6C8JfVN"
+    },
+    {
+      "album": {
         "name": "Ossessione",
         "url": "https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy"
       },
@@ -1921,7 +1997,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 199314,
       "name": "Pas pour toi",
       "url": "https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK"
@@ -2299,7 +2375,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 202800,
       "name": "Sei Diventata",
       "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
@@ -2335,7 +2411,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 158278,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/0V7oH1zg5Rmevnv2hx1v0n"
@@ -2617,7 +2693,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 168000,
       "name": "tu sonrisa de dise\u00f1o",
       "url": "https://open.spotify.com/track/53FfBBPlNbJS170DxtuSWS"
@@ -2711,7 +2787,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 197000,
       "name": "Ultimo Giro",
       "url": "https://open.spotify.com/track/4tOx6QdfZipbqLZhSREDxG"
@@ -2809,7 +2885,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 192000,
       "name": "Vieni con me",
       "url": "https://open.spotify.com/track/7yAJfH5ZGi6FYYNVFoRif8"
@@ -2827,7 +2903,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-29",
       "duration_ms": 157277,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/53KrUxwMNVHjLILF1jyAfn"
