@@ -485,7 +485,7 @@
       ],
       "date_added": "2019-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
@@ -2001,6 +2001,24 @@
       "duration_ms": 206280,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/51NZfUU4YNCc2MZ7tVdjyc"
+    },
+    {
+      "album": {
+        "name": "Hundred More Years",
+        "url": "https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "This Is the Stuff",
+      "url": "https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO"
     },
     {
       "album": {

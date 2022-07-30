@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: Megan Moroney, Artwork: Fanélie Muselier
 
-714 songs - 1 day 15 hr 4 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
+715 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/6mwEcxK6QfboeMswgDS0cE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Babies](https://open.spotify.com/track/045vMbY2pAsHzjFLqHcadn) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Babies](https://open.spotify.com/album/5NGiKgJuCfMAvKvEwgOnTn) | 2:59 | 2022-06-29 | 2022-07-28 |
 | [Baby Don't](https://open.spotify.com/track/3Hg8eLhVm5C1RVd8nYCSfK) | [Paige King Johnson](https://open.spotify.com/artist/4SWzLGvdcyhsjJ2x2S9pSU) | [Baby Don't](https://open.spotify.com/album/263p8Ev3yTVjecDb6C34Vt) | 3:08 | 2022-01-12 | 2022-02-24 |
 | [Baby I Am](https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Baby I Am](https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo) | 2:56 | 2022-01-12 | 2022-02-17 |
+| [Baby, Don't Lie](https://open.spotify.com/track/62vdrrDjIY7Kl6cqC5MNzF) | [The Beasley Brothers](https://open.spotify.com/artist/6Rke7NJJl79BUDgmevKnN5) | [Baby, Don't Lie](https://open.spotify.com/album/2PcA5YoFdx4KucoKZvywaK) | 3:15 | 2022-07-29 |  |
 | [Back](https://open.spotify.com/track/5Q9sWWxvKdUF2QCwZFpqdl) | [Taylor O'connor](https://open.spotify.com/artist/7LNDemvuWwHv4u6jtP3u6k) | [Back](https://open.spotify.com/album/0k0HRDWaOem0eKiAjyMGiM) | 3:20 | 2022-07-20 |  |
 | [Back Before I Knew Ya](https://open.spotify.com/track/7lhM1hSqVmubRXa5w6vdmW) | [Jeremy McComb](https://open.spotify.com/artist/6HEo4zLRyevlX8TikDTH1Q), [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Back Before I Knew Ya](https://open.spotify.com/album/3J0rwXA3icaHntu9aK7UgE) | 2:42 | 2022-06-29 | 2022-07-28 |
 | [Back Pocket](https://open.spotify.com/track/5yhMg5q2OOZvrQQvZJSmL1) | [J.Antonette](https://open.spotify.com/artist/5TSuYlF2Nq7kAiSQ8Qe20G) | [Back Pocket](https://open.spotify.com/album/2XH1axx4MpFo3o1beaFH8v) | 3:05 | 2022-03-16 | 2022-04-27 |

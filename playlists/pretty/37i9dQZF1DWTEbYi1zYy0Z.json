@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35328,
+  "num_followers": 35330,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDk0NjJhNzc1YTAzY2Q2YTE1YWQ2ODkwOTA3NmMxNGRl",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDM2ZTYwOWU0YTU3NjNmZjdjNjE5Y2VlOTgzOWIwNWJm",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -145,6 +145,22 @@
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
+      },
+      "artists": [
+        {
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "A Song for Peace",
@@ -163,22 +179,6 @@
       "duration_ms": 273515,
       "name": "A Song for Peace",
       "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -245,22 +245,6 @@
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Another Day In Paradise",
-        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 275680,
-      "name": "Another Day In Paradise",
-      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Workin'",
@@ -275,6 +259,22 @@
       "duration_ms": 246024,
       "name": "Workin'",
       "url": "https://open.spotify.com/track/73PMlacQVhln12IqZi16ep"
+    },
+    {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Another Day In Paradise",
+        "url": "https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Another Day In Paradise",
+      "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
-    },
-    {
       "added_at": "2022-05-20 04:02:00",
       "album": {
         "name": "Good On You",
@@ -363,6 +347,22 @@
       "duration_ms": 251432,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Honest",
@@ -501,22 +485,6 @@
       "url": "https://open.spotify.com/track/2M1SQBEbGRpO16JmwWfD7d"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Make Up Your Mind (Radio Edit)",
-        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
-      },
-      "artists": [
-        {
-          "name": "Dee Brown",
-          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Make Up Your Mind - Radio Edit",
-      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Straight to the Point",
@@ -535,6 +503,22 @@
     {
       "added_at": "2021-10-01 04:02:00",
       "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
         "name": "Feel Like Making Love / Night Crawler",
         "url": "https://open.spotify.com/album/3prD0xRzK9E4AGjtjC0gNU"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 556466,
       "name": "Feel Like Making Love / Night Crawler",
       "url": "https://open.spotify.com/track/1gqPg9GEtilsmtewS1fqTB"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Make Up Your Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC"
+      },
+      "artists": [
+        {
+          "name": "Dee Brown",
+          "url": "https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Make Up Your Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu"
     },
     {
       "added_at": "2022-02-18 05:02:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Bridges (Radio Edit)",
@@ -695,6 +679,22 @@
       "duration_ms": 245000,
       "name": "Bridges - Radio Edit",
       "url": "https://open.spotify.com/track/1p3bQPaUzLAISJvj9I28QU"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2021-10-15 04:01:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
     },
     {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Feet First",
+        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Feet First",
+      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "A to Z",
@@ -881,20 +897,20 @@
       "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
     },
     {
-      "added_at": "2022-01-14 05:01:00",
+      "added_at": "2022-03-04 05:01:00",
       "album": {
-        "name": "Feet First",
-        "url": "https://open.spotify.com/album/7wPrYwfDcF2vPw429fnuC0"
+        "name": "Driving All Night",
+        "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
         }
       ],
-      "duration_ms": 240906,
-      "name": "Feet First",
-      "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
+      "duration_ms": 210714,
+      "name": "Driving All Night",
+      "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
       "added_at": "2021-07-12 13:18:29",
@@ -911,22 +927,6 @@
       "duration_ms": 263646,
       "name": "Open Portals",
       "url": "https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM"
-    },
-    {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Driving All Night",
-        "url": "https://open.spotify.com/album/19kgqKAGo9ELEpX9hw3hBz"
-      },
-      "artists": [
-        {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
-        }
-      ],
-      "duration_ms": 210714,
-      "name": "Driving All Night",
-      "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
       "added_at": "2022-01-28 05:02:00",
@@ -1037,20 +1037,24 @@
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
+      "added_at": "2022-01-21 05:02:00",
       "album": {
-        "name": "Early Sunrise",
-        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
+        "name": "SHINE!",
+        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
       },
       "artists": [
         {
-          "name": "Igor Gerzina",
-          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Early Sunrise",
-      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
+      "duration_ms": 261640,
+      "name": "SHINE!",
+      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1077,24 +1081,20 @@
       "url": "https://open.spotify.com/track/108rbeIEFrj81JWNXXWsX4"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2021-06-25 04:02:00",
       "album": {
-        "name": "SHINE!",
-        "url": "https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt"
+        "name": "Early Sunrise",
+        "url": "https://open.spotify.com/album/3pqWeJefX6sZrmjbo3bfCp"
       },
       "artists": [
         {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Igor Gerzina",
+          "url": "https://open.spotify.com/artist/13OiSfq8TINbHcI9X1BLAW"
         }
       ],
-      "duration_ms": 261640,
-      "name": "SHINE!",
-      "url": "https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU"
+      "duration_ms": 200000,
+      "name": "Early Sunrise",
+      "url": "https://open.spotify.com/track/4ZNXj5RoCXuczRCth4t0DT"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -1337,26 +1337,6 @@
       "url": "https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP"
     },
     {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Into The Unknown",
-        "url": "https://open.spotify.com/album/6Chew4hceGgqtGA0ZgIaUd"
-      },
-      "artists": [
-        {
-          "name": "The Groove Project",
-          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
-        },
-        {
-          "name": "Jordan Rudess",
-          "url": "https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Into The Unknown",
-      "url": "https://open.spotify.com/track/7DSszcelqBH9ckmSaHLQ2c"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Business As Usual",
@@ -1387,6 +1367,26 @@
       "duration_ms": 231285,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5"
+    },
+    {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Into The Unknown",
+        "url": "https://open.spotify.com/album/6Chew4hceGgqtGA0ZgIaUd"
+      },
+      "artists": [
+        {
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Jordan Rudess",
+          "url": "https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Into The Unknown",
+      "url": "https://open.spotify.com/track/7DSszcelqBH9ckmSaHLQ2c"
     },
     {
       "added_at": "2021-06-18 04:01:00",

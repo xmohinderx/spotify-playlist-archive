@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVppRat1VNcX.md) - [plain]
 
 > Get all your kids' amigos together and play while listening to these awesome tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 555 likes - 49 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 556 likes - 49 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

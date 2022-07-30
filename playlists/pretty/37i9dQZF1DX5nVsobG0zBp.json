@@ -1,29 +1,13 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 28126,
+  "num_followers": 28188,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMDhjMjQxODEwNzdlM2ExYjQ0YzQyOTM1MDZkNDU1MjYw",
+  "snapshot_id": "MTY1NzAxMDEyOSwwMDAwMDAwMDQxOGFjYjlhOGIwMzc3YWE0NTcwZmQ4YWZlY2FiOGVi",
   "tracks": [
-    {
-      "added_at": "2022-07-05 08:35:29",
-      "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
-    },
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 180340,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
+    },
+    {
+      "added_at": "2022-07-05 08:35:29",
+      "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "Mi\u00fada",
-        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
+        "name": "La Bella Mafia",
+        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
       },
       "artists": [
         {
-          "name": "Holly Hood",
-          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 168133,
-      "name": "Mi\u00fada",
-      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
     },
     {
       "added_at": "2022-07-05 08:35:29",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-07-05 08:35:29",
       "album": {
-        "name": "La Bella Mafia",
-        "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
+        "name": "Mi\u00fada",
+        "url": "https://open.spotify.com/album/2v9VGSs5HQpvLRP37avwtr"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Holly Hood",
+          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
         }
       ],
-      "duration_ms": 240594,
-      "name": "La Bella Mafia",
-      "url": "https://open.spotify.com/track/3UZUEIxIO8diPNOVusvrui"
+      "duration_ms": 168133,
+      "name": "Mi\u00fada",
+      "url": "https://open.spotify.com/track/1DHQcaZMENKPt8KBQgIr25"
     },
     {
       "added_at": "2022-07-05 08:35:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 
 > Riscopri le più grandi hit del 2016! Cover: Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,683 likes - 122 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,685 likes - 122 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 40 | [Stitches](https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:26 |
 | 41 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 |
 | 42 | [Starving](https://open.spotify.com/track/4Ce37cRWvM1vIGGynKcs22) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving](https://open.spotify.com/album/18pR217SWwBjODSRWFBw0I) | 3:01 |
-| 43 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
-| 44 | [In The Night](https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:55 |
+| 43 | [In The Night](https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:55 |
+| 44 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 |
 | 45 | [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 |
 | 46 | [Fast Car](https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:32 |
 | 47 | [Dark Necessities](https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Getaway](https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6) | 5:02 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 75 | [Vorrei ma non posto](https://open.spotify.com/track/3SGYnEhg1vUHVlGnGdS6ed) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [Comunisti col Rolex](https://open.spotify.com/album/3ncDg2ZaoD1hD5NI0L1SXw) | 3:45 |
 | 76 | [Ragazza Magica](https://open.spotify.com/track/6nfeow8q4RsNsLYWZSbiSv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 3:49 |
 | 77 | [Just Hold On](https://open.spotify.com/track/508oFmt92FyICj6pZiWQwC) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
-| 78 | [Comunque andare](https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Vivere a colori](https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG) | 3:38 |
-| 79 | [I Took A Pill In Ibiza](https://open.spotify.com/track/7zzoxJbgjme3366mOp5UnH) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 4:40 |
+| 78 | [I Took A Pill In Ibiza](https://open.spotify.com/track/7zzoxJbgjme3366mOp5UnH) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 4:40 |
+| 79 | [Comunque andare](https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [Vivere a colori](https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG) | 3:38 |
 | 80 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
 | 81 | [Salvador Dalì](https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 4:05 |
 | 82 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/3KuZx7FPNcqXG8YFN5Y0OG) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Faith \(From "Sing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vcfCbzB0B72zI8fF5zBEv) | 2:40 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 | 121 | [Made in Italy](https://open.spotify.com/track/30bC7IMVX1BNoWjqjxVs6I) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Made in Italy](https://open.spotify.com/album/0ZRS84Eob7E3YLEAJ0xpyi) | 4:23 |
 | 122 | [La risposta](https://open.spotify.com/track/26bTvSqSOPEKHD0U5y0k4v) | [Samuel](https://open.spotify.com/artist/0zcmS7osRfOk8EJpwUvQFr) | [Il codice della bellezza](https://open.spotify.com/album/6QylQDwBMRaWcqAPgCUHDq) | 3:21 |
 
-Snapshot ID: `MTYwNDUwMDc0MiwwMDAwMDAwMDhiN2M2M2RkYjAyNGE3Nzc1OGZkYjUwNjYyMmU5ODBi`
+Snapshot ID: `MTYwNDUwMDc0MiwwMDAwMDAwMDc1YjI5NTA4NGVhMjZlZjlhNzdmYzM1MmQ0Mjg3ZTVl`

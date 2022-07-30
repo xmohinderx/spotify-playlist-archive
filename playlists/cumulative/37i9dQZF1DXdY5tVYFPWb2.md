@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-222 songs - 14 hr 42 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+223 songs - 14 hr 46 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Airride](https://open.spotify.com/track/0EacIYze2OP47UWmOBAmVB) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Airride](https://open.spotify.com/album/7MTn4tE9aED70gybfxYMBg) | 3:48 | 2022-05-24 | 2022-07-20 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2022-06-07 |  |
 | [Amber](https://open.spotify.com/track/39KmklB5budgAsuow00krX) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/3WcnLCT0xyymYkCANFHo7Z) | 3:21 | 2022-05-24 | 2022-07-28 |
-| [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-27 |  |
+| [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-27 |  |
+| [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-27 | 2022-07-30 |
 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 | 2022-05-24 |  |
 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 | 2022-05-24 |  |
 | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/track/7fK4beOeMicuDybE4TupFm) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [BLIZZARD \(feat\. ひかり\)](https://open.spotify.com/album/3kCaoPjv4u2Usa6kO7S6vu) | 4:24 | 2022-05-24 | 2022-07-27 |
@@ -49,7 +50,7 @@
 | [error](https://open.spotify.com/track/3uvlV1OsLs1MzJDO7HdI3y) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Bimi](https://open.spotify.com/artist/5iwvrALwQlyajHU3vcwAIf), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [error](https://open.spotify.com/album/5D1RTl6tH5l0ZoiQoztNdx) | 3:13 | 2022-05-24 | 2022-07-06 |
 | [Fall in Love Again](https://open.spotify.com/track/5no4xNiJ6VeLluO7XVal5Z) | [古市コータロー](https://open.spotify.com/artist/5suI35kgzWE87EsoKCzduV) | [Yesterday, Today & Tomorrow](https://open.spotify.com/album/1KSTsnnx8kNyGPASHaMXbV) | 3:45 | 2022-07-19 | 2022-07-21 |
 | [FANTASY](https://open.spotify.com/track/0ODFwt700hdQ8oLqvJYHT6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [swing in the dark](https://open.spotify.com/album/5CTADoSfMQnu66awJEeqgl) | 3:28 | 2022-07-26 | 2022-07-28 |
-| [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 | 2022-07-29 |
+| [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 | 2022-05-24 |  |
 | [feel my hush \- English ver](https://open.spotify.com/track/6qrE61VzlfJMPGbu8xNdo7) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [feel my hush \(English ver.\)](https://open.spotify.com/album/439p5AHGxgLyC8uSH7W0SO) | 3:28 | 2022-06-21 | 2022-06-29 |
 | [FLACTAL](https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Let's Go! DSDC!](https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS) | 3:23 | 2022-05-24 | 2022-06-16 |
 | [Flannel](https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Flannel](https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1) | 3:31 | 2022-07-14 | 2022-07-17 |
@@ -79,7 +80,7 @@
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |
 | [LOUDER](https://open.spotify.com/track/6el3HQiV8Mr0PtKULqjFcl) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [LOUDER](https://open.spotify.com/album/0LMs2Sa0fiAVmNYoQkBgCJ) | 3:55 | 2022-06-07 | 2022-07-24 |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-13 |
-| [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 |  |
+| [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 | 2022-07-30 |
 | [Metro](https://open.spotify.com/track/3mAzDOzooTATJzbPWkDnfN) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Metro](https://open.spotify.com/album/0LSl6mayhRd9fFCjhjiLVo) | 3:37 | 2022-07-05 | 2022-07-08 |
 | [METRO \- XL Middleton Remix](https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [METRO \(XL Middleton Remix\)](https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV) | 3:41 | 2022-07-19 | 2022-07-21 |
 | [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 | 2022-05-24 | 2022-07-17 |

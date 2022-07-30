@@ -1,13 +1,33 @@
 {
   "description": "The essential tracks by the Dutch <a href=\"spotify:artist:60d24wfXkVzDSfLS6hyCjZ\">DJ and producer</a>.",
-  "num_followers": 861218,
+  "num_followers": 861347,
   "original_name": "This Is Martin Garrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDRmMmRhZjUwNWI2YzQ3MjZlYjQ1ODRjYjk4ODNlN2M5",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGI0YmMxMmZmMDQwYmI0NzhhM2QyMDA3N2VkYTZkMDNi",
   "tracks": [
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
+    },
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {

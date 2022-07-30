@@ -3494,6 +3494,28 @@
     },
     {
       "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2to3l5blV24S95syzQg5Th"
+      },
+      "artists": [
+        {
+          "name": "Leo Bash",
+          "url": "https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151076,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS"
+    },
+    {
+      "album": {
         "name": "Susurro Riddim",
         "url": "https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z"
       },
@@ -3743,6 +3765,24 @@
       "duration_ms": 166050,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
+    },
+    {
+      "album": {
+        "name": "Una Movie",
+        "url": "https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4"
+      },
+      "artists": [
+        {
+          "name": "Rickstarr",
+          "url": "https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150471,
+      "name": "Una Movie",
+      "url": "https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA"
     },
     {
       "album": {

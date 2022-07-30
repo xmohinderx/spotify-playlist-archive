@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Warren Hue
 
-102 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
+104 songs - 6 hr 30 min - [published](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bismillah](https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Adulting For Dummies](https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG) | 4:31 | 2021-11-25 | 2022-03-25 |
 | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8) | [Blanket of Sadness \(feat\. Rendy Pandugo\)](https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq) | 4:06 | 2021-11-25 | 2022-03-25 |
 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 | 2021-11-25 | 2022-03-25 |
+| [BOY OF THE YEAR](https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [BOY OF THE YEAR](https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp) | 3:32 | 2022-07-28 |  |
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 | 2022-06-17 |
@@ -42,6 +43,7 @@
 | [if i disappear](https://open.spotify.com/track/2UJHBTzpfndcT1gcfY5yjK) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/2XGKC9iOHdN8acgpM0ilnC) | 3:14 | 2022-03-24 | 2022-07-29 |
 | [if i disappear](https://open.spotify.com/track/63UXZzoNnFZxkv7AHwqLn3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/46pvSQi4EfBrQBv9L1SjKk) | 3:14 | 2022-07-28 |  |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-07-14 |  |
+| [IN MY BAG \(with tobi lou\)](https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [BOY OF THE YEAR](https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ) | 3:39 | 2022-07-28 |  |
 | [In Situ](https://open.spotify.com/track/6pNdQ1iQsK2z3nJeWoU7Ba) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ](https://open.spotify.com/album/54ku7s6zlpt1KoTR8raxp6) | 3:45 | 2022-03-24 |  |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 |  |
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 | 2022-03-25 |

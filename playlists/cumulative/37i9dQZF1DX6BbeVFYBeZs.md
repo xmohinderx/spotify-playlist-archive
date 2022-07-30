@@ -4,7 +4,7 @@
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-129 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
+131 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/5vDhhJLUXvegKwwtL6H3y2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beijinho](https://open.spotify.com/track/73oqmFRZ5F6PtvkuMZ8cUY) | [Humberto Montoya](https://open.spotify.com/artist/62gwHrOGPCG9ZTH8HJpFde) | [Beijinho](https://open.spotify.com/album/6P7TrlucBZQoQTV19iGBFt) | 1:55 | 2022-06-17 | 2022-07-08 |
 | [Bella Flamenco](https://open.spotify.com/track/3yBw9pDOcsuEhcY2UBIqoM) | [Nova Jazzers](https://open.spotify.com/artist/1Te8AXTImtNqHaOEpBFuOf) | [Bella Flamenco](https://open.spotify.com/album/26ez5kDERfAsobaXUgxXly) | 1:59 | 2022-07-01 |  |
 | [Boteco](https://open.spotify.com/track/1c7ixtAouUt0wGfjcn4tvz) | [Thayner Kesley](https://open.spotify.com/artist/4nLj0swHQxSnN0mc4YX8sW) | [Boteco](https://open.spotify.com/album/36eqv5D3YczlTchETJD8zQ) | 2:32 | 2022-06-17 | 2022-07-08 |
+| [Bye bye](https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1) | [Jose el Petate](https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj) | [Bye bye](https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV) | 2:41 | 2022-07-29 |  |
 | [Bésame Mucho](https://open.spotify.com/track/0WlaFDGrsRstbIF44eWLVP) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Bésame Mucho](https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn) | 3:11 | 2022-06-17 |  |
 | [Cambio de Corazòn](https://open.spotify.com/track/3wRiBKnaGISsvRwHKeossu) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Cambio de Corazòn](https://open.spotify.com/album/0VVUv5a4PJngb9Hb8qe648) | 1:44 | 2022-06-17 |  |
 | [Chartres](https://open.spotify.com/track/7qrmODD2bTNoMzqn31vSjE) | [Tomohiro Maeda](https://open.spotify.com/artist/4UQJP3QYMukd9eUqKuRn0N) | [Tachibana Bay](https://open.spotify.com/album/6o1qA16sjgZwcFrp819vHx) | 3:41 | 2022-06-17 |  |
@@ -72,6 +73,7 @@
 | [Lisboa Antigua](https://open.spotify.com/track/59Ao0LOrkaAehxm4ytrXfp) | [Javier Van Velthoven](https://open.spotify.com/artist/4rUmg0lEB3QIm4OpxiTxoZ) | [Lisboa Antigua](https://open.spotify.com/album/7jWJ4GwM1ELAuKzI8xHap2) | 2:34 | 2022-06-17 |  |
 | [Longe Alguém Caminha](https://open.spotify.com/track/6G0KuDlYopOifz6yeOwfri) | [Alexandre Guerra](https://open.spotify.com/artist/1aK1TyJBakc4zSAKAPfd8O), [Chrystian Dozza](https://open.spotify.com/artist/4MOQH0ouuh2i5mjfXOto0Z), [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Lugar ao Vento](https://open.spotify.com/album/3aZGaoMyVrUnYW1Cmjo0nn) | 2:11 | 2022-06-17 |  |
 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 | 2022-06-17 |  |
+| [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Medianoche](https://open.spotify.com/track/1UAlByio9nRgNa1eIMvdtr) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Medianoche](https://open.spotify.com/album/16jVhTdkRtcfjnCWnOnmbL) | 2:19 | 2022-06-17 |  |
 | [Mediterranean Flavour Outro](https://open.spotify.com/track/7xrYy1Wp8drWIsUMVk8qhk) | [Matiacardia](https://open.spotify.com/artist/0yHitjtcKBLXaA8PYshhjj), [Stefan Postoronca](https://open.spotify.com/artist/3P1y51qedu9y9O8UVmRMxR), [John Wolfcub](https://open.spotify.com/artist/5V8x1ZKfWI0eqZ5ejRBD9G) | [World & Music](https://open.spotify.com/album/2j9sg3MHsfjfO3D7Qx0RDr) | 2:11 | 2022-06-17 | 2022-07-29 |
 | [Mime](https://open.spotify.com/track/3V6amXCAJ43nMu9D2cheyv) | [Kee Marcello Nylon Nation](https://open.spotify.com/artist/6nr71zoxIIzQndEmpvyuiN) | [Mime](https://open.spotify.com/album/2HVnBQwJ22pUVBeCIPqhF6) | 3:13 | 2022-06-17 |  |

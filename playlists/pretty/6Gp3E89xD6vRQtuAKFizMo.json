@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44474,
+  "num_followers": 44473,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "NTgzNSw1NTEwZjU2MmUxZDc5YjIxODBhZDYxOWU5NWM0NjI4N2IzMDFlYzMw",
+  "snapshot_id": "NTg0MCw2MmExOTU2NWI3YWE4ZjcyYjk0ODUwNWViYzU0ODEzNjc4NWZiOGJi",
   "tracks": [
+    {
+      "added_at": "2022-07-29 18:54:08",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 170040,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd"
+    },
+    {
+      "added_at": "2022-07-29 18:54:32",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2"
+      },
+      "artists": [
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        },
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl"
+    },
     {
       "added_at": "2022-07-27 22:30:47",
       "album": {

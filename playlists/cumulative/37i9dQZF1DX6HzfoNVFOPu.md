@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-499 songs - 1 day 8 hr 29 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
+500 songs - 1 day 8 hr 33 min - [published](https://open.spotify.com/playlist/5hcw9b05MXjlbJWhFDxard)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Move](https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Art Of Breaking](https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv) | 3:28 | 2022-01-05 | 2022-05-25 |
 | [Movies](https://open.spotify.com/track/0DVxWV6V1nWa7Ml68Frd3D) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Anthology](https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5) | 3:15 | 2022-01-05 |  |
 | [Moving to New York](https://open.spotify.com/track/7GvkOFkNsM6Exnkyqeajqm) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:30 | 2022-01-05 | 2022-07-22 |
+| [Mr\. E's Beautiful Blues](https://open.spotify.com/track/2TVTvVuYZ7ZFonjMI3bKKe) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Meet The EELS: Essential EELS 1996\-2006 Vol\. 1](https://open.spotify.com/album/3IbXbDy1F1XAtriMtcvLWe) | 3:59 | 2022-01-05 |  |
 | [Mr\. E's Beautiful Blues](https://open.spotify.com/track/7yUaycNAlvQ2I6QG8m2fS4) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Meet The EELS: Essential EELS 1996\-2006 Vol\. 1](https://open.spotify.com/album/7KqaxLMBG516AZN7Jl7Aqz) | 3:59 | 2022-01-05 | 2022-07-27 |
 | [Music When The Lights Go Out](https://open.spotify.com/track/59aBJF7Nh9dkYbXY7xHZFk) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri) | 3:02 | 2022-01-05 | 2022-07-29 |
 | [My Doorbell](https://open.spotify.com/track/2KjqIRW1pRVK7o5B29UqYI) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/39CQ9tlFmcmE2pN6PkJWvZ) | 4:01 | 2022-01-05 | 2022-07-29 |
@@ -320,7 +321,7 @@
 | [On Call](https://open.spotify.com/track/28POcTYQKfkjz6qTIvtjG1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:21 | 2022-01-05 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/72X2RPQiMoOjQrdI2B9Olu) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 4:23 | 2022-01-05 | 2022-07-29 |
 | [Ooh La](https://open.spotify.com/track/2Uf9WTBWMA8S9Lh3k3Rui6) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:28 | 2022-01-05 | 2022-07-29 |
-| [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 | 2022-01-05 |  |
+| [Open Your Eyes](https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 4:58 | 2022-01-05 | 2022-07-30 |
 | [Original Prankster](https://open.spotify.com/track/6gfDXAX85YWdVwxpbz0npv) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 3:40 | 2022-01-05 |  |
 | [Out Of Control](https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 2:42 | 2022-01-05 |  |
 | [Over My Head \(Better Off Dead\)](https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:29 | 2022-01-05 | 2022-07-28 |

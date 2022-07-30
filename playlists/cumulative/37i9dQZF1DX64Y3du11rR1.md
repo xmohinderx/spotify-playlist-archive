@@ -4,10 +4,11 @@
 
 > Acoustic covers of sad songs.
 
-93 songs - 5 hr 23 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
+94 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/3UOxMZybHjvo9OE7cF0Mll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [21 Guns](https://open.spotify.com/track/0lczO04vbk2ZiNvAqzUUQ0) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [21 Guns](https://open.spotify.com/album/2bhmc2HWr3SFTNKpGg9fxw) | 4:03 | 2022-07-29 |  |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2021-12-22 |  |
 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-03-04 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2021-12-22 |  |
@@ -36,7 +37,7 @@
 | [Fireproof](https://open.spotify.com/track/210ndBj74sya9gALSQlWfe) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Fireproof](https://open.spotify.com/album/2x6tj6drKrzTBDLRiMzjJm) | 3:02 | 2022-05-04 |  |
 | [Fix You](https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu) | 4:21 | 2022-07-26 |  |
 | [Fix You](https://open.spotify.com/track/2bqjWTGDpFoG3YlRgKvqDo) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/6Zho4ar8UMxJLMDpWcLGto) | 4:21 | 2021-12-22 | 2022-07-29 |
-| [From This Place](https://open.spotify.com/track/7KL9fO8eEAWbI422qMvjRp) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 2:49 | 2021-12-22 |  |
+| [From This Place](https://open.spotify.com/track/7KL9fO8eEAWbI422qMvjRp) | [John Pizzarelli](https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf) | [Better Days Ahead \(Solo Guitar Takes on Pat Metheny\)](https://open.spotify.com/album/1jpZozggQsFGtU7AcRQKjx) | 2:49 | 2021-12-22 | 2022-07-30 |
 | [Giant](https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Giant](https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak) | 2:59 | 2021-12-22 |  |
 | [Graveyard \- Acoustic](https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Graveyard](https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1) | 4:14 | 2021-12-22 |  |
 | [Hang with Me](https://open.spotify.com/track/5wMeDEn5Jt84L94MZQDBWg) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Hang With Me](https://open.spotify.com/album/3mhn3exUlPK5cIrS6szdCQ) | 3:07 | 2021-12-22 |  |

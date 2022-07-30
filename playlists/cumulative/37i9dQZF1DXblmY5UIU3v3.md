@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-113 songs - 5 hr 22 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
+115 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [My Hand](https://open.spotify.com/track/4p4IPcZ2OGzmtkOCZC799v) | [Pnan](https://open.spotify.com/artist/5VAuDbW1Pzg3Xp0V143EcL), [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu) | [My Hand](https://open.spotify.com/album/2HohLY8jDVrDv5eU1umXVh) | 2:29 | 2022-07-08 |  |
 | [Never Your Love](https://open.spotify.com/track/30B4WkloxnqXJNWPnQ8Vcq) | [Muffin](https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2), [Junona Boys](https://open.spotify.com/artist/7mX60wjE4yH6BQSqxukqap) | [VIRAL](https://open.spotify.com/album/38AXCejmMct40fRrQhYPoZ) | 3:07 | 2022-07-08 | 2022-07-23 |
 | [Nico And The Niners](https://open.spotify.com/track/4EbvHHWqLq8y1iM7U7loo6) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/0u0uEGYDqo1bXl9jtXTibA) | 2:48 | 2022-06-03 | 2022-07-16 |
+| [Nico And The Niners \- Slowed](https://open.spotify.com/track/4UZHUNh2RDSvisZyLBQUHd) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Nico And The Niners](https://open.spotify.com/album/3Srj2MLhrDDpibB3gwZmmb) | 3:24 | 2022-07-28 |  |
 | [Numb](https://open.spotify.com/track/6yNvTSNpvHfIVDjlLNnVqF) | [VERVGE](https://open.spotify.com/artist/57MA3sAmDw91t1XqH6rJRk), [MGL](https://open.spotify.com/artist/55Rtgu6jVgw4Mv5NeGWUak) | [Numb](https://open.spotify.com/album/09V8HbdOk5BjmRlgY3e5a9) | 2:32 | 2022-06-10 |  |
 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 | 2022-05-12 |  |
 | [Oley Oley](https://open.spotify.com/track/54lZaPBQceXNLv3wvYH69c) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Barış Çakır](https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J) | [Oley Oley](https://open.spotify.com/album/6rYvSUUkK6wRpgfih4kOEc) | 3:19 | 2022-05-12 | 2022-06-17 |
@@ -97,6 +98,7 @@
 | [SAX](https://open.spotify.com/track/5f0VxpTZ3pXgDi6f4XgsL6) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SAX](https://open.spotify.com/album/5PeIppUVmMLLn0AFKxBECh) | 2:33 | 2022-05-12 | 2022-07-16 |
 | [Shagy](https://open.spotify.com/track/2zI17EWoz24ZaDB9baDBhC) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA) | [Shagy](https://open.spotify.com/album/6AuQTnJG4AYhqpo5zQAtVx) | 2:30 | 2022-05-26 |  |
 | [SHAKE](https://open.spotify.com/track/3OHHcI6PTUgAFeQHJLQdB8) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SHAKE](https://open.spotify.com/album/4yyGTE0XiE7czQSEYqPMKX) | 2:31 | 2022-06-16 | 2022-07-29 |
+| [Shake That](https://open.spotify.com/track/1BrIZsDXewY03c9BUY4Rn9) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Shake That](https://open.spotify.com/album/2SYED5j8wPKjVW5cviH4qN) | 2:59 | 2022-07-28 |  |
 | [Sharingan](https://open.spotify.com/track/1NYQGB4ldAKwE7F2IkYYPX) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Sharingan](https://open.spotify.com/album/5POykmJROYuAqwp29Cm6AM) | 2:13 | 2022-06-10 |  |
 | [SHOW ME THE MADNESS](https://open.spotify.com/track/5tWoU302PnoH3u82QBqKwD) | [Libercio](https://open.spotify.com/artist/5xBPjWMU42TN6P0nwcH1f1) | [SHOW ME THE MADNESS](https://open.spotify.com/album/1CcsWbSg2W62duWGCp9kWZ) | 3:12 | 2022-04-07 | 2022-05-21 |
 | [Sippin](https://open.spotify.com/track/1nRSEQ7GjjvZKL7fH7xP2Z) | [SINDICVT](https://open.spotify.com/artist/0mkvFhgXFPhQP3oWuzGAgf), [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f) | [Sippin](https://open.spotify.com/album/5TNjhOSaaMvvZaJPgbN7gt) | 3:12 | 2022-06-03 | 2022-07-16 |

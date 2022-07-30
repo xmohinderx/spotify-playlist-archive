@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 192594,
+  "num_followers": 192824,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMTI0NiwwMDAwMDAwMGE2ZDcxYzY3ODkxMTMzMGZmN2I3MWJjNjFiOTExMWFi",
+  "snapshot_id": "MTY1NjMyMTI0NiwwMDAwMDAwMDMwNDdlMzRhNzY1NzZmZjI4OWRjMmE5OGE1ODNlMDNj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:14:06",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Painter",
         "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 203428,
       "name": "Painter",
       "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Nentori",
         "url": "https://open.spotify.com/album/78iSNwTwoiMwvn6fspEObm"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 172695,
       "name": "Nentori (feat. Arilena Ara)",
       "url": "https://open.spotify.com/track/6IluCTRwb67xmoxSKu5MyK"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1291,6 +1291,26 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Enta Omry Remix 2022",
+        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Enta Omry Remix 2022",
+      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1423,26 +1443,6 @@
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Enta Omry Remix 2022",
-        "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
-      },
-      "artists": [
-        {
-          "name": "Hijazi",
-          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
-        },
-        {
-          "name": "Noel Kharman",
-          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Enta Omry Remix 2022",
-      "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Visceral 048 - Past Forward IV",
-        "url": "https://open.spotify.com/album/5gwYVe3uLbE4kLIf1kSAF7"
-      },
-      "artists": [
-        {
-          "name": "Goldcap",
-          "url": "https://open.spotify.com/artist/0uoaqsdWJ2Mbm9g0hjjZns"
-        }
-      ],
-      "duration_ms": 480729,
-      "name": "Mirage - Original",
-      "url": "https://open.spotify.com/track/2fBOS1NT8dYFrypecpjoOS"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Visceral 048 - Past Forward IV",
+        "url": "https://open.spotify.com/album/5gwYVe3uLbE4kLIf1kSAF7"
+      },
+      "artists": [
+        {
+          "name": "Goldcap",
+          "url": "https://open.spotify.com/artist/0uoaqsdWJ2Mbm9g0hjjZns"
+        }
+      ],
+      "duration_ms": 480729,
+      "name": "Mirage - Original",
+      "url": "https://open.spotify.com/track/2fBOS1NT8dYFrypecpjoOS"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        }
+      ],
+      "duration_ms": 193808,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1919,6 +1935,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Oud Imperial",
+        "url": "https://open.spotify.com/album/7khYH0dkJQYr557uLisMal"
+      },
+      "artists": [
+        {
+          "name": "Michael Simon",
+          "url": "https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj"
+        }
+      ],
+      "duration_ms": 516000,
+      "name": "Oud Imperial",
+      "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Yaman",
         "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
@@ -1939,38 +1971,6 @@
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG"
-      },
-      "artists": [
-        {
-          "name": "Ronna Riva",
-          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
-        }
-      ],
-      "duration_ms": 193808,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Oud Imperial",
-        "url": "https://open.spotify.com/album/7khYH0dkJQYr557uLisMal"
-      },
-      "artists": [
-        {
-          "name": "Michael Simon",
-          "url": "https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj"
-        }
-      ],
-      "duration_ms": 516000,
-      "name": "Oud Imperial",
-      "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Arabian Soul",
         "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 312125,
       "name": "Arabian Soul",
       "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Helwa Belady El Samra (Kharma Remix)",
-        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Helwa Belady El Samra (Kharma Remix)",
-      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Lalla Aicha Incl. Remixes",
         "url": "https://open.spotify.com/album/2Y9aitVubUkzeF1ok6wRXp"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 338400,
       "name": "Lalla Aicha - Main Mix",
       "url": "https://open.spotify.com/track/184Z5prwuALXJ0j1SOk2jQ"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Helwa Belady El Samra (Kharma Remix)",
+        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Helwa Belady El Samra (Kharma Remix)",
+      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Samra",
-        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
-      },
-      "artists": [
-        {
-          "name": "Mostafa Akmal",
-          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
-        }
-      ],
-      "duration_ms": 283659,
-      "name": "Samra",
-      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Zagora",
         "url": "https://open.spotify.com/album/4zNoZkafLXtBaFAHG8i5u4"
       },
@@ -2671,6 +2655,22 @@
       "duration_ms": 325165,
       "name": "Zagora",
       "url": "https://open.spotify.com/track/4ePH0udOkmmaS6CEASnj7N"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Samra",
+        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
+      },
+      "artists": [
+        {
+          "name": "Mostafa Akmal",
+          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
+        }
+      ],
+      "duration_ms": 283659,
+      "name": "Samra",
+      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2743,6 +2743,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Bahja",
+        "url": "https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd"
+      },
+      "artists": [
+        {
+          "name": "Tyrvnt",
+          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
+        }
+      ],
+      "duration_ms": 257156,
+      "name": "Bahja",
+      "url": "https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Sultan (Inc. Derun & Amine K Remix)",
         "url": "https://open.spotify.com/album/13z2xBt6SaIvrkWtnOrp0G"
       },
@@ -2759,22 +2775,6 @@
       "duration_ms": 411806,
       "name": "Zamen - Amine K Remix",
       "url": "https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Bahja",
-        "url": "https://open.spotify.com/album/5YfzAebZkmbl3DOrUjshDd"
-      },
-      "artists": [
-        {
-          "name": "Tyrvnt",
-          "url": "https://open.spotify.com/artist/00OZzRaVY62IxZ2kNtCz2J"
-        }
-      ],
-      "duration_ms": 257156,
-      "name": "Bahja",
-      "url": "https://open.spotify.com/track/4LZP8fuic1mSQpLGruxxcr"
     },
     {
       "added_at": "2022-06-27 09:14:06",

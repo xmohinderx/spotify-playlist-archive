@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,487 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,500 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 62 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 |
 | 63 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 |
 | 64 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 |
-| 65 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 |
-| 66 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
-| 67 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 |
-| 68 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 |
-| 69 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
-| 70 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
+| 65 | [Bennie And The Jets](https://open.spotify.com/track/3FiFSEZe57AAeQe2hPznXs) | [Tato Isaac](https://open.spotify.com/artist/3zwvnI5xyM632CM2nz1IuR) | [Bennie And The Jets](https://open.spotify.com/album/3phxTCqzyvEqFrksliJIOO) | 2:58 |
+| 66 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 |
+| 67 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
+| 68 | [In the Blink of an Eye](https://open.spotify.com/track/1R1Efo6OOyo9SnR5sdl6dX) | [Claes Nilsson](https://open.spotify.com/artist/3AdcSxxep8tZESjs9K3mZ9) | [In the Blink of an Eye](https://open.spotify.com/album/1a1CrU23YN5PGR4ln2qlg0) | 2:47 |
+| 69 | [Stille Sommernacht](https://open.spotify.com/track/1cY7l6Dqj0Sq6qPlCHiepj) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mailand](https://open.spotify.com/album/09sikqypQw7jfncJ7EncKq) | 3:34 |
+| 70 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
+| 71 | [Ambre](https://open.spotify.com/track/1rFdALiqOX8kNni9pfZmV4) | [TMBM](https://open.spotify.com/artist/52z20tKbBxd3cmVPXzm2wL) | [Ambre](https://open.spotify.com/album/2xlkLv8kVIODBwA5pt6RbC) | 3:44 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGU5MTgxOWY2ZjFjOTUyYTcxZDBhZmFiMzk2MTdkOGU4`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGQ1MWVmMDhkNTQ2ODEzNTlhMzM0MTA1ZDk0YjIyMGRk`

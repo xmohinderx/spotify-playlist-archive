@@ -1,12 +1,12 @@
 {
   "description": "Chill house beats for hanging out in the sun.",
-  "num_followers": 214552,
+  "num_followers": 214749,
   "original_name": "Poolside Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMGE5OGE0M2U5MmYwMTY3YzM3M2QxMWQyYTMzNjczZDdl",
+  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMGU3YjhjZjQyMjkwYWM4MDg5ZTYzYjUxZTFlNjBmZjUy",
   "tracks": [
     {
       "added_at": "2022-07-29 00:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-07-29 00:00:00",
       "album": {
+        "name": "breath tapes",
+        "url": "https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 215222,
+      "name": "suddenly",
+      "url": "https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
         "name": "Spring / Mountain",
         "url": "https://open.spotify.com/album/1WsIywiW8a84ekqfvcsMot"
       },
@@ -1647,6 +1663,22 @@
       "duration_ms": 114904,
       "name": "mountain",
       "url": "https://open.spotify.com/track/3uZy1y9JuMAGTtBwCqKMt1"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        }
+      ],
+      "duration_ms": 115588,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3"
     },
     {
       "added_at": "2022-07-29 00:00:00",

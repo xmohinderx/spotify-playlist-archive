@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Bennie And The Jets",
+        "url": "https://open.spotify.com/album/3phxTCqzyvEqFrksliJIOO"
+      },
+      "artists": [
+        {
+          "name": "Tato Isaac",
+          "url": "https://open.spotify.com/artist/3zwvnI5xyM632CM2nz1IuR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178863,
+      "name": "Bennie And The Jets",
+      "url": "https://open.spotify.com/track/3FiFSEZe57AAeQe2hPznXs"
+    },
+    {
+      "album": {
         "name": "Breeze",
         "url": "https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg"
       },

@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Alfredo Olivas en portada.
 
-128 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+129 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cuando Me Importabas](https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Cuando Me Importabas](https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD) | 3:12 | 2022-07-01 |  |
 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 | 2022-07-01 |  |
 | [Cuervo Sierra](https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX) | 2:55 | 2022-01-14 | 2022-07-29 |
+| [Cuervo Sierra](https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [Cuervo Sierra](https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj) | 2:55 | 2022-01-14 |  |
 | [De Cuando Acá](https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [De Cuando Acá](https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki) | 2:58 | 2022-04-15 |  |
 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 | 2022-06-03 |  |
 | [De Rancho Soy](https://open.spotify.com/track/0OU7uk4jZKFJfp4o1xGhql) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [De Rancho Soy](https://open.spotify.com/album/07yxl1Vy4N11B9eYrUhRgV) | 2:39 | 2022-07-01 |  |
@@ -81,7 +82,7 @@
 | [Los Mitotes](https://open.spotify.com/track/4XhjEwjPhK30lJO5f9bQkU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes de las Madres](https://open.spotify.com/album/2etqy6hrli7GLhrCNrbLeY) | 3:28 | 2022-04-29 |  |
 | [Me Dicen El Chavo](https://open.spotify.com/track/2Qtbqu3XEudTeqB31PKGu4) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Dicen El Chavo](https://open.spotify.com/album/2GAQ8DhWnILWXcnbLTny2W) | 3:07 | 2022-07-01 |  |
 | [Me Dicen Nini](https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Markitos Toys](https://open.spotify.com/artist/48WE0w9PUfMlgMLJhNcX8g) | [Me Dicen Nini](https://open.spotify.com/album/6i5PLMwllcPA7fyJSt4kf5) | 3:35 | 2022-07-01 |  |
-| [Me Sigue Calando](https://open.spotify.com/track/0sZQt1LXwOCvU6gV8g49NJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Me Sigue Calando](https://open.spotify.com/album/4QPL4paAZ5gUX4hRs8kXah) | 3:11 | 2022-07-01 |  |
+| [Me Sigue Calando](https://open.spotify.com/track/0sZQt1LXwOCvU6gV8g49NJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Me Sigue Calando](https://open.spotify.com/album/4QPL4paAZ5gUX4hRs8kXah) | 3:11 | 2022-07-01 | 2022-07-30 |
 | [Me Sigue Calando](https://open.spotify.com/track/3nDuiLZyyMDIN65BovPoOW) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Me Sigue Calando](https://open.spotify.com/album/5urZD6RWXz5rH2yJDDDQLA) | 3:11 | 2022-07-01 | 2022-07-29 |
 | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/track/5PyKNGmzN7zyEEC61muPA8) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Mi Padre \(Versión Acústica\)](https://open.spotify.com/album/3s9uOOgCgsAFPfw8lZeWmq) | 3:18 | 2022-07-01 | 2022-07-28 |
 | [Mi Trokita Cumbia](https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS) | [Mi Trokita Cumbia](https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz) | 2:14 | 2022-07-01 |  |

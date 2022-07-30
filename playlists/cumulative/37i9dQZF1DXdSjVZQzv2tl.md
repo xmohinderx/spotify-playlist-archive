@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Hugo & Guilherme
 
-85 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
+86 songs - 4 hr 9 min - [published](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 | 2022-05-20 |  |
 | [Acordo \- Ao Vivo](https://open.spotify.com/track/2jb8HW2CXr4mOJaw7LJyVw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Acordo \(Ao Vivo\)](https://open.spotify.com/album/1hG9khbERmeplVf0lTn6gm) | 2:49 | 2021-12-31 |  |
 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 | 2022-07-22 |  |
-| [Amava Nada \- Ao Vivo](https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Rolê Diferenciado, Temp\. \#3 \(Ao Vivo\)](https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ) | 3:05 | 2022-02-11 |  |
+| [Amava Nada \- Ao Vivo](https://open.spotify.com/track/60JP0KEMPE9uOw5NGGfPpW) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Rolê Diferenciado, Temp\. \#3 \(Ao Vivo\)](https://open.spotify.com/album/78SmFsr14MytkxzvCRIAHJ) | 3:05 | 2022-02-11 | 2022-07-30 |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2021-12-31 |  |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/2IJPcsIjReWb0v4EdNuwLu) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Cola Aqui, Pt\. 3 \(Ao Vivo\)](https://open.spotify.com/album/4TBovTffAvKSHeHn5ppnai) | 2:51 | 2022-03-25 | 2022-07-29 |
 | [Assume a Gente \- Ao Vivo](https://open.spotify.com/track/48LEhRW4gLMCVSYFEZvt8b) | [João Bosco e Gabriel](https://open.spotify.com/artist/21WAvVROZ83oUvJwFTG2dH), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Assume a Gente \(Ao Vivo\)](https://open.spotify.com/album/2Uf3XivKw12Ic7J3YMwSXy) | 2:51 | 2022-07-22 |  |
@@ -31,6 +31,7 @@
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-12-31 | 2022-04-29 |
 | [Dá Intimidade Pra Ver \- Ao Vivo](https://open.spotify.com/track/0j8nXyOr5UXWHqy0BBnZ6L) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 2](https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM) | 2:23 | 2022-03-04 |  |
 | [Ela e Ela](https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:48 | 2021-12-31 |  |
+| [Elevador \- Ao Vivo](https://open.spotify.com/track/20yfr4F5QmZ5V3Cu1Rx4Kp) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz \(Ao Vivo\)](https://open.spotify.com/album/5SClWm6m0wwcS3hb766KBg) | 2:47 | 2022-07-29 |  |
 | [Erro do Ficante \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/4nDOZT5fC3sUxP7UgjEd57) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Erro do Ficante \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/21wcJSlfv1KBvNYRIPtx0G) | 2:45 | 2022-01-21 | 2022-02-05 |
 | [ERRO PLANEJADO \- Ao Vivo](https://open.spotify.com/track/0sjhY8nPIm6cPOQfyUPmJe) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [ERRO PLANEJADO \(Ao Vivo\)](https://open.spotify.com/album/0jetp5tmpbqH3gqlGYJvUL) | 2:34 | 2022-04-22 |  |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2021-12-31 |  |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-193 songs - 11 hr 44 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
+195 songs - 11 hr 51 min - [published](https://open.spotify.com/playlist/7JbBYAKP63QvI8IYc5wpSU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Heart](https://open.spotify.com/track/1IQgMSRjsLjVw5VZFeWcC0) | [OTR](https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heart](https://open.spotify.com/album/5oOeNGXiuRst2Dat4Ufkhp) | 3:15 | 2021-12-03 |  |
 | [Heartache](https://open.spotify.com/track/4IDdqBDBCFng8qyQ7ja8YP) | [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Heartache](https://open.spotify.com/album/7qwkSgCKUHrWatb4fJufv2) | 3:11 | 2021-12-03 |  |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-12-03 |  |
+| [Heartbroken 2022](https://open.spotify.com/track/2T5XgOcwxlEgFL3bnkKmgr) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd), [ARPA](https://open.spotify.com/artist/02oexF6HrOu87MXwCt46Jd) | [Heartbroken 2022](https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ) | 2:52 | 2022-07-29 |  |
 | [Hero](https://open.spotify.com/track/0ILpEfiCOyhqt8uFXHuY5E) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Hero](https://open.spotify.com/album/3nM3oTAZHYqJDNYMzPBEev) | 3:02 | 2021-12-03 | 2022-07-29 |
 | [Hero](https://open.spotify.com/track/6vp1C0oz3aJDzqnSzr1DD1) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Hero](https://open.spotify.com/album/0KUyqoyokHa7aCRSIf9Jne) | 3:02 | 2022-07-15 |  |
 | [Hesitate](https://open.spotify.com/track/2KUkySRQrwsevyS5mNBOu9) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [side by side we lie awake](https://open.spotify.com/album/6h5zcRHaGnOWGH35d47Ep4) | 2:40 | 2022-03-18 |  |
@@ -99,6 +100,7 @@
 | [I Don't Wanna Know](https://open.spotify.com/track/0hHcQSdtwycNOec82X2QId) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/4Q9WKZvB7Sf6rgRHJ9pWKD) | 3:00 | 2022-07-15 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc) | 3:00 | 2021-12-03 | 2022-07-29 |
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-12-03 | 2022-05-07 |
+| [I Wonder](https://open.spotify.com/track/3W1oHe6Sfi9fycAcz9EATc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Musical Chairs Mixtape \(Vol\. 1\)](https://open.spotify.com/album/5s6mcniU1EWM3v2rR31FYA) | 4:01 | 2022-07-29 |  |
 | [i...](https://open.spotify.com/track/6RjDvJCnxjAOOEQ5TiqKLU) | [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [Gina Livia](https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [i...](https://open.spotify.com/album/7wVN5ydlkQju7GkA3OSv85) | 3:25 | 2022-02-18 |  |
 | [If You Never Loved Me](https://open.spotify.com/track/5G8T8JFhuGVG9aOPLaIzIx) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [The Ace Of You](https://open.spotify.com/album/10iaqipBlcIzyaXNuOxVaN) | 3:42 | 2021-12-03 | 2022-05-07 |
 | [in between](https://open.spotify.com/track/67DzbAQrdvHvUg0GXlPwnh) | [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [in between](https://open.spotify.com/album/4vdSJxOM9NwyS4wKrqMgtc) | 3:36 | 2022-04-22 |  |

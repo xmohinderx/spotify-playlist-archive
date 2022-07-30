@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Kirk Fletcher",
-  "num_followers": 39028,
+  "num_followers": 39056,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MTkxMSwwMDAwMDAwMGJlNWFjNGU0MGY1N2I0ZTVhODFhY2Y3OGUwOTE1YmNh",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGM2NDM1MjFkN2ExZjI0YzYwZTczNjgxZWE2ZDZlOTAx",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -39,6 +39,26 @@
       "duration_ms": 350520,
       "name": "Waiting For The Dawn",
       "url": "https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Break on Free (Radio Edit)",
+        "url": "https://open.spotify.com/album/6JtVrM7vhAHScW65sijAie"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 226767,
+      "name": "Break on Free (Radio Edit)",
+      "url": "https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd"
     },
     {
       "added_at": "2022-06-03 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Cover: Celia Cruz",
-  "num_followers": 179517,
+  "num_followers": 179627,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMDI5OTliMzQwZjA5MDNiZjYzMDdhZTkxMDE4MjIxYmVk",
+  "snapshot_id": "MTU5ODM3NDY2NiwwMDAwMDAwMGMzZTQ5ZTdjYjVlMTRiODdhNWJkNGYzM2RhYjhhMTdl",
   "tracks": [
     {
       "added_at": "2020-08-25 16:57:45",
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-08-25 16:57:45",
       "album": {
-        "name": "Tibiri Tabara",
-        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
-      },
-      "artists": [
-        {
-          "name": "Sierra Maestra",
-          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
-        }
-      ],
-      "duration_ms": 313133,
-      "name": "D\u00f3nde Va Chichi?",
-      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
-    },
-    {
-      "added_at": "2020-08-25 16:57:45",
-      "album": {
         "name": "Marcando la Distancia (La Nueva Generaci\u00f3n de la musica Cubana)",
         "url": "https://open.spotify.com/album/1atq4NCh5u5kzxbRVN5Uyo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 342400,
       "name": "Marcando la Distancia",
       "url": "https://open.spotify.com/track/70BDblSjPfj6Pe24avWzK2"
+    },
+    {
+      "added_at": "2020-08-25 16:57:45",
+      "album": {
+        "name": "Tibiri Tabara",
+        "url": "https://open.spotify.com/album/22HGndY6yvYJbtySZCkHt4"
+      },
+      "artists": [
+        {
+          "name": "Sierra Maestra",
+          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+        }
+      ],
+      "duration_ms": 313133,
+      "name": "D\u00f3nde Va Chichi?",
+      "url": "https://open.spotify.com/track/7xpJQcmsnGG9ojztoCNe54"
     },
     {
       "added_at": "2020-08-25 16:57:45",

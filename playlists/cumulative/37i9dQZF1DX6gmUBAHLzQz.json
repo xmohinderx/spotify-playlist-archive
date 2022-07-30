@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-07-28",
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
   "name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5QHdlvYkJbk57w4OhDPaim"
+  ],
   "tracks": [
     {
       "album": {
@@ -336,7 +338,7 @@
     },
     {
       "album": {
-        "name": "\u300e\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d5\u309a\u30e9\u30cd\u30c3\u30c8!\u300f\u30db\u3099\u30fc\u30ab\u30eb&\u30aa\u30ea\u30b7\u3099\u30ca\u30eb\u30b5\u30a6\u30f3\u30c8\u3099\u30c8\u30e9\u30c3\u30af\u300c\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d5\u309a\u30e9\u30cd\u30c3\u30c8!\u306e\u97f3\u697d!!\u300d",
+        "name": "\u300e\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8!\u300f\u30dc\u30fc\u30ab\u30eb&\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300c\u5287\u5834\u7248\u30a2\u30a4\u30ab\u30c4\u30d7\u30e9\u30cd\u30c3\u30c8!\u306e\u97f3\u697d!!\u300d",
         "url": "https://open.spotify.com/album/660ZOCBe3HaOgDVGkvl98D"
       },
       "artists": [

@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Baby Why",
+        "url": "https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Baby Why",
+      "url": "https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx"
+    },
+    {
+      "album": {
         "name": "Love, me",
         "url": "https://open.spotify.com/album/3OIuzwZjpwUwyvFhSHYjj6"
       },
@@ -701,6 +719,24 @@
       "duration_ms": 206308,
       "name": "Better This Time",
       "url": "https://open.spotify.com/track/7xxaqPr734A5UPcN5yBVf4"
+    },
+    {
+      "album": {
+        "name": "Downtown EP",
+        "url": "https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268092,
+      "name": "Better's on the Way",
+      "url": "https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg"
     },
     {
       "album": {
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 207141,
       "name": "Cradle",
       "url": "https://open.spotify.com/track/1E8XQHo5frQsGmrk2OFjil"
@@ -3285,7 +3321,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 180177,
       "name": "last request",
       "url": "https://open.spotify.com/track/3e2k9IlblTs4o5cD5DrPcO"
@@ -4718,6 +4754,24 @@
     },
     {
       "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
+    },
+    {
+      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/2eOU1jfnTXVVH14YJRkqz9"
       },
@@ -5971,7 +6025,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 225946,
       "name": "Western Wind",
       "url": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"

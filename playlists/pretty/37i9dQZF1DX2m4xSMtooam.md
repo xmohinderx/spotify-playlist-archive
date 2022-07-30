@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,306 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,621 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 44 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
 | 45 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 |
 | 46 | [Joãozinho Boa Pinta](https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Rio Bahia](https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg) | 2:28 |
-| 47 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 |
-| 48 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 |
+| 47 | [Gentileza](https://open.spotify.com/track/2b5sr8aUAAoY7waDSB4KRX) | [Ximena & Antonio](https://open.spotify.com/artist/4GTpu88l1iZwuSyY2UXW70) | [Gentileza](https://open.spotify.com/album/13Nf9wlDHpcboyd0LM7px6) | 4:25 |
+| 48 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 |
 | 49 | [Essa é Pro João](https://open.spotify.com/track/26S40PKjEz1FZZJabKRVch) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 3:01 |
 | 50 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 |
 | 51 | [Fotografia](https://open.spotify.com/track/6FMo4V8vQU07y1zwBfZrz7) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Meets Gustav Lundgren](https://open.spotify.com/album/1YxUJdI0JWsXGGq8xa1SLt) | 3:50 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 89 | [La Belle Dame Sans Regrets](https://open.spotify.com/track/1kTZPhmN8PW3KrXahh8rs8) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [When I Fall In Love](https://open.spotify.com/album/5Qyx80BQxegTNdvdDkjwJu) | 5:31 |
 | 90 | [Sorriu Para Mim](https://open.spotify.com/track/06baiB3MQP3UaRJjAgd0LG) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova For Beginners](https://open.spotify.com/album/1pcnT4wosrH8uUmKZBtozX) | 3:08 |
 | 91 | [Você e Eu \(You and Me\)](https://open.spotify.com/track/4v5PKC5rvQwb33NWX82UH8) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS) | [Bossa Nova Carlos Lyra](https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl) | 1:03 |
-| 92 | [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 |
-| 93 | [O Pato](https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA) | [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd), [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [O Pato](https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q) | 3:13 |
+| 92 | [O Pato](https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA) | [Nate Najar](https://open.spotify.com/artist/1Ccc6niyzAjhDEjV3cbKpd), [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [O Pato](https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q) | 3:13 |
+| 93 | [Goin' Home \- Rudy Van Gelder Edition/2007 Digital Remaster](https://open.spotify.com/track/4vmyjeAmH2YW1Zf2YhTca6) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 5:41 |
 | 94 | [The Theme from "Black Orpheus"](https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 4:13 |
 | 95 | [O Gato](https://open.spotify.com/track/39eNnBUZYkxulVzf1NsAxH) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 4:36 |
 | 96 | [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 |
-| 97 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 |
-| 98 | [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 |
+| 97 | [So Nice](https://open.spotify.com/track/383io5N8jcS6SVycxhZdub) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Quiet Nights](https://open.spotify.com/album/30i0HL1NsQ2xcMhgmQ7rvi) | 3:50 |
+| 98 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 |
 | 99 | [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 |
 | 100 | [What Else Can I Do](https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Way Down Low](https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz) | 4:44 |
 
-Snapshot ID: `MTY1NjQyMDMzMiwwMDAwMDAwMGJiYTcwNjljNGYzYjA4Njg3YzllNWRiOWU5MTZiYzZh`
+Snapshot ID: `MTY1NjQyMDMzMiwwMDAwMDAwMGU5YzI2YjA3Yzk3MjY0MmY4Yzg5Y2ZiYjhkNTFkNTAw`

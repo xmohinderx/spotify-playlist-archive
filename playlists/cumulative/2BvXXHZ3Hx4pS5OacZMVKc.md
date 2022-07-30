@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-164 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+166 songs - 8 hr 44 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Mistakes](https://open.spotify.com/track/23zK1RgtpCKU7gokQh40pi) | [Sekai](https://open.spotify.com/artist/4T5B6T18yziN16acvy3XtT), [Spitfya](https://open.spotify.com/artist/25u4Wltpv2iu8205c400T8), [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Emily Stiles](https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC) | [Mistakes](https://open.spotify.com/album/0d7vMAmLbViMcLYpcDbzfD) | 4:20 | 2022-02-03 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 |  |
 | [Mr\. Bully](https://open.spotify.com/track/63GP77KaR6enaUNsPp4kbc) | [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby) | [Mr\. Bully](https://open.spotify.com/album/4JdzrLO2LgjoHDGLTAwi4o) | 4:12 | 2022-02-03 |  |
+| [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 |  |
 | [Need You](https://open.spotify.com/track/7JYG1EVlbe62e8UadeRqGV) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [YOU](https://open.spotify.com/album/6bqaOob66pWCH2dlvQU1cf) | 3:16 | 2022-02-03 |  |
 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 | 2022-02-03 |  |
 | [Never Stop](https://open.spotify.com/track/6IqfGRpiDKSZLvxU3gYGSO) | [Todd Helder](https://open.spotify.com/artist/6nhsSK9KbToX3Brq0xeWbV) | [Never Stop](https://open.spotify.com/album/7F80QNYRcll7OHeOqfzuCf) | 2:37 | 2022-02-03 |  |
@@ -133,6 +134,7 @@
 | [Shivers](https://open.spotify.com/track/07EhpBhnDfZ6Vm7EwjSHIY) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Shivers](https://open.spotify.com/album/41VSk82y1Frwvc1OiiFq94) | 3:18 | 2022-02-03 |  |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |
 | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [SLASH \(Halloween Scary Song\)](https://open.spotify.com/album/6lxHhKlkZAcKv1ae4DptMH) | 4:11 | 2022-02-03 |  |
+| [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 |  |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 |  |
 | [Station 2](https://open.spotify.com/track/04SPo2Vjc1vmBl0oUs8GV5) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Station 2](https://open.spotify.com/album/4FjGUXNhRKcZl7ZoWUD24R) | 3:04 | 2022-02-03 |  |

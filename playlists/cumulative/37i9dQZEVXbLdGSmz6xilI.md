@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-503 songs - 1 day 5 hr 43 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+504 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Du Hành Vào Tâm Trí \(feat\. K\-ICM\)](https://open.spotify.com/track/3KOr9UVnymiq3EoS2J9EKS) | [GiGi Hương Giang](https://open.spotify.com/artist/2NYFphd3cUQ5pLEVLaBP9L), [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Du Hành Vào Tâm Trí](https://open.spotify.com/album/4UyNjD0EjTY4kfOPNPS0AL) | 3:38 | 2022-04-20 | 2022-04-23 |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-05 | 2021-08-09 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-03-27\* | 2021-12-15 |
-| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2021-12-15 |  |
+| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2021-12-15 | 2022-07-30 |
 | [Dáng Xinh](https://open.spotify.com/track/6NAlg9IZh3T3uQVeBtmjo3) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Trungng](https://open.spotify.com/artist/60KOzc3SHHzq8PgKHeXB9z) | [Dáng Xinh](https://open.spotify.com/album/2B3yVLp0Jli0a6e1XaC6BI) | 3:25 | 2021-12-18 | 2021-12-19 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1) | 3:53 | 2021-09-18 | 2022-06-09 |
 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 | 2021-04-07 | 2021-09-18 |
@@ -322,6 +322,7 @@
 | [Nghe Như Tình Yêu](https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Nghe Như Tình Yêu](https://open.spotify.com/album/0sZdkAO0Feo6xjbn8DUJVD) | 3:13 | 2021-10-29 | 2021-11-20 |
 | [Ngày Xuân Long Phụng Sum Vầy](https://open.spotify.com/track/0V0dOlfZ3tuZwHnL2eZ9Al) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [Bao Giờ Lấy Chồng](https://open.spotify.com/album/2Pa2EuROBTLvyyAUZTIJvZ) | 3:50 | 2022-02-02 | 2022-02-04 |
 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 | 2022-02-13 |  |
+| [Ngã Tư Không Đèn](https://open.spotify.com/track/73fFRs03s0gtjggfMW213L) | [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b), [Khoa Vũ](https://open.spotify.com/artist/4OqYnPUq6VwNMacIwwbWGw) | [Chỉ Có Thể Là Anh](https://open.spotify.com/album/1Ln8SYXthP1VIVaQPDmZH9) | 3:38 | 2022-07-29 |  |
 | [Ngôi Sao Cô Đơn](https://open.spotify.com/track/2mwVxrwLORLTNznZRZBjK5) | [Jack \- J97](https://open.spotify.com/artist/3KJopZ2uUclqEtLxQg0FNn) | [Ngôi Sao Cô Đơn](https://open.spotify.com/album/5fDgEcanAeh0CwPxGK86RN) | 4:35 | 2022-07-21 |  |
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-06-11 | 2022-06-14 |
 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 | 2022-02-12 | 2022-02-20 |

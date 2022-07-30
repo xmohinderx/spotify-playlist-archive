@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-868 songs - 1 day 20 hr 35 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
+869 songs - 1 day 20 hr 37 min - [published](https://open.spotify.com/playlist/59PmkiS91CCypdpv0uCKHo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bagno a mezzanotte](https://open.spotify.com/track/5KkcthkQDnlhQN0WhO8DsM) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Bagno a mezzanotte](https://open.spotify.com/album/4ZwF0hAe8HY68XrjnzQVAd) | 2:58 | 2022-03-11 |  |
 | [Balaclava \(feat\. Capo Plaza\)](https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Untouchable](https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf) | 3:07 | 2021-09-05 | 2021-09-13 |
 | [Balla alla luna](https://open.spotify.com/track/6EXhdyRsSc5ptYfZiRG5TC) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Iride](https://open.spotify.com/album/2beoQGWBMguKgMWLDZjB96) | 2:58 | 2021-05-16 | 2021-05-17 |
-| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-15 |  |
+| [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-15 | 2022-07-30 |
 | [Bandana](https://open.spotify.com/track/1EKJHHHvcSvSqoKiZrdDnb) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Bandana](https://open.spotify.com/album/7t9xDpRYnRyMnEBW5D3juH) | 2:49 | 2022-05-12 | 2022-05-14 |
 | [BANDITO \(feat\. Emis Killa & Paky\)](https://open.spotify.com/track/1fGXZPAjsxgy9zTCAAaLHM) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [MILANO SOPRANO](https://open.spotify.com/album/7q35Gby8F1fFqXXipqEqOy) | 2:36 | 2021-07-11 | 2021-07-13 |
 | [BANG BANG](https://open.spotify.com/track/6HfrOVSQECKjnSFQABkMRU) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 2:21 | 2021-03-27 | 2021-03-30 |
@@ -216,6 +216,7 @@
 | [Diverso](https://open.spotify.com/track/4mDf8v3UYfepEHn35GHw89) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:48 | 2021-06-06 | 2021-06-08 |
 | [DJUNGLE \(feat\. Marracash, Taxi B & Paki\)](https://open.spotify.com/track/3eL9iS3fHIQuQc3qUl4TYx) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DJUNGLE](https://open.spotify.com/album/3v8q233zGqlp3hW7BPC8K1) | 2:40 | 2021-05-09 | 2021-05-11 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2021-11-21 | 2022-02-04 |
+| [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-29 |  |
 | [Dolce vita](https://open.spotify.com/track/5H3g1iKBFWNSrjlmtGXKXK) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dolce vita](https://open.spotify.com/album/10ysCPqsSLVv3SBqGbLaHS) | 2:11 | 2021-06-13 | 2021-06-14 |
 | [Domai \(feat\. Ketama126\)](https://open.spotify.com/track/0g24bBP2htW3TWumtSMRNO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:58 | 2021-12-12 | 2021-12-24 |
 | [DOMENICA](https://open.spotify.com/track/02QztbIMzjvPNQnoECkydU) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [LAURO \- Achille Idol Superstar](https://open.spotify.com/album/6cy3do1WbxdLSmjo2SYgmS) | 3:10 | 2022-02-12 | 2022-03-02 |

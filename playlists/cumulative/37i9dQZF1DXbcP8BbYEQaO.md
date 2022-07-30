@@ -4,12 +4,13 @@
 
 > in the evening the real me comes alive
 
-421 songs - 1 day 0 hr 5 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+423 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10K Summer Nights](https://open.spotify.com/track/2FTTz19ql2XzrwnCBM0dP7) | [Eighty Ninety](https://open.spotify.com/artist/3Fg3y3Gx6hwdzb9sEOWHEW) | [10K Summer Nights](https://open.spotify.com/album/3ZOqum5A04o9fMcS8QfzZe) | 3:08 | 2020-10-13\* | 2021-06-19 |
 | [123](https://open.spotify.com/track/7dcYzQESWxba1b2Y794gYI) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [123](https://open.spotify.com/album/0HPec1mbtwFvsoBBUX2UbY) | 2:36 | 2021-07-04 | 2022-01-22 |
+| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 |  |
 | [6 UNDERGROUND](https://open.spotify.com/track/7qbtIjSwgYUmN1qCyl17kD) | [XHOANA X](https://open.spotify.com/artist/6eCH1ZIrhm4QmMKVKZSdY4) | [6 UNDERGROUND](https://open.spotify.com/album/3ggsqR1NqMZzz0uJIU1YAT) | 3:48 | 2021-11-27 | 2021-12-08 |
 | [7UP](https://open.spotify.com/track/4cB00WOFuQFLoDpnydcx8c) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [7UP](https://open.spotify.com/album/6V20HAISdYkgTpoa51Z95P) | 3:23 | 2020-10-13\* | 2021-06-26 |
 | [8 Letters](https://open.spotify.com/track/4zRZAmBQP8vhNPf9i9opXt) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [8 Letters](https://open.spotify.com/album/2qIbHfs93z6eDwGoAdCkXA) | 3:10 | 2020-10-13\* | 2021-09-11 |
@@ -84,12 +85,13 @@
 | [Cold Waters](https://open.spotify.com/track/13SnOkOo4NBFmdNLPcfmx7) | [Hong Kong Boyfriend](https://open.spotify.com/artist/7lDgh1Efb7gDBPxtYWd7ui) | [Cold Waters](https://open.spotify.com/album/0bgkKWGxGhWRgtV4cnoNwF) | 2:55 | 2021-02-19 | 2021-07-17 |
 | [cologne](https://open.spotify.com/track/4fg9f45CwQmbGbwsdH1q4h) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [cologne](https://open.spotify.com/album/2H1DLafa0NXc3NxvC7Iqse) | 3:50 | 2020-10-13\* | 2020-11-18 |
 | [Colourblind](https://open.spotify.com/track/3G7f7oJuDmJ7CFgbkfDiJp) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [The Kids Are Coming \- EP](https://open.spotify.com/album/49QPpqyxeTbzWHUJpZuUsC) | 3:26 | 2020-10-13\* | 2020-11-18 |
-| [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 |  |
+| [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-09 | 2022-07-30 |
 | [Company](https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [Company](https://open.spotify.com/album/74ZAayQtelkU7pLkKLsCiV) | 3:36 | 2022-07-11 |  |
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-04-16 |  |
 | [cool](https://open.spotify.com/track/11G215Sz8i5QKoU7OnAcON) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [cool](https://open.spotify.com/album/5QwVVZAzqo78YXOIcwcWU2) | 3:06 | 2021-09-25 | 2022-03-18 |
 | [cool water](https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [cool water](https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL) | 3:18 | 2022-03-25 |  |
 | [CORDUROY](https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [hello TRINITY](https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh) | 3:11 | 2021-11-20 | 2022-02-12 |
+| [Cosmic Lover](https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [Lonely Hearts Club](https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4) | 3:24 | 2022-07-29 |  |
 | [count on](https://open.spotify.com/track/1A4tabNlyLKLOHQW2XpjaU) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Colin](https://open.spotify.com/artist/1VBF82bIhEpKowEnCNB8Cu) | [count on](https://open.spotify.com/album/3Crvq8uqSTfvnn4IbIzAHY) | 3:26 | 2020-10-13\* | 2021-12-04 |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2020-11-18 | 2021-11-20 |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
@@ -102,7 +104,7 @@
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-26 | 2021-11-20 |
 | [Dancing Makes Us Brave](https://open.spotify.com/track/6C1cJLAtnHrYG61mBrLABI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [The Power](https://open.spotify.com/album/5L76JF4j46E7IhCTDEmmr3) | 4:14 | 2022-04-16 | 2022-04-21 |
 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 | 2020-10-13\* | 2021-06-19 |
-| [Dark Bird \- St\. Lucia Remix](https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Dark Bird \(St\. Lucia Remix\)](https://open.spotify.com/album/2LsVPQR7vtkpPmq6zb7y0x) | 4:43 | 2022-06-24 |  |
+| [Dark Bird \- St\. Lucia Remix](https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Dark Bird \(St\. Lucia Remix\)](https://open.spotify.com/album/2LsVPQR7vtkpPmq6zb7y0x) | 4:43 | 2022-06-24 | 2022-07-30 |
 | [Daze Inn](https://open.spotify.com/track/1AnXtAoYd2YhSNQXMHhqTu) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:38 | 2020-11-18 | 2021-07-10 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-11 | 2022-05-19 |
 | [deep in the woods](https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [deep in the woods](https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4) | 3:09 | 2022-06-24 |  |

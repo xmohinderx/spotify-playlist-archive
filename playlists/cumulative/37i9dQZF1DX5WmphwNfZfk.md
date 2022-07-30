@@ -4,7 +4,7 @@
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-752 songs - 1 day 14 hr 22 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
+754 songs - 1 day 14 hr 29 min - [published](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [all my friends](https://open.spotify.com/track/3PCf2y6XsgtVusXV2xehX7) | [ghosthands](https://open.spotify.com/artist/1wNZGB5JKkcCu4EYNws9rL) | [all my friends](https://open.spotify.com/album/54qPtI85XRiPEh6jkxgqen) | 3:21 | 2022-03-04 | 2022-04-02 |
 | [all my friends are pissed off](https://open.spotify.com/track/5FzKa4aYel5Li5IlTdGw7U) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [it's fine](https://open.spotify.com/album/39f8Z7LLJs88JEcgyJFX2T) | 2:37 | 2022-03-04 | 2022-04-02 |
 | [All My Wishes](https://open.spotify.com/track/2CyonBH2e6WCTaV8ZWNBfG) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Aurora](https://open.spotify.com/album/4X7K9bedTvlVHd06eywvHL) | 1:44 | 2022-06-03 | 2022-07-02 |
-| [All Your Love](https://open.spotify.com/track/0w8k35No8HKAUoyKLMxXIY) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/1IppLCNz2mhbYU52JBuIui) | 2:53 | 2022-07-01 |  |
+| [All Your Love](https://open.spotify.com/track/0w8k35No8HKAUoyKLMxXIY) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/1IppLCNz2mhbYU52JBuIui) | 2:53 | 2022-07-01 | 2022-07-30 |
+| [All Your Love](https://open.spotify.com/track/4bzMPTdFBXC7qJgMVCeCBe) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:53 | 2022-07-01 |  |
 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 | 2022-01-07 | 2022-02-05 |
 | [Always on the Edge](https://open.spotify.com/track/1PzG9uwuM6da6T2tCNlYfz) | [Darling Congress](https://open.spotify.com/artist/3jdCFBGkuOaIWgPFzcwxk7) | [Always on the Edge](https://open.spotify.com/album/6kzLlWSMzUaFQRkPn4Ai7d) | 3:07 | 2022-02-04 | 2022-03-05 |
 | [Amanda](https://open.spotify.com/track/0kakbgTztKiPxig2Rxqetg) | [MixTapper](https://open.spotify.com/artist/62htlKVPdhWyPnyNZlL0v4), [NC Capo](https://open.spotify.com/artist/28YnarJckzB3nbbZLhuedv) | [Amanda](https://open.spotify.com/album/6CaOSa0gG9LoWuuQ3xDBlK) | 2:08 | 2022-04-01 | 2022-05-07 |
@@ -463,7 +464,8 @@
 | [No Ego](https://open.spotify.com/track/1QCuDyWDkwp02Yk7SdXPJV) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [No Ego](https://open.spotify.com/album/7LCCT9mRNXomuwh4X3Inuv) | 2:21 | 2022-06-03 | 2022-07-02 |
 | [No Negotiations](https://open.spotify.com/track/5DYZk8l86FtluvXSqpJ54w) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [No Negotiations](https://open.spotify.com/album/3dvYwKThXbuAO0LYY2S49A) | 2:33 | 2021-12-06 | 2022-01-08 |
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-05-06 | 2022-06-04 |
-| [No Peace](https://open.spotify.com/track/33IoJtrePi4t2YmIfiCC23) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/3SCuN9tAktf8O2smtmPfPE) | 4:38 | 2022-07-01 |  |
+| [No Peace](https://open.spotify.com/track/33IoJtrePi4t2YmIfiCC23) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/3SCuN9tAktf8O2smtmPfPE) | 4:38 | 2022-07-01 | 2022-07-30 |
+| [No Peace](https://open.spotify.com/track/7g9pjsFLAC7inzCzZjaGHX) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/0J0edEr0oiC9D2EvzJFDKX) | 4:38 | 2022-07-01 |  |
 | [No Reason](https://open.spotify.com/track/4oknE8QkqBExONiy88eNr9) | [Bouff](https://open.spotify.com/artist/5Kl861FVAII9f5FP0RSo8s) | [No Reason](https://open.spotify.com/album/7B35SMjxdRQbCEKt93OAI5) | 3:12 | 2022-06-03 | 2022-07-02 |
 | [No Voy A Cambiar](https://open.spotify.com/track/5smT9id9hnZsFEpkr9Audd) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [No Voy A Cambiar](https://open.spotify.com/album/64dmLde5LjuTvY4G8pcqKA) | 2:49 | 2022-04-01 | 2022-05-07 |
 | [No\. 5](https://open.spotify.com/track/1I1pVZ9nhpocyEXKS1ML3A) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [No\. 5](https://open.spotify.com/album/4WqW1S0UBhqvDhJFJkBj7q) | 3:12 | 2022-03-04 | 2022-04-02 |

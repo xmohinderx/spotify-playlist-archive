@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,994 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,997 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 47 | [Perfect \(feat\. Haris\)](https://open.spotify.com/track/30cW9fD87IgbYFl8o0lUze) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Perfect \(feat\. Haris\)](https://open.spotify.com/album/3hOyUjdcI6wGuhk52tuH4g) | 2:56 |
 | 48 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
 | 49 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
-| 50 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
-| 51 | [I Don't Care \(with Justin Bieber\) \- Jonas Blue Remix](https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Don't Care \(with Justin Bieber\) \[Jonas Blue Remix\]](https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT) | 3:12 |
+| 50 | [I Don't Care \(with Justin Bieber\) \- Jonas Blue Remix](https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Don't Care \(with Justin Bieber\) \[Jonas Blue Remix\]](https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT) | 3:12 |
+| 51 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
 | 52 | [All Star](https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [whoisFIYAH](https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8) | [All Star](https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm) | 2:31 |
 | 53 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 54 | [Breathe \(feat\. Ina Wroldsen\)](https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
 | 80 | [Long Way Home](https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Long Way Home](https://open.spotify.com/album/0gsRK96dxwHjosLKpHgns4) | 2:49 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDAyZjc5YjRlZjU3ZDg3MmVlMGVjMWE2MmVhYjFjMzAz`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGY3NDE4Y2IwZmUzNjg4YTQ1NWZhYTgwYTU4MTFkODE3`

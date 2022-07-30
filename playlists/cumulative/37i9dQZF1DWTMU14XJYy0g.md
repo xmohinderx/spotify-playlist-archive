@@ -2,14 +2,15 @@
 
 ### [Rock Nacional](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Mancha De Rolando.
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: 2 minutos
 
-116 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+118 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Medias](https://open.spotify.com/track/5z1VEnPsozGXwQ5cWRimol) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [A Medias](https://open.spotify.com/album/2n5bjUV8VCJXxEnuanZUpB) | 3:18 | 2022-06-24 |  |
 | [Alejado de la Red](https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 3:47 | 2022-06-24 |  |
+| [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 |  |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 |  |
 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 | 2022-06-24 |  |
 | [Bailando](https://open.spotify.com/track/5Ma7gdR26nKGwGPOVobufm) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [ADN \(Capítulo D\)](https://open.spotify.com/album/2AFeBZRa2auMfG0RDrbBu1) | 3:49 | 2022-06-24 |  |
@@ -17,7 +18,7 @@
 | [Bye Bye](https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Bye Bye](https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW) | 4:10 | 2022-06-24 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/0YY18uS5eRKnrYCOdc17Iu) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/7muhd0Y84UAOqkIYXFpLfd) | 4:47 | 2022-07-15 |  |
 | [Cabalgata Deportiva](https://open.spotify.com/track/6Prlpu5trk3YsAaapseoUj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Cabalgata Deportiva](https://open.spotify.com/album/5zIRrz2GkJhIE1QBwaos8w) | 4:47 | 2022-06-24 | 2022-07-29 |
-| [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 |  |
+| [Canción para un Amigo](https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Hasta el Final](https://open.spotify.com/album/5FDw24rKn2nDmcuYYCVuQJ) | 5:06 | 2022-06-24 | 2022-07-30 |
 | [Coleccionando cicatrices](https://open.spotify.com/track/2Ug1MOeq7WsZI3e3RmIXIQ) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:56 | 2022-07-15 |  |
 | [Coleccionando Cicatrices](https://open.spotify.com/track/2bPWrKKz9TrV8Q6x5zEQEv) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Coleccionando Cicatrices](https://open.spotify.com/album/3ch8w03YXSOE0BTtul5uNr) | 3:58 | 2022-06-24 | 2022-07-29 |
 | [Con Vos](https://open.spotify.com/track/5DNRryBkStHmqKtwigXZFR) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Con Vos](https://open.spotify.com/album/7xHsHJ5JbDXhiHhoCfeiN9) | 2:42 | 2022-06-24 |  |
@@ -114,6 +115,7 @@
 | [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 |  |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-24 |  |
 | [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 |  |
+| [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 | 2022-07-29 |  |
 | [Un demonio](https://open.spotify.com/track/0NwKbZrsXH5FqFQMFKeeDg) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Un demonio](https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax) | 1:12 | 2022-06-24 |  |
 | [Una y Otra Vez](https://open.spotify.com/track/4odPPgH2sPMadY0nKws2pW) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/4HbrGsJV51qvPJnmDaMvhK) | 2:10 | 2022-06-24 | 2022-07-29 |
 | [Una y Otra Vez](https://open.spotify.com/track/7yJxEX2Vee55JroU1eiLF1) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/0bVbUOC1tbkj2MvPq1Yu4R) | 2:10 | 2022-07-15 |  |
@@ -123,6 +125,6 @@
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Ya Lo Sabés](https://open.spotify.com/track/3qml78xRFn8FOQmdfq3PVE) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Ya Lo Sabés](https://open.spotify.com/album/3jhXMrOIcE2PHpXq52mY25) | 3:28 | 2022-06-24 |  |
 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2022-06-24 |  |
-| [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 |  |
+| [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 | 2022-07-30 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

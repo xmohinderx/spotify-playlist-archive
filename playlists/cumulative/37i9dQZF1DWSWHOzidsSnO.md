@@ -4,7 +4,7 @@
 
 > ¡Paola Jara y más mujeres, a todo volumen!
 
-114 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+115 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Balada Borracha](https://open.spotify.com/track/0C0cSQCtSVKM450J6JB2iu) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/2ecxzRChLnsvsmrF3DXp4Z) | 4:03 | 2022-03-09 | 2022-07-29 |
 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 | 2022-07-06 |  |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2022-01-05 |  |
+| [Brindaré](https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Brindaré](https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT) | 2:26 | 2022-07-29 |  |
 | [Cafecito Para Dos](https://open.spotify.com/track/1PgVif1282OX4Bcm49DxpT) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Cafecito Para Dos](https://open.spotify.com/album/3mocltU8GILvbWMquiATqn) | 3:01 | 2022-01-05 |  |
 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 | 2022-03-04 | 2022-04-07 |
 | [Cambié Pensar por Sentir](https://open.spotify.com/track/1ueN2wH0N12Yf8Ex3u7A4R) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [Cambié Pensar por Sentir](https://open.spotify.com/album/3zPXeE5AWLXQyOZWf9AX5Q) | 4:47 | 2022-01-05 |  |
@@ -45,7 +46,7 @@
 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 | 2022-01-05 |  |
 | [Florence](https://open.spotify.com/track/5ZBumKfXdJ84jIbCrKTo7Y) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ruiseñora](https://open.spotify.com/album/18OF2pJ9dRBqNqXlhyWgoN) | 3:30 | 2022-03-10 |  |
 | [FLOW CALLE](https://open.spotify.com/track/4ibaExE3ZbmzEuQMPxuBOr) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Flow Calle](https://open.spotify.com/album/6sEaRr8ptd7vz5lbPY22f6) | 3:02 | 2022-03-04 | 2022-03-15 |
-| [Flow Romántico](https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:55 | 2022-03-09 |  |
+| [Flow Romántico](https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:55 | 2022-03-09 | 2022-07-30 |
 | [Fui y Volví](https://open.spotify.com/track/66tE6J4QvH59jTSajXcVXl) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Fui y Volví](https://open.spotify.com/album/3oDIB2jNRlhWJM7qcYa7LF) | 4:05 | 2022-01-05 | 2022-03-10 |
 | [Ganas](https://open.spotify.com/track/62WyysObfxRZAYOdVZJ76b) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Ganas](https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD) | 3:01 | 2022-01-05 |  |
 | [Gracias A Ti](https://open.spotify.com/track/41k2uNbjNzjUTmwvpw1kK8) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Gracias A Ti](https://open.spotify.com/album/5SqgyIuq6nnGDn2QYAu8I8) | 2:15 | 2022-01-05 | 2022-04-02 |

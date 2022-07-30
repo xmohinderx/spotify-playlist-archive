@@ -1,13 +1,33 @@
 {
   "description": "The best new music from the wide world of punk. Cover: THUMPER",
-  "num_followers": 263370,
+  "num_followers": 263507,
   "original_name": "All New Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDI4NzA0YmNlMTQ1OTQ1MTJjZjUxMmM2MjQ0ZTU4ZWMy",
+  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGFhYzA2OGNmMTVlZDk5MWMxZjgzYmJhZGZkNTE4OTU3",
   "tracks": [
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "DOUBTS",
+        "url": "https://open.spotify.com/album/0pcdbVMc06CZpJOoPpB55Z"
+      },
+      "artists": [
+        {
+          "name": "Fran Roz",
+          "url": "https://open.spotify.com/artist/5CEBgPIQYvgECBicrmdsSY"
+        },
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "DOUBTS (feat. Ryan Oakes)",
+      "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
+    },
     {
       "added_at": "2022-07-28 23:00:00",
       "album": {
@@ -47,6 +67,42 @@
       "duration_ms": 137209,
       "name": "100 MPH",
       "url": "https://open.spotify.com/track/0JTEMK4Mqtk8VoYicuNu6Q"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+        "url": "https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "25 - Single Edit",
+        "url": "https://open.spotify.com/album/1WnFFnMi8FHCDwb5nN6LAF"
+      },
+      "artists": [
+        {
+          "name": "THUMPER",
+          "url": "https://open.spotify.com/artist/1iMsLpQB3kldZ9s7pne7gP"
+        }
+      ],
+      "duration_ms": 218556,
+      "name": "25 - Single Edit",
+      "url": "https://open.spotify.com/track/1S0yXqDx40VGaPFZDxXteW"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -91,6 +147,26 @@
     {
       "added_at": "2022-07-28 23:00:00",
       "album": {
+        "name": "Backfired",
+        "url": "https://open.spotify.com/album/5XZgEi755XiwELre12FuYW"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 153876,
+      "name": "Backfired",
+      "url": "https://open.spotify.com/track/2pkaP5gZboMEf5Jlrh8FXK"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV"
       },
@@ -119,6 +195,38 @@
       "duration_ms": 151983,
       "name": "Move It or Lose It",
       "url": "https://open.spotify.com/track/0NlAVwtXrtyuV5fxxlSeUH"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "5 Days On (2 Days Off)",
+        "url": "https://open.spotify.com/album/7nugmHTblI2ZfYEIpjuyNz"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "5 Days On (2 Days Off)",
+      "url": "https://open.spotify.com/track/0kSw5ZY5BH7a4AwMVyUxTM"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Sio",
+        "url": "https://open.spotify.com/album/1z7rFTCFEdEKD5xWTPfCd4"
+      },
+      "artists": [
+        {
+          "name": "Have Mercy",
+          "url": "https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM"
+        }
+      ],
+      "duration_ms": 181183,
+      "name": "SIO",
+      "url": "https://open.spotify.com/track/4lAJVxOVSPHPhhiyJ2KgMq"
     },
     {
       "added_at": "2022-07-28 23:00:00",

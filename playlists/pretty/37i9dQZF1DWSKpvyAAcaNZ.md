@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,375 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,472 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKpvyAAcaNZ.md) - [plain]
 | 147 | [Breathing Bullets \- US Radio Mix](https://open.spotify.com/track/3afn6c2nBmPqogKrYO06qd) | [Owen Campbell](https://open.spotify.com/artist/3euYobDxHiDFZFGnVu23qe) | [Breathing Bullets \(US Radio Mix\)](https://open.spotify.com/album/3Kb4S90XjZF8qekzIc2Wbq) | 3:46 |
 | 148 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 |
 | 149 | [So Long Gone](https://open.spotify.com/track/5T9PcJQ7S24pnvtrIVSSmq) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:32 |
-| 150 | [18 Counties](https://open.spotify.com/track/4V5bPnH3eQ2BmP68CZR6bF) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/0Quj0gczb9Cb7Wgu2DHJYm) | 3:59 |
+| 150 | [18 Counties](https://open.spotify.com/track/664KAVcBrTyYzF8IosgDlh) | [Moreland & Arbuckle](https://open.spotify.com/artist/7FNOdfxOvdi8xnpVJ8Wp5R) | [Flood](https://open.spotify.com/album/4ARJnUBRQn9Ld3HhFzlfAU) | 3:59 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDUwNDNjM2Y1MjRhY2YzYzE0YzYyYzNiZmQ5YmUyOTE4`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMGFiMGFhMWM5OTgxZThjYTkxZDY3NDE4Y2NjYTI4ZWUy`

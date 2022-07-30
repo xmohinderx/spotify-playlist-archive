@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 157239,
+  "num_followers": 157311,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDRiYmQwYWIzMjJiZWZjZjA5ZjY4Nzk3NWZmOWEzYTc4",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMGI0ODA2YjE4NDNjY2Y0ZjFmMGE1MzZmZGRhN2Q2YmNk",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -85,22 +85,6 @@
       "url": "https://open.spotify.com/track/4PJOwnZaZec8a7bvt98lvL"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "The Antidote Is in the Poison",
-        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 352692,
-      "name": "The Antidote Is in the Poison",
-      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "The Aristocrats",
@@ -115,6 +99,22 @@
       "duration_ms": 353666,
       "name": "Bad Asteroid",
       "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
+    },
+    {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "The Antidote Is in the Poison",
+        "url": "https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 352692,
+      "name": "The Antidote Is in the Poison",
+      "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Yellowjackets",
+        "url": "https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        }
+      ],
+      "duration_ms": 312373,
+      "name": "Matinee Idol",
+      "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Riding Giants (feat. Mike Stern, Dave Weckl)",
         "url": "https://open.spotify.com/album/0UfEhQZd7a9peWeSPflpaI"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Yellowjackets",
-        "url": "https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        }
-      ],
-      "duration_ms": 312373,
-      "name": "Matinee Idol",
-      "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Master Strokes 1978-1985",
-        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
-      },
-      "artists": [
-        {
-          "name": "Bill Bruford",
-          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
-        }
-      ],
-      "duration_ms": 214333,
-      "name": "Hell's Bells",
-      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Wired",
         "url": "https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 354053,
       "name": "Blue Wind",
       "url": "https://open.spotify.com/track/61EV3vuEsYHT1xtsb8SND1"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Master Strokes 1978-1985",
+        "url": "https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl"
+      },
+      "artists": [
+        {
+          "name": "Bill Bruford",
+          "url": "https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Hell's Bells",
+      "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -717,6 +717,30 @@
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
+      "added_at": "2022-07-22 04:02:00",
+      "album": {
+        "name": "Maiden Voyage",
+        "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Alphonso Johnson",
+          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
+        },
+        {
+          "name": "Land Richards",
+          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
+        }
+      ],
+      "duration_ms": 401652,
+      "name": "Maiden Voyage",
+      "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -791,30 +815,6 @@
       "duration_ms": 333413,
       "name": "Mondo Garaj",
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
-      "added_at": "2022-07-22 04:02:00",
-      "album": {
-        "name": "Maiden Voyage",
-        "url": "https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M"
-      },
-      "artists": [
-        {
-          "name": "David Garfield",
-          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
-        },
-        {
-          "name": "Alphonso Johnson",
-          "url": "https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU"
-        },
-        {
-          "name": "Land Richards",
-          "url": "https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84"
-        }
-      ],
-      "duration_ms": 401652,
-      "name": "Maiden Voyage",
-      "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
     },
     {
       "added_at": "2021-10-29 04:02:00",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1051,6 +1035,22 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1165,6 +1165,22 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Gimme 5",
+        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Santiago",
+          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Gimme 5",
+      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Gimme 5",
-        "url": "https://open.spotify.com/album/3bXkU11mAtRR4h1w5NI4rU"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Santiago",
-          "url": "https://open.spotify.com/artist/2GTIa7Clthfpu7hivToeD4"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Gimme 5",
-      "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Now You See It ... (Now You Don't)",
         "url": "https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo"
       },
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/1n8Toxxtt3L81MjkmMkH77"
     },
     {
-      "added_at": "2021-04-09 04:01:00",
-      "album": {
-        "name": "FLY! FLY! FLY!",
-        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
-      },
-      "artists": [
-        {
-          "name": "T-SQUARE",
-          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Growing Up!",
-      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Eastern Kaleidoscope",
@@ -1283,6 +1267,22 @@
       "duration_ms": 384356,
       "name": "Eastern Kaleidoscope",
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
+    },
+    {
+      "added_at": "2021-04-09 04:01:00",
+      "album": {
+        "name": "FLY! FLY! FLY!",
+        "url": "https://open.spotify.com/album/7qDI1mOCvT20YELuoRj7yH"
+      },
+      "artists": [
+        {
+          "name": "T-SQUARE",
+          "url": "https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Growing Up!",
+      "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1329,6 +1329,22 @@
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
+      },
+      "artists": [
+        {
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        }
+      ],
+      "duration_ms": 653190,
+      "name": "Guinnevere",
+      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "close tail",
@@ -1351,22 +1367,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Axiom",
-        "url": "https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ"
-      },
-      "artists": [
-        {
-          "name": "Christian Scott aTunde Adjuah",
-          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
-        }
-      ],
-      "duration_ms": 653190,
-      "name": "Guinnevere",
-      "url": "https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Quarantena",
+        "url": "https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq"
+      },
+      "artists": [
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 318205,
+      "name": "Lockdown Boogie",
+      "url": "https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 366236,
       "name": "Heather Grey (BK Gritty)",
       "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Quarantena",
-        "url": "https://open.spotify.com/album/21Xe9swhDJKMLwmdMPXsSq"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 318205,
-      "name": "Lockdown Boogie",
-      "url": "https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n"
     },
     {
       "added_at": "2021-06-11 04:01:00",

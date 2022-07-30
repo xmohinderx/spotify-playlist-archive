@@ -6270,6 +6270,24 @@
     },
     {
       "album": {
+        "name": "SID THE KID",
+        "url": "https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV"
+      },
+      "artists": [
+        {
+          "name": "Deaton Chris Anthony",
+          "url": "https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163266,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk"
+    },
+    {
+      "album": {
         "name": "God Melodies",
         "url": "https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF"
       },
@@ -10701,6 +10719,24 @@
       "duration_ms": 207904,
       "name": "Most Modern Painting",
       "url": "https://open.spotify.com/track/4jnlko67vtWe15a3tcHO9n"
+    },
+    {
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209286,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW?si=N2lv4HmmQiaG_GdNZ-KkeA\" > Yemi Alade </a> ",
+  "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=gewfR37ORauKspbe5byFCA\"> Sha Sha </a>  and <a href=\"https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE?si=DxxB0XwMTe2e3eXbzo1Fgw\"> Ami Faku </a> ",
   "name": "Afropop",
   "published_playlist_ids": [
     "4ro2D5NHaC1uSUC6UDaKRz"
@@ -2181,7 +2181,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 218181,
       "name": "My Man",
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
@@ -3293,6 +3293,28 @@
       "duration_ms": 154000,
       "name": "S\u00e1r\u00e9",
       "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
+    },
+    {
+      "album": {
+        "name": "Themba Lami (feat. Ami Faku)",
+        "url": "https://open.spotify.com/album/4Igrf5yLQM2d8fFSfgZZtt"
+      },
+      "artists": [
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205731,
+      "name": "Themba Lami (feat. Ami Faku)",
+      "url": "https://open.spotify.com/track/3DYKpGOFY06AONuqytJlya"
     },
     {
       "album": {

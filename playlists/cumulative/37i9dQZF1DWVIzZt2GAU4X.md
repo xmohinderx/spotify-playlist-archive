@@ -4,7 +4,7 @@
 
 > Vocals and keys, front and center\. Cover: Adele
 
-198 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
+199 songs - 12 hr 39 min - [published](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Nightingale](https://open.spotify.com/track/2eLxEzMVfiQih0cJIWIowm) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:36 | 2022-03-25 | 2022-04-18 |
 | [No Matter \- Acoustic](https://open.spotify.com/track/14OWlpPcJxsBvSGI4W65Hl) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [No Matter \(Acoustic\)](https://open.spotify.com/album/50uqLJgUtCTRFaBlomS7aP) | 2:53 | 2021-11-19 | 2022-07-28 |
 | [No Such Thing](https://open.spotify.com/track/70aS0jAJszShUpwp0Mq6cB) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Amidst the Chaos](https://open.spotify.com/album/3GhJxHA12jGyBTgTD5zbmt) | 3:57 | 2022-03-25 | 2022-04-21 |
+| [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2022-07-15 |  |
 | [Ordinary People](https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:41 | 2022-03-25 | 2022-04-21 |
 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 | 2021-11-19 |  |
 | [Over And Over Again](https://open.spotify.com/track/1X6kxrjWVWiKMqulM8XZpj) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Over And Over Again](https://open.spotify.com/album/1IVuFM49EVxrSfn6AJZAn9) | 4:06 | 2021-11-19 | 2022-07-29 |
@@ -173,7 +174,7 @@
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2022-07-15 |  |
 | [Surrender](https://open.spotify.com/track/4Y5gx8VuShNmakYGlnrUzD) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/02QDTrIeIhkXSYukXY6p0C) | 3:03 | 2021-11-19 | 2022-04-20 |
 | [Surviving](https://open.spotify.com/track/0rYn41pw6HzBTT0hqWxbb2) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/0DtpBbI7QACD3pt5vNPGfc) | 3:16 | 2021-11-19 | 2022-03-26 |
-| [That's Us](https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 4:30 | 2022-03-25 |  |
+| [That's Us](https://open.spotify.com/track/7sTDqaGUr9NM8NHQ5SNHi1) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 4:30 | 2022-03-25 | 2022-07-30 |
 | [The Best You Had \- Acoustic Version](https://open.spotify.com/track/1JyMinaImPlBCH0bnJ1v4S) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Best You Had \(Acoustic Version\)](https://open.spotify.com/album/6yFL3sjNVHjub7EmAFcq8R) | 3:18 | 2021-11-19 | 2022-07-29 |
 | [The Bones \- Acoustic](https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:37 | 2021-11-19 | 2022-07-29 |
 | [The Joke](https://open.spotify.com/track/37nD8NJhod8BEZ6EGYo2gT) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [The Joke](https://open.spotify.com/album/7k5jKBsZbWuwbd5iTBR1UY) | 4:39 | 2022-03-25 | 2022-04-21 |

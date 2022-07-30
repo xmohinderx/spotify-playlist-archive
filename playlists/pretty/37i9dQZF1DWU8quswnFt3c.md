@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Simi
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,008 likes - 67 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,965 likes - 67 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 5 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 |
 | 6 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 |
 | 7 | [Mehabooba](https://open.spotify.com/track/3P3mOcFeu7OYcsZEZSUiLl) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [KGF Chapter 2](https://open.spotify.com/album/2NgI9PKY8KxRp5az0NxlQU) | 3:33 |
-| 8 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 |
-| 9 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
+| 8 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
+| 9 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 |
 | 10 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 11 | [El Telephone](https://open.spotify.com/track/1zB8iM97STLlKaweWhtasO) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Bobito](https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm), [Ayman](https://open.spotify.com/artist/6ONMIIeGOgkflffHvKLe0M) | [Poli\_Ploki](https://open.spotify.com/album/79cEtUvXntL05SIK3YJiH8) | 2:50 |
 | 12 | [Ligo Ligo](https://open.spotify.com/track/4ba3bmE2i6SvEXIaJYhUoJ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Ligo Ligo](https://open.spotify.com/album/1vRQu7kPciIGfVhWABjTnN) | 2:46 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 35 | [A.O.U](https://open.spotify.com/track/6oyagq8m6zMSeIGmCXkceD) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [A.O.U](https://open.spotify.com/album/671xpFoPFWV4zfs8C5yuuv) | 4:18 |
 | 36 | [各自安好](https://open.spotify.com/track/7ep5TafdBRpwCbwMciRPaU) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [各自安好](https://open.spotify.com/album/42kIWWADJxhtXbMvfm8jO8) | 4:23 |
 | 37 | [like we're wired](https://open.spotify.com/track/0jWQBmBX3jowX8AuUXmzjq) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [like we're wired](https://open.spotify.com/album/3MZUsQ4bHveRDrwIxVV40S) | 4:06 |
-| 38 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 |
-| 39 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 38 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 39 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 |
 | 40 | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/track/5ICnjQOex9xUQY6bf5aapg) | [Kool Jane](https://open.spotify.com/artist/2yZne9YF6l3lsnyU3tmj8V), [Idyl](https://open.spotify.com/artist/06y318eaH7JHOfd4u3THV0) | [ÖZGÜRLÜK \(feat\. Idyl\)](https://open.spotify.com/album/3XyYgUQ6wMs590HvIYzjfG) | 3:41 |
 | 41 | [Black Cloud](https://open.spotify.com/track/7eKFpAosi1b37KQXHUVa7p) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Black Cloud](https://open.spotify.com/album/2dGVf0K5vgvhqrL3STAGoB) | 3:14 |
 | 42 | [Vanilla](https://open.spotify.com/track/1JVS1j91lyFfLltcWerYSh) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:37 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 52 | [捆縛](https://open.spotify.com/track/6Attg3Eg8FqrJ5uEb4S9uU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:41 |
 | 53 | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/track/5K2H6OXsJvJWyWcOMqLS4g) | [New & Jiew](https://open.spotify.com/artist/3zvofxq3cDVsJvmqHOReHm) | [ไม่มีอะไรเหมือนเดิม](https://open.spotify.com/album/1kMqTA20x0i4otfgBnFuHK) | 3:57 |
 | 54 | [Tears At Bae](https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:22 |
-| 55 | [VERTIGO](https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [VERTIGO](https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz) | 2:43 |
-| 56 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 |
+| 55 | [Fini Kther](https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [One Playlist](https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3) | 4:11 |
+| 56 | [VERTIGO](https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3) | [Hēir](https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW) | [VERTIGO](https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz) | 2:43 |
 | 57 | [Ya Es Tarde](https://open.spotify.com/track/4iUxUVZpySaY1epUkDXCbh) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Sinergia](https://open.spotify.com/album/5SjeP0UHafaTMnfrzx4Q95) | 4:03 |
 | 58 | [Only Love](https://open.spotify.com/track/5a4LapS7L0iMuic84bXigB) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Only Love](https://open.spotify.com/album/5HSPiHE3WHEjLfjVl8sIc1) | 3:05 |
 | 59 | [Tetris](https://open.spotify.com/track/57lHOi3fq27f7TdjVHrwgj) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Tetris](https://open.spotify.com/album/2rHpv5OMHVKHflZuPcoCRu) | 3:18 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 61 | [Bella Kali](https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff) | [Rayo](https://open.spotify.com/artist/1r5mgN3pd36xjsZSZOvST9) | [Bella Kali](https://open.spotify.com/album/1WIL297eRvqxkrhQur7qcd) | 3:34 |
 | 62 | [Decisions](https://open.spotify.com/track/1Vr1vDsnFyPtuQLi7cpUMW) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Decisions](https://open.spotify.com/album/4o29z1nujib3PRGgdnU7ap) | 3:17 |
 | 63 | [Search + Destroy](https://open.spotify.com/track/5hCqYXndamqqxqQQtPvURn) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Search + Destroy](https://open.spotify.com/album/3wDguisEiAJzZkeaILX46v) | 4:49 |
-| 64 | [Don't Cry](https://open.spotify.com/track/7sWNjiKUH34v839Sd38Kvl) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 2:45 |
-| 65 | [Woman Trueman](https://open.spotify.com/track/35riuC99CaJSizvUjB1vaO) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [Woman Trueman](https://open.spotify.com/album/2aOXOGMG4WRB7axcNFxl7n) | 3:23 |
-| 66 | [Jahil Hoon Main](https://open.spotify.com/track/4l2Enq43g76mIXWrTI05Pw) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8) | [Khirad \(A Tribute to Allama Iqbal\)](https://open.spotify.com/album/1w99YQSlhxLfdnzPhLxN8b) | 4:45 |
-| 67 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 |
+| 64 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 |
+| 65 | [Don't Cry](https://open.spotify.com/track/7sWNjiKUH34v839Sd38Kvl) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 2:45 |
+| 66 | [Woman Trueman](https://open.spotify.com/track/35riuC99CaJSizvUjB1vaO) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [Woman Trueman](https://open.spotify.com/album/2aOXOGMG4WRB7axcNFxl7n) | 3:23 |
+| 67 | [Jahil Hoon Main](https://open.spotify.com/track/4l2Enq43g76mIXWrTI05Pw) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8) | [Khirad \(A Tribute to Allama Iqbal\)](https://open.spotify.com/album/1w99YQSlhxLfdnzPhLxN8b) | 4:45 |
 
-Snapshot ID: `MTY1OTAyODc4MiwwMDAwMDAwMDhiYjBkNWMwODEwMjgyNTI4ODE5N2Y1MGExYWRlYmVm`
+Snapshot ID: `MTY1OTAyODc4MiwwMDAwMDAwMDM2NGIyNzllODJhYjFkMGI5YjM3OTZiNGNiNWNhZTk0`

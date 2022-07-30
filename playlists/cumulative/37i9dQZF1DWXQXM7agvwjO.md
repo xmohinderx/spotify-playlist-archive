@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: ena mori \(Philippines / Japan\)
 
-288 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+291 songs - 17 hr 21 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dancing Flowers](https://open.spotify.com/track/0ipGt7HnFJHhDaA5kQGGWh) | [tie a tie](https://open.spotify.com/artist/7v9fLn8ZcdEdqzF1vX80n5) | [Dancing Flowers](https://open.spotify.com/album/0O1LXrV3c4gQt1dIgAWlh6) | 2:51 | 2022-07-14 |  |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-23 |  |
 | [Days in Bloom](https://open.spotify.com/track/75XYPmzcxOPZkimUCiI8WI) | [VIA](https://open.spotify.com/artist/1GwORzb8qkKDqDgKx3mzNc) | [FREE FALL](https://open.spotify.com/album/4F5JcwEM357HqVobOz0o3b) | 3:14 | 2022-04-07 | 2022-05-20 |
+| [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 | 2022-07-28 |  |
 | [Dead \(feat\. Young Cocoa\)](https://open.spotify.com/track/62z9xqVNOKn3yc7K3wbmxa) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [Young Cocoa](https://open.spotify.com/artist/3rdJ1bFvwgZw2XZkimg5dW) | [Violets Aren't Blue](https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p) | 4:13 | 2022-07-07 |  |
 | [Desire](https://open.spotify.com/track/4enRXp0XqK8Xy6FJyPuuaf) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Desire](https://open.spotify.com/album/7eaUeXoBSNWdxDM44yOHkP) | 2:44 | 2022-03-24 | 2022-04-15 |
 | [Different Shade of Blue](https://open.spotify.com/track/4TfTHd6vzdJwETRmfKK7pB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Different Shade of Blue](https://open.spotify.com/album/2qFwbnJz52vHxJUQCcJdAv) | 2:50 | 2022-03-24 | 2022-06-03 |
@@ -120,6 +121,7 @@
 | [I Will Never Change](https://open.spotify.com/track/7Mufdgu2dbYLlZMNMozzTe) | [Popo J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [I Will Never Change](https://open.spotify.com/album/45b3NyrdQV9aN3F1UraVAF) | 3:07 | 2022-03-24 | 2022-04-15 |
 | [I Wrote Because](https://open.spotify.com/track/6eepK5FHCdhg8IamM3Ly2q) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP) | [I Wrote Because](https://open.spotify.com/album/5e7NuCqHCuhOUJkB8PBGR4) | 3:10 | 2022-03-31 | 2022-04-08 |
 | [I'd Better Be On Time \- \(bilibili & Disney《正義的算法》插曲\) \[A\_LIVE PASS Session\]](https://open.spotify.com/track/4RUC4ZpIkfni1EqiKW9Omu) | [緩緩 Huan Huan](https://open.spotify.com/artist/0JeQFUYo8H7c5K8VIICIIH) | [I'd Better Be On Time \[\(bilibili & Disney《正義的算法》插曲\) \[A\_LIVE PASS Session\]\]](https://open.spotify.com/album/27dnxB5O4A1j0KXEecGB1n) | 4:13 | 2022-07-07 | 2022-07-22 |
+| [I'll Be Honest](https://open.spotify.com/track/3jQQUM4NyNnbmKAnz5xguG) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I'll Be Honest](https://open.spotify.com/album/018IL10TXkNudbOVScsjGI) | 2:33 | 2022-07-28 |  |
 | [I'm An Artiste](https://open.spotify.com/track/1tpHsyhnjet2NILsgbYN66) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw), [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa) | [I'm An Artiste](https://open.spotify.com/album/0aW6jBFPOBDKqZXkrzs49e) | 3:06 | 2022-05-26 | 2022-06-10 |
 | [i\-](https://open.spotify.com/track/1bAW51MKzvzhzKPDlaRJd0) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [i\-](https://open.spotify.com/album/4OvbVVqxYpYn3wZkRXWYuy) | 2:56 | 2022-04-07 | 2022-06-24 |
 | [If You Leave Me Alone](https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI) | [Bones & The Boy](https://open.spotify.com/artist/0AF2gJIJJdCVC4nNRcYI9B), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Yung Lee Records](https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw) | [Bones & The Boy](https://open.spotify.com/album/3iOJeQg8mGnbKmOlsZtUlT) | 2:31 | 2022-06-23 |  |
@@ -129,6 +131,7 @@
 | [It's you](https://open.spotify.com/track/1eqtn2OHCJoehFkTWxXYJh) | [Jaritz](https://open.spotify.com/artist/7J6zOmFJEqGPTX7b0s0Pqj) | [It's you](https://open.spotify.com/album/20dEr3UIwWLjgcTksjtBJ0) | 5:25 | 2022-06-16 |  |
 | [Je Suis La Pomme Rouge](https://open.spotify.com/track/5HzPAB3IWjlH1KHDoTuv9P) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Je Suis La Pomme Rouge](https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv) | 4:30 | 2022-03-24 | 2022-04-08 |
 | [Jealousy](https://open.spotify.com/track/4mmNaX7S21cDbiOrMSSush) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 4:23 | 2022-06-17 |  |
+| [Jellyfish](https://open.spotify.com/track/3fYRIQXvG6Ge1ERfMgcRJE) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Subtropical South](https://open.spotify.com/album/56AUUReJtKOxirruCJ4AaJ) | 3:41 | 2022-07-28 |  |
 | [Just A Word](https://open.spotify.com/track/4iP7HF6dhCmvXOk6pHnX9u) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Just A Word](https://open.spotify.com/album/6vsFUU0gYqbQVoV2tiz94v) | 3:00 | 2022-03-31 | 2022-05-27 |
 | [Katputli Ke Dhaage](https://open.spotify.com/track/520NVZmA0cXVRrUUg0hOsc) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Katputli Ke Dhaage](https://open.spotify.com/album/6C4fAoH6g6MAfWjjaeUaWP) | 2:53 | 2022-03-24 | 2022-04-15 |
 | [Kill Your Ego](https://open.spotify.com/track/3aBSxQLr3hBNZmkb6JxFhr) | [cellosux](https://open.spotify.com/artist/2rkmXRyKp3HRmGOgP968Kj) | [Kill Your Ego](https://open.spotify.com/album/5AOJIBmdhYFHrZKsZy8fTj) | 3:50 | 2022-06-09 | 2022-06-17 |

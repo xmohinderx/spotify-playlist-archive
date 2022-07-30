@@ -1,12 +1,12 @@
 {
   "description": "Laid-back beats for an easygoing morning.",
-  "num_followers": 48897,
+  "num_followers": 48922,
   "original_name": "Mellow Lofi Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMDg2ZmQwODRhZDcyMjQ0ZTZkOTljZTNhYzI1MDExOGM3",
+  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMGZkZDQ4NzlmODIzMGIwZThmYzFlYWViZTA2MzYzMGQ5",
   "tracks": [
     {
       "added_at": "2022-07-29 00:00:00",
@@ -2375,6 +2375,58 @@
       "duration_ms": 175058,
       "name": "Bicycle",
       "url": "https://open.spotify.com/track/2Cgmzxm4MPmNFFbOvXaVCH"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/28l4AuuySCumrAxCvlic76"
+      },
+      "artists": [
+        {
+          "name": "Phil Gori",
+          "url": "https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e"
+        },
+        {
+          "name": "pepperonibeats",
+          "url": "https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Roads",
+        "url": "https://open.spotify.com/album/7F96yKUVXqAIw0CCcFdCSp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "duration_ms": 125278,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/08WS0U9E3nnBrDJ8gIjyI0"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "light",
+        "url": "https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr"
+      },
+      "artists": [
+        {
+          "name": "cr\u00e9ature sonore",
+          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
+        }
+      ],
+      "duration_ms": 85353,
+      "name": "light",
+      "url": "https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5"
     },
     {
       "added_at": "2022-07-29 00:00:00",

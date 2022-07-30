@@ -4,7 +4,7 @@
 
 > Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!
 
-151 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
+152 songs - 3 hr 52 min - [published](https://open.spotify.com/playlist/35jziUyrve0Ka69ZTcrf6K)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bringing This Baby Home](https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:49 | 2022-03-18 |  |
 | [Brush to the Beat](https://open.spotify.com/track/2TDrxx01O6iKxi5SGGKwo6) | [Felicia Barton](https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Disney Junior Music: Mickey Mornings](https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh) | 2:01 | 2022-03-18 |  |
 | [Building a Dream](https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN) | [Cast \- Mickey and the Roadster Racers](https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk) | [Mickey and The Roadster Racers: Disney Junior Music](https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH) | 0:46 | 2022-03-18 |  |
+| [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-07-27 |  |
 | [Call of the Guard \(The Lion Guard Theme\)](https://open.spotify.com/track/4RBLAaz2HPM1ZlpUt7PjP2) | [The Lion Guard Chorus](https://open.spotify.com/artist/4P2zfQlM3ILD7rlSE7Eq1P) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 1:03 | 2022-03-18 |  |
 | [Captain Dog](https://open.spotify.com/track/4UMC2NPwi3iarOtkmdMmQm) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:03 | 2022-03-18 |  |
 | [Chicken Charge](https://open.spotify.com/track/5oXJHQqx59szko8Gl8dElk) | [The Chicken Squad \- Cast](https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD) | [Disney Junior Music: The Chicken Squad](https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8) | 0:47 | 2022-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Lu\u00edsa Sonza e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 121414,
+  "num_followers": 121462,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4ODgwMCwwMDAwMDAwMDk1NDFmNDViMzBkM2IxOThlMTY5OTRlOTcyN2IxZjU3",
+  "snapshot_id": "MTY1ODE4ODgwMCwwMDAwMDAwMGM1NzRkNTdkNjRjYWJkY2MwZmJiNzBjODIyYzZiMjlh",
   "tracks": [
     {
       "added_at": "2022-07-19 00:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-07-19 00:00:00",
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 141284,
+      "name": "Beijo De Judas",
+      "url": "https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw"
+    },
+    {
+      "added_at": "2022-07-19 00:00:00",
+      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 182923,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
-    },
-    {
-      "added_at": "2022-07-19 00:00:00",
-      "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 141284,
-      "name": "Beijo De Judas",
-      "url": "https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw"
     },
     {
       "added_at": "2022-07-19 00:00:00",

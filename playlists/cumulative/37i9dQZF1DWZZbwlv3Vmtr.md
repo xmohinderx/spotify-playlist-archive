@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-458 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+462 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,9 +102,11 @@
 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 | 2022-05-27 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-04-15 | 2022-07-08 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-04-15 | 2022-05-14 |
+| [down again](https://open.spotify.com/track/1bzVwOf1Q8LEhp5Uh25he3) | [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [down again](https://open.spotify.com/album/2b87OxK5vbVM8HapvOxH5v) | 2:09 | 2022-07-29 |  |
 | [Down Under](https://open.spotify.com/track/2tElFTry4qcyqdbtPIkdsq) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Down Under](https://open.spotify.com/album/493OMj8GoxTGLyMC1IYJVj) | 2:21 | 2022-05-20 |  |
 | [Dream Sailling](https://open.spotify.com/track/1CLQSFom2hv8us4rXiJxGm) | [Billy Nova](https://open.spotify.com/artist/04umGdIV4JxSdiFyoEiaFj) | [Blame the Winds](https://open.spotify.com/album/3A26hgmcTnVx5BcsfYS7rl) | 2:49 | 2022-04-15 | 2022-07-29 |
 | [dreamfield](https://open.spotify.com/track/29pPn3HgQQyKMuQrk2s0cq) | [uncles](https://open.spotify.com/artist/1CKD1SbQGvHtuNmlIWC31B) | [apollo](https://open.spotify.com/album/77iZVGlibX0x7e6VH7wJCJ) | 2:00 | 2022-05-20 |  |
+| [Dreams in MP3](https://open.spotify.com/track/6K4yqREMihKD1Sr6HNzlwL) | [broeybeats.](https://open.spotify.com/artist/2h6TAdYdjOn1o4P36lOPdq), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Dreams in MP3](https://open.spotify.com/album/6dQeClsx0EgqjUKjqTReCi) | 2:16 | 2022-07-29 |  |
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 |  |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -163,6 +165,7 @@
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2022-04-15 |  |
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
+| [Hustler's Courage](https://open.spotify.com/track/3MOlfHny79AeRL5z2GRN2b) | [Calvin TDC](https://open.spotify.com/artist/2NOFqkaFBqJknsnxnlXdbM) | [Hustler's Courage](https://open.spotify.com/album/3uejTrt5AwvLTXER4bYwbV) | 2:11 | 2022-07-29 |  |
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-03 |  |
 | [I Can Feel It](https://open.spotify.com/track/3bFQS0uqG7zJ830fYLkKly) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [ZeDe](https://open.spotify.com/artist/0xtxiEdr8VEnERqcadfVNK) | [I Can Feel It](https://open.spotify.com/album/3DdGNzsi4JXy8BTFVgqjjq) | 1:42 | 2022-07-08 |  |
 | [I Know](https://open.spotify.com/track/79AMJyh9oHGXinUaxh6Dd4) | [Nollex](https://open.spotify.com/artist/19WVYQtlRI6EPouvwegNNH) | [Harlow](https://open.spotify.com/album/0X7ddNw3fLTJXDZQ8xW2BQ) | 4:54 | 2022-04-15 |  |
@@ -400,6 +403,7 @@
 | [The Brace](https://open.spotify.com/track/3m8nqt9hOcjayQ1dff4jgL) | [ID Labs](https://open.spotify.com/artist/26oVoq5QZzsm9MGhOyT2tv) | [Play How You Feel](https://open.spotify.com/album/5CzhTtsFWBjPUyOy8xiBKv) | 2:51 | 2022-04-15 | 2022-07-22 |
 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 | 2022-04-15 |  |
 | [The Chillest](https://open.spotify.com/track/6uA5tWVvj13MGLNxhHGxhr) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [The Chillest](https://open.spotify.com/album/0CrclNcvwEUbTl9zSFjkzW) | 2:31 | 2022-04-15 |  |
+| [The Dreams](https://open.spotify.com/track/6WuLredx9Du0nj4qrrSFJ2) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Dreams](https://open.spotify.com/album/7rhQZJcRcqUD0huZItGkAv) | 2:06 | 2022-07-29 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-04-15 | 2022-05-27 |
 | [The New Day](https://open.spotify.com/track/1y2zDUWWkG4P97pDjWGrDi) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [The New Day](https://open.spotify.com/album/2d6zNXCP512uLmfEsI10xA) | 2:44 | 2022-04-15 |  |
 | [The News](https://open.spotify.com/track/74dl7BgtaxeIT6d3jtowxH) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [The News](https://open.spotify.com/album/0O0rYYaWAvXRRdXz3cKAbM) | 2:28 | 2022-05-13 |  |

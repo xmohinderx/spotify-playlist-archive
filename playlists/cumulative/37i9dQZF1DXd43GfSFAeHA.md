@@ -4,7 +4,7 @@
 
 > Hip\-Hop tracks from the Arab world\. Cover: Flippter x Soulja
 
-122 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
+123 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/70MdVBD0r1zGbWmfrHFVvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Ghaba](https://open.spotify.com/track/45GbniNGdKE7vSgggfcBWl) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Ghaba](https://open.spotify.com/album/3dllHmcOIukOlPcbo5i6mJ) | 3:04 | 2022-05-08 | 2022-07-29 |
 | [Ghaba](https://open.spotify.com/track/4Zpg4neFtdTJJF4wsrTJRa) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [CTRL](https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS) | 3:04 | 2022-07-28 |  |
 | [Go There](https://open.spotify.com/track/30JrbvrpnPM14nTKrY4Dkt) | [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Go There](https://open.spotify.com/album/52CoO1Dl01eN1hfEDOPUP9) | 3:07 | 2022-05-08 | 2022-06-18 |
+| [Habsha \(feat\. Flippter\)](https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Habsha \(feat\. Flippter\)](https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY) | 2:25 | 2022-07-28 |  |
 | [Haifa in a Tesla](https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Haifa in a Tesla](https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4) | 2:45 | 2022-05-08 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-05-08 |  |
 | [Hattatack Battatack](https://open.spotify.com/track/3RzrCMppvv3cYLmAI1KdGp) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [PUBG MOBILE](https://open.spotify.com/artist/7q9bAXCK4bTiYigFMjvs3I) | [Hattatack Battatack](https://open.spotify.com/album/5KYIVbKwWrIyTlXfZr3bQs) | 2:25 | 2022-05-08 | 2022-07-05 |

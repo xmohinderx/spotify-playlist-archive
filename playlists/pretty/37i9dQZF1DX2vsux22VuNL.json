@@ -1,12 +1,12 @@
 {
   "description": "Aquele pop misturado com hip hop ou funk pura brisa. Foto: Lukinhas",
-  "num_followers": 223526,
+  "num_followers": 223586,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5NTc4NiwwMDAwMDAwMGRmYjZjNTQ0ZTZiMjQxZDExMmMyNDM0YjMwNDJmNjk0",
+  "snapshot_id": "MTY1ODQ5NTc4NiwwMDAwMDAwMDUxNTc2NmVjOWI0MDA1ODNhZGRlZGNjOWVjZGQzYmNl",
   "tracks": [
     {
       "added_at": "2022-07-22 13:16:26",
@@ -612,7 +612,7 @@
       "added_at": "2022-07-22 13:16:26",
       "album": {
         "name": "Mais Uma Vez",
-        "url": "https://open.spotify.com/album/0XY8ApnifhMHaRbnzUV8s3"
+        "url": "https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 231055,
-      "name": "Mais Uma Vez",
-      "url": "https://open.spotify.com/track/7JhEJ3NzaPtzCNQ2BU9UGT"
+      "duration_ms": 131571,
+      "name": "Atr\u00e1s Do Meu Amor",
+      "url": "https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -732,7 +732,7 @@
       "added_at": "2022-07-22 13:16:26",
       "album": {
         "name": "Mais Uma Vez",
-        "url": "https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs"
+        "url": "https://open.spotify.com/album/0XY8ApnifhMHaRbnzUV8s3"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 131571,
-      "name": "Atr\u00e1s Do Meu Amor",
-      "url": "https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y"
+      "duration_ms": 231055,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/7JhEJ3NzaPtzCNQ2BU9UGT"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "Marrenta",
-        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        }
-      ],
-      "duration_ms": 167574,
-      "name": "Marrenta",
-      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g"
       },
       "artists": [
         {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
+      "duration_ms": 167574,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1251,6 +1231,26 @@
       "duration_ms": 223448,
       "name": "Eu vim pra Somar",
       "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1383,34 +1383,6 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "Tem Hist\u00f3ria N\u00e3o",
-        "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
-      },
-      "artists": [
-        {
-          "name": "Shark",
-          "url": "https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY"
-        },
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Hector Marks",
-          "url": "https://open.spotify.com/artist/1UEYni0YwBH0Yax3CDhCda"
-        }
-      ],
-      "duration_ms": 230857,
-      "name": "Tem Hist\u00f3ria N\u00e3o",
-      "url": "https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3"
       },
@@ -1435,6 +1407,34 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
+        "name": "Tem Hist\u00f3ria N\u00e3o",
+        "url": "https://open.spotify.com/album/110Oo0yN1VHnLh2vOEblr6"
+      },
+      "artists": [
+        {
+          "name": "Shark",
+          "url": "https://open.spotify.com/artist/1MIG0PfunDzHfQkTMiWsbY"
+        },
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Hector Marks",
+          "url": "https://open.spotify.com/artist/1UEYni0YwBH0Yax3CDhCda"
+        }
+      ],
+      "duration_ms": 230857,
+      "name": "Tem Hist\u00f3ria N\u00e3o",
+      "url": "https://open.spotify.com/track/0r69yZzvm9F96G1zve3lCv"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
+        "name": "No Controle",
+        "url": "https://open.spotify.com/album/3jUBaYSWGMrdUJDNuX8a9j"
+      },
+      "artists": [
+        {
+          "name": "Zoo",
+          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
+        }
+      ],
+      "duration_ms": 169646,
+      "name": "No Controle",
+      "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
         "name": "T\u00e3o Linda (feat. Gabr\u00e1)",
         "url": "https://open.spotify.com/album/39Cb83gAN5BBKXKGYBxB3K"
       },
@@ -1507,18 +1523,30 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
-        "name": "No Controle",
-        "url": "https://open.spotify.com/album/3jUBaYSWGMrdUJDNuX8a9j"
+        "name": "Fora de contexto",
+        "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
       },
       "artists": [
         {
-          "name": "Zoo",
-          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
+          "name": "Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
+        },
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        },
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Joab Beats",
+          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
         }
       ],
-      "duration_ms": 169646,
-      "name": "No Controle",
-      "url": "https://open.spotify.com/track/5N3Eev4bnivAyCQabpYPLX"
+      "duration_ms": 125969,
+      "name": "Fora de contexto",
+      "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1551,34 +1579,6 @@
       "duration_ms": 292122,
       "name": "Brigas",
       "url": "https://open.spotify.com/track/5kv8oFqP33vlEbfrtiTb8M"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
-        "name": "Fora de contexto",
-        "url": "https://open.spotify.com/album/2qWZTDrMZaYJOkYHssLIWN"
-      },
-      "artists": [
-        {
-          "name": "Trist\u00e3o",
-          "url": "https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH"
-        },
-        {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
-        },
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Joab Beats",
-          "url": "https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh"
-        }
-      ],
-      "duration_ms": 125969,
-      "name": "Fora de contexto",
-      "url": "https://open.spotify.com/track/6pyEoSCvWdCvl0EAkVdpDp"
     },
     {
       "added_at": "2022-07-22 13:16:26",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-07-22 13:16:26",
       "album": {
+        "name": "Casal Maior",
+        "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
+      },
+      "artists": [
+        {
+          "name": "Apollo",
+          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Casal Maior",
+      "url": "https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH"
+    },
+    {
+      "added_at": "2022-07-22 13:16:26",
+      "album": {
         "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
         "url": "https://open.spotify.com/album/5gVDwlM3V4T8Qzxt1fX2vG"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 325750,
       "name": "On\u00e7a Sessions #2 - Sobe Adrenalina",
       "url": "https://open.spotify.com/track/4ohl1Edvlp5BNF03lAwGO7"
-    },
-    {
-      "added_at": "2022-07-22 13:16:26",
-      "album": {
-        "name": "Casal Maior",
-        "url": "https://open.spotify.com/album/218D4RjEBzs4cYpcGdjErz"
-      },
-      "artists": [
-        {
-          "name": "Apollo",
-          "url": "https://open.spotify.com/artist/0C2PcyYwXHcPgQpqMdx3O6"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Casal Maior",
-      "url": "https://open.spotify.com/track/1DYjBY5pnt1aNGJB8KuEdH"
     },
     {
       "added_at": "2022-07-22 13:16:26",

@@ -4,12 +4,13 @@
 
 > All new, all blues\. Cover: Dylan Triplett
 
-134 songs - 7 hr 46 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
+138 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Til This Pain Goes Away](https://open.spotify.com/track/0I6N0Vjf4AlSmB1E4rzeyM) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | ['Til This Pain Goes Away](https://open.spotify.com/album/1MA7kYhhBf655BbxahqTjo) | 2:29 | 2021-06-18 | 2022-06-19 |
 | [3AM in Chicago](https://open.spotify.com/track/5ojFJM8fhqK1Ktg69bPmPt) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [3AM in Chicago](https://open.spotify.com/album/23VUe5ASQwqXtLWhMQgTpe) | 3:36 | 2021-05-07 | 2022-05-07 |
+| [AIN'T ONE THING](https://open.spotify.com/track/0z9hvrWumlSIezJeEHCB67) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [AIN'T ONE THING](https://open.spotify.com/album/3KeScJVC2iuPQiKKlAm8q8) | 4:38 | 2022-07-29 |  |
 | [Ain’t Killed Me Yet](https://open.spotify.com/track/06SriLLbBIQos2LyqeNXw3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Ain’t Killed Me Yet](https://open.spotify.com/album/5bSiMgDd7UjgJClHgAF6Qu) | 3:01 | 2022-03-25 |  |
 | [Alafia Moon](https://open.spotify.com/track/70E86POsODghwNfyN2Rgh4) | [Damon Fowler](https://open.spotify.com/artist/6dsP618YZjWbcMvxhvW1ug) | [Alafia Moon](https://open.spotify.com/album/1WGCbDWr7aLtgzursVE3pK) | 4:34 | 2021-03-12 | 2022-03-26 |
 | [All Night](https://open.spotify.com/track/0wTcP4O2Uz0fuGYn9A0q7S) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [All Night](https://open.spotify.com/album/79fPJMto74aSvaI82TJP02) | 3:56 | 2022-07-15 |  |
@@ -31,6 +32,7 @@
 | [Bring on the Pain](https://open.spotify.com/track/5S5uBzMAWzzqwpqxoNnGqq) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 3:54 | 2021-10-19 |  |
 | [Build A Fire](https://open.spotify.com/track/5vi4LOrt3VMUYjR2iYlcFT) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Build A Fire](https://open.spotify.com/album/531NRLXjexHTtkCLGgttcm) | 4:38 | 2021-02-05 | 2022-03-26 |
 | [California](https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY), [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [California](https://open.spotify.com/album/22gJV8W8FZumLASGe2v0kV) | 3:44 | 2022-06-10 |  |
+| [Can't Judge a Book By It's Cover](https://open.spotify.com/track/3yRVKQ4QSXPenUU3xpABPo) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Can't Judge a Book By It's Cover](https://open.spotify.com/album/3Doi1QZvtbTwiV1e4eNv4R) | 2:42 | 2022-07-29 |  |
 | [Can't Stay Away](https://open.spotify.com/track/0KAOUetWwOlmQIbZ5eMoXB) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Purple BLUE](https://open.spotify.com/album/4n6ueWyNmmeqB9OVBPwbWh) | 2:47 | 2021-06-11 | 2022-05-07 |
 | [Cheats and Liars](https://open.spotify.com/track/3gcIVcnO6Y1DLVo8hQaPuM) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/0KvQMS4pJ9rmvBfFyKCcll) | 3:48 | 2021-08-20 | 2022-07-29 |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2021-08-20 |  |
@@ -62,6 +64,7 @@
 | [If You're Gonna Leave Me](https://open.spotify.com/track/1o5m2tSsrzqLyJf6qfmSrO) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [If You're Gonna Leave Me](https://open.spotify.com/album/3yfkg9em3SCAygQPfoORh1) | 5:32 | 2021-05-21 | 2022-05-07 |
 | [In The Water](https://open.spotify.com/track/0RiY8zC9nRkLJmjyWL90Or) | [Flipsyde](https://open.spotify.com/artist/6S9rh06VCCIYEvYMFnVMVN) | [In The Water](https://open.spotify.com/album/5KYbUkIW8rj1anUazzefDx) | 3:38 | 2021-09-03 |  |
 | [It Is What It Is](https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh) | [Bill Daniels](https://open.spotify.com/artist/1AaxjORCdqUfWScr7UACJT) | [It Is What It Is](https://open.spotify.com/album/2Ktr9SyLhkvAKtvBEMqcoF) | 3:01 | 2022-03-11 |  |
+| [Jumpin’ For Joy](https://open.spotify.com/track/6cruucEwiXCf6exdPLYN9n) | [Jimmy Hall](https://open.spotify.com/artist/2LorJQEiLTxNDsJ3jVrQNi) | [Jumpin’ For Joy](https://open.spotify.com/album/1ZpY8QOPygcO1SfiApXNqR) | 3:47 | 2022-07-29 |  |
 | [Keep My Cool](https://open.spotify.com/track/4vEaaqaOh7Aw7cHw7U9enA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:07 | 2021-10-29 |  |
 | [Kind Hearted Woman](https://open.spotify.com/track/2BUMJVgm9JM80VyYKkRzQK) | [Robert J Hunter](https://open.spotify.com/artist/4SFHUtqBqmczfK36THRllG) | [Nothing but Rust](https://open.spotify.com/album/0t4YmNYcOPAddk0G6RKr68) | 4:17 | 2021-07-26 |  |
 | [Last Forever](https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2) | [Shanice Green](https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb) | [Last Forever](https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J) | 3:46 | 2021-02-05 | 2022-03-26 |
@@ -90,6 +93,7 @@
 | [NEVER TELL ME THE ODDS](https://open.spotify.com/track/2iK0Txu1uCzpGH196CsQEf) | [Watt White](https://open.spotify.com/artist/6Os3fHAI2Fma2UzTD91RU8) | [NEVER TELL ME THE ODDS](https://open.spotify.com/album/5SuQXa5Uw9BxJUIyg735rH) | 2:42 | 2022-05-06 |  |
 | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/track/3aUbp8mH1JiPU1ces1S68Q) | [Joanna Cooke](https://open.spotify.com/artist/7EyKy53TsVFLJFZFyYzBZQ) | [No Stranger to the Blues \(Live at Masterlink\)](https://open.spotify.com/album/5ppDYA1ypWs96XBhPq9tXx) | 4:25 | 2021-10-29 |  |
 | [NOT A GOOD MAN WALKING](https://open.spotify.com/track/679ZxPQna36dJmMRvhFwU9) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [NOT A GOOD MAN WALKING](https://open.spotify.com/album/3BXZGAUiUVPOygUqn8meVI) | 2:56 | 2022-03-04 |  |
+| [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 |  |
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2021-02-05 | 2022-03-26 |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 | 2022-05-07 |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 | 2022-03-26 |

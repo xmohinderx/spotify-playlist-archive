@@ -2,9 +2,9 @@
 
 ### [Hip Hop Argento](https://open.spotify.com/playlist/37i9dQZF1DX2v4h8QERQPb)
 
-> Rimas argentinas\. Foto: Trueno.
+> Rimas argentinas\. Foto: MP El Juvenil.
 
-159 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
+161 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Mdb \- la Fiesta Es de Nosotros](https://open.spotify.com/track/50WsYaCHkz2XlACA2CEg6o) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [La Fiesta Es de Nosotros](https://open.spotify.com/album/1qGuVgopycXkOtejQyueW2) | 3:15 | 2022-06-10 |  |
 | [Me Fascina](https://open.spotify.com/track/01sNSCB2YkncNVss6Ob9Pt) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Me Fascina](https://open.spotify.com/album/0pXK80ZNgKd57X5KWK29eg) | 2:56 | 2021-11-26 | 2022-04-12 |
 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 | 2021-11-26 |  |
+| [Me Inspiré](https://open.spotify.com/track/0H2sIpkNJRshjFZubiJ5lY) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [3000](https://open.spotify.com/album/21ahQhM0f44r2sUnf7saMD) | 3:22 | 2022-07-29 |  |
 | [Me Sueltan los Angeles](https://open.spotify.com/track/3MtToQhywGW6Q98cYcHYN1) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Me Sueltan los Ángeles](https://open.spotify.com/album/1n9DVp6idZvlp6qGlat1Rp) | 3:24 | 2022-06-10 |  |
 | [Me Sueltan Los Ángeles](https://open.spotify.com/track/3tM6ndsUT88wEO0tX0I8AR) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Me Sueltan Los Ángeles](https://open.spotify.com/album/71zv2vayOQx9OuuoTR9gPP) | 3:24 | 2021-11-26 | 2022-07-29 |
 | [MELÓN VINO](https://open.spotify.com/track/7xQgtdHA1NHFTmomE2XHhi) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [MELÓN VINO](https://open.spotify.com/album/642DHM5L0ZjQZYGPKELOqN) | 2:56 | 2021-11-26 |  |
@@ -159,7 +160,8 @@
 | [Tengo Sed](https://open.spotify.com/track/3acTJvD1eCLOBfBG4hAbfe) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Grey Music Family](https://open.spotify.com/artist/4btCAKNquYQ6fhrocy2QDm) | [Tengo Sed](https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE) | 2:28 | 2022-04-11 |  |
 | [THROW UP SESSION \#1](https://open.spotify.com/track/4AmkflbQtBjOjNwSt92P1u) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#1](https://open.spotify.com/album/0fpnN5zwByW6DeHbQ2hnY7) | 2:31 | 2021-11-26 |  |
 | [THROW UP SESSION \#3](https://open.spotify.com/track/01UQtSmwS81vFhFIYssL3X) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [THROW UP SESSION \#3](https://open.spotify.com/album/27owiW0lkPzBp29osg0VWZ) | 3:51 | 2021-11-26 |  |
-| [Tiki Tiki](https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Dionni6x](https://open.spotify.com/artist/4EGrrCV9oQud0iuTekbUhr) | [Tiki Tiki](https://open.spotify.com/album/4i9DE82wZ7AIbIQ3ZNapgX) | 3:15 | 2021-11-26 |  |
+| [Tiki Tiki](https://open.spotify.com/track/3rgB1ONEntmwiQmdgYjTlL) | [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY), [Dionni6x](https://open.spotify.com/artist/4EGrrCV9oQud0iuTekbUhr) | [Tiki Tiki](https://open.spotify.com/album/4i9DE82wZ7AIbIQ3ZNapgX) | 3:15 | 2021-11-26 | 2022-07-30 |
+| [Tiro de Gracia](https://open.spotify.com/track/01zR0xLjDBmzdg5rADeinp) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Tiro de Gracia](https://open.spotify.com/album/1FeSej0INTejbdQZYJT2am) | 3:27 | 2022-07-29 |  |
 | [Vamos a Fumar](https://open.spotify.com/track/5QdCyE9LAGTcJCpusRvKYh) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Vamos a Fumar](https://open.spotify.com/album/32DlSEQVurR7UvVoBxmiH2) | 3:06 | 2022-03-11 |  |
 | [Ventrílocuo](https://open.spotify.com/track/32ZzE1I9dEjcZM6q4DPKAK) | [Santoz](https://open.spotify.com/artist/3TBQtYdNFCgig6ZrFUJkLx) | [Ventrílocuo](https://open.spotify.com/album/0JunW3Lcvu4oGpsm5Vop9R) | 2:26 | 2022-02-25 | 2022-04-12 |
 | [VIAIPI](https://open.spotify.com/track/0CYagVsyiywAsIncn4J32M) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [VIAIPI](https://open.spotify.com/album/6rTohz8oiz7KMskyYQiv68) | 2:26 | 2022-06-10 |  |

@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Ceci Reis\. Arte: Isu Kim
 
-128 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+129 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Como Se Faz](https://open.spotify.com/track/5NmKfLVhK9sM8rCqXRcSs3) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Como Se Faz](https://open.spotify.com/album/5aVvaWcVo7uVqoRdEnhrw4) | 2:09 | 2022-01-07 | 2022-06-24 |
 | [Consequências](https://open.spotify.com/track/6KUbYGwejSwepQzD4yZ4vJ) | [Anum Preto](https://open.spotify.com/artist/01zIROcqWjGFgVJxYGxq9O) | [Anum Preto](https://open.spotify.com/album/4EXJxigpLtRwP5IIVSuK5M) | 3:55 | 2022-01-07 |  |
 | [Da Vida](https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6) | [Márcio Lugó](https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM), [Hugo Branquinho](https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs) | [Da Vida](https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb) | 3:00 | 2022-07-22 |  |
+| [DEPRIMIDA](https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g) | [Julia Joia](https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ) | [DEPRIMIDA](https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp) | 2:35 | 2022-07-29 |  |
 | [Desamor](https://open.spotify.com/track/0ALH6Nj9I5t3DkYTvg0And) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Refúgio](https://open.spotify.com/album/3nP5WWMB5Wgx4lX752C1dC) | 2:46 | 2022-02-04 | 2022-04-02 |
 | [Desejos de um Leão](https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U) | [Uiu Lopes](https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ), [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Desejos de um Leão](https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2) | 3:13 | 2022-07-22 |  |
 | [Deslize de Delírio Inconsequente](https://open.spotify.com/track/7afauHi7fLtMLLqLVTzg5J) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Deslize de Delírio Inconsequente](https://open.spotify.com/album/2CJXL6hmyqNaS3ogixCUY1) | 3:56 | 2022-01-07 | 2022-07-23 |
@@ -76,7 +77,7 @@
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |
 | [Nuvem \(Ai Claud\)](https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM) | [CARU](https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl) | [Paris, Bahia](https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn) | 3:08 | 2022-05-16 |  |
 | [não quero mais](https://open.spotify.com/track/7xNzeLQ99dEHlVCc8HlZWH) | [Éfiro](https://open.spotify.com/artist/125xksJYdjAqKWY1AJN9I8) | [não quero mais](https://open.spotify.com/album/2V3LOIrrupnAe7GWofTlAV) | 3:08 | 2022-01-07 |  |
-| [NÃO SEI](https://open.spotify.com/track/5OyKA7CtZRWqs2LQm5NB5R) | [Táia](https://open.spotify.com/artist/1tbwLUZohS2CJkoZuMHQJi), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb) | [NÃO SEI](https://open.spotify.com/album/5gBPcIHlgdgOzo8WGXv2lS) | 2:49 | 2022-01-07 |  |
+| [NÃO SEI](https://open.spotify.com/track/5OyKA7CtZRWqs2LQm5NB5R) | [Táia](https://open.spotify.com/artist/1tbwLUZohS2CJkoZuMHQJi), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb) | [NÃO SEI](https://open.spotify.com/album/5gBPcIHlgdgOzo8WGXv2lS) | 2:49 | 2022-01-07 | 2022-07-30 |
 | [Não É o Fim](https://open.spotify.com/track/1eglwH0XCMtBZFdFDVVwDQ) | [Fabricio Viliano](https://open.spotify.com/artist/5bh2V6fLLF2PJ0authHVfZ) | [Manifesto](https://open.spotify.com/album/3NyqmwpKUcPZFumDnmAAtk) | 3:49 | 2022-01-07 | 2022-02-05 |
 | [O Que Ha La](https://open.spotify.com/track/7nrsy3Mlq8sF8ROJ4PajWx) | [Mulungu](https://open.spotify.com/artist/09e6CSFEi3geEtxuFmri3y) | [O Que Há Lá](https://open.spotify.com/album/01jZA3S7AUVAxgf5px1XdX) | 3:35 | 2022-01-07 | 2022-04-16 |
 | [objetos sensíveis](https://open.spotify.com/track/4qbdMHoYoyc6N0fBB3wXim) | [camilobers](https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO), [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [objetos sensíveis](https://open.spotify.com/album/5UODkKaAqXRsU6icUCpL36) | 2:53 | 2022-01-07 |  |

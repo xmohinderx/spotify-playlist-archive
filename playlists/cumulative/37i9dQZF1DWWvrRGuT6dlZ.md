@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Tiara Maimun\. Artwork: Isu Kim.
 
-247 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
+251 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Over Overthinking](https://open.spotify.com/track/4pnbyipG5l8dTE1tnMc24d) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Over Overthinking](https://open.spotify.com/album/4oOyFDgWnKk1HhPLoUuHx0) | 2:00 | 2022-01-13 | 2022-06-17 |
 | [Over The Moon](https://open.spotify.com/track/7MFMicI9kiV2QKmhSzhGTr) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Over The Moon](https://open.spotify.com/album/76ggCBGXOVOf3nru9bFccp) | 3:23 | 2022-03-24 | 2022-07-08 |
 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 | 2022-04-21 |  |
+| [Picture Perfect Frame](https://open.spotify.com/track/4WmqgA6QIb2onisiT3lf8H) | [Priscilla Tan](https://open.spotify.com/artist/6NQvsrsNDtJZvnEkB5fJ4e) | [Picture Perfect Frame](https://open.spotify.com/album/3U8rqvPjX9zy5zJSIa009Z) | 3:15 | 2022-07-28 |  |
 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 | 2022-01-20 |  |
 | [Pity Party](https://open.spotify.com/track/2Z25fVRiv9kkCuYCpqf8dX) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [Pity Party](https://open.spotify.com/album/1XVl95v68LAUXP8r90DQIb) | 3:32 | 2022-02-17 | 2022-07-08 |
 | [Planet Platonic](https://open.spotify.com/track/2iLKtJzLGtRjoRrMvVH5OU) | [The Filters](https://open.spotify.com/artist/0aI4dzoQSvBzjaBZgUuBW5) | [Exhaler](https://open.spotify.com/album/0UDeKLntX39tPUbxU4hW9n) | 6:10 | 2022-05-27 |  |
@@ -192,6 +193,7 @@
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [Runway](https://open.spotify.com/track/4hAs3NCpwL8Lhr4GcL9kkV) | [Cadence](https://open.spotify.com/artist/0MtXc3VR14iObCndBTBHTr) | [Runway](https://open.spotify.com/album/3mrOvZdzJgCflKQdJDBxPs) | 3:32 | 2022-01-13 | 2022-06-17 |
 | [Sad Blue Eyes](https://open.spotify.com/track/17BCfjdEFjp0LdbYiZMpIp) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/51Z8I8NYJTJ0xvhJ85KBPf) | 3:22 | 2021-12-01 | 2022-01-14 |
+| [Safety First](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [Safety First](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 | 2022-07-28 |  |
 | [SAUCE!](https://open.spotify.com/track/7nqGdKjlt1X4hBuPB2Ccm4) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [SAUCE!](https://open.spotify.com/album/7wKL6WBL0lxZlo8h8thdDf) | 2:27 | 2022-02-10 | 2022-06-17 |
 | [Shadows](https://open.spotify.com/track/4aw1CYgrgWNUDWXmuXhtLK) | [Redwan Hamzah](https://open.spotify.com/artist/6gubGGxqITX4wIbRHqEMUE) | [Shadows](https://open.spotify.com/album/3vLoez9XAXujGBr7CQjavo) | 4:58 | 2022-01-27 | 2022-06-17 |
 | [Shape of Your Love](https://open.spotify.com/track/7zvCdlYkabM6T5E1V1OvVl) | [HE1ST](https://open.spotify.com/artist/3qaVa0rLcDzCWzKjpJdKCX) | [Shape of Your Love](https://open.spotify.com/album/4inJZlyjetZp8JmA3JpMOZ) | 3:14 | 2021-12-01 | 2022-01-14 |
@@ -234,9 +236,11 @@
 | [WAX](https://open.spotify.com/track/1gZjZaB1BAYB3Y1u7z2Ahe) | [Opus Renegade](https://open.spotify.com/artist/28M9xINIoXsjRHNRHPWckr), [jimmy\_thegoat](https://open.spotify.com/artist/47guwsdQUnnKYOEInCv42p) | [WAX](https://open.spotify.com/album/76ru3A54fpOk0TrCUt5VLn) | 3:40 | 2022-01-13 | 2022-06-17 |
 | [We Go Up](https://open.spotify.com/track/0hs8RVXULjZT1J6zUleFY7) | [Athalia](https://open.spotify.com/artist/6aUdnZx15EMag2kqCMA4JY) | [We Go Up](https://open.spotify.com/album/60CJ9rniWbwLLYZidRynR9) | 3:41 | 2022-06-02 |  |
 | [We Might Never Meet Again](https://open.spotify.com/track/5UaGOJ90MCcMXoxMClpPJA) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm), [Rachma Lim](https://open.spotify.com/artist/64x2dv2UztJeBB2vbTHsrt) | [Isolation](https://open.spotify.com/album/56tfCDnuPqmpw6gJ5B2l7s) | 4:26 | 2022-01-13 | 2022-06-17 |
+| [What About Me](https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [What About Me](https://open.spotify.com/album/3eecVVjE70mnWV4R4uari7) | 3:25 | 2022-07-28 |  |
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 | 2022-01-13 | 2022-03-11 |
+| [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 | 2022-07-28 |  |
 | [WHAT YOU WANT](https://open.spotify.com/track/5o1eKj6je4mkFXU6nElgoJ) | [Zane Cotton](https://open.spotify.com/artist/7nXSLhAflRRo3t0AxWQOBq), [IN THE NOW](https://open.spotify.com/artist/7uBh7DKzz106BQ0VBDEBv6) | [WHAT YOU WANT](https://open.spotify.com/album/35oOzGPopdz0dXGXjK8Imo) | 2:41 | 2022-04-28 | 2022-07-29 |
 | [when it's not okay](https://open.spotify.com/track/4WJbqIU8HC6xaQFXrcWx7E) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [when it's not okay](https://open.spotify.com/album/1fkIoo5XN2F9VFAVLBmxPH) | 3:03 | 2022-04-21 |  |
 | [where do i go?](https://open.spotify.com/track/5sn3NDqkXVfWj0r7HhdeFj) | [JQ x ZUL](https://open.spotify.com/artist/5TrKlQCi5tcAKAXfWKrR4N) | [where do i go?](https://open.spotify.com/album/2LGiCNgUyWiwBNlo83FQFD) | 2:57 | 2022-01-13 | 2022-06-17 |

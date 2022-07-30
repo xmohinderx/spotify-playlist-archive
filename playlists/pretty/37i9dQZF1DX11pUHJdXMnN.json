@@ -1,49 +1,13 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 49929,
+  "num_followers": 49978,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDk5MDFlMzY4ODA2MTcxYzgwYmM3MGU5MjE1ZWFlNWRk",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGU5MWE5YjYzNDMxNzcxNDk5MmI2NWQ2MTZmNWIzNDM0",
   "tracks": [
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Picture: Adana Twins",
-        "url": "https://open.spotify.com/album/59Vuirk9qcwJkih26Uhei7"
-      },
-      "artists": [
-        {
-          "name": "Adana Twins",
-          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 515087,
-      "name": "My Computer",
-      "url": "https://open.spotify.com/track/0EFONrcgPNCnkQSJ7Y3PnI"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Divine Reality",
-        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
-      },
-      "artists": [
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 459250,
-      "name": "Divine Reality",
-      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
-    },
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
@@ -67,6 +31,42 @@
       "duration_ms": 255858,
       "name": "Deleters - Palms Trax Remix",
       "url": "https://open.spotify.com/track/3fjnuScFmpj8zKaZVMzuU0"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Divine Reality",
+        "url": "https://open.spotify.com/album/15eAEjJ4qWNLbtTACrb0oK"
+      },
+      "artists": [
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 459250,
+      "name": "Divine Reality",
+      "url": "https://open.spotify.com/track/45ITwtPzk2n7XBWGD32NZb"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Picture: Adana Twins",
+        "url": "https://open.spotify.com/album/59Vuirk9qcwJkih26Uhei7"
+      },
+      "artists": [
+        {
+          "name": "Adana Twins",
+          "url": "https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 515087,
+      "name": "My Computer",
+      "url": "https://open.spotify.com/track/0EFONrcgPNCnkQSJ7Y3PnI"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Sununguka (feat. Zeke Manyika)",
         "url": "https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 409961,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",

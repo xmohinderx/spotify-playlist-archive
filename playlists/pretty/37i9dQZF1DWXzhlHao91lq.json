@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 61538,
+  "num_followers": 61556,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxNDIwMCwwMDAwMDAwMDBlYzdlMTExMTA4NDM5ODE3YzdkODEzZGM2MjViYjlj",
+  "snapshot_id": "MTY1ODcxNDIwMCwwMDAwMDAwMDhiNzAyMTM5MjFjZTkzMTllMmQyNDI3ZDQ0Y2I3ZGI2",
   "tracks": [
     {
       "added_at": "2022-07-25 01:56:40",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-07-25 01:56:40",
       "album": {
-        "name": "rainbow",
-        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        }
-      ],
-      "duration_ms": 202835,
-      "name": "rainbow",
-      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
-    },
-    {
-      "added_at": "2022-07-25 01:56:40",
-      "album": {
         "name": "Intentions (Acoustic)",
         "url": "https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 160611,
       "name": "Intentions - Acoustic",
       "url": "https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU"
+    },
+    {
+      "added_at": "2022-07-25 01:56:40",
+      "album": {
+        "name": "rainbow",
+        "url": "https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        }
+      ],
+      "duration_ms": 202835,
+      "name": "rainbow",
+      "url": "https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI"
     },
     {
       "added_at": "2022-07-25 01:56:40",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-25 01:56:40",
       "album": {
-        "name": "Ordinary People",
-        "url": "https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 253597,
-      "name": "Ordinary People",
-      "url": "https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l"
-    },
-    {
-      "added_at": "2022-07-25 01:56:40",
-      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 181139,
       "name": "Catholic Country",
       "url": "https://open.spotify.com/track/4sIGvv9NQzQ9JCpKXRANb3"
+    },
+    {
+      "added_at": "2022-07-25 01:56:40",
+      "album": {
+        "name": "Ordinary People",
+        "url": "https://open.spotify.com/album/5ofUV5bkz4T0rWWwJdhoOR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 253597,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/0FrHyYxj92dg4qIu8BO30l"
     },
     {
       "added_at": "2022-07-25 01:56:40",

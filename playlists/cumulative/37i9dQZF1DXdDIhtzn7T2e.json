@@ -646,6 +646,24 @@
     },
     {
       "album": {
+        "name": "Mary Wanna",
+        "url": "https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0"
+      },
+      "artists": [
+        {
+          "name": "Jason Nix",
+          "url": "https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176911,
+      "name": "Mary Wanna",
+      "url": "https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2"
+    },
+    {
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },

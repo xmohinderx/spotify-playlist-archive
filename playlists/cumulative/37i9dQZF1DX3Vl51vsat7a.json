@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "A$AP & Rihanna",
+        "url": "https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112212,
+      "name": "A$AP & Rihanna",
+      "url": "https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE"
+    },
+    {
+      "album": {
         "name": "Universum regelt",
         "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
       },

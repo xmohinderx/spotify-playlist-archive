@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4252,
+  "num_followers": 4271,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjM1NSwwMDAwMDAwMDlmMDNjN2JhNzFjZDM3Y2MxNWI2YzMyMDM5OThiZmE0",
+  "snapshot_id": "MTY1ODQ4MjM1NSwwMDAwMDAwMGE0YjkxZDJmOWE1Y2I4NTdhMTc4OGUxNmNhNTY3ZjY1",
   "tracks": [
     {
       "added_at": "2022-07-22 09:32:35",
@@ -175,6 +175,26 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2022-07-22 09:32:35",
+      "album": {
         "name": "School Rapper 2 Team-Battle Part 3",
         "url": "https://open.spotify.com/album/5gzRcFZt1zI7Vpxq3N14vL"
       },
@@ -243,30 +263,6 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
-        "name": "TOYSTORY3",
-        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Never Ending Story (Feat. Dynamicduo)",
-      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
-    },
-    {
-      "added_at": "2022-07-22 09:32:35",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -327,6 +323,30 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
+        "name": "TOYSTORY3",
+        "url": "https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Never Ending Story (Feat. Dynamicduo)",
+      "url": "https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO"
+    },
+    {
+      "added_at": "2022-07-22 09:32:35",
+      "album": {
         "name": "X (Butterfly)",
         "url": "https://open.spotify.com/album/3e2okh8YnoNB96g31VWF0O"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 193622,
       "name": "X (Butterfly)",
       "url": "https://open.spotify.com/track/0igz9eQ1yNnb8RG8gkuSOS"
-    },
-    {
-      "added_at": "2022-07-22 09:32:35",
-      "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
     },
     {
       "added_at": "2022-07-22 09:32:35",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
+      },
+      "artists": [
+        {
+          "name": "GARY",
+          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
+        }
+      ],
+      "duration_ms": 217019,
+      "name": "Lonely Night (feat.GAEKO)",
+      "url": "https://open.spotify.com/track/7ftv3uigGigYVND065syjM"
+    },
+    {
+      "added_at": "2022-07-22 09:32:35",
+      "album": {
         "name": "School Rapper3 Final",
         "url": "https://open.spotify.com/album/2BJzRehqZMKrajV0uRHzeU"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 229467,
       "name": "HERE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/0CLJv5Pc0DZbuo78MqLyrG"
-    },
-    {
-      "added_at": "2022-07-22 09:32:35",
-      "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
-      },
-      "artists": [
-        {
-          "name": "GARY",
-          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
-        }
-      ],
-      "duration_ms": 217019,
-      "name": "Lonely Night (feat.GAEKO)",
-      "url": "https://open.spotify.com/track/7ftv3uigGigYVND065syjM"
     },
     {
       "added_at": "2022-07-22 09:32:35",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
-    },
-    {
-      "added_at": "2022-07-22 09:32:35",
-      "album": {
         "name": "Future Boy",
         "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 124263,
       "name": "Future Boy",
       "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
+    },
+    {
+      "added_at": "2022-07-22 09:32:35",
+      "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2022-07-22 09:32:35",

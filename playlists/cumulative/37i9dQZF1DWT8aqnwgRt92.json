@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/2esNXPhXxK55Hz4gLzaXwL"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/1s4dzs3zHzzzqYSLMtNHpN"
+    },
+    {
+      "album": {
         "name": "Happy! Happier! Happiest!",
         "url": "https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40"
       },

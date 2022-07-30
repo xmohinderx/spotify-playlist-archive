@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Joey Bada$$, Tyler, The Creator Kendrick Lamar and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Joey Bada$$, Tyler, The Creator, Kendrick Lamar and more",
   "name": "JumpOff",
   "published_playlist_ids": [
     "14bEBF0XIXvpomoPm6muAO"
@@ -249,6 +249,24 @@
       "duration_ms": 171319,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
+    },
+    {
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "album": {
@@ -651,7 +669,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 237904,
       "name": "Mrs. Davis",
       "url": "https://open.spotify.com/track/6R8OyxlpbW1F00R2eJRiHk"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 140004,
       "name": "Trapping",
       "url": "https://open.spotify.com/track/4X8fsPGW6yNOSehbxNfzju"
@@ -1161,6 +1179,24 @@
       "duration_ms": 192956,
       "name": "Wants and Needs (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "BIGGS",
+        "url": "https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200254,
+      "name": "Wasp",
+      "url": "https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP"
     },
     {
       "album": {

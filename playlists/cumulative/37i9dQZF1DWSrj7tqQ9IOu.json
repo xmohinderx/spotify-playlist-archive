@@ -214,6 +214,28 @@
     },
     {
       "album": {
+        "name": "postcard from L.A.",
+        "url": "https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Garrett Nash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186194,
+      "name": "blueberry stains",
+      "url": "https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA"
       },
@@ -2235,6 +2257,28 @@
       "duration_ms": 199880,
       "name": "Reviens",
       "url": "https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr"
+    },
+    {
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR"
+      },
+      "artists": [
+        {
+          "name": "Chillpac",
+          "url": "https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl"
+        },
+        {
+          "name": "Cl\u00e9",
+          "url": "https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195067,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs"
     },
     {
       "album": {

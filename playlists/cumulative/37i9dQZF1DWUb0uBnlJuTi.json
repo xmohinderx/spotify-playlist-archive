@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 225566,
       "name": "Cherub",
       "url": "https://open.spotify.com/track/6rl1zyb30Edxrhz4QvRDUK"
@@ -947,6 +947,28 @@
       "duration_ms": 375026,
       "name": "Coming to You Live",
       "url": "https://open.spotify.com/track/0fe8ABoiVGgW0OUxzJWmNb"
+    },
+    {
+      "album": {
+        "name": "Confirmation",
+        "url": "https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej"
+      },
+      "artists": [
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        },
+        {
+          "name": "re os - REO MATSUMOTO",
+          "url": "https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295176,
+      "name": "Confirmation",
+      "url": "https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8"
     },
     {
       "album": {

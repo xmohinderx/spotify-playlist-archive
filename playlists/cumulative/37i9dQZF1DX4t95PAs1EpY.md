@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-220 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
+221 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/6QwEG0lxiO8QjBCn34RATR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cognac](https://open.spotify.com/track/3ULY7sln0jffsuZhVlSnB8) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Cognac](https://open.spotify.com/album/3nUgwqbeVV4ZPckOwVrivL) | 2:16 | 2021-12-07 |  |
 | [colors of a night](https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [colors of a night](https://open.spotify.com/album/0pk3a6XFh1WiuhXwCphASp) | 1:56 | 2021-12-07 |  |
 | [Come The Money](https://open.spotify.com/track/5yO3E2n5bHBeRir4URHOtG) | [Chuck Morrison](https://open.spotify.com/artist/6m3viXMwlZLZFKL8EQsDnB) | [Come The Money](https://open.spotify.com/album/2BhirANPh4QcvnH0F98mPT) | 2:12 | 2021-12-07 |  |
+| [Corals](https://open.spotify.com/track/2343xsreIBUaCjwbyLlDuk) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Corals](https://open.spotify.com/album/6F58s8DspnQzyyLRp0C58n) | 2:11 | 2022-07-29 |  |
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-12-07 |  |
 | [cube](https://open.spotify.com/track/62DXVqz8CdKLH2xsJiRAvE) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [cube](https://open.spotify.com/album/1I7pnfVVnQEeWte95QP6Nv) | 2:22 | 2022-02-28 |  |
 | [Daybreak](https://open.spotify.com/track/2MdpwUHQLQ7yJwQh9oxksN) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW), [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Daybreak](https://open.spotify.com/album/4i16zC5CPIWVLdD3dFdGgJ) | 2:45 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Soph T\. x Juice Boy
 
-189 songs - 11 hr 16 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+191 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [再一起努力吧](https://open.spotify.com/track/4wW1VuLbZRMjrOmlcO0ZHj) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e) | [再一起努力吧](https://open.spotify.com/album/4zPHilvExzmbeChsEPayqi) | 3:17 | 2022-07-14 |  |
 | [前面转个弯](https://open.spotify.com/track/1R5L6GWG5ir4UoiP7sosEp) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [前面转个弯](https://open.spotify.com/album/1xmW2luzaHK2LKkuOuzsqn) | 3:28 | 2021-12-30 |  |
 | [卡住了](https://open.spotify.com/track/0QlFpakc8R9rWbVpJD8rj4) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [卡住了](https://open.spotify.com/album/1rsu3gm5X00NlUqaEBbZP7) | 2:59 | 2022-03-31 | 2022-06-17 |
+| [厌倦厌倦 \(feat\. Juice Boy\)](https://open.spotify.com/track/7mLfi3ysLn7UpeALHB6w98) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [厌倦厌倦 \(feat\. Juice Boy\)](https://open.spotify.com/album/71g4mXQADVcwS3YMQ7G1Cq) | 3:27 | 2022-07-28 |  |
 | [厭世小姐](https://open.spotify.com/track/5GhKeEV32VP2P3b8ynR3pX) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [厭世小姐](https://open.spotify.com/album/2u00VWRSdVfCFhzFtK09VH) | 3:23 | 2022-01-13 | 2022-03-25 |
 | [句号想念问号](https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [句号想念问号](https://open.spotify.com/album/37RjBAZMoEQAnmbOC3BRJF) | 2:59 | 2022-03-24 | 2022-07-01 |
 | [各就各位!預備!](https://open.spotify.com/track/26GJ3VhzsYhhdKB7E2Q7F5) | [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4) | [各就各位!預備!](https://open.spotify.com/album/5V1WgnpWAL3wYsNqwXCAcP) | 3:22 | 2022-03-24 | 2022-06-10 |
@@ -175,6 +176,7 @@
 | [舊吉他](https://open.spotify.com/track/0uzCjSRzNUtjga2EBHMcZS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [舊吉他](https://open.spotify.com/album/0OeBgpBdO48hW2S8YGO4IH) | 3:45 | 2022-03-24 |  |
 | [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-02-17 |  |
 | [虧欠](https://open.spotify.com/track/5yiJ65THPeXiZFcYwh8t1U) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [虧欠](https://open.spotify.com/album/0UvqTkCJvKAt4W20NGu4SG) | 3:39 | 2021-12-30 | 2022-06-24 |
+| [蝕罪人](https://open.spotify.com/track/2J89ZZfadlCxgPT4QTQjaV) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [蝕罪人](https://open.spotify.com/album/5Q7EfTvJIpIYyKAuothmjE) | 3:21 | 2022-07-28 |  |
 | [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 | 2022-03-24 | 2022-05-27 |
 | [血肉](https://open.spotify.com/track/7sGuReeKI5Q1AkBc1AOKkP) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/7xJYGibKb3w5YK25Zf4vrp) | 3:05 | 2021-12-30 | 2022-04-08 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2021-12-30 | 2022-03-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "California music breaking waves. Cover: Rexx Life Raj",
+  "description": "California music breaking waves. Cover: Buddy",
   "name": "Ripple Effect: Bay to LA ",
   "published_playlist_ids": [
     "7aCz9WTkVveWry6ECm9qAk"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 164436,
       "name": "Ay Caramba",
       "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 152241,
       "name": "Baby Boo (with Saweetie)",
       "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
@@ -1318,6 +1318,24 @@
     },
     {
       "album": {
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
+      },
+      "artists": [
+        {
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205536,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
+    },
+    {
+      "album": {
         "name": "Childish (feat. Rexx Life Raj & Jane Handcock)",
         "url": "https://open.spotify.com/album/77FNnNqpBkfIEF4lqZaKqD"
       },
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 189773,
       "name": "CORSA",
       "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 150099,
       "name": "Do You Mind?",
       "url": "https://open.spotify.com/track/3Yw4XSNVeRl63rAYtP8Aq4"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 145945,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt"
@@ -2121,6 +2139,46 @@
       "duration_ms": 183092,
       "name": "F.W.I",
       "url": "https://open.spotify.com/track/4jtcNqI7eJ44IC6xeAOeDC"
+    },
+    {
+      "album": {
+        "name": "Factually Spoken",
+        "url": "https://open.spotify.com/album/38a1clAiFyIzYHDHXquBG3"
+      },
+      "artists": [
+        {
+          "name": "Young Jr",
+          "url": "https://open.spotify.com/artist/4UML9DAjkAlaVpOKfbY3pO"
+        },
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Factually Spoken",
+      "url": "https://open.spotify.com/track/5tFdMFZhurOl9Q3f1L4wwz"
+    },
+    {
+      "album": {
+        "name": "Letters 2 U",
+        "url": "https://open.spotify.com/album/29g1LnngoNk0WyQyAWVQZj"
+      },
+      "artists": [
+        {
+          "name": "4L JAVI",
+          "url": "https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151347,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/0S9daaQdXj5b1p9h59Iold"
     },
     {
       "album": {
@@ -2543,10 +2601,36 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 120948,
       "name": "Good (feat. Larry June)",
       "url": "https://open.spotify.com/track/0eDh4TtyNQHy4JlRAy08KT"
+    },
+    {
+      "album": {
+        "name": "Good Lookin'",
+        "url": "https://open.spotify.com/album/2REFyzgyEweLsle5Exzckd"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157959,
+      "name": "Good Lookin'",
+      "url": "https://open.spotify.com/track/4ryoikZkNsblyaWa9xnZsz"
     },
     {
       "album": {
@@ -3034,6 +3118,36 @@
     },
     {
       "album": {
+        "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
+        "url": "https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201248,
+      "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
+      "url": "https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS"
+    },
+    {
+      "album": {
         "name": "In My Head (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/7CN4YY7AIz6Fh1FYNlRvaS"
       },
@@ -3053,6 +3167,24 @@
       "duration_ms": 130117,
       "name": "In My Head (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/3I3O8aazwBKkXN6RNjY06L"
+    },
+    {
+      "album": {
+        "name": "In My Pockets",
+        "url": "https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "In My Pockets",
+      "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
     },
     {
       "album": {
@@ -3137,6 +3269,24 @@
       "duration_ms": 185410,
       "name": "ISLY",
       "url": "https://open.spotify.com/track/7tjinNOtfRQydDmXFPzfbL"
+    },
+    {
+      "album": {
+        "name": "It's Enough",
+        "url": "https://open.spotify.com/album/62AibMK68ZlPe5yFTXkfZY"
+      },
+      "artists": [
+        {
+          "name": "Chris O'Bannon",
+          "url": "https://open.spotify.com/artist/0x3uLrfIo751mWzFlyVEn9"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "It's Enough",
+      "url": "https://open.spotify.com/track/4k3qC8wZcoKkgTaNTNyCYT"
     },
     {
       "album": {
@@ -3321,7 +3471,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 190186,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/4Eqh4gcgdAda3Dk2H1lbvc"
@@ -3608,6 +3758,24 @@
     },
     {
       "album": {
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158350,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "album": {
         "name": "Like The Way You Move (feat. Blueface)",
         "url": "https://open.spotify.com/album/4VNCOZl2fmc7xskD1CXHoE"
       },
@@ -3681,7 +3849,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 127896,
       "name": "living off the land",
       "url": "https://open.spotify.com/track/7Grta2GOsm1vjW51gnRRuk"
@@ -3729,6 +3897,28 @@
       "duration_ms": 139652,
       "name": "Lock Smith",
       "url": "https://open.spotify.com/track/4WGhvW8Wamy5rQCZ3vpWfz"
+    },
+    {
+      "album": {
+        "name": "Superghetto (Deluxe)",
+        "url": "https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158003,
+      "name": "Long Day (Pussy Crazy) (feat. Gwen Bunn)",
+      "url": "https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh"
     },
     {
       "album": {
@@ -4643,7 +4833,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 164158,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2aKdhAWm1SX4B7KY5QuGB6"
@@ -4731,7 +4921,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 163200,
       "name": "OUTTA LINE (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4hQuav9ztD1m6ISqTW81Vh"
@@ -4908,6 +5098,24 @@
     },
     {
       "album": {
+        "name": "Pootie Tang (G.T.K.Y)",
+        "url": "https://open.spotify.com/album/2GLWCjmTKFZGRxIQXHgcvx"
+      },
+      "artists": [
+        {
+          "name": "Your Grandparents",
+          "url": "https://open.spotify.com/artist/4H2uN93zRcRAVmTINvxuiq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212867,
+      "name": "Pootie Tang (G.T.K.Y)",
+      "url": "https://open.spotify.com/track/64cbbJwQHReRmRaXCZO07f"
+    },
+    {
+      "album": {
         "name": "PORN ACTING*",
         "url": "https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk"
       },
@@ -5036,6 +5244,24 @@
     },
     {
       "album": {
+        "name": "PRO",
+        "url": "https://open.spotify.com/album/07PEh5SjC5jU0C8DaB1mcg"
+      },
+      "artists": [
+        {
+          "name": "Day Sulan",
+          "url": "https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182823,
+      "name": "PRO",
+      "url": "https://open.spotify.com/track/2wQTsC2OgmTcgwlH2A79JY"
+    },
+    {
+      "album": {
         "name": "Provide",
         "url": "https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa"
       },
@@ -5153,7 +5379,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
@@ -5497,7 +5723,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 252037,
       "name": "Second Hand Smoke",
       "url": "https://open.spotify.com/track/6PK2shLJ7mtejAvgSYDoLV"
@@ -5787,6 +6013,36 @@
       "duration_ms": 156820,
       "name": "South Beach For The Week",
       "url": "https://open.spotify.com/track/2nzmtlL0Jt7k0TuePVK3t0"
+    },
+    {
+      "album": {
+        "name": "South Central 2 South East",
+        "url": "https://open.spotify.com/album/1DXMyoUd0ckhzTSRgperoc"
+      },
+      "artists": [
+        {
+          "name": "Tr3yway6k",
+          "url": "https://open.spotify.com/artist/00TAFGfXmqhVr8Ouu8psBF"
+        },
+        {
+          "name": "Young Slo-Be",
+          "url": "https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM"
+        },
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        },
+        {
+          "name": "YoungThreat",
+          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "South Central 2 South East",
+      "url": "https://open.spotify.com/track/0VAEHfsdImvle7l66Dl8tf"
     },
     {
       "album": {
@@ -6104,6 +6360,24 @@
     },
     {
       "album": {
+        "name": "Talk To Em",
+        "url": "https://open.spotify.com/album/7lmN187oDznrLVoiXweVQr"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138720,
+      "name": "Talk To Em",
+      "url": "https://open.spotify.com/track/22bLNe5600Ky4haT0oxK4o"
+    },
+    {
+      "album": {
         "name": "My Ghetto Report Card",
         "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
       },
@@ -6217,7 +6491,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 162351,
       "name": "Thang Thangin",
       "url": "https://open.spotify.com/track/4Yzne4x3hUqWcT5m47gNU9"
@@ -6410,6 +6684,28 @@
     },
     {
       "album": {
+        "name": "BEFORE WE GO (DEEPER)",
+        "url": "https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227067,
+      "name": "TOO SWEET (feat. Unknown Mortal Orchestra)",
+      "url": "https://open.spotify.com/track/4KKBXabgRHOEaymumXg6Of"
+    },
+    {
+      "album": {
         "name": "Top That",
         "url": "https://open.spotify.com/album/3rYNiMYu1n7gIfouIqMZ0e"
       },
@@ -6553,7 +6849,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 250009,
       "name": "U Wanna?",
       "url": "https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1"
@@ -6897,6 +7193,24 @@
       "duration_ms": 167256,
       "name": "What They Want (feat. Mozzy)",
       "url": "https://open.spotify.com/track/1a0UCkY1dFNWLdADtD33Ce"
+    },
+    {
+      "album": {
+        "name": "What You Sellin",
+        "url": "https://open.spotify.com/album/7pXCljjRvxq7VaB3upUpIm"
+      },
+      "artists": [
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "What You Sellin",
+      "url": "https://open.spotify.com/track/5eXeZ6zBes2uEyycxqhqgx"
     },
     {
       "album": {

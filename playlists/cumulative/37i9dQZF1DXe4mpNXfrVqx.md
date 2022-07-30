@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Killua
 
-89 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
+90 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/1thOevbYGuMYVykp1ZOfFz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Dama da Noite](https://open.spotify.com/track/0wOYCvsXQvHXYghnIzXiP4) | [Charlotte](https://open.spotify.com/artist/0KY3H0d4zc4Pwi7d7Onmn8), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Dama da Noite](https://open.spotify.com/album/4vbJPuDV02FML2XNieJxei) | 1:58 | 2022-03-18 | 2022-05-28 |
 | [Drinks e Safiras](https://open.spotify.com/track/56uwvZ7zUko1jBrD14nAOz) | [Mestra](https://open.spotify.com/artist/0DzMVY6htcmrpdC3f3J3Jm), [Yanna Mc](https://open.spotify.com/artist/3luf43YaYclVRwVfYLRKnF), [Rualogia Lab](https://open.spotify.com/artist/0CnQ6hl5qaXYfrYAy50u6k) | [Drinks e Safiras](https://open.spotify.com/album/7pwGE901unwGsjW8b728eh) | 1:57 | 2022-03-18 |  |
 | [Embrazando](https://open.spotify.com/track/5CfabusnRCoAHPYUheMg3u) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Embrazando](https://open.spotify.com/album/1ne6MMagaIhU433qxJOwts) | 2:41 | 2022-05-27 |  |
-| [Então Senta](https://open.spotify.com/track/7enMVhTKpt0cIrkZpZ1Qlo) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [AninhaMc](https://open.spotify.com/artist/40d9fryIizWS435RsqdRQ5) | [Então Senta](https://open.spotify.com/album/6xDqfzWWeGXPRdGm7OtHB5) | 2:26 | 2022-03-18 |  |
+| [Então Senta](https://open.spotify.com/track/7enMVhTKpt0cIrkZpZ1Qlo) | [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [AninhaMc](https://open.spotify.com/artist/40d9fryIizWS435RsqdRQ5) | [Então Senta](https://open.spotify.com/album/6xDqfzWWeGXPRdGm7OtHB5) | 2:26 | 2022-03-18 | 2022-07-30 |
 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 | 2022-03-18 |  |
 | [Fail](https://open.spotify.com/track/0GCWTSB5Wj04ZMQGswxkuU) | [Enibel](https://open.spotify.com/artist/7r0XN2WkKpDRqDu0wqzhrB) | [Fail](https://open.spotify.com/album/6Qt8h0qjPC3zK3yBXatORq) | 2:27 | 2022-03-18 |  |
 | [Faísca](https://open.spotify.com/track/4AUy9gxaNejktNYIFNJWRW) | [Jaquelivre](https://open.spotify.com/artist/6oglA3VW3IUQhRtFvE6oyD), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [Faísca](https://open.spotify.com/album/4ORKX07HIdDEbFoV4BaGZU) | 2:25 | 2022-03-18 |  |
@@ -47,6 +47,7 @@
 | [Hino](https://open.spotify.com/track/76WBiLzMTj5JDHPQl4bKRG) | [Anna Suav](https://open.spotify.com/artist/6qLRyBdF6aLwW8mOEYB9fX) | [Hino](https://open.spotify.com/album/0A9LwErBKgaY0TMHcrNt5p) | 2:56 | 2022-03-18 |  |
 | [Invisível](https://open.spotify.com/track/12Ue4VoNFehYCgNcFfcrFL) | [Indi Jade](https://open.spotify.com/artist/3InLZ7IdbIvIlpkMw7k9xV) | [Invisível](https://open.spotify.com/album/4q1vv6Ymy01U0oHxfcODyB) | 3:29 | 2022-03-18 | 2022-05-28 |
 | [Kali](https://open.spotify.com/track/4ErEw1XXvgV5SvaUtmqXgS) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq) | [Kali](https://open.spotify.com/album/513Vo5nnWl40hZNpIsD3NL) | 2:20 | 2022-03-18 |  |
+| [Leonina](https://open.spotify.com/track/5ESbZaAPbjHCwWUM4iiHQu) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Leonina](https://open.spotify.com/album/4u2kqsIlaDICKs1SpSoa5Y) | 3:30 | 2022-07-29 |  |
 | [LoveSong](https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [LoveSong](https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS) | 2:22 | 2022-03-18 |  |
 | [Magia](https://open.spotify.com/track/3gxkgQ5ZihoXGnrPsxS9Vx) | [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq) | [Magia](https://open.spotify.com/album/2nhzLLb9DgJ9P75xg0FAxn) | 2:54 | 2022-03-18 |  |
 | [Making Luv](https://open.spotify.com/track/4S8rwnVkJ3P8LgmKavFS9C) | [Brisa Flow](https://open.spotify.com/artist/78XNtbcRuW435NYDYV0rWO), [TiDUS](https://open.spotify.com/artist/7IxX7YZFKExg98w2dxgsXj) | [Making Luv](https://open.spotify.com/album/7eh0moIuvRGns9Hc12ZYj0) | 3:05 | 2022-05-13 |  |

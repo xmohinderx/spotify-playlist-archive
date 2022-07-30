@@ -4,13 +4,14 @@
 
 > Icons only\. Cover: Van Morrison
 
-67 songs - 4 hr 26 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
+68 songs - 4 hr 29 min - [published](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Act of Love](https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Act of Love](https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg) | 4:02 | 2022-01-21 |  |
 | [All Is Well](https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [All Is Well](https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL) | 4:32 | 2021-10-22 |  |
 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-03-11 |  |
+| [Another One Like You](https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [The Book of Making / Yesterday Meets Today](https://open.spotify.com/album/37fPofkMlxgccr5E7sRXz3) | 3:46 | 2022-07-29 |  |
 | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 |  |
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2021-10-22 |  |
 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 | 2021-11-05 |  |
@@ -65,7 +66,7 @@
 | [Surrender To The Rhythm](https://open.spotify.com/track/1giGzzU08U4XCp5kRlJaev) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [Rusty](https://open.spotify.com/artist/66bIf61b6SKblDQ06KHrfA) | [The Resurrection Of Rust](https://open.spotify.com/album/4O3UZEJ5erCdxwq1UxYigP) | 3:41 | 2022-06-10 |  |
 | [Thank You For Waiting \(For Me\)](https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 4:53 | 2021-10-22 |  |
 | [The Buzz](https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Hate for Sale](https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t) | 3:50 | 2021-10-22 |  |
-| [The Conversation \- Single Mix](https://open.spotify.com/track/52LO0vfMz9sgTzXtSFU6Yz) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [The Conversation](https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne) | 3:20 | 2021-10-22 |  |
+| [The Conversation \- Single Mix](https://open.spotify.com/track/52LO0vfMz9sgTzXtSFU6Yz) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [The Conversation](https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne) | 3:20 | 2021-10-22 | 2022-07-30 |
 | [The Man with the Double Face \- Single Edit](https://open.spotify.com/track/0zjtWbgldOrqHYuVI2Tima) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [The Man with the Double Face](https://open.spotify.com/album/2gG0nKiqZvjUrk7TnXgPHd) | 3:23 | 2022-04-29 | 2022-07-29 |
 | [The Tipping Point](https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L) | 4:13 | 2021-10-22 | 2022-06-11 |
 | [Touchline](https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Tears Of Hercules](https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs) | 3:55 | 2021-11-12 |  |

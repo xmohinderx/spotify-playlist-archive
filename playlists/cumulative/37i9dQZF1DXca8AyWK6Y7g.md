@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> Sabrina Carpenter's drafts folder is full
+> baby all i wanna do is coast cover: Hailee Steinfeld
 
-1,197 songs - 2 day 14 hr 6 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,199 songs - 2 day 14 hr 11 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [cloudbathing](https://open.spotify.com/track/3SjBwAnJXh69mDAsAea3iu) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [cloudbathing](https://open.spotify.com/album/4ZPcZDtqMJmzOfG9bbIFyD) | 3:02 | 2022-05-27 | 2022-07-15 |
 | [Coachella](https://open.spotify.com/track/3nkC0uQZyp5wY0zp8hIkBL) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Coachella](https://open.spotify.com/album/1SrTH3aCRpIkcmkvqlgi3w) | 3:20 | 2020-04-22 | 2021-10-13 |
 | [Coast](https://open.spotify.com/track/23KRFSsLa3UQ8FMY6KQ63i) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Coast](https://open.spotify.com/album/4HeAegQf8B2jW03zpL1X0T) | 2:52 | 2020-05-29 | 2021-10-16 |
+| [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-07-29 |  |
 | [coffee](https://open.spotify.com/track/4ZzRYgYEp2R1p14BiZFFzm) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [me and you](https://open.spotify.com/album/4amwfPj7awnHWwj0X3kPpE) | 3:11 | 2019-09-27 | 2020-04-18 |
 | [Cold Blooded](https://open.spotify.com/track/2MDLioU5AzJf5uA48lxk2t) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Cold Blooded](https://open.spotify.com/album/6Xz4rsXSkScuwUaUi8FxV8) | 2:49 | 2019-05-26\* | 2019-08-13 |
 | [Cold Showers](https://open.spotify.com/track/59krMPfRgjLYmAkVA2gHl4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Cold Showers](https://open.spotify.com/album/2rT7y2kl6VuKVvzlex3Ef0) | 3:59 | 2019-05-26\* | 2020-04-02 |
@@ -296,6 +297,7 @@
 | [Don't Stop Now](https://open.spotify.com/track/50hJsJtnVzbxrkeVGDDbfe) | [Ben Phipps](https://open.spotify.com/artist/4gdU6QYD0tktQA9AHdcNn4), [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Don't Stop Now](https://open.spotify.com/album/341gEPVOTbMoNnuelhc4T1) | 2:29 | 2019-05-26\* | 2019-08-13 |
 | [Don't Throw Out My Legos](https://open.spotify.com/track/3ghEg38oAtduRrpYxeXCpD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/4l2PEB3gDOrrW3rz01n1gO) | 4:10 | 2019-05-26\* | 2020-02-19 |
 | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/track/4YclYSWapHdn8vgX7oiFez) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [DON'T WANNA FEEL A SINGLE THING](https://open.spotify.com/album/55MdLhIW8009bP54fhkQcU) | 3:40 | 2021-03-26 | 2021-11-20 |
+| [Don't You Worry](https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Don't You Worry](https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV) | 2:42 | 2022-07-29 |  |
 | [Dont Do Drugs](https://open.spotify.com/track/1b14SMzflhKOtCtArKmBe7) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [Dont Do Drugs](https://open.spotify.com/album/09OKLPcbLNlEK1DhvZwJr4) | 1:44 | 2021-02-24 | 2021-03-22 |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-01-23 | 2021-11-10 |
 | [Doses](https://open.spotify.com/track/7BuzrXNz1be3Ko6r77fGJK) | [TheHxliday](https://open.spotify.com/artist/2e3LzbZx1VP4wBNFCaxZVD) | [Doses](https://open.spotify.com/album/0g8Vpwny9zWPCbZehp2OJn) | 3:12 | 2021-11-05 | 2022-01-29 |
@@ -309,7 +311,7 @@
 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 | 2021-02-22 | 2021-05-28 |
 | [Drowning in the Culture](https://open.spotify.com/track/2L79zW9LUnohYifrJDPBtg) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Drowning in the Culture](https://open.spotify.com/album/7yHAkAp1DJ4Z8MDFqpABWo) | 2:10 | 2022-04-15 | 2022-05-25 |
 | [Drugs](https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Drugs](https://open.spotify.com/album/46S95aTUFWSVmRmDKAGnFf) | 2:35 | 2019-05-26\* | 2020-06-29 |
-| [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 |  |
+| [Dry Spell](https://open.spotify.com/track/6akbqRYcAzX4sDibV4PofA) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Dry Spell](https://open.spotify.com/album/5jy7stWw7eNshcMa1A6IwK) | 3:27 | 2022-05-27 | 2022-07-30 |
 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 | 2021-04-23 | 2021-11-19 |
 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 | 2022-02-25 | 2022-06-25 |
 | [e\-z \(feat\. UPSAHL & Blu DeTiger\)](https://open.spotify.com/track/2FsHjcNkT4usTdV2b407Iq) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [a study of the human experience volume one](https://open.spotify.com/album/1oZ8mqRS1vJFZhSpc4WI4S) | 2:45 | 2022-03-18 | 2022-07-16 |
@@ -472,7 +474,7 @@
 | [Hello](https://open.spotify.com/track/3LcwihB5l6aFsAz1HyGlej) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [Hello](https://open.spotify.com/album/1nPZWuk5Gv94RfPBYDxbNx) | 2:01 | 2021-09-22 | 2021-10-29 |
 | [Help \(feat\. Rence\)](https://open.spotify.com/track/0v6egqGKVDyc1fnXo1GRs8) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ), [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Help \(feat\. Rence\)](https://open.spotify.com/album/4SNO7NgvN3uqBhUpS9j4ht) | 3:11 | 2020-10-16 | 2021-11-09 |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-02-22 | 2021-05-27 |
-| [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 |  |
+| [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 | 2022-06-24 | 2022-07-30 |
 | [Her Manner](https://open.spotify.com/track/1Qv8px5889ebB4g6V6tCCR) | [Zuli Jr.](https://open.spotify.com/artist/01O6qxIrBMxnALWGgrKmJW) | [Her Manner](https://open.spotify.com/album/7bfRq1kM8itHlpTIpz5HIo) | 3:48 | 2021-08-14 | 2021-08-22 |
 | [Her Touch](https://open.spotify.com/track/3Swu7AElUpW4sNVVxkdqYb) | [SŸDE](https://open.spotify.com/artist/2AgbDbAVnc4y7oB2QxISmJ) | [Her Touch](https://open.spotify.com/album/1gmUAmPZf5XTlZeozWuR86) | 3:05 | 2019-09-06 | 2021-01-21 |
 | [hey girl](https://open.spotify.com/track/5x9r0HaFznxQ32J2JZFhub) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 3:07 | 2021-01-23 | 2021-11-20 |

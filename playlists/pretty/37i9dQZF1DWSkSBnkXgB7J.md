@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,551 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,564 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 9 | [Hayda Hali](https://open.spotify.com/track/4SVhjqDecCRW1bbt5ZwP8z) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [هيدا حالي](https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX) | 3:10 |
 | 10 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 |
 | 11 | [Ayam](https://open.spotify.com/track/0QKS9BuMqsfSyVRP2vWvzO) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Ayam](https://open.spotify.com/album/0HBSC3kSOgiV7hAwaycPhd) | 3:05 |
-| 12 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 |
-| 13 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 |
-| 14 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 |
-| 15 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
-| 16 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
-| 17 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
-| 18 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 |
-| 19 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
-| 20 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 |
-| 21 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 |
-| 22 | [Hip\-hop/Jwk](https://open.spotify.com/track/01ZHMSHIQSgoXgtaca46Jf) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [9addgni](https://open.spotify.com/album/1iQeb4yXEFJwzNdZt4gu2I) | 4:14 |
+| 12 | [Square One](https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [Square One](https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq) | 3:03 |
+| 13 | [LOVE DOCTOR](https://open.spotify.com/track/76IYiajfXenzXODVm000sw) | [DONMD](https://open.spotify.com/artist/7Bmr57mxS6riZhuVMQpGD6), [Hkmk](https://open.spotify.com/artist/0Tze8Gw1ML0ApNSPytouXg) | [LOVE DOCTOR](https://open.spotify.com/album/6ICmtrFdtxFnCkZzscSQpU) | 2:01 |
+| 14 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 |
+| 15 | [Maghror Feek](https://open.spotify.com/track/0w0qNZagcCOBbgXOqVOKGU) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Maghror Feek](https://open.spotify.com/album/75XDoSO0iqvkQAWln9SXxL) | 3:02 |
+| 16 | [By The Sea](https://open.spotify.com/track/2TGQUjLw3zVxZgDWikfRzU) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [By The Sea](https://open.spotify.com/album/2HSbIrnOW1cdvwnhsiRkBS) | 2:50 |
+| 17 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 |
+| 18 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
+| 19 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 |
+| 20 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 |
+| 21 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 |
+| 22 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 |
 | 23 | [FAWDA](https://open.spotify.com/track/2vLFnMjJ0kyPMNpMempfde) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [Fawda](https://open.spotify.com/album/3GuiCyLeLuDUCpLuxjt16U) | 3:20 |
 | 24 | [Zabatna](https://open.spotify.com/track/2KakK2ldIwk32Lyp8cHRab) | [Tarek Al Atrash](https://open.spotify.com/artist/53SkAdBSeRmu5xA0G6Yii8) | [Zabatna](https://open.spotify.com/album/2q0BFnd8N5N0v5kEx8uih4) | 4:01 |
 | 25 | [Baadek Bizakerti](https://open.spotify.com/track/583BG3e4wpZzkwJTPbQc2W) | [Chris Moussa](https://open.spotify.com/artist/72DLvyPzbU6R4NZel6MaX5) | [Baadek Bizakerti](https://open.spotify.com/album/5CGX6rOvDdKLcB7usNXyNH) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 59 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 |
 | 60 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 3:15 |
 
-Snapshot ID: `MTY1ODQwNjY3MiwwMDAwMDAwMGNiZTg4ZGIxOTg1MmZhNmI3MTA2MGQ2NjFkNDhjNjkx`
+Snapshot ID: `MTY1OTA5ODMyNywwMDAwMDAwMGZmNmVmNzJhZmZjNmE4NjVjMTRhMDBiZTJhZGU0ZTAy`

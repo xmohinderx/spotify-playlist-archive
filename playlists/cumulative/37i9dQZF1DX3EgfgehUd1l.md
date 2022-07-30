@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-211 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+212 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Little Things Mean A Lot](https://open.spotify.com/track/0ydY41ZG7jwXAwdoD9fG2l) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:58 | 2020-07-08 | 2022-07-29 |
 | [Little Things Mean a Lot](https://open.spotify.com/track/54PXRAkSDbvSNazvmAfeHd) | [Kitty Kallen](https://open.spotify.com/artist/0EYASMyi33J1ywBDgei1II) | [Kitty Kallen's Coloring Book](https://open.spotify.com/album/3mITeLc78nl4VsvfQ3QhIU) | 2:59 | 2020-07-08 |  |
 | [Living Doll](https://open.spotify.com/track/2OqzR7I7GF19T2qPrbmYQC) | [Cliff Richard & The Shadows](https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm) | [Radio Gold \- Cliff Richard And The Shadows](https://open.spotify.com/album/57M65RmmlmYha7Q2J54IJ4) | 2:36 | 2020-07-08 | 2022-07-29 |
+| [Living Doll](https://open.spotify.com/track/7uh4n1oxt2ewgi5Ly8ZHyW) | [Cliff Richard & The Shadows](https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm) | [Hit Collection](https://open.spotify.com/album/5GCOTlkiFPUC22CV1sfMgF) | 2:36 | 2020-07-08 |  |
 | [Look Homeward, Angel \- Single Version](https://open.spotify.com/track/23DGcepczkm9B2BZfXfeCo) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Walking In The Rain](https://open.spotify.com/album/0InsVXLbIHPOl34t1L9Y2m) | 2:47 | 2020-07-08 | 2022-07-20 |
 | [Love And Marriage](https://open.spotify.com/track/7eiG2sE8Yz0imfSoXzGEFx) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/0Cx7IYEdG2T70z9xFknhDT) | 2:37 | 2020-07-08 | 2022-07-25 |
 | [Love And Marriage](https://open.spotify.com/track/4eM4EWXOkOEq19kMFRYDxD) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra 80th: All The Best](https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r) | 2:38 | 2020-07-08 |  |
@@ -158,7 +159,7 @@
 | [Smile](https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 | 2020-07-08 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:37 | 2020-07-08 | 2022-07-29 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 | 2020-07-08 |  |
-| [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 | 2020-07-08 |  |
+| [Softly Softly](https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [The Magic Of Ruby Murray](https://open.spotify.com/album/4XYAC3gtaaKrfO6LJtwkue) | 2:29 | 2020-07-08 | 2022-07-30 |
 | [Softly Softly](https://open.spotify.com/track/5cHrLAHz5UWvIGBaNiBs7g) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Massive Hits!: Easy](https://open.spotify.com/album/67eGxAC3rzgNcewIdibXqX) | 2:29 | 2020-07-08 | 2022-07-29 |
 | [Somebody Stole My Gal](https://open.spotify.com/track/7h7Tc9jvW74WbhkvIofPO8) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [CRY](https://open.spotify.com/album/0Vqj7U2w6U7txFlZWA5dWj) | 2:25 | 2020-07-08 | 2022-07-24 |
 | [Someday \(You'll Want Me to Want You\)](https://open.spotify.com/track/4sRytDNylu3zfgW6y2rsAB) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Summertime Blues \(Rock'n'roll Love Songs\)](https://open.spotify.com/album/1mVeUTmyqPaOgM7px3QFyg) | 2:50 | 2020-07-08 | 2022-07-29 |

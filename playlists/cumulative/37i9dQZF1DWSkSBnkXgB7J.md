@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-63 songs - 3 hr 25 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+64 songs - 3 hr 28 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [GTA](https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [GTA](https://open.spotify.com/album/0foaspvPQUgI5DvXXxHZ9T) | 3:48 | 2022-06-24 |  |
 | [Hawelna Keter](https://open.spotify.com/track/6tc1iDgFurBNcXQa8QjKrd) | [Meery](https://open.spotify.com/artist/7v4YgvdfeIZLwqbrASG50n) | [Hawelna Keter](https://open.spotify.com/album/4qFvAkgf4FfCDKZvOV8JLn) | 4:17 | 2022-06-24 |  |
 | [Hayda Hali](https://open.spotify.com/track/4SVhjqDecCRW1bbt5ZwP8z) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [هيدا حالي](https://open.spotify.com/album/04BUdm7whYgxcyPrre29LX) | 3:10 | 2022-07-21 |  |
-| [Hip\-hop/Jwk](https://open.spotify.com/track/01ZHMSHIQSgoXgtaca46Jf) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [9addgni](https://open.spotify.com/album/1iQeb4yXEFJwzNdZt4gu2I) | 4:14 | 2022-06-24 |  |
+| [Hip\-hop/Jwk](https://open.spotify.com/track/01ZHMSHIQSgoXgtaca46Jf) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [9addgni](https://open.spotify.com/album/1iQeb4yXEFJwzNdZt4gu2I) | 4:14 | 2022-06-24 | 2022-07-30 |
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-24 |  |
 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2022-06-24 |  |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-06-24 | 2022-07-13 |
@@ -53,6 +53,7 @@
 | [Red \(feat\. MaMan\)](https://open.spotify.com/track/2PJHJevFPEFWn0CwMv4yZF) | [WalGz](https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Hollanda](https://open.spotify.com/album/3kgNHqvzzItDSbhn6tEAVl) | 3:14 | 2022-06-24 |  |
 | [Sahraya](https://open.spotify.com/track/10ygQHP8JTic3iXGiLM2To) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k) | [Sahraya](https://open.spotify.com/album/6NpsqEqR1yZ5YTyPQZUewf) | 2:46 | 2022-06-24 |  |
 | [Sibtiny](https://open.spotify.com/track/6vqgukgBvRUIUvuM8fuv4k) | [ARRA](https://open.spotify.com/artist/6mlFti6E8OuJhJslyZhFn7) | [Sibtiny](https://open.spotify.com/album/0B1qIzqos6ajSnuXYB0x8Y) | 2:59 | 2022-06-24 |  |
+| [Square One](https://open.spotify.com/track/2eicDRS52ZAT2LRuYzqkna) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [B\-Element](https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa), [Zii](https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl) | [Square One](https://open.spotify.com/album/1Vi1fKEfFBLHY09a6QAOqq) | 3:03 | 2022-07-29 |  |
 | [Taab El Senin](https://open.spotify.com/track/7bqDLf3GTAjWh2WtYO3S6j) | [Hany Mouner](https://open.spotify.com/artist/0FVUKs8fpQXUoc9nP2sl6E) | [تعب السنين](https://open.spotify.com/album/2JoIZjj1iPXKwCevK48qK7) | 4:30 | 2022-06-24 |  |
 | [Tabny Hubik](https://open.spotify.com/track/1905yUcHx7swLBKBUAPjpl) | [Abdulrahman Fadhel](https://open.spotify.com/artist/1wlLofWodvLA3yvQisSbX0) | [Tabny Hubik](https://open.spotify.com/album/2zcpLgRnj1pGdnjBhPeRYb) | 2:55 | 2022-06-24 |  |
 | [Teji Neshar](https://open.spotify.com/track/3XHFjOPcqJoHyZm0Dj5Bau) | [Essa Alwad](https://open.spotify.com/artist/5EZ7zMZU3c0JMHq0yczerM) | [Teji Neshar](https://open.spotify.com/album/27tpuxQOQvoCXxsWw9UvAu) | 4:04 | 2022-06-24 |  |

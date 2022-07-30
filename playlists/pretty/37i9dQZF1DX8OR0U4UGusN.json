@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 144944,
+  "num_followers": 145055,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc1ODA0MSwwMDAwMDAwMGQwYzAyZTYyN2VjZmMwMDUxNjgyMWE0NmNiMzllNTRk",
+  "snapshot_id": "MTY1ODc1ODA0MSwwMDAwMDAwMDIzNmUzMzFlYzc3ZjUwOGY3YjY3YjA2ZWFjZTFmZDM0",
   "tracks": [
     {
       "added_at": "2022-07-25 14:07:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 92000,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
         "name": "Jewels in the Night",
         "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 225890,
       "name": "Jewels in the Night",
       "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2RHDabM5M1Anxs2H8tmspQ"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
         "name": "Juvenile",
         "url": "https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 368360,
       "name": "Friends In Secret",
       "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "HOW CAN I SLEEP",
-        "url": "https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7"
-      },
-      "artists": [
-        {
-          "name": "Evenson",
-          "url": "https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd"
-        }
-      ],
-      "duration_ms": 267386,
-      "name": "HOW CAN I SLEEP",
-      "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
         "name": "Burn Down",
         "url": "https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 155653,
       "name": "Burn Down",
       "url": "https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
+        "name": "HOW CAN I SLEEP",
+        "url": "https://open.spotify.com/album/6RAOysblAHnraRB2txh7C7"
+      },
+      "artists": [
+        {
+          "name": "Evenson",
+          "url": "https://open.spotify.com/artist/7sWocbRfg9Tc5jNfxcSxEd"
+        }
+      ],
+      "duration_ms": 267386,
+      "name": "HOW CAN I SLEEP",
+      "url": "https://open.spotify.com/track/7GfDyeYSkBWENSzZH0pYOv"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7"
+      },
+      "artists": [
+        {
+          "name": "Nick Vyner",
+          "url": "https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Mood Swing",
+      "url": "https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
         "name": "Head on Fire (Danny L Harle Remix)",
         "url": "https://open.spotify.com/album/1jh1ugyuAmyGDQ5MYyAjAI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 185779,
       "name": "Head on Fire - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/4co1l5Win5qwsU6NcVwhH7"
-      },
-      "artists": [
-        {
-          "name": "Nick Vyner",
-          "url": "https://open.spotify.com/artist/2gmFaEvoRIXAetLvWOVeI7"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Mood Swing",
-      "url": "https://open.spotify.com/track/3wAebT0NtgPyCGYizWq2i5"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
-      },
-      "artists": [
-        {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
         "name": "HELLO",
         "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 162135,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
+      },
+      "artists": [
+        {
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "fitt (with Amaarae)",
-        "url": "https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo"
+        "name": "Miss Understood",
+        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
       },
       "artists": [
         {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
         }
       ],
-      "duration_ms": 216638,
-      "name": "fitt (with Amaarae)",
-      "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
+      "duration_ms": 150142,
+      "name": "Miss Understood",
+      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1635,22 +1631,6 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "Miss Understood",
-        "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 150142,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
-    },
-    {
-      "added_at": "2022-07-25 14:07:21",
-      "album": {
         "name": "TEMPLE OF THE DRAGON",
         "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
       },
@@ -1667,22 +1647,22 @@
     {
       "added_at": "2022-07-25 14:07:21",
       "album": {
-        "name": "Recollection Prospective",
-        "url": "https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd"
+        "name": "fitt (with Amaarae)",
+        "url": "https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo"
       },
       "artists": [
         {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
         },
         {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 197796,
-      "name": "Brand New Phone",
-      "url": "https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV"
+      "duration_ms": 216638,
+      "name": "fitt (with Amaarae)",
+      "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
     },
     {
       "added_at": "2022-07-25 14:07:21",
@@ -1703,6 +1683,26 @@
       "duration_ms": 265834,
       "name": "About It",
       "url": "https://open.spotify.com/track/2QrKsqIRhgGpPRvGP0C5VA"
+    },
+    {
+      "added_at": "2022-07-25 14:07:21",
+      "album": {
+        "name": "Recollection Prospective",
+        "url": "https://open.spotify.com/album/1thcA2rOLZExgDgcH6K2Bd"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Brand New Phone",
+      "url": "https://open.spotify.com/track/17zFfPV3PZ3ZDMZyDcXTxV"
     },
     {
       "added_at": "2022-07-25 14:07:21",

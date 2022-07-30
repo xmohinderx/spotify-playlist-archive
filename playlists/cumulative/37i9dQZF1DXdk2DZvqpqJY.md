@@ -4,7 +4,7 @@
 
 > Jazzy sounds with soft beats for relaxing and unwinding.
 
-202 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
+203 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/6x5bLDuTDrk1dE08PCXWyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Relationships](https://open.spotify.com/track/4yIXHZyba42VV7gCpec6h4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Meditations](https://open.spotify.com/album/19SzhIssFZJ5pPHmZuJOWK) | 5:13 | 2022-02-17 | 2022-04-28 |
 | [Remote Planet](https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Remote Planet](https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R) | 2:42 | 2022-06-02 |  |
 | [Reste un oiseau](https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Reste un oiseau](https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy) | 3:15 | 2022-02-17 | 2022-05-25 |
-| [Sais \(Egypt\)](https://open.spotify.com/track/1PXneJ9X3C8Pv35J85OBEq) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Sais \(Egypt\)](https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys) | 7:42 | 2022-02-17 |  |
+| [Sais \(Egypt\)](https://open.spotify.com/track/1PXneJ9X3C8Pv35J85OBEq) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Sais \(Egypt\)](https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys) | 7:42 | 2022-02-17 | 2022-07-30 |
+| [Sais \(Egypt\)](https://open.spotify.com/track/3bGbluKM6GBtr8tY9ij503) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Astral Traveling](https://open.spotify.com/album/2SdYnjRWuQH00nX3d4FWZz) | 7:42 | 2022-06-22 |  |
 | [Satori Ways](https://open.spotify.com/track/1l27GB8qsdLvDIaNjmS7qO) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Satori Ways](https://open.spotify.com/album/2ddXqx3PYPz15XT9Np5ler) | 5:36 | 2022-02-17 | 2022-04-23 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2022-02-17 |  |
 | [Siren Call](https://open.spotify.com/track/41cDyLUieQjGRsw9ezlECk) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [GURU.FARM](https://open.spotify.com/artist/7MB2t9SLvpvvbf0NahGVZg) | [Guédé](https://open.spotify.com/album/5uprZ4VBkK8SVYReHykGvZ) | 4:59 | 2022-02-17 |  |

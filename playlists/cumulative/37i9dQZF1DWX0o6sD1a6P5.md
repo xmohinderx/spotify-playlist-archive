@@ -4,7 +4,7 @@
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Tayc
 
-187 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
+189 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/1dEBeASsRuQMcB6nFV6Y3W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Baby Girl](https://open.spotify.com/track/6lIQtRTqBUC711uK0BJwlQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Baby Girl](https://open.spotify.com/album/0KiMw1Wkx0z8IPIHz64xdP) | 2:40 | 2022-01-06 | 2022-01-26 |
 | [Baby Lova](https://open.spotify.com/track/1rjormyWJ2VFI8ZSQoPIYl) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BIG Daddy \(Vol\. 1\)](https://open.spotify.com/album/6pRsl4987qgo0PdJpyjLeI) | 3:13 | 2022-06-23 | 2022-07-26 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-12-27 | 2022-04-08 |
+| [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/track/2eVbbAnigX4QdvpceP0VU6) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bad Girl \(feat\. Wande Coal and Victony\)](https://open.spotify.com/album/0dqjwh8PHITjQOyJX5zTJq) | 3:24 | 2022-07-28 |  |
 | [Baddest Boy](https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Baddest Boy](https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP) | 2:21 | 2022-01-24 | 2022-06-24 |
 | [BADI](https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [BADI](https://open.spotify.com/album/2lqtf1qmfFf9c6l1w6ihzS) | 2:13 | 2021-12-27 | 2022-02-18 |
 | [Baggy](https://open.spotify.com/track/1IHmkKE7CboA8CudViySnh) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Lefa](https://open.spotify.com/artist/25yJrwrn5I0EUdQEiTtNSO) | [Baggy](https://open.spotify.com/album/4Ijx9lzrCrOawaFQh3p7Eb) | 3:28 | 2022-06-02 | 2022-06-24 |
@@ -113,6 +114,7 @@
 | [La clé](https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [La clé](https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA) | 2:55 | 2021-12-27 | 2022-05-20 |
 | [La fête](https://open.spotify.com/track/0tActYLdtWXpnfceH1UAD3) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF), [Megaski](https://open.spotify.com/artist/4YWaklpWrE7GOkmXuMKI6i), [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT) | [Black House](https://open.spotify.com/album/1XtqI8rLPm3g0Os6VPcrlY) | 3:20 | 2022-06-13 | 2022-07-22 |
 | [Laisse moi te dire](https://open.spotify.com/track/7dq6t0RK55zKi6CRsbnMJT) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Laisse moi te dire](https://open.spotify.com/album/1PDj3CVAKGk2m6VIqRO55s) | 3:46 | 2022-06-30 |  |
+| [Laisser tomber](https://open.spotify.com/track/1pYLvcfZwOiRLBlLlSSl4S) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Lafropop](https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB) | [Laisser tomber](https://open.spotify.com/album/3TtFeFYZfbJX323OZ1Ahqs) | 4:06 | 2022-07-28 |  |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-12 |  |
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-12-27 | 2022-02-04 |

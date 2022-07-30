@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Goodboys including their brand-new single \u201cJack Flip\u201d",
+  "description": "Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Lucas & Steve including their brand-new single \u201cSICK\u201d",
   "name": "Tomorrowland Music Guest List",
   "published_playlist_ids": [
     "3ZZheCoq2krlIb03B150LK"
@@ -852,6 +852,28 @@
     },
     {
       "album": {
+        "name": "Every Day",
+        "url": "https://open.spotify.com/album/2ic8qpKW6f6VCcsYgUo6MN"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "CRCLE",
+          "url": "https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156480,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/01M7x4t9oymyXHxs3hxjF1"
+    },
+    {
+      "album": {
         "name": "Every Step",
         "url": "https://open.spotify.com/album/2RPMFPdxygr20xr14ZyO6j"
       },
@@ -863,7 +885,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 159857,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/7me5d5XmtCCfbDk3SsyXqM"
@@ -977,6 +999,58 @@
       "duration_ms": 197124,
       "name": "Fall - 6AM Mix",
       "url": "https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89"
+    },
+    {
+      "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/6mvU6BuLYzrqLCuhisx7oo"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Clara Sofie",
+          "url": "https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "Falling Into You",
+      "url": "https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO"
+    },
+    {
+      "album": {
+        "name": "Feel My Love (feat. Joe Taylor)",
+        "url": "https://open.spotify.com/album/6AkPuZVT0sJXVCw8XFENnz"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172820,
+      "name": "Feel My Love (feat. Joe Taylor)",
+      "url": "https://open.spotify.com/track/3pquutv1kWficJdou7ywag"
     },
     {
       "album": {
@@ -1443,7 +1517,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 183120,
       "name": "ILL",
       "url": "https://open.spotify.com/track/4jge3lcS6fCPHvcbe24byw"
@@ -2053,7 +2127,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 155625,
       "name": "My Pony - R3HAB VIP Remix",
       "url": "https://open.spotify.com/track/3VRJdMS5Z28zIfxmLvWIab"
@@ -2219,7 +2293,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 348350,
       "name": "On My Knees - Cassian Remix",
       "url": "https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh"
@@ -2877,7 +2951,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
@@ -3052,6 +3126,24 @@
     },
     {
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY"
+    },
+    {
+      "album": {
         "name": "EDC Las Vegas 2022",
         "url": "https://open.spotify.com/album/22gZTr2ZQuaG5Ae73sJXau"
       },
@@ -3089,6 +3181,28 @@
       "duration_ms": 292413,
       "name": "Snake Style",
       "url": "https://open.spotify.com/track/5xAHL32n81K6PLZMITbYeU"
+    },
+    {
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "album": {
@@ -3221,6 +3335,32 @@
       "duration_ms": 330171,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/60iWDIr6F1OvUItCHJWUmg"
+    },
+    {
+      "album": {
+        "name": "Summer Love (feat. Erich Lennig)",
+        "url": "https://open.spotify.com/album/1iGvNwm6sMFRe3hkfUsx08"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "Erich Lennig",
+          "url": "https://open.spotify.com/artist/2T7bdw0TFPa9G27D2cVNCh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156908,
+      "name": "Summer Love (feat. Erich Lennig)",
+      "url": "https://open.spotify.com/track/7DG7wIZsVJKeQcaWNuhstl"
     },
     {
       "album": {
@@ -3687,7 +3827,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 313700,
       "name": "Under The Sun - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/5AMMeb9pjO4M6k8zRE4awE"

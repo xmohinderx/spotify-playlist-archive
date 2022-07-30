@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 1444142,
+  "num_followers": 1458437,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ3NTYyMCwwMDAwMDAwMGIxZTc3NGU0OGViNGU4OTMzNTQ3ZDJlZTVlMWJlY2E4",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGI3YTUyMjA0MWU5MDliZjc3MTNmN2Y2Zjc1YzRmNTQ3",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
-      "added_at": "2022-07-08 08:43:19",
-      "album": {
-        "name": "IMMACULATE",
-        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
-      },
-      "artists": [
-        {
-          "name": "VISXGE",
-          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
-        }
-      ],
-      "duration_ms": 140873,
-      "name": "IMMACULATE",
-      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
-    },
-    {
       "added_at": "2022-04-06 13:12:47",
       "album": {
         "name": "Disaster",
@@ -129,20 +113,44 @@
       "url": "https://open.spotify.com/track/0PGAJ37n4O2AslZosr1YGx"
     },
     {
-      "added_at": "2022-07-22 07:40:20",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "BRAINSHOT",
-        "url": "https://open.spotify.com/album/2lL1KqNM1RvtLKdS6W3ieg"
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz"
       },
       "artists": [
         {
-          "name": "Pharmacist",
-          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        },
+        {
+          "name": "HXELLPLAYA",
+          "url": "https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
         }
       ],
-      "duration_ms": 200010,
-      "name": "BRAINSHOT",
-      "url": "https://open.spotify.com/track/6nek5FDzB20pQGfa6uaftr"
+      "duration_ms": 171028,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
+    },
+    {
+      "added_at": "2022-07-08 08:43:19",
+      "album": {
+        "name": "IMMACULATE",
+        "url": "https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt"
+      },
+      "artists": [
+        {
+          "name": "VISXGE",
+          "url": "https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE"
+        }
+      ],
+      "duration_ms": 140873,
+      "name": "IMMACULATE",
+      "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -193,6 +201,22 @@
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "In a Hood Near You",
+        "url": "https://open.spotify.com/album/2ilQzlGwERypBa2oJ7AZ9e"
+      },
+      "artists": [
+        {
+          "name": "IGARASHI KANTA",
+          "url": "https://open.spotify.com/artist/2r3Cnp9cRn8MEUEuvol6J0"
+        }
+      ],
+      "duration_ms": 100101,
+      "name": "In a Hood Near You",
+      "url": "https://open.spotify.com/track/3xLMFWoTmUzkaIEbnxKEpm"
+    },
+    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "INCOMING",
@@ -241,6 +265,22 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
+      "added_at": "2021-05-12 14:02:59",
+      "album": {
+        "name": "Phonky Town",
+        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141343,
+      "name": "Phonky Town",
+      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
+    },
+    {
       "added_at": "2022-07-22 07:40:20",
       "album": {
         "name": "ANTHEM",
@@ -255,6 +295,38 @@
       "duration_ms": 179512,
       "name": "ANTHEM",
       "url": "https://open.spotify.com/track/3HDtj6GdxPL6YsimJFT5DD"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Awareness",
+        "url": "https://open.spotify.com/album/108amnU3JXbyo488sSPcrx"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "duration_ms": 238644,
+      "name": "Awareness",
+      "url": "https://open.spotify.com/track/24vFPHmQXc0CzfAkNId1al"
+    },
+    {
+      "added_at": "2022-02-04 20:08:15",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
+      },
+      "artists": [
+        {
+          "name": "GRAVECHILL",
+          "url": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -289,38 +361,6 @@
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
-      "added_at": "2022-02-04 20:08:15",
-      "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu"
-      },
-      "artists": [
-        {
-          "name": "GRAVECHILL",
-          "url": "https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU"
-    },
-    {
-      "added_at": "2021-05-12 14:02:59",
-      "album": {
-        "name": "Phonky Town",
-        "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141343,
-      "name": "Phonky Town",
-      "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "COWBELL WARRIOR!",
@@ -337,20 +377,64 @@
       "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
-      "added_at": "2022-07-22 07:40:20",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Show Me Your Back",
-        "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
+        "name": "SLAYER",
+        "url": "https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj"
       },
       "artists": [
         {
-          "name": "FindMyName",
-          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+          "name": "Ya$h",
+          "url": "https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG"
+        },
+        {
+          "name": "only1korob",
+          "url": "https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Show Me Your Back",
-      "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
+      "duration_ms": 173169,
+      "name": "SLAYER",
+      "url": "https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk"
+      },
+      "artists": [
+        {
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+        },
+        {
+          "name": "TRVNSPORTER",
+          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
+        }
+      ],
+      "duration_ms": 144135,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc"
+    },
+    {
+      "added_at": "2022-07-22 07:40:20",
+      "album": {
+        "name": "BRAINSHOT",
+        "url": "https://open.spotify.com/album/2lL1KqNM1RvtLKdS6W3ieg"
+      },
+      "artists": [
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "BRAINSHOT",
+      "url": "https://open.spotify.com/track/6nek5FDzB20pQGfa6uaftr"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -397,80 +481,28 @@
       "url": "https://open.spotify.com/track/4P0r0yO7HNPvOra7BHGixH"
     },
     {
-      "added_at": "2022-07-15 10:23:47",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "AMNESIA",
-        "url": "https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF"
+        "name": "JUDGMENT NIGHT",
+        "url": "https://open.spotify.com/album/6oqbQ9wSFostzYLec3MdXA"
       },
       "artists": [
         {
-          "name": "Hikki Gaya",
-          "url": "https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC"
-        }
-      ],
-      "duration_ms": 131253,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN"
-    },
-    {
-      "added_at": "2022-07-08 08:43:19",
-      "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS"
-      },
-      "artists": [
-        {
-          "name": "Phonkha",
-          "url": "https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU"
+          "name": "HIDEOUS MORBID",
+          "url": "https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6"
         },
         {
-          "name": "SKETS",
-          "url": "https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY"
-        }
-      ],
-      "duration_ms": 146030,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/4WjXuV20O7EcvpjA5hAdqk"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
+          "name": "SEAVYSIDE",
+          "url": "https://open.spotify.com/artist/56FAG6y84ERB6txYCDE7Le"
         },
         {
-          "name": "TRVNSPORTER",
-          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
+          "name": "D4C",
+          "url": "https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq"
         }
       ],
-      "duration_ms": 144135,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/4QQyXwqvTF9oByQlSmWhCc"
-    },
-    {
-      "added_at": "2022-07-15 14:17:33",
-      "album": {
-        "name": "BROKEN SPIRIT",
-        "url": "https://open.spotify.com/album/1Yr18G9ZIL15nD4knb3gbg"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "$werve",
-          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
-        }
-      ],
-      "duration_ms": 121121,
-      "name": "BROKEN SPIRIT",
-      "url": "https://open.spotify.com/track/1UFfpcghvBAHfKwXFG1rr5"
+      "duration_ms": 90461,
+      "name": "JUDGMENT NIGHT",
+      "url": "https://open.spotify.com/track/592KrQGd2ihwyIfksRX9Hr"
     },
     {
       "added_at": "2021-05-12 14:02:59",
@@ -527,18 +559,18 @@
     {
       "added_at": "2022-07-15 10:23:47",
       "album": {
-        "name": "WITHOUT A HEAD",
-        "url": "https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1"
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/1XLMa0f05anowH4OmrATqF"
       },
       "artists": [
         {
-          "name": "SPURIA",
-          "url": "https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil"
+          "name": "Hikki Gaya",
+          "url": "https://open.spotify.com/artist/0lkQpwtSrw1KdJNSCVAzCC"
         }
       ],
-      "duration_ms": 120137,
-      "name": "WITHOUT A HEAD",
-      "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
+      "duration_ms": 131253,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/32P1387Vb7TuwbprjRmtQN"
     },
     {
       "added_at": "2021-09-24 18:31:55",
@@ -555,6 +587,22 @@
       "duration_ms": 124033,
       "name": "TOKYO DRIFT",
       "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "LEEZA",
+        "url": "https://open.spotify.com/album/6Y4R4p6lLtMT1P8zGlblhs"
+      },
+      "artists": [
+        {
+          "name": "ARCHEZ",
+          "url": "https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN"
+        }
+      ],
+      "duration_ms": 82408,
+      "name": "LEEZA",
+      "url": "https://open.spotify.com/track/2xq4QHhE0fFzWL8VI41ZyI"
     },
     {
       "added_at": "2021-05-12 14:02:59",
@@ -595,6 +643,78 @@
       "duration_ms": 130041,
       "name": "TECHNO KILLA",
       "url": "https://open.spotify.com/track/5kr9HU28PSpkmQZ6z9Z1Mx"
+    },
+    {
+      "added_at": "2022-07-08 08:43:19",
+      "album": {
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/4YmcshR0vxXqn8h20qXCMS"
+      },
+      "artists": [
+        {
+          "name": "Phonkha",
+          "url": "https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU"
+        },
+        {
+          "name": "SKETS",
+          "url": "https://open.spotify.com/artist/32JsKOhKT1joCOXoIhVGVY"
+        }
+      ],
+      "duration_ms": 146030,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/33jNhRb9njyX482vPmFPMu"
+    },
+    {
+      "added_at": "2022-07-15 14:17:33",
+      "album": {
+        "name": "BROKEN SPIRIT",
+        "url": "https://open.spotify.com/album/1Yr18G9ZIL15nD4knb3gbg"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "duration_ms": 121121,
+      "name": "BROKEN SPIRIT",
+      "url": "https://open.spotify.com/track/1UFfpcghvBAHfKwXFG1rr5"
+    },
+    {
+      "added_at": "2022-07-15 10:23:47",
+      "album": {
+        "name": "WITHOUT A HEAD",
+        "url": "https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1"
+      },
+      "artists": [
+        {
+          "name": "SPURIA",
+          "url": "https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil"
+        }
+      ],
+      "duration_ms": 120137,
+      "name": "WITHOUT A HEAD",
+      "url": "https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ"
+    },
+    {
+      "added_at": "2022-07-22 07:40:20",
+      "album": {
+        "name": "Show Me Your Back",
+        "url": "https://open.spotify.com/album/2WfTYJXnEWlam3UpiFcngR"
+      },
+      "artists": [
+        {
+          "name": "FindMyName",
+          "url": "https://open.spotify.com/artist/0TkciLiDPBbrwTrOG5Kvj2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Show Me Your Back",
+      "url": "https://open.spotify.com/track/5Ro8cPLumZRfhhfVxBG5hJ"
     },
     {
       "added_at": "2022-07-15 10:23:47",
@@ -1217,26 +1337,6 @@
       "url": "https://open.spotify.com/track/55H02yyv7Vad1LFg3kmnVB"
     },
     {
-      "added_at": "2022-06-03 06:37:00",
-      "album": {
-        "name": "The Wayfarer",
-        "url": "https://open.spotify.com/album/2tAn7b0IgeD4zOmawNysLp"
-      },
-      "artists": [
-        {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        },
-        {
-          "name": "Bearded Legend",
-          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
-        }
-      ],
-      "duration_ms": 195761,
-      "name": "The Wayfarer",
-      "url": "https://open.spotify.com/track/57srjZapbmyTq9DqYWhyPa"
-    },
-    {
       "added_at": "2021-12-03 18:57:00",
       "album": {
         "name": "Devil Ride",
@@ -1381,22 +1481,6 @@
       "url": "https://open.spotify.com/track/2Ypu9Z7VgwQhinYQvtYdad"
     },
     {
-      "added_at": "2021-09-15 15:28:10",
-      "album": {
-        "name": "u.",
-        "url": "https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS"
-      },
-      "artists": [
-        {
-          "name": "niteboi",
-          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "u.",
-      "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
-    },
-    {
       "added_at": "2021-05-12 14:02:59",
       "album": {
         "name": "High As Fuck",
@@ -1411,22 +1495,6 @@
       "duration_ms": 124540,
       "name": "Swaggin' at the Partment",
       "url": "https://open.spotify.com/track/0eCwAiq4qzQJJgQVaqUaCN"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2oMbcfB4qteV4Wbu7sNVAM"
-      },
-      "artists": [
-        {
-          "name": "HXVRMXN",
-          "url": "https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "South",
-      "url": "https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -1553,22 +1621,6 @@
       "url": "https://open.spotify.com/track/7BhiI0Z3iqqblrHlEhOVge"
     },
     {
-      "added_at": "2022-02-04 20:08:15",
-      "album": {
-        "name": "Pulsar Pit",
-        "url": "https://open.spotify.com/album/2mVLBBH6EsPXyl2yuAvBdO"
-      },
-      "artists": [
-        {
-          "name": "Red Death Grave",
-          "url": "https://open.spotify.com/artist/3KOuSp8MJzmMP7mu0cqg7w"
-        }
-      ],
-      "duration_ms": 90673,
-      "name": "Pulsar Pit",
-      "url": "https://open.spotify.com/track/3H6iOC0kcOlfZ5wRt5Tkz3"
-    },
-    {
       "added_at": "2021-05-12 14:02:59",
       "album": {
         "name": "Keraunos",
@@ -1637,22 +1689,6 @@
       "url": "https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE"
     },
     {
-      "added_at": "2022-04-04 13:00:31",
-      "album": {
-        "name": "KNIGHT II",
-        "url": "https://open.spotify.com/album/3FXAy3k4tFYmiMPSN8yG1L"
-      },
-      "artists": [
-        {
-          "name": "KXNVRA",
-          "url": "https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj"
-        }
-      ],
-      "duration_ms": 125954,
-      "name": "KNIGHT II",
-      "url": "https://open.spotify.com/track/1tbfwWXvGQor2wu49pxUqz"
-    },
-    {
       "added_at": "2021-12-17 17:36:35",
       "album": {
         "name": "Takizawa",
@@ -1685,26 +1721,6 @@
       "url": "https://open.spotify.com/track/0oaMjtPZszuZSkSC1Fzt3e"
     },
     {
-      "added_at": "2022-02-04 20:08:15",
-      "album": {
-        "name": "MADNESS",
-        "url": "https://open.spotify.com/album/2YHvfutjzC1HDdkFY45ksr"
-      },
-      "artists": [
-        {
-          "name": "Phonk Killer",
-          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
-        },
-        {
-          "name": "GREEN ORXNGE",
-          "url": "https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G"
-        }
-      ],
-      "duration_ms": 147216,
-      "name": "MADNESS",
-      "url": "https://open.spotify.com/track/6iZh7kG2Bjt3DHmnWcc0ov"
-    },
-    {
       "added_at": "2022-01-14 14:36:36",
       "album": {
         "name": "Phonk Save the World",
@@ -1719,22 +1735,6 @@
       "duration_ms": 123208,
       "name": "Phonk Save the World",
       "url": "https://open.spotify.com/track/7ze3dmIW0eC4ZL2cfReTWO"
-    },
-    {
-      "added_at": "2021-09-01 09:01:24",
-      "album": {
-        "name": "FULL SEND",
-        "url": "https://open.spotify.com/album/1eOwNN7Bltds0VRlwrzeOl"
-      },
-      "artists": [
-        {
-          "name": "BLXCKBUSTA",
-          "url": "https://open.spotify.com/artist/2iXMIbkem6Ca1oq3Jgjgfs"
-        }
-      ],
-      "duration_ms": 114909,
-      "name": "FULL SEND",
-      "url": "https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA"
     },
     {
       "added_at": "2021-05-12 14:02:59",

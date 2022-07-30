@@ -1,12 +1,12 @@
 {
   "description": "Eclectic indie love songs from throughout the years. Delicate lyrics that say it best.",
-  "num_followers": 148763,
+  "num_followers": 148965,
   "original_name": "Love Letter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzOTk3MCwwMDAwMDAwMDUxNjQ3OWZlNTFlYjdhZjljNjM4NGJlZDgyMDI0OWI4",
+  "snapshot_id": "MTY1OTAzOTk3MCwwMDAwMDAwMDRjMmQ2NTNiZDhjYTIwNDc0ZGE5YTA1Y2UxOTI0YWI5",
   "tracks": [
     {
       "added_at": "2022-07-01 21:02:22",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-07-01 21:02:22",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+    },
+    {
+      "added_at": "2022-07-01 21:02:22",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2022-07-01 21:02:22",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+        "name": "Yoshimi Battles the Pink Robots",
+        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE"
+      "duration_ms": 213173,
+      "name": "Do You Realize??",
+      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2022-07-01 21:02:22",
@@ -763,22 +779,6 @@
       "duration_ms": 360106,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH"
-    },
-    {
-      "added_at": "2022-07-01 21:02:22",
-      "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     },
     {
       "added_at": "2022-07-01 21:02:22",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-01 21:02:22",
       "album": {
-        "name": "Kingdom Leader \u2013 Single",
-        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "Kingdom Leader",
-      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
-    },
-    {
-      "added_at": "2022-07-01 21:02:22",
-      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
+    },
+    {
+      "added_at": "2022-07-01 21:02:22",
+      "album": {
+        "name": "Kingdom Leader \u2013 Single",
+        "url": "https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX"
+      },
+      "artists": [
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "Kingdom Leader",
+      "url": "https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP"
     },
     {
       "added_at": "2022-07-01 21:02:22",

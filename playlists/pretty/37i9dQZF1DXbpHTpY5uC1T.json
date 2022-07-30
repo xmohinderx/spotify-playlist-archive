@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude14",
-  "num_followers": 29150,
+  "num_followers": 29190,
   "original_name": "domingo de baj\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Njk1OTIyOCwwMDAwMDAwMDUyZGUyOGU2ZmYxYmU1MDQyNzBhOWI3ZjE3NDdhM2Jm",
+  "snapshot_id": "MTY1Njk1OTIyOCwwMDAwMDAwMGE1MzhmZTc4NmZlNmI4MTc0M2FhOWY4YzA4NWU2ZDU4",
   "tracks": [
     {
       "added_at": "2022-07-04 18:27:08",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-07-04 18:27:08",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
-    },
-    {
-      "added_at": "2022-07-04 18:27:08",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2022-07-04 18:27:08",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "added_at": "2022-07-04 18:27:08",

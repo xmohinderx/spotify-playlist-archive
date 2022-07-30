@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: Oscar Anton
 
-159 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
+161 songs - 8 hr 59 min - [published](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 | 2022-04-01 |
 | [best day ever](https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [postcard from Amsterdam](https://open.spotify.com/album/4WVKByV0X2xO0G6BMR6RDL) | 3:00 | 2022-05-06 | 2022-05-20 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
+| [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 |  |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [Burn](https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Burn](https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb) | 4:25 | 2022-05-19 | 2022-07-01 |
 | [By the Beach](https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [By the Beach](https://open.spotify.com/album/7DchkXMv3PHncobatgHBzX) | 2:43 | 2021-12-16 | 2022-01-28 |
@@ -127,6 +128,7 @@
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-27 | 2022-03-11 |
 | [Rengaine](https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [11 mai 2020](https://open.spotify.com/album/0BoigvsL13ZlJ54rbTryoq) | 2:50 | 2022-06-30 |  |
 | [Reviens](https://open.spotify.com/track/2lfuJC4pd1zF9op7fL5qdr) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Reviens](https://open.spotify.com/album/6B0BFESRyFXWGEjjMxGS7Y) | 3:19 | 2022-06-02 |  |
+| [Sans toi](https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs) | [Chillpac](https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl), [Clé](https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ) | [Sans toi](https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR) | 3:15 | 2022-07-28 |  |
 | [Sexfriend](https://open.spotify.com/track/0vy0D33YYU4LdTRR5WrCYM) | [MELRØSE](https://open.spotify.com/artist/02m5oP9PCp1rRRD0eFJBVC) | [Nuit louve](https://open.spotify.com/album/4HcetztLiYrr6Eugkuwlff) | 2:33 | 2022-05-19 | 2022-06-17 |
 | [Shaker de l'amour](https://open.spotify.com/track/0Jyzlq9nMksqNmNkrY7rPQ) | [Mezzanine](https://open.spotify.com/artist/5jzf34Dm3S5hnp9iwPxVBw) | [Cocktail](https://open.spotify.com/album/454coNUsv9xHlpSzn4bsJA) | 3:57 | 2022-06-16 |  |
 | [Shining Light](https://open.spotify.com/track/44bUdMl0JyKxyDS4qku5SB) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/0JRHvsV8DdJ2LsdAMl6zBr) | 3:37 | 2021-12-16 | 2022-05-13 |

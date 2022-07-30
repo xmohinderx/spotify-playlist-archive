@@ -2768,6 +2768,24 @@
     },
     {
       "album": {
+        "name": "O Que Eu Vou Levar Quando Eu For",
+        "url": "https://open.spotify.com/album/2eqjBo30J652ViNP9QXpou"
+      },
+      "artists": [
+        {
+          "name": "Vanguart",
+          "url": "https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239635,
+      "name": "O Que Eu Vou Levar Quando Eu For",
+      "url": "https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp"
+    },
+    {
+      "album": {
         "name": "O Que \u00c9",
         "url": "https://open.spotify.com/album/50paoVozSUVrqInbWnl3mk"
       },

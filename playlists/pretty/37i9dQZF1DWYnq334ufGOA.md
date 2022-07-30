@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,440 likes - 43 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,486 likes - 43 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

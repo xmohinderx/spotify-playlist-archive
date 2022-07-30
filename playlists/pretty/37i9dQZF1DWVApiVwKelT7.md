@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 
 > Time to mend your broken heart with beautiful melodies!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,602 likes - 71 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,744 likes - 71 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 | 30 | [Vaadi Pulla Vaadi \- From "Meesaya Murukku"](https://open.spotify.com/track/5gBa7yfdEUKrpJbhAygKRs) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Vaadi Pulla Vaadi \(From "Meesaya Murukku"\)](https://open.spotify.com/album/6o279wwm5geGXjI6NnTCMl) | 4:06 |
 | 31 | [Kan Pesum Varthaigal \(From "7/G Rainbow Colony"\)](https://open.spotify.com/track/6YDJ4XEYgW0jbn8WDZCfsB) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Youth Beats \- Hits of A.R.Rahman and Yuvan Shankar Raja](https://open.spotify.com/album/41JsrslvFMaFxVV6bfpe3O) | 5:48 |
 | 32 | [Ninaithu Ninaithu \(From "7/G Rainbow Colony"\)](https://open.spotify.com/track/3NHvXq8sdp7UmrqWJdAqz7) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Hits of Yuvan Shankar Raja, Vol.2](https://open.spotify.com/album/1AIexHDKEBwsyKZCxVvFTE) | 4:34 |
-| 33 | [Aaruyire](https://open.spotify.com/track/1kEBn42BGm8y3nQUjQvUve) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Madharasapattinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ffYI02SEVQbb3qRgdpJGk) | 6:10 |
+| 33 | [Pogatha Yennavittu](https://open.spotify.com/track/07aADAqhVze8oPrzBil7FX) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Nega Venugopal](https://open.spotify.com/artist/7KNnnywuBxB09b6w0oEOLA) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:41 |
 | 34 | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/track/6sAdmaffuMijDszeFrGF1H) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Enakenna Yaarum Illaye \(From "Aakko"\)](https://open.spotify.com/album/75VI8uBcagYXYBZMM3hqj7) | 4:20 |
 | 35 | [Dhimu Dhimu](https://open.spotify.com/track/6old0mA1IHi5lw2yLv3ri6) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Engeyum Kadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DyPmer9GfEcRosw671Eaq) | 5:29 |
-| 36 | [Pogatha Yennavittu](https://open.spotify.com/track/07aADAqhVze8oPrzBil7FX) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Nega Venugopal](https://open.spotify.com/artist/7KNnnywuBxB09b6w0oEOLA) | [Vikram Vedha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70cftH7NeXGgJYH3iyos0m) | 4:41 |
+| 36 | [Aaruyire](https://open.spotify.com/track/1kEBn42BGm8y3nQUjQvUve) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Saindhavi](https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit) | [Madharasapattinam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ffYI02SEVQbb3qRgdpJGk) | 6:10 |
 | 37 | [Iravingu Theevai](https://open.spotify.com/track/33URgXLE4IQdDSyG4zc4MY) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [96 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mtHV7uS0a40wYuxWonMyO) | 3:41 |
 | 38 | [Adiyae Ivalaey](https://open.spotify.com/track/2qWtVodJgQ6HtLgNuAK8Nb) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Romeo Juliet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tg4GGCWmHfmyNxt2degIX) | 4:47 |
 | 39 | [Breakup Song \- From "Naan Sirithal"](https://open.spotify.com/track/7wXCinXw50iT5VdReFalv2) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Breakup Song \(From "Naan Sirithal"\)](https://open.spotify.com/album/6ABJBM7ORI04UjG0btqkDL) | 2:49 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVApiVwKelT7.md) - [plain]
 | 70 | [Miss You Papa](https://open.spotify.com/track/7vh5vbPcaJ9o7zmvOYqzOV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Pyaar Prema Kaadhal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46lQIQOAUOOKiOZFYFPJHh) | 1:33 |
 | 71 | [Pogadhe](https://open.spotify.com/track/2WiYbMi6kTLAWSCUbzf5zm) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:30 |
 
-Snapshot ID: `MTY1ODQ4MzE4MCwwMDAwMDAwMDdiY2M4Y2NmZGIyYWJiZmViMmIxZDgxMjkwNTVjZDRm`
+Snapshot ID: `MTY1ODQ4MzE4MCwwMDAwMDAwMGRjNDY4ZjUwMGI4YTc5MzBlM2NkOGE5NGU5MTZlY2Q3`

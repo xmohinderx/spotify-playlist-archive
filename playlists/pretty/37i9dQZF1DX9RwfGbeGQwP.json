@@ -1,12 +1,12 @@
 {
   "description": "chill beats for cool coffeehouse vibes.",
-  "num_followers": 327349,
+  "num_followers": 327436,
   "original_name": "lofi cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMDlmNzA3Y2VmZjZlMTVlYmI3YTQwZWM4ZjIzOTFlNjg4",
+  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMGViYmJjZGEwN2U3Mzc5OWNlOGQwYTUwYWJkZGNkNDIz",
   "tracks": [
     {
       "added_at": "2022-07-29 00:00:00",
@@ -6607,6 +6607,42 @@
     {
       "added_at": "2022-07-29 00:00:00",
       "album": {
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/6CyxnNLgkUwI6aGB2lVkcC"
+      },
+      "artists": [
+        {
+          "name": "kozebeats",
+          "url": "https://open.spotify.com/artist/1VxyWn1iOEiaKMtPOF0Xt7"
+        },
+        {
+          "name": "Beats In The Bank",
+          "url": "https://open.spotify.com/artist/3CLnP7Npwjxv2t2gyjgnkR"
+        }
+      ],
+      "duration_ms": 110000,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/5e31z71ZU28oH0a99HvpdI"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Shoreditch",
+        "url": "https://open.spotify.com/album/2PLmVR4qXgCCUDkDsLETfG"
+      },
+      "artists": [
+        {
+          "name": "sky city",
+          "url": "https://open.spotify.com/artist/5mzlg0RXi4jy5YU6XWFTgV"
+        }
+      ],
+      "duration_ms": 101647,
+      "name": "Shoreditch",
+      "url": "https://open.spotify.com/track/6zW2hZO4fhEgwuQryRu7tA"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
         "name": "love letters",
         "url": "https://open.spotify.com/album/0Yu8z7QTDgeNTZq43JFSws"
       },
@@ -6659,6 +6695,42 @@
     {
       "added_at": "2022-07-29 00:00:00",
       "album": {
+        "name": "HAO",
+        "url": "https://open.spotify.com/album/2EjMLG2dBuV9gdE7MWgYzK"
+      },
+      "artists": [
+        {
+          "name": "Tohaj",
+          "url": "https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q"
+        },
+        {
+          "name": "Baroto",
+          "url": "https://open.spotify.com/artist/19goEEYC6go9vJ7Jc8pPFy"
+        }
+      ],
+      "duration_ms": 176428,
+      "name": "HAO",
+      "url": "https://open.spotify.com/track/0g2WkD3bsYXMWgxxSnTQBV"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Shore Club",
+        "url": "https://open.spotify.com/album/4GKQMiBrNT6ZtNero00bxG"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "Shore Club",
+      "url": "https://open.spotify.com/track/3pa1L2X2DnjsL8idMk72mx"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
         "name": "arc de jazz",
         "url": "https://open.spotify.com/album/66WjlLqmP4lN8KoFwS8ChP"
       },
@@ -6691,6 +6763,46 @@
       "duration_ms": 157273,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/24QToH7LXtF0ajSU7hYXiz"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7l9ePDpTOamHeV4VjRmIAm"
+      },
+      "artists": [
+        {
+          "name": "Clifford",
+          "url": "https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        }
+      ],
+      "duration_ms": 121290,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3rjqkJgp8vcDZ4KrJr33QP"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Track 2",
+        "url": "https://open.spotify.com/album/1dKjhUTDxeF6Zy2XYwkeQ9"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "duration_ms": 137334,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/0995pMpY9ltEFbV3yupia2"
     },
     {
       "added_at": "2022-07-29 00:00:00",
@@ -6731,6 +6843,46 @@
     {
       "added_at": "2022-07-29 00:00:00",
       "album": {
+        "name": "shine thru",
+        "url": "https://open.spotify.com/album/07JYPlRclRa85BHsi54608"
+      },
+      "artists": [
+        {
+          "name": "\u00d8DYSSEE",
+          "url": "https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA"
+        },
+        {
+          "name": "Lucid Green",
+          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
+        }
+      ],
+      "duration_ms": 141949,
+      "name": "shine thru",
+      "url": "https://open.spotify.com/track/62tpMHfYtFRHfWc51yhq03"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3A4noMOYyU731Wst289hDX"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        },
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/5huuE3Fb2Ko8xTSbcX86Nm"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
         "name": "Chasing Something",
         "url": "https://open.spotify.com/album/0BlUpKBYePUZlqHu9IruxS"
       },
@@ -6751,6 +6903,46 @@
       "duration_ms": 157600,
       "name": "Chasing Something",
       "url": "https://open.spotify.com/track/6irjfpaZ3kS7qlIzXFvD7l"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Zephyr",
+        "url": "https://open.spotify.com/album/3o1AjNSUqYbysJbeinEb7c"
+      },
+      "artists": [
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        },
+        {
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
+        },
+        {
+          "name": "Monocloud",
+          "url": "https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5YZOHVXgS3khDYFARvAUzh"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Dear Dilla",
+        "url": "https://open.spotify.com/album/14HiCmKSRWO096DYScudKp"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "duration_ms": 167710,
+      "name": "Dear Dilla",
+      "url": "https://open.spotify.com/track/7GXAduzM6nHEFfbWjJs6xc"
     },
     {
       "added_at": "2022-07-29 00:00:00",

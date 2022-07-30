@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 316177,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/2RYxyOzv9g2llmMTnR8eQo"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/7HDxQnqEJm7sAw6BiVH6q1"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 269709,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5LWQ5zef4xx39dIcOOeqUI"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 200186,
       "name": "Hit Me Like",
       "url": "https://open.spotify.com/track/03u5kEWetlhr41DlIpMtfI"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 203589,
       "name": "Last One Standing - Radio Edit",
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
@@ -1515,6 +1515,24 @@
       "duration_ms": 256188,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m"
+    },
+    {
+      "album": {
+        "name": "Lift",
+        "url": "https://open.spotify.com/album/7IMTCYMmhoq95Dso180h8v"
+      },
+      "artists": [
+        {
+          "name": "Dwight & Nicole",
+          "url": "https://open.spotify.com/artist/4F8E2YPeiWp9ncA3xJlxv0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267546,
+      "name": "Lift",
+      "url": "https://open.spotify.com/track/6Ht5xsk4VtVOW2X6iihvWY"
     },
     {
       "album": {
@@ -1928,6 +1946,28 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
         "name": "Only Want You",
         "url": "https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va"
       },
@@ -1939,7 +1979,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 230608,
       "name": "Only Want You",
       "url": "https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7"
@@ -2572,6 +2612,28 @@
     },
     {
       "album": {
+        "name": "S\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb"
+      },
+      "artists": [
+        {
+          "name": "Udoo",
+          "url": "https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253124,
+      "name": "S\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb"
+    },
+    {
+      "album": {
         "name": "Take Me to the Good Times",
         "url": "https://open.spotify.com/album/6mezbdLjN0nWuCKiG5jgOh"
       },
@@ -2605,6 +2667,24 @@
       "duration_ms": 202022,
       "name": "TELL THE TRUTH",
       "url": "https://open.spotify.com/track/4j6PFhmK5mOmZK5H8vkzXF"
+    },
+    {
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "album": {

@@ -460,6 +460,28 @@
     },
     {
       "album": {
+        "name": "Deep Creek",
+        "url": "https://open.spotify.com/album/56nF5vr56IXqttefq8N6GX"
+      },
+      "artists": [
+        {
+          "name": "Demun Jones",
+          "url": "https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR"
+        },
+        {
+          "name": "Brandon Hartt",
+          "url": "https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Deep Creek",
+      "url": "https://open.spotify.com/track/5rsNlCqnnuu89icdMkO1Rb"
+    },
+    {
+      "album": {
         "name": "Dirt Road",
         "url": "https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5"
       },

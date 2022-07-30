@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Naomi Raine",
-  "num_followers": 17696,
+  "num_followers": 17789,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMDM0YzI4OTlkOThmODgxOWE2MzJjOTcyMTRjNjMyZDM4",
+  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMGNmOTYwMWZkNzFjMDhmMTlhYTczOGU4ZDFmMDY5M2Jk",
   "tracks": [
     {
       "added_at": "2022-07-17 06:04:21",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "All Things New",
+        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN"
       },
@@ -355,18 +371,18 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "All Things New",
-        "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+      "duration_ms": 193091,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -403,22 +419,6 @@
       "duration_ms": 323855,
       "name": "The Better Benediction (feat. Zacardi Cortez, Gene Moore, Samoht, Tim Rogers & Darrel 'MusiqCity' Walls)",
       "url": "https://open.spotify.com/track/3lHg2hk5SKxykj9bt48ARl"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -799,6 +799,26 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "Como Eh",
+        "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "Como Eh",
+      "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "It's Alright To Cry",
         "url": "https://open.spotify.com/album/1G6cSbgqSSqg8f6npfFh9h"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Como Eh",
-        "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "Como Eh",
-      "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
       },
@@ -863,26 +863,6 @@
       "duration_ms": 186337,
       "name": "You",
       "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -907,18 +887,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
       },
       "artists": [
         {
-          "name": "Bri Babineaux",
-          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 397297,
-      "name": "Build My Life",
-      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -939,6 +923,22 @@
       "duration_ms": 147492,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "duration_ms": 397297,
+      "name": "Build My Life",
+      "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
+      },
+      "artists": [
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 169817,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 190588,
       "name": "Prosper (Remix)",
       "url": "https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/30cPB00t2FzvXPQLtSNJF8"
-      },
-      "artists": [
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 169817,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/5c5Cn75uLZbYsGHVbDHVHD"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "The Word Is Working (Refreshed)",
+        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 407811,
+      "name": "The Word Is Working (Refreshed)",
+      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Father Forgive Us",
         "url": "https://open.spotify.com/album/5UdkDwxRkETEh4yVrbuCS3"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 219574,
       "name": "Father Forgive Us",
       "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "The Word Is Working (Refreshed)",
-        "url": "https://open.spotify.com/album/3TyFoR8keShYsZIn60RZ8d"
-      },
-      "artists": [
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 407811,
-      "name": "The Word Is Working (Refreshed)",
-      "url": "https://open.spotify.com/track/2ZdIyaCMPY5fTX3GL3DYe7"
     },
     {
       "added_at": "2022-07-17 06:04:21",

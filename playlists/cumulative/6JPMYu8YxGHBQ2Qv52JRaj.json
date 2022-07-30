@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269123,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/47N4xRBjtdqmwmoL3cZXar"
+    },
+    {
+      "album": {
         "name": "Abra",
         "url": "https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH"
       },
@@ -19,7 +37,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 155634,
       "name": "Abra",
       "url": "https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI"
@@ -45,7 +63,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 274482,
       "name": "Active",
       "url": "https://open.spotify.com/track/2gfn7kbXStWZLzzGJVrVVX"
@@ -71,6 +89,28 @@
       "duration_ms": 255797,
       "name": "Back Off",
       "url": "https://open.spotify.com/track/1iDMmuWgPsVzosoX5cC2oy"
+    },
+    {
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/67Y9ehbdVAj2fonQYr8SFj"
+      },
+      "artists": [
+        {
+          "name": "One Day One Coke",
+          "url": "https://open.spotify.com/artist/2B7tdyU1J3iiUU3AiKYxaX"
+        },
+        {
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/0FD5t2rMV43zz3OFHeaBRN"
     },
     {
       "album": {
@@ -111,7 +151,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 147840,
       "name": "Bass",
       "url": "https://open.spotify.com/track/6fGgaLADR7gPrQhzsBcL1T"
@@ -136,6 +176,24 @@
     },
     {
       "album": {
+        "name": "Boss Dem",
+        "url": "https://open.spotify.com/album/2fYXEW1O5JR0nmenzZkQGj"
+      },
+      "artists": [
+        {
+          "name": "SWACQ",
+          "url": "https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187968,
+      "name": "Boss Dem",
+      "url": "https://open.spotify.com/track/1Rf7f2p51G0gSBKRLV2rrB"
+    },
+    {
+      "album": {
         "name": "Crashing",
         "url": "https://open.spotify.com/album/4Bc2hMJnuJKxXI3wBWONxY"
       },
@@ -151,10 +209,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 186705,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/6gNAYwCwPLipQwbaos2yyY"
+    },
+    {
+      "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/3xu1FE2RSyqxQgUQYwfF8E"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173305,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/6W9xnRasZucJOudBIuGoPN"
     },
     {
       "album": {
@@ -177,10 +253,32 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 188503,
       "name": "Disco Tool (OOTORO Remix)",
       "url": "https://open.spotify.com/track/3PRDDXSbPUZ1qTa0JkXvgt"
+    },
+    {
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "album": {
@@ -220,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
+    },
+    {
+      "album": {
         "name": "Furious!",
         "url": "https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49"
       },
@@ -235,7 +351,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 198100,
       "name": "Furious!",
       "url": "https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv"
@@ -257,7 +373,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 163548,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/2bpbamkUFaMsb5pZkT96ML"
@@ -279,6 +395,24 @@
       "duration_ms": 181935,
       "name": "How it is",
       "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
+    },
+    {
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/2mP7QCvh8pJes8A15MY3q8"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/1CvEfMOgqFEcExZLDlnx6n"
     },
     {
       "album": {
@@ -355,7 +489,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 315422,
       "name": "Like Thiz",
       "url": "https://open.spotify.com/track/68wdlcxu7ae4JMvPooGYyh"
@@ -380,6 +514,24 @@
     },
     {
       "album": {
+        "name": "Machete Bass EP",
+        "url": "https://open.spotify.com/album/5KjvhOcM4U00c5C44roPJo"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372055,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/1rTBotLHdUOstieehbyqe6"
+    },
+    {
+      "album": {
         "name": "MADDEN",
         "url": "https://open.spotify.com/album/7tuAJ07OlqIuZvNNGl7FSX"
       },
@@ -391,10 +543,32 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 226874,
       "name": "MADDEN",
       "url": "https://open.spotify.com/track/1wAIjMwxC3KjRqHpaMkFvC"
+    },
+    {
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "album": {
@@ -413,6 +587,28 @@
       "duration_ms": 171502,
       "name": "Money Zone",
       "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "album": {
+        "name": "Year Zero",
+        "url": "https://open.spotify.com/album/6judl2YelDUdvExxZpUAvP"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247620,
+      "name": "Monseigneur (feat. Tony Romera)",
+      "url": "https://open.spotify.com/track/5X0A7PWXS8j0QvA16rxMrl"
     },
     {
       "album": {
@@ -467,10 +663,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 173546,
       "name": "N.N.F",
       "url": "https://open.spotify.com/track/73QcoAGpYx8irX35O5NGQF"
+    },
+    {
+      "album": {
+        "name": "Night Train",
+        "url": "https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288095,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM"
     },
     {
       "album": {
@@ -485,10 +699,46 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 169830,
       "name": "Oh Babe",
       "url": "https://open.spotify.com/track/2PLMPEaM0SaBjIgIb8ntxD"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/6icjcRHwHhCbMEFGGexCAx"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183954,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/3TDqXg8iAPzgGKqVEn4cup"
+    },
+    {
+      "album": {
+        "name": "Phone Call, Pt. 2",
+        "url": "https://open.spotify.com/album/2BIOBpiFJlWPSbeohpiXxB"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172810,
+      "name": "Phone Call, Pt. 2",
+      "url": "https://open.spotify.com/track/1X2FWRBY0i4jBpq1f5bkfv"
     },
     {
       "album": {
@@ -507,7 +757,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 205739,
       "name": "Rave Alert",
       "url": "https://open.spotify.com/track/6lYvXGenh0QSJWuHRUHMi6"
@@ -525,10 +775,32 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 183750,
       "name": "Redeem",
       "url": "https://open.spotify.com/track/4Lmr9a3iJZcFpTDQxIORWw"
+    },
+    {
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4lMXaQ2EwU0JcpW3RJEEUf"
+      },
+      "artists": [
+        {
+          "name": "Mat Zo",
+          "url": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+        },
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267907,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4HRVvrMFXvtSnw3J3knPV1"
     },
     {
       "album": {
@@ -543,10 +815,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 228814,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/6wmhkZY4y7nt5btkqVTQeK"
+    },
+    {
+      "album": {
+        "name": "Screamer",
+        "url": "https://open.spotify.com/album/0tQhOKPoPSWEqhItm3DaO4"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Screamer",
+      "url": "https://open.spotify.com/track/6Y99os6uaE64HDEH82owVT"
     },
     {
       "album": {
@@ -579,7 +869,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 341104,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/7FQpAFyAyYaQV3cVJ2Ce0x"
@@ -645,10 +935,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 122817,
       "name": "Straight Ballin\u2019",
       "url": "https://open.spotify.com/track/2iMyo9Nu43d8jTUFclBKc4"
+    },
+    {
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/7jTjkekiP10wcRMtmcDLm8"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230288,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6U6nzpSvKxju6WA0Kojcxn"
     },
     {
       "album": {
@@ -663,7 +971,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 209821,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/236kN3RKjCEP9bzXpZgbRc"
@@ -732,6 +1040,28 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "NuKey",
+          "url": "https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157460,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv"
+    },
+    {
+      "album": {
         "name": "Wonky Pop",
         "url": "https://open.spotify.com/album/5UOJLzJvGBqa8vog1lH4w9"
       },
@@ -751,6 +1081,28 @@
       "duration_ms": 205767,
       "name": "Wonky Pop",
       "url": "https://open.spotify.com/track/4VrBvEqVuUNKwXo37wUpfJ"
+    },
+    {
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/1QCktekcgBw3W33RvrrkY4"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156630,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/0I45yWUWcC9fzdbZhiFxhg"
     }
   ],
   "url": "https://open.spotify.com/playlist/6JPMYu8YxGHBQ2Qv52JRaj"

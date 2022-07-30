@@ -1,13 +1,49 @@
 {
-  "description": "Genre-less. Quality first always. Cover: MorMor",
-  "num_followers": 1327607,
+  "description": "Genre-less. Quality first always. Cover: DOMi & JD BECK",
+  "num_followers": 1327623,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc1NzYxOSwwMDAwMDAwMDc3MzJhNzQ5N2NmNzM3MzliMWVhOTU5YzcyOGVhMTk0",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDFkNTRmYzdjY2NmOTE4MTZkYTRjY2I2YTUzMjdiODA1",
   "tracks": [
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "NOT TiGHT",
+        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "BOWLiNG (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
+    },
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
@@ -29,52 +65,52 @@
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Far Apart",
-        "url": "https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl"
+        "name": "Miss The Days",
+        "url": "https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J"
       },
       "artists": [
         {
-          "name": "MorMor",
-          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
         }
       ],
-      "duration_ms": 176380,
-      "name": "Far Apart",
-      "url": "https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR"
+      "duration_ms": 220650,
+      "name": "Miss The Days",
+      "url": "https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Quiet Corners Of My Mind",
-        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
       },
       "artists": [
         {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 268237,
-      "name": "Quiet Corners Of My Mind",
-      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "Dance Forever / Stump",
+        "url": "https://open.spotify.com/album/4wDAfyjdq3W3azCF2cn32L"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
         }
       ],
-      "duration_ms": 184973,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx"
+      "duration_ms": 185493,
+      "name": "Dance Forever",
+      "url": "https://open.spotify.com/track/1WOTQ1BdmTxuI4OYTegKNH"
     },
     {
       "added_at": "2022-07-12 15:00:31",
@@ -95,6 +131,166 @@
       "duration_ms": 192010,
       "name": "ADDICTIONS (FEAT. Tre' Amani)",
       "url": "https://open.spotify.com/track/01VzuxoBYMAJLObfU0w6dI"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Far Apart",
+        "url": "https://open.spotify.com/album/2XHYnTTmjpCcLPjJBEJbXl"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "duration_ms": 176380,
+      "name": "Far Apart",
+      "url": "https://open.spotify.com/track/4l9UNAcgLmxxknjV8ydjcR"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 169583,
+      "name": "A Body, A Coffin",
+      "url": "https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Lop Nor",
+        "url": "https://open.spotify.com/album/7wkTPXbAI6PaE2BUZ46UR1"
+      },
+      "artists": [
+        {
+          "name": "boys be kko",
+          "url": "https://open.spotify.com/artist/48I9QQhVxPjmcSOPeLVv5D"
+        }
+      ],
+      "duration_ms": 348196,
+      "name": "Lop Nor",
+      "url": "https://open.spotify.com/track/3840qLLhpUXTRV3TVXcgmn"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "So Typically Now",
+        "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
+      },
+      "artists": [
+        {
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
+        }
+      ],
+      "duration_ms": 195804,
+      "name": "So Typically Now",
+      "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Not The Way",
+        "url": "https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        },
+        {
+          "name": "Pierce.blue",
+          "url": "https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv"
+        }
+      ],
+      "duration_ms": 188412,
+      "name": "Not The Way",
+      "url": "https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "on & on",
+        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "duration_ms": 135013,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Go\u00fbter",
+        "url": "https://open.spotify.com/album/4abjv34MTztlQVxJAmcfij"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 195395,
+      "name": "solitude/martini on mars",
+      "url": "https://open.spotify.com/track/7oCmZ0X7rg3CXh2YcpW4GQ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Quiet Corners Of My Mind",
+        "url": "https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM"
+      },
+      "artists": [
+        {
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
+        }
+      ],
+      "duration_ms": 268237,
+      "name": "Quiet Corners Of My Mind",
+      "url": "https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -189,22 +385,6 @@
       "url": "https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8"
     },
     {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Just Can't Get Enough",
-        "url": "https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
-    },
-    {
       "added_at": "2022-06-02 23:00:00",
       "album": {
         "name": "Hi-Fidelity",
@@ -255,26 +435,6 @@
       "duration_ms": 214504,
       "name": "Message (Better Days)",
       "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Not The Way",
-        "url": "https://open.spotify.com/album/1GqrZGIFYL5PAdROYVrzzB"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        },
-        {
-          "name": "Pierce.blue",
-          "url": "https://open.spotify.com/artist/77VgINKetSqVqKgRRJi4fv"
-        }
-      ],
-      "duration_ms": 188412,
-      "name": "Not The Way",
-      "url": "https://open.spotify.com/track/05mRjWxSDdjQzaXYQg8BQQ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -496,12 +656,16 @@
           "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         },
         {
+          "name": "Dom Maker",
+          "url": "https://open.spotify.com/artist/0mOUTmvCZnw2EWdQqY3RGc"
+        },
+        {
           "name": "Zelooperz",
           "url": "https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8"
         }
       ],
       "duration_ms": 204105,
-      "name": "Palaces (feat. Damon Albarn) [Mount Kimbie Die Cuts Remix feat. Zelooperz]",
+      "name": "Palaces (feat. Damon Albarn & Zelooperz) [Mount Kimbie Die Cuts Remix]",
       "url": "https://open.spotify.com/track/4XU6clIvkNNu0QLv86HJGU"
     },
     {
@@ -633,22 +797,6 @@
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
-      "added_at": "2022-07-01 05:42:11",
-      "album": {
-        "name": "Cloudy",
-        "url": "https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 411818,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Remember Your North Star",
@@ -717,6 +865,22 @@
       "url": "https://open.spotify.com/track/0z7mJ4dACjuoBqH7RC3mbm"
     },
     {
+      "added_at": "2022-07-01 05:42:11",
+      "album": {
+        "name": "Cloudy",
+        "url": "https://open.spotify.com/album/5WvztQo4j7Faf25GIGxSNW"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 411818,
+      "name": "Cloudy",
+      "url": "https://open.spotify.com/track/47aSZv8FWDnGRtWnFItGzT"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Stuck In The Middle",
@@ -763,26 +927,6 @@
       "duration_ms": 176876,
       "name": "killer",
       "url": "https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2"
-    },
-    {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "Summer Moon (feat. Kevin Kaarl)",
-        "url": "https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 177673,
-      "name": "Summer Moon (feat. Kevin Kaarl)",
-      "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
     },
     {
       "added_at": "2022-05-24 15:24:16",
@@ -1025,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
-    },
-    {
       "added_at": "2022-05-20 04:00:00",
       "album": {
         "name": "HYPNOS",
@@ -1059,6 +1187,22 @@
       "duration_ms": 224933,
       "name": "Where I\u2019m From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS"
     },
     {
       "added_at": "2022-05-25 15:28:13",
@@ -1199,22 +1343,6 @@
       "duration_ms": 208666,
       "name": "National Lottery",
       "url": "https://open.spotify.com/track/6XtgTXKggnWcEzPk6VlLWo"
-    },
-    {
-      "added_at": "2022-05-13 04:44:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Rich Spirit",
-      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1439,22 +1567,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/5LCCfjJW4kBomupswapRHE"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 214157,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6slWOE0SO6HjBH0fNd13YB"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/0rlIVUflILXZZCXWtYHRuc"
       },
@@ -1571,22 +1683,6 @@
     {
       "added_at": "2022-04-08 04:00:00",
       "album": {
-        "name": "DREAM SOUP",
-        "url": "https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 206370,
-      "name": "Human Shape",
-      "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
-    },
-    {
-      "added_at": "2022-04-08 04:00:00",
-      "album": {
         "name": "double standard",
         "url": "https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4"
       },
@@ -1653,22 +1749,6 @@
       "url": "https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "LUZ",
-        "url": "https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98"
-      },
-      "artists": [
-        {
-          "name": "Axel Boman",
-          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
-        }
-      ],
-      "duration_ms": 217104,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/6kG8jzJh9Wm4TRyMcX47xV"
-    },
-    {
       "added_at": "2022-04-01 04:01:00",
       "album": {
         "name": "Bluff",
@@ -1719,46 +1799,6 @@
       "duration_ms": 286133,
       "name": "Blood In The Snow",
       "url": "https://open.spotify.com/track/5yiEvFextSviCStbutB8UI"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Troubles [Feat. T-Pain]",
-        "url": "https://open.spotify.com/album/446vvjZgKLxPAnR0zciABe"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Troubles [Feat. T-Pain]",
-      "url": "https://open.spotify.com/track/2DyiZvzSxkf1N6fvcfEKEO"
-    },
-    {
-      "added_at": "2022-04-01 04:01:00",
-      "album": {
-        "name": "Plant Life",
-        "url": "https://open.spotify.com/album/1PabRKrfRNoJxDKZQNRN4P"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        },
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 230931,
-      "name": "Plant Life - Yu Su\u2019s Transient Version",
-      "url": "https://open.spotify.com/track/2cfBCwIoPa3kwuLFM4TyND"
     }
   ],
   "unique_name": "POLLEN",

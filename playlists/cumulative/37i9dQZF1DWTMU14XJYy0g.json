@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Mancha De Rolando.",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: 2 minutos",
   "name": "Rock Nacional",
   "published_playlist_ids": [
     "1BEgfZL9U1ltwJb00J2hJ4"
@@ -41,6 +41,24 @@
       "duration_ms": 227746,
       "name": "Alejado de la Red",
       "url": "https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU"
+    },
+    {
+      "album": {
+        "name": "Amor en Pandemia",
+        "url": "https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ"
+      },
+      "artists": [
+        {
+          "name": "2 minutos",
+          "url": "https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167115,
+      "name": "Amor en Pandemia",
+      "url": "https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7"
     },
     {
       "album": {
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 306419,
       "name": "Canci\u00f3n para un Amigo",
       "url": "https://open.spotify.com/track/3WLY1xa2Izcof8CNaFK8QS"
@@ -2036,6 +2054,24 @@
     },
     {
       "album": {
+        "name": "Un Chico en el Cuerpo de un Mayor",
+        "url": "https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181424,
+      "name": "Un Chico en el Cuerpo de un Mayor",
+      "url": "https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs"
+    },
+    {
+      "album": {
         "name": "Un demonio",
         "url": "https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax"
       },
@@ -2213,7 +2249,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 254500,
       "name": "Ya N\u00f6 Quiero (Banda Sonora Original de la Pel\u00edcula \"Existir\")",
       "url": "https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF"

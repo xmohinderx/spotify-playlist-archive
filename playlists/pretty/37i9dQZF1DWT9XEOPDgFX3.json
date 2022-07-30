@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Tomberlin",
-  "num_followers": 46203,
+  "num_followers": 46239,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDQwZDRkMDczNTI0MmYyOTI3NDljMzNlMDBlMTg0MmY5",
+  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMGI1ODFhOTU4MDU2NTFkZmMzYzg3OGQ4MWIxMmM4NzFi",
   "tracks": [
     {
       "added_at": "2022-04-29 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Warm Chris",
-        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Lawn",
-      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 277261,
       "name": "Every Once In A While",
       "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Warm Chris",
+        "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "tap",
-        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 271869,
-      "name": "tap",
-      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 247258,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "tap",
+        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 271869,
+      "name": "tap",
+      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
-      },
-      "artists": [
-        {
-          "name": "Harmony Byrne",
-          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
-        }
-      ],
-      "duration_ms": 278753,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
+      },
+      "artists": [
+        {
+          "name": "Harmony Byrne",
+          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
+        }
+      ],
+      "duration_ms": 278753,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Held Down",
-        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "Held Down",
-      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Sorceress",
         "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Held Down",
+        "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "Held Down",
+      "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252455,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Luca",
         "url": "https://open.spotify.com/album/24EXPHVPeAd5klXJR9fqKR"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5"
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
         }
       ],
-      "duration_ms": 252455,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 97643,
       "name": "lesson",
       "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Convention",
-      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Two Saviors",
+        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "Pareidolia",
+      "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "Cady Road",
         "url": "https://open.spotify.com/album/7ncOxJlRQGqWHcTeXXe3mz"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Two Saviors",
-        "url": "https://open.spotify.com/album/2vikSk2cwNb7llDz0pIrxh"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "Pareidolia",
-      "url": "https://open.spotify.com/track/1Qpyl5qbt1JtXDdTyjmeaM"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
-      },
-      "artists": [
-        {
-          "name": "Maja Lena",
-          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Life, and Another",
         "url": "https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 265815,
       "name": "Station to Station",
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/38twMt2I8ceWNWtoqqvENP"
+      },
+      "artists": [
+        {
+          "name": "Maja Lena",
+          "url": "https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/6cGx4nFQpR8SaDoIUy1r67"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1899,6 +1899,38 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
+        "name": "Gold Record",
+        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4S9RG6dliy3NFtEZNP64TI"
       },
@@ -1919,22 +1951,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Gold Record",
-        "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/7DDOKDN5Z1MzAi6KWpTJjn"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Try Harder",
         "url": "https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 206703,
       "name": "The Things We Build",
       "url": "https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2022-04-29 04:00:00",

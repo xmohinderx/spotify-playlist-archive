@@ -4,7 +4,7 @@
 
 > Classic music for cooking and eating with friends.
 
-79 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
+82 songs - 4 hr 25 min - [published](https://open.spotify.com/playlist/3uJsjEzjcEqBc4z4TXxjVT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [Get the Moon Up](https://open.spotify.com/track/3KqVnlFmCcjimw02I4mXvA) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/27aht0wSf0h3U05DLMTmYY) | 2:15 | 2022-07-08 |  |
 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 | 2022-05-25 |  |
 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 | 2022-05-25 |  |
+| [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 | 2022-07-29 |  |
+| [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 | 2022-07-29 |  |
 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 | 2022-05-25 |  |
 | [Hound Dog](https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:01 | 2022-05-25 |  |
 | [I Asked For Water](https://open.spotify.com/track/3sZmIGQGh9oRXOjIlRYbdq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [His Best](https://open.spotify.com/album/1kwN6x9YMvV2ILaLE13Ytf) | 2:51 | 2022-05-25 | 2022-07-29 |
@@ -62,6 +64,7 @@
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-07-08 |  |
 | [Little By Little \(I'm Losing You\)](https://open.spotify.com/track/25vYkkypWmtzS88Podza8X) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:33 | 2022-05-25 |  |
 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 | 2022-05-25 |  |
+| [Old School Player](https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV) | [Johnny Burgin](https://open.spotify.com/artist/3TO16L9G6h4sLM74SMoGB5), [Iper Onishi](https://open.spotify.com/artist/5zgvVsTzX5wrmTZNbjxvPe), [Yoshi Mizuno](https://open.spotify.com/artist/5Sy2g77ioUAcSGjpdlC5Cf), [Zee](https://open.spotify.com/artist/6ga1PbdZXrQvrlFjjSOVQ6), [Takagiman](https://open.spotify.com/artist/2ihTTT7thh5HBBfZlCHnhP) | [No Border Blues](https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4) | 3:48 | 2022-07-29 |  |
 | [One Bourbon, One Scotch, One Beer](https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 | 2022-05-25 |  |
 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 | 2022-05-25 | 2022-07-29 |
 | [Peaches](https://open.spotify.com/track/3ZAeSVg8ZuJ4THCnsRKxe7) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Too Bad Jim](https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp) | 4:18 | 2022-05-25 |  |

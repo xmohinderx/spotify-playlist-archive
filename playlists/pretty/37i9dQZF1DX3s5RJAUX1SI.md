@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > Tus canciones favoritas con un toque intímo y acústico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,178 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,206 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 43 | [¡Corre!](https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 4:39 |
 | 44 | [Contigo Aprendi](https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:21 |
 | 45 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2qOpRaCIXWMr36X9NNrCER) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta \(Edición Especial\)](https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR) | 4:07 |
-| 46 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
+| 46 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
 | 47 | [Por Siempre Mi Amor \- Versión Acústica](https://open.spotify.com/track/0Xtln8sTYKPvc0hFxA3IXn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Por Siempre Mi Amor \(Versión Acústica\)](https://open.spotify.com/album/67bgveDWejGjBPpY09JcLV) | 2:57 |
-| 48 | [A Lo Mejor](https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 3:33 |
+| 48 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
 | 49 | [Enséñame a Olvidarte](https://open.spotify.com/track/1udHR22w8zDodUmNLzbLKb) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm), [Natalia Aguilar](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV) | [Enséñame a Olvidarte](https://open.spotify.com/album/1W9HDmJ6U7Adf6yYvtoPWK) | 3:21 |
 | 50 | [Sin Esencia \- Balada](https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22) | 3:47 |
 | 51 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6eu4W9RlGEzGPjfVJlXWtT) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [De México](https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV) | 4:01 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 75 | [Contigo \- Spotify Sessions](https://open.spotify.com/track/3YucBaaVFM1Rksxn3EEv7B) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Spotify Sessions](https://open.spotify.com/album/4cDORfef1KJLnnlLvRQf11) | 3:36 |
 | 76 | [Brillas](https://open.spotify.com/track/47MtU4JUlIDr1m4MGAC6gM) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Mitad Madera](https://open.spotify.com/artist/2yTuqx7KfcZpRVOXDfVmNf) | [Brillas](https://open.spotify.com/album/7warmJuEPgjSPmhcglaKj2) | 3:16 |
 | 77 | [Ayer Pedí](https://open.spotify.com/track/3E665uWyS30wGSFfqNxNFH) | [Luis Carlos Monroy](https://open.spotify.com/artist/5d4WMfgfWrcufKRJLhDIaZ), [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Ayer Pedí](https://open.spotify.com/album/5sjlh9Z1mXCQLek5NsVc7X) | 4:25 |
-| 78 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
-| 79 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
+| 78 | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/track/2DVNDaRh1wAwGTu9dvIFLg) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes \(Versión Pop\)](https://open.spotify.com/album/5DC7bCueW9l1w3Dqddz9q5) | 3:27 |
+| 79 | [Sabor a mi](https://open.spotify.com/track/0t3DKC2ohJL7XVqRVoxk0A) | [Los Primos MX](https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:19 |
 | 80 | [Niña De Mi Corazón \- Versión Acústica](https://open.spotify.com/track/49y91R9Macp3pdS04Dsu1k) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mis Canciones..\. Ustedes Y Yo](https://open.spotify.com/album/1IyqrlZOjdiOqFw7732Dfr) | 3:20 |
 | 81 | [Usted](https://open.spotify.com/track/0dLmUxDPXQOJpf89eS6iIb) | [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 3:58 |
 | 82 | [Te Quise Olvidar](https://open.spotify.com/track/2JJvRBxvvaQtXZt4Rj4duM) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Te Quise Olvidar](https://open.spotify.com/album/1jeMmS4wKhhqhSBaoLkch1) | 3:34 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 90 | [Ni lo intentes](https://open.spotify.com/track/3flFhSpItnM42neXeO7Di6) | [Luciano Luna](https://open.spotify.com/artist/57BbKXJtNatw70ug0uOzQq) | [Boleros Que Hicieron Historia](https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g) | 2:55 |
 | 91 | [Víveme](https://open.spotify.com/track/7BrYlhhQZl0vKt2EezbU5b) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Víveme](https://open.spotify.com/album/48bOhxUq2mrSd2CXCq9vic) | 3:51 |
 | 92 | [Culpable O No](https://open.spotify.com/track/2JL5sOQesXlPktrGkXTWug) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Culpable O No](https://open.spotify.com/album/27yNEcnw6iIeHF4xWN55f0) | 3:59 |
-| 93 | [Alma Enamorada](https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Alma Enamorada](https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv) | 4:03 |
-| 94 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
+| 93 | [La Puerta Negra](https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [La Puerta Negra](https://open.spotify.com/album/73yWEfBEFLueOketILhoIg) | 2:27 |
+| 94 | [Alma Enamorada](https://open.spotify.com/track/475CRI2f2N51OgUuwO4svT) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Alma Enamorada](https://open.spotify.com/album/5kjOv0KKGmRqgYGPA4BFJv) | 4:03 |
 | 95 | [Por Tu Maldito Amor](https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Por Tu Maldito Amor](https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t) | 3:56 |
 | 96 | [Un Siglo Sin Ti](https://open.spotify.com/track/7Jk0meNiyyaeNvJLERvFSr) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Mexillennials Acústico](https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N) | 4:17 |
 | 97 | [Necesito Una Compañera](https://open.spotify.com/track/2W2So37pJ8o1WXokjaiIz6) | [Cheyo Carrillo](https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks) | [Mexillennials Acústico](https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N) | 3:49 |
 | 98 | [Aguanta Corazón](https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX) | [M.O.Y.A.](https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf) | [Aguanta Corazón](https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1) | 3:12 |
-| 99 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 |
-| 100 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
+| 99 | [Y Todo Para Que](https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Y Todo Para Que](https://open.spotify.com/album/4NZRI46AsgksuR6cCX2vFc) | 2:32 |
+| 100 | [Por Enamorarme](https://open.spotify.com/track/7b1aBTGem6OURffYx3KU8C) | [Piha Luna](https://open.spotify.com/artist/0B1XaZh80WPhIaknmAJ5cE) | [Nuestros Covers](https://open.spotify.com/album/2UCEMl5xTLAiznganHSxu2) | 3:12 |
 
-Snapshot ID: `MTYzNTc4OTUwMSwwMDAwMDAwMDE1ZTA1YTMwMjQ4ZTE2MjM1NjQzZjZhOTlhMjQ0OGFk`
+Snapshot ID: `MTYzNTc4OTUwMSwwMDAwMDAwMGJhZDM4ZGQzMzA3OWRhYTdiMTE2NDI0ODg5NDBkMzI1`

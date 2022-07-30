@@ -2,9 +2,9 @@
 
 ### [Rockeando](https://open.spotify.com/playlist/37i9dQZF1DWTphHAHFWZlz)
 
-> El sonido del nuevo rock argentino esta acá\. Foto: Rayos Láser
+> El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras
 
-142 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
+145 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/0MtUXUcZ7oflfCxYvMhlyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amarnos](https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 3:25 | 2022-06-29 |  |
 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 | 2022-06-29 | 2022-07-20 |
 | [Aquella Tarde](https://open.spotify.com/track/2cKdZVBnUaZn8ljdFvZdpX) | [Gualicho Turbio](https://open.spotify.com/artist/0ZRNpfCY00nx1WDHkVHxt7) | [Aquella Tarde](https://open.spotify.com/album/3i1JAH6tozHGd0QU0sYMgm) | 3:17 | 2022-06-29 | 2022-07-20 |
+| [Armagedón](https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy) | [Camila López](https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2), [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR) | [Armagedón](https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF) | 3:01 | 2022-07-29 |  |
 | [Astronauta](https://open.spotify.com/track/6XCOKDWCJZ7knF4vCVINHY) | [IXTLAN](https://open.spotify.com/artist/1ggW9OH16Si4ciVPnhqs5S) | [Astronauta](https://open.spotify.com/album/78QdI5eiDWkzSDUMlOFYiJ) | 3:36 | 2022-06-29 |  |
 | [Atlántida](https://open.spotify.com/track/6JCAu0nt4HFMAEvdFLHQvW) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Atlántida](https://open.spotify.com/album/7kWcGPdxlEhJk9liwvUPUF) | 4:03 | 2022-06-29 | 2022-07-20 |
 | [Avenida Vacía](https://open.spotify.com/track/7iVyf30YjmmRFHct0h8AOE) | [Doctor Brown](https://open.spotify.com/artist/4E97sUnBxVIE4LsUDYvyFh) | [Avenida Vacía](https://open.spotify.com/album/4WPsJyLgeqOvgDjqpfriwg) | 3:55 | 2022-06-29 | 2022-07-20 |
@@ -100,6 +101,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-07-19 |  |
 | [Mientras Puedas](https://open.spotify.com/track/0KXSC27yO8M77WxGV4JC8l) | [Maurito](https://open.spotify.com/artist/5PMZb565NBrzfkLnHLgVqh) | [Mientras Puedas](https://open.spotify.com/album/0R2ApWvhBPLSn7vYOE3Gtf) | 4:11 | 2022-06-29 |  |
 | [Mientras Se Vive](https://open.spotify.com/track/492R0jU7XhU5cTc2ANYNEe) | [Años Luz](https://open.spotify.com/artist/46N1BjrxCmtoQO0RVjVzlP) | [Mientras Se Vive](https://open.spotify.com/album/6EXFzVKlB3dAU4mUzgkVjM) | 3:26 | 2022-06-29 |  |
+| [Mundo de Hoy](https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA) | [Las Sombras](https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw) | [El Club de los Nostálgicos](https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS) | 4:21 | 2022-07-29 |  |
 | [Mundo Entero](https://open.spotify.com/track/6xZR3mbvw2UwZOaYs2bSz7) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [Mundo Entero](https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak) | 3:22 | 2022-06-29 |  |
 | [Nace Libre](https://open.spotify.com/track/2kyywPxDePakKsrwXia9KS) | [Coverheads](https://open.spotify.com/artist/4QtHE540B0R3NREWskQJcA) | [Nace Libre](https://open.spotify.com/album/4KrnLHWdKOldkroL7UMp1U) | 4:25 | 2022-06-29 | 2022-07-20 |
 | [Natación](https://open.spotify.com/track/1EaPFhLP6YF3qzOmwpXhxa) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Natación](https://open.spotify.com/album/3GDo0ywjzL2zFMoEZJIoZV) | 3:40 | 2022-07-19 |  |
@@ -107,6 +109,7 @@
 | [No Pudiste Verlo](https://open.spotify.com/track/5MqdBOl6tcQuoOCj1fSnGh) | [Camperas](https://open.spotify.com/artist/1NfBsale6A7iXgBf0Ig58w) | [Todo Desliza](https://open.spotify.com/album/4CrOToTHThyWV5nrx3bR1e) | 2:09 | 2022-06-29 |  |
 | [No Quiero Salir](https://open.spotify.com/track/0Z9EiIeAxn26L0lTVOn1aH) | [Los Burritos](https://open.spotify.com/artist/20pbYX3EUvtEdG3Cjx9qG1) | [No Quiero Salir](https://open.spotify.com/album/2XYNPtHlKeJTxPAmyIbkmq) | 2:18 | 2022-06-29 |  |
 | [No Te Desvistas](https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY) | [Simón Abentin](https://open.spotify.com/artist/3Zs1HOnF2dqmc60qkEziol) | [Tocable, Adorable](https://open.spotify.com/album/3blcyiycMdmmomf37A0SoP) | 2:13 | 2022-06-29 | 2022-07-20 |
+| [Olimpica](https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Olimpica](https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n) | 3:45 | 2022-07-29 |  |
 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 | 2022-07-19 |  |
 | [Ovbio](https://open.spotify.com/track/7w1oeRk6mx4SnvYH6GpPEK) | [Pyramides](https://open.spotify.com/artist/1YbKrHuxHjOQGBSMiz2YHU) | [Ovbio](https://open.spotify.com/album/2zSH51juxxucmg3HuoUDyD) | 4:04 | 2022-07-19 |  |
 | [Para Enloquecer](https://open.spotify.com/track/6xFNObwvVvrGg3hY8fT05I) | [BIGGER](https://open.spotify.com/artist/7Mjn4aYeV5bxOB4mlVsGZc) | [El Otro Lado](https://open.spotify.com/album/4yL0j3KXs4tzmIl3Zs96ER) | 3:19 | 2022-06-29 | 2022-07-20 |

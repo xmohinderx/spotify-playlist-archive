@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: YUSUKE CHIBA \- SNAKE ON THE BEACH \-
 
-268 songs - 17 hr 47 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
+269 songs - 17 hr 51 min - [published](https://open.spotify.com/playlist/58cr9qiZRcBgGXeUmGq6P3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-07 |  |
 | [Black hole eyed lady](https://open.spotify.com/track/0dwQF24jwHEFvAdBIW5Obx) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Black hole eyed lady](https://open.spotify.com/album/3pUUh38i9Ip5L01yJLNhbZ) | 2:51 | 2022-05-10 | 2022-07-23 |
 | [BLACK TOWN \- Acoustic Version](https://open.spotify.com/track/0R4IVPXo99eHM52nvT23tn) | [Bomb Factory](https://open.spotify.com/artist/2PPPdxtIsns02nAw3rQ03g) | [BLACK TOWN \(Acoustic Version\)](https://open.spotify.com/album/4Uko8iIzKup2aamDdaCUyx) | 4:09 | 2022-05-12 | 2022-05-24 |
-| [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 | 2022-07-24 |
+| [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-17 |  |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 |  |
 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 | 2022-05-24 | 2022-07-14 |
 | [Brainy](https://open.spotify.com/track/1WgN2szYODur4O2MP9U6F9) | [brainchild's](https://open.spotify.com/artist/1uQnzELUyiex7pt1EpCDtE) | [Brainy](https://open.spotify.com/album/6RAwYJgvKf2WJCgtn4RP0L) | 3:18 | 2022-05-12 | 2022-07-28 |
@@ -62,7 +62,7 @@
 | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/track/3eQ9FDoMOunYuuJVVlPmxV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Shaka Bose](https://open.spotify.com/artist/2T7vRIAvrUUUKATk6IcZma) | [hellboy\. \(feat\. 釈迦坊主\)](https://open.spotify.com/album/6eqBeYoz4XJ5x5211nAj3L) | 3:32 | 2022-05-10 | 2022-05-23 |
 | [Hello Stray Kitty](https://open.spotify.com/track/0sg5ungKUSkUVWkNIJS67m) | [LEGO BIG MORL](https://open.spotify.com/artist/6AbHzcOyvyvubx7AcyQ1f9) | [Hello Stray Kitty](https://open.spotify.com/album/3SW6tUBW2lmmVEPzD8WVxc) | 3:11 | 2022-05-24 | 2022-06-09 |
 | [HONEY \- Remastered 2022](https://open.spotify.com/track/4BFWM87zjensjLlOjnlNqE) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ray \(Remastered 2022\)](https://open.spotify.com/album/6Km0eJ6M9NL89fzpHb26iq) | 3:48 | 2022-05-17 | 2022-06-15 |
-| [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2022-05-10 |  |
+| [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 | 2022-05-10 | 2022-07-30 |
 | [Hypersonic](https://open.spotify.com/track/51gxaHIQYvMZXFR7owPiSy) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [FREEDOM ONLY](https://open.spotify.com/album/6iJ8EkeLS7JrpE3NvUz25R) | 4:07 | 2022-05-10 | 2022-07-27 |
 | [I DON'T WANNA](https://open.spotify.com/track/1mOeV8FLM1u2K6FQikcWvM) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [BLAST OFF!](https://open.spotify.com/album/5K6mctmxGbGJUuii7uRt2d) | 3:21 | 2022-05-10 | 2022-06-21 |
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
@@ -73,7 +73,7 @@
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-07-27 |
 | [JOY](https://open.spotify.com/track/4qm684B9C9kVHvHJuWLuOQ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アントロギア](https://open.spotify.com/album/3buKVNQCasGoLW9lz9hY8D) | 4:50 | 2022-05-12 | 2022-07-25 |
 | [Just](https://open.spotify.com/track/648ultx75M4zzMpS7YDgVs) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [fade / Just](https://open.spotify.com/album/4EzumahZ1VCLCBIfa2q8Jb) | 2:59 | 2022-05-10 | 2022-07-28 |
-| [Just Kids](https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Just Kids .ep](https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY) | 2:57 | 2022-07-12 |  |
+| [Just Kids](https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [Just Kids .ep](https://open.spotify.com/album/7r4IHmJNgqsvXGwJyNQsMY) | 2:57 | 2022-07-12 | 2022-07-30 |
 | [KABUKI](https://open.spotify.com/track/1kwYacRt7TdEyoWWIRdpbK) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [KABUKI](https://open.spotify.com/album/3ftXHTshutmnvZa20VSAjh) | 3:25 | 2022-06-14 | 2022-06-20 |
 | [kaleido proud fiesta](https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [kaleido proud fiesta](https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p) | 3:42 | 2022-05-31 |  |
 | [KARMA](https://open.spotify.com/track/4DIVVUgITYlu9P2tzzUUcN) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [KARMA](https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L) | 4:05 | 2022-05-12 | 2022-07-22 |
@@ -240,6 +240,7 @@
 | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/track/3yxHmjUP94fcDZu0VgESzj) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [明日大好きなロックンロールバンドがこの街にやってくるんだ \- From THE FIRST TAKE](https://open.spotify.com/album/3aNEW4FiY1e1nZYJ2IDsdB) | 5:39 | 2022-07-21 | 2022-07-29 |
 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 | 2022-05-17 |  |
 | [時代遅れのRock'n'Roll Band](https://open.spotify.com/track/5x1mEZL7jAmnDvPoALyBdO) | [Keisuke Kuwata feat\. Motoharu Sano, Masanori Sera, Char, Goro Noguchi](https://open.spotify.com/artist/1Zwp8omq5fAcxwTfjZKLoJ), [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [時代遅れのRock'n'Roll Band](https://open.spotify.com/album/34880OhTzI2pjzQW05ooka) | 4:15 | 2022-05-22 | 2022-06-29 |
+| [暁](https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [暁](https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm) | 4:10 | 2022-07-28 |  |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2022-05-10 |  |
 | [最愛の生業](https://open.spotify.com/track/3xlbszPcHsXytFjtRSealV) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [歌者 \-utamono\-](https://open.spotify.com/album/5vZMvqi85kt7qJApwc4saD) | 4:19 | 2022-05-24 | 2022-07-23 |
 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-10 | 2022-07-29 |

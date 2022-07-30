@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 一起感受香港製造的女聲力量！\(cover: 方皓玟\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,569 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 3 | [靜夜歌](https://open.spotify.com/track/7uVPQnJIh2x4J3UOZSELYN) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [靜夜歌](https://open.spotify.com/album/6GZ1SDblzNaLfcMerPxgRJ) | 4:48 |
 | 4 | [你是你本身的傳奇](https://open.spotify.com/track/5uMkdWf1H6JEcpcdnPOSZM) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [404 Not Found](https://open.spotify.com/album/4xl2rRkillqFASqckMIjLy) | 3:48 |
 | 5 | [葉落冰川](https://open.spotify.com/track/3jxj7O93SLRCAsBIviq3IH) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [葉落冰川](https://open.spotify.com/album/05XwwNdSaXEovmHokmE53P) | 4:22 |
-| 6 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
+| 6 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 |
 | 7 | [風靡](https://open.spotify.com/track/5sEEhOScgED3KxkF9lzgEd) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [風靡](https://open.spotify.com/album/20KC0BCuXFmg7XFjkdpAW9) | 3:50 |
 | 8 | [豐乳肥臀](https://open.spotify.com/track/3vTqHdQVYMVMuwd5V9vi4W) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [豐乳肥臀](https://open.spotify.com/album/6A6LiVhR7vhRqJktCLMskX) | 3:22 |
 | 9 | [世界與你無關](https://open.spotify.com/track/0cQT5SMEAKDUac4VmeDrdH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關](https://open.spotify.com/album/2U6rtxyPmUCjqtRS1zfipL) | 4:18 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 30 | [on the right track](https://open.spotify.com/track/6usIo4k5JfrPvIhau9nN2p) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [WHY AM I HERE](https://open.spotify.com/album/6DknG0hh3OZf7QTQCA8Ms2) | 2:53 |
 | 31 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 |
 | 32 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 |
-| 33 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 |
+| 33 | [矮妹正傳](https://open.spotify.com/track/6KtWgqqyD4XFJDdOewkg1u) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [矮妹正傳](https://open.spotify.com/album/2OqTqhAmWnMHJH3hzD2me3) | 3:21 |
 | 34 | [最難行的路](https://open.spotify.com/track/2VxhivipIOgAvnUw7KVha2) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 3:41 |
 | 35 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 |
 | 36 | [Little Miss Janice](https://open.spotify.com/track/22EE8dhOA8t2XSPMYiQSWi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Little Miss Janice](https://open.spotify.com/album/5d14ViywYO9XTuIVwM4wZ7) | 3:31 |

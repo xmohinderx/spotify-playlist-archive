@@ -4,7 +4,7 @@
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-128 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1QuTCFAAvr075yBOLHikO0)
+129 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/1QuTCFAAvr075yBOLHikO0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Contigo](https://open.spotify.com/track/6SYVzMrcP8yknIwVdGXzuP) | [V'nney](https://open.spotify.com/artist/41J0diHzl4hRdEg8cc4mC5), [Tito Ortega](https://open.spotify.com/artist/7r3164wAmcmqShGG3fbIyM), [Nueve Siete](https://open.spotify.com/artist/7fzZKj3Tr03xohWrfinjBI) | [Contigo](https://open.spotify.com/album/18EuuqxFAioOOD2PHO7vWL) | 2:42 | 2022-07-19 |  |
 | [Coolant](https://open.spotify.com/track/2fHOqQ9K6eY0wsbVZiYZPw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Coolant](https://open.spotify.com/album/6hURCisLKBolUaJJRhStAs) | 3:31 | 2022-01-04 | 2022-07-29 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-03-01 | 2022-07-24 |
+| [Criminal](https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf), [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB) | [Criminal](https://open.spotify.com/album/1HqFS49pmoR174vkddzArp) | 3:15 | 2022-07-29 |  |
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2022-01-04 |  |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2022-07-23 |  |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-01-04 | 2022-07-29 |
@@ -96,7 +97,7 @@
 | [Nos Comemos Vivos](https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 3:45 | 2022-06-18 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-05-10 |  |
 | [Pa PRIVE](https://open.spotify.com/track/59EISn3QlxiItQFAlk4WVy) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Pa PRIVE](https://open.spotify.com/album/1NcSaHWDtxlB7VX3RbwKhS) | 3:10 | 2022-06-18 | 2022-07-20 |
-| [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-06-17 |  |
+| [Pa' Eso Se Hizo](https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Pa' Eso Se Hizo](https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN) | 2:29 | 2022-06-17 | 2022-07-30 |
 | [Para Lisa](https://open.spotify.com/track/2TkQBNls3vXKGpe3G4HSi2) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [El Habano](https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Para Lisa](https://open.spotify.com/album/12lwEdt950VatQ7dKRZESb) | 3:32 | 2022-01-04 | 2022-07-28 |
 | [Perreo Como Antes](https://open.spotify.com/track/5n0QCDvFTl6yCOvGBy7uA3) | [Dj Bekman](https://open.spotify.com/artist/3PHuVxvrf7wtssAIDL3D8F) | [Llego el Perreo](https://open.spotify.com/album/0N3lZLWY4iToTQ65pWsCRF) | 3:32 | 2022-03-26 | 2022-07-25 |
 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 | 2022-01-04 | 2022-07-22 |

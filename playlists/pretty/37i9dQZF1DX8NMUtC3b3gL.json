@@ -1,12 +1,12 @@
 {
   "description": "beautiful beats for beautiful moments. ",
-  "num_followers": 17059,
+  "num_followers": 17140,
   "original_name": "lofi summer haze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMDlkZGIxNjBmMWYwZTFmMjljYzlhYTZlNmY2ZTE3ODE3",
+  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMDJkYzI4Y2JiNzZmN2FhMGMwNDc1NGQ5ZTRkZTc5OGVl",
   "tracks": [
     {
       "added_at": "2022-07-29 00:00:00",
@@ -2223,6 +2223,42 @@
     {
       "added_at": "2022-07-29 00:00:00",
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/0FGJhpYTovyNwXoxUnvf3G"
+      },
+      "artists": [
+        {
+          "name": "Fractite",
+          "url": "https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/3Vdunna1LcFXyvLE50j5oK"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Waves in the Sea",
+        "url": "https://open.spotify.com/album/2q8EnyDXgZXWPQZPeG30Vc"
+      },
+      "artists": [
+        {
+          "name": "YetBaby",
+          "url": "https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb"
+        },
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 157140,
+      "name": "Waves in the Sea",
+      "url": "https://open.spotify.com/track/1LulW6f7M6PcO8yFv2Pwsq"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
         "name": "cold green tea",
         "url": "https://open.spotify.com/album/31lyYka2W7Gy4N0CnH0KeK"
       },
@@ -2239,6 +2275,62 @@
       "duration_ms": 153333,
       "name": "cold green tea",
       "url": "https://open.spotify.com/track/0w0UHCWlEoeCP9iXRuJwB9"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr"
+      },
+      "artists": [
+        {
+          "name": "revmal",
+          "url": "https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 108666,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/52oTmaLv8s70zJft348pjy"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "off the grid",
+        "url": "https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba"
+      },
+      "artists": [
+        {
+          "name": "beyond pluto",
+          "url": "https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49"
+        },
+        {
+          "name": "luv pug",
+          "url": "https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "off the grid",
+      "url": "https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "They Grew Around Her",
+        "url": "https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 156007,
+      "name": "They Grew Around Her",
+      "url": "https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w"
     },
     {
       "added_at": "2022-07-29 00:00:00",

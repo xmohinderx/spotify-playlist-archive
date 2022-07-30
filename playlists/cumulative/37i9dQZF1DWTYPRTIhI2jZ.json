@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 397474,
       "name": "All-Pha",
       "url": "https://open.spotify.com/track/5inC7FEroUMMrclA23U9UP"
@@ -121,10 +121,36 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 444837,
       "name": "Angels By My Side (feat. Pauline Taylor)",
       "url": "https://open.spotify.com/track/26ALH0sQXHOEeLDuIth1ZX"
+    },
+    {
+      "album": {
+        "name": "Angels By My Side (feat. Pauline Taylor) [Floorplan Remix]",
+        "url": "https://open.spotify.com/album/7kCqPj81tgi7V4ANrOM8K4"
+      },
+      "artists": [
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        },
+        {
+          "name": "Pauline Taylor",
+          "url": "https://open.spotify.com/artist/1OBxd0sOELyeO2h9JBKZA1"
+        },
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208130,
+      "name": "Angels By My Side (feat. Pauline Taylor) - Floorplan Remix",
+      "url": "https://open.spotify.com/track/42IvMk6Ivc5MDu3eCAVkWv"
     },
     {
       "album": {
@@ -237,10 +263,32 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 243879,
       "name": "Body Moves - Reprise Mix",
       "url": "https://open.spotify.com/track/3spm5hrfYFaBiYm8zdsBYv"
+    },
+    {
+      "album": {
+        "name": "Borderline (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/5FayQLLrcOWtWWffJtdAOg"
+      },
+      "artists": [
+        {
+          "name": "SeeMeNot",
+          "url": "https://open.spotify.com/artist/5hSSY8s66i1eAYO9En7Nxp"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457342,
+      "name": "Borderline - Jamie Jones Extended Remix",
+      "url": "https://open.spotify.com/track/2Las46WkGHm2lSuzqXVw3i"
     },
     {
       "album": {
@@ -263,7 +311,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 399360,
       "name": "Brand New Groove - Chief Rocka Remix",
       "url": "https://open.spotify.com/track/1qTWOL5MBYRTQuuYTM99k7"
@@ -289,6 +337,24 @@
       "duration_ms": 188000,
       "name": "Bread & Butter",
       "url": "https://open.spotify.com/track/1FWyCtVhS65v7a6wtZ0A90"
+    },
+    {
+      "album": {
+        "name": "Brothers On The Slide",
+        "url": "https://open.spotify.com/album/7v8jbmwXZEA0LOXlKkMiq5"
+      },
+      "artists": [
+        {
+          "name": "Patchworks Ginger Xpress",
+          "url": "https://open.spotify.com/artist/3rdxOaS4VTrtiK1TVinnoy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339573,
+      "name": "Brothers On The Slide",
+      "url": "https://open.spotify.com/track/4P8k4tQpsz4NknlokPZeuk"
     },
     {
       "album": {
@@ -321,7 +387,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 251076,
       "name": "Can't Shake The Break",
       "url": "https://open.spotify.com/track/67xLqcIgCZqzOnYbmlqjVw"
@@ -394,6 +460,24 @@
     },
     {
       "album": {
+        "name": "A Love Trilogy",
+        "url": "https://open.spotify.com/album/1PvqIQwJDmGRElkPMQtbTr"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315493,
+      "name": "Could It Be Magic",
+      "url": "https://open.spotify.com/track/2MdGWAiYLmGbetrSBANcoD"
+    },
+    {
+      "album": {
         "name": "Ctairs",
         "url": "https://open.spotify.com/album/6b32PEGCCSVfnv1x4HskIG"
       },
@@ -405,7 +489,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 427962,
       "name": "Ctairs",
       "url": "https://open.spotify.com/track/56r3BSxEExeBwj9za8BCFw"
@@ -423,7 +507,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 422618,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/47L7EinVbbEBraJE0MMnW9"
@@ -518,6 +602,24 @@
     },
     {
       "album": {
+        "name": "Defined",
+        "url": "https://open.spotify.com/album/2oISJK1pZ6iRNh5XsmEMCG"
+      },
+      "artists": [
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395438,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/5L0WCEyAeKVMhcYvqZ7kwj"
+    },
+    {
+      "album": {
         "name": "Good Fruit",
         "url": "https://open.spotify.com/album/6er8gruMsQlDjv3ICkVkH2"
       },
@@ -536,6 +638,42 @@
     },
     {
       "album": {
+        "name": "Take My Time EP",
+        "url": "https://open.spotify.com/album/0LYuKO41Ow3YNdHAadX8W1"
+      },
+      "artists": [
+        {
+          "name": "Nenor",
+          "url": "https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356804,
+      "name": "Gonna Take My Time",
+      "url": "https://open.spotify.com/track/79Fpv3pwLG6fM6N53ncl3m"
+    },
+    {
+      "album": {
+        "name": "Someone To Love Me",
+        "url": "https://open.spotify.com/album/6GAuT526r9aGcGyk5AA38T"
+      },
+      "artists": [
+        {
+          "name": "Jomanda",
+          "url": "https://open.spotify.com/artist/09xC3MewWz48F1OpYckXTZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454960,
+      "name": "Got a Love for You - Hurley's House Mix",
+      "url": "https://open.spotify.com/track/6p8i9A3hkXzgk5DMcJyEWg"
+    },
+    {
+      "album": {
         "name": "The Master",
         "url": "https://open.spotify.com/album/5wUX4RN9vc8rwFjuFNZBuH"
       },
@@ -547,7 +685,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 421009,
       "name": "Gotta Get Up",
       "url": "https://open.spotify.com/track/1AYORYRA0YWllNtvHS77IM"
@@ -605,7 +743,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 522973,
       "name": "He Loves Me 2 - Steve Silk Hurley Original 12 Inch",
       "url": "https://open.spotify.com/track/2iKOc0YdnY4jlJxzZvuFac"
@@ -641,7 +779,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 435133,
       "name": "Hey Hey - DF's Attention Vocal Mix",
       "url": "https://open.spotify.com/track/70UEWHNbuYCh70KK7QCNj3"
@@ -715,10 +853,36 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
+    },
+    {
+      "album": {
+        "name": "I Gotta Hold On You",
+        "url": "https://open.spotify.com/album/3r22OoD57XnnuBYeNaKqe9"
+      },
+      "artists": [
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        },
+        {
+          "name": "Chantay Savage",
+          "url": "https://open.spotify.com/artist/2yg15JjVOqNppP73zVhosY"
+        },
+        {
+          "name": "Steve \"Silk\" Hurley",
+          "url": "https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295750,
+      "name": "I Gotta Hold On U - Steve Silk Hurley Silky Scat Dub",
+      "url": "https://open.spotify.com/track/2W7hIYYpO67GR6XbAVpUBE"
     },
     {
       "album": {
@@ -737,6 +901,46 @@
       "duration_ms": 368657,
       "name": "I Knee'd U",
       "url": "https://open.spotify.com/track/3Aoke1QlorK688bCAq1GJf"
+    },
+    {
+      "album": {
+        "name": "I Need Somebody",
+        "url": "https://open.spotify.com/album/3VnvEiczgYdykkQsw6oLN7"
+      },
+      "artists": [
+        {
+          "name": "Make A Dance",
+          "url": "https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200675,
+      "name": "I Need Somebody",
+      "url": "https://open.spotify.com/track/5ckV1eT8o5jRnu1WrYQua0"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/1EW1LgJEXD7AakcZ3PaCIo"
+      },
+      "artists": [
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/5P8bGcA8Xe7XKxvCs78qfR"
     },
     {
       "album": {
@@ -780,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Acts of Love Mixtape: Act Three",
+        "url": "https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX"
+      },
+      "artists": [
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313011,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/1uICRkHuDOhCi3J9gVJqMT"
+    },
+    {
+      "album": {
         "name": "King of My Castle (Nicola Fasano & Steve Forest Mixes)",
         "url": "https://open.spotify.com/album/6eByIeUUsFaJwFk2ZSAp1v"
       },
@@ -809,7 +1031,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 328020,
       "name": "L'atellier",
       "url": "https://open.spotify.com/track/30NT3Qo8c1dxchJ9Mnt6Os"
@@ -981,10 +1203,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 193859,
       "name": "Love Is A State Of Mind (feat. Ramona Renea)",
       "url": "https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6"
+    },
+    {
+      "album": {
+        "name": "Marina Ocarina",
+        "url": "https://open.spotify.com/album/0uBLSbcp791kfMLWYWzk93"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "Marina Ocarina - Edit",
+      "url": "https://open.spotify.com/track/3lwFbmouvhQgCW81n4WtGW"
     },
     {
       "album": {
@@ -1099,7 +1339,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 435269,
       "name": "No Worries - Daniel Stefanik Edit",
       "url": "https://open.spotify.com/track/0kSRtt5uNbCygUQL0hsmT9"
@@ -1129,6 +1369,28 @@
       "duration_ms": 374308,
       "name": "Not About You (feat. Hadiya George) - KDA 'Legacy' Extended Remix",
       "url": "https://open.spotify.com/track/3E3i9HPozXn5JS0yw6AJJR"
+    },
+    {
+      "album": {
+        "name": "Acts of Love Mixtape: Act Three",
+        "url": "https://open.spotify.com/album/0OqijRECTTuYyHnpz59QoX"
+      },
+      "artists": [
+        {
+          "name": "Waajeed",
+          "url": "https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT"
+        },
+        {
+          "name": "Frank Alowishus",
+          "url": "https://open.spotify.com/artist/6iyaBvd1BwRY6AiVgPQqUA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386567,
+      "name": "Our Time Is Now",
+      "url": "https://open.spotify.com/track/2EECRc7ChquXKilHETQ4Ju"
     },
     {
       "album": {
@@ -1169,6 +1431,24 @@
       "duration_ms": 210464,
       "name": "Party Woman - Crazy P Remix - Radio Edit",
       "url": "https://open.spotify.com/track/5pzDUAOgD90EzFxrIV181m"
+    },
+    {
+      "album": {
+        "name": "90 Discomania",
+        "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Johnston",
+          "url": "https://open.spotify.com/artist/02JfoUargkADbNg0uXdAR8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219108,
+      "name": "Peace (In the Valley) - Edit Version",
+      "url": "https://open.spotify.com/track/3r16sPVtLDSNt25CEhIRdX"
     },
     {
       "album": {
@@ -1267,7 +1547,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 285586,
       "name": "Reasons to Be Cheerful, Pt. 3",
       "url": "https://open.spotify.com/track/5bfAtR5Lq43JM7brcXo3fp"
@@ -1311,6 +1591,28 @@
       "duration_ms": 328874,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/0POKb9bRtYVqGBsN0LkitJ"
+    },
+    {
+      "album": {
+        "name": "Roy Layers",
+        "url": "https://open.spotify.com/album/6MbugfgS9LmUmzq36otjFL"
+      },
+      "artists": [
+        {
+          "name": "Jamie 3:26",
+          "url": "https://open.spotify.com/artist/2i3sHUKH86iD6khkNR1Fxi"
+        },
+        {
+          "name": "Danou P",
+          "url": "https://open.spotify.com/artist/7zbOXmwDJ5Ezs8reLsSsmv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 804264,
+      "name": "Roy Layers",
+      "url": "https://open.spotify.com/track/2xcRFfaqwoucDbRyNrdFiT"
     },
     {
       "album": {
@@ -1384,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "See A Light",
+        "url": "https://open.spotify.com/album/2yARmHfRk3WkCuDSvwXSqN"
+      },
+      "artists": [
+        {
+          "name": "Roy Jazz Grant",
+          "url": "https://open.spotify.com/artist/0EVNPTDQGP4ocTzr6ZlhGj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373373,
+      "name": "See A Light",
+      "url": "https://open.spotify.com/track/5XjyfCIJpSmWVCJpyFAcAk"
+    },
+    {
+      "album": {
         "name": "Situation",
         "url": "https://open.spotify.com/album/6XyN4us9O9PbKcfytfSFha"
       },
@@ -1395,7 +1715,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 346546,
       "name": "Situation - Dub Mix",
       "url": "https://open.spotify.com/track/6j2cSuBWl5aQ8LxPYVYIFp"
@@ -1443,7 +1763,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 412229,
       "name": "Someday - New 12\" House",
       "url": "https://open.spotify.com/track/6XtCgNKqDdbQvS2Tgc2434"
@@ -1461,7 +1781,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 300000,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/5gX7AEGXahevO0PnmWBBzC"
@@ -1483,6 +1803,28 @@
       "duration_ms": 319520,
       "name": "Stop Space Return",
       "url": "https://open.spotify.com/track/6Bpxv5xnrvR4O0NNyKnFNL"
+    },
+    {
+      "album": {
+        "name": "Stress Relief (Vogue Down For Mama Stacey Mix)",
+        "url": "https://open.spotify.com/album/5SUA14eHocT0yo6MUpRgDu"
+      },
+      "artists": [
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        },
+        {
+          "name": "Mama Stacey",
+          "url": "https://open.spotify.com/artist/1oA4eijEqVNtcZLxEb7s69"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308839,
+      "name": "Stress Relief - Coflo's Vogue Down For Mama Stacey Mix",
+      "url": "https://open.spotify.com/track/4ghKL3Mgor4ldaWk40S72w"
     },
     {
       "album": {
@@ -1537,7 +1879,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5"
@@ -1671,7 +2013,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 187904,
       "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Remix",
       "url": "https://open.spotify.com/track/4JUvGE6hTDMirLXVyWYZ8Y"
@@ -1723,6 +2065,32 @@
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
+    },
+    {
+      "album": {
+        "name": "Wurk",
+        "url": "https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mihalis Safras",
+          "url": "https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168768,
+      "name": "Wurk",
+      "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 590519,
+  "num_followers": 590653,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMDhlZmVmZTM0NTBhOThhNTU5ZjU1YmYwZDM3NDljMTIx",
+  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMDhjYWMzOGQ2NGQxMmUyNmExZmI0NzE2YTEyZGRlODk3",
   "tracks": [
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 312066,
-      "name": "Delicate",
-      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
       },
@@ -1139,22 +1123,18 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
+      "duration_ms": 312066,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1171,6 +1151,26 @@
       "duration_ms": 305040,
       "name": "Fruits of My Labor",
       "url": "https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Like a Ship",
+        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Keite Young",
+          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
+        }
+      ],
+      "duration_ms": 353506,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Sorry I Am",
-        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 242801,
-      "name": "Sorry I Am",
-      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
         "name": "Aromanticism",
         "url": "https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 239702,
       "name": "Don't Bother Calling",
       "url": "https://open.spotify.com/track/133w2I6NKpvzmQ6XkrWfdN"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Sorry I Am",
+        "url": "https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 242801,
+      "name": "Sorry I Am",
+      "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
+        "name": "Timing",
+        "url": "https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p"
+      },
+      "artists": [
+        {
+          "name": "Alisa Amador",
+          "url": "https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t"
+        }
+      ],
+      "duration_ms": 214643,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
         "name": "Sundowner",
         "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
       },
@@ -1439,34 +1455,18 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "The Shave Experiment (Director's Cut)",
-        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
       "artists": [
         {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
         }
       ],
-      "duration_ms": 135802,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
-        "name": "Timing",
-        "url": "https://open.spotify.com/album/2ir7m3wyTiUiP0vksnZT0p"
-      },
-      "artists": [
-        {
-          "name": "Alisa Amador",
-          "url": "https://open.spotify.com/artist/1YwCwHqQN5Q7g5e00Hbg4t"
-        }
-      ],
-      "duration_ms": 214643,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
+        "name": "The Shave Experiment (Director's Cut)",
+        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 135802,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
         "name": "Wilton",
         "url": "https://open.spotify.com/album/6rOXMsIBhPQfMuGqIjCI8O"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 185397,
       "name": "Colors",
       "url": "https://open.spotify.com/track/62FVFc1vz3NmSlqOOKTlTF"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2022-04-27 00:01:15",

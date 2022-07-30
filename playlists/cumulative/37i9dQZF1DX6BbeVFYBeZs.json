@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Bye bye",
+        "url": "https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161247,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1"
+    },
+    {
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0Fr2ZGB1zrWW6RRjSajNtn"
       },
@@ -1185,6 +1203,24 @@
       "duration_ms": 129207,
       "name": "Lozana",
       "url": "https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6"
+    },
+    {
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232870,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1"
     },
     {
       "album": {

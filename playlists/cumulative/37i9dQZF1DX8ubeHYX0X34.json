@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 362040,
       "name": "Bichar Kai Bhee",
       "url": "https://open.spotify.com/track/4R0v5iueMuknx0V6YFChic"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 386560,
       "name": "Dholna",
       "url": "https://open.spotify.com/track/6GCD5Mc8eHF2aHSYUf8qdN"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 268822,
       "name": "Dupatta",
       "url": "https://open.spotify.com/track/0yfpjCf7E4uNENnqaaOw4I"
@@ -3479,6 +3479,24 @@
       "duration_ms": 326797,
       "name": "Yeh Pal",
       "url": "https://open.spotify.com/track/2GQ2v7N9nsn7s6VtXEiqA6"
+    },
+    {
+      "album": {
+        "name": "Dhoom",
+        "url": "https://open.spotify.com/album/2UzCtYWLoRffW5x1Vg1B15"
+      },
+      "artists": [
+        {
+          "name": "Call",
+          "url": "https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329796,
+      "name": "Yeh Pal",
+      "url": "https://open.spotify.com/track/2dUv1tJPc8jTKBpf2JoBuJ"
     },
     {
       "album": {

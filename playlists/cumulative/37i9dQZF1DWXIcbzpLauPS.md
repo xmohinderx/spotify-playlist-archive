@@ -2,9 +2,9 @@
 
 ### [The Core](https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS)
 
-> This is the new Core at its finest\. Cover: Miss May I
+> This is the new Core at its finest\. Cover: August Burns Red
 
-566 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
+567 songs - 1 day 11 hr 39 min - [published](https://open.spotify.com/playlist/3WEyotDPwbgzHjigMpDgbN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,7 @@
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2022-07-13 | 2022-07-21 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/38CoewUWWrkI3LUnA6IvdY) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/7gHcRen2sOUKx2POnezfLT) | 4:24 | 2022-07-13 | 2022-07-23 |
 | [The Shadowy Descent of Gaia](https://open.spotify.com/track/0MCP9JP5ikBXncq8zlhkCK) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [The Shadowy Descent of Gaia](https://open.spotify.com/album/4Ifi7nuaAuagUnBj7yY4rG) | 4:42 | 2022-07-13 | 2022-07-18 |
-| [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 | 2022-06-10 |  |
+| [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 | 2022-06-10 | 2022-07-30 |
 | [The Soil](https://open.spotify.com/track/1B5N4Uv5ueJw5rbiga5asV) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [The Soil](https://open.spotify.com/album/5NrHpWyWCGVya29slLU2QG) | 3:29 | 2022-07-13 | 2022-07-19 |
 | [The Tyrannt's Covenant](https://open.spotify.com/track/4HX43R8UeIPjEPpTzKQb3P) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Kyle Anderson](https://open.spotify.com/artist/74GuAuCz0mWRUiqL4KPJKh) | [The Tyrannt's Covenant](https://open.spotify.com/album/6t9Q5AZw9LyXEqVvdVZbfP) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [The War Within](https://open.spotify.com/track/0e4wJqC4fthZp6yUCUaCmh) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Jamie Graham](https://open.spotify.com/artist/23lPSllEOA8jXD0bXzzlyM) | [Praenuntius Infiniti](https://open.spotify.com/album/1pmqc1OZ7VYMqjtG8zCAMz) | 4:14 | 2022-07-13 | 2022-07-19 |
@@ -553,6 +553,7 @@
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-07-01 |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 | 2022-02-11 |
 | [What I Would Give](https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Dusk](https://open.spotify.com/album/1jEj7ctr3pPvcVW6mFkt3i) | 4:10 | 2022-07-13 | 2022-07-23 |
+| [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-07-29 |  |
 | [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 | 2022-05-27 |  |
 | [When a Demon Defiles a Witch](https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [When a Demon Defiles a Witch](https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I) | 4:44 | 2022-07-13 | 2022-07-22 |
 | [When The World Awakens](https://open.spotify.com/track/0EykvSNrnnaC6usNnkIuVN) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [When The World Awakens](https://open.spotify.com/album/2aL557gcof6jc3qMEuqwD4) | 3:17 | 2022-03-11 | 2022-04-09 |

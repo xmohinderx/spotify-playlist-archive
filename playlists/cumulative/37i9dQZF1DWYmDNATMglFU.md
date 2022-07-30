@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> \\m/ ft\. Lauran Hibberd
+> \\m/ ft\. Huddy
 
-280 songs - 13 hr 51 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+284 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,10 +21,11 @@
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-03-25 |
 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 | 2021-12-31 | 2022-01-08 |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2021-12-31 | 2022-01-08 |
+| [All the Things I Hate About You](https://open.spotify.com/track/2HbuhhxdEVbqdaJlLxOCfW) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [All the Things I Hate About You](https://open.spotify.com/album/5BHOsQ5SYyLezRwfYN1non) | 3:15 | 2022-07-29 |  |
 | [Alter Ego](https://open.spotify.com/track/1miBcqjGpcoTBcdjnFjJrG) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Alter Ego](https://open.spotify.com/album/0vC6K5RFvqdE2CSpYZQXIz) | 2:20 | 2022-07-14 |  |
 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 | 2021-12-31 | 2022-01-08 |
 | [Armageddon](https://open.spotify.com/track/0rvjUlPX1JmwzfiYJ4JdLY) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [Armageddon](https://open.spotify.com/album/0g2QDrVJOiMVBTtPGHtR6I) | 2:32 | 2022-02-11 | 2022-07-22 |
-| [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:30 | 2022-06-16 |  |
+| [ATOM BOMB](https://open.spotify.com/track/30KVYIxlUbmOUESoJL8Cbz) | [pretty havoc.](https://open.spotify.com/artist/1LQJ1GBylFxJ6aPVtZ1UHX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [ATOM BOMB](https://open.spotify.com/album/1keTOQxhLIwJxNCTsvAxBF) | 2:31 | 2022-06-16 |  |
 | [Basement Superstar](https://open.spotify.com/track/3zN7XaUqoJcpKk70QdBNiK) | [London Mars](https://open.spotify.com/artist/2R765Ip6o2SEw6HfxkxD2y) | [Basement Superstar](https://open.spotify.com/album/4gR3bkt2iYBDhG4n8xmWwB) | 2:50 | 2022-03-31 | 2022-07-22 |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2021-12-31 | 2022-01-08 |
 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 | 2022-07-01 |  |
@@ -183,6 +184,7 @@
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2022-01-07 | 2022-01-28 |
 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 | 2022-02-11 | 2022-04-01 |
 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 | 2022-03-04 | 2022-04-01 |
+| [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:10 | 2022-07-29 |  |
 | [Nino](https://open.spotify.com/track/0vRhAqPvF2yFCcRHWWTeJf) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Nino](https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR) | 1:49 | 2022-01-07 | 2022-02-04 |
 | [no more](https://open.spotify.com/track/46RrAbibdqv8FpIgoEwSkL) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more](https://open.spotify.com/album/67x9FY7e6O6PEfZnBUOUFy) | 2:44 | 2022-02-18 | 2022-07-22 |
 | [NOTHING LASTS FOREVER](https://open.spotify.com/track/2kOzx5IjzzR7qocdNM4j3j) | [BOXBOY](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [NOTHING LASTS FOREVER](https://open.spotify.com/album/3r8wFIWyOeukTYjZhOZkb0) | 2:21 | 2022-03-25 |  |
@@ -263,7 +265,9 @@
 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2021-12-31 | 2022-01-08 |
 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 | 2021-12-31 | 2022-01-08 |
 | [Time Machine](https://open.spotify.com/track/0tYfi7vl6FbspcxyGHCDCu) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Time Machine](https://open.spotify.com/album/30w21xul3TETE8LNZGLE5l) | 2:33 | 2022-01-07 | 2022-03-25 |
+| [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-29 |  |
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 |  |
+| [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 | 2022-07-29 |  |
 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 | 2022-02-04 | 2022-04-01 |
 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 | 2022-03-08 | 2022-03-09 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2022-04-01 |

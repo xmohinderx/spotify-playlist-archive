@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Vibe Chemistry",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Krakota & Scrufizzer",
   "name": "Massive Drum & Bass",
   "published_playlist_ids": [
     "5ouec8j4Own6wmunVKxeH3"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 270426,
       "name": "Athos",
       "url": "https://open.spotify.com/track/54OPjqS1YbDpkqepwfPPv0"
@@ -577,6 +577,28 @@
       "duration_ms": 231724,
       "name": "Blame You (feat. Dylan)",
       "url": "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
+    },
+    {
+      "album": {
+        "name": "Blocklist",
+        "url": "https://open.spotify.com/album/0GeFmFqYfRwN2uPco1n4q2"
+      },
+      "artists": [
+        {
+          "name": "Junk Mail",
+          "url": "https://open.spotify.com/artist/6wVoaI7lR9EKl2xBjt92x8"
+        },
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271724,
+      "name": "Blocklist",
+      "url": "https://open.spotify.com/track/0Axadm8LykCLkL0vC7ENYx"
     },
     {
       "album": {
@@ -2339,7 +2361,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 230475,
       "name": "Junglist (DJ KARA Remix)",
       "url": "https://open.spotify.com/track/6vXHxK6DzrllQBrAKQe9yo"
@@ -2471,6 +2493,24 @@
       "duration_ms": 201379,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+    },
+    {
+      "album": {
+        "name": "Let the Bass Go",
+        "url": "https://open.spotify.com/album/4Cs5hQ4yYQPxrDMCVyGnGR"
+      },
+      "artists": [
+        {
+          "name": "DJ Hazard",
+          "url": "https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224397,
+      "name": "Let the Bass Go",
+      "url": "https://open.spotify.com/track/4FxEi4PCPqhJbWiIa2Jzt6"
     },
     {
       "album": {
@@ -2701,7 +2741,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 198139,
       "name": "Make It",
       "url": "https://open.spotify.com/track/0V5YAFMgVe5fi5flC8n5cZ"
@@ -2983,6 +3023,32 @@
       "duration_ms": 191034,
       "name": "Oldskool Newskool",
       "url": "https://open.spotify.com/track/31G7Qub0futzNe1obQrXfT"
+    },
+    {
+      "album": {
+        "name": "on & on",
+        "url": "https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH"
+      },
+      "artists": [
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135013,
+      "name": "on & on",
+      "url": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc"
     },
     {
       "album": {

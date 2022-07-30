@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-393 songs - 21 hr 23 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+394 songs - 21 hr 26 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Overthinker](https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Overthinker](https://open.spotify.com/album/04jog2osd7pTEQc49jEIem) | 4:28 | 2022-01-14 |  |
 | [Overthinker \- CloZee Remix](https://open.spotify.com/track/09uLd12oTAf9UMbf0FKowo) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Overthinker \(CloZee Remix\)](https://open.spotify.com/album/25FGAtYY5K4H1kUNbYaVeV) | 4:44 | 2022-01-14 |  |
 | [Pain](https://open.spotify.com/track/4IQbJSOLVAe6FWYF07UUO9) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Pain](https://open.spotify.com/album/2htCiITFkoo3V99rvrrsXk) | 2:42 | 2022-07-15 |  |
+| [Paradise](https://open.spotify.com/track/4ebr5AnOETSAEA44d7WPRq) | [Hopex](https://open.spotify.com/artist/0dE2azLipjakJifWO2xrOO) | [Paradise](https://open.spotify.com/album/2cT6yVZVQGvckVJmloq1by) | 2:38 | 2022-07-29 |  |
 | [Paradise Lost](https://open.spotify.com/track/0rIJ266KNe5pnTo3vcRxZ3) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Paradise Lost](https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9) | 2:29 | 2022-01-14 |  |
 | [Paradox](https://open.spotify.com/track/5qbQGOd67ynl1xV489unE8) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Paradox](https://open.spotify.com/album/1ObYB5nlniBKZbUrw0W8AU) | 5:09 | 2022-01-14 | 2022-02-17 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-14 | 2022-03-05 |

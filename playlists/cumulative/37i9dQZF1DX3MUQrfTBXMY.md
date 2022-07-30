@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Hridoy Khan
 
-86 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
+90 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/5E1dMl5K80HmX4b03WyB3C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,16 +35,20 @@
 | [Deepto](https://open.spotify.com/track/4Ese1NYGFeQV1hi3ssqyB1) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Deepto](https://open.spotify.com/album/57QYgRXlMEqMXF5dDO6jvz) | 3:21 | 2022-06-16 |  |
 | [Deyal](https://open.spotify.com/track/3ElVLYZiaRXsvAZsAdbOQD) | [Crynation](https://open.spotify.com/artist/1XgnnIZMJmPcbW8ZD8mzUU) | [Deyal](https://open.spotify.com/album/3yN9WP2JqcLmzyhhIIzX8W) | 4:59 | 2022-06-16 |  |
 | [Dure](https://open.spotify.com/track/0ro2uqekG3BWXDUpeBjJ5Q) | [Shomoy](https://open.spotify.com/artist/7IdZt8q8bmTYQOCYad1BYk) | [Rockoholic](https://open.spotify.com/album/2DLL4wKniDTPu17TPVKvpA) | 4:54 | 2022-06-16 |  |
+| [E Hawa](https://open.spotify.com/track/5VIyjOoXddMARgRTtKVqXc) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [E Hawa](https://open.spotify.com/album/1jqS7KAgEGIgcxViPCxnoM) | 5:54 | 2022-07-29 |  |
 | [Echoes In Your Attic](https://open.spotify.com/track/5MdTyrp08UChjCXljsAoyD) | [Attic](https://open.spotify.com/artist/26SilPnubTJT5ibuYYSOQo) | [Do You Hear That](https://open.spotify.com/album/5UeXeE6sslWZYngyXdwiR8) | 3:56 | 2022-06-16 |  |
 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 | 2022-06-16 |  |
 | [Ei Brishti Bheja Raate](https://open.spotify.com/track/6wYFG41ZlYQ9LZoO134Ywl) | [George Lincoln D'Costa](https://open.spotify.com/artist/20DQNJ7sBu2VqMnuDYXFOp) | [Ei Brishti Bheja Raate](https://open.spotify.com/album/5udSAW80w1dapro72dnnFX) | 5:46 | 2022-06-16 |  |
+| [Ek Jomuna](https://open.spotify.com/track/50vQz9PHOJLvdmMkjL9MgL) | [Khiyo](https://open.spotify.com/artist/5MSaF2NFNibDfRvof5BAa9) | [Bondona](https://open.spotify.com/album/3eJZsoGNDMrnGqS3iwoAW7) | 3:13 | 2022-07-29 |  |
 | [Ek Shokale](https://open.spotify.com/track/6t5ccJLoXgGZGOLRA0Mbip) | [A\. I\. Razu](https://open.spotify.com/artist/67ShnJ9ENhvPwmWymi4zYB) | [Ek Shokale](https://open.spotify.com/album/5MqL326rSE0RhufZcQ2Rry) | 4:14 | 2022-06-16 |  |
 | [Ekhono](https://open.spotify.com/track/4ZoiikOfDXv4ks5rRqiK1Z) | [Jatrik](https://open.spotify.com/artist/6MMQ5xS4dg5ImURe4UFbWU) | [Ekhono](https://open.spotify.com/album/01DwqEvRJlH9iU5knnO2uB) | 4:54 | 2022-06-16 |  |
 | [Fer Dekha](https://open.spotify.com/track/09HJFvjdy6VQSwt3X71bKZ) | [13th Funeral](https://open.spotify.com/artist/6r4kTQoYjObienwuKU4PBT) | [Fer Dekha](https://open.spotify.com/album/5jNu7Ceacit4XCjG1OeQQl) | 7:02 | 2022-07-15 |  |
+| [Ghengor](https://open.spotify.com/track/5mWXeYj5hkBlqht6vGnC9G) | [Firoze Jong](https://open.spotify.com/artist/3CmrTjyQr0mLwtJO0uIrUq) | [Ghengor](https://open.spotify.com/album/5zOCHvv9c80QMBIVwFCnb5) | 4:38 | 2022-07-29 |  |
 | [Ghor](https://open.spotify.com/track/306zePFBWCYpr7HgPWh1ac) | [Olik](https://open.spotify.com/artist/7fU5VKQ4KA88qLlJYvMHc7) | [Ghor](https://open.spotify.com/album/4GHgh8KdlZwal3idMiE55H) | 4:44 | 2022-06-16 |  |
 | [GhorGari](https://open.spotify.com/track/2nRwICrrFgQwiqiZdPjXLe) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY) | 6:22 | 2022-06-16 | 2022-07-29 |
 | [GhorGari](https://open.spotify.com/track/5wJLi8d6bJjPsIBZkkU3fI) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [GhorGari](https://open.spotify.com/album/3J4wRMRFiIk2b3d9iYHnL9) | 6:22 | 2022-07-15 |  |
 | [Ghum \(Official\)](https://open.spotify.com/track/18xxOCfmxqBD5YgTFpzp5d) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Ghum \(Official\)](https://open.spotify.com/album/5NXiZMrsbAyswRpt369KJm) | 3:49 | 2022-06-16 |  |
+| [Harmony \- TV Size](https://open.spotify.com/track/6SizagOQEpjnLYXI5UuQuB) | [Naveed and the Navlets](https://open.spotify.com/artist/2EFzFMXMmHCeIBq9JBxoqv) | [Harmony \(TV Size\)](https://open.spotify.com/album/2aafnsBObPenvOBKMAcWA4) | 2:12 | 2022-07-29 |  |
 | [ISD](https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci) | [Indalo](https://open.spotify.com/artist/37LGjqM0je1KNrLRD3MZ47) | [Kokhon Kibhabe Ekhane Ke Jane](https://open.spotify.com/album/7atnOE38HHe2eIHud4VvHP) | 3:59 | 2022-06-16 |  |
 | [Je Shohore Ami Nei](https://open.spotify.com/track/1DI1uHLG1yesDqaucsLKLH) | [Bay of Bengal](https://open.spotify.com/artist/6dXgxvd22ojzmwry1cXSP6) | [Nirob Durvikkho](https://open.spotify.com/album/6CqQxAKa6d8ibYyiGGSZZc) | 5:05 | 2022-06-16 |  |
 | [Jibonto Somadhi](https://open.spotify.com/track/6XL84ZO0NDI6ssyn0kbV8V) | [FRAZE KHAN](https://open.spotify.com/artist/0pCSCTvPFOBkkD70vjwjFy) | [Jibonto Somadhi](https://open.spotify.com/album/649gMbZYZYUu36UxD34t4J) | 3:25 | 2022-06-16 | 2022-07-16 |

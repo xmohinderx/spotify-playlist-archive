@@ -1,13 +1,61 @@
 {
   "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Febinda Tito. Artwork: Isu Kim.",
-  "num_followers": 58779,
+  "num_followers": 58783,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyNzYwMCwwMDAwMDAwMDg2OTMyMTQ5MjFlYzk1ZjAzMWFhMDI1Y2Y4MDE0MWI1",
+  "snapshot_id": "MTY1OTA2Nzc3OSwwMDAwMDAwMDIyNmU3YmMyMWYwZDk1Y2MwMTJkMjQ0OGFlYTU2NzFl",
   "tracks": [
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Semau-maumu",
+        "url": "https://open.spotify.com/album/48a9iw38Vmr7qvY6kBWvH8"
+      },
+      "artists": [
+        {
+          "name": "Febinda Tito",
+          "url": "https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ"
+        }
+      ],
+      "duration_ms": 221212,
+      "name": "Semau-maumu",
+      "url": "https://open.spotify.com/track/534adyxVMPYDNrpgYksogX"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Things I wanted to say, but",
+        "url": "https://open.spotify.com/album/3sLuEdiVKSHqEb73sTzW2D"
+      },
+      "artists": [
+        {
+          "name": "Amira Karin",
+          "url": "https://open.spotify.com/artist/3rCwi62vIXjO26qeTbDtKp"
+        }
+      ],
+      "duration_ms": 147503,
+      "name": "Sampai Nanti",
+      "url": "https://open.spotify.com/track/17MALrDyAzmbdfEGS65J99"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Lebih Baik Kesepian",
+        "url": "https://open.spotify.com/album/5Dy4XsP8lW3PdGTX3pL0EI"
+      },
+      "artists": [
+        {
+          "name": "Simatakaca",
+          "url": "https://open.spotify.com/artist/32eydlLWmEtGzeCe7mGyJm"
+        }
+      ],
+      "duration_ms": 245792,
+      "name": "Lebih Baik Kesepian",
+      "url": "https://open.spotify.com/track/2hQi92GVS6cSX3Ctw0n2eU"
+    },
     {
       "added_at": "2022-07-28 17:00:00",
       "album": {
@@ -23,6 +71,74 @@
       "duration_ms": 290000,
       "name": "Love For Evermore",
       "url": "https://open.spotify.com/track/6IMrHuQELp3ShHMQrJqFNK"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Forget Love",
+        "url": "https://open.spotify.com/album/42ZihKynqn7cJqZyCvK0b7"
+      },
+      "artists": [
+        {
+          "name": "Pop Kota",
+          "url": "https://open.spotify.com/artist/24AJh8Kl7ae9WtzkME40ch"
+        }
+      ],
+      "duration_ms": 232268,
+      "name": "Forget Love",
+      "url": "https://open.spotify.com/track/0gLZiJTW2VBkeoUBlT3e7h"
+    },
+    {
+      "added_at": "2022-07-29 04:09:39",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3svWbV7cM8YxiERnFSPj3a"
+      },
+      "artists": [
+        {
+          "name": "Ridh",
+          "url": "https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/69GmeA5mTdrbpxgsQnKD5p"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "secret",
+        "url": "https://open.spotify.com/album/4mApK4NwtxtSWtXZEkk6CB"
+      },
+      "artists": [
+        {
+          "name": "VVARD",
+          "url": "https://open.spotify.com/artist/2030BT09bZMNkQpU6H4qlr"
+        }
+      ],
+      "duration_ms": 170467,
+      "name": "secret",
+      "url": "https://open.spotify.com/track/0fidHol1fH1yl5WpJtp2QF"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Virgin Mom (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iFmlspZKJpRqJRoEfrEVs"
+      },
+      "artists": [
+        {
+          "name": "STEVESMITH",
+          "url": "https://open.spotify.com/artist/397847upVgGmm19tyoKyft"
+        },
+        {
+          "name": "RAIII",
+          "url": "https://open.spotify.com/artist/3GCC3TlxGdpDgOBSGSOdaH"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "I Could Be",
+      "url": "https://open.spotify.com/track/1zAfxGhR6tW77L2UJ7azbR"
     },
     {
       "added_at": "2022-07-28 17:00:00",
@@ -43,6 +159,22 @@
     {
       "added_at": "2022-07-28 17:00:00",
       "album": {
+        "name": "Bay",
+        "url": "https://open.spotify.com/album/4diR9IvzJNodateNao5AYp"
+      },
+      "artists": [
+        {
+          "name": "Visiun",
+          "url": "https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bay",
+      "url": "https://open.spotify.com/track/1pySonEHioL6xefVaMOvYr"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
         "name": "Bersama Dirimu (Strollin' Down the Avenue) [Indonesian Version]",
         "url": "https://open.spotify.com/album/37ALbZx38e1BYzkmMVJxSr"
       },
@@ -55,6 +187,82 @@
       "duration_ms": 236666,
       "name": "Bersama Dirimu (Strollin' Down the Avenue) - Indonesian Version",
       "url": "https://open.spotify.com/track/5CFGXPuS6nCLEHgED2D88S"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Cintaku Di Ibukota",
+        "url": "https://open.spotify.com/album/3WlO3fEqm9BSAR4ZjQLQlD"
+      },
+      "artists": [
+        {
+          "name": "Defy Cassaino",
+          "url": "https://open.spotify.com/artist/6kZMoG0cHuAVqZ7havEoFK"
+        },
+        {
+          "name": "Elwin Hendridjanto",
+          "url": "https://open.spotify.com/artist/2bg8wmOmKrOMVHU6IhRVJm"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Cintaku Di Ibukota",
+      "url": "https://open.spotify.com/track/1C6e9clIGTRP37GjUjWFW6"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "QOQ (Quality Of Quantity)",
+        "url": "https://open.spotify.com/album/2mIacip4PVyrbmVhvGpeTg"
+      },
+      "artists": [
+        {
+          "name": "Ardetto",
+          "url": "https://open.spotify.com/artist/4ui2mAcv3u153kPNdAWkub"
+        }
+      ],
+      "duration_ms": 130533,
+      "name": "QOQ (Quality Of Quantity)",
+      "url": "https://open.spotify.com/track/6nI0uQ1bQDpn1SIf6N3Wuu"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Outta Ur Mind",
+        "url": "https://open.spotify.com/album/0aK5IgD7L0i4YdwWfoHN70"
+      },
+      "artists": [
+        {
+          "name": "Ananta Vinnie",
+          "url": "https://open.spotify.com/artist/3zdW7Nq8ne48U7d5IIjDE6"
+        },
+        {
+          "name": "Happy Andromeda",
+          "url": "https://open.spotify.com/artist/6lxLJ8739EiCJloqMmxW2L"
+        },
+        {
+          "name": "Mutiara Azka",
+          "url": "https://open.spotify.com/artist/73t08q7TLi6Jta1BiMGFpz"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "Outta Ur Mind",
+      "url": "https://open.spotify.com/track/6UD20XNAKaAZ3YBfTEYiG8"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/4pm3bDGw1ZwYRuCjig3goA"
+      },
+      "artists": [
+        {
+          "name": "Indiasta",
+          "url": "https://open.spotify.com/artist/0q43JxUHUQX0UgviuGNgbT"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/7jeij8Q1MMWuWpKw2QHW7B"
     },
     {
       "added_at": "2022-07-28 17:00:00",
@@ -91,6 +299,54 @@
     {
       "added_at": "2022-07-28 17:00:00",
       "album": {
+        "name": "Bersama",
+        "url": "https://open.spotify.com/album/5yVfx8Mth2OXcd2yeqVIqp"
+      },
+      "artists": [
+        {
+          "name": "Morphonica",
+          "url": "https://open.spotify.com/artist/1noUDaGHtfPe095MqAWbSb"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "Bersama",
+      "url": "https://open.spotify.com/track/0ShEmZLt231t8M8JlHHEyM"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/55obg5oygwHYSUQe0Ng0lM"
+      },
+      "artists": [
+        {
+          "name": "Nadine Abigail",
+          "url": "https://open.spotify.com/artist/55n1C8w2fMmIxHWRgM6oE7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eTYLEFUEjkMazdUZarLJ9"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Begitu Saja",
+        "url": "https://open.spotify.com/album/5ehqnzJ1OuKbC0nTJStjWn"
+      },
+      "artists": [
+        {
+          "name": "Kamar Biru",
+          "url": "https://open.spotify.com/artist/52nZj6Lipxai0eFic9yv74"
+        }
+      ],
+      "duration_ms": 190816,
+      "name": "Begitu Saja",
+      "url": "https://open.spotify.com/track/6svzJnZQ1O1ciMbFewdkzi"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
         "name": "Satyr's Satire",
         "url": "https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2"
       },
@@ -103,6 +359,26 @@
       "duration_ms": 237141,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "Set It Up",
+        "url": "https://open.spotify.com/album/1Ih5aV0QmVibv0frml2aIH"
+      },
+      "artists": [
+        {
+          "name": "Kid JD",
+          "url": "https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld"
+        },
+        {
+          "name": "Kardo Arghost",
+          "url": "https://open.spotify.com/artist/3a1ukwjBc1a3RjPoW4l9lH"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Set It Up",
+      "url": "https://open.spotify.com/track/67lbvww5ckA2mwlsDizISx"
     },
     {
       "added_at": "2022-07-28 17:00:00",
@@ -147,6 +423,22 @@
     {
       "added_at": "2022-07-28 17:00:00",
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/75N7P3aGFlQojoi0ZslNrS"
+      },
+      "artists": [
+        {
+          "name": "Kaminaldi",
+          "url": "https://open.spotify.com/artist/00EAWRMNbF3eUBRH82vBZs"
+        }
+      ],
+      "duration_ms": 194312,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7qMXGcCbnTB4AAROsi9WuW"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
         "name": "Kembali Menyapa",
         "url": "https://open.spotify.com/album/5kEvUfXSrGhJH6vEeUL6BL"
       },
@@ -159,6 +451,26 @@
       "duration_ms": 226750,
       "name": "Kejamnya Dunia",
       "url": "https://open.spotify.com/track/3QyGXC6AkNFMyv74JayHou"
+    },
+    {
+      "added_at": "2022-07-28 17:00:00",
+      "album": {
+        "name": "NT/M(o)",
+        "url": "https://open.spotify.com/album/1OmKagNtQZzIt8G2zB9giW"
+      },
+      "artists": [
+        {
+          "name": "Morgensoll",
+          "url": "https://open.spotify.com/artist/60a7NWRbuo9IF8TelOWjl3"
+        },
+        {
+          "name": "denisa",
+          "url": "https://open.spotify.com/artist/2fwvrk3t4SkpLOSvF1uoyg"
+        }
+      ],
+      "duration_ms": 405333,
+      "name": "Till I'm Forgiven",
+      "url": "https://open.spotify.com/track/5HWBZo3yl45NOnvNr21xrd"
     },
     {
       "added_at": "2022-07-28 17:00:00",

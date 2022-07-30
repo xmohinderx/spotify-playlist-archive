@@ -4,7 +4,7 @@
 
 > Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
 
-76 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+77 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-05-09 |  |
 | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/track/0tEJych2LdCffCFYVn5vU0) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [Feel Empty \(WEBTOON 'Discovery of Love' X OuiOui\)](https://open.spotify.com/album/66yLRKVouimpFdrbQupUdL) | 3:22 | 2022-07-20 |  |
 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 | 2022-05-09 |  |
+| [Good bye my love](https://open.spotify.com/track/4sTXT0ArcrA5FHRjQLm6qc) | [Rumble Fish](https://open.spotify.com/artist/1NyreDKOPoI1XxOv7xnyn2) | [Webtoon The Red Sleeve \(Original Soundtrack\)](https://open.spotify.com/album/2FxNxbv5XY55H700JbvoK3) | 3:53 | 2022-07-29 |  |
 | [Half of Half](https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Hanyang Diaries, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2HtX81YADYdTbNt4wlpcCS) | 3:29 | 2022-05-09 |  |
 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-27 |  |
 | [I can't even love you](https://open.spotify.com/track/0V62KTZFy4GcURYyK67QDi) | [Han Ga Bin](https://open.spotify.com/artist/5VXpgnStSS71wk0kWGKwQv) | [The Crush Of Spring OST Part.15](https://open.spotify.com/album/2Vs9a6xFjTehdTeIueAF5u) | 3:42 | 2022-07-08 |  |
@@ -60,8 +61,8 @@
 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 | 2022-05-09 |  |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-07-04 |  |
 | [something between us \(Romance 101 X george\)](https://open.spotify.com/track/6VmavOAnMepekIwArBoEEH) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [something between us \(Romance 101 X george\)](https://open.spotify.com/album/21ekeU23kDA3zUhB4pXTLv) | 4:08 | 2022-05-09 |  |
-| [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An Da Eun](https://open.spotify.com/artist/7AsMZq4eVOzIfqaaAWfnJ3) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-05-09 |  |
-| [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [AN DA EUN](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 | 2022-05-09 |  |
+| [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-05-09 |  |
+| [Star \(Back to you X An Da Eun\)](https://open.spotify.com/track/2Y1R1w2TOzYQTqntArpHXn) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Star \(Back to you X An Da Eun\)](https://open.spotify.com/album/15gLG6IxJWK0Fa33mehRzV) | 4:58 | 2022-05-09 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-09 |  |
 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 | 2022-05-09 |  |
 | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/track/67Ouhn0JV62GyxpLBDXfVZ) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/album/5uRHJ5gqXFB7q4Je5PlhLR) | 3:50 | 2022-05-09 |  |

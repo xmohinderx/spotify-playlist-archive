@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole!
 
-202 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
+203 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/3Pw35BSQu6TzKW6AUFPPlG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Summer Feelings \(feat\. Charlie Puth\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Summer Feelings \(feat\. Charlie Puth\)](https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW) | 2:40 | 2022-07-22 |  |
 | [Summer In Love](https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Summer In Love](https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp) | 3:15 | 2022-05-06 | 2022-07-29 |
 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 | 2022-05-06 |  |
+| [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-07-29 |  |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-05-06 |  |
 | [Take Me Back](https://open.spotify.com/track/2oGzHeApGhjANPNWYQNRQw) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Take Me Back](https://open.spotify.com/album/3KEQLt8OBP8Y3VbKKQoIiI) | 2:09 | 2022-07-22 |  |
 | [Take Me Higher](https://open.spotify.com/track/1I4gjXM9E0foe5szjxZRFf) | [ASSANDRI](https://open.spotify.com/artist/5q66wQfrI0FBTYvk9URCES) | [Take Me Higher](https://open.spotify.com/album/0GSe5e4ONUe4oN0QKvXrlq) | 3:24 | 2022-05-17 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Who I Am](https://open.spotify.com/track/5Ssl0uqpH7iTH16LVJYmvm) | [Richill](https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r) | [Who I Am](https://open.spotify.com/album/13sCjIOZz5J9tcJjB2Abqs) | 2:33 | 2022-05-17 | 2022-07-29 |
 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2022-05-06 |  |
 | [Wild Ones \- Nightcall Remix](https://open.spotify.com/track/5rUTxVxfvEA4wdEecWm7el) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [Nightcall](https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn) | [Wild Ones \(Nightcall Remix\)](https://open.spotify.com/album/1OczM3udGYiO41hJtwFIwB) | 2:57 | 2022-05-06 | 2022-06-21 |
-| [Wired \(with Ella Eyre\)](https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Wired \(with Ella Eyre\)](https://open.spotify.com/album/0M1hM6jkl3oUJL8MjOo1oF) | 3:22 | 2022-05-06 |  |
+| [Wired \(with Ella Eyre\)](https://open.spotify.com/track/7k3uKOLzMCvYM00E3QZTSq) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Wired \(with Ella Eyre\)](https://open.spotify.com/album/0M1hM6jkl3oUJL8MjOo1oF) | 3:22 | 2022-05-06 | 2022-07-30 |
 | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/track/0B5Ono47jEQSIPy8kuVCzp) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Wish You Were Here \(feat\. John K\)](https://open.spotify.com/album/08BEmSpq994E3Bb7ikt8Bn) | 3:07 | 2022-06-17 | 2022-07-28 |
 | [With You](https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx) | [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [With You](https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5) | 3:08 | 2022-06-17 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-05-06 |  |

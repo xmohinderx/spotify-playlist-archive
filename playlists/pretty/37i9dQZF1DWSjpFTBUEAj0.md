@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 
 > A total apocalypse of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,334 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,370 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 33 | [Not So Scared](https://open.spotify.com/track/6Q6zKnazwS6eaO4ORqIUAf) | [7038634357](https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO) | [Permanest](https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe) | 4:38 |
 | 34 | [Don't Drown](https://open.spotify.com/track/58CL1AZszQ0IQ7euo5d7C9) | [Cremation Lily](https://open.spotify.com/artist/0cLSrHAGimBuxfOfgyRvPg) | [More Songs About Drowning](https://open.spotify.com/album/2uN1bkZi5BdkeuD6hUF5CO) | 3:00 |
 | 35 | [Polaroids](https://open.spotify.com/track/7l7vmmPWUoboWBmCJNPLuW) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI), [Tonje Terese](https://open.spotify.com/artist/2JOwVXucbN61eLK7LFgik8) | [Memories of Kazan](https://open.spotify.com/album/3AAv6mGW1GnSv60SZE5iRd) | 5:38 |
-| 36 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 |
+| 36 | [death is quite clearly not what it used to be](https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM) | [Leo](https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL) | [A Buried River](https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv) | 3:31 |
 | 37 | [Trueno](https://open.spotify.com/track/4QFDiiPfq5shzyiGoY84vY) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 3:37 |
-| 38 | [Unisono](https://open.spotify.com/track/2cqx6VbS3ek3zZakZ8JQKQ) | [Paraadiso](https://open.spotify.com/artist/3f8gnRgP0tbPDt4aCMDsNU), [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Seven Orbits](https://open.spotify.com/artist/0BDgLzGBHaXY79rQ38BMM8) | [Unison](https://open.spotify.com/album/59BUHmPp8hwGNmBIIJNyMj) | 4:32 |
-| 39 | [death is quite clearly not what it used to be](https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM) | [Leo](https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL) | [A Buried River](https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv) | 3:31 |
+| 38 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 |
+| 39 | [Unisono](https://open.spotify.com/track/2cqx6VbS3ek3zZakZ8JQKQ) | [Paraadiso](https://open.spotify.com/artist/3f8gnRgP0tbPDt4aCMDsNU), [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE), [Seven Orbits](https://open.spotify.com/artist/0BDgLzGBHaXY79rQ38BMM8) | [Unison](https://open.spotify.com/album/59BUHmPp8hwGNmBIIJNyMj) | 4:32 |
 | 40 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
 | 41 | [Floodwaters](https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx) | [Rites of Fall](https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So) | [Floodwaters](https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF) | 10:33 |
 | 42 | [Bureau](https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4) | [RK7](https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6) | [Illinois, Vol\. 1](https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh) | 1:29 |
 | 43 | [Scarred](https://open.spotify.com/track/1FDhKdUxKpwM92vTiWSz9d) | [2nd Gen](https://open.spotify.com/artist/3a81Q4yNe9BIwJ5AZ2dIf2) | [Irony Is](https://open.spotify.com/album/5mTzFYJk9IzcjBeSiR764e) | 2:31 |
 | 44 | [Demands of Ordinary Devotion](https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Demands of Ordinary Devotion](https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi) | 3:31 |
 | 45 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
-| 46 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
-| 47 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
+| 46 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
+| 47 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
 | 48 | [Swell](https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4), [David Wenngren](https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp) | [Strangers](https://open.spotify.com/album/783flv2FHsliDX36JbbmD3) | 8:01 |
-| 49 | [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 |
-| 50 | [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 |
+| 49 | [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 |
+| 50 | [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 |
 
-Snapshot ID: `MTY1NjY5NjUwNywwMDAwMDAwMDEzOWIzZWM3MjQ3ZjhkZmEwZDM1Y2Y5MjliNWEyZDlj`
+Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMGNlMzM1YjA4ZGRhMDhmZDQ1NzlhYjkyNTRjZTQ4MWE5`

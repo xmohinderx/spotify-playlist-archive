@@ -642,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "album": {
         "name": "Bet On Me",
         "url": "https://open.spotify.com/album/1HIGB8Hl480Du1r7nP3ISx"
       },
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 168045,
       "name": "Givin'",
       "url": "https://open.spotify.com/track/0miEcUq0VOQnaJ1oJL4Qum"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 214000,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7KMIMHMUV8kZJmeX8F7zuN"
@@ -3038,6 +3056,28 @@
     },
     {
       "album": {
+        "name": "Dreamboat",
+        "url": "https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "Rothstein",
+          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187412,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
+    },
+    {
+      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P"
       },
@@ -3212,6 +3252,24 @@
     },
     {
       "album": {
+        "name": "Never Seen You Dance",
+        "url": "https://open.spotify.com/album/73VzHaRZwnn6YkkfCYFGh6"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288062,
+      "name": "Never Seen You Dance",
+      "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+    },
+    {
+      "album": {
         "name": "Next Spot",
         "url": "https://open.spotify.com/album/3LmuU8alSmfmMp1FJDtE4p"
       },
@@ -3363,6 +3421,24 @@
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
+    },
+    {
+      "album": {
+        "name": "not enough",
+        "url": "https://open.spotify.com/album/07BI1QtOpvjf16cDV7RzcG"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176502,
+      "name": "not enough",
+      "url": "https://open.spotify.com/track/1xREjbxyVJFRFbpJoXYAhC"
     },
     {
       "album": {
@@ -3923,7 +3999,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 265586,
       "name": "Running Outta Love (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/5jYF7Xmvmn7sNjtuPXaXfQ"
@@ -4761,7 +4837,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"

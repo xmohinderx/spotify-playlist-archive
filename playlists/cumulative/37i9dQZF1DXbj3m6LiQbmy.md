@@ -4,7 +4,7 @@
 
 > Orgoglio! David Blank, Andrea Di Giovanni in cover ✨
 
-220 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
+221 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [XTC \(feat\. LA NIÑA & BigMama\)](https://open.spotify.com/track/6N0wZxSpYH5pm6XrubgxEy) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM), [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [CLUB TOPPERIA](https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei) | 2:35 | 2022-05-31 |  |
 | [You Be](https://open.spotify.com/track/79cBivPnoqZt3w7peRRyNl) | [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [Jerry Bouthier](https://open.spotify.com/artist/0odCQ1NOW9JfbEKDE2FaAb), [Cristina Bugatty](https://open.spotify.com/artist/04T2arZOVbRRfJVOlrwPDi) | [You Be](https://open.spotify.com/album/4mwmk3D6vj2PEk4ITWODen) | 5:39 | 2021-11-19 | 2022-07-28 |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/3Hi5bBuZeFT9nye7ZLpQGa) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:14 | 2022-04-01 |  |
-| [Ça va? Je t’aime! \- Feat\. EMMANUELLE](https://open.spotify.com/track/5FOhiZAJlPOIGBsIsnbNRC) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t’aime! \(Feat\. Emmanuelle\)](https://open.spotify.com/album/4mn91zVzcoYysheAEd4bYJ) | 3:28 | 2022-04-22 |  |
+| [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 | 2022-07-21 |  |
+| [Ça va? Je t’aime! \- Feat\. EMMANUELLE](https://open.spotify.com/track/5FOhiZAJlPOIGBsIsnbNRC) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t’aime! \(Feat\. Emmanuelle\)](https://open.spotify.com/album/4mn91zVzcoYysheAEd4bYJ) | 3:28 | 2022-04-22 | 2022-07-30 |
 | [МАГНИТОЛА](https://open.spotify.com/track/2VCVEs7TWgvC432VMAX1WJ) | [ДЕТИ RAVE](https://open.spotify.com/artist/73AXOp3t6ik1YiJjINRvMm) | [МАГНИТОЛА](https://open.spotify.com/album/1WbnP8ykCwSllefpsli1QC) | 2:36 | 2022-06-12 | 2022-06-27 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

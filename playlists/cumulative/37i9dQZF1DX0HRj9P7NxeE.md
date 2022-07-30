@@ -4,7 +4,7 @@
 
 > Get your body right with this workout twerkout
 
-123 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
+124 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/2ZNRycSD6A3VyEqhSpWbtp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Gimme Head](https://open.spotify.com/track/0eFuk5OFKHSZEfecvfXB9y) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Gimme Head](https://open.spotify.com/album/4DZHm2BihbbkDmE2D7Wdn2) | 2:59 | 2022-06-17 | 2022-07-09 |
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 |  |
 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 | 2021-09-03 | 2022-02-19 |
-| [GYHO](https://open.spotify.com/track/47P3w42tJWC62ESBJNl05O) | [Amber Rose](https://open.spotify.com/artist/207ytqBvodcHqwHP7Efu6w) | [GYHO](https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm) | 2:16 | 2022-06-24 |  |
+| [GYHO](https://open.spotify.com/track/47P3w42tJWC62ESBJNl05O) | [Amber Rose](https://open.spotify.com/artist/207ytqBvodcHqwHP7Efu6w) | [GYHO](https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm) | 2:16 | 2022-06-24 | 2022-07-30 |
 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 | 2022-02-04 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 |  |
 | [Hoop Earrings](https://open.spotify.com/track/3fgxFMXzKlZWOKOek53ZdZ) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Hoop Earrings](https://open.spotify.com/album/43KYrCZVk4uR7g1ttmqK5j) | 2:23 | 2022-02-11 |  |
@@ -91,6 +91,7 @@
 | [PTPOM \- Shemix](https://open.spotify.com/track/5q146DLWV5OJTK0Uch3p5C) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [PTPOM \(Shemix\)](https://open.spotify.com/album/1vnwE0JjXVAvPLvtjkvuym) | 2:02 | 2022-03-11 | 2022-07-02 |
 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 | 2021-09-03 | 2022-02-05 |
 | [Said Sum \(feat\. City Girls & DaBaby\) \- Remix](https://open.spotify.com/track/7HbnX1fxCAoPa7nRVFSEFW) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Said Sum \(feat\. City Girls & DaBaby\) \[Remix\]](https://open.spotify.com/album/3ASomU3vEiJkQDJEtIKTlD) | 2:57 | 2021-09-03 | 2022-02-05 |
+| [Seduce & Scheme \(from RAP SH!T: Music from the HBO Max Original Series\)](https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk) | [Shawna & Mia](https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Seduce & Scheme \(from RAP SH!T: Music from the HBO Max Original Series\)](https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh) | 2:24 | 2022-07-29 |  |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2022-05-27 | 2022-06-18 |
 | [She Make It Clap \- Remix](https://open.spotify.com/track/0S7eavOH2yPKEotR7SYpob) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [She Make it Clap \(Remix\) \(With French Montana\)](https://open.spotify.com/album/4SrdknQOaXJf6ByaLhhdNK) | 3:11 | 2021-09-03 | 2022-06-11 |
 | [She Twerkin](https://open.spotify.com/track/4foyyTPR2jUcATliukBkd9) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/3fzJGkfNGFFQb5Fx42ABPm) | 2:52 | 2021-09-03 | 2022-04-16 |

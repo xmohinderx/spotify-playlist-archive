@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Kenji Araki Artwork: Thami Nabil
+> The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil
 
 953 songs - 3 day 6 hr 31 min - [published](https://open.spotify.com/playlist/7vHfjk9LwMkQlbKUYS7lDl)
 

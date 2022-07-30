@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Madeline Edwards
 
-132 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+134 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Got Me \(feat\. Shane & Shane\)](https://open.spotify.com/track/0jPyxhlX59YdIqCc0soDwR) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:55 | 2021-12-10 |  |
 | [Great Is Thy Faithfulness](https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:21 | 2021-12-10 |  |
 | [Grew Up On That](https://open.spotify.com/track/54tkmSblWo5WzUA00yzJkm) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Grew Up On That](https://open.spotify.com/album/24OC3wKBc8NgSyQyeh8abB) | 2:52 | 2021-12-10 |  |
+| [Heart of God](https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Heart of God](https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS) | 3:53 | 2022-07-29 |  |
 | [Heaven Down Here](https://open.spotify.com/track/0XWNEv2MhiUqfdyVlQabIi) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Heaven Down Here](https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD) | 3:33 | 2021-12-10 |  |
 | [Heaven Was Needing A Hero](https://open.spotify.com/track/1ZORIAAPFg3akZMeiPaXCO) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Unmistakable Inspiration](https://open.spotify.com/album/4TyigJCY5sR7QXp7xo1MJ1) | 4:24 | 2022-03-04 |  |
 | [Here On Earth](https://open.spotify.com/track/0iMtc3As4fLUymohJSVjw8) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/7haZ3eXsSFhEjG6kL2kRx8) | 4:21 | 2021-12-10 | 2022-07-29 |
@@ -100,6 +101,7 @@
 | [Sing \(feat\. Russell Dickerson, Florida Georgia Line\)](https://open.spotify.com/track/4bKkUZX9OlAh8fE5KsaE0G) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:46 | 2021-12-10 |  |
 | [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 |  |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2021-12-10 |  |
+| [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 |  |
 | [Streets](https://open.spotify.com/track/4IGA2hFfOSJSw0gScaNCw6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now \(Deluxe\)](https://open.spotify.com/album/1KElY4EWWoOIQeYfpUbJrM) | 5:05 | 2021-12-10 |  |
 | [Sunday Drive](https://open.spotify.com/track/2GOncX7Qsx9Y2haYlfi0J5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/20oCDZCGgjonrJtxemoB4G) | 4:53 | 2021-12-10 | 2022-07-29 |
 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 | 2022-07-15 |  |

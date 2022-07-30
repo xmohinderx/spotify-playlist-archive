@@ -1,13 +1,41 @@
 {
   "description": "Listen to Calvin Harris presents Funk Wav Bounces. Vol 2. Album out August 5th.",
-  "num_followers": 692,
+  "num_followers": 3892,
   "original_name": "Calvin Harris presents Funk Wav Bounces",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5OTAwOSwwMDAwMDAwMGEyNmNjMzJiMTU0OGZlMTA0NGU3NTNhYWFjMjljNGRk",
+  "snapshot_id": "MTY1OTA5MTE0MiwwMDAwMDAwMDI1NTVhZmQ1ZjNlYzczYjcyNDI1ODU3MWFhZmE4ZDFl",
   "tracks": [
+    {
+      "added_at": "2022-07-29 10:39:02",
+      "album": {
+        "name": "New To You (with Normani, Tinashe, & Offset)",
+        "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 302952,
+      "name": "New To You (with Normani, Tinashe, & Offset)",
+      "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
+    },
     {
       "added_at": "2022-07-15 15:13:28",
       "album": {

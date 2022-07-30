@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 212335,
+  "num_followers": 212583,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE2NDY0MiwwMDAwMDAwMGNiMzM1M2NkNWY5MzYyN2M4MWFmYzY4NjA3NDllM2Rj",
+  "snapshot_id": "MTY1ODE2NDY0MiwwMDAwMDAwMDE4Njc0NjQ4Mjk0ZDEyMWM4MjZhNWMxMmU0OTFjZDMw",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -227,6 +227,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        },
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Astronomy (8th Light)",
+      "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 281866,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        },
-        {
-          "name": "Weldon Irvine",
-          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Astronomy (8th Light)",
-      "url": "https://open.spotify.com/track/1mIpDPCehnf3EPk6J4ZCUF"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Cool And Steady And Easy",
+        "url": "https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        }
+      ],
+      "duration_ms": 350466,
+      "name": "The Creator Has A Master Plan - Original Album Version",
+      "url": "https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Hand On The Torch",
         "url": "https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 279360,
       "name": "Cantaloop (Flip Fantasia)",
       "url": "https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Cool And Steady And Easy",
-        "url": "https://open.spotify.com/album/4MTudI2qwuB2eV3tbVvwBA"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        }
-      ],
-      "duration_ms": 350466,
-      "name": "The Creator Has A Master Plan - Original Album Version",
-      "url": "https://open.spotify.com/track/2YxwTmbJP4oBy4W7DJ6hsq"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
-      },
-      "artists": [
-        {
-          "name": "The Crusaders",
-          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Stomp And Buck Dance",
-      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cosmic Vortex (Justice Divine)",
         "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 470520,
       "name": "Walk That Walk, Talk That Talk",
       "url": "https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Stomp And Buck Dance",
+      "url": "https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Beatmaker",
+        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        },
+        {
+          "name": "Emma Noble",
+          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
+        }
+      ],
+      "duration_ms": 177842,
+      "name": "Beatmaker",
+      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Galactica Rush",
         "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Beatmaker",
-        "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
-      },
-      "artists": [
-        {
-          "name": "Matt Berry",
-          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
-        },
-        {
-          "name": "Emma Noble",
-          "url": "https://open.spotify.com/artist/0wKTCSORBOl42BQBahvy6g"
-        }
-      ],
-      "duration_ms": 177842,
-      "name": "Beatmaker",
-      "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
     },
     {
       "added_at": "2022-07-14 19:24:43",

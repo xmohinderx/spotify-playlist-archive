@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-392 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+393 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Levante la Mano](https://open.spotify.com/track/6Chnpwt4JTsWJvi3GabHr3) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/33PzDwEUNP9Fy8TvBWcQlF) | 3:18 | 2022-02-22 | 2022-04-21 |
 | [Llamameya](https://open.spotify.com/track/5GXDGIDBKExQB53nfWcBaz) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Llamameya](https://open.spotify.com/album/1ncKgLfrSc8vKymA38JEvq) | 4:25 | 2021-10-20 | 2022-04-11 |
 | [Llévame](https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o) | [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe), [Gabo Lugo](https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo) | [Llévame](https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM) | 4:18 | 2021-10-20 | 2022-07-26 |
-| [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-10-20 |  |
+| [Lo Que Tuvimos](https://open.spotify.com/track/0f3eYx4mKZiM4rwaHYopar) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 3:06 | 2021-10-20 | 2022-07-30 |
 | [Lovin' You \- Re\-Mix](https://open.spotify.com/track/5fbdjJkJbiKhmbhp8Z7uOt) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Lilliana De Los Reyes](https://open.spotify.com/artist/1DX1GXLfSp6njcWzDZSTRk), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S), [Jimmy De Martini](https://open.spotify.com/artist/4TXZLWV8slZFv0SVURBssW) | [Lovin' You](https://open.spotify.com/album/7N2pF82NJYPJGHQEOqv3a1) | 7:00 | 2021-10-20 | 2022-05-26 |
 | [Luna Completa](https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Luna Completa](https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ) | 4:48 | 2021-10-20 |  |
 | [Luna de Plata \- Versión Latina](https://open.spotify.com/track/2kQHVqfTIO5SyWswMK57LW) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Luna de Plata \(Versión Latina\)](https://open.spotify.com/album/12JSUaQHliJdddn5XcsLSN) | 4:41 | 2021-10-20 |  |
@@ -382,6 +382,7 @@
 | [Vértigo](https://open.spotify.com/track/1VgQ6AZ8tVV0uhvhH9usuj) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vértigo](https://open.spotify.com/album/19MUIINT0CT8vfZwAGW3RR) | 3:26 | 2021-10-20 | 2022-04-13 |
 | [Wannajuato](https://open.spotify.com/track/43CGfpQS2COhomAP9V6Dhf) | [Fideo y los del mondo](https://open.spotify.com/artist/3ehZ9dXAC3o9SXooeNSeN8) | [Wannajuato](https://open.spotify.com/album/0b3SzKRYVbtzi04Bp7uGFT) | 3:00 | 2021-10-20 | 2022-07-28 |
 | [Whisky](https://open.spotify.com/track/3YNtQ1j13MNwbOY1KxtTcS) | [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Whisky](https://open.spotify.com/album/4HYSkSJVXmPqv7gIt6cSTq) | 3:15 | 2022-03-18 | 2022-07-19 |
+| [Wifi Beach](https://open.spotify.com/track/06ukn4Va91MfzMcxc1N0cu) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 3:12 | 2021-10-20 |  |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-10-20 | 2022-04-17 |
 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-20 |  |
 | [X](https://open.spotify.com/track/6dJrnufNiYJxtd4ZX743bC) | [Nana Mendoza](https://open.spotify.com/artist/0f5pXcaEX3mou3QLNTdVaA) | [X](https://open.spotify.com/album/14Hh7K8YnTp9Pk1fvECEPL) | 2:47 | 2021-10-20 | 2022-06-23 |

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,568 songs - 3 day 19 hr 35 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,571 songs - 3 day 19 hr 45 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Heat](https://open.spotify.com/track/4OiapUuMeahMB05oDt5Sn0) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Heat](https://open.spotify.com/album/0cpv2QhabsuvPisUlfMjpS) | 3:02 | 2022-03-18 | 2022-04-05 |
 | [Heatwave](https://open.spotify.com/track/1JngBtpUOVLqCo7pVijWv4) | [Moose & the Elephant](https://open.spotify.com/artist/5l3X1SeI5T3U2bLCY1JSjP) | [Heatwave](https://open.spotify.com/album/1ISazG8ePoEajdyHij4rRU) | 3:59 | 2021-07-10 | 2021-07-25 |
 | [Heavy Heart](https://open.spotify.com/track/20KkIFpZP1ca0FdTtiPouR) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Heavy Heart](https://open.spotify.com/album/5stEVAGd484mEClh9jaNen) | 3:50 | 2021-09-01 | 2021-09-17 |
+| [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 | 2022-07-29 |  |
 | [Help Me I Drown Too Slowly \(Moana\)](https://open.spotify.com/track/6ibcUZXBCYZCHGxBMJGVBG) | [Lavai](https://open.spotify.com/artist/0cowTP1Le3YKrDV48ZnQkj) | [Help Me I Drown Too Slowly \(Moana\)](https://open.spotify.com/album/21tia2GhFFfDGRlmIzTwpg) | 3:17 | 2021-02-12 | 2021-02-27 |
 | [Help Me Out!](https://open.spotify.com/track/5o7CWjpVGW25B6xBHwNCSH) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Help Me Out!](https://open.spotify.com/album/0WxRHC688saFAzxOdcFaob) | 2:32 | 2021-07-16 | 2021-10-23 |
 | [Help People Up](https://open.spotify.com/track/6ZUWd2bez44xrwuQHIKIJM) | [Patrick Ames](https://open.spotify.com/artist/7IJ9UEkUBWaAMDdu2XlQbQ) | [The Virtualistics](https://open.spotify.com/album/5ZeDYgdob37JDXrBYLk82O) | 3:34 | 2021-07-04 | 2021-07-18 |
@@ -1428,6 +1429,7 @@
 | [TYWT](https://open.spotify.com/track/2rugTlWNmn7ldRwG3TXwEG) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Goodbye](https://open.spotify.com/album/2RpNIBUoTDNK9pKzc7XNu7) | 3:01 | 2019-11-14 | 2019-12-04 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2020-08-20 |  |
 | [U](https://open.spotify.com/track/44e2FBJjmKBZ5p91outqFL) | [Kris Kollins](https://open.spotify.com/artist/7EifOG1WZeuewV3Y9LqYmG) | [U](https://open.spotify.com/album/7DVIyXYiqn9hiFivjw7yhL) | 2:49 | 2022-04-22 | 2022-05-19 |
+| [u don't know my name](https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil) | 3:28 | 2022-07-29 |  |
 | [U Got My Love](https://open.spotify.com/track/5faSMGZR0FOBglFQ3z0VSg) | [GzLz](https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT) | [2 FACED](https://open.spotify.com/album/3Np0K5nIpCnyyrO9iap1MQ) | 3:12 | 2022-05-25 | 2022-06-12 |
 | [U Know](https://open.spotify.com/track/6Bct1tem9fRFYib5zDUxk6) | [Idow](https://open.spotify.com/artist/5wfp7hjVYwUUfEIWWyFnNf) | [Summer's Over](https://open.spotify.com/album/0otzmYeGTOXk0Z9iQwIe5B) | 3:00 | 2021-12-24 | 2022-01-09 |
 | [UN DIA \(ONE DAY\)](https://open.spotify.com/track/2WI0AMgzaEdKs2hcoN21vF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Vacation](https://open.spotify.com/album/2sqLIvbunhtQbmK0OyUjx2) | 3:52 | 2021-11-18 |  |
@@ -1454,6 +1456,7 @@
 | [Vagabond](https://open.spotify.com/track/0EMCFDCNq78eWHGLZQqqgz) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [Vagabond](https://open.spotify.com/album/6QEmCmDKbIL1TzkUkjBZ5t) | 3:21 | 2021-04-17 | 2021-05-03 |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |
 | [venice beach when i met you](https://open.spotify.com/track/2uQGWB7S4YKVgMfCgZIeuU) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [venice beach when i met you](https://open.spotify.com/album/7wLnXExY5Vhth8QgnpnURs) | 3:29 | 2021-05-14 | 2021-05-30 |
+| [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 | 2022-07-29 |  |
 | [Vibe](https://open.spotify.com/track/1zglqlTSmaL2QNxgVqxngl) | [MXE](https://open.spotify.com/artist/5lhhVh9YGmQ4KBrd55dwiP), [Junaswon](https://open.spotify.com/artist/2unndYn3AMNW91XJHPm6y0) | [Vibe](https://open.spotify.com/album/0mmWVcsfj4H5RQc3Hzcreq) | 3:34 | 2022-05-13 | 2022-05-30 |
 | [Vibe Out](https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 4:57 | 2022-07-26 |  |
 | [Vibe With You](https://open.spotify.com/track/6wgY6M6cjKvqOKiIWmakkL) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Vibe With You](https://open.spotify.com/album/4cvqVnm7AvQvfLwK2l6ILe) | 3:16 | 2020-02-29 | 2020-04-22 |

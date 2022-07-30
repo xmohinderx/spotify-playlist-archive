@@ -4,7 +4,7 @@
 
 > Napoli e il meglio della scena campana\. Cover: Nicola Siciliano
 
-88 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
+89 songs - 4 hr 17 min - [published](https://open.spotify.com/playlist/24YJoDhwO3164C86soW14C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/track/2rfVX4zjVnfUOr1k3txKNG) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP) | [Aggio Perzo 'o Suonno \(feat\. Coez, prod\. TY1\)](https://open.spotify.com/album/23GqccME4E9ej9vaBVzKSY) | 3:02 | 2022-05-10 |  |
 | [Amiezavj](https://open.spotify.com/track/4849FNFdAkoMPNq3CnP2gY) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Amiezavj](https://open.spotify.com/album/6VosHcDVPa48e8YhMC6l2x) | 3:19 | 2022-05-10 | 2022-06-10 |
 | [Ammor Malat](https://open.spotify.com/track/10B0i3T2S9gyKWGgA80zd4) | [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn), [Drew](https://open.spotify.com/artist/63AMqq6suxV7uvDizOFweZ) | [Ammor Malat](https://open.spotify.com/album/0pLAW1kmhZ5qiaYLy7e7Fe) | 2:53 | 2022-05-10 |  |
+| [Baby è tutt' normal'](https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [LOWA](https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1) | [Baby è tutt' normal'](https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI) | 2:43 | 2022-07-28 |  |
 | [BCN](https://open.spotify.com/track/4ZgHvRgiUoXyJAg6Zkb96b) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [BCN](https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5) | 2:15 | 2022-05-10 | 2022-05-13 |
 | [BEST FRIENDS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/2s8Y2ksyWf6xsh2O6CLZzF) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:54 | 2022-05-10 |  |
 | [Bye Bye](https://open.spotify.com/track/0DHxikaj0fk6gKkOwd2sMo) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Bye Bye](https://open.spotify.com/album/1BrNHEZf356zG7iflh8C8U) | 2:18 | 2022-05-10 | 2022-07-29 |

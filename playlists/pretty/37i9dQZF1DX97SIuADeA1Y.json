@@ -1,29 +1,13 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 280705,
+  "num_followers": 280844,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NzkwMywwMDAwMDAwMDIxYzdmOGRmODI3Nzk3MGVhNjBjMGEzYjg0ZjBhMTY3",
+  "snapshot_id": "MTY1NzI5NzkwMywwMDAwMDAwMGY3ZjJkYjliNjJkMTI2OTc0NmIyZTNmNjJjN2U1YTkz",
   "tracks": [
-    {
-      "added_at": "2022-07-08 16:31:42",
-      "album": {
-        "name": "Rampampam",
-        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        }
-      ],
-      "duration_ms": 200211,
-      "name": "Rampampam",
-      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
-    },
     {
       "added_at": "2022-07-08 16:31:42",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 178309,
       "name": "Call Me (with R3HAB & Timmy Trumpet)",
       "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2022-07-08 16:31:42",
+      "album": {
+        "name": "Rampampam",
+        "url": "https://open.spotify.com/album/2T8Pt4GzZ0CgaFeEugC1Zj"
+      },
+      "artists": [
+        {
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        }
+      ],
+      "duration_ms": 200211,
+      "name": "Rampampam",
+      "url": "https://open.spotify.com/track/1esZgaqm0YKN87CIP3orJ3"
     },
     {
       "added_at": "2022-07-08 16:31:42",
@@ -911,6 +911,26 @@
     {
       "added_at": "2022-07-08 16:31:42",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
+      },
+      "artists": [
+        {
+          "name": "HIMATE",
+          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
+        },
+        {
+          "name": "Dwin",
+          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
+        }
+      ],
+      "duration_ms": 139322,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
+    },
+    {
+      "added_at": "2022-07-08 16:31:42",
+      "album": {
         "name": "Who U Gonna Love (feat. Amber Van Day)",
         "url": "https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 179600,
       "name": "Who U Gonna Love (feat. Amber Van Day)",
       "url": "https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d"
-    },
-    {
-      "added_at": "2022-07-08 16:31:42",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/1RG2QbLQEOh3P8D4cMPj5O"
-      },
-      "artists": [
-        {
-          "name": "HIMATE",
-          "url": "https://open.spotify.com/artist/5ouyPYGVsZgtOIC8lH0kbc"
-        },
-        {
-          "name": "Dwin",
-          "url": "https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd"
-        }
-      ],
-      "duration_ms": 139322,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
     },
     {
       "added_at": "2022-07-08 16:31:42",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2022-07-08 16:31:42",
       "album": {
-        "name": "Barking",
-        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
-        },
-        {
-          "name": "WISEKIDS",
-          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Barking",
-      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
-    },
-    {
-      "added_at": "2022-07-08 16:31:42",
-      "album": {
         "name": "Middle of the Night",
         "url": "https://open.spotify.com/album/5KgazwqG9Kd5sbYuN30K5l"
       },
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2022-07-08 16:31:42",
       "album": {
+        "name": "Barking",
+        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+    },
+    {
+      "added_at": "2022-07-08 16:31:42",
+      "album": {
         "name": "Wenn du mich siehst (RIBELLU Remix)",
         "url": "https://open.spotify.com/album/1Hc0aChcGLmdnkSJSz6sdQ"
       },
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2022-07-08 16:31:42",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "S\u00d8LO",
+          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2022-07-08 16:31:42",
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/2Ki6olxjlOr0OSbUdtqJMO"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 131478,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3SteozIweMB1gbHdCRc4zS"
-    },
-    {
-      "added_at": "2022-07-08 16:31:42",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "S\u00d8LO",
-          "url": "https://open.spotify.com/artist/0LegaEKnTucYuEeaanHub7"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
     },
     {
       "added_at": "2022-07-08 16:31:42",

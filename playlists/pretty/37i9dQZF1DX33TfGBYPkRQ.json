@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 85715,
+  "num_followers": 85815,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGQ5MzA2MGMyNjJjMzMyZDAzNWJhMThmNmE5ZjYyZjE0",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGZhMTk2NWEzODA5OWFmNWQ0NTQyMjA5ZTVmZmE0MGFm",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Speak Now (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 367133,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 271600,
       "name": "Lua",
       "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Speak Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 367133,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Covered up with Flowers",
-        "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 214173,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Alt Therapy Session 1: Disillusion",
         "url": "https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 220900,
       "name": "Thought It'd Be Easy",
       "url": "https://open.spotify.com/track/53AvjD9b3sEh5fg6Z7GANp"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Covered up with Flowers",
+        "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 214173,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "A Crow Looked at Me",
-        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
-      },
-      "artists": [
-        {
-          "name": "Mount Eerie",
-          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Real Death",
-      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 195240,
       "name": "Heal",
       "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Real Death",
+      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 187773,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Running Still",
+        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
+      },
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "She Went Quietly",
+      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/7gQuPkANfJX8bHWJypWDlX"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 193011,
       "name": "No Need To Argue",
       "url": "https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Running Still",
-        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
-      },
-      "artists": [
-        {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "She Went Quietly",
-      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
     },
     {
       "added_at": "2021-04-30 17:29:47",

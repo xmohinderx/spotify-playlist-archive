@@ -2,9 +2,9 @@
 
 ### [✨ dreamy ✨](https://open.spotify.com/playlist/37i9dQZF1DXecqWg9vXl0U)
 
-> como en una nube\. Bedroom pop vibes featuring Sexy Pigeon.
+> como en una nube\. Bedroom pop vibes featuring Cuco.
 
-145 songs - 8 hr 13 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
+146 songs - 8 hr 15 min - [published](https://open.spotify.com/playlist/5bz3k8QNNTUrWUgar676qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 | 2022-03-25 | 2022-07-05 |
 | [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-03-25 |  |
 | [Película](https://open.spotify.com/track/3Nde02lABJ4GmP3xFM2hwG) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Película](https://open.spotify.com/album/14aRXGJzyAV3zwpNcK3mQz) | 3:11 | 2022-04-08 | 2022-07-28 |
+| [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 |  |
 | [Perdernos de Vista](https://open.spotify.com/track/4NSRJDeHgCxpicjoBbUuMK) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Perdernos de Vista](https://open.spotify.com/album/0wOlQ0jWhdrvoXAH4CWBDi) | 2:55 | 2022-03-25 | 2022-07-29 |
 | [Perdida En Un Sueño](https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ) | [highgates](https://open.spotify.com/artist/6GXhi2fBJnA3c7OOcqILln), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Perdida En Un Sueño](https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz) | 2:34 | 2022-03-25 |  |
 | [pikito](https://open.spotify.com/track/7E8gROr7cN79wbxZ4yqL8Z) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [pikito](https://open.spotify.com/album/33CyjR8qCG48VArrgao5Oz) | 3:00 | 2022-04-08 |  |
@@ -128,7 +129,7 @@
 | [SUPPLY & DEMAND](https://open.spotify.com/track/4fsAnNEX0f9SqlVsiIX31D) | [Miranda Del Sol](https://open.spotify.com/artist/45PFKsor6a9cExACotnBs7) | [SUPPLY & DEMAND](https://open.spotify.com/album/3hPanAHedPo2iMTqnqJe7p) | 2:26 | 2022-03-25 |  |
 | [Sweet Things](https://open.spotify.com/track/5Y65mv534Bsxqtn68smUVn) | [Andrea Franz](https://open.spotify.com/artist/50O6F9ntYmI2tUDY0dxr4G) | [Sweet Things](https://open.spotify.com/album/1oUMyWqnfHw1o4xf830nBr) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Sympatheia](https://open.spotify.com/track/20mXdKFJ9ej1e91pU0eSLj) | [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn) | [Sympatheia](https://open.spotify.com/album/1E54qOGvpg1S2XATtzGHWL) | 4:24 | 2022-03-25 | 2022-04-22 |
-| [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2022-03-25 |  |
+| [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2022-03-25 | 2022-07-30 |
 | [Te Voy a Extrañar](https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Voy a Extrañar](https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8) | 3:37 | 2022-05-20 |  |
 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 | 2022-03-25 | 2022-06-25 |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2022-03-25 |  |

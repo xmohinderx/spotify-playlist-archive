@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Rene\u00e9 Rapp",
-  "num_followers": 65626,
+  "num_followers": 65752,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDZiMjU0NGYwMWVlNTljYjJmOGMwODdjMzUyOWVmZWU1",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDljNjM4Y2MzYmJkMzcxZTBlOTY2MDZlNTk5OGJjNGVh",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -55,6 +55,22 @@
       "duration_ms": 179133,
       "name": "touch tank",
       "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "July (Later On)",
+        "url": "https://open.spotify.com/album/67pdoqq7ID77qBa26APJ2m"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "duration_ms": 139655,
+      "name": "July (Later On)",
+      "url": "https://open.spotify.com/track/4aOn1poQUctDNYifxmgK61"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 220920,
       "name": "All Our Friends Are Splitting Up",
       "url": "https://open.spotify.com/track/1EuUY6pUpeonLyCNQzrsTY"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Seen",
-        "url": "https://open.spotify.com/album/4pQgKTITrIp8lNGKwNWjWg"
-      },
-      "artists": [
-        {
-          "name": "DEZI",
-          "url": "https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Seen",
-      "url": "https://open.spotify.com/track/56ybiNUE5Gim5BtlWRD40o"
     },
     {
       "added_at": "2022-07-22 04:01:00",

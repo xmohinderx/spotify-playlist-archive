@@ -2,7 +2,7 @@
 
 ### [Corridos Perrones](https://open.spotify.com/playlist/37i9dQZF1DX2shzuwwKw0y)
 
-> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Los Farmerz en portada.
+> Del rancho a la ciudad, las historias que pocos se atreven a contar\. Grupo Marca Registrada & Junior H en portada.
 
 122 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 

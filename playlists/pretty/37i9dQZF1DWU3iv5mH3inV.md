@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Prendete con tu lista favorita de Dembow\. Foto: Harry Nach, ITHAN NY, Galee Galee & Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,547 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 30 | [Súbete \- Remix](https://open.spotify.com/track/1MVdOxie3dYzXaSfPXsoyT) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Súbete \(Remix\)](https://open.spotify.com/album/1NbbxOL6pPv0m4prrqopoE) | 4:54 |
 | 31 | [Los Bobo Son Mio](https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF) | 2:11 |
 | 32 | [El Teke Teke](https://open.spotify.com/track/6m1cZ3G7Uu6kU3UfxqEjv1) | [Los Teke Teke](https://open.spotify.com/artist/2aFsWgI7uUdQlJtR1OF5wl) | [Y Ya Tu Sabe Klk](https://open.spotify.com/album/3OeELD010Hp676BSutUjen) | 3:00 |
-| 33 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
-| 34 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 |
+| 33 | [Me Hace Falta](https://open.spotify.com/track/0bc6usCdraQ0M3tXqemELa) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Me Hace Falta](https://open.spotify.com/album/6iJEthERxJCwolggfRnGMO) | 3:01 |
+| 34 | [Y Eso?](https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Y Eso?](https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N) | 2:44 |
 | 35 | [Menea Tu Chapa](https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W) | [Wilo D New](https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF) | [KlK Llego El Tipo the Album](https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0) | 2:55 |
-| 36 | [Banda de Camion](https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:16 |
-| 37 | [Bye Bye](https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Bye Bye \(feat\. Chimbala and Liro Shaq\)](https://open.spotify.com/album/7juaBYswyufzydPt0016zv) | 3:16 |
+| 36 | [Bye Bye](https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp) | [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Liro Shaq](https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk) | [Bye Bye \(feat\. Chimbala and Liro Shaq\)](https://open.spotify.com/album/7juaBYswyufzydPt0016zv) | 3:16 |
+| 37 | [Banda de Camion](https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Exitos Vol\. 1](https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU) | 3:16 |
 | 38 | [Colombiana](https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Colombiana](https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK) | 3:06 |
 | 39 | [En Cuota](https://open.spotify.com/track/576ZvZ4tmOoWdieoDh8tlz) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [En Cuota](https://open.spotify.com/album/4YLdRugPDuQvaZ5i59qRKw) | 3:02 |
 | 40 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 74 | [Knock Out](https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [La Manta](https://open.spotify.com/artist/3omyT5zHz9QmE63xEk10OV) | [Knock Out](https://open.spotify.com/album/3gnvNadSEuwYy86yDc7j7n) | 3:15 |
 | 75 | [Mensaje Directo \(DM\)](https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6) | [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Mensaje Directo \(DM\)](https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9) | 3:40 |
 
-Snapshot ID: `MTY1Nzg1MzUwMiwwMDAwMDAwMDA5YTZmNDcxOTg3YjEwMGZjYWYzNWRhYmE5NmM2ODY4`
+Snapshot ID: `MTY1Nzg1MzUwMiwwMDAwMDAwMDY3NDYxODNiNWRiMWQwMWM3ZDQ3YzNiZDVlODFhMWI4`

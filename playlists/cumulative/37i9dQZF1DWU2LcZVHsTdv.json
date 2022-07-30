@@ -864,6 +864,24 @@
     },
     {
       "album": {
+        "name": "Heart of God",
+        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233146,
+      "name": "Heart of God",
+      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/4XMV3levyftRwrDmyxJBzD"
       },
@@ -1781,6 +1799,24 @@
       "duration_ms": 238173,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF"
+    },
+    {
+      "album": {
+        "name": "Southern Gospel",
+        "url": "https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc"
+      },
+      "artists": [
+        {
+          "name": "The Swon Brothers",
+          "url": "https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210698,
+      "name": "Southern Gospel",
+      "url": "https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T"
     },
     {
       "album": {

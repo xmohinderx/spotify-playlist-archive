@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites, such as The Sea Beast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,767 likes - 68 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,780 likes - 68 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

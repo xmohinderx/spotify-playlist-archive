@@ -1,12 +1,12 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: JOPLYN",
-  "num_followers": 17756,
+  "num_followers": 17760,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDE1YzA0MTJhZWU4NmNkNmE0YjljZWEyNzg1NzZmYzJl",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDc5M2FlMDZjODhmMjY5NzgwYWUwOTE1ZTkxMDVkNGY1",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -23,6 +23,22 @@
       "duration_ms": 320200,
       "name": "I WANT TO BELIEVE",
       "url": "https://open.spotify.com/track/5FnDOZasaYRMDDuZQcds89"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "A$AP & Rihanna",
+        "url": "https://open.spotify.com/album/7mwRWlmAOQEWnEOgV3NEt2"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 112212,
+      "name": "A$AP & Rihanna",
+      "url": "https://open.spotify.com/track/1wT0IaBnco8m5XIViG7HfE"
     },
     {
       "added_at": "2022-07-28 22:01:00",

@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-107 songs - 5 hr 27 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
+112 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4h4rBqtRamQg1x2iFDUEw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Blossom \- Studio Edit](https://open.spotify.com/track/21rLyEqEoIGoSHoWcsztUv) | [FANAR](https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE) | [Blossom](https://open.spotify.com/album/6O4lKQO0YEkq94DWElpHNG) | 3:02 | 2022-01-07 |  |
 | [Brotes](https://open.spotify.com/track/6kxKu4HXQetA3Uu0UeAcl1) | [Corimbo](https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6) | [Semillero](https://open.spotify.com/album/4wXMtPpipCgbiz8kyYR2dx) | 2:04 | 2022-01-07 |  |
 | [Callisto](https://open.spotify.com/track/0kDtcfMhgxjM2zSwPypNcd) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Floating Thoughts](https://open.spotify.com/album/47Vq9SMjGvvR4vVBK89sop) | 3:15 | 2022-01-07 |  |
+| [Calming Waves](https://open.spotify.com/track/59ki9ZGsm75Vbl4WM6BVjJ) | [Axel Pacem](https://open.spotify.com/artist/62RbCNMx3dAEBpaW4ev3iy) | [Calming Waves](https://open.spotify.com/album/0pxJDyihqbjbxEvzk75Yee) | 2:45 | 2022-07-29 |  |
 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 | 2022-01-07 |  |
 | [Chaturanga](https://open.spotify.com/track/1Oiz4jjV7G1OZ7Lh2DLuse) | [Aizah Dunn](https://open.spotify.com/artist/2Uri3Mg1aY8fdznLGhNkdh) | [Chaturanga](https://open.spotify.com/album/2EFNc8ghzm9jpbEZlnicvL) | 2:29 | 2022-01-07 |  |
 | [Cirraí](https://open.spotify.com/track/6zSsTHlXYqA1DfvysYunGd) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Cirraí](https://open.spotify.com/album/4oumX1sftcjjbDv7sPBiTG) | 2:50 | 2022-01-07 |  |
@@ -86,6 +87,7 @@
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2022-01-07 |  |
 | [Shaasvat](https://open.spotify.com/track/3simwgVNK0SqFOdQ7JjL0J) | [Mishika](https://open.spotify.com/artist/79pwbuZeN20i17nbhG3Qgr) | [Shaasvat](https://open.spotify.com/album/4CDm3GVljjGXaJr0k0pFzk) | 3:25 | 2022-01-07 |  |
 | [Shanti Breaths](https://open.spotify.com/track/1bFYO2lUPYRbkWcJobEroe) | [Three Jewels](https://open.spotify.com/artist/3ByvvLmb9MzsZWj0YIPTPo) | [Shanti Breaths](https://open.spotify.com/album/10sG8XOXOJWNi53kB0MypN) | 3:48 | 2022-06-02 |  |
+| [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 | 2022-07-29 |  |
 | [Shoreline Waves](https://open.spotify.com/track/1AvYFqAsQjo2ZTg4S2GBA8) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Break Of Day](https://open.spotify.com/album/1xWwVHZmuwV9DJCRbR2Hlc) | 4:00 | 2022-01-07 |  |
 | [So Far From Earth](https://open.spotify.com/track/4LUjaGIUsdxaWz5CFtj0u9) | [Jupiter Breeze](https://open.spotify.com/artist/5kMqqN0tglnYIi4eXGmL0A) | [Jupiter Two](https://open.spotify.com/album/5aAUw2eurzQtThb2g4dDvr) | 3:09 | 2022-01-07 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 |  |
@@ -98,6 +100,7 @@
 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 | 2022-06-02 |  |
 | [Them](https://open.spotify.com/track/55c9jHCc9bsryobmiSQyvh) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria \(Bonus Track Version\)](https://open.spotify.com/album/6RHEdxcef0XLhkLHBYhINF) | 4:00 | 2022-01-07 | 2022-07-29 |
 | [This Now](https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [This Now](https://open.spotify.com/album/4hhWJQREZiGh7OJ0EcPFxa) | 2:09 | 2022-03-02 |  |
+| [Transparency](https://open.spotify.com/track/73ZnCLiPERq5SRGZ3cOpEz) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Transparency](https://open.spotify.com/album/7L0fkPPLzgQWjo9CApHGOJ) | 2:14 | 2022-07-29 |  |
 | [Transparent](https://open.spotify.com/track/4PDuAWcBrtLPRce5V33hHK) | [Sea of Waves](https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo) | [Echoes of Water](https://open.spotify.com/album/42l3J84qQWgIcToLFBAJr1) | 2:33 | 2022-01-07 |  |
 | [Undulate](https://open.spotify.com/track/3VcEjU1dF3GWsOllMFChWb) | [Blake Child](https://open.spotify.com/artist/2prVqy64VMNySVSHnIzz69) | [Undulate](https://open.spotify.com/album/37mHMJMu26lsc7RKyDlSj8) | 2:16 | 2022-01-07 |  |
 | [Unified](https://open.spotify.com/track/4j9VnrNJgrPBNTHb9ADQ3p) | [Zeroine](https://open.spotify.com/artist/3AVjxmCTr08CfypUmjNdQz) | [Together As One](https://open.spotify.com/album/2kqy5EuTtNjqThnUEqYyDJ) | 2:45 | 2022-05-12 |  |
@@ -108,11 +111,13 @@
 | [Voices](https://open.spotify.com/track/4Dioh7PnhNtYJa1Q8GTPw6) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Voices](https://open.spotify.com/album/6v1QSPpVnYMnnj95YJm4hs) | 2:36 | 2022-06-02 |  |
 | [Voyage](https://open.spotify.com/track/1niBqBpn57wic7z5gqQ5g3) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [Floating Thoughts](https://open.spotify.com/album/47Vq9SMjGvvR4vVBK89sop) | 3:18 | 2022-01-07 |  |
 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 | 2022-01-07 |  |
+| [Walking Alongside the Gates of Heaven](https://open.spotify.com/track/6vOynuMgg62np7cBtV5qjk) | [Elisha Raymond](https://open.spotify.com/artist/2KIYhrpLJT0nQyadBkRblr) | [Spiritually Connected](https://open.spotify.com/album/42arUQrEifLVXA7lPJdYqI) | 2:04 | 2022-07-29 |  |
 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 | 2022-01-07 |  |
 | [Whalus](https://open.spotify.com/track/0SpMQOXBNSSrFD0n7xIxL4) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Whalus](https://open.spotify.com/album/0hlEqr684mPySDKXqmON9w) | 1:51 | 2022-03-02 |  |
 | [Whole Again \- Yoga Version](https://open.spotify.com/track/1fdHVkA2KhOYjxBF7BUSle) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 3:19 | 2022-01-07 |  |
 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 | 2022-01-07 |  |
 | [Zazen](https://open.spotify.com/track/3FkzIRfHSwD7BWfIsFDf7d) | [Isolde Mayer](https://open.spotify.com/artist/1hNufH9KnMW35douay0AoY) | [Zazen](https://open.spotify.com/album/7D6hFUf2mYOrtwT0ARzK6T) | 2:57 | 2022-05-12 |  |
+| [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-07-29 |  |
 | [दुनिया के सपने](https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [दुनिया के सपने](https://open.spotify.com/album/0ihKyQCEMBXP9OzZLvnppA) | 2:03 | 2022-01-07 |  |
 | [हीलिंग संगीत](https://open.spotify.com/track/42OSQ6hAF9tviEK9IfU0uJ) | [Raku\-Nu](https://open.spotify.com/artist/19muc2M3JSNOXolYB1Z2Eh) | [हीलिंग संगीत](https://open.spotify.com/album/3B32SEiXthq0sp3WLuxrKj) | 2:46 | 2022-01-07 | 2022-06-03 |
 

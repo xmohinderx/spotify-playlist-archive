@@ -1494,6 +1494,28 @@
     },
     {
       "album": {
+        "name": "Halcyon (30 Something) [Remixes]",
+        "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431280,
+      "name": "Halcyon & On - Jon Hopkins Remix",
+      "url": "https://open.spotify.com/track/3lvyFNbNIYhCePUQ8BYnE0"
+    },
+    {
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 279762,
       "name": "pinky ring",
       "url": "https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ"

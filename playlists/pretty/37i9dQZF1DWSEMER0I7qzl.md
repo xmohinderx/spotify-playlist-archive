@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 
 > These songs will make you feel better\. Or maybe worse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,531 likes - 25 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,518 likes - 25 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 88679,
+  "num_followers": 88755,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDI5MTllOTMyYmRlNmIzYTBjNmM4NTY2ZTIyYmZhNzQ0",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDcyNzljMTM1ZDFiMzMzMDQzZTJlMWQ3YzEzMzlmNDBk",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Becoming X",
         "url": "https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 228840,
       "name": "6 Underground",
       "url": "https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -547,22 +547,6 @@
       "duration_ms": 235800,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -635,6 +619,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Paradise Blown",
+        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+      },
+      "artists": [
+        {
+          "name": "9 Lazy 9",
+          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Black Jesus",
+      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Smokers Delight",
         "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 280266,
       "name": "Nights Introlude",
       "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -751,18 +751,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Paradise Blown",
-        "url": "https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu"
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
       },
       "artists": [
         {
-          "name": "9 Lazy 9",
-          "url": "https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH"
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Black Jesus",
-      "url": "https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W"
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -831,6 +831,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Koop Islands",
         "url": "https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
       "artists": [
         {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -883,22 +899,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Supermodified",
         "url": "https://open.spotify.com/album/54zaC0AviuCfkDwHsUJIra"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "A Grand Love Story",
         "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 328265,
       "name": "Relaxin' with cherry",
       "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Music By Cavelight",
-        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
-      },
-      "artists": [
-        {
-          "name": "Blockhead",
-          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Insomniac Olympics",
-      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Permutation",
         "url": "https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 282573,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Music By Cavelight",
+        "url": "https://open.spotify.com/album/5kEQ9AhNjGvjvplVU3dEkj"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Insomniac Olympics",
+      "url": "https://open.spotify.com/track/7IuxuJBP6kwOOu1ShFzmR1"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1219,6 +1219,22 @@
       "duration_ms": 325583,
       "name": "Emkay",
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
+        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "It Takes A Thief: The Very Best Of Thievery Corporation",
-        "url": "https://open.spotify.com/album/4D1VpybqdswFG14PWzCyqC"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 289866,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/39U4h0IXSCndWnKfemilvG"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Electric Lazyland",
         "url": "https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 252933,
       "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
       "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "All Is Full of Love",
+      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "All Is Full of Love",
-      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "LemonJelly.ky",
         "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Flashlight EP",
-        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 302542,
-      "name": "Return to Air",
-      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Hed Phone Sex",
         "url": "https://open.spotify.com/album/0v5ACdpHC4PsDrFuhWFjcW"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 441866,
       "name": "B Monkey",
       "url": "https://open.spotify.com/track/7D1jDhKqUZrLTLFPSyMWlm"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Flashlight EP",
+        "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 302542,
+      "name": "Return to Air",
+      "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
       "added_at": "2020-09-04 01:12:56",

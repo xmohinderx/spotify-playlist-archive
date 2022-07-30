@@ -806,6 +806,28 @@
     },
     {
       "album": {
+        "name": "Habsha (feat. Flippter)",
+        "url": "https://open.spotify.com/album/6opmw3CpoDjwblauYVcuBY"
+      },
+      "artists": [
+        {
+          "name": "Soulja",
+          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+        },
+        {
+          "name": "Flippter",
+          "url": "https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "Habsha (feat. Flippter)",
+      "url": "https://open.spotify.com/track/0KwGwfSkznhVw7t00qQ8Nl"
+    },
+    {
+      "album": {
         "name": "Haifa in a Tesla",
         "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
       },

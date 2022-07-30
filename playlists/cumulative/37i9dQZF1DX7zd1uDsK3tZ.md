@@ -4,10 +4,11 @@
 
 > Timeless tunes served over easy for all your brunching needs!
 
-124 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
+125 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6oBsdW7bJwBzmYuFyvjA6b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 | 2022-07-29 |  |
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 | 2022-03-07 |  |
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2022-03-07 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 | 2022-03-07 |  |
@@ -31,7 +32,7 @@
 | [Californian Light](https://open.spotify.com/track/17XkSpU420I2KsU400Cntz) | [Childhood](https://open.spotify.com/artist/3U09GBaLizWYmJGOPlPXra) | [Californian Light](https://open.spotify.com/album/1jZ311fKT6xcveYgIna5VC) | 4:13 | 2022-03-07 | 2022-07-28 |
 | [Call Me](https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Girl's in Love with You](https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5) | 3:57 | 2022-03-07 | 2022-07-29 |
 | [Call Me](https://open.spotify.com/track/3ldvPiapa6EK6QSJKtsJW2) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Pretty Eyes/Guitars A La Lee](https://open.spotify.com/album/74MXNtzGMShm2hU7Sw8T2N) | 2:34 | 2022-03-07 | 2022-07-29 |
-| [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-03-07 |  |
+| [Can't Nobody Love You](https://open.spotify.com/track/2o6sXX0llloUkaUm9DEbLY) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Begin Here](https://open.spotify.com/album/1vWVHhniWzqyNC0UzDDGs4) | 2:16 | 2022-03-07 | 2022-07-30 |
 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 | 2022-03-07 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-03-07 |  |
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2022-03-07 |  |

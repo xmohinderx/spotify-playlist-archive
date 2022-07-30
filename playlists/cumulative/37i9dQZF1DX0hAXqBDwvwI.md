@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-571 songs - 1 day 13 hr 56 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+572 songs - 1 day 14 hr 0 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [PARADOX](https://open.spotify.com/track/6kKlQzWkGCiNE6Z0jmgypy) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [PARADOX](https://open.spotify.com/album/3L1uuhzZvZcgS2sk1fQTYL) | 4:13 | 2022-07-26 | 2022-07-29 |
 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 | 2022-07-14 | 2022-07-27 |
 | [PHOENIX](https://open.spotify.com/track/1BKZVtjSkZvZpVvtaiulw1) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [PHOENIX](https://open.spotify.com/album/4Ay9Oj3jvOZnS52HhTf6VY) | 4:06 | 2022-06-24 | 2022-07-08 |
+| [PHOENIX](https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [BURNOUT SYNDROMEZ](https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa) | 4:06 | 2022-07-28 |  |
 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 | 2022-06-03 | 2022-07-27 |
 | [Phone Call](https://open.spotify.com/track/5zRoJlHfzN7R6V5QeLdXz4) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Perfect Lies](https://open.spotify.com/album/6Jguurr14ytshssPq36Cht) | 3:37 | 2022-06-14 | 2022-07-01 |
 | [Pianissimo](https://open.spotify.com/track/7MO27lM6zODQ2pnj3ihSoP) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [Pianissimo](https://open.spotify.com/album/2ZQ3XFNiTj1iUV5GVgdAEg) | 3:58 | 2022-06-03 | 2022-07-21 |
@@ -234,7 +235,7 @@
 | [reincarnation](https://open.spotify.com/track/4zbGE9791M4dGXKqpsVlpk) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [reincarnation](https://open.spotify.com/album/4HRssLJyLPJhObHwlKoZRR) | 3:27 | 2022-06-24 | 2022-07-21 |
 | [REMEMBER](https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4) | [Masato\(coldrain\)](https://open.spotify.com/artist/4f9hD6gIbmsHoQw9MFMnP8), [coladrain](https://open.spotify.com/artist/4qLXYL3mOJD057YL4puyU4), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [TVアニメ『呪術廻戦』オリジナル・サウンドトラック](https://open.spotify.com/album/05gFeqUdYwzsNKNzvqGv8g) | 4:03 | 2022-06-03 | 2022-07-26 |
 | [Replica](https://open.spotify.com/track/2cWXjk50iwkCaEesJUCm8f) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [Replica](https://open.spotify.com/album/1XlrmvRSyeuTXYU74D9t8Y) | 3:31 | 2022-06-03 | 2022-07-29 |
-| [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 | 2022-07-28 |  |
+| [RESISTER](https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [百歌繚乱](https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy) | 3:47 | 2022-07-28 | 2022-07-30 |
 | [Reverb](https://open.spotify.com/track/1WkwcJ36zgQOuq8oYbtldj) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Reverb \(TVアニメ「インフィニット・デンドログラム」エンディングテーマ\)](https://open.spotify.com/album/71trCoa5X3kpx3CZeC4six) | 4:33 | 2022-06-03 | 2022-07-28 |
 | [Rock The World](https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Rock The World](https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw) | 4:29 | 2022-06-24 | 2022-07-07 |
 | [Route BLUE](https://open.spotify.com/track/7KN9Vbnp1QudKn1wtdiO3g) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Route BLUE](https://open.spotify.com/album/75KqNc8dF6yowDXwlFm6tm) | 3:48 | 2022-07-14 | 2022-07-19 |
@@ -255,7 +256,7 @@
 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 | 2022-06-03 | 2022-07-28 |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/66JOk3VWkYDxriXsuYtqDc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/5ny4DPSYvFntWlN0NoCcDC) | 2:17 | 2022-06-14 | 2022-07-27 |
 | [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-03 | 2022-07-25 |
-| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-03 | 2022-07-29 |
+| [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-03 |  |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-14 | 2022-06-18 |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 |  |
 | [STORYSEEKER](https://open.spotify.com/track/4eBgSyDDQqKHyxCvkqghs7) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/299bR2AB6obbd0Ar2bLhQr) | 3:52 | 2022-06-03 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Fabiana Cantilo y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,349 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,350 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 4 | [Día Mil](https://open.spotify.com/track/0C8sntkt9YJMgPNMJYDQEL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Día Mil](https://open.spotify.com/album/5f61HbLZV9pWoCWYqo9nu1) | 3:38 |
 | 5 | [Bombón](https://open.spotify.com/track/3UfewNDeB4QzGPYaA1zIGX) | [Rosal](https://open.spotify.com/artist/4VvzpUNrZ5CAqRascoLb1O) | [Educación Sentimental](https://open.spotify.com/album/2XqnaBT4dXBKSq5NBy4WDi) | 2:48 |
 | 6 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |
-| 7 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
-| 8 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 |
+| 7 | [Que No](https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 3:50 |
+| 8 | [Vigilantes del Espejo](https://open.spotify.com/track/1QjFddBhVe7TQXuD0Q9qbh) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Vigilantes del Espejo](https://open.spotify.com/album/45PnYxsAXPl6Ytmd2qJQI6) | 2:08 |
 | 9 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 |
 | 10 | [Puerto Pollensa](https://open.spotify.com/track/41yAdAowbHEK8JDSTDmDmA) | [Marilina Ross](https://open.spotify.com/artist/452YUG0WFp34IRFIUgzSN2) | [Soles](https://open.spotify.com/album/1oH7tHLtBQhSNCQEjehAKu) | 6:48 |
 | 11 | [Lunes por la Madrugada](https://open.spotify.com/track/7fAM6f4gDo73w71CE0rP9N) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Malinalli](https://open.spotify.com/album/2rLanUjDqMJoDxCSz9IgFr) | 2:52 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 27 | [Te reís](https://open.spotify.com/track/2eEfdL8lApXa3lDh8I3yRC) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Antigua](https://open.spotify.com/album/7ycO0ov3bClBN6fWtdHiQQ) | 3:26 |
 | 28 | [Subtítulo: Te Amo](https://open.spotify.com/track/04T6yie5egZkdNjOfuMOw1) | [Susi Pireli](https://open.spotify.com/artist/400gx7Z9pAb93eYYQZ2fUN) | [Subtítulo: Te Amo](https://open.spotify.com/album/6bW9BQdiMATcuQLXRYn8VF) | 3:29 |
 | 29 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 |
-| 30 | [Bendiciones](https://open.spotify.com/track/2sCr66qUpHz1ZTUAydlwWI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3HD8ZYEkhIDwjXAVWwsGpj) | 3:30 |
-| 31 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
+| 30 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
+| 31 | [Bendiciones](https://open.spotify.com/track/2sCr66qUpHz1ZTUAydlwWI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3HD8ZYEkhIDwjXAVWwsGpj) | 3:30 |
 | 32 | [Funk del Altiplano](https://open.spotify.com/track/6LNAwjq7vHX7tvvArSbskP) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 4:23 |
 | 33 | [Señorita Corazón](https://open.spotify.com/track/7alOhFWVY4eUvsmN2BCkeo) | [A1](https://open.spotify.com/artist/1DN2sCFrYm4D1uCvVZbrrY), [Maria Gabriela Epumer](https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ) | [Señorita Corazón](https://open.spotify.com/album/7cescA3aCRJDSuX4SuVSsX) | 4:17 |
 | 34 | [El Tempano](https://open.spotify.com/track/6VpSIBfUpG0fFNoe6dOn8I) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [Trovas Rosarinas](https://open.spotify.com/album/5pbadSXlfFhygZkUkZ7NGG) | 3:43 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [No Lo Soporto](https://open.spotify.com/track/1kDWv1pp3R62P9CGNe5GFW) | [No Lo Soporto](https://open.spotify.com/artist/44CVweAvsyk98oKSSDa9IQ) | [Práctica y Teoría](https://open.spotify.com/album/60ymP6TVVAge8waJfcdw8s) | 2:55 |
 | 41 | [La Voz del Mar](https://open.spotify.com/track/3Vmld7LV0d7288eN2U6MlJ) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [La Voz del Mar](https://open.spotify.com/album/5LXovCiht2WCiOY9zCjM2O) | 2:47 |
 | 42 | [El Final \- Bonus Track](https://open.spotify.com/track/0rF9dIFqhZzizQWRfJNgsC) | [Sol Marianela](https://open.spotify.com/artist/1FxMAPKKLTQuK0hYvLNWfD) | [Il Mostro](https://open.spotify.com/album/7GkXhwNTIWYx2T4A6xaT2j) | 3:00 |
-| 43 | [Vamos Viendo](https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Y Lo Dejamos Venir](https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap) | 3:48 |
-| 44 | [Sigo Aguantando](https://open.spotify.com/track/3elGQE3MCGyanfTXS6QZT2) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Sigo Aguantando](https://open.spotify.com/album/5WP9U9poKV0bGCUhhytS3J) | 4:28 |
-| 45 | [Corazón](https://open.spotify.com/track/3t8I0xAZsBuNRyVoFazliy) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6NGR73dLgiLmHdX35AfZdE) | 3:19 |
+| 43 | [Corazón](https://open.spotify.com/track/3t8I0xAZsBuNRyVoFazliy) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [Corazón](https://open.spotify.com/album/6NGR73dLgiLmHdX35AfZdE) | 3:19 |
+| 44 | [Vamos Viendo](https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Y Lo Dejamos Venir](https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap) | 3:48 |
+| 45 | [Sigo Aguantando](https://open.spotify.com/track/3elGQE3MCGyanfTXS6QZT2) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD) | [Sigo Aguantando](https://open.spotify.com/album/5WP9U9poKV0bGCUhhytS3J) | 4:28 |
 | 46 | [Furia](https://open.spotify.com/track/6PeCoiOK5ki90bmdPbsreu) | [Sol Bassa](https://open.spotify.com/artist/1cttIh2Jh0yR5nxfBmRF6O) | [Furia](https://open.spotify.com/album/5vFSEJ0oyotqfr5gOF9hXy) | 4:10 |
 | 47 | [Remolinos](https://open.spotify.com/track/6JjVW4ye4LSj7ldJkekHgs) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Desde el Centro del Naufragio](https://open.spotify.com/album/6B2sBm6bjWWxWrx9V92rxP) | 4:16 |
 | 48 | [Alterblu](https://open.spotify.com/track/4ZjyL2kuyqC1bXsVoOoBAm) | [Leonor Marchesi](https://open.spotify.com/artist/5OxuLbLfMMnSEj0FSlJQGJ) | [AlterBlu](https://open.spotify.com/album/2nMf3t7Pq12TM7WgFti3UG) | 4:58 |
 | 49 | [Dormis?](https://open.spotify.com/track/5QmbF5VO4HmSRuTrBQTloW) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Dormis?](https://open.spotify.com/album/5QxZ0o2KsC2zCmSZI1W1kd) | 3:09 |
 
-Snapshot ID: `MTY1NzA3NjQwMCwwMDAwMDAwMDg1NDg3NzBjYmFjNTE3MjgzMTk2NTBmYTNmNDlmMmI5`
+Snapshot ID: `MTY1NzA3NjQwMCwwMDAwMDAwMGNlMDQ1OTcyMDhkOWNlZmQ4YWJjZWRmODQxNzNiMDYx`

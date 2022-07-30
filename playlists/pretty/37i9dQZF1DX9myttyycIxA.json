@@ -1,28 +1,60 @@
 {
-  "description": "Underground indie rock gems. Cover: Enumclaw",
-  "num_followers": 262568,
+  "description": "Underground indie rock gems. Cover: girlpuppy",
+  "num_followers": 262725,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODYwMzk5MCwwMDAwMDAwMDY0MmFmMjAwNzllZGZiOTBjMTBiY2VhMzczMWRlNTE3",
+  "snapshot_id": "MTY1OTA3MzE0MCwwMDAwMDAwMDIyOTA1YTZjNGU1NTUwN2UxNzBlMmM4MzA3NzE2NDg1",
   "tracks": [
     {
-      "added_at": "2022-07-20 17:24:06",
+      "added_at": "2022-07-29 05:39:00",
       "album": {
-        "name": "Cowboy Bepop",
-        "url": "https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh"
+        "name": "Cross the Sea",
+        "url": "https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS"
       },
       "artists": [
         {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 173210,
-      "name": "Cowboy Bepop",
-      "url": "https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI"
+      "duration_ms": 216672,
+      "name": "Cross the Sea",
+      "url": "https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Nowhere, LA",
+        "url": "https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH"
+      },
+      "artists": [
+        {
+          "name": "Why Bonnie",
+          "url": "https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9"
+        }
+      ],
+      "duration_ms": 206569,
+      "name": "Nowhere, LA",
+      "url": "https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Anna Calls From The Arctic",
+        "url": "https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 297880,
+      "name": "Anna Calls From The Arctic",
+      "url": "https://open.spotify.com/track/6WNfKDsa7egDmGn1xAGD4M"
     },
     {
       "added_at": "2022-07-22 04:04:00",
@@ -41,20 +73,276 @@
       "url": "https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6"
     },
     {
-      "added_at": "2022-07-15 16:00:00",
+      "added_at": "2022-07-29 05:39:00",
       "album": {
-        "name": "get high, breathe underwater (#3)",
-        "url": "https://open.spotify.com/album/7ijrwr6y3YBGtZt4RZeQTP"
+        "name": "Tchotchke",
+        "url": "https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna"
       },
       "artists": [
         {
-          "name": "Teen Suicide",
-          "url": "https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU"
+          "name": "Tchotchke",
+          "url": "https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG"
         }
       ],
-      "duration_ms": 231805,
-      "name": "get high, breathe underwater (#3)",
-      "url": "https://open.spotify.com/track/2Vb9FyBDN3XctFwyaJjhDT"
+      "duration_ms": 178972,
+      "name": "Ronnie",
+      "url": "https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo"
+    },
+    {
+      "added_at": "2022-07-20 17:24:06",
+      "album": {
+        "name": "Cowboy Bepop",
+        "url": "https://open.spotify.com/album/3GMkAcRznb2cX3lRypqLCh"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 173210,
+      "name": "Cowboy Bepop",
+      "url": "https://open.spotify.com/track/4YYsjhh2xuXbUwn435W2WI"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "THE MIDDLE",
+        "url": "https://open.spotify.com/album/009SqNhfhKPDIfa6hQRV69"
+      },
+      "artists": [
+        {
+          "name": "PHONY",
+          "url": "https://open.spotify.com/artist/7mODeSVag7ANGN6WCvIwVM"
+        }
+      ],
+      "duration_ms": 124757,
+      "name": "THE MIDDLE",
+      "url": "https://open.spotify.com/track/4wjpgioltZ2TGkN4h6kMqd"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Nightdrive",
+        "url": "https://open.spotify.com/album/2GEgyBxEoXmxH0e80tzEoL"
+      },
+      "artists": [
+        {
+          "name": "Deathsport",
+          "url": "https://open.spotify.com/artist/0WpxSPJ1brZnF598ASh8i1"
+        }
+      ],
+      "duration_ms": 207448,
+      "name": "Nightdrive",
+      "url": "https://open.spotify.com/track/5ASia9B7HUtC6s4ekpsGzQ"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Space Cowboy",
+        "url": "https://open.spotify.com/album/7mVUxn3M8ExqlRZOWRiLVq"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Space Cowboy",
+      "url": "https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
+      },
+      "artists": [
+        {
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "BLUE b/w TWIRL",
+        "url": "https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "numb or something",
+        "url": "https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz"
+      },
+      "artists": [
+        {
+          "name": "MAYA LUCIA",
+          "url": "https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3"
+        }
+      ],
+      "duration_ms": 247764,
+      "name": "numb or something",
+      "url": "https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Satyr's Satire",
+        "url": "https://open.spotify.com/album/4wOvGi8aHdcRcjLJ9HLZY2"
+      },
+      "artists": [
+        {
+          "name": "Retlehs",
+          "url": "https://open.spotify.com/artist/1Zinn1WzK7KHfvgBUuGrrX"
+        }
+      ],
+      "duration_ms": 237141,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2gD6XfMklqFzI766JU9xjt"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Superstar Baby",
+        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
+      },
+      "artists": [
+        {
+          "name": "sundiver ca",
+          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
+        }
+      ],
+      "duration_ms": 162434,
+      "name": "Soundtrack for Your Backseat",
+      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Spiderweb",
+        "url": "https://open.spotify.com/album/75M4fU4uBzjJ3AqecMZmo9"
+      },
+      "artists": [
+        {
+          "name": "Built To Spill",
+          "url": "https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U"
+        }
+      ],
+      "duration_ms": 323300,
+      "name": "Spiderweb",
+      "url": "https://open.spotify.com/track/4MV86lthrqvU7Q8jj7NaP5"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Veronica's Shield",
+        "url": "https://open.spotify.com/album/1slozzvkXlyqatUhmQok4b"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Veronica's Shield",
+      "url": "https://open.spotify.com/track/5UpGyLAkTFoWx6DWuiQ3eE"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Rushmore",
+        "url": "https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6"
+      },
+      "artists": [
+        {
+          "name": "ash tuesday",
+          "url": "https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE"
+        }
+      ],
+      "duration_ms": 174001,
+      "name": "Rushmore",
+      "url": "https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W"
+    },
+    {
+      "added_at": "2022-05-19 16:02:03",
+      "album": {
+        "name": "Odd Sweetheart",
+        "url": "https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG"
+      },
+      "artists": [
+        {
+          "name": "Odd Sweetheart",
+          "url": "https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Structure",
+      "url": "https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Anything Can Happen",
+        "url": "https://open.spotify.com/album/6UWLTNyMvfnECIKnJwlVie"
+      },
+      "artists": [
+        {
+          "name": "more*",
+          "url": "https://open.spotify.com/artist/1PNlt30lRnQITXc9vMnv7i"
+        }
+      ],
+      "duration_ms": 239216,
+      "name": "Anything Can Happen",
+      "url": "https://open.spotify.com/track/2QCXtNjBWqTphicMcZTFxx"
+    },
+    {
+      "added_at": "2022-07-29 05:39:00",
+      "album": {
+        "name": "Sweaters",
+        "url": "https://open.spotify.com/album/5rg22FaF5nxtTUyUrb5lKu"
+      },
+      "artists": [
+        {
+          "name": "The Happy Return",
+          "url": "https://open.spotify.com/artist/2zRksKctDvcqmX1nhaydyV"
+        }
+      ],
+      "duration_ms": 177203,
+      "name": "Sweaters",
+      "url": "https://open.spotify.com/track/5TfzJqZLQHzXvCdUIGmc4W"
     },
     {
       "added_at": "2022-05-19 16:02:03",
@@ -105,22 +393,6 @@
       "url": "https://open.spotify.com/track/0Wpls5CapHMgXgv6Xvrn0P"
     },
     {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Am I sinking or Am I swimming?",
-        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
-      },
-      "artists": [
-        {
-          "name": "late night drive home",
-          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Stress Relief",
-      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
-    },
-    {
       "added_at": "2022-07-22 04:04:00",
       "album": {
         "name": "The Extra Sees the Film",
@@ -151,38 +423,6 @@
       "duration_ms": 124533,
       "name": "Mythical Bonds",
       "url": "https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 255067,
-      "name": "What Once Was",
-      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Superstar Baby",
-        "url": "https://open.spotify.com/album/4BqgQ4TDBmwJTLYr0YLECX"
-      },
-      "artists": [
-        {
-          "name": "sundiver ca",
-          "url": "https://open.spotify.com/artist/2xDxryix4opVzsPKelCZwi"
-        }
-      ],
-      "duration_ms": 162434,
-      "name": "Soundtrack for Your Backseat",
-      "url": "https://open.spotify.com/track/06CUyVD4i6YQ8X9dXC7mI6"
     },
     {
       "added_at": "2022-07-22 04:04:00",
@@ -219,22 +459,6 @@
       "duration_ms": 172235,
       "name": "Empty in My Mind",
       "url": "https://open.spotify.com/track/0hRPN2UcILtYirFkhQ6Y10"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Odd Sweetheart",
-        "url": "https://open.spotify.com/album/3LLHBI11ekr5he4Y8TqVnG"
-      },
-      "artists": [
-        {
-          "name": "Odd Sweetheart",
-          "url": "https://open.spotify.com/artist/0Re7wtl0w6niMZR0GfROpg"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Structure",
-      "url": "https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu"
     },
     {
       "added_at": "2022-07-01 06:25:00",

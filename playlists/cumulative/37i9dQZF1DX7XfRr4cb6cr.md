@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-170 songs - 15 hr 19 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+171 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Astron](https://open.spotify.com/track/7orIxoE1ibxFKOXHxWYBiV) | [Akasaka](https://open.spotify.com/artist/0FYaJp4G2p5HO6cIMVqp0q) | [Astron](https://open.spotify.com/album/43m7SNLBFqDyrQyy1lPIpG) | 3:14 | 2022-01-21 | 2022-07-27 |
 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 | 2022-02-11 |  |
 | [Avenoir](https://open.spotify.com/track/3re13zgnnJez9pUKtRkifa) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [Avenoir](https://open.spotify.com/album/2uCy0nPWxFBnYfP064ncyO) | 5:05 | 2022-03-11 | 2022-07-06 |
+| [Barco](https://open.spotify.com/track/4X5TeiBCg2mpHQQnbozwGa) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Barco](https://open.spotify.com/album/0FAkEJQAINUzXCT0V4V2P4) | 4:14 | 2022-07-29 |  |
 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 | 2022-03-25 |  |
 | [Before You Sleep](https://open.spotify.com/track/1KIC8wPFEZvACivBF5dy1y) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Before You Sleep](https://open.spotify.com/album/0lQDTQArkfPvc5K8l46rvj) | 2:51 | 2022-01-28 |  |
 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 | 2022-01-21 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 | 2022-07-24 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 | 2022-01-21 |  |
-| [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 | 2022-01-21 |  |
+| [Saints And Sinners](https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 9:24 | 2022-01-21 | 2022-07-30 |
 | [Sandlóa](https://open.spotify.com/track/0ONcTpuI4HC0nOGCbPjGsa) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Sandlóa](https://open.spotify.com/album/5bxoucRv54ThMvQ2kAZSgF) | 3:35 | 2022-01-21 |  |
 | [Second Half](https://open.spotify.com/track/7CFziAj4VX4vspOI4ypY6f) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 6:28 | 2022-01-21 | 2022-07-29 |
 | [Seconds](https://open.spotify.com/track/2ROZkHmSV46OD2ESB6gpzs) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Seconds / Hólar](https://open.spotify.com/album/4uVGQKa9PFkytxLsLDkLJ6) | 2:03 | 2022-07-22 |  |

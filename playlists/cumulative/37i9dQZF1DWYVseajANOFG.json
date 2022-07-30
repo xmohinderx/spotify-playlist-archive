@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BCA, Jorkan",
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Yemil",
   "name": "Flow Panam\u00e1",
   "published_playlist_ids": [
     "79dWlZ80QnS0vL3EFzUJSz"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 165118,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/6nBneNxyfeOFnKsCH166RT"
@@ -225,6 +225,54 @@
       "duration_ms": 155068,
       "name": "BRUJERIA",
       "url": "https://open.spotify.com/track/5uiH9Ei2V6fyuJHK57xISQ"
+    },
+    {
+      "album": {
+        "name": "CASA VERDE",
+        "url": "https://open.spotify.com/album/0pRLWvPjTW5zZ2K8iDO4sj"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        },
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246628,
+      "name": "CASA VERDE",
+      "url": "https://open.spotify.com/track/56Tqz9oHlrH2Okx282tlu7"
+    },
+    {
+      "album": {
+        "name": "Cinco de Mayo",
+        "url": "https://open.spotify.com/album/2OaQ6lM6XfLGkSqKnirlhq"
+      },
+      "artists": [
+        {
+          "name": "Fulo El Yeyo",
+          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Cinco de Mayo",
+      "url": "https://open.spotify.com/track/2TMnPep2Sf0x4AQckIHrpS"
     },
     {
       "album": {
@@ -635,7 +683,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 173919,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0gdXKfy7JOfvewWPBPWKgb"
@@ -803,7 +851,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 126760,
       "name": "Kiwi Fresa",
       "url": "https://open.spotify.com/track/2sHDyVva4IgO7ETfuhfV3z"
@@ -885,6 +933,32 @@
       "duration_ms": 182219,
       "name": "Lambo",
       "url": "https://open.spotify.com/track/0Oh26zAfZKlOYCRVYaH8WD"
+    },
+    {
+      "album": {
+        "name": "Laptop",
+        "url": "https://open.spotify.com/album/4UtCCbOZFNqNr7VzQKg2FL"
+      },
+      "artists": [
+        {
+          "name": "Pash",
+          "url": "https://open.spotify.com/artist/6iOnQUuxAqtZ2fnVOrNq4s"
+        },
+        {
+          "name": "El Tachi",
+          "url": "https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U"
+        },
+        {
+          "name": "Pinky",
+          "url": "https://open.spotify.com/artist/5HU5bbbcgabE9AgBkXJaXS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258665,
+      "name": "Laptop",
+      "url": "https://open.spotify.com/track/0kdIdp62usgrjKDvuzeCmb"
     },
     {
       "album": {
@@ -1992,6 +2066,28 @@
     },
     {
       "album": {
+        "name": "Tinder",
+        "url": "https://open.spotify.com/album/30K4hIL73zcUoDcZRkLkaa"
+      },
+      "artists": [
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        },
+        {
+          "name": "Yemil",
+          "url": "https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175345,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/3umI5V06lSSSWriIN81vFy"
+    },
+    {
+      "album": {
         "name": "TOP MODEL",
         "url": "https://open.spotify.com/album/78jgM3gvcgqdo6dJn42Fij"
       },
@@ -2075,7 +2171,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 225319,
       "name": "TU NO TA LINDO RMX",
       "url": "https://open.spotify.com/track/2XV6pyJyineBFSxR73BWAQ"
@@ -2141,7 +2237,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 232411,
       "name": "Un Ghetto",
       "url": "https://open.spotify.com/track/5E436xsqi5Ak5KOqiesx0n"

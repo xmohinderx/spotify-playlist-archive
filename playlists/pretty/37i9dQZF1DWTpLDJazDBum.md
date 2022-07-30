@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these instrumental trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,346 likes - 93 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,359 likes - 94 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,24 +82,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 | 72 | [Brooding T\-Rex](https://open.spotify.com/track/2atx7EGXuT2Gi0m2M9ImyQ) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:37 |
 | 73 | [Harvest](https://open.spotify.com/track/0GhNhefIBbZpoe3FQmVz2I) | [Minosour](https://open.spotify.com/artist/1cwzQoxtRJWvTDNQc6lc7a) | [Harvest](https://open.spotify.com/album/4NtVGPx6IoLyovOXtdjvHE) | 1:47 |
 | 74 | [Trippy](https://open.spotify.com/track/5ptaiocEr3tO4jk4HGEm7E) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Trippy](https://open.spotify.com/album/7LDh5wRNAFQK8UkE61z0fn) | 2:54 |
-| 75 | [Taters & Maters](https://open.spotify.com/track/7emsl5MkKpnYqdKJKHSnfy) | [Søcrates](https://open.spotify.com/artist/4GtbjBaGbpeCsSVu1spfDZ) | [Taters & Maters](https://open.spotify.com/album/5KumjFUDye6q5jnzJiUCzd) | 2:48 |
-| 76 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 |
-| 77 | [Blood River](https://open.spotify.com/track/1GtUYgTlwDmMqDIKt7xIcT) | [Sylo Rader](https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS) | [Blood River](https://open.spotify.com/album/34CmNdHetMdz9mCktAGyQo) | 2:59 |
-| 78 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 |
-| 79 | [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 |
-| 80 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 |
-| 81 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 |
-| 82 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 |
-| 83 | [Controlled Chaos](https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Controlled Chaos](https://open.spotify.com/album/2LcmG3z9Yx1KJnMnFeHpni) | 2:13 |
-| 84 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 |
-| 85 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 |
-| 86 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
-| 87 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 |
-| 88 | [On The Corner](https://open.spotify.com/track/5EPryLLTb0hiHeoazW19Ed) | [One Disco Light](https://open.spotify.com/artist/3fTraZW8ip4IoGJxXqiQY1) | [Midnight Television](https://open.spotify.com/album/2LsyfY2RqrVZ2keapNGOXa) | 2:18 |
-| 89 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 |
-| 90 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 |
-| 91 | [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 |
-| 92 | [Slumber Summer](https://open.spotify.com/track/4JURcHapCGVkTSerAumyLR) | [AVAANI](https://open.spotify.com/artist/5o3tZjvasfF0hZwRa49Mo4) | [Slumber Summer](https://open.spotify.com/album/5yqcCZIrKlD6aECCOdfsDh) | 2:18 |
-| 93 | [painting 101](https://open.spotify.com/track/72GHamwYYMUNfLPrEuxrvN) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 2:45 |
+| 75 | [Frosted](https://open.spotify.com/track/5bZ08rmgWH6aTvwRQEvqvZ) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s) | [Frosted](https://open.spotify.com/album/2Kcz7fWmiixC7rMFrOdech) | 2:37 |
+| 76 | [Taters & Maters](https://open.spotify.com/track/7emsl5MkKpnYqdKJKHSnfy) | [Søcrates](https://open.spotify.com/artist/4GtbjBaGbpeCsSVu1spfDZ) | [Taters & Maters](https://open.spotify.com/album/5KumjFUDye6q5jnzJiUCzd) | 2:48 |
+| 77 | [Jetset](https://open.spotify.com/track/7dGTXRCBJ3cICSy9hk7BH5) | [BLUE STEEL](https://open.spotify.com/artist/41OiR6DTlbgJtrvqjKioMb) | [Jetset](https://open.spotify.com/album/1dSijj9syslNHC3zNURsB5) | 2:30 |
+| 78 | [Blood River](https://open.spotify.com/track/1GtUYgTlwDmMqDIKt7xIcT) | [Sylo Rader](https://open.spotify.com/artist/6x0PT9I77BHEDWT6xxlaRS) | [Blood River](https://open.spotify.com/album/34CmNdHetMdz9mCktAGyQo) | 2:59 |
+| 79 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 |
+| 80 | [Body Bounce](https://open.spotify.com/track/775dZ1zz41wnrxOQGg0zq8) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Body Bounce](https://open.spotify.com/album/2MlYoEfgZnUqJKyssAawA4) | 2:23 |
+| 81 | [Cali Kation](https://open.spotify.com/track/39bcm83XXUBLWmQOTsBEtK) | [Damian Thorpe](https://open.spotify.com/artist/5GKEErp2pTUxiIYK213lcS) | [Cali Kation](https://open.spotify.com/album/7nAZh0OL5SAsNTY6aKAH6D) | 2:25 |
+| 82 | [Worth It](https://open.spotify.com/track/79s7lALWj5I5LS2v37APK3) | [Fadez N Rizer](https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP) | [Worth It](https://open.spotify.com/album/7rix5AYPgRpy0AD9EfUT9x) | 2:46 |
+| 83 | [Shipping Delay](https://open.spotify.com/track/5rmM3XcXEHcPQ3Xl0NjnJq) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Club Fantastic](https://open.spotify.com/album/79FoCOHKpYLTps1AAqiLCV) | 2:17 |
+| 84 | [Controlled Chaos](https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Controlled Chaos](https://open.spotify.com/album/2LcmG3z9Yx1KJnMnFeHpni) | 2:13 |
+| 85 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 |
+| 86 | [Enigma](https://open.spotify.com/track/6ZSJa6ccyXHdMYhh9Y7Mea) | [FØRTE](https://open.spotify.com/artist/46vhqe1g0BJGdspci0dwbF) | [Enigma](https://open.spotify.com/album/1jXQLiD5zNR1gAOafc27bt) | 2:38 |
+| 87 | [Swept away](https://open.spotify.com/track/50D42NjOSA7pcx8RftldNM) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Swept away](https://open.spotify.com/album/7dL8pdaQekKy8wr8GtiLt6) | 3:13 |
+| 88 | [Dusk](https://open.spotify.com/track/2lFTXt6gHlFgqOO8PXtagw) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Dusk](https://open.spotify.com/album/2lM5JgM0TfX6avIjk8JXUr) | 2:56 |
+| 89 | [On The Corner](https://open.spotify.com/track/5EPryLLTb0hiHeoazW19Ed) | [One Disco Light](https://open.spotify.com/artist/3fTraZW8ip4IoGJxXqiQY1) | [Midnight Television](https://open.spotify.com/album/2LsyfY2RqrVZ2keapNGOXa) | 2:18 |
+| 90 | [Earthbound \- Drum Quixote Remix](https://open.spotify.com/track/4CGEmTX3M5IzoLPS9HHMDq) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Joha](https://open.spotify.com/artist/2T1sSXJwmNHFMA3Ytp24PF), [Drum Quixote](https://open.spotify.com/artist/6s5uUqayWTF9ZOfxrElDmy) | [Earthbound \(Drum Quixote Remix\)](https://open.spotify.com/album/6PGrAuCS1nIgkKhhnQjsNf) | 2:25 |
+| 91 | [Escape](https://open.spotify.com/track/7eOJ0Fe4dJdpFE5KiDNv7A) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Escape](https://open.spotify.com/album/5RncSFp1WAv41KMOQnPwb7) | 3:12 |
+| 92 | [Safari of the Mind](https://open.spotify.com/track/4KSfADgE00WidnWhCZm6WI) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:06 |
+| 93 | [Slumber Summer](https://open.spotify.com/track/4JURcHapCGVkTSerAumyLR) | [AVAANI](https://open.spotify.com/artist/5o3tZjvasfF0hZwRa49Mo4) | [Slumber Summer](https://open.spotify.com/album/5yqcCZIrKlD6aECCOdfsDh) | 2:18 |
+| 94 | [painting 101](https://open.spotify.com/track/72GHamwYYMUNfLPrEuxrvN) | [d33p s3a discovery](https://open.spotify.com/artist/2FBIvMH247jNfSX50f9QSg) | [Why, Rose?](https://open.spotify.com/album/6i4SxcWjGiYJiuiWhFtd9u) | 2:45 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGZkZTJjNjYzY2MyNjg3OTVmYmQ0OGJjNzVjNmZmZTk1`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDc4NmZhNzVhNDQyY2ExNmVhOTBhMDM3NmI2MTM4MmVm`

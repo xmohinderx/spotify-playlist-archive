@@ -1866,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Need Ya",
+        "url": "https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160766,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/6bqaOob66pWCH2dlvQU1cf"
       },
@@ -2807,6 +2825,32 @@
       "duration_ms": 251250,
       "name": "SLASH (Halloween Scary Song)",
       "url": "https://open.spotify.com/track/0JsFqQbe4Vm67mtZmDrkcx"
+    },
+    {
+      "album": {
+        "name": "Somebody Like Me",
+        "url": "https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o"
+      },
+      "artists": [
+        {
+          "name": "JJD",
+          "url": "https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        },
+        {
+          "name": "Division One (KR)",
+          "url": "https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL"
     },
     {
       "album": {

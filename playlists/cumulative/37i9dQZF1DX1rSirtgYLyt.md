@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-84 songs - 6 hr 17 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
+85 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/2CACYxcXWrR79wm1dLrCxU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Back Door Man](https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:32 | 2022-06-24 |  |
 | [Beast of Burden](https://open.spotify.com/track/3MW8e0Lh1d53pVY3Tnd8ac) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M) | 4:50 | 2022-07-08 |  |
 | [Beast of Burden](https://open.spotify.com/track/6G0E34D8C9wb777W4QHZfv) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL) | 4:50 | 2022-06-24 | 2022-07-29 |
+| [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 | 2022-07-29 |  |
 | [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 | 2022-06-24 |  |
 | [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 | 2022-07-08 |  |
 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 | 2022-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO?si=O3eWhkVkSa6Frw6gZCvImw">Black Cat Bones</a>
 
-111 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
+113 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 |  |
 | [Soul Parasite](https://open.spotify.com/track/3iRDYHlQZqw3B4SQJqAREz) | [Dan Patlansky](https://open.spotify.com/artist/3awgCNpBPrMUtU6dxRLVF5) | [Shelter Of Bones](https://open.spotify.com/album/67yaompS5Qlr7T4OZxiyJr) | 3:31 | 2022-02-25 |  |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 | 2022-03-25 |
+| [Sugar](https://open.spotify.com/track/2zFcrZtmrvIftt0ZDcm6BI) | [Hellcats](https://open.spotify.com/artist/2AowMnfwcOgR3RuSuM8Hu8) | [Sugar](https://open.spotify.com/album/1OOERXBgIWpe4b2G0I6bpJ) | 2:57 | 2022-07-28 |  |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 | 2022-03-25 |
 | [Tattoos](https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Tattoos](https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8) | 3:55 | 2021-11-05 | 2022-03-04 |
 | [Tell the World](https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH) | [Matthew John Duncan](https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA) | [Tell the World](https://open.spotify.com/album/6bfRzJDoHtvx1JNeo6nAUq) | 2:43 | 2022-02-10 |  |
@@ -103,6 +104,7 @@
 | [The Day I Gave My Sister Away](https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7) | [The Amblers](https://open.spotify.com/artist/5xYLSTOR0Zi7Zjb4tAGEuq) | [The Day I Gave My Sister Away](https://open.spotify.com/album/6Eh0WwpG6PnUsVXPoVEc2W) | 2:59 | 2021-03-04 | 2022-02-18 |
 | [The Naughty List](https://open.spotify.com/track/3EKFkwbeXhcyZkdBOQOokp) | [Joy Club Cassidy Cassidy](https://open.spotify.com/artist/6kzLUn6qCD2dGTjMkmunBn) | [The Naughty List](https://open.spotify.com/album/0lyaXU7puSvjbyYMAgaUjy) | 0:42 | 2022-01-06 | 2022-03-04 |
 | [The Veneer](https://open.spotify.com/track/1iWervHoQ9m2dlDcoOpFL8) | [A MILLION WAYS TO DIE](https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U) | [The Veneer](https://open.spotify.com/album/2W7cWviTHNhhWawHI80Wbp) | 4:56 | 2022-03-03 |  |
+| [The Waltz](https://open.spotify.com/track/1o75mFZMjlWXDupelG6AM7) | [Black Cat Bones](https://open.spotify.com/artist/1qg7JzFBXX7rU711SFfPgO) | [Book of Miriam](https://open.spotify.com/album/5tisDlIaGFaTVFE3hgmIln) | 3:24 | 2022-07-28 |  |
 | [There She Goes](https://open.spotify.com/track/383TJILTEIAmfndU48yqaI) | [Orah & The Kites](https://open.spotify.com/artist/3B6qB7amU7lKiNcTNTNacP) | [There She Goes](https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u) | 4:02 | 2020-11-26 |  |
 | [Thinking Too Hard](https://open.spotify.com/track/5nqWTG5lZ6iOK3sfzCAvwZ) | [Evert Snyman](https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk), [The Aviary](https://open.spotify.com/artist/1uCvRbLFcNf6GFBriq60j5), [Jacques Moolman](https://open.spotify.com/artist/6xpYpXQ06FPx2QOvymd25l) | [Thinking Too Hard](https://open.spotify.com/album/4owf9ZhxKn94LWb9Yl71hk) | 2:20 | 2022-02-17 |  |
 | [Time on Your Hands](https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP) | [Southern Wild](https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi) | [Time on Your Hands](https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD) | 4:38 | 2020-10-29 | 2022-03-25 |

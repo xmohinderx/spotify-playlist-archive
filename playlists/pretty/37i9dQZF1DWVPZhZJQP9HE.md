@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPZhZJQP9HE.md) - [plain]
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Jeevanandhan Ram
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,561 likes - 83 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,591 likes - 83 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Velli Meenum](https://open.spotify.com/track/4M988VyRKdAq26avTTzXDm) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Ratheesh Seenivasagam](https://open.spotify.com/artist/3gbBYzebTn3CcnbiL5QD0h) | [Velli Meenum](https://open.spotify.com/album/4rJ3faxZnNbpc5U2r2tzKe) | 3:58 |
+| 1 | [Velli Meenum](https://open.spotify.com/track/4M988VyRKdAq26avTTzXDm) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Jeevanandhan Ram](https://open.spotify.com/artist/7n64H0S41tN3doEQzOFb5n), [Ratheesh Seenivasagam](https://open.spotify.com/artist/3gbBYzebTn3CcnbiL5QD0h) | [Velli Meenum](https://open.spotify.com/album/4rJ3faxZnNbpc5U2r2tzKe) | 3:58 |
 | 2 | [Jorthaale](https://open.spotify.com/track/39g4GmzPyDLTdtnhu24r2H) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Jorthaale](https://open.spotify.com/album/6ubFX2BkueKqYDxkQUpVb9) | 1:50 |
 | 3 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 |
 | 4 | [Naan Kudikka Poren](https://open.spotify.com/track/7dz92P4LmPOl81fNcHjEUV) | [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF), [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Selojan](https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU) | [Naan Kudikka Poren](https://open.spotify.com/album/2CXDwEEnfbSuMEQXTejOkw) | 4:17 |

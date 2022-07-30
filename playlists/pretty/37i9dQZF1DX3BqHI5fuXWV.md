@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 
 > The best tracks from the great Miles Davis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,771 likes - 75 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,810 likes - 75 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BqHI5fuXWV.md) - [plain]
 | 25 | [So Near, So Far](https://open.spotify.com/track/0CpyNb2RlzO7345kFiwXzg) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:56 |
 | 26 | [Summer Night](https://open.spotify.com/track/3eN0rzXMRYXmXtBkFOXYdI) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Quiet Nights](https://open.spotify.com/album/37sPrSzrALZYsuH8i6zX1M) | 6:01 |
 | 27 | [Water Babies](https://open.spotify.com/track/6XC0a2dZUjDLGJhG1AilVT) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Water Babies](https://open.spotify.com/album/20kXtVP3GMVWmnbttQGRPB) | 5:06 |
-| 28 | [The Man With the Horn](https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Man With The Horn](https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz) | 6:31 |
+| 28 | [The Man With the Horn](https://open.spotify.com/track/47ULAV7jxxH7xf4qFrIe11) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Man With The Horn](https://open.spotify.com/album/1fRSDRiFk922cV3bgFCdtz) | 6:32 |
 | 29 | [Madness](https://open.spotify.com/track/4AhnRSiNKpHLTPJh7n9l3Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Nefertiti \(Expanded Edition\)](https://open.spotify.com/album/4ilAxtGR8aOj6M8X1HeHPY) | 7:31 |
 | 30 | [Sivad \- Live at the Cellar Door, Washington, DC \- December 1970](https://open.spotify.com/track/17pDYuwdakHhG64f3CJSHX) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Live \- Evil](https://open.spotify.com/album/4eK5DQxLCshZCUk6D5a8Q1) | 15:13 |
 | 31 | [Star People](https://open.spotify.com/track/2IdNLuyCj6lDUA80VrFMaO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Star People](https://open.spotify.com/album/2j4kRyY7kLm9NuciAHyzg5) | 18:46 |

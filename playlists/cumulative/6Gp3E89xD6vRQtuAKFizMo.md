@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-74 songs - 3 hr 47 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+76 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,11 +64,13 @@
 | [Pill](https://open.spotify.com/track/5qa0Vd1RbFfryPALhL1d3x) | [Otira](https://open.spotify.com/artist/0rEj1VGJGJIxCn3H9B3kWb) | [Pill](https://open.spotify.com/album/2xmmJIoFBCPvhtAIKfgoPm) | 2:09 | 2022-05-06 |  |
 | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/track/5Vd61zAJWNiPlj7JLT7Elj) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Twin Palms](https://open.spotify.com/artist/3vLMWHCUvKGdN901ti7ylE) | [Plus 1 \(feat\. Nasty C\)](https://open.spotify.com/album/6JWPlOkQqI3zBheWVemmJP) | 3:09 | 2022-05-06 |  |
 | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/track/1lh1f7hKVPSX70kBb6Uf4v) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Pompeii \(feat\. Crooked Bangs\)](https://open.spotify.com/album/3Y10pwQZ9FUIpOelXxirRx) | 3:20 | 2022-05-13 |  |
+| [Push It](https://open.spotify.com/track/2K1613LBzxXXXlJGunZcLd) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Push It](https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO) | 2:50 | 2022-07-29 |  |
 | [Return To Love](https://open.spotify.com/track/5gC2purkEbtC5AqOXC4fRi) | [Skellism](https://open.spotify.com/artist/2mxNzGDRK6oFFJN8CqBUNr), [KOU](https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR) | [Return To Love](https://open.spotify.com/album/2UOdn9i0WaSoq4XSDGSUgj) | 3:29 | 2022-05-06 | 2022-07-02 |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 |  |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 |  |
 | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no) | 3:41 | 2022-05-06 |  |
+| [Step Back](https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Step Back](https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2) | 3:18 | 2022-07-29 |  |
 | [Stop The World](https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW) | 2:59 | 2022-05-06 |  |
 | [Straight To Ya Face](https://open.spotify.com/track/25ozzkQ8NRRVqmv3UCjpae) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Straight To Ya Face](https://open.spotify.com/album/49gdPCPeNhnoFSDEYvyaAl) | 2:36 | 2022-05-06 | 2022-07-02 |
 | [Such A Fool](https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Such A Fool](https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2) | 3:02 | 2022-05-06 |  |

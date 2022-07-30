@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-319 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+320 songs - 14 hr 45 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Light Rain](https://open.spotify.com/track/78k8bk96GLr61Y4fp1K6Io) | [Alessandro Minci](https://open.spotify.com/artist/3sjBbv6BttORQh4rrqmsrl) | [Light Rain](https://open.spotify.com/album/7J867UR9iSCI86N70IIsA5) | 3:54 | 2022-06-10 |  |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2021-12-08 | 2022-07-08 |
 | [Little Krumbs](https://open.spotify.com/track/3vrkYJODH1pEthNwy9bdSq) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 3](https://open.spotify.com/album/1e3eyPgitBo2NNaKJ096YY) | 3:13 | 2021-12-08 | 2022-04-22 |
+| [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 | 2022-07-29 |  |
 | [Llamame e Insiste](https://open.spotify.com/track/7xWSsd19uqn3nuEhPz1uG3) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Llamame e Insiste](https://open.spotify.com/album/1VuqJvXizrcq4dyqYTgWE2) | 3:00 | 2021-12-08 | 2022-05-11 |
 | [Lola](https://open.spotify.com/track/1Oa5PbACgAPg0pS0l0SGTq) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Lola](https://open.spotify.com/album/0uEwBSSv1rpnE0LgMIb1xq) | 2:27 | 2021-12-08 |  |
 | [Lolita](https://open.spotify.com/track/6H0gr9KWIXDbmL7XUXG0mH) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Nachtwanderung](https://open.spotify.com/album/1PSO23LhCcQehNc781fy9I) | 2:39 | 2021-12-08 | 2022-04-06 |

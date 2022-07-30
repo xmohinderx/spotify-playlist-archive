@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Rata Blanca
 
-257 songs - 18 hr 53 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
+258 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/3HYsIAc7oXByJ2AOHakeY7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Tu Lado](https://open.spotify.com/track/7tgIEyaowzPNqSQo9x8b4t) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [En el Ojo del Huracán](https://open.spotify.com/album/6Js0JG5tVnqoBcWnJT21ZV) | 3:14 | 2022-06-24 |  |
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/5CbX94QcX74Xy0l4ArAIQI) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/3l0v842H6eKkHsOmHUUcHe) | 3:42 | 2022-06-24 |  |
 | [Absolutismos… \- Live In Buenos Aires / 2016](https://open.spotify.com/track/7h5HLYcfviLPgldQzM0MnA) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Vivo De Pastillas: Locura Y Realidad \(Live In Buenos Aires / 2016\)](https://open.spotify.com/album/4678H4zVhphgBOu0eWZt7S) | 3:42 | 2022-04-01 | 2022-07-27 |
+| [Abuso de Poder \- Live](https://open.spotify.com/track/0Mtjb39XqDqtUwd5VAiWwl) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Abuso de Poder \(Live\)](https://open.spotify.com/album/2j8PSe8LB7OP8HKz2dq7zY) | 3:12 | 2022-07-29 |  |
 | [Afuera Llueve \- En Vivo](https://open.spotify.com/track/0DSLhThjowAmDx6DFqujyq) | [Sponsors](https://open.spotify.com/artist/7DJFfmhhEYgHVtcjXmygUM), [Martín Moska Lorenzo](https://open.spotify.com/artist/6kEkOEOL6KKvLjRItAqY74) | [La Fiesta Inolvidable \(En Vivo\)](https://open.spotify.com/album/7DjVh2B6EkSoqwGkqHyiBS) | 4:32 | 2022-06-10 | 2022-07-29 |
 | [Aguaviva \- En Vivo](https://open.spotify.com/track/2utHJRJgW9nrtuwgnBiQJr) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Brujotecnia \(En Vivo\)](https://open.spotify.com/album/3J2DAjot68DHpD2MXTu6iD) | 4:07 | 2022-04-01 | 2022-05-28 |
 | [Ahora Vengo \- Vivo Luna Park](https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Facundo Soto](https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem) | [Ahora Vengo \(Vivo Luna Park\)](https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz) | 2:51 | 2022-04-01 | 2022-07-29 |
@@ -40,7 +41,7 @@
 | [Bajan \(En Vivo Estadio Vélez Sarsfield\) \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/06pjQCIybMiGrgtHODGa2m) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Spinetta y Las Bandas Eternas](https://open.spotify.com/album/3kuu5DGs4n815JjDI5dlNx) | 3:45 | 2022-04-01 |  |
 | [Banda de Garage](https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 4:51 | 2022-06-24 |  |
 | [Banda de Garage \(En Vivo en River 2018\)](https://open.spotify.com/track/17GPcNBS27j8QSD6zqcSID) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:51 | 2022-04-01 | 2022-07-28 |
-| [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 | 2022-04-01 |  |
+| [Barek \- En Vivo Luna Park](https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Barek \(En Vivo Luna Park\)](https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5) | 4:03 | 2022-04-01 | 2022-07-30 |
 | [Beatle \- Acústico en Vivo](https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:32 | 2022-04-01 |  |
 | [Beatle \- En Vivo en el Foro Sol](https://open.spotify.com/track/1rOyTQAHsI9fVxZxVicjlU) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 2:48 | 2022-04-01 | 2022-07-26 |
 | [Brazos Cruzados \- Vivo](https://open.spotify.com/track/1F8HTi9TSAzrsCFyQVsz5t) | [Joystick](https://open.spotify.com/artist/4jLnkyQUqdN35FQGBPAhji) | [Vivo en la Trastienda](https://open.spotify.com/album/3WMDIIZ7Vi9O5tSLecWEFl) | 3:24 | 2022-06-24 | 2022-07-12 |

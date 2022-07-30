@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Front Country
 
-158 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
+160 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Down Under](https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/6rwHXOhNQXHfE0KRvL84rZ) | 4:43 | 2021-08-20 |  |
 | [Dry Town](https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Dry Town](https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6) | 2:42 | 2021-08-20 | 2022-01-22 |
 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 | 2021-08-20 |  |
+| [Everybody Wants to Rule the World](https://open.spotify.com/track/7KKGMWe3m5H6A8uvtzZySS) | [Jimbo Scott](https://open.spotify.com/artist/0dLFcTsyzpiPcNdyYM3dms) | [Everybody Wants to Rule the World](https://open.spotify.com/album/0vIF4YDydWHVGXKfFdK08U) | 4:52 | 2022-07-29 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/6lDTR2JakgO4nyaqASdtIT) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 2](https://open.spotify.com/album/2WcSVdRwyvMHAnZKq0FvdE) | 4:25 | 2021-08-20 |  |
 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 | 2022-05-27 |  |
 | [Eye of the Tiger](https://open.spotify.com/track/7bqtShG4VYS372JEtHLXRp) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood b/w Eye Of The Tiger](https://open.spotify.com/album/3ERhhl10nW1ixfxezvCCm7) | 3:00 | 2021-08-20 | 2022-07-29 |
@@ -113,6 +114,7 @@
 | [Old Man](https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5Qrpxvxj6LTfqIbKnCnQHb) | 3:10 | 2021-08-20 | 2022-07-29 |
 | [Old Man](https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:11 | 2022-05-27 |  |
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-08-20 |  |
+| [Outbound Plane](https://open.spotify.com/track/2Dx0LnWpxdKyKlYPMNiaUn) | [Jacob Jolliff](https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr) | [Outbound Plane](https://open.spotify.com/album/0ekHYaKNRyLh7AfizfVNY7) | 3:49 | 2022-07-29 |  |
 | [Pinball Wizard](https://open.spotify.com/track/3wWmZKqmJkQEdsfIsncoFz) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/30JWrDVhcL9nXRPEantke9) | 3:43 | 2021-08-20 | 2022-07-29 |
 | [Pinball Wizard](https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/5ALFsEy1iZE8Megoyj77IW) | 3:43 | 2022-05-27 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 | 2021-08-20 |  |

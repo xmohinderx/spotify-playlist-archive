@@ -4,7 +4,7 @@
 
 > The movement’s roots\. Los clásicos del Reggaeton\. Cover: Nicky Jam
 
-209 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+210 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Baila Morena \- Live](https://open.spotify.com/track/6GXtIudxkU3OHFOmd0o613) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Season Finale](https://open.spotify.com/album/6XbbtZmVsxiw6PTpe19dQo) | 2:34 | 2022-07-01 |  |
 | [Bailando Provocas](https://open.spotify.com/track/3IaMJw9SJ1VxI1pjUQUtWB) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 2:22 | 2022-04-05 | 2022-04-21 |
 | [Bailando Quiero Verlas](https://open.spotify.com/track/7L70JFP6AVHi4DJKP1gH1p) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [Playero 41: Past Present & Future Part 1](https://open.spotify.com/album/3flZYLVafxIZDaEiAdZ6y8) | 2:53 | 2022-04-05 | 2022-05-28 |
-| [Bandida](https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:12 | 2021-12-09 |  |
+| [Bandida](https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:12 | 2021-12-09 | 2022-07-30 |
 | [Bandoleros](https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [The Fast And The Furious: Tokyo Drift \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0) | 5:05 | 2021-12-09 |  |
 | [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2021-12-09 |  |
 | [Caile](https://open.spotify.com/track/0vIx1UujIOIF512NlNDm5k) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Hits](https://open.spotify.com/album/5nFM7HjmcxHy3YdOAp3WG8) | 3:11 | 2022-04-07 | 2022-04-21 |
@@ -40,6 +40,7 @@
 | [Chica Virtual \(feat\. Arcangel\)](https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow la Discoteka 2](https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D) | 4:24 | 2021-12-09 | 2022-07-26 |
 | [Chillax \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:17 | 2021-12-09 |  |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2021-12-09 |  |
+| [Chulin Culin Chunfly](https://open.spotify.com/track/5in5l6a2fFxqDjn6bFSXpL) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Voltio](https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ) | 4:35 | 2022-07-01 |  |
 | [Chulin Culin Chunfly \(feat\. Residente Calle 13\)](https://open.spotify.com/track/46DW3fyWuL4VZfEwnyWjXg) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Voltio](https://open.spotify.com/album/48iJAePusVGLmpzbcQuVH3) | 4:35 | 2021-12-09 | 2022-07-22 |
 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 | 2022-04-07 |  |
 | [Cuando Baila Reggaeton](https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG) | [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [The Underdog \- El Subestimado](https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5) | 3:04 | 2021-12-09 | 2022-07-29 |

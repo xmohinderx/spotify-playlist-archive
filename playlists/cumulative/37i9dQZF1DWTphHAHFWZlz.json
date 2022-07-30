@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "El sonido del nuevo rock argentino esta ac\u00e1. Foto: Rayos L\u00e1ser",
+  "description": "El sonido del nuevo rock argentino esta ac\u00e1. Foto: Las Sombras",
   "name": "Rockeando",
   "published_playlist_ids": [
     "0MtUXUcZ7oflfCxYvMhlyV"
@@ -207,6 +207,28 @@
       "duration_ms": 197800,
       "name": "Aquella Tarde",
       "url": "https://open.spotify.com/track/2cKdZVBnUaZn8ljdFvZdpX"
+    },
+    {
+      "album": {
+        "name": "Armaged\u00f3n",
+        "url": "https://open.spotify.com/album/0ubs2oQKjr2uLaSifiIapF"
+      },
+      "artists": [
+        {
+          "name": "Camila L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6VHcngSiHE3Y9Lzip0Dta2"
+        },
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Armaged\u00f3n",
+      "url": "https://open.spotify.com/track/1YAkwbM8f7yFRyu5OyG2xy"
     },
     {
       "album": {
@@ -1744,6 +1766,24 @@
     },
     {
       "album": {
+        "name": "El Club de los Nost\u00e1lgicos",
+        "url": "https://open.spotify.com/album/28Nfblfv6piukaj4Vq3FmS"
+      },
+      "artists": [
+        {
+          "name": "Las Sombras",
+          "url": "https://open.spotify.com/artist/5el5cbPZc64RtoKhnL2Bzw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261165,
+      "name": "Mundo de Hoy",
+      "url": "https://open.spotify.com/track/7cRM3LsSEtdOI5oLW3ZEAA"
+    },
+    {
+      "album": {
         "name": "Mundo Entero",
         "url": "https://open.spotify.com/album/4hRcnbfL2s9xICNZgkjVak"
       },
@@ -1867,6 +1907,28 @@
       "duration_ms": 133596,
       "name": "No Te Desvistas",
       "url": "https://open.spotify.com/track/4zZG2DSVUWzakbLBx0sfPY"
+    },
+    {
+      "album": {
+        "name": "Olimpica",
+        "url": "https://open.spotify.com/album/0anKYBfwCQZYPYM6qKmr7n"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        },
+        {
+          "name": "Mart\u00edn Buscaglia",
+          "url": "https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225423,
+      "name": "Olimpica",
+      "url": "https://open.spotify.com/track/79vYITnn1EeHIcHXD7XsG9"
     },
     {
       "album": {

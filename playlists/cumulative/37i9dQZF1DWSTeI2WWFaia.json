@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Denzel Curry",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Killer Mike",
   "name": "Spilled Ink",
   "published_playlist_ids": [
     "263ylGzX2g8MfE4QemXHet"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 159154,
       "name": "Beat Breaks (feat. Nas)",
       "url": "https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI"
@@ -2846,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "JUGG",
+        "url": "https://open.spotify.com/album/2rEZFLjRcgMqezzZmcTzzA"
+      },
+      "artists": [
+        {
+          "name": "Swavay",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "JUGG",
+      "url": "https://open.spotify.com/track/6gIRDURg5rYturCXSdDlAH"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -4289,7 +4307,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 220485,
       "name": "Power Steering",
       "url": "https://open.spotify.com/track/1uT59swjpPqahDlbdOMoGb"
@@ -5123,7 +5141,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 270044,
       "name": "Starting 5 (with Lute, Cozz & Omen)",
       "url": "https://open.spotify.com/track/2OSsmzINPSwQ1hLoMH70Rj"

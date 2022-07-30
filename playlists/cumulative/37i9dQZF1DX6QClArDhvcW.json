@@ -1674,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "light",
+        "url": "https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr"
+      },
+      "artists": [
+        {
+          "name": "cr\u00e9ature sonore",
+          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85353,
+      "name": "light",
+      "url": "https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5"
+    },
+    {
+      "album": {
         "name": "Lonesome",
         "url": "https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn"
       },
@@ -1909,6 +1927,28 @@
       "duration_ms": 96857,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb"
+    },
+    {
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/28l4AuuySCumrAxCvlic76"
+      },
+      "artists": [
+        {
+          "name": "Phil Gori",
+          "url": "https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e"
+        },
+        {
+          "name": "pepperonibeats",
+          "url": "https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu"
     },
     {
       "album": {
@@ -2567,6 +2607,24 @@
       "duration_ms": 78419,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ"
+    },
+    {
+      "album": {
+        "name": "Roads",
+        "url": "https://open.spotify.com/album/7F96yKUVXqAIw0CCcFdCSp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125278,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/08WS0U9E3nnBrDJ8gIjyI0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-144 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
+145 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Morgen](https://open.spotify.com/track/111fM0tqZiGJyt123R6WNt) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:45 | 2022-07-22 |  |
 | [Morgen](https://open.spotify.com/track/43g9xRCsD9ez3qzVLRdFeX) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Morgen](https://open.spotify.com/album/61KSoFutstVwhqyoAxfdKj) | 2:45 | 2021-12-10 | 2022-07-29 |
 | [Mrs\. Potter's Garden](https://open.spotify.com/track/4hRULDo9fR449jPin3MmIg) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Mrs\. Potter's Garden](https://open.spotify.com/album/4wgoLr9H9hmCscuUF72E1r) | 2:38 | 2021-12-10 |  |
+| [Muku](https://open.spotify.com/track/2QEkXcyjvIWgFsbc1amx4Y) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Muku](https://open.spotify.com/album/1uFnrq7fSZ0ezLUe7ve9Cv) | 3:14 | 2022-07-29 |  |
 | [Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 | 2021-12-10 |  |
 | [Necessary Things](https://open.spotify.com/track/3jfHBBkgGytf4lIn0BMfXT) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Necessary Things](https://open.spotify.com/album/5KlfW6GEYoTWTbT4TSy2fo) | 3:52 | 2021-12-10 |  |
 | [Nocturnal](https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Nocturnal](https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK) | 5:12 | 2022-01-28 |  |

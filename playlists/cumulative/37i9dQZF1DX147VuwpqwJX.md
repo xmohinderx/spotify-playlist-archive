@@ -4,12 +4,13 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-111 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
+113 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Act Up](https://open.spotify.com/track/1eg0rac3QbmFbLYie423SB) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs), [Princess Precious Ebony](https://open.spotify.com/artist/47fGppKBHqOSykUWrkXZTO), [Shauna Brooks](https://open.spotify.com/artist/7717Z7L9SS6oRmXU4vFXOE) | [Act Up](https://open.spotify.com/album/5zWxG6gbBylO8NkyS8wYfY) | 4:20 | 2021-11-19 |  |
 | [Akasha's Tears](https://open.spotify.com/track/5psRxqv67nXfxyAFpKeUTd) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO) | [Akasha's Tears X Bean Qween](https://open.spotify.com/album/7B6mrchgMbZwsELgqVD4i9) | 4:13 | 2021-11-19 |  |
+| [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-29 |  |
 | [Bad Bitch](https://open.spotify.com/track/7Jst8eBHdUyvBO47a5wQIR) | [Gage](https://open.spotify.com/artist/4hzEQXsNMYNMSN3P6rlym7), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Bad Bitch](https://open.spotify.com/album/1qgJrHsVBqf2v5bCVFcdqz) | 3:56 | 2021-11-19 |  |
 | [BBB](https://open.spotify.com/track/6iYyeyUc0zEXCOFm8kgKSA) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [BBB](https://open.spotify.com/album/6DKpHRzwz47gcPyHFVpSgF) | 2:51 | 2021-11-19 |  |
 | [Beat This](https://open.spotify.com/track/6sTpK1cObW1UyFhBxppv6A) | [Loffe Beats](https://open.spotify.com/artist/4z77fjfHsC4fG2aQPzAM1B), [Matyouz Ladurée](https://open.spotify.com/artist/48QmwhiTUwxtV7nAQhGcBp), [Typhoon Angels](https://open.spotify.com/artist/1QvTkIUsNVZhjy5jEQ1vvF), [Tofu Quing](https://open.spotify.com/artist/2OezS1el3JqrjcyQRZVTiK) | [Beat This](https://open.spotify.com/album/73l09Riz34dqh0LXqZzima) | 3:39 | 2021-11-19 |  |
@@ -67,6 +68,7 @@
 | [March](https://open.spotify.com/track/0sm118jBfsmXhMXziLMtf9) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w) | [March](https://open.spotify.com/album/6NA2jMLmEgq5PxrfIsMm8S) | 2:59 | 2021-11-19 |  |
 | [Musical Chairs](https://open.spotify.com/track/3fX94zWU2M0xwj4LACbyYx) | [DJ Delish](https://open.spotify.com/artist/1Dh6pMtqj1w0d5DsNm7Rfd) | [XP](https://open.spotify.com/album/2mfKcs777o7GN5gEdEtPmu) | 3:02 | 2021-11-19 |  |
 | [PINKROOM](https://open.spotify.com/track/7oGWBNcphgQDBp1nX5thm0) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw) | [:PINKROOM](https://open.spotify.com/album/0Zwm3DHDS1nYcOB2MW3Wqb) | 2:10 | 2021-11-19 |  |
+| [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-07-29 |  |
 | [Qweendom](https://open.spotify.com/track/58dK6i9NAMEs0HguHnwChP) | [Qween Beat](https://open.spotify.com/artist/0VF9ULRE5eBuX7bkwLu9wB) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:33 | 2021-11-19 |  |
 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 | 2021-11-19 |  |
 | [Scooby Dooby Boof](https://open.spotify.com/track/1ax9nndBPseVFcb0tXLDYa) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Scooby Dooby Boof](https://open.spotify.com/album/6FaGlFrarGOPuxGboI1W7K) | 3:48 | 2022-03-18 |  |
@@ -103,7 +105,7 @@
 | [Walk \(feat\. Dashaun Wesley\)](https://open.spotify.com/track/16FZL2HEkJzvZTVnOvNXUa) | [Skyshaker](https://open.spotify.com/artist/0AkvLNa5ONu9VWoREfOwqo), [Dashaun Wesley](https://open.spotify.com/artist/6ZlsfHbSCDBAisAlLqRF1G) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:52 | 2021-11-19 |  |
 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 | 2021-11-19 |  |
 | [Werk the Ha](https://open.spotify.com/track/1ShMgm3alQpLBHDjZc0NNS) | [Leggz](https://open.spotify.com/artist/7MhCmGiOvO7hxv0pz7Mrcc), [Femi B](https://open.spotify.com/artist/39IGtPmdp5WGLjoCTz6kw1) | [Werk the Ha!](https://open.spotify.com/album/5XsiV69Y5boSWzWuQ00tSe) | 7:57 | 2021-11-19 | 2022-07-29 |
-| [Werk the Ha](https://open.spotify.com/track/6qwm86uDAqHPfR7m2lPKKe) | [Leggz](https://open.spotify.com/artist/7MhCmGiOvO7hxv0pz7Mrcc), [Femi B](https://open.spotify.com/artist/39IGtPmdp5WGLjoCTz6kw1) | [Werk the Ha!](https://open.spotify.com/album/2BHhobkP68qVMGejYxgvz1) | 7:57 | 2022-07-01 |  |
+| [Werk the Ha](https://open.spotify.com/track/6qwm86uDAqHPfR7m2lPKKe) | [Leggz](https://open.spotify.com/artist/7MhCmGiOvO7hxv0pz7Mrcc), [Femi B](https://open.spotify.com/artist/39IGtPmdp5WGLjoCTz6kw1) | [Werk the Ha!](https://open.spotify.com/album/2BHhobkP68qVMGejYxgvz1) | 7:57 | 2022-07-01 | 2022-07-30 |
 | [What It Means](https://open.spotify.com/track/7ltfQaN1JsKjAOHeAn60SA) | [DJ Wawa](https://open.spotify.com/artist/1UYB9Z1Te7aDqP3XMSV9El) | [What It Means](https://open.spotify.com/album/3wrl64KHZDDYq9nTGDLT7I) | 7:39 | 2021-11-19 |  |
 | [What You Lookin' At](https://open.spotify.com/track/1f0icmRczUDXSMiNPfP9qS) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Infinity & Beyond](https://open.spotify.com/album/3SO7TGOEi3KCBtQRg90Hej) | 2:30 | 2021-11-19 |  |
 | [What's the Word](https://open.spotify.com/track/2fm15dc1NTbaXdghv4EXIR) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Muvaland Vol\. 2](https://open.spotify.com/album/3SLZJoCclmowCidyh42q8M) | 3:26 | 2022-07-01 |  |

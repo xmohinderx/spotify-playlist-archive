@@ -378,6 +378,32 @@
     },
     {
       "album": {
+        "name": "Clone",
+        "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198051,
+      "name": "Clone",
+      "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "album": {
         "name": "Conta Banc\u00e1ria",
         "url": "https://open.spotify.com/album/4DH9Tyawl6m6dA3kkyBiI0"
       },
@@ -1665,7 +1691,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 239077,
       "name": "Pierrot e Colombina",
       "url": "https://open.spotify.com/track/61wEE7jNq4DM1Dw9IcLksw"
@@ -2088,6 +2114,40 @@
     },
     {
       "album": {
+        "name": "Ra\u00e7a com Ra\u00e7a",
+        "url": "https://open.spotify.com/album/1xsy0X2kaNS0rTWrKjmI7S"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Bragadok",
+          "url": "https://open.spotify.com/artist/4rVt7hTJTBUspoIHMoGpHu"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ra\u00e7a com Ra\u00e7a",
+      "url": "https://open.spotify.com/track/4PdS3DRipOD2VjqwP2nNlA"
+    },
+    {
+      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -2477,7 +2537,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 316000,
       "name": "Tamo Gigante",
       "url": "https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B"

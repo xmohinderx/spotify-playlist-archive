@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-135 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
+139 songs - 3 hr 50 min - [published](https://open.spotify.com/playlist/79jliU0lroEmqzvLywaZ5u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Baby Schlaf](https://open.spotify.com/track/6lPOEtDEp60TrJgsNdsIw5) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby beruhigen mit Babymusik Vol.2](https://open.spotify.com/album/1KQBEv0ESMYIpktbDp6PXI) | 2:55 | 2021-11-11 |  |
 | [Baby Sleep](https://open.spotify.com/track/5WyqPzL5Zq1gNQWyRJYen2) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/6htveJwcC07JoPa71x8ljE) | [Anna\-Lisa Hemming](https://open.spotify.com/artist/5YYU0jVhnwE2PyM0zBiaTw) | [Bä, bä, vita lamm](https://open.spotify.com/album/2vdvrIlyOOvzVoXRWj5jxg) | 1:56 | 2021-11-11 |  |
+| [Bedtime Waltz](https://open.spotify.com/track/4dsaZvjzwm2hG9zD13aMCX) | [Michelle Milton](https://open.spotify.com/artist/26z5Y624zKmNYwvMKTh7Op) | [Bells Vol\. 2](https://open.spotify.com/album/4DL6uFHFlAzCwJy5W3VjQ6) | 1:19 | 2022-07-29 |  |
 | [Bin ich klein?](https://open.spotify.com/track/6GDyd83lliW1JvoaHqQFfk) | [Elia Eberhart](https://open.spotify.com/artist/6lCADeFyIubA6EgyTXY7GR) | [Wenn kleine Hasen schlafen gehen](https://open.spotify.com/album/57L5fdxYdk16AXSDeSAA6d) | 1:36 | 2021-11-11 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/3A9y8LdotnXHsvTJDpALbU) | [Grete Viland](https://open.spotify.com/artist/2OSYysRadj7TcYllGf01Pr) | [Brahms Lullaby](https://open.spotify.com/album/5oo8r0YarZafkPKBqvyldA) | 1:33 | 2021-11-11 |  |
 | [Cada segundo](https://open.spotify.com/track/6GdLE9HexA4DvdcusaSzoH) | [Hermosa Núñez](https://open.spotify.com/artist/0ai7WgUpMnxiGWHM7WAzre) | [Mi oso de peluche](https://open.spotify.com/album/47IEuYtG6qxWadt7zieiAQ) | 1:33 | 2021-11-11 |  |
@@ -56,6 +57,7 @@
 | [Go the Distance](https://open.spotify.com/track/7lXW0NLGHrPtGS9lKhdKyR) | [Mike Helmut](https://open.spotify.com/artist/66NWOkBtxEVWAAbFMt5Kqi) | [Go the Distance](https://open.spotify.com/album/40LfzxfyW6IA6hP5bohnlD) | 2:03 | 2021-11-11 |  |
 | [Golden Slumbers](https://open.spotify.com/track/72gBXRUPwF1IIVupdPqArt) | [Fortitude Square](https://open.spotify.com/artist/0TqhYTZpYMwh5TdIIgPdZ5) | [Lullaby Glockenspiel](https://open.spotify.com/album/3oOUzKo0O8CIzzUVBpFU7I) | 1:07 | 2021-11-11 |  |
 | [Good Night, Everyone](https://open.spotify.com/track/3dt6GYAdIaT92DXYF26NcW) | [Durward Moon](https://open.spotify.com/artist/7icgsEqWluxq2LfkpHbyFg) | [Good Night, Everyone](https://open.spotify.com/album/56uRRwxhTXPA9X9RxrnSy7) | 1:15 | 2022-05-17 |  |
+| [Good Tidings](https://open.spotify.com/track/49eTLnPpcj4OFSGPeFSKOl) | [Mrs Mayford](https://open.spotify.com/artist/1DnajjlzcHuEugVA6brKPr) | [Clementine](https://open.spotify.com/album/6Uxl43a90seUzkTdWIB6gm) | 2:35 | 2022-07-29 |  |
 | [Goodnight Kiss](https://open.spotify.com/track/2HesqUQfm0I4vGd5EbMbec) | [Geppetto](https://open.spotify.com/artist/0JluzkzshbftJdJDXQdTDF) | [Baby Songs For Bedtime And Relaxation](https://open.spotify.com/album/3C2anDtIwBUf0Wfy8JHBEZ) | 1:26 | 2021-11-11 |  |
 | [Greensleaves](https://open.spotify.com/track/6edPOOfxJGvHvsewUnIHEn) | [Mino Mentoni](https://open.spotify.com/artist/3xf1BsykKMqHCxmJBRGlBX) | [Greensleaves](https://open.spotify.com/album/52wztb50Swni7LsmJgVLmm) | 1:28 | 2021-11-11 |  |
 | [Gymnopédie](https://open.spotify.com/track/0v7kquV0jG7radH78bvBgi) | [Dulce de Lago](https://open.spotify.com/artist/4Oi1HzgJuS0O66JmE9ADKd) | [Gymnopédie](https://open.spotify.com/album/3OWu5CyQaClgpCW8HktVkO) | 3:05 | 2021-11-11 |  |
@@ -114,6 +116,7 @@
 | [Sleep Tight](https://open.spotify.com/track/5hmt1Zpg1h9VdD7Y4NYUbf) | [Denise Küttner](https://open.spotify.com/artist/6wAehPof6E3VaaJDa10WAU) | [Glocken Sleep](https://open.spotify.com/album/26IROeMJ3pCu5oIpsYLKTm) | 2:15 | 2021-11-11 |  |
 | [Sleepwalking](https://open.spotify.com/track/1KzTlr4xfHOdZkmiW6beCs) | [Filipa Manson](https://open.spotify.com/artist/5o43MqiGYUuAkfRKo2OBwv) | [Sleepwalking](https://open.spotify.com/album/6WOxbkgZ0Lt0oODgG1nCqI) | 1:16 | 2021-11-11 |  |
 | [Sleepy Cat](https://open.spotify.com/track/7wtMEwqhZYAU4anoE8oiXc) | [Grady Spears](https://open.spotify.com/artist/2GXt9sALXllpAl8Ywqc90Q) | [Sleepy Cat](https://open.spotify.com/album/3wym6bkzRb86E4s1Qi2dIn) | 1:18 | 2022-05-17 |  |
+| [Sleepy Pony](https://open.spotify.com/track/0gcNpnplQquN7kAhIRV94O) | [Quincey Sessions](https://open.spotify.com/artist/16rAx6s1F0u4VRj6IAP08J) | [Sleepy Pony](https://open.spotify.com/album/4ogJez3t6b71R4wetU5UBq) | 1:22 | 2022-07-29 |  |
 | [Stars Above](https://open.spotify.com/track/4dqmR8MD5E9mMThNG1bXuB) | [Kaiden Hawk](https://open.spotify.com/artist/1YhKED579GDUJbwmCUnkKe) | [Stars Above](https://open.spotify.com/album/4pFvGbhYxFEEU8TziuxVP2) | 1:24 | 2022-06-30 |  |
 | [Sun In My Eyes](https://open.spotify.com/track/1QEiKQbesLEcfCKMvMoyDU) | [Blaire Sparks](https://open.spotify.com/artist/7rnVXAl4bjbUK8Tm8HiUg1) | [Sun In My Eyes](https://open.spotify.com/album/5cq6iJflctdfttzrimdfMm) | 2:00 | 2021-11-11 |  |
 | [Sunbeam](https://open.spotify.com/track/5sN2ztotXMAalZaQmmfMeZ) | [Chiara Almanza](https://open.spotify.com/artist/1moO688fElQ5uMSbixmBya) | [Peace and Quiet](https://open.spotify.com/album/077PeucgkWd6GbZauVg4kL) | 2:11 | 2021-11-11 |  |
@@ -136,6 +139,7 @@
 | [Twinkle Twinkle Little Star \(Music Box Version\)](https://open.spotify.com/track/1jkWPpYdq58FozTvsW3XFo) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5tqLaaETd1BYq5muZoirC8) | 1:33 | 2021-11-11 |  |
 | [When she sleeps](https://open.spotify.com/track/08ilBU7S4yPwYm9Ke8veyF) | [Rusty Everett](https://open.spotify.com/artist/6XzRNYTnp1uab8LvuYBaTg) | [When she sleeps](https://open.spotify.com/album/2dBj0EjXxzfNiNZtlXBTbi) | 1:28 | 2021-11-11 |  |
 | [When the stars](https://open.spotify.com/track/0Jz7MSxiJIySmnQ9YRXNXG) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [When the stars](https://open.spotify.com/album/113aJdsZnyvHbxsWQZZvt8) | 1:39 | 2021-11-11 |  |
+| [When You Say Goodnight](https://open.spotify.com/track/79NuT2YtlM18mndrxJ07dN) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [Happiness Is](https://open.spotify.com/album/69B8GVczeTLiAc8SCVTP3J) | 1:23 | 2022-07-29 |  |
 | [White Pyjamas](https://open.spotify.com/track/14MRYeRX5S2u9o6Mev6tNC) | [Lyndon Cole](https://open.spotify.com/artist/4YuJWQXYXtQrXTNOFupZfI) | [White Pyjamas](https://open.spotify.com/album/4DS6GovDyxuwrZCrFNJuYa) | 1:31 | 2021-11-11 |  |
 | [Wilhelmina](https://open.spotify.com/track/5NBemQIlOEOXrXFAidkLkw) | [Juliane Waechter](https://open.spotify.com/artist/7IsD38M0WKhRpntIENOowC) | [Wilhelmina](https://open.spotify.com/album/7jcNcm1BOg5zUsnM8ZRwYE) | 1:10 | 2021-11-11 |  |
 | [Write to Me](https://open.spotify.com/track/1EXfPEm8YJeO0Y55FSnLkE) | [Elroy Sadler](https://open.spotify.com/artist/2uXHbgkDsEIZK5roQl8xBt) | [Write to Me](https://open.spotify.com/album/2hOLsqSymCvbq6dtD8JGIK) | 1:07 | 2022-05-17 |  |

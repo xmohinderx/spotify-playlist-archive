@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest french touch classics! Cover: Daft Punk",
-  "num_followers": 373830,
+  "num_followers": 373931,
   "original_name": "French Touch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQ5MDQwMCwwMDAwMDAwMDBmZTk5M2Y5MTMzOTkwZmM1ZjRlNmIwOGJmYjY3NjRi",
+  "snapshot_id": "MTY1NzQ5MDQwMCwwMDAwMDAwMDRmZDdmMzg5NTA5ZmQ1YmMyMGVlMmMxMjdjMjMyNWVl",
   "tracks": [
     {
       "added_at": "2022-07-10 22:00:00",
@@ -323,6 +323,22 @@
       "duration_ms": 261333,
       "name": "In Your Arms (We Gonna Make It)",
       "url": "https://open.spotify.com/track/1Y0WKHEvAmFP8AClB2jY0d"
+    },
+    {
+      "added_at": "2022-07-10 22:00:00",
+      "album": {
+        "name": "In Love With You",
+        "url": "https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d"
+      },
+      "artists": [
+        {
+          "name": "The Paradise",
+          "url": "https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ"
+        }
+      ],
+      "duration_ms": 254066,
+      "name": "In Love With You",
+      "url": "https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7"
     },
     {
       "added_at": "2022-07-10 22:00:00",

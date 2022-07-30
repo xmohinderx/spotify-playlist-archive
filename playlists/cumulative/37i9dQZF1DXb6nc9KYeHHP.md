@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb6nc9KYeHHP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb6nc9KYeHHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb6nc9KYeHHP)
 
-### [LP Giobbi DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXb6nc9KYeHHP)
+### [LP Giobbi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DXb6nc9KYeHHP)
 
-> The rising start <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
+> The rising star <a href="spotify:artist:3oKnyRhYWzNsTiss5n4Z1J">LP Giobbi</a> brings us a shining DJ mix full of piano melodies, a signature of this talented producer.
 
-16 songs - 58 min 19 sec - not published yet
+16 songs - 58 min 19 sec - [published](https://open.spotify.com/playlist/1OjoQxFv5hEpY9MmYc3iVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

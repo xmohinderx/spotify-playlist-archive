@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,315 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,355 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,18 +48,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 38 | [Não Se Trata de Mim](https://open.spotify.com/track/4rjuNb4lymltkPuQifQPK2) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb) | [Não Se Trata de Mim](https://open.spotify.com/album/5nQbJHAdRpGpuZLVBdnP3y) | 3:17 |
 | 39 | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/track/7MFUS8HSQYU54uZeinq8l8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Grão de Areia \(feat\. Adhemar de Campos\)](https://open.spotify.com/album/27ieajaQCF46pGILC5VUdS) | 4:18 |
 | 40 | [Poder](https://open.spotify.com/track/4SHnNqSXIwT7u2Lnc5guWy) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Poder](https://open.spotify.com/album/7HzShhhdEOtWNmXc7g6KrK) | 3:40 |
-| 41 | [Contramão](https://open.spotify.com/track/3PscU3Whs200A5p8CGxol9) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Contramão](https://open.spotify.com/album/12qGSBTxUW4uSTvpmZzIC2) | 3:21 |
+| 41 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 |
 | 42 | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/track/65WuhK6Xk2g6uvnLzxvthQ) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw), [P.N.D.K](https://open.spotify.com/artist/5PZfYnajyzVyk0PlY0ChKw) | [Nessa Guerra Aqui Ninguém Ganha](https://open.spotify.com/album/2blQM5I7JF1xHtjQeyI7ID) | 3:45 |
-| 43 | [Reino](https://open.spotify.com/track/4Fr3nNVFMWozvcucS95j3G) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Reino](https://open.spotify.com/album/4lIopOsEcjtY3SmrxD0VFs) | 3:05 |
+| 43 | [Contramão](https://open.spotify.com/track/3PscU3Whs200A5p8CGxol9) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Contramão](https://open.spotify.com/album/12qGSBTxUW4uSTvpmZzIC2) | 3:21 |
 | 44 | [Defeitos](https://open.spotify.com/track/5wHw0jYd89joDdHeC2jlPn) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Defeitos](https://open.spotify.com/album/3PLJerY96TWy9XJ9TDXBjk) | 3:18 |
 | 45 | [Águias](https://open.spotify.com/track/1l0h7LsMs0jofjsby9Qms4) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Águias](https://open.spotify.com/album/6HKQzTCFYbrGDinAgJ2GUW) | 3:33 |
 | 46 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 |
 | 47 | [AQUI TÁ MEU CORAÇÃO \(feat\. MellowBeatz\)](https://open.spotify.com/track/7oHFW8VPbPafn7EjNNT0KV) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [MellowBeatz](https://open.spotify.com/artist/0ubntF0OwcTIoq3DorJqU5) | [ENTRE CÉU E ONDAS \- Vol.1](https://open.spotify.com/album/0dSOUXMV0pLaFCnY93aIdN) | 2:31 |
-| 48 | [Vazio](https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Vazio](https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA) | 2:34 |
+| 48 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
 | 49 | [Kaboom \(feat\. Felipe Vilela & Thiagão\)](https://open.spotify.com/track/6RXvJRbUPnfgLHXtGJnUZB) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Kaboom](https://open.spotify.com/album/0uZGLgKXyJ5KntLEHDtzAs) | 5:05 |
-| 50 | [A Verdade Liberta](https://open.spotify.com/track/6u2zDBpRjRbxt9uEScDL6K) | [Lucas Dias](https://open.spotify.com/artist/5USBdQSHskaPcny3qnL92S) | [A Verdade Liberta](https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD) | 3:06 |
-| 51 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
-| 52 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 |
+| 50 | [Vazio](https://open.spotify.com/track/1m6fkCIQwEMKHbG0l8MWl2) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [Vazio](https://open.spotify.com/album/769efKdD6PnmoEZnCbqyiA) | 2:34 |
+| 51 | [A Verdade Liberta](https://open.spotify.com/track/6u2zDBpRjRbxt9uEScDL6K) | [Lucas Dias](https://open.spotify.com/artist/5USBdQSHskaPcny3qnL92S) | [A Verdade Liberta](https://open.spotify.com/album/4fEAswHgT41nIulijzo9WD) | 3:06 |
+| 52 | [Minha Canção](https://open.spotify.com/track/0WkMzrS1PnaVsqFz7rMdwB) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Minha Canção](https://open.spotify.com/album/7Htbb53NXhxmvCyPhuFOmU) | 4:40 |
 | 53 | [Aliança](https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Fala pra eles que é o Felipin](https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB) | 2:59 |
 | 54 | [As Cores do Céu](https://open.spotify.com/track/0uWfAsbsoWxGLTyGsy4zMr) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Juninho Lima](https://open.spotify.com/artist/6FReHEnPFd1oKskqqUya6B) | [As Cores do Céu](https://open.spotify.com/album/2vGUC0A1pI88ujvNqdjfCF) | 3:51 |
 | 55 | [A Luz Se Apaga](https://open.spotify.com/track/17NTdbGeEofDmmiJxLQ2mU) | [Marone Falasha](https://open.spotify.com/artist/7G5ECe50jN1cy6ReJvAz7t), [Pr Rodrigo Luiz](https://open.spotify.com/artist/3VraCMcotmiLcIZJbqhyB0), [Mensageiros da Profecia](https://open.spotify.com/artist/2NfOuREtxIGzcb2ncUy6yI) | [A Luz Se Apaga](https://open.spotify.com/album/1XggPUj8bQPjQ8f7W4cHMH) | 7:06 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Gospel Playground](https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [AfroRagga](https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0) | [Gospel Playground](https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ) | 3:44 |
 | 65 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 |
 
-Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDFhYTUyZWNhOTRjNzM4YzYwYmI3NTFlZTFiYzQyNzUw`
+Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDNhODg4MDIyZDQwMDE5ODc4YjVmMTc0MTUzNTVkNWYz`

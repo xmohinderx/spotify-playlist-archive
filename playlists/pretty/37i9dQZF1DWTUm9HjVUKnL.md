@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,594 likes - 767 songs - 1 day 23 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,604 likes - 767 songs - 1 day 23 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 254 | [Suburbia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Spotify Singles](https://open.spotify.com/album/6k9Hp2pzjLtzn4esbQmTZS) | 4:04 |
 | 255 | [Don’t Stop \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3nqV59JK49DkHGXvweDD0k) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT) | 2:12 |
 | 256 | [Changes \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/6cPWdRFnrKtQPzc4h9Olaz) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/6gj7iXOB1pGIaTASfjZYMT) | 4:45 |
-| 257 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 |
-| 258 | [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7bWxEJjDCSTkjTzJMZ6VKL) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:46 |
+| 257 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
+| 258 | [I'll Be Fine Somehow \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/7ieS3GbdpR81BfRzH0KFaT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:46 |
 | 259 | [Out of Focus \- Live From Spotify Studios NYC](https://open.spotify.com/track/7h2NYUbQQgZXJ0KMMYhiBF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:30 |
 | 260 | [Summer Love \- Live From Spotify Studios NYC](https://open.spotify.com/track/2fsViUVkh7lh6gYDwvsvFH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Singles \(Live From Spotify Studios NYC\)](https://open.spotify.com/album/6AxauGOAykVQ8CU209PzQv) | 3:34 |
 | 261 | [C'est La Vie No.2 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XrjzAczxJw7MnEsJ0jIUI) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/3Frbqi5ATPYTb4Kh7UBDn4) | 3:34 |
@@ -776,4 +776,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 766 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 767 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY1ODM0NjY1MiwwMDAwMDAwMGE4NWU2YzgwMjhjMzQ0YWQ3YmVlOTJlYTExOWIzYjY4`
+Snapshot ID: `MTY1ODM0NjY1MiwwMDAwMDAwMDU1OTY4MTQ4MzA1MzJhZjdkOTQ1MmFkMTJlMmEwNmU4`

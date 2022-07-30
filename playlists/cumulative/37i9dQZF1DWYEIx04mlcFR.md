@@ -4,7 +4,7 @@
 
 > La nueva\-nueva ola de artistas y creadorxs mexas: presentamos a Pau Laggies\. 🌊✨
 
-184 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
+186 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/6I4k19QivQTwxJMIU1FW10)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Capricho](https://open.spotify.com/track/514FAjdvx5C6w3X9YV1P5Q) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Capricho](https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh) | 2:40 | 2022-06-24 |  |
 | [Chihiro](https://open.spotify.com/track/0PDjU1tGuHogWax0Dpcq3m) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Chihiro](https://open.spotify.com/album/7AIKI5Ft7gwBc5m1JZiC2y) | 3:39 | 2022-06-24 |  |
 | [CHTM](https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [CHTM](https://open.spotify.com/album/1MVwmcrz46rmE19mZLB64f) | 3:09 | 2022-05-20 |  |
-| [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 | 2022-03-11 |  |
+| [Chula](https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy), [Paco y Pedro](https://open.spotify.com/artist/7JVf9SjsDx2evTvvfbfDEK) | [Chula](https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS) | 4:01 | 2022-03-11 | 2022-07-30 |
 | [Cicatrices](https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Cicatrices](https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84) | 3:14 | 2022-06-17 | 2022-07-14 |
 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 | 2022-06-27 |  |
 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 | 2022-07-22 |  |
@@ -58,6 +58,7 @@
 | [estereotipo](https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [estereotipo](https://open.spotify.com/album/3ObhlbrQKD8aoUA6ZVyt0n) | 2:54 | 2022-07-18 |  |
 | [f\*\*k u \(La Devolución\)](https://open.spotify.com/track/2mquxyPnVCHcfIY45mR5Sz) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [f\*\*k u \(La Devolución\)](https://open.spotify.com/album/6TRFMEdEhR5VJtINuFekU5) | 2:16 | 2022-01-28 | 2022-05-11 |
 | [FAKE](https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FAKE](https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq) | 2:40 | 2022-03-23 |  |
+| [FBI](https://open.spotify.com/track/5gxQpTNE0oQb7Orf2QbnFX) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [FBI](https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS) | 2:24 | 2022-07-29 |  |
 | [Femme Fatale](https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r) | 2:42 | 2022-01-28 | 2022-06-25 |
 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 | 2021-12-10 | 2022-05-10 |
 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 | 2022-05-06 |  |
@@ -82,7 +83,7 @@
 | [Masoquista](https://open.spotify.com/track/0Zi2qTrntCAIgC93zjZRpC) | [GS](https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs), [Kyke](https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA) | [Masoquista](https://open.spotify.com/album/73YWwyUtJaENgk27l5NVCY) | 3:30 | 2022-06-24 |  |
 | [Match](https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Match](https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79) | 3:25 | 2022-05-09 | 2022-07-12 |
 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 | 2021-12-10 | 2022-03-12 |
-| [me elegiste a mí <3](https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [me elegiste a mí <3](https://open.spotify.com/album/5BFyJckUm8cZwto6BozwFo) | 2:59 | 2022-04-22 |  |
+| [me elegiste a mí <3](https://open.spotify.com/track/6AsXVvuBCO21Q5bVVGEmsD) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [me elegiste a mí <3](https://open.spotify.com/album/5BFyJckUm8cZwto6BozwFo) | 2:59 | 2022-04-22 | 2022-07-30 |
 | [Me Jodiste](https://open.spotify.com/track/5IpVwbuqd1RAdJCsV5GdWD) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Me Jodiste](https://open.spotify.com/album/2l5menS7GnDZE1p4lArfAZ) | 2:46 | 2022-03-11 |  |
 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 | 2022-04-22 | 2022-06-28 |
 | [mi canción favorita](https://open.spotify.com/track/0rDBd5DzUJoJMfBlko7WcK) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [mi canción favorita](https://open.spotify.com/album/40Vw2SofoKNXM26vPxaKk5) | 2:53 | 2021-12-10 | 2022-02-19 |
@@ -122,6 +123,7 @@
 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-12-10 | 2022-03-24 |
 | [Paul](https://open.spotify.com/track/62l192INJqBJp3kNUBgrLM) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Paul](https://open.spotify.com/album/32jEfkCxW9DjaetiMPx9uy) | 3:42 | 2022-02-25 | 2022-07-14 |
 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 | 2022-07-18 |  |
+| [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 |  |
 | [Pero Todo Bien](https://open.spotify.com/track/1yiJbOj2u7EEZnZfgqyRFM) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Pero Todo Bien](https://open.spotify.com/album/1X0YxwZJFQzV3sAD93QnNg) | 2:57 | 2021-12-10 | 2022-04-14 |
 | [Plashera Frisky](https://open.spotify.com/track/4JvIo4GZ93CuIkOVTEFuz6) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl), [Jamba](https://open.spotify.com/artist/55UFH0CkX3N9CKu5zr6o86) | [Calamidades](https://open.spotify.com/album/1YdbMAdMEGaw1nQW1aFokp) | 2:22 | 2021-12-10 | 2022-04-14 |
 | [Playlist](https://open.spotify.com/track/3PG3l4YGSlpfwCUXhsxKi5) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Playlist](https://open.spotify.com/album/5j9kqjMgOVz5kTgVCcp8Ov) | 3:01 | 2022-07-11 |  |

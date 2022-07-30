@@ -4,10 +4,11 @@
 
 > Le meilleur du rap français version cloud\. Photo : DMS
 
-57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
+60 songs - 3 hr 12 min - [published](https://open.spotify.com/playlist/5hZd800bY7alcQHZCY6dmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [0 Lucidité](https://open.spotify.com/track/0DYBFNc6mWge6UhpjRtMH0) | [Solal](https://open.spotify.com/artist/40hwssvpT91rZpFofKyKLz) | [0 Lucidité](https://open.spotify.com/album/60IIkHsD79aILJ4pnkOO25) | 3:29 | 2022-07-28 |  |
 | [Amis d'enfance](https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Amis d'enfance](https://open.spotify.com/album/3hV1vkAYnO7afQjE5j15V2) | 3:27 | 2022-07-14 |  |
 | [Avant la fin \(feat\. Zamdane\)](https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [EXGZ 3](https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3) | 3:21 | 2022-07-14 |  |
 | [Black Pearl](https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS) | [Luv Resval](https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y) | [Etoile Noire : Nébuleuse](https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw) | 3:47 | 2022-07-14 |  |
@@ -41,6 +42,7 @@
 | [Le monde par ma fenêtre](https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Le monde par ma fenêtre](https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z) | 3:23 | 2022-07-14 |  |
 | [LESSGUI](https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [LESSGUI](https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU) | 2:33 | 2022-07-14 |  |
 | [Life](https://open.spotify.com/track/4IvUUwahzNnmLNx3Fy56BP) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Double Star](https://open.spotify.com/album/2Kl8Lizlp50x23YlY2Yrau) | 3:12 | 2022-07-14 |  |
+| [Love moi](https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs) | [Dibson](https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk) | [Love moi](https://open.spotify.com/album/7716TsCXcpGPPB4kwttjtN) | 2:55 | 2022-07-28 |  |
 | [LUNE](https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [AKUMA](https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh) | 2:36 | 2022-07-14 |  |
 | [M3 \(feat\. Tiakola\)](https://open.spotify.com/track/0MkTS97rxyZjvzcWtoaFYe) | [Théodore](https://open.spotify.com/artist/1LVM8ye1ivMW71OmS264u2), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [ASWAD](https://open.spotify.com/album/0SZlUHqgkPZV8dwhD7EDZ6) | 2:41 | 2022-07-14 |  |
 | [Ma Nana](https://open.spotify.com/track/5gbxLiDOBUTIEKpIxKMeNe) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo) | [Ma Nana](https://open.spotify.com/album/5incGx0xEG2Hh6SlBZjAZP) | 3:05 | 2022-07-14 |  |
@@ -48,6 +50,7 @@
 | [Mami \(feat\. Chily\)](https://open.spotify.com/track/6WEz8nj3m2CfFUidjIKamm) | [H\-LO](https://open.spotify.com/artist/0Jb7Eilus8BTQdmRVupCeV), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [PAS ENCORE UNE STAR](https://open.spotify.com/album/1xV4ofPWx0eeligHNeBGHc) | 3:14 | 2022-07-14 |  |
 | [Medellín](https://open.spotify.com/track/5A6krUMRdMEHE2XT1qaBFB) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Fissure de vie](https://open.spotify.com/album/1jDCzsViwRa0trfppiwWTC) | 3:13 | 2022-07-14 |  |
 | [Miracle](https://open.spotify.com/track/7gLIgciyl0LiLeX7LXAACB) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [Miracle](https://open.spotify.com/album/3ApUvBtVEP475jtilOY4jy) | 2:58 | 2022-07-14 |  |
+| [MONEYBAG](https://open.spotify.com/track/4o68P6N8JucUg9apYhAtF9) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [YEYEYE](https://open.spotify.com/album/4cYBgxMkPwZ73VNC4Uy5Jv) | 3:09 | 2022-07-28 |  |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 |  |
 | [OMERTÀ](https://open.spotify.com/track/13eTAuzyWBzGOi6uM8712G) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [OMERTÀ](https://open.spotify.com/album/4ez5SqQc5JoMUYbVBvbmGj) | 2:51 | 2022-07-14 |  |
 | [Oublié](https://open.spotify.com/track/5u6KWtbJeq8QakE5BJ6f8e) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:07 | 2022-07-21 |  |

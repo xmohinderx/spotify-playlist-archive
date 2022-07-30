@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Artist: Jillian Jacqueline
 
-250 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
+251 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ain't Enough Cowboy](https://open.spotify.com/track/5nv48Y830DcU2KoreKAXoL) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/4ZaUIMUNymqD3koXtYev2P) | 2:36 | 2022-04-22 |  |
 | [Alibi](https://open.spotify.com/track/1vlPA1mn1CJAwIG0TSIioL) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [I Got Here by Accident](https://open.spotify.com/album/5vJ7PF3eWbjlG569FY1Dej) | 3:08 | 2021-12-10 | 2022-01-08 |
 | [All About It](https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:05 | 2021-12-10 |  |
-| [All Joy No Stress](https://open.spotify.com/track/2ziOiTjFSn7zQ5w19SIcPp) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Gospel Song \- EP](https://open.spotify.com/album/59637NFu1AkFC1a39GoEe7) | 2:54 | 2021-12-10 |  |
+| [All Joy No Stress](https://open.spotify.com/track/2ziOiTjFSn7zQ5w19SIcPp) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Gospel Song \- EP](https://open.spotify.com/album/59637NFu1AkFC1a39GoEe7) | 2:54 | 2021-12-10 | 2022-07-30 |
 | [All Summer](https://open.spotify.com/track/4MA8WJAhL0P3hbD5SrZUUv) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [All Summer](https://open.spotify.com/album/4lcvwRXul0pIJAM8XXU8QS) | 2:51 | 2022-07-01 |  |
 | [Almost There](https://open.spotify.com/track/4FcpNyq8OTtTHXqZVQ3WcD) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Almost There](https://open.spotify.com/album/5jG7OP3MTNwMOyQJjsw45B) | 2:40 | 2021-12-10 | 2022-02-26 |
 | [Always Never](https://open.spotify.com/track/6H5GSjYSsIJG9h7Fm8QeUg) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Always Never](https://open.spotify.com/album/52Wmo9nCaBjqE3GQYDFxcZ) | 3:03 | 2021-12-10 |  |
@@ -54,6 +54,7 @@
 | [Can't Hide Love](https://open.spotify.com/track/2U1drF0wHxIHWhkl4JN7js) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH), [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 2:29 | 2022-02-11 |  |
 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 | 2021-12-10 | 2022-05-20 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-04-29 |  |
+| [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 | 2022-07-29 |  |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-10 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-07 | 2022-02-26 |
 | [Closer To Over You](https://open.spotify.com/track/00N5SEfWH4b3aQhVDGVv7M) | [Kenton Bryant](https://open.spotify.com/artist/2RAufxLZxgdARBDirloCoB) | [Closer To Over You](https://open.spotify.com/album/4fwr9LJHJXugyFeFVxzwVB) | 3:23 | 2021-12-10 |  |

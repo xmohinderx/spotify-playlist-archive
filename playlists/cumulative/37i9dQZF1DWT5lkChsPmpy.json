@@ -4354,6 +4354,24 @@
     },
     {
       "album": {
+        "name": "Sensations",
+        "url": "https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1"
+    },
+    {
+      "album": {
         "name": "Lose The Net EP",
         "url": "https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD"
       },

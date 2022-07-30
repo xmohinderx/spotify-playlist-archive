@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Morocco.",
-  "num_followers": 136405,
+  "num_followers": 136494,
   "original_name": "Morocco Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODgyNzczMiwwMDAwMDAwMGEwOTkwOWM4ZGRkZjdmZjRkZDcxYjk5YTI4YjIwMzkz",
+  "snapshot_id": "MTY1ODgyNzczMiwwMDAwMDAwMGU1MTE0NTBkY2MyNjE2MDA5OWZjZmU2OGZhMzE0NzM4",
   "tracks": [
     {
       "added_at": "2022-07-25 12:01:57",
@@ -359,6 +359,30 @@
       "duration_ms": 221226,
       "name": "CHINWI",
       "url": "https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR"
+    },
+    {
+      "added_at": "2022-07-26 09:28:52",
+      "album": {
+        "name": "Ajiyi",
+        "url": "https://open.spotify.com/album/292GSzLdX49NvNGwFWIpxr"
+      },
+      "artists": [
+        {
+          "name": "Iguidr",
+          "url": "https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg"
+        },
+        {
+          "name": "Flomine",
+          "url": "https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs"
+        },
+        {
+          "name": "Hassan Azenzar",
+          "url": "https://open.spotify.com/artist/41XrLXoF6VggjcBrCeNd2E"
+        }
+      ],
+      "duration_ms": 216300,
+      "name": "Ajiyi",
+      "url": "https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f"
     },
     {
       "added_at": "2022-07-25 12:01:57",

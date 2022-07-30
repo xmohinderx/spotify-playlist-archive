@@ -4,7 +4,7 @@
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-65 songs - 5 hr 6 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
+66 songs - 5 hr 11 min - [published](https://open.spotify.com/playlist/5DQkBIKvID2f1LdpT2HjaI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2022-07-10 |  |
 | [I <3 U SO](https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/3wnLAWP3OtHM8aKRdGcMSc) | 3:42 | 2022-01-11 | 2022-07-29 |
 | [If I Ever Feel Better](https://open.spotify.com/track/1Rcv4ZShoftlDh5dZ3JUVf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [If I Ever Feel Better](https://open.spotify.com/album/0LCOGmBBXonkoUQyoH7w0j) | 3:42 | 2022-01-11 |  |
+| [In Love With You](https://open.spotify.com/track/2M2urNXOgop2isPZ9Vv4f7) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ) | [In Love With You](https://open.spotify.com/album/6TmoonSmmOCN6XQXgaxL7d) | 4:14 | 2022-07-10 |  |
 | [In Love With You](https://open.spotify.com/track/2MciXM60hrG1cz5DE7ZWzK) | [The Paradise](https://open.spotify.com/artist/28z70aQRbXNFU0OP930suZ) | [In Love With You \- Single](https://open.spotify.com/album/1tYPQUdo3Sxv21ILqO8gDJ) | 4:14 | 2022-01-11 | 2022-07-29 |
 | [In Your Arms \(We Gonna Make It\)](https://open.spotify.com/track/1Y0WKHEvAmFP8AClB2jY0d) | [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim) | [Strange Attitude \(Special Edition\)](https://open.spotify.com/album/2ehhDqK506h8wm245nVCK6) | 4:21 | 2022-07-10 |  |
 | [In Your Arms \(We Gonna Make It\)](https://open.spotify.com/track/3rZdigkSi1XFgyNCWJ0sVd) | [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim) | [Strange Attitude \(Special Edition\)](https://open.spotify.com/album/7nZuvoy22KyZweKBwJpXvY) | 4:21 | 2022-01-11 | 2022-07-29 |

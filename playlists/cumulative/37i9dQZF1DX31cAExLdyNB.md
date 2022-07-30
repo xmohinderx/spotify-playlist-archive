@@ -4,7 +4,7 @@
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-97 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
+98 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 | 2022-01-07 |  |
 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 | 2022-03-18 |  |
 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo) | 4:29 | 2022-01-07 | 2022-07-29 |
-| [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-03-18 |  |
+| [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-03-18 | 2022-07-30 |
 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2022-01-07 | 2022-07-29 |
 | [Alaska](https://open.spotify.com/track/2PJiuaiVdV7TaxmH9m0Jxm) | [La Madre Tirana](https://open.spotify.com/artist/7o9tCJXiK0FdrgNkdvhrrT) | [Alaska](https://open.spotify.com/album/0GHXiLtRMPAjPLKIQPHOfV) | 3:41 | 2022-01-07 | 2022-01-22 |
 | [Amor Supremo](https://open.spotify.com/track/3WgA97H4wpjZajADb4BBst) | [Elia Ezker](https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB) | [Flora](https://open.spotify.com/album/6dUsiEsl3IESAEAxYS5d4y) | 3:56 | 2022-01-07 | 2022-01-22 |
@@ -44,6 +44,7 @@
 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 | 2022-01-07 |  |
 | [Heavy](https://open.spotify.com/track/4aT6hzLA3YBKES4kGDD4uf) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/4wq7XX6LIJg2Bq1xDYTN5v) | 3:22 | 2022-03-18 |  |
 | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/track/05nKsnLJGrsDwQIXAExTQt) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Heavy \(feat\. Your Smith\)](https://open.spotify.com/album/0u6nwjlCOZyfeCYuA6BjwA) | 3:22 | 2022-01-07 | 2022-07-29 |
+| [Holograma](https://open.spotify.com/track/2pCB7iBACJRFm7TqD5TJGx) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Holograma](https://open.spotify.com/album/767JuVpwlgXhpRPnwryvY6) | 3:17 | 2022-07-29 |  |
 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 | 2022-01-07 |  |
 | [Hurting](https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Pala](https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG) | 5:02 | 2022-01-07 | 2022-07-29 |
 | [Hurting](https://open.spotify.com/track/6sxDNzpXENTruPdt31UPeU) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Pala](https://open.spotify.com/album/1Xt7yUmfmRqBfYNfHzq4tI) | 5:02 | 2022-03-18 |  |

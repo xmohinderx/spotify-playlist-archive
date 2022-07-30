@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: Billy Dean",
+  "description": "The latest music from our Country Heroes. Cover: Ronnie Dunn",
   "name": "New Traditions Country Heroes",
   "published_playlist_ids": [
     "5GBlntmj7cxNabVRK2ZjTV"
@@ -1046,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Song",
+        "url": "https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ"
+      },
+      "artists": [
+        {
+          "name": "Michelle Wright",
+          "url": "https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239378,
+      "name": "Heartbreak Song",
+      "url": "https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy"
+    },
+    {
+      "album": {
         "name": "The Rest of It's Mine",
         "url": "https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX"
       },
@@ -2001,6 +2019,28 @@
       "duration_ms": 163244,
       "name": "Redhead",
       "url": "https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC"
+    },
+    {
+      "album": {
+        "name": "100 Proof Neon",
+        "url": "https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240512,
+      "name": "Road to Abilene",
+      "url": "https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY"
     },
     {
       "album": {

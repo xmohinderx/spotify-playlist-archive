@@ -194,6 +194,24 @@
     },
     {
       "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207356,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
+    },
+    {
+      "album": {
         "name": "Vince Staples",
         "url": "https://open.spotify.com/album/2suR5CCbtL2Wq8ShFo8rFr"
       },
@@ -209,6 +227,24 @@
       "duration_ms": 138410,
       "name": "ARE YOU WITH THAT?",
       "url": "https://open.spotify.com/track/5OFEJMirg4NPz7G1zgXDYu"
+    },
+    {
+      "album": {
+        "name": "Free Form Mixtape",
+        "url": "https://open.spotify.com/album/0uqRet3v7HR1RcPWAegQt6"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "Baby Pillz",
+      "url": "https://open.spotify.com/track/7uxlLKlY5FIYymJF3tU7ai"
     },
     {
       "album": {
@@ -584,6 +620,28 @@
     },
     {
       "album": {
+        "name": "Count Contessa",
+        "url": "https://open.spotify.com/album/0RqyL11UPCgfuj67lTcJlS"
+      },
+      "artists": [
+        {
+          "name": "Azealia Banks",
+          "url": "https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I"
+        },
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303230,
+      "name": "Count Contessa",
+      "url": "https://open.spotify.com/track/5qc9oEjMRZvdECu3g5vU8P"
+    },
+    {
+      "album": {
         "name": "Cowboys Don\u2019t Cry",
         "url": "https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ"
       },
@@ -693,6 +751,24 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184686,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/4l0HxP8wm5iWHqo9myvFsm"
     },
     {
       "album": {
@@ -901,7 +977,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 155142,
       "name": "Feels Like I'm Flying",
       "url": "https://open.spotify.com/track/4241yTRttQpIbbP5w45k8p"
@@ -1133,7 +1209,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 151019,
       "name": "God Save The Girl",
       "url": "https://open.spotify.com/track/5MeYG4DHfyGIpOKr9rMWWr"
@@ -1429,7 +1505,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 212013,
       "name": "I THINK",
       "url": "https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t"
@@ -1487,6 +1563,24 @@
       "duration_ms": 210730,
       "name": "IDK WHAT TO TELL YOU",
       "url": "https://open.spotify.com/track/67Ca21PiqjzovVSAwBMwUf"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104571,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W"
     },
     {
       "album": {
@@ -1734,6 +1828,24 @@
     },
     {
       "album": {
+        "name": "34Corine",
+        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147920,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J"
       },
@@ -1749,6 +1861,24 @@
       "duration_ms": 226533,
       "name": "Loud Pipes",
       "url": "https://open.spotify.com/track/3qkFIjYRInFasy2jeDZPgm"
+    },
+    {
+      "album": {
+        "name": "SURF",
+        "url": "https://open.spotify.com/album/4tqKTPbidKIGn9UIZe5I73"
+      },
+      "artists": [
+        {
+          "name": "BLACKSTARKIDS",
+          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136110,
+      "name": "LOVE, STARGIRL",
+      "url": "https://open.spotify.com/track/1AgJta10Dm76yA5uz7EuTV"
     },
     {
       "album": {
@@ -1799,7 +1929,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 175440,
       "name": "Mardy Bum",
       "url": "https://open.spotify.com/track/3geFzA6VBSNZUTmV3bCry6"
@@ -1944,6 +2074,42 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT"
+      },
+      "artists": [
+        {
+          "name": "Bickle",
+          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210004,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM"
+    },
+    {
+      "album": {
+        "name": "Nectarine Lane",
+        "url": "https://open.spotify.com/album/5q3B3Qg7msN3QYZYxQBm9q"
+      },
+      "artists": [
+        {
+          "name": "Salina Killa",
+          "url": "https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149813,
+      "name": "Nectarine Lane",
+      "url": "https://open.spotify.com/track/7rUdHARMP5eILXLw9ysN5F"
+    },
+    {
+      "album": {
         "name": "Wonder Where We Land",
         "url": "https://open.spotify.com/album/78e7BYsTYok3QEQyvWbhqb"
       },
@@ -1963,6 +2129,24 @@
       "duration_ms": 180575,
       "name": "NEW DORP. NEW YORK",
       "url": "https://open.spotify.com/track/58gwRs0kyIlI32l5nW7iep"
+    },
+    {
+      "album": {
+        "name": "NICE OUT",
+        "url": "https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ"
+      },
+      "artists": [
+        {
+          "name": "Kilo Kish",
+          "url": "https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "NICE OUT",
+      "url": "https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc"
     },
     {
       "album": {
@@ -1999,6 +2183,64 @@
       "duration_ms": 108626,
       "name": "No Good Reason",
       "url": "https://open.spotify.com/track/4RLl6YFuMKbHOhg9twznvJ"
+    },
+    {
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225653,
+      "name": "oh my love",
+      "url": "https://open.spotify.com/track/5dEJc0rHuTVxtl1xljDbRv"
+    },
+    {
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "One (Blake's Got A New Face)",
+      "url": "https://open.spotify.com/track/6iMBQot4ZWbc1judI3x1eG"
+    },
+    {
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227543,
+      "name": "OnlyL",
+      "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
       "album": {
@@ -2307,7 +2549,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 367930,
       "name": "Red Dot Music",
       "url": "https://open.spotify.com/track/237B0GS3Y8VwGGD9bGl1vG"
@@ -2387,6 +2629,24 @@
       "duration_ms": 115173,
       "name": "Rrrrico",
       "url": "https://open.spotify.com/track/39QAXvwHUxFLDWUbTt0VP4"
+    },
+    {
+      "album": {
+        "name": "Sad B!tch",
+        "url": "https://open.spotify.com/album/4pl2wD2h2zFOMy050GG2hm"
+      },
+      "artists": [
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135069,
+      "name": "Sad B!tch",
+      "url": "https://open.spotify.com/track/3QVqGxd0HpDo9ZZiIMQjwN"
     },
     {
       "album": {
@@ -2879,7 +3139,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL"
@@ -3009,6 +3269,24 @@
       "duration_ms": 184015,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj"
+    },
+    {
+      "album": {
+        "name": "U KNOW ME",
+        "url": "https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174640,
+      "name": "U KNOW ME",
+      "url": "https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2"
     },
     {
       "album": {
@@ -3189,7 +3467,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 515865,
       "name": "WILSHIRE",
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
@@ -3219,6 +3497,42 @@
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "album": {
+        "name": "Slut Pop",
+        "url": "https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "XXX",
+      "url": "https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186181,
+      "name": "Your Teeth In My Neck",
+      "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO"

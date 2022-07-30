@@ -268,6 +268,28 @@
     },
     {
       "album": {
+        "name": "Ten Years",
+        "url": "https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD"
+      },
+      "artists": [
+        {
+          "name": "Win and Woo",
+          "url": "https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147753,
+      "name": "All This Motion (with Louis the Child)",
+      "url": "https://open.spotify.com/track/1wMyUceyWBh1VVsmeQtPnj"
+    },
+    {
+      "album": {
         "name": "Always A Dream",
         "url": "https://open.spotify.com/album/6FvLm2WrMOHLuu2ZgFr2Et"
       },
@@ -781,6 +803,28 @@
       "duration_ms": 161133,
       "name": "cbd",
       "url": "https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx"
+    },
+    {
+      "album": {
+        "name": "Chasing Paradise (with slenderbodies)",
+        "url": "https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145523,
+      "name": "Chasing Paradise (with slenderbodies)",
+      "url": "https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns"
     },
     {
       "album": {
@@ -4531,6 +4575,32 @@
       "duration_ms": 210857,
       "name": "Stay",
       "url": "https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg"
+    },
+    {
+      "album": {
+        "name": "Sentiment (The Remixes)",
+        "url": "https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        },
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235068,
+      "name": "Stay - Slow Magic Remix",
+      "url": "https://open.spotify.com/track/7311fH65MZV550TYVwRfFG"
     },
     {
       "album": {

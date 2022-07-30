@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: \bCSR(\uccab\uc0ac\ub791) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 462182,
+  "num_followers": 462288,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAwMDU4OCwwMDAwMDAwMDI2NjJhYjRiYmMzMTM5ZGQ5ZTY4MjViOWZjY2QyNmQx",
+  "snapshot_id": "MTY1OTAwMDU4OCwwMDAwMDAwMDFjNzBiNzA0ZmZlZjZiMDE0ZGMwMzc4ZGQ3ZTA5YWY4",
   "tracks": [
     {
       "added_at": "2022-07-28 09:29:48",
@@ -17,7 +17,7 @@
       "artists": [
         {
           "name": "CSR",
-          "url": "https://open.spotify.com/artist/5hWdxlGbjhzvczWTU77CQt"
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
         }
       ],
       "duration_ms": 215346,
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-07-28 09:29:48",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 181413,
-      "name": "CANDYFLOSS",
-      "url": "https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ"
-    },
-    {
-      "added_at": "2022-07-28 09:29:48",
-      "album": {
         "name": "GREAT!",
         "url": "https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 208863,
       "name": "BBoom BBoom",
       "url": "https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto"
+    },
+    {
+      "added_at": "2022-07-28 09:29:48",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 181413,
+      "name": "CANDYFLOSS",
+      "url": "https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ"
     },
     {
       "added_at": "2022-07-28 09:29:48",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-07-28 09:29:48",
       "album": {
-        "name": "Cherry Wish",
-        "url": "https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf"
+        "name": "OPEN",
+        "url": "https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t"
       },
       "artists": [
         {
-          "name": "Cherry Bullet",
-          "url": "https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ"
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Love In Space",
-      "url": "https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y"
+      "duration_ms": 199533,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
     },
     {
       "added_at": "2022-07-28 09:29:48",
@@ -915,18 +915,18 @@
     {
       "added_at": "2022-07-28 09:29:48",
       "album": {
-        "name": "OPEN",
-        "url": "https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t"
+        "name": "Cherry Wish",
+        "url": "https://open.spotify.com/album/1vcO0a7uQpoIoEjJ5lJ4Hf"
       },
       "artists": [
         {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+          "name": "Cherry Bullet",
+          "url": "https://open.spotify.com/artist/3IJCdgkBZbieocLZ4e94GZ"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
+      "duration_ms": 216973,
+      "name": "Love In Space",
+      "url": "https://open.spotify.com/track/0lML1OdwDWQIyGF3i9vk2y"
     }
   ],
   "unique_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",

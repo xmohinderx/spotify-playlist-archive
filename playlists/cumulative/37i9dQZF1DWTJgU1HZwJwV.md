@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-174 songs - 7 hr 29 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+176 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,9 @@
 | [Wallowa Lake](https://open.spotify.com/track/0viEXnrcsXF3nNj3HjROEG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Abisko](https://open.spotify.com/album/1A3JJkrUlV2FBSV6oY412c) | 3:07 | 2022-06-17 |  |
 | [Wayside](https://open.spotify.com/track/3MKIGVnGdYeYNCH9CIXc7A) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Wayside](https://open.spotify.com/album/4rHzZA0psmw7iEHjBiRb2o) | 2:13 | 2022-06-17 |  |
 | [We Wonder](https://open.spotify.com/track/722UjaEjoA9IeiHvEXrE5N) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [We Wonder](https://open.spotify.com/album/3JIEf7Gw6toZP3YOHZwAmC) | 2:08 | 2022-06-17 |  |
+| [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 |  |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 |  |
+| [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 | 2022-07-29 |  |
 | [Wohin mit der Liebe](https://open.spotify.com/track/4DdksysnXyseaRRTd45QUu) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Romantic Guitar Solos](https://open.spotify.com/album/44BPIZarbDHjvl0EkTlmQ7) | 2:50 | 2022-06-17 |  |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 |  |

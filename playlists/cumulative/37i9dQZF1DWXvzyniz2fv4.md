@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-74 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
+75 songs - 4 hr 1 min - [published](https://open.spotify.com/playlist/2lrWcdbe9E3PXlYiXY13Il)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2021-11-12 |  |
 | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8) | 4:05 | 2021-11-12 |  |
 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 | 2021-11-12 |  |
+| [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 | 2022-07-29 |  |
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 |  |
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |
 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |
@@ -70,7 +71,7 @@
 | [Sabor Cereja](https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Sabor Cereja](https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM) | 2:55 | 2021-11-12 |  |
 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 | 2021-11-12 |  |
 | [Saudade](https://open.spotify.com/track/141aDylSO3dyhM4hQerg9K) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [O Real](https://open.spotify.com/artist/1une4a81AwLBbrYmzsEtbr) | [Saudade](https://open.spotify.com/album/4hTkQ4OLY6Wm67OWJS4242) | 3:17 | 2021-11-12 |  |
-| [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 |  |
+| [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 | 2022-07-30 |
 | [Sol, Eu e Você](https://open.spotify.com/track/6EwECcMJpnRj11CXBXAjIQ) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Sol, Eu e Você](https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE) | 2:47 | 2022-04-22 | 2022-06-11 |
 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 | 2022-06-10 | 2022-06-25 |
 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 | 2021-11-12 |  |

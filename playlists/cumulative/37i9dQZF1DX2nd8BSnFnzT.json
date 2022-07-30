@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Berrini",
+        "url": "https://open.spotify.com/album/3Y8jVYw1s5O5bHSdzMrr7N"
+      },
+      "artists": [
+        {
+          "name": "Molho Negro",
+          "url": "https://open.spotify.com/artist/51aX6xmdT0iMI1FNCONTzR"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Berrini",
+      "url": "https://open.spotify.com/track/0qbgGOjkWnWrjBj91QPTsV"
+    },
+    {
+      "album": {
         "name": "Walking Dead Folia (Sorria Voc\u00ea Teve Alta!)",
         "url": "https://open.spotify.com/album/2pWSnr9tNXJsdSmVGLGdRe"
       },
@@ -467,6 +485,24 @@
       "duration_ms": 279000,
       "name": "Blue Gin e os Seres (De Vidro)",
       "url": "https://open.spotify.com/track/6vIK7qABdW4JhqWzrFcwG3"
+    },
+    {
+      "album": {
+        "name": "Boneco De Pano",
+        "url": "https://open.spotify.com/album/1qtjyZGlFZjmMwM8dBpdxP"
+      },
+      "artists": [
+        {
+          "name": "Vincy",
+          "url": "https://open.spotify.com/artist/6HlGGZw4VFdkPIFkWQnVzm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177317,
+      "name": "Boneco De Pano",
+      "url": "https://open.spotify.com/track/1OTX3bcapb6eqiNq3KxU2t"
     },
     {
       "album": {
@@ -663,7 +699,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 150760,
       "name": "Ciganinha",
       "url": "https://open.spotify.com/track/26jC94e3lcogp7fiwZImSQ"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 213900,
       "name": "Mais Que Folclore (Ao Vivo no Sonast\u00e9rio)",
       "url": "https://open.spotify.com/track/1qxD9mhGGoyUYZXh6u7sGh"
@@ -2011,7 +2047,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 173779,
       "name": "Mente Blindada",
       "url": "https://open.spotify.com/track/1V0bLFzFT6s3UYcx5buRAd"
@@ -2101,7 +2137,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 158500,
       "name": "M\u00edsseis Democr\u00e1ticos",
       "url": "https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd"
@@ -2383,6 +2419,24 @@
       "duration_ms": 150857,
       "name": "O Fara\u00f3",
       "url": "https://open.spotify.com/track/7Avx0HsCnKCq2LTNaPiyQE"
+    },
+    {
+      "album": {
+        "name": "O Infinito que Existe em Mim",
+        "url": "https://open.spotify.com/album/1tFFCFR486CDLTgznFc3yp"
+      },
+      "artists": [
+        {
+          "name": "Cefa",
+          "url": "https://open.spotify.com/artist/47nyfQJpSHM8ezSh6QATyU"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "O Infinito que Existe em Mim",
+      "url": "https://open.spotify.com/track/4AlwQo9vrbB9yTL5KqdhQ2"
     },
     {
       "album": {
@@ -2775,6 +2829,24 @@
       "duration_ms": 220498,
       "name": "Queda Livre",
       "url": "https://open.spotify.com/track/6bbJfRj9tp9BN2FTqqKzIB"
+    },
+    {
+      "album": {
+        "name": "Queima!",
+        "url": "https://open.spotify.com/album/0y1eK5Qgz9md8R9SambB6h"
+      },
+      "artists": [
+        {
+          "name": "Inocentes",
+          "url": "https://open.spotify.com/artist/5PFAm9rM4jrm1X2jPX95E2"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150066,
+      "name": "Queima!",
+      "url": "https://open.spotify.com/track/0pF769SkaUcmdqoZysvcAY"
     },
     {
       "album": {

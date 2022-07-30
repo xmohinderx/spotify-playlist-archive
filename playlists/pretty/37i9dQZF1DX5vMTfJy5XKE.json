@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
-  "num_followers": 202492,
+  "num_followers": 202467,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGI2NDdiNDAwNmE2NTgzMDk1NjU0YmExZDU4NDlmMDll",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGJiOGM4NzM2YWU5ZjQ4YjgyYmZlNzQ4MGZiYmM1OWZm",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "The Holiday",
-        "url": "https://open.spotify.com/album/5fVkqNE9160ANYbXGkLijQ"
-      },
-      "artists": [
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 183340,
-      "name": "The Holiday",
-      "url": "https://open.spotify.com/track/2aWmQcurJFRGUVQTecrNEg"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Different Christmas",
         "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 230577,
       "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
       "url": "https://open.spotify.com/track/5FZNkiHoC7fbc30acoRpfb"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "The Holiday",
+        "url": "https://open.spotify.com/album/5fVkqNE9160ANYbXGkLijQ"
+      },
+      "artists": [
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "duration_ms": 183340,
+      "name": "The Holiday",
+      "url": "https://open.spotify.com/track/2aWmQcurJFRGUVQTecrNEg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Walking in the Air",
         "url": "https://open.spotify.com/album/3NBdwkSlzVlWunZGBwxEnm"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 156265,
       "name": "Thank You Note",
       "url": "https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "A Very Teddy Christmas",
-        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
+        "name": "Everyday Is Christmas (Snowman Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 188640,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0"
+      "duration_ms": 188551,
+      "name": "Santa Visits Everyone",
+      "url": "https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "A Very Teddy Christmas",
+        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/2p97TwEVvmhVPk1rzMu1x0"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 205400,
       "name": "snowing in LA",
       "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Everyday Is Christmas (Snowman Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 188551,
-      "name": "Santa Visits Everyone",
-      "url": "https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Tinsel In The River",
-        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Francis Leftwich",
-          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
-        }
-      ],
-      "duration_ms": 169743,
-      "name": "Tinsel In The River",
-      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "merry merry",
         "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 165693,
       "name": "merry merry",
       "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Tinsel In The River",
+        "url": "https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Francis Leftwich",
+          "url": "https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ"
+        }
+      ],
+      "duration_ms": 169743,
+      "name": "Tinsel In The River",
+      "url": "https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Favorite Time of the Year",
-        "url": "https://open.spotify.com/album/2QpErxdTrByyS0zs8mBi39"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 158724,
-      "name": "Favorite Time of the Year",
-      "url": "https://open.spotify.com/track/3lGUPm3V9xk8748Ooh4qGN"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Jingle Bell Rock -Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Krampus",
-        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
+        "name": "Favorite Time of the Year",
+        "url": "https://open.spotify.com/album/2QpErxdTrByyS0zs8mBi39"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 144456,
-      "name": "Krampus",
-      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
+      "duration_ms": 158724,
+      "name": "Favorite Time of the Year",
+      "url": "https://open.spotify.com/track/3lGUPm3V9xk8748Ooh4qGN"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 191003,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Krampus",
+        "url": "https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 144456,
+      "name": "Krampus",
+      "url": "https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Wishlist",
-        "url": "https://open.spotify.com/album/5uOhXFE41n9hQl5da4DSIa"
-      },
-      "artists": [
-        {
-          "name": "Lil Xxel",
-          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Wishlist",
-      "url": "https://open.spotify.com/track/6VLmJP1iksTWbIpGZEgeGO"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Emmanuel: Christmas Songs Of Worship (Live)",
         "url": "https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 198873,
       "name": "Hallelujah - Live",
       "url": "https://open.spotify.com/track/4GZtpNptZnzGlC8LrfpQsK"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Wishlist",
+        "url": "https://open.spotify.com/album/5uOhXFE41n9hQl5da4DSIa"
+      },
+      "artists": [
+        {
+          "name": "Lil Xxel",
+          "url": "https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/6VLmJP1iksTWbIpGZEgeGO"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
-      },
-      "artists": [
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        }
-      ],
-      "duration_ms": 108630,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "It's Christmas Time",
         "url": "https://open.spotify.com/album/4AOvgUzxjWOG7S8s2pLZa6"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 190000,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6p8gI8j50Ke7Jf4jmNCk3r"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "duration_ms": 108630,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 165830,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "A Tyler Shaw Christmas",
         "url": "https://open.spotify.com/album/3ehYajj7zAyk3YdAWoL7CW"
       },
@@ -2103,18 +2087,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/51CwcTSnIJPBvWyF9z1aeZ"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
         }
       ],
-      "duration_ms": 98000,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4kzmxJ4HiMrinPH0WbRqPC"
+      "duration_ms": 165830,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2135,18 +2119,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Night Divine",
-        "url": "https://open.spotify.com/album/7AfafNZzH4Tv8vWeTyvTUS"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/51CwcTSnIJPBvWyF9z1aeZ"
       },
       "artists": [
         {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
         }
       ],
-      "duration_ms": 216160,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/7JtmuEVASuB41vjs5OkZ09"
+      "duration_ms": 98000,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/4kzmxJ4HiMrinPH0WbRqPC"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -2187,6 +2171,22 @@
       "duration_ms": 196414,
       "name": "this christmas",
       "url": "https://open.spotify.com/track/0jWIUiQMQgrKVjkPEaRjK0"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Night Divine",
+        "url": "https://open.spotify.com/album/7AfafNZzH4Tv8vWeTyvTUS"
+      },
+      "artists": [
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/7JtmuEVASuB41vjs5OkZ09"
     },
     {
       "added_at": "2021-12-24 05:00:00",

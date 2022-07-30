@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre più o meno distorte \(e, in cover, i Baobab!\)
+> Chitarre più o meno distorte \(e, in cover, Baobab!\)
 
-133 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+137 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Buttami Giù](https://open.spotify.com/track/0vAe99uZ3avcFFlLFwM7ow) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Buttami Giù](https://open.spotify.com/album/3aVWnMXssTGsU9ZVm6wgBv) | 2:54 | 2022-05-09 | 2022-07-22 |
 | [C'ho tutto un sogno Ramones](https://open.spotify.com/track/4erZfn8ZjbC6Wxi42CED12) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [C'ho tutto un sogno Ramones](https://open.spotify.com/album/7uv4i53ioio39t8xXNhXw9) | 2:28 | 2022-05-09 | 2022-05-13 |
 | [Cadetto Lin non ferma su Marte](https://open.spotify.com/track/0OVQp2V9hxMzVVqWiQZLET) | [Lantern](https://open.spotify.com/artist/0oSXdle7wTokdA7ZrVlOXW) | [Cadetto Lin non ferma su Marte](https://open.spotify.com/album/0bVd0z9PYbgKEwh7jxQDyx) | 2:15 | 2022-05-09 | 2022-06-24 |
+| [Call](https://open.spotify.com/track/494ssgQ5aHdCMcLL6NxuVy) | [You, Nothing.](https://open.spotify.com/artist/2k0ktbWdeA7hJXDFb7eUAe) | [Call](https://open.spotify.com/album/64jSauMBY9bA0g42JIy49Z) | 3:57 | 2022-07-29 |  |
 | [CALMI](https://open.spotify.com/track/11e830eTMrExk20UCGtLr2) | [GIALLORENZO](https://open.spotify.com/artist/2RLRns6qSiW71iNV3lT0yC) | [SUPER SOFT RESET](https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU) | 2:17 | 2022-05-09 | 2022-05-13 |
 | [canzo/paure](https://open.spotify.com/track/2ZUd2twmaOFOtLtzDtYDe2) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [glicine](https://open.spotify.com/album/3pVyV0QheNbKvAei5uV8lX) | 3:18 | 2022-06-23 | 2022-07-08 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
@@ -37,6 +38,7 @@
 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |
 | [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-05-09 |  |
 | [Da quando è morta pietà](https://open.spotify.com/track/0np00bUKuDmRqUYqhJyuh8) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Da quando è morta pietà](https://open.spotify.com/album/1PZokscxUN9KUbuxklf42V) | 3:24 | 2022-06-23 |  |
+| [Dance](https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Dance](https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91) | 3:06 | 2022-07-29 |  |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-05-12 | 2022-06-10 |
 | [Diverso/Uguale](https://open.spotify.com/track/0QnSjvX4FHMcmXRql6Jef5) | [I Botanici](https://open.spotify.com/artist/72su0iDNIXDPumYA4b6ARC) | [Diverso/Uguale](https://open.spotify.com/album/6zAvSlGmh5ppa8s9lupqjG) | 3:08 | 2022-05-09 | 2022-06-24 |
 | [Documentari](https://open.spotify.com/track/19b8lNcPaC9srKUjKc7Cbp) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Giuramenti](https://open.spotify.com/album/6IKfDFFZZNzNf0m5AiFRKe) | 3:16 | 2022-05-09 |  |
@@ -120,6 +122,7 @@
 | [suitable](https://open.spotify.com/track/0xLaFN3LOpWkVoKSKhPqD7) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [suitable](https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez) | 3:18 | 2022-07-21 |  |
 | [Sunflower](https://open.spotify.com/track/6jDTTi7Ebqzf2d67Rfoqph) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Sunflower](https://open.spotify.com/album/7rDVuv58Z6ZfUEOMvBD6Eb) | 3:11 | 2022-06-09 | 2022-07-01 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-12 |  |
+| [Tatuaggi](https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [Tatuaggi](https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp) | 2:42 | 2022-07-29 |  |
 | [TDC \(BoJack\)](https://open.spotify.com/track/57jUUESGFDZlaJ6IZrYCCp) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng), [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [TDC \(BoJack\)](https://open.spotify.com/album/7hd7x8eej4bWiUMAxHK7oM) | 2:37 | 2022-07-07 |  |
 | [The Light Shedder](https://open.spotify.com/track/68qqIsRN1CXGr2OC0fZWwc) | [Laeds](https://open.spotify.com/artist/0hqZLWRcPUaQ6chCgYYi7g) | [The Light Shedder](https://open.spotify.com/album/0NQGhIUUHSi7EYUq9pue06) | 6:33 | 2022-06-09 | 2022-07-20 |
 | [TI DEVI ROVINARE](https://open.spotify.com/track/4867uScJp6gPGEckidOWk1) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TI DEVI ROVINARE](https://open.spotify.com/album/29mSkfiTOynaVBxBp2E4Vh) | 2:29 | 2022-05-09 | 2022-05-20 |
@@ -141,5 +144,6 @@
 | [WHAT’S THE POINT](https://open.spotify.com/track/1vDZJzrFXuRzI0L2iYJr9A) | [Melancholia](https://open.spotify.com/artist/1y3Nbe31v5E2HV4stRgjPd) | [SLEEP MODE \(Side A\)](https://open.spotify.com/album/2qrh3fufNveJk6XWJlHOj2) | 3:36 | 2022-05-09 | 2022-07-29 |
 | [WØLF](https://open.spotify.com/track/2IFcT2vLnkFjfRAIeTIx3j) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/3WIcSy6wxoHa7CUztnrPlg) | 3:15 | 2022-07-28 |  |
 | [Wølf](https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Futurephobia](https://open.spotify.com/album/1FvZ4OAf10KWPstkToqte8) | 3:15 | 2022-06-23 | 2022-07-29 |
+| [ZERO](https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [ZERO](https://open.spotify.com/album/53XmHlZRSLn5vBenhupHfq) | 3:26 | 2022-07-29 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

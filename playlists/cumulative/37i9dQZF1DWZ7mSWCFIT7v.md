@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-252 songs - 20 hr 39 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+253 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
 | [Brainwave Technology](https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI) | [Brainwave Technology](https://open.spotify.com/album/3WoE6XpUmkqAuVnPqEFYNf) | 6:47 | 2021-10-06 |  |
 | [Breathe Cre8](https://open.spotify.com/track/4L75OEom1UKUALCLguUpig) | [Kamandi](https://open.spotify.com/artist/4pSowxoZVdsKUyTkhU9ebC) | [Breathe Cre8](https://open.spotify.com/album/41zMYJ5DfjjcseXWbqeBlR) | 3:16 | 2022-02-25 | 2022-07-15 |
-| [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 |  |
+| [Bundeena](https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s) | 4:22 | 2021-10-06 | 2022-07-30 |
 | [Cactomuzik](https://open.spotify.com/track/3PPqYHkGBUAEdAuQLsbwex) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 5:58 | 2021-10-06 | 2022-07-29 |
 | [Calion](https://open.spotify.com/track/7dPY1pM0h0iDZoJNGHnbRX) | [Anna Meredith](https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2) | [FIBS](https://open.spotify.com/album/1y9d61gXNTgG0rZl7d6IFj) | 5:06 | 2021-10-06 | 2022-07-28 |
 | [Carbonated](https://open.spotify.com/track/5d3qZ4xZv0inQK292Mmnhh) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:18 | 2021-10-06 |  |
@@ -241,6 +241,7 @@
 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 | 2021-10-06 | 2022-07-27 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 |  |
 | [Vidrio Roto](https://open.spotify.com/track/6m1VL8mzWuPnlMAogYluy0) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Vidrio Roto](https://open.spotify.com/album/3YiWqsTiIlKh5et6TMi8ft) | 4:24 | 2021-10-06 | 2022-07-29 |
+| [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-10-06 |  |
 | [Walking Through Still Air](https://open.spotify.com/track/6XrnIr2rEUh0689dUNLMkR) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 5:22 | 2021-10-06 | 2022-07-28 |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 |  |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2021-10-06 | 2022-07-27 |

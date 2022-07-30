@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-336 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+341 songs - 13 hr 4 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dreaming of Somewhere Tropical](https://open.spotify.com/track/7rJzk4p92csa8pvI2t5L4p) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P) | [Dreaming of Somewhere Tropical](https://open.spotify.com/album/6EQYc4elabIRf3noFOD7bL) | 2:09 | 2022-05-20 |  |
 | [dreams](https://open.spotify.com/track/3zwzd8lU5jBKn7cc6KySnC) | [tawnbei](https://open.spotify.com/artist/2Np0o8All4XesC4ZMGufqI), [Strong Maurice](https://open.spotify.com/artist/47gEMSfOuk4AEQbKhT0O3V), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Tomorrow](https://open.spotify.com/album/4V64FySutmmfz5MZQTSVnN) | 1:15 | 2022-05-20 |  |
 | [Dripht](https://open.spotify.com/track/0OGA7zBgWPrd0FW6au6TVN) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Dripht](https://open.spotify.com/album/27565GcAZufKzkN8Vk89WR) | 3:07 | 2022-06-17 |  |
+| [Drive Thru](https://open.spotify.com/track/4kL8zr5OONiwixDTxs1EJh) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi) | [Drive Thru](https://open.spotify.com/album/1fimtr1l0hAYZ6ESuK5szw) | 1:41 | 2022-07-29 |  |
 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 | 2022-05-20 |  |
 | [Dust till Dawn](https://open.spotify.com/track/4FTWqP9PgQ24kmVctCWREf) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Solid Centre](https://open.spotify.com/album/0z1c6gc89Bfxz9iTQDChiM) | 2:14 | 2022-05-20 |  |
 | [Dusty](https://open.spotify.com/track/1H6lcREWzGbrL9fQSfhInB) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Dusty](https://open.spotify.com/album/3O0Pka7Pg4PgoF78M8oJjZ) | 2:18 | 2022-05-20 | 2022-07-01 |
@@ -132,6 +133,7 @@
 | [Head High](https://open.spotify.com/track/62OND6iBr7fNqPE2E1MiIQ) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Head High](https://open.spotify.com/album/0bWjhVA9YFgOsOH4nVdq6h) | 2:37 | 2022-05-20 |  |
 | [Heat Wave](https://open.spotify.com/track/0C3u3qhOe64OTvfUq0MD9M) | [Floraboros](https://open.spotify.com/artist/0bGb3H70RYZZDz1O9rBteJ) | [Heat Wave](https://open.spotify.com/album/4RFCRp0VxikRWcLhjVeqim) | 2:08 | 2022-05-20 |  |
 | [Hectic As...](https://open.spotify.com/track/344yooLkCySLeDAluyw3aN) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ) | [Follow the Earworm / Hectic As...](https://open.spotify.com/album/1gUsAPJM3Q0JunaJzy95y4) | 3:19 | 2022-05-20 |  |
+| [Heels](https://open.spotify.com/track/6PGcmU02NxCXhMe0NoeImt) | [Bohèmiq](https://open.spotify.com/artist/7xJ7zpVHV5QcKdENl7caRI) | [Heels](https://open.spotify.com/album/3v67abR6XZMlTRIlQkSysv) | 3:10 | 2022-07-29 |  |
 | [Hi and Lo\(fi\)](https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 3:38 | 2022-05-20 | 2022-07-01 |
 | [High Coast Beat](https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Rhythmic Flows](https://open.spotify.com/album/5hRbJOC7CcZwjL6xhcFkNE) | 2:46 | 2022-07-15 |  |
 | [Homebound](https://open.spotify.com/track/7bqqQzMnUGjrauxOWTbZnH) | [Master Haratt](https://open.spotify.com/artist/4xXJGTAfTfLq9HqksgZHBT) | [Marie](https://open.spotify.com/album/2mmH6a8S7d07KX8gTJRX2Z) | 3:23 | 2022-05-20 |  |
@@ -146,10 +148,12 @@
 | [Inspector Fidget](https://open.spotify.com/track/6qXTQx6WNF4bL8OUqltK5T) | [Monster Guy](https://open.spotify.com/artist/6Aizv6tVH9fFMbEbS4baLY) | [Dangerous Eyes](https://open.spotify.com/album/6fNRme6o5ByiWKfVFIERFz) | 2:07 | 2022-05-20 | 2022-05-27 |
 | [ipanema](https://open.spotify.com/track/0nq0F9hwbBFbM50RpPBRNt) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [ipanema](https://open.spotify.com/album/75rTzmAFiooFCq7bAPUQCU) | 1:36 | 2022-06-17 |  |
 | [Isabellanova](https://open.spotify.com/track/0svNNQKUZNpJdY4qKEohug) | [Milken](https://open.spotify.com/artist/5fBsJKisD0865dYGu3tSpW) | [Isabellanova](https://open.spotify.com/album/17VYQwX7wBKu2K9btgCpYP) | 2:21 | 2022-05-20 | 2022-05-27 |
+| [It Takes Two](https://open.spotify.com/track/39CaGsdQPIFBA3EYFRFwSF) | [Whimsical](https://open.spotify.com/artist/451DHONJVx1M2s8koumW9G) | [It Takes Two](https://open.spotify.com/album/68OQPLk5mwFDd9r9B4wqRR) | 1:29 | 2022-07-29 |  |
 | [iykyk](https://open.spotify.com/track/1ljFw0Kwk2iYoQUeg5RAp1) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [gliding on vibes](https://open.spotify.com/album/0FsO0vZwBtOVav3LTmG274) | 2:06 | 2022-05-20 |  |
 | [JazzJoint](https://open.spotify.com/track/1BcKCvfTMW3gVOw0TAkAqI) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [JazzJoint](https://open.spotify.com/album/1HrIClYxvKNhJJ6LaRNin6) | 1:57 | 2022-06-24 | 2022-07-01 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-05-20 |  |
 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 | 2022-07-29 |  |
+| [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2022-07-29 |  |
 | [Jovial](https://open.spotify.com/track/4hCmMa1benzcqObgxDH2GU) | [still yung](https://open.spotify.com/artist/5g6oWIIspPHHUQ8c1ksVJ0) | [Jovial](https://open.spotify.com/album/4CLz4Ly8dEcRyUdp8n8nxG) | 2:12 | 2022-07-01 |  |
 | [Jukebox Dim](https://open.spotify.com/track/7CzwNHiknbQ5p7IinDOYwU) | [Talented Mr Tipsy](https://open.spotify.com/artist/3N4pp4r5dcwKJYzo01Izbc) | [Jukebox Dim](https://open.spotify.com/album/4Gva1pmVpFx1clyfOUw5Oz) | 2:18 | 2022-05-20 |  |
 | [Just Vibin’](https://open.spotify.com/track/4XqMeXDc6GrMIhKo9AIFeQ) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Just Vibin’](https://open.spotify.com/album/1sbGkDsIHzeesq8VTbdaOM) | 2:06 | 2022-05-20 |  |
@@ -276,6 +280,7 @@
 | [Summer Haze](https://open.spotify.com/track/7sTB4R9y1hyAxxA2mixs3L) | [Flimbo](https://open.spotify.com/artist/0kqL9mr7IkoVgzLpIvfUhp) | [Summer Haze](https://open.spotify.com/album/3MQOnybwcpMFWWpHfO8n7X) | 1:44 | 2022-05-20 |  |
 | [Summer Melange](https://open.spotify.com/track/1PUFsHsuNM7R2DisPccFT7) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Summer Melange](https://open.spotify.com/album/2ZfH8C7LUdMfxYZgywfF9S) | 2:20 | 2022-06-24 | 2022-07-01 |
 | [summer nights](https://open.spotify.com/track/0SrA2C6igcS4pFCiyMxHBd) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [summer nights](https://open.spotify.com/album/0Uv8XIlEnaxMd5N1E0f7jH) | 2:30 | 2022-05-27 |  |
+| [Summertime](https://open.spotify.com/track/36HaYofodzWIarkTAZ7uES) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ), [Deep Wave](https://open.spotify.com/artist/5lxKw9fGS5Sy0pvvlBWdRb) | [Summertime](https://open.spotify.com/album/2b0wxsGteOVzk5fsAjpP0X) | 2:56 | 2022-07-29 |  |
 | [Sun Burst](https://open.spotify.com/track/4hIIqxifE3o9tVbCjtIeB2) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Octavium](https://open.spotify.com/album/2wqFb3SCzoAI1mzGk1jTcN) | 1:46 | 2022-05-20 |  |
 | [sunday am](https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx) | [SLKBTS](https://open.spotify.com/artist/4hYblY3tnJxMJEPXIu1ikR) | [sunday am](https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8) | 1:58 | 2022-05-20 |  |
 | [Sunday Mornings](https://open.spotify.com/track/7sigACWgeejkcI9Q41FCue) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Sunday Mornings](https://open.spotify.com/album/5iaDKlmMD0TtfsLwMyvJJC) | 2:49 | 2022-05-27 |  |

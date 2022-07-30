@@ -1,13 +1,33 @@
 {
   "description": "The best French indie tracks right now. Cover: Oscar Anton",
-  "num_followers": 306775,
+  "num_followers": 306870,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGEyYmJkOWM0ZDIzZGVhYWIzMDNkOGRhOTBlMjAzMTIy",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDA1YjgyNDNmNGQ0YzY5OWZiM2VhMDc1MzViMGMyOGRm",
   "tracks": [
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "postcard from L.A.",
+        "url": "https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        },
+        {
+          "name": "Garrett Nash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 186194,
+      "name": "blueberry stains",
+      "url": "https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb"
+    },
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
@@ -215,6 +235,26 @@
       "duration_ms": 170097,
       "name": "Rengaine",
       "url": "https://open.spotify.com/track/11oSV1uWeXCF4jSzwpZffA"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Sans toi",
+        "url": "https://open.spotify.com/album/2jqDiAzXCYAdez5EDVnUcR"
+      },
+      "artists": [
+        {
+          "name": "Chillpac",
+          "url": "https://open.spotify.com/artist/3k8dN7ttBtz3ce20RS6BQl"
+        },
+        {
+          "name": "Cl\u00e9",
+          "url": "https://open.spotify.com/artist/6ngMTk9g830xvD6sl48tmQ"
+        }
+      ],
+      "duration_ms": 195067,
+      "name": "Sans toi",
+      "url": "https://open.spotify.com/track/26mUo1w8cTYVEk89JQVNqs"
     },
     {
       "added_at": "2022-07-28 22:01:00",

@@ -272,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Brindar\u00e9",
+        "url": "https://open.spotify.com/album/1rgpRLLaLgQnMzglyDDdoT"
+      },
+      "artists": [
+        {
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146128,
+      "name": "Brindar\u00e9",
+      "url": "https://open.spotify.com/track/4bOCInO1tVIDpylUygnA5T"
+    },
+    {
+      "album": {
         "name": "Cafecito Para Dos",
         "url": "https://open.spotify.com/album/3mocltU8GILvbWMquiATqn"
       },
@@ -705,7 +723,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 175610,
       "name": "Flow Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/3eA8t1I6hL24GnFKThKZU3"

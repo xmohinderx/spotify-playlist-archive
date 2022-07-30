@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 654952,
+  "num_followers": 655326,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMDViZjk0NzY0MDRhMmYxMDEzODY4NGViZjZmYTA5ZWQ0",
+  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMGM5YzI1MWEyNDAzNDRmMmM1NjM3YWFmZmJiYjRlYWMx",
   "tracks": [
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Treasure Chest (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Forever & One",
-      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Sound of White Noise - Expanded Edition",
         "url": "https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 296306,
       "name": "Only",
       "url": "https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Treasure Chest (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/1AikzyggH724jKtyzwJ2ii"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Forever & One",
+      "url": "https://open.spotify.com/track/3pb35jSVs2dWAXd6Tfx8o6"
     },
     {
       "added_at": "2022-02-22 20:15:32",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
     },
     {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Colony",
-        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Ordinary Story",
-      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
-    },
-    {
       "added_at": "2022-07-13 14:14:39",
       "album": {
         "name": "www.pitchshifter.com",
@@ -1995,6 +1979,22 @@
       "duration_ms": 246506,
       "name": "Genius",
       "url": "https://open.spotify.com/track/4GtKwWPKlVWrhmCmOGFb51"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Colony",
+        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Ordinary Story",
+      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 373200,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Transilvanian Hunger",
         "url": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 369760,
       "name": "Transilvanian Hunger - Studio",
       "url": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373200,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2Mv8In1IykWH5oLDc66PRC"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2269,22 +2269,6 @@
       "url": "https://open.spotify.com/track/01cGujYWGF7JchJLSgf6Ta"
     },
     {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Set The World On Fire",
-        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
-      },
-      "artists": [
-        {
-          "name": "Annihilator",
-          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Phoenix Rising",
-      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
-    },
-    {
       "added_at": "2022-07-13 14:14:39",
       "album": {
         "name": "The Crimson Idol",
@@ -2299,6 +2283,22 @@
       "duration_ms": 523346,
       "name": "Chainsaw Charlie(Murders In The New Morgue)",
       "url": "https://open.spotify.com/track/7IZ6a9jFVrtGZKW1yvUhfi"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Set The World On Fire",
+        "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
+      },
+      "artists": [
+        {
+          "name": "Annihilator",
+          "url": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Phoenix Rising",
+      "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2365,22 +2365,6 @@
       "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
     },
     {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "1916",
-        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 85866,
-      "name": "Ramones",
-      "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
-    },
-    {
       "added_at": "2022-07-13 14:14:39",
       "album": {
         "name": "Lights...Camera...Revolution",
@@ -2395,6 +2379,22 @@
       "duration_ms": 202160,
       "name": "Send Me Your Money",
       "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "1916",
+        "url": "https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 85866,
+      "name": "Ramones",
+      "url": "https://open.spotify.com/track/2Q0Tw6meB6xfZ4ONeIL35j"
     },
     {
       "added_at": "2022-07-13 14:14:39",

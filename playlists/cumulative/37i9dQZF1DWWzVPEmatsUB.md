@@ -4,7 +4,7 @@
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-251 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
+253 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/28RD6nYufPNLui4c84uOdv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,10 +14,10 @@
 | [A Hand, A Heart \- 2021](https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [A Hand, A Heart \(2021\)](https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9) | 4:28 | 2022-01-07 | 2022-06-28 |
 | [A Thousand Ringing Bells](https://open.spotify.com/track/5ycP3ywAnIdtTGVEZYH4zp) | [Uri Sade](https://open.spotify.com/artist/7y3eEKZ2Z7P8DBNmIMq9nj) | [No Trace of Sound](https://open.spotify.com/album/1GYrBSrl5eRPAFMFQpiq4T) | 3:55 | 2020-10-17 | 2022-04-20 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-06-17 | 2022-07-29 |
-| [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2020-10-17 |  |
+| [Adeline](https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 3:32 | 2020-10-17 | 2022-07-30 |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 |  |
 | [Almost Grown](https://open.spotify.com/track/5lTPGDWxdEKVRc4gKpUPmg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Living Room](https://open.spotify.com/album/0cI6FYd7CETgvwLQ8j7Y8P) | 5:25 | 2020-10-17 | 2022-04-19 |
-| [Along The Way](https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Along The Way](https://open.spotify.com/album/51GIJNNbbCHmB2C9qWTEOK) | 2:43 | 2022-07-22 |  |
+| [Along The Way](https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi) | [Jason LaPierre](https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060), [eda](https://open.spotify.com/artist/6GV7n7CYZreVNKXNSF1mMI) | [Along The Way](https://open.spotify.com/album/51GIJNNbbCHmB2C9qWTEOK) | 2:43 | 2022-07-22 | 2022-07-30 |
 | [Amazing \- Strings Version](https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Amazing \(Strings Version\)](https://open.spotify.com/album/0eVwqZNTNaLpBvD95NiN2d) | 2:58 | 2022-02-11 |  |
 | [Any Way You Come \- Bonus Track](https://open.spotify.com/track/2Sn0qoBNjyQsbkrYOA2KB8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/6tOEg8pBcr1IKImNngQHkc) | 3:25 | 2022-05-06 | 2022-05-14 |
 | [Apparition](https://open.spotify.com/track/5xdfqTkWR6cUDURutACDhv) | [Blue Americans](https://open.spotify.com/artist/3opCzUejI73CIE2pZtKtKw) | [Apparition](https://open.spotify.com/album/3iztHG3O9JPbdH1hUIf4uu) | 3:53 | 2020-10-17 | 2022-04-21 |
@@ -34,6 +34,7 @@
 | [Beyond](https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:00 | 2020-10-17 |  |
 | [Blindsided](https://open.spotify.com/track/3Bcr5fRN2SQ0jIVWsJHes8) | [Charlotte Leigh](https://open.spotify.com/artist/7yifAbF2E8xMhw1UMnuw0r) | [Blindsided](https://open.spotify.com/album/21NvjYBnFikMWyL3fUY0jg) | 4:20 | 2020-10-17 | 2022-07-25 |
 | [Blowing Smoke](https://open.spotify.com/track/0x3yozQ8ntRKUr01fuUOPb) | [Zoelly](https://open.spotify.com/artist/56WkhHzuLegttsJgSH3ZiS) | [Blowing Smoke](https://open.spotify.com/album/0HISdru4aULgMWp4wOaEeo) | 3:27 | 2020-10-17 | 2022-04-21 |
+| [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-07-29 |  |
 | [Boomerang](https://open.spotify.com/track/5w9v5W4XB4BOoggvSw40oG) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Boomerang](https://open.spotify.com/album/1qPgXIuWBOKDz4cIuUYQ14) | 3:00 | 2020-10-17 | 2022-04-20 |
 | [Bound Together](https://open.spotify.com/track/2ISgPZhbeqTrJFlSOMwrjF) | [Kate York](https://open.spotify.com/artist/5wONG6j4El6k5iOXQdA0Ha), [VANYO](https://open.spotify.com/artist/1tT41Z0xsuLnhKgbXZKp8j) | [Bound Together](https://open.spotify.com/album/2LEozleqKW3vJSoF5xlD4y) | 3:33 | 2020-10-17 | 2022-04-16 |
 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 | 2022-04-08 | 2022-07-28 |
@@ -151,6 +152,7 @@
 | [Making Room](https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH) | [Kelly Schenk](https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk) | [Making Room](https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt) | 4:19 | 2021-01-22 | 2022-07-29 |
 | [Maybe I Do](https://open.spotify.com/track/33Yo16lC0glS0lYgRTxpLD) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Maybe I Do](https://open.spotify.com/album/1Nouwpgvi7Oi1PMxNFIB2W) | 3:28 | 2020-10-17 | 2022-04-19 |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 |  |
+| [Mending](https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Mending](https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi) | 3:54 | 2022-07-29 |  |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 |  |
 | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Midnight River \(feat\. 6LACK\)](https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx) | 3:04 | 2021-12-10 |  |
 | [Missing You Feels Right](https://open.spotify.com/track/0gEJwYN6aGOaPlAXxfGwDg) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [Missing You Feels Right](https://open.spotify.com/album/0Pee6blyLwIG0DNI7kwY9S) | 3:15 | 2022-06-10 | 2022-06-18 |

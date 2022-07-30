@@ -1784,6 +1784,66 @@
     },
     {
       "album": {
+        "name": "Melhor Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Melhor Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz"
+    },
+    {
+      "album": {
+        "name": "Metflix",
+        "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Metflix",
+      "url": "https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK"
+    },
+    {
+      "album": {
         "name": "Mini Game",
         "url": "https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh"
       },
@@ -1803,7 +1863,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 138855,
       "name": "Mini Game",
       "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
@@ -2225,7 +2285,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 194884,
       "name": "Oompa Loompa",
       "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"

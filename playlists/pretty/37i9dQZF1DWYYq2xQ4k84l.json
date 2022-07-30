@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 10788,
+  "num_followers": 10833,
   "original_name": "Latin Hits: 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMDJjNWNlMTFmYzNjZDMwOThiYzliN2YwZmFkZjU5ZTQ4",
+  "snapshot_id": "MTY0MDIxNjYxNSwwMDAwMDAwMDE3MGU0NWRlYmVlNTg3YTBhY2NjMTliYzlkMDRiN2Q1",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 318760,
-      "name": "Volando Entre Tus Brazos - Salsa Version",
-      "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
-    },
-    {
-      "added_at": "2021-12-22 23:41:59",
-      "album": {
         "name": "Recu\u00e9rdame Con Cartas Y Algo M\u00e1s... Los Exitos (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 266040,
       "name": "Algo M\u00e1s",
       "url": "https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF"
+    },
+    {
+      "added_at": "2021-12-22 23:41:59",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 318760,
+      "name": "Volando Entre Tus Brazos - Salsa Version",
+      "url": "https://open.spotify.com/track/5oMecwx9BcU6wacLtnBjpo"
     },
     {
       "added_at": "2021-12-22 23:41:59",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
+  "description": "Funk. But heavier. Cover: King's X",
   "name": "Funk Rock",
   "published_playlist_ids": [
     "1KTxmWuvQtnOhdeEbvCNuK"
@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx"
+      },
+      "artists": [
+        {
+          "name": "King's X",
+          "url": "https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179959,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/1fob4CISofwxucGAjaXI14"
+    },
+    {
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i"
       },
@@ -631,7 +649,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"

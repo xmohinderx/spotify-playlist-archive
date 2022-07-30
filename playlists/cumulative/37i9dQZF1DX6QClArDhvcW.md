@@ -4,7 +4,7 @@
 
 > Laid\-back beats for an easygoing morning.
 
-198 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
+201 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/12agLavhB21B7hX1nj1r3c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2022-05-20 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 |  |
 | [life is a balloon](https://open.spotify.com/track/2GoAhMIvnZ1n7ZEqj7jrAa) | [frek!](https://open.spotify.com/artist/00vQreQBu9wC4dQCmHWJin) | [comic sans](https://open.spotify.com/album/5pG11FB3kK2GNbFpW4w6Vu) | 1:44 | 2022-05-20 |  |
+| [light](https://open.spotify.com/track/0gVICqppHibNGhptGLJ0W5) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [light](https://open.spotify.com/album/5mSh2CSilJ2RE8nkA80nVr) | 1:25 | 2022-07-29 |  |
 | [Lonesome](https://open.spotify.com/track/4lV7chcdj3OH3Hg97L7Rli) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lonesome](https://open.spotify.com/album/5iO1n0DfhbvzySEYCGZqyn) | 2:35 | 2022-05-20 |  |
 | [lost memories](https://open.spotify.com/track/1dpmFHAy4bxWpWjOJPt33n) | [minor5](https://open.spotify.com/artist/59n0ix9TW7WoF1LCr1og2g) | [lost memories](https://open.spotify.com/album/7xAPf47vM4zzTL2EPy8GHt) | 2:27 | 2022-05-20 |  |
 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2022-05-20 |  |
@@ -110,6 +111,7 @@
 | [Mint](https://open.spotify.com/track/3X25fIddwnzr7YYooU9bR5) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Mint](https://open.spotify.com/album/0ClDcnu6twQ1uxxKFTPdOp) | 1:43 | 2022-05-20 |  |
 | [missing title](https://open.spotify.com/track/460zCsgqPJQ5QsIuyFKJGF) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [missing title](https://open.spotify.com/album/6OsnO0s3ZIV4P770J43a0H) | 2:07 | 2022-05-20 | 2022-05-27 |
 | [Missing You](https://open.spotify.com/track/0IhDHRbFUfg3MaG1iQUClb) | [Tru Beri](https://open.spotify.com/artist/5ycHMRtAIjlIQ2P5NMvI5k) | [Missing You](https://open.spotify.com/album/3qjbuBW6voCrKP8N2xvqGQ) | 1:36 | 2022-05-20 | 2022-06-25 |
+| [Misty](https://open.spotify.com/track/482jgUtNalNOBuOC9XAuJu) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Misty](https://open.spotify.com/album/28l4AuuySCumrAxCvlic76) | 1:57 | 2022-07-29 |  |
 | [modern grooves](https://open.spotify.com/track/7eZLYuZNekoxGxjMBQ8ACl) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [modern grooves](https://open.spotify.com/album/0fOAKYEVrzvIGkWEs1fMfl) | 1:36 | 2022-05-20 |  |
 | [Mojo Verde](https://open.spotify.com/track/7C5rBLWSf3LGhzdDRtc6N0) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [MiDN8](https://open.spotify.com/artist/4SoTXSB2YaVSAlZcVTVuB4) | [Mojo Verde](https://open.spotify.com/album/2bNT9ISI6uvOBtJfCvPyqi) | 2:07 | 2022-05-20 |  |
 | [Moments](https://open.spotify.com/track/2orQeWCO78FtSABvIQUGEm) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Moments](https://open.spotify.com/album/4StaVJk2hB5quXUZp31uoR) | 2:44 | 2022-05-20 | 2022-05-27 |
@@ -145,6 +147,7 @@
 | [right now, huh?](https://open.spotify.com/track/3O1LaaHCHuombngwVBOOlE) | [shapeofbeatz](https://open.spotify.com/artist/4FsGtMHS0hniDPi7GjMvj5) | [right now, huh?](https://open.spotify.com/album/17b7BjWkdfP68m9WPOluWi) | 2:13 | 2022-05-20 |  |
 | [Ring Wear Saga](https://open.spotify.com/track/0yHJnXAQTNmFMjyFdppNBP) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Golden Crates](https://open.spotify.com/album/04Mhn8ivVvZStXmwoOMT9d) | 2:15 | 2022-05-20 | 2022-05-27 |
 | [Riverside](https://open.spotify.com/track/2sgjopd4amh7swhXSbjAxJ) | [Syndrome](https://open.spotify.com/artist/0aoTIxQJvGyH2vLza8yOe5) | [Riverside](https://open.spotify.com/album/3w8j6o0sPdCDgUrYpLWYeZ) | 1:18 | 2022-05-20 |  |
+| [Roads](https://open.spotify.com/track/08WS0U9E3nnBrDJ8gIjyI0) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Roads](https://open.spotify.com/album/7F96yKUVXqAIw0CCcFdCSp) | 2:05 | 2022-07-29 |  |
 | [Room Plant](https://open.spotify.com/track/7jyPQLKbfRIo2VOlr0Aepf) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Room Plant](https://open.spotify.com/album/7ISq9AgKctHdHPufspniwV) | 2:38 | 2022-05-20 |  |
 | [Round and Round](https://open.spotify.com/track/3gYn7Jul0vLyATg45b5gcx) | [Fox and Hounds](https://open.spotify.com/artist/1SSyBpR4c7ItGstC9MR3s3) | [Round and Round](https://open.spotify.com/album/1eQ9TkLrBoY5q0iFZJjc2L) | 2:17 | 2022-05-20 |  |
 | [Rowing on](https://open.spotify.com/track/4RiiDpKYsa4cWSFgQlNvX8) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Rowing on](https://open.spotify.com/album/3gIUL8SRRQnENtFmvCGagf) | 2:29 | 2022-05-20 |  |

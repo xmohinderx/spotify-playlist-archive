@@ -1,12 +1,12 @@
 {
   "description": "Cruise to the smooth grooves of these yacht rock tunes",
-  "num_followers": 1241610,
+  "num_followers": 1242177,
   "original_name": "Yacht Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzNDg5OSwwMDAwMDAwMGI4ZGJkYWU3NDQwMmFmZThiODdjZDViNjU4NDRlYWU5",
+  "snapshot_id": "MTY1OTAzNDg5OSwwMDAwMDAwMDZkNWFhZWQzNGZlMWE4NmUxNDA1NGQ5ZTlmZmM3Mjlj",
   "tracks": [
     {
       "added_at": "2022-07-28 19:01:39",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Stumblin' In (2017 Remaster)",
+        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
+      },
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        },
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 239611,
+      "name": "Stumblin' In - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -811,42 +831,6 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Stumblin' In (2017 Remaster)",
-        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
-      },
-      "artists": [
-        {
-          "name": "Chris Norman",
-          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
-        },
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 239611,
-      "name": "Stumblin' In - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/51XjnQQ9SR8VSEpxPO9vrW"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240293,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/5DQAHkO9U4IZIombHefcqK"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1035,6 +1019,54 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Thunder Island",
+        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
+      },
+      "artists": [
+        {
+          "name": "Jay Ferguson",
+          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Thunder Island",
+      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
+        "name": "Keep The Fire",
+        "url": "https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 236733,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -1051,22 +1083,6 @@
       "duration_ms": 222333,
       "name": "The Girl Is Mine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/4IT6vDuKprKl6jyVndlY8V"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Thunder Island",
-        "url": "https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj"
-      },
-      "artists": [
-        {
-          "name": "Jay Ferguson",
-          "url": "https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Thunder Island",
-      "url": "https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1119,6 +1135,22 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
+        "name": "Time Passages",
+        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
+      },
+      "artists": [
+        {
+          "name": "Al Stewart",
+          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
+        }
+      ],
+      "duration_ms": 403040,
+      "name": "Time Passages",
+      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2022-07-28 19:01:39",
+      "album": {
         "name": "A Decade Of Steely Dan",
         "url": "https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P"
       },
@@ -1135,8 +1167,8 @@
     {
       "added_at": "2022-07-28 19:01:39",
       "album": {
-        "name": "Keep The Fire",
-        "url": "https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B"
+        "name": "High Adventure",
+        "url": "https://open.spotify.com/album/1BbFSjGKKbiJqJSkfvaKtA"
       },
       "artists": [
         {
@@ -1144,25 +1176,9 @@
           "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 236733,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Time Passages",
-        "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
-      },
-      "artists": [
-        {
-          "name": "Al Stewart",
-          "url": "https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC"
-        }
-      ],
-      "duration_ms": 403040,
-      "name": "Time Passages",
-      "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+      "duration_ms": 322333,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/2KaA0Tgl3RmQLzcvLEtzLH"
     },
     {
       "added_at": "2022-07-28 19:01:39",
@@ -1227,22 +1243,6 @@
       "duration_ms": 209106,
       "name": "Cool Cat - Remastered 2011",
       "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2022-07-28 19:01:39",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
     }
   ],
   "unique_name": "Yacht Rock",

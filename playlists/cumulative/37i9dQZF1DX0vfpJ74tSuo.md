@@ -4,7 +4,7 @@
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-95 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
+96 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/552CTfC4M9l0JV14ohVvHI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cherry](https://open.spotify.com/track/5cENc0N9NpJJB7FggcMjyS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/4GIeoRcpLeLwgxQK8jo183) | 3:21 | 2022-07-08 |  |
 | [Cherry](https://open.spotify.com/track/5JOWR8OXp4FcpDcsxL8lZr) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Troubadour](https://open.spotify.com/album/1dP4dfdYnGaYTt1gYWqOSA) | 3:22 | 2022-05-25 | 2022-07-29 |
 | [Cherry Ball Blues](https://open.spotify.com/track/5nemuTv30p5MXTWDLGtBKZ) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Boomer's Story](https://open.spotify.com/album/2qmP1z6Tehnaz5DpE67Jlz) | 4:13 | 2022-05-25 | 2022-07-29 |
+| [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 | 2022-07-29 |  |
 | [Crow Jane](https://open.spotify.com/track/4VWlYHwHZkBQbyV7wWeaDe) | [Skip James](https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ) | [Skip James Live Vol\. 2 Bloomington 1968 Part 1](https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM) | 2:23 | 2022-05-27 | 2022-06-11 |
 | [Dengue Woman Blues](https://open.spotify.com/track/76l8o9qZ4tnUAyMF9Y9qRI) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [From Dusk Till Dawn \- Music From The Motion Picture](https://open.spotify.com/album/0hlyemXrKRyStIVw2O8S7f) | 6:23 | 2022-05-27 | 2022-07-15 |
 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 | 2022-07-08 |  |
@@ -57,7 +58,7 @@
 | [I'm In The Mood](https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 2:47 | 2022-07-08 |  |
 | [I'm Ready](https://open.spotify.com/track/4QM6qrv9YWRW4RoXzKlE1X) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [The Cause of It All](https://open.spotify.com/album/2WAU3S7XbRV3DPSaC00woq) | 2:17 | 2022-05-27 | 2022-07-28 |
 | [I'm Satisfied](https://open.spotify.com/track/6YWXv1B0n4jktNLb6LJ2QN) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 2:55 | 2022-05-25 | 2022-07-29 |
-| [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY) | 3:53 | 2022-05-25 |  |
+| [Jim Lee Blues Pt\. 1](https://open.spotify.com/track/2oFXxguURs0SvqQH6zxNf6) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Wild Heart](https://open.spotify.com/album/2KNgILAvTcaCq0ZMcpQtLY) | 3:53 | 2022-05-25 | 2022-07-30 |
 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 | 2022-05-25 |  |
 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 | 2022-05-25 |  |
 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 | 2022-05-25 |  |

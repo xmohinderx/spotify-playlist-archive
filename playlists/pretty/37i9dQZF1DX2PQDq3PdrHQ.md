@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,272 likes - 181 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,627 likes - 190 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,13 +181,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 171 | [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 |
 | 172 | [memories are all that is left](https://open.spotify.com/track/3LwFzfw1f2P3ROzc02Cdth) | [GAB5](https://open.spotify.com/artist/6mmtaBpQJZSynqYsbln6Sk) | [memories are all that is left](https://open.spotify.com/album/7pwZsdbbtxNsqMmnhgNtPQ) | 2:22 |
 | 173 | [bread timer](https://open.spotify.com/track/1LEMyrWFF9OP6C2V4b7tdv) | [skwabble](https://open.spotify.com/artist/2nXpiS1kIldCqmgGtYpPvr) | [bread timer](https://open.spotify.com/album/2KWvj66QMKOylLCjfr7GDk) | 1:31 |
-| 174 | [Roots](https://open.spotify.com/track/2pXcmoCWm36Z9AefDRBfOi) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo), [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Roots](https://open.spotify.com/album/4Jrb0JkxPR6TIeDTgS1eQR) | 2:22 |
-| 175 | [Tinkerer](https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo) | [Svedje](https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89) | [Tinkerer](https://open.spotify.com/album/4FyPos8muBshzBWUqHburL) | 2:36 |
-| 176 | [Anubi](https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c) | [DNH Missile](https://open.spotify.com/artist/1TLVJpSimMMm35fNj4x0lO) | [Anubi](https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG) | 2:20 |
-| 177 | [Daydream](https://open.spotify.com/track/01gw6iKmRtyoFFvET5N90k) | [Jonau](https://open.spotify.com/artist/3iQJ6BMlhaKpviuBveR0cL), [Jersy K](https://open.spotify.com/artist/7jTOgoEq9CR9usJbJHFgmD) | [Feelings](https://open.spotify.com/album/2xf7kqBvFUtgS1iLzVu3JR) | 2:35 |
-| 178 | [Sleepless Night](https://open.spotify.com/track/3NzKAPEZA4my9KzPaLtn4e) | [Neutrin05](https://open.spotify.com/artist/219vvFf3eeeiUj5aJNZRDv) | [Sleepless Night](https://open.spotify.com/album/4ckxETQSIEP0SVpZjhTJJh) | 2:59 |
-| 179 | [Tranquil](https://open.spotify.com/track/2dmsvwafPZwBKp4Q56xi2U) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Tranquil](https://open.spotify.com/album/6pzVCUNAgG9dahUd5AqRZ5) | 2:35 |
-| 180 | [Dream Chaser](https://open.spotify.com/track/6ieQhFBkwB4dkMyDKPmmS6) | [New Sound](https://open.spotify.com/artist/0r2LDBDkfj8kqUqizjqbqA) | [Dream Chaser](https://open.spotify.com/album/0gifATai0kqn6RkcWGUhzC) | 2:09 |
-| 181 | [solace](https://open.spotify.com/track/689et48B4RIHI8r8lMr6sn) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [solace](https://open.spotify.com/album/770PTJ3CfI3VXAOuhS6uRg) | 2:28 |
+| 174 | [Frozen](https://open.spotify.com/track/2tAWnElI51qV9OiACwqjsE) | [Parth](https://open.spotify.com/artist/4zwPxQ2RjoZaHRiorx99i6) | [Frozen](https://open.spotify.com/album/3X1O96QvA0tjpoB9Um6Abj) | 1:56 |
+| 175 | [dream on](https://open.spotify.com/track/5RnjnsMxNLGqRCzbiKR2IB) | [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [dream on](https://open.spotify.com/album/17GDntxHpGGeIeTSZkHwjQ) | 2:03 |
+| 176 | [pancakes](https://open.spotify.com/track/6LjIGalsAAcdWhhzGkGBG8) | [MkBr](https://open.spotify.com/artist/1RSNXqCOEBQO3TLipKENnN) | [pancakes](https://open.spotify.com/album/3Rt3hD0sBnna9q9VUWjF7m) | 2:42 |
+| 177 | [Mornings With You](https://open.spotify.com/track/4jrtlcoTf8PqTKRS4QhlCh) | [Parth](https://open.spotify.com/artist/4zwPxQ2RjoZaHRiorx99i6), [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7), [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt) | [Mornings With You](https://open.spotify.com/album/2RAEs8GPBkmOEmTBHh26Jx) | 2:35 |
+| 178 | [Dawn](https://open.spotify.com/track/36BMjs8wDcpQZjRcipxlgx) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Dawn](https://open.spotify.com/album/0kPlC8bFxLBcTsdavgWq2j) | 1:44 |
+| 179 | [Trembling](https://open.spotify.com/track/5Fiq44HhtwbgxPNf16GvDt) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Tranquil Teddy](https://open.spotify.com/artist/52Mg3MSOqtZjEWuhJcsaU0) | [Trembling](https://open.spotify.com/album/5vTlSDu9yFdrwORVSgPqsz) | 2:12 |
+| 180 | [Into Something](https://open.spotify.com/track/0K124bhiSGNXvyEjfKF79Q) | [Akīn](https://open.spotify.com/artist/1KIGjwZj1Iojrjpf9FPrfS), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE), [Afternoon In Stereo](https://open.spotify.com/artist/2eYljohSyHpRPrMM5sN8k8) | [Into Something](https://open.spotify.com/album/7uPdRYuSrTvCTH32uwBWIX) | 2:05 |
+| 181 | [Roots](https://open.spotify.com/track/2pXcmoCWm36Z9AefDRBfOi) | [Elsei](https://open.spotify.com/artist/50w62qMAnHcGIIFsUdEReo), [Nice Pajamas](https://open.spotify.com/artist/2CB4k7eCe8jw8Axug9BN1n), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Roots](https://open.spotify.com/album/4Jrb0JkxPR6TIeDTgS1eQR) | 2:22 |
+| 182 | [Levitation](https://open.spotify.com/track/15tIB5MPquBcVd4pAVlzm1) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Iamcloud](https://open.spotify.com/artist/6bzWspcEBMECSYiZ4ynQCK) | [Levitation](https://open.spotify.com/album/7FDZ1msGocxP3eXJejfDN2) | 2:03 |
+| 183 | [Blue Moon](https://open.spotify.com/track/3TsxrZqyNETdeBmnV1G3Kz) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Blue Moon](https://open.spotify.com/album/4YWuyN8kbgJr4jKC40LnAc) | 2:56 |
+| 184 | [Tinkerer](https://open.spotify.com/track/6L83ooUIEa5RyayCgTgnSo) | [Svedje](https://open.spotify.com/artist/0IWHtpPrewzL4qFOOuUk89) | [Tinkerer](https://open.spotify.com/album/4FyPos8muBshzBWUqHburL) | 2:36 |
+| 185 | [Anubi](https://open.spotify.com/track/0cU8gpCcNiExEN7Vr2xv9c) | [DNH Missile](https://open.spotify.com/artist/1TLVJpSimMMm35fNj4x0lO) | [Anubi](https://open.spotify.com/album/48xyLuyOMnWyrfatEfSQSG) | 2:20 |
+| 186 | [Daydream](https://open.spotify.com/track/01gw6iKmRtyoFFvET5N90k) | [Jonau](https://open.spotify.com/artist/3iQJ6BMlhaKpviuBveR0cL), [Jersy K](https://open.spotify.com/artist/7jTOgoEq9CR9usJbJHFgmD) | [Feelings](https://open.spotify.com/album/2xf7kqBvFUtgS1iLzVu3JR) | 2:35 |
+| 187 | [Sleepless Night](https://open.spotify.com/track/3NzKAPEZA4my9KzPaLtn4e) | [Neutrin05](https://open.spotify.com/artist/219vvFf3eeeiUj5aJNZRDv) | [Sleepless Night](https://open.spotify.com/album/4ckxETQSIEP0SVpZjhTJJh) | 2:59 |
+| 188 | [Tranquil](https://open.spotify.com/track/2dmsvwafPZwBKp4Q56xi2U) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Tranquil](https://open.spotify.com/album/6pzVCUNAgG9dahUd5AqRZ5) | 2:35 |
+| 189 | [Dream Chaser](https://open.spotify.com/track/6ieQhFBkwB4dkMyDKPmmS6) | [New Sound](https://open.spotify.com/artist/0r2LDBDkfj8kqUqizjqbqA) | [Dream Chaser](https://open.spotify.com/album/0gifATai0kqn6RkcWGUhzC) | 2:09 |
+| 190 | [solace](https://open.spotify.com/track/689et48B4RIHI8r8lMr6sn) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [solace](https://open.spotify.com/album/770PTJ3CfI3VXAOuhS6uRg) | 2:28 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGZlNWUyZmQ5ZmQ5NGQ3YjBjYTdkOTRjNjI0MDA5ZjZm`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDk4MDM1ZTQwMWQzZTVlZjljODg0MGU3Nzc4ZmMwZmYy`

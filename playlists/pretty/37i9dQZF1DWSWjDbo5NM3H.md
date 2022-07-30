@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 
 > This is the official partnership playlist for JTBC 'Famous Singers\-Battle Again'\. \(JTBC  '유명가수전\-배틀 어게인'의 공식 파트너십 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571 likes - 204 songs - 12 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,573 likes - 204 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWjDbo5NM3H.md) - [plain]
 | 20 | [Shake \- Live](https://open.spotify.com/track/70u1cegwxHgpubSGoee101) | [Chae Yeon](https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.9](https://open.spotify.com/album/76zwSUpdcDC69SxuVgS6LV) | 3:47 |
 | 21 | [Sea Of Love \- Live](https://open.spotify.com/track/5s2I6q0yekgBl53qgxpRCL) | [Kim Seongyun](https://open.spotify.com/artist/5myugmwFYzUl8aDRBlZqiT), [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk), [정지찬](https://open.spotify.com/artist/3MCbTv2MF1FSJHegOQ5VIs) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 3:49 |
 | 22 | [I am a fool \- Live](https://open.spotify.com/track/0zeS2lqr4cmOrcSo9zJK2X) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:03 |
-| 23 | [라라라 \- Live](https://open.spotify.com/track/10MeQatXX0NJ8qE8JH2eB3) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK), [안다은](https://open.spotify.com/artist/0CY974U4NGFzqxu7nfSpL2) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:43 |
+| 23 | [라라라 \- Live](https://open.spotify.com/track/10MeQatXX0NJ8qE8JH2eB3) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK), [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:43 |
 | 24 | [휠릴리 \- Live](https://open.spotify.com/track/4dqF1ogDWdne9aLaTbdbSV) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Famous Singers \- Battle Again Pt.7](https://open.spotify.com/album/61O6NHr2YcdJI8fa4itXF9) | 4:52 |
-| 25 | [Resignation \- Live](https://open.spotify.com/track/4VCRPT98YtPWAIx8K2Hsib) | [안다은](https://open.spotify.com/artist/0CY974U4NGFzqxu7nfSpL2) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 5:47 |
+| 25 | [Resignation \- Live](https://open.spotify.com/track/4VCRPT98YtPWAIx8K2Hsib) | [An da eun](https://open.spotify.com/artist/6ZcalrBn09MQ4bnGAmaxA9) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 5:47 |
 | 26 | [Missing You \- Live](https://open.spotify.com/track/5JumuTdslDHcQ0MoMkEs22) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp), [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 4:43 |
 | 27 | [Man \(Origianl : Woman\) \- Live](https://open.spotify.com/track/4X8MIWp3G29zqNLlzF6nQ3) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.4](https://open.spotify.com/album/4YxrAYGzesavXEuhZ5mrzu) | 4:28 |
 | 28 | [A Guy Like me \- Live](https://open.spotify.com/track/23fT7CfKjIeHA28sqbiYfJ) | [Park Hyun Kyu](https://open.spotify.com/artist/7oRAFTdpBzke3XC2OXraJK) | [Famous Singers \- Battle Again Pt.6](https://open.spotify.com/album/2rnnyam1jc6BGwji7aFYYe) | 4:25 |

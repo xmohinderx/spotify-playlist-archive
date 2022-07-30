@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,811 likes - 119 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,875 likes - 116 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 114 | [Activa](https://open.spotify.com/track/6N3eomntFWFEpEjhksxYvc) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Bendecido](https://open.spotify.com/album/68P9rLPO8P6EPL3aBGs1ZV) | 3:41 |
 | 115 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |
 | 116 | [Relax](https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Relax](https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3) | 3:26 |
-| 117 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
-| 118 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
-| 119 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MTY1MTYxNzU4OSwwMDAwMDAwMDUwOGI3ZmY4MGJhOTM5Mjg1MTc1MzIxNmYyN2IxYmJl`
+Snapshot ID: `MTY1MTYxNzU4OSwwMDAwMDAwMDZhNDU0NjZlMmUwNGMzMTZkZjU5MjA0MTMxMDI3NDRh`

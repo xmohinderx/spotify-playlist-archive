@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this? Cover: Mac Miller 🕊
 
-166 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
+167 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/4c9h9hZs4oLmLgvuiXYoN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Everyday Struggle \- 2005 Remaster](https://open.spotify.com/track/3bOvAqhaZNSWpGVIvHEx8B) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 | 2022-05-13 |  |
 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 | 2022-04-29 |  |
 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 | 2022-06-03 |  |
-| [Floorin](https://open.spotify.com/track/6juovvuqH2FOBn6cycxbKp) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Floorin](https://open.spotify.com/album/3JlUb8fEJKQO2YHfmuARWP) | 2:58 | 2022-07-01 |  |
+| [Floorin](https://open.spotify.com/track/6juovvuqH2FOBn6cycxbKp) | [Kris the $pirit](https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H) | [Floorin](https://open.spotify.com/album/3JlUb8fEJKQO2YHfmuARWP) | 2:58 | 2022-07-01 | 2022-07-30 |
 | [FlyerThanThis](https://open.spotify.com/track/43lHmHYNVFZ6Nj1PVmuUJI) | [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT), [Concise](https://open.spotify.com/artist/6Ze5YRsnPVtSy6kXbzub9u) | [FlyerThanThis](https://open.spotify.com/album/3HDlOU2tl15NYsSSbOt5e8) | 3:39 | 2022-06-17 | 2022-07-09 |
 | [Food For Thots](https://open.spotify.com/track/0AIeN6y2uTlIkj7AKcgaXN) | [Nyiam](https://open.spotify.com/artist/4POGSRllhjWtkhgBpWdYAx) | [Food For Thots](https://open.spotify.com/album/00AzzZaDfflFZh9b59X91S) | 1:28 | 2022-04-29 | 2022-06-11 |
 | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/track/5sSiwYy1FPH8pJVzbD1B5K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [FOOTBALL HEADS \(feat\. Benny The Butcher\)](https://open.spotify.com/album/213xNC4Hq3tKhvCzXFVuKu) | 3:10 | 2022-07-15 |  |
@@ -120,6 +120,7 @@
 | [Psyche](https://open.spotify.com/track/2aJ6ZK4FDm6Gf4etxmDzwV) | [Quincy Owns](https://open.spotify.com/artist/1l9uhs5adXAKNIJijf7yTJ), [RÉMiii](https://open.spotify.com/artist/1FN2Bxap2wlM7YqbqePUPL) | [Psyche](https://open.spotify.com/album/5EDngVC8AOwMJepXOkCsAn) | 2:15 | 2022-04-29 | 2022-07-02 |
 | [Re\-Rock](https://open.spotify.com/track/3j2tYuoeNBFx8mkTZFX7LB) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Re\-Rock](https://open.spotify.com/album/51D6O4RF8eiWQlVPID5wTA) | 2:57 | 2022-04-29 | 2022-07-09 |
 | [RIGHT NOW \(feat\. Stove God Cooks & Jadakiss\)](https://open.spotify.com/track/4f7r6dRgC7e8XSoKHD1UpL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Hitler Wears Hermes 8: Sincerely Adolf](https://open.spotify.com/album/0M5cyXHBV0en8q02019vaC) | 3:39 | 2022-04-29 | 2022-05-14 |
+| [RIP NIP](https://open.spotify.com/track/2wk8mPIwieospUGsyBHuW2) | [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F) | [RIP NIP](https://open.spotify.com/album/55POWBDqObs6QY6rj4Z97t) | 2:38 | 2022-07-29 |  |
 | [RIP Young](https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:38 | 2022-04-29 |  |
 | [Rock Co.Kane Flow \(feat\. MF Doom\)](https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Grind Date](https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA) | 3:05 | 2022-04-29 |  |
 | [ROSE STREET](https://open.spotify.com/track/1L8NADNWd56cZRnaxcxPPI) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 2:33 | 2022-04-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "canzoni da gridare in questa summersad \u2764\ufe0f\u200d\ud83e\ude79 \ud83c\udf26 e in cover olly",
-  "num_followers": 26524,
+  "num_followers": 26545,
   "original_name": "sanguegiovane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGExZGU4NTZlY2UwYWY2NWE1M2YzNGY2NTc2MTc0YWFm",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDFmMDQ2MzUxMDgxZjQxMGNjMTA0ODYxMjNjMzhkOTk0",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -347,6 +347,26 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Ma non erano te",
         "url": "https://open.spotify.com/album/2XaVVwShBDQsoF20aHYGFM"
       },
@@ -623,6 +643,22 @@
       "duration_ms": 185053,
       "name": "TUTTE LE SERE (feat. ARIETE)",
       "url": "https://open.spotify.com/track/4sJ4ZAKEuMe2qtvOtN7UcB"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Vaffanculo",
+        "url": "https://open.spotify.com/album/5YrCSnfadRdt1iaeC5sYQy"
+      },
+      "artists": [
+        {
+          "name": "Emmeffe",
+          "url": "https://open.spotify.com/artist/1ysP3azGK2mKVXFdZr3BtK"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Vaffanculo",
+      "url": "https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS"
     },
     {
       "added_at": "2022-07-28 22:01:00",

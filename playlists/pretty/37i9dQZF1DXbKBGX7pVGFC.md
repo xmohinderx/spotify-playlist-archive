@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKBGX7pVGFC.md) - [plain]
 
 > Shout\. Strut\. Unite\. Riot Grrrl classics and other feminist staples.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,756 likes - 47 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,764 likes - 47 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

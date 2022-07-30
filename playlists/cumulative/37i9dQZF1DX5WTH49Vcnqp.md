@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn including that new king princess record 👑
 
-467 songs - 1 day 2 hr 41 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+469 songs - 1 day 2 hr 49 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [good grief](https://open.spotify.com/track/1tCzRaxUdrbwgD8JhpZNZ3) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [good grief](https://open.spotify.com/album/5DRCGpra0LkrXkcMg8Lb9p) | 3:13 | 2022-01-27 | 2022-03-21 |
 | [Good Light](https://open.spotify.com/track/7rRVHNqYBjIjKdNRheCDud) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Good Light](https://open.spotify.com/album/073V4yeJPEkE8Wlb94ksWV) | 2:52 | 2022-07-14 |  |
 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 | 2022-06-02 |  |
-| [Gravity](https://open.spotify.com/track/70coW4zgrBZ2XnvqMqIDKe) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ), [Doug Wright](https://open.spotify.com/artist/6zjUG8MkwEO7FVXbnyuzBk) | [Gravity](https://open.spotify.com/album/1R546kkf5YqomrugvVPCBf) | 2:56 | 2022-07-28 |  |
+| [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 | 2022-07-28 |  |
+| [Gravity](https://open.spotify.com/track/70coW4zgrBZ2XnvqMqIDKe) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Gravity](https://open.spotify.com/album/1R546kkf5YqomrugvVPCBf) | 2:56 | 2022-07-28 |  |
 | [GTFO](https://open.spotify.com/track/278aLzuJAZjYNFwI9w8967) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [GTFO](https://open.spotify.com/album/6OyW86SMqRcmY635lyxp8y) | 3:20 | 2022-07-21 |  |
 | [Gummy](https://open.spotify.com/track/6c9ua26MdggFqHs5le1cTE) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [Every Single Thing](https://open.spotify.com/album/03h4StW2BAHz9c822kAPtG) | 3:01 | 2022-06-09 | 2022-07-08 |
 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-09 | 2022-07-19 |
@@ -241,6 +242,7 @@
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-05-30 | 2022-07-22 |
 | [Lemon Tree](https://open.spotify.com/track/1NvpO1o8SpkdH3txtJQQc7) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-08 | 2022-07-15 |
 | [let me breathe](https://open.spotify.com/track/1dImOLdm6XxDQIRunSIAtG) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [let me breathe](https://open.spotify.com/album/7nYWEf73mL1ooupv4YBq9w) | 3:10 | 2022-03-17 | 2022-05-10 |
+| [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2022-07-28 |  |
 | [Let's Go](https://open.spotify.com/track/4zBFWizKHRrrgHmb3VQvuJ) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Let's Go](https://open.spotify.com/album/2ihzFPvG24siD95PTwp2nB) | 4:00 | 2022-06-16 |  |
 | [Lights of Leeming](https://open.spotify.com/track/1hi8EEfKVxaDcEqRFiQuon) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Lights of Leeming](https://open.spotify.com/album/0DbaV5M4AjuF38GmiqBhCs) | 3:14 | 2022-03-10 | 2022-03-21 |
 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 | 2022-01-20 | 2022-03-08 |

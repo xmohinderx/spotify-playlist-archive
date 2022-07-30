@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 
 > Riscopri le più grandi hit del 2008! Cover: Giusy Ferreri
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,060 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,062 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 59 | [L'amore non si spiega](https://open.spotify.com/track/6MRb6TjYkJkFPd9HSBADkn) | [Sergio Cammariere](https://open.spotify.com/artist/6dyQKg6sytjgPsPUFjsYXU) | [Cantautore piccolino](https://open.spotify.com/album/7A9WRw1RV9dBg31s7RLBsq) | 3:54 |
 | 60 | [Come Musica](https://open.spotify.com/track/5gsvZaXWEFjAo1j4pqbr9t) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 3:50 |
 | 61 | [Che Rumore Fa La Felicità?](https://open.spotify.com/track/5lwcMFalrs3LfxyTI9IIuQ) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [Helldorado](https://open.spotify.com/album/7xN7SjBG4LHSiIUgKSgngX) | 4:30 |
-| 62 | [Il Mondo Che Vorrei](https://open.spotify.com/track/0Vrar45zn7tIIXo4ngPksP) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 6:00 |
-| 63 | [Eroe \(Storia Di Luigi Delle Bicocche\)](https://open.spotify.com/track/3rGX2jDP3bTMrrQAVihhEb) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Le Dimensioni Del Mio Caos](https://open.spotify.com/album/5OZ8PKJMSSWmmYz2YsHBMB) | 4:07 |
+| 62 | [Eroe \(Storia Di Luigi Delle Bicocche\)](https://open.spotify.com/track/3rGX2jDP3bTMrrQAVihhEb) | [Caparezza](https://open.spotify.com/artist/4l0PmbNvFq3m5JaUuAPbcB) | [Le Dimensioni Del Mio Caos](https://open.spotify.com/album/5OZ8PKJMSSWmmYz2YsHBMB) | 4:07 |
+| 63 | [Il Mondo Che Vorrei](https://open.spotify.com/track/0Vrar45zn7tIIXo4ngPksP) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 6:00 |
 | 64 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 |
 | 65 | [Invece no](https://open.spotify.com/track/6RDrpNxQIKp6LULdQWd2Vl) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera in anticipo](https://open.spotify.com/album/3JYy2Y99BpPhJ64L8Csaxf) | 3:55 |
 | 66 | [Happy Ending](https://open.spotify.com/track/1wl3u4FrzcuBv2LQ97Z6TQ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life in Cartoon Motion](https://open.spotify.com/album/4wKkXYJXQWDa9sndBSx0gI) | 4:36 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 87 | [Per Fare A Meno Di Te](https://open.spotify.com/track/4eGp2ToYtDomfvLOMYHgtk) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Spirito Libero](https://open.spotify.com/album/2Z9l7x2Q5kzRZOcY3Ak3oS) | 2:59 |
 | 88 | [In Italia](https://open.spotify.com/track/2jQmrVCCAALfbyVIKylTGG) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Bugiardo](https://open.spotify.com/album/3CQ5ixQMOrPsqFLftpcHsX) | 3:29 |
 | 89 | [Miles Away](https://open.spotify.com/track/6mjsqBsNQSEPUDwxtB0LY3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk) | 4:48 |
-| 90 | [Love is Noise](https://open.spotify.com/track/6ypCu5xx6kJp2hnQ8zncqQ) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Forth](https://open.spotify.com/album/6Gk7Gayj5Ba0vj12DW2PMB) | 5:27 |
-| 91 | [Colpo di fulmine](https://open.spotify.com/track/0ksPDWch26wFz0JgbewGtw) | [Giò Di Tonno](https://open.spotify.com/artist/1WMg4wKOBCOTNNba1Lzegh), [Lola Ponce](https://open.spotify.com/artist/6GjbWWx5Zmmwc5lSF8095y) | [Santafè](https://open.spotify.com/album/7kgoZP4jeacUqCSULJ4IG4) | 3:53 |
+| 90 | [Colpo di fulmine](https://open.spotify.com/track/0ksPDWch26wFz0JgbewGtw) | [Giò Di Tonno](https://open.spotify.com/artist/1WMg4wKOBCOTNNba1Lzegh), [Lola Ponce](https://open.spotify.com/artist/6GjbWWx5Zmmwc5lSF8095y) | [Santafè](https://open.spotify.com/album/7kgoZP4jeacUqCSULJ4IG4) | 3:53 |
+| 91 | [Love is Noise](https://open.spotify.com/track/6ypCu5xx6kJp2hnQ8zncqQ) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Forth](https://open.spotify.com/album/6Gk7Gayj5Ba0vj12DW2PMB) | 5:27 |
 | 92 | [Scusa ma ti chiamo amore](https://open.spotify.com/track/6wKj3fXUTQv2xpNTjw4LYr) | [Sugarfree](https://open.spotify.com/artist/1i0JYcD91Cc6C22ewtj0Ma) | [Argento](https://open.spotify.com/album/3sYx1xmvwckk9i5hY0FGdT) | 3:47 |
 | 93 | [Tear Down These Houses](https://open.spotify.com/track/0OCS9YKQdY54BSuiVMaDhl) | [Skin](https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY), [Andrea Guerra](https://open.spotify.com/artist/2RH4zVV2q0H5iVnfSl7XFz) | [Parlami d'amore \(Colonna sonora originale\)](https://open.spotify.com/album/6ZzFh4FOtDnIpaP8ss0ngH) | 4:06 |
 | 94 | [Il centro del mondo](https://open.spotify.com/track/5IEfsuoAa546HuXyINjE7B) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Secondo tempo](https://open.spotify.com/album/7IrnMnk0wC45zYjIOIH2TG) | 4:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 | 99 | [Tutto L'Universo Obbedisce All'Amore](https://open.spotify.com/track/5R1BM5IRxZ2SUiguXWwXPe) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ), [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Fleurs 2](https://open.spotify.com/album/5p8XF8OUBAt01sDepkqrvr) | 3:27 |
 | 100 | [Sleep When I'm Dead](https://open.spotify.com/track/0UZCGE8Uk1rmDRHqrGIVa9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 3:50 |
 
-Snapshot ID: `MTYwNDU2Nzk1MCwwMDAwMDAwMGNjM2Q0NWY0ODNjOTc2ZGQwOWI5ZGY5NDZkMjQ1MDQ5`
+Snapshot ID: `MTYwNDU2Nzk1MCwwMDAwMDAwMGVhZWMzYTI2MjE5MzQ2MjY1MTRjMjY2ODk5NjU3YThj`

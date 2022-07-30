@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Ni\u00f1os Del Cerro.",
+  "description": "Todo el sonido indie de Chile. Foto: Dulce y Agraz.",
   "name": "Indie Chile",
   "published_playlist_ids": [
     "1gsuQWHZM7TnxSlSgVrIUw"
@@ -1402,6 +1402,36 @@
     },
     {
       "album": {
+        "name": "Entre las Sombras",
+        "url": "https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Martina Lluvias",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+        },
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        },
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270279,
+      "name": "Entre las Sombras",
+      "url": "https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe"
+    },
+    {
+      "album": {
         "name": "Es Suficiente",
         "url": "https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6"
       },
@@ -1691,7 +1721,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 276874,
       "name": "Frontera",
       "url": "https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm"
@@ -2425,7 +2455,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 227560,
       "name": "Musical - Remix",
       "url": "https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu"
@@ -4259,6 +4289,24 @@
       "duration_ms": 240531,
       "name": "Venus",
       "url": "https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x"
+    },
+    {
+      "album": {
+        "name": "Viajar",
+        "url": "https://open.spotify.com/album/5IiLPLPLVjRNspfw2mvj24"
+      },
+      "artists": [
+        {
+          "name": "Planeta Audaz",
+          "url": "https://open.spotify.com/artist/3ujqpR2peYwssiN7McMIW7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218532,
+      "name": "Viajar",
+      "url": "https://open.spotify.com/track/4b0ZUkdR9I3gzheXwGpNum"
     },
     {
       "album": {

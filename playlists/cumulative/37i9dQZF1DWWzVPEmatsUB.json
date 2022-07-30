@@ -135,7 +135,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 212680,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 163239,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/3J66iW5HU4hbWsDAWejomi"
@@ -485,6 +485,24 @@
       "duration_ms": 207369,
       "name": "Blowing Smoke",
       "url": "https://open.spotify.com/track/0x3yozQ8ntRKUr01fuUOPb"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "album": {
@@ -2723,6 +2741,24 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "album": {
+        "name": "Mending",
+        "url": "https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi"
+      },
+      "artists": [
+        {
+          "name": "Frida Touray",
+          "url": "https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234986,
+      "name": "Mending",
+      "url": "https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE"
     },
     {
       "album": {

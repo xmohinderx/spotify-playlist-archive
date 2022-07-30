@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: HAVET, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,929 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,950 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 23 | [Reach](https://open.spotify.com/track/0RD6CxPuqwu7BA3KrdEF3d) | [Jovid](https://open.spotify.com/artist/3MEA1cUi2zYPg30gCotF0g) | [Reach](https://open.spotify.com/album/0uP8zobQKYxa0TXKTD0u9K) | 3:11 |
 | 24 | [Lost in Relations](https://open.spotify.com/track/5SFs9rhmjybV70WufW6luM) | [YUUN](https://open.spotify.com/artist/2RB9EdzynT4I1OTNdH4OCt) | [Lost in Relations](https://open.spotify.com/album/4uF6tiwaWzDZOwRWvyNA3U) | 3:01 |
 | 25 | [Angels](https://open.spotify.com/track/79S4QPeR3QQw8KPMTTZLzt) | [Dream Parade](https://open.spotify.com/artist/1nfyiCiA1Fx9bShxabC1IU) | [Angels](https://open.spotify.com/album/0EtaOEfR1aoES0LYFLERDm) | 3:37 |
-| 26 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
+| 26 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele De Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 |
 | 27 | [One Life](https://open.spotify.com/track/1YKLEgIwUnkalYonhLmoSS) | [SEDA](https://open.spotify.com/artist/6ewL4sBYp6iLnHGupcyyX3) | [somewhere in between](https://open.spotify.com/album/3TNaHETPfnG9uHHK2ve6i5) | 3:55 |
 | 28 | [5778](https://open.spotify.com/track/0lQ8MwXv5B7GSDIrALw2x5) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [5778](https://open.spotify.com/album/5iEDxd5JCvUxOrDP96Een5) | 6:34 |
 | 29 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |

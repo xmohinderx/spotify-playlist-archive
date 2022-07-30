@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Cover: Hasan Raheem, Natasha Noorani
 
-118 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+119 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 | 2022-01-18 |  |
 | [SIKANDER FREESTYLE](https://open.spotify.com/track/3a5MnoE5o1CrMLbI9MR69c) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [SIKANDER FREESTYLE](https://open.spotify.com/album/2BsBakiv92RyPZV3IyzfBQ) | 1:59 | 2021-12-06 | 2022-03-05 |
 | [Sitaray](https://open.spotify.com/track/2zBfj9yvNbb6dA2sellNgs) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq) | [Sitaray](https://open.spotify.com/album/6oKbXl7UHflAtpihshkLAZ) | 4:41 | 2021-12-06 | 2022-06-04 |
+| [Siyah](https://open.spotify.com/track/4tkk65MyQNzYOQKgVbLCZ3) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/15xc5hGNYM8h7JSzosKzt3) | 2:51 | 2022-07-29 |  |
 | [Slow](https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI) | [Gentle Robot](https://open.spotify.com/artist/4ZDRGSvFQnQUTs3438PIls) | [Breathe](https://open.spotify.com/album/1mLlCvxN1VRoBt3GRB5uMP) | 3:18 | 2021-12-06 |  |
 | [Soul Jamming](https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca) | [Waqas](https://open.spotify.com/artist/3bnpn31sQbuTzqdBscYqyL) | [Soul Jamming](https://open.spotify.com/album/3SyF9HHdvEm2jYgk2KvljG) | 2:36 | 2021-12-06 | 2022-06-17 |
 | [Soye Nahi](https://open.spotify.com/track/7Gb2D6V5xP5LAO5h5D9yQZ) | [Natasha Humera Ejaz](https://open.spotify.com/artist/2NTRcxzXvgDtcSJJ2zraxp), [Mirande Shah](https://open.spotify.com/artist/6S0dJ9xk7KnOPgxYRjUycw) | [Bench \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Sx7jAkfJsvtAnLTjEEGQP) | 3:57 | 2021-12-06 | 2022-03-05 |

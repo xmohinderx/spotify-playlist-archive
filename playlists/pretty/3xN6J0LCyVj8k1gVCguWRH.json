@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 &amp; 2020 editions + bonus tracks)",
-  "num_followers": 92422,
+  "num_followers": 94478,
   "original_name": "Barack Obama\u2019s Summer Playlist 2022",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "MzI1MixjOGMxYjczNjIxYTFiZmJiOTk3YjJlMTI4OWU1MWVhZjgzN2NlMWYx",
+  "snapshot_id": "MzI1NyxiNGZjYTA3YjBkMTYzYWNhZTRiOGQ2N2I0MmFlYTM4MzRlMjExN2Y0",
   "tracks": [
     {
       "added_at": "2022-07-26 20:32:06",
@@ -2329,6 +2329,22 @@
       "url": "https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs"
     },
     {
+      "added_at": "2022-07-29 14:41:26",
+      "album": {
+        "name": "Hello, Sun",
+        "url": "https://open.spotify.com/album/3EkoabkuwW12ampXP012jo"
+      },
+      "artists": [
+        {
+          "name": "The Mellons",
+          "url": "https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "Hello, Sun",
+      "url": "https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv"
+    },
+    {
       "added_at": "2022-06-30 16:49:44",
       "album": {
         "name": "Space + Space",
@@ -2345,10 +2361,10 @@
       "url": "https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW"
     },
     {
-      "added_at": "2022-07-22 14:35:47",
+      "added_at": "2022-07-29 14:42:58",
       "album": {
-        "name": "What Comes Around",
-        "url": "https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV"
+        "name": "u don't know my name",
+        "url": "https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil"
       },
       "artists": [
         {
@@ -2356,9 +2372,25 @@
           "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
         }
       ],
-      "duration_ms": 209142,
-      "name": "What Comes Around",
-      "url": "https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V"
+      "duration_ms": 208000,
+      "name": "u don't know my name",
+      "url": "https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf"
+    },
+    {
+      "added_at": "2022-07-29 14:42:10",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U"
+      },
+      "artists": [
+        {
+          "name": "Lili Joy",
+          "url": "https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4"
+        }
+      ],
+      "duration_ms": 157700,
+      "name": "Versus",
+      "url": "https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD"
     },
     {
       "added_at": "2022-07-15 00:08:11",
@@ -2555,6 +2587,22 @@
       "duration_ms": 203333,
       "name": "Purple Fog",
       "url": "https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr"
+    },
+    {
+      "added_at": "2022-07-22 14:35:47",
+      "album": {
+        "name": "What Comes Around",
+        "url": "https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "What Comes Around",
+      "url": "https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V"
     },
     {
       "added_at": "2022-07-22 00:18:23",

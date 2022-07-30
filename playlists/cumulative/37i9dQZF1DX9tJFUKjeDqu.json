@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200844,
+      "name": "Mud Island Morning",
+      "url": "https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX"
+    },
+    {
+      "album": {
         "name": "Golden Loam",
         "url": "https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V"
       },
@@ -1075,6 +1093,24 @@
       "duration_ms": 530493,
       "name": "Riviera Paradise",
       "url": "https://open.spotify.com/track/2Pv7Vi2OY2ZTsrZlqZ8k8A"
+    },
+    {
+      "album": {
+        "name": "The Heart of the Delta",
+        "url": "https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx"
+      },
+      "artists": [
+        {
+          "name": "The Realist",
+          "url": "https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85681,
+      "name": "Rope Hill",
+      "url": "https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk"
     },
     {
       "album": {

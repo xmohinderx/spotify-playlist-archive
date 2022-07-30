@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 68978,
+  "num_followers": 69115,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMDNhMWQ4M2Y4MzhlNTJjZWY2MDgyZTJhOTYxZGZhODdk",
+  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMDMwNDQyNWU2NjkxM2ZmNTE4NWQzYzQ5Y2U0N2E5MTM3",
   "tracks": [
     {
       "added_at": "2022-07-28 23:53:19",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
-        "name": "Only With Time - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 304411,
-      "name": "Only With Time - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 198137,
       "name": "Falling Higher",
       "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
+        "name": "Only With Time - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "duration_ms": 304411,
+      "name": "Only With Time - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
     },
     {
       "added_at": "2022-07-28 23:53:19",
@@ -943,6 +943,26 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
+        "name": "Milly",
+        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
+      },
+      "artists": [
+        {
+          "name": "Amaal",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Lullaby (feat. Syd)",
+      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
         "name": "Still Wonder",
         "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 238153,
       "name": "Still Wonder",
       "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
-        "name": "Milly",
-        "url": "https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd"
-      },
-      "artists": [
-        {
-          "name": "Amaal",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Lullaby (feat. Syd)",
-      "url": "https://open.spotify.com/track/56cPHHY51YpcD4OwU42GS3"
     },
     {
       "added_at": "2022-07-28 23:53:19",

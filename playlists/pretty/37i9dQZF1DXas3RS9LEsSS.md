@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,559 likes - 58 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,577 likes - 58 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 26 | [Blues Magic](https://open.spotify.com/track/1izys4V3iMHvjORAlR4s2a) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana IV](https://open.spotify.com/album/7ppcZmolcIO6nCQkYpIxsh) | 4:25 |
 | 27 | [La Daga](https://open.spotify.com/track/36GW9gqFecRrqUflgDMLh4) | [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Federico Dannemann](https://open.spotify.com/artist/4OU6bEG2xDcF7KMOwgksQO), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Valdivia](https://open.spotify.com/album/7HTuFQBLSkwOatzrGKfdJB) | 4:02 |
 | 28 | [Crazy Dream](https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Los Lonely Boys](https://open.spotify.com/album/6kNz22txs8mOmSxoQVPTDA) | 4:47 |
-| 29 | [Pescado Frito](https://open.spotify.com/track/4zZap389TUn8BdBEBdRwMO) | [Los Queltehues](https://open.spotify.com/artist/6aww0zmfsM3Sr4JOArd7mC) | [Pescado Frito](https://open.spotify.com/album/6FzKM9t2KEsX16Y6zwu6eM) | 4:20 |
+| 29 | [Pescado Frito](https://open.spotify.com/track/4zZap389TUn8BdBEBdRwMO) | [Los Queltehues](https://open.spotify.com/artist/1UfisxiUoIaJDc5WByJBHB) | [Pescado Frito](https://open.spotify.com/album/6FzKM9t2KEsX16Y6zwu6eM) | 4:20 |
 | 30 | [Titi](https://open.spotify.com/track/2392zYNyihl8NVJfCcqT09) | [La Banda del Capitan Corneta](https://open.spotify.com/artist/77AlmICl9sl7wXBJmC4V08) | [Historias de un Hijo del Blues](https://open.spotify.com/album/4TfcvHpBXCh6jZJsq0SuTO) | 2:24 |
 | 31 | [Estoy Bien](https://open.spotify.com/track/4ZPjTikpIQXqIUitGITnFI) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [Sin Mentir](https://open.spotify.com/album/3NBnKd8IO2Ba7AMebrICry) | 2:56 |
 | 32 | [Coward's Knife](https://open.spotify.com/track/1i0omOr6pmzaWyqTjq5BbX) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 3:54 |

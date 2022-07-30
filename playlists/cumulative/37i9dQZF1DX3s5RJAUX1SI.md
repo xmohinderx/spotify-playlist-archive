@@ -4,7 +4,7 @@
 
 > Tus canciones favoritas con un toque intímo y acústico.
 
-154 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/01F4jrZZjsWlaAtllI2OQa)
+155 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/01F4jrZZjsWlaAtllI2OQa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,10 +93,11 @@
 | [No Me Pidas Perdón \- Versión Acústica](https://open.spotify.com/track/6a7DmCqUQNLS9pHlsBCBo3) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Positivo](https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM) | 3:38 | 2021-11-01 |  |
 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 | 2021-11-01 |  |
 | [No Volveré](https://open.spotify.com/track/7i4rb7PY4IKJPxPrqMGbLJ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Carlos Muñoz](https://open.spotify.com/artist/2CjUcR1vqHRWkiJMttb4F6) | [No Volveré](https://open.spotify.com/album/4pUHbeXaQYiPfPhPSVCRrx) | 3:50 | 2021-11-01 |  |
-| [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 | 2021-11-01 |  |
+| [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 | 2021-11-01 | 2022-07-30 |
 | [Para Impresionarte](https://open.spotify.com/track/4XXN580NHgivSZVsoltize) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Mexillennials Acústico](https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N) | 4:08 | 2021-11-01 |  |
 | [Popurrí Acustico \- En Vivo](https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Vivo CDMX](https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT) | 10:29 | 2021-11-01 | 2022-07-29 |
 | [Por Enamorarme](https://open.spotify.com/track/0u6zmUnfHjDt34NeyCwQjY) | [Piha Luna](https://open.spotify.com/artist/0B1XaZh80WPhIaknmAJ5cE) | [Nuestros Covers](https://open.spotify.com/album/6AgNvZDmXBWmxELsaKCPon) | 3:12 | 2021-11-01 | 2022-07-27 |
+| [Por Enamorarme](https://open.spotify.com/track/7b1aBTGem6OURffYx3KU8C) | [Piha Luna](https://open.spotify.com/artist/0B1XaZh80WPhIaknmAJ5cE) | [Nuestros Covers](https://open.spotify.com/album/2UCEMl5xTLAiznganHSxu2) | 3:12 | 2021-11-01 |  |
 | [Por Siempre Mi Amor \- Versión Acústica](https://open.spotify.com/track/0Xtln8sTYKPvc0hFxA3IXn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Por Siempre Mi Amor \(Versión Acústica\)](https://open.spotify.com/album/67bgveDWejGjBPpY09JcLV) | 2:57 | 2021-11-01 |  |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR) | [Ferah Vargas](https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h) | [Por Tu Maldito Amor](https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t) | 3:56 | 2021-11-01 |  |
 | [Porqué La Engañé \(Vers\. Acústica\)](https://open.spotify.com/track/5mBctHoujGRMCnIjVODwLE) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Porqué La Engañé \(Vers\. Acústica\)](https://open.spotify.com/album/690zdhqWgx8GaBxVmKoNMu) | 3:54 | 2021-11-01 | 2022-07-29 |

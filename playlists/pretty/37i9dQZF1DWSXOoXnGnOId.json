@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 13464,
+  "num_followers": 13480,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGE0YzBmNGMxY2ZlZTdlY2I0MTA2NzEyM2JmYzRmNzkx",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDFhMTUwNjQxYzIyMTI1ZDY1YThmOTgxMjMwMDZlMzBk",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -523,6 +523,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Last Time (Biscits Remix)",
+        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 215540,
+      "name": "Last Time - Biscits Remix",
+      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Pump the Brakes (LP Giobbi Remix)",
         "url": "https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 186240,
       "name": "Follow (with Jeremih) [Dillon Francis Remix]",
       "url": "https://open.spotify.com/track/2eomAcNgNQTogi2Y4apBKh"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Last Time (Biscits Remix)",
-        "url": "https://open.spotify.com/album/6LgHb9a6Dph8PJ7LP8tNJs"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 215540,
-      "name": "Last Time - Biscits Remix",
-      "url": "https://open.spotify.com/track/1vSgGwMtzSxz4VTYUMAfks"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -811,26 +811,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Silver Lining (DubVision Remix)",
-        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Silver Lining - DubVision Remix",
-      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "BRONSON Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 307889,
       "name": "DAWN (feat. Totally Enormous Extinct Dinosaurs) - Hayden James Remix",
       "url": "https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Silver Lining (DubVision Remix)",
+        "url": "https://open.spotify.com/album/4lYMlnpChyXuOR34feUoSz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "duration_ms": 194645,
+      "name": "Silver Lining - DubVision Remix",
+      "url": "https://open.spotify.com/track/1oU0keD3M5kUIEXk3J4VIu"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1643,30 +1643,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Underwater (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
-      },
-      "artists": [
-        {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Underwater - Dombresky Remix",
-      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
         "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 172800,
       "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
       "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Underwater (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/1nc7oYlY0Dvy5bCOdEzb25"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Underwater - Dombresky Remix",
+      "url": "https://open.spotify.com/track/2Dg1l36X48GhvtBAZKna9z"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Rise (twocolors Remix)",
-        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "Rise - twocolors Remix",
-      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Wasted Love (feat. Lagique) [Remixes]",
         "url": "https://open.spotify.com/album/76nwXh66BDZT9SVEDCAB9b"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 240000,
       "name": "Wasted Love (feat. Lagique) - Dubdogz & J\u00d8RD Remix",
       "url": "https://open.spotify.com/track/3kHaYCI60ExyeSh4I9MVEv"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Rise (twocolors Remix)",
+        "url": "https://open.spotify.com/album/1kwLiKZ1Q7q9WWR6zVzGGA"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "Rise - twocolors Remix",
+      "url": "https://open.spotify.com/track/00Q3p30h2z7so7MBzmS3cQ"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Space (Remixes)",
-        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        }
-      ],
-      "duration_ms": 143139,
-      "name": "Space - Nathan Dawe Remix",
-      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Keleketla! Remixes",
         "url": "https://open.spotify.com/album/4ZRyrLDXFUoVopvJ5ZKnMh"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 336954,
       "name": "Papua Merdeka - Machinedrum Remix",
       "url": "https://open.spotify.com/track/1yfVygcEjrdjTp5LEi71at"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Space (Remixes)",
+        "url": "https://open.spotify.com/album/4s8FtZOAWCXamQjW4SXNpc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        }
+      ],
+      "duration_ms": 143139,
+      "name": "Space - Nathan Dawe Remix",
+      "url": "https://open.spotify.com/track/32WJqqRF1bvWG9EAF54siR"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Purple Hat (KC Lights Remix)",
-        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        }
-      ],
-      "duration_ms": 209959,
-      "name": "Purple Hat - KC Lights Remix",
-      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "PURE (The Remixes)",
         "url": "https://open.spotify.com/album/6DP8V4741pEHVlch8gH6SA"
       },
@@ -2163,6 +2143,26 @@
       "duration_ms": 176343,
       "name": "Hadal Ahbek - R3HAB Club Remix",
       "url": "https://open.spotify.com/track/13zJwfXz28yYz16vjZBpon"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Purple Hat (KC Lights Remix)",
+        "url": "https://open.spotify.com/album/60sAv1uLAQKTLvf50VKLUA"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 209959,
+      "name": "Purple Hat - KC Lights Remix",
+      "url": "https://open.spotify.com/track/3NtlZBjTJNggbfNFzTw0z7"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2259,30 +2259,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Praise (feat. Gunna) [Malaa Remix]",
-        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
-      },
-      "artists": [
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 269032,
-      "name": "Praise (feat. Gunna) - Malaa Remix",
-      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Jaiye (Aluna and Sigag Lauren Remix)",
         "url": "https://open.spotify.com/album/4OUtz54ngbyOmAjsfKwcNA"
       },
@@ -2303,6 +2279,30 @@
       "duration_ms": 221032,
       "name": "Jaiye (Aluna and Sigag Lauren Remix)",
       "url": "https://open.spotify.com/track/1AebvIVZtZpHwLL16K9K0b"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Praise (feat. Gunna) [Malaa Remix]",
+        "url": "https://open.spotify.com/album/7k2HFlk4QkPRDMLrb4wLif"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 269032,
+      "name": "Praise (feat. Gunna) - Malaa Remix",
+      "url": "https://open.spotify.com/track/4J2lw1uoLmprtkdN4QEHY0"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -2371,34 +2371,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Summer Thing (Kryder Remix)",
-        "url": "https://open.spotify.com/album/4p6CsrVMtuJQw1nRQn0cVJ"
+        "name": "Hear Me Say (Ferreck Dawn Remix)",
+        "url": "https://open.spotify.com/album/5BV0Y3juH4u5eACc4k8x3F"
       },
       "artists": [
         {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         },
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         }
       ],
-      "duration_ms": 162560,
-      "name": "Summer Thing - Kryder Remix",
-      "url": "https://open.spotify.com/track/1EIdKaYIYP0GSYvnzrNlRW"
+      "duration_ms": 158142,
+      "name": "Hear Me Say - Ferreck Dawn Remix",
+      "url": "https://open.spotify.com/track/7nqo4fv9kRzypxodkmJW01"
     }
   ],
   "unique_name": "mint Remix",

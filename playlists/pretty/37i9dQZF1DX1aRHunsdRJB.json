@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 7308,
+  "num_followers": 7320,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGMwNDg0YzdmN2MzYmFjMjA5M2Q4NmYzMjgwYTVhZWNl",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGFhNTFlYWU3Y2IyOTUwMzIyZDFkZWQwNGJkMGI1MjAy",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Demon Girl",
-        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
+        "name": "King Bubba Mashup Volume 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
         {
-          "name": "Tommy Lee Sparta",
-          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
       ],
-      "duration_ms": 202422,
-      "name": "Demon Girl",
-      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+      "duration_ms": 159013,
+      "name": "Monster Winer",
+      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -383,22 +387,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "King Bubba Mashup Volume 1",
-        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
+        "name": "Demon Girl",
+        "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
+          "name": "Tommy Lee Sparta",
+          "url": "https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh"
         }
       ],
-      "duration_ms": 159013,
-      "name": "Monster Winer",
-      "url": "https://open.spotify.com/track/3bZaDC1VEb1YpIpWu8ks5H"
+      "duration_ms": 202422,
+      "name": "Demon Girl",
+      "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Pop's Guitar Riddim",
-        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 221160,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Baila Riddim",
         "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 137195,
       "name": "Shots (One for Di Road)",
       "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Pop's Guitar Riddim",
+        "url": "https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 221160,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/2dw6cb4LDjFIEsLi0PJnDv"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -827,6 +827,30 @@
       "duration_ms": 168888,
       "name": "Private Zess",
       "url": "https://open.spotify.com/track/2f33W36xOV4apM1O3KE0wN"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Big Ride Riddim",
+        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        },
+        {
+          "name": "Blackboy",
+          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
+        },
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
+        }
+      ],
+      "duration_ms": 126458,
+      "name": "Man with Ride (Big Ride)",
+      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -923,30 +947,6 @@
       "duration_ms": 183818,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/5YpSruBBOaIHNGu5aNDeT9"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Big Ride Riddim",
-        "url": "https://open.spotify.com/album/6xf96U9L4Lf1GdSV2ai5sN"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        },
-        {
-          "name": "Blackboy",
-          "url": "https://open.spotify.com/artist/5IRAIoTz3nx7KYujtayoMu"
-        },
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/6H3rq6G5qNy35La9pxUtoB"
-        }
-      ],
-      "duration_ms": 126458,
-      "name": "Man with Ride (Big Ride)",
-      "url": "https://open.spotify.com/track/4lnYCV8h7WMusbocyjX8aP"
     },
     {
       "added_at": "2022-02-24 18:00:00",

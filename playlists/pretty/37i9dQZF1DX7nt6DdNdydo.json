@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 34083,
+  "num_followers": 34096,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDVjMmM4NzZiOTliY2JiZjdkNzE3YTY0M2ZmNjBiZjJj",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDAxMTU0ZTJjM2MxZjA2MTYyMzFiMDlmYmZjOGZlZmM3",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Ain't Nobody Here But Us Chickens",
+      "url": "https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Jump, Jive An' Wail: The Essential",
         "url": "https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 209413,
       "name": "Jump, Jive, An' Wail - Remastered 1996",
       "url": "https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Ain't Nobody Here But Us Chickens",
-      "url": "https://open.spotify.com/track/52UNX3oSXgPC1uKVG0pXI4"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Jimmy Liggins And His Drops Of Joy",
         "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 119720,
       "name": "The Flirt",
       "url": "https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Caldonia - Single Version",
-      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Swingsation: Lionel Hampton",
-        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
       "artists": [
         {
-          "name": "Lionel Hampton",
-          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 202933,
-      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
-      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+      "duration_ms": 334360,
+      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Swingsation: Lionel Hampton",
+        "url": "https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton",
+          "url": "https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP"
+        }
+      ],
+      "duration_ms": 202933,
+      "name": "Hey! Ba-Ba-Re-Bop - Single Version",
+      "url": "https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Joe Liggins & The Honeydrippers",
         "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
-        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
-      },
-      "artists": [
-        {
-          "name": "Louis Jordan & His Tympany Five",
-          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Saturday Night Fish Fry - Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -795,22 +795,6 @@
       "duration_ms": 180266,
       "name": "Don't Leave Me Baby",
       "url": "https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jimmy Liggins And His Drops Of Joy",
-        "url": "https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Liggins and His Drops Of Joy",
-          "url": "https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Cadillac Boogie",
-      "url": "https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9"
     },
     {
       "added_at": "2022-03-28 19:44:25",

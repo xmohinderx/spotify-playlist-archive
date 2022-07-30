@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-95 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+97 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,10 +82,12 @@
 | [Somebody Else Will \- Live at the Ryman](https://open.spotify.com/track/47SHs54oXgZSWp56gMY0oj) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Live at the Ryman](https://open.spotify.com/album/2whvNZuhYac09csrAN05CI) | 2:48 | 2022-07-22 |  |
 | [Sparks Fly \- Live/2011](https://open.spotify.com/track/1aBJNc2thaKyh5THWzIqHX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now World Tour Live](https://open.spotify.com/album/6fyR4wBPwLHKcRtxgd4sGh) | 5:36 | 2021-07-22 |  |
 | [Stand Behind Me \(Live\)](https://open.spotify.com/track/2ZWhZTVIC3r428R939eIpE) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Big Bang Concert Series: Jo Dee Messina \(Live\)](https://open.spotify.com/album/67mQKIj5RSXn08pWs8xP3k) | 4:12 | 2021-07-22 | 2022-07-29 |
+| [Started Right Here \- Live](https://open.spotify.com/track/0sygbjwo6LURm9MzjNUFTS) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here \(Live\)](https://open.spotify.com/album/5a3IVgd9lHYR0ktqZaExi6) | 3:42 | 2022-07-29 |  |
 | [Stay A Little Longer \- Live](https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 6:14 | 2021-07-22 |  |
 | [Talladega \- Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017](https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 1](https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR) | 4:19 | 2021-07-22 |  |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 |  |
 | [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 |  |
+| [Tip It Back \- Live From Joe's Bar, Chicago / 2012](https://open.spotify.com/track/5hX0uwl11QAC4B8p0xpV5e) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Tip It Back \(Live From Joe's Bar, Chicago / 2012\)](https://open.spotify.com/album/75MdNkW9rEjw6fOKjmgF0o) | 3:47 | 2022-07-29 |  |
 | [Toes \(feat\. Shawn Mullins\) \- Live](https://open.spotify.com/track/7yjMKrD1HgUvHYs4CXaMHs) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:33 | 2022-07-22 |  |
 | [Toes \(feat\. Shawn Mullins\) \[Live\] \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/4Wp0a9KdPSdQsNSB8JQ3lB) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Shawn Mullins](https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:33 | 2021-07-22 | 2022-07-29 |
 | [Travelin' Light \- Live](https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 3:18 | 2021-07-22 |  |

@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "5:00 in the Country",
+        "url": "https://open.spotify.com/album/56XLLVVP1ZYOSa3TOcsDKg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175522,
+      "name": "5:00 in the Country",
+      "url": "https://open.spotify.com/track/0ZihIYlSAKxKr0etrivKlt"
+    },
+    {
+      "album": {
         "name": "8 Months",
         "url": "https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT"
       },
@@ -951,6 +969,24 @@
       "duration_ms": 148305,
       "name": "Before I Loved You",
       "url": "https://open.spotify.com/track/0MIc8FKP8fE0v5AgyIWH56"
+    },
+    {
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/2Xz8ZyFxGzRTepW9ph2RiB"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172120,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/5nPt2lxfI2Q3IIU6Fry25R"
     },
     {
       "album": {
@@ -2776,6 +2812,24 @@
     },
     {
       "album": {
+        "name": "Drink About Me",
+        "url": "https://open.spotify.com/album/6DkJwPGdHz5AmftWibk27s"
+      },
+      "artists": [
+        {
+          "name": "Mark Ledlin",
+          "url": "https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "Drink About Me",
+      "url": "https://open.spotify.com/track/1wlEowQySInn8zDIdKyAHm"
+    },
+    {
+      "album": {
         "name": "Drink Sometime",
         "url": "https://open.spotify.com/album/6zBT8U5feFHsaMovgYACBR"
       },
@@ -3467,6 +3521,24 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "Front Row Seat",
+        "url": "https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2"
+      },
+      "artists": [
+        {
+          "name": "David Unlayao",
+          "url": "https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172840,
+      "name": "Front Row Seat",
+      "url": "https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP"
     },
     {
       "album": {
@@ -4430,6 +4502,24 @@
     },
     {
       "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265506,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38"
+    },
+    {
+      "album": {
         "name": "Heart on My Glass",
         "url": "https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2"
       },
@@ -4877,7 +4967,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 233519,
       "name": "Hometown Highway",
       "url": "https://open.spotify.com/track/4MOeoHurTJMd9HpMsO2flS"
@@ -5025,6 +5115,24 @@
       "duration_ms": 204240,
       "name": "Humble Quest",
       "url": "https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr"
+    },
+    {
+      "album": {
+        "name": "Hung Over You",
+        "url": "https://open.spotify.com/album/7wLgYkaFVJZ1lVIyvMhHg3"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168227,
+      "name": "Hung Over You",
+      "url": "https://open.spotify.com/track/7hKWkSgbHuExj89lbso7Jq"
     },
     {
       "album": {
@@ -5497,7 +5605,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 206000,
       "name": "I'm the Fire",
       "url": "https://open.spotify.com/track/2FlSyqbLN6IfRlLuNHfI9y"
@@ -5605,7 +5713,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 153308,
       "name": "If We Ever Break Up",
       "url": "https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js"
@@ -5753,7 +5861,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 173000,
       "name": "In Our Blood",
       "url": "https://open.spotify.com/track/5Ut5HJUIE93J1bH1u5kGn3"
@@ -5976,6 +6084,24 @@
     },
     {
       "album": {
+        "name": "Just Fall",
+        "url": "https://open.spotify.com/album/0XLe1gPK0SFvi2oWJKYoNR"
+      },
+      "artists": [
+        {
+          "name": "CB30",
+          "url": "https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171493,
+      "name": "Just Fall",
+      "url": "https://open.spotify.com/track/6kLgswYsg29x8GfrCY1euM"
+    },
+    {
+      "album": {
         "name": "K[no]w Better",
         "url": "https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg"
       },
@@ -6048,6 +6174,24 @@
     },
     {
       "album": {
+        "name": "Choosing You",
+        "url": "https://open.spotify.com/album/75mIJPlA0LEXhRf2tBAwmf"
+      },
+      "artists": [
+        {
+          "name": "Brooke Eden",
+          "url": "https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199169,
+      "name": "Knock",
+      "url": "https://open.spotify.com/track/3tpyT5Tm40TbuVJYdFgk30"
+    },
+    {
+      "album": {
         "name": "Knock Off",
         "url": "https://open.spotify.com/album/3lGl8LGBSvrLvv89wFpy6y"
       },
@@ -6081,6 +6225,24 @@
       "duration_ms": 163924,
       "name": "Know Ya",
       "url": "https://open.spotify.com/track/5Fg0HlaYmQEcfeN8YoYbgV"
+    },
+    {
+      "album": {
+        "name": "Last Name on It",
+        "url": "https://open.spotify.com/album/39ue09McDKRS7RwEPzFd2L"
+      },
+      "artists": [
+        {
+          "name": "Ian Flanigan",
+          "url": "https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150995,
+      "name": "Last Name on It",
+      "url": "https://open.spotify.com/track/3AwQsbPF5SHEOtyRxuAABR"
     },
     {
       "album": {
@@ -6135,6 +6297,24 @@
       "duration_ms": 232711,
       "name": "Last Place I Want To Be",
       "url": "https://open.spotify.com/track/3ujflVU6iW4uA8dXCDC0DQ"
+    },
+    {
+      "album": {
+        "name": "Lay Down With You",
+        "url": "https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "Lay Down With You",
+      "url": "https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1"
     },
     {
       "album": {
@@ -6961,7 +7141,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 218419,
       "name": "Mama Raised the Hell Out of Me",
       "url": "https://open.spotify.com/track/10msxtilbay9vZw8UbQfMY"
@@ -8468,6 +8648,24 @@
     },
     {
       "album": {
+        "name": "Party in My Hometown",
+        "url": "https://open.spotify.com/album/3R7wb8dIBWyjlqD8GXEdnl"
+      },
+      "artists": [
+        {
+          "name": "After Midtown",
+          "url": "https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Party in My Hometown",
+      "url": "https://open.spotify.com/track/5pU3TVxW2kaRVmNvoCI8ex"
+    },
+    {
+      "album": {
         "name": "Blue In The Sky",
         "url": "https://open.spotify.com/album/7a7203P5zJNwU8ASjhbIzz"
       },
@@ -8923,7 +9121,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 236597,
       "name": "Red Dirt Cursed",
       "url": "https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY"
@@ -10223,7 +10421,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 175984,
       "name": "Summer Ain't The Same",
       "url": "https://open.spotify.com/track/6FK8AdjwGQ4iUC8tYAvUaI"
@@ -10285,6 +10483,24 @@
       "duration_ms": 184082,
       "name": "Sunset Carousel",
       "url": "https://open.spotify.com/track/0BrEAFfmFzVVseu19qwReX"
+    },
+    {
+      "album": {
+        "name": "Suwannee",
+        "url": "https://open.spotify.com/album/5tzbqHqUEjqzwbtNenXn0v"
+      },
+      "artists": [
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206466,
+      "name": "Suwannee",
+      "url": "https://open.spotify.com/track/7phriJq6W6bky2V8JIgmEA"
     },
     {
       "album": {
@@ -10371,7 +10587,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 196908,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/5UxwWCUE7PVTVCLVCxaCkp"
@@ -10414,6 +10630,24 @@
     },
     {
       "album": {
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
+    },
+    {
+      "album": {
         "name": "Tell 'Em Why",
         "url": "https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER"
       },
@@ -10447,6 +10681,24 @@
       "duration_ms": 266040,
       "name": "Tell Me Twice",
       "url": "https://open.spotify.com/track/4o93bIPbyYeJDdk8GI03UA"
+    },
+    {
+      "album": {
+        "name": "Tell Me Twice",
+        "url": "https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa"
+      },
+      "artists": [
+        {
+          "name": "Rodell Duff",
+          "url": "https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154376,
+      "name": "Tell Me Twice",
+      "url": "https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp"
     },
     {
       "album": {
@@ -10775,7 +11027,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 173790,
       "name": "The Sound of Country Music",
       "url": "https://open.spotify.com/track/7jcJisbd3fORC1afjcBaRv"
@@ -11341,6 +11593,24 @@
       "duration_ms": 181253,
       "name": "U or Nothing",
       "url": "https://open.spotify.com/track/4EJyH12rmUPiDC6SE8qtpA"
+    },
+    {
+      "album": {
+        "name": "Up for Anything",
+        "url": "https://open.spotify.com/album/7AJ3hmhd1cpn4ra44tc2Tf"
+      },
+      "artists": [
+        {
+          "name": "Landon Parker",
+          "url": "https://open.spotify.com/artist/521JXQZX3YA67xdLe42Byy"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "Up for Anything",
+      "url": "https://open.spotify.com/track/4NRNJjWZQgWe4k22zpLfuq"
     },
     {
       "album": {
@@ -12308,6 +12578,24 @@
     },
     {
       "album": {
+        "name": "Wild Thing",
+        "url": "https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162969,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1"
+    },
+    {
+      "album": {
         "name": "Miles On Main / Wild Woman",
         "url": "https://open.spotify.com/album/1wwjlUmksFWlxgMiQrc4Gp"
       },
@@ -12819,7 +13107,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 238573,
       "name": "Young and Stupid",
       "url": "https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB"

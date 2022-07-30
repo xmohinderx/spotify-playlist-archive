@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128514,
+  "num_followers": 128520,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU0NCw0MWMxMmYyNjlkZTQ1MDJhZWFlNTI2MDQ2MWQzMmEzNTNkODg0MzYw",
+  "snapshot_id": "MzU0OCxhMzUwMWRlNDU2MzU1Nzg4ZjZhNzFmZTUyMzE2ZGIzNDAzZjY5YWI1",
   "tracks": [
+    {
+      "added_at": "2022-07-29 16:05:49",
+      "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3YXY6jez22pVNCLbnaShzy"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 225117,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4sYTZ4T4McMnwHMaAdFDM7"
+    },
+    {
+      "added_at": "2022-07-29 16:05:37",
+      "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00f8a",
+          "url": "https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I"
+        },
+        {
+          "name": "Astroleaf",
+          "url": "https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4"
+        }
+      ],
+      "duration_ms": 267750,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO"
+    },
     {
       "added_at": "2022-07-28 16:57:26",
       "album": {
@@ -200,7 +236,7 @@
           "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         }
       ],
-      "duration_ms": 205984,
+      "duration_ms": 206929,
       "name": "Red",
       "url": "https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK"
     },
@@ -1083,42 +1119,6 @@
       "duration_ms": 174310,
       "name": "back2u",
       "url": "https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8"
-    },
-    {
-      "added_at": "2022-05-20 16:37:44",
-      "album": {
-        "name": "Sparkles",
-        "url": "https://open.spotify.com/album/2ghE7Le8NAqLntY7oVq1so"
-      },
-      "artists": [
-        {
-          "name": "Terry Da Libra",
-          "url": "https://open.spotify.com/artist/1N18Bl1O1zRsE0uRrt3ekB"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Sparkles",
-      "url": "https://open.spotify.com/track/7jfKrTeq6JMzWd7hwvwCY9"
-    },
-    {
-      "added_at": "2022-05-19 16:16:48",
-      "album": {
-        "name": "Dichotomy",
-        "url": "https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 221028,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 38934,
+  "num_followers": 38951,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMGRhNWQ2YjlkMTQ0ZWRkN2I3NGZhMGUyNGZkMzFlZjQ1",
+  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMGY4NDQxZTQzNjQ3YTY1M2E3ZTEyZTdjMTJlMmUzM2M1",
   "tracks": [
     {
       "added_at": "2022-07-10 16:52:42",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Eleanor",
-        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 233469,
-      "name": "Eleanor - Edit",
-      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Shouldn't Have To Run",
-        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
+        "name": "Eleanor",
+        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "Joie Tan",
-          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 165971,
-      "name": "Shouldn't Have To Run",
-      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
+      "duration_ms": 233469,
+      "name": "Eleanor - Edit",
+      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -975,6 +955,26 @@
       "duration_ms": 216530,
       "name": "the boy",
       "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
+        "name": "Shouldn't Have To Run",
+        "url": "https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Joie Tan",
+          "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
+        }
+      ],
+      "duration_ms": 165971,
+      "name": "Shouldn't Have To Run",
+      "url": "https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk"
     },
     {
       "added_at": "2022-07-10 16:52:42",

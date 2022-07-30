@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\ude79 (in cover, fasma)",
-  "num_followers": 33419,
+  "num_followers": 33433,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDgxNTZlNzZmYTM4NjZjN2ZmZjNiNTkzMzZiNjhjMjMw",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDFjZTYwM2Q3N2ZjN2NlMjYwNDc2YTg3MzgxNmJhNTFi",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -143,6 +143,30 @@
       "duration_ms": 163404,
       "name": "Paranoie",
       "url": "https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Mille Gatti",
+        "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        },
+        {
+          "name": "Ayden Lau",
+          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mille Gatti",
+      "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -803,6 +827,30 @@
       "duration_ms": 180763,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Cicatrici",
+        "url": "https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT"
+      },
+      "artists": [
+        {
+          "name": "piccoli brividi",
+          "url": "https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r"
+        },
+        {
+          "name": "Jianguar",
+          "url": "https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF"
+        },
+        {
+          "name": "Kuiper",
+          "url": "https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Cicatrici",
+      "url": "https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d"
     },
     {
       "added_at": "2022-07-28 22:01:00",

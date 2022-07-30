@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 129440,
       "name": "A Wrinkle in Time",
       "url": "https://open.spotify.com/track/5DYImENykLtvddFYExR23e"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 126386,
       "name": "Monsters, Inc.",
       "url": "https://open.spotify.com/track/5e0O7MjhNHq9G67qDFM8nR"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 76133,
       "name": "Nemo Egg (Main Title)",
       "url": "https://open.spotify.com/track/7jSQaXLzpLHjSQTev2krvT"
@@ -2177,6 +2177,24 @@
       "duration_ms": 119986,
       "name": "Wall-E",
       "url": "https://open.spotify.com/track/0j5oKPEkEmUx1vGHj3uOcv"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Talk About Bruno (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244311,
+      "name": "We Don\u2019t Talk About Bruno - From \"Encanto\"",
+      "url": "https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy"
     },
     {
       "album": {

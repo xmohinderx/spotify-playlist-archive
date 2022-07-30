@@ -1,13 +1,89 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Lupe Fiasco",
-  "num_followers": 1102950,
+  "num_followers": 1103396,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUxNjk0NCwwMDAwMDAwMGM5NGEwNGFjZWRiYzU3ZTdjZjlhZjJhMGMwOTFmY2Ji",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDJkZTk5OGE0MDI5ZTk0NDIxNTE4OTY5NjIwYTBmMjMz",
   "tracks": [
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "In My Pockets",
+        "url": "https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "In My Pockets",
+      "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
+    },
+    {
+      "added_at": "2022-07-15 04:15:57",
+      "album": {
+        "name": "Private Valet",
+        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 149074,
+      "name": "Private Valet",
+      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "added_at": "2022-07-22 19:09:04",
+      "album": {
+        "name": "THE VISION (feat. Anderson .Paak)",
+        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 137634,
+      "name": "THE VISION (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
+    },
     {
       "added_at": "2022-07-22 19:09:04",
       "album": {
@@ -41,40 +117,20 @@
       "url": "https://open.spotify.com/track/2qfPBPq9BEVEd1GF4UH96H"
     },
     {
-      "added_at": "2022-07-22 19:09:04",
+      "added_at": "2022-07-08 04:03:39",
       "album": {
-        "name": "THE VISION (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm"
+        "name": "Peace \"Fly\" God",
+        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
       },
       "artists": [
         {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 137634,
-      "name": "THE VISION (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3"
-    },
-    {
-      "added_at": "2022-07-15 04:15:57",
-      "album": {
-        "name": "Private Valet",
-        "url": "https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 149074,
-      "name": "Private Valet",
-      "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
+      "duration_ms": 214187,
+      "name": "Derrick Boleman",
+      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
     },
     {
       "added_at": "2022-06-29 20:41:54",
@@ -101,30 +157,6 @@
       "url": "https://open.spotify.com/track/39HH3TTdJOxcklLvocgemQ"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "WAIT FOR U (feat. Drake & Tems)",
-      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
-    },
-    {
       "added_at": "2022-07-15 04:15:57",
       "album": {
         "name": "Zipcodes",
@@ -139,22 +171,6 @@
       "duration_ms": 267173,
       "name": "Zipcodes",
       "url": "https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy"
-    },
-    {
-      "added_at": "2022-07-08 04:03:39",
-      "album": {
-        "name": "Peace \"Fly\" God",
-        "url": "https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Derrick Boleman",
-      "url": "https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -215,6 +231,22 @@
       "duration_ms": 234089,
       "name": "Violence",
       "url": "https://open.spotify.com/track/06r4k5ncgrDmgrf9mlncR4"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Stone Rolling",
+        "url": "https://open.spotify.com/album/7al2qlrlND8C2sA1UGaYDF"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Stone Rolling",
+      "url": "https://open.spotify.com/track/4ur8qEgQgCCZaD1Jf4XRMF"
     },
     {
       "added_at": "2022-04-29 04:30:50",
@@ -1241,26 +1273,6 @@
       "url": "https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA"
     },
     {
-      "added_at": "2022-05-13 04:01:00",
-      "album": {
-        "name": "Lil Black Jean Jacket 3",
-        "url": "https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn"
-      },
-      "artists": [
-        {
-          "name": "A$AP ANT",
-          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/4IBhWkipPxDhSRhMaA83FA"
-    },
-    {
       "added_at": "2022-04-01 04:00:00",
       "album": {
         "name": "better",
@@ -1771,26 +1783,6 @@
       "duration_ms": 232053,
       "name": "My Favorite Song",
       "url": "https://open.spotify.com/track/6d6Rm6ZHVz8AkE28HkO8eM"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Come My Way (feat. Krayzie Bone)",
-        "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Come My Way (feat. Krayzie Bone)",
-      "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
     },
     {
       "added_at": "2022-02-04 22:46:33",

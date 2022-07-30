@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157344,
+  "num_followers": 157339,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGM4MzVjNjRmNjc3YTUyMjBmNTcwODBjNzNkMjk3NTkx",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDE5YzEyYjdkYjE2MjNkOWFlYjI4MmY2ZDQ0NWE1NDQ2",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -447,22 +447,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
+        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
       },
       "artists": [
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         },
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 161190,
-      "name": "Creep - mint Singles",
-      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
+      "duration_ms": 198946,
+      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
+      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -487,26 +491,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB"
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Resilient (ft. Aitana) [Ti\u00ebsto Remix]",
-      "url": "https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2"
+      "duration_ms": 161190,
+      "name": "Creep - mint Singles",
+      "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -651,30 +651,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In Your Eyes (feat. Alida) [LUM!X Remix]",
-        "url": "https://open.spotify.com/album/7uqg0348XuSZ9GZzndW20W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "In Your Eyes (feat. Alida) - LUM!X Remix",
-      "url": "https://open.spotify.com/track/4sDsOUcpA53YU5HZ8A3VZT"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 134330,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "In Your Eyes (feat. Alida) [LUM!X Remix]",
+        "url": "https://open.spotify.com/album/7uqg0348XuSZ9GZzndW20W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "In Your Eyes (feat. Alida) - LUM!X Remix",
+      "url": "https://open.spotify.com/track/4sDsOUcpA53YU5HZ8A3VZT"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Detroit 3 AM (Radio Edit)",
         "url": "https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 188640,
       "name": "Detroit 3 AM - Radio Edit",
       "url": "https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
+      },
+      "artists": [
+        {
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
+        },
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        }
+      ],
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Have You Never Been Mellow",
+        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 147742,
+      "name": "Have You Never Been Mellow",
+      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Don't Worry (feat. Aloe Blacc)",
         "url": "https://open.spotify.com/album/6bpPgFrZep5KGl9nFsoT8L"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 175098,
       "name": "Don't Worry (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/0KwlzQaySxzPkt0nELecnx"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Have You Never Been Mellow",
-        "url": "https://open.spotify.com/album/2ogR1UtExIIzxEfKZekFjg"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 147742,
-      "name": "Have You Never Been Mellow",
-      "url": "https://open.spotify.com/track/6a92Xzgq2rDcISB4St84Bs"
     },
     {
       "added_at": "2022-07-15 14:10:44",

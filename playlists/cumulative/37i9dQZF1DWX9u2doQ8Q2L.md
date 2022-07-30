@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-200 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+202 songs - 12 hr 41 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cut!](https://open.spotify.com/track/7Gk6wh2JTAH8d9eqU3GKon) | [Solgasa](https://open.spotify.com/artist/2OnKo4AWIS0E2QLKLW8VPQ), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Tommi Crane](https://open.spotify.com/artist/0CRkzSoef3FA1WzmwyHrku), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk), [KRICK](https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2) | [Cut!](https://open.spotify.com/album/6BZ2CdqYFy2p0RatF8A5sH) | 3:46 | 2022-07-26 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2022-06-06 |  |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-07-06 |
+| [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 | 2022-07-28 |  |
 | [Deep Himawari](https://open.spotify.com/track/4Djw11FVmjUYfOOS96qIgW) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Deep Himawari](https://open.spotify.com/album/3CbskWWeIvgowtLb2MQAaZ) | 3:34 | 2022-06-23 | 2022-07-20 |
 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 | 2022-06-21 | 2022-07-20 |
 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 | 2022-05-26 | 2022-06-10 |
@@ -106,6 +107,7 @@
 | [puzzle \(feat\. ひかり\)](https://open.spotify.com/track/4H6M9rJ0BPI2FZZEBEGlVp) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [puzzle \(feat\. ひかり\)](https://open.spotify.com/album/6JGPL4qyKN9YLQc38f72ol) | 3:30 | 2022-07-19 |  |
 | [Radio Star](https://open.spotify.com/track/403fQdcKjArXQGy9N9Ovee) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Radio Star](https://open.spotify.com/album/5sTnegCUd4nlDKucRR6tHY) | 3:48 | 2022-07-19 |  |
 | [Rainbow](https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Rainbow](https://open.spotify.com/album/30NIxP2VrovM30Jm0CvMhU) | 4:09 | 2022-05-26 | 2022-07-01 |
+| [REAL U](https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [REAL U](https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh) | 3:33 | 2022-07-28 |  |
 | [RECIPE](https://open.spotify.com/track/6zRjzLaCarPcnPUb4Zrh0W) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 3:32 | 2022-06-28 |  |
 | [RECIPE feat\. IRONBOY](https://open.spotify.com/track/4YclzoUsvIQOWidEpIuqBo) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne) | [RECIPE feat\. IRONBOY](https://open.spotify.com/album/4YNUmGFqLRX4INc2hRSgCq) | 2:58 | 2022-07-26 |  |
 | [Remember The Audio](https://open.spotify.com/track/1ZHzFlhBTgO98VZv2iLcDx) | [Monkey House](https://open.spotify.com/artist/0yC3u4FxOb5RZ5J8ozi4EH) | [Remember The Audio](https://open.spotify.com/album/7HBOCq3p8ARpj8cwbttUSw) | 4:24 | 2022-07-12 | 2022-07-29 |
@@ -195,7 +197,7 @@
 | [旅行](https://open.spotify.com/track/0psnaTdXFZvtCdmh2aRHr9) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [ぼちぼち銀河](https://open.spotify.com/album/0RRXWd6gJfKy34WF8RCkfs) | 3:36 | 2022-05-26 | 2022-07-08 |
 | [春](https://open.spotify.com/track/1c5WGEFzoVi0EfgZxbX1P1) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:33 | 2022-05-26 | 2022-06-29 |
 | [未来時代](https://open.spotify.com/track/3rMVgn486bfoyJEvkb6xmX) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [未来時代](https://open.spotify.com/album/1VCSBg9Vf3jNgRZfgFVwTS) | 4:41 | 2022-05-26 | 2022-06-29 |
-| [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
+| [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 |  |
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-26 | 2022-06-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-05-26 | 2022-06-18 |

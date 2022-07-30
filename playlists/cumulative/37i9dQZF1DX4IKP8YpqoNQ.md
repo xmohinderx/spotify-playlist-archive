@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-181 songs - 15 hr 24 min - [published](https://open.spotify.com/playlist/2sS4qkEiXB06QFdcBpO2nu)
+182 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/2sS4qkEiXB06QFdcBpO2nu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Love & Hate \- Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 8:33 | 2022-02-10 |  |
 | [Love Is A Losing Game \- Live At The Mercury Music Awards](https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:32 | 2022-02-10 |  |
 | [Love the One You're With \- Live at Fillmore West, San Francisco, February 5, 1971](https://open.spotify.com/track/0tFlfhP555Y1alrtpw23Ch) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Live at Fillmore West](https://open.spotify.com/album/2LDYdZO5TMa9ZE9gj6VGuc) | 4:21 | 2022-02-10 |  |
+| [Mary Jane \(All Night Long\) \- Live](https://open.spotify.com/track/2gaALAQJNNtFkE2Tu2kzuS) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 2:20 | 2022-02-10 |  |
 | [Me And Those Dreamin Eyes Of Mine](https://open.spotify.com/track/6nnBuAz7hScFYjkYZdL6SX) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 4:46 | 2022-02-10 | 2022-07-27 |
 | [Misty Blue \- Live](https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Tour](https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S) | 5:08 | 2022-02-10 |  |
 | [Monkey See Monkey Do \(Live\)](https://open.spotify.com/track/4UUJ5wfsvfCRSr2CzT1nlp) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om), [Crossfire](https://open.spotify.com/artist/1v9OD6pSPWMs0N9WDMhk2S) | [Michael Franks with Crossfire \(Live\)](https://open.spotify.com/album/1umbPkbZ9KElFRAFPnx6ed) | 6:24 | 2022-02-10 | 2022-07-29 |
@@ -177,7 +178,7 @@
 | [What's Going On \- Live](https://open.spotify.com/track/1QQgtnvXfArwOCq7zYSE5g) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 5:17 | 2022-02-10 |  |
 | [What's Going On \- Live At Oakland Coliseum, CA / 1974](https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Expanded Edition\)](https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV) | 4:49 | 2022-02-10 |  |
 | [What's Going On \- Live At Oakland Coliseum, CA/1974](https://open.spotify.com/track/0uNx7f5FgjKODnbzvdRCeu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live \(Reissue\)](https://open.spotify.com/album/6F971hrVKRBdeJEz3HskeN) | 4:49 | 2022-02-10 | 2022-07-29 |
-| [Woman Of The Ghetto \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/3BykBzEvJtKzlUAzlRaxky) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At The Montreux](https://open.spotify.com/album/0x0qaQ9pSWLzAgFo2NKmju) | 9:58 | 2022-02-10 |  |
+| [Woman Of The Ghetto \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/3BykBzEvJtKzlUAzlRaxky) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At The Montreux](https://open.spotify.com/album/0x0qaQ9pSWLzAgFo2NKmju) | 9:58 | 2022-02-10 | 2022-07-30 |
 | [Woman Of The Ghetto \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/65G7H4iqy4wwugOdfM04rn) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At Montreux](https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj) | 9:58 | 2022-02-10 | 2022-07-29 |
 | [World Keeps Going Around \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/3wrplbWL52Ow8bqSua7ACb) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 5:19 | 2022-02-10 |  |
 | [You Are The Sunshine Of My Life \- Live/1995](https://open.spotify.com/track/1X7pAMmAev9iZ4Ye6YZyU6) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6epDXeJEH7nM90fzgchqfr) | 2:21 | 2022-02-10 | 2022-07-29 |

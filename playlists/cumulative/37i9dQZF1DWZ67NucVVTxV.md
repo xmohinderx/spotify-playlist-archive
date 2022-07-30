@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-101 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
+103 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/5bccOttEzOUcg3AcTtFobR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-06-30 |  |
 | [Billing](https://open.spotify.com/track/5Uf7FM6gBCvAp8NRXEeghY) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Billing](https://open.spotify.com/album/453klLTlEAFDEBFvJiR3Xw) | 2:45 | 2022-07-28 |  |
 | [Blessed](https://open.spotify.com/track/6CXRRCv2CM0bRn4RgmNR8J) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Blessed](https://open.spotify.com/album/0WeSQZI8q1oY5FkCJh8sH7) | 2:55 | 2022-06-30 | 2022-07-23 |
+| [Blessings](https://open.spotify.com/track/5tDP97l3FFgLKmAkP029rw) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT), [Tega Starr](https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb) | [Blessings](https://open.spotify.com/album/4NEEvkvHl6aDZofeHm5AcQ) | 2:45 | 2022-07-28 |  |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2021-11-25 | 2022-07-26 |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 |  |
+| [Bonsam Dollar](https://open.spotify.com/track/4JiMqXP10Z37OscLQgUbzZ) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [King of Melodies](https://open.spotify.com/album/1ifp91N2jYTmlLqT1Su4ma) | 2:44 | 2022-07-28 |  |
 | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/track/6ztz7MysNjHec8CHmigWDp) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Born \(Remix\) \[feat\. Cashh & King Promise\]](https://open.spotify.com/album/5c2opaEOTa8gn5Ufinm3H1) | 2:47 | 2022-07-14 |  |
 | [Can't Stop Me](https://open.spotify.com/track/4goMPS6RIikE3MmfrUYVrj) | [badthesoundboy](https://open.spotify.com/artist/39xSEItKpV8z7fhtLn5lRI) | [Can't Stop Me](https://open.spotify.com/album/7gfBnv1pWY6a3JLceiXeAE) | 2:18 | 2022-04-07 |  |
 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 | 2021-11-18 |  |

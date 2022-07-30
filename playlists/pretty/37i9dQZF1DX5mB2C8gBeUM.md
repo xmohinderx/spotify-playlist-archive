@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Jillian Jacqueline
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,183 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,346 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 18 | [K\[no\]w Better](https://open.spotify.com/track/4oPZQzSt5mD8BxV2T9zbzI) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [K\[no\]w Better](https://open.spotify.com/album/4IF6tCmUA0seAPrh4rUABg) | 2:47 |
 | 19 | [Turnt](https://open.spotify.com/track/6bwRDyna9lHRw5NOBWlsXh) | [Eric Burgett](https://open.spotify.com/artist/0XDSGQH1ejpL2C42Sady10) | [Turnt](https://open.spotify.com/album/10S4Tsq1IkFSHkYvSOSloH) | 3:39 |
 | 20 | [Wild Frontier](https://open.spotify.com/track/22B9J6s9aow7JYeECKXqUI) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Stephanie Quayle](https://open.spotify.com/album/1aEYhs7G0H42T0t36lzu4W) | 3:36 |
-| 21 | [Accidentally on Purpose](https://open.spotify.com/track/1aFf7UJwTpI5AV1xfLXlhJ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Accidentally on Purpose](https://open.spotify.com/album/2s4FZW0AtYfV1PTrM2vjKm) | 3:04 |
-| 22 | [Hometown Tonight](https://open.spotify.com/track/5Jqhy024ozWzluqSjWvTaS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Hometown Tonight](https://open.spotify.com/album/4WK2AD04WjBAS4Cip5yZ9N) | 2:48 |
-| 23 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 |
-| 24 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 |
-| 25 | [All Joy No Stress](https://open.spotify.com/track/2ziOiTjFSn7zQ5w19SIcPp) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Gospel Song \- EP](https://open.spotify.com/album/59637NFu1AkFC1a39GoEe7) | 2:54 |
+| 21 | [Carrying Your Love](https://open.spotify.com/track/7vbBHT7dLLeYr1aR5whaNc) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Carrying Your Love](https://open.spotify.com/album/2oFeWNfRKYdtFYdgvDPxeP) | 2:35 |
+| 22 | [Accidentally on Purpose](https://open.spotify.com/track/1aFf7UJwTpI5AV1xfLXlhJ) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Accidentally on Purpose](https://open.spotify.com/album/2s4FZW0AtYfV1PTrM2vjKm) | 3:04 |
+| 23 | [Hometown Tonight](https://open.spotify.com/track/5Jqhy024ozWzluqSjWvTaS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Hometown Tonight](https://open.spotify.com/album/4WK2AD04WjBAS4Cip5yZ9N) | 2:48 |
+| 24 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 |
+| 25 | [Out Yonder](https://open.spotify.com/track/6qD87YEMuF9pY4g3MtSeiG) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Out Yonder](https://open.spotify.com/album/6tUQwE1bKzyW54f7vkEg4P) | 3:22 |
 | 26 | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/track/16Sdmdt7jpibASwEsO0s9j) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Worth A Shot \(feat\. Dierks Bentley\)](https://open.spotify.com/album/6BkvN6AfqiLF186w0SThQm) | 3:31 |
 | 27 | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/track/0MmVE2K5YbUxx54Kke0mWY) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Summer Heat \(with Chase Matthew\)](https://open.spotify.com/album/25ymYbAX8kx0LwzoDUSPzt) | 3:08 |
 | 28 | [Rather Be Broke](https://open.spotify.com/track/3u5VNiGarGDcBYuM26XXaC) | [Jordan Fletcher](https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a) | [Rather Be Broke](https://open.spotify.com/album/3HNKlvVe8NwP4hd2WK25QQ) | 2:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 149 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 150 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDlhNzYwMWFmNThlN2M4ODZiZDAxZjlkY2YzYmM4MGE3`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDhkY2M5NzE0ZDEzOWVhYmJjMmQ3YWU5ODIzZGQzMTM4`

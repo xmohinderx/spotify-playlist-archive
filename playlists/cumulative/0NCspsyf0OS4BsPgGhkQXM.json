@@ -5746,6 +5746,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2cT6yVZVQGvckVJmloq1by"
+      },
+      "artists": [
+        {
+          "name": "Hopex",
+          "url": "https://open.spotify.com/artist/0dE2azLipjakJifWO2xrOO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4ebr5AnOETSAEA44d7WPRq"
+    },
+    {
+      "album": {
         "name": "Paradise Lost",
         "url": "https://open.spotify.com/album/45IlRslbY2q1bvRMHSVDD9"
       },

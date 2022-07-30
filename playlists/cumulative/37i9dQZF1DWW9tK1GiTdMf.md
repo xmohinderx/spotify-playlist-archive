@@ -4,7 +4,7 @@
 
 > canzoni da gridare in questa summersad ❤️‍🩹 🌦 e in cover olly
 
-207 songs - 9 hr 31 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+209 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [SUI MURI](https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [SUI MURI](https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf) | 3:01 | 2022-05-06 | 2022-06-03 |
 | [SUMMERSAD 3](https://open.spotify.com/track/2sVK7UjS87H83ryrVq8vbY) | [Theø](https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd), [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [Fiks](https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze) | [SUMMERSAD 3](https://open.spotify.com/album/7Fzw18wH8fL3ehoyukQRKt) | 2:51 | 2022-06-30 |  |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/5JKnYZOhSP7rOK0jPYcCjV) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:48 | 2022-06-27 |  |
+| [Tatuaggi](https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [Tatuaggi](https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp) | 2:42 | 2022-07-28 |  |
 | [Te tra le cose](https://open.spotify.com/track/0m22YZOycFxIQ3iXHGrqJT) | [WENDY’S PARADE](https://open.spotify.com/artist/4rUdPudp1ZaBhsb5104EEN) | [Te tra le cose](https://open.spotify.com/album/2nFJk9xN0zbMhUzUmS9pJt) | 2:37 | 2022-06-23 | 2022-07-01 |
 | [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-13 | 2022-07-29 |
 | [This Side of Paradise](https://open.spotify.com/track/79EkGysjP2dL5GdpeQjRxT) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [Color](https://open.spotify.com/album/2WADI6qysXnT8cpXKbH8nv) | 4:02 | 2022-06-16 | 2022-06-28 |
@@ -204,6 +205,7 @@
 | [Un'altra volta](https://open.spotify.com/track/6SYs6LpcQaYvFcHmJDjTdy) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Un'altra volta](https://open.spotify.com/album/1ZCjKIKZFIO3V62Yx6mkTr) | 2:05 | 2022-05-06 |  |
 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 | 2022-05-06 | 2022-07-01 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-26 | 2022-06-10 |
+| [Vaffanculo](https://open.spotify.com/track/548LyUc3pWyFwzc65W8iOS) | [Emmeffe](https://open.spotify.com/artist/1ysP3azGK2mKVXFdZr3BtK) | [Vaffanculo](https://open.spotify.com/album/5YrCSnfadRdt1iaeC5sYQy) | 3:10 | 2022-07-28 |  |
 | [Vestita Di Fiori](https://open.spotify.com/track/2bHsanZayVWXyMvtTYS3rZ) | [Shori](https://open.spotify.com/artist/7e2mwTlmw50hYfwXatQiLG) | [Vestita Di Fiori](https://open.spotify.com/album/5omJpBPuoNpIS39W6U7FzF) | 2:24 | 2022-05-06 | 2022-06-17 |
 | [VIPERA](https://open.spotify.com/track/5tXEeMYoOK8El79eiggGYv) | [babyfacesucco](https://open.spotify.com/artist/2dvN642bZTN1Qkm52H5V0s) | [VIPERA](https://open.spotify.com/album/5n4mtCQMkRVmeQftJ6h5Ce) | 2:39 | 2022-07-21 |  |
 | [vita deficiente](https://open.spotify.com/track/2GXUtI5Q2sFaoQPzMCwgz9) | [Piccola kappa](https://open.spotify.com/artist/1OtNgQFoP2nnK8dxxTcLhN) | [vita deficiente](https://open.spotify.com/album/68jAV8iOMN9ciOoFxvXK65) | 2:05 | 2022-05-06 | 2022-06-03 |

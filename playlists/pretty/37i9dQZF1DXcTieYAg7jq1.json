@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 397805,
+  "num_followers": 397895,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDllYTQwMzViNzNkM2I0ZTRkN2FlYjFiNGFlMzMyOGYx",
+  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDVmNmZhYWFmZDhhNjQ5ZTIzNDM1YmFmMmNiNmViMzU1",
   "tracks": [
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Obviously",
-        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Hypotheticals - Edit",
-      "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "The Bridge (Deluxe)",
         "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 194418,
       "name": "If It's Love",
       "url": "https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Obviously",
+        "url": "https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 190647,
+      "name": "Hypotheticals - Edit",
+      "url": "https://open.spotify.com/track/1x05ZRPr2FprwUP7MjWefh"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Moments in Between",
@@ -1363,6 +1347,22 @@
       "duration_ms": 208106,
       "name": "Sweet Chamomile",
       "url": "https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4"
+    },
+    {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW"
     },
     {
-      "added_at": "2022-05-27 21:16:50",
-      "album": {
-        "name": "I Feel Fine",
-        "url": "https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "I Feel Fine",
-      "url": "https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D"
-    },
-    {
       "added_at": "2022-05-17 14:55:58",
       "album": {
         "name": "Breaking Myself",
@@ -1635,6 +1619,22 @@
       "duration_ms": 174906,
       "name": "Breaking Myself",
       "url": "https://open.spotify.com/track/0WoQVuNBdcuEvqeKZowqIK"
+    },
+    {
+      "added_at": "2022-05-27 21:16:50",
+      "album": {
+        "name": "I Feel Fine",
+        "url": "https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "I Feel Fine",
+      "url": "https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D"
     },
     {
       "added_at": "2022-01-07 05:02:00",

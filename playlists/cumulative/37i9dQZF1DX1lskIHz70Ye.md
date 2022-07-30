@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-124 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
+125 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/0NRIi162ZzHvIFqC70MezX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [My Foolish Heart](https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF) | [Nino Josele](https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT) | [Paz](https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k) | 5:04 | 2022-03-03 | 2022-07-15 |
 | [My Take on Solidao.](https://open.spotify.com/track/1q1ZNQxbhgNhn1l4GShNmp) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/3SwW2r8dgDM7yHybjQbl8E) | 2:35 | 2022-03-03 | 2022-07-15 |
 | [Night Dance](https://open.spotify.com/track/3UjyPNKrGmRvwGycvLjqY6) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Night Dance](https://open.spotify.com/album/2YMiPnsaX4cyhh2CE70uxw) | 3:03 | 2022-03-03 |  |
+| [Nurturing Peace \(No\. 13, Op\. 60, Fernando Sor\)](https://open.spotify.com/track/4k2KXpsNd0pfGcWgGAQqHm) | [Ricardo Alves Pereira](https://open.spotify.com/artist/7D7x8UG2oPE8pG5t9FDJrF) | [Nurturing Peace \(No\. 13, Op\. 60, Fernando Sor\)](https://open.spotify.com/album/6Lnn3hiDMlQF3NPDoOdGD5) | 1:56 | 2022-07-29 |  |
 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 | 2022-03-03 |  |
 | [Obliviate](https://open.spotify.com/track/50YUbQtYt4xbu4KHROCnHZ) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 1](https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466) | 3:23 | 2022-03-03 | 2022-07-15 |
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2022-03-03 |  |

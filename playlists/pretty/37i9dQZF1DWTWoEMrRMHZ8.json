@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Rachel Reis",
-  "num_followers": 319380,
+  "num_followers": 319490,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5NjEyNiwwMDAwMDAwMGMwY2U5ODEyN2VkODk0MmI5NGVhODlmYTQzNzNhOGVj",
+  "snapshot_id": "MTY1ODQ5NjEyNiwwMDAwMDAwMDEyMDdlMjg0ODVjNTk0MzExZTdlZjMyOTVkYTZjNTNh",
   "tracks": [
     {
       "added_at": "2022-07-22 13:22:06",
@@ -959,38 +959,6 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Sem Pensar No Amanh\u00e3",
-        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Sem Pensar No Amanh\u00e3",
-      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
-        "name": "L\u00edngua Brasileira",
-        "url": "https://open.spotify.com/album/2LzXqHfjvSnWUhRqhWbFYV"
-      },
-      "artists": [
-        {
-          "name": "Tom Z\u00e9",
-          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
-        }
-      ],
-      "duration_ms": 343743,
-      "name": "Hy-Brasil Terra Sem Mal",
-      "url": "https://open.spotify.com/track/1AfcJHMFq5pypv4MBfO9wb"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
         "name": "Choro Sim",
         "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
       },
@@ -1011,6 +979,90 @@
       "duration_ms": 204214,
       "name": "Choro Sim",
       "url": "https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
+        "name": "Sem Pensar No Amanh\u00e3",
+        "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Sem Pensar No Amanh\u00e3",
+      "url": "https://open.spotify.com/track/217knqZIwKP1z2CJ4XzHua"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
+        "name": "Duetos 2",
+        "url": "https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho e Gilberto Gil",
+          "url": "https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "Mancada",
+      "url": "https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
+        "name": "L\u00edngua Brasileira",
+        "url": "https://open.spotify.com/album/2LzXqHfjvSnWUhRqhWbFYV"
+      },
+      "artists": [
+        {
+          "name": "Tom Z\u00e9",
+          "url": "https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27"
+        }
+      ],
+      "duration_ms": 343743,
+      "name": "Hy-Brasil Terra Sem Mal",
+      "url": "https://open.spotify.com/track/1AfcJHMFq5pypv4MBfO9wb"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
+        "name": "Marquinha",
+        "url": "https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "duration_ms": 137363,
+      "name": "Marquinha",
+      "url": "https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
+        "name": "Chico Chico & Fran Ao Vivo no Rio",
+        "url": "https://open.spotify.com/album/2g9BywNzkSuw0dgLDflALh"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        }
+      ],
+      "duration_ms": 167061,
+      "name": "\u00c1rvore - Ao Vivo no Rio",
+      "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1039,54 +1091,54 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Chico Chico & Fran Ao Vivo no Rio",
-        "url": "https://open.spotify.com/album/2g9BywNzkSuw0dgLDflALh"
+        "name": "Preciso Me Encontrar",
+        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         },
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+          "name": "Pl\u00ednio Profeta",
+          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
         }
       ],
-      "duration_ms": 167061,
-      "name": "\u00c1rvore - Ao Vivo no Rio",
-      "url": "https://open.spotify.com/track/6ck63Hkr6XAuLdOioWyAjQ"
+      "duration_ms": 168681,
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
     },
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Marquinha",
-        "url": "https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ"
+        "name": "Teu Olhar Me Fisgou",
+        "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
       },
       "artists": [
         {
-          "name": "Salma e Mac",
-          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 137363,
-      "name": "Marquinha",
-      "url": "https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2"
+      "duration_ms": 228150,
+      "name": "Teu Olhar Me Fisgou",
+      "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
     },
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Duetos 2",
-        "url": "https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC"
+        "name": "Haja Terapia",
+        "url": "https://open.spotify.com/album/0MNsiQPRNKaGSCUUoZN6mQ"
       },
       "artists": [
         {
-          "name": "Beth Carvalho e Gilberto Gil",
-          "url": "https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM"
+          "name": "Simone",
+          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
         }
       ],
-      "duration_ms": 172774,
-      "name": "Mancada",
-      "url": "https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n"
+      "duration_ms": 236746,
+      "name": "Haja Terapia",
+      "url": "https://open.spotify.com/track/5VEctr8aL3Bn1sEki7B4KA"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1111,54 +1163,18 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Teu Olhar Me Fisgou",
-        "url": "https://open.spotify.com/album/7MVqn3OAoOHsCBcGsI0av8"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/23UR4Z6ZHtQQM0hsMobUY6"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Vini Vercillo",
+          "url": "https://open.spotify.com/artist/4GKhvnGcJfSkSLOC0Do40q"
         }
       ],
-      "duration_ms": 228150,
-      "name": "Teu Olhar Me Fisgou",
-      "url": "https://open.spotify.com/track/7sX43sJy6vkd0uBGoRlKzL"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
-        "name": "Preciso Me Encontrar",
-        "url": "https://open.spotify.com/album/168Yh2b1a17bk6sCoQwllU"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Pl\u00ednio Profeta",
-          "url": "https://open.spotify.com/artist/1pLubahqY7XYZ83pBJ37U2"
-        }
-      ],
-      "duration_ms": 168681,
-      "name": "Preciso Me Encontrar",
-      "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
-        "name": "Haja Terapia",
-        "url": "https://open.spotify.com/album/0MNsiQPRNKaGSCUUoZN6mQ"
-      },
-      "artists": [
-        {
-          "name": "Simone",
-          "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Haja Terapia",
-      "url": "https://open.spotify.com/track/5VEctr8aL3Bn1sEki7B4KA"
+      "duration_ms": 202892,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/3KG82gCnam0YCY22Af3Ma7"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1343,18 +1359,22 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/23UR4Z6ZHtQQM0hsMobUY6"
+        "name": "ladoAlado",
+        "url": "https://open.spotify.com/album/5RZGgZ2lgVSrEp9yPMMAmD"
       },
       "artists": [
         {
-          "name": "Vini Vercillo",
-          "url": "https://open.spotify.com/artist/4GKhvnGcJfSkSLOC0Do40q"
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        },
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
         }
       ],
-      "duration_ms": 202892,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/3KG82gCnam0YCY22Af3Ma7"
+      "duration_ms": 196810,
+      "name": "ladoAlado",
+      "url": "https://open.spotify.com/track/251SKepsXZizogAxHaV8K3"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "ladoAlado",
-        "url": "https://open.spotify.com/album/5RZGgZ2lgVSrEp9yPMMAmD"
+        "name": "Viol\u00e3o \u00c9 no Fundo do Quintal 2",
+        "url": "https://open.spotify.com/album/07GwgunZwIdv7JbGYBudkh"
       },
       "artists": [
         {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
-        },
-        {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+          "name": "Leandro Lehart",
+          "url": "https://open.spotify.com/artist/5jnbP9Tp4rXCLhYHsDfqtw"
         }
       ],
-      "duration_ms": 196810,
-      "name": "ladoAlado",
-      "url": "https://open.spotify.com/track/251SKepsXZizogAxHaV8K3"
+      "duration_ms": 190166,
+      "name": "\u00c9 Tanta",
+      "url": "https://open.spotify.com/track/680Qr1d3HRhVHN2A66aHHT"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1491,18 +1507,22 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Viol\u00e3o \u00c9 no Fundo do Quintal 2",
-        "url": "https://open.spotify.com/album/07GwgunZwIdv7JbGYBudkh"
+        "name": "T\u00f4",
+        "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
       },
       "artists": [
         {
-          "name": "Leandro Lehart",
-          "url": "https://open.spotify.com/artist/5jnbP9Tp4rXCLhYHsDfqtw"
+          "name": "RAYA",
+          "url": "https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 190166,
-      "name": "\u00c9 Tanta",
-      "url": "https://open.spotify.com/track/680Qr1d3HRhVHN2A66aHHT"
+      "duration_ms": 247802,
+      "name": "Coment\u00e1rios a Respeito de Belchior",
+      "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1547,6 +1567,26 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
+        "name": "SambadorA",
+        "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f4nica Ferriani",
+          "url": "https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA"
+        },
+        {
+          "name": "Gian Correa",
+          "url": "https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc"
+        }
+      ],
+      "duration_ms": 228169,
+      "name": "Folia",
+      "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
+    },
+    {
+      "added_at": "2022-07-22 13:22:06",
+      "album": {
         "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
         "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
@@ -1567,42 +1607,38 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "T\u00f4",
-        "url": "https://open.spotify.com/album/3gh1IMLtHXtImzao8srodC"
+        "name": "Caso Perdido",
+        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
       },
       "artists": [
         {
-          "name": "RAYA",
-          "url": "https://open.spotify.com/artist/1aW2Ud6cfs7uKN0ofpSBCO"
+          "name": "Arthus Fochi",
+          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
         },
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
         }
       ],
-      "duration_ms": 247802,
-      "name": "Coment\u00e1rios a Respeito de Belchior",
-      "url": "https://open.spotify.com/track/7gT9a8ekaXrLVOtOaOTNu0"
+      "duration_ms": 204521,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
     },
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "SambadorA",
-        "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
       },
       "artists": [
         {
-          "name": "Ver\u00f4nica Ferriani",
-          "url": "https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA"
-        },
-        {
-          "name": "Gian Correa",
-          "url": "https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc"
+          "name": "Pagui",
+          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
         }
       ],
-      "duration_ms": 228169,
-      "name": "Folia",
-      "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
+      "duration_ms": 154732,
+      "name": "Avenida da Paix\u00e3o",
+      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1635,26 +1671,6 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Caso Perdido",
-        "url": "https://open.spotify.com/album/22QeGvBIhn7Y7durJWkeff"
-      },
-      "artists": [
-        {
-          "name": "Arthus Fochi",
-          "url": "https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj"
-        },
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
         "name": "Pra Sorrir",
         "url": "https://open.spotify.com/album/3S6O5n8DR48FIiaGwrCv0c"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 203571,
       "name": "Pra Sorrir",
       "url": "https://open.spotify.com/track/3Wzr7JiTQqdEhGuMYOdMQ4"
-    },
-    {
-      "added_at": "2022-07-22 13:22:06",
-      "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/2dd0NozyYF4BHr41CAohKW"
-      },
-      "artists": [
-        {
-          "name": "Pagui",
-          "url": "https://open.spotify.com/artist/7bSkVdJAG3faHcw3lnBK7y"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "Avenida da Paix\u00e3o",
-      "url": "https://open.spotify.com/track/26RXfcnFzKyVsXJY4L4izD"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Tr\u00eas",
-        "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
+        "name": "Vinte Vinte (Adeus Brasil)",
+        "url": "https://open.spotify.com/album/5twbB9A8EvYKeVfTnqqxvl"
       },
       "artists": [
         {
-          "name": "Jussara Silveira",
-          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
         }
       ],
-      "duration_ms": 222309,
-      "name": "Tr\u00eas",
-      "url": "https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv"
+      "duration_ms": 185756,
+      "name": "Vinte Vinte - Adeus Brasil",
+      "url": "https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt"
     },
     {
       "added_at": "2022-07-22 13:22:06",
@@ -1843,18 +1843,18 @@
     {
       "added_at": "2022-07-22 13:22:06",
       "album": {
-        "name": "Vinte Vinte (Adeus Brasil)",
-        "url": "https://open.spotify.com/album/5twbB9A8EvYKeVfTnqqxvl"
+        "name": "Tr\u00eas",
+        "url": "https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV"
       },
       "artists": [
         {
-          "name": "Renato Teixeira",
-          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+          "name": "Jussara Silveira",
+          "url": "https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T"
         }
       ],
-      "duration_ms": 185756,
-      "name": "Vinte Vinte - Adeus Brasil",
-      "url": "https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt"
+      "duration_ms": 222309,
+      "name": "Tr\u00eas",
+      "url": "https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv"
     },
     {
       "added_at": "2022-07-22 13:22:06",

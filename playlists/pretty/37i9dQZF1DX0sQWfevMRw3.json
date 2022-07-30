@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 94786,
+  "num_followers": 94807,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDk0Y2ZiNGQ4ZDU4M2NjZThlZTU5ZTg0Yjg4NzJjYmU5",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGEyY2Q2MWJhODQ2ZjE5MjdkNWI5NDVkYTYyYWMwODc0",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Feel Your Love",
         "url": "https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 192000,
       "name": "Feel Your Love",
       "url": "https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -899,22 +899,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
       },
       "artists": [
         {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Croell",
-          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
         }
       ],
-      "duration_ms": 164761,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
+      "duration_ms": 151200,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -943,22 +943,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
         },
         {
-          "name": "Cher Lloyd",
-          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+          "name": "Croell",
+          "url": "https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
+      "duration_ms": 164761,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Can You Feel My Heart",
         "url": "https://open.spotify.com/album/5DUeygGSuFifWXYp68l8cD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 122181,
       "name": "Can You Feel My Heart",
       "url": "https://open.spotify.com/track/4GFpaMQrDhrrOQ7CUzNTiU"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Dance Until We Die",
         "url": "https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
       },
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Trombone",
-        "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
-      },
-      "artists": [
-        {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
-        },
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Trombone",
-      "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 161904,
       "name": "Stars Align (with Jolin Tsai)",
       "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Trombone",
+        "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
+      },
+      "artists": [
+        {
+          "name": "AronChupa",
+          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+        },
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Trombone",
+      "url": "https://open.spotify.com/track/3vYP0NDCcoPiUHpmtq9YIq"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1631,22 +1631,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Rasta (feat. Gold Fang)",
-        "url": "https://open.spotify.com/album/2JkOfUToC3G6TpygyUs6Ml"
+        "name": "World in Your Eyes",
+        "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
       "artists": [
         {
-          "name": "Kinder",
-          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         },
         {
-          "name": "Gold Fang",
-          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
+        },
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
         }
       ],
-      "duration_ms": 159750,
-      "name": "Rasta (feat. Gold Fang)",
-      "url": "https://open.spotify.com/track/6QsYw9QAncTpd427TeF68p"
+      "duration_ms": 131142,
+      "name": "World in Your Eyes",
+      "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
     }
   ],
   "unique_name": "Det blir kaoz!",

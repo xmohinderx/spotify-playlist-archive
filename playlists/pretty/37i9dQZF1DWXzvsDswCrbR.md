@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzvsDswCrbR.md) - [plain]
 
 > The sound of bounce, curated by Big Freedia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,332 likes - 21 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,343 likes - 21 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

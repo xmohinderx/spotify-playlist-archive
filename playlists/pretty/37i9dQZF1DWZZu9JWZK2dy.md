@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 
 > The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,426 likes - 54 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,561 likes - 54 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZu9JWZK2dy.md) - [plain]
 | 2 | [メリッサ](https://open.spotify.com/track/7zty9mmmuqQsn8s4zDH4nk) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Porno Graffitti 15th Anniversary All Time Singles](https://open.spotify.com/album/77NIuDpn7GAdZEwMonR273) | 4:34 |
 | 3 | [God knows...](https://open.spotify.com/track/71ccYxWvQJ66ebPUZScJzn) | [涼宮ハルヒ \(CV.平野 綾\)](https://open.spotify.com/artist/4eWMhmDkvSkgeHo0D2RT31) | [涼宮ハルヒの完奏〜コンプリートサウンドトラック〜](https://open.spotify.com/album/5Th1Ca5zP4rocYmRCY59NI) | 4:38 |
 | 4 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
-| 5 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobody knows](https://open.spotify.com/artist/2PVGbMoPm6obTURqmnRTbp) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 |
+| 5 | [ココロオドル \-original version\-](https://open.spotify.com/track/5tcnPaFhcpSLx7ihFwI9DM) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル](https://open.spotify.com/album/3TZVSXdXXbqCbb4oWx1hSf) | 4:13 |
 | 6 | [衝動](https://open.spotify.com/track/0s38Mpf6UkodyUtYCTaZav) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [衝動](https://open.spotify.com/album/508GKIOACUpVhhhQkh7O7w) | 3:14 |
 | 7 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
 | 8 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |

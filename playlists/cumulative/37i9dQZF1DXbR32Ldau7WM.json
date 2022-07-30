@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 219360,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 177717,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/1LesMz0NuPydkt6acRvbjG"
@@ -4313,6 +4313,24 @@
       "duration_ms": 255200,
       "name": "\u6642\u4ee3\u9045\u308c\u306eRock'n'Roll Band",
       "url": "https://open.spotify.com/track/5x1mEZL7jAmnDvPoALyBdO"
+    },
+    {
+      "album": {
+        "name": "\u6681",
+        "url": "https://open.spotify.com/album/0jp4zHCCFZZ3v5RtzbgeMm"
+      },
+      "artists": [
+        {
+          "name": "PornoGraffitti",
+          "url": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "\u6681",
+      "url": "https://open.spotify.com/track/1JXoBwo67DqPB1d5v1NPRC"
     },
     {
       "album": {

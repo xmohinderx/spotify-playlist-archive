@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Uptempo instrumental hip hop beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,169 likes - 296 songs - 11 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,312 likes - 300 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -293,16 +293,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 283 | [On The Wall](https://open.spotify.com/track/3jnW3GdgCYBQ6PCaSY4wUC) | [Auto Smile](https://open.spotify.com/artist/3hcGTiuDVvU1UZiHECDyQP) | [On The Wall](https://open.spotify.com/album/0JHJWQGpFUY9OQE0cra2ju) | 2:07 |
 | 284 | [Saturation](https://open.spotify.com/track/1zyNkrQFVLwjl1Jg4MZHuK) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [Saturation](https://open.spotify.com/album/5d0Imi2PYaZIhzFe6Sn4CN) | 1:52 |
 | 285 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 |
-| 286 | [moments](https://open.spotify.com/track/5IQzpdVvg6YIbuhG80R6xm) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [moments](https://open.spotify.com/album/3n0GnXyHu8i3bcGyycsPph) | 2:18 |
-| 287 | [under my ground](https://open.spotify.com/track/6pS37YGyZRkCiA9o8ZVksC) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [under my ground](https://open.spotify.com/album/0r45aNkzMnhUoKeOlicNle) | 1:22 |
-| 288 | [Poolside Paloma](https://open.spotify.com/track/6RT9KtVu77MV39pdvpcwtP) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Poolside Paloma](https://open.spotify.com/album/7AyNS9jUEMQcgJQYiuoWlU) | 2:30 |
-| 289 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 |
-| 290 | [Venus](https://open.spotify.com/track/4jtUWffZ6zgLm7nahgk726) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Venus](https://open.spotify.com/album/6Z81FdusVPo4Oa9BlTIjh0) | 2:13 |
-| 291 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 |
-| 292 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 |
-| 293 | [Positive Vibes](https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:31 |
-| 294 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 |
-| 295 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 |
-| 296 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 |
+| 286 | [Hustler's Courage](https://open.spotify.com/track/3MOlfHny79AeRL5z2GRN2b) | [Calvin TDC](https://open.spotify.com/artist/2NOFqkaFBqJknsnxnlXdbM) | [Hustler's Courage](https://open.spotify.com/album/3uejTrt5AwvLTXER4bYwbV) | 2:11 |
+| 287 | [down again](https://open.spotify.com/track/1bzVwOf1Q8LEhp5Uh25he3) | [keeplove.](https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX) | [down again](https://open.spotify.com/album/2b87OxK5vbVM8HapvOxH5v) | 2:09 |
+| 288 | [Dreams in MP3](https://open.spotify.com/track/6K4yqREMihKD1Sr6HNzlwL) | [broeybeats.](https://open.spotify.com/artist/2h6TAdYdjOn1o4P36lOPdq), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Dreams in MP3](https://open.spotify.com/album/6dQeClsx0EgqjUKjqTReCi) | 2:16 |
+| 289 | [moments](https://open.spotify.com/track/5IQzpdVvg6YIbuhG80R6xm) | [leicht.](https://open.spotify.com/artist/6tAmeduBCUXmwFWLFo4dxe), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [moments](https://open.spotify.com/album/3n0GnXyHu8i3bcGyycsPph) | 2:18 |
+| 290 | [under my ground](https://open.spotify.com/track/6pS37YGyZRkCiA9o8ZVksC) | [mindrae.](https://open.spotify.com/artist/1LbrEsKUarj4IL86lbVF4R), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [under my ground](https://open.spotify.com/album/0r45aNkzMnhUoKeOlicNle) | 1:22 |
+| 291 | [The Dreams](https://open.spotify.com/track/6WuLredx9Du0nj4qrrSFJ2) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [The Dreams](https://open.spotify.com/album/7rhQZJcRcqUD0huZItGkAv) | 2:06 |
+| 292 | [Poolside Paloma](https://open.spotify.com/track/6RT9KtVu77MV39pdvpcwtP) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Poolside Paloma](https://open.spotify.com/album/7AyNS9jUEMQcgJQYiuoWlU) | 2:30 |
+| 293 | [Baia Del Sole](https://open.spotify.com/track/08ZuawhWrtqcOiwTctQA6S) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Baia Del Sole](https://open.spotify.com/album/1eBsecVp130mrzeKJ257oG) | 2:24 |
+| 294 | [Venus](https://open.spotify.com/track/4jtUWffZ6zgLm7nahgk726) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Venus](https://open.spotify.com/album/6Z81FdusVPo4Oa9BlTIjh0) | 2:13 |
+| 295 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 |
+| 296 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 |
+| 297 | [Positive Vibes](https://open.spotify.com/track/0VrZZ4GWTRa8TXJulbzJ6U) | [Opal Fangs](https://open.spotify.com/artist/4WXavKtmJD4UsjSTHIwZrZ) | [Positive Vibes](https://open.spotify.com/album/075pLxefaNgm93o7v9K7kC) | 1:31 |
+| 298 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 |
+| 299 | [Jazzy Conscience](https://open.spotify.com/track/1fwiNplwwbDWodDUHiUHdU) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:25 |
+| 300 | [Lo\-Fi Prism](https://open.spotify.com/track/7xMO3gsf52QohpGmPzBZgt) | [Dazik69](https://open.spotify.com/artist/7zZd3vsuMLI5VbBYxGZBvA) | [Color Spectrum](https://open.spotify.com/album/6LIPsEuK3G1mGRzfFnEQDt) | 1:36 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDY3MGQ4NDU0N2U3MmI4NWEyZDFlNWVjOWQwMzE0MDVl`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGViNTJmMjk3M2Q3ZjIzMzM4YzgxYWMwYWQxMTI5ZTdl`

@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 204830,
+  "num_followers": 204846,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMGQxMGIxZDk1ODU2MjA0OWJmOGZiYTVkNGY4ZmY3NmY1",
+  "snapshot_id": "MTY1Nzg1NzcyMCwwMDAwMDAwMDU2N2M2Mjk4MTU0MzE0NTk1N2EwODAwMmI1OWVhNDVk",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Hello Tomorrow",
@@ -759,22 +775,6 @@
       "duration_ms": 291386,
       "name": "When Will I Know For Sure",
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Sophistication",
         "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
       },
@@ -859,26 +875,6 @@
       "duration_ms": 227920,
       "name": "Livin' The Life",
       "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "True Stories",
-        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
-      },
-      "artists": [
-        {
-          "name": "The Rippingtons",
-          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Wild Tales (feat. Russ Freeman)",
-      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -903,18 +899,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/2KylbEyOJLnnHSAaVphBPV"
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev"
       },
       "artists": [
         {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+          "name": "The Rippingtons",
+          "url": "https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 220440,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/2gGhIxqwahRw0tcrNRoy6f"
+      "duration_ms": 270133,
+      "name": "Wild Tales (feat. Russ Freeman)",
+      "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Summer Feelin'",
         "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 238887,
       "name": "Summer Feelin'",
       "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Steppin' Up",
-        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Ward",
-          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "City Vibe",
-      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "G (Bonus Version)",
         "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Steppin' Up",
+        "url": "https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Ward",
+          "url": "https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "City Vibe",
+      "url": "https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1179,34 +1179,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "There's A Riot Goin' On",
-        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
+        "name": "Just Like Heaven",
+        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
       },
       "artists": [
         {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+          "name": "Antonio Jackson",
+          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
         }
       ],
-      "duration_ms": 190866,
-      "name": "Luv N' Haight",
-      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
+      "duration_ms": 347066,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1223,6 +1207,22 @@
       "duration_ms": 296475,
       "name": "Got To Be Real",
       "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "There's A Riot Goin' On",
+        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luv N' Haight",
+      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-08-06 04:01:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
       },
       "artists": [
         {
-          "name": "Antonio Jackson",
-          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 347066,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 258275,
-      "name": "Issa Party",
-      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 292320,
       "name": "The Lucky One",
       "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 258275,
+      "name": "Issa Party",
+      "url": "https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08"
-      },
-      "artists": [
-        {
-          "name": "Rock Hendricks",
-          "url": "https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I"
-        }
-      ],
-      "duration_ms": 294812,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "The Whisper of Your Heart",
         "url": "https://open.spotify.com/album/413FMdhsdjpe4rWytLFtCW"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08"
+      },
+      "artists": [
+        {
+          "name": "Rock Hendricks",
+          "url": "https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I"
+        }
+      ],
+      "duration_ms": 294812,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Prime Time",
         "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 239506,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
-    },
-    {
-      "added_at": "2021-07-12 18:23:33",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
-      },
-      "artists": [
-        {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
-        }
-      ],
-      "duration_ms": 261401,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1695,6 +1679,22 @@
       "duration_ms": 264151,
       "name": "Heat",
       "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G"
+      },
+      "artists": [
+        {
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+        }
+      ],
+      "duration_ms": 261401,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn"
     },
     {
       "added_at": "2021-07-12 18:09:21",

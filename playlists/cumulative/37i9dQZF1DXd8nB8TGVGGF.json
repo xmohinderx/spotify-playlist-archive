@@ -924,6 +924,24 @@
     },
     {
       "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341800,
+      "name": "Hear My Train a Comin'",
+      "url": "https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz"
+    },
+    {
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
       },

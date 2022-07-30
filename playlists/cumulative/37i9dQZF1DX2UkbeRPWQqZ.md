@@ -4,7 +4,7 @@
 
 > Sweet lullabies on guitar for little dreamers.
 
-106 songs - 3 hr 37 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
+110 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/0w5GCTe5oFicPO0HaemBhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Waltz For a King](https://open.spotify.com/track/3l4zbS4lRIdRVbq0mavDZt) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [So Many Stars](https://open.spotify.com/album/19nV7OOmUPmLBjz4jswvoD) | 3:08 | 2022-06-10 |  |
 | [A Windmill in Old Amsterdam](https://open.spotify.com/track/5C0NAFoZc2SHT58zvJS86m) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 | 2021-11-11 |  |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-04-26 |  |
+| [All Is Calm](https://open.spotify.com/track/0CBLqVCOalzlHumLvX0IEd) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [All Is Calm](https://open.spotify.com/album/1D4gPj0UQbdxBvPYdb0qcO) | 1:15 | 2022-07-29 |  |
 | [All My Friends](https://open.spotify.com/track/6stvapxl3crO1gsk3MfS3w) | [Jim Meadows](https://open.spotify.com/artist/7IgL2zNU8WBeCaubX5bVTy) | [All My Friends](https://open.spotify.com/album/3z05Ubd1s9wtKELJMR3Nox) | 1:48 | 2021-11-11 |  |
 | [All the Pretty Little Horses](https://open.spotify.com/track/6wekof9ZkRjL0LtAMAsXCb) | [Lola Marsden](https://open.spotify.com/artist/0kG0JFml9MMjY7m6cVD9vN) | [Down By The Bay](https://open.spotify.com/album/0rQcXS7jIJUTXMU4UEy3R2) | 1:58 | 2022-01-21 |  |
 | [All the pretty little horses](https://open.spotify.com/track/5R4rpJsPvxXXZUcAJ12v3v) | [Me And My Guitar](https://open.spotify.com/artist/7pHJ2teaNlow2jrelq84HS) | [Night Time](https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ) | 1:11 | 2021-11-11 |  |
@@ -41,6 +42,7 @@
 | [First Lullaby](https://open.spotify.com/track/0UK0Cqq8cFlFh7XGts16uH) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/3tNETHLjsy42nzVzjvPUvk) | 1:00 | 2021-11-11 | 2022-07-29 |
 | [First Lullaby](https://open.spotify.com/track/2Vlk1mx0LLliRtx8Xs3Pe6) | [All the Raw Melodies](https://open.spotify.com/artist/22nmV8EMIXq8XnR4HgtYpH) | [First Lullaby](https://open.spotify.com/album/4LQCV4juVK3a1mLGZHiwvs) | 1:00 | 2022-07-26 |  |
 | [Flowers For Mom](https://open.spotify.com/track/3FBAIOe82lMFTybK8eKjrA) | [Lauraine Rowe](https://open.spotify.com/artist/0hzimoZUHifb1Yn9TR0D6u) | [Flowers For Mom](https://open.spotify.com/album/4WP9Gl5uQTdlq1qZRLoW65) | 1:51 | 2021-11-11 |  |
+| [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 |  |
 | [Girls And Boys Come Out To Play](https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Rainbow Connection](https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc) | 1:56 | 2022-01-21 |  |
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-11 |  |
 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2021-11-11 |  |
@@ -58,6 +60,7 @@
 | [In My Dreams](https://open.spotify.com/track/7bpuq3wZc7ZTd15SGyqs5O) | [Paulette Brannigan](https://open.spotify.com/artist/5XqF83ddtiCAPcNGUVsze8) | [In My Dreams](https://open.spotify.com/album/4X1xOO2HxsxuwxwNXvp2QI) | 1:42 | 2021-11-11 |  |
 | [It's Time To Go To Sleep](https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm) | [The Magic Guitar](https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v) | [A\-Hunting We Will Go](https://open.spotify.com/album/6O1oNKCphZNf7Qlzwmlr9E) | 2:08 | 2021-11-11 |  |
 | [It's Time To Say Sweet Dreams](https://open.spotify.com/track/32gQ8o6mhuQySEfh9ztsuq) | [Julio Neve](https://open.spotify.com/artist/1PQUU6PsqiLylfwDuzkGc8) | [It's Time To Say Sweet Dreams](https://open.spotify.com/album/6mGQmZTQ4Pvh6srEI0yL1w) | 1:45 | 2021-11-11 |  |
+| [Jumpin Bumpin Bounce](https://open.spotify.com/track/7a2OEKKGw9vO3aYIIoRvcF) | [Boris Vlašic](https://open.spotify.com/artist/3zNmA2R2BOtatVjh5rMgMQ) | [Jumpin Bumpin Bounce](https://open.spotify.com/album/5IrFRr42ArFhYggtmyQoYw) | 3:16 | 2022-07-29 |  |
 | [Kling och klang](https://open.spotify.com/track/183VkWkmFqG7iv6AbtbW5H) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Kling och klang](https://open.spotify.com/album/2BsQ8v9OA15dH9XZo0SpYe) | 2:27 | 2022-07-01 |  |
 | [La Magia del Alma](https://open.spotify.com/track/4kyEfs7bWqDzdBwndT7l9d) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [La Magia del Alma](https://open.spotify.com/album/5LLIHdECpb0s7LJHLz45py) | 2:04 | 2022-07-01 |  |
 | [Lake District](https://open.spotify.com/track/62rk91S0MdArx37LedWsZH) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Lullabies](https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb) | 1:44 | 2021-11-11 |  |
@@ -111,6 +114,7 @@
 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 | 2021-11-11 |  |
 | [When The Saints Go Marching In](https://open.spotify.com/track/4uTMTLSHl3kQAlU6CT2uAb) | [Lisa Jefferies](https://open.spotify.com/artist/4SWQEQ9XimBUaukFmdZNzi) | [Pretty Guitar Lullabies](https://open.spotify.com/album/6nACNDxZVOIiGGAsN0LFN5) | 1:56 | 2021-11-11 |  |
 | [Whisper](https://open.spotify.com/track/2NXiJEKOISN8R9Frlyb0UV) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Whisper](https://open.spotify.com/album/7mlmp16gqTU2KgrIqbtlwC) | 1:27 | 2022-05-16 |  |
+| [Wobble Bobble](https://open.spotify.com/track/1Hd5NaOb0HqlFsMnud8eIX) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [Wobble Bobble](https://open.spotify.com/album/06fbqt6G9BCyE8sYnibtLN) | 2:58 | 2022-07-29 |  |
 | [Yankee Doodle](https://open.spotify.com/track/4mRfFgVV4ipWTYk8Fn4qFD) | [Landon Peterson](https://open.spotify.com/artist/0hGr3mOUfp4HDA3Vjp6EyA) | [Yankee Doodle](https://open.spotify.com/album/5eIHWL3lZNBTMQxZhDOk0L) | 2:00 | 2021-11-11 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/4EDhsaLTb8ho6Gn5K7DnaE) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [You Are My Sunshine](https://open.spotify.com/album/31oCF2RhikCvolE115v4tW) | 2:19 | 2021-11-11 |  |
 | [You Are Safe In My Arms](https://open.spotify.com/track/4EfpWZIgjHSpetnWAjRCHf) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 3:23 | 2021-11-11 |  |

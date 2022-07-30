@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 265936,
+  "num_followers": 266079,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI0NywwMDAwMDAwMGI4YmMxZDdjYjZlYWE4YTI2Y2UzY2NjYzk2NTQ3Yzgz",
+  "snapshot_id": "MTY1ODQ4MDI0NywwMDAwMDAwMDE4ZDE2N2Y1ZDEyNzkyMDY2Y2U5ODRmM2QyYWQ5MjUz",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -859,30 +859,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Won't Make A Sound",
-        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Won't Make A Sound",
-      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "COMPLICATED (feat. aldn & 8485)",
         "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 180923,
       "name": "COMPLICATED (feat. aldn & 8485)",
       "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Won't Make A Sound",
+        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Won't Make A Sound",
+      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Baptize (Sullivan King Remix)",
-        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Baptize - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "1000 gecs and The Tree of Clues",
         "url": "https://open.spotify.com/album/0qnExDZfz0kVeBjixPsyjS"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 193500,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/5ohyF1TaL2ks2mrEJqLtfs"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Baptize (Sullivan King Remix)",
+        "url": "https://open.spotify.com/album/170AbiVPb4OIprabzweN14"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Baptize - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "UMBRA",
+        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
+      },
+      "artists": [
+        {
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+        },
+        {
+          "name": "Voicians",
+          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "UMBRA",
+      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Rain (Idris Elba Edit)",
         "url": "https://open.spotify.com/album/3WHV6xgHLbBCJ9iDdP7V1W"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 208500,
       "name": "Rain (Idris Elba Edit)",
       "url": "https://open.spotify.com/track/7zTnfiIlfE8qUtXp9lSH97"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "UMBRA",
-        "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
-      },
-      "artists": [
-        {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
-        },
-        {
-          "name": "Voicians",
-          "url": "https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "UMBRA",
-      "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1983,6 +1983,26 @@
       "duration_ms": 171034,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2022-07-22 08:57:27",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2069,26 +2089,6 @@
       "url": "https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81"
     },
     {
-      "added_at": "2022-07-22 08:57:27",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW"
-    },
-    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Fantasy",
@@ -2107,6 +2107,26 @@
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
+    },
+    {
+      "added_at": "2022-07-22 08:57:27",
+      "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2175,6 +2195,26 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "self:antiself",
+        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
+      },
+      "artists": [
+        {
+          "name": "AWAY",
+          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+        },
+        {
+          "name": "Crywolf",
+          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
+        }
+      ],
+      "duration_ms": 290454,
+      "name": "Ghostbox",
+      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Hayloft II (DNMO Mix)",
         "url": "https://open.spotify.com/album/2DX9LbScR2BQxtAJ6xOvps"
       },
@@ -2191,26 +2231,6 @@
       "duration_ms": 229000,
       "name": "Hayloft II (DNMO Mix)",
       "url": "https://open.spotify.com/track/72AxgcShVmWv7DMsfy3aIP"
-    },
-    {
-      "added_at": "2022-07-22 08:57:27",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2233,24 +2253,24 @@
       "url": "https://open.spotify.com/track/2FHa5rOKOAhuKa0p7XfLTo"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
+      "added_at": "2022-07-22 08:57:27",
       "album": {
-        "name": "self:antiself",
-        "url": "https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p"
+        "name": "The Trip Out (Remixes)",
+        "url": "https://open.spotify.com/album/5VOKlpMQJNcUjZiPEwnov4"
       },
       "artists": [
         {
-          "name": "AWAY",
-          "url": "https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij"
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
         },
         {
-          "name": "Crywolf",
-          "url": "https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z"
+          "name": "King Green",
+          "url": "https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c"
         }
       ],
-      "duration_ms": 290454,
-      "name": "Ghostbox",
-      "url": "https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI"
+      "duration_ms": 234461,
+      "name": "Let's Trip Out (feat. King Green) - Future Method Remix",
+      "url": "https://open.spotify.com/track/5FzBEmdQeOmshmi9cPUCWA"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2271,26 +2291,6 @@
       "duration_ms": 209454,
       "name": "Regret - Remix",
       "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
-    },
-    {
-      "added_at": "2022-07-22 08:57:27",
-      "album": {
-        "name": "The Trip Out (Remixes)",
-        "url": "https://open.spotify.com/album/5VOKlpMQJNcUjZiPEwnov4"
-      },
-      "artists": [
-        {
-          "name": "The Crystal Method",
-          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
-        },
-        {
-          "name": "King Green",
-          "url": "https://open.spotify.com/artist/3jivTPQnC8Vupqc3EFO33c"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "Let's Trip Out (feat. King Green) - Future Method Remix",
-      "url": "https://open.spotify.com/track/5FzBEmdQeOmshmi9cPUCWA"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "The Change (feat. DMA\u2019S)",
-        "url": "https://open.spotify.com/album/5Vtl2h8FGEaXymFYnJp2Z8"
-      },
-      "artists": [
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        },
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 277555,
-      "name": "The Change (feat. DMA\u2019S)",
-      "url": "https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Raincheck",
         "url": "https://open.spotify.com/album/2c6x9oEvqr61dvcx0sllik"
       },
@@ -2395,22 +2375,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "RIOT",
-        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
+        "name": "The Change (feat. DMA\u2019S)",
+        "url": "https://open.spotify.com/album/5Vtl2h8FGEaXymFYnJp2Z8"
       },
       "artists": [
         {
-          "name": "KOU",
-          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "SYN",
-          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
         }
       ],
-      "duration_ms": 245333,
-      "name": "RIOT",
-      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
+      "duration_ms": 277555,
+      "name": "The Change (feat. DMA\u2019S)",
+      "url": "https://open.spotify.com/track/7wjAu7AeBQFDVhSXQQ4Ji5"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2427,6 +2407,26 @@
       "duration_ms": 198620,
       "name": "Enemy VIP (with Shane Told of Silverstein)",
       "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "RIOT",
+        "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
+      },
+      "artists": [
+        {
+          "name": "KOU",
+          "url": "https://open.spotify.com/artist/3JKyXLujejo7zdgLzdl2pR"
+        },
+        {
+          "name": "SYN",
+          "url": "https://open.spotify.com/artist/7cEaR3OwxOjKvgUHDsk1Rr"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "RIOT",
+      "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
     },
     {
       "added_at": "2022-06-24 04:01:00",

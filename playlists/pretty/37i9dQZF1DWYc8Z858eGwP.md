@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG?si=5MiFdkxjQHWTe6OmF\_zPqg">Victony</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,552 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,585 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 40 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 |
 | 41 | [Dangerous](https://open.spotify.com/track/7FdZxGH4zPNgE2JAcQcebg) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [Dangerous](https://open.spotify.com/album/5fvfkQ5pnNnLpEjPvAUpwH) | 2:47 |
 | 42 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
-| 43 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 44 | [Respond](https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Respond](https://open.spotify.com/album/7McnmWbjiS1jfTZmMLa3n7) | 4:02 |
-| 45 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 |
-| 46 | [For Here](https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [In Transit](https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly) | 2:56 |
-| 47 | [Twenties](https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Twenties](https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI) | 2:24 |
-| 48 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
-| 49 | [Fashion Week](https://open.spotify.com/track/0Deqz1Pwbek73HLmf51iH2) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Fashion Week](https://open.spotify.com/album/3hnr7QZ2QdaVZgJ6WqARqc) | 2:32 |
+| 43 | [Owo Ni Koko](https://open.spotify.com/track/4WLdlAi4KBDNRxaq3GnRYH) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Gbagada Express](https://open.spotify.com/album/71t8ET4M40jagPMwWtGDAd) | 2:59 |
+| 44 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
+| 45 | [Respond](https://open.spotify.com/track/6iSja01gi2IzB9UnhTcO0h) | [Miči](https://open.spotify.com/artist/1aJGoykRBEjrMcNWOhV5am), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Respond](https://open.spotify.com/album/7McnmWbjiS1jfTZmMLa3n7) | 4:02 |
+| 46 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 |
+| 47 | [For Here](https://open.spotify.com/track/5yOzTV0lLUDjjrPFzimeLI) | [Terri](https://open.spotify.com/artist/6h3iqdnfBKV2jRhUJz0oto) | [In Transit](https://open.spotify.com/album/5mbF3xlYXQDSfMOmf6k5Ly) | 2:56 |
+| 48 | [Twenties](https://open.spotify.com/track/1li8msSlPGNuiMPUNqz0Ys) | [Suhn](https://open.spotify.com/artist/21FjHoi27TUaIuUSYxdOwf) | [Twenties](https://open.spotify.com/album/1ofj7jvoMEFCMts0v4ZjqI) | 2:24 |
+| 49 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 |
+| 50 | [Fashion Week](https://open.spotify.com/track/0Deqz1Pwbek73HLmf51iH2) | [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Fashion Week](https://open.spotify.com/album/3hnr7QZ2QdaVZgJ6WqARqc) | 2:32 |
 
-Snapshot ID: `MTY1NjYzMDAwMCwwMDAwMDAwMGVlMzJjMGVmN2EyODdlNWI4MjcyODZkYWIxYTYyM2Vk`
+Snapshot ID: `MTY1NjYzMDAwMCwwMDAwMDAwMGJiNTA1OTcyNGU1NWE2Yzc5YTBjMTAyZmNlNjA4M2U5`

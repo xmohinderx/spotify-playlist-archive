@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 21589,
+  "num_followers": 21693,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDRkOTI5OWY0NTY3YWMwMjMwYjdkZThkMmI5ZWVmZTQ0",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDE4ZjYyNjMyOWYyN2IwNjljYTRmMzUwY2YzNjAwOTMw",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -551,6 +551,26 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
+      },
+      "artists": [
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        },
+        {
+          "name": "True Image",
+          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "It's a Shame (My Sister)",
+      "url": "https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Big Tyme",
         "url": "https://open.spotify.com/album/2RDUJixbxpkSdNdDLR4LL8"
       },
@@ -563,22 +583,6 @@
       "duration_ms": 232293,
       "name": "We Got Our Own Thang",
       "url": "https://open.spotify.com/track/0yndiszlOMgxOu3y2vKZvB"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Holy Intellect (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
-      },
-      "artists": [
-        {
-          "name": "Poor Righteous Teachers",
-          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
-        }
-      ],
-      "duration_ms": 311080,
-      "name": "Rock Dis Funky Joint",
-      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -599,22 +603,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
+        "name": "Holy Intellect (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
       },
       "artists": [
         {
-          "name": "Monie Love",
-          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
-        },
-        {
-          "name": "True Image",
-          "url": "https://open.spotify.com/artist/5rWgwZwzlVQb3Ltn6NnIVj"
+          "name": "Poor Righteous Teachers",
+          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
         }
       ],
-      "duration_ms": 222840,
-      "name": "It's a Shame (My Sister)",
-      "url": "https://open.spotify.com/track/6ir6C7AHGMVLGQN7hv7gTA"
+      "duration_ms": 311080,
+      "name": "Rock Dis Funky Joint",
+      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -695,18 +695,18 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Wipeout (Re-Recorded Versions)",
-        "url": "https://open.spotify.com/album/11r8tYGEUCtMwliUxFljCv"
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
       },
       "artists": [
         {
-          "name": "Fat Boys",
-          "url": "https://open.spotify.com/artist/3537Phr9t8GWkY2GtxDpnt"
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
         }
       ],
-      "duration_ms": 138358,
-      "name": "Human Beat Box (Re-Recorded Version)",
-      "url": "https://open.spotify.com/track/4tYMaJMiv8DMRnP9tfCpR5"
+      "duration_ms": 224826,
+      "name": "Monie in the Middle",
+      "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
     }
   ],
   "unique_name": "Raised on Hip Hop",

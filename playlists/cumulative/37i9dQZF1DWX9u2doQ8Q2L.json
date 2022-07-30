@@ -562,6 +562,24 @@
     },
     {
       "album": {
+        "name": "DON'T BLAME THE WILD ONE!",
+        "url": "https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI"
+      },
+      "artists": [
+        {
+          "name": "ena mori",
+          "url": "https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "DBTWO!",
+      "url": "https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6"
+    },
+    {
+      "album": {
         "name": "Deep Himawari",
         "url": "https://open.spotify.com/album/3CbskWWeIvgowtLb2MQAaZ"
       },
@@ -2017,6 +2035,24 @@
       "duration_ms": 249062,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6crmtADvci3cPjB2jjjVqm"
+    },
+    {
+      "album": {
+        "name": "REAL U",
+        "url": "https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "REAL U",
+      "url": "https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ"
     },
     {
       "album": {
@@ -3835,7 +3871,7 @@
       },
       "artists": [
         {
-          "name": "\u9e97\u82f1@\u5c0f\u85af\u8304",
+          "name": "\u9e97\u82f1",
           "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
         }
       ],

@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Lava La Rue
 
-978 songs - 2 day 10 hr 15 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
+980 songs - 2 day 10 hr 21 min - [published](https://open.spotify.com/playlist/2P9CK2lB90NpmCPDPSex2G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2020-09-29\* | 2020-10-30 |
 | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/track/5gxd09Fnkylal8TLCAVvNv) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [Go Dancing \(feat\. Fryars\)](https://open.spotify.com/album/24z1u6qVeGPWVQlq4JjDMi) | 4:35 | 2022-05-05 | 2022-07-08 |
 | [Go Down Together](https://open.spotify.com/track/4tkpi79JqjPCMGmBOtEJI9) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Go Down Together](https://open.spotify.com/album/3YtQHYbQ55OQapg8SxhIkh) | 3:15 | 2021-04-16 | 2021-07-15 |
+| [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-07-28 |  |
 | [God Melodies \- Single Version](https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg) | [God Melodies](https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF) | 3:30 | 2021-01-23 | 2021-02-26 |
 | [Golden Ratio](https://open.spotify.com/track/3MHBYSloK2tHDGAZ3ucA5I) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [Golden Ratio](https://open.spotify.com/album/3gBKFggMKS5mbwWWg6TdZp) | 4:27 | 2021-10-16 | 2022-01-15 |
 | [Gone](https://open.spotify.com/track/7eRaK8LJUUgStuF29HpNsQ) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Gone](https://open.spotify.com/album/4tvYoJP6LcXBpHglrrH1BP) | 2:51 | 2021-04-30 | 2021-07-15 |
@@ -574,6 +575,7 @@
 | [More Than Friends \(with HONNE\)](https://open.spotify.com/track/6Bxon4eYGOOwxXtSX9lhQo) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [More Than Friends \(with HONNE\)](https://open.spotify.com/album/6wfpyPte01RTckVpV3W1eq) | 4:09 | 2020-11-20 | 2021-02-12 |
 | [Moscow](https://open.spotify.com/track/3HbmPWohnWgUgoymNC5ynD) | [Fryars](https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Moscow](https://open.spotify.com/album/61yNZ0gBmSLT5Qf7pJpHwP) | 3:07 | 2021-05-28 | 2021-07-15 |
 | [Most Modern Painting](https://open.spotify.com/track/4jnlko67vtWe15a3tcHO9n) | [Sinead O Brien](https://open.spotify.com/artist/0Nron4wq7uF2TwLodaVRHr) | [Drowning in Blessings](https://open.spotify.com/album/5UU855Zykdr5iEw1NOKfNL) | 3:27 | 2020-09-29\* | 2020-10-30 |
+| [Motel](https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q) | 3:29 | 2022-07-28 |  |
 | [MOTHERS SISTERS GIRLFRIENDS](https://open.spotify.com/track/1ky8mlXv9lG3FEfAxZ5P1n) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [THE POWER IN US](https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc) | 3:44 | 2022-04-25 | 2022-07-08 |
 | [Mountain Jack](https://open.spotify.com/track/3iAaXv2FlwqSUOZ81T3rgA) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Mountain Jack](https://open.spotify.com/album/1WfIF6ociqZI3NVR2jtAwo) | 4:23 | 2020-10-30 | 2021-01-23 |
 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 | 2021-01-23 | 2021-03-26 |

@@ -2,7 +2,7 @@
 
 ### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
 
-> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Soulfly
+> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
 338 songs - 1 day 0 hr 9 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
@@ -32,7 +32,7 @@
 | [Ausgebombt](https://open.spotify.com/track/21firHs3loUdDk1fXPM1bT) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange](https://open.spotify.com/album/6lg87gGVKeXKei65FnE8JN) | 3:05 | 2022-07-13 | 2022-07-29 |
 | [Authority](https://open.spotify.com/track/6GkXvjZVcL1Eaajzm9hb9r) | [Iron Reagan](https://open.spotify.com/artist/160vd9V7P2OiPVOndsKCJO) | [Dark Days Ahead](https://open.spotify.com/album/7hJfhI1Eht1CvetUEKTtEp) | 1:20 | 2021-12-17 | 2022-03-05 |
 | [Awakening](https://open.spotify.com/track/1VJDR7IYmHkHpgiw6txEFI) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Ascension](https://open.spotify.com/album/3HkxiSSIxRaT5HaIFR9NDN) | 5:41 | 2021-12-17 | 2022-07-24 |
-| [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 | 2022-07-13 | 2022-07-29 |
+| [Bestial Invasion](https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Infernal Overkill](https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC) | 4:36 | 2022-07-13 |  |
 | [Betrayed](https://open.spotify.com/track/2WZbwWB05tnjUzJHt4KL4H) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Cabaret De La Guillotine](https://open.spotify.com/album/76dTSQmBFHcITyGb89GcfC) | 6:05 | 2021-12-17 | 2022-07-18 |
 | [Beyond the Convent Walls](https://open.spotify.com/track/7zVIIZOOoO6keBdfKL8WGH) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/5dcBkiNfBkgdLeXseS88JM) | 4:29 | 2021-12-17 | 2022-07-27 |
 | [Black Magic](https://open.spotify.com/track/4cJhBmeJ7KiBeuy7oxRnZ3) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Show No Mercy](https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X) | 4:03 | 2022-07-13 |  |
@@ -85,7 +85,7 @@
 | [Designed to Violate](https://open.spotify.com/track/2ebozpkNXlzuwGZuzcS40H) | [Disquiet](https://open.spotify.com/artist/6H0uUeAtmzEmv7VYsW2Iro) | [Designed to Violate](https://open.spotify.com/album/2en8haXieETng0Q1GEbT5u) | 5:20 | 2021-12-17 | 2022-03-03 |
 | [Detritus of the Final Age](https://open.spotify.com/track/5nNBwrfNYeA9beWYXkIUkD) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [Detritus of the Final Age](https://open.spotify.com/album/6msUBXYGmDqX4avaigGOMv) | 4:54 | 2021-12-17 | 2022-07-27 |
 | [Diabolical](https://open.spotify.com/track/1NMJOg7jOnXkXlKUKSETtZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/13bxe7kV1ThWrgULOtBOAx) | 4:09 | 2021-12-17 | 2022-07-28 |
-| [Diabolical](https://open.spotify.com/track/38jnz0g38qGvlKh3JhLnWZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/2isxVXQWcdXHHt2d7YOgXE) | 4:09 | 2022-07-13 |  |
+| [Diabolical](https://open.spotify.com/track/38jnz0g38qGvlKh3JhLnWZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/2isxVXQWcdXHHt2d7YOgXE) | 4:09 | 2022-07-13 | 2022-07-30 |
 | [Diabolical](https://open.spotify.com/track/5Ec52T5PSqN26Qa8KBKeCF) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Diabolical](https://open.spotify.com/album/3j0IOD3AxvlfTk7esLYxeA) | 4:09 | 2022-04-08 | 2022-07-23 |
 | [Disciples of the Watch](https://open.spotify.com/track/6bXHw7cdcN45I04pesdWnG) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The New Order](https://open.spotify.com/album/1i0xUSNR8hWBIeaDSnN569) | 5:07 | 2022-07-13 | 2022-07-29 |
 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 | 2021-12-17 |  |
@@ -178,7 +178,7 @@
 | [Loss of Humanity](https://open.spotify.com/track/38K2DlgRYQ9dOTutG9vwIZ) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:51 | 2021-12-17 | 2022-02-27 |
 | [Lowlife](https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG) | [Cryptic Slaughter](https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT) | [Convicted](https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv) | 2:32 | 2022-07-13 |  |
 | [M\-16](https://open.spotify.com/track/6z8KgGwhwJPSq948Vk3mWk) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn) | 4:49 | 2022-07-13 |  |
-| [M.O.A.B.](https://open.spotify.com/track/2R5VkpwntZikyvWLoeW0tp) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [M.O.A.B.](https://open.spotify.com/album/0jOS8ADvtpLrB8vkKV5JAx) | 4:04 | 2022-04-01 |  |
+| [M.O.A.B.](https://open.spotify.com/track/2R5VkpwntZikyvWLoeW0tp) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [M.O.A.B.](https://open.spotify.com/album/0jOS8ADvtpLrB8vkKV5JAx) | 4:04 | 2022-04-01 | 2022-07-30 |
 | [Mad Butcher](https://open.spotify.com/track/6qjOQSSLUealhSEd4Uy1dq) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Sentence Of Death](https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1) | 3:30 | 2022-07-13 | 2022-07-23 |
 | [Mad Dictator](https://open.spotify.com/track/3WGMxrtnHowRRdmHctXfpW) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Knee\-Deep in the Dead](https://open.spotify.com/album/601ESzEhbKX64VRAj8GA4F) | 4:27 | 2021-12-17 | 2022-07-28 |
 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 | 2022-07-13 |  |
@@ -224,7 +224,7 @@
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 |  |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
 | [Point Of No Return](https://open.spotify.com/track/5YJILvImepN7U7Vonz2VkB) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Point Of No Return EP](https://open.spotify.com/album/6diYp1uiFuHfCbbapfIC6y) | 4:37 | 2022-07-13 |  |
-| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 | 2022-07-29 |
+| [Possessed by Fire](https://open.spotify.com/track/6wiuSleBg7fx2C5B0HwtLy) | [Exumer](https://open.spotify.com/artist/03sDKsD3y34NBAjeRHucde) | [Possessed by Fire](https://open.spotify.com/album/5C8Mjwwruh2IFfg4WbdnlR) | 5:00 | 2022-07-13 |  |
 | [Post\-Truth Era](https://open.spotify.com/track/0sQJS58QryP50hsYo2CI8u) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Post\-Truth Era](https://open.spotify.com/album/0omA3faLxpyUINQMCeq4ly) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 | 2022-07-13 |  |
 | [Prepare For Attack](https://open.spotify.com/track/6cTvR35cvugp2SLSPsnzy0) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Time Is Up](https://open.spotify.com/album/7275posUjEJ7H9tLyaxyLH) | 3:56 | 2022-07-13 |  |

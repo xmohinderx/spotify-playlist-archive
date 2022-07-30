@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Maskandi favourites for every day of the week\. Cover: <a href="https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP?si=1cAhcaANREyS\-wXav9tJWA">Phuzekhemisi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,608 likes - 44 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,622 likes - 44 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 11 | [Inhlinini Yoxolo](https://open.spotify.com/track/3ZhOsB846LguxIkDASb6Rb) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo \(Pt\. 2\)](https://open.spotify.com/album/25HvxLDw1saTfEoFQ6Rfxj) | 9:00 |
 | 12 | [Wamuhle \(feat\. Shwi Nomtekhala\)](https://open.spotify.com/track/3Mn0yb2hJuU3AcH66apMei) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Emakhaya](https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU) | 3:59 |
 | 13 | [Kungani](https://open.spotify.com/track/2w9BuLVCyEYDKnrCCeYxMy) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Isihlahla Samavukani](https://open.spotify.com/album/2pD1ARZOgmJ6FOzF71byXZ) | 4:17 |
-| 14 | [Imbizo](https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml) | 3:58 |
+| 14 | [Imbizo](https://open.spotify.com/track/2Kg74EtKg8Lo18r1cUtZBV) | [Phuzekhemisi No Khethani](https://open.spotify.com/artist/6bhmRXAWbMM1oYuoSNCR1f) | [Imbizo](https://open.spotify.com/album/75ZCcbvBeLAzlzM6aDmcml) | 3:59 |
 | 15 | [Awusho Dali](https://open.spotify.com/track/3lJZPHew6QpHxZLutX6mc6) | [Abafana bakaMgqumeni](https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6), [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP), [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Bawucisha ngo paraffin](https://open.spotify.com/album/1H8zQWxYDBlljpLr5Z3W5J) | 3:39 |
 | 16 | [Impi Yomndeni](https://open.spotify.com/track/7ag6ASRzcuWXamzvNEXQzL) | [Bobo Mfana Wepiki](https://open.spotify.com/artist/6kcl74RDRgeHTx1Dj07NQt) | [Angiseyona Itype Yakho](https://open.spotify.com/album/4N6uYvCf4TgK5kAopt1RqQ) | 6:03 |
 | 17 | [Thuma Mina Baba](https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi Ubaba](https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK) | 4:10 |

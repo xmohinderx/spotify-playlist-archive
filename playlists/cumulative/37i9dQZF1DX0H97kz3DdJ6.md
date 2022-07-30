@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-85 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+87 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Delírio](https://open.spotify.com/track/3ke603EC1sN89TUk3Y3mzC) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [Delírio](https://open.spotify.com/album/2kSC9rkTJ8jywg5yQJSPO2) | 2:25 | 2022-05-20 |  |
 | [Desculpa](https://open.spotify.com/track/3uF1c6XbqghSa4EcbQCGpQ) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Desculpa](https://open.spotify.com/album/6ZtSi94DuWf13gnaKncG7D) | 2:17 | 2022-05-20 |  |
 | [Diário de um Ex\-Amor](https://open.spotify.com/track/76JTOcSuSbj0ZeAqIVnl56) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kayno](https://open.spotify.com/artist/1HwPQ8sTeEufVDCt2XfLlb), [Firee](https://open.spotify.com/artist/6hlcifXN2YLzpRIg8wvJIP) | [Diário de um Ex\-Amor](https://open.spotify.com/album/5GXgV5Ub8lKMAMRz8Ggd9E) | 2:20 | 2022-07-08 |  |
+| [E Se Eu Falasse o Que Sinto?](https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [ZIMA](https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf) | 3:36 | 2022-07-29 |  |
 | [Em Pedaços](https://open.spotify.com/track/43tHVOY7ASzmKDrI03Doqr) | [Ana Olic](https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY) | [Em Pedaços](https://open.spotify.com/album/73yvXTZcdoDgf4Ht2KBAcc) | 3:07 | 2022-05-20 |  |
 | [Esteja Comigo](https://open.spotify.com/track/4gL5DV0MAktV5QfnRClX5u) | [Lucas Muto](https://open.spotify.com/artist/56T4EzWjDqignFu9eBdKT4) | [Esteja Comigo](https://open.spotify.com/album/46kbsL56JTTbaOWB9bTcXy) | 2:30 | 2022-05-20 |  |
 | [Eu \(Não\) Te Amo](https://open.spotify.com/track/73Tjy3UwNN8rX2jAHDbTy2) | [Louwiz](https://open.spotify.com/artist/0Q7iTb96HAijk2P0kQ9Xp3), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Eu \(Não\) Te Amo](https://open.spotify.com/album/3KMpJfRYT1Qu17mus7Gydt) | 2:34 | 2022-05-20 |  |
@@ -84,6 +85,7 @@
 | [Que não te falte amor](https://open.spotify.com/track/7sD8XcvDat0Xd2zoZUOYWU) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/01pvBMfl3wD6V1DAxk8CQr) | 2:43 | 2022-05-20 | 2022-07-29 |
 | [Rosas Voam](https://open.spotify.com/track/2W7K7gcNAZQXoyEDENJyEy) | [Mateustom](https://open.spotify.com/artist/3LN4cOR1DA6dPpi0w45bBb) | [Rosas Voam](https://open.spotify.com/album/6PpyaaEdjiywoC6REwtEQ9) | 5:06 | 2022-05-20 |  |
 | [Saída](https://open.spotify.com/track/3Lud2t0VgvILTFl1dyXDDY) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [Saída](https://open.spotify.com/album/5aztfQfRFt2UpLbTgpMelw) | 2:24 | 2022-05-20 |  |
+| [Seu Jogo](https://open.spotify.com/track/6AhfamkIabstC8K5tdf1A1) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Seu Jogo](https://open.spotify.com/album/50MGM6X8LSpI1hHGYcgiQk) | 3:12 | 2022-07-29 |  |
 | [Silêncio](https://open.spotify.com/track/2wQlhvqr9SALECi0JgUAu9) | [LeLo M](https://open.spotify.com/artist/3R0UWk6AY9lp0o4bK4pdqJ), [zSantiago](https://open.spotify.com/artist/1ty2aNtmCAW0dEeJhKBT3J) | [Silêncio](https://open.spotify.com/album/6BK69T7uUhIGerFHm5Trxz) | 2:59 | 2022-05-20 |  |
 | [Solitário Vampiro](https://open.spotify.com/track/6fOvrxj71Ca9o3lxdzLDCb) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Solitário Vampiro](https://open.spotify.com/album/72wrW8pvGiNe0tHy3SjNn9) | 4:52 | 2022-07-08 |  |
 | [Sônia](https://open.spotify.com/track/7pkLnsHPaM5PA0PPeIQZTA) | [Kunganii](https://open.spotify.com/artist/6Q52y6Y1JkSEMPnFSd5nlv) | [Sônia](https://open.spotify.com/album/0EpXl3Ne4z8ZNOO6vrPUVh) | 2:56 | 2022-05-20 |  |

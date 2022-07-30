@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-414 songs - 1 day 0 hr 16 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+415 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [คนแบบไหน \- เพลงประกอบซีรีส์ ปลาบนฟ้า](https://open.spotify.com/track/44ymejne8Roi7uT4lhiwCR) | [มิกซ์ สหภาพ](https://open.spotify.com/artist/30n00Uv6L35W9JEgPJb3Yr) | [เพลงประกอบซีรีส์ ปลาบนฟ้า](https://open.spotify.com/album/3cRf2Xcq2d6dPSUv5r0yeR) | 3:51 | 2021-05-03 | 2021-06-09 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2021-11-21 |  |
 | [คำตอบ](https://open.spotify.com/track/1lD1Pjy7rNDOny7nFqmUHJ) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Safeboys](https://open.spotify.com/album/31PTsm7KH7Ad8ZXLXaJR2g) | 5:19 | 2021-07-13 | 2021-08-22 |
-| [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2021-10-13 |  |
+| [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2021-10-13 | 2022-07-30 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/0JStm1Ns9Ya2zQhbqMDYEU) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 4:26 | 2021-03-27\* | 2022-04-13 |
 | [คิดไม่ออก](https://open.spotify.com/track/16Q1RVWOVUb83MnEXAV9Fo) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Not A Rapper](https://open.spotify.com/album/1lRxSZbf648asJ14B7yOyv) | 3:20 | 2021-07-04 | 2021-07-14 |
 | [คิดไม่ออก](https://open.spotify.com/track/1I9oRSMpN2K0xYivVr0AhF) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [คิดไม่ออก](https://open.spotify.com/album/6pcnTpwlGq2hfODdsHGBz1) | 3:20 | 2021-03-30 | 2021-07-04 |
@@ -310,6 +310,7 @@
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2021-03-27\* | 2022-02-05 |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 |  |
+| [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-29 |  |
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ช่วยไม่ได้](https://open.spotify.com/track/4GGNl8jiANylTJj4hfzqP7) | [UrboyTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:17 | 2021-03-27\* | 2022-02-02 |
 | [ซับ](https://open.spotify.com/track/0Qk8RUwooCGKghG9yClG3O) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [ว่าน วันวาน](https://open.spotify.com/artist/0QScRPnsnAmEpN7w3p1Joo) | [ซับ](https://open.spotify.com/album/1c96H5AfNuK1rbtQ54PjR7) | 4:46 | 2021-03-27\* | 2021-09-12 |

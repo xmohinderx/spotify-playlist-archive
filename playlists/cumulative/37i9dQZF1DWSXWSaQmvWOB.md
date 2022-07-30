@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Cory Henry
 
-526 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+527 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/track/0bhSj3xSQFNcKvzH6r6tPp) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Out Of My Hands \(feat\. Oddisee\)](https://open.spotify.com/album/6Oz3UbkmnUwlMuZ1HEdXIB) | 3:36 | 2020-03-25\* | 2020-04-12 |
 | [Over](https://open.spotify.com/track/5hr67pD8cO73MfCpTJ3SbP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Over](https://open.spotify.com/album/06iYh595ysL4oYy3pxjnYB) | 2:56 | 2020-03-25\* | 2020-04-12 |
 | [Over & Out](https://open.spotify.com/track/5osNYKCZ2KckJadZ6HgHFf) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Over & Out](https://open.spotify.com/album/4UYgvGLKVw7sE8zrzrEZW1) | 3:05 | 2020-10-30 | 2020-12-05 |
-| [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2021-02-24 |  |
+| [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2021-02-24 | 2022-07-30 |
 | [Overflowing](https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Overflowing](https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp) | 2:26 | 2022-07-28 |  |
 | [Own Me](https://open.spotify.com/track/0NYd1Gbv9zXS3w1oSzzBA7) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 3:37 | 2021-09-24 | 2022-01-28 |
 | [Paper Thin](https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Paper Thin](https://open.spotify.com/album/33fybrWr3dFLVT8ZViCSc7) | 4:58 | 2020-05-08 | 2020-08-25 |
@@ -503,6 +503,7 @@
 | [What I Want](https://open.spotify.com/track/6F3XmjeZAABXispoA3Qumm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:58 | 2022-07-14 | 2022-07-29 |
 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 | 2021-12-10 | 2022-07-29 |
 | [What It Takes \(feat\. Lauren Daigle\)](https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [What It Takes](https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ) | 3:46 | 2022-04-08 | 2022-07-28 |
+| [What Kind of Woman](https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k), [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [What Kind of Woman](https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG) | 3:34 | 2022-07-28 |  |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-03-26 | 2021-04-17 |
 | [When a Man](https://open.spotify.com/track/6RJoHdqTT5OpIjGl4j3B32) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Apollo Brown](https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE) | [When a Man](https://open.spotify.com/album/6nVtyOM1aVgqM7XmRSFckj) | 3:00 | 2021-04-17 | 2022-07-28 |
 | [When They See Us](https://open.spotify.com/track/4CHgGOhXwtzb7j12tQuZ55) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [When They See Us](https://open.spotify.com/album/28Id1uB0xhMahviTxxs4O6) | 3:07 | 2020-06-05 | 2020-07-18 |

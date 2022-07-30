@@ -1,12 +1,12 @@
 {
   "description": "The beautiful sound of the Spanish guitar to help you wind down.",
-  "num_followers": 98449,
+  "num_followers": 98536,
   "original_name": "Relaxing Spanish Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMGU1NDNmMDI0MTQ1OTE1MjNkYmY1NjkyZmEzMzZjMTZh",
+  "snapshot_id": "MTY1OTA1MjgwMCwwMDAwMDAwMDQ0NmJlM2NjNjdlNmEwMTk4YjJhYjk4YmE0NjgyZDUx",
   "tracks": [
     {
       "added_at": "2022-07-29 00:00:00",
@@ -1375,6 +1375,38 @@
       "duration_ms": 161239,
       "name": "The End Of A Love Affair",
       "url": "https://open.spotify.com/track/7cSsTfPAectKHrHZD3zsn0"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Bye bye",
+        "url": "https://open.spotify.com/album/54aFqc6U17SGOOLdZOXvhV"
+      },
+      "artists": [
+        {
+          "name": "Jose el Petate",
+          "url": "https://open.spotify.com/artist/1mMuIn9JDZhYLWFRjQQUEj"
+        }
+      ],
+      "duration_ms": 161247,
+      "name": "Bye bye",
+      "url": "https://open.spotify.com/track/7izNlGhHL1tWqkElMrqLU1"
+    },
+    {
+      "added_at": "2022-07-29 00:00:00",
+      "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 232870,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1"
     },
     {
       "added_at": "2022-07-29 00:00:00",

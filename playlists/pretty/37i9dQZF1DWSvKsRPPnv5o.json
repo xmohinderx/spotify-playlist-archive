@@ -1,32 +1,76 @@
 {
   "description": "Holdin' it down for the westside. Cover: Roddy Ricch",
-  "num_followers": 694539,
+  "num_followers": 694627,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMDRiM2ZhYTZjZGE0OTE1MzVkZjhjM2JjMTQ2MTYwMmFi",
+  "snapshot_id": "MTY1OTEyNjE0OCwwMDAwMDAwMGMwZDYxODg0Yzc3Zjg1MTk3ZjA3OTUyZjkwNjAxZDZi",
   "tracks": [
     {
-      "added_at": "2022-07-22 04:00:00",
+      "added_at": "2022-07-29 20:22:28",
       "album": {
-        "name": "Survivor's Guilt",
-        "url": "https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 133533,
-      "name": "Smoke Nuffin' (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/654dosgptEZkNk0vX8ZoXj"
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "SORRY 4 THA WAIT II",
+        "url": "https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 128659,
+      "name": "IF YOU EVER",
+      "url": "https://open.spotify.com/track/41G3M9ewHTrDGNl5UKKlQl"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Light Breeze",
+        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Fenix Flexin Vol. 2",
+        "url": "https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu"
+      },
+      "artists": [
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "duration_ms": 118921,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/1zTsj09nN6RamZRO8W8Ssb"
     },
     {
       "added_at": "2022-06-17 04:01:00",
@@ -49,6 +93,26 @@
       "url": "https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Superghetto (Deluxe)",
+        "url": "https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
+        }
+      ],
+      "duration_ms": 158003,
+      "name": "Long Day (Pussy Crazy) (feat. Gwen Bunn)",
+      "url": "https://open.spotify.com/track/75kbz7ZnEgvEbiBFOb5Izh"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "The Big 3",
@@ -63,38 +127,6 @@
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Light Breeze",
-        "url": "https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Light Breeze",
-      "url": "https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "SORRY 4 THA WAIT II",
-        "url": "https://open.spotify.com/album/4pL9OktIEqLVwdxlwQHRhj"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 128659,
-      "name": "IF YOU EVER",
-      "url": "https://open.spotify.com/track/41G3M9ewHTrDGNl5UKKlQl"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -113,6 +145,26 @@
       "url": "https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1"
     },
     {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Survivor's Guilt",
+        "url": "https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 133533,
+      "name": "Smoke Nuffin' (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/654dosgptEZkNk0vX8ZoXj"
+    },
+    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "Open Arms",
@@ -127,6 +179,22 @@
       "duration_ms": 164158,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2aKdhAWm1SX4B7KY5QuGB6"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "In My Pockets",
+        "url": "https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "In My Pockets",
+      "url": "https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -289,22 +357,6 @@
       "url": "https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk"
     },
     {
-      "added_at": "2022-07-08 04:03:48",
-      "album": {
-        "name": "Ay Caramba",
-        "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 164436,
-      "name": "Ay Caramba",
-      "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "111th East",
@@ -355,26 +407,6 @@
       "duration_ms": 168510,
       "name": "LET ME KNO SUM",
       "url": "https://open.spotify.com/track/3TzOCLcooFojGEQoysyM7i"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/69qqSrvZB2mnCOeiyHA19d"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Dom Kennedy",
-          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "CORSA",
-      "url": "https://open.spotify.com/track/1aMHy6hXMgtGQ49dzAYPLm"
     },
     {
       "added_at": "2022-05-13 04:01:00",
@@ -533,20 +565,24 @@
       "url": "https://open.spotify.com/track/1HQnH8Qh2NjaWB5gGfjDif"
     },
     {
-      "added_at": "2022-06-10 04:01:00",
+      "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Don't Condone 2",
-        "url": "https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ"
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/0HhPoiceZZ8Gvl5KLIjKNP"
       },
       "artists": [
         {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "Tope",
+          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
         }
       ],
-      "duration_ms": 264320,
-      "name": "Don't Condone 2",
-      "url": "https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh"
+      "duration_ms": 140534,
+      "name": "10s, 20s, 50s, 100s",
+      "url": "https://open.spotify.com/track/4egNUXSdg3yDYD2BOZjYQU"
     },
     {
       "added_at": "2022-06-03 04:00:00",
@@ -739,26 +775,6 @@
       "duration_ms": 190104,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/4mudRWge7q5FXRSl5cciL3"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Days Like This",
-        "url": "https://open.spotify.com/album/0HhPoiceZZ8Gvl5KLIjKNP"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Tope",
-          "url": "https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq"
-        }
-      ],
-      "duration_ms": 140534,
-      "name": "10s, 20s, 50s, 100s",
-      "url": "https://open.spotify.com/track/4egNUXSdg3yDYD2BOZjYQU"
     },
     {
       "added_at": "2022-05-27 04:01:00",

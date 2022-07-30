@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168356,
       "name": "Con Un Pu\u00f1o De Cannabis",
       "url": "https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 141818,
       "name": "El Chava",
       "url": "https://open.spotify.com/track/5Tr6YTRAFfsnFd2k36DAh5"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 172000,
       "name": "La Cubana",
       "url": "https://open.spotify.com/track/5s8flimp5WHfmQFkVgSNpA"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 148344,
       "name": "La Fiesta Ya Empezo",
       "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 179499,
       "name": "Millonario y Me Retiro",
       "url": "https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 196500,
       "name": "Miran La Apariencia",
       "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
@@ -790,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "Soy De La",
+      "url": "https://open.spotify.com/track/1tRKJ5Ov5meBRAg7B9rab6"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1os y Metas",
         "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
       },
@@ -841,7 +859,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 172471,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/0eh9ZrTOVClUh7lhBv1pLt"

@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Lizz Wright
 
-118 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
+120 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/75KE2wEWnN31m3GF8kYS07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 |  |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 |  |
+| [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-07-29 |  |
 | [Me to You](https://open.spotify.com/track/2XBzszqFztAByWUJ82MzKq) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Me to You](https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5) | 3:50 | 2021-10-29 |  |
 | [More and More](https://open.spotify.com/track/1AqUAxuSol6C4ZyzGxEzre) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [Love, Tears & Guns](https://open.spotify.com/album/2zXx3awhI7zd54BvHdpdT4) | 4:55 | 2020-11-05 |  |
 | [More Than You Needed](https://open.spotify.com/track/5q3Vbceg2WlCqgMfc9Kosq) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Rooftops and Satellites](https://open.spotify.com/album/1LiAEvcdWVb9qNHFku5YzA) | 3:48 | 2020-11-05 |  |
@@ -95,6 +96,7 @@
 | [Slow Love](https://open.spotify.com/track/43yzHeaBaa6C96s2EDCWxU) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf) | [Changes](https://open.spotify.com/album/4TiJdmV0Oh7GauOdmfrXNe) | 3:38 | 2020-11-05 | 2022-07-29 |
 | [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 |  |
 | [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 |  |
+| [Smile At The Mention](https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:38 | 2022-07-29 |  |
 | [Someday](https://open.spotify.com/track/5MS6qXLKnY68DMlliiwfTX) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe\)](https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA) | 3:19 | 2021-10-01 |  |
 | [Something To Lose](https://open.spotify.com/track/2m1CK247MhzvfuX3DiBo00) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Something To Lose/Better Than You Want](https://open.spotify.com/album/1palVaI8ZlhKqztsGqSEB7) | 4:48 | 2020-11-05 | 2022-07-29 |
 | [Something To Lose](https://open.spotify.com/track/5f43xdMK3oxObiuFNZRkNq) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5), [Amy Helm](https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 4:48 | 2020-11-05 |  |

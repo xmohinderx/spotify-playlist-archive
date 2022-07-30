@@ -1832,6 +1832,24 @@
     },
     {
       "album": {
+        "name": "Hit Collection",
+        "url": "https://open.spotify.com/album/5GCOTlkiFPUC22CV1sfMgF"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard & The Shadows",
+          "url": "https://open.spotify.com/artist/4IdvJZeciaa37wYr2qBpjm"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156826,
+      "name": "Living Doll",
+      "url": "https://open.spotify.com/track/7uh4n1oxt2ewgi5Ly8ZHyW"
+    },
+    {
+      "album": {
         "name": "Walking In The Rain",
         "url": "https://open.spotify.com/album/0InsVXLbIHPOl34t1L9Y2m"
       },
@@ -2767,7 +2785,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 149333,
       "name": "Softly Softly",
       "url": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"

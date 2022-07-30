@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5475,
+  "num_followers": 5489,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2ODQ5MiwwMDAwMDAwMGFkMTQxZGRiNDRmMTRlZTIyNDgzZmExMzUxNGIxMTVm",
+  "snapshot_id": "MTY1NzI2ODQ5MiwwMDAwMDAwMDI0Y2RhMmY5MzMxNmVhNmIxYTk5ZjQyM2Y1YzZhZGQ1",
   "tracks": [
     {
       "added_at": "2022-07-08 08:21:32",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
-      },
-      "artists": [
-        {
-          "name": "CHAI",
-          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -303,18 +287,18 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
-        "name": "Dancing With You",
-        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95"
       },
       "artists": [
         {
-          "name": "Yebit",
-          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC"
         }
       ],
-      "duration_ms": 236750,
-      "name": "Dancing With You",
-      "url": "https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT"
+      "duration_ms": 204373,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB"
     },
     {
       "added_at": "2022-07-08 08:21:32",
@@ -331,6 +315,22 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
+        "name": "Dancing With You",
+        "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
+      },
+      "artists": [
+        {
+          "name": "Yebit",
+          "url": "https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "Dancing With You",
+      "url": "https://open.spotify.com/track/7g8LSPXjUmNi3433qYyTOT"
     },
     {
       "added_at": "2022-07-08 08:21:32",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
-        "name": "let\u2019s play tug",
-        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
-      },
-      "artists": [
-        {
-          "name": "heyden",
-          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
-        }
-      ],
-      "duration_ms": 166196,
-      "name": "let\u2019s play tug",
-      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
         "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 213327,
       "name": "Going home",
       "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
+        "name": "let\u2019s play tug",
+        "url": "https://open.spotify.com/album/58dDHLjbbAYjwsKnxnTSuR"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "duration_ms": 166196,
+      "name": "let\u2019s play tug",
+      "url": "https://open.spotify.com/track/2D4ePOWVxw7LVFY1NNAAca"
     },
     {
       "added_at": "2022-07-08 08:21:32",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2022-07-08 08:21:32",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-08 08:21:32",
       "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "To the other side of greed",
+      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
+    },
+    {
+      "added_at": "2022-07-08 08:21:32",
+      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
-    },
-    {
-      "added_at": "2022-07-08 08:21:32",
-      "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "To the other side of greed",
-      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
     },
     {
       "added_at": "2022-07-08 08:21:32",

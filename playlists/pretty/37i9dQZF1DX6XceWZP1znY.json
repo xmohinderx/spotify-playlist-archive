@@ -1,12 +1,12 @@
 {
   "description": "Listen to your favourite Anime songs, all in one playlist.",
-  "num_followers": 456962,
+  "num_followers": 457296,
   "original_name": "Anime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxNzg5NywwMDAwMDAwMGQwZjM5OThiNDdkYjc3NzY5MGNlYTI3MmJkYTk3ZDhh",
+  "snapshot_id": "MTY1NDYxNzg5NywwMDAwMDAwMGQ2MTI4Y2I5MWY4MWUxODZlOTFjNjZlOWIzMjdjNjI4",
   "tracks": [
     {
       "added_at": "2022-06-07 16:04:57",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
-        "url": "https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF"
-      },
-      "artists": [
-        {
-          "name": "QUEENDOM",
-          "url": "https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
-      "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "\u30a6\u30e9\u30e9",
         "url": "https://open.spotify.com/album/3zS9R7KJTSgwfhcmL4ckjl"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208299,
       "name": "Black Rover",
       "url": "https://open.spotify.com/track/04LCCxG3pbOYeENiyUc7Xb"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
+        "url": "https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF"
+      },
+      "artists": [
+        {
+          "name": "QUEENDOM",
+          "url": "https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3",
+      "url": "https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "DREAMIN' ON",
+      "url": "https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u53ef\u611b\u3044\u3060\u3051\u3058\u3083\u306a\u3044\u5f0f\u5b88\u3055\u3093\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30cf\u30cb\u30fc\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc\u300d",
         "url": "https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
       },
       "artists": [
         {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 235373,
-      "name": "DREAMIN' ON",
-      "url": "https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1"
+      "duration_ms": 233893,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1011,22 +1027,6 @@
       "duration_ms": 90937,
       "name": "\u30c1\u30ad\u30c1\u30ad\u30d0\u30f3\u30d0\u30f3 - TV Ver.",
       "url": "https://open.spotify.com/track/5V1bKI60cPKn4K4g0y8EV1"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "D-tecnoLife",
-      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 266373,
-      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
-      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "takt",
         "url": "https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 237500,
       "name": "takt",
       "url": "https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 266373,
+      "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Bubble (feat. Uta)",
-        "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        },
-        {
-          "name": "Uta",
-          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
-        }
-      ],
-      "duration_ms": 226874,
-      "name": "Bubble (feat. Uta)",
-      "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
       },
@@ -1203,6 +1183,22 @@
       "duration_ms": 178213,
       "name": "Call of Silence",
       "url": "https://open.spotify.com/track/7k1HoUdskuBhyWvm7hPctM"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "BURNOUT SYNDROMEZ",
+        "url": "https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Good Morning World!",
+      "url": "https://open.spotify.com/track/6bfDSsy4wnpn6B0de8Qrbx"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1223,18 +1219,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "BURNOUT SYNDROMEZ",
-        "url": "https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa"
+        "name": "Bubble (feat. Uta)",
+        "url": "https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB"
       },
       "artists": [
         {
-          "name": "BURNOUT SYNDROMES",
-          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        },
+        {
+          "name": "Uta",
+          "url": "https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Good Morning World!",
-      "url": "https://open.spotify.com/track/6bfDSsy4wnpn6B0de8Qrbx"
+      "duration_ms": 226874,
+      "name": "Bubble (feat. Uta)",
+      "url": "https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u767e\u6b4c\u7e5a\u4e71",
-        "url": "https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy"
-      },
-      "artists": [
-        {
-          "name": "ASCA",
-          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
-        }
-      ],
-      "duration_ms": 227080,
-      "name": "RESISTER",
-      "url": "https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "BURNOUT SYNDROMEZ",
         "url": "https://open.spotify.com/album/3GIBqRgh0jyw20ZauvXPRa"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 246813,
       "name": "PHOENIX",
       "url": "https://open.spotify.com/track/1ZGmDs16vtSI0nlxDFljFK"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u767e\u6b4c\u7e5a\u4e71",
+        "url": "https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "duration_ms": 227080,
+      "name": "RESISTER",
+      "url": "https://open.spotify.com/track/5bsGv6kAydbH8VTW0xup9D"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
-        "url": "https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6"
-      },
-      "artists": [
-        {
-          "name": "\u9234\u6728\u611b\u7406",
-          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
-        }
-      ],
-      "duration_ms": 227027,
-      "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
-      "url": "https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 317266,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
       "url": "https://open.spotify.com/track/7ebceNRVeFRFpd4qLENYpO"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
+        "url": "https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6"
+      },
+      "artists": [
+        {
+          "name": "\u9234\u6728\u611b\u7406",
+          "url": "https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h"
+        }
+      ],
+      "duration_ms": 227027,
+      "name": "\u30cf\u30fc\u30c8\u306f\u304a\u624b\u4e0a\u3052",
+      "url": "https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u51f8\u51f9",
-        "url": "https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn"
-      },
-      "artists": [
-        {
-          "name": "Kiyoe Yoshioka",
-          "url": "https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "\u51f8\u51f9",
-      "url": "https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "Weathering With You",
         "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 188066,
       "name": "Grand Escape (Movie Edit) [feat. Toko Miura]",
       "url": "https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u51f8\u51f9",
+        "url": "https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn"
+      },
+      "artists": [
+        {
+          "name": "Kiyoe Yoshioka",
+          "url": "https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "\u51f8\u51f9",
+      "url": "https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1783,6 +1783,22 @@
       "duration_ms": 212146,
       "name": "Hands Up to the Sky",
       "url": "https://open.spotify.com/track/7kiWVIA95A2H7TMYSrA0b5"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 414466,
+      "name": "Is There Still Anything That Love Can Do?",
+      "url": "https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -1851,22 +1867,6 @@
       "duration_ms": 185166,
       "name": "Torch of Liberty",
       "url": "https://open.spotify.com/track/3YblgwBrb747gUzuh2CgYF"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "Weathering With You",
-        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 414466,
-      "name": "Is There Still Anything That Love Can Do?",
-      "url": "https://open.spotify.com/track/56pvqFKGXPjubh5eY6sOlv"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/0YiCDTDr522Wac8BbC8wNy"
-      },
-      "artists": [
-        {
-          "name": "Monkey Majik",
-          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
-        }
-      ],
-      "duration_ms": 271520,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/7CZKnz9mEt8Z638tyY5cKL"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/17RZ0HdVPqFvVcZNQZfvkO"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 225133,
       "name": "ID",
       "url": "https://open.spotify.com/track/2TdfwkIHpCb0S8NYJVyr2X"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/0YiCDTDr522Wac8BbC8wNy"
+      },
+      "artists": [
+        {
+          "name": "Monkey Majik",
+          "url": "https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/7CZKnz9mEt8Z638tyY5cKL"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2179,6 +2179,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
+        "name": "ALL IN",
+        "url": "https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 188826,
+      "name": "TOP -Japanese ver.-",
+      "url": "https://open.spotify.com/track/6tuhGVjqfYYs0MYxapWibK"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
         "name": "eyes",
         "url": "https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 210968,
       "name": "3\u520629\u79d2",
       "url": "https://open.spotify.com/track/04rQMy0kPLdMyIeK5oyg1g"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "ALL IN",
-        "url": "https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 188826,
-      "name": "TOP -Japanese ver.-",
-      "url": "https://open.spotify.com/track/6tuhGVjqfYYs0MYxapWibK"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "No Time to Cast Anchor",
-        "url": "https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 192713,
-      "name": "No Time to Cast Anchor",
-      "url": "https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6",
         "url": "https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH"
       },
@@ -2387,6 +2371,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
+        "name": "No Time to Cast Anchor",
+        "url": "https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 192713,
+      "name": "No Time to Cast Anchor",
+      "url": "https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/4B9KlBcnI7Tpe89inHdQ2V"
       },
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
+        "name": "\u5916\u9053\u8b83\u6b4c",
+        "url": "https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY"
+      },
+      "artists": [
+        {
+          "name": "FantasticYouth",
+          "url": "https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16"
+        }
+      ],
+      "duration_ms": 269031,
+      "name": "\u5916\u9053\u8b83\u6b4c",
+      "url": "https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
         "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u300c\u30d1\u30ea\u30d4\u5b54\u660e\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u6c17\u5206\u4e0a\u3005\u2191\u2191\u300d",
         "url": "https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91"
       },
@@ -2439,18 +2455,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u5916\u9053\u8b83\u6b4c",
-        "url": "https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY"
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S"
       },
       "artists": [
         {
-          "name": "FantasticYouth",
-          "url": "https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16"
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
         }
       ],
-      "duration_ms": 269031,
-      "name": "\u5916\u9053\u8b83\u6b4c",
-      "url": "https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC"
+      "duration_ms": 215984,
+      "name": "Koko de Iki wo Shite",
+      "url": "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2467,22 +2483,6 @@
       "duration_ms": 290233,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/5vaJU5vIRhx6d6lgyYR1Bb"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Koko de Iki wo Shite",
-      "url": "https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
-        "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
-      },
-      "artists": [
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        }
-      ],
-      "duration_ms": 245962,
-      "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
-      "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 291564,
       "name": "HOME",
       "url": "https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
+        "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "duration_ms": 245962,
+      "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
+      "url": "https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u7d76\u4f53\u7d76\u547d",
-        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 262705,
-      "name": "\u7d76\u4f53\u7d76\u547d",
-      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "2ND GALAXY",
         "url": "https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6"
       },
@@ -2747,18 +2731,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/6J7w94eqtxESsAkRfB4dAQ"
+        "name": "\u7d76\u4f53\u7d76\u547d",
+        "url": "https://open.spotify.com/album/49DU4EI3EfLcmY7iVufP4O"
       },
       "artists": [
         {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 269813,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4cXlM7IelyGNnaOiROPZqn"
+      "duration_ms": 262705,
+      "name": "\u7d76\u4f53\u7d76\u547d",
+      "url": "https://open.spotify.com/track/62yZ21fqY3DIxXxV0vBdqP"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2779,18 +2763,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Hikare Inochi",
-        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/6J7w94eqtxESsAkRfB4dAQ"
       },
       "artists": [
         {
-          "name": "Kitri",
-          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Sympathy",
-      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
+      "duration_ms": 269813,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4cXlM7IelyGNnaOiROPZqn"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2811,18 +2795,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Rock The World",
-        "url": "https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw"
+        "name": "Hikare Inochi",
+        "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
       "artists": [
         {
-          "name": "[Alexandros]",
-          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+          "name": "Kitri",
+          "url": "https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW"
         }
       ],
-      "duration_ms": 269493,
-      "name": "Rock The World",
-      "url": "https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza"
+      "duration_ms": 210760,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2859,18 +2843,18 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/2csneKY1Pr4UXxMrG4I5Gr"
+        "name": "Rock The World",
+        "url": "https://open.spotify.com/album/1yto3mv5m93z2D70KxP8mw"
       },
       "artists": [
         {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
         }
       ],
-      "duration_ms": 308453,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/15WLZS3pvNj1grj8FsI1tv"
+      "duration_ms": 269493,
+      "name": "Rock The World",
+      "url": "https://open.spotify.com/track/0esOEHmStYyPNMEU3HwBza"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2891,6 +2875,22 @@
       "duration_ms": 316494,
       "name": "Eureka (feat. kojikoji)",
       "url": "https://open.spotify.com/track/6vaMxuMCYQ717jJBEJ3BcC"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/2csneKY1Pr4UXxMrG4I5Gr"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 308453,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/15WLZS3pvNj1grj8FsI1tv"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "Small world",
-        "url": "https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Small world",
-      "url": "https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "KAGUYA ULTRA BEST",
         "url": "https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 226053,
       "name": "THE ANSWER",
       "url": "https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "Small world",
+        "url": "https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 322223,
+      "name": "Small world",
+      "url": "https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
-        "name": "\u306f\u3057\u308a\u304c\u304d",
-        "url": "https://open.spotify.com/album/6SLw3pRwmLgrLywI5TEfdY"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 190952,
-      "name": "\u306f\u3057\u308a\u304c\u304d",
-      "url": "https://open.spotify.com/track/4rVpueOWFM9jUjZSWt1eNu"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
         "name": "\u30df\u30ab\u30c5\u30ad\u306e\u822a\u6d77",
         "url": "https://open.spotify.com/album/15eNAwfeREX3xNlBSN28wK"
       },
@@ -3087,6 +3071,22 @@
     {
       "added_at": "2022-06-07 16:04:57",
       "album": {
+        "name": "\u306f\u3057\u308a\u304c\u304d",
+        "url": "https://open.spotify.com/album/6SLw3pRwmLgrLywI5TEfdY"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 190952,
+      "name": "\u306f\u3057\u308a\u304c\u304d",
+      "url": "https://open.spotify.com/track/4rVpueOWFM9jUjZSWt1eNu"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
         "name": "BOYCOTT",
         "url": "https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX"
       },
@@ -3115,38 +3115,6 @@
       "duration_ms": 274530,
       "name": "Storyteller",
       "url": "https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "Secret Ceremony",
-        "url": "https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 220001,
-      "name": "Secret Ceremony",
-      "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
-    },
-    {
-      "added_at": "2022-06-07 16:04:57",
-      "album": {
-        "name": "\u30ad\u30e7\u30ea\u611f",
-        "url": "https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30b3\u30cb\u30ef\u30ea\u30ea\u30a3",
-          "url": "https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "\u30ad\u30e7\u30ea\u611f",
-      "url": "https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo"
     },
     {
       "added_at": "2022-06-07 16:04:57",
@@ -3211,6 +3179,38 @@
       "duration_ms": 270904,
       "name": "New Page",
       "url": "https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "Secret Ceremony",
+        "url": "https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 220001,
+      "name": "Secret Ceremony",
+      "url": "https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV"
+    },
+    {
+      "added_at": "2022-06-07 16:04:57",
+      "album": {
+        "name": "\u30ad\u30e7\u30ea\u611f",
+        "url": "https://open.spotify.com/album/2NfyjfSfTz6L1X16qxT0hq"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30b3\u30cb\u30ef\u30ea\u30ea\u30a3",
+          "url": "https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "\u30ad\u30e7\u30ea\u611f",
+      "url": "https://open.spotify.com/track/3Dk2LSzebLiP4Al8AKcgbo"
     },
     {
       "added_at": "2022-06-07 16:04:57",

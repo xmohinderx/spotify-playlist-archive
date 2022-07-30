@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-171 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
+176 songs - 7 hr 5 min - [published](https://open.spotify.com/playlist/2nsz5w7fkkZs2YsroV1TdR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Nocturn Doubts](https://open.spotify.com/track/5zVTc85gPq1ncILKdK9vXc) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Night Times](https://open.spotify.com/album/7wIa2SC3g2x4YvVzTFO3xd) | 2:18 | 2022-07-15 |  |
 | [obsidian](https://open.spotify.com/track/2WqGpdRUeNhg7YT0xfZbG6) | [future seer](https://open.spotify.com/artist/1UUcVGsQzTvVzZxQJ9LCPx) | [obsidian](https://open.spotify.com/album/3jmhvLz1rfDfhh5gkwGXlj) | 2:14 | 2022-05-27 | 2022-07-15 |
 | [ocean blue](https://open.spotify.com/track/4F10zgqF71gLdv9ZIHQeXX) | [brknhrt.Wav](https://open.spotify.com/artist/7CSAczsskEtnMBzZ25tOma) | [ocean blue](https://open.spotify.com/album/7bcfdyabuld1dgPrq2P6YJ) | 1:44 | 2022-07-08 | 2022-07-15 |
+| [off the grid](https://open.spotify.com/track/67ZBo4TkiHsPGVuJDxsXkk) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [off the grid](https://open.spotify.com/album/1uVRWOGqmDWLwfWploSKba) | 2:48 | 2022-07-29 |  |
 | [On My Way](https://open.spotify.com/track/5xmkS1lv38JiohsD7omi8a) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [On My Way](https://open.spotify.com/album/652xJbu0kTPJcfXeKeYil2) | 2:16 | 2022-07-15 |  |
 | [Other Way Around](https://open.spotify.com/track/1Ncz3CgIIhlvoqChef6QLm) | [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Other Way Around](https://open.spotify.com/album/4aK8t4rKtHjdsMaV4hg34t) | 1:52 | 2022-07-08 |  |
 | [our future](https://open.spotify.com/track/4WBdS3TlzAFYVKhpNqyDSy) | [saamson](https://open.spotify.com/artist/3h4ZdFuMxG9E3stRytpGT6) | [our future](https://open.spotify.com/album/54O5b1b2VKMu4fD0d72wp3) | 1:47 | 2022-06-24 |  |
@@ -135,6 +136,8 @@
 | [Rumble](https://open.spotify.com/track/24XbI3GX0rEVr0r4UXW9Vg) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 4:01 | 2022-05-27 | 2022-07-15 |
 | [Sapphire Lake](https://open.spotify.com/track/1JkJyzYF2rFW8JNtKAcvJg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Sapphire Lake](https://open.spotify.com/album/5Repjf7oguBTeQY2Lxwyft) | 2:49 | 2022-06-24 |  |
 | [Satisfaction](https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2) | [Mysterybops](https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n) | [Satisfaction](https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ) | 1:52 | 2022-07-08 |  |
+| [Seasons Change](https://open.spotify.com/track/3Vdunna1LcFXyvLE50j5oK) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seasons Change](https://open.spotify.com/album/0FGJhpYTovyNwXoxUnvf3G) | 1:58 | 2022-07-29 |  |
+| [Sense](https://open.spotify.com/track/52oTmaLv8s70zJft348pjy) | [revmal](https://open.spotify.com/artist/0thsoOfTu2qJQQVg5wrG6S), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sense](https://open.spotify.com/album/3rfDVFn4DLafKcjh5tj4lr) | 1:48 | 2022-07-29 |  |
 | [Serendipity](https://open.spotify.com/track/570mOFP7nwkJHEKuKoK0Gr) | [Ana's Dreams](https://open.spotify.com/artist/1GlVKWlsgnWjGGoSIzZhYe), [Amelia Clouds](https://open.spotify.com/artist/5nAP2r3JeLvqP3Fp5xNcw0) | [Indieana, Vol\. 3](https://open.spotify.com/album/2DwxZgvGGvdOzh1ywCxZcA) | 0:58 | 2022-06-10 | 2022-07-01 |
 | [Shadowplay](https://open.spotify.com/track/395A5TBwtGEqsa5G8IYw1I) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Shadowplay](https://open.spotify.com/album/756kSTRX64R9il4hyfDty3) | 2:51 | 2022-05-27 |  |
 | [Side Streets](https://open.spotify.com/track/5Tionopm4U5KuVAa34YvE3) | [Tanglebird](https://open.spotify.com/artist/1CyyavZPAhLtqqXouBWlkt) | [Several Boxes](https://open.spotify.com/album/5NjGnt2WLAPz9cUhMSsAZI) | 2:38 | 2022-06-24 |  |
@@ -159,6 +162,7 @@
 | [Take a Moment](https://open.spotify.com/track/2Gyem6v6ySHKfNNeap8Q59) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [Take a Moment](https://open.spotify.com/album/13mYlRSP07v5q5OJiYhmT2) | 2:16 | 2022-05-27 | 2022-07-01 |
 | [Technical Difficulties](https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Technical Difficulties](https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG) | 2:50 | 2022-05-27 |  |
 | [The Truth](https://open.spotify.com/track/2OG5MGQumLg0VKE8TOKq0Y) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR), [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [The Truth](https://open.spotify.com/album/5cWqLf8pYTsmXpo0TU8Xvg) | 2:19 | 2022-05-27 |  |
+| [They Grew Around Her](https://open.spotify.com/track/0SIPvTIbcElBAiuM0E0c4w) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [They Grew Around Her](https://open.spotify.com/album/6TZ8us7ju80yQ56xN6nJ1q) | 2:36 | 2022-07-29 |  |
 | [Through the Streets](https://open.spotify.com/track/2f2QZvcV1qvgz8tiQ3xc6G) | [Gian Thani](https://open.spotify.com/artist/4BXXLCtwIwhOEvbx6FG5uF) | [Through the Streets](https://open.spotify.com/album/3mJhG0cZjFW2UA2omCjrLD) | 2:18 | 2022-05-27 |  |
 | [Till dig](https://open.spotify.com/track/2qcPi2BKIrArJ0Cnb06kqC) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Ta Paus](https://open.spotify.com/album/4sWUPjRnNBlT7GYfU9aPaU) | 3:35 | 2022-05-27 |  |
 | [Time Flies](https://open.spotify.com/track/6ddmnmfULodDasWZZs2BP4) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [Time Flies](https://open.spotify.com/album/2m8tQyHEEqR9OBLdQiofy5) | 2:11 | 2022-06-24 |  |
@@ -172,6 +176,7 @@
 | [wait](https://open.spotify.com/track/4GheVHPcbhnedzU7jXUC17) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [wait](https://open.spotify.com/album/6wgmnVSl2pdMwgljbyvBty) | 2:03 | 2022-07-01 |  |
 | [warm haze](https://open.spotify.com/track/2cpd5QcPCStQUbFTg0AoY1) | [Chill Children](https://open.spotify.com/artist/1HIUSy6Z18XvHfvsGPSWYx), [think2much](https://open.spotify.com/artist/4LNjWW0s5gmzpbySCxE8ec) | [warm haze](https://open.spotify.com/album/6KgPoxBPkTJCIQy6WyV1pd) | 2:17 | 2022-06-24 |  |
 | [Waves](https://open.spotify.com/track/0Dcsu1oGRH9knxbEbYd5dC) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [Waves](https://open.spotify.com/album/5CMhCQd8dBQ8hEPxeg5gGy) | 2:34 | 2022-07-08 |  |
+| [Waves in the Sea](https://open.spotify.com/track/1LulW6f7M6PcO8yFv2Pwsq) | [YetBaby](https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb), [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Waves in the Sea](https://open.spotify.com/album/2q8EnyDXgZXWPQZPeG30Vc) | 2:37 | 2022-07-29 |  |
 | [wheredidyougo](https://open.spotify.com/track/1IOyxXUpGlJFKlVOmtAYRn) | [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [shortstories](https://open.spotify.com/album/2Am9QrlMjX0QTnkAOayeeI) | 1:45 | 2022-06-24 |  |
 | [Why not](https://open.spotify.com/track/26L3JrgqwhpEYS3PYZBEjw) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Why not](https://open.spotify.com/album/5j19PHYXoycyjhMWLzeSoI) | 2:03 | 2022-06-03 | 2022-07-15 |
 | [Wind Shear](https://open.spotify.com/track/33xRLRHq485anywUECESNa) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu), [Fayelo](https://open.spotify.com/artist/1K18BNpoYTlf251GQL1Mdz) | [Wind Shear](https://open.spotify.com/album/4sy9xkgUrclVbLqqVXslrq) | 2:44 | 2022-05-27 |  |

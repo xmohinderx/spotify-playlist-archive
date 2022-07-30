@@ -4,7 +4,7 @@
 
 > Beats inspired by the golden era of hip hop.
 
-163 songs - 6 hr 26 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
+167 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/2UDwRnaYSll1GWBrbzbSOH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Big Big Man](https://open.spotify.com/track/5LvWYD21qJLV4m5PpGuznD) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Big Big Man](https://open.spotify.com/album/28EtX6paSslPKDaEbzCSWd) | 2:06 | 2022-04-08 |  |
 | [Bigtownsteelo](https://open.spotify.com/track/1HwpgBbUoeSnYAFUOSr1zO) | [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F), [Cultura](https://open.spotify.com/artist/1ltMjK1yxdJdUBi1TrM6mU) | [Bigtownsteelo](https://open.spotify.com/album/7c6TF2TR0tThJFpiv6X6xO) | 2:29 | 2022-05-13 | 2022-05-20 |
 | [Bikes](https://open.spotify.com/track/1xXQc2REQJrIWvpSljejP7) | [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [Bikes](https://open.spotify.com/album/21uOUcZD90UulgeEjy4vEc) | 1:25 | 2021-11-11 |  |
+| [Blue](https://open.spotify.com/track/0Ny8qSEbwotqBfbG0TWVPN) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Blue](https://open.spotify.com/album/016rAHE5Ol1cvDgPhizJRP) | 1:53 | 2022-07-29 |  |
 | [Blueberry Crunchy Pie](https://open.spotify.com/track/4qPTD9PEuRmaW8ejft4IiB) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Blueberry Crunchy Pie](https://open.spotify.com/album/2COHFxKVyc1WsIdd0Ky14Z) | 2:24 | 2022-06-17 |  |
 | [Brand New Ride](https://open.spotify.com/track/278yaUyHB1jfFh0Hx0HqU1) | [Lingo](https://open.spotify.com/artist/4RcqZYDDLikC5uAIUD8Ptx) | [Summer Jams](https://open.spotify.com/album/54GJEBp5eYChvY43ctKkr8) | 4:05 | 2022-06-24 | 2022-07-08 |
 | [Brooklyn 94](https://open.spotify.com/track/4VRvLwyrBPJOxVqCj8ckvI) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brooklyn 94](https://open.spotify.com/album/4qXEssOIyUDixW8ZAr0sGu) | 1:40 | 2022-07-29 |  |
@@ -36,6 +37,7 @@
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2021-11-11 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2022-05-27 |  |
 | [Couchsurfing](https://open.spotify.com/track/74aOxMVG9XAoPiT0fG5qpj) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Great Wall](https://open.spotify.com/album/1cIrpDpM4wsxbM4qoKbXnR) | 1:53 | 2021-11-11 |  |
+| [Coves](https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Coves](https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr) | 2:45 | 2022-07-29 |  |
 | [Cruise](https://open.spotify.com/track/2SHOKzFqELTLPVnmVAUH2u) | [Trap McGrady](https://open.spotify.com/artist/48NVhVESjFx8fte6W9Bwte) | [Love Trap](https://open.spotify.com/album/6D6WhJox7MrEtsxJwO0Xfb) | 3:23 | 2021-11-11 |  |
 | [CupaJoe](https://open.spotify.com/track/3Mdkh1U3f1jBheP7nNlBAa) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [CupaJoe](https://open.spotify.com/album/0xg4bBhWQksiKERlaIaq02) | 2:40 | 2021-11-11 | 2022-05-20 |
 | [D\-Bounce](https://open.spotify.com/track/3ZQzuwNNLstDqee25SQzCp) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [D\-Bounce](https://open.spotify.com/album/1fYMSkZu4OweUq1yyj8038) | 2:19 | 2021-11-11 |  |
@@ -121,12 +123,14 @@
 | [Old Tram](https://open.spotify.com/track/3nFoFJdKjaIEdJcNuEcIZB) | [Ozelot](https://open.spotify.com/artist/0EGqP4H6r2Fc7VquwjgMtY) | [Old Tram](https://open.spotify.com/album/1o3IAb8iXLdEeUmj6tfbTf) | 2:10 | 2022-02-18 |  |
 | [Out of Control](https://open.spotify.com/track/4WJoNiRZ35DDsQINC2GXxd) | [Sepalot](https://open.spotify.com/artist/3sZWrl2jYnPP1vw9cIqDZV) | [Break Again](https://open.spotify.com/album/1yL7GuPfFfhM1764j3dB6s) | 1:48 | 2021-11-11 | 2022-07-22 |
 | [Painting My Thoughts](https://open.spotify.com/track/6DTKZsmOR9drYUqPqxe48U) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Painting My Thoughts](https://open.spotify.com/album/5767LRfb1YKV5k8KRbTmoP) | 2:29 | 2021-11-11 |  |
+| [Palindromeda](https://open.spotify.com/track/3oUSL2wv3bD1KLCfuzQbQ4) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Palindromeda](https://open.spotify.com/album/7GlrACUPKdFqezK9kljp3p) | 1:43 | 2022-07-29 |  |
 | [Paranoid Society \- Instrumental](https://open.spotify.com/track/65dL2H0PFe9IAV1dOAl0d3) | [Damu The Fudgemunk](https://open.spotify.com/artist/7Mws36yO3takBR2WMsXOkM) | [Travel Instrumentals \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1PGmuVGUYfBN68kNoCShJX) | 4:27 | 2021-11-11 | 2022-05-20 |
 | [Phoenix Wright Ace Attorney](https://open.spotify.com/track/0I3nfnIvEJ8a2umI8qs0x2) | [Cartridge 1987](https://open.spotify.com/artist/359GzoMEPYlm349fhv6YHo) | [Phoenix Wright Ace Attorney](https://open.spotify.com/album/2gGmh1bcLPDt1voOMDoAds) | 2:15 | 2022-06-17 |  |
 | [Playful](https://open.spotify.com/track/2MVpsdNyF4sBUFZ3LuP592) | [Miss Sangria](https://open.spotify.com/artist/7qFNxNfrKpdnnDIaQkh4Ou) | [Floweristic](https://open.spotify.com/album/2K069mIX5P0ad1wZTtpOE7) | 1:57 | 2021-11-11 |  |
 | [Poetree](https://open.spotify.com/track/7IJEcchCTSdeEwiK226KLG) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Poetree](https://open.spotify.com/album/0y6YtnrowoZzYGIuLovrOz) | 1:39 | 2021-11-11 |  |
 | [Pool Party](https://open.spotify.com/track/5YsdcIOa9LYt9ac7mtlcle) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Pool Party](https://open.spotify.com/album/5u1iXg6tsP7IivnYl9JkKF) | 1:12 | 2021-11-11 |  |
 | [Priddy](https://open.spotify.com/track/45WLGoZ4j4x7jFBRZzrzcR) | [Fasion](https://open.spotify.com/artist/5uhPMkoNEzwhbfAw5UzAUg) | [Priddy](https://open.spotify.com/album/2QcQv4BizwMYpohZ9md2u5) | 3:10 | 2021-11-11 |  |
+| [Purple Days](https://open.spotify.com/track/40tohqXWMJjaveY7CMINTW) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/5NwqGSu5TetGHhlVKHlBl0) | 1:54 | 2022-07-29 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2022-02-17 |  |
 | [Queens](https://open.spotify.com/track/7uVJflRdFQdUOiZiUVLSYJ) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Overnight Oats](https://open.spotify.com/album/2NJsKmG09F4z4dz9XEHN9f) | 2:27 | 2021-11-11 |  |
 | [rebounce](https://open.spotify.com/track/2tW8wzVmE4NZNX2dCpDyz4) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:02 | 2021-11-11 |  |

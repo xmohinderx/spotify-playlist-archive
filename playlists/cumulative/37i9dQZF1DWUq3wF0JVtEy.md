@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-224 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+225 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2021-10-29 |  |
 | [Everybody Goes Like That](https://open.spotify.com/track/1er6VCtjpLVrxlzic1iCp6) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Everybody Goes Like That](https://open.spotify.com/album/056wZnSRN5x4RUNNRELeBl) | 2:17 | 2022-02-25 | 2022-07-29 |
 | [Everything](https://open.spotify.com/track/4cljSFYLNYsspWUIicitiY) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Everything](https://open.spotify.com/album/7AOtgsmGadJQFuJgHNkhG2) | 2:51 | 2022-07-22 |  |
-| [Eyes Closed](https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Eyes Closed](https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ) | 3:16 | 2021-10-29 |  |
+| [Eyes Closed](https://open.spotify.com/track/2ypgH76n4e8TR6IFAv8Z88) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Eyes Closed](https://open.spotify.com/album/7ABxtrgkBsDlBPY4vwJAGJ) | 3:16 | 2021-10-29 | 2022-07-30 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-10-29 |  |
 | [Facts](https://open.spotify.com/track/6b4EhRvtqusT59vERjGCNX) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [ALAN SHIRAHAMA](https://open.spotify.com/artist/2EDkdU3FjjuBsQ36TFwGPn) | [Facts](https://open.spotify.com/album/2uTVtbWnUotT9QXN8vek0l) | 2:16 | 2022-04-01 | 2022-07-27 |
 | [Fake Fake Fake](https://open.spotify.com/track/7wf4U3ElL3a1KY9qSRViuP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Fake Fake Fake](https://open.spotify.com/album/6l5iDnGhRGmDRCPyopzfLf) | 3:07 | 2021-10-29 | 2022-07-27 |
@@ -187,6 +187,7 @@
 | [Sickness](https://open.spotify.com/track/0BwEzkVtELJI3suZINw6Yb) | [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6), [Ruta](https://open.spotify.com/artist/7mL413dtjZt1cIHhEkgm4D) | [Sickness](https://open.spotify.com/album/4VeM580tSutZmK3cLH7lZ8) | 2:36 | 2021-10-29 | 2022-07-29 |
 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 | 2021-10-29 |  |
 | [So We Go \- Martin Jensen Edit](https://open.spotify.com/track/0cWDechbo7Tmf6nk0QRLhI) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [So We Go \(Martin Jensen Edit\)](https://open.spotify.com/album/1Dh413qT2GcFUGdcRqJZB6) | 2:24 | 2021-10-29 |  |
+| [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 |  |
 | [Something's about to go down](https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Something's about to go down](https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK) | 3:35 | 2021-10-29 |  |
 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 | 2021-10-29 |  |
 | [Spirits](https://open.spotify.com/track/73XK1IzeAze8hYceZwTelV) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Spirits](https://open.spotify.com/album/2tj2FGo35WbsWgFjfAd8TD) | 3:10 | 2022-04-01 | 2022-04-19 |

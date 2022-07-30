@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 221562,
       "name": "Failure",
       "url": "https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u"
@@ -3709,6 +3709,24 @@
       "duration_ms": 146259,
       "name": "in this club",
       "url": "https://open.spotify.com/track/0O4hPazKh7RA6M4nlTdqam"
+    },
+    {
+      "album": {
+        "name": "Internet Shooter",
+        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
+      },
+      "artists": [
+        {
+          "name": "Lil Seeto",
+          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117562,
+      "name": "Internet Shooter",
+      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
     },
     {
       "album": {

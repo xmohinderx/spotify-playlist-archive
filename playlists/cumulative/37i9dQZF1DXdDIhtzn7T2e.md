@@ -4,7 +4,7 @@
 
 > Let these country tunes light up your day
 
-72 songs - 4 hr 21 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
+73 songs - 4 hr 24 min - [published](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [It's All Going to Pot](https://open.spotify.com/track/1efJ9Kx8Gx5DEAcx2btuRA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Django and Jimmie](https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG) | 2:56 | 2021-04-20 |  |
 | [Jimmy Buffett](https://open.spotify.com/track/4ruDnMiMxH6VMKUqN77wsX) | [Taylor Goyette](https://open.spotify.com/artist/5CSfpRPGc1XEGd5twIRQTb) | [Jimmy Buffett](https://open.spotify.com/album/79XTfxtK21FyUaKqdAbu32) | 2:30 | 2021-11-26 |  |
 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2021-04-20 |  |
+| [Mary Wanna](https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Mary Wanna](https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0) | 2:56 | 2022-07-29 |  |
 | [Might As Well Get Stoned](https://open.spotify.com/track/0DBYW9lHjTTz55gIt63IB9) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:37 | 2021-04-20 |  |
 | [My Medicine](https://open.spotify.com/track/5BL4FPMaF1vmw65OV7yPnE) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/7HnpPsuzBgpkbZJm0GOMgC) | 2:39 | 2021-04-20 | 2022-07-29 |
 | [My Medicine](https://open.spotify.com/track/5jeXDGMNkY8G2bPsHLaNnm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/5EtVXHkqYV1ebAoYNDFmmY) | 2:39 | 2022-04-20 |  |

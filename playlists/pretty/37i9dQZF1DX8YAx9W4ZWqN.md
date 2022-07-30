@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YAx9W4ZWqN.md) - [plain]
 
 > Riscopri le più grandi hit del 2010! Cover: Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,693 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,691 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YAx9W4ZWqN.md) - [plain]
 | 31 | [Alejandro](https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:34 |
 | 32 | [Sexy Bitch \(feat\. Akon\)](https://open.spotify.com/track/0uXO2GrNiIb1xHT9LUdxZE) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:15 |
 | 33 | [Beautiful Monster](https://open.spotify.com/track/2Q99zPXVqCPN5RaZawvJWZ) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Libra Scale](https://open.spotify.com/album/2qqB7RaEdn2Lkte4St3Ban) | 4:11 |
-| 34 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
-| 35 | [Young Forever](https://open.spotify.com/track/35srNkJVToAzYiZzron1FY) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:13 |
+| 34 | [Young Forever](https://open.spotify.com/track/35srNkJVToAzYiZzron1FY) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:13 |
+| 35 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 |
 | 36 | [Ridin' Solo](https://open.spotify.com/track/6BaxqcoEM9r3LXisTyJjST) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jason Derulo](https://open.spotify.com/album/0aVJmVAeEx78nAA1rAKYf7) | 3:35 |
 | 37 | [Find Your Love](https://open.spotify.com/track/4BycRneKmOs6MhYG9THsuX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:28 |
 | 38 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YAx9W4ZWqN.md) - [plain]
 | 48 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 | 49 | [One \- Radio Edit](https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [One \(Your Name\)](https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd) | 2:49 |
 | 50 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 |
-| 51 | [Barbra Streisand \(Radio Edit\)](https://open.spotify.com/track/5pYlc1vQ6999WU43WzF4SR) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [Barbra Streisand](https://open.spotify.com/album/53J8cK9ahvi4ZtJlASIkpE) | 3:14 |
-| 52 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 |
+| 51 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 |
+| 52 | [Barbra Streisand \(Radio Edit\)](https://open.spotify.com/track/5pYlc1vQ6999WU43WzF4SR) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt) | [Barbra Streisand](https://open.spotify.com/album/53J8cK9ahvi4ZtJlASIkpE) | 3:14 |
 | 53 | [The Flood](https://open.spotify.com/track/2a3U3GTCvrcma7wetBtOpi) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress](https://open.spotify.com/album/4iTF6P1b4vvc4Gt5IeYrg1) | 4:49 |
 | 54 | [Neutron Star Collision \(Love Is Forever\) \- Soundtrack Version](https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Neutron Star Collision \[Love Is Forever\]](https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb) | 3:50 |
 | 55 | [Starry Eyed](https://open.spotify.com/track/14OF4JQOIm4hb0GfG5nfyF) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 2:56 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YAx9W4ZWqN.md) - [plain]
 | 91 | [She Said](https://open.spotify.com/track/6wH485H4wsmKWCZSDs3eCW) | [Plan B](https://open.spotify.com/artist/7qlh1IM1XMeQXA9ukp59au) | [The Defamation of Strickland Banks](https://open.spotify.com/album/4xRoKFEpFMkz4s7c7CcEiV) | 3:30 |
 | 92 | [Sing\-hiozzo](https://open.spotify.com/track/789u53gof4drxlJm0hoW8u) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Casa 69](https://open.spotify.com/album/5YhDKpeOKxuCeYf7iLj5Wj) | 4:10 |
 | 93 | [Hollywood](https://open.spotify.com/track/6X5DnbDW9n8mbvKoKTEuAt) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love \(Hollywood Edition\)](https://open.spotify.com/album/3y2IB0hPXgf2zfZFgeBhXM) | 4:13 |
-| 94 | [White Knuckle Ride](https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star](https://open.spotify.com/album/2gIExZUaGpUz21crdjAMnd) | 3:35 |
-| 95 | [Rain](https://open.spotify.com/track/1hKgvA62mHdsBQhMOYcoG2) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Boy Who Knew Too Much](https://open.spotify.com/album/0eDOBb4qgJIwRj23L71OxX) | 3:43 |
-| 96 | [Quando canterai la tua canzone](https://open.spotify.com/track/1hZWJNXXbKUfzcERxFB7el) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Arrivederci, mostro!](https://open.spotify.com/album/6OK46FDDZeHBtKQMaq8j8O) | 3:33 |
-| 97 | [Fare a meno di te](https://open.spotify.com/track/2r9F9jgBfQEKJyuqnTpM8Y) | [Due Di Picche](https://open.spotify.com/artist/0V8lCoAW5LzXPQEKouD7P5) | [C'eravamo tanto odiati](https://open.spotify.com/album/74anEVpxxV7P1pJpz9WGJ5) | 4:16 |
+| 94 | [Fare a meno di te](https://open.spotify.com/track/2r9F9jgBfQEKJyuqnTpM8Y) | [Due Di Picche](https://open.spotify.com/artist/0V8lCoAW5LzXPQEKouD7P5) | [C'eravamo tanto odiati](https://open.spotify.com/album/74anEVpxxV7P1pJpz9WGJ5) | 4:16 |
+| 95 | [White Knuckle Ride](https://open.spotify.com/track/1DujLrZJUvLdOCNAUTLJ7Y) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Rock Dust Light Star](https://open.spotify.com/album/2gIExZUaGpUz21crdjAMnd) | 3:35 |
+| 96 | [Rain](https://open.spotify.com/track/1hKgvA62mHdsBQhMOYcoG2) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Boy Who Knew Too Much](https://open.spotify.com/album/0eDOBb4qgJIwRj23L71OxX) | 3:43 |
+| 97 | [Quando canterai la tua canzone](https://open.spotify.com/track/1hZWJNXXbKUfzcERxFB7el) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Arrivederci, mostro!](https://open.spotify.com/album/6OK46FDDZeHBtKQMaq8j8O) | 3:33 |
 | 98 | [Alle porte del sogno](https://open.spotify.com/track/0BUgplh0pOdWmXmoYjCW7k) | [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H) | [Alle porte del sogno](https://open.spotify.com/album/5tieSZcVagH4d9jdVaJ79w) | 3:44 |
 | 99 | [Each Tear](https://open.spotify.com/track/6vUDwDvafvHSBkHh57m90h) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2iy4MXWRu0roV5N7u2GBZk) | 4:15 |
 | 100 | [Malamorenò](https://open.spotify.com/track/53ehR92whzj2enxnuWsOIw) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Malamorenò](https://open.spotify.com/album/23a41kWoTNTh7o7wfKGwzx) | 3:01 |
 
-Snapshot ID: `MTYwNDUwMDE5OSwwMDAwMDAwMDI0MjExMTY3MDVhYjIyODRlYzZmYzRmZTNlN2VkOGUz`
+Snapshot ID: `MTYwNDUwMDE5OSwwMDAwMDAwMDU1ZmUyMjkyNzE2YmMzYjFhMWRhZmNlNDgzNmYwODI4`

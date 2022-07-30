@@ -1,13 +1,49 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
-  "num_followers": 73092,
+  "num_followers": 73124,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTI2MCwwMDAwMDAwMDdjZjQ5ZDEyNjE2ZjI5ODI0N2MyOGNiNDY4MGRlMDEy",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDgwNGExNTg4MWZhNTRhZjRlNDFjMTM4M2JkNjExZDcy",
   "tracks": [
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
+        "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        },
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 326761,
+      "name": "Loving Arms - (radio edit), Masterlink Sessions",
+      "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 218766,
+      "name": "Smile At The Mention",
+      "url": "https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6"
+    },
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {

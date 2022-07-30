@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-88 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
+89 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Mellow Down Easy](https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 2:51 | 2021-12-20 | 2022-07-29 |
 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 | 2021-12-20 |  |
 | [Messin' With The Kid](https://open.spotify.com/track/0PIaEqgCwnWf3Qi8UI8zWP) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Calling All Blues \- The Chief, Profile & USA Recordings 1957\-1963](https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ) | 2:15 | 2021-12-20 | 2022-07-28 |
+| [Midnight In Memphis](https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Definitive Collection](https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA) | 4:23 | 2022-07-29 |  |
 | [Mississippi Nights \- Live](https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Mississippi Nights \(Live\)](https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji) | 5:00 | 2022-02-04 | 2022-07-27 |
 | [Move It On Over](https://open.spotify.com/track/7gfIbrRrOt4eAlQblTqB9O) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [The Baddest Of George Thorogood And The Destroyers](https://open.spotify.com/album/0hK7AoMOpRZrGL5bU1WIv2) | 4:18 | 2021-12-20 | 2022-07-29 |
 | [Move It On Over](https://open.spotify.com/track/5iaBfR3xQnausmGgulSoJE) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Essential Recordings: One Bourbon, One Scotch, One Beer](https://open.spotify.com/album/0LkSSubbJHoVeDNh7GEkLi) | 4:20 | 2022-07-08 |  |
@@ -62,7 +63,7 @@
 | [My Baby Is a Good 'Un](https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42) | [Federico Verteramo](https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx) | [Rush Hour](https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY) | 3:15 | 2021-12-20 | 2022-07-28 |
 | [My Baby's a Good 'Un](https://open.spotify.com/track/6oyDM2FMgK1f4Dx1H4hetP) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Double Trouble](https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf) | 2:40 | 2021-12-20 | 2022-06-24 |
 | [Nadine \- Stereo Remix](https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:49 | 2021-12-20 |  |
-| [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 | 2022-05-27 |  |
+| [Old School](https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7) | [Guitar Shorty](https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc) | [Watch Your Back](https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW) | 3:59 | 2022-05-27 | 2022-07-30 |
 | [Old School Blues](https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR) | [Betty Padgett](https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He) | [Ridin' with the Blues](https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT) | 4:28 | 2022-01-07 | 2022-07-03 |
 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 | 2021-12-20 |  |
 | [Ooh Poo Pah Do \(Pt\. 1\)](https://open.spotify.com/track/02v6Ie89lZ4bArlzp9MKzi) | [Jessie Hill](https://open.spotify.com/artist/0LeecN3yVUDsHFFzrTLp5v) | [Ooh Poo Pah Do](https://open.spotify.com/album/0nPsjgUeJCi31GD8yJggXL) | 2:17 | 2022-04-01 | 2022-07-29 |

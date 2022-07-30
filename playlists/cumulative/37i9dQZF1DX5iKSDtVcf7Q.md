@@ -4,7 +4,7 @@
 
 > Music paying tribute to the Heartland of America.
 
-158 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/1dqdBVTT7GBYojXQcIUfos)
+159 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/1dqdBVTT7GBYojXQcIUfos)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Back Where I Come From](https://open.spotify.com/track/4BbwjVS27IuC7bvN7qzAvS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Me And You](https://open.spotify.com/album/5aG9PNqK9jLLJoehlNXlwW) | 3:56 | 2020-10-23 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:47 | 2022-07-08 |  |
 | [Barefoot Blue Jean Night](https://open.spotify.com/track/1enjzQYx2hiQY75SBG1ZRA) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/2qBgcC78cFhIr90ZxJyVmw) | 2:48 | 2020-10-23 | 2022-07-29 |
-| [Beat This Summer](https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Wheelhouse](https://open.spotify.com/album/5NQa6BB9H7oc0dNT7GqOq0) | 4:41 | 2020-10-23 |  |
+| [Beat This Summer](https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Wheelhouse](https://open.spotify.com/album/5NQa6BB9H7oc0dNT7GqOq0) | 4:41 | 2020-10-23 | 2022-07-30 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2022-07-08 |  |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/5eDvChP4WAPPrtaQeI9MhT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beer Never Broke My Heart](https://open.spotify.com/album/4NiEW0J6PCsvdxS2ocAqtd) | 3:06 | 2020-10-23 | 2022-07-29 |
 | [Big In A Small Town](https://open.spotify.com/track/7v9OZyqwNSxwZIlLWc0amB) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Big In A Small Town](https://open.spotify.com/album/6QJDukFKWOVK5sbBPvlNYB) | 4:14 | 2021-08-27 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [Huntin', Fishin' And Lovin' Every Day](https://open.spotify.com/track/6nUKELHbV6Tdj5OuQbksKH) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights](https://open.spotify.com/album/2kUXqmlthYkv0yyW3N9cy8) | 4:38 | 2020-10-23 | 2022-07-29 |
 | [I Ain't In Checotah Anymore](https://open.spotify.com/track/2NvXBpGZDjuqKApdwULI3R) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2021-06-23 | 2022-05-24 |
 | [I Called Mama](https://open.spotify.com/track/3YuvAPidBWldqjagOryo40) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [I Called Mama](https://open.spotify.com/album/6cD5F4Ndsh8tyzrJ2zclVA) | 3:31 | 2020-10-23 | 2022-07-29 |
+| [I Called Mama](https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth](https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM) | 3:32 | 2022-07-08 |  |
 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 | 2020-10-23 |  |
 | [I Go Back](https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:00 | 2020-10-23 |  |
 | [I Love My Country](https://open.spotify.com/track/5blHL2xSCGv00fr1DGuvEf) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [6\-Pack](https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma) | 3:04 | 2020-10-23 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Kaylee Bell + James Johnston
 
-184 songs - 9 hr 57 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
+187 songs - 10 hr 8 min - [published](https://open.spotify.com/playlist/4BrfIt5VuvXM9ZKeooO5jX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,10 @@
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-12-30 | 2022-04-01 |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2021-12-30 | 2022-06-10 |
 | [Break Up With A Friend](https://open.spotify.com/track/0EbjDInmIHv5xW9voRKTxY) | [Chelsea Berman](https://open.spotify.com/artist/7nodCh6KwfOzrvncmX4N0F) | [Break Up With A Friend](https://open.spotify.com/album/1UxCw54gPJDBtOjaaEiahB) | 3:25 | 2022-06-16 |  |
+| [Bring On The Summertime](https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8) | [Jamie Lindsay](https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn) | [Bring On The Summertime](https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq) | 4:01 | 2022-07-28 |  |
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-07-07 |  |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-12-30 | 2022-04-01 |
+| [Carefree](https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6) | [Brittany Maggs](https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0) | [Carefree](https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi) | 3:20 | 2022-07-28 |  |
 | [Cheap Moscato](https://open.spotify.com/track/0Sz3WfyjvMvAqjdZ8URlXH) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheap Moscato](https://open.spotify.com/album/1YVHfRtUC9nmqUTJlk2zEy) | 2:45 | 2022-02-06 | 2022-07-08 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-06 | 2022-07-15 |
 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 | 2021-12-30 | 2022-04-01 |
@@ -159,6 +161,7 @@
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2021-12-30 | 2022-05-06 |
 | [Sunday Best](https://open.spotify.com/track/6nnVrHv3oozFP5XeJZzedx) | [Bryce Sainty](https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t), [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Sunday Best](https://open.spotify.com/album/6ICdRiXlIgUk87yd43eBsP) | 3:25 | 2022-06-09 |  |
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
+| [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 |  |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 |  |
 | [The Next Big Thing](https://open.spotify.com/track/1wx9E45yeb7aCoU8TfCm62) | [Katrina Burgoyne](https://open.spotify.com/artist/5IHAd9gZnw4yrczPvDklll) | [The Next Big Thing](https://open.spotify.com/album/66Mjl0zineaXSf7YQVAt2f) | 3:23 | 2021-12-30 | 2022-02-01 |
 | [The One](https://open.spotify.com/track/3XmoqtGqwpe674bIT8TM7A) | [Courtney Keil](https://open.spotify.com/artist/6jbFCUWWQtpzKKCgmfnFwe) | [The One](https://open.spotify.com/album/2goSTc1QM9a6imb2tUnzBC) | 3:26 | 2022-03-31 | 2022-06-10 |

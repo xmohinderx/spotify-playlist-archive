@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > The sad side of soul\. Cover: Harold Melvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,245 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,334 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 37 | [Living All Alone](https://open.spotify.com/track/4nugpdIdJurNQXCDVei9WS) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 5:07 |
 | 38 | [When Am I Gonna Find True Love](https://open.spotify.com/track/4EoksISB2vqoRmbKyFms3x) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:22 |
 | 39 | [Cry to Me](https://open.spotify.com/track/4nukRzBYAvqhLP1OfHpEOk) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [Cry to Me](https://open.spotify.com/album/2P97oP8M7OkYP7r8vlcUXD) | 5:48 |
-| 40 | [Was That All It Was](https://open.spotify.com/track/2sf12cmr3qhWY549o3bM2R) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Flashback](https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY) | 4:56 |
+| 40 | [What I Need Is Love](https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:28 |
 
-Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMGFjNDRiNWJiOWJkYTYzMGZiN2U2ZTNjMWE0NmNmZDVl`
+Snapshot ID: `MTYzNjYzOTMzOCwwMDAwMDAwMGQwYzFiNjM5MzAzZTRjNDg2NWVjYTJkYTNhYjI1Njgz`

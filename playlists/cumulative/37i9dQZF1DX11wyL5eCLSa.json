@@ -330,6 +330,32 @@
     },
     {
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/7BBg5lA5vQOoiUWnrVWj86"
+      },
+      "artists": [
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        },
+        {
+          "name": "Jack Lahana",
+          "url": "https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224673,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/3YY5FrLS9mnYOBnhr4uVoX"
+    },
+    {
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
       },
@@ -421,7 +447,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 214128,
       "name": "Cuentas Claras - With Pehuenche",
       "url": "https://open.spotify.com/track/4L82gzHNZlEGdlYgRJOJ7E"
@@ -1355,7 +1381,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 147731,
       "name": "Mis Discos",
       "url": "https://open.spotify.com/track/5dKzwCh0X3snBbMGxjHqbt"
@@ -1377,6 +1403,28 @@
       "duration_ms": 198558,
       "name": "Mismo Amor",
       "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
+    },
+    {
+      "album": {
+        "name": "Nada Es Real",
+        "url": "https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd"
+      },
+      "artists": [
+        {
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Aline Terrein",
+          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209923,
+      "name": "Nada Es Real",
+      "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
     },
     {
       "album": {
@@ -1847,7 +1895,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
@@ -2129,7 +2177,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 338680,
       "name": "Tomar el Sol",
       "url": "https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9"
@@ -2165,7 +2213,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 168939,
       "name": "Un Manhattan",
       "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
@@ -2183,7 +2231,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 120000,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
@@ -2263,10 +2311,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 220192,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1h8YWUXSUn9PMbARBOeJXe"
+    },
+    {
+      "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/2map2oGnNT48ExwHCy5juA"
+      },
+      "artists": [
+        {
+          "name": "Axel Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209593,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/7INcpSg0DEDdtm5DWmmYX9"
     },
     {
       "album": {

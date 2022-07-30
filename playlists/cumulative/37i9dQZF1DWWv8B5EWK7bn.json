@@ -1372,6 +1372,28 @@
     },
     {
       "album": {
+        "name": "Nada Es Real",
+        "url": "https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd"
+      },
+      "artists": [
+        {
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Aline Terrein",
+          "url": "https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209923,
+      "name": "Nada Es Real",
+      "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
+    },
+    {
+      "album": {
         "name": "Ocean noir",
         "url": "https://open.spotify.com/album/6loTihjQ0lHtEFxjOcPjC3"
       },
@@ -2245,7 +2267,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 284480,
       "name": "Track X",
       "url": "https://open.spotify.com/track/7oPKmDtDC8DLx2lN50JvGc"

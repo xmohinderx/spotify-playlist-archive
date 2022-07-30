@@ -1364,6 +1364,24 @@
     },
     {
       "album": {
+        "name": "World of Reggae Music (Edited)",
+        "url": "https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212346,
+      "name": "Romping Shop",
+      "url": "https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx"
+    },
+    {
+      "album": {
         "name": "Pon Di Gaza 2.0 (Edited)",
         "url": "https://open.spotify.com/album/1rhC3i7wRdcG0Oj6dsEHSV"
       },
@@ -1379,7 +1397,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 214600,
       "name": "Romping Shop",
       "url": "https://open.spotify.com/track/0yLPOW2XL85YT0wJ7fdIGY"

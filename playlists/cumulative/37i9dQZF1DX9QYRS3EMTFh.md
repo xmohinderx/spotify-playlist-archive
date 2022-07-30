@@ -4,7 +4,7 @@
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-125 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
+126 songs - 5 hr 54 min - [published](https://open.spotify.com/playlist/5EUHHXJOLrkgmRGE7o9Fvs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Pilot \- Buskilaz Remix](https://open.spotify.com/track/2Ig0TzxuXwelRbjRE5bRJU) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7) | [Pilot \(Buskilaz Remix\)](https://open.spotify.com/album/4IV5r5ibOJSPw1OTlv6xAV) | 2:57 | 2021-12-22 | 2022-04-29 |
 | [Pineco](https://open.spotify.com/track/4qDJJtpkWQae89a2P7qb90) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Pineco](https://open.spotify.com/album/5QxDlcE9AY037BkfvJfLfm) | 2:00 | 2021-12-22 | 2022-01-14 |
 | [Pon Di Beat](https://open.spotify.com/track/30Q6BTivJVln9DT3rzgXtV) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Shannon](https://open.spotify.com/artist/3hi7ew4Y6Lr9lWS1E3lDBX), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5) | [Pon Di Beat](https://open.spotify.com/album/4it22JeYeXICGnTR0MwgTv) | 2:23 | 2021-12-22 | 2022-02-18 |
+| [Pon Di Next One](https://open.spotify.com/track/2xQrG3u7cJgUs3ORrpcAA5) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [AV Allure](https://open.spotify.com/artist/7tjcbOzzgu3LU36xMW1Giy) | [Pon Di Next One](https://open.spotify.com/album/1Ho0Xhz61xCGLEG4cJsPVY) | 2:26 | 2022-07-28 |  |
 | [Porte pas plainte \- Edit](https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs) | [R2.0](https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT), [TMatt](https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ) | [Porte pas plainte](https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87) | 3:14 | 2022-01-13 | 2022-05-21 |
 | [Pretty Girl](https://open.spotify.com/track/75vTqilpqZ6wi4JJ3hIthr) | [Beach Boii](https://open.spotify.com/artist/5epY4AGRq3ty95XFK3kbC8), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Pretty Girl](https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY) | 2:15 | 2022-05-26 | 2022-07-01 |
 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 |  |

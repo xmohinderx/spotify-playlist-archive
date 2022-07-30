@@ -157,7 +157,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 221593,
       "name": "Chains",
       "url": "https://open.spotify.com/track/6krEKtL2aCEXIHTJY8QrKj"
@@ -377,6 +377,24 @@
       "duration_ms": 252284,
       "name": "Good & Gone - Original Mix",
       "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
+    },
+    {
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl"
+      },
+      "artists": [
+        {
+          "name": "Thomas Vent",
+          "url": "https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243370,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT"
     },
     {
       "album": {
@@ -806,6 +824,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/4eehdx5DtW9A6RvfLaVirQ"
+      },
+      "artists": [
+        {
+          "name": "PARTY SHIRT",
+          "url": "https://open.spotify.com/artist/5QsM7I7aDux4F7lm8aWBNA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/4hGyxsLEwbuwlLsxunnMoT"
+    },
+    {
+      "album": {
         "name": "Return",
         "url": "https://open.spotify.com/album/7CVCVJP0FuNBdtOCqd4jD3"
       },
@@ -1027,7 +1063,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 167973,
       "name": "Swamp Thang",
       "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"

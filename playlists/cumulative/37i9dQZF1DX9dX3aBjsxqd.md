@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-99 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
+100 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/5QP85XJ5BkoMn5QWDijTgf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Verses](https://open.spotify.com/track/0uMgtxvlfFqa4T0YIMEDIj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/3e9ZZe5qexHd61X9ucUNxh) | 4:03 | 2021-03-08 | 2022-07-29 |
 | [Verses](https://open.spotify.com/track/6wjGdF8J2bMCH4yBwmWK1i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [The Chopin Project](https://open.spotify.com/album/4HA4XXhCzftKn9O59YnUwH) | 4:03 | 2022-06-16 |  |
 | [Vocalise, Op 34, No.14](https://open.spotify.com/track/0NbzmSCxQ5ShO8KxfB8osi) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Rachmaninov & Chopin Cello Sonatas](https://open.spotify.com/album/5iZEISyMh7m2TOf1UVBJGq) | 5:59 | 2021-03-08 | 2022-07-29 |
-| [Vocalise, Op 34, No.14](https://open.spotify.com/track/7uKbelCBbJk2tp6w7JkpM3) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Rachmaninov & Chopin Cello Sonatas](https://open.spotify.com/album/4StqdIskv8g0yRQnfaNqhg) | 5:59 | 2022-06-16 |  |
+| [Vocalise, Op 34, No.14](https://open.spotify.com/track/1NVmE91Q7SnrjcjCuJfbdr) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Classical Moods: Rachmaninoff](https://open.spotify.com/album/1ryraqFQYdPgr9fuYvzjV4) | 5:59 | 2022-06-16 |  |
+| [Vocalise, Op 34, No.14](https://open.spotify.com/track/7uKbelCBbJk2tp6w7JkpM3) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Rachmaninov & Chopin Cello Sonatas](https://open.spotify.com/album/4StqdIskv8g0yRQnfaNqhg) | 5:59 | 2022-06-16 | 2022-07-30 |
 | [Woman´s Prayer](https://open.spotify.com/track/6a3LTwG4gwiC62EUNff5AD) | [George Gurdjieff](https://open.spotify.com/artist/3BO55j1dLcsaO6wli0QUA8), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [Vassilis Tsabropoulos](https://open.spotify.com/artist/3gOdqjhBRr5vxK85vY7on0) | [Gurdjieff, Tsabropoulos: Chants, Hymns And Dances](https://open.spotify.com/album/2j51awurPD6ZDE0JdRliUc) | 1:58 | 2021-03-08 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2016! Cover: Justin Bieber",
-  "num_followers": 5683,
+  "num_followers": 5685,
   "original_name": "Le Hit Del 2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMDhiN2M2M2RkYjAyNGE3Nzc1OGZkYjUwNjYyMmU5ODBi",
+  "snapshot_id": "MTYwNDUwMDc0MiwwMDAwMDAwMDc1YjI5NTA4NGVhMjZlZjlhNzdmYzM1MmQ0Mjg3ZTVl",
   "tracks": [
     {
       "added_at": "2020-11-04 14:39:02",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "TROLLS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 237546,
-      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "Beauty Behind The Madness",
         "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 235653,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/25KybV9BOUlvcnv7nN3Pyo"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
     },
     {
       "added_at": "2020-11-04 14:39:02",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2020-11-04 14:39:02",
       "album": {
-        "name": "Vivere a colori",
-        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
-      },
-      "artists": [
-        {
-          "name": "Alessandra Amoroso",
-          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Comunque andare",
-      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
-    },
-    {
-      "added_at": "2020-11-04 14:39:02",
-      "album": {
         "name": "At Night, Alone.",
         "url": "https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 280800,
       "name": "I Took A Pill In Ibiza",
       "url": "https://open.spotify.com/track/7zzoxJbgjme3366mOp5UnH"
+    },
+    {
+      "added_at": "2020-11-04 14:39:02",
+      "album": {
+        "name": "Vivere a colori",
+        "url": "https://open.spotify.com/album/2FzUfgLqOyhfKw4sfhNcEG"
+      },
+      "artists": [
+        {
+          "name": "Alessandra Amoroso",
+          "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Comunque andare",
+      "url": "https://open.spotify.com/track/4vlmiFfNIgdfuQJcIgIYhk"
     },
     {
       "added_at": "2020-11-04 14:39:02",

@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "DRILL",
+        "url": "https://open.spotify.com/album/7M8MImMKcogtsASCL5cXVb"
+      },
+      "artists": [
+        {
+          "name": "Pexande",
+          "url": "https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150982,
+      "name": "DRILL",
+      "url": "https://open.spotify.com/track/52Tf4Az267JIt0cTfEuwIT"
+    },
+    {
+      "album": {
         "name": "Drill de Matuto",
         "url": "https://open.spotify.com/album/0m2mTSU3s4LdwgPrLZvcNZ"
       },
@@ -1202,6 +1220,36 @@
     },
     {
       "album": {
+        "name": "Garimpo",
+        "url": "https://open.spotify.com/album/4zmvqDE7jiLDEVUPfDxd28"
+      },
+      "artists": [
+        {
+          "name": "AKA AFK",
+          "url": "https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca"
+        },
+        {
+          "name": "7k",
+          "url": "https://open.spotify.com/artist/0GXDKtyKlE9GLcbpUoyHnt"
+        },
+        {
+          "name": "NIKITO",
+          "url": "https://open.spotify.com/artist/7kJlA28zS73R2HbzBGSbVg"
+        },
+        {
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Garimpo",
+      "url": "https://open.spotify.com/track/3DunEmYGhkFeX09dONo0so"
+    },
+    {
+      "album": {
         "name": "Gr\u00e1ficos",
         "url": "https://open.spotify.com/album/224nDADITuNiR7vm9jxwwC"
       },
@@ -1339,6 +1387,28 @@
       "duration_ms": 146898,
       "name": "Levar a S\u00e9rio",
       "url": "https://open.spotify.com/track/0k1sI81KiPXrRxR9kz7nkZ"
+    },
+    {
+      "album": {
+        "name": "Liga\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1cLh0H2EtXs4ZfL53ApcoG"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Did Brock",
+          "url": "https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Liga\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/2bReNJyh7gPwVvoEXfZNBh"
     },
     {
       "album": {

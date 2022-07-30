@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these awesome, happy songs!
 
-371 songs - 20 hr 56 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+372 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [All Around The World \(feat\. Bryn Christopher\)](https://open.spotify.com/track/1oW9LQ9KyFZ6rihgDbn14z) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All Around the World \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2ALCG7YyutXUzcbzRPBX0A) | 3:23 | 2021-12-16 | 2022-06-10 |
 | [All For You](https://open.spotify.com/track/6S4rxhzx2kL8DHUGkVp1RK) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Hanna Löwenborg](https://open.spotify.com/artist/3CFvnlJUUtvR8Jl87UGMK3) | [All For You](https://open.spotify.com/album/2YwDiQEXl79pP8QIgep5IW) | 3:27 | 2021-12-16 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/5Rl46WM2MJ8OJe9IXBKLuM) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [All I Need](https://open.spotify.com/album/3muljzkKxfsdIto5bi1DGh) | 3:12 | 2021-12-16 | 2022-01-19 |
-| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-07-08 |  |
+| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-07-08 | 2022-07-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 | 2021-12-16 | 2022-07-29 |
 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/4czNORk5MjW5WOn98bki32) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:18 | 2022-03-15 | 2022-04-21 |
 | [All Night Long \- Single Version](https://open.spotify.com/track/4giIdAr7Plyu5LQzBOR4FP) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5) | 4:20 | 2022-07-08 |  |
@@ -114,6 +114,7 @@
 | [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2022-07-08 |  |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [The Essential Kenny Loggins](https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect) | 3:46 | 2022-04-11 | 2022-04-21 |
 | [Forgive Me Friend](https://open.spotify.com/track/6LS5QB8GW8raREqEEQPEMs) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Forgive Me Friend](https://open.spotify.com/album/4CIX8ETHN8XMY8t2UAOzlR) | 3:36 | 2021-12-16 | 2022-07-29 |
+| [Forgive Me Friend \(feat\. Swedish Jam Factory\)](https://open.spotify.com/track/3OOCTo40A47WiXqMu6NDi2) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90), [Swedish Jam Factory](https://open.spotify.com/artist/599aGczoZFptUe5tbS43LT) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:36 | 2022-07-08 |  |
 | [Free To Go](https://open.spotify.com/track/172BxPrgDzSgLzFK6jfGpz) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Free To Go](https://open.spotify.com/album/7jzjE2PLzwwQoMtXpOvydb) | 3:37 | 2021-12-16 | 2022-06-04 |
 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 | 2022-04-05 |  |
 | [Friday](https://open.spotify.com/track/1d1Pq1VibEtroYdFevtF56) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Friday](https://open.spotify.com/album/7hZmbkX2BTTPIujT3p1WCk) | 2:31 | 2021-12-16 | 2022-07-29 |

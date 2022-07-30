@@ -3000,6 +3000,24 @@
     },
     {
       "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/1R546kkf5YqomrugvVPCBf"
       },
@@ -3007,10 +3025,6 @@
         {
           "name": "Arno Faraji",
           "url": "https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ"
-        },
-        {
-          "name": "Doug Wright",
-          "url": "https://open.spotify.com/artist/6zjUG8MkwEO7FVXbnyuzBk"
         }
       ],
       "date_added": "2022-07-28",
@@ -4419,6 +4433,24 @@
       "duration_ms": 190626,
       "name": "let me breathe",
       "url": "https://open.spotify.com/track/1dImOLdm6XxDQIRunSIAtG"
+    },
+    {
+      "album": {
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233088,
+      "name": "Let Us Die",
+      "url": "https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ"
     },
     {
       "album": {

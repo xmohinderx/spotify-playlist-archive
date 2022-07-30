@@ -1,12 +1,12 @@
 {
   "description": "Napoli e il meglio della scena campana. Cover: Nicola Siciliano",
-  "num_followers": 133560,
+  "num_followers": 133654,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGZkZmVkYzE2MjFkYmM1OGNjODQ5ZDI4Mjc4MmVlOGZk",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMGE3MTNlNTQ5MDc4YTkxNjEyMWZkMDEzODQ5ZWZiNjcz",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -615,6 +615,30 @@
       "duration_ms": 207741,
       "name": "NUNNEOVER",
       "url": "https://open.spotify.com/track/2zS0OYlDeXF6iNLougbIFL"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Baby \u00e8 tutt' normal'",
+        "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
+      },
+      "artists": [
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "LOWA",
+          "url": "https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Baby \u00e8 tutt' normal'",
+      "url": "https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF"
     },
     {
       "added_at": "2022-07-28 22:01:00",

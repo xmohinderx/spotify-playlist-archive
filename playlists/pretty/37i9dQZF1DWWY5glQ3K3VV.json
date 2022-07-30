@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Rhove",
-  "num_followers": 54993,
+  "num_followers": 55138,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyMTEwNywwMDAwMDAwMGE5Y2UwNWEyYmQ5ZGYyNzQyYmQxMjAyY2FjMzVmNjZh",
+  "snapshot_id": "MTY1OTAyMTEwNywwMDAwMDAwMDRlMzliMjAzNzk5MDBhZDg2OTYzYTU2MDU1Zjg1NzIx",
   "tracks": [
     {
       "added_at": "2022-07-28 15:11:47",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2022-07-28 15:11:47",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Dystopic",
+          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "C'EST PAS FACIL",
+      "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
+    },
+    {
+      "added_at": "2022-07-28 15:11:47",
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 188213,
       "name": "FUCK THE INDUSTRY (feat. Rondodasosa, Central Cee, Nko)",
       "url": "https://open.spotify.com/track/0lWbTtEZCeej46pYi4LJMu"
-    },
-    {
-      "added_at": "2022-07-28 15:11:47",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Dystopic",
-          "url": "https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "C'EST PAS FACIL",
-      "url": "https://open.spotify.com/track/2XvuRXS2yd2E8RanepS7SJ"
     },
     {
       "added_at": "2022-07-28 15:11:47",
@@ -1419,22 +1419,30 @@
     {
       "added_at": "2022-07-28 15:11:47",
       "album": {
-        "name": "BIMBI PER STRADA (CHILDREN)",
-        "url": "https://open.spotify.com/album/0p1nAaMSArHL3sz5XKVIsq"
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
       "artists": [
         {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
         },
         {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 200820,
-      "name": "BIMBI PER STRADA (CHILDREN)",
-      "url": "https://open.spotify.com/track/6KF78W66DcQ9m5YqR0r5Ig"
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     }
   ],
   "unique_name": "Club Rap ",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Sebastian Yatra & Pablo Albor\u00e1n",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Abel Pintos",
   "name": "Enamor\u00e1ndose",
   "published_playlist_ids": [
     "1AAjF0AYqsSQNvAOQluejC"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 214500,
       "name": "Canci\u00f3n Sin Nombre Numero 477",
       "url": "https://open.spotify.com/track/6By9OQDpPYsAlZDW0OZ7tQ"
@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 182018,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN"
@@ -2662,6 +2662,24 @@
     },
     {
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/4MMZysMSiZxdQo34c2r8Gi"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217609,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/6OOxQbWcBMCcucTsQnS7yu"
+    },
+    {
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/7xuDqWQI5vAlFPd2DDXpBb"
       },
@@ -2695,6 +2713,24 @@
       "duration_ms": 189653,
       "name": "Uno M\u00e1s Uno",
       "url": "https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT"
+    },
+    {
+      "album": {
+        "name": "Valen M\u00e1s",
+        "url": "https://open.spotify.com/album/0XGzR9YQlMgHYlUEvD1clh"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Valen M\u00e1s",
+      "url": "https://open.spotify.com/track/6zLhpwZfSmKXx3qCEYFmOa"
     },
     {
       "album": {

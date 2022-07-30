@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 98254,
+  "num_followers": 98296,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NDAwMCwwMDAwMDAwMGZlN2U1MDAxNTM2OWU0MjYzMjBmY2Y1OGViYTE1ZDg2",
+  "snapshot_id": "MTY1Nzg1NDAwMCwwMDAwMDAwMDAzODRmYzFiNDQzYjYzYWJhYWY4OWU4Zjk0ZmNlMDJj",
   "tracks": [
     {
       "added_at": "2022-07-15 03:00:00",
@@ -119,22 +119,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Tu Falta de Querer (En Vivo)",
-        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         },
         {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+          "name": "Paula Rivas",
+          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Tu Falta de Querer - En Vivo",
-      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+      "duration_ms": 364197,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
+      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -175,6 +175,26 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+      },
+      "artists": [
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "Amiga Traidora (En Vivo)",
         "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
       },
@@ -187,22 +207,6 @@
       "duration_ms": 236736,
       "name": "Amiga Traidora - En Vivo",
       "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -223,22 +227,18 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-        "url": "https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Paula Rivas",
-          "url": "https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 364197,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia En La Quinta Vergara)",
-      "url": "https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt"
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -688,7 +688,7 @@
       "added_at": "2022-07-15 03:00:00",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 312032,
-      "name": "Hoy Te Vi / El Paredon - En Vivo",
-      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
+      "duration_ms": 180244,
+      "name": "Mi Condena - En Vivo",
+      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -816,7 +816,7 @@
       "added_at": "2022-07-15 03:00:00",
       "album": {
         "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "url": "https://open.spotify.com/album/2FCEskgKDeWbbi5RjX2nHv"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 180244,
-      "name": "Mi Condena - En Vivo",
-      "url": "https://open.spotify.com/track/1gvxPwDb2Kf4nNmoDQjQpw"
+      "duration_ms": 312032,
+      "name": "Hoy Te Vi / El Paredon - En Vivo",
+      "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Vamos A Bailar",
+      "url": "https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT"
+    },
+    {
+      "added_at": "2022-07-15 03:00:00",
+      "album": {
         "name": "Te Hubieras Ido Antes (En Vivo)",
         "url": "https://open.spotify.com/album/1eCVJ8ZIMQ0OoC6TGBFleh"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 213859,
       "name": "Te Hubieras Ido Antes - En Vivo",
       "url": "https://open.spotify.com/track/1C3dp1xXzJjc9eUrWZ6QBv"
-    },
-    {
-      "added_at": "2022-07-15 03:00:00",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Vamos A Bailar",
-      "url": "https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT"
     },
     {
       "added_at": "2022-07-15 03:00:00",

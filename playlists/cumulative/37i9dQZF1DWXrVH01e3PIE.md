@@ -4,7 +4,7 @@
 
 > Duki en la casa del Trap de Argentino.
 
-139 songs - 6 hr 57 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
+140 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Michael Jackson](https://open.spotify.com/track/1LtLDhTfnPsnbxx6TsfY5q) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/2q5fSdsR4ZNFFQHkrxWJmz) | 1:49 | 2022-06-17 | 2022-07-29 |
 | [Michael Jackson](https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Buscándome](https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63) | 1:49 | 2022-07-21 |  |
 | [MORDIENDO EL BOZAL](https://open.spotify.com/track/6NnqP2DazV1Q1mqmV1JNYC) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 2:27 | 2022-01-21 | 2022-01-29 |
-| [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 | 2022-03-11 |  |
+| [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 | 2022-03-11 | 2022-07-30 |
 | [Motoquera](https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:01 | 2022-01-21 | 2022-06-18 |
 | [Muy Enfierrado](https://open.spotify.com/track/4fFa0g5UIuzVNRn3d78EPx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Muy Enfierrado](https://open.spotify.com/album/5dTOmRWMGhs8BGwWpVRICI) | 2:56 | 2022-01-21 |  |
 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 | 2022-01-21 |  |
@@ -118,6 +118,7 @@
 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 | 2022-05-31 |  |
 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 | 2022-01-21 |  |
 | [Si Viene](https://open.spotify.com/track/1zgsPCOjI8mo5ppsYRwgLO) | [Bize 4r](https://open.spotify.com/artist/1BOreb2HnMed0s1z68eD4c), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Si Viene](https://open.spotify.com/album/2FVxQkFqXOjdqDXv35hmaT) | 2:00 | 2022-01-21 | 2022-04-02 |
+| [Sin Dudar](https://open.spotify.com/track/0Ngq1ZDzAZERsiBfmbacgL) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [Sin Dudar](https://open.spotify.com/album/73OkatcQIyfZ51l6gxzFyw) | 3:12 | 2022-07-29 |  |
 | [Sold Out Dates](https://open.spotify.com/track/25rJp2UNyZWmBSoVDzjRss) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sold Out Dates](https://open.spotify.com/album/7MUGqiTtFGF2THKw5BjuoG) | 2:21 | 2022-01-21 |  |
 | [Solo en la Capital](https://open.spotify.com/track/17buDxmd7vsHfSiHChazkS) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Atrapado en las Colinas](https://open.spotify.com/album/2Tuewq0PbKjIgUtIuCx1PL) | 2:42 | 2022-01-21 |  |
 | [Star](https://open.spotify.com/track/6VSt5xYZtM9576SbMBZG1l) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Star](https://open.spotify.com/album/0fyBNvSaylRBFIjtIzLopH) | 3:16 | 2022-01-21 |  |

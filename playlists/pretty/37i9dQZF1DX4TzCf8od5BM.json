@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Disney Junior and magical storytelling through music! All the Disney Junior favorites, including Doc McStuffins in one playlist!",
-  "num_followers": 43419,
+  "num_followers": 43433,
   "original_name": "Disney Junior Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk1OTIwMCwwMDAwMDAwMGYzN2JmYjEyMDA3MmRkY2IxNDRkMWMwOTgyOGVlYjU2",
+  "snapshot_id": "MTY1ODk1OTIwMCwwMDAwMDAwMDgwNDc2NDg3NzgzODI2MmQzMGM0NWM4MGY1OGNkZjk0",
   "tracks": [
     {
       "added_at": "2022-07-27 22:00:00",
@@ -131,6 +131,26 @@
       "duration_ms": 122717,
       "name": "Time to Spidey Save the Day - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
       "url": "https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a"
+    },
+    {
+      "added_at": "2022-07-27 22:00:00",
+      "album": {
+        "name": "Busy Puppy (From \"Disney Junior Music: Mickey Mouse Funhouse\")",
+        "url": "https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 139656,
+      "name": "Busy Puppy - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG"
     },
     {
       "added_at": "2022-07-27 22:00:00",

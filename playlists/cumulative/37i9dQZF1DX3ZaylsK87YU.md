@@ -4,7 +4,7 @@
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-205 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
+206 songs - 16 hr 16 min - [published](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 | 2021-07-30 | 2022-07-25 |
 | [Doxology \(feat\. Selah\)](https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Selah](https://open.spotify.com/artist/4vIAVzn13AlgdefGyXxlrI) | [Hymns](https://open.spotify.com/album/55y8iZYeiGKxYCxmWF5Nd4) | 2:04 | 2021-07-30 | 2022-07-29 |
 | [Doxology//Amen](https://open.spotify.com/track/6oJlEWCnw9lMejLEYlqH84) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/4APhyYBjliHGPfs3zLsmVE) | 4:38 | 2021-07-30 | 2022-07-29 |
+| [Doxology//Amen](https://open.spotify.com/track/4cQkz0txDhGT7Y321gfGho) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 4:39 | 2021-07-30 |  |
 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 | 2021-07-30 |  |
 | [Ever Be](https://open.spotify.com/track/4lpbumeJ0OhkUMR2ywRelJ) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:51 | 2021-07-30 | 2022-07-28 |
 | [Fall Afresh](https://open.spotify.com/track/321jLsfufuG8Ot8GsYffdm) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [The Loft Sessions](https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA) | 4:24 | 2021-07-30 | 2022-07-29 |
@@ -130,7 +131,7 @@
 | [Love's Coming Down \(Isaiah\)](https://open.spotify.com/track/23dfS88wEJaMeqCH1glu7y) | [Melanie Penn](https://open.spotify.com/artist/4WKIrizEfylpzQsdegJlfh) | [Immanuel](https://open.spotify.com/album/0s96dihOjvhrc9HUbwu9Ga) | 6:33 | 2021-07-30 | 2022-07-24 |
 | [Lovingkindness \- Live](https://open.spotify.com/track/5zCws40J94BwTOHDaZFuqU) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm) | [Lovingkindness \(Live\)](https://open.spotify.com/album/6Y1kTIjz03vm9rvRKczpJC) | 4:27 | 2021-07-30 | 2022-07-29 |
 | [Man of Sorrows](https://open.spotify.com/track/3eytMjOdgSIFEUBJP6dujB) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative](https://open.spotify.com/album/2MXE4HXAhuYewZjWELE9Dq) | 5:11 | 2021-07-30 | 2022-07-29 |
-| [Man of Sorrows](https://open.spotify.com/track/2ok2FRBdJTClHUN68whaEE) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [I'm Living Proof](https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD) | 5:19 | 2021-07-30 |  |
+| [Man of Sorrows](https://open.spotify.com/track/2ok2FRBdJTClHUN68whaEE) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [I'm Living Proof](https://open.spotify.com/album/68lzPFCVrZVnm3eas1akxD) | 5:19 | 2021-07-30 | 2022-07-30 |
 | [Marvelous Light](https://open.spotify.com/track/07qYyHbxpJq5SKRWGUutvG) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [As Sure as the Sun](https://open.spotify.com/album/7BLcea96Wy0Xo7Nm1HqNBC) | 3:11 | 2021-07-30 | 2022-07-28 |
 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 | 2021-07-30 |  |
 | [My Hope Is in the Lord](https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:21 | 2021-07-30 | 2022-07-28 |

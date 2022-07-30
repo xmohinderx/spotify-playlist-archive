@@ -1,12 +1,12 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 8670,
+  "num_followers": 8697,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMDAwNjdkM2ZmOGIwZDZjY2U0M2VmNWJiNmMyYmJiNDlj",
+  "snapshot_id": "MTY1OTA0OTIwMCwwMDAwMDAwMGE1MzIxOTM2ZTEzYzUxYjk1NjI1OWQzM2RlZDE4ZjMw",
   "tracks": [
     {
       "added_at": "2022-07-14 23:00:00",
@@ -513,6 +513,30 @@
       "url": "https://open.spotify.com/track/3eDN2mOgfKDdYkWGHsvbFj"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4NEEvkvHl6aDZofeHm5AcQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        },
+        {
+          "name": "Tega Starr",
+          "url": "https://open.spotify.com/artist/7eMEsvFtjB98DoqU8tzACb"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/5tDP97l3FFgLKmAkP029rw"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Many Man - A COLORS SHOW",
@@ -647,6 +671,22 @@
       "duration_ms": 211050,
       "name": "Cloak & Dagger (feat. J Hus)",
       "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "King of Melodies",
+        "url": "https://open.spotify.com/album/1ifp91N2jYTmlLqT1Su4ma"
+      },
+      "artists": [
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 164779,
+      "name": "Bonsam Dollar",
+      "url": "https://open.spotify.com/track/4JiMqXP10Z37OscLQgUbzZ"
     },
     {
       "added_at": "2022-07-22 04:30:31",

@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. zand
 
-251 songs - 11 hr 59 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
+255 songs - 12 hr 8 min - [published](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Friendly Machine](https://open.spotify.com/track/1HwDXo5LrML3NYmYQiboCB) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Friendly Machine](https://open.spotify.com/album/0K4D8UZiHwXH2c1cKNXnXZ) | 3:46 | 2021-12-27 | 2022-01-19 |
 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 | 2021-12-27 | 2022-02-04 |
 | [Fuck the Hollywood Cult](https://open.spotify.com/track/5SoxOODF9bvcb7vEBkG6dz) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Fuck the Hollywood Cult](https://open.spotify.com/album/36CVtGbnMvnZphHX7IiRPJ) | 3:10 | 2021-12-27 | 2022-01-29 |
+| [FUCKYOU!](https://open.spotify.com/track/6BtDU1nkjCcc1Ko8ADERxM) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [FUCKYOU!](https://open.spotify.com/album/4Vdf6QbH9pCruj1FEfE7rc) | 1:17 | 2022-07-28 |  |
 | [Fukstar](https://open.spotify.com/track/2sPZty2EZFubLWq43vnO2P) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Fukstar](https://open.spotify.com/album/6Onj8WCbrAt8xD9z21W7H6) | 3:36 | 2022-07-07 |  |
 | [Gasoline](https://open.spotify.com/track/0CXgZRpMjcbH3gkawYMiPb) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/6RtRtFtUbZihbE5D5yv8eu) | 2:20 | 2022-01-28 | 2022-03-04 |
 | [GET LOOSE](https://open.spotify.com/track/4MjnnyZZqtpjKM5MSbVvkY) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [RESPECT THE THRONE](https://open.spotify.com/album/3WHurOAvX7XoE5WiRCdKkd) | 2:35 | 2022-07-14 |  |
@@ -102,6 +103,7 @@
 | [Girls In Bikinis](https://open.spotify.com/track/5FXn5JHL50tDPMITGun9zh) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Am I A Girl?](https://open.spotify.com/album/5QCXxPUwoOtxeZQmve6w2u) | 2:25 | 2022-03-31 | 2022-04-29 |
 | [GLUE2](https://open.spotify.com/track/5LGHsa3tFfcM6qc1gUkrhy) | [LUzA CULT](https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT), [Death Tour](https://open.spotify.com/artist/08ET100WDKcE5HzPSWBJYg) | [GLUE2](https://open.spotify.com/album/0usqoonogsd5ZvTfS7myJM) | 2:55 | 2022-02-25 | 2022-03-11 |
 | [go die!](https://open.spotify.com/track/4ISTVbFzJhmbhjSxu8kfFS) | [KO Aka Koala](https://open.spotify.com/artist/280n850sA1H4odLFK1qpNi) | [go die!](https://open.spotify.com/album/2aZbaaBeQ5kgeSRYXghEFS) | 2:23 | 2022-04-19 | 2022-04-29 |
+| [Go!](https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [SID THE KID](https://open.spotify.com/album/6lQoWpcquJkjgW1yZhNqlV) | 2:43 | 2022-07-28 |  |
 | [god sent me as karma](https://open.spotify.com/track/6Y3AYLsKkGaMYCRC0OGzy3) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [god sent me as karma](https://open.spotify.com/album/7jUoT7TNoh0SdI4yS5K6tp) | 3:06 | 2021-12-27 | 2022-06-10 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-04-29 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-19 |  |
@@ -235,6 +237,7 @@
 | [Time](https://open.spotify.com/track/5HorhJ1JnFkJw0egrgg49I) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC), [Genre Benders](https://open.spotify.com/artist/3SHzP44kbcifa3M4f1zjSz) | [P.S\. Thank You for Waiting](https://open.spotify.com/album/51LUoIXs5uyiGkuQ9ExJtM) | 2:58 | 2021-12-27 | 2022-01-19 |
 | [Tongue in cheek](https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1) | 2:36 | 2022-04-19 |  |
 | [Too Dead Inside](https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Too Dead Inside](https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA) | 3:25 | 2022-01-19 | 2022-07-08 |
+| [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-28 |  |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 |  |
 | [UH OH!](https://open.spotify.com/track/2LPgMc1ZM0VcVm1sdeCNwV) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij) | [UH OH!](https://open.spotify.com/album/00dZyIEC3bXTvPqjQ6qAfP) | 1:30 | 2022-03-31 |  |
 | [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 | 2021-12-27 | 2022-06-24 |
@@ -252,6 +255,7 @@
 | [What Would You Do?](https://open.spotify.com/track/5v2lHIHssGvhW1vcJuLrLq) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [What Would You Do?](https://open.spotify.com/album/039EIWZALzu9b9Yy5W6x9p) | 2:21 | 2022-02-18 | 2022-03-19 |
 | [White Noise](https://open.spotify.com/track/5TMn2Kdm2k6iCufxH2qsxl) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:20 | 2022-02-25 | 2022-03-25 |
 | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/track/62FVhzJNJZ0DsO0hhLu3f4) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/album/5pvDSgAqiFMntQpeiVXn6M) | 2:55 | 2022-04-19 | 2022-04-29 |
+| [wish i was dead](https://open.spotify.com/track/16dzo8i1mlh2AkmQ4DhwXH) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [wish i was dead](https://open.spotify.com/album/3B4UmoO1zRScG8X8MSDHy4) | 1:38 | 2022-07-28 |  |
 | [Wokeup!](https://open.spotify.com/track/65pgKsJuP0bYuqy4hiRztY) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wokeup!](https://open.spotify.com/album/53OYdcHlqKCw1qvzDAWTZY) | 2:49 | 2022-04-19 | 2022-04-29 |
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2021-12-27 | 2022-07-15 |
 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 | 2022-02-04 | 2022-03-04 |

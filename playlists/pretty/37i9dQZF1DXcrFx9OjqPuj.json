@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 9941,
+  "num_followers": 9976,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUwMDUwMywwMDAwMDAwMGJmNjlhM2NiNjgzYWNlNDgxM2UxNjlmNmVhNzAyNDdj",
+  "snapshot_id": "MTY1NjUwMDUwMywwMDAwMDAwMDJmYWYyNGRkZDM5MDE0OWMzYjM1MjE0ZTkzNDU1MzUy",
   "tracks": [
     {
       "added_at": "2022-06-29 11:01:43",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-06-29 11:01:43",
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 209440,
-      "name": "Marriage Is For Old Folks",
-      "url": "https://open.spotify.com/track/5HdwWMUGkf1TNP4xgdpn2m"
-    },
-    {
-      "added_at": "2022-06-29 11:01:43",
-      "album": {
         "name": "New Soil",
         "url": "https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 445426,
       "name": "Greasy",
       "url": "https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106"
+    },
+    {
+      "added_at": "2022-06-29 11:01:43",
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Marriage Is For Old Folks",
+      "url": "https://open.spotify.com/track/5HdwWMUGkf1TNP4xgdpn2m"
     },
     {
       "added_at": "2022-06-29 11:01:43",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-06-29 11:01:43",
       "album": {
-        "name": "Introducing Nat Adderley",
-        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
       "artists": [
         {
-          "name": "Nat Adderley",
-          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 165840,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/1bEbsMj6aqxhgXJRr9KuQo"
+      "duration_ms": 333693,
+      "name": "No Smokin' - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6Z602VAQGptsRT8IzBwM9y"
     },
     {
       "added_at": "2022-06-29 11:01:43",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-06-29 11:01:43",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+        "name": "Introducing Nat Adderley",
+        "url": "https://open.spotify.com/album/43ZOof3094D6Uqvnj1tOUT"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Nat Adderley",
+          "url": "https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D"
         }
       ],
-      "duration_ms": 333693,
-      "name": "No Smokin' - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6Z602VAQGptsRT8IzBwM9y"
+      "duration_ms": 165840,
+      "name": "Watermelon",
+      "url": "https://open.spotify.com/track/1bEbsMj6aqxhgXJRr9KuQo"
     },
     {
       "added_at": "2022-06-29 11:01:43",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-06-29 11:01:43",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Return To Swahili",
-      "url": "https://open.spotify.com/track/2lNVRiekrifYpHPRQuIVwX"
-    },
-    {
-      "added_at": "2022-06-29 11:01:43",
-      "album": {
         "name": "Swing, Swang, Swingin'",
         "url": "https://open.spotify.com/album/6vOTWp8UJUq2R6qNDrhuCk"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 291533,
       "name": "Let's Face The Music And Dance - Remastered",
       "url": "https://open.spotify.com/track/0dtTW39z3xmjSo9JHBQuO9"
+    },
+    {
+      "added_at": "2022-06-29 11:01:43",
+      "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Return To Swahili",
+      "url": "https://open.spotify.com/track/2lNVRiekrifYpHPRQuIVwX"
     },
     {
       "added_at": "2022-06-29 11:01:43",

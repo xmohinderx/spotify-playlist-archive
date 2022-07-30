@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-180 songs - 16 hr 44 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+181 songs - 16 hr 47 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [NAMAHA](https://open.spotify.com/track/19vs5EKA0WfxAmjDLzLhnx) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [NAMAHA](https://open.spotify.com/album/3PfCixKb0AwioD7M8CJAjE) | 5:58 | 2022-04-15 | 2022-07-28 |
 | [Nasty](https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Max Tase](https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m) | [Nasty](https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG) | 3:39 | 2022-06-03 |  |
 | [Never Be The Same](https://open.spotify.com/track/2QOlkqwaKI6JHVoAFvyfnm) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D) | [Never Be The Same](https://open.spotify.com/album/1F46HHbNF6r8ANbJfnkCas) | 4:51 | 2022-04-15 | 2022-04-23 |
-| [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 |  |
+| [Novo Mundo](https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Synesthetic](https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6) | [Novo Mundo](https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj) | 6:13 | 2022-04-15 | 2022-07-30 |
 | [Obsession](https://open.spotify.com/track/5FM2LQo6zItfKqSPmDluYO) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS), [Tropic Sound](https://open.spotify.com/artist/1bgdt86bM98eGqdbZjww7H) | [Obsession](https://open.spotify.com/album/5zAgAIwAQeBPDIb7LPu9Tt) | 4:27 | 2022-04-22 | 2022-07-24 |
 | [Ocean](https://open.spotify.com/track/00Y4T8p3xKyO1xMadFmTeD) | [Freenomo](https://open.spotify.com/artist/1Q2oj082PSYEwcI8H6NXS9) | [Ocean](https://open.spotify.com/album/5uLnCiu8PvYkPW6YarnkUO) | 4:45 | 2022-04-22 | 2022-06-09 |
 | [Odyssey](https://open.spotify.com/track/0FDGlQi6bwXJWEzJAeCnSv) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Odyssey](https://open.spotify.com/album/5aQOe7KveXqTr7h2DqTgu2) | 6:57 | 2022-04-15 | 2022-07-28 |
@@ -134,6 +134,7 @@
 | [San Pedro](https://open.spotify.com/track/04x4RHqb7UQMG978AlxkrD) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [San Pedro](https://open.spotify.com/album/5sHYnWWk6HZMu5o5L64F91) | 7:28 | 2022-04-15 |  |
 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 | 2022-04-15 |  |
 | [Save Me](https://open.spotify.com/track/0Jz3sOalZAP80G290yYZZB) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Save Me](https://open.spotify.com/album/0qH7mbypWgfElVWaG4LJUZ) | 3:34 | 2022-05-06 | 2022-05-08 |
+| [Scottica](https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU) | [Scottica](https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy) | 3:19 | 2022-07-28 |  |
 | [See Me](https://open.spotify.com/track/7tHgjmzPziQQKYs6JtIPs4) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Massivebass](https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI), [Massivo](https://open.spotify.com/artist/6CgxIvyRuT1yFG5fjBbh6E) | [See Me](https://open.spotify.com/album/1cUIPPAO8OHNBPwsOvBgpN) | 3:38 | 2022-07-07 |  |
 | [See The Light](https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [See The Light](https://open.spotify.com/album/2jtU9gx30PSYWExLBYrMVD) | 3:44 | 2022-04-15 |  |
 | [Shiva Lingam \- S3N0 Remix](https://open.spotify.com/track/2sxbKvKtJvYpqNo2nCCkqP) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Asante Sana](https://open.spotify.com/artist/6rI9AVUw0k5hX9viNM0ssc), [S3N0](https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1) | [Shiva Lingam \(S3N0 Remix\)](https://open.spotify.com/album/6POjkorUF5fPeDH4pg5qO7) | 6:24 | 2022-05-26 | 2022-06-08 |

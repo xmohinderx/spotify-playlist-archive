@@ -250,6 +250,24 @@
     },
     {
       "album": {
+        "name": "BATON ROUGE",
+        "url": "https://open.spotify.com/album/4miX0VgpJpJqMlXz32JdSE"
+      },
+      "artists": [
+        {
+          "name": "XZARKHAN",
+          "url": "https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BATON ROUGE",
+      "url": "https://open.spotify.com/track/73pgj7Xz1j16ixHEOiyZYB"
+    },
+    {
+      "album": {
         "name": "Bill It",
         "url": "https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR"
       },
@@ -535,6 +553,28 @@
       "duration_ms": 78001,
       "name": "Distorcido",
       "url": "https://open.spotify.com/track/1veEROQqh83r67W1gthulY"
+    },
+    {
+      "album": {
+        "name": "DELUSIONS III",
+        "url": "https://open.spotify.com/album/3f4QMkLNvMJ7mYloBZtJBD"
+      },
+      "artists": [
+        {
+          "name": "SLVG",
+          "url": "https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK"
+        },
+        {
+          "name": "Grimmj\u00f8w",
+          "url": "https://open.spotify.com/artist/7uzsn9U6OTLBagyn5sQSnL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "DO YOU HAVE THE DRUGS",
+      "url": "https://open.spotify.com/track/2TrTDkj7cHjME50RaEZ3iZ"
     },
     {
       "album": {

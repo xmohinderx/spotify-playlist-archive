@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1569,7 +1569,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 185625,
       "name": "Blitzkrieg 2022 - Drammen",
       "url": "https://open.spotify.com/track/4qkchijBTUVzbQt9jbPv9k"
@@ -5783,6 +5783,32 @@
     {
       "album": {
         "name": "G\u00f6ngum \u00ed takt",
+        "url": "https://open.spotify.com/album/2bMfybfxWXX1hr1ZKIeI6p"
+      },
+      "artists": [
+        {
+          "name": "Hreimur",
+          "url": "https://open.spotify.com/artist/3JqhkiwnK1tNP7CZj4vAKQ"
+        },
+        {
+          "name": "Magni",
+          "url": "https://open.spotify.com/artist/4TtHWUNqH65KPY075VxsmD"
+        },
+        {
+          "name": "Embla",
+          "url": "https://open.spotify.com/artist/5LegYV7UAdAyvmgDXyQy0h"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219335,
+      "name": "G\u00f6ngum \u00ed takt",
+      "url": "https://open.spotify.com/track/0bw4D5NKGIaxUKgCP933oI"
+    },
+    {
+      "album": {
+        "name": "G\u00f6ngum \u00ed takt",
         "url": "https://open.spotify.com/album/3o6aRsg7VeV98I9a2n2ENN"
       },
       "artists": [
@@ -7185,6 +7211,24 @@
       "duration_ms": 187943,
       "name": "I'm Tired - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+    },
+    {
+      "album": {
+        "name": "IKEA STELPAN",
+        "url": "https://open.spotify.com/album/2q0kqdNRg166UES6o7zG7v"
+      },
+      "artists": [
+        {
+          "name": "ClubDub",
+          "url": "https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123576,
+      "name": "IKEA STELPAN",
+      "url": "https://open.spotify.com/track/5xKLBh8aIj1A9WmnxME2LF"
     },
     {
       "album": {
@@ -8920,6 +8964,24 @@
     },
     {
       "album": {
+        "name": "Heim",
+        "url": "https://open.spotify.com/album/4tShKmF4KljJVdUXLgCjTQ"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214645,
+      "name": "Lj\u00faft a\u00f0 vera til",
+      "url": "https://open.spotify.com/track/5XxtC1Dnh99RlNvEatSYaR"
+    },
+    {
+      "album": {
         "name": "Ll\u00e1mame",
         "url": "https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs"
       },
@@ -9621,7 +9683,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 336924,
       "name": "Massive",
       "url": "https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui"
@@ -9639,7 +9701,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 515386,
       "name": "Master Of Puppets",
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
@@ -13767,7 +13829,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -16566,6 +16628,28 @@
     },
     {
       "album": {
+        "name": "Segir ekki neitt",
+        "url": "https://open.spotify.com/album/1rB7LCX78vQQ5yl97QeSEy"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        },
+        {
+          "name": "J\u00f3n J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/2mgonCuv2QEZZbPOatCbyu"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235578,
+      "name": "\u00c1 sama t\u00edma, \u00e1 sama sta\u00f0",
+      "url": "https://open.spotify.com/track/66ucII0C46uKXVFqDuDhfu"
+    },
+    {
+      "album": {
         "name": "\u00c1lit",
         "url": "https://open.spotify.com/album/0a0qQArN1o0pSQ2thb685P"
       },
@@ -16789,6 +16873,28 @@
       "duration_ms": 191332,
       "name": "\u00c6vint\u00fdral\u00f6nd",
       "url": "https://open.spotify.com/track/1uaSTOZG1cSH2e7EaWNYaM"
+    },
+    {
+      "album": {
+        "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
+        "url": "https://open.spotify.com/album/799KkJwCISSvQYUJmxeeit"
+      },
+      "artists": [
+        {
+          "name": "FM95BL\u00d6",
+          "url": "https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh"
+        },
+        {
+          "name": "Sverrir Bergmann",
+          "url": "https://open.spotify.com/artist/6vZQqLEETz3r5dQFKnatlp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "\u00c9g Fer \u00c1 \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0 (feat. Sverrir Bergmann)",
+      "url": "https://open.spotify.com/track/1a6CncFFqHUL5jTZo2uo6f"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 26861,
+  "num_followers": 26881,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAxNzAyNSwwMDAwMDAwMDYxYWRmYjBhOGJmMzVhNDg3MDA3MTc2NTY3ODhlYzAz",
+  "snapshot_id": "MTY1OTAxNzAyNSwwMDAwMDAwMGQzMDI3NWVlNWU0YjA3Mjg4OGIxMTgzMTE2N2MyYWZi",
   "tracks": [
     {
       "added_at": "2022-07-28 14:03:45",
@@ -87,6 +87,22 @@
       "duration_ms": 174000,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
+    },
+    {
+      "added_at": "2022-07-28 14:03:45",
+      "album": {
+        "name": "It's A Long Road",
+        "url": "https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Tell You Not To Worry",
+      "url": "https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33"
     },
     {
       "added_at": "2022-07-28 14:03:45",

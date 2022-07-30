@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  Tamela Mann
 
-182 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
+183 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/6tbQcvssGqLrTKMvWwo62Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2022-02-18 | 2022-03-18 |
 | [House of the Lord](https://open.spotify.com/track/2Ikc7DnYoVnXxdsL4rFkRs) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [House of the Lord](https://open.spotify.com/album/3ZyVz0tykiXHBpkRN5x6yy) | 4:12 | 2022-04-01 |  |
 | [House of the Lord \(No Limits\)](https://open.spotify.com/track/4QMZfsUTKlWljyRhvhHLgj) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Alive & Well: No Limits](https://open.spotify.com/album/5wogFi882sOPdMXJqxVMP6) | 4:10 | 2022-03-25 |  |
+| [I Can't Stop Praising](https://open.spotify.com/track/14JXhGPj4HFkppOCH4Q9HR) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 3:36 | 2022-07-29 |  |
 | [I Gotta Song](https://open.spotify.com/track/2WzTahJr3Pbkw4ZkIbyBzU) | [James Wilson](https://open.spotify.com/artist/2OM1dMkwtReAQfUbBKskuk) | [I Gotta Song](https://open.spotify.com/album/13W77W2HeajGg74mTmsobT) | 4:47 | 2022-02-18 | 2022-03-26 |
 | [I Put You First \- Cut to the Chase Mix](https://open.spotify.com/track/6O2ByARPaLxmx0IQdGpoIB) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i) | [I Put You First \(Cut to the Chase Mix\)](https://open.spotify.com/album/3x2GVm3aDSThcZUatXi47H) | 3:45 | 2022-02-18 | 2022-07-09 |
 | [I Will Rejoice \(Radio Version\) \- Live](https://open.spotify.com/track/4fscwXnEdroTcfKJk1ORXy) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [I Will Rejoice \(Radio Version\) \[Live\]](https://open.spotify.com/album/3Zcy5sVRPniowWEvB2z3tf) | 4:04 | 2022-07-08 |  |

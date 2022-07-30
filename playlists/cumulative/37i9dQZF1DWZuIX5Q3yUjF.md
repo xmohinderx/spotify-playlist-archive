@@ -4,7 +4,7 @@
 
 > Il meglio dell'R&B italiano\. Cover: AINÉ, Ethan
 
-152 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
+153 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/6baLMOVUAzKiyXO33cGiRz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Rasoi](https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Rasoi](https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf) | 3:24 | 2022-07-14 |  |
 | [Repubblica](https://open.spotify.com/track/6eIPv0RqhVJiExImD71D97) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [DIVISO DUE](https://open.spotify.com/album/109751QGcD8dQsdnYnKNck) | 3:11 | 2022-05-12 |  |
 | [Respirare](https://open.spotify.com/track/5Oi2WD7QCm7QauxSCfkCla) | [Laneve](https://open.spotify.com/artist/209NYhApPminvhVIZskYFF), [SANTO BLUE](https://open.spotify.com/artist/5sV954iubTAhghPdzITK5v) | [Neve Nostalgia](https://open.spotify.com/album/5v1omc0DtCHJu8lQKdt0tK) | 2:53 | 2022-05-05 |  |
+| [Resta Ancora Qui](https://open.spotify.com/track/0c7g2K0GXT8bHB6mR5iMFe) | [Bzi](https://open.spotify.com/artist/6ZipzRuDr7giQrO0CsmJER) | [Resta Ancora Qui](https://open.spotify.com/album/70unvnyvdhWWe1i0DYgPbn) | 3:40 | 2022-07-28 |  |
 | [ROOM 23](https://open.spotify.com/track/196D8eiQplLX4y0qnLzaDu) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940) | [ROOM 23](https://open.spotify.com/album/09hhhTqVQsKDqipq33eExA) | 2:46 | 2022-07-21 |  |
 | [Rotterdam](https://open.spotify.com/track/0zyw45b8liedkjfjOUbPnQ) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Rotterdam](https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco) | 3:17 | 2022-05-05 |  |
 | [Salvami](https://open.spotify.com/track/3VhkiNXHfpBD2WwYdtM8iO) | [Yorker](https://open.spotify.com/artist/1DAM0oVo9LsvwegJRT6vI1), [Raphael Gualazzi](https://open.spotify.com/artist/6hu9cUsJDFg2kUkAAjOepA) | [Una](https://open.spotify.com/album/79rdrnA3UclScuwb84ftLX) | 3:18 | 2022-07-14 |  |

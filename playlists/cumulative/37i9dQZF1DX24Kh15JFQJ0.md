@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Billy Dean
+> The latest music from our Country Heroes\. Cover: Ronnie Dunn
 
-147 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
+149 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Going Out Like This](https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Sippin' On The Simple Life](https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo) | 3:29 | 2021-10-15 |  |
 | [Gonna Be Alright](https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI) | [The Kentucky Headhunters](https://open.spotify.com/artist/2sgj794K3UaW1ApX28ZUhY) | [....That's a Fact Jack!](https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw) | 3:59 | 2021-11-19 |  |
 | [Good Brown Gravy](https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794), [Wink Martindale](https://open.spotify.com/artist/1X5ZSwlYraWjWqjkkhJjdg) | [Good Brown Gravy](https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly) | 2:38 | 2021-10-15 |  |
+| [Heartbreak Song](https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy) | [Michelle Wright](https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY) | [Heartbreak Song](https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ) | 3:59 | 2022-07-29 |  |
 | [Hearts in the Sand](https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [The Rest of It's Mine](https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX) | 3:56 | 2022-07-22 |  |
 | [Her Loving Man](https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [12th of June](https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR) | 5:22 | 2022-05-16 |  |
 | [Higher](https://open.spotify.com/track/3MzJt1QR7YyJAKje1elWUY) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Ain't No Closing Me Down](https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36) | 3:15 | 2022-01-28 |  |
@@ -110,6 +111,7 @@
 | [Racing The Dark](https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Racing The Dark](https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT) | 3:56 | 2021-11-19 |  |
 | [Railroad](https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM) | [Skip Ewing](https://open.spotify.com/artist/2g1pnfZUsZAxpz9QGaBSq3) | [Railroad](https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1) | 4:02 | 2021-10-15 |  |
 | [Redhead](https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Redhead](https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF) | 2:43 | 2021-10-15 |  |
+| [Road to Abilene](https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [100 Proof Neon](https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG) | 4:00 | 2022-07-29 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-10-15 |  |
 | [Saltwater Cowboy](https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Saltwater Cowboy](https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17) | 2:49 | 2022-06-17 |  |
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-10-15 |  |

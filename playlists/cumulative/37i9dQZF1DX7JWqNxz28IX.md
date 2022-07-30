@@ -4,7 +4,7 @@
 
 > 🩹 \(in cover, fasma\)
 
-114 songs - 5 hr 9 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
+116 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/7fBkDuj9jj7rj8liyTLX4S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Barbie](https://open.spotify.com/track/6FyL3LaA6KriOfgHJUnhVS) | [SHYGUY.OG](https://open.spotify.com/artist/5OGilC8ZDq4jiufxRylb0X) | [Barbie](https://open.spotify.com/album/7GJY1BE2OnuQBnWNvKHWJK) | 1:22 | 2022-06-23 |  |
 | [Bombay Lemon](https://open.spotify.com/track/3L98UZzDKHC4koi1TKmO0J) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Bombay Lemon](https://open.spotify.com/album/5kSewiNIIo210XyP54tzSo) | 2:56 | 2022-04-21 |  |
 | [cento metri](https://open.spotify.com/track/3xfBKb2gdbtcyJdQMwPmPO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [cento metri](https://open.spotify.com/album/393JFt171sEH0GisXy7WeM) | 2:05 | 2022-04-21 |  |
+| [Cicatrici](https://open.spotify.com/track/7t8s9YRj6sQwTDECF0lT0d) | [piccoli brividi](https://open.spotify.com/artist/6m5gjMXPUZztfLUomW1n3r), [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Kuiper](https://open.spotify.com/artist/4yeIBrzWWNRbnAd1Aq3oLG) | [Cicatrici](https://open.spotify.com/album/4eQOy5tEVq0Ti6hk8CqKfT) | 3:50 | 2022-07-28 |  |
 | [Cicatrici](https://open.spotify.com/track/4RVJ9ftLiCwxSVSVTvQBQm) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cicatrici](https://open.spotify.com/album/3YwKjZZThIr9sFFXS0AXnO) | 2:28 | 2022-04-21 | 2022-07-29 |
 | [Cicatrici \(feat\. Tenth Sky\)](https://open.spotify.com/track/3FZlx13Vs5tZm3u0PH5i7v) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Lacrime](https://open.spotify.com/album/5drTfTuBNR87cXnyJdn7En) | 2:28 | 2022-07-28 |  |
 | [Clipper](https://open.spotify.com/track/7ipysHNC8Fd5IFFjX25jgF) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [Fuori di me](https://open.spotify.com/album/2yTYKDFYax66zYRfspKJUP) | 2:46 | 2022-04-21 |  |
@@ -69,6 +70,7 @@
 | [Marie 3 \- Principessa Paranoia](https://open.spotify.com/track/26wDrDxUIJNloUpbmp5iRF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Marie 3 \(Principessa Paranoia\)](https://open.spotify.com/album/6gJzy9RIusML81lyGdLdHq) | 2:39 | 2022-06-13 |  |
 | [Marylin M.](https://open.spotify.com/track/6uw8FVNAFNNpdXtd0AZl6m) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Moriresti per vivere con me?](https://open.spotify.com/album/61eM5wzEw3GQyN1X1yV4ut) | 2:00 | 2022-06-02 |  |
 | [ME & YOU](https://open.spotify.com/track/6aUqWalFUc8uaPRbnx4Drq) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [ME & YOU](https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H) | 2:17 | 2022-04-21 |  |
+| [Mille Gatti](https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Ayden Lau](https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Mille Gatti](https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB) | 2:44 | 2022-07-28 |  |
 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 | 2022-06-23 |  |
 | [minuti che vivi](https://open.spotify.com/track/25QQoIufdkPTyY5ruvdaZy) | [Edra](https://open.spotify.com/artist/3mxIKZRca9G3N1C1dfbBzY) | [minuti che vivi](https://open.spotify.com/album/2Nj03riqaVvEDDTN6peIqm) | 2:41 | 2022-04-21 |  |
 | [Miss Guid](https://open.spotify.com/track/0PvgTLCseyPRJFAI6HlHsK) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [DIE](https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D) | 2:29 | 2022-04-21 |  |

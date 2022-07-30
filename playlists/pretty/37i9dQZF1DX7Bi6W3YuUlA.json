@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 1919,
+  "num_followers": 1933,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDVlNGIzMzhkMGE5ZWRlOWI3Yjk2MTU2YzNlOWE2Nzlm",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGUyOTA1ZTY1MzViOTA2M2NhNDU3MDY5NzYzNTMyMGM3",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+        "name": "Not for Sale",
+        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
+      "duration_ms": 222916,
+      "name": "1994 (feat. Aaron Cole)",
+      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Not for Sale",
-        "url": "https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w"
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
       },
       "artists": [
         {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
         }
       ],
-      "duration_ms": 222916,
-      "name": "1994 (feat. Aaron Cole)",
-      "url": "https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT"
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Harolddd",
+          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
+        }
+      ],
+      "duration_ms": 214554,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "Harolddd",
-          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
-        }
-      ],
-      "duration_ms": 214554,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Dreamworld",
         "url": "https://open.spotify.com/album/3l8TtWvoyuuOSSyk7QNNVo"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "STILL GOING",
-        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
-      },
-      "artists": [
-        {
-          "name": "YB",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 88294,
-      "name": "STILL GOING",
-      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "ABOVE ME (feat. Parris Chariz)",
         "url": "https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "STILL GOING",
+        "url": "https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 88294,
+      "name": "STILL GOING",
+      "url": "https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182487,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
     },
     {
       "added_at": "2022-05-28 19:29:54",

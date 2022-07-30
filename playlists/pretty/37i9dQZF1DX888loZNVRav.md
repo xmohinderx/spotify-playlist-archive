@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 
 > Love at its most dramatic\. Cover: Moulin Rouge
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,146 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,175 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 32 | [Till There Was You](https://open.spotify.com/track/1kU40UKP9BviW8m4HMgUQh) | [Barbara Cook](https://open.spotify.com/artist/6SY4hPB2QITF4kQUui96EP), [Robert Preston](https://open.spotify.com/artist/4KMMjF738dOUpmO51lMUrf) | [The Music Man \(Original Broadway Cast\)](https://open.spotify.com/album/4O0zo2ULebkZ7PKZpFdPLJ) | 2:45 |
 | 33 | [Dance with You](https://open.spotify.com/track/04zipeUI1GQjypWxPfFL8t) | [Caitlin Kinnunen](https://open.spotify.com/artist/33RWcf3xOXdbUHIajavxaE), [Isabelle McCalla](https://open.spotify.com/artist/4SNWtSWaGOFjjBhCUx7f4L) | [The Prom: A New Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2EeSecVK1JVbirWHqgWoq6) | 3:07 |
 | 34 | [Camelot: If Ever I Would Leave You](https://open.spotify.com/track/6ypbXs9QrUv2EJuV7I1pP8) | [Frederick Loewe](https://open.spotify.com/artist/6vSV6SDf1vteodhgV83AJ6), [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR), [Franz Allers](https://open.spotify.com/artist/6WdfiLSbnrKRLINWsG1UCe) | [Camelot \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5Fp6Y3gNufwzUeEBxuOZpo) | 3:11 |
-| 35 | [You're the Top](https://open.spotify.com/track/5poMgcmtczmFfC38ayOdlw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 5:01 |
-| 36 | [Something Good](https://open.spotify.com/track/2unr8CLDdBMKRtff7lhcEr) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 3:33 |
+| 35 | [Something Good](https://open.spotify.com/track/2unr8CLDdBMKRtff7lhcEr) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 3:33 |
+| 36 | [You're the Top](https://open.spotify.com/track/5poMgcmtczmFfC38ayOdlw) | [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G), [Colin Donnell](https://open.spotify.com/artist/2j8GWQrHlJn97fuS5IPBtb) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 5:01 |
 | 37 | [I'll Cover You](https://open.spotify.com/track/5fsqHu4hpOiFMVy1rqKpzm) | [Wilson Jermaine Heredia](https://open.spotify.com/artist/2wpskShaCrgkVcET4JzTAV), [Jesse L\. Martin](https://open.spotify.com/artist/5jpma87NOuRoh5FMf0CW5I) | [The Best Of Rent](https://open.spotify.com/album/1HsvK3RNYq8I61Orf6OQ8D) | 2:28 |
 | 38 | [As Long As He Needs Me](https://open.spotify.com/track/5U08WCE89uN4otg1RJvfep) | [Sally Dexter](https://open.spotify.com/artist/6EYopXpSuAk852aUix9YvR) | [Oliver! \(1994 London Palladium Cast Recording\)](https://open.spotify.com/album/6zAJfB7geKqidKaRiu574H) | 3:16 |
 | 39 | [The Next Ten Minutes](https://open.spotify.com/track/6TP9uOq1QhcphZHSPfrwzS) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub) | [The Last Five Years \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VZ5lJSFcHOKkpVZrxu8ie) | 7:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX888loZNVRav.md) - [plain]
 | 69 | [The Best Thing That Ever Has Happened \(with Alec Baldwin\)](https://open.spotify.com/track/6FMrzmKlLzrXKGp3qvQT1f) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Alec Baldwin](https://open.spotify.com/artist/6gDUFIEcDsus6j7kudW0Oa) | [Encore: Movie Partners Sing Broadway](https://open.spotify.com/album/5w4GRGWJFNFGmzPgMsvK9w) | 3:12 |
 | 70 | [Unusual Way](https://open.spotify.com/track/2Hl4nwPX321cC3zkpq2RgF) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Nine: The Musical \(New Broadway Cast Recording\)](https://open.spotify.com/album/6Qmou5RmL4htJOTZCKoyFe) | 5:00 |
 
-Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDg3Yjk0YTVlMmYxMTZhMzAxOWJhNzY4NjRiMWQ4OTNk`
+Snapshot ID: `MTY0NDQ0NDM4NywwMDAwMDAwMDVmNWNkOGIzMWI3Mzg4MjgxYWQzNTI1Zjg0OTBkNjk4`

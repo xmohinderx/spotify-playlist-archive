@@ -4,11 +4,12 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-158 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
+159 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \(I Wanna Go Back\)](https://open.spotify.com/track/4LXXrqp6zXLI7JyZpdY1wF) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [1999 \(I Wanna Go Back\)](https://open.spotify.com/album/6O8JEMmARS2zvMTkzl2v8K) | 2:36 | 2022-04-21 | 2022-07-29 |
+| [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-28 |  |
 | [Air Balloon](https://open.spotify.com/track/0zFhZc3qHgMpV26V1GsL3K) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [ALPHACAST](https://open.spotify.com/artist/3UNkFmRjyF1KBDHUAVTrEl) | [Air Balloon](https://open.spotify.com/album/0FgZvChXeLV0dPLoAPXGvZ) | 2:38 | 2022-04-14 | 2022-07-29 |
 | [All The Time](https://open.spotify.com/track/5UA6rAsMTn0okgp95isGrl) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [All The Time](https://open.spotify.com/album/67Ulp5KinPqy6RBWgS3hO7) | 2:19 | 2022-04-14 | 2022-07-28 |
 | [Another You \(feat\. The Vamps\)](https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [BLOODLINE](https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Another You \(feat\. The Vamps\)](https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV) | 2:38 | 2022-04-14 | 2022-07-29 |
@@ -163,7 +164,7 @@
 | [Wings](https://open.spotify.com/track/0IMJIkOxtCFnmOmrpIH08O) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Extra Dimensional](https://open.spotify.com/album/5ON24L81Foria0hIKcLHCq) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [Work That Trunk \(with MOTi\)](https://open.spotify.com/track/77EhqUJMLbAq6qFp2Kqp13) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Work That Trunk \(with MOTi\)](https://open.spotify.com/album/6Cdw4UaAyYdGFF1cR6zz6C) | 2:26 | 2022-06-16 | 2022-07-14 |
 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 | 2022-07-28 |  |
-| [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 | 2022-07-28 |  |
+| [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 | 2022-07-28 | 2022-07-30 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/1yccBVKAPKgNKjaNfcA6v3) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Summer Pool Party 2021](https://open.spotify.com/album/4WkReSuysvJSPDczKuRIMp) | 2:30 | 2022-04-14 | 2022-07-29 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-07-28 |  |
 

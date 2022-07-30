@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3188,
+  "num_followers": 3207,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MDk1NiwwMDAwMDAwMDUzYzgyYmEzMmU0YTIzMmQ3YjhhMDQ1MTk0YjBmMjFh",
+  "snapshot_id": "MTY1NzI2MDk1NiwwMDAwMDAwMDk1NWVkZTMwOTJiMTMxMGYyZTk5YTcyZmU1NWI5Y2Iz",
   "tracks": [
     {
       "added_at": "2022-07-08 06:15:56",
@@ -383,26 +383,6 @@
     {
       "added_at": "2022-07-08 06:15:56",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 212386,
-      "name": "Actor (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
-    },
-    {
-      "added_at": "2022-07-08 06:15:56",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2022-07-08 06:15:56",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 212386,
+      "name": "Actor (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/35vGPMlJwGQeBPzjJAZMW5"
     },
     {
       "added_at": "2022-07-08 06:15:56",
@@ -635,42 +635,6 @@
     {
       "added_at": "2022-07-08 06:15:56",
       "album": {
-        "name": "Lucid Dream (feat. MNZU)",
-        "url": "https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA"
-      },
-      "artists": [
-        {
-          "name": "Camtono",
-          "url": "https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s"
-        },
-        {
-          "name": "MNZU",
-          "url": "https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Lucid Dream (feat. MNZU)",
-      "url": "https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh"
-    },
-    {
-      "added_at": "2022-07-08 06:15:56",
-      "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
-      },
-      "artists": [
-        {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        }
-      ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
-    },
-    {
-      "added_at": "2022-07-08 06:15:56",
-      "album": {
         "name": "SSOOK DDOONG (feat. CHOI YOOJUNG)",
         "url": "https://open.spotify.com/album/31T5angQfNXokneuSdQq56"
       },
@@ -691,18 +655,38 @@
     {
       "added_at": "2022-07-08 06:15:56",
       "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
       },
       "artists": [
         {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+    },
+    {
+      "added_at": "2022-07-08 06:15:56",
+      "album": {
+        "name": "Lucid Dream (feat. MNZU)",
+        "url": "https://open.spotify.com/album/5eRzpXBXvklSf1LucQJxdA"
+      },
+      "artists": [
+        {
+          "name": "Camtono",
+          "url": "https://open.spotify.com/artist/6hZ5K83wnSmPDM4R3iGF9s"
+        },
+        {
+          "name": "MNZU",
+          "url": "https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Lucid Dream (feat. MNZU)",
+      "url": "https://open.spotify.com/track/6lJUvqmdG1jt1y3nWT9Exh"
     },
     {
       "added_at": "2022-07-08 06:15:56",
@@ -723,22 +707,18 @@
     {
       "added_at": "2022-07-08 06:15:56",
       "album": {
-        "name": "My First June",
-        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
+        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
+        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
       },
       "artists": [
         {
-          "name": "JUNIEL",
-          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
-        },
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+          "name": "Yun DDanDDan",
+          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
         }
       ],
-      "duration_ms": 230661,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
+      "duration_ms": 191625,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
     },
     {
       "added_at": "2022-07-08 06:15:56",
@@ -755,6 +735,26 @@
       "duration_ms": 196813,
       "name": "Full of You",
       "url": "https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH"
+    },
+    {
+      "added_at": "2022-07-08 06:15:56",
+      "album": {
+        "name": "My First June",
+        "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
+      },
+      "artists": [
+        {
+          "name": "JUNIEL",
+          "url": "https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6"
+        },
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        }
+      ],
+      "duration_ms": 230661,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4EIJ8e7f0104nDFFVhWg0x"
     },
     {
       "added_at": "2022-07-08 06:15:56",

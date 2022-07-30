@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 116547,
+  "num_followers": 116577,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTU2NywwMDAwMDAwMDM2Yzc5NzQ0NzAxZjY1ZjgwNWZhYTZiZGZjZGM4OTI3",
+  "snapshot_id": "MTY1OTA0NTU2NywwMDAwMDAwMGE4OTFmMDFhZjBlNjVlNTVhMWUwNTRlNWMyMjM3NTkw",
   "tracks": [
     {
       "added_at": "2022-07-28 21:59:27",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "BRAND NEW BITCH",
         "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Bluffin",
-        "url": "https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw"
-      },
-      "artists": [
-        {
-          "name": "LIAMOO",
-          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
-        }
-      ],
-      "duration_ms": 179603,
-      "name": "Bluffin",
-      "url": "https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "N\u00e4r jag blundar",
         "url": "https://open.spotify.com/album/2UGIBJF3nSMbJMNRoyMdRj"
       },
@@ -643,38 +643,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "MOTY",
-        "url": "https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij"
+        "name": "Bluffin",
+        "url": "https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "LIAMOO",
+          "url": "https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br"
         }
       ],
-      "duration_ms": 157326,
-      "name": "WINNER (feat. A36)",
-      "url": "https://open.spotify.com/track/5AD8MIkzQNY9WPlEyBZtke"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "Jag forts\u00e4tter gl\u00f6mma",
-        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Aniara",
-      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
+      "duration_ms": 179603,
+      "name": "Bluffin",
+      "url": "https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -699,22 +679,22 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "about you",
-        "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
+        "name": "MOTY",
+        "url": "https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij"
       },
       "artists": [
         {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         },
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 167068,
-      "name": "about you",
-      "url": "https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2"
+      "duration_ms": 157326,
+      "name": "WINNER (feat. A36)",
+      "url": "https://open.spotify.com/track/5AD8MIkzQNY9WPlEyBZtke"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -739,6 +719,26 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "about you",
+        "url": "https://open.spotify.com/album/1XEwApeQfsu29aMeXHHuYe"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 167068,
+      "name": "about you",
+      "url": "https://open.spotify.com/track/0Vzrki9UXx6emkXnhNKvG2"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "MER",
         "url": "https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 153987,
       "name": "MER",
       "url": "https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Jag forts\u00e4tter gl\u00f6mma",
+        "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Aniara",
+      "url": "https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -891,6 +907,22 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
+        "name": "Lyckligt slut",
+        "url": "https://open.spotify.com/album/5v523vH6jETswE88qO1I79"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 183406,
+      "name": "Lyckligt slut",
+      "url": "https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
         "name": "Till slutet av augusti (Live fr\u00e5n Benjamin's)",
         "url": "https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "Lyckligt slut",
-        "url": "https://open.spotify.com/album/5v523vH6jETswE88qO1I79"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
-        }
-      ],
-      "duration_ms": 183406,
-      "name": "Lyckligt slut",
-      "url": "https://open.spotify.com/track/3hWx0kVkf9NGvsSAVJTztH"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -955,22 +971,6 @@
       "duration_ms": 202972,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Sk\u00e5l",
-        "url": "https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W"
-      },
-      "artists": [
-        {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Sk\u00e5l",
-      "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Belly Shots",
         "url": "https://open.spotify.com/album/6H1RcenTQD6kd35jhbO25i"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 155520,
       "name": "Belly Shots",
       "url": "https://open.spotify.com/track/6pXeSXCMHOIQBdl5BYHcG8"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Sk\u00e5l",
+        "url": "https://open.spotify.com/album/2U56u39r3FrTJkhdBthB8W"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Sk\u00e5l",
+      "url": "https://open.spotify.com/track/0d53D9YtdbRErx5b94XNpm"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "HARD",
-        "url": "https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 158285,
-      "name": "Cool Me Down",
-      "url": "https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "P\u00e5 l\u00e5tsas",
         "url": "https://open.spotify.com/album/4wC5w2OOBNksd8k7uhPmG1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 239678,
       "name": "P\u00e5 l\u00e5tsas",
       "url": "https://open.spotify.com/track/0APTVcLFgMI85RIIpX0h0P"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "HARD",
+        "url": "https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 158285,
+      "name": "Cool Me Down",
+      "url": "https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "PS jag hatar dig",
-        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Avundsjuk p\u00e5 regnet",
-      "url": "https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Cause In The End You Know That Everybody Dies",
         "url": "https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213289,
       "name": "Cause In The End You Know That Everybody Dies",
       "url": "https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "PS jag hatar dig",
+        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Avundsjuk p\u00e5 regnet",
+      "url": "https://open.spotify.com/track/08jUQzPgECVJW9eQDHOiz7"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Dr\u00e4nker mina tankar",
-        "url": "https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182798,
-      "name": "Dr\u00e4nker mina tankar",
-      "url": "https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Gold Rush",
         "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 284970,
       "name": "Gold Rush",
       "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Dr\u00e4nker mina tankar",
+        "url": "https://open.spotify.com/album/46Z7Ia77aU9iT95eQjaewX"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182798,
+      "name": "Dr\u00e4nker mina tankar",
+      "url": "https://open.spotify.com/track/22wxsQjzxWHm5LBGP2AM9Q"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Vad har du gjort",
-        "url": "https://open.spotify.com/album/6IIPIjFlZXZGJ4tMLSdGmz"
-      },
-      "artists": [
-        {
-          "name": "HON",
-          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "Vad har du gjort",
-      "url": "https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj"
-    },
-    {
-      "added_at": "2022-07-28 21:59:27",
-      "album": {
         "name": "Missaoui",
         "url": "https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 283626,
       "name": "Landet i fj\u00e4rran",
       "url": "https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw"
+    },
+    {
+      "added_at": "2022-07-28 21:59:27",
+      "album": {
+        "name": "Vad har du gjort",
+        "url": "https://open.spotify.com/album/6IIPIjFlZXZGJ4tMLSdGmz"
+      },
+      "artists": [
+        {
+          "name": "HON",
+          "url": "https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "Vad har du gjort",
+      "url": "https://open.spotify.com/track/222DxaxvpiumRDT0xVM6Vj"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Jag Lovar",
-        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
+        "name": "Isabelle",
+        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
       },
       "artists": [
         {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Jag Lovar",
-      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
+      "duration_ms": 215818,
+      "name": "Isabelle",
+      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
     },
     {
       "added_at": "2022-07-28 21:59:27",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-07-28 21:59:27",
       "album": {
-        "name": "Isabelle",
-        "url": "https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P"
+        "name": "Jag Lovar",
+        "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
         }
       ],
-      "duration_ms": 215818,
-      "name": "Isabelle",
-      "url": "https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv"
+      "duration_ms": 168750,
+      "name": "Jag Lovar",
+      "url": "https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i"
     }
   ],
   "unique_name": "Made in Sweden",

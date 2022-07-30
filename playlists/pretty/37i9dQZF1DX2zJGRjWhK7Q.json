@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 137122,
+  "num_followers": 137188,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGQ4YTA4M2E3ZGNlZjNhM2M1YmRlNzg4OTViY2Q0Y2Ji",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGY0NmI3OTBiYjY0MDE3NjViYWJkNWY0YTYwNTE5MWZi",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/0uGdFy3Gujx8h93HkCFWFf"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 295206,
-      "name": "Qu\u00e9 Pena",
-      "url": "https://open.spotify.com/track/6afQURuED4PRXcA8IGoSx4"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Que Gente Averigu\u00e1",
         "url": "https://open.spotify.com/album/4KRlouVARmSvhS97Q68IBY"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 177680,
       "name": "Lluvia con Nieve",
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/0uGdFy3Gujx8h93HkCFWFf"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 295206,
+      "name": "Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/6afQURuED4PRXcA8IGoSx4"
     },
     {
       "added_at": "2022-02-18 16:03:15",

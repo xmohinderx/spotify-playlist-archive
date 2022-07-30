@@ -3612,6 +3612,28 @@
     },
     {
       "album": {
+        "name": "INTO MY ARMS",
+        "url": "https://open.spotify.com/album/6ZYPZJdWbJrCrCD0wTzM6t"
+      },
+      "artists": [
+        {
+          "name": "Emma Hewitt",
+          "url": "https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8"
+        },
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "INTO MY ARMS",
+      "url": "https://open.spotify.com/track/7MKJv10BVcfkZSJZzOmtvI"
+    },
+    {
+      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy"
       },
@@ -7749,7 +7771,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 202285,
       "name": "The Essence",
       "url": "https://open.spotify.com/track/7J3WG5xqQoCl1nFsz7SR5i"
@@ -7811,7 +7833,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 193908,
       "name": "The New Megara",
       "url": "https://open.spotify.com/track/2FIwjTjcCuPIK2GjTxmghN"
@@ -8475,7 +8497,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 281142,
       "name": "When Darkness Comes",
       "url": "https://open.spotify.com/track/7saRdP4N7PG6a38pI2Hpo9"

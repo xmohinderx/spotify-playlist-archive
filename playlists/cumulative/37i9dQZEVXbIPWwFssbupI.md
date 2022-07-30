@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-888 songs - 1 day 23 hr 53 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+889 songs - 1 day 23 hr 56 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-22 | 2022-03-21 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-03-20 |  |
 | [La faux le fer](https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:26 | 2022-02-05 | 2022-02-19 |
-| [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2021-04-04 |  |
+| [La kiffance](https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:59 | 2021-04-04 | 2022-07-30 |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2021-03-27\* | 2021-04-04 |
 | [La loi du plus fort](https://open.spotify.com/track/6B8weBKcdSVs3LbS8E6Yeb) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 2:43 | 2022-06-11 | 2022-06-16 |
 | [La maison que je voulais](https://open.spotify.com/track/6xVRI3rGcsgi8ZCfdf90Oe) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:41 | 2021-12-05 | 2022-01-08 |
@@ -451,6 +451,7 @@
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |
 | [Lampadaire, Pt\. 2](https://open.spotify.com/track/2cPgZizcWA8NkBTnXv68gL) | [Osirus Jack](https://open.spotify.com/artist/3p6dh3Zn4fVXJatMy3Xqzq), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Nouvelle Ère](https://open.spotify.com/album/3oQyml9risLFydUdMy9Ixf) | 3:26 | 2022-02-23 | 2022-02-25 |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2021-12-20 | 2021-12-27 |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-07-29 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-26 |
 | [Lauiss](https://open.spotify.com/track/3d3ww7Pv7gGcKSAyPMpHbp) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 3:02 | 2021-11-14 | 2021-11-19 |
 | [Le billet](https://open.spotify.com/track/731JjfIII1qYfeatc3zhtU) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité](https://open.spotify.com/album/6OEcAAYlKxyYOHOK5h96Px) | 2:35 | 2021-07-16 | 2021-07-18 |

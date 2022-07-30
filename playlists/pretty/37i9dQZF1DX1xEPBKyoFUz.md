@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Yooo this is <a href="https://www.instagram.com/kaysan/?hl=en">FaZe Kaysan</a>, while I game, this is what I'm listening to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,785 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,856 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

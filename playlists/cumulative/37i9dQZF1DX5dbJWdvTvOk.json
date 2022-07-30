@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Manh\u00e3 de Carnaval",
+        "url": "https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232870,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1"
+    },
+    {
+      "album": {
         "name": "Mare",
         "url": "https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy"
       },

@@ -4,7 +4,7 @@
 
 > Novidades e destaques do indie nacional\. Foto: Lou Garcia
 
-237 songs - 13 hr 36 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
+238 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [O Palhaço](https://open.spotify.com/track/1YDEW8R55VUbx0NmNB0y5u) | [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [O Palhaço](https://open.spotify.com/album/42q2NlFRAL4jao2SeSE0uQ) | 4:43 | 2022-07-15 |  |
 | [O Psicopata](https://open.spotify.com/track/7nMOiydlrXngDKZ1KXjxnA) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [O Psicopata](https://open.spotify.com/album/6N9EiImMR3VxArvmNGCtPh) | 3:04 | 2022-01-14 | 2022-03-18 |
 | [O que devia ser](https://open.spotify.com/track/1Job3TZZQ6vsF2DopblZ5t) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [O outro lado do rio](https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C) | 3:25 | 2022-06-10 |  |
+| [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [O Que Eu Vou Levar Quando Eu For](https://open.spotify.com/album/2eqjBo30J652ViNP9QXpou) | 3:59 | 2022-07-29 |  |
 | [O Que É](https://open.spotify.com/track/7k5BUux0pDo8OtRH2YHnK7) | [LAZÚLI](https://open.spotify.com/artist/5IilR9x7kwVvC9MkAnprVP), [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [O Que É](https://open.spotify.com/album/50paoVozSUVrqInbWnl3mk) | 3:53 | 2022-03-11 | 2022-03-26 |
 | [O Seu Amor](https://open.spotify.com/track/1zwyRV5lzk7EdmVa9rR6tN) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt), [Tatá Aeroplano](https://open.spotify.com/artist/78zrcYeAIou4XXyCyc7r8U) | [O Seu Amor](https://open.spotify.com/album/65ojqlctQXLh8xDyuq1Mq6) | 4:17 | 2022-05-06 | 2022-05-20 |
 | [O Som Dos Golfinhos](https://open.spotify.com/track/5W0m2UCowu8lY8anIFQHyO) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Self](https://open.spotify.com/album/6KOuaiicX4JZwEf20FWGuK) | 4:53 | 2022-05-13 | 2022-07-23 |

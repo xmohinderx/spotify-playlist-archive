@@ -2354,6 +2354,24 @@
     },
     {
       "album": {
+        "name": "REAL U",
+        "url": "https://open.spotify.com/album/1SkiWJuQFETQaarWcCZTqh"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "REAL U",
+      "url": "https://open.spotify.com/track/2JypeIwdyi8h4nPDQW37XZ"
+    },
+    {
+      "album": {
         "name": "Restart?",
         "url": "https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h"
       },

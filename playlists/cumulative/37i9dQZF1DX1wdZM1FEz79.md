@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover:  MRT\(마리탱\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-393 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
+394 songs - 23 hr 36 min - [published](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Hotels on the moon](https://open.spotify.com/track/39coYcIduCaqxFzq3LDYt3) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [citygodok](https://open.spotify.com/artist/61oCeImNWjf4x7hWo5NWEr) | [STORY\#20](https://open.spotify.com/album/5uelqrTP8JFBoweWwPY4tv) | 2:35 | 2022-06-18 | 2022-07-05 |
 | [how do i](https://open.spotify.com/track/0RNXXh47lufWmSro2CbsQh) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [bandages](https://open.spotify.com/album/1UZLvFGY6S1xSZJ8wnhnZW) | 3:34 | 2021-12-10 | 2022-07-28 |
 | [How Is Your Night](https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC) | 4:23 | 2021-12-10 | 2022-07-29 |
-| [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 |  |
+| [How's your night](https://open.spotify.com/track/6ZlU1n8Hqh38ZU4NmzsDJ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [O\_ne](https://open.spotify.com/album/6rC5u5pmmC6S0rL0twg80C) | 4:23 | 2022-07-08 | 2022-07-30 |
 | [Hug me](https://open.spotify.com/track/089QvCGproM6tZgdaszIBO) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Tempted OST Part.1](https://open.spotify.com/album/3MxpfwmQ1V40w1EGUetqWo) | 3:39 | 2022-03-31 | 2022-04-11 |
 | [I guess it's like this](https://open.spotify.com/track/4qWNdhJCqHZUwis42ugD66) | [E Z Hyoung](https://open.spotify.com/artist/4vMoealzfru4Q1WOmi0aVs) | [I guess it's like this](https://open.spotify.com/album/3b5t5JOqloKBosUjcmfwbx) | 4:37 | 2022-02-10 | 2022-07-03 |
 | [I know](https://open.spotify.com/track/64EESXEXKE7Tn664PvTXR3) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [From\. Ants](https://open.spotify.com/album/0iRidimS5YNDgVCNYi44Ll) | 3:41 | 2022-03-31 | 2022-04-17 |
@@ -148,6 +148,7 @@
 | [I Wanna Fall in Love](https://open.spotify.com/track/1SitWmav8K9bEn1f23anqO) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 5:05 | 2022-04-12 | 2022-04-15 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [I Want to Be A Pillow](https://open.spotify.com/track/0p2Rh63rx8xbxVPwol2EmA) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_i?](https://open.spotify.com/album/72uhm3L8qHUsKHneApbolo) | 3:43 | 2021-12-10 | 2022-07-29 |
+| [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 | 2022-07-08 |  |
 | [I Will Remember](https://open.spotify.com/track/2FV04bwFqfJyOLDZL2vx7C) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Five Love Stories](https://open.spotify.com/album/7lBSwclU4wPfktweIkfQxH) | 3:08 | 2022-03-31 | 2022-04-07 |
 | [I Wonder](https://open.spotify.com/track/0WLjUv41NxxFZnNnn0Ra9W) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49) | [Let's Eat! 3 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/535nRzc7dhjietZuqgHfQr) | 3:39 | 2021-12-10 | 2022-05-31 |
 | [I Wonder \(PROD\. Joombas\)](https://open.spotify.com/track/2d1WKw2q9z7CwwqwQGxXYC) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [ANOTHER](https://open.spotify.com/album/1x45vQjY21GuaouM2BA9xq) | 3:24 | 2022-03-31 | 2022-04-21 |

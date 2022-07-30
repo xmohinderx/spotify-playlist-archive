@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Dayglow
 
-1,311 songs - 2 day 20 hr 50 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,312 songs - 2 day 20 hr 54 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,7 +737,7 @@
 | [Make You Mine](https://open.spotify.com/track/6E6DXpiRT7ZgQzdYlBjWd4) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex), [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Make You Mine](https://open.spotify.com/album/5gGh7FZcnDw316kTGP0iYO) | 3:44 | 2020-10-20 | 2020-10-21 |
 | [Makes Me Happy](https://open.spotify.com/track/6doD2ZsNXzxHNXag1BAAuY) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Makes Me Happy](https://open.spotify.com/album/0GeVuYV8Dy2pTHpuDR3IH0) | 2:52 | 2022-01-28 | 2022-07-26 |
 | [Malibu 1992](https://open.spotify.com/track/0nMqu5vN44GNv8UOQxmBJK) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 5:41 | 2022-01-18 | 2022-02-26 |
-| [malibu.](https://open.spotify.com/track/3LRQtyho3Sgn6tCCu1WKT0) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [malibu.](https://open.spotify.com/album/1gqX69tDVdC04HlhMEWG4p) | 3:20 | 2022-06-17 |  |
+| [malibu.](https://open.spotify.com/track/3LRQtyho3Sgn6tCCu1WKT0) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [malibu.](https://open.spotify.com/album/1gqX69tDVdC04HlhMEWG4p) | 3:20 | 2022-06-17 | 2022-07-30 |
 | [Malleable](https://open.spotify.com/track/5RpZBENYCjZE7t9M823v0S) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [Malleable](https://open.spotify.com/album/6m0ibc9oEx9tiYhbk7D4sA) | 2:48 | 2020-10-20 | 2020-10-21 |
 | [Man's World](https://open.spotify.com/track/2XWusA74Rg68E23sVOfBlK) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Man's World](https://open.spotify.com/album/5T2DJctibP8AE17HzWpglf) | 3:27 | 2020-11-20 | 2022-04-14 |
 | [Maniac](https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Maniac](https://open.spotify.com/album/4x1U4pmSekLejbWCRI0SES) | 3:05 | 2020-10-20 | 2022-04-16 |
@@ -900,6 +900,7 @@
 | [Party Killer](https://open.spotify.com/track/5Oz0i2ZpudFTlDO6Xym8za) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Party Killer](https://open.spotify.com/album/1IM50oY0PAFOv9BKGbqskQ) | 3:00 | 2021-03-20 | 2021-03-22 |
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-01-23 | 2021-05-20 |
+| [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 | 2022-07-22 |  |
 | [Patience Etc...](https://open.spotify.com/track/0beASpqOl0WWQOfsYZAgGC) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Patience Etc...](https://open.spotify.com/album/682COg3eFbuAfOBQJmwnAE) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [PDA](https://open.spotify.com/track/4R8M7LBaiGPR77dYRMJJlI) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PDA](https://open.spotify.com/album/1yyjVQNw4bUrVQgEzcE1A9) | 3:27 | 2021-05-03 | 2021-05-04 |
 | [Peace at Last](https://open.spotify.com/track/6V7InIBxmOYYRrm6nXn5sh) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH), [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Peace at Last](https://open.spotify.com/album/2wVTZvXcNf9BPlhebXOFVx) | 3:09 | 2021-02-09 | 2021-10-23 |

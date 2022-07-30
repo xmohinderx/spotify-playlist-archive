@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Sexy Pigeon.",
+  "description": "como en una nube. Bedroom pop vibes featuring Cuco.",
   "name": "\u2728 dreamy \u2728",
   "published_playlist_ids": [
     "5bz3k8QNNTUrWUgar676qo"
@@ -1814,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Pens\u00e1ndote",
+        "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
+    },
+    {
+      "album": {
         "name": "Perdernos de Vista",
         "url": "https://open.spotify.com/album/0wOlQ0jWhdrvoXAH4CWBDi"
       },
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 193168,
       "name": "Taba",
       "url": "https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE"

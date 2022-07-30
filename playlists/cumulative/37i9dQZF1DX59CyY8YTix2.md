@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: BiSH
 
-511 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+512 songs - 1 day 9 hr 2 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [music](https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [music](https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8) | 3:41 | 2022-05-31 | 2022-07-29 |
 | [Myself](https://open.spotify.com/track/6goPRfxzG4tcPXOf0xcp9w) | [POLTA](https://open.spotify.com/artist/7AcpgsXKOWvTvlYmEJlw6X) | [Myself](https://open.spotify.com/album/7jAjFZgPDcFSvibxfCTSGp) | 3:21 | 2022-06-07 | 2022-07-15 |
 | [No kidding!](https://open.spotify.com/track/4XXGl9kXNXGIOexdZpL9MK) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [No kidding!](https://open.spotify.com/album/2hNCne7EoaNLmj2KOpM4La) | 2:14 | 2022-06-02 | 2022-07-24 |
+| [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-07-28 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-05-31 |  |
 | [No, Thank U](https://open.spotify.com/track/5gOkgP1Bdg6AdZFYagNdZS) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [No, Thank U](https://open.spotify.com/album/5sEKAAsvOt4LRS60O3JvgS) | 3:33 | 2022-05-26 | 2022-07-01 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 |  |
@@ -226,7 +227,7 @@
 | [ごめんね](https://open.spotify.com/track/3ujCFbWxwPlBC38wWs7RwG) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [ごめんね](https://open.spotify.com/album/1mlsMXy4248svkgxxFZDPq) | 4:20 | 2022-07-14 | 2022-07-26 |
 | [さすらひ](https://open.spotify.com/track/0hR6jPWCZi22AzRDXuSWtR) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [さすらひ](https://open.spotify.com/album/72ndq1YryxC2k9XqVKFfO4) | 4:55 | 2022-06-14 | 2022-07-25 |
 | [さめない](https://open.spotify.com/track/4DiWUQimg8idoDS54FFpoN) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [さめない](https://open.spotify.com/album/7vxLGTmZPdXxFKGQx2MEQd) | 4:37 | 2022-07-05 | 2022-07-07 |
-| [ずっとずっとずっと](https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ずっとずっとずっと](https://open.spotify.com/album/0M301Q5tEcjOINfUsJGiyo) | 3:48 | 2022-07-28 |  |
+| [ずっとずっとずっと](https://open.spotify.com/track/2He9deEfdXYWxnTUi0oOb0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ずっとずっとずっと](https://open.spotify.com/album/0M301Q5tEcjOINfUsJGiyo) | 3:48 | 2022-07-28 | 2022-07-30 |
 | [そうでもない](https://open.spotify.com/track/4svOEHaaMeRCntdV57WpNL) | [ayutthaya](https://open.spotify.com/artist/0rTubhDFni3uMrx2nSK9WG) | [そうでもない](https://open.spotify.com/album/17FJ746taJ3sAEHwhMGDXA) | 3:18 | 2022-06-07 | 2022-07-20 |
 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 | 2022-07-28 |  |
 | [たそがれは空](https://open.spotify.com/track/6M3nhBKOnP3bCFQCXWQNZn) | [地球から2ミリ浮いてる人たち](https://open.spotify.com/artist/4KjgDrlQ5okGyYFrDe0xWn) | [たそがれは空](https://open.spotify.com/album/5e6g2ad5EcMVQB4weArTbC) | 4:03 | 2022-05-26 | 2022-07-13 |

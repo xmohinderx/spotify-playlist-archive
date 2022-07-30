@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring yunè pinku
+> ur on the list bb 🪐 featuring Shygirl
 
-325 songs - 19 hr 9 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+328 songs - 19 hr 18 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1999 She](https://open.spotify.com/track/6hwYxvmMI0UflYGmDOXys9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:46 | 2022-01-07 | 2022-07-27 |
 | [4EVR](https://open.spotify.com/track/7vmZoz2eLrumizTBsfkCVn) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR), [nonexx](https://open.spotify.com/artist/1pY5dDb3CsTuPC9QwfpRbO) | [4EVR](https://open.spotify.com/album/2tkmTUucbpt0tO8RD1wcZR) | 2:34 | 2022-07-11 |  |
 | [4ÆM](https://open.spotify.com/track/5deLCvXuDrTOTV7XiJuO8Z) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Rave Edition\)](https://open.spotify.com/album/5CQbuEmt9rY7yS2xPiXxw7) | 4:30 | 2022-01-21 | 2022-06-04 |
+| [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 | 2022-07-29 |  |
 | [58bethe7](https://open.spotify.com/track/4AoY7FQ1IbsFvacBPTMEwg) | [Cocktail Party Effect](https://open.spotify.com/artist/4QJ9l39vFGrG8dtJzOp3Zb) | [SNKRX010](https://open.spotify.com/album/26BKHxppgBzptm8xav2tdy) | 3:53 | 2022-07-26 |  |
 | [A Gem so Precious](https://open.spotify.com/track/1p5GwLa7kNtEITi0RO9LYE) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [A Gem so Precious](https://open.spotify.com/album/0chp3Z6ScRddwE4zG9Ryg5) | 4:52 | 2022-05-06 |  |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2021-10-18 | 2022-01-29 |
@@ -73,7 +74,7 @@
 | [complicated](https://open.spotify.com/track/2rJ2A9yjpqNQowZFvkJl8h) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [complicated](https://open.spotify.com/album/3cs1EKFpp7lQ73A6JfERLR) | 1:58 | 2022-01-07 | 2022-01-29 |
 | [conscience!!](https://open.spotify.com/track/18d7ElSn83SUH9X8MG5S0T) | [1kaze1](https://open.spotify.com/artist/5gJHOJtsAqjnKeLLiIW0IK) | [dig1w0rld](https://open.spotify.com/album/4qh7uYeqq5TKsrm3Z1QMbc) | 2:47 | 2022-04-08 | 2022-05-14 |
 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 | 2022-07-21 |  |
-| [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 | 2022-03-18 |  |
+| [CORRUPTED FILES](https://open.spotify.com/track/0g7usKY3CtS4pLu4vpgYRa) | [Star Trash](https://open.spotify.com/artist/20xOKqre5bLC5w9OjoHCln) | [CORRUPTED FILES](https://open.spotify.com/album/2zv3UByXWQct6yqddmtb8x) | 3:23 | 2022-03-18 | 2022-07-30 |
 | [crazy4u!](https://open.spotify.com/track/6Gk4qs4VrUjxDMCmuQbEgQ) | [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [crazy4u!](https://open.spotify.com/album/6bnON6CC4EYZfrHA48ZUEw) | 3:19 | 2022-02-18 | 2022-06-26 |
 | [creation](https://open.spotify.com/track/0h64WdJ2JNMLgSh2M9ymEF) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [creation](https://open.spotify.com/album/2swnQoFyWwoqcUT9kVez5P) | 2:03 | 2021-11-12 | 2022-03-05 |
 | [crush](https://open.spotify.com/track/6kLhilDX44nCibecCJldjP) | [Planet 1999](https://open.spotify.com/artist/0aoBUiGI5wrK7DOWJAzAKe) | [crush](https://open.spotify.com/album/4fq2gOSbxepdB6R0mvviv4) | 2:28 | 2022-04-01 | 2022-06-04 |
@@ -81,6 +82,7 @@
 | [Cyber Psyche Green](https://open.spotify.com/track/3sWCW2ea1ZP3txLxJHElTO) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Serial Experiments PAIN](https://open.spotify.com/album/3Aw7WuGG8Xff2jiCbNZpkH) | 2:19 | 2022-02-04 | 2022-06-18 |
 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 | 2021-11-26 | 2022-02-12 |
 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 | 2022-02-11 | 2022-06-04 |
+| [Daydream](https://open.spotify.com/track/4T3VWXlsa1feVAXyDE5V4f) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Daydream](https://open.spotify.com/album/41CodDANPLmQrst12l1MAI) | 3:51 | 2022-07-29 |  |
 | [DC Rot](https://open.spotify.com/track/5emrpSNSDbKe6HotCObSFp) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [DC Rot](https://open.spotify.com/album/5Zw9BHZt7DpvjHpG1xYFOR) | 4:02 | 2022-03-17 | 2022-06-04 |
 | [deAth2Wings](https://open.spotify.com/track/3gDkbsRoHqJpQcDxdy3Hi8) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [deAth2Wings](https://open.spotify.com/album/4j5spNjco82Gq32pJ0HN0N) | 1:51 | 2022-03-18 | 2022-04-16 |
 | [Deja Vu](https://open.spotify.com/track/10VdI9qiNjzM9Zh7p06UhW) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism \- EP](https://open.spotify.com/album/3k9FBTWLgUyzTrhkZSUwEI) | 4:32 | 2021-08-13 | 2022-03-12 |
@@ -111,7 +113,7 @@
 | [Feelz](https://open.spotify.com/track/0VdAEOYJArco0x51z6CKXD) | [Bartholomew Kind](https://open.spotify.com/artist/7da7ejb5ArwzmbnYQEsYF9) | [Breaks 'N' Pieces, Vol\. 7](https://open.spotify.com/album/40dKnnp0vh8dZWwbBLRusW) | 4:48 | 2021-07-23 | 2022-04-16 |
 | [Figure Skating](https://open.spotify.com/track/0iaReV5NHq9PM7fjWbGZI5) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Figure Skating](https://open.spotify.com/album/6cfH1gHutajmKzQPs6JldU) | 3:33 | 2022-02-23 | 2022-06-04 |
 | [FINAL FANTASY](https://open.spotify.com/track/2219puT2YzNNVEQ784V2jt) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [FINAL FANTASY](https://open.spotify.com/album/4WT8C9oQL30AL93yM5apdx) | 2:29 | 2022-04-27 | 2022-07-23 |
-| [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 | 2022-05-06 |  |
+| [Final Notice](https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Final Notice](https://open.spotify.com/album/4oJ8uRTGb6RXlyyTx5W3aW) | 2:59 | 2022-05-06 | 2022-07-30 |
 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 | 2022-02-09 |  |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-13 | 2022-07-23 |
 | [First Blue Sky](https://open.spotify.com/track/6uCQ5RscJkTgS5sC9Dba7L) | [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX) | [First Blue Sky](https://open.spotify.com/album/6bSCOFhuRmg0idv0QM5J1k) | 5:09 | 2021-10-05 | 2022-05-14 |
@@ -223,12 +225,13 @@
 | [No Negativity](https://open.spotify.com/track/0djwC4Bj52JrJqtwbxtdyq) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Pesolife](https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT) | [No Negativity](https://open.spotify.com/album/6VATXrvcessPvEUsY7RvOx) | 3:06 | 2022-07-22 |  |
 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 | 2022-07-15 |  |
 | [ode to girlhood](https://open.spotify.com/track/1L5Za6GWzAqJTlTC2wYf9N) | [klurax](https://open.spotify.com/artist/74CONfALMyKd8tbE0yiMT8) | [ode to girlhood](https://open.spotify.com/album/1BY16stCGBI3NSVivqRiXX) | 3:18 | 2021-08-25 | 2022-02-24 |
+| [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 |  |
 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 | 2021-07-23 | 2022-02-19 |
 | [On Your Side \- Stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(Stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-07-30 | 2022-02-26 |
 | [One Night in North Glasgow](https://open.spotify.com/track/495G6HU8agMEPjNKycw9AD) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Met Her at Bäreneck](https://open.spotify.com/album/5rkxbByPKYXQjHPF2wpCTs) | 5:37 | 2022-04-15 | 2022-06-04 |
 | [ONLINE INDUCED HIGH](https://open.spotify.com/track/2jqYdQrmCCTB0TvbNi7hRq) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [ONLINE INDUCED HIGH](https://open.spotify.com/album/6m1DrsZGFlUp2B6WxY4rZh) | 2:18 | 2022-07-11 |  |
 | [out of the blue](https://open.spotify.com/track/1L6Pp0BJ5fuSUOpQOoFE5a) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [out of the blue](https://open.spotify.com/album/5OagZb7d6hBfIqfVji39wD) | 2:48 | 2022-06-03 |  |
-| [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 | 2022-02-11 |  |
+| [Past Time](https://open.spotify.com/track/229jCyeEeAZazw6Q2Ev8hA) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Past Time](https://open.spotify.com/album/6YRT6QgneqPW6wsAAO5ZS9) | 5:40 | 2022-02-11 | 2022-07-30 |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-05 | 2022-03-07 |
 | [Piece of Me \- salute Remix](https://open.spotify.com/track/61QFm5wxcUkfETCPIBIPiS) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Piece of Me \(salute Remix\)](https://open.spotify.com/album/0PdLhYfpgNgXGXQ1xUOSgz) | 3:18 | 2021-10-15 | 2022-03-12 |
 | [planet1995](https://open.spotify.com/track/3Jh6eYEVu0H0fxZCrihisA) | [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [planet1995](https://open.spotify.com/album/4fuy1NdmPV4DlnMeVeEtIK) | 3:48 | 2022-01-07 | 2022-06-04 |

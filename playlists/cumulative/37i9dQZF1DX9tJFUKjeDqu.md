@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-76 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
+78 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/3w5oWJqeLcaobZU8By1wyO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Marje's Melody](https://open.spotify.com/track/3ZewawA5h2yP6RvhWlBdFq) | [Ronnie Earl & The Broadcasters](https://open.spotify.com/artist/66YrJYZbRNlji0MisS2D1I) | [Good News](https://open.spotify.com/album/00gjkhEHHnrATP8ORz4C2G) | 6:45 | 2022-04-15 | 2022-07-29 |
 | [Marje's Melody](https://open.spotify.com/track/36SpII7Y7MzXhuQe5Xu097) | [Ronnie EarlThe Broadcasters](https://open.spotify.com/artist/3VVi9veMLqjWga7RdkMgfF) | [Good News](https://open.spotify.com/album/1uo4N24D2tEdt0G3IgBm63) | 6:45 | 2022-07-08 |  |
 | [Monument Valley](https://open.spotify.com/track/4nAkPawzPeuy6V5h3ML8Ks) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Mississippi Boy](https://open.spotify.com/album/1GkkGdsXQIhDAzxmJjyoA2) | 2:33 | 2022-04-15 |  |
+| [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 |  |
 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 | 2022-04-15 |  |
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
@@ -65,6 +66,7 @@
 | [Red Dirt](https://open.spotify.com/track/3z1rYUvrX29vA2thDTTNBs) | [Torbjörn Sörenson](https://open.spotify.com/artist/6hy4IkbbvbRXoXREwZpw4i) | [Red Dirt](https://open.spotify.com/album/1wByxDUH6YkilEPLyvTt3G) | 4:29 | 2022-04-15 |  |
 | [Rememberin' Stevie](https://open.spotify.com/track/2x6sAQFBhY5eqp0yqA0vBD) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Buddy's Baddest: The Best Of Buddy Guy](https://open.spotify.com/album/4dzFJPnPuJT2gjZNfkYkWO) | 6:59 | 2022-04-15 |  |
 | [Riviera Paradise](https://open.spotify.com/track/2Pv7Vi2OY2ZTsrZlqZ8k8A) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 8:50 | 2022-04-15 |  |
+| [Rope Hill](https://open.spotify.com/track/2zdoyrxAfhJcEHRmPW0mFk) | [The Realist](https://open.spotify.com/artist/4xvutMUL908zZKXnq32ObZ) | [The Heart of the Delta](https://open.spotify.com/album/7j8TZr0fXYCaxbjHLaLfQx) | 1:25 | 2022-07-29 |  |
 | [Sad but True](https://open.spotify.com/track/4naYwJluM8H8dNuwlCB0Qf) | [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Session Masters](https://open.spotify.com/album/6860zM9w6dmFEc8HVnV6Ih) | 5:47 | 2022-04-15 |  |
 | [Seven Thirty](https://open.spotify.com/track/1Zm60s0lcImDsXthozhDlr) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Odds Or Evens](https://open.spotify.com/album/5FisgSJmd2fDoCA1DZkP9I) | 6:26 | 2022-04-15 | 2022-07-29 |
 | [Seven Thirty](https://open.spotify.com/track/6gsAuXwrZTInqexF3IfGEh) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Odds Or Evens](https://open.spotify.com/album/2gb0BaQafMjAjZXHU8DEt2) | 6:26 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Megan Moroney, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,740 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,744 likes - 61 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 45 | [Every Beer Every Bar](https://open.spotify.com/track/66kkbT3TzR2SHGJNN2xFfR) | [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA), [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Every Beer Every Bar](https://open.spotify.com/album/1xpJh1XNYDywg4t8mGpS1F) | 3:10 |
 | 46 | [Who I Was \(Montana Memories\)](https://open.spotify.com/track/1LNuRZFxL0epxjq3JRrL4B) | [Cat Stone](https://open.spotify.com/artist/5rW38Fh10oQoc0ZUN3WlQi) | [Who I Was \(Montana Memories\)](https://open.spotify.com/album/0mnVHU4BdmS5QIEFiI398u) | 4:02 |
 | 47 | [Life of the After Party](https://open.spotify.com/track/3OCMSGZl0mKrfyLxslDWme) | [Graham Scott Fleming](https://open.spotify.com/artist/4Ao86ITnIcDbQjDEkQPjsm) | [Life of the After Party](https://open.spotify.com/album/0HHBYlWchMCMd5K9VuEfV8) | 3:11 |
-| 48 | [Cowboy Stay](https://open.spotify.com/track/4ektwEWFmKsJ5rULHKJfPu) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Cowboy Stay](https://open.spotify.com/album/2NxdmeKvsjFcUVEevFuFs5) | 2:38 |
-| 49 | [We Never Even Dated](https://open.spotify.com/track/0hyalcnfeqvAFG96ITJUlt) | [Ellen Sara](https://open.spotify.com/artist/3hnGJC7h6OAHMOiOt805oN) | [We Never Even Dated](https://open.spotify.com/album/6NdJUNwS5bXWVZ2YVEBnQw) | 2:47 |
-| 50 | [But That Summer](https://open.spotify.com/track/1z1fu8Amze33AZEbhOhRla) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [But That Summer \- EP](https://open.spotify.com/album/1x6iOxUXV0XFn25aVI1aaE) | 3:09 |
-| 51 | [History of Breaking Up](https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 3:28 |
-| 52 | [Truckin' Around](https://open.spotify.com/track/2nBy7nSZQBqvXW2zdTkwcS) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Truckin' Around](https://open.spotify.com/album/3QjRgV3OyLZ6sLnQ6hiWme) | 3:04 |
-| 53 | [Change Your Mind](https://open.spotify.com/track/017lGbiAwQpWNezpgXs857) | [Baylee Littrell](https://open.spotify.com/artist/2RY2F1PetbKRbJetwN8DRd) | [Change Your Mind](https://open.spotify.com/album/4YcvK5zZBzAa06iLuwuPEb) | 3:06 |
-| 54 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 |
-| 55 | [See You There](https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [See You There](https://open.spotify.com/album/0uuNqhVoi6GJnbi8VZIb3Y) | 3:01 |
-| 56 | [Two Way Street](https://open.spotify.com/track/5Gf8CtJbLkA3vwlkV6SvsY) | [Bree Jaxson](https://open.spotify.com/artist/5p9cWj6eyEHAVyBFuPO9CY) | [Two Way Street](https://open.spotify.com/album/4afr9IBHTGZvgDBhgSYeJ0) | 2:50 |
-| 57 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
-| 58 | [In the Middle](https://open.spotify.com/track/1MBucpp3aPhWo9M6BkHuU1) | [Loraine Moxham](https://open.spotify.com/artist/78JAJeiotbmn6obMkXEGrY) | [In the Middle](https://open.spotify.com/album/2kiMEiAeSyuym1YfWELjn1) | 3:43 |
-| 59 | [Some Horses](https://open.spotify.com/track/21xFRdEeoEq1CFq1benMgr) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Some Horses](https://open.spotify.com/album/6h5OIBQ6IOSYSzVYFplbuf) | 4:09 |
-| 60 | [If You Never Broke My Heart](https://open.spotify.com/track/7rwVlm5LhFTO8utknjR6Kt) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [If You Never Broke My Heart](https://open.spotify.com/album/6GpGV4UyrECTpu9MGFLblF) | 3:17 |
+| 48 | [Baby, Don't Lie](https://open.spotify.com/track/62vdrrDjIY7Kl6cqC5MNzF) | [The Beasley Brothers](https://open.spotify.com/artist/6Rke7NJJl79BUDgmevKnN5) | [Baby, Don't Lie](https://open.spotify.com/album/2PcA5YoFdx4KucoKZvywaK) | 3:15 |
+| 49 | [Cowboy Stay](https://open.spotify.com/track/4ektwEWFmKsJ5rULHKJfPu) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Cowboy Stay](https://open.spotify.com/album/2NxdmeKvsjFcUVEevFuFs5) | 2:38 |
+| 50 | [We Never Even Dated](https://open.spotify.com/track/0hyalcnfeqvAFG96ITJUlt) | [Ellen Sara](https://open.spotify.com/artist/3hnGJC7h6OAHMOiOt805oN) | [We Never Even Dated](https://open.spotify.com/album/6NdJUNwS5bXWVZ2YVEBnQw) | 2:47 |
+| 51 | [But That Summer](https://open.spotify.com/track/1z1fu8Amze33AZEbhOhRla) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [But That Summer \- EP](https://open.spotify.com/album/1x6iOxUXV0XFn25aVI1aaE) | 3:09 |
+| 52 | [History of Breaking Up](https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 3:28 |
+| 53 | [Truckin' Around](https://open.spotify.com/track/2nBy7nSZQBqvXW2zdTkwcS) | [Jordan James](https://open.spotify.com/artist/0qyWIv7Hdewfhqc1ozedrh) | [Truckin' Around](https://open.spotify.com/album/3QjRgV3OyLZ6sLnQ6hiWme) | 3:04 |
+| 54 | [Change Your Mind](https://open.spotify.com/track/017lGbiAwQpWNezpgXs857) | [Baylee Littrell](https://open.spotify.com/artist/2RY2F1PetbKRbJetwN8DRd) | [Change Your Mind](https://open.spotify.com/album/4YcvK5zZBzAa06iLuwuPEb) | 3:06 |
+| 55 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 |
+| 56 | [See You There](https://open.spotify.com/track/4Rq0NZOK37DF6m6YuKH3d8) | [Jessica Sevier](https://open.spotify.com/artist/7bEcIrpwBawp9YKL2MxLL2) | [See You There](https://open.spotify.com/album/0uuNqhVoi6GJnbi8VZIb3Y) | 3:01 |
+| 57 | [Two Way Street](https://open.spotify.com/track/5Gf8CtJbLkA3vwlkV6SvsY) | [Bree Jaxson](https://open.spotify.com/artist/5p9cWj6eyEHAVyBFuPO9CY) | [Two Way Street](https://open.spotify.com/album/4afr9IBHTGZvgDBhgSYeJ0) | 2:50 |
+| 58 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
+| 59 | [In the Middle](https://open.spotify.com/track/1MBucpp3aPhWo9M6BkHuU1) | [Loraine Moxham](https://open.spotify.com/artist/78JAJeiotbmn6obMkXEGrY) | [In the Middle](https://open.spotify.com/album/2kiMEiAeSyuym1YfWELjn1) | 3:43 |
+| 60 | [Some Horses](https://open.spotify.com/track/21xFRdEeoEq1CFq1benMgr) | [Stevenson Everett](https://open.spotify.com/artist/2VjaUsXjLqXvqNjLR08SyZ) | [Some Horses](https://open.spotify.com/album/6h5OIBQ6IOSYSzVYFplbuf) | 4:09 |
+| 61 | [If You Never Broke My Heart](https://open.spotify.com/track/7rwVlm5LhFTO8utknjR6Kt) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [If You Never Broke My Heart](https://open.spotify.com/album/6GpGV4UyrECTpu9MGFLblF) | 3:17 |
 
-Snapshot ID: `MTY1ODg5NDQwMCwwMDAwMDAwMGY0NzA4ZGUyZTVlNmNjMTMyMTU2NWFjM2Y3MTc1Y2Jk`
+Snapshot ID: `MTY1OTEzMzY2MiwwMDAwMDAwMGFmMjM4MDZlZDUxZGEyOGU0M2ZlZjQyMjkxMTFjYWZl`

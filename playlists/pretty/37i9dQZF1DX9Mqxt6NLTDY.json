@@ -1,12 +1,12 @@
 {
   "description": "Post-hardcore. Post-punk. Post-rock. Post-everything. Cover: Metz",
-  "num_followers": 13749,
+  "num_followers": 13845,
   "original_name": "All Things Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDQyZTczNzQxMzc2ZGQ0MGQxNzdlZmNiYTgzZWVkMjdl",
+  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDg2YWYxYzJjOTgyZmNjNmM2NmRjYTFjMDZjMjU2ZGU0",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "RARE",
-        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
-      },
-      "artists": [
-        {
-          "name": "Hundredth",
-          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Cave In",
         "url": "https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "As You Please",
-        "url": "https://open.spotify.com/album/2hHwKailiMAnyDxMev2G3A"
+        "name": "RARE",
+        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
       },
       "artists": [
         {
-          "name": "Citizen",
-          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
         }
       ],
-      "duration_ms": 223784,
-      "name": "Jet",
-      "url": "https://open.spotify.com/track/0QeR9qS8tqumgcjAFIwpTr"
+      "duration_ms": 217133,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -503,6 +487,22 @@
       "duration_ms": 218760,
       "name": "Don't Mess With Me",
       "url": "https://open.spotify.com/track/0UCYmgsllnNNl7werHn6Sb"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "As You Please",
+        "url": "https://open.spotify.com/album/2hHwKailiMAnyDxMev2G3A"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "duration_ms": 223784,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/0QeR9qS8tqumgcjAFIwpTr"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "It Was Fear of Myself That Made Me Odd",
-      "url": "https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Rites of Spring",
         "url": "https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 190893,
       "name": "For Want Of",
       "url": "https://open.spotify.com/track/0Ca6zALpIkO7nwSHpT5hSg"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "It Was Fear of Myself That Made Me Odd",
+      "url": "https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Fell In Love With A Ghost",
-        "url": "https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa"
-      },
-      "artists": [
-        {
-          "name": "Gvllow",
-          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Fell In Love With A Ghost",
-      "url": "https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 173067,
       "name": "Paradise and Plague",
       "url": "https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Fell In Love With A Ghost",
+        "url": "https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa"
+      },
+      "artists": [
+        {
+          "name": "Gvllow",
+          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Fell In Love With A Ghost",
+      "url": "https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "King of Jeans",
-        "url": "https://open.spotify.com/album/079UQBruCMoafmIwuISae3"
-      },
-      "artists": [
-        {
-          "name": "Pissed Jeans",
-          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
-        }
-      ],
-      "duration_ms": 153680,
-      "name": "False Jesii Part 2",
-      "url": "https://open.spotify.com/track/0re1htGVLVpLvICvn2OLjM"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Twisted Tongues / Escape From Los Angeles",
         "url": "https://open.spotify.com/album/4VSk5cWQF6BfFOLkaJB7kE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 241856,
       "name": "Twisted Tongues",
       "url": "https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "King of Jeans",
+        "url": "https://open.spotify.com/album/079UQBruCMoafmIwuISae3"
+      },
+      "artists": [
+        {
+          "name": "Pissed Jeans",
+          "url": "https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V"
+        }
+      ],
+      "duration_ms": 153680,
+      "name": "False Jesii Part 2",
+      "url": "https://open.spotify.com/track/0re1htGVLVpLvICvn2OLjM"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Death is a Warm Blanket",
-        "url": "https://open.spotify.com/album/3Npw95CLeKN2N2X7KgLl5r"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 177046,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2bDJK04GaUdkBAuZoPt2ch"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Beside Myself",
         "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 215373,
       "name": "Stigmata",
       "url": "https://open.spotify.com/track/5UiuuUpGbdCXCyqezsncFf"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Death is a Warm Blanket",
+        "url": "https://open.spotify.com/album/3Npw95CLeKN2N2X7KgLl5r"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 177046,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2bDJK04GaUdkBAuZoPt2ch"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Fluorescent",
-        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
-      },
-      "artists": [
-        {
-          "name": "Life Awaits",
-          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
-        },
-        {
-          "name": "\u963f\u514b\u6c5f",
-          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
-        }
-      ],
-      "duration_ms": 228728,
-      "name": "Everlast",
-      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Viet Cong",
         "url": "https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 159253,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6wxFRaXLyQUALBg4M8ZVz9"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Fluorescent",
+        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+      },
+      "artists": [
+        {
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "\u963f\u514b\u6c5f",
+          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+        }
+      ],
+      "duration_ms": 228728,
+      "name": "Everlast",
+      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is Survived By",
-      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 233214,
       "name": "Illuminant",
       "url": "https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is Survived By",
+      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Strong Feelings",
-        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "Strong Feelings",
-      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Always Foreign",
         "url": "https://open.spotify.com/album/4w8JKVtsuSVTpypF4rzkVV"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 144291,
       "name": "Dillon and Her Son",
       "url": "https://open.spotify.com/track/7teRqWTNpFal255k5R7vex"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Strong Feelings",
+        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Strong Feelings",
+      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
     },
     {
       "added_at": "2021-09-02 23:00:00",

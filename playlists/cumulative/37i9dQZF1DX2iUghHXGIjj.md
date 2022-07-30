@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Taj Mahal
 
-140 songs - 8 hr 48 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
+141 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/6OR1PRarcE5A0vVZdgyZgB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Push The Blues Away](https://open.spotify.com/track/6U1c5I3iixRjilhhMzzx2m) | [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd), [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Push The Blues Away](https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC) | 3:29 | 2020-11-13 |  |
 | [Quarter On The Ground \( A Song For Uncle Joe\)](https://open.spotify.com/track/6qDDv9vMjxxmhc4Jqh8nbL) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Free Man/Quarter On The Ground](https://open.spotify.com/album/0qzSJZMuzzsPC6zQUVSx5g) | 3:36 | 2020-08-11 | 2022-07-29 |
 | [Quarter on the Ground \(A Song for Uncle Joe\)](https://open.spotify.com/track/3sqmtKa1JwnAxLJFkmOQIf) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:36 | 2020-08-11 |  |
+| [Rank Strangers](https://open.spotify.com/track/75E8SwuE43G0bj3kHZlIts) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 2:27 | 2022-07-29 |  |
 | [Ratchet Blues](https://open.spotify.com/track/53ctPcODtJvhxsdDQkumze) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB) | [Sticks and Stones](https://open.spotify.com/album/4Q5SP0bw5Qz9Ory2DxXsif) | 1:39 | 2020-08-11 | 2022-07-29 |
 | [Ratchet Blues](https://open.spotify.com/track/0647hHN3O8D0OuOQFpfuuU) | [Eric Sardinas](https://open.spotify.com/artist/6ioaRkg9SnP8mC2NP7Z2rB), [Big Motor](https://open.spotify.com/artist/13xEB2Ahsm3Gl6rFLKFqbA) | [Sticks and Stones](https://open.spotify.com/album/2dlPRyDPSkFzbEaHoGqkPt) | 1:39 | 2020-08-11 |  |
 | [Refugee Moan](https://open.spotify.com/track/519peDYoPxR11QfcNJajXW) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Migration Blues](https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2) | 3:06 | 2020-08-11 | 2022-07-29 |
@@ -117,7 +118,7 @@
 | [See That My Grave Is Kept Clean](https://open.spotify.com/track/3Cx3GZApS0HveX3oUqpXAl) | [Colin James](https://open.spotify.com/artist/4RN8CfKJE14EhffVP5hPbC) | [Miles To Go](https://open.spotify.com/album/7J7wbpmJhixqKYETzJcsPb) | 3:03 | 2020-08-11 | 2022-07-29 |
 | [See That My Grave Is Kept Clean](https://open.spotify.com/track/7vdcotQVRcTBwNiI4ZFNfz) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Miles To Go](https://open.spotify.com/album/2qYDJzQe2Y0EoV2y4TpVDW) | 3:03 | 2020-08-11 |  |
 | [Seven Hours Of Light](https://open.spotify.com/track/1dsdV2Rjbc69aQKCWvUAjH) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/0ApfREM6XMT4MQpgme6ynU) | 3:35 | 2020-08-11 | 2022-07-29 |
-| [Seven Hours Of Light](https://open.spotify.com/track/67aqYLBHQsN18Y6ifzbXqC) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/6PiyC1fabaZwH9sdnB6nYs) | 3:35 | 2020-08-11 |  |
+| [Seven Hours Of Light](https://open.spotify.com/track/67aqYLBHQsN18Y6ifzbXqC) | [Otis Taylor](https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T) | [Respect the Dead](https://open.spotify.com/album/6PiyC1fabaZwH9sdnB6nYs) | 3:35 | 2020-08-11 | 2022-07-30 |
 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 | 2020-08-11 |  |
 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 | 2020-08-11 |  |
 | [Should've Learnt My Lesson \- Deuce Album Session / Alternative Acoustic Take / 1971](https://open.spotify.com/track/3TLHIqYpEdtjivr3IN1dMB) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Blues](https://open.spotify.com/album/1oKWgM9Td5XbgUweHSRGXB) | 3:04 | 2020-08-11 |  |

@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-195 songs - 11 hr 4 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+196 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [El Mariachi \(Huapango\)](https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 2:49 | 2022-04-08 |  |
 | [El Mil Amores](https://open.spotify.com/track/6pCfT6YZIxSu9WQhavE2uV) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Una Historia Para Siempre](https://open.spotify.com/album/4Teye40LNeO0U9uq3SJoiE) | 3:23 | 2022-04-08 |  |
 | [El Olotito](https://open.spotify.com/track/0Yx4n40SoumujCxKAW2v4M) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 3:43 | 2022-04-08 | 2022-07-27 |
+| [El Olotito](https://open.spotify.com/track/58hC64jA8z1zgkakH7JEnl) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 3:43 | 2022-04-08 |  |
 | [El Pachuco](https://open.spotify.com/track/1Dd7dAgpbNS0nDzVPAT275) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:32 | 2022-04-08 |  |
 | [El Pistolero \- El Chinelito Borracho \- Popurrí / En Vivo](https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:53 | 2022-04-08 |  |
 | [El Pistolero Huapango](https://open.spotify.com/track/4XLp4L49gGB5RGlPYPj86s) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Viejón de Oro](https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea) | 3:45 | 2022-04-08 |  |
@@ -88,7 +89,7 @@
 | [Huapango el Pluma Blanca](https://open.spotify.com/track/3SZ0MQwKjnQFgZqiucOqap) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/7Jlm01Xrt1D0d1mzOJmpwj) | 2:52 | 2022-04-08 | 2022-07-26 |
 | [Huapango el Pluma Blanca](https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50F2Qk3NJDPsqXGP4SL3xQ) | 2:52 | 2022-04-08 |  |
 | [Huapango el Tenebroso](https://open.spotify.com/track/6mraZk1UIOzbj8a2h3Nkrd) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 4:48 | 2022-04-08 | 2022-07-29 |
-| [Huapango el Tenebroso](https://open.spotify.com/track/7s4TyWVoaX2qXZeTdCRDXa) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 4:48 | 2022-04-08 |  |
+| [Huapango el Tenebroso](https://open.spotify.com/track/7s4TyWVoaX2qXZeTdCRDXa) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 4:48 | 2022-04-08 | 2022-07-30 |
 | [Huapango el Toro Pinto](https://open.spotify.com/track/3irDz5lfA0Hz5aHQBmfoZs) | [Conjunto La Insignia](https://open.spotify.com/artist/1gGHmrOLzJgd8Gr6TvJpod) | [Conquistandote](https://open.spotify.com/album/5mFNOszGrYt2XCxhSkoZc9) | 3:11 | 2022-04-08 |  |
 | [Huapango Flor de Piña](https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Viejón de Oro](https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea) | 2:52 | 2022-04-08 |  |
 | [Huapango Flor de Piña](https://open.spotify.com/track/4RVTmFYSCwaJOH3j9vou6Y) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Huapangos 2017](https://open.spotify.com/album/2RcKPrD7jq45BWmb96KdFq) | 2:52 | 2022-04-08 | 2022-07-29 |

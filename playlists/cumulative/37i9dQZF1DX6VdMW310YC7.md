@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,276 songs - 3 day 16 hr 39 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,277 songs - 3 day 16 hr 43 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Love Is Alive](https://open.spotify.com/track/1uf5f99kLdlmUBEvVqrFyy) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Love Is Alive](https://open.spotify.com/album/0i7gI9SlKIZxdz2Jl2dyfp) | 2:50 | 2020-05-18 | 2020-07-03 |
 | [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 |  |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2020-03-17 | 2021-03-06 |
+| [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 |  |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
 | [Low \- Kaskade Remix](https://open.spotify.com/track/2Vrg4Ar4v8KECMdwck1DRl) | [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:40 | 2020-03-20 | 2022-04-21 |
@@ -989,7 +990,7 @@
 | [Silhouette](https://open.spotify.com/track/0OHMCa0Rkui2VLkQxgVpVs) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N), [Sebee](https://open.spotify.com/artist/15eS4ELao0UYSVtHMLlxcq) | [Anjunadeep Explorations 18](https://open.spotify.com/album/5o2l23PO9MXRLLe6Y602CP) | 3:49 | 2021-07-30 | 2022-04-16 |
 | [Silhouette](https://open.spotify.com/track/4bU1Jfv68V1Ea9Zro51J2o) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [Silhouette](https://open.spotify.com/album/0mFmU8Btpji8M1wJhbSuqq) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-07-01 |  |
-| [Silk Jam](https://open.spotify.com/track/2ifyrAZtTrGbwsq2bmFGsE) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1zEasMkKYtGp0R8y85qYWa) | 2:50 | 2022-07-01 |  |
+| [Silk Jam](https://open.spotify.com/track/2ifyrAZtTrGbwsq2bmFGsE) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1zEasMkKYtGp0R8y85qYWa) | 2:50 | 2022-07-01 | 2022-07-30 |
 | [Silk Jam](https://open.spotify.com/track/6V5hRLs94gOseTsZvivYe1) | [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Way Back When](https://open.spotify.com/album/1vG0Zb57rQUPnujHmog4aF) | 2:50 | 2020-03-17 | 2022-04-20 |
 | [Simpatico](https://open.spotify.com/track/0K9pSksQRifXqaybdAIZtQ) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Photograph EP](https://open.spotify.com/album/7L4Gq7fzGcWT5LNaR1rMri) | 4:24 | 2020-03-20 | 2021-03-06 |
 | [Simple Hit](https://open.spotify.com/track/0C3QADQBYFjcSeU8bY7Oex) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/4cNRNpj5a81e2iF5cIb1n5) | 3:39 | 2020-03-21 | 2020-10-09 |

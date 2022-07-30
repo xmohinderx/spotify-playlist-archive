@@ -4,7 +4,7 @@
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-388 songs - 23 hr 34 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
+390 songs - 23 hr 38 min - [published](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Long](https://open.spotify.com/track/6WcQ9jSyQjQHF7FoPmkBAC) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/0Dz2OL6cowrGoHkSOR0SnG) | 2:55 | 2022-07-08 | 2022-07-16 |
 | [Long](https://open.spotify.com/track/21mee0yCdwwsGw1iUY4sF3) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Long/Ephemeral](https://open.spotify.com/album/4uqFP2FBZZELTuDRriC4nG) | 2:56 | 2022-07-29 |  |
 | [Lotus](https://open.spotify.com/track/77sqStYx46ikgOj5EVKbVM) | [Friedmann](https://open.spotify.com/artist/7HrVIqB1nckvi1pdAajsS8) | [Lotus](https://open.spotify.com/album/0leqCLmEeawlBmN5nXP2TS) | 3:02 | 2022-03-16 | 2022-07-09 |
+| [love it when we're alone](https://open.spotify.com/track/6F0tuZKfOYBYv8c8ECBcju) | [Jcomadeit](https://open.spotify.com/artist/5acyyyz8DVuN98IloXF3eC) | [love it when we're alone](https://open.spotify.com/album/0Qz3F6AobL9YnI1t6C1XXw) | 1:28 | 2022-07-29 |  |
 | [Love Me Like You Do \- Chill Out Version](https://open.spotify.com/track/2ntBxst2J6RmNMPqhVxz1a) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Love Me Like You Do](https://open.spotify.com/album/1pyeew0nlZPoR5uulztYTI) | 4:19 | 2022-07-08 | 2022-07-23 |
 | [Love Me Like You Do \- Chill Out Version](https://open.spotify.com/track/4MJxfWYXb8hYELRwYWEwhf) | [Sweetfire](https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj) | [Waterfront \- The Album](https://open.spotify.com/album/3BuWOmXlmi06aL2v5dscvM) | 4:19 | 2022-07-29 |  |
 | [Loving You \(One Last Time\) \- Lounge Version](https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx) | [Shade](https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc), [Thyra](https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G) | [Loving You \(One Last Time\) \[Lounge Version\]](https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV) | 3:34 | 2021-08-10 | 2022-07-29 |
@@ -310,6 +311,7 @@
 | [Soul Blanket](https://open.spotify.com/track/7xgCM9MkPIJ0MWFJqGGKQD) | [Sofia's Choice](https://open.spotify.com/artist/6CXWg7xfVjOtwgILyQZZ20) | [Into The Stillness](https://open.spotify.com/album/0FQWkQhEOXL0IuICFw4XaE) | 4:01 | 2022-07-29 |  |
 | [Sound of Atlantis](https://open.spotify.com/track/5BsfqfbTZ1V2tJ943bghrc) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/35pV2MFavSWb27Z9cmtr0D) | 5:13 | 2022-07-29 |  |
 | [Sound of Atlantis](https://open.spotify.com/track/5mkmhvQxQEfZkUsPDYn9fG) | [Tiki Lounge](https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD) | [Sunset Sounds](https://open.spotify.com/album/5X8f43K30RXxQSHson7met) | 5:13 | 2021-08-10 | 2022-07-29 |
+| [Spaced Out](https://open.spotify.com/track/4z7o9DGCoHf8694oWNsNl5) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Spaced Out](https://open.spotify.com/album/1PmtRqz8XlLqjp1F8edMnK) | 2:20 | 2022-07-29 |  |
 | [Sparkle](https://open.spotify.com/track/4AIal9M710Qnh9uyoActXZ) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:02 | 2022-07-29 |  |
 | [Sparkle](https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT) | 4:02 | 2021-08-10 | 2022-07-29 |
 | [Spots](https://open.spotify.com/track/1smzJLamcRIHcHUT82opTR) | [Cardamom](https://open.spotify.com/artist/55z2VFr6FxKYEOctgA2ICi) | [Spots](https://open.spotify.com/album/3KntBPi6tFBDBXZHE3O1pr) | 2:35 | 2022-03-16 | 2022-07-09 |

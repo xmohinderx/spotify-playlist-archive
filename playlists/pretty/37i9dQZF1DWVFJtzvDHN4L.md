@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,958 likes - 56 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,004 likes - 56 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 30 | [Spiral](https://open.spotify.com/track/1dUJRgcJtUxNfTWVEkshUb) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Way Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4TJtPWRuD0m4brMRz8wi5P) | 2:53 |
 | 31 | [Time Passing II](https://open.spotify.com/track/3gGbjt2qkM89yfuilc7yKn) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [Black Mirror: Arkangel \(Original Score\)](https://open.spotify.com/album/299OZ1gzB4K4sjfzr6jcCi) | 1:17 |
 | 32 | [Peaceful Here Now](https://open.spotify.com/track/6Xso6xtnjOUD4SrdvF911i) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [Deliver Us \(Original Series Soundtrack\)](https://open.spotify.com/album/0g6Fo4Z3u2WTtOtBqvL8nz) | 4:59 |
-| 33 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |
+| 33 | [Ezio's Family](https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF) | [Jesper Kyd](https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ) | 3:57 |
 | 34 | [Les bijoux](https://open.spotify.com/track/2ouBCzavu59F6ZcJlb1kZ6) | [Alexandre Azaria](https://open.spotify.com/artist/6wFoIuf6haS7FtdH3RHQZE) | [Par instinct \(Bande originale du film\)](https://open.spotify.com/album/6fFbr0S4b7NTXnMQwspzmi) | 3:07 |
 | 35 | [Nemo Egg \(Main Title\)](https://open.spotify.com/track/7jSQaXLzpLHjSQTev2krvT) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:16 |
 | 36 | [A Game of Croquet](https://open.spotify.com/track/21lsdnxagzViwbRqNY0tCK) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/02VRifrsiTM73hPGjXduRQ) | 2:45 |

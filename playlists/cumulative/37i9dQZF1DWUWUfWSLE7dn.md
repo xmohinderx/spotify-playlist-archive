@@ -4,7 +4,7 @@
 
 > The perfect score to accompany your literary quest.
 
-101 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
+102 songs - 4 hr 58 min - [published](https://open.spotify.com/playlist/0hBVIGuG4NeGfuqta1nWIO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-03-09 |  |
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 |  |
 | [Première Lumière](https://open.spotify.com/track/2wGeML7k5tc7O83IzIDJ0t) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Première Lumière](https://open.spotify.com/album/637ZAa38xb2KJ4oWPy4goX) | 2:38 | 2022-03-09 |  |
+| [Remain](https://open.spotify.com/track/04Df7GRcJW9WfstmCQKCkb) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Remain](https://open.spotify.com/album/0yXKfilmlkr1Z0WnYvA3fl) | 3:27 | 2022-07-29 |  |
 | [Restless, Tamriel Dreams](https://open.spotify.com/track/5GPpwG6GtAPPfdmxltXJnv) | [Brad Derrick](https://open.spotify.com/artist/0WgwTXh66Tz9hSU7LjZsww) | [The Elder Scrolls Online: Music of Tamriel, Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3CDobpkPE61sifIMbxvSN7) | 6:51 | 2022-03-09 |  |
 | [Road Home](https://open.spotify.com/track/7vbXVFIeGI3qc0qY2TXFp2) | [Space Tation](https://open.spotify.com/artist/199PLrBvdZLdtnNsuaBrhN) | [Road Home](https://open.spotify.com/album/0WDP1XqaqDi2iEZ6Q7CiuT) | 1:15 | 2022-07-08 |  |
 | [Samurai Sword](https://open.spotify.com/track/0j0UE5JDkNhpWGmFo4RLMl) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Samurai Sword](https://open.spotify.com/album/7AbyUNTbyN8qkADD3GEM7g) | 2:16 | 2022-06-10 |  |

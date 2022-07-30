@@ -1,51 +1,67 @@
 {
-  "description": "The latest music from our Country Heroes. Cover: Billy Dean",
-  "num_followers": 240427,
+  "description": "The latest music from our Country Heroes. Cover: Ronnie Dunn",
+  "num_followers": 240460,
   "original_name": "New Traditions Country Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDlkMGQyNGQ5YzA5OGQ5MjE1OWRkOTBiNTAyMDZjMjJm",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDAwYjQ4NGUzZTMyZmU3YmM4NGJkYjExYzM0N2ExNjFm",
   "tracks": [
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Saltwater Cowboy",
-        "url": "https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17"
+        "name": "100 Proof Neon",
+        "url": "https://open.spotify.com/album/02B2WEMDla9LbPR9Jg1BZG"
       },
       "artists": [
         {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 169560,
-      "name": "Saltwater Cowboy",
-      "url": "https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
         },
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 191053,
-      "name": "Brand New Man - with Luke Combs",
-      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+      "duration_ms": 240512,
+      "name": "Road to Abilene",
+      "url": "https://open.spotify.com/track/45ydzAYHp2rMDSJ74MLavY"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Honky Tonk Time Machine",
+        "url": "https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "God And Country Music",
+      "url": "https://open.spotify.com/track/4RldvvNaEdteK2I0y6NWTR"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Sent From Above",
+        "url": "https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "Sent From Above",
+      "url": "https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Duets",
         "url": "https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb"
@@ -81,23 +97,23 @@
       "url": "https://open.spotify.com/track/2EDbLhcX7HRoSj9gvG1MQO"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Run, Rose, Run",
-        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+        "name": "Lead Me Home",
+        "url": "https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 247213,
-      "name": "Big Dreams and Faded Jeans",
-      "url": "https://open.spotify.com/track/74oyvAPVoZvnEHDwZQgYnL"
+      "duration_ms": 214506,
+      "name": "Lead Me Home",
+      "url": "https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Come See Me and Come Lonely",
         "url": "https://open.spotify.com/album/606eNhfSHz9jVyyoVZ9p85"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/0fNVf87epF7g8qTtAozihN"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Ain't That Kind of Cowboy",
         "url": "https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4"
@@ -133,23 +149,23 @@
       "url": "https://open.spotify.com/track/25QJf8CvD8WtK5iF4vRpQO"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Sent From Above",
-        "url": "https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3"
+        "name": "Heartbreak Song",
+        "url": "https://open.spotify.com/album/6el7S7Ebsgh69AimpDPesJ"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Michelle Wright",
+          "url": "https://open.spotify.com/artist/1Kp8PxFfeU5CFHkITQF9sY"
         }
       ],
-      "duration_ms": 145210,
-      "name": "Sent From Above",
-      "url": "https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4"
+      "duration_ms": 239378,
+      "name": "Heartbreak Song",
+      "url": "https://open.spotify.com/track/3q3hcw8QF3feQOpd3xKdMy"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Waste Of A Whiskey Drink",
         "url": "https://open.spotify.com/album/54RJlVwpUPj4jqzCyY6Exu"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/7wruXOjVoOBFjqzCb8dz33"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "How Far Can It Go? (feat. Trisha Yearwood)",
         "url": "https://open.spotify.com/album/6vH61VSM7daU65MZKVOBmT"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/5a52GHQ6AhGwUcxhm15oZI"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Never Seen The World (feat. Vince Gill)",
         "url": "https://open.spotify.com/album/26LS0dqjZmqP8Xd9oSkkw1"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/0O7Hlfi7hBVZ0WSvIE1SRI"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "12th of June",
         "url": "https://open.spotify.com/album/0p13hRQZ6VwBqXuoYzFtBR"
@@ -221,7 +237,23 @@
       "url": "https://open.spotify.com/track/2VqE5LvdZ5S8CBrxubpakU"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Run, Rose, Run",
+        "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "Big Dreams and Faded Jeans",
+      "url": "https://open.spotify.com/track/74oyvAPVoZvnEHDwZQgYnL"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Not A Dry Eye In The House",
         "url": "https://open.spotify.com/album/3iOsbjIjInM7sXnfb47IeT"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/7IhQxfKt1rWvPSpWJcIpIk"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Set In Stone",
         "url": "https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8"
@@ -257,7 +289,7 @@
       "url": "https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Can't Even Get The Blues (Revived)",
         "url": "https://open.spotify.com/album/53omWBMCdsczrNdP1FkQ4N"
@@ -273,7 +305,7 @@
       "url": "https://open.spotify.com/track/2NikNS7ZoIKCe3nnpKarZB"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
@@ -301,7 +333,7 @@
       "url": "https://open.spotify.com/track/6U1MkhLKg0j00z9ZiWcl46"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Honky Tonk Town",
         "url": "https://open.spotify.com/album/5bWQAEpi5HQTkMKAyLYdhP"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/1Jsijb9pEP1F44gbRK1XXN"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Highway",
         "url": "https://open.spotify.com/album/6pBG3VzgZx5fR6Fs6GK5KA"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/1stGWwuI8yRU1VoaDW3LPq"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "As Far As I Can See: The Best Of",
         "url": "https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu"
@@ -373,7 +405,27 @@
       "url": "https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 191053,
+      "name": "Brand New Man - with Luke Combs",
+      "url": "https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/0KTpPWkgZ0X5TX1bHl2Ipj"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Every Girl (Deluxe Edition)",
         "url": "https://open.spotify.com/album/61ARJZPtKBugSz0huuzOCO"
@@ -405,7 +457,7 @@
       "url": "https://open.spotify.com/track/2O3oLqgnoMMFzIFtOxSxVL"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Long Cool Woman (In a Black Dress)",
         "url": "https://open.spotify.com/album/1v9u00mgkfhhRJm7yMSIdz"
@@ -421,7 +473,7 @@
       "url": "https://open.spotify.com/track/34FxbXBm1QjQ44lUBL8Rn9"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Co-Starring Too",
         "url": "https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/40I4eAyq1EUUw5OZXxsGjC"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Out of Sane",
         "url": "https://open.spotify.com/album/1UUgUFNRDCZlumiG2c2qXJ"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/3zqmP9CKPHOhzVntc2ropS"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Rest of It's Mine",
         "url": "https://open.spotify.com/album/6b5WQURAJNRYKYYKbtMenX"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/3C91xtXZGNY4mM2DcbzlRt"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Rich White Honky Blues",
         "url": "https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW"
@@ -489,7 +541,7 @@
       "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Redhead",
         "url": "https://open.spotify.com/album/7hCl3yuH8JK5vRR0iSQpwF"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/3zAnuUCPKbRBsOsllYCmFC"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Storms of Life (35th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U"
@@ -525,7 +577,23 @@
       "url": "https://open.spotify.com/track/50aKHapLGhTMwUhWTvQkkn"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Saltwater Cowboy",
+        "url": "https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Saltwater Cowboy",
+      "url": "https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bad Case of the Good Ole Boy",
         "url": "https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP"
@@ -553,7 +621,7 @@
       "url": "https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Where Have You Gone",
         "url": "https://open.spotify.com/album/2VK5OGhlI6yJUSvQ1VMb6J"
@@ -569,7 +637,7 @@
       "url": "https://open.spotify.com/track/1BdqRVyZeZrCWnbR5zsUz5"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Honky Tonk Boots",
         "url": "https://open.spotify.com/album/6N0mFLasumH7G1MegiZeQ8"
@@ -585,7 +653,7 @@
       "url": "https://open.spotify.com/track/50n0xq2emVcORdDztPNqkt"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
@@ -605,7 +673,7 @@
       "url": "https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Rest of It's Mine",
         "url": "https://open.spotify.com/album/6sCKgnzpFAqnJbGFZUFGl2"
@@ -625,7 +693,7 @@
       "url": "https://open.spotify.com/track/2Bj7YGVBtjbVrWhhSRVwaj"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Broken Neon Hearts",
         "url": "https://open.spotify.com/album/3UBCPfcnpK4KidTVfJT6BE"
@@ -641,7 +709,7 @@
       "url": "https://open.spotify.com/track/4p3FGuE3sa95Oq8CUggOtg"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Things You Can't Live Without (with Travis Tritt)",
         "url": "https://open.spotify.com/album/2CqH8nKS2YzxNgJwwmB03b"
@@ -661,7 +729,7 @@
       "url": "https://open.spotify.com/track/4DMtfdorMz6ShoAi9jDxhw"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Willie Nelson Family",
         "url": "https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt"
@@ -677,7 +745,7 @@
       "url": "https://open.spotify.com/track/4jIbcHdc0U1hjZohhv8A3z"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Dirt Does Dylan",
         "url": "https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T"
@@ -693,7 +761,7 @@
       "url": "https://open.spotify.com/track/7saHu3eotJFSeo6TAFkvoD"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Ain't No Closing Me Down",
         "url": "https://open.spotify.com/album/1191oeD8jhGrVnNHE6Ef36"
@@ -713,7 +781,7 @@
       "url": "https://open.spotify.com/track/3MzJt1QR7YyJAKje1elWUY"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Patsy Cline Crazy",
         "url": "https://open.spotify.com/album/5o1ZeqUoGfSzaPuC84jDjt"
@@ -729,7 +797,7 @@
       "url": "https://open.spotify.com/track/4Wcnc8p86AI1d2mgDuAGNy"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "And Then Some",
         "url": "https://open.spotify.com/album/4COlxVYEBIH2TVtqCbAMeF"
@@ -745,7 +813,7 @@
       "url": "https://open.spotify.com/track/0nGPgNejfosCvKVEUD8Gim"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Dusty Old Dust",
         "url": "https://open.spotify.com/album/5vrzgbC6QkrdYSXIc6UM68"
@@ -761,7 +829,7 @@
       "url": "https://open.spotify.com/track/2WNcZzyx0W4ufueyWSF3qd"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Barroom Mirrors EP",
         "url": "https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88"
@@ -781,7 +849,7 @@
       "url": "https://open.spotify.com/track/2NEGAeWfyGuxJIsV5xxqDp"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Storms of Life (35th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7GN562ELq8Sfvy7RruWk7U"
@@ -797,7 +865,7 @@
       "url": "https://open.spotify.com/track/2oLa6cIjW7JPMtYx4KKLtz"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "If There Weren't So Many Damn Songs",
         "url": "https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ"
@@ -817,7 +885,7 @@
       "url": "https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Run, Rose, Run",
         "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
@@ -833,7 +901,7 @@
       "url": "https://open.spotify.com/track/4ed8tSfo4yU778D2mzIptV"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Night The Lights Went Out In Georgia (Eric Kupper Remix)",
         "url": "https://open.spotify.com/album/26KZhHTqgLBdOQ80UrCewv"
@@ -853,7 +921,7 @@
       "url": "https://open.spotify.com/track/3CCx4xeyrZQTONz6MvURaX"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Did I Shave My Legs For This? (25th Anniversary Edition)",
         "url": "https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL"
@@ -889,7 +957,7 @@
       "url": "https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Dear Miss Loretta",
         "url": "https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn"
@@ -909,7 +977,7 @@
       "url": "https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "To All the Girls I've Loved Before",
         "url": "https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q"
@@ -929,7 +997,7 @@
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "....That's a Fact Jack!",
         "url": "https://open.spotify.com/album/6B0g54q8KeALKIM1rARwmw"
@@ -945,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3wQWy9KSrcMviSoFRNGeDI"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Sad Songs and Waltzes (with Willie Nelson)",
         "url": "https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28"
@@ -965,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Every Road",
         "url": "https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq"
@@ -985,7 +1053,7 @@
       "url": "https://open.spotify.com/track/2t5m1jQhBn9IKziKQwFUc7"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Revived Remixed Revisited",
         "url": "https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp"
@@ -1005,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2FPR6EaprkmLzfQ5RsPf0f"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
@@ -1029,7 +1097,7 @@
       "url": "https://open.spotify.com/track/0ZONNSdfFeiIjBX25ZKRbj"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
@@ -1049,7 +1117,7 @@
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Ain't That Kind of Cowboy",
         "url": "https://open.spotify.com/album/1e1kJ1OxfK3lHhqx9XFNE4"
@@ -1065,7 +1133,7 @@
       "url": "https://open.spotify.com/track/2Si7GvIT6drGqNGR4MNEVz"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Jesus, Won't You Come By Here",
         "url": "https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm"
@@ -1081,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -1097,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Next to You",
         "url": "https://open.spotify.com/album/4v0NbuCD5m62bcK7t7RMUn"
@@ -1113,7 +1181,7 @@
       "url": "https://open.spotify.com/track/6BdSXxFTkybuT8CbcDLxru"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Texas to Tennessee",
         "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
@@ -1129,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Good Ole Days",
         "url": "https://open.spotify.com/album/7CHs8peAikJJll2udTEDWh"
@@ -1149,7 +1217,7 @@
       "url": "https://open.spotify.com/track/7AW2WsM8dc5pmXIgdn2SpC"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Alive and Well",
         "url": "https://open.spotify.com/album/3i0bY9DahJDlfdzYEsUuvF"
@@ -1165,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2BqHBd0xqUUGxYBJ6rFyJB"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Every Little Honky Tonk Bar",
         "url": "https://open.spotify.com/album/3YPIY3nVjvhEGX9yRwwYx6"
@@ -1181,7 +1249,7 @@
       "url": "https://open.spotify.com/track/64Zm9wNGj6coqg4zsb0Soj"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Smoke In A Bar",
         "url": "https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7"
@@ -1197,7 +1265,7 @@
       "url": "https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "If It Wasn't For Trucks",
         "url": "https://open.spotify.com/album/6KwbEegYFIlCEhjaIIE3IH"
@@ -1217,7 +1285,7 @@
       "url": "https://open.spotify.com/track/78GzKUvv47KVd9VT0UZv77"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/4xZ6GN7EvZeAPcne44y5wb"
@@ -1233,7 +1301,7 @@
       "url": "https://open.spotify.com/track/73XStpFTSHaY0LCSfkXbQu"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Don't Drink Whiskey",
         "url": "https://open.spotify.com/album/4iLmKTaXTnGxbv0mFBIchD"
@@ -1249,7 +1317,7 @@
       "url": "https://open.spotify.com/track/31kF7HdCkTL4PcjYRHU5EE"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Art of Dreaming",
         "url": "https://open.spotify.com/album/4S6jHcky7OZ13AFsf02kCy"
@@ -1265,7 +1333,7 @@
       "url": "https://open.spotify.com/track/6gRPUax22F32VxOHu1PPWy"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Peso in My Pocket",
         "url": "https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ"
@@ -1281,7 +1349,7 @@
       "url": "https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Soft Lights and Hard Country Music",
         "url": "https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ"
@@ -1297,7 +1365,7 @@
       "url": "https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Send Me",
         "url": "https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9"
@@ -1313,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Way I Wanna Go",
         "url": "https://open.spotify.com/album/60ev0o8cT8GbqMIYtfIssT"
@@ -1329,7 +1397,7 @@
       "url": "https://open.spotify.com/track/2QOk1rpS1exoxLCbcQHGW8"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
@@ -1353,7 +1421,7 @@
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Run, Rose, Run",
         "url": "https://open.spotify.com/album/50A9Yv2SPJByoZIDO5WVzG"
@@ -1369,7 +1437,7 @@
       "url": "https://open.spotify.com/track/0wSRvzs3I0Dig07ejN2jiZ"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
         "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
@@ -1389,7 +1457,7 @@
       "url": "https://open.spotify.com/track/55gWB0E5fwsIVfdGfrydoi"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "She's Everything to Me",
         "url": "https://open.spotify.com/album/67BuFJwLDQ3j7nutc1cBQt"
@@ -1405,7 +1473,7 @@
       "url": "https://open.spotify.com/track/0bHVsXJYoL1vFnIKoW5VCK"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Home Run",
         "url": "https://open.spotify.com/album/4KSAZOxCLBNZeI4Fw9a9nk"
@@ -1421,7 +1489,7 @@
       "url": "https://open.spotify.com/track/3WcQxf3f924vU8Ae6GNJ16"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -1437,7 +1505,7 @@
       "url": "https://open.spotify.com/track/7kpdCMUv7Tc8XNAlfJffmW"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Racing The Dark",
         "url": "https://open.spotify.com/album/7KD78g9ijzy7lwT8wCb1MT"
@@ -1453,7 +1521,7 @@
       "url": "https://open.spotify.com/track/6LF3H7uTWWSuvfPEMPwlht"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Hindsight 2020, Vol. 2: Price of Fame",
         "url": "https://open.spotify.com/album/1SYBN8T25jAmIstn5swHeA"
@@ -1473,7 +1541,7 @@
       "url": "https://open.spotify.com/track/68juMHiJPLVDit4W3WmsP1"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Texas to Tennessee",
         "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
@@ -1489,7 +1557,7 @@
       "url": "https://open.spotify.com/track/1iAPybXZz3fOL9okLCbtJO"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Better Word for Love",
         "url": "https://open.spotify.com/album/0t6BIT9pK7zzLtc4C0XdPM"
@@ -1509,7 +1577,7 @@
       "url": "https://open.spotify.com/track/63zeH35ojREKtEyTZjisUW"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Diamonds in a Whiskey Glass (Deluxe Diamond Edition)",
         "url": "https://open.spotify.com/album/3LZL4DbzZ6hJAM7dMTk8XO"
@@ -1529,7 +1597,7 @@
       "url": "https://open.spotify.com/track/5hGeFMy9ilkY029FJz9QFv"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Look Out Heart",
         "url": "https://open.spotify.com/album/19LQejplVcoZCHQGnXz6d6"
@@ -1545,7 +1613,7 @@
       "url": "https://open.spotify.com/track/0rL2QnLBi7aCGQt4B2SyWo"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Where Her Heart Has Always Been (Written for Mama\u2019s funeral with an old recording of her reading from the Bible)",
         "url": "https://open.spotify.com/album/6tEbgG4tbB7nYNNzgRcPji"
@@ -1561,23 +1629,7 @@
       "url": "https://open.spotify.com/track/0YhPTrNqHLOVp1zNpXtgP6"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Lead Me Home",
-        "url": "https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Lead Me Home",
-      "url": "https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B"
@@ -1593,7 +1645,7 @@
       "url": "https://open.spotify.com/track/1uEx04wo96LJzR1A6nzgCi"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa"
@@ -1609,7 +1661,7 @@
       "url": "https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "20 Years of Hits",
         "url": "https://open.spotify.com/album/6rY8YBPB0yUhOQtPULZ8Vq"
@@ -1629,7 +1681,7 @@
       "url": "https://open.spotify.com/track/3EnF5YgOM7lIJQg8Squ2tH"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "I Found Another You (& She Hates Me Too)",
         "url": "https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ"
@@ -1645,7 +1697,7 @@
       "url": "https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "There's Still a Little Country Left",
         "url": "https://open.spotify.com/album/6jxtLhzm95SUEXi66ieBhU"
@@ -1661,7 +1713,7 @@
       "url": "https://open.spotify.com/track/2wkZrYkKGHy115cCOFVPRR"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Willie Nelson Family",
         "url": "https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt"
@@ -1681,7 +1733,7 @@
       "url": "https://open.spotify.com/track/08QKljz2w9sVZF2OobprX8"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Front Porch Singin'",
         "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
@@ -1697,23 +1749,7 @@
       "url": "https://open.spotify.com/track/1Gh6WLiKriWRKof9E4nSRz"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Honky Tonk Time Machine",
-        "url": "https://open.spotify.com/album/1IwWcySO6hKQ8dsFVtJfz4"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "God And Country Music",
-      "url": "https://open.spotify.com/track/4RldvvNaEdteK2I0y6NWTR"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Half a Hundred Years",
         "url": "https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG"
@@ -1733,7 +1769,7 @@
       "url": "https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Getting Good",
         "url": "https://open.spotify.com/album/5dWadf8VCafr7fXtBFYcbd"
@@ -1753,7 +1789,7 @@
       "url": "https://open.spotify.com/track/0fyqiDJ5mBW00MO1HEAK52"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bare Bones",
         "url": "https://open.spotify.com/album/0T2AE8uzds9x1msXA6Y6UE"
@@ -1769,7 +1805,7 @@
       "url": "https://open.spotify.com/track/5bIaDkp8NlTyYDuzROomMv"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Forever My Girl (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V"
@@ -1785,7 +1821,7 @@
       "url": "https://open.spotify.com/track/380s4cpzc1XIUMwjRN8yNw"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Easy Goin",
         "url": "https://open.spotify.com/album/52qFba0o5xWWhpP6CUVxXe"
@@ -1801,7 +1837,7 @@
       "url": "https://open.spotify.com/track/6AoFAz2zZRdC43mzVU01Sf"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "All American Texan",
         "url": "https://open.spotify.com/album/0lQ8btmxplIW9B8vVGHOti"
@@ -1817,7 +1853,7 @@
       "url": "https://open.spotify.com/track/4bP7A6zIgLqCr6c99dktyv"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Be A Light",
         "url": "https://open.spotify.com/album/6NUcdndmwC54yLd0KosGI2"
@@ -1849,7 +1885,7 @@
       "url": "https://open.spotify.com/track/5o6dFqafETxZNqUFt9ZqAC"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/58EoMAmdNnJRVAAMePEr6p"
@@ -1869,7 +1905,7 @@
       "url": "https://open.spotify.com/track/5dSsIGNo7ImUSQSaCTGOak"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "There is No Arizona 2.0 / Sometimes It's Too Late",
         "url": "https://open.spotify.com/album/2R5d0fXomp7lZmfx3N2Wft"
@@ -1889,7 +1925,7 @@
       "url": "https://open.spotify.com/track/0748ETcSWmM6C5YlbRhoFK"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Ain't No Closing Me Down",
         "url": "https://open.spotify.com/album/5B0XkXMEc6pdzdoyaDjZM5"
@@ -1905,7 +1941,7 @@
       "url": "https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Need a Bar Sometimes",
         "url": "https://open.spotify.com/album/2tH27uztfniQ1M9Ajhf1LQ"
@@ -1921,7 +1957,7 @@
       "url": "https://open.spotify.com/track/05uSddJIkn7aCcGZOLe5VO"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "A Million and One",
         "url": "https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC"
@@ -1937,7 +1973,7 @@
       "url": "https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/3GxxNTSZsO1E2TrhWzhMWg"
@@ -1957,7 +1993,7 @@
       "url": "https://open.spotify.com/track/6VJnUbSvalXgjt1iw0XZrk"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Sippin' On The Simple Life",
         "url": "https://open.spotify.com/album/5vKquArL0GIKYNrNXpS3Mo"
@@ -1973,7 +2009,7 @@
       "url": "https://open.spotify.com/track/2La9vfJPqpxxKgOxCqlJT3"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "When the Cowboy's Gone",
         "url": "https://open.spotify.com/album/2ja9bHN4AHzlIKuc5eIJ0t"
@@ -1989,7 +2025,7 @@
       "url": "https://open.spotify.com/track/72U86afw7ZhxeNsPo76bxf"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Stripped Down",
         "url": "https://open.spotify.com/album/5V0zJI8m8VTOagqo5BWhTd"
@@ -2009,7 +2045,7 @@
       "url": "https://open.spotify.com/track/6bUjoKsbk81P0w7lJmaX9I"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Life On the Flip Side",
         "url": "https://open.spotify.com/album/0ne63EVUZXiNCCPsi9n9Sc"
@@ -2025,7 +2061,7 @@
       "url": "https://open.spotify.com/track/46RjasCR1TcTphfY32VB7f"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "I'd Take Another One of Those",
         "url": "https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0"
@@ -2045,7 +2081,7 @@
       "url": "https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Good Brown Gravy",
         "url": "https://open.spotify.com/album/04FuVoV7pMjU94jTcUfRly"
@@ -2065,7 +2101,7 @@
       "url": "https://open.spotify.com/track/4r73MgEVjf5xMkGui5tNeD"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Promised Land: The Lost Album",
         "url": "https://open.spotify.com/album/6Jiv6V6D16E3SkkIcqCY77"
@@ -2081,7 +2117,7 @@
       "url": "https://open.spotify.com/track/6RauCs5nVH1UR2stIQNjXu"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/5ZdhIK7dLcQ81HuPVCqEsD"
@@ -2101,7 +2137,7 @@
       "url": "https://open.spotify.com/track/21r2ejC94FazSJw16RVZOS"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Til the End of Time",
         "url": "https://open.spotify.com/album/2DPJLNoYRvr74xwYACfYzf"
@@ -2121,7 +2157,7 @@
       "url": "https://open.spotify.com/track/2W8ryHNgSirUKDVbHw13KP"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Beyond the Stars (feat. Willie Nelson)",
         "url": "https://open.spotify.com/album/3ha32uxw82uW6rFHzErQVE"
@@ -2141,7 +2177,7 @@
       "url": "https://open.spotify.com/track/6u7ZlZMY0WtHHfTKv9Khdv"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "The Duets",
         "url": "https://open.spotify.com/album/1ru2yPj8ayXP2xAHQ3hbbb"
@@ -2161,7 +2197,7 @@
       "url": "https://open.spotify.com/track/2RRE3hNrMaEu2DQPff2N1s"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Everything's Gonna Be Alright",
         "url": "https://open.spotify.com/album/7KAmnrY2BMObi8zAfsJly8"
@@ -2177,7 +2213,7 @@
       "url": "https://open.spotify.com/track/1Tqm2oP2uX0yhtx4VnxPsu"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
@@ -2197,7 +2233,7 @@
       "url": "https://open.spotify.com/track/64vkacv9XtTjAQSosbUbW2"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Railroad",
         "url": "https://open.spotify.com/album/4Cs0lNlp7rzH5l763weHC1"
@@ -2213,7 +2249,7 @@
       "url": "https://open.spotify.com/track/3iQeaIWw809ryg4NOL3ySM"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Tradition Lives",
         "url": "https://open.spotify.com/album/3DMgEWtAZKzePMRCkh34gO"
@@ -2229,7 +2265,7 @@
       "url": "https://open.spotify.com/track/6RcWdxxvdKiEByaJM3WEny"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Bad Storm Coming Tonight",
         "url": "https://open.spotify.com/album/0QghGTf6Kmjb9KuZhxk7Gt"
@@ -2245,7 +2281,7 @@
       "url": "https://open.spotify.com/track/36GHmqYW8fBK4LYM4Hr7zY"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "Born Ready",
         "url": "https://open.spotify.com/album/40PSbH50uUot5MIjIvqm9G"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AFOBBZSMWw.md) - [plain]
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,450 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,500 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

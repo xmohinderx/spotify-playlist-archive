@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-137 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
+138 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/284nn8KHwKE48t5E3olrdV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Let Me Reach That Mountain](https://open.spotify.com/track/11jFSuok2S4g04ziCBd44w) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Let Me Reach That Mountain](https://open.spotify.com/album/63QYtDWsFzy2yxYvMPcnCT) | 3:31 | 2022-07-15 |  |
 | [Like A Tourist On Caminito](https://open.spotify.com/track/6alGPVL0zYvetBZiSULNiP) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Like A Tourist On Caminito](https://open.spotify.com/album/3PDesyI19q0YPY8VBjZvnd) | 3:54 | 2022-07-15 | 2022-07-29 |
 | [Lusen](https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Lusen](https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe) | 2:47 | 2022-07-15 |  |
+| [Manhã de Carnaval](https://open.spotify.com/track/0G4qFYtNPWpYvk9RfGAOs1) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Manhã de Carnaval](https://open.spotify.com/album/06PgdMpQa7mfoKK5odLA2g) | 3:52 | 2022-07-29 |  |
 | [Mare](https://open.spotify.com/track/3GVWH7adVHhwep2kAtDdc4) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 2:28 | 2022-07-15 |  |
 | [Meyehualco](https://open.spotify.com/track/60TA1wktj8y67xnmyH0ISC) | [Marta Jobim](https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj) | [Meyehualco](https://open.spotify.com/album/5JO6noENoD4vyFxpfUWWZA) | 4:13 | 2022-07-15 |  |
 | [Milano](https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Milano](https://open.spotify.com/album/4da1Z9ZRNMf4SIiYegd94g) | 1:52 | 2022-07-15 |  |

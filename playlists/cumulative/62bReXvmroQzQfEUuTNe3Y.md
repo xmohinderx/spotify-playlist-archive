@@ -4,7 +4,7 @@
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-299 songs - 17 hr 6 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+300 songs - 17 hr 9 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [I Don't Wanna Know](https://open.spotify.com/track/0YnHCIk1Ppy7FIzdvjspts) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/2sI3TF8KNDxcsLzV5xAHHk) | 2:31 | 2020-10-16 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/18TWCTjQcNDkO2iaI1wkOd) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [I Don't Wanna Know](https://open.spotify.com/album/5hqkLMCkIhCQOpW9iAu4hC) | 2:31 | 2020-09-13\* | 2020-10-08 |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2021-10-23 | 2021-11-11 |
+| [I Got Summer On My Mind](https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [I Got Summer On My Mind](https://open.spotify.com/album/1yVct2QPNbEAwI4kljQiOF) | 3:08 | 2022-07-29 |  |
 | [I Know](https://open.spotify.com/track/4Jc3WtzfV23qCZCKwWlNlh) | [Fabian Luttenberger](https://open.spotify.com/artist/00A9Xt6NyGD5bldz9OnCbe) | [I Know](https://open.spotify.com/album/4nVBPAoafbfkbcXrhWAuDJ) | 5:03 | 2020-09-13\* | 2021-03-06 |
 | [I Loved U](https://open.spotify.com/track/35q7X4tARttH2r0ByoJOJt) | [Gvonni](https://open.spotify.com/artist/14jz3w0nEENe6ewnpSqRvf) | [I Loved U](https://open.spotify.com/album/05uqHTZrNWNrd2dodUUdf5) | 2:24 | 2021-04-24 | 2021-11-11 |
 | [I'm In Love](https://open.spotify.com/track/1CNG8sdO9Q5jx4gAZFjiHT) | [Gamuel Sori](https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi), [Rayon Nelson](https://open.spotify.com/artist/31vrrmY4Ouk1Y9RdZy8r3a) | [I'm In Love](https://open.spotify.com/album/2rqyJnkv6hGe02I3iiHInP) | 3:08 | 2020-12-18 | 2021-03-06 |
@@ -304,7 +305,7 @@
 | [You Broke My Heart Again](https://open.spotify.com/track/1sZbECWOoO8s87SC2gUanm) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Deep Joy](https://open.spotify.com/album/7szw19RC6wXNQXrPTGdFUW) | 2:29 | 2021-08-21 | 2021-09-04 |
 | [You Got Me](https://open.spotify.com/track/6n1ILqlcKA0ZCBt246Oeox) | [Yoru](https://open.spotify.com/artist/3I3wprdeNltqVwBiUsXazy) | [You Got Me](https://open.spotify.com/album/0tsQoNKyXTnzHFrJr9XE2C) | 3:40 | 2020-09-13\* | 2021-09-18 |
 | [You Were Right](https://open.spotify.com/track/1JLz1mQiVFcXq40rd5d7ww) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 3:59 | 2021-04-30 | 2021-10-02 |
-| [You're so High](https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Illusions](https://open.spotify.com/album/5fF4GeXKiNGjgFkxoxlyHa) | 5:25 | 2020-09-13\* |  |
+| [You're so High](https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Illusions](https://open.spotify.com/album/5fF4GeXKiNGjgFkxoxlyHa) | 5:25 | 2020-09-13\* | 2022-07-30 |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2021-03-14 | 2021-04-24 |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-09-26 |  |
 

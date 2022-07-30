@@ -4,7 +4,7 @@
 
 > Afro culture mixed with Arab vibes\. Cover: Ali Loka.
 
-60 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
+61 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/6p7Ms4VM5FDRXVJGpZcmVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ejaza](https://open.spotify.com/track/5gZV4PSCLqcDVPklLfqmHk) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So), [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd) | [Tnt: Injaz](https://open.spotify.com/album/08nO4dVa88kyXFzL89vMVf) | 3:40 | 2022-06-29 |  |
 | [El Madi](https://open.spotify.com/track/2nqE5xiKvAJgfKzDlA7Fk5) | [Yazan Elsaeed](https://open.spotify.com/artist/7a6aLOJH8iBCd0JSH78F4k), [Mr Choco](https://open.spotify.com/artist/6Gm8ZCNMGwbLcM5snYUr5v) | [El Madi](https://open.spotify.com/album/1vBQ92dp5JxEDDlckKfvRk) | 3:33 | 2022-06-29 |  |
 | [Filamén](https://open.spotify.com/track/2jz4XbBHonx48cyTgvcBt5) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Filamén](https://open.spotify.com/album/7sWnujOhwvK7E3o4Xgay9l) | 4:41 | 2022-06-29 |  |
+| [Ghadara](https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Ghadara](https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR) | 3:02 | 2022-07-29 |  |
 | [hasta la vista.](https://open.spotify.com/track/3uwmEuilZP6sA0TLLNxd9x) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [hasta la vista.](https://open.spotify.com/album/6eOrS43L3EuwK6ZmFYRt1W) | 2:48 | 2022-06-29 |  |
 | [KaifwKaif](https://open.spotify.com/track/0Yshg5nqSx37wUIcnJZspZ) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [KaifwKaif](https://open.spotify.com/album/5BChrGS1AszY05fG7v4uSm) | 3:52 | 2022-06-29 |  |
 | [KaifwKaif](https://open.spotify.com/track/0dhf5IWgIKs7hnPJM8GjHZ) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [KaifwKaif](https://open.spotify.com/album/4bRTpQntfGoGBGRorztJY2) | 3:30 | 2022-06-29 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Niños Del Cerro.
+> Todo el sonido indie de Chile\. Foto: Dulce y Agraz.
 
-235 songs - 14 hr 26 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+237 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [El Vagón](https://open.spotify.com/track/2aLnOJ8EdmwkbpJUsAZrVv) | [Los Furtivos Gnomos](https://open.spotify.com/artist/2kJktHNhofgGCsnjsEpImn) | [Cuentos del Nuevo Jardín](https://open.spotify.com/album/6YmFJdP4eHaH3o404jSj4v) | 4:23 | 2022-04-15 | 2022-07-26 |
 | [Embriago](https://open.spotify.com/track/1hnVWXdhW9P17SpfnaN60C) | [Andres](https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f) | [Embriago](https://open.spotify.com/album/5WR3I7h22Dt5cYgU6VV0jX) | 3:36 | 2022-04-15 | 2022-07-29 |
 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 | 2022-04-15 |  |
+| [Entre las Sombras](https://open.spotify.com/track/3ni4vqftJIveWJjbSPBaqe) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo), [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Entre las Sombras](https://open.spotify.com/album/2JwsMCwIT8sIXw1kAVY99p) | 4:30 | 2022-07-29 |  |
 | [Es Suficiente](https://open.spotify.com/track/2PToyUgUHW6iCPUKCvIhzw) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Es Suficiente](https://open.spotify.com/album/4h6A3AMTn8FC0Li0D6dkk6) | 3:40 | 2022-04-15 | 2022-07-29 |
 | [Esperancita](https://open.spotify.com/track/0hCsSxKmlBFfcoiAEGta0H) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Esperancita](https://open.spotify.com/album/5uEnrbRANWypwVyHXibnfV) | 3:53 | 2022-04-15 | 2022-07-20 |
 | [Estado Vegetal](https://open.spotify.com/track/5V2XCJbps0OnxrVhRifnoN) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Estado Vegetal](https://open.spotify.com/album/677hsNZFSH3CJgXANUH30n) | 3:16 | 2022-04-15 |  |
@@ -96,7 +97,7 @@
 | [Florecer](https://open.spotify.com/track/2t9pRdwTzwgI3ZW6GKC8LO) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ) | [Florecer](https://open.spotify.com/album/1qs77TorQo8steHqvrmvKK) | 3:00 | 2022-07-08 |  |
 | [Frenesí \(Te Perdí\)](https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN) | [Colayuta](https://open.spotify.com/artist/7FayVmhZEu2ewzGQdIH0yt) | [Frenesí \(Te Perdí\)](https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC) | 4:05 | 2022-06-10 |  |
 | [Fricativa Velar Sorda](https://open.spotify.com/track/1zH7ZCIvAbjp8wj0Ftj83h) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Fricativa Velar Sorda](https://open.spotify.com/album/1cZZy68qh5SJKjeC6uHLka) | 2:17 | 2022-04-15 |  |
-| [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 |  |
+| [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 | 2022-04-15 | 2022-07-30 |
 | [Frías](https://open.spotify.com/track/0WWZQYep6VPEJ540Lky528) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Reminiscencias](https://open.spotify.com/album/11mR2hSiH1drggBB5jiq0S) | 3:55 | 2022-04-15 | 2022-07-29 |
 | [Fuego con Usté](https://open.spotify.com/track/5N4ZvLdH5uv3qjcve2wzUL) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego con Usté](https://open.spotify.com/album/0epwZNWGDanwMH5sZKY2O2) | 3:05 | 2022-04-15 | 2022-07-29 |
 | [Fuego Con Usté](https://open.spotify.com/track/6XPvJuPBuoSlPH2nmNQgNU) | [Glo Herrera](https://open.spotify.com/artist/01Tt4JZxiEUvzPnOBNEG57) | [Fuego Con Usté](https://open.spotify.com/album/2g5WlfBZw4SFaiODjojCJg) | 3:05 | 2022-07-22 |  |
@@ -135,7 +136,7 @@
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
 | [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 |  |
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-04-15 | 2022-07-27 |
-| [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 |  |
+| [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 | 2022-07-30 |
 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 | 2022-04-15 |  |
 | [Negación](https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Negación](https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9) | 4:26 | 2022-04-15 |  |
 | [Ngen](https://open.spotify.com/track/3fPT6RHEUzylzTDsIRYsrM) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [TÜFACHI BEAT](https://open.spotify.com/artist/6k5nnu2Y7sy4eg2QR9gBbQ), [ÜÑÜM](https://open.spotify.com/artist/5vdG5FPdkNvlzxE8ecl3sB) | [Ngen](https://open.spotify.com/album/7Hn97v4Hrtx9STRHNI7vO4) | 3:52 | 2022-04-15 | 2022-07-29 |
@@ -231,6 +232,7 @@
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |
 | [Venus](https://open.spotify.com/track/485YGGmmfVXoURU9WePNPk) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/3O1CEge2yagoOo3ufClQ8n) | 4:00 | 2022-07-22 |  |
 | [Venus](https://open.spotify.com/track/76SsQhqJ5VaHoQLvWgaB3x) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Cisne: Lado Negro \(Deluxe\)](https://open.spotify.com/album/5dMNce8X1rbwCsLL2Vmnn2) | 4:00 | 2022-04-15 | 2022-07-28 |
+| [Viajar](https://open.spotify.com/track/4b0ZUkdR9I3gzheXwGpNum) | [Planeta Audaz](https://open.spotify.com/artist/3ujqpR2peYwssiN7McMIW7) | [Viajar](https://open.spotify.com/album/5IiLPLPLVjRNspfw2mvj24) | 3:38 | 2022-07-29 |  |
 | [Viejita MÍa](https://open.spotify.com/track/7M3WZm3YImqCVQi1ZzU618) | [Noah Blanco](https://open.spotify.com/artist/6hvHgeAdTGsFMPm5NJM2Ve), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Viejita MÍa](https://open.spotify.com/album/4sNqiULYzQn616xc9J08Jt) | 3:17 | 2022-06-10 |  |
 | [Viento](https://open.spotify.com/track/3EkrzuhAgUW4M9fE6wahzA) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Viento](https://open.spotify.com/album/3WnB9GqHIIrq0MKoL8rJpD) | 5:09 | 2022-04-15 |  |
 | [Vinito Chilenito](https://open.spotify.com/track/2VMwX7KXep4jOzWyfyuPJN) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Vinito Chilenito](https://open.spotify.com/album/2lHvzkJXXBE1WC6JzsAFYd) | 2:43 | 2022-04-15 |  |

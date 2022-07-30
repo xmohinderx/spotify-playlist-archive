@@ -1,12 +1,12 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 406023,
+  "num_followers": 406222,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDQwNjE3YWE5N2Y4NGE5YWFjNzIwNjJjYzQ4YWFhNDlk",
+  "snapshot_id": "MTY1OTA0NTY2MCwwMDAwMDAwMDEwYmRjODcyZTViZDg3YTQ3MmJkYTQ2NWZmOWRlY2Mw",
   "tracks": [
     {
       "added_at": "2022-07-28 22:01:00",
@@ -131,6 +131,46 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Back 2 Rave",
+        "url": "https://open.spotify.com/album/6TukxozNPkSu12iDmvOWNM"
+      },
+      "artists": [
+        {
+          "name": "Mairee",
+          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "duration_ms": 190182,
+      "name": "Back 2 Rave",
+      "url": "https://open.spotify.com/track/4rTOQUiYpf0dZW51IvWkxd"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Scottica",
+        "url": "https://open.spotify.com/album/3pKmpzJ7iCdS2aWqGZItxy"
+      },
+      "artists": [
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        }
+      ],
+      "duration_ms": 199104,
+      "name": "Scottica",
+      "url": "https://open.spotify.com/track/2QuExWpkrLtOKV9fXAtroc"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "The Road I'm On",
         "url": "https://open.spotify.com/album/2LoZ43O8cJ277FZLoGn8UU"
       },
@@ -191,22 +231,18 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Back 2 Rave",
-        "url": "https://open.spotify.com/album/6TukxozNPkSu12iDmvOWNM"
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
       },
       "artists": [
         {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        },
-        {
-          "name": "Revealed Recordings",
-          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 190182,
-      "name": "Back 2 Rave",
-      "url": "https://open.spotify.com/track/4rTOQUiYpf0dZW51IvWkxd"
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -223,22 +259,6 @@
       "duration_ms": 244347,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/1JpwB9AGXsCLbjH0VkI1ML"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -307,6 +327,26 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "See The Light",
+        "url": "https://open.spotify.com/album/2jtU9gx30PSYWExLBYrMVD"
+      },
+      "artists": [
+        {
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+        },
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -331,26 +371,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "See The Light",
-        "url": "https://open.spotify.com/album/2jtU9gx30PSYWExLBYrMVD"
-      },
-      "artists": [
-        {
-          "name": "Neelix",
-          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
-        },
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "See The Light",
-      "url": "https://open.spotify.com/track/0LyfNbnOzyPNc8QG8UBkmp"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/2dSndYO0oWrvM2A5PsTJNb"
       },
@@ -371,26 +391,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/65G7QPAibCTPZLAjVR8AWD"
-      },
-      "artists": [
-        {
-          "name": "Fabio Fusco",
-          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
-        },
-        {
-          "name": "Joicey",
-          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
-        }
-      ],
-      "duration_ms": 351304,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4pRfuQTMVQQRYs039HEY0X"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Aware",
         "url": "https://open.spotify.com/album/03C5aokmrg7mZq0odQryVu"
       },
@@ -407,22 +407,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "In the Middle",
-        "url": "https://open.spotify.com/album/1h0rrzX2J3Krv1PkAJXWMt"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/65G7QPAibCTPZLAjVR8AWD"
       },
       "artists": [
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+          "name": "Fabio Fusco",
+          "url": "https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7"
         },
         {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+          "name": "Joicey",
+          "url": "https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK"
         }
       ],
-      "duration_ms": 186086,
-      "name": "In the Middle",
-      "url": "https://open.spotify.com/track/64xXJHoaNRJ9yXIXrubb0t"
+      "duration_ms": 351304,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4pRfuQTMVQQRYs039HEY0X"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -503,22 +503,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Freetown",
-        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
+        "name": "In the Middle",
+        "url": "https://open.spotify.com/album/1h0rrzX2J3Krv1PkAJXWMt"
       },
       "artists": [
         {
-          "name": "Phaxe",
-          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         },
         {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
         }
       ],
-      "duration_ms": 389781,
-      "name": "Freetown",
-      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
+      "duration_ms": 186086,
+      "name": "In the Middle",
+      "url": "https://open.spotify.com/track/64xXJHoaNRJ9yXIXrubb0t"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -559,26 +559,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG"
+        "name": "Freetown",
+        "url": "https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU"
       },
       "artists": [
         {
-          "name": "Memento Mori",
-          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+          "name": "Phaxe",
+          "url": "https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN"
         },
         {
-          "name": "Massivebass",
-          "url": "https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI"
-        },
-        {
-          "name": "Max Tase",
-          "url": "https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m"
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
         }
       ],
-      "duration_ms": 219310,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd"
+      "duration_ms": 389781,
+      "name": "Freetown",
+      "url": "https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -599,6 +595,30 @@
       "duration_ms": 159642,
       "name": "You Make Me Feel - Radio Version",
       "url": "https://open.spotify.com/track/3HfNwsFZJZG264FxqQt78N"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2YIxJt6k9uC6ep6krFNuJG"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Massivebass",
+          "url": "https://open.spotify.com/artist/5p9GQuGCJcfovjMcDk3ZyI"
+        },
+        {
+          "name": "Max Tase",
+          "url": "https://open.spotify.com/artist/1TciVq9gxOXxCUKcR05O8m"
+        }
+      ],
+      "duration_ms": 219310,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/74fwN6K31SM39qanJOfDxd"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -695,34 +715,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Rise The Remixes",
-        "url": "https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Tristan",
-          "url": "https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc"
-        },
-        {
-          "name": "Killerwatts",
-          "url": "https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH"
-        },
-        {
-          "name": "GMS",
-          "url": "https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt"
-        }
-      ],
-      "duration_ms": 427605,
-      "name": "We are Psychedelic - GMS Remix",
-      "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
       },
@@ -767,6 +759,34 @@
       "duration_ms": 311739,
       "name": "We Gonna Groove",
       "url": "https://open.spotify.com/track/4hg7TYiqqKeyHZMwErkJdy"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Rise The Remixes",
+        "url": "https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Tristan",
+          "url": "https://open.spotify.com/artist/4dksllH87LsrZgin0ee2uc"
+        },
+        {
+          "name": "Killerwatts",
+          "url": "https://open.spotify.com/artist/2TWfxrplORQwuUCsF9husH"
+        },
+        {
+          "name": "GMS",
+          "url": "https://open.spotify.com/artist/1jLsr1sNO2WshuzmSibSIt"
+        }
+      ],
+      "duration_ms": 427605,
+      "name": "We are Psychedelic - GMS Remix",
+      "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -875,6 +895,26 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
+      },
+      "artists": [
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        },
+        {
+          "name": "Stryker",
+          "url": "https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF"
+        }
+      ],
+      "duration_ms": 560571,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "STFD (Remix)",
         "url": "https://open.spotify.com/album/7I7kTiZ5UcBnkIHbgzoJ4A"
       },
@@ -895,26 +935,6 @@
       "duration_ms": 178206,
       "name": "STFD (Remix)",
       "url": "https://open.spotify.com/track/3cr4nLS3rbzII8fqvsDO5N"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        },
-        {
-          "name": "Stryker",
-          "url": "https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF"
-        }
-      ],
-      "duration_ms": 560571,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -983,26 +1003,6 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
-        }
-      ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
         "name": "Art & Melody",
         "url": "https://open.spotify.com/album/4twfO817zVAGCfuZEg4bPy"
       },
@@ -1019,6 +1019,26 @@
       "duration_ms": 301714,
       "name": "Art & Melody",
       "url": "https://open.spotify.com/track/0jIvbSHnTGlXbryMYaxohh"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1111,18 +1131,38 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Way Down",
-        "url": "https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI"
+        "name": "Yuma",
+        "url": "https://open.spotify.com/album/7I3R6U0cl0daIU6cSaKpPz"
       },
       "artists": [
         {
-          "name": "Cloud7",
-          "url": "https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs"
+          "name": "Tejo",
+          "url": "https://open.spotify.com/artist/3qv48wcCS83mCytB0V2Yki"
         }
       ],
-      "duration_ms": 379300,
-      "name": "Way Down",
-      "url": "https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is"
+      "duration_ms": 406750,
+      "name": "Yuma",
+      "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Avalon",
+          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+        }
+      ],
+      "duration_ms": 491666,
+      "name": "Sapana - Avalon Remix",
+      "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1151,22 +1191,18 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Pa Moru",
-        "url": "https://open.spotify.com/album/0VOsdhP7EvjUkb0dDk1QHb"
+        "name": "Way Down",
+        "url": "https://open.spotify.com/album/6k5XMwU0mIwIgRmCZVKKwI"
       },
       "artists": [
         {
-          "name": "DistinctSide",
-          "url": "https://open.spotify.com/artist/5eat6gFMCO6nvWNDOTHSrW"
-        },
-        {
-          "name": "Formation",
-          "url": "https://open.spotify.com/artist/1P2i2PJB5fd73p7lQgBaHH"
+          "name": "Cloud7",
+          "url": "https://open.spotify.com/artist/1v58vTDfehAnHXZ3pvvkbs"
         }
       ],
-      "duration_ms": 326073,
-      "name": "Pa Moru",
-      "url": "https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI"
+      "duration_ms": 379300,
+      "name": "Way Down",
+      "url": "https://open.spotify.com/track/3vQurSrefHhu4M7f71U0is"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1183,46 +1219,6 @@
       "duration_ms": 487058,
       "name": "Center of The Earth",
       "url": "https://open.spotify.com/track/1UZgvaFANZEMreNPbwWZZ6"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
-      },
-      "artists": [
-        {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
-        }
-      ],
-      "duration_ms": 491666,
-      "name": "Sapana - Avalon Remix",
-      "url": "https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/4gotLApMFWxO3TXNWNuCh8"
-      },
-      "artists": [
-        {
-          "name": "Menumas",
-          "url": "https://open.spotify.com/artist/4Twac77vlS7hFrMd0tcd4B"
-        },
-        {
-          "name": "Raz",
-          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
-        }
-      ],
-      "duration_ms": 407382,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1251,18 +1247,42 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Yuma",
-        "url": "https://open.spotify.com/album/7I3R6U0cl0daIU6cSaKpPz"
+        "name": "Pa Moru",
+        "url": "https://open.spotify.com/album/0VOsdhP7EvjUkb0dDk1QHb"
       },
       "artists": [
         {
-          "name": "Tejo",
-          "url": "https://open.spotify.com/artist/3qv48wcCS83mCytB0V2Yki"
+          "name": "DistinctSide",
+          "url": "https://open.spotify.com/artist/5eat6gFMCO6nvWNDOTHSrW"
+        },
+        {
+          "name": "Formation",
+          "url": "https://open.spotify.com/artist/1P2i2PJB5fd73p7lQgBaHH"
         }
       ],
-      "duration_ms": 406750,
-      "name": "Yuma",
-      "url": "https://open.spotify.com/track/45gdJm5UPBR1zQWVuK50eJ"
+      "duration_ms": 326073,
+      "name": "Pa Moru",
+      "url": "https://open.spotify.com/track/2eKgk6fWOsmN7N8R7uhbQI"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/4gotLApMFWxO3TXNWNuCh8"
+      },
+      "artists": [
+        {
+          "name": "Menumas",
+          "url": "https://open.spotify.com/artist/4Twac77vlS7hFrMd0tcd4B"
+        },
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        }
+      ],
+      "duration_ms": 407382,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/6C9HiTTS0fNatgaxoDlS9X"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1359,6 +1379,22 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
+        "name": "Dark Oscillator",
+        "url": "https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF"
+      },
+      "artists": [
+        {
+          "name": "Audiomatic",
+          "url": "https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Dark Oscillator",
+      "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
+    },
+    {
+      "added_at": "2022-07-28 22:01:00",
+      "album": {
         "name": "A Mountain Told Me",
         "url": "https://open.spotify.com/album/4XbEEymjllRINpMPy3JUMw"
       },
@@ -1375,18 +1411,18 @@
     {
       "added_at": "2022-07-28 22:01:00",
       "album": {
-        "name": "Dark Oscillator",
-        "url": "https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF"
+        "name": "M.A.D",
+        "url": "https://open.spotify.com/album/7lubwx5sWnh4IDHNyZSZLb"
       },
       "artists": [
         {
-          "name": "Audiomatic",
-          "url": "https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV"
+          "name": "Interactive Noise",
+          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
         }
       ],
-      "duration_ms": 379130,
-      "name": "Dark Oscillator",
-      "url": "https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW"
+      "duration_ms": 309250,
+      "name": "M.A.D",
+      "url": "https://open.spotify.com/track/4F7kyS6wcQwQnkQtj2sG1u"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1419,22 +1455,6 @@
       "duration_ms": 329142,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0fFsHbbvN4HRu6XE2vrPyO"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "M.A.D",
-        "url": "https://open.spotify.com/album/7lubwx5sWnh4IDHNyZSZLb"
-      },
-      "artists": [
-        {
-          "name": "Interactive Noise",
-          "url": "https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv"
-        }
-      ],
-      "duration_ms": 309250,
-      "name": "M.A.D",
-      "url": "https://open.spotify.com/track/4F7kyS6wcQwQnkQtj2sG1u"
     },
     {
       "added_at": "2022-07-28 22:01:00",
@@ -1475,26 +1495,6 @@
       "duration_ms": 334285,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/7uGq08EZFUOh88CuEYNso0"
-    },
-    {
-      "added_at": "2022-07-28 22:01:00",
-      "album": {
-        "name": "Novo Mundo",
-        "url": "https://open.spotify.com/album/1Xo9Exo6vF4R8uy7odTUsj"
-      },
-      "artists": [
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        },
-        {
-          "name": "Synesthetic",
-          "url": "https://open.spotify.com/artist/3pj3146DprJSQuMVAKrfY6"
-        }
-      ],
-      "duration_ms": 373943,
-      "name": "Novo Mundo",
-      "url": "https://open.spotify.com/track/04qez0ficd7e4SdHjkxoMq"
     }
   ],
   "unique_name": "Psytrance Supernova",

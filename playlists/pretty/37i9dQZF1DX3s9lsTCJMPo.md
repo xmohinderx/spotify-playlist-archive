@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,169 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,250 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 16 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 17 | [Full Extreme](https://open.spotify.com/track/7cRPmS5EeTdWPjgNiDep8e) | [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Full Extreme](https://open.spotify.com/album/1l18YSF3VvABWpP7A2qsUj) | 3:52 |
 | 18 | [Ragga Ragga](https://open.spotify.com/track/2CZLoo5bi0W2GdMsyP79Ei) | [Red Plastic Bag](https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L), [Mac Fingall](https://open.spotify.com/artist/2lpMOrBgegh76K8t1QjiLu) | [Happiness](https://open.spotify.com/album/70bEQRQLzoid7LAE4iWwfz) | 5:37 |
-| 19 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
+| 19 | [Swing Engine](https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Klateye](https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio) | 3:50 |
 | 20 | [In the Party](https://open.spotify.com/track/7ipO6a68H6RCcOnWWt45CY) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [Explosion](https://open.spotify.com/album/02Zcv7IVYSodkfS3g8y22P) | 4:16 |
-| 21 | [Swing Engine](https://open.spotify.com/track/1tGLCHoPHnRH7VuGx5GJzo) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Klateye](https://open.spotify.com/album/0teLxFa4tEdlKQ0TbGzfio) | 3:50 |
+| 21 | [Sugar Bum Bum](https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Forever Vol.1](https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY) | 6:05 |
 | 22 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
 | 23 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 24 | [Ministry of Road \(M.O.R.\)](https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:59 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 33 | [Lorraine](https://open.spotify.com/track/49Tx7hbC5mqsK2PdemDpNn) | [Explainer](https://open.spotify.com/artist/342c2y1LREfgGcGn5ssh4H) | [The Very Best of Explainer Vol.1 & 2](https://open.spotify.com/album/60R5LNq4oXT9jDPrTwF4UV) | 6:01 |
 | 34 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 35 | [Jump](https://open.spotify.com/track/5Oe39YjfLgr9bPh7JG1j7V) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2001](https://open.spotify.com/album/6PKI32VFc89X22YQW0bUf7) | 3:36 |
-| 36 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
-| 37 | [Time to Wine](https://open.spotify.com/track/0RTurdrnHJGULylOqWmgVy) | [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Greatest Hits](https://open.spotify.com/album/1Kp7PlvFtOcW7NtITnKOr4) | 3:31 |
+| 36 | [Time to Wine](https://open.spotify.com/track/0RTurdrnHJGULylOqWmgVy) | [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Greatest Hits](https://open.spotify.com/album/1Kp7PlvFtOcW7NtITnKOr4) | 3:31 |
+| 37 | [Your Body Working](https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Soca758 Vol\. 3](https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4) | 3:25 |
 | 38 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 39 | [Gee Me the Ting](https://open.spotify.com/track/7wls4oEjXyIU7Rmzw392T6) | [Lord Kitchener](https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK) | [Charlie's Golden Hitz of Calypso & Soca](https://open.spotify.com/album/2vqpWf13PYMn6vuXDAMrew) | 5:47 |
 | 40 | [Footsteps \(feat\. Wayne Rodriguez\)](https://open.spotify.com/track/6Wq2U3xlL953CurfNLWfeM) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Wayne Rodriguez](https://open.spotify.com/artist/3tkTFE3gM6p7EWW385JsVJ) | [Charge](https://open.spotify.com/album/6hYk9G38OkC0SQjFOLDoAY) | 4:36 |
@@ -68,16 +68,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 58 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [Crazy](https://open.spotify.com/artist/09tdBgP6yxiWD6DOHIT3j5) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
 | 59 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 60 | [GLOW](https://open.spotify.com/track/0YZ1vakJa3mEF1wXZzmw2S) | [Alison Hinds & David Rudder](https://open.spotify.com/artist/73YH3fBByh0xEhpNYLzHQO) | [D'soca Zone \- The 2ND Wine](https://open.spotify.com/album/4AxjAtUc57rivT8Z1RxApy) | 4:26 |
-| 61 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
-| 62 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
+| 61 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
+| 62 | [Stranger](https://open.spotify.com/track/4QLyhBcWXAX5VyE8Uozp6D) | [Shadow](https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh) | [Just for You](https://open.spotify.com/album/43u4x0zSIFkoxapqDiSozs) | 5:38 |
 | 63 | [Wining Season \(Remix\) \(feat\. Shaggy\)](https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Wining Season](https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW) | 4:01 |
 | 64 | [Thelma](https://open.spotify.com/track/4GnGD3F8t286bMNnmQSIGD) | [South South West](https://open.spotify.com/artist/6JTWIfYtpMTuFSxy3Un39Y) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 4:15 |
 | 65 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
 | 66 | [X Man](https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [X Man](https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp) | 3:41 |
 | 67 | [De River](https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1) | [Blue Ventures](https://open.spotify.com/artist/12gfbAibcI9iJfNAu1QnhO) | [Soca Switch Vol\. 5](https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7) | 4:32 |
 | 68 | [Tremble It](https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI) | [Roy Cape All Stars](https://open.spotify.com/artist/4DuDowt2DHca9YTJkMQ7ne), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Roy Cape: A Calypso and Soca Anthology](https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy) | 4:08 |
-| 69 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
-| 70 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 |
+| 69 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 |
+| 70 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 71 | [Craziness](https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Xtatik Parade](https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E) | 4:34 |
 | 72 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |
 | 73 | [Bassman](https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE) | [Shadow](https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a) | [The Best of the Shadow Vol\. 1](https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI) | 5:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 79 | [Chances](https://open.spotify.com/track/1sDkgD3gACSXmfvTfSAEFP) | [Blue Ventures Feat\. Sanell Dampster](https://open.spotify.com/artist/4GaGAbL4FSXAKhd21dIW8k) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:51 |
 | 80 | [Higher World of Music](https://open.spotify.com/track/2OeQyi8oEx2oiKNaK8zFmt) | [Lord Shorty Creator of Soca Music](https://open.spotify.com/artist/5V9Gp2KOpza5UJ4hqdo1E2) | [Soca Explosion](https://open.spotify.com/album/6eXrGVAex4Wb1TRr6DNqeM) | 5:09 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGExYTQ5NDIwYjUwYjBlNzliNTE1M2Y1YzQ4MjFlOGZj`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDdiOTBjNTU4MDc4Y2NiZWZiNWNlMTY4NDM2ODNiODYz`

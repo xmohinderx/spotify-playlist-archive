@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Telegraph",
+        "url": "https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3"
+      },
+      "artists": [
+        {
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "Atami",
+      "url": "https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY"
+    },
+    {
+      "album": {
         "name": "Atami",
         "url": "https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX"
       },
@@ -297,7 +315,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 238800,
       "name": "Atami",
       "url": "https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207006,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 267666,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W"

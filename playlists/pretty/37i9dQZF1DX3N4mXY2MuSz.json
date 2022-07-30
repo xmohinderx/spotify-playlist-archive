@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favorite punks. Cover: jxdn",
-  "num_followers": 34124,
+  "num_followers": 34123,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMDI5YTM3Mzg1M2U1M2RlNjUxNDNiZDZlZTE0MmY3ZDE4",
+  "snapshot_id": "MTY0MDExMDE4OSwwMDAwMDAwMGI3NzE3ZTNkYzZjNTAxZjQzZTJjZDU3ZjgwNGZkYmM0",
   "tracks": [
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Goldfinger Christmas EP",
-        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 86386,
-      "name": "Rudolph The Red-Nosed Reindeer",
-      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Hopeless For The Holidays",
         "url": "https://open.spotify.com/album/6qL1j7QsfiESiZqLbMtMvN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 194000,
       "name": "West Coast Christmas",
       "url": "https://open.spotify.com/track/0tk0q4170soGn03XGksWfn"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "The Goldfinger Christmas EP",
+        "url": "https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 86386,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4"
     },
     {
       "added_at": "2021-11-19 13:39:50",

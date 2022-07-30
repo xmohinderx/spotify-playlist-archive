@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,750 likes - 169 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,787 likes - 171 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,12 +170,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 160 | [I'd Rather Sit In The Shadow](https://open.spotify.com/track/654XQa26b3ginvX2hDqcgK) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [I'd Rather Sit In The Shadow](https://open.spotify.com/album/6LnMDJkByww9cKemT7FUyq) | 3:23 |
 | 161 | [Noon](https://open.spotify.com/track/5xiAGmZz9dYSHOl1QCBTn6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Noon](https://open.spotify.com/album/16lrP8mrOWybTmxg04xn98) | 2:47 |
 | 162 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 |
-| 163 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
-| 164 | [Dulce Añoranza](https://open.spotify.com/track/0vso79lSJGVgHhIMj5AgSS) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Dulce Añoranza](https://open.spotify.com/album/5DGtY0aqP0nmFk3cyZO5s9) | 2:32 |
-| 165 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 |
-| 166 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 |
-| 167 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 |
-| 168 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 |
-| 169 | [Looking Back](https://open.spotify.com/track/6RZAuFGShnNxq37NM0SMbH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Looking Back](https://open.spotify.com/album/73s0HB2kuLl7a0wo5N19lY) | 2:28 |
+| 163 | [Wilderness Exit](https://open.spotify.com/track/7MXTBwqSyx2pUURMAT1k7e) | [Knut Bjørnar Asphol](https://open.spotify.com/artist/3O0OUcf7693cHwTBJWKl5K), [KNUT](https://open.spotify.com/artist/6h3SYhsBfgz8N71ozZtHbD) | [Wilderness Exit](https://open.spotify.com/album/1BblbjzdUHX86Ir6rQTu78) | 4:24 |
+| 164 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 |
+| 165 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
+| 166 | [Dulce Añoranza](https://open.spotify.com/track/0vso79lSJGVgHhIMj5AgSS) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Dulce Añoranza](https://open.spotify.com/album/5DGtY0aqP0nmFk3cyZO5s9) | 2:32 |
+| 167 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 |
+| 168 | [Douro River](https://open.spotify.com/track/37TGZZSvrKbQ0iH1Xo53Gm) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [No Words Can Say](https://open.spotify.com/album/03pQM7svs024WrROfEi4j3) | 3:18 |
+| 169 | [Underling](https://open.spotify.com/track/04GCX56L2mtzmoQviPUYqO) | [Vincent Shaub](https://open.spotify.com/artist/1xwN2rlkEDeCMi5w2SB6Kk) | [Underling](https://open.spotify.com/album/7fr39Jc2cRvvH0jrcwIhed) | 2:47 |
+| 170 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 |
+| 171 | [Looking Back](https://open.spotify.com/track/6RZAuFGShnNxq37NM0SMbH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Looking Back](https://open.spotify.com/album/73s0HB2kuLl7a0wo5N19lY) | 2:28 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDAzZGQwMmJlYzIzNWExYTE3OGIyNzY4ODM3YTZkMGE2`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDU2ZDg5NGVmZTlkYTk3NTJmODcwMWUwYjhjMDg3Mzky`

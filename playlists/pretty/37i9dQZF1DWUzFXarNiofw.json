@@ -1,13 +1,173 @@
 {
-  "description": "The newest, freshest R&B tunes.  Cover: SZA & Doechii",
-  "num_followers": 911377,
+  "description": "The newest, freshest R&B tunes.  Cover: Destin Conrad",
+  "num_followers": 911776,
   "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5OTA4OSwwMDAwMDAwMDJjODA4ZGI1ZTM5MTk5YjU4OTUwYTU2YzY5NGVjN2U1",
+  "snapshot_id": "MTY1OTA2Nzc5OSwwMDAwMDAwMGI0NDA2YjkxNTg2ZDQ2M2Y3Mzg2MWExMzQ0ZDgwZWEz",
   "tracks": [
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "New To You (with Normani, Tinashe, & Offset)",
+        "url": "https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 302952,
+      "name": "New To You (with Normani, Tinashe, & Offset)",
+      "url": "https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "DAY PARTY",
+        "url": "https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "DAY PARTY",
+      "url": "https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/1klIcWCcdnwTI3fJlT5pcO"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "Rose (Stripped)",
+        "url": "https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Charlie Heat",
+          "url": "https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw"
+        },
+        {
+          "name": "Ymtk",
+          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
+        },
+        {
+          "name": "Gregory Edwards",
+          "url": "https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD"
+        }
+      ],
+      "duration_ms": 227185,
+      "name": "Rose - Stripped",
+      "url": "https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "sweetie (feat. Scribz Riley)",
+        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 177738,
+      "name": "sweetie (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "Stay In Luv",
+        "url": "https://open.spotify.com/album/0Vdk013Q5SZ5OSiBCkxWy5"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9llen",
+          "url": "https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf"
+        }
+      ],
+      "duration_ms": 172799,
+      "name": "Throw It Away",
+      "url": "https://open.spotify.com/track/1Khn7WhtkBK8ixeI95Msxx"
+    },
     {
       "added_at": "2022-07-22 04:01:59",
       "album": {
@@ -27,6 +187,22 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2022-07-29 04:09:59",
+      "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 159965,
+      "name": "bend you",
+      "url": "https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV"
     },
     {
       "added_at": "2022-07-22 04:01:59",
@@ -273,22 +449,6 @@
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
     },
     {
-      "added_at": "2022-07-15 04:03:18",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192518,
-      "name": "i",
-      "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
-    },
-    {
       "added_at": "2022-07-15 04:17:47",
       "album": {
         "name": "Friends",
@@ -363,22 +523,6 @@
     {
       "added_at": "2022-07-15 04:03:18",
       "album": {
-        "name": "Bad Bad",
-        "url": "https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 219563,
-      "name": "Bad Bad",
-      "url": "https://open.spotify.com/track/1md6otYHFdOp8itdRp4r2h"
-    },
-    {
-      "added_at": "2022-07-15 04:03:18",
-      "album": {
         "name": "Caution / Turn Around",
         "url": "https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB"
       },
@@ -443,30 +587,6 @@
       "duration_ms": 148800,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/2m81AlvTDGiN95KcktNGlJ"
-    },
-    {
-      "added_at": "2022-07-15 04:03:18",
-      "album": {
-        "name": "you know.",
-        "url": "https://open.spotify.com/album/1URgQgR5u5Fvt4lSf7VuKK"
-      },
-      "artists": [
-        {
-          "name": "Maurice Moore",
-          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Ycee",
-          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "you know.",
-      "url": "https://open.spotify.com/track/0GYpa6GYpJAOvC1ySnNRGE"
     },
     {
       "added_at": "2022-07-08 04:13:12",
@@ -669,26 +789,6 @@
       "url": "https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd"
     },
     {
-      "added_at": "2022-07-08 18:37:27",
-      "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
-    },
-    {
       "added_at": "2022-07-09 07:32:42",
       "album": {
         "name": "Rollercoaster",
@@ -779,22 +879,6 @@
     {
       "added_at": "2022-07-08 18:37:27",
       "album": {
-        "name": "Y3",
-        "url": "https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg"
-    },
-    {
-      "added_at": "2022-07-08 18:37:27",
-      "album": {
         "name": "Alarming",
         "url": "https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG"
       },
@@ -863,26 +947,6 @@
     {
       "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Psychic",
-      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
         "name": "Give Or Take",
         "url": "https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L"
       },
@@ -895,22 +959,6 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "love you more than me",
-        "url": "https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 141081,
-      "name": "love you more than me",
-      "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -931,22 +979,6 @@
       "duration_ms": 233746,
       "name": "Comfortable (feat. Fana Hues)",
       "url": "https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "SUICIDE DOORS",
-        "url": "https://open.spotify.com/album/7prk7FfzRoHvk3OLvyE5qL"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 193808,
-      "name": "SUICIDE DOORS",
-      "url": "https://open.spotify.com/track/4zoAzAD3e6QUQxQ4lofpPx"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -1017,22 +1049,6 @@
       "url": "https://open.spotify.com/track/23ms6zeO6s63b7pLum9s87"
     },
     {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Strawberry Moon",
-        "url": "https://open.spotify.com/album/4MAZP6VqDLyDX9Qcyqe5Qq"
-      },
-      "artists": [
-        {
-          "name": "Raury",
-          "url": "https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/5NPNg1glR6Mo2zprm832qW"
-    },
-    {
       "added_at": "2022-06-24 04:00:00",
       "album": {
         "name": "Face Down",
@@ -1071,22 +1087,6 @@
       "duration_ms": 197973,
       "name": "DON'T THEY (REMIX) [feat. Normani]",
       "url": "https://open.spotify.com/track/3u8becTPmigEyasAqCaO2Q"
-    },
-    {
-      "added_at": "2022-06-17 04:01:00",
-      "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 233407,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm"
     },
     {
       "added_at": "2022-06-03 15:16:09",
@@ -1147,38 +1147,6 @@
       "duration_ms": 176701,
       "name": "CALL",
       "url": "https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP"
-    },
-    {
-      "added_at": "2022-06-03 15:16:09",
-      "album": {
-        "name": "EXCHANGE",
-        "url": "https://open.spotify.com/album/2QZQ6HUp0WhpxpnkCqZrkw"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "EXCHANGE",
-      "url": "https://open.spotify.com/track/2DYNyO657ppfS7Hl7jHg7a"
-    },
-    {
-      "added_at": "2022-06-10 04:01:00",
-      "album": {
-        "name": "Bl\u00fc Moon",
-        "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
-      },
-      "artists": [
-        {
-          "name": "THEY.",
-          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Bl\u00fc Moon",
-      "url": "https://open.spotify.com/track/3fZYsBgwG8TUI53S14V0HD"
     }
   ],
   "unique_name": "New Jams",

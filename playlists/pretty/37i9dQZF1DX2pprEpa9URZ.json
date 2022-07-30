@@ -1,12 +1,12 @@
 {
   "description": "This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.",
-  "num_followers": 638623,
+  "num_followers": 638895,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIwNDQ3NSwwMDAwMDAwMDI4MGNkNzViNGNkZTg4NGIwOGYwMmM3YjI1YjA5NWQ0",
+  "snapshot_id": "MTY1NTIwNDQ3NSwwMDAwMDAwMDUyMzQwMjE4MjQzNDJkMDEzNzVhNTdkMTg0OTE5NDVk",
   "tracks": [
     {
       "added_at": "2022-06-14 11:01:14",
@@ -503,6 +503,30 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
+        "name": "Alkebulan Remix",
+        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
+      },
+      "artists": [
+        {
+          "name": "ANT LaROCK",
+          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "David Mayer",
+          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
+        }
+      ],
+      "duration_ms": 470243,
+      "name": "Alkebulan - David Mayer Remix",
+      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
         "name": "Nterini (Sparrow & Barbossa Remix)",
         "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
       },
@@ -543,26 +567,26 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Alkebulan Remix",
-        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
       "artists": [
         {
-          "name": "ANT LaROCK",
-          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
         },
         {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
         },
         {
-          "name": "David Mayer",
-          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
         }
       ],
-      "duration_ms": 470243,
-      "name": "Alkebulan - David Mayer Remix",
-      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -595,30 +619,6 @@
       "duration_ms": 327750,
       "name": "Seymour",
       "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
-      },
-      "artists": [
-        {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
-        }
-      ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Aguacero",
-        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
-      },
-      "artists": [
-        {
-          "name": "Sebjak",
-          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
-        }
-      ],
-      "duration_ms": 402545,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Aguacero",
+        "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
+      },
+      "artists": [
+        {
+          "name": "Sebjak",
+          "url": "https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA"
+        }
+      ],
+      "duration_ms": 402545,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -831,42 +831,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Words Don't Come Easy, Pt. 6",
-        "url": "https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Can You See What I See",
-      "url": "https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
-      },
-      "artists": [
-        {
-          "name": "Victor Norman",
-          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
-        }
-      ],
-      "duration_ms": 468767,
-      "name": "Showdown",
-      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Jendayi EP",
         "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
@@ -883,18 +847,22 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+        "name": "Words Don't Come Easy, Pt. 6",
+        "url": "https://open.spotify.com/album/0MhcYIMgVVrf3dusIES3ej"
       },
       "artists": [
         {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
         }
       ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+      "duration_ms": 400000,
+      "name": "Can You See What I See",
+      "url": "https://open.spotify.com/track/1EbwNU8Iz75oAHWW6mtVDe"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -919,6 +887,38 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm"
+      },
+      "artists": [
+        {
+          "name": "Victor Norman",
+          "url": "https://open.spotify.com/artist/3R3CgKhPdCWFnE3ISN8zS9"
+        }
+      ],
+      "duration_ms": 468767,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/07BZ5ASG2Pf9LhxfZhqi09"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Take Me Back",
         "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 286392,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
-        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
       },
       "artists": [
         {
-          "name": "Geju",
-          "url": "https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e"
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
         }
       ],
-      "duration_ms": 417587,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/7DlIf50uAWVSsf6X8nZ9L8"
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     }
   ],
   "unique_name": "Org\u00e1nica",

@@ -4,7 +4,7 @@
 
 > Instrumental beats to boost your weight lifting workout.
 
-147 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
+149 songs - 6 hr 53 min - [published](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Audio Picasso](https://open.spotify.com/track/2MK4c1sVXnaRHhhfjCIAEP) | [mzet](https://open.spotify.com/artist/4bpq7LWyKylbYqwDgly14Y), [typico](https://open.spotify.com/artist/4e1Z2c8EJSfqh5a0hW7jyq) | [Lavanda](https://open.spotify.com/album/2eCYNfhTRAydtfh7j3WY45) | 2:49 | 2022-04-22 |  |
 | [BandMan](https://open.spotify.com/track/6Sbx6Ma3X6YYFavy1UHL7z) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Energizer](https://open.spotify.com/album/04eOFB9yAJwn7bj5MnMFQ3) | 2:20 | 2021-11-11 |  |
 | [Bat Caves](https://open.spotify.com/track/4omSC1rruHivDrNEM2ugWk) | [Captain XY](https://open.spotify.com/artist/0fYeCYtwaOrxHt0Wwkbb1t) | [Bat Caves](https://open.spotify.com/album/1dOhk7htVNUuZFxPIiUzcO) | 2:33 | 2022-06-24 |  |
+| [BATON ROUGE](https://open.spotify.com/track/73pgj7Xz1j16ixHEOiyZYB) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO) | [BATON ROUGE](https://open.spotify.com/album/4miX0VgpJpJqMlXz32JdSE) | 2:24 | 2022-07-29 |  |
 | [Bill It](https://open.spotify.com/track/4fLhfwGir9leGtBN742RJI) | [Screwbar](https://open.spotify.com/artist/4wFYoFRNMyPuk7YbtENoz9) | [Bill It](https://open.spotify.com/album/013JmnMUEgURcoddmus2ZR) | 2:51 | 2021-11-11 | 2022-05-14 |
 | [Bottomless](https://open.spotify.com/track/2z1BzTxjbkZONWcC31dB7o) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Bottomless](https://open.spotify.com/album/7Bhova4DJBNdj2ey7L84iY) | 2:12 | 2021-11-11 |  |
 | [Brutal Wishes](https://open.spotify.com/track/7yM1bz379moGe4Plh82580) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [Brutal Wishes](https://open.spotify.com/album/2u7BOJPweym8fbSgqOGw9k) | 2:40 | 2022-02-16 |  |
@@ -37,6 +38,7 @@
 | [Composure](https://open.spotify.com/track/4C4sN0TViLk3P2htA7tPC2) | [Leytonstoned](https://open.spotify.com/artist/6ZbJZBtFBl9YHooEmEBe0m) | [Composure](https://open.spotify.com/album/3jIkn3PQdzq1sLoz82R7ub) | 1:48 | 2021-11-11 |  |
 | [Criminal](https://open.spotify.com/track/76zhOrQn8dhBnyFTeteLaJ) | [DJ M](https://open.spotify.com/artist/3P5DeQSZXl547HcStiUkoY) | [Criminal](https://open.spotify.com/album/30pgaBfjKpz1GZpcwNhyum) | 2:17 | 2022-07-15 |  |
 | [Distorcido](https://open.spotify.com/track/1veEROQqh83r67W1gthulY) | [I Mps I](https://open.spotify.com/artist/0i44Z70SJWehRFJQJOAm36) | [Mps Ii](https://open.spotify.com/album/2ITKfOcwympjJyTPV5AnJ7) | 1:18 | 2021-11-11 |  |
+| [DO YOU HAVE THE DRUGS](https://open.spotify.com/track/2TrTDkj7cHjME50RaEZ3iZ) | [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK), [Grimmjøw](https://open.spotify.com/artist/7uzsn9U6OTLBagyn5sQSnL) | [DELUSIONS III](https://open.spotify.com/album/3f4QMkLNvMJ7mYloBZtJBD) | 3:50 | 2022-07-29 |  |
 | [Edén](https://open.spotify.com/track/5HPE8nk9CE58K5sRuw6GY6) | [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [Edén](https://open.spotify.com/album/3CoNv5qTB6GN0EzLbzweGK) | 3:35 | 2022-04-08 |  |
 | [Entropy](https://open.spotify.com/track/441YIkP32be2LQ2Ol6LMmT) | [BassEQ](https://open.spotify.com/artist/4w4B079eb5jukk7o2nvL49) | [BassEQ Beats](https://open.spotify.com/album/147Elkn8P9wvep6M4kqsf0) | 5:03 | 2021-11-11 |  |
 | [Erupción](https://open.spotify.com/track/4yP4xQ4xpLziT9uKMZSTSr) | [Reli Beats](https://open.spotify.com/artist/533xFrFfSzMUl4IvUT7YH5), [Azerbeats](https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T) | [Erupción](https://open.spotify.com/album/6lbFFtcNaBHaQZvSAizyZ8) | 2:33 | 2022-04-22 |  |

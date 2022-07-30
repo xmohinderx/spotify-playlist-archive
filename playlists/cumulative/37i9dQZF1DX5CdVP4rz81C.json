@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 153065,
       "name": "24 48",
       "url": "https://open.spotify.com/track/74PIF3XMo1MpPutKxQYPGy"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 183014,
       "name": "All 4 Nothing (I'm So In Love)",
       "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
@@ -2537,7 +2537,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 178720,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96"
@@ -3938,6 +3938,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Go, Don\u2019t Leave",
+        "url": "https://open.spotify.com/album/6AYpseGYHB6Pmln8Wvcsey"
+      },
+      "artists": [
+        {
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195659,
+      "name": "Don't Go, Don't Leave",
+      "url": "https://open.spotify.com/track/3Cg9Ds1CWQUGuQoQ9QvjDl"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Let The Neighbourhood Hear",
         "url": "https://open.spotify.com/album/57lKuhB7vBXhnDDucoYDNJ"
       },
@@ -4151,7 +4169,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 226035,
       "name": "East End Coast",
       "url": "https://open.spotify.com/track/7iBPtgnL0CcOKy96R7JXIO"
@@ -7296,6 +7314,24 @@
     },
     {
       "album": {
+        "name": "If It's Not God",
+        "url": "https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "If It's Not God",
+      "url": "https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV"
+    },
+    {
+      "album": {
         "name": "If The World Ended Tonight (From The Netflix Film \"To All The Boys: Always and Forever\")",
         "url": "https://open.spotify.com/album/0K8WFKwMeLWl7Je98idoOF"
       },
@@ -7589,7 +7625,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 162870,
       "name": "It Still Rains in Paradise",
       "url": "https://open.spotify.com/track/7nSRwnGtocax7zFgNnR70D"
@@ -8033,6 +8069,24 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+    },
+    {
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/5fHSE2GHqdKqoHfUqpDLgs"
+      },
+      "artists": [
+        {
+          "name": "Leah Nobel",
+          "url": "https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213397,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/23YJ9ngmLThhOWwL3ZYYuj"
     },
     {
       "album": {
@@ -8963,7 +9017,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 174489,
       "name": "Love Like That (Words from Her)",
       "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
@@ -9938,6 +9992,24 @@
     },
     {
       "album": {
+        "name": "Narcissist",
+        "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172878,
+      "name": "Narcissist",
+      "url": "https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK"
+    },
+    {
+      "album": {
         "name": "Never Had a Chance",
         "url": "https://open.spotify.com/album/5td0jzs96pRarCswOchXN8"
       },
@@ -10371,7 +10443,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 169237,
       "name": "Numb Little Bug",
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
@@ -11758,6 +11830,24 @@
     },
     {
       "album": {
+        "name": "Rooftops",
+        "url": "https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180248,
+      "name": "Rooftops",
+      "url": "https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ"
       },
@@ -11903,7 +11993,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 218130,
       "name": "Sad Baby",
       "url": "https://open.spotify.com/track/6yDO6Sc8BqeAKruur5601B"
@@ -11921,7 +12011,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 212093,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/7cSLuynax4DXSi9G28wPXk"
@@ -12358,6 +12448,24 @@
     },
     {
       "album": {
+        "name": "Shower With My Clothes On",
+        "url": "https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184479,
+      "name": "Shower With My Clothes On",
+      "url": "https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH"
+    },
+    {
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/5Bb1KAdfxmz6ZaPurgva1H"
       },
@@ -12583,6 +12691,24 @@
       "duration_ms": 189480,
       "name": "Sleeping On The Phone",
       "url": "https://open.spotify.com/track/1bCNLn0UKZ2wjxN6ZmvcTh"
+    },
+    {
+      "album": {
+        "name": "Sleepover",
+        "url": "https://open.spotify.com/album/06mmJpExaF2lAJR5QcawJ1"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "Sleepover",
+      "url": "https://open.spotify.com/track/1w8mRQivwx1lwFd35UoNSE"
     },
     {
       "album": {
@@ -15589,7 +15715,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 172490,
       "name": "What's Been On Your Mind?",
       "url": "https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2"

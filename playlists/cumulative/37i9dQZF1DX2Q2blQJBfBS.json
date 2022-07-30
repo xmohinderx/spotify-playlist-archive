@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 95641,
       "name": "3-Peat",
       "url": "https://open.spotify.com/track/6VunQ48ENB7UmGEg9SExXk"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 169020,
       "name": "Across the Spot",
       "url": "https://open.spotify.com/track/3eSEQwimF1i7qkie94428l"
@@ -1248,6 +1248,28 @@
     },
     {
       "album": {
+        "name": "Come on in",
+        "url": "https://open.spotify.com/album/1FvPOPVOTdEUruMBrL8yFR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Alexander",
+          "url": "https://open.spotify.com/artist/3aY5vFyTSP6wnIkddlb7lC"
+        },
+        {
+          "name": "Leonard Dstroy",
+          "url": "https://open.spotify.com/artist/31YOBd0gftAsAQb02B1ZiD"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146679,
+      "name": "Come on in",
+      "url": "https://open.spotify.com/track/5Ji2Ar5rEBjoN3Hign8el9"
+    },
+    {
+      "album": {
         "name": "Uptown Saturday Night",
         "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
       },
@@ -1955,7 +1977,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 243266,
       "name": "DWYCK",
       "url": "https://open.spotify.com/track/7vcepKD1pjulQvPOkiQmUe"
@@ -2551,6 +2573,24 @@
       "duration_ms": 194866,
       "name": "Glory",
       "url": "https://open.spotify.com/track/0OToL1xjIgi210oqKSZrjJ"
+    },
+    {
+      "album": {
+        "name": "MEMO",
+        "url": "https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174401,
+      "name": "GOOD TO BE HOME II",
+      "url": "https://open.spotify.com/track/2BcHRkwWWAcucXyFlI8kDA"
     },
     {
       "album": {
@@ -4015,7 +4055,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-14",
+      "date_removed": null,
       "duration_ms": 205250,
       "name": "Lose the Ground (feat. Yu & Tall Black Guy)",
       "url": "https://open.spotify.com/track/69vqqhQ9krPXOso59QUTcw"
@@ -4396,6 +4436,54 @@
     },
     {
       "album": {
+        "name": "Desired Effect",
+        "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
+      },
+      "artists": [
+        {
+          "name": "Moka Only",
+          "url": "https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133080,
+      "name": "More Soup",
+      "url": "https://open.spotify.com/track/0C5Nxw2GNFMzinyLklHTYA"
+    },
+    {
+      "album": {
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/6JsKd55kYxqe4J9itPHEK0"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "Noveliss",
+          "url": "https://open.spotify.com/artist/1UGDRPJLpMkqbtvPtH4hxG"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260062,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/5ZrvXAqXaFW1MJe0xkgDbh"
+    },
+    {
+      "album": {
         "name": "Secret Wars",
         "url": "https://open.spotify.com/album/1EXBzk7V0LkZJQJ6jwRH9z"
       },
@@ -4547,7 +4635,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 237026,
       "name": "Nas Is Like",
       "url": "https://open.spotify.com/track/3gY6tiCNsuVi6s8kPV6aQg"
@@ -4833,7 +4921,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 206496,
       "name": "No Filter",
       "url": "https://open.spotify.com/track/2cMsDs7lzJOYG9c8NNIeqD"
@@ -5095,6 +5183,32 @@
       "duration_ms": 191531,
       "name": "Off The Cuff",
       "url": "https://open.spotify.com/track/1Zo7G25vrCLAFpMzGwiQVX"
+    },
+    {
+      "album": {
+        "name": "Official Waves (Manny Megz Remix)",
+        "url": "https://open.spotify.com/album/0Z4UXDDx181fQHlbtHaAcD"
+      },
+      "artists": [
+        {
+          "name": "Kool G Rap",
+          "url": "https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp"
+        },
+        {
+          "name": "Hus KingPin",
+          "url": "https://open.spotify.com/artist/4IBACd17ekILQx6xdtKxyI"
+        },
+        {
+          "name": "Manny Megz",
+          "url": "https://open.spotify.com/artist/2WidFQxqT78Fx2kF44gSzb"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "Official Waves - Manny Megz Remix",
+      "url": "https://open.spotify.com/track/52VsfNKuzh2nH2zucUKdZ1"
     },
     {
       "album": {
@@ -5837,7 +5951,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 219715,
       "name": "Ratatatattle (feat. Blu, Lord Apex & Kota the Friend)",
       "url": "https://open.spotify.com/track/20XPfax67wXXEpr7ylwcGh"
@@ -6699,7 +6813,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Summertime Fine",
       "url": "https://open.spotify.com/track/5NJqYasrlre1hZxeT7NCFb"
@@ -6801,7 +6915,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 55250,
       "name": "THA REAL REEL",
       "url": "https://open.spotify.com/track/0UvCAnDXn6K57xATqw25gM"

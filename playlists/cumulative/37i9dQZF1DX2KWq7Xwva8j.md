@@ -4,7 +4,7 @@
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-127 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
+128 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [La Culpable](https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY), [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [La Culpable](https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp) | 3:17 | 2022-06-06 |  |
 | [La Historia \- \(Respuesta\)](https://open.spotify.com/track/00ezmLeUiLssWmBNTwcDC4) | [Lorena Santos](https://open.spotify.com/artist/5ACW0L3lAgfRihTOhV8awe) | [La Historia \(Respuesta\)](https://open.spotify.com/album/0I4I1NFyd1b6kttvTKdsah) | 2:24 | 2022-01-06 | 2022-06-07 |
 | [La Lluvia](https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [La Lluvia](https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0) | 2:34 | 2022-02-24 |  |
+| [la pestaña que soplé](https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la pestaña que soplé](https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r) | 2:20 | 2022-07-28 |  |
 | [Lejos de Ti](https://open.spotify.com/track/41cjGl3GutC8CJD6iBV153) | [Cocco Lexa](https://open.spotify.com/artist/5WMoWNq8DuL9pob4qu7mau), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Lejos de Ti](https://open.spotify.com/album/5p8mllIcbaH0YYtntJdYAV) | 3:26 | 2021-12-31 | 2022-01-28 |
 | [limón y sal](https://open.spotify.com/track/34V5r1MyrcqpjCx97PI13x) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [limón y sal](https://open.spotify.com/album/4JN94nMRgfzhvdvJFTTIdh) | 3:26 | 2022-02-03 | 2022-07-15 |
 | [Lloraré por Ti](https://open.spotify.com/track/1fdRQRnVhW0To5a6dekPZr) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Lloraré por Ti](https://open.spotify.com/album/79X7EqEj7YlMMZDJm6Ug5a) | 3:30 | 2021-12-31 | 2022-02-25 |

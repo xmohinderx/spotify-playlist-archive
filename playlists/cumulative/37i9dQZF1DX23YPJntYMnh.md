@@ -2,9 +2,9 @@
 
 ### [Funk Rock](https://open.spotify.com/playlist/37i9dQZF1DX23YPJntYMnh)
 
-> Funk\. But heavier\. Cover: Red Hot Chili Peppers
+> Funk\. But heavier\. Cover: King's X
 
-99 songs - 6 hr 47 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
+100 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1KTxmWuvQtnOhdeEbvCNuK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2020-01-08 |  |
 | [Gettin' Tighter](https://open.spotify.com/track/3R21LktdU3UAKYWGiD5Jr0) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Come Taste the Band](https://open.spotify.com/album/6cShl77TjfWE5uC2Qv7ryb) | 3:37 | 2020-01-08 | 2022-07-29 |
 | [Give It Away](https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:42 | 2020-01-08 |  |
-| [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 | 2020-01-08 |  |
+| [Give It Up](https://open.spotify.com/track/1fob4CISofwxucGAjaXI14) | [King's X](https://open.spotify.com/artist/3tn79LMMIdIT1T0TXumjaH) | [Give It Up](https://open.spotify.com/album/2JfYe3kVt5Q9euIFJOvAUx) | 2:59 | 2022-07-29 |  |
+| [Good Grief](https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6) | [Urban Dance Squad](https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC) | [The Singles Collection](https://open.spotify.com/album/6MIl1ERfeaobCbKVAG7y3i) | 4:24 | 2020-01-08 | 2022-07-30 |
 | [Got It Goin' On](https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf) | [24\-7 Spyz](https://open.spotify.com/artist/5EvYDcSvmVxZuMe4faStNq) | [Strength In Numbers](https://open.spotify.com/album/4cIsAEkxSuMadGd9B3KbXX) | 4:57 | 2020-01-08 | 2022-07-28 |
 | [Holy Roller](https://open.spotify.com/track/3P4TrKsWjKeFakkZXu1Yt2) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/5ohJawP6UajQ6ZIjWxnvM6) | 4:28 | 2020-01-08 | 2022-07-29 |
 | [Honey, Forgive Me](https://open.spotify.com/track/338qTQyYiQXFGNqVKATTmo) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Black Magic](https://open.spotify.com/album/08ZyzICPRguPlORDzrCze2) | 2:22 | 2022-02-04 | 2022-04-18 |

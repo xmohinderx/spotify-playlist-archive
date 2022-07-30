@@ -1,13 +1,141 @@
 {
   "description": "The best new electronic music from Electronica to Techno. Cover: Stella Bossi",
-  "num_followers": 545794,
+  "num_followers": 546213,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODM1MCwwMDAwMDAwMDNiYWYzMzkxZDVhYWI1MDgyYTFmNzg2YmVhMzJlODdj",
+  "snapshot_id": "MTY1OTA0ODM1MCwwMDAwMDAwMDVkOWE1ZmU4MzczMmNjNzg5MGRlMzVjNmI0Y2NlMDAy",
   "tracks": [
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Boring Love",
+        "url": "https://open.spotify.com/album/4Ew2yxuWJjFEgymYZbT73b"
+      },
+      "artists": [
+        {
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
+        }
+      ],
+      "duration_ms": 402461,
+      "name": "Boring Love",
+      "url": "https://open.spotify.com/track/0wE8LMLJQHuMtWHMxyhjpa"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7LgqFEW8MClHIvX9EwJU9W"
+      },
+      "artists": [
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        },
+        {
+          "name": "Frank Klassen",
+          "url": "https://open.spotify.com/artist/7j2H61AQsVF7TUjBPoknSp"
+        }
+      ],
+      "duration_ms": 261613,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/26To29L2K4hJtH4wMg5eKA"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2t96IikgoOKzS0FF74gtJC"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 448057,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/6SWaPVw1U27HKNQ1311hSL"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/5KfHfNi0qULYg2NBNlfgOx"
+      },
+      "artists": [
+        {
+          "name": "Kadosh (IL)",
+          "url": "https://open.spotify.com/artist/3e1Dyl2ZhXliPe3Mls724W"
+        },
+        {
+          "name": "Floyd Lavine",
+          "url": "https://open.spotify.com/artist/5VjxZ6Ik0cmnVlXZ3in6nw"
+        },
+        {
+          "name": "Erika Krall",
+          "url": "https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W"
+        }
+      ],
+      "duration_ms": 388804,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/6dKA9TVqMQRlBYdR5rcSpR"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Born Digital",
+      "url": "https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Subconscious",
+        "url": "https://open.spotify.com/album/5GuHgCcoVrDmGYnpPprN0S"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 339262,
+      "name": "Subconscious",
+      "url": "https://open.spotify.com/track/5R8PgzKg69PUSLxb2CDgzT"
+    },
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
@@ -23,6 +151,78 @@
       "duration_ms": 324705,
       "name": "Take You",
       "url": "https://open.spotify.com/track/6CWvElMTKXAZ1jTrqHczPz"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "In Trance",
+        "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
+      },
+      "artists": [
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "duration_ms": 357305,
+      "name": "In Trance",
+      "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Dance Or Die",
+        "url": "https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 376794,
+      "name": "Dance Or Die",
+      "url": "https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "The Haze",
+        "url": "https://open.spotify.com/album/5SSHSidEiYG1U9AtqfbAkz"
+      },
+      "artists": [
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        },
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        }
+      ],
+      "duration_ms": 246253,
+      "name": "The Haze - Radio Edit",
+      "url": "https://open.spotify.com/track/7JxCGqERhyW9Zi1JFgfBjY"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/1AmayXL6NWVTfnapZuoqcr"
+      },
+      "artists": [
+        {
+          "name": "Alexander Aurel",
+          "url": "https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/5rwiInzM1WFq06CvCr8m1j"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -59,6 +259,22 @@
       "duration_ms": 298713,
       "name": "Water",
       "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Pitchblack | Lupus",
+        "url": "https://open.spotify.com/album/5xbLIFCB2DXv6rX1mxgK1y"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 420982,
+      "name": "Pitchblack",
+      "url": "https://open.spotify.com/track/6GmKCDCug0MntvzR8flnb2"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -131,6 +347,26 @@
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
+        "name": "Just Stay",
+        "url": "https://open.spotify.com/album/3ICIxhIjalYHcf1slfsD64"
+      },
+      "artists": [
+        {
+          "name": "Carbon",
+          "url": "https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK"
+        },
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "duration_ms": 372283,
+      "name": "Just Stay",
+      "url": "https://open.spotify.com/track/2xerM05DvoPwjjU7A6Nf6E"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
         "name": "Don't Hold Back (Yotto Remix)",
         "url": "https://open.spotify.com/album/5My0fkE62bGdDTe0IXMYC4"
       },
@@ -191,6 +427,26 @@
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
+        "name": "Ejecta",
+        "url": "https://open.spotify.com/album/4fwJi68XiiZJIgpdyTOl4t"
+      },
+      "artists": [
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        },
+        {
+          "name": "Jason Vinterra",
+          "url": "https://open.spotify.com/artist/7KfOlABKFK24zk8eOq53sM"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "Ejecta",
+      "url": "https://open.spotify.com/track/73rwSCAYLHj0inu9Be7ER7"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
         "name": "Gamma",
         "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
       },
@@ -219,6 +475,22 @@
       "duration_ms": 417600,
       "name": "Music Train",
       "url": "https://open.spotify.com/track/4RwdePDUvtAOP7ak0UcE3M"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -259,6 +531,26 @@
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
+        "name": "Modern Tranz Opera",
+        "url": "https://open.spotify.com/album/3KtsGvRuhNAyZFq5UJMnO3"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "S\u00d8NIN",
+          "url": "https://open.spotify.com/artist/3SH652OkhCjni8ksczeEdC"
+        }
+      ],
+      "duration_ms": 415278,
+      "name": "Peace Originates",
+      "url": "https://open.spotify.com/track/6eo79FArgVhkgcIzyNH5iZ"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8"
       },
@@ -287,6 +579,42 @@
       "duration_ms": 486137,
       "name": "Solar Detroit",
       "url": "https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Higher Planes",
+        "url": "https://open.spotify.com/album/44bW6Pzo2i8MUdcI6fo7j0"
+      },
+      "artists": [
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
+        },
+        {
+          "name": "Bonaparte",
+          "url": "https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Higher Planes",
+      "url": "https://open.spotify.com/track/3DLxOjUuJNSECI4PZ6cL08"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/74Nkxj48PhowNWMxoIz9SH"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5lTOYADoL5tJq6SZcqXRnw"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -395,6 +723,22 @@
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
         "name": "The True Secrets",
         "url": "https://open.spotify.com/album/6b3y486Y43QZ5VFmaNI5WH"
       },
@@ -455,6 +799,42 @@
       "duration_ms": 192000,
       "name": "The Captain",
       "url": "https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Love Servant",
+        "url": "https://open.spotify.com/album/4pTMA49Uh4Yb1vp2ZXeR0P"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "duration_ms": 321892,
+      "name": "Love Servant",
+      "url": "https://open.spotify.com/track/4Vwbkn67eozZ6oQhBNIIay"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "duration_ms": 272250,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -523,6 +903,26 @@
     {
       "added_at": "2022-07-28 22:45:50",
       "album": {
+        "name": "The Religion of Remix",
+        "url": "https://open.spotify.com/album/4CGEUQu1UnMLLDN4W5iJNy"
+      },
+      "artists": [
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        },
+        {
+          "name": "Hannes Bieger",
+          "url": "https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9"
+        }
+      ],
+      "duration_ms": 432427,
+      "name": "Brummer - Hannes Bieger Remix",
+      "url": "https://open.spotify.com/track/2Geiz84qm3EkFPCBcfd7Vj"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
         "name": "Love Affair",
         "url": "https://open.spotify.com/album/6xQPR7IeK6SagoP3cA9gV8"
       },
@@ -535,6 +935,26 @@
       "duration_ms": 314409,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/4qZkz5m0C2V0TgmLnE9UZ5"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Wir sind die anderen (Boris Dlugosch Club Mix)",
+        "url": "https://open.spotify.com/album/7cSNn3KWTZ1gyPW4fFLRWs"
+      },
+      "artists": [
+        {
+          "name": "2raumwohnung",
+          "url": "https://open.spotify.com/artist/6BHpFo1cbGCGLWh28wa43x"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        }
+      ],
+      "duration_ms": 437693,
+      "name": "Wir sind die anderen - Boris Dlugosch Club Mix",
+      "url": "https://open.spotify.com/track/6wa2mjBPvbXVTGZzFVTiXE"
     },
     {
       "added_at": "2022-07-28 22:45:50",
@@ -687,6 +1107,26 @@
       "duration_ms": 281060,
       "name": "Rainbows and Dreams",
       "url": "https://open.spotify.com/track/1f4xccWnwzfLJLzPWUGhT7"
+    },
+    {
+      "added_at": "2022-07-28 22:45:50",
+      "album": {
+        "name": "Red (James Harcourt Remix)",
+        "url": "https://open.spotify.com/album/0mgtgQd5C8lbXp7hfsSwbe"
+      },
+      "artists": [
+        {
+          "name": "Robert Babicz",
+          "url": "https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB"
+        },
+        {
+          "name": "James Harcourt",
+          "url": "https://open.spotify.com/artist/0vClj7nDFd3J6mRKNmdZ0O"
+        }
+      ],
+      "duration_ms": 425962,
+      "name": "Red - James Harcourt Remix",
+      "url": "https://open.spotify.com/track/1mPcoVJF26uXKgX5qiyy5L"
     },
     {
       "added_at": "2022-07-28 22:45:50",

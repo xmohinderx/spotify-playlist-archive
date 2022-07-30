@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Demi Lovato",
-  "num_followers": 811394,
+  "num_followers": 811466,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5MzcxMywwMDAwMDAwMDEwZDUwNjYzMWM2MTg1MzcxODNjM2E1YTlhOWNkMGY5",
+  "snapshot_id": "MTY1ODc5MzcxMywwMDAwMDAwMDI3MmQ0MTZlOGJiMjI4NTAwYjA1YzExOGIyNDk2MzJh",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
     },
     {
+      "added_at": "2022-02-07 16:43:58",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
       "added_at": "2022-04-08 04:00:00",
       "album": {
         "name": "Broken Hearts Club",
@@ -419,22 +435,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-02-07 16:43:58",
-      "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -597,26 +597,6 @@
       "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Blue Dream Baby",
-        "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
-      },
-      "artists": [
-        {
-          "name": "Fancy Hagood",
-          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 176427,
-      "name": "Blue Dream Baby",
-      "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "I F*cking Love You",
@@ -647,6 +627,26 @@
       "duration_ms": 179326,
       "name": "Blow Out My Candle",
       "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
+        "name": "Blue Dream Baby",
+        "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
+      },
+      "artists": [
+        {
+          "name": "Fancy Hagood",
+          "url": "https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 176427,
+      "name": "Blue Dream Baby",
+      "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "I Wanna Be a Boy",
-        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "I Wanna Be a Boy",
-      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
-    },
-    {
       "added_at": "2022-03-22 13:50:56",
       "album": {
         "name": "Change the Locks",
@@ -1079,6 +1063,22 @@
       "duration_ms": 215621,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/3yMbQSMN738HPm5gSRwUPq"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "I Wanna Be a Boy",
+        "url": "https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw"
+      },
+      "artists": [
+        {
+          "name": "Addison Grace",
+          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "I Wanna Be a Boy",
+      "url": "https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -1097,22 +1097,6 @@
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
     },
     {
-      "added_at": "2022-06-17 04:00:00",
-      "album": {
-        "name": "Ugly Season",
-        "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 281190,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
-    },
-    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Everything Beautiful",
@@ -1127,6 +1111,22 @@
       "duration_ms": 139712,
       "name": "Everything Beautiful",
       "url": "https://open.spotify.com/track/3JnIF3q9h27Ig30GGJwnXB"
+    },
+    {
+      "added_at": "2022-06-17 04:00:00",
+      "album": {
+        "name": "Ugly Season",
+        "url": "https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 281190,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/7qG7bsMPOmiMt0uT13cLx5"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Change the Locks",
-        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1"
-    },
-    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "American Teenager",
@@ -1207,6 +1191,22 @@
       "duration_ms": 161673,
       "name": "Go Home!",
       "url": "https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Change the Locks",
+        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1"
     },
     {
       "added_at": "2022-05-27 04:00:00",

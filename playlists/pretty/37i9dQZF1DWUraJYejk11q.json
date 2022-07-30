@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 450442,
+  "num_followers": 450451,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk4Nzk1NywwMDAwMDAwMGQ3ZGVhMzI0ZTEwMDg5YTA5YTg2MTM3ZjU2MWQyZTgz",
+  "snapshot_id": "MTY1ODk4Nzk1NywwMDAwMDAwMGU0YTZlYmJlZWEyMGM1NjJmNjQ3ZDZjM2ZlMzJhMzU4",
   "tracks": [
     {
       "added_at": "2022-06-08 02:12:56",
@@ -193,22 +193,6 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
-      "added_at": "2022-01-14 03:10:10",
-      "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 282091,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
-    },
-    {
       "added_at": "2022-01-11 01:27:35",
       "album": {
         "name": "Firstsun",
@@ -223,6 +207,22 @@
       "duration_ms": 259000,
       "name": "TEMPERATE",
       "url": "https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0"
+    },
+    {
+      "added_at": "2022-01-14 03:10:10",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 282091,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV"
     },
     {
       "added_at": "2022-03-03 01:05:29",
@@ -297,6 +297,54 @@
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
+      "added_at": "2022-06-08 02:40:47",
+      "album": {
+        "name": "Foresight",
+        "url": "https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u"
+      },
+      "artists": [
+        {
+          "name": "Nuven",
+          "url": "https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Foresight",
+      "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
+    },
+    {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-01-21 20:14:08",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+    },
+    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -317,38 +365,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
-    },
-    {
-      "added_at": "2022-06-08 02:40:47",
-      "album": {
-        "name": "Foresight",
-        "url": "https://open.spotify.com/album/6iVJxfSQHYADuaTe842E5u"
-      },
-      "artists": [
-        {
-          "name": "Nuven",
-          "url": "https://open.spotify.com/artist/3Cdtqtl7PvG7793m9pkg34"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Foresight",
-      "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
-    },
-    {
       "added_at": "2022-07-15 05:34:07",
       "album": {
         "name": "GRIT.",
@@ -363,22 +379,6 @@
       "duration_ms": 331032,
       "name": "Surrounded By Neighbours",
       "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
-      "added_at": "2022-01-21 20:14:08",
-      "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "added_at": "2022-02-25 03:39:39",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
     },
     {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
+      },
+      "artists": [
+        {
+          "name": "RX-101",
+          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
+        }
+      ],
+      "duration_ms": 349575,
+      "name": "Warm Electronics Box",
+      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
       "added_at": "2022-02-16 00:41:13",
       "album": {
         "name": "drames rurals",
@@ -443,22 +459,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
-      },
-      "artists": [
-        {
-          "name": "RX-101",
-          "url": "https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651"
-        }
-      ],
-      "duration_ms": 349575,
-      "name": "Warm Electronics Box",
-      "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
     },
     {
       "added_at": "2022-03-30 04:42:42",
@@ -693,6 +693,22 @@
       "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
+      "added_at": "2022-04-06 04:07:22",
+      "album": {
+        "name": "DAZED",
+        "url": "https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6"
+      },
+      "artists": [
+        {
+          "name": "Galaksit",
+          "url": "https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "DAZED",
+      "url": "https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7"
+    },
+    {
       "added_at": "2022-05-06 03:38:46",
       "album": {
         "name": "infina ad nausea: the remixes [global magic pack]",
@@ -715,22 +731,6 @@
       "duration_ms": 359152,
       "name": "Blame Me - BAILE Remix",
       "url": "https://open.spotify.com/track/0HINRRVAivEq7IdZuqHf8f"
-    },
-    {
-      "added_at": "2022-04-06 04:07:22",
-      "album": {
-        "name": "DAZED",
-        "url": "https://open.spotify.com/album/1mE4SkBA46imrI1TcLhhN6"
-      },
-      "artists": [
-        {
-          "name": "Galaksit",
-          "url": "https://open.spotify.com/artist/7xb6guCCpe8BhM0F62ah9X"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "DAZED",
-      "url": "https://open.spotify.com/track/4z4XTugxaVap8Ndp8QI5T7"
     },
     {
       "added_at": "2021-10-15 03:56:52",

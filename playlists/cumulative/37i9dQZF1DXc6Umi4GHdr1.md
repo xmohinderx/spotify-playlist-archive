@@ -4,7 +4,7 @@
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 
-117 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
+118 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ballerine de Cirque](https://open.spotify.com/track/47lZktZxd7KahwX8Xt5fYT) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Ballerine de Cirque](https://open.spotify.com/album/4V3T2e9DkFCXJgmFftUmYG) | 2:47 | 2021-12-10 | 2022-04-22 |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-10 | 2022-07-22 |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2021-12-10 |  |
+| [Bennie And The Jets](https://open.spotify.com/track/3FiFSEZe57AAeQe2hPznXs) | [Tato Isaac](https://open.spotify.com/artist/3zwvnI5xyM632CM2nz1IuR) | [Bennie And The Jets](https://open.spotify.com/album/3phxTCqzyvEqFrksliJIOO) | 2:58 | 2022-07-29 |  |
 | [Breeze](https://open.spotify.com/track/0m2ai6kCVY9meGot1RZwqz) | [WoodenSound](https://open.spotify.com/artist/0ouvNQ3dhZP8pyPHngaS9U) | [Breeze](https://open.spotify.com/album/6Ps3PkSR3CoAEcNUToyzzg) | 2:24 | 2022-05-27 |  |
 | [Cadaqués](https://open.spotify.com/track/4It0oWesPCt0G0h7HtaUca) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Cadaqués](https://open.spotify.com/album/6fdgn796SWB1DhUvDHU9wq) | 1:58 | 2022-05-27 | 2022-07-22 |
 | [Celebration of Sam](https://open.spotify.com/track/4RV2xO2WfaMS4W1lIxwx6J) | [Steve Pulvers](https://open.spotify.com/artist/4EIHPmsZkohwAGfn46iNmq) | [Acoustic Journey](https://open.spotify.com/album/4At2sTH7tL2Ovys5npBy7g) | 3:45 | 2021-12-10 | 2022-07-08 |

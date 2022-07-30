@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-121 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+122 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-05-25 |  |
 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 | 2022-07-01 |  |
 | [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-25 | 2022-07-07 |
-| [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 | 2022-05-25 |  |
+| [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 | 2022-05-25 | 2022-07-30 |
 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 | 2022-05-25 |  |
 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 | 2022-05-25 |  |
 | [Bonnie](https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Bonnie](https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF) | 4:37 | 2022-05-25 | 2022-07-29 |
@@ -97,6 +97,7 @@
 | [Perpetual Blues Machine](https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Martin Scorsese Presents The Blues: Keb' Mo'](https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc) | 3:15 | 2022-05-25 |  |
 | [Please Take My Hand](https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ) | 3:03 | 2022-05-25 | 2022-07-28 |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-07-01 |  |
+| [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-29 |  |
 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 | 2022-05-25 | 2022-05-28 |
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 | 2022-07-28 |
 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 | 2022-05-25 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1123247,
+  "num_followers": 1123399,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg4NTE4NiwwMDAwMDAwMDg0NGQ3ZTExYmMzMzFlNWFmOWY0YjllMzlkY2ZjMjVk",
+  "snapshot_id": "MTY1NTg4NTE4NiwwMDAwMDAwMDk5ZTcwZTBmYzVhNTZiNDFiOWI2MGYzODhhZDlhYzUz",
   "tracks": [
     {
       "added_at": "2022-06-22 08:06:26",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 337866,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
         "name": "Renee Olstead",
         "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
-        "name": "Only Trust Your Heart",
-        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 337866,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
+        "name": "Language of Love",
+        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 213447,
+      "name": "There You Are (Second Chance)",
+      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 292973,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/5MtTR1jjNpaYbutc0ZY6hp"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
-        "name": "Move On: A Sondheim Adventure",
-        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        }
-      ],
-      "duration_ms": 171949,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Language of Love",
-        "url": "https://open.spotify.com/album/02ST3umR7z95MJsoaeuLf1"
+        "name": "Move On: A Sondheim Adventure",
+        "url": "https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs"
       },
       "artists": [
         {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
         }
       ],
-      "duration_ms": 213447,
-      "name": "There You Are (Second Chance)",
-      "url": "https://open.spotify.com/track/3NyuzNn4wZfNMB0fIcvd3H"
+      "duration_ms": 171949,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe"
     },
     {
       "added_at": "2022-06-22 08:06:26",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2022-06-22 08:06:26",
       "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 358581,
-      "name": "You're All That Matters To Me",
-      "url": "https://open.spotify.com/track/4vM5nHW71NnMSkWYyFYSfE"
-    },
-    {
-      "added_at": "2022-06-22 08:06:26",
-      "album": {
         "name": "Shadow Train",
         "url": "https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 358581,
+      "name": "You're All That Matters To Me",
+      "url": "https://open.spotify.com/track/4vM5nHW71NnMSkWYyFYSfE"
+    },
+    {
+      "added_at": "2022-06-22 08:06:26",
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
     },
     {
       "added_at": "2022-06-22 08:06:26",

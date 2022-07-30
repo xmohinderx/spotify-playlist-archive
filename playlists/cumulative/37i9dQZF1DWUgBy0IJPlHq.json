@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Kelsey Waldon",
+  "description": "A new shade of Country. Cover: Whiskey Myers",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 180173,
       "name": "(Remember Me) I'm the One Who Loves You",
       "url": "https://open.spotify.com/track/4DSG3Jl9MHt7EQRR9louzF"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 227226,
       "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
       "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 178786,
       "name": "Collecting Dust",
       "url": "https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 275054,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
@@ -1750,6 +1750,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167760,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
+    },
+    {
+      "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/3zgi09x1GpxbxjBx087ajX"
       },
@@ -1849,6 +1867,24 @@
       "duration_ms": 227465,
       "name": "Hawk For The Dove",
       "url": "https://open.spotify.com/track/62td314sXG1sOEtwiTOAnO"
+    },
+    {
+      "album": {
+        "name": "He Thinks He'll Keep Her",
+        "url": "https://open.spotify.com/album/56476dlZyNWcqVFVAWQrp5"
+      },
+      "artists": [
+        {
+          "name": "Bo Armstrong",
+          "url": "https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247493,
+      "name": "He Thinks He'll Keep Her",
+      "url": "https://open.spotify.com/track/0NJXZQRMMGovlDAwktotqQ"
     },
     {
       "album": {
@@ -2547,7 +2583,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 201922,
       "name": "John Prine's Cadillac",
       "url": "https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o"
@@ -2565,10 +2601,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 295776,
       "name": "John Wayne",
       "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
+    },
+    {
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N"
     },
     {
       "album": {
@@ -2587,7 +2641,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 220976,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
@@ -2659,7 +2713,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 220413,
       "name": "Lines in the Levee",
       "url": "https://open.spotify.com/track/1nwCUobJyADXmUFw3GHu7g"
@@ -2717,6 +2771,24 @@
       "duration_ms": 180016,
       "name": "Long Game",
       "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
+    },
+    {
+      "album": {
+        "name": "Long, Long Year",
+        "url": "https://open.spotify.com/album/3vkg2n1PUlk9V4Q6jBRze8"
+      },
+      "artists": [
+        {
+          "name": "Chris Shiflett",
+          "url": "https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259077,
+      "name": "Long, Long Year",
+      "url": "https://open.spotify.com/track/0pLsmdx3085wYk87iU2A8T"
     },
     {
       "album": {
@@ -3104,6 +3176,28 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
         "name": "Other Side",
         "url": "https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY"
       },
@@ -3306,6 +3400,28 @@
     },
     {
       "album": {
+        "name": "Pitseleh",
+        "url": "https://open.spotify.com/album/2gjEpvBQsiQ0kFb0o7BTnh"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220853,
+      "name": "Pitseleh",
+      "url": "https://open.spotify.com/track/2hPZQVCP6sXwo2XMyWh6hT"
+    },
+    {
+      "album": {
         "name": "Plain Dealing",
         "url": "https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM"
       },
@@ -3339,6 +3455,32 @@
       "duration_ms": 230086,
       "name": "Port City",
       "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
+    },
+    {
+      "album": {
+        "name": "Problem With It",
+        "url": "https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR"
+      },
+      "artists": [
+        {
+          "name": "Plains",
+          "url": "https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Problem With It",
+      "url": "https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k"
     },
     {
       "album": {
@@ -3549,6 +3691,24 @@
       "duration_ms": 255880,
       "name": "Scale These Walls",
       "url": "https://open.spotify.com/track/06nuTL9QddAcOzMd4S2497"
+    },
+    {
+      "album": {
+        "name": "Seasons Don't Change",
+        "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269133,
+      "name": "Seasons Don't Change",
+      "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
     },
     {
       "album": {
@@ -3925,6 +4085,24 @@
       "duration_ms": 297723,
       "name": "Terrifying Nature",
       "url": "https://open.spotify.com/track/4iMBmVAHtNuPm82ZE375GI"
+    },
+    {
+      "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ"
     },
     {
       "album": {
@@ -4541,7 +4719,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 155586,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/5E53ij5aeq9B4HXDMuHh6w"
@@ -4672,6 +4850,24 @@
     },
     {
       "album": {
+        "name": "When It Don't Come Easy",
+        "url": "https://open.spotify.com/album/56vI8bp201WaedDrWxXoRa"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290557,
+      "name": "When It Don't Come Easy",
+      "url": "https://open.spotify.com/track/7dBndfMDtYGcU5J8U1Fv6D"
+    },
+    {
+      "album": {
         "name": "When It's My Time",
         "url": "https://open.spotify.com/album/3QRherbInt8fExzq41yyoZ"
       },
@@ -4785,7 +4981,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 231749,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6"

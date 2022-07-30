@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 13327,
+  "num_followers": 13361,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGViMThiMjRiYjlhNzljNDY0YjMzMmU2NDEyYjI1MTMw",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDlmYWUxNzliNzgxYjBmZjljNTBhNzQxOTQzZjRlZDVj",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -215,18 +215,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
-        "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
+        "name": "The Essential Leroy Carr",
+        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
       "artists": [
         {
-          "name": "Sunnyland Slim",
-          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
+          "name": "Leroy Carr",
+          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
         }
       ],
-      "duration_ms": 255506,
-      "name": "Everytime I Get to Drinking",
-      "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
+      "duration_ms": 175400,
+      "name": "Papa's on the House Top",
+      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Essential Leroy Carr",
-        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
+        "name": "I Didn't Give a Damn If Whites Bought It, Vol. 4",
+        "url": "https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8"
       },
       "artists": [
         {
-          "name": "Leroy Carr",
-          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
+          "name": "Sunnyland Slim",
+          "url": "https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2"
         }
       ],
-      "duration_ms": 175400,
-      "name": "Papa's on the House Top",
-      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+      "duration_ms": 255506,
+      "name": "Everytime I Get to Drinking",
+      "url": "https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Solo Ride",
-        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
-      },
-      "artists": [
-        {
-          "name": "Bruce Katz",
-          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "New Shade of Blue",
         "url": "https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 262920,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Solo Ride",
+        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
+      },
+      "artists": [
+        {
+          "name": "Bruce Katz",
+          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
     },
     {
       "added_at": "2022-05-13 10:49:08",

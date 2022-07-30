@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The essential indie dance, featuring 49th & Main",
+  "description": "The essential indie dance, featuring SBTRKT",
   "name": "metropolis",
   "published_playlist_ids": [
     "6jBSzkiPzz4z9EGB6tLdZW"
@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/2SVXasIqoidpW4SxciKSxg"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211810,
+      "name": "Bh\u0101vachakra",
+      "url": "https://open.spotify.com/track/1nz0SvhvjKHHX8NoSUeG3P"
+    },
+    {
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
       },
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 216179,
       "name": "Company",
       "url": "https://open.spotify.com/track/0erTUYYdEbOI6Pg50WItD1"
@@ -3232,6 +3250,28 @@
     },
     {
       "album": {
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
+      },
+      "artists": [
+        {
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "Holybrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+    },
+    {
+      "album": {
         "name": "GLY (Hot Chip Remix)",
         "url": "https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA"
       },
@@ -4785,7 +4825,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 166751,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/5K7GTQnANplkwWdznjvZis"
@@ -6116,6 +6156,24 @@
     },
     {
       "album": {
+        "name": "Miss The Days",
+        "url": "https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220650,
+      "name": "Miss The Days",
+      "url": "https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9"
+    },
+    {
+      "album": {
         "name": "Missing You / Something About Your Love",
         "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
       },
@@ -7047,7 +7105,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 255363,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/7gQzy6JeSqDfVGI0JG8Ube"
@@ -9741,7 +9799,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 424606,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/2NahLrPNy0tK7K97Nu8SFj"
@@ -10143,6 +10201,28 @@
       "duration_ms": 367766,
       "name": "Wait for a Dream (feat. Baerd)",
       "url": "https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep"
+    },
+    {
+      "album": {
+        "name": "Wake And Return (Little Dragon Remix)",
+        "url": "https://open.spotify.com/album/6XvEHBL9v0E9GsS8UFJEpO"
+      },
+      "artists": [
+        {
+          "name": "OLAN",
+          "url": "https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "Wake And Return - Little Dragon Remix",
+      "url": "https://open.spotify.com/track/29tFNpwgCFOQDUUFJSk8Vw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby:)",
-  "num_followers": 446830,
+  "num_followers": 446841,
   "original_name": "Radiante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMwMTE1NywwMDAwMDAwMDI2M2IzM2JhZDZiZGI5ZDRlMWNkNWE5YTY2ZjRhYzI0",
+  "snapshot_id": "MTY1NTMwMTE1NywwMDAwMDAwMDIwMTQ2ZGE4YmRhZTA2MzQzZDk5ZjY1MmJiMDRhNzc0",
   "tracks": [
     {
       "added_at": "2022-06-15 13:52:37",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "Renacer Pt. 1",
-        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 163423,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
         "name": "kiss u better",
         "url": "https://open.spotify.com/album/0hF3HodPikSBNy4dMGVSOf"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 187826,
       "name": "kiss u better",
       "url": "https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
+        "name": "Renacer Pt. 1",
+        "url": "https://open.spotify.com/album/6XBrUVDrCm7LK0kFgPDvva"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 163423,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/2tKSIeksPzMglcIJVc83ID"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "No Puedo Parar",
-        "url": "https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "tarde",
-        "url": "https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq"
+        "name": "No Puedo Parar",
+        "url": "https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 217933,
-      "name": "tarde",
-      "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
+        "name": "tarde",
+        "url": "https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "tarde",
+      "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
         "name": "Patineta",
         "url": "https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f"
       },
@@ -1311,26 +1311,6 @@
       "duration_ms": 192540,
       "name": "Patineta",
       "url": "https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
-        "name": "Margaritas",
-        "url": "https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Margaritas",
-      "url": "https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa"
     },
     {
       "added_at": "2022-06-15 13:52:37",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
+        "name": "Margaritas",
+        "url": "https://open.spotify.com/album/2duhmxOLOE7WlplLn2PCi2"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "Margaritas",
+      "url": "https://open.spotify.com/track/3XfFsjkdXHFk1O4OMXIcfa"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
         "name": "Bowling",
         "url": "https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-06-15 13:52:37",
       "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv"
-      },
-      "artists": [
-        {
-          "name": "Poi mp3",
-          "url": "https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc"
-    },
-    {
-      "added_at": "2022-06-15 13:52:37",
-      "album": {
         "name": "Desastre Comunal",
         "url": "https://open.spotify.com/album/4EwZis4GJBiNs1ziHwtvhg"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 184421,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/1FzcH0boI4wvlUvjnQxf0l"
+    },
+    {
+      "added_at": "2022-06-15 13:52:37",
+      "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/0X5fYJ9gerPTJdq9IbPusv"
+      },
+      "artists": [
+        {
+          "name": "Poi mp3",
+          "url": "https://open.spotify.com/artist/56SYLoTCr6PLgLAdzuyzz8"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/4CzodxFbkgVXNt7OXiy3Qc"
     },
     {
       "added_at": "2022-06-15 13:52:37",

@@ -2,9 +2,9 @@
 
 ### [Mariachi 2022](https://open.spotify.com/playlist/37i9dQZF1DX7VikJCuOpfO)
 
-> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Pancho Barraza
+> Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-251 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
+252 songs - 13 hr 43 min - [published](https://open.spotify.com/playlist/4lIbpCJ2pbV6798FY5z8fP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 | 2022-05-13 | 2022-06-01 |
 | [Si Quieres \- Versión Mariachi](https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Si Quieres \(Versión Mariachi\)](https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc) | 4:18 | 2022-05-13 | 2022-06-01 |
 | [Si Se Acabara el Mundo](https://open.spotify.com/track/2GFZmfcsGqiOfN7RW33x5q) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Si Se Acabara el Mundo](https://open.spotify.com/album/1YRPv1yxBzDWcfPJO0NIP7) | 3:16 | 2022-05-13 | 2022-05-31 |
+| [Si Ya Hiciste El Mal](https://open.spotify.com/track/41c6daFVY5iMa9ObuHbTmy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Si Ya Hiciste El Mal](https://open.spotify.com/album/5P4lgpsHxFqhnjA3GsELd5) | 3:43 | 2022-07-29 |  |
 | [Siempre Te Voy A Recordar](https://open.spotify.com/track/2QW4BERfECAthx967SSNy5) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siempre Te Voy A Recordar](https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh) | 3:07 | 2022-06-01 |  |
 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 | 2022-05-13 | 2022-06-01 |
 | [Solos](https://open.spotify.com/track/3byH3GMx87vBLSFF3tzh9n) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Lo Más Escuchado De](https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU) | 3:06 | 2022-05-13 | 2022-05-31 |

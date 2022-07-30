@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,224 likes - 150 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,409 likes - 150 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 82 | [The Dirt \(Est\. 1981\) \[feat\. Machine Gun Kelly\]](https://open.spotify.com/track/0PloHvXx0nAIwVx1zYjm9F) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:52 |
 | 83 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
 | 84 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 |
-| 85 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
-| 86 | [Tempest](https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:05 |
+| 85 | [Tempest](https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 6:05 |
+| 86 | [The Nexus](https://open.spotify.com/track/3FA9wGCQWqyoqWDPhsGtO1) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6431V8pOEUPUW4k9ASyKCV) | 3:16 |
 | 87 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
 | 88 | [The Last Battle](https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Last Stand](https://open.spotify.com/album/14OgR04PHXULz1svvsol8L) | 3:12 |
 | 89 | [Through It All](https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Day One \(Deluxe\)](https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr) | 3:33 |
@@ -111,14 +111,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 101 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 |
 | 102 | [Earthbound](https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Earthbound](https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ) | 3:42 |
 | 103 | [KARATE](https://open.spotify.com/track/2A4wfplwsIXUUD3UVirWDd) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL RESISTANCE](https://open.spotify.com/album/2vIRdYffs93ca7L0Eh4mTm) | 4:23 |
-| 104 | [The Last Time](https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 3:58 |
-| 105 | [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 |
+| 104 | [Moth](https://open.spotify.com/track/0r3ur5jBMpjkcrqbVVvgs7) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [Blood For Blood](https://open.spotify.com/album/6O24vHd68xPWQZGU9ppv7G) | 4:51 |
+| 105 | [The Last Time](https://open.spotify.com/track/47fPXkWBYmYLcRCGrXgoYq) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 3:58 |
 | 106 | [RISE](https://open.spotify.com/track/46QdfDL0LnGlHLKmREiXP5) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:14 |
 | 107 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
 | 108 | [The Saw Is the Law](https://open.spotify.com/track/6rLEeo9rNT87t2xHry8xUl) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [Our Endless War](https://open.spotify.com/album/4ldi4wEpZSlSw9DGE2Sx85) | 4:27 |
 | 109 | [The Price of Agony](https://open.spotify.com/track/13zKsRskPB1TD9lWtbMoXH) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Dark Skies](https://open.spotify.com/album/73AvGSgwYiht6qw4p7LmLc) | 4:47 |
-| 110 | [Satan Is Real](https://open.spotify.com/track/14M68PdZSSMRzTBuJNuxO6) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Gods of Violence](https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL) | 4:38 |
-| 111 | [Seven Enemies](https://open.spotify.com/track/6oOQNOCjGmgfC0lUpqa6yV) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:05 |
+| 110 | [Seven Enemies](https://open.spotify.com/track/6oOQNOCjGmgfC0lUpqa6yV) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [The Concrete Confessional](https://open.spotify.com/album/63AsIG0ig2p4mWx42ySWIj) | 2:05 |
+| 111 | [Satan Is Real](https://open.spotify.com/track/14M68PdZSSMRzTBuJNuxO6) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Gods of Violence](https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL) | 4:38 |
 | 112 | [Year Zero](https://open.spotify.com/track/1YBf7Tq9bpcVwvnlP8YbQS) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam \(Deluxe Version\)](https://open.spotify.com/album/2HlryLawoMpHGIcuDJDfQr) | 5:50 |
 | 113 | [Raise Your Horns](https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Jomsviking](https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG) | 4:23 |
 | 114 | [Silence Speaks](https://open.spotify.com/track/5Tcwn9gpqDqmxc2oq7hshQ) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [You Are We](https://open.spotify.com/album/4R7c0lTamxuQuriRiFhKfv) | 4:55 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnhhRs5u3TO.md) - [plain]
 | 140 | [Solar Flare Homicide](https://open.spotify.com/track/6pCkJ0r6WEyz5ASErk5ezS) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Speaker Of The Dead](https://open.spotify.com/album/4BcTytmn7rMtxg2mESczbQ) | 3:50 |
 | 141 | [Blood](https://open.spotify.com/track/27ce3PuoDdndLsktG0RvfV) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Rise of the Blood Legion\- The Best of \(Chapter 1\)](https://open.spotify.com/album/2vS8ldvz5bk6aJ5HAYMBMw) | 3:27 |
 | 142 | [What Are You Waiting For](https://open.spotify.com/track/0Q4zzvZA2anhHTs0zjwQhy) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:03 |
-| 143 | [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 |
+| 143 | [Madness](https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj) | 3:23 |
 | 144 | [Magma](https://open.spotify.com/track/56iv5TqfvxVa4zLMs6SvmP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 6:42 |
 | 145 | [Addicted To Pain](https://open.spotify.com/track/74ODL6xFR2erTu2mvXFIDz) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/3oMt2cUO9IIttONwd6eHRO) | 4:16 |
 | 146 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 |
 | 147 | [The Enemy Inside](https://open.spotify.com/track/1ZR4QAYsiO9zPsGaMPW2OI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Dream Theater](https://open.spotify.com/album/2yzeTza4DXX5XpzJYY7CXO) | 6:17 |
-| 148 | [Madness](https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Madness](https://open.spotify.com/album/1tb0QLGgdyuewhLFN4iKnj) | 3:23 |
+| 148 | [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 |
 | 149 | [Road of Resistance](https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI) | 5:18 |
 | 150 | [Sinéad](https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 
-Snapshot ID: `MTY1ODc4NzYyOCwwMDAwMDAwMDNkMWNlM2JjYWQ3ZDJiNTFkNjA5ZGRjNjQ3OGIwODI4`
+Snapshot ID: `MTY1ODc4NzYyOCwwMDAwMDAwMDA3M2Y5Mjg1NGM4MjJjNGVjOWU2Mjk2NzhhNWI4NDkz`

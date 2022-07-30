@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Grupo Firme & Luis Mexia, al millón con La Reina.
+> ¡Las más poderosas y llegadoras de nuestra música! Al millón con Alfredo Olivas, al millón con La Reina.
 
 155 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 

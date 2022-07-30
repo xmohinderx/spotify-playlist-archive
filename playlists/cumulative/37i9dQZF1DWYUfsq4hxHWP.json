@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Baby, Don't Lie",
+        "url": "https://open.spotify.com/album/2PcA5YoFdx4KucoKZvywaK"
+      },
+      "artists": [
+        {
+          "name": "The Beasley Brothers",
+          "url": "https://open.spotify.com/artist/6Rke7NJJl79BUDgmevKnN5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Baby, Don't Lie",
+      "url": "https://open.spotify.com/track/62vdrrDjIY7Kl6cqC5MNzF"
+    },
+    {
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/0k0HRDWaOem0eKiAjyMGiM"
       },

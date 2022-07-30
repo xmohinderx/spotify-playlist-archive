@@ -4,7 +4,7 @@
 
 > Relax to the sounds of acoustic blues and folk...
 
-86 songs - 5 hr 32 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
+87 songs - 5 hr 34 min - [published](https://open.spotify.com/playlist/2SbTfjlboeBgZrjdgbkYSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Clair de lune \(For Twelve\-String\) \[Live\]](https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx) | [Robbie Basho](https://open.spotify.com/artist/1bB0hKohfWkczaTMQLQdlR) | [Live in Forlì, Italy 1982](https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ) | 4:42 | 2021-12-17 |  |
 | [Coming Home](https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange County Serenade](https://open.spotify.com/album/5MX3706iqptzAKSur97vbT) | 3:58 | 2022-07-12 |  |
 | [Coming Home](https://open.spotify.com/track/2V9zMWtLds91PjE1KJ6qjL) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Orange Co\. Serenade](https://open.spotify.com/album/4SEomhM9X27zNDnJjal0yW) | 3:58 | 2021-12-17 | 2022-07-29 |
-| [Cool Drink of Water Blues](https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:27 | 2022-05-13 |  |
+| [Cool Drink of Water Blues](https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:27 | 2022-05-13 | 2022-07-30 |
 | [Cumberland Gap](https://open.spotify.com/track/1W3WoQ2ECZzQnpOEt3XZVK) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 2:13 | 2021-12-17 |  |
 | [Death Letter](https://open.spotify.com/track/516maf2eNSuB5pTB1NedlN) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Covered Tracks: Vol\. 2](https://open.spotify.com/album/41VD7CenbVd2qOPNLZiE5K) | 4:23 | 2021-12-17 |  |
 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 | 2021-12-17 |  |
@@ -77,6 +77,7 @@
 | [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 | 2021-12-17 | 2022-07-11 |
 | [Sligo River Blues \- Original Recording](https://open.spotify.com/track/5U9mObciLrrnJC0hE84SIu) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Legend Of Blind Joe Death](https://open.spotify.com/album/5dPdHCE2QcT3FZqNAfMJO8) | 3:05 | 2021-12-17 |  |
 | [Spike Driver Blues](https://open.spotify.com/track/0QcYseQfUmZpjXGoXDT9z4) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Complete Studio Recordings](https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ) | 3:28 | 2022-05-25 |  |
+| [Statesboro Blues](https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Presenting Blind Willie McTell](https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z) | 2:32 | 2022-07-29 |  |
 | [Static Orphans](https://open.spotify.com/track/0tdhaGcTo8XtIpizS2sXm9) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq) | 2:04 | 2022-07-12 |  |
 | [Static Orphans](https://open.spotify.com/track/217H94y73OgLMiT7LswFEn) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 2:04 | 2021-12-17 | 2022-07-29 |
 | [Sunflower Blues](https://open.spotify.com/track/2gcs9yC8hTZA9Rlq8eIO4c) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [The Guitar Masters Collection: John Fahey](https://open.spotify.com/album/2S8MEqzZMTVa48ZKp4Oayb) | 3:22 | 2021-12-17 | 2022-07-29 |

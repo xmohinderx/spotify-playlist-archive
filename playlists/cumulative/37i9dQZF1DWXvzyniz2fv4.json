@@ -1310,6 +1310,24 @@
     },
     {
       "album": {
+        "name": "Reggaezin Do LotHzin",
+        "url": "https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy"
+      },
+      "artists": [
+        {
+          "name": "LotH",
+          "url": "https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167718,
+      "name": "Reggaezin Do LotHzin",
+      "url": "https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M"
+    },
+    {
+      "album": {
         "name": "Rosas Rositas",
         "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
       },
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 105000,
       "name": "Sof\u00e1",
       "url": "https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3"

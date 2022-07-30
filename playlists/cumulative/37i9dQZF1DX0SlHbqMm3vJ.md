@@ -4,7 +4,7 @@
 
 > A collection of old and new R&B cuts from West Africa’s finest artists.
 
-242 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
+243 songs - 12 hr 30 min - [published](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-03-31 | 2022-06-01 |
 | [Can't Relate](https://open.spotify.com/track/7lJtRbSmuXwzoeFbtrYHzr) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:03 | 2021-10-14 | 2022-03-12 |
 | [Caribbeana](https://open.spotify.com/track/77TunfSjNZ2RLAwvF77hVo) | [Wondamagik](https://open.spotify.com/artist/7q3PcmgJXQ7Ce33DnyvpiN), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Caribbeana](https://open.spotify.com/album/4zKNPkF6dHcdtIBkdLxFCM) | 2:48 | 2021-10-14 | 2022-03-22 |
+| [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 |  |
 | [Chop & Slide](https://open.spotify.com/track/1rWxa2PtZT1S1mr6Jxm86B) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:48 | 2022-05-05 |  |
 | [CHOP N PRAY](https://open.spotify.com/track/0NtyyD2hX0VY9jKVsEVHTF) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [AFROSOUL \(Deluxe\)](https://open.spotify.com/album/69TI5V5QKajFC7ydxSbVgP) | 2:59 | 2021-10-14 | 2022-03-12 |
 | [Choppin'](https://open.spotify.com/track/0eYiywIcRyiPAQc4Sew2WS) | [Tshego](https://open.spotify.com/artist/2I1KI8uFju21FNrL4zdeqY), [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Raspy](https://open.spotify.com/artist/0PK11GqQuP8esL3Tq3RugG) | [Choppin'](https://open.spotify.com/album/0FvTtbEYRiYzjk39B2Sq3e) | 4:12 | 2021-12-09 | 2022-02-09 |
@@ -149,7 +150,7 @@
 | [Miniskirt \- Remix](https://open.spotify.com/track/5jP4KOemrliC4wgExGkgBg) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Miniskirt \(Remix\)](https://open.spotify.com/album/0miuahO6ByhPG1biEV4Gem) | 2:36 | 2022-07-22 | 2022-07-25 |
 | [Minor Notes](https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 2:56 | 2021-10-14 | 2022-07-27 |
 | [Money For Hand](https://open.spotify.com/track/0vmB4AeK2fdL0kRnCfB0O3) | [Ade James](https://open.spotify.com/artist/39EFuDa5XKCmoh09xK0687), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Money For Hand](https://open.spotify.com/album/2CVxaCbqnviwpLhqw0w4Pl) | 2:54 | 2022-01-13 | 2022-03-01 |
-| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 |  |
+| [Naked Wire](https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Naked Wire](https://open.spotify.com/album/1GOlHRebm95q6OxmRwYdKG) | 2:42 | 2022-05-19 | 2022-07-30 |
 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 | 2021-10-14 |  |
 | [Never Let A Man Down](https://open.spotify.com/track/4E5kG2CpwJsW9iAIdSZEaY) | [Defayo](https://open.spotify.com/artist/1orV5Yry14101cKe3l9Vpn), [Elisa M.](https://open.spotify.com/artist/5jKK9Tj16bdt1NnorZ9Lbs) | [Never Let A Man Down](https://open.spotify.com/album/1gKcDUITpQHePNvCqX7SXR) | 3:07 | 2022-03-31 |  |
 | [Never Love Again](https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Never Love Again](https://open.spotify.com/album/0DyQM70GwzJIhxLDHeaULt) | 3:05 | 2021-11-25 | 2022-02-10 |

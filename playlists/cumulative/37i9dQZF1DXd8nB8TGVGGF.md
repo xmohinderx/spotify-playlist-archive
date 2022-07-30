@@ -4,7 +4,7 @@
 
 > The best Blues for a long trip behind the wheel.
 
-129 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
+130 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7inldxiHCey24iSezd8whW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 | 2022-05-25 |  |
 | [Hard Luck Blues](https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ) | [Tommy Tucker](https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf) | [Hi\-Heel Sneakers](https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe) | 3:44 | 2022-05-25 |  |
 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 | 2022-05-25 |  |
+| [Hear My Train a Comin'](https://open.spotify.com/track/4DmBVImaIhE3RyNvbtZTTz) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 5:41 | 2022-07-29 |  |
 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 | 2022-05-25 |  |
 | [Highway 60](https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Vivid Sound](https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF) | 2:30 | 2022-05-25 |  |
 | [Hoochie Coochie Man](https://open.spotify.com/track/3NwAB2aVDJZ1q6ZwA5T8vt) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff) | [Rockin' The Blues](https://open.spotify.com/album/1Ki8xQv0w2lu8yaLBHOivq) | 2:44 | 2022-05-25 | 2022-07-29 |

@@ -748,6 +748,28 @@
     },
     {
       "album": {
+        "name": "Conga, Conga, Conga (Remix)",
+        "url": "https://open.spotify.com/album/1xeN02DFdRaJiZgvYdcRXf"
+      },
+      "artists": [
+        {
+          "name": "Ennzo Dias",
+          "url": "https://open.spotify.com/artist/1OqIOB09bAvDp5H9ls3vSq"
+        },
+        {
+          "name": "Gretchen",
+          "url": "https://open.spotify.com/artist/5l16yCOBayxKJwDKRZ8n0T"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148593,
+      "name": "Conga, Conga, Conga (Remix)",
+      "url": "https://open.spotify.com/track/2Xy48bogwHXH01I1ytZvzT"
+    },
+    {
+      "album": {
         "name": "Vintage Culture & Friends 2",
         "url": "https://open.spotify.com/album/3lQMwSJCdt8ECrirIdzELA"
       },
@@ -1025,7 +1047,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 181826,
       "name": "Falling Like The Stars - Madism Remix",
       "url": "https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W"

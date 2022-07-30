@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Kirk Fletcher
 
-211 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+212 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bonnie](https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Bonnie](https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF) | 4:37 | 2022-02-25 | 2022-07-29 |
 | [Bonnie](https://open.spotify.com/track/5q49F0QAhWWnIDhNOyAhfV) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:37 | 2022-02-25 |  |
 | [Book of My Blues](https://open.spotify.com/track/5K2s01sTtbulyPO92xh0O7) | [Mark Collie](https://open.spotify.com/artist/6kMOabD0AtCGJB632jMilU) | [Book of My Blues](https://open.spotify.com/album/3voqYXLVkXBjUZFReufQWA) | 3:28 | 2021-05-14 | 2022-04-23 |
+| [Break on Free \(Radio Edit\)](https://open.spotify.com/track/3DSBR09kCm9YmwjZ2p2HSd) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Break on Free \(Radio Edit\)](https://open.spotify.com/album/6JtVrM7vhAHScW65sijAie) | 3:46 | 2022-07-29 |  |
 | [Burn Bright](https://open.spotify.com/track/5suOlPxijvD4kWVXBQLs9e) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Sons](https://open.spotify.com/album/7cIZqD2nH2CXlAGG1jrNP6) | 3:06 | 2020-12-14 | 2022-02-26 |
 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 | 2022-04-08 |  |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 | 2022-01-29 |

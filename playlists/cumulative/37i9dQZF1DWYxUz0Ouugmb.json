@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "BOY OF THE YEAR",
+        "url": "https://open.spotify.com/album/1PQd3NJjYgsG2pE88bwTwp"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212873,
+      "name": "BOY OF THE YEAR",
+      "url": "https://open.spotify.com/track/6jRjPgWMFdYROlNXU5xUZQ"
+    },
+    {
+      "album": {
         "name": "CHING",
         "url": "https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO"
       },
@@ -653,6 +671,28 @@
       "duration_ms": 256867,
       "name": "if u could see me cryin' in my room",
       "url": "https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP"
+    },
+    {
+      "album": {
+        "name": "BOY OF THE YEAR",
+        "url": "https://open.spotify.com/album/7jKfffXc64aO4CubnAI1UJ"
+      },
+      "artists": [
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        },
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219676,
+      "name": "IN MY BAG (with tobi lou)",
+      "url": "https://open.spotify.com/track/3Vdu1sTIUi45NZvguJDmhk"
     },
     {
       "album": {

@@ -1740,6 +1740,24 @@
     },
     {
       "album": {
+        "name": "Dom Dom",
+        "url": "https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182438,
+      "name": "Dom Dom",
+      "url": "https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm"
+    },
+    {
+      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/0OyMCkjFdI6EoYeAQlEAjS"
       },
@@ -5955,7 +5973,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 175840,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/7dTgSeAVu9EWJusdCsRyTo"
@@ -7063,7 +7081,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 226190,
       "name": "Wenta Be3eed - From \"Bhabak\" Movie",
       "url": "https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc"
@@ -8653,6 +8671,28 @@
       "duration_ms": 168465,
       "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
       "url": "https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+        "url": "https://open.spotify.com/album/3pxvDgUY0ydiEz56kOZlMg"
+      },
+      "artists": [
+        {
+          "name": "Moscow",
+          "url": "https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z"
+        },
+        {
+          "name": "Rafiek",
+          "url": "https://open.spotify.com/artist/1D90iksDoz0cmKnX8oAJoA"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "\u0645\u0634 \u0634\u0627\u064a\u0641\u0643",
+      "url": "https://open.spotify.com/track/2PQ5vldtM9aQg5WpZ0Lmgl"
     },
     {
       "album": {

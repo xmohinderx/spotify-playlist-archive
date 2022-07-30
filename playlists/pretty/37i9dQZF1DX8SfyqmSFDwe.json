@@ -1,12 +1,12 @@
 {
   "description": "The movement\u2019s roots. Los cl\u00e1sicos del Reggaeton. Cover: Nicky Jam",
-  "num_followers": 2588560,
+  "num_followers": 2589634,
   "original_name": "Reggaeton Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY5MjMzMywwMDAwMDAwMDE2YzgwMmM4Mjg1NGY3MjBmYzBmZTM0YmY0Yjk4MWM2",
+  "snapshot_id": "MTY1NjY5MjMzMywwMDAwMDAwMDI4MDVmZTRiOGM1YWYyNjk2MjdjNzhlMmM4Y2RlMGE3",
   "tracks": [
     {
       "added_at": "2022-07-01 16:18:53",
@@ -667,26 +667,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 213311,
       "name": "Passion Whine",
       "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
+        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -763,30 +763,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "La Reuni\u00f3n",
-        "url": "https://open.spotify.com/album/4S4ueZuml3FELqmy1M9krz"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 303640,
-      "name": "Aparentemente",
-      "url": "https://open.spotify.com/track/1wYFvhxzKJ8W3B8TM0Ag2k"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "El Patr\u00f3n (La Victoria)",
         "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
       },
@@ -811,6 +787,30 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "La Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/4S4ueZuml3FELqmy1M9krz"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Aparentemente",
+      "url": "https://open.spotify.com/track/1wYFvhxzKJ8W3B8TM0Ag2k"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 177293,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
+        "name": "Don Omar Presents MTO2: New Generation",
+        "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "Dutty Love",
+      "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -859,26 +879,6 @@
       "duration_ms": 219506,
       "name": "El Amante",
       "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "Don Omar Presents MTO2: New Generation",
-        "url": "https://open.spotify.com/album/7vyVMX83PJNulUZUgbKfuY"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "Dutty Love",
-      "url": "https://open.spotify.com/track/2oJH69cuNyWpCmZyTmvrEN"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 157023,
-      "name": "En La Cama (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1027,6 +1007,22 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
@@ -1047,22 +1043,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "El Enemy de Los Guas\u00edbiri",
         "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 204346,
       "name": "Al Natural (feat. Yandel)",
       "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "En La Cama (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -1147,26 +1163,6 @@
       "duration_ms": 249600,
       "name": "YO LE LLEGO",
       "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Si T\u00fa La Ves (feat. Wisin)",
-      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1207,22 +1203,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "Rompe La Discoteca",
         "url": "https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 206493,
       "name": "Punto y Aparte",
       "url": "https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
       },
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+          "name": "Tego Calderon",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Me Matas",
-      "url": "https://open.spotify.com/track/5mVcyopMGY8dSpN1ZyaBUD"
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1335,6 +1351,22 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "La Historia De El D\u00fao (Vol.1)",
+        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Pam Pam",
+      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "El Sobreviviente",
         "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
       },
@@ -1351,22 +1383,6 @@
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "La Historia De El D\u00fao (Vol.1)",
-        "url": "https://open.spotify.com/album/0LHnOx2oLegPCawcuxRF7j"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Pam Pam",
-      "url": "https://open.spotify.com/track/2up69Rho7swRdP1MHqzX3n"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1403,22 +1419,6 @@
       "duration_ms": 219080,
       "name": "Culo",
       "url": "https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calderon",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "Goldstar Music La Familia Reggaeton Hits",
+        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        },
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "duration_ms": 248406,
+      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
+      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "12 Discipulos",
         "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
       },
@@ -1899,26 +1919,6 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Goldstar Music La Familia Reggaeton Hits",
-        "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        },
-        {
-          "name": "Yomo",
-          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
-        }
-      ],
-      "duration_ms": 248406,
-      "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
-      "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
         "name": "El Inmortal",
         "url": "https://open.spotify.com/album/2G2jtQfZVKDTHiMjUIVg7D"
       },
@@ -1931,22 +1931,6 @@
       "duration_ms": 187350,
       "name": "Hasta Que Se Seque el Malec\u00f3n",
       "url": "https://open.spotify.com/track/3w1D8eAOBDZdb8RP5wbV65"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "Los Matadores del Genero",
-        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Chica Ven Pa' Ca",
-      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -1967,18 +1951,38 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
-        "name": "Motivando a la Yal",
-        "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
+        "name": "Los Matadores del Genero",
+        "url": "https://open.spotify.com/album/4PizC7ikBjt2twUP2yqCv1"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
+      "duration_ms": 204280,
+      "name": "Chica Ven Pa' Ca",
+      "url": "https://open.spotify.com/track/7eWabug2g5Kw3QnMxaQlpK"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
+        "name": "Voltio",
+        "url": "https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ"
+      },
+      "artists": [
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Chulin Culin Chunfly",
+      "url": "https://open.spotify.com/track/5in5l6a2fFxqDjn6bFSXpL"
     }
   ],
   "unique_name": "Reggaeton Classics",

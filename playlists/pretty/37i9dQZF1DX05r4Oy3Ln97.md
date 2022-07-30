@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,352 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,124 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 37 | [Ibiza](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC) | 2:25 |
 | 38 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 |
 | 39 | [Daydreamer](https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Daydreamer](https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF) | 2:40 |
-| 40 | [Back 2 U](https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Back 2 U](https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM) | 2:40 |
-| 41 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
-| 42 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
-| 43 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 |
+| 40 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 |
+| 41 | [Back 2 U](https://open.spotify.com/track/3lrQX2YbeXOmnMvtAu30iB) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Back 2 U](https://open.spotify.com/album/4b9pbSew5hwaGri6KZ6ZBM) | 2:40 |
+| 42 | [Tulum](https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP) | [Tulum](https://open.spotify.com/album/7DumTW0espT5WuAGKnMBLp) | 2:14 |
+| 43 | [High Tide](https://open.spotify.com/track/4PkWff16v14sACvFBrKtI0) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Dream Dimension](https://open.spotify.com/album/3TIcSrROV3PLNVq5rMMlWJ) | 3:40 |
 | 44 | [Teenage Heart](https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Teenage Heart](https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX) | 4:03 |
 | 45 | [Ani Kuni \- Edit](https://open.spotify.com/track/6BhwbBtaXivvPHmHCZmxkT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Ani Kuni](https://open.spotify.com/album/225g0HM8FJAep14tN7H7aA) | 2:49 |
 | 46 | [Sun Is Shining](https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sun Is Shining](https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 |
 | 60 | [Feet Don't Touch](https://open.spotify.com/track/3VYER8HwBRBbyn72Zd5v4r) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Nicholas Roy](https://open.spotify.com/artist/5bBKSut3KtxJFIgxC4iS7o) | [Feet Don't Touch](https://open.spotify.com/album/6Lg3FgJmEw0oIghYSfX57G) | 3:10 |
 
-Snapshot ID: `MTY1NzI5NzgwMCwwMDAwMDAwMDE1ZjMzZDYzZmI3ZTNlYmU4MjNmNTRlYmEyMDc2NmU0`
+Snapshot ID: `MTY1NzI5NzgwMCwwMDAwMDAwMDNhNjhiMDQwYzg1OWM3OGViZWMwMzMwNTUzMDhkN2Vi`

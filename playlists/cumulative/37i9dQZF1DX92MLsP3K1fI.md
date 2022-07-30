@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Donovan en portada.
 
-142 songs - 7 hr 18 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+143 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Dementes](https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Dementes](https://open.spotify.com/album/0fsASfqU4Xd5UlCGN7ltTR) | 2:56 | 2022-05-20 |  |
 | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/track/1zXfyjLOsTOvYdkGlXprWE) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz \(Pura Sal\)](https://open.spotify.com/album/7sF2hlKgjWhBNMd66wu1T8) | 2:40 | 2022-02-04 | 2022-07-29 |
 | [Despertar](https://open.spotify.com/track/2zvKyZEqzTHCFseMncakGl) | [Karen Polinesia](https://open.spotify.com/artist/1sl6PdP9LqFUWmrt7bV23E), [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [Despertar](https://open.spotify.com/album/1YLJe893LXBJ91Y9ZKOnfh) | 3:18 | 2022-02-25 |  |
-| [Dime Dime](https://open.spotify.com/track/6LvGw0k9GkebNNajrSsyat) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Dime Dime](https://open.spotify.com/album/4u9rSMKrjy183jBqvXkOv2) | 3:09 | 2022-03-11 |  |
+| [Dime Dime](https://open.spotify.com/track/6LvGw0k9GkebNNajrSsyat) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Dime Dime](https://open.spotify.com/album/4u9rSMKrjy183jBqvXkOv2) | 3:09 | 2022-03-11 | 2022-07-30 |
 | [Dopamina](https://open.spotify.com/track/1K1qSkHpZIFlsydsMFdPPi) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB) | [Dopamina](https://open.spotify.com/album/5zfZPuzW44WYKIk3UH4eXh) | 2:58 | 2022-02-18 | 2022-06-24 |
 | [Dron](https://open.spotify.com/track/47oyxEeXMxF1SP5ednNw40) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Dron](https://open.spotify.com/album/3Y02AXXs6M8cUakBYDk7eq) | 3:50 | 2022-02-04 | 2022-05-28 |
 | [Duele](https://open.spotify.com/track/4jYQqB5VKgrKnlI37j8fxy) | [Nicole Gatti](https://open.spotify.com/artist/4j0wOwaGxwpKs2xrtvXqHE) | [Duele](https://open.spotify.com/album/3IN3b6roR8K0x3qp3BPyIt) | 2:56 | 2022-02-04 | 2022-05-11 |
@@ -104,6 +104,7 @@
 | [Pasajero](https://open.spotify.com/track/6EBd69hWC96BKJ0Ts92riX) | [Juan Vegas](https://open.spotify.com/artist/5JPAV8i80oNekuSSZoFQ1G) | [Pasajero](https://open.spotify.com/album/5DGSn1ipSRxFMgleIALTXL) | 2:52 | 2022-03-11 | 2022-05-20 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 | 2022-02-18 | 2022-07-22 |
 | [Pensando En Ti](https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6) | [Fran](https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn) | [Ciencia Fricción](https://open.spotify.com/album/5tHACDBVaSJ1j9np1vAmsF) | 2:50 | 2022-07-26 |  |
+| [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 | 2022-07-29 |  |
 | [Perreito](https://open.spotify.com/track/0CukGWJFEpaiQYic5R1iMq) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl) | [Prezea](https://open.spotify.com/album/56GTiqI6vHTARWl7nkGusX) | 2:56 | 2022-02-04 | 2022-06-08 |
 | [Put Your Money](https://open.spotify.com/track/6SKIDMQzzPqT348oFTVr0N) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW) | [JUMP](https://open.spotify.com/album/08UCL77Bqi7KC6XSjkVgLN) | 3:18 | 2022-05-20 | 2022-05-31 |
 | [Que PASE y YA](https://open.spotify.com/track/5znAcI91hov7U28bpvycXr) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Que PASE y YA](https://open.spotify.com/album/66N9ddJ34olVxzsztDFaC4) | 2:26 | 2022-06-03 | 2022-07-28 |

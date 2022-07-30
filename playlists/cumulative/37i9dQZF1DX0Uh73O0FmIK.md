@@ -4,12 +4,13 @@
 
 > 01110000 01101100 01100001 01111001 01101100 01101001 01110011 01110100
 
-94 songs - 6 hr 33 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
+95 songs - 6 hr 36 min - [published](https://open.spotify.com/playlist/3QfjFdmBC3jioryCEPHkRe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22:39](https://open.spotify.com/track/5PDKajOvt9yMVCsgQhYcMn) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [Origins](https://open.spotify.com/album/3rdxpRfZCqsth5EPDnUkaY) | 4:12 | 2022-05-19 |  |
 | [4:30](https://open.spotify.com/track/0lO8ZTS4kNYa9eOSC1QYQi) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [09/17 2007](https://open.spotify.com/album/3XOwkicWm2CpIC4qyux1pp) | 4:31 | 2022-05-19 |  |
+| [6FINGERDEATHPUNCH](https://open.spotify.com/track/2M7V4v4DUaPIlMSrCbB2U3) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [All Nighter, Vol\. 6](https://open.spotify.com/album/1Thi7GCXPtyG7NfXBOYCTS) | 2:44 | 2022-07-29 |  |
 | [84' Dreamin](https://open.spotify.com/track/1sF9Mpl9jOvxXWogfPmEUY) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 3:40 | 2022-05-19 |  |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2022-05-19 |  |
 | [A New Error](https://open.spotify.com/track/1fmoCZ6mtMiqA5GHWPcZz9) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [Moderat](https://open.spotify.com/album/2HEh23ogCT3wiYfag2iMxD) | 6:07 | 2022-05-19 |  |
@@ -54,7 +55,7 @@
 | [Itchy](https://open.spotify.com/track/3nuqSXnU3YUUpZ4yBdNlOG) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Enthusiast](https://open.spotify.com/album/7B6rBkpEo0yYgVUgKbcAHU) | 3:32 | 2022-05-19 |  |
 | [JPEG](https://open.spotify.com/track/7vgiGtKJ0uHroj1iyZwXuH) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [JPEG](https://open.spotify.com/album/1sHkNBY1Uy6H34UI6815jQ) | 2:51 | 2022-05-19 |  |
 | [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 | 2022-05-19 |  |
-| [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2022-05-19 |  |
+| [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2022-05-19 | 2022-07-30 |
 | [ketamine](https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [witchpop](https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC) | 2:05 | 2022-05-19 |  |
 | [Klymaxx](https://open.spotify.com/track/7FiRzDwy4NslWvCKiCzLg0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [In Decay](https://open.spotify.com/album/6M4kfVR0hxL1zXfoANKP0q) | 4:24 | 2022-05-19 |  |
 | [Krack](https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Nite Versions](https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI) | 5:23 | 2022-05-19 |  |
@@ -75,7 +76,7 @@
 | [Positif](https://open.spotify.com/track/3KEnGyuImTqe7asrYW0kUv) | [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Lambs Anger](https://open.spotify.com/album/5trGnTKKV1Iz39gXQiAFwZ) | 2:51 | 2022-05-19 |  |
 | [redruM](https://open.spotify.com/track/5C6qZsPITmCq3WuhQDEy5e) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Valley of Shadow](https://open.spotify.com/album/56wIQDfpZPfpSHoSNreaIY) | 4:11 | 2022-05-19 |  |
 | [Resonance](https://open.spotify.com/track/65r94rVdiMwqXyQFEr3tqT) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Odyssey](https://open.spotify.com/album/3FZtDulD5KUnIxA9dM1v5M) | 3:32 | 2022-05-19 |  |
-| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-05-19 |  |
+| [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2022-05-19 | 2022-07-30 |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2022-05-19 |  |
 | [Send The Pain On](https://open.spotify.com/track/36b17t2DXiN1lWr9SbsuVR) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Sparks](https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr) | 5:37 | 2022-05-19 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-05-19 |  |

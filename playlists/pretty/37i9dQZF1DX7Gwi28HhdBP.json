@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u062d\u062c\u0627\u062c\n\n",
-  "num_followers": 42259,
+  "num_followers": 42291,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgxMDA4OCwwMDAwMDAwMGM1NzFlZTNkYmU5OTI3YmEzYTk5OGVkM2NiOTgwOGMy",
+  "snapshot_id": "MTY1NzgxMDA4OCwwMDAwMDAwMGU1NzBhMjEzOTk3MTM5NjQ1NWI3MjIxYjE3NGE4ZjQy",
   "tracks": [
     {
       "added_at": "2022-07-14 14:48:08",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "Darbt Maalem",
-        "url": "https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy"
-      },
-      "artists": [
-        {
-          "name": "Abd El Basset Hamouda",
-          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
-        }
-      ],
-      "duration_ms": 341315,
-      "name": "Ana Mesh Arefny",
-      "url": "https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54"
-    },
-    {
-      "added_at": "2022-07-14 14:48:08",
-      "album": {
         "name": "\u062d\u0644\u0627\u0648\u0629 \u0631\u0648\u062d",
         "url": "https://open.spotify.com/album/3xhaV6jUYs1U7k4ZlDrkL3"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 389746,
       "name": "\u062d\u0644\u0627\u0648\u0629 \u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/1vBdeUX9Beu28vAcRN7xst"
+    },
+    {
+      "added_at": "2022-07-14 14:48:08",
+      "album": {
+        "name": "Darbt Maalem",
+        "url": "https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy"
+      },
+      "artists": [
+        {
+          "name": "Abd El Basset Hamouda",
+          "url": "https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw"
+        }
+      ],
+      "duration_ms": 341315,
+      "name": "Ana Mesh Arefny",
+      "url": "https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "\u0648\u062c\u0639 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/6yTX8vigfFn9QokeIg3wM3"
+        "name": "\u0633\u062a \u0627\u0644\u062f\u0627\u0631",
+        "url": "https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr"
       },
       "artists": [
         {
-          "name": "\u0645\u0635\u0637\u0641\u0649 \u0643\u0627\u0645\u0644",
-          "url": "https://open.spotify.com/artist/6a4ixu0wC1PyCetU59JX9a"
+          "name": "\u0645\u0633\u0644\u0645",
+          "url": "https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha"
         }
       ],
-      "duration_ms": 290899,
-      "name": "\u062d\u0644\u0648\u0629 \u062d\u064a\u0627\u062a\u064a",
-      "url": "https://open.spotify.com/track/2sXjblDKAkus5oH28IGZub"
+      "duration_ms": 155062,
+      "name": "\u0633\u062a \u0627\u0644\u062f\u0627\u0631",
+      "url": "https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "\u0633\u062a \u0627\u0644\u062f\u0627\u0631",
-        "url": "https://open.spotify.com/album/48YwDUsVYuSRX7wb5yOhpr"
+        "name": "\u0648\u062c\u0639 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/6yTX8vigfFn9QokeIg3wM3"
       },
       "artists": [
         {
-          "name": "\u0645\u0633\u0644\u0645",
-          "url": "https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha"
+          "name": "\u0645\u0635\u0637\u0641\u0649 \u0643\u0627\u0645\u0644",
+          "url": "https://open.spotify.com/artist/6a4ixu0wC1PyCetU59JX9a"
         }
       ],
-      "duration_ms": 155062,
-      "name": "\u0633\u062a \u0627\u0644\u062f\u0627\u0631",
-      "url": "https://open.spotify.com/track/0grRZWW58zX4wvEqa2egZ7"
+      "duration_ms": 290899,
+      "name": "\u062d\u0644\u0648\u0629 \u062d\u064a\u0627\u062a\u064a",
+      "url": "https://open.spotify.com/track/2sXjblDKAkus5oH28IGZub"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "El Nas El Ray'ah",
-        "url": "https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO"
+        "name": "Makany Mesh Hena",
+        "url": "https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE"
       },
       "artists": [
         {
-          "name": "Ahmed Adaweya",
-          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
-        },
-        {
-          "name": "Ramy Ayach",
-          "url": "https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1"
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO"
         }
       ],
-      "duration_ms": 211600,
-      "name": "El Nas El Ray'ah",
-      "url": "https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff"
+      "duration_ms": 223529,
+      "name": "Makany Mesh Hena",
+      "url": "https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1287,22 +1283,6 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "Makany Mesh Hena",
-        "url": "https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE"
-      },
-      "artists": [
-        {
-          "name": "Amina",
-          "url": "https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO"
-        }
-      ],
-      "duration_ms": 223529,
-      "name": "Makany Mesh Hena",
-      "url": "https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk"
-    },
-    {
-      "added_at": "2022-07-14 14:48:08",
-      "album": {
         "name": "Akhret El Gedaan Kalam",
         "url": "https://open.spotify.com/album/3ToJq0fvvMTKy3N6Qfje4j"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 230452,
       "name": "Akhret El Gedaan Kalam",
       "url": "https://open.spotify.com/track/4LlcNc4fNYskvTaXqYhptm"
+    },
+    {
+      "added_at": "2022-07-14 14:48:08",
+      "album": {
+        "name": "El Nas El Ray'ah",
+        "url": "https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Adaweya",
+          "url": "https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5"
+        },
+        {
+          "name": "Ramy Ayach",
+          "url": "https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "El Nas El Ray'ah",
+      "url": "https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1411,8 +1411,24 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "Sohab Fashosh",
-        "url": "https://open.spotify.com/album/45MjD1llZDYUhlcVEw5Yw4"
+        "name": "Egrah",
+        "url": "https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf"
+      },
+      "artists": [
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6"
+        }
+      ],
+      "duration_ms": 318693,
+      "name": "Egrah",
+      "url": "https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj"
+    },
+    {
+      "added_at": "2022-07-14 14:48:08",
+      "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD"
       },
       "artists": [
         {
@@ -1420,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO"
         }
       ],
-      "duration_ms": 216259,
-      "name": "Sohab Fashosh",
-      "url": "https://open.spotify.com/track/6est6D0K9z0XDcrLYNWF7k"
+      "duration_ms": 196571,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1439,22 +1455,6 @@
       "duration_ms": 567210,
       "name": "Zahma",
       "url": "https://open.spotify.com/track/6hahb2CyhzOxgqKVBRbmjw"
-    },
-    {
-      "added_at": "2022-07-14 14:48:08",
-      "album": {
-        "name": "Egrah",
-        "url": "https://open.spotify.com/album/4zYbesk0LhlwiTEibnlDRf"
-      },
-      "artists": [
-        {
-          "name": "Tarek El Sheikh",
-          "url": "https://open.spotify.com/artist/0BNCbz1t4tnKmzLeHi5Dk6"
-        }
-      ],
-      "duration_ms": 318693,
-      "name": "Egrah",
-      "url": "https://open.spotify.com/track/37AS9boC6XdWKXWcNtbGZj"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "El Asel",
-        "url": "https://open.spotify.com/album/65kdqzMe7jKrDUx8iDmhdW"
+        "name": "Dar El Zaman",
+        "url": "https://open.spotify.com/album/7JS8HfLlM0lgoQdrxz5lgs"
       },
       "artists": [
         {
-          "name": "Ahmed Shiba",
-          "url": "https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW"
+          "name": "Hamada Helal",
+          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
         }
       ],
-      "duration_ms": 249806,
-      "name": "El Asel",
-      "url": "https://open.spotify.com/track/20EzEzwQFCKaa4uAohXymK"
+      "duration_ms": 295106,
+      "name": "Ana Aini Menek",
+      "url": "https://open.spotify.com/track/1he9pFOz2a761Iv5wFWJhN"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1539,34 +1539,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "Dar El Zaman",
-        "url": "https://open.spotify.com/album/7JS8HfLlM0lgoQdrxz5lgs"
+        "name": "El Asel",
+        "url": "https://open.spotify.com/album/65kdqzMe7jKrDUx8iDmhdW"
       },
       "artists": [
         {
-          "name": "Hamada Helal",
-          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
+          "name": "Ahmed Shiba",
+          "url": "https://open.spotify.com/artist/18kOlOUYz50lsApqT1LIuW"
         }
       ],
-      "duration_ms": 295106,
-      "name": "Ana Aini Menek",
-      "url": "https://open.spotify.com/track/1he9pFOz2a761Iv5wFWJhN"
-    },
-    {
-      "added_at": "2022-07-14 14:48:08",
-      "album": {
-        "name": "Ya Dmaghy",
-        "url": "https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6"
-      },
-      "artists": [
-        {
-          "name": "Diab",
-          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Ya Dmaghy",
-      "url": "https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY"
+      "duration_ms": 249806,
+      "name": "El Asel",
+      "url": "https://open.spotify.com/track/20EzEzwQFCKaa4uAohXymK"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2022-07-14 14:48:08",
       "album": {
-        "name": "Ah Menak",
-        "url": "https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw"
+        "name": "Ya Dmaghy",
+        "url": "https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6"
       },
       "artists": [
         {
-          "name": "Hoda",
-          "url": "https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3"
+          "name": "Diab",
+          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
         }
       ],
-      "duration_ms": 223909,
-      "name": "Bein Narein",
-      "url": "https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ"
+      "duration_ms": 243750,
+      "name": "Ya Dmaghy",
+      "url": "https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY"
     },
     {
       "added_at": "2022-07-14 14:48:08",
@@ -1647,6 +1631,22 @@
       "duration_ms": 314096,
       "name": "\u0631\u0624\u064a\u0647",
       "url": "https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y"
+    },
+    {
+      "added_at": "2022-07-14 14:48:08",
+      "album": {
+        "name": "Ah Menak",
+        "url": "https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw"
+      },
+      "artists": [
+        {
+          "name": "Hoda",
+          "url": "https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3"
+        }
+      ],
+      "duration_ms": 223909,
+      "name": "Bein Narein",
+      "url": "https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ"
     },
     {
       "added_at": "2022-07-14 14:48:08",

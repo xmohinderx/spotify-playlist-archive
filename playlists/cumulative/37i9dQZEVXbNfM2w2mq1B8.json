@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2833,7 +2833,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -7031,7 +7031,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 202093,
       "name": "Lost in the Fire (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
@@ -10441,7 +10441,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 191457,
       "name": "SAUCE",
       "url": "https://open.spotify.com/track/7kDgO7iBtdBhrx0X0esUrB"
@@ -10663,7 +10663,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -10965,7 +10965,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 212575,
       "name": "Sofia Hills",
       "url": "https://open.spotify.com/track/788fXILjvTnAoHw4rtIJCA"
@@ -10983,7 +10983,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -14384,6 +14384,24 @@
     },
     {
       "album": {
+        "name": "\u0418\u043c\u0430 \u043a\u043e\u0439",
+        "url": "https://open.spotify.com/album/2Cg9b4OZogb6ETnVKf197m"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210967,
+      "name": "\u0418\u043c\u0430 \u043a\u043e\u0439",
+      "url": "https://open.spotify.com/track/2P06Kf0MWVRPQ0n1PQWEba"
+    },
+    {
+      "album": {
         "name": "\u0418\u0441\u043a\u0430\u0442 \u0414\u0430 \u041f\u0430\u0434\u043d\u0430",
         "url": "https://open.spotify.com/album/5hJfnjxVdAezOzSmnTcpeE"
       },
@@ -14653,7 +14671,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "\u041c\u0440. \u041f\u0435\u0440\u0444\u0435\u043a\u0442\u0435\u043d",
       "url": "https://open.spotify.com/track/3EafBu8bBdhrkLe84OgnNZ"
@@ -15032,7 +15050,7 @@
         },
         {
           "name": "Azis",
-          "url": "https://open.spotify.com/artist/3zwtzjFSBvjdmuk2D0bEza"
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
         }
       ],
       "date_added": "2022-07-25",

@@ -1,12 +1,12 @@
 {
   "description": "Pacific Northwest music breaking waves. Cover, TeZATalks",
-  "num_followers": 1431,
+  "num_followers": 1430,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc4OTg1NywwMDAwMDAwMDM3Mjg5M2VhNzk1NjdhNWU2ZGY4MzZiM2FlZWIzOGJk",
+  "snapshot_id": "MTY1OTEyNzI3OSwwMDAwMDAwMDVhYTNkODQwZmJiZDU5MjQ3YTBlMDUwYzcxZGZiMTBl",
   "tracks": [
     {
       "added_at": "2022-07-22 20:01:36",
@@ -69,20 +69,24 @@
       "url": "https://open.spotify.com/track/4EmZC9Iz8UMdlApOoYxocq"
     },
     {
-      "added_at": "2022-07-18 21:44:16",
+      "added_at": "2022-07-29 20:41:19",
       "album": {
-        "name": "Cloverfield",
-        "url": "https://open.spotify.com/album/7zTAmlJVHSjnAAAwUARvJL"
+        "name": "Cloverfield (feat. Young M.A)",
+        "url": "https://open.spotify.com/album/58vbbkV0r1Z6ZkafF64V0A"
       },
       "artists": [
         {
           "name": "The Last Artful, Dodgr",
           "url": "https://open.spotify.com/artist/6jpOOrGFSWdHx6leHfU54n"
+        },
+        {
+          "name": "Young M.A",
+          "url": "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
         }
       ],
-      "duration_ms": 121600,
-      "name": "Cloverfield",
-      "url": "https://open.spotify.com/track/1Ak3bLzJMcsVSYkfuZRpZf"
+      "duration_ms": 179141,
+      "name": "Cloverfield (feat. Young M.A)",
+      "url": "https://open.spotify.com/track/442p5hBETXk6awoANidgbd"
     },
     {
       "added_at": "2022-07-18 21:44:16",
@@ -177,6 +181,42 @@
       "url": "https://open.spotify.com/track/4xVbqy10xuhITml9Gwv1LH"
     },
     {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "Before it's Too Late",
+        "url": "https://open.spotify.com/album/5Y9b4nURYZsMm0Wz3XIsjI"
+      },
+      "artists": [
+        {
+          "name": "Pinder",
+          "url": "https://open.spotify.com/artist/4VNhdOgxfxVzFRWLNPP2kz"
+        }
+      ],
+      "duration_ms": 174782,
+      "name": "Before It's Too Late",
+      "url": "https://open.spotify.com/track/7JsckAY0XjtXq3omyJOgOD"
+    },
+    {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0YYuQRFPk6iM99GLXYoVEt"
+      },
+      "artists": [
+        {
+          "name": "Livt",
+          "url": "https://open.spotify.com/artist/0y55D5fL0ywYdEpIQPbwJC"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/41CadRi4aZhMsFYbBob04v"
+    },
+    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Synergy",
@@ -239,22 +279,6 @@
       "duration_ms": 125384,
       "name": "Thanks And Praises",
       "url": "https://open.spotify.com/track/5J4F79SLhKnv5Q5iu0MwCJ"
-    },
-    {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "PreGame",
-        "url": "https://open.spotify.com/album/7qjrDbqjWB5wDZxZaWjHTB"
-      },
-      "artists": [
-        {
-          "name": "Laz\u0101",
-          "url": "https://open.spotify.com/artist/7KWbU8vlvkICzAOXsiRLal"
-        }
-      ],
-      "duration_ms": 83851,
-      "name": "No Take Backs",
-      "url": "https://open.spotify.com/track/3HYuPsvqLyXflWKZ5wgFey"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -367,6 +391,38 @@
       "duration_ms": 162331,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/0mBg7Q5CuXxN7qyWOWm7f2"
+    },
+    {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "ICE PACK",
+        "url": "https://open.spotify.com/album/7K1MmDcGWPGO4hFSulZjbc"
+      },
+      "artists": [
+        {
+          "name": "James Lite",
+          "url": "https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "COLD SUMMER",
+      "url": "https://open.spotify.com/track/3MPyvW97o4vkYfaocGm1Qf"
+    },
+    {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/3pT33xnwSFVDIdmPeOtMPw"
+      },
+      "artists": [
+        {
+          "name": "2oopaid Tk",
+          "url": "https://open.spotify.com/artist/40x1DEUDHXochsWT1WeNcx"
+        }
+      ],
+      "duration_ms": 178364,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/5QeHXGAoBmYyFm3N4jpapp"
     },
     {
       "added_at": "2022-07-18 21:44:16",
@@ -537,10 +593,10 @@
       "url": "https://open.spotify.com/track/0KG6miRsuKv6CjOehmKkfU"
     },
     {
-      "added_at": "2022-07-22 20:01:36",
+      "added_at": "2022-07-29 20:41:19",
       "album": {
-        "name": "Next To Us",
-        "url": "https://open.spotify.com/album/1cP5LjTmz0WJoBaI4zjR1S"
+        "name": "Stock",
+        "url": "https://open.spotify.com/album/77La5V81NR38clEYg6MfQE"
       },
       "artists": [
         {
@@ -548,65 +604,13 @@
           "url": "https://open.spotify.com/artist/1B5fkMxWxc9A7joAcguqQT"
         },
         {
-          "name": "Stotle",
-          "url": "https://open.spotify.com/artist/6rXQHIk0avDlRtaclUcA6w"
-        },
-        {
-          "name": "HardbellyArch",
-          "url": "https://open.spotify.com/artist/4GJDlrM80pxt1AsAxtlIuW"
+          "name": "Weezbeats",
+          "url": "https://open.spotify.com/artist/5MYdQu2vcSlNUbYWZoTvYh"
         }
       ],
-      "duration_ms": 166060,
-      "name": "Next To Us",
-      "url": "https://open.spotify.com/track/43klhKEQm0joQFAHN6Sq3C"
-    },
-    {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "Click Bate",
-        "url": "https://open.spotify.com/album/2VeSTK5GYSj9FGlDwPcyPB"
-      },
-      "artists": [
-        {
-          "name": "Black Stax",
-          "url": "https://open.spotify.com/artist/5aQ57LMjkm324H8y3xS9Cq"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Click Bate",
-      "url": "https://open.spotify.com/track/01KTmpjhtZjx326jUeFa6C"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Come Home Cuzzi",
-        "url": "https://open.spotify.com/album/0FWh13XjpjHVyZbYqnSaSM"
-      },
-      "artists": [
-        {
-          "name": "Isaacjacuzzi",
-          "url": "https://open.spotify.com/artist/1d2LiED2RoP2szpzjrU0Hd"
-        }
-      ],
-      "duration_ms": 129384,
-      "name": "Habibti Please",
-      "url": "https://open.spotify.com/track/018bKWrTxyFFNRy7muTkGq"
-    },
-    {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "Build a Bridge",
-        "url": "https://open.spotify.com/album/6UYTWjU6CaM1mCi3O3Jism"
-      },
-      "artists": [
-        {
-          "name": "Scooty",
-          "url": "https://open.spotify.com/artist/3XcLz8GJp4KB9zuNFVUBnD"
-        }
-      ],
-      "duration_ms": 300315,
-      "name": "Missing the point",
-      "url": "https://open.spotify.com/track/0ozxGcHKH74tV7iEeOkj8i"
+      "duration_ms": 121056,
+      "name": "Stock",
+      "url": "https://open.spotify.com/track/6gnRelRGphwICUQP2kF3if"
     },
     {
       "added_at": "2022-07-18 21:44:16",
@@ -645,6 +649,22 @@
       "url": "https://open.spotify.com/track/0s0O8vvXFCCqetUstyxR0I"
     },
     {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "The Oscars",
+        "url": "https://open.spotify.com/album/2fdIjjAbpgKPF98K6Bq3Hs"
+      },
+      "artists": [
+        {
+          "name": "Key Nyata",
+          "url": "https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5"
+        }
+      ],
+      "duration_ms": 103549,
+      "name": "The Oscars",
+      "url": "https://open.spotify.com/track/72R4sofcAUU1IGctmDdc4y"
+    },
+    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Breathin Again",
@@ -659,22 +679,6 @@
       "duration_ms": 143105,
       "name": "Breathin Again",
       "url": "https://open.spotify.com/track/16uowkIsA1n67JEARfNPLG"
-    },
-    {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "Voodoo Freestyle",
-        "url": "https://open.spotify.com/album/2APC7UgMs3eEoqJutFSyY9"
-      },
-      "artists": [
-        {
-          "name": "2oopaid Tk",
-          "url": "https://open.spotify.com/artist/40x1DEUDHXochsWT1WeNcx"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Voodoo Freestyle",
-      "url": "https://open.spotify.com/track/0c4zViEB63GhWl3PA0Qico"
     },
     {
       "added_at": "2022-07-22 20:01:36",

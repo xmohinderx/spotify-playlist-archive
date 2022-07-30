@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81178,
+  "num_followers": 81193,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDM1YmJkOGVmZjI2YWU3ZDZjMDE4OWZkZThhYWQwMzJm",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGEwZjRlOTUyNDI3ZDdmMzBkY2FlZDNjOGQyNGNmMzQ4",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 210599,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Perfectly Loved",
         "url": "https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 210599,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 199573,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Already Blessed",
         "url": "https://open.spotify.com/album/302vTUIId9Yy7XVI42gGiY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228068,
       "name": "Already Blessed",
       "url": "https://open.spotify.com/track/6EVBja1SChiDywjTRfS1Rk"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "God Is Real",
         "url": "https://open.spotify.com/album/15WYTz5xlfGzNacurKTrqW"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 177235,
       "name": "Never Not God",
       "url": "https://open.spotify.com/track/6zWdaANy7zVHGPqzv1fZeT"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Who You Want Me To Be",
         "url": "https://open.spotify.com/album/2QX3GyZIXeWsJog7XwWV03"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196746,
       "name": "Who You Want Me To Be",
       "url": "https://open.spotify.com/track/5VXVRtAzzsHT2KQbeOdnlz"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "I'm Open",
-        "url": "https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 214292,
-      "name": "I'm Open",
-      "url": "https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "He Is Not Worried",
         "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 269986,
       "name": "He Is Not Worried",
       "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "I'm Open",
+        "url": "https://open.spotify.com/album/14km2XMe3pvQq2IsI9Q7dM"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 214292,
+      "name": "I'm Open",
+      "url": "https://open.spotify.com/track/17o0aBdsS66NyCNNG8Jc6X"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "How Can I Be Silent",
+        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
+      },
+      "artists": [
+        {
+          "name": "Chelsea",
+          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
+        }
+      ],
+      "duration_ms": 204050,
+      "name": "How Can I Be Silent",
+      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Born to Love",
         "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 243155,
       "name": "Breaking Boundaries",
       "url": "https://open.spotify.com/track/2vY0q9Qys4nbtXNre1VFxR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "How Can I Be Silent",
-        "url": "https://open.spotify.com/album/3GudEZtWF1vRHf1AM0hH9C"
-      },
-      "artists": [
-        {
-          "name": "Chelsea",
-          "url": "https://open.spotify.com/artist/68rhcOBBEa3q3lKZbOAd18"
-        }
-      ],
-      "duration_ms": 204050,
-      "name": "How Can I Be Silent",
-      "url": "https://open.spotify.com/track/7IgnVHqxDysutaj7txWS9U"
     },
     {
       "added_at": "2022-05-27 18:07:44",

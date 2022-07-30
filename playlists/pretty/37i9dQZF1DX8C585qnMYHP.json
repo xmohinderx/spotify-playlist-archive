@@ -1,28 +1,36 @@
 {
-  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Kenji Araki Artwork: Thami Nabil",
-  "num_followers": 89482,
+  "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Himeno Tama / Boku to Georges Artwork: Thami Nabil",
+  "num_followers": 89534,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMzYzOSwwMDAwMDAwMDgwMDk0OTA3MmRlMGYzMmFkZGFmY2ZmYzlmYzI3N2I4",
+  "snapshot_id": "MTY1OTEwNTY3MCwwMDAwMDAwMDk3MDY1MmNmZTVhM2U5Mzg1NzdmNmM5NTJhZWVkZDRh",
   "tracks": [
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+        "name": "\u672a\u958b\u306e\u667a",
+        "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Boku to Georges",
+          "url": "https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI"
+        },
+        {
+          "name": "Himeno Tama",
+          "url": "https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT"
+        },
+        {
+          "name": "\u4f50\u85e4\u512a\u4ecb",
+          "url": "https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
+      "duration_ms": 115263,
+      "name": "\u672a\u958b\u306e\u667a",
+      "url": "https://open.spotify.com/track/4sv6XvEU3w9jLFpjP17rxA"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -75,26 +83,18 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "\u672a\u958b\u306e\u667a",
-        "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
       },
       "artists": [
         {
-          "name": "Boku to Georges",
-          "url": "https://open.spotify.com/artist/2977kdIaYljU33WWtK8ZDI"
-        },
-        {
-          "name": "Himeno Tama",
-          "url": "https://open.spotify.com/artist/3SlQMcAkPmn94PeFYCKarT"
-        },
-        {
-          "name": "\u4f50\u85e4\u512a\u4ecb",
-          "url": "https://open.spotify.com/artist/48l1ZXH0Liagpd4Cqovx7L"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 115263,
-      "name": "\u672a\u958b\u306e\u667a",
-      "url": "https://open.spotify.com/track/4sv6XvEU3w9jLFpjP17rxA"
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/5dSqT8JFlqCWMoFKQrUJHa"
     },
     {
-      "added_at": "2022-06-08 02:19:10",
-      "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
-      },
-      "artists": [
-        {
-          "name": "Monica Hapsari",
-          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
-        }
-      ],
-      "duration_ms": 437634,
-      "name": "Umbra",
-      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
-    },
-    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Strands",
@@ -583,6 +567,22 @@
       "duration_ms": 155980,
       "name": "Open Mind",
       "url": "https://open.spotify.com/track/2ffxaPccRoZmT99U5wgJQJ"
+    },
+    {
+      "added_at": "2022-06-08 02:19:10",
+      "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4JJ56IJQdwUNfcexYgJf3n"
+      },
+      "artists": [
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "duration_ms": 437634,
+      "name": "Umbra",
+      "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5"
     },
     {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+    },
+    {
       "added_at": "2022-06-08 02:19:10",
       "album": {
         "name": "Chapter 2 (feat. Laurel Halo) [Peverelist Remix]",
@@ -651,22 +667,6 @@
       "duration_ms": 298151,
       "name": "Chapter 2 (feat. Laurel Halo) - Peverelist Remix",
       "url": "https://open.spotify.com/track/1xNjNoGC0SbQBkMvPxQWe1"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-07-20 05:00:00",
       "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
         "name": "At the Opposite Pole of Architectural Virtue",
         "url": "https://open.spotify.com/album/4SaqbnvjebkOsFlPDwqM4W"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2022-07-20 05:00:00",
       "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
       },
       "artists": [
         {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+          "name": "FFT",
+          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
         }
       ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+      "duration_ms": 213083,
+      "name": "Clear (Eight-Circuit Mix)",
+      "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -771,22 +787,6 @@
       "duration_ms": 296543,
       "name": "BUG",
       "url": "https://open.spotify.com/track/06XaxwXwSFobXivqcLW3Mw"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
-      },
-      "artists": [
-        {
-          "name": "FFT",
-          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
-        }
-      ],
-      "duration_ms": 213083,
-      "name": "Clear (Eight-Circuit Mix)",
-      "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/6nx0pWdx5KpH09BuerI1uG"
     },
     {
-      "added_at": "2022-07-06 13:58:15",
-      "album": {
-        "name": "Medicine Singers",
-        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
-      },
-      "artists": [
-        {
-          "name": "Medicine Singers",
-          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
-        }
-      ],
-      "duration_ms": 122646,
-      "name": "A Cry",
-      "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
-    },
-    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "Air Texture VIII Anthony Naples + DJ Python",
@@ -855,6 +839,22 @@
       "duration_ms": 360930,
       "name": "GHK",
       "url": "https://open.spotify.com/track/3tm8TAxIBc4mD7zvvPJP1S"
+    },
+    {
+      "added_at": "2022-07-06 13:58:15",
+      "album": {
+        "name": "Medicine Singers",
+        "url": "https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1"
+      },
+      "artists": [
+        {
+          "name": "Medicine Singers",
+          "url": "https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv"
+        }
+      ],
+      "duration_ms": 122646,
+      "name": "A Cry",
+      "url": "https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT"
     },
     {
       "added_at": "2022-07-06 13:58:15",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/2XwMV1rdq0ALG4IyVzEbPP"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Leidenzwang",
-        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
-      },
-      "artists": [
-        {
-          "name": "Kenji Araki",
-          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
-        }
-      ],
-      "duration_ms": 260334,
-      "name": "Gel & Gewalt",
-      "url": "https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF"
-    },
-    {
       "added_at": "2022-07-20 05:00:00",
       "album": {
         "name": "Clear",
@@ -955,6 +939,22 @@
       "duration_ms": 312571,
       "name": "3 Sided",
       "url": "https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Leidenzwang",
+        "url": "https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8"
+      },
+      "artists": [
+        {
+          "name": "Kenji Araki",
+          "url": "https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi"
+        }
+      ],
+      "duration_ms": 260334,
+      "name": "Gel & Gewalt",
+      "url": "https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Threshold",
-        "url": "https://open.spotify.com/album/5CGMLqwfDvBOe7qirylp4G"
-      },
-      "artists": [
-        {
-          "name": "Sig Nu Gris",
-          "url": "https://open.spotify.com/artist/7lZAWel8v3gS3EhaQXrnBK"
-        }
-      ],
-      "duration_ms": 353212,
-      "name": "Ardkore Mega Expansion",
-      "url": "https://open.spotify.com/track/1sYsPXUeBTKtPcpRbqQLCe"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Comfy Place",
         "url": "https://open.spotify.com/album/344hmSXinXIbznevcvCt7p"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "Threshold",
+        "url": "https://open.spotify.com/album/5CGMLqwfDvBOe7qirylp4G"
+      },
+      "artists": [
+        {
+          "name": "Sig Nu Gris",
+          "url": "https://open.spotify.com/artist/7lZAWel8v3gS3EhaQXrnBK"
+        }
+      ],
+      "duration_ms": 353212,
+      "name": "Ardkore Mega Expansion",
+      "url": "https://open.spotify.com/track/1sYsPXUeBTKtPcpRbqQLCe"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1TGr8wA85mIUxewg8gyafM"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 453190,
       "name": "You told me you love running so I started to run too",
       "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "\u00d3bice",
+        "url": "https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK"
+      },
+      "artists": [
+        {
+          "name": "Maura Rosa",
+          "url": "https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "\u00d3bice",
+      "url": "https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "\u00d3bice",
-        "url": "https://open.spotify.com/album/6AProNI4fvBL4JKAgggsJK"
+        "name": "Psyko Tropix",
+        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
       },
       "artists": [
         {
-          "name": "Maura Rosa",
-          "url": "https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1"
+          "name": "Vox Populi",
+          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
         }
       ],
-      "duration_ms": 141692,
-      "name": "\u00d3bice",
-      "url": "https://open.spotify.com/track/7lBKhiQ4BHJMda1kJnNt21"
+      "duration_ms": 203317,
+      "name": "Caballo Blanco",
+      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -1283,22 +1299,6 @@
       "duration_ms": 277500,
       "name": "distance to breathe - KIRARA rework",
       "url": "https://open.spotify.com/track/7bKJ8YQ2TGBGA37Q6KMN22"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Psyko Tropix",
-        "url": "https://open.spotify.com/album/41dR5jrIi0s9jXi5PSXp4N"
-      },
-      "artists": [
-        {
-          "name": "Vox Populi",
-          "url": "https://open.spotify.com/artist/1ytw8aB9k7QB3z4jg3zKgR"
-        }
-      ],
-      "duration_ms": 203317,
-      "name": "Caballo Blanco",
-      "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
     },
     {
       "added_at": "2022-06-08 02:19:10",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/62bdRTsoCLqWKuURUCqdDK"
     },
     {
-      "added_at": "2022-05-18 12:58:13",
-      "album": {
-        "name": "Secret of the Megafauna",
-        "url": "https://open.spotify.com/album/39BFvLE1WNKS2kytZdCIlt"
-      },
-      "artists": [
-        {
-          "name": "Cool Maritime",
-          "url": "https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV"
-        }
-      ],
-      "duration_ms": 347104,
-      "name": "Secret of the Megafauna",
-      "url": "https://open.spotify.com/track/4CszGmgD0sckdDRvPeFBjb"
-    },
-    {
       "added_at": "2022-06-29 16:46:05",
       "album": {
         "name": "THIS MEANING TODAY",
@@ -1415,6 +1399,22 @@
       "duration_ms": 473733,
       "name": "LAC \u0096 Silence Half Speed",
       "url": "https://open.spotify.com/track/05ttNAPwcldGNZvvcenEp3"
+    },
+    {
+      "added_at": "2022-05-18 12:58:13",
+      "album": {
+        "name": "Secret of the Megafauna",
+        "url": "https://open.spotify.com/album/39BFvLE1WNKS2kytZdCIlt"
+      },
+      "artists": [
+        {
+          "name": "Cool Maritime",
+          "url": "https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV"
+        }
+      ],
+      "duration_ms": 347104,
+      "name": "Secret of the Megafauna",
+      "url": "https://open.spotify.com/track/4CszGmgD0sckdDRvPeFBjb"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Nebulosa di Orione",
-        "url": "https://open.spotify.com/album/2rPs0Gx8iuY0Yf6AopUUEq"
-      },
-      "artists": [
-        {
-          "name": "Jack Sapienza",
-          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Nebulosa di Orione",
-      "url": "https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "Leaving Your House",
         "url": "https://open.spotify.com/album/6Jr4gQWVm1nW578piBHO6i"
       },
@@ -1575,18 +1559,38 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "New Latam Beats from Mexico Curated by Jiony",
-        "url": "https://open.spotify.com/album/2irKa5fP22B5tRLQ5z39Wn"
+        "name": "Nebulosa di Orione",
+        "url": "https://open.spotify.com/album/2rPs0Gx8iuY0Yf6AopUUEq"
       },
       "artists": [
         {
-          "name": "Amnl Prnt",
-          "url": "https://open.spotify.com/artist/3zTlgqco4hU2RcEzmTpHxQ"
+          "name": "Jack Sapienza",
+          "url": "https://open.spotify.com/artist/5iZW5E9q0Iv8t0Phtp887K"
         }
       ],
-      "duration_ms": 368710,
-      "name": "WilB",
-      "url": "https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n"
+      "duration_ms": 178285,
+      "name": "Nebulosa di Orione",
+      "url": "https://open.spotify.com/track/0DwbWhd5BzZI4P1xhrPzB0"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Tum Trib\u00f9 Reworked",
+        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
+      },
+      "artists": [
+        {
+          "name": "John Bringwolves",
+          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
+        },
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+        }
+      ],
+      "duration_ms": 177903,
+      "name": "Tum Trib\u00f9 Reworked",
+      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1615,38 +1619,18 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Tum Trib\u00f9 Reworked",
-        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
+        "name": "New Latam Beats from Mexico Curated by Jiony",
+        "url": "https://open.spotify.com/album/2irKa5fP22B5tRLQ5z39Wn"
       },
       "artists": [
         {
-          "name": "John Bringwolves",
-          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
-        },
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+          "name": "Amnl Prnt",
+          "url": "https://open.spotify.com/artist/3zTlgqco4hU2RcEzmTpHxQ"
         }
       ],
-      "duration_ms": 177903,
-      "name": "Tum Trib\u00f9 Reworked",
-      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Hyle",
-        "url": "https://open.spotify.com/album/1KQdYH71BJMYvkkCT7dGkL"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mi B\u00fcchi",
-          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "Manifesting Plastic Sorrow",
-      "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
+      "duration_ms": 368710,
+      "name": "WilB",
+      "url": "https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1663,6 +1647,22 @@
       "duration_ms": 240000,
       "name": "anytrip k.o",
       "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "Hyle",
+        "url": "https://open.spotify.com/album/1KQdYH71BJMYvkkCT7dGkL"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
+        }
+      ],
+      "duration_ms": 207532,
+      "name": "Manifesting Plastic Sorrow",
+      "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
     },
     {
       "added_at": "2022-06-29 16:46:05",

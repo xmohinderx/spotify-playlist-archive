@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's Country crop. Cover: Kaylee Bell + James Johnston",
-  "num_followers": 299942,
+  "num_followers": 300031,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAxNjgwMCwwMDAwMDAwMDY4ZWM2ZjU2ZGQyMDI5N2IxYzJlZGM0YzFlZjk1NTAx",
+  "snapshot_id": "MTY1OTAxNjgwMCwwMDAwMDAwMGQ3M2JkYjQwNjRiMjZkNjUzMWMwNzUyOTdmYzIyODE1",
   "tracks": [
     {
       "added_at": "2022-07-28 14:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-07-28 14:00:00",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/5ivgsUoOAhJXWwnEcezbKi"
+      },
+      "artists": [
+        {
+          "name": "Brittany Maggs",
+          "url": "https://open.spotify.com/artist/7nhHQaEhJJWxz51Eey1hQ0"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Carefree",
+      "url": "https://open.spotify.com/track/6gskDkFXQj5kuUvJohNhM6"
+    },
+    {
+      "added_at": "2022-07-28 14:00:00",
+      "album": {
         "name": "One Of Them Nights",
         "url": "https://open.spotify.com/album/3BbMi5ff2Tj4OhRGrgk5Ue"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 210657,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/2FsHQotAXaB8colawUzXQG"
+    },
+    {
+      "added_at": "2022-07-28 14:00:00",
+      "album": {
+        "name": "The Good Old Days",
+        "url": "https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Swift",
+          "url": "https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd"
+        }
+      ],
+      "duration_ms": 226447,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN"
     },
     {
       "added_at": "2022-07-28 14:00:00",
@@ -555,6 +587,22 @@
       "duration_ms": 186341,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/7jWXoYMa2fd6xrIJ1AOcjb"
+    },
+    {
+      "added_at": "2022-07-28 14:00:00",
+      "album": {
+        "name": "Bring On The Summertime",
+        "url": "https://open.spotify.com/album/6hSKi63TAZDp3pxbTYv7kq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lindsay",
+          "url": "https://open.spotify.com/artist/5nv1HL0xYpBabkjOJ8Q7nn"
+        }
+      ],
+      "duration_ms": 241598,
+      "name": "Bring On The Summertime",
+      "url": "https://open.spotify.com/track/1BKS7mgVCQLZqq2lt7lRp8"
     },
     {
       "added_at": "2022-07-28 14:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Simi",
-  "num_followers": 844008,
+  "num_followers": 843965,
   "original_name": "EQUAL Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAyODc4MiwwMDAwMDAwMDhiYjBkNWMwODEwMjgyNTI4ODE5N2Y1MGExYWRlYmVm",
+  "snapshot_id": "MTY1OTAyODc4MiwwMDAwMDAwMDM2NGIyNzllODJhYjFkMGI5YjM3OTZiNGNiNWNhZTk0",
   "tracks": [
     {
       "added_at": "2022-07-28 17:19:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-07-28 17:19:42",
       "album": {
-        "name": "F\u00e9",
-        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
-    },
-    {
-      "added_at": "2022-07-28 17:19:42",
-      "album": {
         "name": "from our Memento Box",
         "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
+    },
+    {
+      "added_at": "2022-07-28 17:19:42",
+      "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
     },
     {
       "added_at": "2022-07-28 17:19:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-28 17:19:42",
       "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh"
-      },
-      "artists": [
-        {
-          "name": "C\u00edntia",
-          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
-        }
-      ],
-      "duration_ms": 221553,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy"
-    },
-    {
-      "added_at": "2022-07-28 17:19:42",
-      "album": {
         "name": "La Batalla",
         "url": "https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 296914,
       "name": "La Batalla",
       "url": "https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu"
+    },
+    {
+      "added_at": "2022-07-28 17:19:42",
+      "album": {
+        "name": "Moves",
+        "url": "https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh"
+      },
+      "artists": [
+        {
+          "name": "C\u00edntia",
+          "url": "https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU"
+        }
+      ],
+      "duration_ms": 221553,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy"
     },
     {
       "added_at": "2022-07-28 17:19:42",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-28 17:19:42",
       "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz"
-      },
-      "artists": [
-        {
-          "name": "H\u0113ir",
-          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
-        }
-      ],
-      "duration_ms": 163812,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3"
-    },
-    {
-      "added_at": "2022-07-28 17:19:42",
-      "album": {
         "name": "One Playlist",
         "url": "https://open.spotify.com/album/2wtZWooYfOuUHDGztpH4s3"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 251324,
       "name": "Fini Kther",
       "url": "https://open.spotify.com/track/7kMclfTeBnMbkPOcoClFlx"
+    },
+    {
+      "added_at": "2022-07-28 17:19:42",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/7isfqKCcilsr8W9lrTEdmz"
+      },
+      "artists": [
+        {
+          "name": "H\u0113ir",
+          "url": "https://open.spotify.com/artist/4zroxWKoeCisPvqHj5CtqW"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/4kyFxkkRdcSRpohL3bbNY3"
     },
     {
       "added_at": "2022-07-28 17:19:42",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-07-28 17:19:42",
       "album": {
+        "name": "Words You Want (feat. SOI)",
+        "url": "https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z"
+      },
+      "artists": [
+        {
+          "name": "Rhosy",
+          "url": "https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK"
+        },
+        {
+          "name": "SOI",
+          "url": "https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P"
+        }
+      ],
+      "duration_ms": 144410,
+      "name": "Words You Want (feat. SOI)",
+      "url": "https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O"
+    },
+    {
+      "added_at": "2022-07-28 17:19:42",
+      "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 285400,
       "name": "Jahil Hoon Main",
       "url": "https://open.spotify.com/track/4l2Enq43g76mIXWrTI05Pw"
-    },
-    {
-      "added_at": "2022-07-28 17:19:42",
-      "album": {
-        "name": "Words You Want (feat. SOI)",
-        "url": "https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z"
-      },
-      "artists": [
-        {
-          "name": "Rhosy",
-          "url": "https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK"
-        },
-        {
-          "name": "SOI",
-          "url": "https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P"
-        }
-      ],
-      "duration_ms": 144410,
-      "name": "Words You Want (feat. SOI)",
-      "url": "https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O"
     }
   ],
   "unique_name": "EQUAL Global ",

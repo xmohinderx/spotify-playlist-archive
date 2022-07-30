@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 281453,
       "name": "Beat This Summer",
       "url": "https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB"
@@ -1397,6 +1397,24 @@
       "duration_ms": 211576,
       "name": "I Called Mama",
       "url": "https://open.spotify.com/track/3YuvAPidBWldqjagOryo40"
+    },
+    {
+      "album": {
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/1txWLNMKiZ5K6ezFMtyjLM"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "I Called Mama",
+      "url": "https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs"
     },
     {
       "album": {

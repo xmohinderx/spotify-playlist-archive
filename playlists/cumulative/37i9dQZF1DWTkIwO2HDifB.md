@@ -2,9 +2,9 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Pras Novinha e os funks mais 🔑 do Brasil\. Foto: Mc Livinho, DJ Lk da Escócia, DJ Breno, DJ Pedrin
+> Pras Novinha e os funks mais 🔑 do Brasil\. Foto: MC Kevin o Chris
 
-107 songs - 5 hr 25 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
+108 songs - 5 hr 28 min - [published](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Vai Fofoqueira](https://open.spotify.com/track/346Ck3YbEHUdA3p4hOVsDJ) | [Dj Henrique de Ferraz](https://open.spotify.com/artist/5crFHCCb7j1zkIiIUpN2In), [DJ P7](https://open.spotify.com/artist/6mACLfkeOp2ZwZWyrbLIMM), [Mc Marofa](https://open.spotify.com/artist/1ZFKFuRNWGcRL4bHEmWVAe) | [Vai Fofoqueira](https://open.spotify.com/album/43s8nRw5GvZhbBXfB1yGGb) | 3:00 | 2021-12-31 | 2022-02-19 |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2022-07-22 |  |
 | [Videozin pra Tiktok](https://open.spotify.com/track/0IU0HtCAk6AXO5BqWW4lwy) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Videozin pra Tiktok](https://open.spotify.com/album/7eypky4JCgx0P4T2Oka3ce) | 2:21 | 2022-04-11 |  |
-| [Voltei pra Cachorrada](https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc) | 3:26 | 2022-01-14 |  |
+| [Voltei pra Cachorrada](https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei pra Cachorrada](https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc) | 3:26 | 2022-01-14 | 2022-07-30 |
+| [Voltei Pra Cachorrada](https://open.spotify.com/track/3fRvT5duPFMwQ6MiXVIA36) | [MC Meno Dani](https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI), [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [DJ Cyclone](https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi) | [Voltei Pra Cachorrada](https://open.spotify.com/album/4yH4u8yBTw52klnu7mhALX) | 3:26 | 2022-07-29 |  |
 | [Vou de Lala](https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ 900](https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Kelvinho](https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB), [DJ BOY](https://open.spotify.com/artist/5ncITNKBT3RMa1U2NsuE7V) | [Vou de Lala](https://open.spotify.com/album/0gHO5D4JdxNHZIpyGtQm1I) | 5:00 | 2021-12-31 | 2022-05-21 |
 | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/track/2IsusePMD32LQKNU7vZiAH) | [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN), [Mc Denny](https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi) | [É Só Blusão da Ecko e Boné da Lacoste Vs Putaria \(feat\. Mc Denny\)](https://open.spotify.com/album/1hZBg3LJIEeqQf3WqcbCQf) | 2:13 | 2022-02-25 | 2022-06-23 |
 | [É Só Botada](https://open.spotify.com/track/07c9lzwx1IIm101PnB4BZu) | [MC Levin](https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY), [Caverinha](https://open.spotify.com/artist/6R7sYePCn27YnyKI61lBPz) | [É Só Botada](https://open.spotify.com/album/1v2vzXivJdWpVUjMvzoKsc) | 2:25 | 2021-12-31 | 2022-03-05 |

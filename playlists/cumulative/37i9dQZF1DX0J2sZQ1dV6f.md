@@ -4,7 +4,7 @@
 
 > Perreo after hours.
 
-172 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
+174 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/0Zp5ISfQqmS4W6Y0xRDYYd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Sola](https://open.spotify.com/track/1IiMw7TVXp9zJTMvhJSDrF) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/22s9wUm9hVB4AqmqFfv99P) | 4:15 | 2022-03-21 | 2022-04-20 |
 | [Soltera \- Remix](https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soltera \(Remix\)](https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR) | 4:26 | 2022-04-19 | 2022-07-09 |
 | [Soy Una Gargola](https://open.spotify.com/track/4bEwaORm2IBfu3omjEna7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 4:09 | 2022-07-08 |  |
+| [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 | 2022-07-29 |  |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |
 | [Tempo](https://open.spotify.com/track/1A9PL1Y2cc8aBs6uLSdMHW) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Tempo](https://open.spotify.com/album/26OPZGfHxJqhRd2cHrsjMB) | 2:25 | 2022-07-08 | 2022-07-28 |
@@ -171,6 +172,7 @@
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2022-07-08 |  |
 | [Tus Poses](https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Tus Poses](https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33) | 3:21 | 2022-07-08 |  |
 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 | 2022-07-08 |  |
+| [Una Movie](https://open.spotify.com/track/0FBwBdsjVJnonigGCKM5vA) | [Rickstarr](https://open.spotify.com/artist/0ae72SdJTJ8D7VadVuUpEQ) | [Una Movie](https://open.spotify.com/album/6tNFpPVbnf9fRk2R78aBK4) | 2:30 | 2022-07-29 |  |
 | [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2022-03-21 | 2022-07-09 |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-03-21 | 2022-04-20 |
 | [Vente Al Party](https://open.spotify.com/track/17ig894RClkWBNaVtENDrb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Vente Al Party](https://open.spotify.com/album/341LvImqrdzts52GlxRFfE) | 2:24 | 2022-07-08 |  |

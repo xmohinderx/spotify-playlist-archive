@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 
 > Beats inspired by the golden era of hip hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,003 likes - 130 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,103 likes - 134 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,12 +131,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dU0Z2LOkZN.md) - [plain]
 | 121 | [Universal Unreal](https://open.spotify.com/track/3BUTu7gMvVlz8W0Qpya0YH) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Universal Unreal](https://open.spotify.com/album/0kcMVFZ6CtpWAuaIhuxEX1) | 2:26 |
 | 122 | [Mellotron](https://open.spotify.com/track/01MiVNDj1ezwyWbaElrcCw) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Mellotron](https://open.spotify.com/album/1aqFGL2Fcqbs0Db6wpzoNX) | 2:32 |
 | 123 | [Workitout](https://open.spotify.com/track/2qI1MNDL7NtvX5FMPhQh0A) | [Hands](https://open.spotify.com/artist/0N1Cn6TEMkmCdlt2YQkK9N) | [Workitout](https://open.spotify.com/album/3n0ssOLM368uyujZkNkm60) | 1:52 |
-| 124 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 |
-| 125 | [Brooklyn 94](https://open.spotify.com/track/4VRvLwyrBPJOxVqCj8ckvI) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brooklyn 94](https://open.spotify.com/album/4qXEssOIyUDixW8ZAr0sGu) | 1:40 |
-| 126 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
-| 127 | [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 |
-| 128 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
-| 129 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
-| 130 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
+| 124 | [Coves](https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Coves](https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr) | 2:45 |
+| 125 | [Blue](https://open.spotify.com/track/0Ny8qSEbwotqBfbG0TWVPN) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Twofacts](https://open.spotify.com/artist/4bewkYX9Io0OgZoDufJZqf) | [Blue](https://open.spotify.com/album/016rAHE5Ol1cvDgPhizJRP) | 1:53 |
+| 126 | [Lagoon](https://open.spotify.com/track/2uIwZfq0rC5EsKgEpWl6Pk) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Lagoon](https://open.spotify.com/album/2h2f1UgdOBIfZAkmmdIyaH) | 3:07 |
+| 127 | [Purple Days](https://open.spotify.com/track/40tohqXWMJjaveY7CMINTW) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Purple Days](https://open.spotify.com/album/5NwqGSu5TetGHhlVKHlBl0) | 1:54 |
+| 128 | [Brooklyn 94](https://open.spotify.com/track/4VRvLwyrBPJOxVqCj8ckvI) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Brooklyn 94](https://open.spotify.com/album/4qXEssOIyUDixW8ZAr0sGu) | 1:40 |
+| 129 | [Palindromeda](https://open.spotify.com/track/3oUSL2wv3bD1KLCfuzQbQ4) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Palindromeda](https://open.spotify.com/album/7GlrACUPKdFqezK9kljp3p) | 1:43 |
+| 130 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 |
+| 131 | [Flying Lanterns](https://open.spotify.com/track/4aFeBrPk46hNYhRZOImned) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [Flying Lanterns](https://open.spotify.com/album/6LnoByEWcYaNoM3df3sm7b) | 3:15 |
+| 132 | [Gold n Glitter](https://open.spotify.com/track/5jpI3Daux7eK9sxIG6thXy) | [I.N.Kognito](https://open.spotify.com/artist/51kj9MIOPaBfsA5bMUvflD) | [My Love n Hate For You 4](https://open.spotify.com/album/4ZX3Hy7yqT0KlvYZLvmYyK) | 1:47 |
+| 133 | [The All Good Important](https://open.spotify.com/track/5lYMGNXk3KnB53Pah8qDKp) | [King AL](https://open.spotify.com/artist/0d1g0XDfmW95OGEDuH8Pvk) | [Mugen Manga Melodies Vol\. 1 \(Reissue\)](https://open.spotify.com/album/2A6tRrnqZI0rSRwAJOWYSh) | 2:23 |
+| 134 | [So Ready](https://open.spotify.com/track/2W6QRpsVWEzwwjPqtIq9dp) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [The Heat](https://open.spotify.com/album/0A3JVI8xHZsvfMQco4dVUj) | 2:24 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDY2ODhjYzk5N2Y2ZWQ4NTgxOWFiZWU3ZWYyNDI5NjVi`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDM4NGE5ODU4YmZmZGY2NDczMThhMTI1NzNiNmQ1ZGZh`

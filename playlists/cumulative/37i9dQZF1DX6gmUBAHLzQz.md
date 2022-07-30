@@ -4,7 +4,7 @@
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-97 songs - 7 hr 9 min - not published yet
+97 songs - 7 hr 9 min - [published](https://open.spotify.com/playlist/5QHdlvYkJbk57w4OhDPaim)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Growing for a dream](https://open.spotify.com/track/06DjATSo7mVXy3fSxzct1e) | [わか from STAR☆ANIS](https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS6](https://open.spotify.com/album/3A3hNMSWlGtOWnN5OeAyYw) | 3:21 | 2022-07-26 |  |
 | [G線上のShining Sky](https://open.spotify.com/track/4u90neOmnIf2dYHqSh5NV0) | [れみ・わか from STAR☆ANIS](https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 1年目2](https://open.spotify.com/album/1i7eKjaA0dNEBcKz3nisHZ) | 5:10 | 2022-07-26 | 2022-07-29 |
 | [G線上のShining Sky](https://open.spotify.com/track/44fD8wJpSM0yRpOxtS23wp) | [れみ・わか from STAR☆ANIS](https://open.spotify.com/artist/00xJMFXojHoKnLRaLGcn3W) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 5:10 | 2022-07-26 |  |
-| [HAPPY∞アイカツ!](https://open.spotify.com/track/7bxZVwJRRZzGds4jgzZ2Uj) | [STARRY PLANET](https://open.spotify.com/artist/690O3fK4s8hR73DJHBBJju) | [『劇場版アイカツプラネット!』ボーカル&オリジナルサウンドトラック「劇場版アイカツプラネット!の音楽!!」](https://open.spotify.com/album/660ZOCBe3HaOgDVGkvl98D) | 3:44 | 2022-07-26 |  |
+| [HAPPY∞アイカツ!](https://open.spotify.com/track/7bxZVwJRRZzGds4jgzZ2Uj) | [STARRY PLANET](https://open.spotify.com/artist/690O3fK4s8hR73DJHBBJju) | [『劇場版アイカツプラネット!』ボーカル&オリジナルサウンドトラック「劇場版アイカツプラネット!の音楽!!」](https://open.spotify.com/album/660ZOCBe3HaOgDVGkvl98D) | 3:44 | 2022-07-26 |  |
 | [HAPPY∞アイカツ! \- Short Size](https://open.spotify.com/track/4fyHvSsV3ZOUK0fFdTuyPs) | [STARRY PLANET](https://open.spotify.com/artist/690O3fK4s8hR73DJHBBJju) | [データカードダス「アイカツプラネット!」1弾楽曲](https://open.spotify.com/album/2uaNgkJCd5v97SxB0b8OA1) | 2:10 | 2022-07-26 | 2022-07-29 |
 | [KIRA☆Power](https://open.spotify.com/track/0MuXCzhhtfZbGwvCu5bmWm) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 4:46 | 2022-07-26 | 2022-07-29 |
 | [KIRA☆Power](https://open.spotify.com/track/7nKlMQ0praIT4Q8T0KNz8e) | [わか・ふうり・すなお from STAR☆ANIS](https://open.spotify.com/artist/0xzkx0ukfziouCZGRJ54Tx) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS12](https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk) | 4:47 | 2022-07-26 |  |

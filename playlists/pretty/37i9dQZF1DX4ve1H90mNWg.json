@@ -1,18 +1,18 @@
 {
   "description": "Texas music breaking waves. Cover, Megan Thee Stallion",
-  "num_followers": 3538,
+  "num_followers": 3540,
   "original_name": "Ripple Effect: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUxOTM5NywwMDAwMDAwMDg4MjRhNDUzNzIxYmEyN2JmZmMwNzFjMWQ3YTVjY2Q0",
+  "snapshot_id": "MTY1OTEyMzQ4NiwwMDAwMDAwMDcwY2ZlODk3ODNiYjM2MDAwNGNjYmUxMjRmODc4MjIy",
   "tracks": [
     {
-      "added_at": "2022-07-22 19:49:57",
+      "added_at": "2022-07-29 19:38:06",
       "album": {
         "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/7h7vgL9hnOW6CB7XYAEIMr"
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
       },
       "artists": [
         {
@@ -26,7 +26,7 @@
       ],
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/0qvlNV42mBsDjXN4c6XQyp"
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -83,6 +83,26 @@
       "duration_ms": 174021,
       "name": "Supercharge (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/5UoKOaI2Dg2a9Qgw5TsStq"
+    },
+    {
+      "added_at": "2022-07-29 19:38:06",
+      "album": {
+        "name": "Make your Move (feat. Slim Thug)",
+        "url": "https://open.spotify.com/album/2HpV8JDlBrvPrjthyZ0jEp"
+      },
+      "artists": [
+        {
+          "name": "DJ X.O.",
+          "url": "https://open.spotify.com/artist/3ix09kkqd9kYVXqzqWWJFf"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "Make your Move (feat. Slim Thug)",
+      "url": "https://open.spotify.com/track/4KnvPcopYg0heTIn0Ct59R"
     },
     {
       "added_at": "2022-07-22 19:49:57",
@@ -967,6 +987,42 @@
       "duration_ms": 186400,
       "name": "Handyman",
       "url": "https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F"
+    },
+    {
+      "added_at": "2022-07-29 19:38:06",
+      "album": {
+        "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
+        "url": "https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW"
+      },
+      "artists": [
+        {
+          "name": "Imani Williams",
+          "url": "https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 219861,
+      "name": "Fuck Alone (Remix) [feat. Kaash Paige]",
+      "url": "https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us"
+    },
+    {
+      "added_at": "2022-07-29 19:38:06",
+      "album": {
+        "name": "Dont Like Me",
+        "url": "https://open.spotify.com/album/5a9XakjFheiaQNzgjafoFt"
+      },
+      "artists": [
+        {
+          "name": "Kayykilo",
+          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Dont Like Me",
+      "url": "https://open.spotify.com/track/3gZVyPO9Pec63WcuvcNefq"
     }
   ],
   "unique_name": "Ripple Effect: Texas",

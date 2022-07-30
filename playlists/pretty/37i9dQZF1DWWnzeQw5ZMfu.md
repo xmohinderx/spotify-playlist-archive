@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\. Cover: Miley Cyrus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,978 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,020 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 60 | [She Wolf \- El Dorado World Tour Live](https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira In Concert: El Dorado World Tour](https://open.spotify.com/album/5EdGgMlsJ7bv8IUqkaaPZN) | 5:40 |
 | 61 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \- Live](https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 5:34 |
 | 62 | [Your Song \- Live At Madison Square Garden](https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton 60 \- Live At Madison Square Garden](https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68) | 4:09 |
-| 63 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 |
-| 64 | [The Lady In Red \- Live](https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i) | 4:06 |
+| 63 | [The Lady In Red \- Live](https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Live in Dortmund](https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i) | 4:06 |
+| 64 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 |
 | 65 | [She Will Be Loved \- Live](https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Live Friday The 13th](https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C) | 6:19 |
 | 66 | [When You Say Nothing At All \- Live](https://open.spotify.com/track/5B5X7IDKH9Aeb7NcLdErG7) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Live 2013 at The O2 Arena, London](https://open.spotify.com/album/05qBbGGNvgkIfOuyDt1jFl) | 4:59 |
 | 67 | [You Give Me Something \- Live At The Hospital Club](https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [James Morrison – Live & Unplugged At The Hospital](https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx) | 5:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 75 | [Listen to Your Heart \- Live from Santiago 2012](https://open.spotify.com/track/0QrQYEtKj6R5xknD8Rw3TO) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Travelling The World Live at Caupolican, Santiago, Chile May 5, 2012](https://open.spotify.com/album/5AjkfsSjEFEyYZ4LJIRWWN) | 5:45 |
 | 76 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 |
 | 77 | [Take A Chance On Me \- Live](https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 4:25 |
-| 78 | [Smooth Operator \- Live](https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 4:16 |
-| 79 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA, 18/6/1988](https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101](https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg) | 4:01 |
+| 78 | [Just Can't Get Enough \- Live at Rose Bowl, Pasadena, CA, 18/6/1988](https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [101](https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg) | 4:01 |
+| 79 | [Smooth Operator \- Live](https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 4:16 |
 | 80 | [Greatest Love of All \- Live from That's What Friends Are For: Arista Records 15th Anniversary Concert](https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 6:50 |
 | 81 | [Footloose \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ) | 4:14 |
 | 82 | [The A Team \- Live and in Session](https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [West End Girls \- Live at the O2 Arena, London \- 21 December 2009](https://open.spotify.com/track/4nKfwUyunCQQEp0ljZ2H0I) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Pandemonium \(Live at the O2 Arena, London \- 21 December 2009\)](https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL) | 5:14 |
 | 100 | [Crazy \- Live](https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Soul Live](https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT) | 7:21 |
 
-Snapshot ID: `MTY1MTIxMjY4MywwMDAwMDAwMDZiZWFhMzlkZGI1NWNkODU3Nzk1MTU1ODQ0YjM1Zjgz`
+Snapshot ID: `MTY1MTIxMjY4MywwMDAwMDAwMDA5ZDVjZjhmNzAwYTI5ZDViNWFlMWFkMjRjODcwNDlh`

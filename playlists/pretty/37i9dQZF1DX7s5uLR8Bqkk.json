@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2013! Cover: Avicii",
-  "num_followers": 6436,
+  "num_followers": 6441,
   "original_name": "Le Hit Del 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDI2MSwwMDAwMDAwMDc3N2JlOGE0MDYxNjBjYTY4Y2IwNTE4Njg5MzNjOTMw",
+  "snapshot_id": "MTYwNDUwMDI2MSwwMDAwMDAwMDJkY2U5ZGViNDc2ODA1NjVlNTExMjAzNjMxNjcyZmU0",
   "tracks": [
     {
       "added_at": "2020-11-04 14:31:01",
@@ -995,6 +995,22 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
+        "name": "Tribute",
+        "url": "https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk"
+      },
+      "artists": [
+        {
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+        }
+      ],
+      "duration_ms": 239894,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 206120,
       "name": "Don't Stop the Party (feat. TJR)",
       "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
-        "name": "Tribute",
-        "url": "https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk"
-      },
-      "artists": [
-        {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
-        }
-      ],
-      "duration_ms": 239894,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
-        "name": "Moon Landing",
-        "url": "https://open.spotify.com/album/3M8XClATGAkLPvA4ibtZm5"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Bonfire Heart",
-      "url": "https://open.spotify.com/track/2kvyMNHyxQt2UJ5EKvxaOC"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
         "name": "Carelessly Yours",
         "url": "https://open.spotify.com/album/3qKmGEPy26x3ygBRjGF6ln"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 200386,
       "name": "I'm in Love",
       "url": "https://open.spotify.com/track/0WiQ7heTh74fLsysgS3V8O"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "Moon Landing",
+        "url": "https://open.spotify.com/album/3M8XClATGAkLPvA4ibtZm5"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Bonfire Heart",
+      "url": "https://open.spotify.com/track/2kvyMNHyxQt2UJ5EKvxaOC"
     },
     {
       "added_at": "2020-11-04 14:31:01",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2020-11-04 14:31:01",
       "album": {
-        "name": "Backup 1987 - 2012",
-        "url": "https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa"
-    },
-    {
-      "added_at": "2020-11-04 14:31:01",
-      "album": {
         "name": "Molto calmo",
         "url": "https://open.spotify.com/album/3gw4CHycpl8mNDQvGPrnRa"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 241613,
       "name": "Molto calmo",
       "url": "https://open.spotify.com/track/5iR5wz6QEeztfTzvjnE0ZU"
+    },
+    {
+      "added_at": "2020-11-04 14:31:01",
+      "album": {
+        "name": "Backup 1987 - 2012",
+        "url": "https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa"
     }
   ],
   "unique_name": "Le Hit Del 2013",

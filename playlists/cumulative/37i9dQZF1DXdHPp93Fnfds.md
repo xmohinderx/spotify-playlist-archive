@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-426 songs - 1 day 0 hr 45 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+427 songs - 1 day 0 hr 48 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,12 +338,13 @@
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-02-11 | 2022-07-29 |
 | [rayo violeta](https://open.spotify.com/track/5R5kHA3tw9s9DUUWmiEH5V) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [ENVOLTORIO](https://open.spotify.com/album/0PawHcpENJnqCXwKranhS3) | 2:53 | 2022-01-21 | 2022-07-12 |
 | [Roma](https://open.spotify.com/track/6x5GX0efAvoP7UPREJZ7JO) | [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Roma](https://open.spotify.com/album/4T10MaEXDPURJu82rNHHjp) | 3:25 | 2022-04-01 | 2022-06-17 |
-| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 |  |
+| [Romance Con la Luna](https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Romance Con la Luna](https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781) | 2:51 | 2022-06-03 | 2022-07-30 |
 | [Rush](https://open.spotify.com/track/0XSKYcnq53sJMPBH3pp8wL) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/58vRiAOoBIOR091LSSvJau) | 3:15 | 2022-01-14 | 2022-07-29 |
 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 | 2022-07-15 |  |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-01 | 2022-04-28 |
 | [Se Veía Venir](https://open.spotify.com/track/66beGFF4xXL7U8cwJASEj0) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Se Veía Venir](https://open.spotify.com/album/7hWv3HzsI7iGsCnDjo9Ovb) | 3:00 | 2022-01-21 | 2022-07-26 |
 | [Secretos](https://open.spotify.com/track/1NdnraK92SRP3xp54zJbum) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Amala](https://open.spotify.com/album/3yiIXKQwT5SN7RmOP2Xnkn) | 6:43 | 2022-04-01 | 2022-07-05 |
+| [Secretos](https://open.spotify.com/track/4tQzhgtJQavorNg6lJx2ah) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Secretos](https://open.spotify.com/album/07RmkrXUnFNGoGIeuJ6APP) | 3:21 | 2022-07-29 |  |
 | [Selección Natural](https://open.spotify.com/track/6BJuwN3jo7RftHfq4GEutD) | [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Selección Natural](https://open.spotify.com/album/5fOpP7Qql2WT27lQ31jfxd) | 5:32 | 2022-01-21 | 2022-07-28 |
 | [Selva Negra](https://open.spotify.com/track/05554ATgymiSkXHLdpGl5d) | [Grace Caracol](https://open.spotify.com/artist/0OGNY2wV1dPmSv01JKrpoL) | [Selva Negra](https://open.spotify.com/album/3JNSwB2kvBmxzlEAk08HJU) | 3:05 | 2022-04-01 | 2022-04-29 |
 | [Serenidad](https://open.spotify.com/track/1ZVI0MOeSErPZcGmeTCA7C) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/0lqj2DO9dGyRG4QQ5AQdci) | 3:28 | 2022-01-21 | 2022-07-26 |

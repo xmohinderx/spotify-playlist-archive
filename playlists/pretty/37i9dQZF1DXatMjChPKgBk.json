@@ -1,12 +1,12 @@
 {
   "description": "Dinner music that includes well known and new tracks.",
-  "num_followers": 658557,
+  "num_followers": 658699,
   "original_name": "Dinner Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMDQ5NWI2ZTk2YTY5ZDdmN2JlNGYxMmM1NDEzNjdmYWE1",
+  "snapshot_id": "MTY1NzI3NDQwMCwwMDAwMDAwMGI5NTE3NzZiMDFmNDc2MjdhZmQxNWQxZmJlMTZiYWM2",
   "tracks": [
     {
       "added_at": "2022-07-08 10:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 526386,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Spellbound",
         "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 292933,
       "name": "Rush Rush",
       "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Best Of Blue",
         "url": "https://open.spotify.com/album/7kPVKSy6zNK1PnvylEqTpL"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 210066,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6F9jdzX7CfixvCsCkW7zw9"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 244106,
       "name": "Realize",
       "url": "https://open.spotify.com/track/5OGkKx8jP0A5KSULEc6XYZ"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -2479,26 +2479,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Amidst the Chaos (Bonus Version)",
         "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
       },
@@ -2515,6 +2495,26 @@
       "duration_ms": 269209,
       "name": "A Safe Place to Land (feat. John Legend)",
       "url": "https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3059,26 +3059,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/37qXQpbCmtNUX99XY39Ay7"
-      },
-      "artists": [
-        {
-          "name": "Candelion",
-          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
-        },
-        {
-          "name": "Cody Francis",
-          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
-        }
-      ],
-      "duration_ms": 202794,
-      "name": "I'm Dreaming Of You",
-      "url": "https://open.spotify.com/track/5bZGtll3p5dE9dgGWsGPSG"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Wait & See",
         "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
       },
@@ -3123,6 +3103,26 @@
       "duration_ms": 259933,
       "name": "Waterfalls - Single Edit",
       "url": "https://open.spotify.com/track/76fn6jLgMwrQDS08ACFIU1"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/37qXQpbCmtNUX99XY39Ay7"
+      },
+      "artists": [
+        {
+          "name": "Candelion",
+          "url": "https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG"
+        },
+        {
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "I'm Dreaming Of You",
+      "url": "https://open.spotify.com/track/5bZGtll3p5dE9dgGWsGPSG"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3363,6 +3363,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -3379,22 +3395,6 @@
       "duration_ms": 275800,
       "name": "The Last Waltz Suite: The Weight (feat. The Staples)",
       "url": "https://open.spotify.com/track/3TKOJWYOMrp98OB19y1A0n"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3435,22 +3435,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Your Heart Is As Black As Night",
-      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "More Than This - The Best Of Bryan Ferry And Roxy Music",
         "url": "https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im"
       },
@@ -3463,6 +3447,22 @@
       "duration_ms": 256760,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/61y28QdZIXzVtNIs3xZuaT"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3531,22 +3531,18 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA"
+        "name": "Dear Happy",
+        "url": "https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO"
       },
       "artists": [
         {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
-        },
-        {
-          "name": "Elliott Skinner",
-          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
         }
       ],
-      "duration_ms": 267077,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0"
+      "duration_ms": 245653,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3SqVMOupg0AX9xTWqP9PSD"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3567,18 +3563,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Dear Happy",
-        "url": "https://open.spotify.com/album/3KxOprE85UOpYbua4W3fQO"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA"
       },
       "artists": [
         {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        },
+        {
+          "name": "Elliott Skinner",
+          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/3SqVMOupg0AX9xTWqP9PSD"
+      "duration_ms": 267077,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3631,22 +3631,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "So Sick - Acoustic",
-      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Runaway (feat. Khalid)",
         "url": "https://open.spotify.com/album/6Xrspi637ex7NEio0geFO4"
       },
@@ -3663,6 +3647,22 @@
       "duration_ms": 238033,
       "name": "Runaway (feat. Khalid)",
       "url": "https://open.spotify.com/track/6mXMILvElYiWu4fa9oaJXe"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "In My Own Words (Deluxe 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "So Sick - Acoustic",
+      "url": "https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3699,6 +3699,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm"
+      },
+      "artists": [
+        {
+          "name": "The Light the Heat",
+          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "Rest of Our Lives",
+      "url": "https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "To Love Again",
         "url": "https://open.spotify.com/album/7DwZcZjbCbluvYCOrIIKi6"
       },
@@ -3715,22 +3731,6 @@
       "duration_ms": 240120,
       "name": "Are You Lonesome Tonight? (feat. Paul Buchanan)",
       "url": "https://open.spotify.com/track/7FWEDbQYuQtR1DhATgXxRg"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/1xxbUuZJN4BGfZDWiRcStm"
-      },
-      "artists": [
-        {
-          "name": "The Light the Heat",
-          "url": "https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR"
-        }
-      ],
-      "duration_ms": 174085,
-      "name": "Rest of Our Lives",
-      "url": "https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3867,6 +3867,22 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl"
+      },
+      "artists": [
+        {
+          "name": "Paul Rey",
+          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -3883,22 +3899,6 @@
       "duration_ms": 213066,
       "name": "True Love",
       "url": "https://open.spotify.com/track/01qYEGYCRYzMSNOj8idCmk"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl"
-      },
-      "artists": [
-        {
-          "name": "Paul Rey",
-          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Tear Me Down",
-      "url": "https://open.spotify.com/track/2DPR5R6cFXS9gwo9u5cbZ1"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -3951,22 +3951,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "Stardust...The Great American Songbook III",
         "url": "https://open.spotify.com/album/7Eq9kjeFYGjUAlEgDrAiOU"
       },
@@ -3979,22 +3963,6 @@
       "duration_ms": 230893,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/56lnXV8vtaIBVIYUQtlv42"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
-        "name": "Me Without You",
-        "url": "https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Me Without You - Acoustic",
-      "url": "https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -4015,18 +3983,34 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "14 Washburn St",
-        "url": "https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN"
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
       },
       "artists": [
         {
-          "name": "Sture Zetterberg",
-          "url": "https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG"
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
         }
       ],
-      "duration_ms": 205876,
-      "name": "Wrong Team",
-      "url": "https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC"
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Me Without You",
+        "url": "https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Me Without You - Acoustic",
+      "url": "https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -4043,6 +4027,22 @@
       "duration_ms": 205949,
       "name": "Stay Awake with Me",
       "url": "https://open.spotify.com/track/7cC0KgXsFepTT9hHms5TR2"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "14 Washburn St",
+        "url": "https://open.spotify.com/album/6ILwS4fTqO8N32MS4y7ehN"
+      },
+      "artists": [
+        {
+          "name": "Sture Zetterberg",
+          "url": "https://open.spotify.com/artist/00GQFQMePsK6tyPSJkBJZG"
+        }
+      ],
+      "duration_ms": 205876,
+      "name": "Wrong Team",
+      "url": "https://open.spotify.com/track/0TK1Kui4cCaHR0avKjKXzC"
     },
     {
       "added_at": "2022-07-08 10:00:00",
@@ -4095,22 +4095,6 @@
     {
       "added_at": "2022-07-08 10:00:00",
       "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "Do It To Me",
-      "url": "https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy"
-    },
-    {
-      "added_at": "2022-07-08 10:00:00",
-      "album": {
         "name": "It Will Be Fine In The End",
         "url": "https://open.spotify.com/album/4Hs6SwuwXzd9V5FHWbKPZa"
       },
@@ -4123,6 +4107,22 @@
       "duration_ms": 212156,
       "name": "It Will Be Fine in the End",
       "url": "https://open.spotify.com/track/3ZTNBmBsSTWZ9ANjI5q4Mz"
+    },
+    {
+      "added_at": "2022-07-08 10:00:00",
+      "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/3oCmLDbxXc1SDZIkwGo0x5"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "Do It To Me",
+      "url": "https://open.spotify.com/track/1tKxrKBYIIykuLvipSWfgy"
     },
     {
       "added_at": "2022-07-08 10:00:00",

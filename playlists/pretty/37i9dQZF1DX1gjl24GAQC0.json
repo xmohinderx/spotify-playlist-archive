@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: \bATBO [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 747302,
+  "num_followers": 747390,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkxMzUyOSwwMDAwMDAwMDZjZjNhNjgzMTE3YTY0ZTliYjdhMzZlYzEyZDc5OTc5",
+  "snapshot_id": "MTY1ODkxMzUyOSwwMDAwMDAwMGY0YzI2NTdkNTljYmJkYjUzZDJiZDQzNDg2NTc2ZjRi",
   "tracks": [
     {
       "added_at": "2022-07-27 09:18:49",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-07-27 09:18:49",
       "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2022-07-27 09:18:49",
-      "album": {
         "name": "ZERO : FEVER Part.3",
         "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
+    },
+    {
+      "added_at": "2022-07-27 09:18:49",
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
       "added_at": "2022-07-27 09:18:49",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-27 09:18:49",
       "album": {
-        "name": "FLASHBACK",
-        "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 212687,
-      "name": "BUT YOU",
-      "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
-    },
-    {
-      "added_at": "2022-07-27 09:18:49",
-      "album": {
         "name": "Cl\u00e9 1 : MIROH",
         "url": "https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 207617,
       "name": "MIROH",
       "url": "https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH"
+    },
+    {
+      "added_at": "2022-07-27 09:18:49",
+      "album": {
+        "name": "FLASHBACK",
+        "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 212687,
+      "name": "BUT YOU",
+      "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
     },
     {
       "added_at": "2022-07-27 09:18:49",

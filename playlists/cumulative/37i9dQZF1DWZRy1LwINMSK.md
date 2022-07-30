@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno\. Foto: Julianno Sosa.
+> La casa del trap chileno\. Foto: Marcianeke
 
-123 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
+124 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Generaciones \(feat\. OldPurp & Left Behind\)](https://open.spotify.com/track/1T4DYB11yGiuco0hAD6k9h) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [ALEX FATT](https://open.spotify.com/artist/662AsYFCIZoKBTgrMvdSGy), [OldPurp](https://open.spotify.com/artist/1h0hHYHR3rv8Ol5yudY5Vi), [Left Behind](https://open.spotify.com/artist/3oPnhTiVCK16n4lh2BDFVd) | [Shishi Plugg](https://open.spotify.com/album/0EDzLjsolQn2ON3Zn9IJ20) | 3:34 | 2022-01-20 |  |
 | [Gracias a Dios](https://open.spotify.com/track/1QobAhxWT2U8jjHrLneOPw) | [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo) | [Gracias a Dios](https://open.spotify.com/album/7BmXSMey61Y2vqoQx74hXf) | 3:11 | 2022-01-20 | 2022-05-28 |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2022-01-20 |  |
+| [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Donner](https://open.spotify.com/artist/0lMC6m6mH2gDFTtZMsw833) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 | 2022-07-29 |  |
 | [Hard Style](https://open.spotify.com/track/625EI0fR4eCtnGmqiO23Tj) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hard Style](https://open.spotify.com/album/2iykEcv7pdEkhRssq4L8E8) | 2:02 | 2022-01-20 |  |
 | [Hipócritas](https://open.spotify.com/track/4QmL5s4KnF8YVm2SN3z0dx) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Hipócritas](https://open.spotify.com/album/30x4G19KBdgl92wWku4Mn0) | 2:35 | 2022-01-20 |  |
 | [Hood](https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Hood](https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr) | 2:31 | 2022-01-28 |  |

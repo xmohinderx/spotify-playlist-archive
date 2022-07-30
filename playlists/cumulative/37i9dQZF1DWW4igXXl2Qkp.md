@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Lil Darius
 
-412 songs - 18 hr 18 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+413 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Everythings better when your fly](https://open.spotify.com/track/0YimuHIqeg40n926XiEnqg) | [AirBorn Gav](https://open.spotify.com/artist/6lrtvWvpmfTrop6DYVy7t2) | [Odd One Out](https://open.spotify.com/album/4f8y9daGFHk1h1nXqmV9r4) | 2:31 | 2022-03-23 | 2022-04-28 |
 | [EXCEPTIONAL](https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [EXCEPTIONAL](https://open.spotify.com/album/0YlIlMvnAz21BWyCeLYNDl) | 2:17 | 2022-02-16 | 2022-03-24 |
 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/6bkRx9TWQfP5rcRnS89oXI) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/52ux202UcTEFnp1Bojy1hu) | 2:17 | 2022-05-04 | 2022-06-09 |
-| [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-06-01 |  |
+| [Failure](https://open.spotify.com/track/1ajy7aofsnxnHc4s0KYj2u) | [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Failure](https://open.spotify.com/album/3cORMrzss2nGIqLy8L8Kyi) | 3:41 | 2022-06-01 | 2022-07-30 |
 | [Feelin Like Rylo](https://open.spotify.com/track/5bHXahWwP3DHKcXAcgIS2d) | [lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Feelin Like Rylo](https://open.spotify.com/album/6SnxOflet3jdrMvcmbhNKl) | 2:25 | 2022-04-07 | 2022-05-26 |
 | [Finna Charge](https://open.spotify.com/track/1qezHwAepeit34ADMFtnMJ) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Finna Charge](https://open.spotify.com/album/3s8mFpNUZBzbXHwdjpnyMJ) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Flash](https://open.spotify.com/track/1ZCHOPrRECwhkRlDOROvJk) | [YVS VILLAGE](https://open.spotify.com/artist/2aqbMJXKKEE5mhC5GsGfL1) | [Flash](https://open.spotify.com/album/1Y7ctXoOOZsQkoTXbJWLYu) | 2:56 | 2021-12-01 | 2022-01-14 |
@@ -200,6 +200,7 @@
 | [In My Head](https://open.spotify.com/track/4Ib6da9d4vH3i0BJs8y7Hx) | [SOLEZZ](https://open.spotify.com/artist/7hT0npEgXfI5ABa2pzoN7j) | [In My Head](https://open.spotify.com/album/49GsB9b99OTRqYe6R9L7Je) | 1:44 | 2021-12-01 | 2022-01-14 |
 | [In The Kitchen](https://open.spotify.com/track/1Cs748JfTfqzPoZAxBX9Ra) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [In The Kitchen](https://open.spotify.com/album/6SaruG91V5J5UOyEMClC37) | 3:02 | 2021-12-01 | 2022-01-14 |
 | [in this club](https://open.spotify.com/track/0O4hPazKh7RA6M4nlTdqam) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [in this club](https://open.spotify.com/album/3RH2owBCLAovGMGa2uAQA0) | 2:26 | 2021-12-01 | 2022-01-14 |
+| [Internet Shooter](https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Internet Shooter](https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M) | 1:57 | 2022-07-29 |  |
 | [intres\-ting](https://open.spotify.com/track/4Zsk0wRmvyY50mr1RmBIS8) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [intres\-ting](https://open.spotify.com/album/5pi4G7MK5UPVYV4lc2DuS1) | 2:17 | 2021-12-01 | 2022-01-14 |
 | [Irregular](https://open.spotify.com/track/0HhEvFxhhrbg9ddKSgkNKC) | [Prophet the Artist](https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU) | [Irregular](https://open.spotify.com/album/2B65I9ji5qADXohWMNxCQB) | 3:01 | 2022-02-09 | 2022-02-17 |
 | [ITS STRAIGHT](https://open.spotify.com/track/2qVR8fPHIAcK0lKbF8A950) | [Luh Cheetoh](https://open.spotify.com/artist/560BZJhvtTnwVdzUCxtcN4) | [ITS STRAIGHT](https://open.spotify.com/album/59VX9oPXeUFX9rFQ5g8fVU) | 2:47 | 2022-03-02 | 2022-03-31 |

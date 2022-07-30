@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Awareness",
+        "url": "https://open.spotify.com/album/108amnU3JXbyo488sSPcrx"
+      },
+      "artists": [
+        {
+          "name": "MoonDeity",
+          "url": "https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238644,
+      "name": "Awareness",
+      "url": "https://open.spotify.com/track/24vFPHmQXc0CzfAkNId1al"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/5do94hiALxLzO7Y10UuAoP"
       },
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 114909,
       "name": "FULL SEND",
       "url": "https://open.spotify.com/track/7LZ5kABpaC3XiXQEOlJ6LA"
@@ -1808,6 +1826,32 @@
     },
     {
       "album": {
+        "name": "HELLDRIFT 2",
+        "url": "https://open.spotify.com/album/7G5DdkPOsb2rcuJaByJjbz"
+      },
+      "artists": [
+        {
+          "name": "HXI",
+          "url": "https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU"
+        },
+        {
+          "name": "HXELLPLAYA",
+          "url": "https://open.spotify.com/artist/139o7LrZwdg6500us8tVNH"
+        },
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171028,
+      "name": "HELLDRIFT 2",
+      "url": "https://open.spotify.com/track/6Afxf4h7z4MWJXR8E94DW7"
+    },
+    {
+      "album": {
         "name": "HELLISH RAGE",
         "url": "https://open.spotify.com/album/5GRZfmQbkbIfDhoCqygMhm"
       },
@@ -2003,7 +2047,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-19",
+      "date_removed": null,
       "duration_ms": 100101,
       "name": "In a Hood Near You",
       "url": "https://open.spotify.com/track/3xLMFWoTmUzkaIEbnxKEpm"
@@ -2061,6 +2105,32 @@
       "duration_ms": 103529,
       "name": "Japan",
       "url": "https://open.spotify.com/track/39QSBh0Oz2OsnjAtjCQ3JH"
+    },
+    {
+      "album": {
+        "name": "JUDGMENT NIGHT",
+        "url": "https://open.spotify.com/album/6oqbQ9wSFostzYLec3MdXA"
+      },
+      "artists": [
+        {
+          "name": "HIDEOUS MORBID",
+          "url": "https://open.spotify.com/artist/7G5D01HWj1IELY5nfLQrw6"
+        },
+        {
+          "name": "SEAVYSIDE",
+          "url": "https://open.spotify.com/artist/56FAG6y84ERB6txYCDE7Le"
+        },
+        {
+          "name": "D4C",
+          "url": "https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90461,
+      "name": "JUDGMENT NIGHT",
+      "url": "https://open.spotify.com/track/592KrQGd2ihwyIfksRX9Hr"
     },
     {
       "album": {
@@ -2249,7 +2319,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 125954,
       "name": "KNIGHT II",
       "url": "https://open.spotify.com/track/1tbfwWXvGQor2wu49pxUqz"
@@ -2289,6 +2359,24 @@
       "duration_ms": 150164,
       "name": "LAST ONE",
       "url": "https://open.spotify.com/track/6XH0taXenGnqJ4qdlElbDe"
+    },
+    {
+      "album": {
+        "name": "LEEZA",
+        "url": "https://open.spotify.com/album/6Y4R4p6lLtMT1P8zGlblhs"
+      },
+      "artists": [
+        {
+          "name": "ARCHEZ",
+          "url": "https://open.spotify.com/artist/2sADpsTiKjzV9DRVDMXAeN"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82408,
+      "name": "LEEZA",
+      "url": "https://open.spotify.com/track/2xq4QHhE0fFzWL8VI41ZyI"
     },
     {
       "album": {
@@ -2463,7 +2551,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 147216,
       "name": "MADNESS",
       "url": "https://open.spotify.com/track/6iZh7kG2Bjt3DHmnWcc0ov"
@@ -3309,7 +3397,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 90673,
       "name": "Pulsar Pit",
       "url": "https://open.spotify.com/track/3H6iOC0kcOlfZ5wRt5Tkz3"
@@ -3672,6 +3760,32 @@
     },
     {
       "album": {
+        "name": "SLAYER",
+        "url": "https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj"
+      },
+      "artists": [
+        {
+          "name": "Ya$h",
+          "url": "https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG"
+        },
+        {
+          "name": "only1korob",
+          "url": "https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173169,
+      "name": "SLAYER",
+      "url": "https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ"
+    },
+    {
+      "album": {
         "name": "FROZEN HEIGHS",
         "url": "https://open.spotify.com/album/5zXQdtCqa9iugY2VU7UMLG"
       },
@@ -3763,7 +3877,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 192000,
       "name": "South",
       "url": "https://open.spotify.com/track/4CtO2AMo76k5yAeD44EUPY"
@@ -4017,7 +4131,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 195761,
       "name": "The Wayfarer",
       "url": "https://open.spotify.com/track/57srjZapbmyTq9DqYWhyPa"
@@ -4223,7 +4337,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"

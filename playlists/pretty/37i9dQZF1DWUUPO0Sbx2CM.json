@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 100257,
+  "num_followers": 100300,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDQxZmI4NDljNWU2NTJjNDc3OTQ1YjZkMDc0ZjUzOTM5",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMGYwMGM2MTg3N2E0YTJkZWVkYjZjYzg4ZjMzNmFlNjky",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -975,26 +975,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Denga",
-        "url": "https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 186407,
-      "name": "Nobody Like You",
-      "url": "https://open.spotify.com/track/1JQDKOX5e64PlC8KstOEKY"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Eyes On You (Live)",
         "url": "https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 160874,
       "name": "BUENA ONDA",
       "url": "https://open.spotify.com/track/3HxiAQPqGjVSFLLtZSeHYW"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Denga",
+        "url": "https://open.spotify.com/album/1RLgrGJKZ9jRVIXyNoGiGZ"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 186407,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/1JQDKOX5e64PlC8KstOEKY"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "Who Says?",
         "url": "https://open.spotify.com/album/60mgib427tgTcQiBP5na0y"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 246215,
       "name": "Who Says?",
       "url": "https://open.spotify.com/track/5Uo7sAqSplr4OebYQmmkM7"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Not Today",
         "url": "https://open.spotify.com/album/3wNAcHO8vZNoUyhaVopRb3"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 219186,
       "name": "Not Today - Remix",
       "url": "https://open.spotify.com/track/65RTyZesurf9xxf7FZVL1u"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Better King",
+        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 199760,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Genesis of Terrian",
         "url": "https://open.spotify.com/album/2fGd7TWmDcPRW9Y45CKcx0"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Better King",
-        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
     }
   ],
   "unique_name": "Christian Dance Party",

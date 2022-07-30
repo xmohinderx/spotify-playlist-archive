@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Steff",
+  "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Opium G",
   "name": "Urbano Fresh",
   "published_playlist_ids": [
     "6RzVtYvMkpHUbB3BgVfauO"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 124038,
       "name": "Adicta",
       "url": "https://open.spotify.com/track/3hmuvslh6nU6lHi0QxIMsn"
@@ -113,10 +113,32 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 176450,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp"
+    },
+    {
+      "album": {
+        "name": "Bien Beb\u00e9",
+        "url": "https://open.spotify.com/album/7k7MXCnNDvjk0kna93lyd4"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163469,
+      "name": "Bien Beb\u00e9",
+      "url": "https://open.spotify.com/track/6DZzQDUdpigYzSsnCnznay"
     },
     {
       "album": {
@@ -472,6 +494,28 @@
     },
     {
       "album": {
+        "name": "ICE BLUE",
+        "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
+      },
+      "artists": [
+        {
+          "name": "Opium G",
+          "url": "https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl"
+        },
+        {
+          "name": "Birat Bitz",
+          "url": "https://open.spotify.com/artist/3EXtIEvqDsuQiHxHKJoi2b"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "GYAL",
+      "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -517,7 +561,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 222857,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/5OyNPdV8PMbOE967zAVtKG"
@@ -1165,7 +1209,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 161333,
       "name": "Nieve de Vainilla",
       "url": "https://open.spotify.com/track/6DNaON1fypnYBW9ud7za94"
@@ -1355,6 +1399,24 @@
       "duration_ms": 179117,
       "name": "Pa\u00b4 Mi",
       "url": "https://open.spotify.com/track/5zSC2yZUAh9n3JcQcPDjMP"
+    },
+    {
+      "album": {
+        "name": "Pereza",
+        "url": "https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Pereza",
+      "url": "https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 5441,
+  "num_followers": 5481,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MDk0NiwwMDAwMDAwMGI0ODlmOGZlOTZiOGE1NTc3MzZlN2I2Y2IwMTAxOTI1",
+  "snapshot_id": "MTY1NzI2MDk0NiwwMDAwMDAwMGM4NzI1NjdkNzFiODRlNWE1NDI1YmU0NWRhOTU5YmMy",
   "tracks": [
     {
       "added_at": "2022-07-08 06:15:46",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-07-08 06:15:46",
       "album": {
-        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 257471,
-      "name": "STAR",
-      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
-    },
-    {
-      "added_at": "2022-07-08 06:15:46",
-      "album": {
         "name": "Extraordinary Attorney Woo (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 185508,
       "name": "Beyond My Dreams",
       "url": "https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth"
+    },
+    {
+      "added_at": "2022-07-08 06:15:46",
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
     },
     {
       "added_at": "2022-07-08 06:15:46",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-07-08 06:15:46",
       "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2022-07-08 06:15:46",
-      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2022-07-08 06:15:46",
       "album": {
-        "name": "Encounter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 221947,
-      "name": "The Night",
-      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
     },
     {
       "added_at": "2022-07-08 06:15:46",
@@ -479,6 +463,22 @@
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
+    },
+    {
+      "added_at": "2022-07-08 06:15:46",
+      "album": {
+        "name": "Encounter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 221947,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje"
     },
     {
       "added_at": "2022-07-08 06:15:46",
@@ -847,38 +847,6 @@
     {
       "added_at": "2022-07-08 06:15:46",
       "album": {
-        "name": "The Crush Of Spring OST Special Track",
-        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
-      },
-      "artists": [
-        {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
-        }
-      ],
-      "duration_ms": 190522,
-      "name": "Walking In The Memory",
-      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
-    },
-    {
-      "added_at": "2022-07-08 06:15:46",
-      "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
-    },
-    {
-      "added_at": "2022-07-08 06:15:46",
-      "album": {
         "name": "The Call Project No.4",
         "url": "https://open.spotify.com/album/3HFYMKzGPxd9tfRWExm4jR"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 247591,
       "name": "All 2 U",
       "url": "https://open.spotify.com/track/1PAdV4YjMKooQzCN8HfJ7o"
+    },
+    {
+      "added_at": "2022-07-08 06:15:46",
+      "album": {
+        "name": "The Crush Of Spring OST Special Track",
+        "url": "https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT"
+      },
+      "artists": [
+        {
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa"
+        }
+      ],
+      "duration_ms": 190522,
+      "name": "Walking In The Memory",
+      "url": "https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ"
+    },
+    {
+      "added_at": "2022-07-08 06:15:46",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/4ATg7M4n35AokS3748RFFO"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
     },
     {
       "added_at": "2022-07-08 06:15:46",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-07-08 06:15:46",
       "album": {
-        "name": "Marry ME (Welcome To Wedding Hell OST Part.1)",
-        "url": "https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3"
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.14",
+        "url": "https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF"
       },
       "artists": [
         {
-          "name": "HAN SEUNG YUN",
-          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+          "name": "Sujin Park",
+          "url": "https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq"
         }
       ],
-      "duration_ms": 209626,
-      "name": "Marry ME",
-      "url": "https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp"
+      "duration_ms": 243281,
+      "name": "This night",
+      "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",

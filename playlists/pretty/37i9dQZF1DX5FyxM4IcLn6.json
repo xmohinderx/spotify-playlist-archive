@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121537,
+  "num_followers": 121529,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDEyMTk5NDc1MjQzOWNhOTlhMjQyMTVjNzAwM2VhNjdh",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMDcyYTNhZjdlMmZlOTI2MGRiNGNiYmZmNmVlOGYxZjJj",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 253840,
+      "name": "Waiting On A War",
+      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
       "added_at": "2022-03-29 22:42:51",
       "album": {
         "name": "Leftover Feelings",
@@ -771,22 +787,6 @@
       "duration_ms": 186429,
       "name": "Mississippi Phone Booth",
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 253840,
-      "name": "Waiting On A War",
-      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
     },
     {
       "added_at": "2022-03-29 19:11:15",

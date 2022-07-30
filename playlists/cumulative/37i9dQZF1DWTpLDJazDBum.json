@@ -1212,6 +1212,24 @@
     },
     {
       "album": {
+        "name": "Frosted",
+        "url": "https://open.spotify.com/album/2Kcz7fWmiixC7rMFrOdech"
+      },
+      "artists": [
+        {
+          "name": "trabbey",
+          "url": "https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157571,
+      "name": "Frosted",
+      "url": "https://open.spotify.com/track/5bZ08rmgWH6aTvwRQEvqvZ"
+    },
+    {
+      "album": {
         "name": "ALC",
         "url": "https://open.spotify.com/album/2puyA8AignmOqBnQkhzPXz"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, i Baobab!)",
+  "description": "Chitarre pi\u00f9 o meno distorte (e, in cover, Baobab!)",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/64jSauMBY9bA0g42JIy49Z"
+      },
+      "artists": [
+        {
+          "name": "You, Nothing.",
+          "url": "https://open.spotify.com/artist/2k0ktbWdeA7hJXDFb7eUAe"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/494ssgQ5aHdCMcLL6NxuVy"
+    },
+    {
+      "album": {
         "name": "SUPER SOFT RESET",
         "url": "https://open.spotify.com/album/5kaQXfAFOl3NQeQkyPHTsU"
       },
@@ -539,6 +557,24 @@
       "duration_ms": 204575,
       "name": "Da quando \u00e8 morta piet\u00e0",
       "url": "https://open.spotify.com/track/0np00bUKuDmRqUYqhJyuh8"
+    },
+    {
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91"
+      },
+      "artists": [
+        {
+          "name": "Mutonia",
+          "url": "https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX"
     },
     {
       "album": {
@@ -2100,6 +2136,28 @@
     },
     {
       "album": {
+        "name": "Tatuaggi",
+        "url": "https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp"
+      },
+      "artists": [
+        {
+          "name": "Decrow",
+          "url": "https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch"
+        },
+        {
+          "name": "Bedini",
+          "url": "https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162038,
+      "name": "Tatuaggi",
+      "url": "https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB"
+    },
+    {
+      "album": {
         "name": "TDC (BoJack)",
         "url": "https://open.spotify.com/album/7hd7x8eej4bWiUMAxHK7oM"
       },
@@ -2487,6 +2545,24 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/53XmHlZRSLn5vBenhupHfq"
+      },
+      "artists": [
+        {
+          "name": "Martina",
+          "url": "https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206387,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/6hrRoEVft0SM5lsBUq3MMe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ"

@@ -1360,6 +1360,28 @@
     },
     {
       "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216213,
+      "name": "I Can't Stop Praising",
+      "url": "https://open.spotify.com/track/14JXhGPj4HFkppOCH4Q9HR"
+    },
+    {
+      "album": {
         "name": "I Gotta Song",
         "url": "https://open.spotify.com/album/13W77W2HeajGg74mTmsobT"
       },

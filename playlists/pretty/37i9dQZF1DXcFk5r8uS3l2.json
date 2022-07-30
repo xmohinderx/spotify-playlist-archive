@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Cedric Burnside",
-  "num_followers": 412293,
+  "num_followers": 412383,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg0NzMwNSwwMDAwMDAwMGYwMjU0NmI5NDg5ODY0OGY4MWFjN2EzY2Y3ODY3ZDEw",
+  "snapshot_id": "MTY1ODg0NzMwNSwwMDAwMDAwMDgwMDdhN2VjNDE5MGI3NWNiN2I5ZjMzNmY3NWM3NDE2",
   "tracks": [
     {
       "added_at": "2022-07-26 14:55:05",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "L'hotel Serein",
-        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 252363,
-      "name": "L'hotel Serein",
-      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "stripped back (Stripped Back)",
@@ -343,6 +327,22 @@
       "duration_ms": 180500,
       "name": "Eastham Prison Farm Blues - Stripped Back",
       "url": "https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "L'hotel Serein",
+        "url": "https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 252363,
+      "name": "L'hotel Serein",
+      "url": "https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -769,20 +769,20 @@
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
+      "added_at": "2022-07-26 14:55:05",
       "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
         }
       ],
-      "duration_ms": 223961,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -817,6 +817,38 @@
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
       "added_at": "2022-05-27 04:03:00",
       "album": {
         "name": "Thinking 'Bout Myself",
@@ -835,22 +867,6 @@
       "duration_ms": 221213,
       "name": "Thinking 'Bout Myself",
       "url": "https://open.spotify.com/track/2JF0vG0CsoDEjLZdd9QMm1"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -921,6 +937,22 @@
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
     },
     {
+      "added_at": "2022-07-26 14:55:05",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 130276,
+      "name": "Knew The Day Was Comin'",
+      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Keep On",
@@ -937,22 +969,6 @@
       "url": "https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "The Angels In Heaven Done Signed My Name",
@@ -967,6 +983,22 @@
       "duration_ms": 165727,
       "name": "Don't Let The Devil Ride",
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1001,22 +1033,6 @@
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
-      "added_at": "2022-07-26 14:55:05",
-      "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Healing Tide",
@@ -1049,20 +1065,20 @@
       "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Southern Avenue",
-        "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
       "artists": [
         {
-          "name": "Southern Avenue",
-          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 232600,
-      "name": "What Did I Do",
-      "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "Undercover Bros.",
         "url": "https://open.spotify.com/album/4EjpYG3pot0QPqjxx1BVRT"
       },
@@ -1111,6 +1111,46 @@
       "duration_ms": 248590,
       "name": "How Deep is Your Love",
       "url": "https://open.spotify.com/track/1JPgqiQrBREyuJTnbL7ON0"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Hearts Town",
+        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
+      "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Southern Avenue",
+        "url": "https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "What Did I Do",
+      "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1163,46 +1203,6 @@
       "duration_ms": 229626,
       "name": "Man On Fire - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva"
-    },
-    {
-      "added_at": "2022-07-26 14:55:05",
-      "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 130276,
-      "name": "Knew The Day Was Comin'",
-      "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Hearts Town",
-        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Chris Eldridge",
-          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
-      "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
     },
     {
       "added_at": "2022-05-27 04:03:00",

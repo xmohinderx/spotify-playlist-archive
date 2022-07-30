@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMDc4MWUzMDVlNjQzY2FlOGNhMTgwYTVhYzZlODY2OTcx",
+  "snapshot_id": "MTYyODE1NDU5OSwwMDAwMDAwMGM3MjI0NTNlZWYwNDJhNGFhNDM5Zjg3NDRmNjYxNTQ1",
   "tracks": [
     {
       "added_at": "2021-08-05 09:09:59",
@@ -251,22 +251,18 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Fading Nights",
-        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
+        "name": "Save Tonight",
+        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+          "name": "Campsite Dream",
+          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
         }
       ],
-      "duration_ms": 346500,
-      "name": "Swept Away",
-      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
+      "duration_ms": 198159,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -287,18 +283,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
-        "name": "Save Tonight",
-        "url": "https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0"
+        "name": "Fading Nights",
+        "url": "https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA"
       },
       "artists": [
         {
-          "name": "Campsite Dream",
-          "url": "https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
         }
       ],
-      "duration_ms": 198159,
-      "name": "Save Tonight",
-      "url": "https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev"
+      "duration_ms": 346500,
+      "name": "Swept Away",
+      "url": "https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf"
     },
     {
       "added_at": "2021-08-05 09:09:59",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-08-05 09:09:59",
       "album": {
+        "name": "Esmeralda",
+        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
+      },
+      "artists": [
+        {
+          "name": "Samba Twins",
+          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
+        }
+      ],
+      "duration_ms": 234510,
+      "name": "Esmeralda",
+      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
+    },
+    {
+      "added_at": "2021-08-05 09:09:59",
+      "album": {
         "name": "Sunrise To Sunset",
         "url": "https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 186610,
       "name": "Wishing Well (feat. Olivia Sebastianelli)",
       "url": "https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp"
-    },
-    {
-      "added_at": "2021-08-05 09:09:59",
-      "album": {
-        "name": "Esmeralda",
-        "url": "https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0"
-      },
-      "artists": [
-        {
-          "name": "Samba Twins",
-          "url": "https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X"
-        }
-      ],
-      "duration_ms": 234510,
-      "name": "Esmeralda",
-      "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
       "added_at": "2021-08-05 09:09:59",

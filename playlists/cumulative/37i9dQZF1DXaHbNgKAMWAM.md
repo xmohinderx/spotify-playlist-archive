@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-180 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+181 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-20 | 2022-07-29 |
 | [LOVERS](https://open.spotify.com/track/4jENXV8X49X7yZzwCpDJIU) | [Obze](https://open.spotify.com/artist/7IkXZygwi0pf87bIeHK5ZX) | [Jewelry case](https://open.spotify.com/album/1ALi3pC1MocycJ9h4rzCBM) | 3:47 | 2022-05-11 | 2022-07-21 |
 | [Loving U](https://open.spotify.com/track/5eYEY02R2PslTPTDSQm0h2) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Revolutionary Sisters \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2qRldVbg6EoCNBfafQMOpJ) | 2:50 | 2022-05-11 | 2022-07-28 |
-| [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-18 |  |
+| [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 | 2022-06-18 | 2022-07-30 |
 | [Mirage](https://open.spotify.com/track/23z6RGYVcJOsY2qwCESHa9) | [Unchan](https://open.spotify.com/artist/2QwMi696g8ta10viltHDzF) | [Mirage](https://open.spotify.com/album/2rk4KNzJtZyJosuI3pU7fP) | 3:34 | 2022-05-11 |  |
 | [Moontanroad \(feat\. 40\)](https://open.spotify.com/track/62HpuRTjvR6rr1S3XOH6pP) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW), [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:30 | 2022-05-11 | 2022-07-14 |
 | [My Day Is Full Of You](https://open.spotify.com/track/0E09yC5CNtv2TAQ0rafPPU) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02Rqv4sMAds4LTlyWtojjz) | 3:40 | 2022-05-11 | 2022-07-28 |
@@ -156,6 +156,7 @@
 | [The unbearable lightness of being](https://open.spotify.com/track/381Qd2YpkNvAbKIlkjyGKb) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [The unbearable lightness of being](https://open.spotify.com/album/4X5nMNxYiCVroaXzEsUfTh) | 4:18 | 2022-06-18 | 2022-06-20 |
 | [Thermometer \- ON Team Version](https://open.spotify.com/track/1j7FToPTGUYbmyzJgrPEPP) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [ONF:MY NAME](https://open.spotify.com/album/3GfY1xWWL7Lnh0Wn1WGwc3) | 3:17 | 2022-05-11 | 2022-07-22 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-07-04 | 2022-07-18 |
+| [This night](https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh) | [Sujin Park](https://open.spotify.com/artist/2gkonIWljjR6P00qwvv1eq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.14](https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF) | 4:03 | 2022-07-08 |  |
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-05-11 | 2022-07-28 |
 | [To\. 나의 너에게](https://open.spotify.com/track/2jOQeGOsILKKYMXa4HLeAz) | [Grynia](https://open.spotify.com/artist/2g7hSTAqrLrPg7WrftlckL) | [To\. 나의 너에게](https://open.spotify.com/album/40Fa1grxvhVaL2ikEBc6Ua) | 3:33 | 2022-07-04 | 2022-07-09 |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-06-09 | 2022-07-28 |

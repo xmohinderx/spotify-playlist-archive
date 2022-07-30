@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "album": {
         "name": "6 UNDERGROUND",
         "url": "https://open.spotify.com/album/3ggsqR1NqMZzz0uJIU1YAT"
       },
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 156625,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c"
@@ -1521,6 +1539,24 @@
       "duration_ms": 191029,
       "name": "CORDUROY",
       "url": "https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf"
+    },
+    {
+      "album": {
+        "name": "Lonely Hearts Club",
+        "url": "https://open.spotify.com/album/0OqV782ApCWpQUdQGd3xD4"
+      },
+      "artists": [
+        {
+          "name": "Ariana and the Rose",
+          "url": "https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "Cosmic Lover",
+      "url": "https://open.spotify.com/track/7ltiK6ak3SI37XygHoXLnB"
     },
     {
       "album": {
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 283691,
       "name": "Dark Bird - St. Lucia Remix",
       "url": "https://open.spotify.com/track/45r1g9y7kmNRLADtFj8syb"

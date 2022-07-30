@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: LATENIGHTJIGGY",
-  "num_followers": 696418,
+  "num_followers": 696428,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NTQyMywwMDAwMDAwMDQzOTQwYWU3NTlkYTZlYzMxMGJiM2UyMzQ1ZDk4YmEy",
+  "snapshot_id": "MTY1ODg1NTQyMywwMDAwMDAwMDYxODc5MDg1NWQxYTgyZTE3ODQzNjY1ZjVhZDkxYjk2",
   "tracks": [
     {
       "added_at": "2022-07-26 17:10:23",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-07-26 17:10:23",
       "album": {
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
+    },
+    {
+      "added_at": "2022-07-26 17:10:23",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2022-07-26 17:10:23",
-      "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
     },
     {
       "added_at": "2022-07-26 17:10:23",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-07-26 17:10:23",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
-      },
-      "artists": [
-        {
-          "name": "Xadi",
-          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
-        },
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 172108,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
-    },
-    {
-      "added_at": "2022-07-26 17:10:23",
-      "album": {
         "name": "Fogata",
         "url": "https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 173200,
       "name": "Fogata",
       "url": "https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg"
+    },
+    {
+      "added_at": "2022-07-26 17:10:23",
+      "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1Bjt5bUlj6nPzsHulKTWpL"
+      },
+      "artists": [
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        },
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "duration_ms": 172108,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6Rzk7iqpQRMZALiC9yr9Zr"
     },
     {
       "added_at": "2022-07-26 17:10:23",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-26 17:10:23",
       "album": {
-        "name": "Guitarra",
-        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
-    },
-    {
-      "added_at": "2022-07-26 17:10:23",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 174053,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv"
+    },
+    {
+      "added_at": "2022-07-26 17:10:23",
+      "album": {
+        "name": "Guitarra",
+        "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
     },
     {
       "added_at": "2022-07-26 17:10:23",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-26 17:10:23",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
-      },
-      "artists": [
-        {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
-    },
-    {
-      "added_at": "2022-07-26 17:10:23",
-      "album": {
         "name": "diablo",
         "url": "https://open.spotify.com/album/7D8EJStZyNPOVdjExSuf5H"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 209638,
       "name": "diablo",
       "url": "https://open.spotify.com/track/0lU75AvCnRHRFvmby7UrYf"
+    },
+    {
+      "added_at": "2022-07-26 17:10:23",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/5JrXPbEvx3yHlWLJYGFJE6"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/4x3HgoN0TpvdyNLU3EKbVi"
     },
     {
       "added_at": "2022-07-26 17:10:23",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-07-26 17:10:23",
       "album": {
-        "name": "Torero",
-        "url": "https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7"
-      },
-      "artists": [
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3"
-    },
-    {
-      "added_at": "2022-07-26 17:10:23",
-      "album": {
         "name": "Blah Blah",
         "url": "https://open.spotify.com/album/1v3DykStfkipWutZONNHE9"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 160566,
       "name": "Blah Blah",
       "url": "https://open.spotify.com/track/0D4gVyCQkDKq6bfvwA2SCI"
+    },
+    {
+      "added_at": "2022-07-26 17:10:23",
+      "album": {
+        "name": "Torero",
+        "url": "https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7"
+      },
+      "artists": [
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3"
     },
     {
       "added_at": "2022-07-26 17:10:23",

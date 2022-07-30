@@ -1344,6 +1344,44 @@
     },
     {
       "album": {
+        "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
+        "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
+      },
+      "artists": [
+        {
+          "name": "Pepe Quintana",
+          "url": "https://open.spotify.com/artist/7LXdYckhvHWU4ejXbkHa3N"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/5QmZNcdq0h1NuL1G7t2yGp"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308133,
+      "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
+      "url": "https://open.spotify.com/track/2opYh9ZmKbiVrzEuPgrCTX"
+    },
+    {
+      "album": {
         "name": "Ella y Yo (feat. Farruko, Tempo, Anuel Aa, Almighty & Bryant Myers)",
         "url": "https://open.spotify.com/album/46WJMPJemTeHGy4pB1Kcqo"
       },
@@ -3249,7 +3287,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 189826,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/464uJVLmr0fDJGXOnciaDe"

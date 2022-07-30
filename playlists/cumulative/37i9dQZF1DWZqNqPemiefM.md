@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-421 songs - 1 day 10 hr 4 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+422 songs - 1 day 10 hr 7 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Beautiful World](https://open.spotify.com/track/6SjkPjVF3D4dyvS29J7Ln2) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Akashic Records](https://open.spotify.com/album/3ZsJCJXgkwVEwoeHTpMtHx) | 5:34 | 2022-04-07 | 2022-07-28 |
 | [Beige](https://open.spotify.com/track/5ZssX5LKaeWewcBPycp7oR) | [Ultrafog](https://open.spotify.com/artist/3erT0S0GYFrjPuDqK9AUgo) | [Surging Waves](https://open.spotify.com/album/0Mz7qmB0koWo1rYrcMvfAF) | 3:20 | 2022-03-31 | 2022-07-26 |
 | [Bingdong](https://open.spotify.com/track/0OeGiuziStYp5mCzU22Ta9) | [MOOTY](https://open.spotify.com/artist/0ZEqcDapsv0OZbjt36sjrU) | [Abstract Monophony](https://open.spotify.com/album/1bH6IJGy4fU2tEqMJTy56p) | 2:40 | 2022-06-02 | 2022-07-10 |
-| [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2022-03-30 |  |
+| [Biodome](https://open.spotify.com/track/2sVHOerrbSQYZgEZJqVhWt) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [ハンサム](https://open.spotify.com/album/2Msru7zQbJovRIAuRSTrun) | 6:53 | 2022-03-30 | 2022-07-30 |
 | [Blessing day](https://open.spotify.com/track/34ngmxZZkoCX55nepWERjC) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Blessing day](https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8) | 3:05 | 2022-03-31 | 2022-07-29 |
 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 | 2022-04-07 |  |
 | [Blue](https://open.spotify.com/track/0Nkqva5H1flf1JtTPpnE84) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/5dauiDUmBugERmjvcdwRXz) | 3:59 | 2022-03-30 | 2022-07-17 |
@@ -147,6 +147,7 @@
 | [Haru](https://open.spotify.com/track/1UYQz9iqSCdLNc9UVkJo0o) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 4:39 | 2022-04-16 | 2022-04-18 |
 | [Hawaii SETI](https://open.spotify.com/track/6wJ1OrQPMg0PPlJ9FGtCWz) | [Reliq](https://open.spotify.com/artist/30105PqPSXuO4sQxPwWAR0) | [Lab Story](https://open.spotify.com/album/5ouJMoEKwD0tVAx5yFqzRO) | 4:01 | 2022-04-07 | 2022-05-05 |
 | [Haze](https://open.spotify.com/track/5FWxDuuGMsNBZj3R9Eltwd) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK), [Shushi Matsuura](https://open.spotify.com/artist/5yBmc1Cewr6L2KsxuMU3QP) | [Pale](https://open.spotify.com/album/0vFSmKPhft7GcADTEypWpA) | 2:12 | 2022-04-16 | 2022-07-09 |
+| [Haze Garden \(Prayer\)](https://open.spotify.com/track/4XigfPo7zRs3S3ntut37zd) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Haze Garden \(Prayer\)](https://open.spotify.com/album/7hu4RONzaQHEArMTBnBzgJ) | 3:18 | 2022-07-28 |  |
 | [Help Ourselves](https://open.spotify.com/track/2fB8ajWM371hTqHezuAomb) | [Minamo](https://open.spotify.com/artist/1dl7cSR3edNJ0oPaApQIb7) | [Durée](https://open.spotify.com/album/7L9FIEhH3Ph0YskG8F6QOp) | 7:03 | 2022-03-31 | 2022-04-09 |
 | [Hikari To Mizu](https://open.spotify.com/track/5AyQfkapcdfE6nl89mY1cp) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 4:37 | 2022-03-31 |  |
 | [Hiljaa Metsässä](https://open.spotify.com/track/67j6OYmt7hgNEtU0rst4hV) | [Sora](https://open.spotify.com/artist/4Ni1PrBRTgC0Lyq2evf56R) | [Fade to What](https://open.spotify.com/album/0PdzxZ7ixEz59r4CJYseEN) | 9:32 | 2022-03-31 | 2022-04-13 |

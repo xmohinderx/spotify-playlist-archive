@@ -4,7 +4,7 @@
 
 > Find your flow with these instrumental trap and lofi beats.
 
-205 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
+206 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/7G9URZLYPjRGYZEph2wbiQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fly by Night](https://open.spotify.com/track/5u3vpXS3p1NEPGpK87MfTO) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Fly By Night](https://open.spotify.com/album/3XDxXhJUcii0AcwIiqkIsm) | 2:09 | 2022-05-26 | 2022-06-03 |
 | [Fortunes](https://open.spotify.com/track/4gVvbn4m0xkLYdMujbuPsq) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Hold](https://open.spotify.com/album/0bbK5yLVZaXlboM8hq3DoV) | 3:43 | 2022-04-08 | 2022-05-27 |
 | [Fromage Frais](https://open.spotify.com/track/6VhMdls0mTxYlMj62ZVGK8) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [Fromage Frais](https://open.spotify.com/album/4r833ilfTlysiJbHPxN79J) | 2:31 | 2022-05-26 |  |
+| [Frosted](https://open.spotify.com/track/5bZ08rmgWH6aTvwRQEvqvZ) | [trabbey](https://open.spotify.com/artist/3njIliuv3ugKzuNZgEOZ6s) | [Frosted](https://open.spotify.com/album/2Kcz7fWmiixC7rMFrOdech) | 2:37 | 2022-07-29 |  |
 | [Fruitpunch](https://open.spotify.com/track/5JFsFwrrCb5tM9qQBRxHUD) | [Salmon Says](https://open.spotify.com/artist/0YeNo7aSvFyaMdqxzM55UD) | [ALC](https://open.spotify.com/album/2puyA8AignmOqBnQkhzPXz) | 3:50 | 2022-05-26 |  |
 | [Game Tester](https://open.spotify.com/track/5sunUwPt7huJmBIb1xxwTh) | [Toby Tranter](https://open.spotify.com/artist/6jQ21P9GEZfQf4aOMoTYDj), [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Push It](https://open.spotify.com/album/6pT0TyUeh21jmMHKuEzfCA) | 2:41 | 2022-04-08 | 2022-05-27 |
 | [Gently, Downstream](https://open.spotify.com/track/1v2LaoxIPI1JycaBW48J8K) | [Blazing Paddles](https://open.spotify.com/artist/5Esn6Yce2c50zy7ivizDIf) | [Gently, Downstream](https://open.spotify.com/album/6xwDCeTCaNtOvvS3k2i3Eb) | 1:48 | 2022-04-08 | 2022-05-27 |

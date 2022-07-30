@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-152 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
+153 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 | 2021-10-01 |  |
 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 | 2021-10-01 |  |
 | [Stomp](https://open.spotify.com/track/0eImrDDpQTEuHF0NBqmrei) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/790mhPtbtIdMDRdZM3Jimz) | 1:50 | 2021-10-01 | 2022-04-20 |
+| [Stomp](https://open.spotify.com/track/2GqgXmOkCYkmnNo4EEz4DU) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 1:50 | 2021-10-01 |  |
 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 | 2021-10-01 |  |
 | [Strangers](https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:13 | 2021-10-01 |  |
 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 | 2021-10-01 |  |
@@ -139,7 +140,7 @@
 | [The Dream's In The Ditch](https://open.spotify.com/track/2A9Zm100yFB3CHQd6kFaB7) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Negativity](https://open.spotify.com/album/5L0ilueYSvWzzvpdHVe8CJ) | 3:11 | 2021-10-01 | 2022-04-21 |
 | [The Future of an End](https://open.spotify.com/track/3aGkfDKhQBWj5KYJraBI8c) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [The Future of an End](https://open.spotify.com/album/3VClaRmW4RzpKst551M1Bk) | 4:10 | 2021-10-01 | 2022-07-29 |
 | [The Real Thing](https://open.spotify.com/track/1NuOfuQQw5zuAp6jEMSlFG) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Real Thing](https://open.spotify.com/album/5ababE2DNPWXrbJmxIOVZK) | 3:13 | 2021-10-01 | 2022-07-29 |
-| [The Real Thing](https://open.spotify.com/track/3IPhuFEJAPTveZeAMK7oFY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Be Here Instead](https://open.spotify.com/album/3vo1vBWSWG0mG3XSEs3eQt) | 3:13 | 2021-10-01 |  |
+| [The Real Thing](https://open.spotify.com/track/3IPhuFEJAPTveZeAMK7oFY) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Be Here Instead](https://open.spotify.com/album/3vo1vBWSWG0mG3XSEs3eQt) | 3:13 | 2021-10-01 | 2022-07-30 |
 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 | 2021-10-01 |  |
 | [This Is What You Did](https://open.spotify.com/track/35e4UTDLUpqOzGqjWz3AoT) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [This Is What You Did](https://open.spotify.com/album/2PwaEjXtq2IFT78Vezz5OO) | 3:12 | 2021-10-01 | 2022-05-17 |
 | [Time's Always Leaving](https://open.spotify.com/track/4TXiPzOZanpYIUXuNwHzlZ) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Time's Always Leaving](https://open.spotify.com/album/5kAHEuWi7anBhN7EgHpX1R) | 3:17 | 2021-10-01 | 2022-07-29 |

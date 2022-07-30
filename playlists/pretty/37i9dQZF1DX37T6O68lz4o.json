@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUyMTAzNCwwMDAwMDAwMGVkMmZhMjZmY2U0ODIzM2ZlMzA3MWQ4M2Y0NGZjNWQ2",
+  "snapshot_id": "MTY1OTEyMzQwNSwwMDAwMDAwMDY0MGIxNzhkOGI1NGU3YjQ1YmJiMTk0NTA2NTk0YmIx",
   "tracks": [
     {
       "added_at": "2022-07-18 21:17:51",
@@ -59,6 +59,42 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
+    },
+    {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "CASH IN THE CLUB",
+        "url": "https://open.spotify.com/album/0gWfpL893Fn6HHBqBJO2B0"
+      },
+      "artists": [
+        {
+          "name": "Kevin George",
+          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
+        },
+        {
+          "name": "Foxx",
+          "url": "https://open.spotify.com/artist/2XI3Dwe8OmTjVlcmKWIttU"
+        }
+      ],
+      "duration_ms": 160496,
+      "name": "CASH IN THE CLUB",
+      "url": "https://open.spotify.com/track/5yPVWR0GMvNNBezPQTuYs4"
+    },
+    {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "When I Die",
+        "url": "https://open.spotify.com/album/5sIuSP0bcIm4uaddjEyF7f"
+      },
+      "artists": [
+        {
+          "name": "Jae Lynx",
+          "url": "https://open.spotify.com/artist/03lamRtaO7ZuCSn2qFfmMN"
+        }
+      ],
+      "duration_ms": 140522,
+      "name": "When I Die",
+      "url": "https://open.spotify.com/track/3S4iP2WmdQeDXPWZH6nA9f"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -127,22 +163,6 @@
       "duration_ms": 107636,
       "name": "Leave the Party",
       "url": "https://open.spotify.com/track/0Mxh4inXATNeyzreyU0GrA"
-    },
-    {
-      "added_at": "2022-06-07 21:56:35",
-      "album": {
-        "name": "HICCUP",
-        "url": "https://open.spotify.com/album/3qfGUkYziMf2xqIBwVAZcg"
-      },
-      "artists": [
-        {
-          "name": "Kevin George",
-          "url": "https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI"
-        }
-      ],
-      "duration_ms": 130854,
-      "name": "HICCUP",
-      "url": "https://open.spotify.com/track/06b05WAkhGpAx4BWbtW2Rc"
     },
     {
       "added_at": "2022-06-07 21:56:35",
@@ -437,22 +457,6 @@
       "url": "https://open.spotify.com/track/5qNB0ENuzUd3InnB610YG9"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "Peace (It's Better For Me)",
-        "url": "https://open.spotify.com/album/0kRQ27m7aErUNY1EN49ARs"
-      },
-      "artists": [
-        {
-          "name": "Theo Martins",
-          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Peace (It's Better For Me)",
-      "url": "https://open.spotify.com/track/5ZTeGrb2hrRX7yluFGnZFr"
-    },
-    {
       "added_at": "2021-12-01 18:09:33",
       "album": {
         "name": "Sim Simma",
@@ -503,6 +507,26 @@
       "duration_ms": 125015,
       "name": "YEA yEa YEA",
       "url": "https://open.spotify.com/track/4cGMLUZEr8HU6QPlcUcZ2r"
+    },
+    {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "FN.F12",
+        "url": "https://open.spotify.com/album/1MoVRxZVKkgcjAtCUxg7jA"
+      },
+      "artists": [
+        {
+          "name": "8 Zipp",
+          "url": "https://open.spotify.com/artist/77p4nWKhsjAqUXybLgycLZ"
+        },
+        {
+          "name": "$hay Band$",
+          "url": "https://open.spotify.com/artist/42KDAxLYKbn91p26KCsQRB"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/0ryQj98VTxuRWF4hLZYnFX"
     },
     {
       "added_at": "2022-04-29 17:40:05",
@@ -557,22 +581,6 @@
       "url": "https://open.spotify.com/track/5y3o0v46j0zbOhFpXiTl19"
     },
     {
-      "added_at": "2022-04-29 17:40:05",
-      "album": {
-        "name": "Female Pain Muzik",
-        "url": "https://open.spotify.com/album/2Ijm4CzrAfpTrPkwYjJ1TI"
-      },
-      "artists": [
-        {
-          "name": "$hayBand$",
-          "url": "https://open.spotify.com/artist/7jxxXzCLgiFE57KCjWw4H2"
-        }
-      ],
-      "duration_ms": 155924,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/0mFDJ1xW5svHkzT67G4S6P"
-    },
-    {
       "added_at": "2022-04-02 00:02:24",
       "album": {
         "name": "HIGH",
@@ -587,6 +595,26 @@
       "duration_ms": 165192,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/5JEfMiFCSVEjnqz8srJWHk"
+    },
+    {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "All Talk (feat. Theo Martins)",
+        "url": "https://open.spotify.com/album/6fdhxpkaT1FMC7poB2tD3H"
+      },
+      "artists": [
+        {
+          "name": "Cereal & Such",
+          "url": "https://open.spotify.com/artist/6afutSLix029sXA7ZIrCYC"
+        },
+        {
+          "name": "Theo Martins",
+          "url": "https://open.spotify.com/artist/0tjTmItQq8Eo1hsVvOf83D"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "All Talk - Instrumental (feat. Theo Martins)",
+      "url": "https://open.spotify.com/track/2hxAm6BFHpwwdMWzzsIUwF"
     },
     {
       "added_at": "2022-05-13 20:20:24",
@@ -645,26 +673,6 @@
       "url": "https://open.spotify.com/track/1Z1WknchyOHg5CU6PM8DKL"
     },
     {
-      "added_at": "2022-07-18 21:17:51",
-      "album": {
-        "name": "Point God",
-        "url": "https://open.spotify.com/album/5Rj9y2OkoTogv1La20MgLG"
-      },
-      "artists": [
-        {
-          "name": "Anoyd",
-          "url": "https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L"
-        },
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Point God",
-      "url": "https://open.spotify.com/track/2GdalCMhRsci19qs8yjCZc"
-    },
-    {
       "added_at": "2022-04-02 00:02:24",
       "album": {
         "name": "Daily",
@@ -711,22 +719,6 @@
       "duration_ms": 194157,
       "name": "More Than A Little Bit",
       "url": "https://open.spotify.com/track/2haIQVgu4075Yx0QhAJgCQ"
-    },
-    {
-      "added_at": "2022-02-18 22:25:03",
-      "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d"
-      },
-      "artists": [
-        {
-          "name": "Maryann Vasquez",
-          "url": "https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK"
     },
     {
       "added_at": "2022-07-18 21:17:51",
@@ -879,6 +871,26 @@
       "duration_ms": 160941,
       "name": "STEEL SHARPEN STEEL",
       "url": "https://open.spotify.com/track/6H3HAy1evQjryn4sax2hYs"
+    },
+    {
+      "added_at": "2022-07-29 19:36:45",
+      "album": {
+        "name": "Round 2",
+        "url": "https://open.spotify.com/album/0xcb2wK9uE6Yv0tH6wscZX"
+      },
+      "artists": [
+        {
+          "name": "Deon Chase",
+          "url": "https://open.spotify.com/artist/0cAaXrP84y4CSfmJ5A7oKU"
+        },
+        {
+          "name": "Teddy Ruck-Spin",
+          "url": "https://open.spotify.com/artist/2nXtrOswwMmQt7QUeIEcA8"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/4UhwhaD2LQjywrotGhigjF"
     },
     {
       "added_at": "2022-01-29 00:15:56",

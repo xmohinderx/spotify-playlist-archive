@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-391 songs - 15 hr 55 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
+392 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3rd Times a Charm](https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH) | [soho](https://open.spotify.com/artist/5rCxM6JMlwyQ3tuds8DqPR), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Begin Again](https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG) | 1:14 | 2019-06-14 |  |
 | [A Place of Dreams](https://open.spotify.com/track/07YC5rhb7EGK3fL2Ip70tj) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [A Place of Dreams](https://open.spotify.com/album/3L0VmKE6wwyKRxWliEsHrq) | 2:18 | 2020-01-14 | 2020-03-27 |
 | [Abstract Poetic](https://open.spotify.com/track/13PN35UZ7ohrf03F9YKa6F) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Abstract Poetic](https://open.spotify.com/album/21RXugs2cyBuKykgyOt5vN) | 2:03 | 2020-08-30 | 2021-09-10 |
+| [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 |  |
 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2021-09-12 | 2022-07-28 |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2019-05-26\* | 2020-03-27 |
 | [Along the Canal](https://open.spotify.com/track/6G6dZWtU0skdMZtfZVpoKW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Daniele Raciti](https://open.spotify.com/artist/2tjVTUk1L6sZnI8gUcCInM) | [Along the Canal](https://open.spotify.com/album/4CSw0dTBvn79JwEFuLJoPe) | 2:45 | 2021-07-04 | 2021-09-08 |
@@ -43,7 +44,7 @@
 | [Bopatron](https://open.spotify.com/track/3wmzPOq6M32euNqqOVd0eb) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Bopatron](https://open.spotify.com/album/5C43Ud4wj7T3TYbS7LpKh2) | 3:16 | 2019-05-26\* | 2022-07-23 |
 | [Boston \(Instrumental\)](https://open.spotify.com/track/215zB0CsvAcVNF9d44yyyd) | [Edo\. G](https://open.spotify.com/artist/2Gqm7yhAbk4RYHefVHFMPL), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [My Own Worst Enemy \(Deluxe\)](https://open.spotify.com/album/0b1qkXG0gkPogImzF4oQQH) | 3:16 | 2019-05-26\* | 2020-01-14 |
 | [Brazilian Lady](https://open.spotify.com/track/3yossuLGsxiJnvoOFrs1CH) | [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [Cakeology](https://open.spotify.com/album/5R1w2n83qusxH7Ay92KUJb) | 2:50 | 2019-05-26\* | 2020-01-14 |
-| [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-07-28 |  |
+| [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-07-28 | 2022-07-30 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/4AhZSWtLMK6X9ckhFcyhCh) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/5qa0XEgENHFDpO8PEGxPvP) | 2:52 | 2022-03-24 | 2022-04-21 |
 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 | 2020-06-19 |  |
 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 | 2019-05-26\* | 2022-04-18 |

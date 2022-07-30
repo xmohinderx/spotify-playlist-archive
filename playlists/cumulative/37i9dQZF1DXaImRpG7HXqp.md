@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-297 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+299 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anteayer](https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Anteayer](https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6) | 2:27 | 2021-12-08 | 2022-04-22 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2022-07-01 |  |
 | [Armonía](https://open.spotify.com/track/4r8uTP28nmVINTIklzXG3s) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Armonía](https://open.spotify.com/album/3vZO7miIHbU4GZ1w7jkkKB) | 2:06 | 2022-05-27 |  |
+| [Ashley](https://open.spotify.com/track/7BbbckFkys6pX1zldStAva) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/7llaS2eqQKC7S6iybznHMJ) | 2:10 | 2022-07-29 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2021-12-08 | 2022-06-10 |
 | [At The Break Of Dawn](https://open.spotify.com/track/61uRecTYAbUpsepdzkbS4D) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:52 | 2021-12-08 |  |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2021-12-08 | 2022-04-22 |
@@ -169,6 +170,7 @@
 | [Milagro](https://open.spotify.com/track/1KiSv67dHyaH6hu7EgMp3Q) | [Rodrigo Medina](https://open.spotify.com/artist/7u678ZuczbcMTpmTtzBDVJ) | [Milagro](https://open.spotify.com/album/1V0mU9SRWZVJLSA68jpp6u) | 2:55 | 2021-12-08 | 2022-04-22 |
 | [Min Sommaräng](https://open.spotify.com/track/1oi6vHNMz6etDthYdnIYam) | [Stina\-Liv Nilsson](https://open.spotify.com/artist/7tbXwiB9QwEyTcuc8vSDrV) | [Min Sommaräng](https://open.spotify.com/album/0VLRT9JIrxJ0PQKYbv7lhi) | 3:41 | 2021-12-08 |  |
 | [Minha Saudade](https://open.spotify.com/track/6wNgssJaoiZnBySwG6EMVZ) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5), [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Minha Saudade](https://open.spotify.com/album/0ZJCb518KAvdFVrL0yIni5) | 2:27 | 2021-12-08 |  |
+| [Mino Madrid](https://open.spotify.com/track/039lCWzjPxX289MSTfim74) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Mino Madrid](https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU) | 1:48 | 2022-07-29 |  |
 | [Minor Moments](https://open.spotify.com/track/5GWcVFVzwT4nJ1Ji1Fpjpm) | [Dawn, Dawn, Dawn](https://open.spotify.com/artist/6qT731U8rSadVUrqDvGakd) | [Minor Moments](https://open.spotify.com/album/5amFPb8CfOuotX2lUhrTiq) | 3:01 | 2021-12-08 | 2022-05-27 |
 | [Mittenwald](https://open.spotify.com/track/56gf0iOrvZQpwECebBy99R) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Mittenwald](https://open.spotify.com/album/6j8Tg0ERTdfiHWukxIHC8f) | 2:40 | 2021-12-08 |  |
 | [Mondschein](https://open.spotify.com/track/7n1b2jjQSD5xNyo0Bs5dpM) | [Heinrich Schulmann](https://open.spotify.com/artist/6gOl6CDl4lz2DDYpdH8DJU) | [Mondschein](https://open.spotify.com/album/6MRZynP88zTclx9tOUoGrx) | 3:35 | 2021-12-08 |  |

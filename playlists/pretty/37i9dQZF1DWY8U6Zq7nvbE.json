@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1117409,
+  "num_followers": 1117419,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDhiOGU5MWMzNjViYTkyNGZmZTE5ZjVmZDcwM2JiNGVh",
+  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDQ5MDEzZmU2MjcxOWUzYzdlNzNjNjQ5N2Q3MDVkMzJh",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
         "url": "https://open.spotify.com/album/0Re517YSoO235oK01cWnJI"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 208437,
       "name": "Good Things Fall Apart (with Jon Bellion) - Stripped",
       "url": "https://open.spotify.com/track/4siZLgCKM0IKnD1ek6Bt4d"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Circles (Acoustic)",
-        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
-      },
-      "artists": [
-        {
-          "name": "Adam Christopher",
-          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Circles - Acoustic",
-      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "As Long As I Break Your Heart",
         "url": "https://open.spotify.com/album/0aWXwKyqK5cD54s0UoGPar"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168778,
       "name": "As Long As I Break Your Heart",
       "url": "https://open.spotify.com/track/4frOdq5O12jE2YUh4XF4pJ"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Circles (Acoustic)",
+        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Circles - Acoustic",
+      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Bigger Than (Acoustic)",
-        "url": "https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Bigger Than - Acoustic",
-      "url": "https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Be Honest (feat. Burna Boy) (acoustic)",
         "url": "https://open.spotify.com/album/0qb2JuzgSBbbrJJM6sDWLU"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 191170,
       "name": "Be Honest (feat. Burna Boy) (acoustic)",
       "url": "https://open.spotify.com/track/29OB96bcpEnlfbdVREAr83"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Bigger Than (Acoustic)",
+        "url": "https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Bigger Than - Acoustic",
+      "url": "https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
-      },
-      "artists": [
-        {
-          "name": "Vide",
-          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
-        }
-      ],
-      "duration_ms": 124802,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "New Eyes (Acoustic)",
         "url": "https://open.spotify.com/album/3m0kHSihqqWRVj78F20nNv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 173400,
       "name": "New Eyes - Acoustic",
       "url": "https://open.spotify.com/track/5DT4EK2kBjooW9mKACFodW"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
+      },
+      "artists": [
+        {
+          "name": "Vide",
+          "url": "https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539"
+        }
+      ],
+      "duration_ms": 124802,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "We Never Die (Acoustic)",
-        "url": "https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "We Never Die (Acoustic)",
-      "url": "https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Congratulations (Acoustic)",
         "url": "https://open.spotify.com/album/1I34ylW68rDFgyyjQz2k8E"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 237251,
       "name": "Congratulations - Acoustic",
       "url": "https://open.spotify.com/track/1dZyuawBYgIUKKevMXr8St"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "We Never Die (Acoustic)",
+        "url": "https://open.spotify.com/album/7GlnzgTYL2iBLAziFaTpyx"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "We Never Die (Acoustic)",
+      "url": "https://open.spotify.com/track/4m2jS7f5DaeDyy7cJXndOA"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "forgive",
-        "url": "https://open.spotify.com/album/4yhwtGTDnJvodkXpbXBEGV"
-      },
-      "artists": [
-        {
-          "name": "Garrett Nash",
-          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
-        }
-      ],
-      "duration_ms": 162747,
-      "name": "forgive",
-      "url": "https://open.spotify.com/track/0cM5MPgaVH4aHrxA85s7Gm"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "The Acoustic Sessions",
         "url": "https://open.spotify.com/album/3GV2TdiVjl8E5XXBEuiiyX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 164466,
       "name": "Meant To Be - Acoustic",
       "url": "https://open.spotify.com/track/4x4YYSx3fdhM5tSmDCcJY0"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "forgive",
+        "url": "https://open.spotify.com/album/4yhwtGTDnJvodkXpbXBEGV"
+      },
+      "artists": [
+        {
+          "name": "Garrett Nash",
+          "url": "https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw"
+        }
+      ],
+      "duration_ms": 162747,
+      "name": "forgive",
+      "url": "https://open.spotify.com/track/0cM5MPgaVH4aHrxA85s7Gm"
     },
     {
       "added_at": "2021-03-11 23:02:00",

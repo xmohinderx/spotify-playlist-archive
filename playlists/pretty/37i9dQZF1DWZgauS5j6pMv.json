@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Dabeull",
-  "num_followers": 263501,
+  "num_followers": 263704,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjUyMCwwMDAwMDAwMDEyNDlmZDk2NThmYTdiNWU5ZTAzNDlhMTU2MDQzODVi",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDhjMjA2Zjk1NDljODVlNWRjNGMxMmEyN2U1YzZjNTU5",
   "tracks": [
     {
       "added_at": "2022-06-24 04:02:00",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y"
     },
     {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Bad Day Ballad",
+        "url": "https://open.spotify.com/album/3zMfhyP0VZ9Rqku0o1NGDt"
+      },
+      "artists": [
+        {
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
+        }
+      ],
+      "duration_ms": 125407,
+      "name": "Bad Day Ballad",
+      "url": "https://open.spotify.com/track/2Hg4sWqpJu6gaDNFBwNkwW"
+    },
+    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Serious",
@@ -119,6 +135,22 @@
       "duration_ms": 118857,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "LoZ",
+        "url": "https://open.spotify.com/album/08jGGGBK5GehlAype4ZVIH"
+      },
+      "artists": [
+        {
+          "name": "David Ward",
+          "url": "https://open.spotify.com/artist/5hTGrHGP3OEBF7VFrjWZS2"
+        }
+      ],
+      "duration_ms": 227679,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6y0jJFscEgEpxrhkneLKNE"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1769,22 +1801,6 @@
       "url": "https://open.spotify.com/track/7v1WsgCocJ5tLwDXqllQ8n"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Can't Stay Away",
-        "url": "https://open.spotify.com/album/6KMagDFExzgx5x4AhZ8Sdh"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 180157,
-      "name": "Can't Stay Away",
-      "url": "https://open.spotify.com/track/0kCDVx0CUreSrv87CUt6fY"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "M\u00e9lange",
@@ -1823,30 +1839,6 @@
       "duration_ms": 189357,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG"
-    },
-    {
-      "added_at": "2021-03-19 05:01:00",
-      "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/6z83JU2h8enmkQd1KhAvl6"
-      },
-      "artists": [
-        {
-          "name": "Supathick",
-          "url": "https://open.spotify.com/artist/7u3lpTH7O6aQKXW5q9PJjU"
-        },
-        {
-          "name": "Adrian Dzvuke",
-          "url": "https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go"
-        },
-        {
-          "name": "Keely Brittain",
-          "url": "https://open.spotify.com/artist/5z6zW8pjPelSSC0MG9D81a"
-        }
-      ],
-      "duration_ms": 198783,
-      "name": "July",
-      "url": "https://open.spotify.com/track/0foMdHRYktOIfkmQ4LNcWq"
     }
   ],
   "unique_name": "Nu-Funk",

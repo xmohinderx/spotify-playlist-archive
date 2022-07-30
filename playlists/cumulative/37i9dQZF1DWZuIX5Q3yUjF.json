@@ -2244,6 +2244,24 @@
     },
     {
       "album": {
+        "name": "Resta Ancora Qui",
+        "url": "https://open.spotify.com/album/70unvnyvdhWWe1i0DYgPbn"
+      },
+      "artists": [
+        {
+          "name": "Bzi",
+          "url": "https://open.spotify.com/artist/6ZipzRuDr7giQrO0CsmJER"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Resta Ancora Qui",
+      "url": "https://open.spotify.com/track/0c7g2K0GXT8bHB6mR5iMFe"
+    },
+    {
+      "album": {
         "name": "ROOM 23",
         "url": "https://open.spotify.com/album/09hhhTqVQsKDqipq33eExA"
       },

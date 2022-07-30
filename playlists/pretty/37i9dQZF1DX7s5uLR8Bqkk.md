@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 
 > Riscopri le più grandi hit del 2013! Cover: Avicii
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,436 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,441 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 53 | [Berzerk](https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 3:58 |
 | 54 | [Burn](https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:51 |
 | 55 | [Started From the Bottom](https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same](https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t) | 2:54 |
-| 56 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
-| 57 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
+| 56 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
+| 57 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:26 |
 | 58 | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/track/5HOpkTTVcmZHnthgyxrIL8) | [Ylvis](https://open.spotify.com/artist/2lEOFtf3cCyzomQcMHJGfZ) | [The Fox \(What Does the Fox Say?\)](https://open.spotify.com/album/77QwsMRvonZJn7adV47V78) | 3:33 |
 | 59 | [Same Love \(feat\. Mary Lambert\)](https://open.spotify.com/track/01uqI4H13Gsd8Lyl1EYd8H) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Mary Lambert](https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA) | [The Heist](https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8) | 5:18 |
 | 60 | [Holy Grail](https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/4gbrbyveJFkuLH6B5w93JH) | 5:38 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 73 | [L'essenziale](https://open.spotify.com/track/5klQSk2bLb0U3vnvGJUZf4) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [\#PRONTOACORRERE](https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2) | 3:38 |
 | 74 | [Somewhere Only We Know](https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Sheezus](https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU) | 3:28 |
 | 75 | [White Noise](https://open.spotify.com/track/4PPiV0xlKze0D4G93UWLji) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:37 |
-| 76 | [Bonfire Heart](https://open.spotify.com/track/2kvyMNHyxQt2UJ5EKvxaOC) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing](https://open.spotify.com/album/3M8XClATGAkLPvA4ibtZm5) | 3:58 |
-| 77 | [I'm in Love](https://open.spotify.com/track/0WiQ7heTh74fLsysgS3V8O) | [Ola](https://open.spotify.com/artist/0C2nBa56HaSisckWUDOhp0) | [Carelessly Yours](https://open.spotify.com/album/3qKmGEPy26x3ygBRjGF6ln) | 3:20 |
+| 76 | [I'm in Love](https://open.spotify.com/track/0WiQ7heTh74fLsysgS3V8O) | [Ola](https://open.spotify.com/artist/0C2nBa56HaSisckWUDOhp0) | [Carelessly Yours](https://open.spotify.com/album/3qKmGEPy26x3ygBRjGF6ln) | 3:20 |
+| 77 | [Bonfire Heart](https://open.spotify.com/track/2kvyMNHyxQt2UJ5EKvxaOC) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing](https://open.spotify.com/album/3M8XClATGAkLPvA4ibtZm5) | 3:58 |
 | 78 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1) | 3:23 |
 | 79 | [Musica](https://open.spotify.com/track/5Jpv4NDa0zl9ZXGuvspINy) | [Fly Project](https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa) | [Musica](https://open.spotify.com/album/5Qwxzd7WpuMTRpqAjBKHAg) | 3:39 |
 | 80 | [Waiting All Night \(feat\. Ella Eyre\)](https://open.spotify.com/track/0g4qRoQ3Bh6puFzBA7fH3S) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 4:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 96 | [Cigno nero \(feat\. Francesca Michielin\)](https://open.spotify.com/track/14Xpc1IpKL3nN4gQcoLdl5) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Sig\. Brainwash \- L'arte di accontentare Diamond Edition](https://open.spotify.com/album/5ILqRz7muoPkzaQCmFvSxO) | 3:21 |
 | 97 | [Bella Vita \- DJ Antoine vs Mad Mark 2k13 Radio Edit](https://open.spotify.com/track/1nQ54RaIeGcx7E0PmpYHKl) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Mad Mark 2k13](https://open.spotify.com/artist/5xdDOwoASq6Ux6tteqWGYH) | [Sky is the Limit](https://open.spotify.com/album/3EJUAz8oYShFU4LpvSGkGA) | 3:23 |
 | 98 | [Limpido \(with Kylie Minogue\)](https://open.spotify.com/track/5cczRjxK8VgHXReiSsPeN2) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Limpido \(with Kylie Minogue\)](https://open.spotify.com/album/3fRpy0Pgxi1o3jeTftlrzn) | 3:27 |
-| 99 | [Estate](https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987 \- 2012](https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6) | 3:54 |
-| 100 | [Molto calmo](https://open.spotify.com/track/5iR5wz6QEeztfTzvjnE0ZU) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Molto calmo](https://open.spotify.com/album/3gw4CHycpl8mNDQvGPrnRa) | 4:01 |
+| 99 | [Molto calmo](https://open.spotify.com/track/5iR5wz6QEeztfTzvjnE0ZU) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Molto calmo](https://open.spotify.com/album/3gw4CHycpl8mNDQvGPrnRa) | 4:01 |
+| 100 | [Estate](https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987 \- 2012](https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6) | 3:54 |
 
-Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMDc3N2JlOGE0MDYxNjBjYTY4Y2IwNTE4Njg5MzNjOTMw`
+Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMDJkY2U5ZGViNDc2ODA1NjVlNTExMjAzNjMxNjcyZmU0`

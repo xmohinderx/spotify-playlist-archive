@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-739 songs - 1 day 14 hr 32 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
+740 songs - 1 day 14 hr 34 min - [published](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [15,2 \(FREESTYLE\)](https://open.spotify.com/track/6FejloHojCZDBE911vH4z0) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 2:40 | 2021-10-03 | 2021-10-16 |
 | [18](https://open.spotify.com/track/06cJ7hTMrHG7ajs0no3XJw) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [18](https://open.spotify.com/album/0dEj9U7vpuKBOlkrWlEqfM) | 2:31 | 2022-06-02 | 2022-06-26 |
 | [18](https://open.spotify.com/track/18DbAECX4iPyws8Ux7MVMX) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 2:31 | 2022-06-25 |  |
-| [200 osób w kawalerce](https://open.spotify.com/track/0WwTcMK4Qj9vKHVV2Me1l8) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC) | [LETNISKO](https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v) | 2:52 | 2022-05-14 |  |
+| [200 osób w kawalerce](https://open.spotify.com/track/0WwTcMK4Qj9vKHVV2Me1l8) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC) | [LETNISKO](https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v) | 2:52 | 2022-05-14 | 2022-07-30 |
 | [2001](https://open.spotify.com/track/1NF8ykbDKG5jjX2lngFr8I) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Maurycy Żółtański](https://open.spotify.com/artist/6GkmaR2QHFZZgZgJBLqfb8) | [Młody Matczak](https://open.spotify.com/album/7vYR7oLh93zb38m880M8bd) | 2:57 | 2021-10-03 | 2021-11-07 |
 | [2:00](https://open.spotify.com/track/2qcMsA3iyaDAELRijqwKcg) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [2:00](https://open.spotify.com/album/1qmfecOjD950MMfwE4prql) | 3:19 | 2021-03-27 | 2021-05-09 |
 | [2:00](https://open.spotify.com/track/4s0LlMTMlsd6OrrcWJeKMI) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Irenka](https://open.spotify.com/album/3RBWb4HlzXRG0pD0eHdnwF) | 3:19 | 2021-05-09 | 2021-11-17 |
@@ -251,6 +251,7 @@
 | [Huragan](https://open.spotify.com/track/07Av3mjaJZglOphEyYKA63) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [Huragan](https://open.spotify.com/album/6xKVlOL8stXITDhVZjQPDb) | 2:21 | 2022-05-06 | 2022-05-15 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-05 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-13 |  |
+| [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-07-29 |  |
 | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1) | [Męskie Granie Orkiestra 2021](https://open.spotify.com/artist/5xoXMR6Y8PORwObvyND9ZE), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [I Ciebie też, bardzo \(feat\. Daria Zawiałow, Dawid Podsiadło & Vito Bambino\)](https://open.spotify.com/album/01018kIpMNDTe0WrYornLN) | 3:29 | 2021-07-02 |  |
 | [I To Jest Fakt](https://open.spotify.com/track/1e5AS7EC7VnUo40me9YNwV) | [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [PRODUKT47](https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn) | 1:11 | 2022-06-11 | 2022-06-17 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-05-25 | 2021-10-23 |

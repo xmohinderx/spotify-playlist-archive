@@ -4,7 +4,7 @@
 
 > Soft and calm renditions of songs for harp.
 
-147 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
+150 songs - 3 hr 59 min - [published](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [I Don't Like Peas](https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX) | [Peggy Buggs](https://open.spotify.com/artist/6JZRlIGBEp56gHX94QzpQe) | [I Don't Like Peas](https://open.spotify.com/album/2dam7lg2R9iMIAEZ72Vo0t) | 1:22 | 2021-11-11 |  |
 | [Idas sommarvisa](https://open.spotify.com/track/6EtjH6yR0XIHAY0PXRd65U) | [Josefine Wennman](https://open.spotify.com/artist/4Iz7MgZBYGsZzFr3gVamSc) | [Idas sommarvisa](https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O) | 2:29 | 2021-11-11 |  |
 | [If all the stars](https://open.spotify.com/track/6qdsdpkntWpvn6vsgdwcXY) | [Ford Ripley](https://open.spotify.com/artist/6WLptfkrV9byJX74bdV2x9) | [If all the stars](https://open.spotify.com/album/27s25kTVun2NPwD2b3oSOD) | 1:45 | 2021-11-11 |  |
+| [If You Can't Fall Asleep](https://open.spotify.com/track/2OzYkqvv0gWeNn2fuI4BJx) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [If You Can't Fall Asleep](https://open.spotify.com/album/7iI7Oz1jT9b1dkaWlb3qJC) | 1:47 | 2022-07-29 |  |
 | [In My Cot](https://open.spotify.com/track/40iEy0h6OZSjvQVarYwTXO) | [Nerissa Hale](https://open.spotify.com/artist/4g7kMJcLZe9HABplPVtGDb) | [In My Cot](https://open.spotify.com/album/4hNN2PbUs6rPu3gWr7gVD5) | 1:28 | 2021-11-11 |  |
 | [In Your Dreams](https://open.spotify.com/track/2S2XvPvpTbSXYh8MfK4Uit) | [Fitz Wilmer](https://open.spotify.com/artist/0g8dTozmEA5bn0e6Xd2Gw8) | [In Your Dreams](https://open.spotify.com/album/4qWG2QrIdYGJ8mp3Ye43jY) | 1:45 | 2021-11-11 |  |
 | [It's Time For Bed](https://open.spotify.com/track/1BY99d77sqa5CBdHCAwkNQ) | [Mary Donahue](https://open.spotify.com/artist/1yiz1cHWrjaZiEsvU4p4Lg) | [It's Time For Bed](https://open.spotify.com/album/1fo6lIEchk4zYw31EqlzqZ) | 2:50 | 2021-11-11 |  |
@@ -97,6 +98,7 @@
 | [Let's Go On A Treasure Hunt](https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p) | [Brook Wilkie](https://open.spotify.com/artist/06YJLPH6EiVH60sOmPBszs) | [Let's Go On A Treasure Hunt](https://open.spotify.com/album/022hQEvWHvxHXd5JWuWLpu) | 1:03 | 2021-11-11 |  |
 | [Look at the Stars](https://open.spotify.com/track/4t0NsCp1CPKF6xErNAJbev) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Look at the Stars](https://open.spotify.com/album/7wqqqYfxGXgSr2RNN1g2Bj) | 1:03 | 2021-11-11 |  |
 | [Lullaby for You](https://open.spotify.com/track/3Y11BmKJIARE8lLPbZMSVQ) | [Anson Knight](https://open.spotify.com/artist/0PnFa3HmKei2HqzxzDZEos) | [Lullaby for You](https://open.spotify.com/album/35a1nBvmh8y0x31tak9GVJ) | 1:30 | 2022-01-21 |  |
+| [Lullaby Love](https://open.spotify.com/track/77u9y7owrOxvmcPl4tXX2u) | [Harper Wootton](https://open.spotify.com/artist/5WVXOF9dThJk2O5KEgbph4) | [Lullaby Love](https://open.spotify.com/album/100CtdiyYeLcGNftTdOUGJ) | 1:09 | 2022-07-29 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/3uTe0oqzohSULibOFh7Wqs) | [Shel Hershey](https://open.spotify.com/artist/52dMfxsb49keOdFEbARlHO) | [Mary Had A Little Lamb](https://open.spotify.com/album/4bTW7FSi3N9snrPV1AvfUB) | 1:29 | 2021-11-11 |  |
 | [Mi ángel](https://open.spotify.com/track/4KT4f95lo3mk6kTY2CuORb) | [Luca Perez](https://open.spotify.com/artist/4zzne57Qiuc93KSvL8Zxqg) | [Mi ángel](https://open.spotify.com/album/2OVGd54msQXkwbsFl635D1) | 1:58 | 2021-11-11 |  |
 | [Morning Ditty](https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv) | [Lovell Caldwell](https://open.spotify.com/artist/3Gq8kXKBaLomAautCLAI82) | [Morning Ditty](https://open.spotify.com/album/0SzAm5sUnmYn8IBh06Ku0L) | 1:37 | 2021-11-11 |  |
@@ -110,6 +112,7 @@
 | [My Wiggly Tooth](https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i) | [Mary\-Anne Ayers](https://open.spotify.com/artist/1eI4z1e4E9YDFhpzDPOvPV) | [My Wiggly Tooth](https://open.spotify.com/album/348wr92h8CnKzESqC3Uxeo) | 1:19 | 2021-11-11 |  |
 | [Old Macdonald Had A Farm](https://open.spotify.com/track/5LHzazDsCpwIWfB6OjyXVU) | [Cheyenne Hunnisett](https://open.spotify.com/artist/642588gEqSbzMw10PacsKh) | [Old Macdonald Had A Farm](https://open.spotify.com/album/2wZKX4v85x4xB6mrce6jb1) | 1:38 | 2021-11-11 |  |
 | [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-11-11 |  |
+| [Our Quiet Place \- Harp Version](https://open.spotify.com/track/2lobqow3CzYBtgZTbzxnyc) | [Wunder Harp](https://open.spotify.com/artist/7Hki2k0mnobCrWYGthcAqO) | [Our Quiet Place \- Harp Version](https://open.spotify.com/album/7rRDK6ScjuwoLpGCMgMnZM) | 1:22 | 2022-07-29 |  |
 | [Pajama Time](https://open.spotify.com/track/2nIqwZQ8w0c0bP2IOGyhbT) | [Jonathan Behler](https://open.spotify.com/artist/0W4uCS7ueC32qLWzlz0jFh) | [Pajama Time](https://open.spotify.com/album/0mKeEcOqZK8ojLlO8RyDnt) | 1:39 | 2021-11-11 |  |
 | [Puppy Love](https://open.spotify.com/track/6DaTj3tFSinoMzMtdv1yVM) | [September Blackwood](https://open.spotify.com/artist/2U5xaVrnCTnR6xSNc7Pwrp) | [Come Sail Away](https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu) | 1:42 | 2021-11-11 | 2022-07-02 |
 | [Rock\-a\-Bye Baby \(Harp Version\)](https://open.spotify.com/track/3pxobkrGecsRGt0YAT99nA) | [Gabriel Lucas](https://open.spotify.com/artist/3duTy2PIQRyuhd0Q0AnanD) | [Rock\-a\-Bye Baby](https://open.spotify.com/album/0u4yBrpeAFMwxc2Qp79Prr) | 1:50 | 2021-11-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,704 likes - 167 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,714 likes - 169 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,11 +169,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 159 | [Sparkle](https://open.spotify.com/track/4AIal9M710Qnh9uyoActXZ) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:02 |
 | 160 | [In motion](https://open.spotify.com/track/1irdRdvQJyyQA7J4ZNxzm2) | [Sparkle](https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN) | [Sunset Thrill](https://open.spotify.com/album/3eQUva9UkGjhzni7eyYmx2) | 4:00 |
 | 161 | [Walking On the Sand](https://open.spotify.com/track/7FREETBLvSE30dbDNk8KPv) | [The Sura Quintet](https://open.spotify.com/artist/3YBL2Q7cwijeS0GEVKEhXU) | [The Sura Quintet & Friends Chill Out Directions](https://open.spotify.com/album/1bq4yEVHqRcvbGpLspcv5j) | 5:36 |
-| 162 | [Night In Paris](https://open.spotify.com/track/6RSLUzuAOJBhr12XEqt5Uy) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [Night In Paris](https://open.spotify.com/album/2TpA379RBSmdEXZVdSoLJL) | 2:31 |
-| 163 | [summer\_](https://open.spotify.com/track/0TVU1Cw6FRgXWTWZBLwkOg) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [summer\_](https://open.spotify.com/album/2y7NZ7UB5nucU2ibxcrvkj) | 1:44 |
-| 164 | [Skydiving](https://open.spotify.com/track/6AbGuOXxma7x38ZXsecx0H) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/7dU18lCQCFdSWZ1wunxnwW) | 4:43 |
-| 165 | [Wish I Could Fly \- Ambient Mix](https://open.spotify.com/track/5t3yeV8dXGYKScVOAVZZqi) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [The Album](https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO) | 4:15 |
-| 166 | [Ai No Chiara](https://open.spotify.com/track/79X0iexc4uC8QkSBwFQNG7) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:12 |
-| 167 | [You \- Spa/Relax](https://open.spotify.com/track/6V3fokb2rQlvopw0onXcpl) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:22 |
+| 162 | [love it when we're alone](https://open.spotify.com/track/6F0tuZKfOYBYv8c8ECBcju) | [Jcomadeit](https://open.spotify.com/artist/5acyyyz8DVuN98IloXF3eC) | [love it when we're alone](https://open.spotify.com/album/0Qz3F6AobL9YnI1t6C1XXw) | 1:28 |
+| 163 | [Night In Paris](https://open.spotify.com/track/6RSLUzuAOJBhr12XEqt5Uy) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w), [Chill Station](https://open.spotify.com/artist/1FPxSBB6vJ21iKzCblbl1u) | [Night In Paris](https://open.spotify.com/album/2TpA379RBSmdEXZVdSoLJL) | 2:31 |
+| 164 | [Spaced Out](https://open.spotify.com/track/4z7o9DGCoHf8694oWNsNl5) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Spaced Out](https://open.spotify.com/album/1PmtRqz8XlLqjp1F8edMnK) | 2:20 |
+| 165 | [summer\_](https://open.spotify.com/track/0TVU1Cw6FRgXWTWZBLwkOg) | [yud.](https://open.spotify.com/artist/7k6535rJWtEv2TKhv1T6v7), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [summer\_](https://open.spotify.com/album/2y7NZ7UB5nucU2ibxcrvkj) | 1:44 |
+| 166 | [Skydiving](https://open.spotify.com/track/6AbGuOXxma7x38ZXsecx0H) | [Siam Roof](https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8) | [VERTIGO](https://open.spotify.com/album/7dU18lCQCFdSWZ1wunxnwW) | 4:43 |
+| 167 | [Wish I Could Fly \- Ambient Mix](https://open.spotify.com/track/5t3yeV8dXGYKScVOAVZZqi) | [Ears Of Light](https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc) | [The Album](https://open.spotify.com/album/0od5afi4jRBrmFpzby2DyO) | 4:15 |
+| 168 | [Ai No Chiara](https://open.spotify.com/track/79X0iexc4uC8QkSBwFQNG7) | [Izumi Tanaka](https://open.spotify.com/artist/53odzhqrxC4LMAwW26ODLl) | [Rikyu Garden](https://open.spotify.com/album/1kxINx1cb6J6rGY9DjzA52) | 3:12 |
+| 169 | [You \- Spa/Relax](https://open.spotify.com/track/6V3fokb2rQlvopw0onXcpl) | [Blue Puppy](https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS) | [You](https://open.spotify.com/album/7qTEMrV6yfEuERhJ8HgW0F) | 3:22 |
 
-Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMGNmMDk4MjE1MWU2YjE0ZmM0M2FjZmNjMTBjNWQ2ODll`
+Snapshot ID: `MTY1OTA1MjgwMCwwMDAwMDAwMDY4NGY4ZjBhODIzYjA4Yjg2NjE3NzkzNDc0ZjhhMWEz`

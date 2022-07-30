@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 202630,
       "name": "Better For You",
       "url": "https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C"
@@ -1648,6 +1648,28 @@
     },
     {
       "album": {
+        "name": "Josh Abbott Band and Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279115,
+      "name": "Don't It Make You Wanna Dance?",
+      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+    },
+    {
+      "album": {
         "name": "Cody Hibbard",
         "url": "https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K"
       },
@@ -2335,7 +2357,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 224600,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI"
@@ -3577,7 +3599,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 201232,
       "name": "Meet Me in Texas (feat. Graycie York)",
       "url": "https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj"
@@ -3725,6 +3747,24 @@
       "duration_ms": 224250,
       "name": "Nothin' to Lose (But the Lonely)",
       "url": "https://open.spotify.com/track/3l8h1ZFp7HRYFEDnVvmJUC"
+    },
+    {
+      "album": {
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "album": {
@@ -4789,6 +4829,24 @@
       "duration_ms": 228352,
       "name": "Sweet Irene",
       "url": "https://open.spotify.com/track/1E8oXata1MPMC78MAPWyLS"
+    },
+    {
+      "album": {
+        "name": "Tears the Size of Texas",
+        "url": "https://open.spotify.com/album/79l3KSw4fOnOvixKQB1yPI"
+      },
+      "artists": [
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238177,
+      "name": "Tears the Size of Texas",
+      "url": "https://open.spotify.com/track/3dty7RRoFfyFTylgKAAy2V"
     },
     {
       "album": {

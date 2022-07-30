@@ -384,6 +384,24 @@
     },
     {
       "album": {
+        "name": "Ghadara",
+        "url": "https://open.spotify.com/album/12AoBSJdRUTki8mNWS6VOR"
+      },
+      "artists": [
+        {
+          "name": "MarSimba",
+          "url": "https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182970,
+      "name": "Ghadara",
+      "url": "https://open.spotify.com/track/6v9jNH12jMdwX11d1Hjj4f"
+    },
+    {
+      "album": {
         "name": "hasta la vista.",
         "url": "https://open.spotify.com/album/6eOrS43L3EuwK6ZmFYRt1W"
       },

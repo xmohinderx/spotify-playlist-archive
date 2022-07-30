@@ -2356,6 +2356,24 @@
     },
     {
       "album": {
+        "name": "I Got Summer On My Mind",
+        "url": "https://open.spotify.com/album/1yVct2QPNbEAwI4kljQiOF"
+      },
+      "artists": [
+        {
+          "name": "Jay Dunham",
+          "url": "https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "I Got Summer On My Mind",
+      "url": "https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/4nVBPAoafbfkbcXrhWAuDJ"
       },
@@ -6303,7 +6321,7 @@
       ],
       "date_added": "2020-09-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-30",
       "duration_ms": 325497,
       "name": "You're so High",
       "url": "https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J"

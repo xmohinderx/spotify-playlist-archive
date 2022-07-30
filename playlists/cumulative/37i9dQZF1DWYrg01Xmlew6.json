@@ -114,6 +114,32 @@
     },
     {
       "album": {
+        "name": "Baby \u00e8 tutt' normal'",
+        "url": "https://open.spotify.com/album/0xMBNHOzQCDrNiqeAJRlBI"
+      },
+      "artists": [
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        },
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "LOWA",
+          "url": "https://open.spotify.com/artist/50s5PUzlEIuQz606N3hSM1"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Baby \u00e8 tutt' normal'",
+      "url": "https://open.spotify.com/track/4jZ86LWK5gWKmPvFT8vjfF"
+    },
+    {
+      "album": {
         "name": "BCN",
         "url": "https://open.spotify.com/album/2eFsshWElYwxAW8JYYO8p5"
       },

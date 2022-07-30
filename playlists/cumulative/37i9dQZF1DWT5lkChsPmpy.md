@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-306 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
+307 songs - 14 hr 4 min - [published](https://open.spotify.com/playlist/1TYjTw5Fy282Jq7KOfJsqv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [See You There](https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks) | [Luca Tong](https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl) | [Pink T\-Shirt](https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ) | 3:27 | 2021-11-10 | 2022-01-22 |
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2021-11-10 | 2022-07-08 |
 | [Semiconcious](https://open.spotify.com/track/7DZcwJ8CKNIgpgPDnqmDox) | [Brooklynn Contreras](https://open.spotify.com/artist/6ds4IULZlDK5RutmpOhwGt) | [Semiconcious](https://open.spotify.com/album/39yrRMOKpQOdKX1ElgihUm) | 3:00 | 2021-11-10 |  |
+| [Sensations](https://open.spotify.com/track/0P9BpE9MTrDTDiaIlXHzm1) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Sensations](https://open.spotify.com/album/1ELlmWpHVgs5TsJjsNOTsT) | 2:30 | 2022-07-29 |  |
 | [Sepia Story](https://open.spotify.com/track/3EppUOHNVjSn5C1WF5QWby) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X) | [Lose The Net EP](https://open.spotify.com/album/3Zrl7BMOKHsfeQ0EyvYeqD) | 3:56 | 2021-11-10 |  |
 | [She´s fly](https://open.spotify.com/track/3WyBZ7gGHCNKkzL9j8HNVB) | [Sangri](https://open.spotify.com/artist/4skJuoz124HZj4oIRJi8s1) | [She´s fly](https://open.spotify.com/album/2EyfCQBUEYnfmBAJoUVKcT) | 1:53 | 2022-01-21 |  |
 | [sleeping bird](https://open.spotify.com/track/4zH9TP3m7xkfltbL3Vlaix) | [Whatevr.](https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [sleeping bird](https://open.spotify.com/album/3DbVYCIBprAMxZAXQ3HPB5) | 1:45 | 2022-05-10 |  |

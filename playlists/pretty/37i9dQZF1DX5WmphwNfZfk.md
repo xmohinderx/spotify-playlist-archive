@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,396 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,410 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 54 | [Name Drop](https://open.spotify.com/track/4tiezSQT5R9a5bOef15mKj) | [River Town Saints](https://open.spotify.com/artist/5AWoUNm23MGtj128vkXcjo) | [Name Drop](https://open.spotify.com/album/4BBl9CNwXfEXF7BugZYlfT) | 2:48 |
 | 55 | [Losing Touch](https://open.spotify.com/track/6L2SG3kZwT61N1IhYrTKRa) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Losing Touch](https://open.spotify.com/album/0zolIEow3m9JVU6xV4Ov1Z) | 3:30 |
 | 56 | [What If I](https://open.spotify.com/track/2EPpyLWimo6P709HGjkHFQ) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [What If I](https://open.spotify.com/album/3h8Z8QFfiOnpbVBugbKIxL) | 3:03 |
-| 57 | [All Your Love](https://open.spotify.com/track/0w8k35No8HKAUoyKLMxXIY) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/1IppLCNz2mhbYU52JBuIui) | 2:53 |
+| 57 | [All Your Love](https://open.spotify.com/track/4bzMPTdFBXC7qJgMVCeCBe) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/3czqc1XrxY4pT1kXzoRY4i) | 2:53 |
 | 58 | [Common Ground](https://open.spotify.com/track/2894GpCbg23YHmtq16qguA) | [Kelly Prescott](https://open.spotify.com/artist/70skqWNNxbe1l0oVHVQB6O) | [Cloud 9](https://open.spotify.com/album/56h6xegUoqMGrFpEoc1CVS) | 3:23 |
 | 59 | [OHWEI](https://open.spotify.com/track/7n5LQXVhfgRphYIuX6jsCw) | [Izzy Rose](https://open.spotify.com/artist/3bhjxkOnnTAKNTQU1TdC9N) | [OHWEI](https://open.spotify.com/album/2QZYJrdgvAUxgFK6Z0PIyf) | 2:49 |
 | 60 | [Comfortable](https://open.spotify.com/track/5QyNMyfhBMIStzL07zQ9Hj) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Comfortable](https://open.spotify.com/album/7jgQ0wQzBIWPeQOlrUYC1S) | 3:31 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 65 | [Come Back](https://open.spotify.com/track/4Hct5D5i8XQ6WBflOxaklP) | [Jex](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Come Back](https://open.spotify.com/album/0pHMXsA12GKnUgz0tOBV7X) | 3:18 |
 | 66 | [LIFE LINE](https://open.spotify.com/track/7EN2BcGqnFQnWe4tPOGAJN) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [LIFE LINE](https://open.spotify.com/album/0047wQlw6eUsYhOoNmWQa6) | 3:17 |
 | 67 | [Overtime](https://open.spotify.com/track/4qo3W1KJVmlUezl5dq0h9p) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Overtime](https://open.spotify.com/album/6Gvz56e2ZzNTVWK8vZkzni) | 2:44 |
-| 68 | [No Peace](https://open.spotify.com/track/33IoJtrePi4t2YmIfiCC23) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/3SCuN9tAktf8O2smtmPfPE) | 4:38 |
+| 68 | [No Peace](https://open.spotify.com/track/7g9pjsFLAC7inzCzZjaGHX) | [The Burning Hell](https://open.spotify.com/artist/09kohMK0MSHgpmKWiQeQ5E) | [Garbage Island](https://open.spotify.com/album/0J0edEr0oiC9D2EvzJFDKX) | 4:38 |
 | 69 | [Feel Everything](https://open.spotify.com/track/3cXOJWxmfKenN3fvpRMhS6) | [Kennedy Rd.](https://open.spotify.com/artist/1ZtRTibAPAEbO8iydpyzWu) | [Waves Of Love Vol 2](https://open.spotify.com/album/0nF6Edna9j21yUmCqAHotI) | 4:03 |
 | 70 | [Sucré](https://open.spotify.com/track/1nPqHhpCGBVj9FE7m7zgiy) | [noiir](https://open.spotify.com/artist/4fajmnCbACvqKxvd2jXyxz), [Juic3Boy](https://open.spotify.com/artist/5wb69ju4N9tnD2Po57xNs5) | [Sucré](https://open.spotify.com/album/6zt4y1B8i4TnSvxtcXrEwY) | 2:36 |
 | 71 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 |

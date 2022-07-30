@@ -2,7 +2,7 @@
 
 ### [Carnival](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> Carnival 2022 is in session, follow Kes as he takes us on a trip to Trinidad & Tobago
+> The biggest & baddest tunes to get you ready for Carnival 2022 \- curated by Nino Brown & Young Teesh.
 
 104 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 

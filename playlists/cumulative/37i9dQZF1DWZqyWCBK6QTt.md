@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zara Larsson, Jimmie Allen, and Ethel Cain.
 
-357 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
+358 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 | 2022-03-24 |  |
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-09-24 | 2022-07-29 |
 | [Ain't No Way \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Kiy7zFMynJkvBJLe4neSJ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/6eJDRuzwuZuVXHNGBSevVe) | 4:10 | 2021-09-24 | 2022-07-28 |
-| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-06-07 |  |
+| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-06-07 | 2022-07-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 | 2021-09-24 | 2022-04-21 |
 | [All Time Low \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3uM14F9XYRMhx6MgDsS9iq) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Spotify Singles](https://open.spotify.com/album/4JNZCTcuenAhagoD43YUJy) | 3:05 | 2022-03-24 | 2022-04-18 |
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-09-24 |  |
@@ -337,6 +337,7 @@
 | [Water \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3kF8rHausERpnFDf0gJ1Xk) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/6UvDPFaADYrF3Kk7xClIPB) | 2:48 | 2022-03-24 | 2022-04-21 |
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-09-24 |  |
 | [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5dSiMAfH0yR7lFkhkeR9IA) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/72rhxNzk3Lm3I6zT1YqYQx) | 3:42 | 2021-09-24 | 2022-07-17 |
+| [We Know Who U R \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/64Ck5Rsc77cOzdiqElhgUj) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Spotify Singles](https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn) | 3:42 | 2022-06-07 |  |
 | [What a Wonderful World \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Spotify Singles](https://open.spotify.com/album/4vL7Dk1tzpksoDl6ZKJ8H9) | 3:41 | 2021-09-24 | 2022-07-29 |
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7) | 3:55 | 2022-03-24 | 2022-06-02 |
 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK) | 3:55 | 2022-06-07 |  |

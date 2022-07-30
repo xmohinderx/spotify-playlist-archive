@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-465 songs - 1 day 1 hr 55 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
+466 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/05mBfCDcqpe58bcfcRKya9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [בוקר טוב עולם](https://open.spotify.com/track/1rD46iQRSw8f7W7KB1fjtR) | [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3), [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [בוקר טוב עולם](https://open.spotify.com/album/0Xm7R9K1ITfGfdDlYICwXK) | 2:45 | 2021-07-11 | 2021-09-05 |
 | [בזמן האחרון](https://open.spotify.com/track/5cENOu6Era495FYzmGsCsd) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בזמן האחרון](https://open.spotify.com/album/0g8BA4sp4H8RTgYepBt0uI) | 3:19 | 2022-04-02 | 2022-04-07 |
 | [בזמן האחרון](https://open.spotify.com/track/5ezFz6Jwn7l40kIGAP4zmL) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [קצת שמח קצת עצוב](https://open.spotify.com/album/3J0HUIjrnO6O3laWJm9Xp9) | 3:19 | 2022-04-06 | 2022-05-05 |
-| [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 |  |
+| [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 | 2022-07-30 |
 | [ביחד](https://open.spotify.com/track/4NJbK9op9ixBJVOXEwNK4R) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/5oC80Ft440Tc0cyRRefKsi) | 2:31 | 2021-03-27\* | 2021-08-26 |
 | [בימים ההם](https://open.spotify.com/track/6n0Rajp2KbX5X7HeJrAyrH) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בימים ההם](https://open.spotify.com/album/3kyru2X7jEoQuScV2KmJVO) | 2:58 | 2022-07-19 | 2022-07-27 |
 | [בית משוגעים](https://open.spotify.com/track/66iaD8MCoVnBtqUhuzdglT) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [בית משוגעים](https://open.spotify.com/album/569icpNOeFw5zZDePlrwJR) | 2:49 | 2021-03-27\* | 2022-07-28 |
@@ -408,6 +408,7 @@
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2021-09-18 |
 | [סהרה](https://open.spotify.com/track/3uidHx3If1PWAOCMcCdkNH) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:04 | 2021-12-18 |  |
+| [סהרה \- Live](https://open.spotify.com/track/7BcRDWY4VTCvRRHoobFWWo) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [סהרה \(Live\)](https://open.spotify.com/album/78GQ3pNd1Uy3oQJsX3MmGk) | 4:32 | 2022-07-29 |  |
 | [סוף של כל סיפור](https://open.spotify.com/track/52IzyboDKO3vFCWebuDd7e) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [סוף של כל סיפור](https://open.spotify.com/album/2Id1zXgJuXAXSe2xzBGJST) | 3:17 | 2022-01-20 | 2022-02-13 |
 | [סחרחורת & בדד](https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [סחרחורת & בדד](https://open.spotify.com/album/0C18PN7xHyX9IVbn49CDKz) | 6:01 | 2021-09-24 | 2022-01-15 |
 | [סיבובים](https://open.spotify.com/track/21qCzrANOK7gB0KPoNE1zP) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [סיבובים](https://open.spotify.com/album/2XvWTVqWWjPXnkAjeH19pK) | 3:05 | 2021-03-27\* | 2021-10-17 |

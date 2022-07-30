@@ -4,7 +4,7 @@
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-178 songs - 16 hr 27 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
+179 songs - 16 hr 32 min - [published](https://open.spotify.com/playlist/6X7c0KxMq4eDep6Ky35UDy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 | 2022-07-13 |  |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/4Pk1GDnV9cTAx2gs3bJX9V) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/4xoabnZnUHQDAWZJ5f0oZl) | 5:24 | 2022-06-10 |  |
 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT) | 6:22 | 2022-02-17 |  |
+| [For My Good \- Live](https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp) | [Meredith Mauldin](https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Aiva Jenkins](https://open.spotify.com/artist/0kHsjUrgZWShkTeraeXGBd), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [The Turning](https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR) | 5:04 | 2022-07-29 |  |
 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 | 2022-04-04 |  |
 | [Fresh Wind \- Studio](https://open.spotify.com/track/5bCBMKuaHNpRCuPPVKtzlk) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/0hta3inDwefmP7JjYEY33c) | [Fresh Wind \(Studio\)](https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW) | 4:33 | 2022-02-17 | 2022-07-14 |
 | [Give Thanks](https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r) | [Faith Of My Father](https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC) | 4:09 | 2022-02-17 | 2022-03-16 |
