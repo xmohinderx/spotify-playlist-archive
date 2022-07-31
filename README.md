@@ -949,6 +949,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Country Cookout](/playlists/pretty/37i9dQZF1DXbIbVYph0Zr5.md)
 - [Country Covers](/playlists/pretty/37i9dQZF1DX1KHLbhJkg7B.md)
 - [Country Drive](/playlists/pretty/37i9dQZF1DXdfhOsjRMISB.md)
+- [Country Favourites](/playlists/pretty/37i9dQZF1DX13ZzXoot6Jc.md)
 - [Country Frequency](/playlists/pretty/37i9dQZF1DWY1wwcap53LA.md)
 - [Country Gold](/playlists/pretty/37i9dQZF1DWYnwbYQ5HnZU.md)
 - [Country Heartache](/playlists/pretty/37i9dQZF1DXdmMcgFhLQ8u.md)
