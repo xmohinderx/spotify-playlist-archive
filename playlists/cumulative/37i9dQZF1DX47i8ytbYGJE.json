@@ -3728,6 +3728,24 @@
     },
     {
       "album": {
+        "name": "Rock with Me Baby / Trouble Bound",
+        "url": "https://open.spotify.com/album/6qVn0ABhmZ0Vun9LrEve7Q"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "date_added": "2020-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Rock with Me Baby",
+      "url": "https://open.spotify.com/track/2w3C1VjhTTxJHHGqC890xG"
+    },
+    {
+      "album": {
         "name": "The 50 Best Rockabilly Songs Ever",
         "url": "https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU"
       },
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 131506,
       "name": "Rock With Me Baby (2016 Remaster)",
       "url": "https://open.spotify.com/track/2OEEpVEdBbXpx8SiTad8hR"

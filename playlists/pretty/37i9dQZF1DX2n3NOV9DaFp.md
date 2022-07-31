@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3NOV9DaFp.md) - [plain]
 
 > The official playlist of Rolling Loud.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,434 likes - 158 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,447 likes - 158 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

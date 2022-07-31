@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Harry Nach, ITHAN NY, Galee Galee & Julianno Sosa.",
-  "num_followers": 61600,
+  "num_followers": 61646,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1MzUwMiwwMDAwMDAwMDY3NDYxODNiNWRiMWQwMWM3ZDQ3YzNiZDVlODFhMWI4",
+  "snapshot_id": "MTY1Nzg1MzUwMiwwMDAwMDAwMGU3YjNmNzMyMGZkNzBlM2NlODgyNmMxNTk2YTk3ZTRl",
   "tracks": [
     {
       "added_at": "2022-07-15 02:51:42",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
+        "name": "KlK Llego El Tipo the Album",
+        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
+      },
+      "artists": [
+        {
+          "name": "Wilo D New",
+          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Menea Tu Chapa",
+      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
         "name": "Y Eso?",
         "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 164048,
       "name": "Y Eso?",
       "url": "https://open.spotify.com/track/1Cx2O26LJUjG94LfH6rnyB"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
-        "name": "KlK Llego El Tipo the Album",
-        "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
-      },
-      "artists": [
-        {
-          "name": "Wilo D New",
-          "url": "https://open.spotify.com/artist/7Mj6zJyAtVisnooOp1hlWF"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Menea Tu Chapa",
-      "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
-        "name": "Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 196013,
-      "name": "Banda de Camion",
-      "url": "https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
         "name": "Colombiana",
         "url": "https://open.spotify.com/album/63vnbIp0UFLKeDlJ3NLPfK"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/4OkZXjA1yje9NZurlsfiGw"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
+        "name": "Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/7yS1RMcw03GA0N4jbl2bgU"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 196013,
+      "name": "Banda de Camion",
+      "url": "https://open.spotify.com/track/2Ew7SW6TFwh4ddOhF38gi3"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
-        "name": "Plakiti",
-        "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
-      },
-      "artists": [
-        {
-          "name": "Dj Scuff",
-          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
-        }
-      ],
-      "duration_ms": 135314,
-      "name": "Plakiti",
-      "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
         "name": "Tan Celoso",
         "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 162847,
       "name": "Tan Celoso",
       "url": "https://open.spotify.com/track/4KpvbpBLnw9fYkruj7nE85"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
+        "name": "Plakiti",
+        "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        }
+      ],
+      "duration_ms": 135314,
+      "name": "Plakiti",
+      "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
+        "name": "Maniqui",
+        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 177632,
+      "name": "Maniqui",
+      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
         "name": "Dembow Hits",
         "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
-        "name": "Maniqui",
-        "url": "https://open.spotify.com/album/46b2mwTXK6QJGRZgJ2q8cc"
-      },
-      "artists": [
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 177632,
-      "name": "Maniqui",
-      "url": "https://open.spotify.com/track/4i8NEPpP802z5lxewO8flu"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
         "name": "Lleg\u00f3 el Domi",
         "url": "https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC"
       },
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
+        "name": "Lava Urbana 2018",
+        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
+      },
+      "artists": [
+        {
+          "name": "Bulin 47",
+          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rapidito",
+      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
         "name": "Calle",
         "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 152049,
       "name": "Calle",
       "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
-        "name": "Lava Urbana 2018",
-        "url": "https://open.spotify.com/album/18kVz52nMnczVM4Sj26527"
-      },
-      "artists": [
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rapidito",
-      "url": "https://open.spotify.com/track/3ZJ1F8QrGVN6uz9HTF4Mrg"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
-      },
-      "artists": [
-        {
-          "name": "Denyerkin",
-          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
         "name": "Mr Brum Brum",
         "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3uQfNR0M6pGC1W30l0h7dE"
+      },
+      "artists": [
+        {
+          "name": "Denyerkin",
+          "url": "https://open.spotify.com/artist/6CeuGv4HZFxwZB1LyCBUjn"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/14ZJHmV9qqB4Fhd40QFJz0"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2022-05-28 14:47:12",
       "album": {
+        "name": "Hip Hop Dominicano",
+        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
+      },
+      "artists": [
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        }
+      ],
+      "duration_ms": 199052,
+      "name": "El Humo",
+      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
+    },
+    {
+      "added_at": "2022-05-28 14:47:12",
+      "album": {
         "name": "Tu Cojea (Remix)",
         "url": "https://open.spotify.com/album/0zm0Z4PQAioer5GHfdG1Wi"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 244916,
       "name": "Tu Cojea - Remix",
       "url": "https://open.spotify.com/track/7i5yhydTMHfFyU9UiEzDOX"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
-        "name": "Hip Hop Dominicano",
-        "url": "https://open.spotify.com/album/1d7x3KPX9Icc4AqG5oZau7"
-      },
-      "artists": [
-        {
-          "name": "Atomic Otro Way",
-          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
-        }
-      ],
-      "duration_ms": 199052,
-      "name": "El Humo",
-      "url": "https://open.spotify.com/track/3KTlbM0gwYUiDfCiwpNBXs"
     },
     {
       "added_at": "2022-05-28 14:47:12",
@@ -1485,6 +1485,26 @@
       "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
     },
     {
+      "added_at": "2022-07-15 02:51:42",
+      "album": {
+        "name": "Controla",
+        "url": "https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n"
+      },
+      "artists": [
+        {
+          "name": "Sagcy",
+          "url": "https://open.spotify.com/artist/4B91O0qMYtFEdc7wBrknT7"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 169729,
+      "name": "Controla",
+      "url": "https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp"
+    },
+    {
       "added_at": "2022-05-28 14:47:12",
       "album": {
         "name": "Knock Out",
@@ -1507,22 +1527,6 @@
       "duration_ms": 195596,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d"
-    },
-    {
-      "added_at": "2022-05-28 14:47:12",
-      "album": {
-        "name": "Mensaje Directo (DM)",
-        "url": "https://open.spotify.com/album/49xNNfmQRUICPKH1uX0yc9"
-      },
-      "artists": [
-        {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Mensaje Directo (DM)",
-      "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

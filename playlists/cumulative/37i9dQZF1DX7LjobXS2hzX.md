@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Stromae, Camila Cabello
 
-90 songs - 4 hr 35 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
+91 songs - 4 hr 38 min - [published](https://open.spotify.com/playlist/2nCUfA3MhQxNQozCiwBfG4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-07-09 | 2022-07-29 |
 | [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-07-22 | 2022-07-30 |
 | [Exquisite](https://open.spotify.com/track/2ck3poi9OAj25CcOWfr1QW) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Exquisite](https://open.spotify.com/album/4Rlp7ncaNEzgJVoWhpWFMo) | 2:42 | 2022-07-09 |  |
+| [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-30 |  |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-09 |  |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-07-09 |  |
 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-07-09 |  |
@@ -68,7 +69,7 @@
 | [Meaningless](https://open.spotify.com/track/2w8OmA0tz54P74o8kLMcfb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix Deluxe](https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3) | 3:37 | 2022-07-09 | 2022-07-29 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 | 2022-07-29 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-09 |  |
-| [On a mis d’la lumière](https://open.spotify.com/track/44q2BOX0z5eN7F1EpCRKjP) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 3:05 | 2022-07-22 |  |
+| [On a mis d’la lumière](https://open.spotify.com/track/44q2BOX0z5eN7F1EpCRKjP) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Sous le même toit](https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN) | 3:05 | 2022-07-22 | 2022-07-31 |
 | [On s'aimera toujours](https://open.spotify.com/track/2RcrBSsrLtBVPKqEyYCqpy) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Impossible à aimer](https://open.spotify.com/album/1k6lh8sWWBUuJQDqqW10XX) | 3:28 | 2022-07-09 |  |
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-07-22 |  |
 | [Pas le temps de jouer](https://open.spotify.com/track/6oomlC7rQX4LpTXwXHe3aq) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Pas le temps de jouer](https://open.spotify.com/album/02M6nwxbFdK7DRgB5hxe1I) | 3:00 | 2022-07-09 | 2022-07-23 |

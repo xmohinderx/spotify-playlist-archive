@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,096 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,110 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 26 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
 | 27 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
 | 28 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
-| 29 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
-| 30 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
+| 29 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
+| 30 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
 | 31 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
 | 32 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
 | 33 | [Shake That Thing](https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [28 Big Ones](https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT) | 2:15 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 42 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
 | 43 | [All Night Long](https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo) | [Joe Houston & His Rockets](https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6) | [Rock And Roll \- The Essential Collection](https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q) | 2:40 |
 | 44 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
-| 45 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
-| 46 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3) | 2:44 |
+| 45 | [I'm Going To Have Myself A Ball](https://open.spotify.com/track/1tqLXlzrpnMHOQH2kkt1y3) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [Walk That Mess!](https://open.spotify.com/album/1f6YAwaB3PeBuUZtB9V0v3) | 2:44 |
+| 46 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
 | 47 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
 | 48 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
 | 49 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 
-Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMDAxMTU0ZTJjM2MxZjA2MTYyMzFiMDlmYmZjOGZlZmM3`
+Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMGM3NzAyNDcxOTdlZWIwYjA5YmM4NTFiYjYzMmYxN2U4`

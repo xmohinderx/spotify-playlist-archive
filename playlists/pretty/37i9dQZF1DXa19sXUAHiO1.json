@@ -1,12 +1,12 @@
 {
   "description": "A classic mix of pop, rock and folk hits from decades past.",
-  "num_followers": 866211,
+  "num_followers": 866375,
   "original_name": "Good Times, Great Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMDllNTkxY2U1MjBhZWQ3MDVkNDdkZjAyY2M4M2IzYzAy",
+  "snapshot_id": "MTY1NzA0ODgwOSwwMDAwMDAwMDExOTAyN2ZjZTZhZTU4ZmY4YWU2OTVkOGE0YjFmYmVk",
   "tracks": [
     {
       "added_at": "2021-01-06 18:39:03",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
-      "added_at": "2021-01-06 18:39:03",
-      "album": {
-        "name": "Sleeper Catcher (Remastered)",
-        "url": "https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Reminiscing - Remastered",
-      "url": "https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa"
-    },
-    {
       "added_at": "2022-06-30 18:06:09",
       "album": {
         "name": "It Ain't Easy",
@@ -523,6 +507,22 @@
       "duration_ms": 198933,
       "name": "Mama Told Me (Not To Come) - Single Version",
       "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
+    },
+    {
+      "added_at": "2021-01-06 18:39:03",
+      "album": {
+        "name": "Sleeper Catcher (Remastered)",
+        "url": "https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Reminiscing - Remastered",
+      "url": "https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa"
     },
     {
       "added_at": "2021-01-06 18:39:03",

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Thiruchitrambalam
 
-182 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+183 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [The Suzhal Roar](https://open.spotify.com/track/437vCqn09LFz86Pa0FxCXL) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa) | [The Suzhal Roar](https://open.spotify.com/album/6I1icjXeWonWfckCk6JzBw) | 0:51 | 2022-06-08 | 2022-06-17 |
 | [Thedi Thedi \(From "Maayon \(Tamil\)"\)](https://open.spotify.com/track/5I8YFroEs5JfYf5AsFaUKi) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thedi Thedi \(From "Maayon \(Tamil\)"\)](https://open.spotify.com/album/2AaJcDwCxhxJC294UFvJB2) | 3:34 | 2022-06-20 | 2022-06-24 |
 | [Theethiriyaai \(From "Brahmastra \(Tamil\)"\)](https://open.spotify.com/track/5XbHpOBN1vTU3hN1YzLqHL) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Theethiriyaai \[From "Brahmastra \(Tamil\)"\]](https://open.spotify.com/album/64zZPIAQB8N3vCPfBvek0x) | 4:38 | 2022-07-17 |  |
+| [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Thenmozhi \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/209RZfNZtgSqyavgunoMvr) | 2:53 | 2022-07-30 |  |
 | [Thoovi Thoovi](https://open.spotify.com/track/0hCUSLgkgQcd7zoTVdF3Ss) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 3:12 | 2022-07-15 | 2022-07-22 |
 | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/track/5JC1RPGBMSiKlA3gniEmCW) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Thozhi \(From "Hey Sinamika"\)](https://open.spotify.com/album/0cxMKNG3gmLPt9dTEBHkEg) | 4:57 | 2022-05-09 | 2022-07-24 |
 | [Title Song](https://open.spotify.com/track/5qwGy6yyuUm6EFr1hJcOry) | [Sai Kartheek](https://open.spotify.com/artist/24QEOAXm9MO3WypnMbFNSN), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI) | [Title Song \(From "Gangster Gangaraju"\)](https://open.spotify.com/album/0wtXE53MfEq9gvCG79Qd3G) | 3:23 | 2022-06-02 | 2022-06-14 |

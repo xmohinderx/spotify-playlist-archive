@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-225 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+226 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Around You](https://open.spotify.com/track/5EGieT4siO2pu39978xZK5) | [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [East Dawn](https://open.spotify.com/artist/5d1toYNLtZklQSSoh985P4) | [Around You](https://open.spotify.com/album/6kHveSyKGbIT7m6NJ2l1zA) | 2:18 | 2022-05-27 | 2022-06-01 |
 | [Back To Me](https://open.spotify.com/track/1MFmiir89nKDrfw8AjeNKu) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Back To Me](https://open.spotify.com/album/7rviCBw7v6m8Rf5LfirNnQ) | 2:46 | 2022-02-11 | 2022-07-13 |
 | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn) | 2:59 | 2021-10-29 |  |
+| [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 |  |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 |  |
 | [Bass Face](https://open.spotify.com/track/4n93qqnMDU7n5LRj5O2wh7) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Bass Face](https://open.spotify.com/album/3w7pSN07nFeY7fqlVEBkFc) | 2:30 | 2021-10-29 | 2022-06-10 |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-10-29 | 2022-03-21 |
@@ -144,7 +145,7 @@
 | [My Thing](https://open.spotify.com/track/7w4AVHX30XFZpAqfbTYwcf) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [My Thing](https://open.spotify.com/album/4tbbX4leGDkZXfDEcIwwvM) | 2:24 | 2022-04-01 | 2022-07-11 |
 | [New Transition](https://open.spotify.com/track/44r1pQrd6IshgUFKGE1YrJ) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [New Transition](https://open.spotify.com/album/5EixwwR5Qh4COnnrfIME3i) | 2:49 | 2022-04-01 | 2022-07-23 |
 | [No Ass](https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [No Ass](https://open.spotify.com/album/2Bi5R2jfPGIRDBB3mSC82o) | 2:27 | 2021-10-29 | 2022-07-29 |
-| [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-28 |  |
+| [No Diggity](https://open.spotify.com/track/74svMcorgPABViSTZka4yw) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [BEYGE](https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD) | [No Diggity](https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st) | 3:38 | 2022-01-28 | 2022-07-31 |
 | [No Fun](https://open.spotify.com/track/08Cz11QoQysCqgDONUVXmL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again, Pt\. 1](https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd) | 2:10 | 2022-07-22 |  |
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-21 | 2022-07-29 |
 | [No Joke](https://open.spotify.com/track/7kkgqUvwuGObCDQ2T7u9Mo) | [Frents](https://open.spotify.com/artist/4vc5Jd6VrKpKcsimzyMYFK) | [No Joke](https://open.spotify.com/album/559vyK5AT8NkA8jRFvrfsg) | 4:04 | 2022-06-21 | 2022-07-11 |

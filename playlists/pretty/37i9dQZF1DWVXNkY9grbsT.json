@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 25854,
+  "num_followers": 25897,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzA4NCwwMDAwMDAwMDE1ZTJmZWI0YjlhMGQ5NTM3YmEwYzZkNTFmZGVmMjFj",
+  "snapshot_id": "MTY1Nzg5MzA4NCwwMDAwMDAwMDg2ODE2MzUxN2IwZTNiN2I5ZmQyMzJhZDYwNTI4YTUz",
   "tracks": [
     {
       "added_at": "2022-07-15 13:51:24",
@@ -243,26 +243,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Unknown Tokyo",
-        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
-      },
-      "artists": [
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 245008,
-      "name": "Unknown Tokyo",
-      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Unknown Tokyo",
+        "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 245008,
+      "name": "Unknown Tokyo",
+      "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -367,6 +367,22 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
+        "name": "Quinto Relat\u00f3rio Anual",
+        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 217428,
+      "name": "Indonesia Print",
+      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Quinto Relat\u00f3rio Anual",
-        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b"
       },
       "artists": [
         {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
         }
       ],
-      "duration_ms": 217428,
-      "name": "Indonesia Print",
-      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -419,22 +435,6 @@
       "duration_ms": 274240,
       "name": "Torpid",
       "url": "https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Madre",
-        "url": "https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 427428,
-      "name": "Violo",
-      "url": "https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "Honest Labour",
         "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 126259,
       "name": "Meet Me At Sachas",
       "url": "https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Madre",
+        "url": "https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 427428,
+      "name": "Violo",
+      "url": "https://open.spotify.com/track/5syPwaSJSzNSB6ufaE6sI9"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "Our Hands Against the Dusk",
         "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 307080,
       "name": "The Edges",
       "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Night Journeys III",
-        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 388452,
-      "name": "Night Journeys III",
-      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 256146,
       "name": "A Journey",
       "url": "https://open.spotify.com/track/5fxfFBYhfCIBSU9LvHk0pF"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Night Journeys III",
+        "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 388452,
+      "name": "Night Journeys III",
+      "url": "https://open.spotify.com/track/0X1K4hXSSOg7bqtzoOTUix"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Vergers",
-        "url": "https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 512724,
-      "name": "Ghosts and All",
-      "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 207656,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Rushes Recede",
+        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 394863,
+      "name": "Rushes Recede",
+      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/5Pe3WSpP2eSJHgy3yNMpRj"
       },
@@ -1215,38 +1231,6 @@
       "duration_ms": 284988,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/6JXvHo8tnOEOJPJpFCcDmB"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
-        "name": "Rushes Recede",
-        "url": "https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 394863,
-      "name": "Rushes Recede",
-      "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
-      },
-      "artists": [
-        {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
-        }
-      ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1319,18 +1303,50 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
       "artists": [
         {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
         }
       ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Vergers",
+        "url": "https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 512724,
+      "name": "Ghosts and All",
+      "url": "https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Acrobatic Thoughts",
+        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 209112,
+      "name": "Fiction Of A Sea",
+      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1351,22 +1367,6 @@
       "duration_ms": 177682,
       "name": "Valley Candle",
       "url": "https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 209112,
-      "name": "Fiction Of A Sea",
-      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S"
-      },
-      "artists": [
-        {
-          "name": "Stefan Obermaier",
-          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
-        }
-      ],
-      "duration_ms": 356422,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "Pavel Milyakov & Bendik Giske",
         "url": "https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx"
       },
@@ -1451,6 +1435,38 @@
       "duration_ms": 190783,
       "name": "Untitled 2",
       "url": "https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/5rB8CO9WSynmwkAT6Cv56S"
+      },
+      "artists": [
+        {
+          "name": "Stefan Obermaier",
+          "url": "https://open.spotify.com/artist/7HV2r5sspVCo9LVNv5TiHf"
+        }
+      ],
+      "duration_ms": 356422,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/46Q4GzVpSvS9gxLcoZiXlc"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Acrobatic Thoughts",
+        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 452968,
+      "name": "Wandering Frames",
+      "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2022-07-15 13:51:24",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 327474,
-      "name": "Evensong",
-      "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 399893,
       "name": "Mir",
       "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
+    },
+    {
+      "added_at": "2022-07-15 13:51:24",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 327474,
+      "name": "Evensong",
+      "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
     },
     {
       "added_at": "2022-07-15 13:51:24",
@@ -1523,22 +1539,6 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
-    },
-    {
-      "added_at": "2022-07-15 13:51:24",
-      "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 452968,
-      "name": "Wandering Frames",
-      "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
     },
     {
       "added_at": "2022-07-15 13:51:24",

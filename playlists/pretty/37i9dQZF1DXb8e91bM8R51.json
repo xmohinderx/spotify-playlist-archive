@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 34116,
+  "num_followers": 34121,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDY2ZTczNDgwMjNkZGU1NDAxOTA4ZTFhNDYwM2JmNWEy",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMGZiYTgzNzA4MWFiM2UzN2IxN2VkYWFkYTI3ZmRjODYy",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -427,26 +427,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224638,
       "name": "Tommy Lee (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 108387,
-      "name": "In my lifetime (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Johnny P's Caddy",
         "url": "https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 108387,
+      "name": "In my lifetime (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Tetris",
+      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 280004,
       "name": "Walkin",
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Tetris",
-      "url": "https://open.spotify.com/track/7tQpKKS4Jis0pCotemeLdz"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "Doctor's Advocate",
+        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "Wouldn't Get Far",
+      "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "I Won [From F9 The Fast Saga Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/01RtA0qCjfGy0FY4ON23nD"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 226006,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/5FvXe5bz4nQQ4eBaitt4EC"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Doctor's Advocate",
-        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "Wouldn't Get Far",
-      "url": "https://open.spotify.com/track/39yRhjDdSTP4A7VehxBXDb"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "The House Is Burning [homies begged]",
+        "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
+      "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
         "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 281360,
       "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
       "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "The House Is Burning [homies begged]",
-        "url": "https://open.spotify.com/album/33ichA2TzIOdW248hRlqpH"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "RIP Young (feat. Project Pat & Juicy J) - Remix",
-      "url": "https://open.spotify.com/track/6GUiCjtZGTvgUKKm1w9mwG"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 135929,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Lay Wit Ya (feat. Duke Deuce)",
         "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 202331,
       "name": "Lay Wit Ya (feat. Duke Deuce)",
       "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6T1aChZ9bKA1grofm5PXnb"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 135929,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/0aRdS1yGIgzIMhpVYHkp6l"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/5hunE453smqc265otbv2n7"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 152478,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
         "name": "ARE YOU WITH THAT?",
         "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 172105,
       "name": "Shoot My Shot",
       "url": "https://open.spotify.com/track/1XKTvkeaZy5gueNNZYL7rE"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "So Cool",
-        "url": "https://open.spotify.com/album/5hunE453smqc265otbv2n7"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 152478,
-      "name": "So Cool",
-      "url": "https://open.spotify.com/track/1dKwfm7cjsj73CLjk3oReY"
     },
     {
       "added_at": "2022-07-08 03:01:00",

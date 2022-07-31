@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 00s. Cover: Linkin Park",
-  "num_followers": 4310657,
+  "num_followers": 4312069,
   "original_name": "00s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTQ2MCwwMDAwMDAwMDJhMTRiNDFiNGI5YmVhZmRkMGM2YzNiODVmYjJmNDAz",
+  "snapshot_id": "MTY1ODQxOTQ2MCwwMDAwMDAwMDYzYWJlM2UyOTRlOTdjZDgyYWVmYzc2OWY1OThlZWUx",
   "tracks": [
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "Hail To the Thief",
-        "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "There, There",
-      "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Runtastic - Power Workout (Vol. 1)",
         "url": "https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 253813,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "Hail To the Thief",
+        "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "There, There",
+      "url": "https://open.spotify.com/track/5h4y42RUKwYKYWgutNwvKP"
     },
     {
       "added_at": "2022-04-17 17:19:54",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-04-17 17:19:54",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Every Day Is Exactly The Same",
-      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
-    },
-    {
-      "added_at": "2022-04-17 17:19:54",
-      "album": {
         "name": "Lullabies To Paralyze",
         "url": "https://open.spotify.com/album/2OMdsA2I4RxrHCyogwKGvF"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 174026,
       "name": "Little Sister",
       "url": "https://open.spotify.com/track/0BqQWfhMrkpRAUCbdfdHUC"
+    },
+    {
+      "added_at": "2022-04-17 17:19:54",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Every Day Is Exactly The Same",
+      "url": "https://open.spotify.com/track/0ypg59NyOVCpWVzd0SUsT5"
     }
   ],
   "unique_name": "00s Rock Anthems",

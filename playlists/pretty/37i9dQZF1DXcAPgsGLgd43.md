@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 26 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 |
 | 27 | [Tribesmen \- Original Mix](https://open.spotify.com/track/3s6dh2duRyDcs3iu56CqgY) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Tribesmen](https://open.spotify.com/album/4zHC8hqVij0EsQ7l29PaQk) | 7:17 |
 | 28 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 |
-| 29 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
-| 30 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 29 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
+| 30 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 31 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
 | 32 | [Vagabundos](https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Vagabundos](https://open.spotify.com/album/3MRvGXMfy0mVQ4hzvhzr9j) | 2:37 |
 | 33 | [Overtime](https://open.spotify.com/track/3hOWWujfSbRwkxgpW1WXYy) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Overtime / Physically](https://open.spotify.com/album/5Y3RzD6ncjJQ8TKh1PKIED) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 45 | [La Vida](https://open.spotify.com/track/3zxC1jnND5QZ6adtUb7GP8) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [La Vida](https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg) | 3:15 |
 | 46 | [Calle ft\. Villanueva](https://open.spotify.com/track/4eHlj1PuYqkjmHRlLBpCjU) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Villanueva](https://open.spotify.com/artist/2FOAXoBtjc7RYFwNy1cZ2j) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:33 |
 | 47 | [La Fiesta](https://open.spotify.com/track/53xMyPShokgna72KTlwsXO) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU) | [La Fiesta](https://open.spotify.com/album/7IoX8LwlcVMZzqvbYhVqOy) | 4:26 |
-| 48 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 |
-| 49 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
+| 48 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 |
+| 49 | [Can't Have It](https://open.spotify.com/track/1TwJ9U24E9WtfUngEpadMf) | [SWAYLÓ](https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv) | [Can't Have It](https://open.spotify.com/album/65EAWbqxyp9658YllENyER) | 3:50 |
 | 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDM4Nzk0ZDkyYjY2YmMyYjBjOTVmYmI0YzRiMDZjNGU1`
+Snapshot ID: `MTY1MTU4OTc5NCwwMDAwMDAwMDE3Zjg0MTAxOTYxOTk1MjI5ZDMxMGI2MjlhMWJjMDMw`

@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZrmwZWFpDG.md) - [plain]
 | 29 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
 | 30 | [When A Fire Starts To Burn](https://open.spotify.com/track/7qVLZuvzNjyiy3TVtEBwBE) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:44 |
 | 31 | [Love Like You've Never Been Hurt Before](https://open.spotify.com/track/5BLOO0Tv08arWiZsgXzaW6) | [Orion](https://open.spotify.com/artist/4z5iNl5gkDue3cr1Yyh9wo), [Hedvig](https://open.spotify.com/artist/1R2q63hxPfTKNql9hD6nJs) | [Love Like You've Never Been Hurt Before](https://open.spotify.com/album/1VlM1DVDepPSxAkrcCfLJI) | 4:14 |
-| 32 | [Live Till I Die](https://open.spotify.com/track/2uvT6FX83vqPiCTS8BqcXM) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Live Till I Die](https://open.spotify.com/album/6fgTcuz0CObteAYLqrqp1g) | 3:05 |
+| 32 | [Live Till I Die](https://open.spotify.com/track/5uLhxRmdwNsXAi2vxIlEbv) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [A Good Idea \(International Version\)](https://open.spotify.com/album/47K6wDuAN3YG5cc2pZdQId) | 3:05 |
 | 33 | [All Night](https://open.spotify.com/track/15iosIuxC3C53BgsM5Uggs) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/59ZxtwIOD1wowkNvVHXqtP) | 3:07 |
 | 34 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 |
 | 35 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 36 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
 
-Snapshot ID: `MTQ5ODgxNTM0MSwwMDAwMDAwMDQxNjdlMGQxYjY4YTFkNGMzZjU3MmY5YzRlYjE1OTFi`
+Snapshot ID: `MTQ5ODgxNTM0MSwwMDAwMDAwMDgyZjA3NzViYzYwYzMxMjE5YTBhZWEzZDc2MjMzMDhi`

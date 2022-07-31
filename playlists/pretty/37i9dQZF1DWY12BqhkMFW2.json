@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 303894,
+  "num_followers": 303996,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDJiMTJlNzBkNzVjNmZlNWMyM2UxMjg5ODFmNDdlYzk2",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDEyYzVjYWM5NzVhODAzNzY3NDUzODJmMWUzNTA0MDRi",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -167,22 +167,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj"
-      },
-      "artists": [
-        {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Who Can I Run To",
-      "url": "https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "What's The 411?",
         "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 225333,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/6lwTyWDtJbJ3czkIkUBPoj"
+      },
+      "artists": [
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Who Can I Run To",
+      "url": "https://open.spotify.com/track/0wdaPticLmmqJdhgLDJ9zI"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 296066,
-      "name": "Yearning For Your Love",
-      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "I Missed Us",
         "url": "https://open.spotify.com/album/11nfQrY5KJRrnqSyvR3Fn8"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 309800,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/5G9j51Sxq2YjpNxeRkpcnJ"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
+      },
+      "artists": [
+        {
+          "name": "Guy",
+          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Yearning For Your Love",
+      "url": "https://open.spotify.com/track/59RsOKnsQT3UKLFtCgYUve"
     },
     {
       "added_at": "2021-01-15 05:01:00",

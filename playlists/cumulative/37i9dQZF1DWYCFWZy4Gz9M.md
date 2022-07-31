@@ -4,7 +4,7 @@
 
 > Ancient North African rhythms.
 
-71 songs - 7 hr 32 min - [published](https://open.spotify.com/playlist/3OgiyHJUCNeYIkZafUQepx)
+72 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/3OgiyHJUCNeYIkZafUQepx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,9 @@
 | [Baba Al Arabi](https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 4:14 | 2021-08-25 |  |
 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 | 2021-08-25 | 2022-07-29 |
 | [Baba Mimoun \(Father Mimoun\)](https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N) | [Altaf Gnawa Group](https://open.spotify.com/artist/25cHSgsQbrP9cJucrj2wbn) | [Altaf Gnawa Group: Gnawa \- Music From Morocco](https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7) | 6:15 | 2021-08-25 |  |
-| [Bala Yourki](https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN) | 5:37 | 2022-02-02 |  |
+| [Bala Yourki](https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x) | [Asmaa Hamzaoui](https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k), [Bnat Timbouktou](https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC) | [Oulad Lghaba](https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN) | 5:37 | 2022-02-02 | 2022-07-31 |
 | [Bambala](https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi) | [Nuru Kane](https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg) | [Exile](https://open.spotify.com/album/6OZheEwdy4ckrFIYUM6X2C) | 2:59 | 2021-08-25 | 2022-07-29 |
+| [Bambala](https://open.spotify.com/track/1qTqSAyzkJwo1rIGOowx9x) | [Nuru Kane](https://open.spotify.com/artist/5HwxklaAsHAD4xyK4SjGSg) | [Exile](https://open.spotify.com/album/6oHdyaxTfpSbA4791lwqkF) | 2:59 | 2022-03-10 |  |
 | [Bambraka](https://open.spotify.com/track/1m4tIPPUrlO4OIjz2A3u81) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/7dJ24qAFYEhAIYwMXwjR7D) | 7:24 | 2021-08-25 | 2022-07-29 |
 | [Bambraka](https://open.spotify.com/track/49CaWsZQFw6B37mbgSWdHr) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK), [Griselda Sanderson](https://open.spotify.com/artist/4x8C8KuFsIRjGluQFZ6ZZa) | [The Gnawa Caravan: Salt](https://open.spotify.com/album/00S0tQ90OytZxNKHtQRFlA) | 7:24 | 2022-03-10 |  |
 | [Bangara](https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Innov Gnawa](https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF) | 5:23 | 2021-08-25 |  |

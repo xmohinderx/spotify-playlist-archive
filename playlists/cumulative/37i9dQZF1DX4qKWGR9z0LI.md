@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Luis Figueroa
 
-196 songs - 15 hr 12 min - [published](https://open.spotify.com/playlist/4IbPQ76hDBnvYgVTXtYV8M)
+197 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/4IbPQ76hDBnvYgVTXtYV8M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [El Amor Mas Grande Del Planeta](https://open.spotify.com/track/5lgJByAmkgnisZYU6XwtJ2) | [Orquesta la Fuga de Cali](https://open.spotify.com/artist/1hKqqasAon1KaQurWRpuOe) | [El Amor Mas Grande Del Planeta](https://open.spotify.com/album/5ZfRJmapY2FJTavdzU6Bxy) | 4:10 | 2022-01-01 | 2022-04-28 |
 | [El Bailarín de la Avenida](https://open.spotify.com/track/6WXNXsF3F8oiqc0EGsCG20) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Salsa Brava Con Todos los Hierros](https://open.spotify.com/album/4HGxgo1ysteh87S9lsGvYe) | 4:08 | 2022-01-21 | 2022-05-28 |
 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 | 2022-01-01 | 2022-07-27 |
+| [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 | 2022-05-20 |  |
 | [El Dinero](https://open.spotify.com/track/0hUFHcJHCPsvq9F2ClNKxt) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/2xqB7zwRnJHhV4A0Sw5yMi) | 4:23 | 2022-05-20 | 2022-07-03 |
 | [El Dolor del Amor](https://open.spotify.com/track/3gk0FtOab0jeNSGKqVUYCH) | [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa), [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [El Dolor del Amor](https://open.spotify.com/album/3VaVRs5KYljDjd2FoAtv6e) | 4:42 | 2022-01-21 | 2022-02-09 |
 | [El Gran Varon](https://open.spotify.com/track/1N3G6QQfF0579fHoFQmMzi) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/7LXE7sKQkfDtOJJX3bFwdm) | 6:54 | 2022-01-01 | 2022-07-29 |
@@ -115,7 +116,7 @@
 | [Me Voy Pa'Cali](https://open.spotify.com/track/1OPOCKhIXHs8mg0TikYyjI) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Salsabor 2](https://open.spotify.com/album/3injVZQOTM5r4G8Issf5Kz) | 4:05 | 2022-01-21 | 2022-01-30 |
 | [Medley](https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK) | [Louie Ramirez](https://open.spotify.com/artist/3ZRoChGFOnnQgeTiMo0o8L), [Ray De La Paz](https://open.spotify.com/artist/7vCuHLeYJEynulecY53BwH) | [Otra Noche Caliente](https://open.spotify.com/album/7zeeEkM8eS4wWZARO6QMaM) | 7:19 | 2022-01-01 | 2022-05-24 |
 | [Mi Propiedad Privada](https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Mi Propiedad Privada](https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR) | 4:12 | 2022-01-01 |  |
-| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 |  |
+| [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 | 2022-01-01 | 2022-07-31 |
 | [Mis Ojos Lloran por Tí](https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Mis Ojos Lloran por Tí](https://open.spotify.com/album/1Yfa4XmFw6Y7L7YIKSPG7R) | 4:18 | 2022-01-01 |  |
 | [Muchachita](https://open.spotify.com/track/1bZ3HVLOlIKEe7RPeq3ByD) | [Sabotage](https://open.spotify.com/artist/1KNORYnqVhiI74Daro0xop) | [Salsa Andina](https://open.spotify.com/album/4KoUwHSjUGM9nYM7cNEp9M) | 3:49 | 2022-01-21 | 2022-02-25 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-03-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 39294,
+  "num_followers": 39621,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwODcxMSwwMDAwMDAwMGI1ZjYyNmZmNjY2OTE1NGUxYzMxZDQyOTYwMjFlYzFh",
+  "snapshot_id": "MTY1NzkwODcxMSwwMDAwMDAwMDdmNWQ1YTFjNmUwMWFkMDMwNmNiZTA5OGU0YzZjOTU5",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Grind / Prelims",
-        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
-      },
-      "artists": [
-        {
-          "name": "Les Sins",
-          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Grind / Prelims",
+        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
+      },
+      "artists": [
+        {
+          "name": "Les Sins",
+          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
+        }
+      ],
+      "duration_ms": 318014,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Hustler's Lullaby",
+        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+      },
+      "artists": [
+        {
+          "name": "Rick Wade",
+          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Shinjuku Strut",
+      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Better When We're Close",
         "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
       },
@@ -811,18 +827,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Hustler's Lullaby",
-        "url": "https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z"
+        "name": "Carnavalera",
+        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
       },
       "artists": [
         {
-          "name": "Rick Wade",
-          "url": "https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 314181,
-      "name": "Shinjuku Strut",
-      "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+      "duration_ms": 227984,
+      "name": "Carnavalera",
+      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -847,26 +867,6 @@
       "duration_ms": 268956,
       "name": "Xica Xica",
       "url": "https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Carnavalera",
-        "url": "https://open.spotify.com/album/2nlKetdWi0Kc4RU1Xe5SPb"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 227984,
-      "name": "Carnavalera",
-      "url": "https://open.spotify.com/track/2qyyS2lOdC7oxZDQ7tCuY0"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -939,30 +939,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml"
       },
@@ -999,22 +975,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Ch'usay Remixes",
         "url": "https://open.spotify.com/album/246AUaB8i3CzFdfpSZHcBX"
       },
@@ -1031,6 +991,46 @@
       "duration_ms": 207621,
       "name": "Paso a Huella - Captain Planet Remix",
       "url": "https://open.spotify.com/track/31riMJMbPsDBPpHS5Yi0Ja"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amor Entre Mujer",
+        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+      },
+      "artists": [
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Polocorp",
+          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 272799,
+      "name": "Amor Entre Mujer",
+      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Sentir",
         "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 228194,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-06-15 04:26:09",

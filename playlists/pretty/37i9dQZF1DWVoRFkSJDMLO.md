@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > Inspired by African drums\. Cover: Fireboy DML 🇳🇬
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,201 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,382 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 41 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 |
 | 42 | [Be My Luv](https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7) | [Mut4y](https://open.spotify.com/artist/5eWt7HdpWwlidAEBcNtqWQ), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Be My Luv](https://open.spotify.com/album/4RDXWNXefxndbzqREBH6IA) | 3:43 |
 | 43 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 |
-| 44 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [LEGACY](https://open.spotify.com/artist/6PDOhuTlQgb9jWwkZ3YwM5) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
+| 44 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
 | 45 | [BIZNIZ](https://open.spotify.com/track/2JnRLwbR4rt4jUUkf0QEnL) | [Tifa](https://open.spotify.com/artist/0SC0umMk5cSHBN8zAVc4TA) | [BIZNIZ](https://open.spotify.com/album/3Jj0KbzCqD0Y3brjzU69fQ) | 3:03 |
 | 46 | [Vroom \- The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo\| PS5, PS4 \- from GRAN TURISMO 7](https://open.spotify.com/track/4hZNSCK6fy05GaXeoWMIT0) | [The FaNaTiX](https://open.spotify.com/artist/3pZyDeGMNPAWHdFe2K4ud1), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Find Your Line: Official Music from GRAN TURISMO 7](https://open.spotify.com/album/0VVYMxNznX0GKHqXNxptg6) | 3:57 |
 | 47 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 |

@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 23135,
+  "num_followers": 23200,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5MDk5OCwwMDAwMDAwMGJiNjlmMzIyYmJkMTg3MzMwN2Y4ZTQzMTE5MjYxOGMz",
+  "snapshot_id": "MTY1OTA5MDk5OCwwMDAwMDAwMGVmOWM3MjQxZDdkNjQzMWNlYTg1OGEwM2U0YTI3NDg1",
   "tracks": [
     {
       "added_at": "2022-07-29 10:36:38",
@@ -276,7 +276,7 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 247400,
+      "duration_ms": 247506,
       "name": "I Ain't Drunk - Remastered",
       "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-29 10:36:38",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 136013,
-      "name": "Hate To See You Go",
-      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
-    },
-    {
-      "added_at": "2022-07-29 10:36:38",
-      "album": {
         "name": "Sharecropper's Son",
         "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 186960,
       "name": "Sharecropper\u2019s Son",
       "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2022-07-29 10:36:38",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 136013,
+      "name": "Hate To See You Go",
+      "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
     },
     {
       "added_at": "2022-07-29 10:36:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-07-29 10:36:38",
       "album": {
-        "name": "Georgia Women",
-        "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Georgia Women",
-      "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
-    },
-    {
-      "added_at": "2022-07-29 10:36:38",
-      "album": {
         "name": "Leave This House",
         "url": "https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi"
       },
@@ -559,22 +543,6 @@
       "duration_ms": 209098,
       "name": "Leave This House",
       "url": "https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP"
-    },
-    {
-      "added_at": "2022-07-29 10:36:38",
-      "album": {
-        "name": "Baby We're Through",
-        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
     },
     {
       "added_at": "2022-07-29 10:36:38",
@@ -595,6 +563,38 @@
     {
       "added_at": "2022-07-29 10:36:38",
       "album": {
+        "name": "Baby We're Through",
+        "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F"
+    },
+    {
+      "added_at": "2022-07-29 10:36:38",
+      "album": {
+        "name": "Georgia Women",
+        "url": "https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Georgia Women",
+      "url": "https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g"
+    },
+    {
+      "added_at": "2022-07-29 10:36:38",
+      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-07-29 10:36:38",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
         }
       ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+      "duration_ms": 146333,
+      "name": "Shake Your Money-Maker",
+      "url": "https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3"
     },
     {
       "added_at": "2022-07-29 10:36:38",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-07-29 10:36:38",
       "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
         {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Shake Your Money-Maker",
-      "url": "https://open.spotify.com/track/5GHZ9UH4L3r6UK1A2zHWf3"
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": "2022-07-29 10:36:38",

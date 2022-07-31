@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-228 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
+230 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/3Icin3X1CyEouQNp33mzQK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Like](https://open.spotify.com/track/451Wlo4YKU4eqHYMQ2oo7p) | [Joan Armatrading](https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6) | [Like](https://open.spotify.com/album/5HcJq3LRmc7wAa7P0kbO03) | 3:03 | 2021-12-03 | 2022-07-29 |
 | [Little Bird](https://open.spotify.com/track/5tPyzRPQpJszN4KLCPEUHz) | [Jasmine Cephas\-Jones](https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF) | [Little Bird](https://open.spotify.com/album/12aN2RNHcq6NI6nYizfOPJ) | 4:25 | 2021-12-03 | 2022-07-27 |
 | [Little Dreams](https://open.spotify.com/track/5ySTtFNrmdMaLv41GutsKN) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Little Dreams](https://open.spotify.com/album/4TLbnCNvnaGKTZjqxorRQM) | 3:27 | 2022-04-08 | 2022-07-29 |
-| [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 |  |
+| [Living My Best Life](https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:35 | 2022-01-07 |  |
+| [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 | 2022-07-31 |
 | [Living with Your Memory](https://open.spotify.com/track/6aCrKdFRzobnkNT65cDGUe) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Living with Your Memory](https://open.spotify.com/album/4BxjNBVsvFNvDBebXVPfrn) | 3:14 | 2022-04-01 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/3uniYjDIM3FZEdL2fE1MLc) | [Local Nomad](https://open.spotify.com/artist/48Dewct2nrCHCT3NvDcydV), [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Lonely](https://open.spotify.com/album/15sFi94U2Y45drc3e8mD6U) | 3:42 | 2021-12-03 | 2022-07-27 |
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2022-07-29 |
@@ -193,7 +194,8 @@
 | [Smooth Sailin'](https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:03 | 2021-12-03 |  |
 | [Something Special](https://open.spotify.com/track/2217ssMvgWOyaZmvTWP9IA) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Something Special](https://open.spotify.com/album/1jZ8YbczykhDOgMH8MTzT9) | 2:30 | 2021-12-03 | 2022-07-29 |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-04-22 |  |
-| [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 |  |
+| [Steady Love](https://open.spotify.com/track/0ZpcK7pDA45LAVQFTJ2ieb) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/6Dy4vBbWht1kb3ITtTfqZA) | 3:44 | 2022-02-11 | 2022-07-31 |
+| [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 | 2022-02-11 |  |
 | [Steam](https://open.spotify.com/track/6NZxPVrQaI1KofbYe9NBMr) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 3:23 | 2021-12-03 | 2022-07-29 |
 | [Still Life](https://open.spotify.com/track/5OKQlPktbklnSDGm5MqDZB) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Still Life](https://open.spotify.com/album/3w9FXwCNHX7GuFcmJSwJiw) | 3:12 | 2021-12-03 | 2022-07-29 |
 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 | 2021-12-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 70355,
+  "num_followers": 70361,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMDg0MTE0ZDZkN2E1ZWVmMmVmNWUxNDJhMWRjYjhkZGRk",
+  "snapshot_id": "MTU5MTE5NDc5MCwwMDAwMDAwMGQ5MmUyYzIzZGQ5ZGFiNDZmM2Q5NjU3MDg1YzE4M2Yy",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -531,22 +531,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Dear Future Me",
-        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
-      },
-      "artists": [
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        }
-      ],
-      "duration_ms": 276423,
-      "name": "I Forgive Me",
-      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "More Than Anything (Radio Edit)",
         "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 380493,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/6PWZf2hUR9TCA4DsmClUo6"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 380493,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
     },
     {
       "added_at": "2020-06-03 14:33:10",

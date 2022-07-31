@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > Best Latin Indie tracks right now\. Cover: Katzú Oso
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,010 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,018 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 57 | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/track/40q4bzLjO9zqBIZYP442af) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Espera \(feat\. Carlos Sadness\)](https://open.spotify.com/album/0AZHlKXAlrkRx6iPs3s2dX) | 3:52 |
 | 58 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 | 59 | [Alone in the Universe](https://open.spotify.com/track/5fiIW6iNDuremm3HJTTAFE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:24 |
-| 60 | [Scab](https://open.spotify.com/track/5ntc7RlZu43qOqNsHfEseg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/74qi2MyJ2r82E283Uswsih) | 3:47 |
+| 60 | [Sublime](https://open.spotify.com/track/2OopMiTOI0OK8LrSecb2tx) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sublime](https://open.spotify.com/album/7wYv7jBQ54qgw960zbttnB) | 3:24 |
 | 61 | [Eva](https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Eva](https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl) | 3:44 |
-| 62 | [Sublime](https://open.spotify.com/track/2OopMiTOI0OK8LrSecb2tx) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sublime](https://open.spotify.com/album/7wYv7jBQ54qgw960zbttnB) | 3:24 |
+| 62 | [Scab](https://open.spotify.com/track/5ntc7RlZu43qOqNsHfEseg) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/74qi2MyJ2r82E283Uswsih) | 3:47 |
 | 63 | [Time](https://open.spotify.com/track/2sf1UtuCg2v7yzw60vKbKa) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Time](https://open.spotify.com/album/5YGgLlHGBZlz7qqei5OyfC) | 3:10 |
 | 64 | [June](https://open.spotify.com/track/2J1htdIomT0zFKTwgZqvje) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [June](https://open.spotify.com/album/67dB9LV4IAaWDqcRBHFmTw) | 2:39 |
 | 65 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 92 | [Tired of Being Myself](https://open.spotify.com/track/2kHcoV7wxu9TbkWszjjqtd) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [And The World Will Turn](https://open.spotify.com/album/2Nqo50XH25HzSnhX0NilwL) | 3:41 |
 | 93 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 94 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 |
-| 95 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
-| 96 | [It Don't Hinder Me](https://open.spotify.com/track/20NcNGiCS2ifsMOBXH7GEr) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Cha Cha Palace](https://open.spotify.com/album/4MvRbM7CB8o7mxMyNkPOIh) | 4:19 |
-| 97 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 |
+| 95 | [Flor](https://open.spotify.com/track/1VGZbTAP1DVkA6Wa8MaqLM) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Agüita: Remixes](https://open.spotify.com/album/2AW8yUOeKjNxwkqXU8Cs39) | 3:09 |
+| 96 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
+| 97 | [It Don't Hinder Me](https://open.spotify.com/track/20NcNGiCS2ifsMOBXH7GEr) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Cha Cha Palace](https://open.spotify.com/album/4MvRbM7CB8o7mxMyNkPOIh) | 4:19 |
 | 98 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 |
 | 99 | [Drive \- Edit](https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Drive](https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf) | 3:56 |
 | 100 | [Secuestro Al Corazón](https://open.spotify.com/track/17iFYr5wL9jN23PZCitJmi) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Secuestro Al Corazón](https://open.spotify.com/album/6xqaapMrs0H4rFEuB5Ai1W) | 3:13 |
 
-Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMDdiZGQ1N2EyN2Y1MjliN2JiYzQ2MDJlMWIzYjc0MjM3`
+Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMDZlYTI1NzhiMjM2NzhlYTBhYjkxZTkxOTc3NGE4NGE5`

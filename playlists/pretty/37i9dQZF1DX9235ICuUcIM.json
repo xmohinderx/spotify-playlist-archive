@@ -1,12 +1,12 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 217945,
+  "num_followers": 218164,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5MTQyNywwMDAwMDAwMDM3NGY4NjkxNjAyNjMwMzhjYWU0OTc3YjdmYTJiMzk0",
+  "snapshot_id": "MTY1NDE5MTQyNywwMDAwMDAwMDVkOTJiZWNlZmE5NzUzZTIzZGQxYmE2YTI0MzEzOTcy",
   "tracks": [
     {
       "added_at": "2022-06-02 17:37:07",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-06-02 17:37:07",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2022-06-02 17:37:07",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2022-06-02 17:37:07",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2022-06-02 17:37:07",

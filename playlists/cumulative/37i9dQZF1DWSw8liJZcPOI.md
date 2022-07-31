@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-386 songs - 1 day 3 hr 20 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
+387 songs - 1 day 3 hr 22 min - [published](https://open.spotify.com/playlist/1ETtqPKkXByhWILIPwHSkw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Cïrcles](https://open.spotify.com/track/6k32A06rSN0WplU8uRGpwd) | [Jesse Watt](https://open.spotify.com/artist/3WoZYV06t8ZPhNGIFJXVDC) | [Cïrcles](https://open.spotify.com/album/1D2upzqCbmWXSLELjWtgpZ) | 6:34 | 2020-10-23 | 2021-01-15 |
 | [Dawn Chorus](https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Dawn Chorus](https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD) | 3:28 | 2021-02-06 | 2021-02-12 |
 | [Dear, Utopia \- Jameson Nathan Jones Rework](https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Jameson Nathan Jones](https://open.spotify.com/artist/3elvqJwCi7gKIbXv4WOyCr) | [Dear, Utopia \(Jameson Nathan Jones Rework\)](https://open.spotify.com/album/25noccA6V1reADvLJZUKb6) | 3:41 | 2020-10-20\* | 2022-07-29 |
-| [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-06 |  |
+| [Delicately](https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi), [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Anna De Bruin](https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4) | [Delicately](https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85) | 2:03 | 2022-05-06 | 2022-07-31 |
 | [Deux Pensées](https://open.spotify.com/track/4jgazYikKO5Xhctuhc0snS) | [Darker In Vine](https://open.spotify.com/artist/58jh9fSzagZAZLbetSDIIg) | [Deux Pensées](https://open.spotify.com/album/25AWPRVmAbWIiGe7pIm9xA) | 2:49 | 2020-10-21 |  |
 | [Dilo 33](https://open.spotify.com/track/33W8Y0phMRh83gYfWDWGey) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [Dilo 33](https://open.spotify.com/album/1q0j386pOYycBYSjTcBWh6) | 3:18 | 2021-02-13 | 2021-03-18 |
 | [Dimensions](https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 5:39 | 2021-03-30 | 2022-06-03 |
@@ -318,6 +318,7 @@
 | [Suite No\. 1: III\. —](https://open.spotify.com/track/3yd2fHC5lVJoVVobdUOFVW) | [Edouard Cheritel](https://open.spotify.com/artist/2u9if8SzeaZf04Me5GREqm) | [Suite No\. 1: III\. —](https://open.spotify.com/album/7eK9M9nrHH7KGC09gXsP1q) | 3:26 | 2020-10-20\* | 2022-04-14 |
 | [Summer Water](https://open.spotify.com/track/7tJfLTXPAMupVClgG4HrYN) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 3:41 | 2020-12-04 | 2020-12-11 |
 | [Sun Will Set](https://open.spotify.com/track/4P1NbXfy88kP5QpV4pcWVh) | [Zoë Keating](https://open.spotify.com/artist/6OHXnLZCeWUwtdDsBdqOdr) | [One Cello x 16: Natoma](https://open.spotify.com/album/5SUnDPHqiYfmLcIKtINU62) | 7:56 | 2021-02-06 | 2021-02-12 |
+| [Surfaced \- From "Surface"](https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:28 | 2022-07-29 |  |
 | [Surges \(variation\)](https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Surges \(variation\)](https://open.spotify.com/album/2NYJCfJw0LhEwPccv3e9Fy) | 5:20 | 2020-10-21 | 2022-06-20 |
 | [Søndag](https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo) | [Søndag Søndag](https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H) | [Søndag](https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP) | 3:13 | 2020-11-13 | 2022-06-05 |
 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 | 2020-10-20\* | 2022-07-29 |

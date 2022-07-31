@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2010! Cover: Bruno Mars",
-  "num_followers": 4691,
+  "num_followers": 4696,
   "original_name": "Le Hit Del 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDE5OSwwMDAwMDAwMDU1ZmUyMjkyNzE2YmMzYjFhMWRhZmNlNDgzNmYwODI4",
+  "snapshot_id": "MTYwNDUwMDE5OSwwMDAwMDAwMGQ1NDM5YTlmMDgxMzI5OGIyNGFjYTcwZDdlOWJhMWQ0",
   "tracks": [
     {
       "added_at": "2020-11-04 14:29:59",
@@ -99,26 +99,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "My World 2.0",
-        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 270520,
       "name": "Stylo (feat. Mos Def and Bobby Womack)",
       "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
         "name": "Nothing (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/1yy1UWlWsmbOJzQmcHlMyx"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 204013,
       "name": "Hot-n-Fun",
       "url": "https://open.spotify.com/track/3o3kju9CMP1JxKsjLOpQhp"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Tracks 2 (Inediti & Rarit\u00e0)",
-        "url": "https://open.spotify.com/album/4yuHYyif9yEp1P4Bi1VjwP"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Sto Pensando A Te",
-      "url": "https://open.spotify.com/track/6XgEky1VCYS23OuhAAG2bQ"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Inaspettata",
         "url": "https://open.spotify.com/album/5lXm3QkvYcZFvqElZrnvhY"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 216653,
       "name": "Se fosse per sempre",
       "url": "https://open.spotify.com/track/1LsUxHjzjJitdPHm9g7zWX"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Tracks 2 (Inediti & Rarit\u00e0)",
+        "url": "https://open.spotify.com/album/4yuHYyif9yEp1P4Bi1VjwP"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Sto Pensando A Te",
+      "url": "https://open.spotify.com/track/6XgEky1VCYS23OuhAAG2bQ"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
-        "name": "Mod\u00e0 2004 - 2014 L'Originale",
-        "url": "https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y"
-      },
-      "artists": [
-        {
-          "name": "Mod\u00e0",
-          "url": "https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu"
-        }
-      ],
-      "duration_ms": 334746,
-      "name": "La Notte",
-      "url": "https://open.spotify.com/track/4hV8ACKGheZPZKBY5qhHB3"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
         "name": "Head First",
         "url": "https://open.spotify.com/album/1wwazNvPsfWfQU6vkmZiR4"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 231333,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1AWObBqIxRl6GoGu5uCVkx"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
+        "name": "Mod\u00e0 2004 - 2014 L'Originale",
+        "url": "https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y"
+      },
+      "artists": [
+        {
+          "name": "Mod\u00e0",
+          "url": "https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu"
+        }
+      ],
+      "duration_ms": 334746,
+      "name": "La Notte",
+      "url": "https://open.spotify.com/track/4hV8ACKGheZPZKBY5qhHB3"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
+        "name": "Eliza Doolittle",
+        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
+      },
+      "artists": [
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Pack Up",
+      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
         "name": "Dream - Solo I Sogni Sono Veri - Extradream Edition",
         "url": "https://open.spotify.com/album/0dmrWCA23hVEet694BzRG1"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 211280,
       "name": "Salvami",
       "url": "https://open.spotify.com/track/6Q5U2hmwd4IjMa6STRkOQ6"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
-        "name": "Eliza Doolittle",
-        "url": "https://open.spotify.com/album/0brOx4BkI3TmEqWcXRExUe"
-      },
-      "artists": [
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Pack Up",
-      "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
     },
     {
       "added_at": "2020-11-04 14:29:59",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2020-11-04 14:29:59",
       "album": {
+        "name": "C'eravamo tanto odiati",
+        "url": "https://open.spotify.com/album/74anEVpxxV7P1pJpz9WGJ5"
+      },
+      "artists": [
+        {
+          "name": "Due Di Picche",
+          "url": "https://open.spotify.com/artist/0V8lCoAW5LzXPQEKouD7P5"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Fare a meno di te",
+      "url": "https://open.spotify.com/track/2r9F9jgBfQEKJyuqnTpM8Y"
+    },
+    {
+      "added_at": "2020-11-04 14:29:59",
+      "album": {
         "name": "Casa 69",
         "url": "https://open.spotify.com/album/5YhDKpeOKxuCeYf7iLj5Wj"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 253813,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/6X5DnbDW9n8mbvKoKTEuAt"
-    },
-    {
-      "added_at": "2020-11-04 14:29:59",
-      "album": {
-        "name": "C'eravamo tanto odiati",
-        "url": "https://open.spotify.com/album/74anEVpxxV7P1pJpz9WGJ5"
-      },
-      "artists": [
-        {
-          "name": "Due Di Picche",
-          "url": "https://open.spotify.com/artist/0V8lCoAW5LzXPQEKouD7P5"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Fare a meno di te",
-      "url": "https://open.spotify.com/track/2r9F9jgBfQEKJyuqnTpM8Y"
     },
     {
       "added_at": "2020-11-04 14:29:59",

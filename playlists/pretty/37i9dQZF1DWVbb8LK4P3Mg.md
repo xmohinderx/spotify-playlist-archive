@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,832 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,828 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 22 | [Maybe Christmas \- Orchestra Version](https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [Maybe Christmas \(Orchestra Version\)](https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2) | 5:03 |
 | 23 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 |
 | 24 | [What I Want For Christmas](https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life](https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM) | 3:22 |
-| 25 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [dyhe](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 |
+| 25 | [FOCUS](https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q) | [Dyhe](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [FOCUS](https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af) | 2:26 |
 | 26 | [Let Me Know \- Bonus Track](https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Another Sad Love Song](https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE) | 3:04 |
 | 27 | [겨울나무 I’m all ears](https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 3:35 |
 | 28 | [I Need You](https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [I Need You](https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL) | 3:26 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 74 | [starry night](https://open.spotify.com/track/2Ngtq0z4NF96LsW5x0O5sP) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw), [WOORIZARI 우리자리](https://open.spotify.com/artist/4wSK8ZJdJbAcWLwMcUXIFb) | [BLACKYPLATFORM](https://open.spotify.com/album/68M29UPBO2BxSIIxNBZmLg) | 3:41 |
 | 75 | [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 |
 | 76 | [White Christmas](https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [White Christmas](https://open.spotify.com/album/5dAGDyJZlGs5q734ZoVQYM) | 3:13 |
-| 77 | [Last Christmas](https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb) | [B.I.G](https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R) | [Last Christmas](https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa) | 3:24 |
-| 78 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 |
+| 77 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 |
+| 78 | [Last Christmas](https://open.spotify.com/track/4lJhsgN4GVDWOsZTpYN1Sb) | [B.I.G](https://open.spotify.com/artist/6gHyYB83BQlGKpqbn57D8R) | [Last Christmas](https://open.spotify.com/album/27brxcSO7wHNJbtoUFALaa) | 3:24 |
 | 79 | [Jingle All Night](https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ) | [Soovi](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [Jingle All Night](https://open.spotify.com/album/2rFML9EpjokJoy5FK5ewVi) | 3:17 |
 | 80 | [Just Christmas \- 2018 Remastered Ver.](https://open.spotify.com/track/1a1S62JgjgBq5L7vdXwYWV) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Be Your Christmas](https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV) | 3:16 |
 | 81 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 85 | [Christmas Train](https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB) | [Linus' Blanket](https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy) | [Semester](https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy) | 3:39 |
 | 86 | [Winter Land](https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [The Christmas Book Page 2](https://open.spotify.com/album/3qJNim41qjH0Z2gJlxujh3) | 3:59 |
 | 87 | [Winter Wonderland](https://open.spotify.com/track/45sxPvfsHzXddeuE7jFF2q) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [The Barberettes Carol : Hun Hun Christmas](https://open.spotify.com/album/0GSFgTuBL8tmDe4c0CxaJB) | 4:37 |
-| 88 | [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 |
-| 89 | [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 |
+| 88 | [Wish me a merry Christmas \(I need somebody part.2\)](https://open.spotify.com/track/15lrRt7YJ9Y0qHGv7IQQjy) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Wish me a merry Christmas](https://open.spotify.com/album/11o0qsRA6brSkexADT8C5Q) | 4:03 |
+| 89 | [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 |
 | 90 | [Like Christmas](https://open.spotify.com/track/3PeIvDEnn0o7EH4uBc4JY8) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Like Christmas](https://open.spotify.com/album/1nKUE9kMGJ0MtssOmUzutw) | 2:38 |
 | 91 | [Best Christmas Ever](https://open.spotify.com/track/6hDPNRduaE4doDCFpOOVGf) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [A Very Special Christmas 25th Anniversary](https://open.spotify.com/album/4hj1YWhD0NfnO22F8rm21b) | 3:56 |
 | 92 | [Snow Sun](https://open.spotify.com/track/6GdN5lAB4HElwDaM3kwBpp) | [아워멜츠 Hourmelts](https://open.spotify.com/artist/3Ue4HVGXS6n6Jt468Vn1mc) | [Twenties = Love](https://open.spotify.com/album/14Sebf3pWuvGSdYsbx5BkN) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Merry Christmas JAM!](https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [Choi Joon](https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts) | [Merry Christmas JAM!](https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi) | 2:55 |
 | 100 | [Your Christmas](https://open.spotify.com/track/1iVa2ZhhxEnP2KyVv9vLtA) | [Benaddict](https://open.spotify.com/artist/3hg1nO3FOk4vcE4DeundPz) | [Your Christmas](https://open.spotify.com/album/2WMyiJMS8Jyi4XTnrOuQz9) | 3:57 |
 
-Snapshot ID: `MTY0MDA5Nzc2MCwwMDAwMDAwMGIxYzAzOTI2M2FmYWNkN2QwZGMxODlkMGEzYzhiODY4`
+Snapshot ID: `MTY0MDA5Nzc2MCwwMDAwMDAwMDlkODI5MDRlZDZhYmNhNzZiNjJiNTFkMjQ2ZTc0ODI2`

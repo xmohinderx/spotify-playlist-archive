@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > This month: songs from an iconic era of Black film soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,121 likes - 37 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,130 likes - 37 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 13 | [Top Shotter](https://open.spotify.com/track/15fphOUhL5KyT8pWbP2zxA) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Belly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Z4BjsVx8KRQwegUl2zJ2R) | 3:22 |
 | 14 | [Da' Butt \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1erQfISWXcYiSsTEYSaNUe) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 5:14 |
 | 15 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
-| 16 | [Touch Me Tease Me](https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 3:52 |
-| 17 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
+| 16 | [Hopeless \(From the New Line Cinema Film, "Love Jones"\)](https://open.spotify.com/track/1JzVKAvm4ZF74G6xhuRu5G) | [Dionne Farris](https://open.spotify.com/artist/7HO1DbzU86pWWp1vBN7l6k) | [Love Jones The Music](https://open.spotify.com/album/4JAftHLhvqnVkFL3f4hv0Z) | 3:54 |
+| 17 | [Touch Me Tease Me](https://open.spotify.com/track/2tNDbNMvpgK8QlucdLcIBD) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Nutty Professor](https://open.spotify.com/album/0ijzuoEwsrAGg6vMHRXigc) | 3:52 |
 | 18 | [Why You Get Funky On Me \- From "House Party" Soundtrack](https://open.spotify.com/track/4EmdSvY5pvzu9COEtPOiR0) | [Today](https://open.spotify.com/artist/3pDK1CHKwrk6hCTqos024e) | [House Party \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5bobERbX18vZzl9NNrIHUT) | 3:44 |
 | 19 | [Not Gon' Cry \- from Waiting to Exhale \- Original Soundtrack](https://open.spotify.com/track/78wi1g772j8eJPEnD8rr9z) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:58 |
 | 20 | [Exhale \(Shoop Shoop\) \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/4sXxfkCWgVTrtnth4mJ5Tp) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 3:24 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 | 36 | [My Fantasy \- From "Do The Right Thing" Soundtrack](https://open.spotify.com/track/0f1uqm2rwQACn7mRbGQiOR) | [Teddy Riley](https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw), [Guy](https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8) | [Do The Right Thing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39gQ1HiUS295YJs1NgRxkc) | 4:57 |
 | 37 | [Be One \- From The "School Daze" Soundtrack](https://open.spotify.com/track/1EF7lcwgxH3Np3fcE3v81t) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [School Daze \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT) | 4:36 |
 
-Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMDg4NjUxNTNmZWFiNzUwZTYxYmUwY2NlYjczZjI1NDA5`
+Snapshot ID: `MTYxMjI3OTg5OSwwMDAwMDAwMGI2YjAzMGFlNjc3NzM3Y2U5NjY1NDZhODcwNGI3MjU5`

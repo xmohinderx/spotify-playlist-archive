@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: RYM",
-  "num_followers": 13966,
+  "num_followers": 13979,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAwOTg4NiwwMDAwMDAwMGIxOTcxZjA2ODg4YmFmODcwYzI3Y2E2YmI0NjU5YjMy",
+  "snapshot_id": "MTY1OTAwOTg4NiwwMDAwMDAwMGUwMGUyMjA1NDllY2MxMmE0YWMyNjFmZDkwN2Y3NjQw",
   "tracks": [
     {
       "added_at": "2022-07-28 12:04:46",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-07-28 12:04:46",
       "album": {
+        "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
+        "url": "https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy"
+      },
+      "artists": [
+        {
+          "name": "Kadejah Moaath | \u062e\u062f\u064a\u062c\u0629 \u0645\u0639\u0627\u0630",
+          "url": "https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv"
+        }
+      ],
+      "duration_ms": 208764,
+      "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
+      "url": "https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi"
+    },
+    {
+      "added_at": "2022-07-28 12:04:46",
+      "album": {
         "name": "Romansiya",
         "url": "https://open.spotify.com/album/2QVGKT995oqS7roo29KHza"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 213616,
       "name": "Mazar",
       "url": "https://open.spotify.com/track/7eImI2kX2WQWqp1fJACLCP"
-    },
-    {
-      "added_at": "2022-07-28 12:04:46",
-      "album": {
-        "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
-        "url": "https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy"
-      },
-      "artists": [
-        {
-          "name": "Kadejah Moaath | \u062e\u062f\u064a\u062c\u0629 \u0645\u0639\u0627\u0630",
-          "url": "https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv"
-        }
-      ],
-      "duration_ms": 208764,
-      "name": "\u0627\u062f\u0631\u064a \u062c\u0631\u062d\u062a\u0643",
-      "url": "https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi"
     }
   ],
   "unique_name": "EQUAL Arabia ",

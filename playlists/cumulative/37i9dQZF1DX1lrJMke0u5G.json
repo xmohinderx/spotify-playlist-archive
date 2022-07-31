@@ -757,10 +757,28 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 242787,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/3yAaXDb3MoBz0UO8DeYIoa"
+    },
+    {
+      "album": {
+        "name": "Pacto de Sangre",
+        "url": "https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT"
+      },
+      "artists": [
+        {
+          "name": "Nagual",
+          "url": "https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-755 songs - 1 day 17 hr 52 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+756 songs - 1 day 17 hr 57 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [DALE](https://open.spotify.com/track/4BVn3RIQ4gZxxytx8duidP) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [DALE](https://open.spotify.com/album/0MNPF6dmnLWxPypu6wVJH5) | 2:11 | 2020-05-22\* | 2020-07-01 |
 | [Dame Mas](https://open.spotify.com/track/0JZdzytn0hL7Zzr538YEos) | [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Soff](https://open.spotify.com/artist/7w1nxdMHMb92psp9qhI9mM) | [Dame Mas](https://open.spotify.com/album/0APfj52qXDE1HGaKGhFQJs) | 6:25 | 2022-04-29 | 2022-05-14 |
 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 | 2020-05-22\* | 2022-04-12 |
-| [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 | 2021-11-20 |  |
+| [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 | 2021-11-20 | 2022-07-31 |
 | [Dancing Alone](https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dancing Alone](https://open.spotify.com/album/2KlV3JdXb7XIlj78Rdo53i) | 2:52 | 2022-01-21 | 2022-07-29 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-04-01 |  |
 | [Dancing in My Bed](https://open.spotify.com/track/1VyH25fMkEmPURby4KbX5F) | [Nuschi](https://open.spotify.com/artist/3qVJauDSPQs6rIfV71Tsno) | [Dancing in My Bed](https://open.spotify.com/album/4a1ZSGmloOtVY1gAueCVQS) | 3:12 | 2020-11-14 | 2021-11-09 |
@@ -704,6 +704,7 @@
 | [Turn Me Up \- ViP Mix](https://open.spotify.com/track/4VO1K5TsBbx8Zzu8052slF) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Nabiha](https://open.spotify.com/artist/0nYStwwY321ISCu6BGJq98) | [Turn Me Up \(ViP Mix\)](https://open.spotify.com/album/4Tfc2KHRIGjni2b18RgkM7) | 4:11 | 2020-05-22\* | 2022-04-15 |
 | [Turn off the Lights \(feat\. Alexis Roberts\)](https://open.spotify.com/track/29vo9RUjxgZWXWGTpD8f4m) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn off the Lights \(feat\. Alexis Roberts\)](https://open.spotify.com/album/61rFepa8XkgHCMhF8ko2g5) | 3:30 | 2020-05-22\* | 2021-12-21 |
 | [Turn On the Bass](https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Turn On the Bass](https://open.spotify.com/album/4VAt1w3oStAsuT1Gh3g84o) | 3:40 | 2020-12-27 | 2021-10-12 |
+| [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2022-07-29 |  |
 | [Twisted Voice](https://open.spotify.com/track/6eCRmIS436mdOdcUJbglWo) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Twisted Voice](https://open.spotify.com/album/2tUa2iuqhb5oWEx8U406Ht) | 6:42 | 2022-04-29 | 2022-05-14 |
 | [U Don't Know Me \(feat\. Duane Harden\)](https://open.spotify.com/track/2Bw2MQa6qHoHUxKM9c6bds) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [2 Future 4 U](https://open.spotify.com/album/2XRSsybfa4tQEzRIPc6fw3) | 8:04 | 2020-07-01 | 2020-09-06 |
 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 | 2021-02-28 | 2022-04-20 |

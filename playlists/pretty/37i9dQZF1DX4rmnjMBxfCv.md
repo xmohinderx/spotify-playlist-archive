@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Nancy Ajram & Marshmello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,774 likes - 53 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 53 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 2 | [Challenge](https://open.spotify.com/track/2sGnPdcKoE0y3LbVty41dj) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/07ajJhk49mdl63VL23JAqw) | 1:54 |
-| 3 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 |
+| 3 | [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 |
 | 4 | [Ghareeb Alay \- R3HAB Remix](https://open.spotify.com/track/1U2BAJq4kvET6pN9gZnOvv) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghareeb Alay \(R3HAB Remix\)](https://open.spotify.com/album/78zVdyVqcYzpQNQWBWVjQv) | 2:02 |
 | 5 | [Ya Ghali](https://open.spotify.com/track/2E2CLOBLGokt6RKbhhIeCn) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Ya Ghali](https://open.spotify.com/album/4sYmsgBNSQrOXjV4GqmbHE) | 2:40 |
 | 6 | [Ohebuka Raghman \- Always April Remix](https://open.spotify.com/track/6TMz1cbXzWFk5WA9oKwNQl) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Ohebuka Raghman \(Always April Remix\)](https://open.spotify.com/album/2Jy7QVorfZVcjvNXHVMGNo) | 2:03 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 52 | [Matwasouneesh](https://open.spotify.com/track/6s3phzT9lHW1viznchr3lu) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [Matwasouneesh](https://open.spotify.com/album/1kfpSqYp8c4zttZGgExC8z) | 4:42 |
 | 53 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 |
 
-Snapshot ID: `MTY1ODIyODAxOCwwMDAwMDAwMGMwODkxMjljMzExNzZkZjc2OGZkZjAyOTdhYzFkMzgy`
+Snapshot ID: `MTY1ODIyODAxOCwwMDAwMDAwMGI2MWY5MjVkZjM5MTg2YjI2ZDY4N2M3YjNhMDk3MDAy`

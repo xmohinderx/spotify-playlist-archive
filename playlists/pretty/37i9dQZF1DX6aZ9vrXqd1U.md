@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,131 likes - 119 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,182 likes - 119 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 98 | [Gの閃光](https://open.spotify.com/track/29ODTLXlIpmNT7rZFmV4gH) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [TVアニメ『ガンダム Gのレコンギスタ』オリジナルサウンドトラック 3](https://open.spotify.com/album/3WFW8EMq7eQyd4PO12HYgH) | 3:37 |
 | 99 | [泪のムコウ](https://open.spotify.com/track/4UqCpvmOL8FiohnarAoRRx) | [Stereopony](https://open.spotify.com/artist/35VNJ4BFDvs9XkLf6ghUi6) | [A Hydrangea Blooms](https://open.spotify.com/album/33vrEaKrkBd3jOs7kpwaQu) | 3:30 |
 | 100 | [流星のナミダ](https://open.spotify.com/track/6ijZSjXxCvHnfWr2wMC7Iv) | [Chiaki Kuriyama](https://open.spotify.com/artist/5jPUEjgQTelKH4IV12KDIr) | [流星のナミダ](https://open.spotify.com/album/0775Tib7vuRC40mJKvHJos) | 4:58 |
-| 101 | [ココロオドル \-original version\-](https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル \-original version\- / Hero's Come Back!! BESTタッグ](https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR) | 4:13 |
+| 101 | [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 |
 | 102 | [MAGIC TIME](https://open.spotify.com/track/6Unwf4vD3ygUvr39kEmIRV) | [sudannayuzuyully](https://open.spotify.com/artist/4AA6Dmgfg8CRDXoBAgnkvc) | [MAGIC TIME](https://open.spotify.com/album/5NgYsNywkut0VDktPlTW8u) | 4:04 |
 | 103 | [星屑の砂時計](https://open.spotify.com/track/74O5dGvC43jOGpOXyYZpE1) | [服部隆之 Presents GUNDAM THE ORIGIN](https://open.spotify.com/artist/4E6kqE30CXyqBEFxeD8Pj6), [yu\-yu](https://open.spotify.com/artist/6KuW1jOW9tCAirqEt0GKlM) | [星屑の砂時計](https://open.spotify.com/album/3gY7UNOVZIAOcanynxE110) | 5:46 |
 | 104 | [Hikari no Hate](https://open.spotify.com/track/6a0Scz4j4tbqURCVyAvNSW) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Hikari no Hate](https://open.spotify.com/album/7DORue0YE6jJImEv9a5pgd) | 6:23 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 118 | [ビギニング](https://open.spotify.com/track/515LLsIoa7eetaTiFEJSa6) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [ビギニング](https://open.spotify.com/album/4oel0lHGTN643V87ohpAL1) | 3:24 |
 | 119 | [A Red Ray](https://open.spotify.com/track/2KCOmmGptlVGAvFAVzAx7H) | [SUGIZO](https://open.spotify.com/artist/6crEqOlFP6no2flmuas6P7), [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [A Red Ray](https://open.spotify.com/album/3LRl7ohuRCj6RIDTEhcx3r) | 4:51 |
 
-Snapshot ID: `MTY1ODkwMzIyMywwMDAwMDAwMGVkZGU1N2M5NzBmMWFiODIwNzc1ZTJkMmMzZTU3YTE3`
+Snapshot ID: `MTY1ODkwMzIyMywwMDAwMDAwMDBhYzE0OTQzYmRkZDBlMTRiOWY3YmZkOGE0Y2ZkYjUx`

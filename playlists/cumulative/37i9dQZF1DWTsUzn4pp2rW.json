@@ -2053,6 +2053,24 @@
     {
       "album": {
         "name": "Leave Me Be",
+        "url": "https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0"
+      },
+      "artists": [
+        {
+          "name": "Dearest Sister",
+          "url": "https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281453,
+      "name": "Leave Me Be",
+      "url": "https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj"
+    },
+    {
+      "album": {
+        "name": "Leave Me Be",
         "url": "https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE"
       },
       "artists": [
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 281453,
       "name": "Leave Me Be",
       "url": "https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza"

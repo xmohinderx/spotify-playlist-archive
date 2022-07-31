@@ -4,7 +4,7 @@
 
 > The hits you know like you’ve never heard before\.  Cover: Coldplay, Tate McRae, and The Migos.
 
-144 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
+145 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/4vwHHoNBJiy53B2sRKKvPz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Adult Swim \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Spotify Singles](https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7) | 7:11 | 2021-09-08 |  |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-05-27 | 2022-07-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 | 2021-09-08 | 2022-07-29 |
+| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 | 2022-05-27 |  |
 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 | 2021-09-08 |  |
 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 | 2021-09-08 |  |
 | [Always Be My Baby \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Spotify Singles](https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie) | 4:14 | 2021-09-08 |  |
@@ -65,7 +66,7 @@
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2021-09-08 |  |
 | [Hotel Key \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1DLguucCi86On4F9TW8CU7) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 4:01 | 2021-09-08 |  |
 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 | 2021-09-08 |  |
-| [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 | 2021-09-08 |  |
+| [Hurting \- Recorded At AIR Studios, London](https://open.spotify.com/track/53uc3quxXVrb9sDUdkfYEb) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Spotify Singles](https://open.spotify.com/album/1WiF35jQ1seXSQmXA7rR8c) | 3:40 | 2021-09-08 | 2022-07-31 |
 | [I Fall Apart \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/0MVvZYjUh20I13vor30dYe) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:51 | 2021-09-08 |  |
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2021-09-08 |  |
 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 | 2021-09-08 |  |

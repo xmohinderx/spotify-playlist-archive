@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 43083,
+  "num_followers": 43142,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMGVlZDFhYjg5OTU3Y2I3YjYzYmNkODg4MmYxMTQyOTFi",
+  "snapshot_id": "MTY1NTk5NjQwMCwwMDAwMDAwMGZlNTAzMDk5YTI3ZWVmMWU1MGNkZGFmZmIxMmY4ZTFj",
   "tracks": [
     {
       "added_at": "2022-06-23 15:00:00",
@@ -331,34 +331,18 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
+        "name": "I need you!",
+        "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
       },
       "artists": [
         {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u30e2\u30ab",
-          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
-        },
-        {
-          "name": "\u30ea\u30b5",
-          "url": "https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35"
-        },
-        {
-          "name": "\u82b1\u97f3",
-          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
-        },
-        {
-          "name": "\u3064\u3050\u307f",
-          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
+          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
+          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
         }
       ],
-      "duration_ms": 240725,
-      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
-      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
+      "duration_ms": 233633,
+      "name": "Wacha-Mocha Pettan March",
+      "url": "https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -411,18 +395,34 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "I need you!",
-        "url": "https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA"
+        "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+        "url": "https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm"
       },
       "artists": [
         {
-          "name": "\u30cf\u30ed\u30fc\u3001\u30cf\u30c3\u30d4\u30fc\u30ef\u30fc\u30eb\u30c9!",
-          "url": "https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5"
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u30e2\u30ab",
+          "url": "https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c"
+        },
+        {
+          "name": "\u30ea\u30b5",
+          "url": "https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35"
+        },
+        {
+          "name": "\u82b1\u97f3",
+          "url": "https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf"
+        },
+        {
+          "name": "\u3064\u3050\u307f",
+          "url": "https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ"
         }
       ],
-      "duration_ms": 233633,
-      "name": "Wacha-Mocha Pettan March",
-      "url": "https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl"
+      "duration_ms": 240725,
+      "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089",
+      "url": "https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd"
     },
     {
       "added_at": "2022-06-23 15:00:00",
@@ -555,8 +555,8 @@
     {
       "added_at": "2022-06-23 15:00:00",
       "album": {
-        "name": "Domination to world",
-        "url": "https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2"
+        "name": "Sacred world",
+        "url": "https://open.spotify.com/album/0cfxwaRmmOsIxnXvFGiwan"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up"
         }
       ],
-      "duration_ms": 224566,
-      "name": "Blazing Bonfire!",
-      "url": "https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm"
+      "duration_ms": 300833,
+      "name": "Sacred world",
+      "url": "https://open.spotify.com/track/0V3WhvVVbRFEtzSDSv2ePr"
     },
     {
       "added_at": "2022-06-23 15:00:00",

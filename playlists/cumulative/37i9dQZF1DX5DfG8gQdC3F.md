@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: Beyoncé 🐝
 
-3,114 songs - 6 day 21 hr 43 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+3,115 songs - 6 day 21 hr 46 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1392,7 +1392,6 @@
 | [In\-between and Overseas](https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:25 | 2022-02-04 | 2022-02-12 |
 | [INFINITY PLUS INFINITY](https://open.spotify.com/track/3W2SA9K6Ap5wk06SNvD63C) | [Ctrlgang](https://open.spotify.com/artist/4bMX90q14BwLcwOZPe9hZV) | [INFINITY PLUS INFINITY](https://open.spotify.com/album/5BYeL15D2j66yBx5xDnFYv) | 2:01 | 2022-06-17 | 2022-06-25 |
 | [Influence](https://open.spotify.com/track/1Fm5W64ccdN74IWDY6vtrI) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Influence](https://open.spotify.com/album/1eVJxamChkUCQH5NHuZkG8) | 3:23 | 2022-01-14 | 2022-01-22 |
-| [inovein](https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines X](https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco) | 3:10 | 2022-07-29 |  |
 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 | 2022-05-06 | 2022-05-14 |
 | [Instabeat](https://open.spotify.com/track/4vH7mM5XBFyKXwDFbryT3r) | [Ludic](https://open.spotify.com/artist/6wSoQBJtmwMzGBYjF2tOPs) | [Instabeat](https://open.spotify.com/album/3kIQGJjwncGJkq2z09vN24) | 3:37 | 2022-04-08 | 2022-04-16 |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-05-27 | 2022-06-04 |
@@ -1817,7 +1816,8 @@
 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 | 2022-02-04 | 2022-02-12 |
 | [Movie](https://open.spotify.com/track/6B1OsFv1SS1r5vGwMpDQDj) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Movie](https://open.spotify.com/album/1nA9jlCiG30YwwVxICz3Po) | 3:41 | 2022-02-25 | 2022-03-05 |
 | [Movies](https://open.spotify.com/track/3NZZ6QnLVsOIaLNtnDV62k) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Movies](https://open.spotify.com/album/7u25zD2hxMUd8swbjPYZBu) | 2:37 | 2022-07-29 |  |
-| [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 | 2022-07-29 |  |
+| [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 | 2022-07-29 | 2022-07-31 |
+| [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 | 2022-07-29 |  |
 | [moving song](https://open.spotify.com/track/1PZl6YAnHPyR2wcloffA7R) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [moving song](https://open.spotify.com/album/5wIrtoTzqzi4gx8zyXkZWh) | 2:45 | 2022-07-15 | 2022-07-23 |
 | [Mr Sandman Freestyle](https://open.spotify.com/track/2loieKGvW8SNZ1O8LhxZeS) | [Eazy Mac](https://open.spotify.com/artist/1qHkWv9sHlhqmNdPbMU5tN) | [Mr Sandman Freestyle](https://open.spotify.com/album/3OBqB59pLVZyEnVF3bkQli) | 1:56 | 2022-06-10 | 2022-06-18 |
 | [Mr\. Blue](https://open.spotify.com/track/30G6Ns8OTeUe11ik22aBpo) | [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Mr\. Blue](https://open.spotify.com/album/5NlcSvuEr7RaEuNZ9lD3ay) | 3:12 | 2022-01-28 | 2022-02-05 |
@@ -3070,6 +3070,7 @@
 | [WTF](https://open.spotify.com/track/7mYrw8DN9vDg1c5qqpDboC) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [WTF](https://open.spotify.com/album/5LDEHT3uGE4kS5BbbhiPTO) | 3:02 | 2022-03-18 | 2022-03-26 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-03-12 |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-06-17 | 2022-06-25 |
+| [x inovein](https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines X](https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco) | 3:10 | 2022-07-29 |  |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-25 | 2022-04-02 |
 | [Xbox](https://open.spotify.com/track/0D96Qm09CDTxfu85rkpZwO) | [Ramriddlz](https://open.spotify.com/artist/3fHjwMnkM9ov8CozqkYxWY) | [Xbox](https://open.spotify.com/album/0VTpElYxz599FWApgxZk86) | 1:51 | 2022-05-06 | 2022-05-14 |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-03 | 2022-06-11 |

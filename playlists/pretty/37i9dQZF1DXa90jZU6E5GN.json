@@ -1,12 +1,12 @@
 {
   "description": "a little glitter never hurt anyone",
-  "num_followers": 64126,
+  "num_followers": 64414,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyMDk1MSwwMDAwMDAwMDlhN2E3MzNlODdiMmZlODNiM2FlMzFhOGRhNWYxZDYy",
+  "snapshot_id": "MTY1NTkyMDk1MSwwMDAwMDAwMDUwZTY5MGExMDUxYjAxY2FjZWU2ZjUxYTVjZTM5NWRl",
   "tracks": [
     {
       "added_at": "2022-06-22 18:02:31",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-22 18:02:31",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2022-06-22 18:02:31",
-      "album": {
         "name": "Thinkin' About You",
         "url": "https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 167906,
       "name": "XXX's And OOO's (An American Girl)",
       "url": "https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7"
+    },
+    {
+      "added_at": "2022-06-22 18:02:31",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2022-06-22 18:02:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-06-22 18:02:31",
       "album": {
-        "name": "Pioneer",
-        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
-      },
-      "artists": [
-        {
-          "name": "The Band Perry",
-          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "Better Dig Two",
-      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
-    },
-    {
-      "added_at": "2022-06-22 18:02:31",
-      "album": {
         "name": "Up! (Green Version)",
         "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 269400,
       "name": "I'm Gonna Getcha Good",
       "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
+    },
+    {
+      "added_at": "2022-06-22 18:02:31",
+      "album": {
+        "name": "Pioneer",
+        "url": "https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1"
+      },
+      "artists": [
+        {
+          "name": "The Band Perry",
+          "url": "https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "Better Dig Two",
+      "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
     },
     {
       "added_at": "2022-06-22 18:02:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-06-22 18:02:31",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Whose Bed Have Your Boots Been Under?",
-      "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"
-    },
-    {
-      "added_at": "2022-06-22 18:02:31",
-      "album": {
         "name": "Blue Roses",
         "url": "https://open.spotify.com/album/0BUbVHeDmGXl3lzOENF9Wc"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213693,
       "name": "Blame It on Your Heart",
       "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
+    },
+    {
+      "added_at": "2022-06-22 18:02:31",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Whose Bed Have Your Boots Been Under?",
+      "url": "https://open.spotify.com/track/2ugGNNwNaJdiusX3aLOMUy"
     },
     {
       "added_at": "2022-06-22 18:02:31",

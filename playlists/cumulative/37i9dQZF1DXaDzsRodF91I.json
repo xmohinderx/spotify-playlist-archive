@@ -995,6 +995,24 @@
     {
       "album": {
         "name": "Fresh Produce",
+        "url": "https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG"
+      },
+      "artists": [
+        {
+          "name": "Seaway",
+          "url": "https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208618,
+      "name": "Hand in My Pocket",
+      "url": "https://open.spotify.com/track/4iiwJWeyRKIyrbs6GR5EXY"
+    },
+    {
+      "album": {
+        "name": "Fresh Produce",
         "url": "https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk"
       },
       "artists": [
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 207250,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: SleazyWorld Go
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,663,463 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,664,101 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 26 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
 | 27 | [The Wire \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5HyHnZ6aSdORxyY24BWkdo) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [More Than Music, Pt\. 2](https://open.spotify.com/album/1AFfH43xNSiszkqzN3z9xO) | 2:59 |
 | 28 | [Right Back Out](https://open.spotify.com/track/3HEpCfvOH619LRMUTx2NxR) | [Yung Mal](https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2) | [Right Back Out](https://open.spotify.com/album/31xIfDFOWIDfO9pU9i1SuP) | 3:24 |
-| 29 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 |
+| 29 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 |
 | 30 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 |
 | 31 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
 | 32 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 |
 | 100 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDM3OTlkYTA4MGFlNWYxNDA3MWE1OTEwZjlkOGRjYWU2`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDdhY2Q4YWU2MDZlNWM5ZTRhZDcxNzczZWNlZjk4YjY3`

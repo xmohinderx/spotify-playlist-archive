@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,529 likes - 110 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,558 likes - 110 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

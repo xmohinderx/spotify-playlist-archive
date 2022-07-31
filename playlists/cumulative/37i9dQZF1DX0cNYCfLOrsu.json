@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 204695,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/7kFrtjToVEFgUWvOJdDigU"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199415,
       "name": "Naah Done",
       "url": "https://open.spotify.com/track/2569kuV4cvCN9Q0jQBgWlk"
@@ -1717,6 +1717,24 @@
       "duration_ms": 181816,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
+    },
+    {
+      "album": {
+        "name": "World of Reggae Music (Edited)",
+        "url": "https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212346,
+      "name": "Romping Shop",
+      "url": "https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx"
     },
     {
       "album": {
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 170097,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk"

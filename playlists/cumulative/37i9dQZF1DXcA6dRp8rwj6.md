@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Warren Hue \)
 
-601 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
+602 songs - 1 day 6 hr 17 min - [published](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,8 @@
 | [TAHUN DEPAN HARGA NAIK](https://open.spotify.com/track/6TiTkOVtXRF8Xx7iTGsIqN) | [Oyami](https://open.spotify.com/artist/2HHbaQyJSBiueJOPiHRfg4) | [TAHUN DEPAN HARGA NAIK](https://open.spotify.com/album/3YmJJdg5lxYmQpnsqPkwzA) | 2:50 | 2022-01-20 | 2022-01-28 |
 | [Take Off, Touch Down](https://open.spotify.com/track/2pHEN9mazPrfeUP8nmGpQA) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [Take Off, Touch Down](https://open.spotify.com/album/0JTTzIBxPuyHl0Ju2LhRzK) | 3:39 | 2022-05-19 | 2022-07-01 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-24 | 2022-04-08 |
-| [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-21 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-21 | 2022-07-31 |
+| [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-28 |  |
 | [Tell Santa](https://open.spotify.com/track/1i7Nwas0VfXrUIm4qDcbyL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tell Santa](https://open.spotify.com/album/70PAbNnWnfmU3IF2OK67yY) | 2:27 | 2022-01-20 | 2022-01-28 |
 | [Tempat Pulang](https://open.spotify.com/track/0u5GeVYHGRdqruncvoXQlU) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Livingroom.](https://open.spotify.com/artist/7waocZDnwhSgSPIt7By0QA) | [Tempat Pulang](https://open.spotify.com/album/45LnkhfTEfmOs5UXoRcpCl) | 3:44 | 2022-02-10 | 2022-03-04 |
 | [Texture.](https://open.spotify.com/track/654Vru27jmXMzQq0xUFtLg) | [Shanii22](https://open.spotify.com/artist/2yYM0ttZlVqxIjzj2MWlQc), [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [Texture.](https://open.spotify.com/album/0z9yvUsyKDHlU2tDDgGrhI) | 1:50 | 2022-01-20 | 2022-01-28 |

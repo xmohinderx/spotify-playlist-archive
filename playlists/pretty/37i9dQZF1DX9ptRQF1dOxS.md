@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Baby Queen
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,136 likes - 45 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,142 likes - 45 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 11 | [Come Around \(Sunny Day\)](https://open.spotify.com/track/2lRqxdx0l9emxWfFHwYTmJ) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Come Around \(Sunny Day\)](https://open.spotify.com/album/3hArdcJ7gO3sb2Wp546QfH) | 2:52 |
 | 12 | [Fizzy](https://open.spotify.com/track/19dTCb1hdfeqydLyDoEVVJ) | [Abbie Ozard](https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn) | [Water Based Lullabies](https://open.spotify.com/album/3tZraUiqTmRlFupEtUPU7e) | 2:19 |
 | 13 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
-| 14 | [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 |
+| 14 | [Video Girl](https://open.spotify.com/track/1PJMFgaRz7pW7NuTqks9S2) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 3:18 |
 | 15 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 |
 | 16 | [It Was Nothing](https://open.spotify.com/track/00ZdIwUmuiJSWmgrsy5u1S) | [Bessie Turner](https://open.spotify.com/artist/2WZfCTpqwLC3MTIGmLrzaJ) | [It Was Nothing](https://open.spotify.com/album/4uWLMdBNWqt1kZU1nkZtv5) | 3:29 |
 | 17 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 44 | [Headz Gone West](https://open.spotify.com/track/6qKEuKSyMEhzrMHn53Qqmg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Headz Gone West](https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8) | 2:22 |
 | 45 | [Transdimensional](https://open.spotify.com/track/6TL023PjPquxqJ4tzc1u2B) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [KAVARI](https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 4:49 |
 
-Snapshot ID: `MTY1NzEwNDAzMSwwMDAwMDAwMGE5ZGQ5ZGU4NDU0ZGUwMjhiOGY0NmQyNDZmYmMzOTFm`
+Snapshot ID: `MTY1NzEwNDAzMSwwMDAwMDAwMDEyODM4YjViZDkzMjhmZGFiODZlMjEwNjlhNjE1ODc4`

@@ -1,12 +1,12 @@
 {
   "description": "veigh dos predinho pra londres, exquece ",
-  "num_followers": 919865,
+  "num_followers": 920273,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2Mzc4MCwwMDAwMDAwMDhhMzVhZTZkZTFkZDBhOGI2MjRhZDJmY2Q3MjRjOTUy",
+  "snapshot_id": "MTY1OTA2Mzc4MCwwMDAwMDAwMDJjMzE0NTExMzYyZmRkY2Q1YTUwODE3YTEyY2Q2OGIx",
   "tracks": [
     {
       "added_at": "2022-07-29 03:03:00",
@@ -559,30 +559,6 @@
     {
       "added_at": "2022-07-29 03:03:00",
       "album": {
-        "name": "Imaterial (Deluxe)",
-        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "Corte Americano",
-      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
-    },
-    {
-      "added_at": "2022-07-29 03:03:00",
-      "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
+    },
+    {
+      "added_at": "2022-07-29 03:03:00",
+      "album": {
+        "name": "Imaterial (Deluxe)",
+        "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "Corte Americano",
+      "url": "https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh"
     },
     {
       "added_at": "2022-07-29 03:03:00",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2022-07-29 03:03:00",
       "album": {
-        "name": "Mini Game",
-        "url": "https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh"
-      },
-      "artists": [
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "DJ BRUNO PRADO",
-          "url": "https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3"
-        }
-      ],
-      "duration_ms": 138855,
-      "name": "Mini Game",
-      "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
-    },
-    {
-      "added_at": "2022-07-29 03:03:00",
-      "album": {
         "name": "Cerol Finin",
         "url": "https://open.spotify.com/album/1rchMhG8kD2PCzsE3nB1Gv"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 260178,
       "name": "Cerol Finin",
       "url": "https://open.spotify.com/track/1NaUCNLXO584ukPzd2tV8m"
+    },
+    {
+      "added_at": "2022-07-29 03:03:00",
+      "album": {
+        "name": "Mini Game",
+        "url": "https://open.spotify.com/album/3rPXGZCsZjknW2TnaRtMKh"
+      },
+      "artists": [
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "DJ BRUNO PRADO",
+          "url": "https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3"
+        }
+      ],
+      "duration_ms": 138855,
+      "name": "Mini Game",
+      "url": "https://open.spotify.com/track/4IVbbHg8tOBMx0ltNwGXFQ"
     },
     {
       "added_at": "2022-07-29 03:03:00",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2022-07-29 03:03:00",
       "album": {
+        "name": "TANG",
+        "url": "https://open.spotify.com/album/3y2F1qXjIsQJIcgMN9FfLM"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 182850,
+      "name": "TANG",
+      "url": "https://open.spotify.com/track/50b6kNVPLNIx9opvb76dk1"
+    },
+    {
+      "added_at": "2022-07-29 03:03:00",
+      "album": {
         "name": "Cash",
         "url": "https://open.spotify.com/album/4wE0QFfKjFvkvVojK4rmxT"
       },
@@ -1207,30 +1231,6 @@
       "duration_ms": 214507,
       "name": "Cash",
       "url": "https://open.spotify.com/track/5lMXToPjcZst8sItJeneYt"
-    },
-    {
-      "added_at": "2022-07-29 03:03:00",
-      "album": {
-        "name": "TANG",
-        "url": "https://open.spotify.com/album/3y2F1qXjIsQJIcgMN9FfLM"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 182850,
-      "name": "TANG",
-      "url": "https://open.spotify.com/track/50b6kNVPLNIx9opvb76dk1"
     },
     {
       "added_at": "2022-07-29 03:03:00",

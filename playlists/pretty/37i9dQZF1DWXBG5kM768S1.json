@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 62470,
+  "num_followers": 62483,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjAwMCwwMDAwMDAwMGJjZjEzMmI3ZjY3MDMwMWY2MTU3Njc3NjUxZjIwNTk5",
+  "snapshot_id": "MTY1NzgzNjAwMCwwMDAwMDAwMDc2MTI0ZGI4NTgzZjNlYWIxOGI4ZjVmNzIwYjhhZDYz",
   "tracks": [
     {
       "added_at": "2022-07-14 22:00:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Pusterom",
-        "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
+        "name": "Fingeravtrykk",
+        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
       },
       "artists": [
         {
-          "name": "Marie Kl\u00e5pbakken",
-          "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
-        },
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 186552,
-      "name": "Pusterom",
-      "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
+      "duration_ms": 421054,
+      "name": "Fingeravtrykk",
+      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -251,18 +247,22 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Fingeravtrykk",
-        "url": "https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW"
+        "name": "Pusterom",
+        "url": "https://open.spotify.com/album/1bCimO52g5O7Ahqp9fVO6d"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Marie Kl\u00e5pbakken",
+          "url": "https://open.spotify.com/artist/2qHlT3DfJoJNI4I8IzQmky"
+        },
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
         }
       ],
-      "duration_ms": 421054,
-      "name": "Fingeravtrykk",
-      "url": "https://open.spotify.com/track/7176c184pups4Q02ZPhTAl"
+      "duration_ms": 186552,
+      "name": "Pusterom",
+      "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
         "name": "Alt slik det var laga",
         "url": "https://open.spotify.com/album/0fIYDEa2RR461qmtpaJjUM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 234496,
       "name": "Alt slik det var laga",
       "url": "https://open.spotify.com/track/3nfuXqTSLAAyVDMgZgjHpc"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
-    },
-    {
-      "added_at": "2022-07-14 22:00:00",
-      "album": {
         "name": "Sm\u00e5`n",
         "url": "https://open.spotify.com/album/7nc2z9Yw6Q7DL0aUKg5XoC"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2022-07-14 22:00:00",
       "album": {
-        "name": "S\u00e5 lett som ingenting",
-        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/0mK8M00xyAiyUVyIS5UFyT"
       },
       "artists": [
         {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
         }
       ],
-      "duration_ms": 229209,
-      "name": "S\u00e5 lett som ingenting",
-      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/4RaqQE80M1OGyQvkQs7JTS"
     },
     {
       "added_at": "2022-07-14 22:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
+    },
+    {
+      "added_at": "2022-07-14 22:00:00",
+      "album": {
+        "name": "S\u00e5 lett som ingenting",
+        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 229209,
+      "name": "S\u00e5 lett som ingenting",
+      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
     },
     {
       "added_at": "2022-07-14 22:00:00",

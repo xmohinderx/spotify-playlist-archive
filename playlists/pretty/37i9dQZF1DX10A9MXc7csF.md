@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: El Proyecto
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,117 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,133 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,24 +69,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [me olvidaste](https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [me olvidaste](https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke) | 2:15 |
 | 60 | [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 |
 | 61 | [Me Apodan El Chino](https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r) | [Christian Ramos Jr](https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE) | [Me Apodan El Chino](https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1) | 3:40 |
-| 62 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 |
-| 63 | [Las Guerras de Califas](https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog) | [Clave Secreta](https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN) | [Las Guerras de Califas](https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3) | 3:35 |
+| 62 | [Las Guerras de Califas](https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog) | [Clave Secreta](https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN) | [Las Guerras de Califas](https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3) | 3:35 |
+| 63 | [Si Me Ven Tomar](https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Si Me Ven Tomar](https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY) | 3:13 |
 | 64 | [En Un Deportivo Voy](https://open.spotify.com/track/5tjAFuUzHkOlTfL7eX8T6B) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Renacido](https://open.spotify.com/album/69smyPeNaxRkiBahOoKNLo) | 3:21 |
 | 65 | [La Tormenta](https://open.spotify.com/track/1ecycLcCRq2rIozFogvsoq) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [La Tormenta](https://open.spotify.com/album/02yUE3GbV3gY6PtkiH9VQt) | 3:26 |
 | 66 | [Misión Secreta](https://open.spotify.com/track/1FTAZLq38OCJ5clZF7Fu53) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq) | [Misión Secreta](https://open.spotify.com/album/2UXW2EkrfnA1RE52r5YBE1) | 3:14 |
 | 67 | [El Piyi](https://open.spotify.com/track/5KjBaGZIszO9tpGTRB1mm2) | [Alta Autoridad](https://open.spotify.com/artist/5t3gI9HmOoz5EKWOg45OPB) | [El Piyi](https://open.spotify.com/album/2ivT6bwCAYwa61GlEqTiuq) | 2:42 |
 | 68 | [JGL \(En Vivo\)](https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [JGL \(En Vivo\)](https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8) | 2:20 |
-| 69 | [Tu Corazón A Mi Me Falta](https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Corazón A Mi Me Falta](https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc) | 2:35 |
-| 70 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 |
+| 69 | [Mis Travesuras](https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB) | [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Pasajes Negros](https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A) | 2:20 |
+| 70 | [Tu Corazón A Mi Me Falta](https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Tu Corazón A Mi Me Falta](https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc) | 2:35 |
 | 71 | [Confiar En Mi](https://open.spotify.com/track/3wVm1plAjtErQGzWeAsNT4) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Confiar En Mi](https://open.spotify.com/album/07pKI6CF1hD9kTgLGQrNhp) | 4:44 |
 | 72 | [Una En Un Millon](https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Dueña De Mi Amor](https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x) | 2:47 |
 | 73 | [Lo Que Te Pasa](https://open.spotify.com/track/4Qwx5RaF7EnOMXsY7eXH51) | [Isaac Torres y Su Alianza](https://open.spotify.com/artist/1qnlff2Qvu3aOW5NsRDVkb) | [Lo Que Te Pasa](https://open.spotify.com/album/24rdiWOxJwLyNoX87V0mgI) | 2:54 |
 | 74 | [Les Quedo Claro](https://open.spotify.com/track/3BVUwM6VMNTQjIh6gbi2V4) | [Sertres](https://open.spotify.com/artist/1Rwxb5AhtJPW03gmqHJhEq) | [Les Quedo Claro](https://open.spotify.com/album/0byJUz2IEI7oCxoAYW8JKf) | 3:17 |
 | 75 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 |
 | 76 | [La Tarde](https://open.spotify.com/track/1CFBRxQEXXVYwNnMAYXUzh) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [La Tarde](https://open.spotify.com/album/7DNoBF6mIiJZxol7rpNJKa) | 3:36 |
-| 77 | [Maravillosa](https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 4:07 |
-| 78 | [Gabriel Ornelas](https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Gabriel Ornelas](https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ) | 3:07 |
-| 79 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 |
+| 77 | [Algo Bien](https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Algo Bien](https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy) | 2:46 |
+| 78 | [Maravillosa](https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Temporadas Emocionales](https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ) | 4:07 |
+| 79 | [Gabriel Ornelas](https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Gabriel Ornelas](https://open.spotify.com/album/7I5YLRrLqHPeXLwcbPTjDQ) | 3:07 |
 | 80 | [Fumamos Mota](https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Emmanuel Olea](https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u) | [Archive Muzik Vol\. 1](https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC) | 4:34 |
 | 81 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
 | 82 | [Seguimos En El Refuego](https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa) | [El De La H](https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1) | [Seguimos En El Refuego](https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD) | 2:49 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 87 | [Nadie En Este Mundo](https://open.spotify.com/track/783fveiyg1BqcdHrzNcXuo) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nadie En Este Mundo](https://open.spotify.com/album/37a9b4XAXZzS7xg5y2A0tO) | 3:52 |
 | 88 | [Te Fuiste Mi Amor](https://open.spotify.com/track/4p081voOnOQ9bj8hQEHAaz) | [Plan Exclusivo](https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8) | [Te Fuiste Mi Amor](https://open.spotify.com/album/5v0XaehEwwxMO1XCDDneLg) | 2:49 |
 | 89 | [La Reina](https://open.spotify.com/track/1LsnmssHeyjWIVEplI4S5s) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Una Empresa](https://open.spotify.com/album/6kLHvyOJWhZ4PwYf2zFhgD) | 3:26 |
-| 90 | [Una Rosa y Un Beso \- En Vivo](https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [En Vivo Desde La Angelina](https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF) | 2:43 |
-| 91 | [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 |
+| 90 | [Enfocado](https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j) | [Pecado Fino](https://open.spotify.com/artist/7in2XM36SfAiMMiXcjr4Lj) | [Enfocado](https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY) | 2:32 |
+| 91 | [Una Rosa y Un Beso \- En Vivo](https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj) | [En Vivo Desde La Angelina](https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF) | 2:43 |
 | 92 | [Que Salga De Ti](https://open.spotify.com/track/4GtnM2wxYSeHtoiwKQwTuf) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Que Salga De Ti](https://open.spotify.com/album/3WiG7Qdw9f0bsFgywnrrrJ) | 3:16 |
 | 93 | [Como Quiera](https://open.spotify.com/track/0WaFzSRnJzAIyKY5jmcuFw) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Como Quiera](https://open.spotify.com/album/6DrGqqLabbWi10BHJf7a6d) | 3:50 |
 | 94 | [Ya Tengo Con Quien](https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ) | [Itzel Vida](https://open.spotify.com/artist/60PTHScdfpSSM2RcN0CpUC) | [Ya Tengo Con Quien](https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Solo En Mis Sueños](https://open.spotify.com/track/1EOoNAzazF9yiIVSYee39r) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF) | [Solo En Mis Sueños](https://open.spotify.com/album/2rmcjZNVHOhfMltQLabH2O) | 2:52 |
 | 100 | [Jefe De Juarez](https://open.spotify.com/track/5QVllms1Vr8w1n1sI87RkC) | [Inoboiz](https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ) | [Trailer Park Boiz Vol\. 2](https://open.spotify.com/album/5lS9isCntFJm1oHRIn1rES) | 3:23 |
 
-Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDA2NGI2MmFkYjgyM2Q3MDMyMjk2ZDdlYWVjMzM1NmUw`
+Snapshot ID: `MTY1ODQ2MjQwMCwwMDAwMDAwMDZjYjBlYWYxYTgwODE3MmZmMzhjYmQ4ZGNjOGJjNTIw`

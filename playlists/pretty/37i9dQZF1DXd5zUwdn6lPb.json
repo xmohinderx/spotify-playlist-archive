@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 226527,
+  "num_followers": 226585,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDE3MWQ5NmQwMTFmZTRhMDkwYmMwMWU4MmMwY2NjNWU5",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDMyNjFjOGNlNDRiZTNlNTFjNjcyNDVmZmFjZmFmOWFi",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 255960,
       "name": "Three Postludes (1981/82): Postlude No. 3",
       "url": "https://open.spotify.com/track/2ZrF3UfwS50CKE8jQQVjWj"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
-        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
-      },
-      "artists": [
-        {
-          "name": "Sigvaldi Kaldal\u00f3ns",
-          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -275,6 +275,30 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Brahms: Hungarian Dances No. 1-21; Waltzes, Op. 39 for Piano for Four Hands",
+        "url": "https://open.spotify.com/album/124rEkhLGr2blnvf1G7okb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Yaara Tal",
+          "url": "https://open.spotify.com/artist/2bfIoIZNRZXG8V7i1yCQIM"
+        },
+        {
+          "name": "Andreas Groethuysen",
+          "url": "https://open.spotify.com/artist/6R53F11RmKgNnHH82MYGjB"
+        }
+      ],
+      "duration_ms": 81800,
+      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
+      "url": "https://open.spotify.com/track/70p8XG5Xgjk7OXnt3R2gIb"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 131333,
       "name": "6 Chants polonais, S. 480: No. 2, Fr\u00fchling (Wiosna, Spring) [After Chopin's Op. 74]",
       "url": "https://open.spotify.com/track/7jBaUnodzhFJCMaPRC4cD7"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Brahms: Hungarian Dances No. 1-21; Waltzes, Op. 39 for Piano for Four Hands",
-        "url": "https://open.spotify.com/album/124rEkhLGr2blnvf1G7okb"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Yaara Tal",
-          "url": "https://open.spotify.com/artist/2bfIoIZNRZXG8V7i1yCQIM"
-        },
-        {
-          "name": "Andreas Groethuysen",
-          "url": "https://open.spotify.com/artist/6R53F11RmKgNnHH82MYGjB"
-        }
-      ],
-      "duration_ms": 81800,
-      "name": "16 Waltzes, Op. 39 (Version for Piano Duet): No. 15 in A-Flat Major",
-      "url": "https://open.spotify.com/track/70p8XG5Xgjk7OXnt3R2gIb"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -503,30 +503,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
-        "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
       "artists": [
         {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 55213,
-      "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
-      "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -551,26 +543,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -591,6 +563,34 @@
       "duration_ms": 136960,
       "name": "Polovetsian Dances from Prince Igor: Introduzione",
       "url": "https://open.spotify.com/track/1KeJxSvW6pLU1ieRfQOMca"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Ravel: Orchestral Works, Vol. 3 \u2013 Orchestrations",
+        "url": "https://open.spotify.com/album/4z9LfgCWY61TwlGfTpclne"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 55213,
+      "name": "Pictures at an Exhibition (Orch. M. Ravel): Promenade",
+      "url": "https://open.spotify.com/track/4JrrAz6CdcawJthf1LdCbE"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Schubert: Fantasie in F Minor and Other Piano Duets",
         "url": "https://open.spotify.com/album/2ibKzWy888LJRqRvwpAd1x"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 123906,
       "name": "Variations on an Original Theme in A-Flat Major, D. 813: VI. Variation V",
       "url": "https://open.spotify.com/track/2PNQn586IZGtwOAKwtEFBn"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Baroque Conversations",
-        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "David Greilsammer",
-          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
-        }
-      ],
-      "duration_ms": 96293,
-      "name": "Suite in D Minor, HWV 447: Allemande",
-      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
         "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 85000,
       "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
       "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Baroque Conversations",
+        "url": "https://open.spotify.com/album/1GeySkyBOkMq1yWbRZW1CV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Greilsammer",
+          "url": "https://open.spotify.com/artist/03DDDfXOjkqWelBJntrTpX"
+        }
+      ],
+      "duration_ms": 96293,
+      "name": "Suite in D Minor, HWV 447: Allemande",
+      "url": "https://open.spotify.com/track/6k0PPC5BDLBvkBcikB3BBv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "50 Masterworks - Arthur Rubinstein",
+        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Arthur Rubinstein",
+          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
+        }
+      ],
+      "duration_ms": 376440,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
+      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Handel: Apollo e Dafne, HWV 122 & Armida abbandonata, HWV 105",
         "url": "https://open.spotify.com/album/2jvPVlIwiKJvoU5p8kA6tO"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 117372,
       "name": "Almira, HWV 1 (Excerpts): Sarabande",
       "url": "https://open.spotify.com/track/5TGdpgBRF0XI21gSWowd7y"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Chopin: Music for Concentration",
-        "url": "https://open.spotify.com/album/6x4mkl6b5i8PDDYgVfU1oT"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Berceuse in D Flat Major, Op. 57",
-      "url": "https://open.spotify.com/track/4bID51YYMOp42TnKwKJRjs"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "50 Masterworks - Arthur Rubinstein",
-        "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
-      "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Chopin: Music for Concentration",
+        "url": "https://open.spotify.com/album/6x4mkl6b5i8PDDYgVfU1oT"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/4bID51YYMOp42TnKwKJRjs"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Dittersdorf: Sinfonias On Ovid's Metamorphoses, Nos. 1 - 3",
         "url": "https://open.spotify.com/album/7aymM8KHDUWfGS3kz5K7Yv"
       },
@@ -1683,6 +1663,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Mozart: Divertimento in B-Flat Major, K. 254: 1. Allegro assai",
         "url": "https://open.spotify.com/album/0ICUZqfh6yN7WPpXwFbjvx"
       },
@@ -1711,50 +1711,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Myslive\u010dek: Symphonies",
-        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
-      },
-      "artists": [
-        {
-          "name": "Josef Myslive\u010dek",
-          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
-        },
-        {
-          "name": "Matthias Bamert",
-          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
-        },
-        {
-          "name": "London Mozart Players",
-          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
-      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Bach, C.P.E.: Sonatas & Rondos",
-        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
-      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1779,26 +1735,46 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
-        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+        "name": "Bach, C.P.E.: Sonatas & Rondos",
+        "url": "https://open.spotify.com/album/1iGH5gW7R3Ie5xTWl0QyM1"
       },
       "artists": [
         {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
         },
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Matti Raekallio",
-          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
         }
       ],
-      "duration_ms": 244333,
-      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
-      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+      "duration_ms": 187000,
+      "name": "Sonata in G major, Wq. 62/19: 2. Andante",
+      "url": "https://open.spotify.com/track/6oZVIIJC4qaVmV59msx8wQ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Myslive\u010dek: Symphonies",
+        "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
+      },
+      "artists": [
+        {
+          "name": "Josef Myslive\u010dek",
+          "url": "https://open.spotify.com/artist/6wEimu9Okp11rTY8nbbTtR"
+        },
+        {
+          "name": "Matthias Bamert",
+          "url": "https://open.spotify.com/artist/0GlFlZLYjxYakEMBgiYvu9"
+        },
+        {
+          "name": "London Mozart Players",
+          "url": "https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Symphony in D Major, F. 29: II. Andante grazioso",
+      "url": "https://open.spotify.com/track/1hfm2e2HgCnaYdYnvasxea"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1827,6 +1803,30 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Saint-Sa\u00ebns: Symphonic Poems",
         "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 54520,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "W.F. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 54520,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Chopin & Liszt: Piano Works",
-        "url": "https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Mariam Batsashvili",
-          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
-        }
-      ],
-      "duration_ms": 145720,
-      "name": "Liszt: 6 Consolations, S. 172: V. Andantino",
-      "url": "https://open.spotify.com/track/0Q98m6eZTTmdZ1dUyJQ8iT"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Pachelbel: Canon; Albinoni: Adagio; Bach: Jesu, Joy of Man's Desiring; more",
         "url": "https://open.spotify.com/album/0TXKF9HGebP07O94Gylywf"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 207106,
       "name": "Orpheo ed Euridice, Wq. 30, Act II: Dance of the Blessed Spirits",
       "url": "https://open.spotify.com/track/4qg7uptMkSHq8uatbgcP37"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Chopin & Liszt: Piano Works",
+        "url": "https://open.spotify.com/album/0RYJ4y07bDSZNkEoXbMSyU"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Mariam Batsashvili",
+          "url": "https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci"
+        }
+      ],
+      "duration_ms": 145720,
+      "name": "Liszt: 6 Consolations, S. 172: V. Andantino",
+      "url": "https://open.spotify.com/track/0Q98m6eZTTmdZ1dUyJQ8iT"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2103,8 +2103,8 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK"
+        "name": "Chopin: Etudes, Opp. 10 and 25",
+        "url": "https://open.spotify.com/album/39UxX00Xxfrb2iQfENlM9k"
       },
       "artists": [
         {
@@ -2112,13 +2112,13 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Claudio Arrau",
-          "url": "https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1"
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
         }
       ],
-      "duration_ms": 286493,
-      "name": "Nocturne No.2 in E flat, Op.9 No.2",
-      "url": "https://open.spotify.com/track/0TTYGSGO6kWhpRu4xgiZC3"
+      "duration_ms": 215000,
+      "name": "12 Etudes, Op. 10: Etude No. 6 in E-Flat Minor, Op. 10, No. 6",
+      "url": "https://open.spotify.com/track/4EaZ07QFNs3fK7ILrdUNq7"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2167,30 +2167,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
-        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
-      },
-      "artists": [
-        {
-          "name": "Carl Philipp Emanuel Bach",
-          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
-        },
-        {
-          "name": "Michael Rische",
-          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
-        },
-        {
-          "name": "Kammersymphonie Leipzig",
-          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
-      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Myslivecek: Symphonies",
         "url": "https://open.spotify.com/album/2iNn6zLNV5YIakjGtE58cl"
       },
@@ -2211,6 +2187,30 @@
       "duration_ms": 158000,
       "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No.2 In A: 2. Andante",
       "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "C.P.E. Bach: Keyboard Concertos, Wq. 26, 44 & 20",
+        "url": "https://open.spotify.com/album/4PWG4HAlwOceVdbjiX3r08"
+      },
+      "artists": [
+        {
+          "name": "Carl Philipp Emanuel Bach",
+          "url": "https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb"
+        },
+        {
+          "name": "Michael Rische",
+          "url": "https://open.spotify.com/artist/2m1oXzullfjrEtsT2z8Wia"
+        },
+        {
+          "name": "Kammersymphonie Leipzig",
+          "url": "https://open.spotify.com/artist/5HOyATQgfbBibfKpZfsCFa"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Keyboard Concerto in G Major, Wq. 44: II. Andantino",
+      "url": "https://open.spotify.com/track/7xI0wxBQhYMSWDhkuvbRgM"
     },
     {
       "added_at": "2022-07-22 04:01:00",

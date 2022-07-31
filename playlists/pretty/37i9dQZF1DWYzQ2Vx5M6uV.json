@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 96400,
+  "num_followers": 96434,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMDliMTYzZmQ1NzgzMzU0MGZjY2IzZjAwMmRiMmZkYzMy",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGQ1MjY2Zjc1MTcyZmQ4MGJmNDFlZmM0MjJkZDNkMGIw",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1237,26 +1237,6 @@
       "url": "https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "A Little Bit",
-        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
-      },
-      "artists": [
-        {
-          "name": "Matteo",
-          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
-        },
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 182449,
-      "name": "A Little Bit (feat. Idahams)",
-      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
-    },
-    {
       "added_at": "2022-05-12 19:39:03",
       "album": {
         "name": "iluminada",
@@ -1281,24 +1261,24 @@
       "url": "https://open.spotify.com/track/6C6tPNyzg9yEFKl2z2bEpx"
     },
     {
-      "added_at": "2022-05-12 19:39:03",
+      "added_at": "2022-05-19 23:00:00",
       "album": {
-        "name": "LOML (feat. Olamide)",
-        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+        "name": "A Little Bit",
+        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
       },
       "artists": [
         {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+          "name": "Matteo",
+          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
         },
         {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
         }
       ],
-      "duration_ms": 196139,
-      "name": "LOML (feat. Olamide)",
-      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
+      "duration_ms": 182449,
+      "name": "A Little Bit (feat. Idahams)",
+      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1327,6 +1307,26 @@
       "duration_ms": 334000,
       "name": "Cheza Kama Wewe",
       "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "LOML (feat. Olamide)",
+        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 196139,
+      "name": "LOML (feat. Olamide)",
+      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
     },
     {
       "added_at": "2022-05-12 19:39:03",

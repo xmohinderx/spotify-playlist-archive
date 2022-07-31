@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,512 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,608 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,23 +28,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 18 | [ラッキー・ドライブ](https://open.spotify.com/track/2YgT34Ztg37oBspiPey1ho) | [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [ラッキー・ドライブ](https://open.spotify.com/album/0M1Ss4ejW5LB3ZllXxNEuh) | 3:28 |
 | 19 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 |
 | 20 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
-| 21 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 |
+| 21 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
 | 22 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 |
-| 23 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
+| 23 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 |
 | 24 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 |
 | 25 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 |
 | 26 | [Perfect Vacation](https://open.spotify.com/track/3Ur58a9oYjMMhYvbTDfujQ) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Perfect Vacation](https://open.spotify.com/album/1L0htF6OHaxrzp46hIlt7n) | 3:39 |
 | 27 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 |
 | 28 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 |
-| 29 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
+| 29 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 | 30 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 |
-| 31 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
+| 31 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
 | 32 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 |
 | 33 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 |
 | 34 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 |
 | 35 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
-| 36 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
-| 37 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
+| 36 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
+| 37 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
 | 38 | [CITY BOY](https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/3GUO72r5DExiZzVytINvxM) | 4:03 |
 | 39 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 |
 | 40 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 49 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 |
 | 50 | [Far Away](https://open.spotify.com/track/14EN5D8GFQch3u4Bc1LqcR) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Far Away](https://open.spotify.com/album/7z3atOVHN4vSWOWYWkzA1Q) | 3:27 |
 
-Snapshot ID: `MTY1ODg5NDk1NSwwMDAwMDAwMGU0MDU1MjA2MDkwMzAwNWQ2YjBiNDAxMzQyOGI2NDQ3`
+Snapshot ID: `MTY1ODg5NDk1NSwwMDAwMDAwMDg3MzYyMDUwNWQwZTBjMzFhMjJkMWI2NjRkZTEzMTRk`

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-284 songs - 1 day 5 hr 58 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+286 songs - 1 day 6 hr 9 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Black Rain \- Âme Remix](https://open.spotify.com/track/2xuCVDKo47AYxxjJtiTVCh) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Black Rain \(Âme Remix\)](https://open.spotify.com/album/3NkwIxvLuql04EXtIa9TfF) | 5:52 | 2022-04-11 |  |
 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 | 2021-05-03 |  |
 | [Blue Rose](https://open.spotify.com/track/1WByZBGVI09ggCjH5wru9a) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Blue Rose / Red Room](https://open.spotify.com/album/1SDs4zVPGrZSSTaRxmsFl3) | 4:49 | 2022-01-14 | 2022-07-27 |
-| [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 |  |
+| [Bordre](https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Bordre](https://open.spotify.com/album/55YrflC6VcAHZmmZ1T5ks4) | 5:37 | 2021-04-21 | 2022-07-31 |
 | [Brave New World](https://open.spotify.com/track/2RTLo7ZBz4SSVXlxCLSVCO) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu) | [Brave New World](https://open.spotify.com/album/1CaeDHHSXPFAOSNkMehefw) | 6:04 | 2021-05-26 | 2022-07-28 |
 | [Cairn](https://open.spotify.com/track/04xLM1LrZP4SakK5CEgE4I) | [Kincaid](https://open.spotify.com/artist/4VjtN4stqJG01LHASZjXxP) | [Nothing Is](https://open.spotify.com/album/5Co8zEbkMF66GkYFyHKb3x) | 6:42 | 2021-11-09 | 2022-07-28 |
 | [Calmo](https://open.spotify.com/track/6Z24xwVFdjutg9dCueTcnc) | [Juanma Salinas](https://open.spotify.com/artist/5Wh6rX9iEMrUSLDlLGztPS) | [Calmo](https://open.spotify.com/album/684cQKmHX6U7QSmwtofI4f) | 7:08 | 2021-05-07 |  |
@@ -191,6 +191,7 @@
 | [Odium](https://open.spotify.com/track/4suC1hINTUwtEjbGDgeKzi) | [Robin Schellenberg](https://open.spotify.com/artist/78Hy8NdjsX1EPvxZfOE4lE), [VRuno](https://open.spotify.com/artist/0f3CNjLXoEkL441sJUE4BO) | [Stories From Space](https://open.spotify.com/album/1bAAVjlN4pssW3GMWZGJaN) | 7:28 | 2021-05-26 | 2022-07-22 |
 | [Of Dreams and Hopes](https://open.spotify.com/track/4gV7GVMSyubzPxOjToHOMM) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd) | [Of Dreams and Hopes](https://open.spotify.com/album/4ofJwou4D0dp0ij2nI8O7S) | 7:22 | 2022-01-07 | 2022-07-28 |
 | [Olappa](https://open.spotify.com/track/4MaARFislNIGgr6iqejbHC) | [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [Lunar Plane / Daniel Rateuke](https://open.spotify.com/album/440LEyeR8cvOC2LKtbBret) | 7:42 | 2021-04-21 | 2022-04-21 |
+| [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-07-28 |  |
 | [Once Again \- Edit](https://open.spotify.com/track/00n7wN0flnH48KVwQOms7A) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [One More Ride](https://open.spotify.com/track/1eys1iysFllOg7dAbUjFtB) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [One More Ride](https://open.spotify.com/album/5TjLnQfzTLcftYCkJOYRuT) | 6:56 | 2021-04-21 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Only](https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8) | 7:34 | 2022-07-18 |  |
@@ -198,7 +199,7 @@
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 |  |
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-01-12 | 2022-07-17 |
 | [Otherside \- Fideles Remix Edit](https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Otherside \(Fideles Remix Edit\)](https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf) | 4:30 | 2022-07-22 |  |
-| [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 |  |
+| [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 | 2022-07-31 |
 | [Oudara \- Club Mix](https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Oudara](https://open.spotify.com/album/7rdSwrZvfnJZfSl8Cmi3Mk) | 5:45 | 2022-07-01 | 2022-07-20 |
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-06-10 |  |
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |
@@ -208,6 +209,7 @@
 | [Petra](https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Petra](https://open.spotify.com/album/4fAOQoSV8Sy0XKDKuSS4bp) | 4:36 | 2022-04-08 |  |
 | [Phara Oh](https://open.spotify.com/track/5TrkFfJgrGa1PdAkJO5QAs) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Phara Oh Away](https://open.spotify.com/album/15qqhB5L0g5xb8sFVaVEul) | 8:47 | 2021-05-07 |  |
 | [Pink Elephant](https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [The Witness EP](https://open.spotify.com/album/5rCCueOoszcB562Okhz13f) | 5:45 | 2021-09-03 | 2022-07-28 |
+| [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2022-07-28 |  |
 | [Pont de la Caille](https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pont de la Caille](https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M) | 5:13 | 2021-09-03 |  |
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2021-04-21 | 2022-06-07 |
 | [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-07-08 |  |

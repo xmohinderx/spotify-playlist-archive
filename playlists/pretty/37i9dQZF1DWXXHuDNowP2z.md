@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,749 likes - 150 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,007 likes - 150 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 33 | [La Flechita](https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' la Raza](https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU) | 2:14 |
 | 34 | [El Condor Pasa](https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia) | [Contrabandistas de San Luis](https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb) | [El Condor Pasa](https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx) | 3:28 |
 | 35 | [La Peinada \(La Peinadita\)](https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Tu Regalo](https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR) | 3:24 |
-| 36 | [Le Quito Lo Fresa](https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:52 |
-| 37 | [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 |
-| 38 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 |
+| 36 | [Cajita De Cartón](https://open.spotify.com/track/2PxkdGhTb8VLY9M2ImvGZD) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Siempre Latino Vol\. 2](https://open.spotify.com/album/2biVVTc1nnyO1UdLKfUROk) | 3:03 |
+| 37 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 |
+| 38 | [Le Quito Lo Fresa](https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [El Coco No](https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG) | 2:52 |
 | 39 | [El Vaquero](https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Comenzando Nuestra Historia](https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E) | 2:33 |
 | 40 | [Báilame](https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Báilame](https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1) | 2:59 |
 | 41 | [Ojalá Te Animes](https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:00 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 43 | [La Bota](https://open.spotify.com/track/5s3IWiEUyNocPtapPxqlPd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:28 |
 | 44 | [Celoso](https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Celoso](https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj) | 3:21 |
 | 45 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
-| 46 | [Micaela/El Agua Lulco/Camaron Pelao \(En Vivo\)](https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 8:15 |
-| 47 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 46 | [Agua De Té](https://open.spotify.com/track/2UwprRPnvsWhN3ygnpayMD) | [Los Titanes De Durango](https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd) | [Los Locos Del Corrido](https://open.spotify.com/album/1SkvbWNmVnuTQwNzWRIBTo) | 3:56 |
+| 47 | [Micaela/El Agua Lulco/Camaron Pelao \(En Vivo\)](https://open.spotify.com/track/2J6yb4lXPupNZclWnRT2nJ) | [Tito Y Su Torbellino](https://open.spotify.com/artist/1QkpNJ56SmIN2EaqAXf1m7) | [En Vivo](https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk) | 8:15 |
 | 48 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 |
 | 49 | [Bésame Morenita](https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Tú](https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc) | 3:15 |
 | 50 | [Jambalaya](https://open.spotify.com/track/35iVqFnqmcqbIckOYoFnrn) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Arrasando Con Fuego](https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g) | 2:35 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 95 | [La Macarena \(Mere\-huapango\) \(En Vivo\)](https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic) | [Adixion Aktivada](https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk) | [Puro Note Primo / En Vivo Vol.1](https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu) | 2:56 |
 | 96 | [El wiri wiri](https://open.spotify.com/track/5qwtpyavx0oyGlKAQDiRll) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [El wiri wiri](https://open.spotify.com/album/1s5YwH3eSuRbLufdF9LHdc) | 2:38 |
 | 97 | [El Pachuco](https://open.spotify.com/track/1Dd7dAgpbNS0nDzVPAT275) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [La Trayectoria](https://open.spotify.com/album/2WuaAcfZ0yXQVSlhgtfEkj) | 3:32 |
-| 98 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
-| 99 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
+| 98 | [Chinelo Carnavalero](https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy), [Salvador Yañez](https://open.spotify.com/artist/1ER7kw9u3miriELlOluY3e) | [Puras Carnavaleras, Vol\. 2](https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G) | 3:46 |
+| 99 | [Lucesita](https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y) | [Guizador Norteño de Zirahuén Mich.](https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP) | [Los Únicos del Huapango Michoacano](https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr) | 2:28 |
 | 100 | [El Rezado](https://open.spotify.com/track/0aeDePMtkPY23XbgD67orU) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Boca Les Callamos](https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9) | 3:31 |
 | 101 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 |
 | 102 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 133 | [Los Males De Micaela](https://open.spotify.com/track/29MBOL7DgVi8iJvKbraaPY) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Dominando](https://open.spotify.com/album/6diTSPCsoezkD8cSHuCOSA) | 2:46 |
 | 134 | [Huapango Flor de Piña](https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Viejón de Oro](https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea) | 2:52 |
 | 135 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
-| 136 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
-| 137 | [Eva maria](https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Eva maria](https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr) | 2:59 |
+| 136 | [Eva maria](https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs) | [Clave Suprema](https://open.spotify.com/artist/6qJpXwgejXZxqmYIQJB7AK) | [Eva maria](https://open.spotify.com/album/3TKV7Cz8mb1Jo3xyAY4CQr) | 2:59 |
+| 137 | [Pequeña de Ojos Brujos](https://open.spotify.com/track/5MRrfvswoInWd0XGvvfz6u) | [Hermanos Romero](https://open.spotify.com/artist/4tGMxdgFkE1WESNVTIsrgQ) | [Se Les Peló Baltazar](https://open.spotify.com/album/0dIeKfbhKl7kGQtgTK12DX) | 3:05 |
 | 138 | [Pequeña Y Frágil](https://open.spotify.com/track/2cHrDsiIllNZSiyW1UpId3) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [30 Del Recuerdo](https://open.spotify.com/album/2FCWjC0B8cNanuciJ7ZtBY) | 2:38 |
 | 139 | [La Cumbia del Rio, la Cusinela, la Fiebre Tropical \- En Vivo](https://open.spotify.com/track/5xIFQUNjIDOs89UsTKSQu9) | [Banda Bucanera](https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy) | [En Vivo](https://open.spotify.com/album/68Kjwy354fRRFUSpFTO7nx) | 5:56 |
 | 140 | [Se Tambalea](https://open.spotify.com/track/1sCGkAwPbDtKK1BYeiuhGD) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Se Tambalea](https://open.spotify.com/album/6wxJ0pltSHnGNihMe56ioU) | 2:43 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 149 | [El Caballito de Mar](https://open.spotify.com/track/5XUHIgK8y3mty4MEIvlatI) | [Afecto Norteño](https://open.spotify.com/artist/6DwBD9kC6eCPG4xA5eFzoL) | [Jam out Session 2](https://open.spotify.com/album/57wRNlhZu6I6vaLCjHZrSw) | 4:30 |
 | 150 | [Mi Burrita](https://open.spotify.com/track/2fKIVkLTQJER59LoiPLNWj) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Yo Pongo las Reglas](https://open.spotify.com/album/3iFuzt5hOPt07DjIX2Z6Et) | 3:40 |
 
-Snapshot ID: `MTY1Njk2MzA0NywwMDAwMDAwMDkyYjQ0NDFkYzliMzAwN2U3OWMyNWE0MjMxZTAzNTg3`
+Snapshot ID: `MTY1Njk2MzA0NywwMDAwMDAwMDkxYjUwYjI0MWE5ZTcyYmFjMTU1ZWQ5M2IzZWM2MDM0`

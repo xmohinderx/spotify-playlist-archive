@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Pedro Pastor",
-  "num_followers": 90933,
+  "num_followers": 90983,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMzA2NCwwMDAwMDAwMGU0MDFmMjU0NzU4NzIyZDU2OGZlNmM0MDM3Y2U4YWNi",
+  "snapshot_id": "MTY1ODUwMzA2NCwwMDAwMDAwMDkwMDEzZjM4YmQ5YzBlZTllZWJjN2U2MmNiNWU3Nzk1",
   "tracks": [
     {
       "added_at": "2022-07-22 15:17:44",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "COMO LA PIEL",
         "url": "https://open.spotify.com/album/1sXXkYWYrIEVe52YBA3EXp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 240904,
       "name": "Como Viene Se Va",
       "url": "https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
         "name": "Limoneros",
         "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Sana Sana",
-        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 302976,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
       },
       "artists": [
         {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
+        "name": "Galicia (En Directo en ac\u00fastico)",
+        "url": "https://open.spotify.com/album/38YDdADtWXkULWmitDzYBR"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        },
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 362985,
+      "name": "Galicia - En Directo en ac\u00fastico",
+      "url": "https://open.spotify.com/track/6YT1amT59hvbSyGfEIJMoX"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
         "name": "El Perro Feroz",
         "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Galicia (En Directo en ac\u00fastico)",
-        "url": "https://open.spotify.com/album/38YDdADtWXkULWmitDzYBR"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        },
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 362985,
-      "name": "Galicia - En Directo en ac\u00fastico",
-      "url": "https://open.spotify.com/track/6YT1amT59hvbSyGfEIJMoX"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE"
       },
@@ -1679,6 +1679,58 @@
       "duration_ms": 134956,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Aho Uhal",
+        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
+      },
+      "artists": [
+        {
+          "name": "Olatz Salvador",
+          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Ahots Hari",
+      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "P A L A B R A",
+        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Contacto Directo",
+      "url": "https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Lo Azul Sobre M\u00ed",
+        "url": "https://open.spotify.com/album/0lvYtB2mgbQZNqHrOn6CLP"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 291093,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/3h3OZvh4BysVSIeyd0Qfji"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1735,54 +1787,18 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "P A L A B R A",
-        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
+        "name": "Tabaibas",
+        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
       },
       "artists": [
         {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
         }
       ],
-      "duration_ms": 201053,
-      "name": "Contacto Directo",
-      "url": "https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Lo Azul Sobre M\u00ed",
-        "url": "https://open.spotify.com/album/0lvYtB2mgbQZNqHrOn6CLP"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 291093,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/3h3OZvh4BysVSIeyd0Qfji"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Aho Uhal",
-        "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
-      },
-      "artists": [
-        {
-          "name": "Olatz Salvador",
-          "url": "https://open.spotify.com/artist/7cV8rrm23yUOT1ZRJFxZxk"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Ahots Hari",
-      "url": "https://open.spotify.com/track/3mAJCzd7AfdIedlgA2MDvB"
+      "duration_ms": 232357,
+      "name": "Tabaibas",
+      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1799,22 +1815,6 @@
       "duration_ms": 286000,
       "name": "Multicolor",
       "url": "https://open.spotify.com/track/2hAprXDgkhBboDtpVHYFcr"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Tabaibas",
-        "url": "https://open.spotify.com/album/170tXRY7ZmWpbvpFyryLL3"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 232357,
-      "name": "Tabaibas",
-      "url": "https://open.spotify.com/track/3AeLXNDbwsDdmv33joggYJ"
     }
   ],
   "unique_name": "Cancionistas",

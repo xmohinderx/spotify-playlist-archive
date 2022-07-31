@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 232473,
+  "num_followers": 232460,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGZmNWNjNDQ5MjU5NTZhZDJlN2FlMGYzNzU2NzBmY2U0",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGRkMzIxYWYwODc4MWFmZDAyMTBhNDZlMDI4OTBhNjBm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -169,20 +169,20 @@
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
     },
     {
-      "added_at": "2022-02-04 05:00:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "LAst dAy oN EaRTh",
-        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
       },
       "artists": [
         {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 172755,
-      "name": "LAst dAy oN EaRTh",
-      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+        "name": "LAst dAy oN EaRTh",
+        "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
+      "duration_ms": 172755,
+      "name": "LAst dAy oN EaRTh",
+      "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -349,26 +349,6 @@
       "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Let Love Go",
-        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Let Love Go",
-      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
-    },
-    {
       "added_at": "2021-08-06 04:01:00",
       "album": {
         "name": "Groove Continental: Side A",
@@ -391,6 +371,26 @@
       "duration_ms": 176293,
       "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
       "url": "https://open.spotify.com/track/14NGdYOr9abOGH6euZcpu5"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Let Love Go",
+        "url": "https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Let Love Go",
+      "url": "https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -649,22 +649,6 @@
       "url": "https://open.spotify.com/track/42gwqd35893WOKpyNLRcCL"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Something to Say",
@@ -683,6 +667,22 @@
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Matisyahu",
+        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Mama Please Don't Worry",
+      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/1bZmbsNqOkfvGGAikytuW2"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "Don't Lose Sight",
-        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 406186,
-      "name": "Don't Lose Sight (Acoustic)",
-      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
-    },
-    {
       "added_at": "2022-07-12 18:25:04",
       "album": {
         "name": "ITS ALL GOOD",
@@ -857,20 +841,20 @@
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
+        "name": "Don't Lose Sight",
+        "url": "https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 163149,
-      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
-      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
+      "duration_ms": 406186,
+      "name": "Don't Lose Sight (Acoustic)",
+      "url": "https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -887,6 +871,22 @@
       "duration_ms": 208434,
       "name": "Preach",
       "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+        "url": "https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
+      "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC"
-      },
-      "artists": [
-        {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        }
-      ],
-      "duration_ms": 175477,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Lost & Alive",
@@ -1207,6 +1191,22 @@
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3QivixV0Zt47etyNARuXvC"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        }
+      ],
+      "duration_ms": 175477,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/2XRk6BH2GZWgA5LJz2ctTD"
     },
     {
       "added_at": "2021-09-21 15:07:50",
@@ -1281,6 +1281,22 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "duration_ms": 201201,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+    },
+    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -1305,20 +1321,24 @@
       "url": "https://open.spotify.com/track/4VAUxogl12wnQQHvQ3zVuD"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
+        "name": "Get Down! (Before You Lose Control)",
+        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+        },
+        {
+          "name": "Nia Andrews",
+          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
         }
       ],
-      "duration_ms": 201201,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+      "duration_ms": 204946,
+      "name": "Get Down! (Before You Lose Control)",
+      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1395,26 +1415,6 @@
       "duration_ms": 188253,
       "name": "Chameleon (feat. Salt Cathedral)",
       "url": "https://open.spotify.com/track/0DcmjBeZnsf97sdVsTgqIk"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Get Down! (Before You Lose Control)",
-        "url": "https://open.spotify.com/album/3N7ROCIovtTOmU3fyxWuLm"
-      },
-      "artists": [
-        {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
-        },
-        {
-          "name": "Nia Andrews",
-          "url": "https://open.spotify.com/artist/39MJrBGpjji0zkoEgcBtTt"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Get Down! (Before You Lose Control)",
-      "url": "https://open.spotify.com/track/3NwKYzeIdX1g73L3dXkySB"
     },
     {
       "added_at": "2021-11-19 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Nochica, Vitin, SD9, JEFFRO",
-  "num_followers": 16583,
+  "num_followers": 16631,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDJmNTM3ZGJjNjQ4ODJjNzM0M2YxMzkxNGMzNjBiNTYz",
+  "snapshot_id": "MTY1NzI0OTI2MCwwMDAwMDAwMDk3ZjZjZTRmY2UzMDAyMDQzOTVmZTZjZWYyMDdiZDM4",
   "tracks": [
     {
       "added_at": "2022-07-08 03:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Clone",
         "url": "https://open.spotify.com/album/6crWlJHhWRHaeZQgwxvK6v"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 198051,
       "name": "Clone",
       "url": "https://open.spotify.com/track/6qXLawiN099LNELEdzhZSP"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -527,50 +527,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Nikeboyzsport",
-        "url": "https://open.spotify.com/album/3ecynLJ2U5ZPN2xd2pal6b"
-      },
-      "artists": [
-        {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
-        },
-        {
-          "name": "Dababi 212",
-          "url": "https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L"
-        }
-      ],
-      "duration_ms": 196124,
-      "name": "Nikeboyzsport",
-      "url": "https://open.spotify.com/track/5QXrsgfoCYoU1d1MVrcaas"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
-        "name": "Me liga",
-        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
-      },
-      "artists": [
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
-        },
-        {
-          "name": "Erick Di",
-          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Me liga",
-      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Fura Bilion\u00e1rios",
         "url": "https://open.spotify.com/album/5fQq0eTv40IQzcWu4gYL7w"
       },
@@ -603,6 +559,50 @@
       "duration_ms": 300000,
       "name": "Fura Bilion\u00e1rios",
       "url": "https://open.spotify.com/track/2T2Xc0TPWKnUTcvN4XbmBC"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Me liga",
+        "url": "https://open.spotify.com/album/3VeZjOr9TbplcmNHzZ9xG7"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/4ia06gVwN3wMDpZXRMFcX6"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Nikeboyzsport",
+        "url": "https://open.spotify.com/album/3ecynLJ2U5ZPN2xd2pal6b"
+      },
+      "artists": [
+        {
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "Dababi 212",
+          "url": "https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L"
+        }
+      ],
+      "duration_ms": 196124,
+      "name": "Nikeboyzsport",
+      "url": "https://open.spotify.com/track/5QXrsgfoCYoU1d1MVrcaas"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Sobe O Morro",
-        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Fleezus",
-          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Sobe O Morro",
-      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Bandidas Amam Mc Marcelly",
         "url": "https://open.spotify.com/album/06i2iP2VgBM9S0CsWYOzpN"
       },
@@ -703,6 +679,30 @@
       "duration_ms": 185142,
       "name": "Bandidas Amam Mc Marcelly",
       "url": "https://open.spotify.com/track/2QO4r7oo203Wb0Y4Y6RprZ"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Sobe O Morro",
+        "url": "https://open.spotify.com/album/7vAYVJSHSebqNrnJT70Gcl"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Sobe O Morro",
+      "url": "https://open.spotify.com/track/4ZjDDf6NjEVHSwJwAjeJj6"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -751,26 +751,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Nova Febre",
-        "url": "https://open.spotify.com/album/1sJhdEu5L79eaACENANaas"
+        "name": "Ruas Perigosas",
+        "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
       },
       "artists": [
         {
-          "name": "OG BRITTO",
-          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
+          "name": "Yung Nobre",
+          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
         },
         {
-          "name": "VND",
-          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
         },
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Pente de 30",
-      "url": "https://open.spotify.com/track/5ykEJNLrXkkgShLyPaJt2e"
+      "duration_ms": 195428,
+      "name": "Ruas Perigosas",
+      "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -835,26 +835,26 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Ruas Perigosas",
-        "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
+        "name": "Nova Febre",
+        "url": "https://open.spotify.com/album/1sJhdEu5L79eaACENANaas"
       },
       "artists": [
         {
-          "name": "Yung Nobre",
-          "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+          "name": "OG BRITTO",
+          "url": "https://open.spotify.com/artist/3sJkWvmIolNQZkWUrLRSJF"
         },
         {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
         },
         {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Ruas Perigosas",
-      "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
+      "duration_ms": 163404,
+      "name": "Pente de 30",
+      "url": "https://open.spotify.com/track/5ykEJNLrXkkgShLyPaJt2e"
     },
     {
       "added_at": "2022-07-08 03:01:00",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2022-07-08 03:01:00",
       "album": {
-        "name": "Lixo ao Luxo",
-        "url": "https://open.spotify.com/album/6liYxrQLuRLY7XldSp2w45"
-      },
-      "artists": [
-        {
-          "name": "diniBoy",
-          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
-        },
-        {
-          "name": "Sheik S",
-          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
-        },
-        {
-          "name": "Dababi 212",
-          "url": "https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L"
-        }
-      ],
-      "duration_ms": 194685,
-      "name": "Lixo ao Luxo",
-      "url": "https://open.spotify.com/track/7ctT75UhzxwIt3Ki476RXU"
-    },
-    {
-      "added_at": "2022-07-08 03:01:00",
-      "album": {
         "name": "Robin Hood",
         "url": "https://open.spotify.com/album/0h5JsBVrmQganNjaLXpuPd"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 138947,
       "name": "Robin Hood",
       "url": "https://open.spotify.com/track/6p9qeFk5GCSqbZglNYa48C"
+    },
+    {
+      "added_at": "2022-07-08 03:01:00",
+      "album": {
+        "name": "Lixo ao Luxo",
+        "url": "https://open.spotify.com/album/6liYxrQLuRLY7XldSp2w45"
+      },
+      "artists": [
+        {
+          "name": "diniBoy",
+          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
+        },
+        {
+          "name": "Sheik S",
+          "url": "https://open.spotify.com/artist/5sDqgvXRa1vqlQ80rJ6Gob"
+        },
+        {
+          "name": "Dababi 212",
+          "url": "https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "Lixo ao Luxo",
+      "url": "https://open.spotify.com/track/7ctT75UhzxwIt3Ki476RXU"
     },
     {
       "added_at": "2022-07-08 03:01:00",

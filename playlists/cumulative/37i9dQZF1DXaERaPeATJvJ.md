@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Penggalan lagu lama dari kancah musik independen\. Cover: The Sastro
+> Penggalan lagu lama dari kancah musik independen\. Cover: Funny Little Dream
 
-87 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
+88 songs - 6 hr 4 min - [published](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Di Sayidan](https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Di Sayidan](https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH) | 5:14 | 2021-11-25 |  |
 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 | 2021-11-25 |  |
 | [Firefiles](https://open.spotify.com/track/4Vg4wDdSihxcGQhXHSEzMj) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [The Place I Wanna Go](https://open.spotify.com/album/1EtoolKNgWx0OoIJNDtZWt) | 3:44 | 2022-04-14 |  |
+| [Funny Little Dream](https://open.spotify.com/track/6c9Migc6BSfWp1pMIr7DuM) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/29AM4873XavAXXXvr446D0) | 3:10 | 2022-07-30 |  |
 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 | 2021-11-25 |  |
 | [Hilang](https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [rumahsakit](https://open.spotify.com/album/6UGe4giZjoyqAku6wQaxdw) | 3:56 | 2021-11-25 |  |
 | [Hook Up](https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [First Chapter of Allordia](https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff) | 4:20 | 2022-01-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,709 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,905 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 27 | [Let Me Be Your Fantasy](https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph) | [Baby D](https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc) | [Deliverance](https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn) | 7:50 |
 | 28 | [Injected with a Poison](https://open.spotify.com/track/6pjNPFhhzSho4EYffiV8Pa) | [Praga Khan](https://open.spotify.com/artist/571MZ41OAhLQwOHzW6XfRb) | [Conquers Your Love \(Remastered\)](https://open.spotify.com/album/1TvcBifosVJDio8eHJjuoz) | 5:03 |
 | 29 | [LFO](https://open.spotify.com/track/0BELfOcufjLMZkfPu2p7K5) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 5:19 |
-| 30 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
-| 31 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
+| 30 | [Don't You Want Me \- Edit](https://open.spotify.com/track/5xmZDSLfUKwgTxfEqVv7g0) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:09 |
+| 31 | [Digeridoo](https://open.spotify.com/track/3QSQbRPGDky3vRmXVeP8iU) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Digeridoo](https://open.spotify.com/album/1yDakrbF2ddXhBd6c8bV0G) | 7:11 |
 | 32 | [Camargue](https://open.spotify.com/track/3W6LDkmCTlAktnIt9yQrY3) | [CJ Bolland](https://open.spotify.com/artist/51OKtNtm24ALAjAHBMiFng) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 6:24 |
-| 33 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
-| 34 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
+| 33 | [Feel Real Good](https://open.spotify.com/track/0JaqIqqFzNkQFoCJTFrakV) | [Manix](https://open.spotify.com/artist/3NxpC1snwKVakSDm2hLNsI) | [Reinforced Presents Callin For Reinforcements](https://open.spotify.com/album/5w8cU8ixaBD5NjjNnFG7mA) | 4:40 |
+| 34 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
 | 35 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
 | 36 | [Far out](https://open.spotify.com/track/72qHsDcLYFyPTqKAmQcm4h) | [Sonz Of A Loop Da Loop Era](https://open.spotify.com/artist/7BVU0VCeUMAa18zDX5mOyh) | [Far Out/Higher](https://open.spotify.com/album/3OGpPRrKarUlNG4bF4sn6M) | 4:55 |
 | 37 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 39 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
 | 40 | [DJs Take Control](https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW) | 5:05 |
 | 41 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
-| 42 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
-| 43 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
+| 42 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
+| 43 | [Voodoo People](https://open.spotify.com/track/0UzhQhSjlIiNHqozH0tKHl) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:27 |
 | 44 | [R.I.P.](https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W) | 4:36 |
 | 45 | [A Trip to Trumpton](https://open.spotify.com/track/2XOZtfX5jRhHClanQCQKCB) | [Urban Hype](https://open.spotify.com/artist/3bc9afAmYFjpZAlUCdivKO) | [Conspiracy to Dance](https://open.spotify.com/album/5ZZWCQDEpQP09K6GyDziTd) | 3:35 |
 | 46 | [We Are I.E\. \- Original Extended Edit](https://open.spotify.com/track/7Li4jlU5MVqS5f3J2ooviA) | [Lennie De Ice](https://open.spotify.com/artist/5FlgrBF71OneBX2lLRe4Tj) | [We Are I.E.](https://open.spotify.com/album/0tZD3DurMqNzntpB60M5cH) | 4:58 |
 | 47 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/2Sn0kVVniQtPXHy3yqRwNt) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5mH05vKa8zsJWULxSjaySm) | 5:19 |
 | 48 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 |
 | 49 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
-| 50 | [Quadrophonia](https://open.spotify.com/track/3UWI95pROyfLZZz4YEwFP3) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Quadrophonia](https://open.spotify.com/artist/5h9kVRnbuvrdgWJMOPkGna) | [Old Skool](https://open.spotify.com/album/4uKTXO3kX3Tb1i2vtnPREm) | 3:20 |
+| 50 | [Raving I'm Raving \- Remix.mp3](https://open.spotify.com/track/0xi6k3xSyrxWG0oeQMQJnk) | [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Death Is Not the End](https://open.spotify.com/album/4eBXRI4mExUO5zSZULCYnK) | 4:22 |
 
-Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDJlMzc5MDQwNzE1NjZjYjg4NjA2OTg2ZjRlMTJjYjQ4`
+Snapshot ID: `MTYxOTY4MTQ0OSwwMDAwMDAwMDVhMDQxMThiNTcwYWJkYmE5NTBmNDEzYmFiNjI4OWY1`

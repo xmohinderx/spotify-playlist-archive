@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,229 likes - 80 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,244 likes - 80 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 48 | [Gulch](https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs) | [Tipper](https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe) | [Forward Escape](https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L) | 3:56 |
 | 49 | [Opal Waltz](https://open.spotify.com/track/058bYtysQS0bnt7KtEnZsg) | [Supernaive](https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq) | [Dazed & Confused](https://open.spotify.com/album/15egQXR5QFe5oyqH0U4rlE) | 3:43 |
 | 50 | [Red Giant](https://open.spotify.com/track/3sRshuQLy538LS16Ot3Ld4) | [Kodomo](https://open.spotify.com/artist/57BliIwnAIqKeI4dbAWwaU) | [Patterns & Light](https://open.spotify.com/album/6r1CzWzBp0qus1DQqIbnwV) | 4:55 |
-| 51 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
-| 52 | [What I Saw That Night](https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1) | [Akın Paksoy](https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ), [Velectric](https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm) | [What I Saw That Night](https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU) | 7:00 |
+| 51 | [What I Saw That Night](https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1) | [Akın Paksoy](https://open.spotify.com/artist/3CeeyVbfjyxwIWmH5us6vZ), [Velectric](https://open.spotify.com/artist/7Io8HoUECnnnjZT9iPMhTm) | [What I Saw That Night](https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU) | 7:00 |
+| 52 | [Loop No 1](https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Minor Thought](https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA) | 6:12 |
 | 53 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
 | 54 | [As Long as There's Sunset](https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Aerial](https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89) | 6:09 |
 | 55 | [Miracle Of The Rose](https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi) | [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Miracle Of The Rose EP](https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC) | 5:31 |
-| 56 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
-| 57 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
+| 56 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
+| 57 | [Deep Eyes Blue Skies](https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot) | [Trudge](https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG) | [When the Rain](https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66) | 6:40 |
 | 58 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 59 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 | 60 | [Everything](https://open.spotify.com/track/0UYh6IZU6VI8xTvupNWdWh) | [A Forest Mighty Black](https://open.spotify.com/artist/0kvh70DV0fgXwIVVtwNs9y) | [Mellowdramatic](https://open.spotify.com/album/2I95PYKCg7XXV6yHKVOtW3) | 7:58 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 63 | [Excess](https://open.spotify.com/track/5XwKGsHvBI5c7cSJh3qTLY) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Excess EP](https://open.spotify.com/album/7qi7DRAYNMj9K1lTDHjACE) | 7:12 |
 | 64 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
 | 65 | [like me](https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76) | [paleboi](https://open.spotify.com/artist/1v8jFbmY8xNOopHAn0hRSe) | [like me](https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup) | 5:11 |
-| 66 | [Lefty's Bar](https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy EP](https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW) | 5:55 |
-| 67 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
-| 68 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
+| 66 | [Orbital Hypnosis \- Erly Tepshi Remix](https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Passengers](https://open.spotify.com/album/1SUZeWADdTWBZTG2HjQfFP) | 6:06 |
+| 67 | [Lefty's Bar](https://open.spotify.com/track/4cNAVxOssXmb8Xl4yZ8QNO) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Kill Frenzy EP](https://open.spotify.com/album/3wDVTkC3IBNjlRHRs2iZUW) | 5:55 |
+| 68 | [Vasudeva](https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Vasudeva](https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G) | 6:16 |
 | 69 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
 | 70 | [Immortal](https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Carlos Pérez](https://open.spotify.com/artist/6L9nhBLgFJjNsV6BJDhqRr) | [Thunderstorm EP](https://open.spotify.com/album/6R30YrcG8zrQwb5IpPsmWS) | 6:57 |
 | 71 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 76 | [Shift II \- Original Mix](https://open.spotify.com/track/2VAPNBfbvw7zagvjO1bHZd) | [Coss](https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74) | [Shift I \- II](https://open.spotify.com/album/6N6oJFs70pee2N27qQFwWX) | 5:56 |
 | 77 | [Overhead](https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb) | [Professor Kliq](https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW) | [The Scientific Method, Vol 2](https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb) | 5:15 |
 | 78 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
-| 79 | [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 |
-| 80 | [Confiscate \- Drumcomplex Remix](https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU), [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId) | [Confiscate / Elucidate](https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb) | 6:46 |
+| 79 | [Confiscate \- Drumcomplex Remix](https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU), [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId) | [Confiscate / Elucidate](https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb) | 6:46 |
+| 80 | [The Ganga river unpolluted once more](https://open.spotify.com/track/4eFT4z7SXuDNzU9erIH9Ki) | [Aron Estocolmo](https://open.spotify.com/artist/2QU3bcawUYfHbcPmWPHtra) | [In search of Moksha..\. Or something of the kind](https://open.spotify.com/album/1ZYN9az0XRYYi3sGRt836S) | 6:37 |
 
-Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMGIyNjVkYzYwMzQwNjJkZTg3YmZlYmNkNDFjZjE0MTlh`
+Snapshot ID: `MTY1NzkwNjQ1NSwwMDAwMDAwMDEyNmJmYWI1ZWFjNTU4Y2JiMjAzMmE3MTdiM2E0ODVk`

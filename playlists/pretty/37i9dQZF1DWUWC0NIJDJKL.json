@@ -1,12 +1,12 @@
 {
   "description": "Perfect sunshiney indie tracks for summer.",
-  "num_followers": 52139,
+  "num_followers": 52348,
   "original_name": "Indie Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc2OTkyMSwwMDAwMDAwMGQ4ZWJmNTY0MTIxYjUzZmQ4MjNlZjI4MmZjMjM2Mjc1",
+  "snapshot_id": "MTY1ODc2OTkyMSwwMDAwMDAwMGQ0NTMyMjMwYmFiYTY1ZTA1ZWI4NjJmODNiYzM4MTlh",
   "tracks": [
     {
       "added_at": "2022-06-10 04:05:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-06-10 04:05:00",
       "album": {
-        "name": "summer,",
-        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "comethru",
-      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
-    },
-    {
-      "added_at": "2022-06-10 04:05:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2022-06-10 04:05:00",
+      "album": {
+        "name": "summer,",
+        "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "comethru",
+      "url": "https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP"
     },
     {
       "added_at": "2022-06-10 04:05:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-06-10 04:05:00",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg"
-    },
-    {
-      "added_at": "2022-06-10 04:05:00",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2022-06-10 04:05:00",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg"
     },
     {
       "added_at": "2022-07-25 17:25:21",

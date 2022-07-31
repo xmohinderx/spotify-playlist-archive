@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-197 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+198 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [In the Soft Light](https://open.spotify.com/track/3XsCxRtDgJIFN02fcTBxme) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Integration](https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ) | [Equanimous](https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn), [Ruby Chase](https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq), [Bliss Looper](https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN) | [Attract](https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA) | 2:54 | 2022-07-22 |  |
 | [isle of the blest](https://open.spotify.com/track/45JAQThRllzazhpb8cl6B2) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [isle of the blest](https://open.spotify.com/album/48Yya4JmTnxCBSMAac6FjK) | 2:53 | 2022-03-25 | 2022-04-02 |
-| [Kassel \- Foam and Sand Rework](https://open.spotify.com/track/7bN6LfnfBvz9ytA6dPj5Mg) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm) | 4:37 | 2022-06-03 |  |
+| [Kassel \- Foam and Sand Rework](https://open.spotify.com/track/7bN6LfnfBvz9ytA6dPj5Mg) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [The Next Billion Years \(Foam and Sand Reworks\)](https://open.spotify.com/album/4KZmOzxvjx1pwCaLrdgvqm) | 4:37 | 2022-06-03 | 2022-07-31 |
 | [Kassel \- Robot Koch Rework](https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [The Next Billion Years \(Rework EP\)](https://open.spotify.com/album/6JN2fMV9JAXlQLlqf9hAuZ) | 4:07 | 2021-12-10 | 2022-06-17 |
 | [Klass \- MISSUXO Film Edit](https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass \(MISSUXO Film Edit\)](https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa) | 3:58 | 2022-02-11 |  |
 | [knowledge](https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU) | [Gian Marco Castro](https://open.spotify.com/artist/3eKHhTJoTeSu0BNBls4ju6) | [knowledge](https://open.spotify.com/album/2pmgXrNSfraUoYE9WezoOZ) | 4:59 | 2021-12-10 |  |
@@ -191,6 +191,7 @@
 | [Universal Kiss](https://open.spotify.com/track/407KvBaY2r2ctmZpY1KufZ) | [Benedikt Schiefer](https://open.spotify.com/artist/4OaysEYNmI6UIEkyplEcNH) | [Universal Kiss](https://open.spotify.com/album/7DARwzaOmIIiVJUSzNdXWt) | 9:18 | 2022-01-07 | 2022-07-29 |
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2021-12-10 | 2022-03-31 |
 | [Vale](https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/0rhtrkctOlgmZkAX44BaGN) | 6:28 | 2021-12-10 | 2022-07-22 |
+| [Vale](https://open.spotify.com/track/4RocG6490RoLRJgdbNZEEY) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90) | [Vale](https://open.spotify.com/album/7bzBIJynVYnwioBEY248DP) | 6:28 | 2022-07-22 |  |
 | [Vermilion](https://open.spotify.com/track/2eUpkvlZJYm7WiAnM3s9xs) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Vermilion](https://open.spotify.com/album/50uV1MBe1FnhAWxxWb92E8) | 3:17 | 2021-12-10 | 2022-07-29 |
 | [Vermilion](https://open.spotify.com/track/4V2Hz5O0EOui1S3coZhdTd) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 3:17 | 2022-07-22 |  |
 | [Wandering II \- Ed Carlsen Rework](https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx), [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Wandering II \(Ed Carlsen Rework\)](https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga) | 3:10 | 2021-12-10 | 2022-07-29 |

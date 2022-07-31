@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,709 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,762 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 37 | [Cielito Lindo \- Guitar Version](https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ) | [Manuel Granada](https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV) | [Spanish Guitar Latin Hits](https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U) | 2:39 |
 | 38 | [Traigo Canciones](https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 3:53 |
 | 39 | [Luna Lunera](https://open.spotify.com/track/119YhbTAwA2txEJNe6Sdjg) | [Cortando Troncos](https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn) | [Luna Lunera](https://open.spotify.com/album/1LHSs9qU9O6bu2OIvav6pr) | 2:04 |
-| 40 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |
-| 41 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
+| 40 | [Costumbres](https://open.spotify.com/track/6RGcyQM6Jt2VJ7OBHuVvT4) | [Guitarras Mágicas](https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0) | [25 Exitos](https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS) | 3:15 |
+| 41 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |
 | 42 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
 | 43 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
 | 44 | [La Incondicional](https://open.spotify.com/track/7FFwJ6LJzc5kywubh45ZMU) | [Guitarras de Luna](https://open.spotify.com/artist/0SBE5mcdSjhXgCBmWREiFh) | [Grandes Exitos del Sol](https://open.spotify.com/album/5dNZmdBj1zl3zu5LBdvf8D) | 3:57 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 46 | [Presentimiento](https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Presentimiento](https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr) | 3:00 |
 | 47 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
 | 48 | [Dos Arbolitos](https://open.spotify.com/track/79asYQZENI08hJ8dbQxnAu) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:20 |
-| 49 | [Siempre Te Amare](https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Siempre Te Amare](https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4) | 2:29 |
-| 50 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
-| 51 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
-| 52 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
+| 49 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
+| 50 | [Siempre Te Amare](https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Siempre Te Amare](https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4) | 2:29 |
+| 51 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
+| 52 | [Popurri de Huapangos: La Malagueña / Serenata Huasteca / El Mil Amores / El Aguacero](https://open.spotify.com/track/3A9XcFJkVeQGYp7ImCJErG) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 4:04 |
 | 53 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 |
 | 54 | [La Feria De Las Flores](https://open.spotify.com/track/4UhQUTyawdgrLXfvZUNpzU) | [Roberto Rojas](https://open.spotify.com/artist/6h8HM5jSn1QjXgOiZzfm0p) | [Guitarra Mexicana](https://open.spotify.com/album/4E9JVN15xAQeBCtFuxnafP) | 2:31 |
 | 55 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 99 | [Janitzio](https://open.spotify.com/track/1CUdNGeXI2ghgepbG9lMAX) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 2:44 |
 | 100 | [Las Golondrinas](https://open.spotify.com/track/56O9jMPcAphS4MMVQ0gJ1I) | [Ricardo Palmerin](https://open.spotify.com/artist/7n9YF7hzLeGJNuZ6oCeZo0), [Rosado Vega](https://open.spotify.com/artist/05oUK8k9AWyufbL7fwgw1Z), [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [La Gran Colección del 60 Aniversario CBS \- Antonio Bribiesca](https://open.spotify.com/album/2rDD8JqC6Id1hmr0JI4hDA) | 3:35 |
 
-Snapshot ID: `MTY0MjAyOTg2NywwMDAwMDAwMDJkZDE4M2JhNDdlMDQ4ZTc2YTkzNDY4MTE4OGIwZWRk`
+Snapshot ID: `MTY0MjAyOTg2NywwMDAwMDAwMDZlZWVjNThiODcyNmUxMzI1ZjUwNjFlM2ZmNGM1NGFl`

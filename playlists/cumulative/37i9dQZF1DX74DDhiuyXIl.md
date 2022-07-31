@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-205 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+206 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [她 未知者](https://open.spotify.com/track/2oPsQEtm4FRSwSoCc5W0v2) | [亦帆](https://open.spotify.com/artist/2SFRlJIospp5rCo7jZC6MT) | [她 未知者](https://open.spotify.com/album/6Us7swn83FTat0pc5CvgK8) | 4:15 | 2022-07-04 | 2022-07-07 |
 | [好好睡,晚安【電影《上海堡壘》官方推廣曲】](https://open.spotify.com/track/2oFBn515CgKOdJFFJQJ4MJ) | [Yusee](https://open.spotify.com/artist/4yvd8YIp1l2tyhLxc0dM8a) | [好好睡,晚安【電影《上海堡壘》官方推廣曲】](https://open.spotify.com/album/6y7aF2T2Tafvcj8oUqwN9u) | 4:19 | 2022-07-04 | 2022-07-10 |
 | [好想愛這個世界啊](https://open.spotify.com/track/4dCJwNoQG5Fx42pqIz99Vn) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/0Iop0Fib806nAGvI6EPZrZ) | 4:18 | 2022-06-06 | 2022-07-28 |
+| [好想愛這個世界啊](https://open.spotify.com/track/7dcP3dkBK2SEplkgIZlwix) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/63odMEqIm4IMVGav51VG1k) | 4:18 | 2022-07-25 |  |
 | [如果你在我身邊](https://open.spotify.com/track/5mWHtKkiXut1SZLvz7mO2l) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [如果你在我身邊](https://open.spotify.com/album/5PGbK9cVrJ9ioeeQQQoQ4L) | 4:15 | 2022-07-04 | 2022-07-20 |
 | [如果可以 \- 電影"月老"主題曲](https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(電影"月老"主題曲\)](https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0) | 4:34 | 2022-06-06 |  |
 | [如果我沒有傷口](https://open.spotify.com/track/7jWZPpaNaO8tp6p5RRcNG7) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Ugly Beauty](https://open.spotify.com/album/7HFFEjrwzZNpbee44SJnn9) | 5:01 | 2022-06-06 | 2022-07-28 |
@@ -177,7 +178,7 @@
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-06-06 |  |
 | [藍](https://open.spotify.com/track/1zFoPezkmIfR4TkKSNoxan) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [藍](https://open.spotify.com/album/0uxGHy0GFJxGbldtRc1cxO) | 4:31 | 2022-06-20 | 2022-07-09 |
 | [藍色天空](https://open.spotify.com/track/2bY4nahVZwOulPuVf2pn2a) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [藍色天空](https://open.spotify.com/album/0gHfuFj9p6E7xogNy98T23) | 4:03 | 2022-06-06 | 2022-07-28 |
-| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 |  |
+| [處處遺憾](https://open.spotify.com/track/6vcl5gHFcDmGnioPoHBxER) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [處處遺憾](https://open.spotify.com/album/6pCW8bXJ2lt3QBU5dFXGdu) | 4:10 | 2022-06-06 | 2022-07-31 |
 | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/track/6KjSRihg1U0Fn4kzrEuZb4) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [蜂鳥 \(電視劇《我在北京等你》片頭曲\)](https://open.spotify.com/album/5Mwt6x1fIXxndSnsoEIyH1) | 3:45 | 2022-06-13 | 2022-06-23 |
 | [裹著心的光](https://open.spotify.com/track/4qasQt2JsuBK8ZwERwuAZO) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [裹著心的光](https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO) | 4:33 | 2022-06-06 |  |
 | [記得回來](https://open.spotify.com/track/2gC8kQbtDqzqFTnN4OAWoG) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [Sounds of My Life](https://open.spotify.com/album/2LmBCs61pclie64NIWqPWS) | 4:28 | 2022-06-06 | 2022-07-29 |

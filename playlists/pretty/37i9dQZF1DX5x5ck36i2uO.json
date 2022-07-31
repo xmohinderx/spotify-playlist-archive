@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGQ4M2JlY2M5ZmI2ZGRkNDM4Zjc4ZTdjNWE5MWQ0Yzc0",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGVlMzk5MTY2NTIxNmUxNzIxYWU1NWFjOWJmN2ZkNmQ5",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "Message In A Bottle",
-        "url": "https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R"
-      },
-      "artists": [
-        {
-          "name": "Junoflo",
-          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Message In A Bottle",
-      "url": "https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "RANDOM BOX",
         "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 230173,
       "name": "Roommate",
       "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "Message In A Bottle",
+        "url": "https://open.spotify.com/album/26rsyTRa4oAqcqBgJTKE3R"
+      },
+      "artists": [
+        {
+          "name": "Junoflo",
+          "url": "https://open.spotify.com/artist/5ZjBaiZiRUZx4AmlzOOc9R"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Message In A Bottle",
+      "url": "https://open.spotify.com/track/3Ypwf52y6piITO7AFTdqFc"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "Black & White Film",
-        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Jung Yup",
-          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 182013,
       "name": "Chingchingching (Feat. DeVita)",
       "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "Black & White Film",
+        "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Jung Yup",
+          "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "In The Morning",
-        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 195083,
-      "name": "In The Morning (Feat. Bryn)",
-      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 185204,
       "name": "Gyeongsan-si",
       "url": "https://open.spotify.com/track/2Vjwz8mExrUU2A2YV5DvI7"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 195083,
+      "name": "In The Morning (Feat. Bryn)",
+      "url": "https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo"
     },
     {
       "added_at": "2022-07-22 09:31:48",

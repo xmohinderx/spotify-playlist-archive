@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Nuove scoperte della scena indipendente italiana, senza etichette di genere\. Cover: <a href="spotify:artist:0pb0sehd5pPALyoCt8B4MV">Leanò</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,278 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,289 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 6 | [Malemalemale](https://open.spotify.com/track/2cTjmfXzhBa5HPhF1qYbW9) | [Tommi](https://open.spotify.com/artist/21hv3VURB1Om4Czpqg3f9B) | [Malemalemale](https://open.spotify.com/album/23NRskPb1PiTYLAv7fuH7h) | 2:27 |
 | 7 | [Sentimenti in Giro](https://open.spotify.com/track/4qJotoxYsJRlgawZCaKMis) | [Grill Boys](https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h) | [Sentimenti in Giro](https://open.spotify.com/album/2S9eFifDyuI636AXkAmYRF) | 2:57 |
 | 8 | [FuORI PoSTO](https://open.spotify.com/track/1UGyAHFjN7FbkM0Nf2bcV0) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [FuORI PoSTO](https://open.spotify.com/album/4FQf3FGRz6UyBXXutTuhxn) | 2:34 |
-| 9 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Ciko](https://open.spotify.com/artist/1D7ppoTFTx2fi5bgx2Mrmg), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr Monty](https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ), [DamianK](https://open.spotify.com/artist/7EMurL6dl6HOnbjp0Il3h8) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 |
+| 9 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr Monty](https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ), [DamianK](https://open.spotify.com/artist/7EMurL6dl6HOnbjp0Il3h8) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 |
 | 10 | [Valhalla](https://open.spotify.com/track/5tdUWLALLzFt180vBlT2su) | [Reminore](https://open.spotify.com/artist/0aHz7T2jUBp33N4FzdUBZF) | [Valhalla](https://open.spotify.com/album/3WfpXIDsb2tuKRiD1gbDKi) | 2:20 |
 | 11 | [SOLE](https://open.spotify.com/track/4O1RTIl4kWFwk8DTKzWiIS) | [pug effe](https://open.spotify.com/artist/3Gp5FNIN0NzkZdOQYbYbmm), [Tommy3](https://open.spotify.com/artist/5MxvM5IMLku68VNr38ToQN), [Den](https://open.spotify.com/artist/6MkUYYwYzoA16ymtmv6CrM), [Claude](https://open.spotify.com/artist/2LOwCIOcMogcZ8sJWLxCHU), [Agus](https://open.spotify.com/artist/5CCbmbrmRS8qclg9mf7ToG) | [SOLE](https://open.spotify.com/album/06kqwQE7hxtcmfZzdw7AjY) | 3:47 |
 | 12 | [Baby stai con me](https://open.spotify.com/track/1YRkrzo34kTUQq8jSfnSoA) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Baby stai con me](https://open.spotify.com/album/0qdIghkVBG0SB2iKAccsY7) | 3:15 |

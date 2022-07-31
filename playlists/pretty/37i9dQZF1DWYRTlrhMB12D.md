@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 
 > Soulful Hindi songs for your nostalgic journey
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,016 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,245 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 18 | [Pyar Hua Iqrar Hua \(From "Shree 420"\)](https://open.spotify.com/track/4GnWuUsBp9PoWIiigz8DUb) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:20 |
 | 19 | [Aap Ki Nazron Ne Samjha \(From "Anpadh"\)](https://open.spotify.com/track/7KoJExPLSJNymJRSDR56UF) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Masterworks Lata Mangeshkar](https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr) | 3:54 |
 | 20 | [Babuji Dheere Chalna](https://open.spotify.com/track/27Bi9n90kunzgPXzgfqOff) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [Aar Paar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe) | 3:27 |
-| 21 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:02 |
-| 22 | [Bahon Mein Chale Aao \(From "Anamika"\)](https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF) | [Tabassum](https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Flash Back \- Lata Mangeshkar with Tabassum](https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx) | 4:02 |
+| 21 | [Bahon Mein Chale Aao \(From "Anamika"\)](https://open.spotify.com/track/2q3VUz3UgA3PVFFRJOMObF) | [Tabassum](https://open.spotify.com/artist/1nnDcAGbCZYOMCsddidWCX), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Flash Back \- Lata Mangeshkar with Tabassum](https://open.spotify.com/album/6Ux6Eczfu1lFP1KHIVnubx) | 4:02 |
+| 22 | [Jhuki Jhuki Si Nazar](https://open.spotify.com/track/5PWQsLrymwQbCVYOO70Vfd) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:02 |
 | 23 | [Kahin Door Jab Din Dhal Jaye](https://open.spotify.com/track/2wFILyz3whKS43ZmSLdNYJ) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Anand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5YS9C9LtFu5GEIAFGfQZTJ) | 5:37 |
 | 24 | [Aaja Sanam Madhur Chandni Men](https://open.spotify.com/track/4mvkokOAbfjx2J2TVgwVtf) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU) | [Chori Chori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW) | 4:25 |
 | 25 | [O Haseena Zulfonwale Jane Jahan \(From "Teesri Manzil"\)](https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Memoirically \- Mohammed Rafi](https://open.spotify.com/album/7EZdE0t7jl1HVelhq6OUej) | 6:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRTlrhMB12D.md) - [plain]
 | 49 | [Yeh Jo Mohabbat Hai](https://open.spotify.com/track/5r1BxH58zZpdj51nVRXb2o) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kati Patang \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OwB3P97qeFzhDQYYHy5uv) | 4:07 |
 | 50 | [Mere Mehboob Qayamat Hogi, Pt\. 1 \(From "Mr\. X in Bombay"\)](https://open.spotify.com/track/0us929HY2oacANZERkLkUL) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Krazy Kishore](https://open.spotify.com/album/43ehHE4nhmYH976HupqUlx) | 3:48 |
 
-Snapshot ID: `MTY0MTM1NjI1MSwwMDAwMDAwMDMwZDQyMjU0NWI5NTJkYjJiM2QxMGJhMzcwNmJmNzcx`
+Snapshot ID: `MTY0MTM1NjI1MSwwMDAwMDAwMDIyNWI1ZDdjYzcwYWUwYWU2NDUzNTRiYmQ3ZDQxNmQ0`

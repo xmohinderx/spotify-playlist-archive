@@ -4,7 +4,7 @@
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-84 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
+85 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Pikachu](https://open.spotify.com/track/48sJEKZoD3pnpCcjekNf5K) | [Davus](https://open.spotify.com/artist/2Gxaf60UDXKrmcIhEjULSk) | [Pikachu](https://open.spotify.com/album/709DWlSbhFvv8lUdpSzEnZ) | 2:34 | 2021-09-10 |  |
 | [Polaris](https://open.spotify.com/track/2zCsasxMJ1KpTl8uWJSG2s) | [Lemur Kush](https://open.spotify.com/artist/3dZRodtVGMHccB1qQAcJAq), [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Maxnprod](https://open.spotify.com/artist/46bWo9I0KV3GEaUth5sB3T) | [Dskts II](https://open.spotify.com/album/1619KiZpoSUpEmVBiKl8jj) | 3:01 | 2021-09-10 | 2022-07-29 |
 | [Prada 99](https://open.spotify.com/track/6XBQV8AJqJYdW6SSmChJlT) | [Yovngsta](https://open.spotify.com/artist/6Sf5W6A6Q1m9suLf47h4tT), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [Prada 99](https://open.spotify.com/album/2w0Mb7M5AprdbyiisbBxCp) | 1:29 | 2021-09-10 |  |
-| [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-02-04 |  |
+| [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 | 2022-02-04 |  |
+| [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 | 2022-02-04 | 2022-07-31 |
 | [Rangos](https://open.spotify.com/track/71n2JpYIDKZ3YXDo9KuQNB) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/3eQrdbzORGQgBAvoUdEcE3) | 2:08 | 2021-09-10 | 2022-07-29 |
 | [Rangos II](https://open.spotify.com/track/6UZqzprpRF4X7cG6S9FSTA) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [SIN PRONTUARIO](https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0) | 5:18 | 2021-09-10 |  |
 | [Ruleta Rusa](https://open.spotify.com/track/6X9IeZi3JXIsV9yAG6xq4j) | [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv) | [Ruleta Rusa](https://open.spotify.com/album/2Qie57F9y5BaktRn5ko5y1) | 2:36 | 2021-09-10 |  |

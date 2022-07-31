@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 85815,
+  "num_followers": 85892,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMGZhMTk2NWEzODA5OWFmNWQ0NTQyMjA5ZTVmZmE0MGFm",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDgyMjUyODg3OGEyNWYxZTY4NzM4MDQxODM0NWQ1N2U1",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 271600,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Speak Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 367133,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/1D27z8xNzjW0Mwwt1NCWhJ"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 271600,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 238176,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Begin to Hope (Special Edition)",
         "url": "https://open.spotify.com/album/0ssMZRCnobXKQXjQ2R5A5a"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 189335,
       "name": "Samson",
       "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 238176,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "placeholder",
-        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 230006,
-      "name": "placeholder",
-      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Enough Thunder",
         "url": "https://open.spotify.com/album/4Ss3RK7115gnEY66i7C5dG"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 177400,
       "name": "A Case Of You",
       "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "placeholder",
+        "url": "https://open.spotify.com/album/5MByQp3pFETiRZxcwnZsZz"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 230006,
+      "name": "placeholder",
+      "url": "https://open.spotify.com/track/0p0BfeqMWoToqbPVzXxAIZ"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 365746,
       "name": "Riding For The Feeling",
       "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/2xG8KBQ5oxjpprQ5IXhXNw"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Undiscovered",
-        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "The Pieces Don't Fit Anymore",
-      "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Running Still",
-        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
         }
       ],
-      "duration_ms": 239933,
-      "name": "She Went Quietly",
-      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
+      "duration_ms": 255840,
+      "name": "The Pieces Don't Fit Anymore",
+      "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
+        "name": "Running Still",
+        "url": "https://open.spotify.com/album/4R1Y35ZyPOxcvoOD1bAE1U"
       },
       "artists": [
         {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
         }
       ],
-      "duration_ms": 219253,
-      "name": "Heart In My Hands",
-      "url": "https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu"
+      "duration_ms": 239933,
+      "name": "She Went Quietly",
+      "url": "https://open.spotify.com/track/57YSZBFJIHvWa7TusTx6Nx"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "I Told You Everything",
+      "url": "https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/5jZ99kZu474tcvbhzBuqHI"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
         }
       ],
-      "duration_ms": 285680,
-      "name": "I Told You Everything",
-      "url": "https://open.spotify.com/track/549RAS6rH3AYH2n5b6CIzz"
+      "duration_ms": 219253,
+      "name": "Heart In My Hands",
+      "url": "https://open.spotify.com/track/218cVN5U8vVxHNXMQp6zEu"
     }
   ],
   "unique_name": "Devastating",

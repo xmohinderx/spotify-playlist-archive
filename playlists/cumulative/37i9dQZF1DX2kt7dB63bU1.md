@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Lauren Henderson
 
-436 songs - 1 day 6 hr 30 min - [published](https://open.spotify.com/playlist/1MJcLwlhyaudSQhL0k2nLU)
+437 songs - 1 day 6 hr 34 min - [published](https://open.spotify.com/playlist/1MJcLwlhyaudSQhL0k2nLU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [I'm Alive](https://open.spotify.com/track/6mYrRzQ0YmrWdIDY1hS4pj) | [Ranee Lee](https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G) | [I'm Alive](https://open.spotify.com/album/1GxCeAluWbO9BlAhCwDIGn) | 4:57 | 2022-01-28 | 2022-06-30 |
 | [I'm Beginning To See The Light](https://open.spotify.com/track/2h8fuaU74A3qydi0h6M8D1) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv), [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 3:05 | 2020-10-09 | 2022-02-16 |
 | [I'm Confessin'](https://open.spotify.com/track/2eBp3dIZ2c1bqh2dlmIAfL) | [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [I'm Confessin' / The Darker It Gets](https://open.spotify.com/album/1q3UMj9PqJ99EOlVXqa0Xk) | 6:12 | 2022-01-21 | 2022-07-29 |
-| [I'm Confessin'](https://open.spotify.com/track/3Oc5cC5x5dNFyyc3wDDXe2) | [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [89](https://open.spotify.com/album/0Xb3mBi85rwbCZPRRMqaCy) | 6:12 | 2022-01-21 |  |
+| [I'm Confessin'](https://open.spotify.com/track/3Oc5cC5x5dNFyyc3wDDXe2) | [Charlie Gabriel](https://open.spotify.com/artist/0UjCu7CCeREYEprZW5jXtK), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [89](https://open.spotify.com/album/0Xb3mBi85rwbCZPRRMqaCy) | 6:12 | 2022-01-21 | 2022-07-31 |
 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/3efQ6qgkiyZABeuJowyopY) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 3:23 | 2020-10-09 | 2022-01-17 |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-02-18 |  |
 | [I'm Gonna Live Till I Die](https://open.spotify.com/track/2SnYeRhFn71dGPgj0pxWAg) | [Tony DeSare](https://open.spotify.com/artist/6JooBP4BtY7tY6YPJnSYhI) | [I'm Gonna Live Till I Die](https://open.spotify.com/album/1oY26AlZRCMU1u0uEUlJHf) | 4:38 | 2021-03-05 | 2022-07-25 |
@@ -200,6 +200,7 @@
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6dLMJre4euytKiy4llaKw4) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6QxYtpGQeOnOpD99IWH0vQ) | 3:00 | 2021-02-19 | 2022-07-29 |
 | [Isn't It Romantic](https://open.spotify.com/track/7nFt2sGfKWO0pRMrx44c1t) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:28 | 2020-10-09 | 2022-02-17 |
 | [It Ain't Necessarily So \(feat\. Byron Stripling\)](https://open.spotify.com/track/3EmhZE7D8skjPkXtgu1J2C) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7), [Byron Stripling](https://open.spotify.com/artist/1mHp3dSVmCxeYhGfUvhLO0) | [Stompin' At The Savoy](https://open.spotify.com/album/5TPZJE4J9gNt3ET1cDpi5V) | 4:28 | 2020-10-09 | 2022-02-19 |
+| [It Could Happen to You](https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [It Could Happen to You](https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6) | 3:32 | 2022-07-18 |  |
 | [It Had To Be You](https://open.spotify.com/track/5zmdq6AZBpurr0UgPOeoYv) | [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [It Had To Be You](https://open.spotify.com/album/13S6jA4GrMzlM1UHjlxCnL) | 2:25 | 2022-04-15 | 2022-04-18 |
 | [It Might as Well Be Spring](https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Kyle Pogline](https://open.spotify.com/artist/0REkhjWkTuMhx8uvOKVZmH) | [It Might as Well Be Spring](https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG) | 4:52 | 2022-04-08 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/5I0lk3Rn3gSu6UVRdxFXkQ) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Benjamin Koppel](https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY) | [It Might As Well Be Spring](https://open.spotify.com/album/0BxH9VdfIAf5FyXJuluNnd) | 5:07 | 2022-06-24 | 2022-07-28 |

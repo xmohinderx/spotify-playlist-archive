@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-160 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
+161 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [House by the Sea](https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Set The House on Fire](https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP) | 3:38 | 2021-12-02 | 2022-06-10 |
 | [How Can I Know](https://open.spotify.com/track/4WMbHn5MP9t5D1WTmLgHd5) | [Unnveig Aas](https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se) | [How Can I Know](https://open.spotify.com/album/6CEfPLzkQ0Qju7dOoDd6sx) | 3:40 | 2022-06-09 | 2022-07-01 |
 | [Hunting Sky](https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr) | 3:15 | 2021-12-02 | 2022-07-16 |
+| [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 | 2022-07-14 |  |
 | [I Waited For You](https://open.spotify.com/track/5FDm33MpQRTmQ8GNcJEwcU) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/1Sxc4lT1ZIF56J4C3WkcjL) | 3:24 | 2021-12-02 | 2022-07-29 |
 | [I Waited for You](https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu) | 3:24 | 2022-07-14 |  |
 | [I Wanna Be Sedated \(feat\. Mirel Wagner\)](https://open.spotify.com/track/2Cr9TOmo36WLtDfKwKofdA) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY), [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/6k9ZeshOIpS8OCXEk9x5pF) | 3:38 | 2021-12-02 | 2022-07-28 |
@@ -139,7 +140,7 @@
 | [Time](https://open.spotify.com/track/5nOz57qBsV7J5rlIcJl9io) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Go Out Nowhere](https://open.spotify.com/album/1bpJLdfzfpFSjDGVtegoSC) | 3:46 | 2022-05-12 | 2022-07-29 |
 | [Time of the Blue](https://open.spotify.com/track/0e1GAQ4Cm74D1A0zvXVhdT) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time of the Blue](https://open.spotify.com/album/41w6j5UiScGhghsSxAp2mM) | 3:46 | 2022-07-14 |  |
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
-| [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 |  |
+| [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2022-07-31 |
 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 | 2022-07-14 |  |
 | [Unknown](https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:10 | 2021-12-02 | 2022-07-27 |
 | [Vega](https://open.spotify.com/track/2Vo7t22exoxAEqjCUJMpJk) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Sindre Hotvedt](https://open.spotify.com/artist/6UzXqmZCFu0Qq5v6NbyC14) | [Vega](https://open.spotify.com/album/3vbNof55CDxh6favNsfI68) | 6:43 | 2021-12-02 | 2022-07-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 
 > Traditional West African blues and North African desert blues\. Cover: Songhoy Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,656 likes - 49 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,674 likes - 49 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 6 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 7 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 |
 | 8 | [Tisnant an Chatma](https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Chatma](https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU) | 4:50 |
-| 9 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
-| 10 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
+| 9 | [Bonheur](https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze) | [Samba](https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN) | 5:38 |
+| 10 | [Cler Achel](https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Aman Iman: Water Is Life](https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0) | 4:27 |
 | 11 | [Hona](https://open.spotify.com/track/36OpkSbeJVaADUgJynvdht) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 5:38 |
 | 12 | [Jamm](https://open.spotify.com/track/3CfFUDH9nHSZslwsAGImfL) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:48 |
 | 13 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeba6s3Tb8Fj.md) - [plain]
 | 48 | [Mississippi\-Mali Blues](https://open.spotify.com/track/2L0gh4ZlfAyfSBnAovbQAh) | [Taj Mahal](https://open.spotify.com/artist/7wil3Ugeu3ATZHKC0e8yiM), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW) | [Kulanjan](https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL) | 3:17 |
 | 49 | [The Lighthouse Keeper](https://open.spotify.com/track/56pRhM8fsMvWGL0dAnzj9W) | [Modou Toure](https://open.spotify.com/artist/1JrwsiKRH6ZEK7SgEWuZdc), [Ramon Goose](https://open.spotify.com/artist/5JO7yg573cDqdeqMjzPxk6), [Diabel Cissokho](https://open.spotify.com/artist/2QZiZR6pxRt4ZIqOBAaEkm) | [The West African Blues Project](https://open.spotify.com/album/510vDsJUph73WMw4GK1x19) | 4:11 |
 
-Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMGY2YjI5NTMxODY3MmRmNjJkYTFhZTNjNzZlZDI5MDEz`
+Snapshot ID: `MTYwNjc5ODg2MCwwMDAwMDAwMDZjMDUzYzJjNDU0NDk0Y2FjNDcxMzNiMjMwODc1ZDM5`

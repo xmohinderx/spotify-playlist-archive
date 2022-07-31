@@ -1,12 +1,12 @@
 {
   "description": "The movement\u2019s roots. Los cl\u00e1sicos del Reggaeton. Cover: Nicky Jam",
-  "num_followers": 2589634,
+  "num_followers": 2590748,
   "original_name": "Reggaeton Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY5MjMzMywwMDAwMDAwMDI4MDVmZTRiOGM1YWYyNjk2MjdjNzhlMmM4Y2RlMGE3",
+  "snapshot_id": "MTY1NjY5MjMzMywwMDAwMDAwMGZhMWNhYzExNmRkNGEwOTNkY2IwMDY3ODExODQ4ZmEw",
   "tracks": [
     {
       "added_at": "2022-07-01 16:18:53",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "La Familia B Sides",
+        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "Ay Vamos",
+      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "Visionary",
         "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 197840,
       "name": "Chillax (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "La Familia B Sides",
-        "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 226413,
-      "name": "Ay Vamos",
-      "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
     },
     {
       "added_at": "2022-07-01 16:18:53",
@@ -975,6 +975,26 @@
     {
       "added_at": "2022-07-01 16:18:53",
       "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
+    },
+    {
+      "added_at": "2022-07-01 16:18:53",
+      "album": {
         "name": "N.O.R.E. Y La Familia",
         "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 225693,
       "name": "Down",
       "url": "https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ"
-    },
-    {
-      "added_at": "2022-07-01 16:18:53",
-      "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/3uvypVUsiIr1B0BccIcsEh"
     },
     {
       "added_at": "2022-07-01 16:18:53",

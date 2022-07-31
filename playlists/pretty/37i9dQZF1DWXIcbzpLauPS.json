@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: August Burns Red",
-  "num_followers": 868675,
+  "num_followers": 868654,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDY5NmUzOTI3N2ExY2RmN2M3Y2M0OTJhN2Y5MmYwYzUy",
+  "snapshot_id": "MTY1OTA5OTYwMCwwMDAwMDAwMDc3NDRiM2NhYTMzZWZlYjZiZDhlMmY0OGIxODkyOWY4",
   "tracks": [
     {
       "added_at": "2022-07-08 00:00:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Stitches",
         "url": "https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 301426,
       "name": "Stitches",
       "url": "https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Losing Control",
+        "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Losing Control",
+      "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Spearmint Revolt",
-        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 302258,
-      "name": "Spearmint Revolt",
-      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Play Time",
         "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 216917,
       "name": "Play Time",
       "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Spearmint Revolt",
+        "url": "https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 302258,
+      "name": "Spearmint Revolt",
+      "url": "https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
+        "name": "Your Love I'll Never Need",
+        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
       "artists": [
         {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
         }
       ],
-      "duration_ms": 223050,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
+      "duration_ms": 200843,
+      "name": "Your Love I'll Never Need",
+      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Your Love I'll Never Need",
-        "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv"
       },
       "artists": [
         {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
         }
       ],
-      "duration_ms": 200843,
-      "name": "Your Love I'll Never Need",
-      "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+      "duration_ms": 223050,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Dead Circus",
-        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 190250,
-      "name": "Dead Circus",
-      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Sunchaser",
         "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 209564,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Dead Circus",
+        "url": "https://open.spotify.com/album/3Z7HDWGhP7QV3mML7pEIVY"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "Dead Circus",
+      "url": "https://open.spotify.com/track/4RJ2TLSVhIyHFaEVYKygGh"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
-      },
-      "artists": [
-        {
-          "name": "Bleeding Through",
-          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
-        }
-      ],
-      "duration_ms": 207627,
-      "name": "Damage Done",
-      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Summertown",
         "url": "https://open.spotify.com/album/40iNTLmwIhwkEYRtsUNlJC"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 223538,
       "name": "Summertown",
       "url": "https://open.spotify.com/track/5M0jC2erbDuwYEM6PgiQ3I"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 207627,
+      "name": "Damage Done",
+      "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
+      },
+      "artists": [
+        {
+          "name": "AVOID",
+          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 182750,
       "name": "NWWM",
       "url": "https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv"
-      },
-      "artists": [
-        {
-          "name": "AVOID",
-          "url": "https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2"
     },
     {
       "added_at": "2022-07-08 00:00:00",

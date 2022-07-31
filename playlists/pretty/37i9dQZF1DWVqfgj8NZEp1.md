@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390,181 likes - 148 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,390,338 likes - 148 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 19 | [Nancy \(With the Laughing Face\)](https://open.spotify.com/track/2l9lJ9HxxXyGilNIjTdO3j) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 4:50 |
 | 20 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 |
 | 21 | [And So it Goes](https://open.spotify.com/track/7AP03AuSv0uWp0i3ef9HaH) | [Joshua Espinoza](https://open.spotify.com/artist/6sQipnSTh0MtEdmUM8w49E), [Kris Monson](https://open.spotify.com/artist/2kUPNaq8pnJ4Q7TYoFme5t), [Jaron Lamar Davis](https://open.spotify.com/artist/2XeV55IyaL6jSh1yOlVOHG) | [And So it Goes](https://open.spotify.com/album/0tfPd7QamoduQalv7A376o) | 4:44 |
-| 22 | [OD](https://open.spotify.com/track/2ih8SappJXdqcXKHHn24Jc) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [OD](https://open.spotify.com/album/0CiCDUpPYrc9MvOsuHJcs0) | 6:58 |
+| 22 | [OD](https://open.spotify.com/track/41cORdbmswG9htvuswqSJP) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt) | [Believe](https://open.spotify.com/album/7EB9SmVbtZ8cg9qykhQvif) | 6:58 |
 | 23 | [Tutto](https://open.spotify.com/track/62kqshOHXpzRjnjU32j3tk) | [Lorenzo Tucci](https://open.spotify.com/artist/3hTTFA9ODrbXSu1BJ82hsq) | [Happy end](https://open.spotify.com/album/6rMNuXq1cfyp747FxxOEDv) | 5:18 |
 | 24 | [Fabienne](https://open.spotify.com/track/34ENpx8bYPgYCTSTtRMcCC) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 6:03 |
 | 25 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 147 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 |
 | 148 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 
-Snapshot ID: `MTY1NjYyNjQwMCwwMDAwMDAwMDM0ZmQ0MjgwZTA0MzVhODBlZmQyZjA4NWI5NGI4ZWQz`
+Snapshot ID: `MTY1NjYyNjQwMCwwMDAwMDAwMDE3ZWVmOTIzODg5YzgxYjNmNGI2OTc4NTFkYWQ2ZGIw`

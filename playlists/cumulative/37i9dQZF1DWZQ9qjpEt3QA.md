@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-81 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
+82 songs - 5 hr 42 min - [published](https://open.spotify.com/playlist/2dxvfaJZHLYH4XzE7Sth5o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [LAVLA](https://open.spotify.com/track/5RiDkhVXWyMlh51wSGV8tU) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [LAYERS](https://open.spotify.com/album/1DS9Xblo2wodlneXD9nXYw) | 3:58 | 2022-05-26 |  |
 | [Lover Boy](https://open.spotify.com/track/2rd4FH1cSaWGc0ZiUaMbX9) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Lover Boy](https://open.spotify.com/album/6q6pANmFQbMk7KzlzNeBep) | 3:56 | 2022-05-26 |  |
 | [Manila](https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6) | 3:35 | 2022-05-26 |  |
+| [MASA MUDA](https://open.spotify.com/track/0eSwUxNz2EFlGC7Wn5Lsra) | [Laura Pradipta](https://open.spotify.com/artist/3DjOjSvtE3thRSMBeBR4kH) | [MASA MUDA](https://open.spotify.com/album/53E46YfYxg4Wbogp1ihzSV) | 4:38 | 2022-07-30 |  |
 | [Mejikuhibiniu](https://open.spotify.com/track/0wBdb4pmz0hyyI0M6ilZTy) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Mejikuhibiniu](https://open.spotify.com/album/5ErP3mluV25TH2ncKKcWM4) | 3:46 | 2022-05-26 |  |
 | [Memories](https://open.spotify.com/track/2CpsluedxDXHfOiqIVGg6N) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Chords & Melodies](https://open.spotify.com/album/5eO2X97XMmGxuDNyPSFa0Z) | 4:19 | 2022-05-26 |  |
 | [METRO \- XL Middleton Remix](https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [METRO \(XL Middleton Remix\)](https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV) | 3:41 | 2022-05-26 |  |

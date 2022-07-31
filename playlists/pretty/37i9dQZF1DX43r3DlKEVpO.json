@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 58480,
+  "num_followers": 58508,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDE2ZDI2MjgxNjFhZWVhMDQ3ZmQ2OTA0MGJhMTVlYWI3",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGUzMjVhZjZjZDRiMTdlMjM1NTNhZTk3NDI1MGRkZmVj",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "P\u00e1ssaro Proibido",
-        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Olhos Nos Olhos",
-      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 212933,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "P\u00e1ssaro Proibido",
+        "url": "https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Olhos Nos Olhos",
+      "url": "https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl"
     },
     {
       "added_at": "2021-08-18 22:14:03",

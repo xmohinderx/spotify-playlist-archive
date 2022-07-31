@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,951 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,006 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 26 | [Dos Botellas \(Live\)](https://open.spotify.com/track/2hdXJnhuKlBaVL0kurZuF2) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Dos Botellas \(Live\)](https://open.spotify.com/album/1nuN8oHTRYnhzvcxEiQO2Q) | 3:00 |
 | 27 | [El Piyi \(Línea De Guzman\)](https://open.spotify.com/track/0gLOqCR7QxIxSuuTNsupUB) | [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [El Piyi \(Línea De Guzman\)](https://open.spotify.com/album/1Hst2fPc2tUtMShTHxYiQl) | 3:16 |
 | 28 | [Buena Escuela](https://open.spotify.com/track/3CRHvCg8vnqMasrnGvTNFa) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Buena Escuela](https://open.spotify.com/album/3nPdt74UnFTvf0tXncPLED) | 2:54 |
-| 29 | [Un Rey Leon](https://open.spotify.com/track/6ulJFI91sTYwUduxF10PRO) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [Un Rey Leon](https://open.spotify.com/album/3v43JX8a4MaoXBEMqrqfjd) | 3:17 |
+| 29 | [El Rey Leon](https://open.spotify.com/track/6ulJFI91sTYwUduxF10PRO) | [Eduardo Laguna](https://open.spotify.com/artist/0Av9PpyBkQ2p9rwuvrfx2B) | [El Rey Leon](https://open.spotify.com/album/3v43JX8a4MaoXBEMqrqfjd) | 3:17 |
 | 30 | [Mi Terreno Culiacán](https://open.spotify.com/track/2wdYswL5Y7FNNgWRqlaUNi) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Mi Terreno Culiacán](https://open.spotify.com/album/2vCJJK4gkhl8biNm075Y5D) | 1:57 |
 | 31 | [Nuestro Futuro](https://open.spotify.com/track/0hAdYzsakzvP0TDORQI5jE) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nuestro Futuro](https://open.spotify.com/album/1VKC8wUoTSIwtkSjBMMDtB) | 3:10 |
 | 32 | [Gané al Perderte](https://open.spotify.com/track/1UogrmJAnygmOdb52T9QrW) | [Vena De Rey](https://open.spotify.com/artist/4jsKRYQ2PjDJiMV1NjHEhl) | [Gané al Perderte](https://open.spotify.com/album/5dt5nCoOa6yoxTunv8Gql4) | 3:40 |

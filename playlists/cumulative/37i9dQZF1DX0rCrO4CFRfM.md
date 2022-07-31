@@ -4,7 +4,7 @@
 
 > Relax to acoustic versions of your favorite rock songs.
 
-132 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
+133 songs - 8 hr 29 min - [published](https://open.spotify.com/playlist/1rSuFGseWWum14bljXjPqj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [All Fall Down \- Acoustic](https://open.spotify.com/track/5bIwmWHtIAtYmSRxx7xhq7) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Viva Violent](https://open.spotify.com/album/0spocFvTAgbfj08Ubdmyfp) | 3:58 | 2020-11-10\* | 2021-05-25 |
 | [All I Want \- Acoustic](https://open.spotify.com/track/2BEZkzfIWNFSNjZMAKhyAR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [All I Want \(Acoustic\)](https://open.spotify.com/album/2ZZhHEsfI4EZ1nSm7LA5Fm) | 3:19 | 2020-11-10\* | 2022-07-29 |
 | [All I Want \- Acoustic](https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [All I Want \(Acoustic\)](https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4) | 3:19 | 2022-06-27 |  |
-| [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 | 2020-11-10\* |  |
+| [Ana's Song \(Open Fire\) \- Acoustic Re\-Mix](https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Best Of \- Volume One](https://open.spotify.com/album/5MgR5qQCxsusIOui4S2io5) | 3:50 | 2020-11-10\* | 2022-07-31 |
 | [Angels & Demons \- Acoustic](https://open.spotify.com/track/4I03suXK2BpP8edU5UXqhr) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Angels & Demons \(Acoustic\)](https://open.spotify.com/album/379Hp40P859aKuruCg2Bwy) | 2:53 | 2021-04-19 | 2021-05-27 |
 | [Anthem](https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 4:41 | 2022-06-27 |  |
 | [Anthem](https://open.spotify.com/track/54dtOFYgkjNcYBdywUl4BQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem](https://open.spotify.com/album/49wWKooiiwz4Kh5PNlE5oo) | 4:41 | 2021-01-15 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 | 2022-06-27 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/0LeuWbFlcDkgs2qJ2oigCR) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [I Wouldn't Mind](https://open.spotify.com/album/1IPL5L4a5tpZR3kEHImWgT) | 3:19 | 2020-11-10\* | 2021-05-28 |
 | [If I Lose Myself \- Acoustic](https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:50 | 2020-11-10\* | 2021-10-16 |
+| [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 | 2022-06-27 |  |
 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/2SeJ9YrUC24fQKOlOUZVTG) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/49jzsX4L7SPtw9CZbPiLas) | 3:32 | 2021-01-15 | 2021-10-16 |
 | [Into The Fire \- Acoustic Version](https://open.spotify.com/track/2Cee261lwgFVYq6TGd2g1P) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Into The Fire \(Acoustic Version\)](https://open.spotify.com/album/6jbTKyck3sf5vmvjSzvzYL) | 3:28 | 2021-01-15 | 2022-03-15 |
 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 | 2020-11-10\* | 2022-07-28 |

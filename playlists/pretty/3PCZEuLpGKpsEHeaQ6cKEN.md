@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The biggest Armada tracks of the moment! \| Updated weekly on Friday \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! Cover: Brando &amp; Ninetails
 
-[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,215 likes - 146 songs - 7 hr 33 min
+[Armada Music ](https://open.spotify.com/user/armadamusicofficial) - 286,209 likes - 146 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saturday Night](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q) | [Saturday Night](https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu) | 2:33 |
+| 1 | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/track/3deRcubbfOBaLsjLqYsmLw) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Ninetails](https://open.spotify.com/artist/6rhYa3MFqd5BLCRqtytA7q) | [Saturday Night \(Feel The Groove\)](https://open.spotify.com/album/1oSDNl2qNV8uy6kP47ohdu) | 2:33 |
 | 2 | [One More Time](https://open.spotify.com/track/1lXyxleB814ehGUXzsWNXu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [One More Time](https://open.spotify.com/album/20OfYbIgQy1xQNLbnrbgLM) | 2:28 |
 | 3 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
 | 4 | [Where Have You Been](https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Where Have You Been](https://open.spotify.com/album/4Cxw3Yre5tcD033nzdJMat) | 2:47 |

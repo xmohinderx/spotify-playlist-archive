@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,318 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,453 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,12 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [lo que queda después del amor](https://open.spotify.com/track/1CceTFtIgX7vPVco9Fub6t) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO: Antología de una flor marchita \(Deluxe\)](https://open.spotify.com/album/0L9ebZXy9sK9W846lkYAMm) | 4:04 |
 | 47 | [Lucifer](https://open.spotify.com/track/3Jtosgz3o85FHYpXr6YjEE) | [Yeieme](https://open.spotify.com/artist/4kgqEEUm1KUt6IYJmwq4OZ), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Horas](https://open.spotify.com/album/5HWqhCluWKBZUzZFKLrku3) | 2:45 |
 | 48 | [ME SIENTO FELIZ](https://open.spotify.com/track/3ejGPL3ZvGPjl2QutLRdae) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [ME SIENTO FELIZ](https://open.spotify.com/album/4IyZFTHWLcw8Sng47OMRR1) | 2:01 |
-| 49 | [Tu Atención](https://open.spotify.com/track/6rzuU0YYTaE4oulubsYd77) | [Unotopic](https://open.spotify.com/artist/1EJbqGDuWfO79d0Wea80gi) | [Tu Atención](https://open.spotify.com/album/3gA6XPLimrPVtxdUQsH94Q) | 3:35 |
-| 50 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
-| 51 | [Macetando](https://open.spotify.com/track/0OpZrC2lgx4i6m41A2oTn9) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Macetando](https://open.spotify.com/album/4jzbpLeTH6iOaW30t19WRs) | 2:51 |
-| 52 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 |
-| 53 | [Reflejo](https://open.spotify.com/track/1ppjuUQOCNfIxgImhJ46aM) | [KASBEEL](https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt) | [Reflejo](https://open.spotify.com/album/6VucI1j5Nvwbqvh0Dfl4Um) | 2:54 |
-| 54 | [Código do Din](https://open.spotify.com/track/7jrvAmei8MJzB4sRaSoF9O) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Código do Din](https://open.spotify.com/album/1YomzsaLPGyECCuCSRUH4c) | 2:04 |
-| 55 | [Dupla De Invejar \- Ao Vivo](https://open.spotify.com/track/72dBt6344yHyHglE0gLFmn) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:34 |
+| 49 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
+| 50 | [Macetando](https://open.spotify.com/track/0OpZrC2lgx4i6m41A2oTn9) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Macetando](https://open.spotify.com/album/4jzbpLeTH6iOaW30t19WRs) | 2:51 |
+| 51 | [5 Regras \- Ao Vivo](https://open.spotify.com/track/3gCWngngUs1uojw33vrE8K) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [É Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/3KOePCX9vdj3OrAC2ruEFk) | 2:41 |
+| 52 | [Reflejo](https://open.spotify.com/track/1ppjuUQOCNfIxgImhJ46aM) | [KASBEEL](https://open.spotify.com/artist/1kb0YlRT7t0LIfWZjnxJzt) | [Reflejo](https://open.spotify.com/album/6VucI1j5Nvwbqvh0Dfl4Um) | 2:54 |
+| 53 | [Código do Din](https://open.spotify.com/track/7jrvAmei8MJzB4sRaSoF9O) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Código do Din](https://open.spotify.com/album/1YomzsaLPGyECCuCSRUH4c) | 2:04 |
+| 54 | [Dupla De Invejar \- Ao Vivo](https://open.spotify.com/track/72dBt6344yHyHglE0gLFmn) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:34 |
 
-Snapshot ID: `MTY1OTExNjcxMSwwMDAwMDAwMDVmNWFjN2FmNTU0ZTUxYzFmZTE2MGMxMDJiOGU1Nzhk`
+Snapshot ID: `MTY1OTExNjcxMSwwMDAwMDAwMGIxNjg3NGRkZTZkMzQ1NGU2MzgyYjJiNjNlYWJhZTNh`

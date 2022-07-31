@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 111392,
+  "num_followers": 111508,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDNhOTQ4MjJmMDFmNzA4NGRhYmQwMjI3YzA3MmM4NjRj",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMGI0MWVkOTc1ZDU0NDVhMDQ2ZGYyODhmY2Y0N2ZjMmU1",
   "tracks": [
     {
       "added_at": "2022-03-11 04:28:50",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v"
     },
     {
+      "added_at": "2022-01-13 02:46:42",
+      "album": {
+        "name": "Double Dinners",
+        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
+      },
+      "artists": [
+        {
+          "name": "Cousin Kula",
+          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
+        }
+      ],
+      "duration_ms": 309240,
+      "name": "BabyBack",
+      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -319,22 +335,6 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
-    },
-    {
-      "added_at": "2022-01-13 02:46:42",
-      "album": {
-        "name": "Double Dinners",
-        "url": "https://open.spotify.com/album/3WmU82FUs1deA2kzCu27DJ"
-      },
-      "artists": [
-        {
-          "name": "Cousin Kula",
-          "url": "https://open.spotify.com/artist/1TuDUmw1jUuY1V5s78TNHd"
-        }
-      ],
-      "duration_ms": 309240,
-      "name": "BabyBack",
-      "url": "https://open.spotify.com/track/4UPulYBuJspsolW49Qzhgd"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/7AocbcViWJ73c5iu1N9OvR"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Find The Sun",
-        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
-      },
-      "artists": [
-        {
-          "name": "Deradoorian",
-          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
-        }
-      ],
-      "duration_ms": 426342,
-      "name": "Saturnine Night",
-      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
-    },
-    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Underwater",
@@ -551,6 +535,22 @@
       "duration_ms": 405773,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/76FqNXv4mY8xhkEyylm1gL"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Find The Sun",
+        "url": "https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI"
+      },
+      "artists": [
+        {
+          "name": "Deradoorian",
+          "url": "https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP"
+        }
+      ],
+      "duration_ms": 426342,
+      "name": "Saturnine Night",
+      "url": "https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -633,6 +633,22 @@
       "url": "https://open.spotify.com/track/1mhVCuP7ebwpmfCc2zE64U"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
       "added_at": "2022-02-21 19:54:13",
       "album": {
         "name": "Switched On Ra",
@@ -651,18 +667,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+        "name": "Pizza Conspiracy",
+        "url": "https://open.spotify.com/album/0yWP0bki3piEYrWzRZH369"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "Hologram Teen",
+          "url": "https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA"
         }
       ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+      "duration_ms": 213734,
+      "name": "Okandjambameya",
+      "url": "https://open.spotify.com/track/04fNJ0ZewYhVTBBJEF5bsm"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -679,22 +695,6 @@
       "duration_ms": 297239,
       "name": "Right is Alright, Wrong is to Belong",
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Pizza Conspiracy",
-        "url": "https://open.spotify.com/album/0yWP0bki3piEYrWzRZH369"
-      },
-      "artists": [
-        {
-          "name": "Hologram Teen",
-          "url": "https://open.spotify.com/artist/1u5weRHG0G3kj2VLqO2DUA"
-        }
-      ],
-      "duration_ms": 213734,
-      "name": "Okandjambameya",
-      "url": "https://open.spotify.com/track/04fNJ0ZewYhVTBBJEF5bsm"
     },
     {
       "added_at": "2022-04-13 01:43:25",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 280181,
-      "name": "Homing",
-      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
         "name": "As The Love Continues",
         "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 310120,
       "name": "Dry Fantasy",
       "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 280181,
+      "name": "Homing",
+      "url": "https://open.spotify.com/track/1dodXRvoA4SaudsD335WyI"
     },
     {
       "added_at": "2022-01-19 19:33:05",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b"
     },
     {
-      "added_at": "2022-03-04 03:33:09",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 240678,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Fatigue",
@@ -855,6 +839,22 @@
       "duration_ms": 211505,
       "name": "Blame Me",
       "url": "https://open.spotify.com/track/2gFGw9tnS0ixQL9SmEoI0J"
+    },
+    {
+      "added_at": "2022-03-04 03:33:09",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 240678,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK"
     },
     {
       "added_at": "2022-04-20 13:58:09",
@@ -873,6 +873,22 @@
       "url": "https://open.spotify.com/track/67QxnzLtZh9NiD7NzlBgs1"
     },
     {
+      "added_at": "2022-03-30 04:09:00",
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/0AMgCqLxLasqfdch08R3OE"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "I'm Good at Not Crying",
+      "url": "https://open.spotify.com/track/3Pc8BtId8AhXAWtWnu30Zp"
+    },
+    {
       "added_at": "2022-06-08 02:42:32",
       "album": {
         "name": "Bella Kali",
@@ -889,20 +905,20 @@
       "url": "https://open.spotify.com/track/3WxgxW4qjDCL3MZzzWuwff"
     },
     {
-      "added_at": "2022-03-30 04:09:00",
+      "added_at": "2022-05-24 01:31:24",
       "album": {
-        "name": "GOLD",
-        "url": "https://open.spotify.com/album/0AMgCqLxLasqfdch08R3OE"
+        "name": "Golden Air",
+        "url": "https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J"
       },
       "artists": [
         {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+          "name": "Sun's Signature",
+          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
         }
       ],
-      "duration_ms": 204360,
-      "name": "I'm Good at Not Crying",
-      "url": "https://open.spotify.com/track/3Pc8BtId8AhXAWtWnu30Zp"
+      "duration_ms": 342520,
+      "name": "Golden Air",
+      "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -935,22 +951,6 @@
       "duration_ms": 280404,
       "name": "Aplomb",
       "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
-    },
-    {
-      "added_at": "2022-05-24 01:31:24",
-      "album": {
-        "name": "Golden Air",
-        "url": "https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J"
-      },
-      "artists": [
-        {
-          "name": "Sun's Signature",
-          "url": "https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp"
-        }
-      ],
-      "duration_ms": 342520,
-      "name": "Golden Air",
-      "url": "https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
-      "added_at": "2022-03-30 04:25:00",
-      "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
-      },
-      "artists": [
-        {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
-    },
-    {
       "added_at": "2022-02-25 04:13:48",
       "album": {
         "name": "Marrow",
@@ -1103,6 +1087,22 @@
       "duration_ms": 279464,
       "name": "Marrow",
       "url": "https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR"
+    },
+    {
+      "added_at": "2022-03-30 04:25:00",
+      "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/5Ey7Xxphn3ecDo8eYgjouM"
     },
     {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
-    },
-    {
       "added_at": "2022-04-22 18:56:51",
       "album": {
         "name": "The Bewildered Mind",
@@ -1639,6 +1623,22 @@
       "duration_ms": 223131,
       "name": "Treasures",
       "url": "https://open.spotify.com/track/3WZhTPAbwI4rucw6soEBRp"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2022-02-15 16:06:47",

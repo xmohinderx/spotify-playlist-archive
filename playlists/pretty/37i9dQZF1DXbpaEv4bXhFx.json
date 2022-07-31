@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 3471,
+  "num_followers": 3527,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjgwNywwMDAwMDAwMGNmNzU1YmE2ZDI1YzdhYzU5YTE3YmMxY2ZjN2E1NDA5",
+  "snapshot_id": "MTY1ODQ4MjgwNywwMDAwMDAwMDAwODE1MTQ5Y2I4YWE3NzJiYTg4MjY0NTQ0ODA1NmQ0",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:07",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-07-22 09:40:07",
       "album": {
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
+    },
+    {
+      "added_at": "2022-07-22 09:40:07",
+      "album": {
         "name": "Night Poem",
         "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2022-07-22 09:40:07",
       "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Rain Song",
-      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
-    },
-    {
-      "added_at": "2022-07-22 09:40:07",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-07-22 09:40:07",
       "album": {
-        "name": "Delete",
-        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
       },
       "artists": [
         {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 249213,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
     },
     {
       "added_at": "2022-07-22 09:40:07",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-07-22 09:40:07",
       "album": {
+        "name": "girl in red",
+        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 159365,
+      "name": "girl in red",
+      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
+    },
+    {
+      "added_at": "2022-07-22 09:40:07",
+      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
-    },
-    {
-      "added_at": "2022-07-22 09:40:07",
-      "album": {
-        "name": "girl in red",
-        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 159365,
-      "name": "girl in red",
-      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
     },
     {
       "added_at": "2022-07-22 09:40:07",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-07-22 09:40:07",
       "album": {
+        "name": "Rainy Saturday",
+        "url": "https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2"
+      },
+      "artists": [
+        {
+          "name": "JEMINN",
+          "url": "https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Rainy Saturday",
+      "url": "https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN"
+    },
+    {
+      "added_at": "2022-07-22 09:40:07",
+      "album": {
         "name": "To us (feat. wave to earth & WAVY)",
         "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 254826,
       "name": "To us (feat. wave to earth & WAVY)",
       "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
-    },
-    {
-      "added_at": "2022-07-22 09:40:07",
-      "album": {
-        "name": "Rainy Saturday",
-        "url": "https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2"
-      },
-      "artists": [
-        {
-          "name": "JEMINN",
-          "url": "https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Rainy Saturday",
-      "url": "https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN"
     },
     {
       "added_at": "2022-07-22 09:40:07",

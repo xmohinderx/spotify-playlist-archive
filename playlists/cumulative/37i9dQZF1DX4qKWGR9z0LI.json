@@ -1051,6 +1051,24 @@
     {
       "album": {
         "name": "From Miami a La Habana",
+        "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
+      },
+      "artists": [
+        {
+          "name": "TIMBALIVE",
+          "url": "https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263680,
+      "name": "El Dinero",
+      "url": "https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3"
+    },
+    {
+      "album": {
+        "name": "From Miami a La Habana",
         "url": "https://open.spotify.com/album/2xqB7zwRnJHhV4A0Sw5yMi"
       },
       "artists": [
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"

@@ -4,7 +4,7 @@
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Demi Lovato
 
-362 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+363 songs - 19 hr 41 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-01-07 | 2022-07-28 |
 | [I Lose Myself Completely](https://open.spotify.com/track/3Uhx3GgTkO6Z70hhOIThLH) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [Hands](https://open.spotify.com/album/5wCnLFRUkOcd1e7DrvjJNe) | 2:40 | 2022-05-27 | 2022-06-09 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-04-16 |
-| [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 |  |
+| [I Might Be In Love With You](https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:37 | 2022-01-07 | 2022-07-31 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-07 | 2022-06-18 |
 | [I Specialise In Love](https://open.spotify.com/track/7E55wyDIwjs18uExRw3zOM) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva), [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [I Specialise In Love](https://open.spotify.com/album/2S4VA2f8WDqZEkF67ZjtBA) | 2:49 | 2022-05-27 | 2022-06-09 |
 | [I THINK YOU TURNED ME](https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [I THINK YOU TURNED ME](https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl) | 2:12 | 2022-06-24 |  |
@@ -337,6 +337,7 @@
 | [Throw Up When I See Your Face](https://open.spotify.com/track/0ekxDJsWszWXZq2R3BXzUB) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Throw Up When I See Your Face](https://open.spotify.com/album/00Q3J1ya3dDlApLcaaczR1) | 2:44 | 2022-04-29 | 2022-07-28 |
 | [Time \(Hearts Full of Love\) \(Single Mix\) \- Bonus Track](https://open.spotify.com/track/2BrDS0VPvyECLM10sh2vwl) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Time \(Hearts Full of Love\)](https://open.spotify.com/album/5piZN2APmYn6Ti27VF5l73) | 3:29 | 2022-01-21 | 2022-04-20 |
 | [To You](https://open.spotify.com/track/1E3kZm0hRvK0UnxIhUMRnW) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/1z9DkBF5iZZl26UdbgOrKN) | 3:08 | 2022-05-13 | 2022-07-28 |
+| [To You](https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:08 | 2022-05-13 |  |
 | [Tommy](https://open.spotify.com/track/7w76n5UvwlGrjZsgFm8ZYl) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Tommy](https://open.spotify.com/album/5BjjgpESJZDI1ievIXFVsu) | 3:33 | 2021-12-17 | 2022-07-29 |
 | [Tongue Tied](https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ) | [Mint Simon](https://open.spotify.com/artist/6CEtNCfXfEPpei0YBb0ZCh) | [Tongue Tied](https://open.spotify.com/album/2xNgClNQjycAaVWM6MBoW6) | 2:58 | 2021-12-17 | 2022-07-01 |
 | [Too Bad](https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 2:53 | 2022-06-10 |  |

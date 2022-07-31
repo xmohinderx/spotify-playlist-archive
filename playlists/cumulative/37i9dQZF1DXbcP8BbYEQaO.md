@@ -4,7 +4,7 @@
 
 > in the evening the real me comes alive
 
-423 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
+424 songs - 1 day 0 hr 15 min - [published](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
 | [Lavender](https://open.spotify.com/track/5DwHVuWlB7SlZbmF0Yn12z) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Lavender](https://open.spotify.com/album/2vaoGOKgCVLmgv5KilbsoU) | 3:31 | 2021-06-19 | 2021-10-12 |
 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 | 2021-06-19 | 2021-06-26 |
+| [Let's Get It Right \- Edit](https://open.spotify.com/track/7LTpwZbsZYnK0xnFSfnfxc) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Let's Get It Right](https://open.spotify.com/album/2ddb06dZsTW898KP4SKhXd) | 3:19 | 2022-07-29 |  |
 | [Liberation](https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Liberation](https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ) | 2:38 | 2022-01-14 | 2022-04-17 |
 | [Libre](https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:44 | 2021-12-04 |  |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2020-10-13\* | 2021-07-10 |
@@ -361,7 +362,7 @@
 | [sucks 4 u](https://open.spotify.com/track/75TJ9ufHDs6R45Wg8wOeEE) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [sucks 4 u](https://open.spotify.com/album/6EqK6gDuQDc43k2kvh83TR) | 3:25 | 2020-10-13\* | 2021-07-17 |
 | [sugar free rush](https://open.spotify.com/track/7trA8o8CVShDf2u5oSrDnv) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [sugar free rush](https://open.spotify.com/album/4sMsQV3B7hW8sSeWgrkd9o) | 4:12 | 2022-05-06 | 2022-07-29 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-19 | 2021-07-04 |
-| [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-05-06 |  |
+| [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-05-06 | 2022-07-31 |
 | [SUPERIMPOSE](https://open.spotify.com/track/09c6U0P7mywiapQTEw9Vgk) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [SUPERIMPOSE](https://open.spotify.com/album/0TDvV8b1ER6fxGGcqktNaO) | 3:07 | 2021-11-13 |  |
 | [sweetheart](https://open.spotify.com/track/54gImafwZHEf6MYlJ6S0nH) | [XYLØ](https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW) | [sweetheart](https://open.spotify.com/album/4VaYGVZHG91XPMqes6yGJ8) | 3:32 | 2022-03-25 | 2022-07-12 |
 | [Swimming Pools at Night](https://open.spotify.com/track/7uBJTDYuOkmvhIoOCuB5pg) | [Talltale](https://open.spotify.com/artist/47bwOR6s1vZymFYFCfgsrZ), [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH), [Father Bobby Townsend](https://open.spotify.com/artist/5eDhzC9jYazJ8aOHHaQHMX) | [Swimming Pools at Night](https://open.spotify.com/album/6TiAboxwFU3hC1uykdkSut) | 3:44 | 2022-03-18 | 2022-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > One Love\. More Life\. More Vibes\. Curated by Melanie Fiona for Toronto Carnival 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008,338 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008,531 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 15 | [Rock Away](https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Music Is Life](https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6) | 3:59 |
 | 16 | [That Day Will Come](https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Reign Of Fire](https://open.spotify.com/album/5eLtALjYMNxXleMmi6UG21) | 4:06 |
 | 17 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
-| 18 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
-| 19 | [No Cigarette Smoking \(In My Room\)](https://open.spotify.com/track/3eRlXM0tGtAuBuUGuJRxxw) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 3:40 |
+| 18 | [No Cigarette Smoking \(In My Room\)](https://open.spotify.com/track/3eRlXM0tGtAuBuUGuJRxxw) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Revelation Part 1: The Root Of Life](https://open.spotify.com/album/3tRUM2HJcrvRzwQCDRUS73) | 3:40 |
+| 19 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 20 | [Give Me A Try](https://open.spotify.com/track/4pwGFtnF5ZWvvZee3Qmw1n) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Rise To The Occasion](https://open.spotify.com/album/7JtRuLlFw6g3axRUHcG9cP) | 3:39 |
 | 21 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Zungguzungguguzungguzeng!](https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N) | 6:28 |
 | 22 | [Mount Zion Medley](https://open.spotify.com/track/6vteTQH9VwU9R9Ssyt9x5n) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [L.M.S](https://open.spotify.com/artist/7LU2AJu0Jy2Hd0wA5973Zd), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Ras Shiloh](https://open.spotify.com/artist/6kiEmNG2akSox9EPxiX36I), [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Morgan Heritage Family & Friends Vol\. 1](https://open.spotify.com/album/1ojQVmqamJnShNuqZI3TQv) | 5:57 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 42 | [Love Me Browning](https://open.spotify.com/track/0bhwkOfM7yVI0fZmlS0d2t) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Mr Mention](https://open.spotify.com/album/30OprvPAmiCw2Nlt5FQMT7) | 3:47 |
 | 43 | [\(Dry Cry\) Just One of Those Days](https://open.spotify.com/track/5D0QnhFCV0uiEx3VvRgAkL) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [STRICTLY THE BEST VOL\. 31](https://open.spotify.com/album/26XrLpOvz47iPoQOpVCync) | 3:28 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGQxNTlmZjNkMWYxZWIwYzM0ODlmMzQxNzAxNTdkYWZj`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGU4OTk5NjdlOWVjZTcwMzFiMjM5OGRmMTA2MWQxYTM4`

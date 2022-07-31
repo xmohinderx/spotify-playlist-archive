@@ -1,12 +1,12 @@
 {
   "description": "Automatic floorfillers. A DJ's best friend. Cover: Daft Punk",
-  "num_followers": 52051,
+  "num_followers": 52249,
   "original_name": "Floorfillers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODYwMzkwMiwwMDAwMDAwMDE5NWQ1YzgwMGEwMDczNmRhN2M1MWE2YWM4NzM0NTNh",
+  "snapshot_id": "MTY1ODYwMzkwMiwwMDAwMDAwMDc4Yjg3YzZjZTllMmU2NmEwOWNjNDM1ZjYxMDQwZjdh",
   "tracks": [
     {
       "added_at": "2022-07-23 19:18:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-23 19:18:22",
       "album": {
-        "name": "Bleed American",
-        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
-    },
-    {
-      "added_at": "2022-07-23 19:18:22",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "added_at": "2022-07-23 19:18:22",
+      "album": {
+        "name": "Bleed American",
+        "url": "https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO"
     },
     {
       "added_at": "2022-07-23 19:18:22",

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Nicolle Galyon
 
-327 songs - 18 hr 36 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
+328 songs - 18 hr 40 min - [published](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-11-19 |  |
 | [Like the Water](https://open.spotify.com/track/7xaJp99s5JRCwXFzsG1ESU) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Like the Water](https://open.spotify.com/album/196Uq4oMif28MQUknLcUYZ) | 3:36 | 2021-11-19 | 2022-07-29 |
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-11-19 | 2022-06-09 |
-| [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 |  |
+| [Living My Best Life](https://open.spotify.com/track/0R7EWhquaAICmyE5MZqt3q) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:35 | 2022-07-15 |  |
+| [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 | 2022-01-07 | 2022-07-31 |
 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 | 2022-07-15 |  |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-13 | 2022-07-29 |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-11-19 |  |

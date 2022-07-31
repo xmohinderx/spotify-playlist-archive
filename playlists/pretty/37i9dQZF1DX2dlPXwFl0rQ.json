@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Janely Rosa en portada.",
-  "num_followers": 74590,
+  "num_followers": 74626,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NDkzMCwwMDAwMDAwMGMwZTUyNTRiNmEyODhjYmUwMDQ4NGQ3MGU3M2IwMGQz",
+  "snapshot_id": "MTY1OTA3NDkzMCwwMDAwMDAwMDI1NGY1OTJjNzQyODgwMGNjYzJkZmUxOWYwNDUwNTlj",
   "tracks": [
     {
       "added_at": "2022-07-29 06:08:50",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Qu\u00e9 Bueno Es Tenerte",
+        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -315,22 +319,18 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Qu\u00e9 Bueno Es Tenerte",
-        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
         "name": "Entiende Que Ya",
         "url": "https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 150654,
       "name": "Que Poquito Me Conoces",
       "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 164054,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Olv\u00eddalo",
-        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Olv\u00eddalo",
-      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
         "name": "Me Vale",
         "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
+        "name": "Olv\u00eddalo",
+        "url": "https://open.spotify.com/album/7vWScpX8aLrr5XnGPH49Qt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Olv\u00eddalo",
+      "url": "https://open.spotify.com/track/2mwYa5em1qllotwt5G4RC5"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1071,26 +1071,6 @@
       "duration_ms": 140000,
       "name": "JGL (En Vivo)",
       "url": "https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
-        "name": "+Mexicana",
-        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Qu\u00e9 Iron\u00eda",
-      "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1175,6 +1155,26 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
+        "name": "+Mexicana",
+        "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Qu\u00e9 Iron\u00eda",
+      "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
         "name": "Siempre Vuelvo A Ti",
         "url": "https://open.spotify.com/album/2dIhh5rHaiCNx3OZGIG35w"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Ay Qu\u00e9 Pena",
-        "url": "https://open.spotify.com/album/0z2XVtdknOawHBcW4OK2rs"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Ay Qu\u00e9 Pena",
-      "url": "https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
         "name": "Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
+        "name": "Ay Qu\u00e9 Pena",
+        "url": "https://open.spotify.com/album/0z2XVtdknOawHBcW4OK2rs"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Ay Qu\u00e9 Pena",
+      "url": "https://open.spotify.com/track/5MK1eRhpOSJ0PRfoyTXHVV"
     },
     {
       "added_at": "2022-07-01 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A total apocalypse of the heart. ",
-  "num_followers": 32370,
+  "num_followers": 32427,
   "original_name": "Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMGNlMzM1YjA4ZGRhMDhmZDQ1NzlhYjkyNTRjZTQ4MWE5",
+  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMGM3NzgxNTgyZTBiYjU0ZjA2ZTQwZGZlNWY2YzE5YjAy",
   "tracks": [
     {
       "added_at": "2022-07-29 14:45:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Quarter Turns over a Living Line",
-        "url": "https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg"
-      },
-      "artists": [
-        {
-          "name": "Raime",
-          "url": "https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu"
-        }
-      ],
-      "duration_ms": 270260,
-      "name": "Passed over Trail",
-      "url": "https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Jade",
         "url": "https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 188656,
       "name": "Clean",
       "url": "https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Quarter Turns over a Living Line",
+        "url": "https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg"
+      },
+      "artists": [
+        {
+          "name": "Raime",
+          "url": "https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu"
+        }
+      ],
+      "duration_ms": 270260,
+      "name": "Passed over Trail",
+      "url": "https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Floodwaters",
-        "url": "https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF"
-      },
-      "artists": [
-        {
-          "name": "Rites of Fall",
-          "url": "https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So"
-        }
-      ],
-      "duration_ms": 633962,
-      "name": "Floodwaters",
-      "url": "https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Illinois, Vol. 1",
         "url": "https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 89448,
       "name": "Bureau",
       "url": "https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Floodwaters",
+        "url": "https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF"
+      },
+      "artists": [
+        {
+          "name": "Rites of Fall",
+          "url": "https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So"
+        }
+      ],
+      "duration_ms": 633962,
+      "name": "Floodwaters",
+      "url": "https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Wanton Witch LP",
-        "url": "https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA"
-      },
-      "artists": [
-        {
-          "name": "Wanton Witch",
-          "url": "https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g"
-        }
-      ],
-      "duration_ms": 276479,
-      "name": "Walking on Moirai",
-      "url": "https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/783flv2FHsliDX36JbbmD3"
       },
@@ -831,34 +815,50 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm"
+        "name": "Wanton Witch LP",
+        "url": "https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA"
       },
       "artists": [
         {
-          "name": "Hilary Woods",
-          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
+          "name": "Wanton Witch",
+          "url": "https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g"
         }
       ],
-      "duration_ms": 234835,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu"
+      "duration_ms": 276479,
+      "name": "Walking on Moirai",
+      "url": "https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB"
     },
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Thank You Slipknot",
-        "url": "https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg"
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
       },
       "artists": [
         {
-          "name": "Machine Woman",
-          "url": "https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa"
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
         }
       ],
-      "duration_ms": 367304,
-      "name": "22.8.15",
-      "url": "https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo"
+      "duration_ms": 196266,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/3nZGMUJSx5uA8BdaVA3Nl7"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Simulacrum",
+        "url": "https://open.spotify.com/album/1JoOzfSC6Jh9mxxhvWhVTh"
+      },
+      "artists": [
+        {
+          "name": "Aho Ssan",
+          "url": "https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX"
     }
   ],
   "unique_name": "Noise",

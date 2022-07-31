@@ -3042,6 +3042,28 @@
     },
     {
       "album": {
+        "name": "BE.ELA.QU",
+        "url": "https://open.spotify.com/album/2IDccHxRQbAUasNWxc4tmm"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176733,
+      "name": "Casablanca (feat. RAF Camora)",
+      "url": "https://open.spotify.com/track/4FOnYirKRbe6guJsosnHSL"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -5493,7 +5515,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 151133,
       "name": "FALLIN",
       "url": "https://open.spotify.com/track/6XuiITnbtOxMbvSc2NmUM8"
@@ -6139,6 +6161,24 @@
       "duration_ms": 140624,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/7kbx13BGzXx2sfA31lmuGt"
+    },
+    {
+      "album": {
+        "name": "Frozen Tears",
+        "url": "https://open.spotify.com/album/5pJiXMEhtyXo3v9wfJcDAA"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208282,
+      "name": "Frozen Tears",
+      "url": "https://open.spotify.com/track/4yNNFapUZM7aTElXE2JveQ"
     },
     {
       "album": {
@@ -8679,7 +8719,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
@@ -13218,6 +13258,24 @@
     },
     {
       "album": {
+        "name": "DARDYNEXTDOOR",
+        "url": "https://open.spotify.com/album/04n8ykZiVoU3Q06FNu4SD9"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160213,
+      "name": "PARFUM",
+      "url": "https://open.spotify.com/track/1gOlu9mXzyjupKSwA0AdFk"
+    },
+    {
+      "album": {
         "name": "PARIS",
         "url": "https://open.spotify.com/album/62F2KM426pWj60wT9Ag2qW"
       },
@@ -14279,7 +14337,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 147410,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5C3J3C5nzBclrE8xuW5UQ7"
@@ -15777,10 +15835,28 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {

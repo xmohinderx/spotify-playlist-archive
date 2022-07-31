@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,564 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,669 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 21 | [Quando Ela Passa](https://open.spotify.com/track/5FzrNTRALoNQ9hpClQF9SF) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Quando Ela Passa](https://open.spotify.com/album/1I6zdEIvmsiuBz9kQSl3wl) | 3:20 |
 | 22 | [Sereno Da Madrugada](https://open.spotify.com/track/62fp0S6M5cWhghis8kUUXr) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Sereno Da Madrugada](https://open.spotify.com/album/0Sf3YW1tWylYtCirX00t6C) | 2:44 |
 | 23 | [Mão na Gola](https://open.spotify.com/track/7cTrcQpkHXGk393pyQ2HuY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Mão na Gola](https://open.spotify.com/album/6VhFkwMQTD0b9Q2e5ECtvN) | 2:46 |
-| 24 | [Não te conheço](https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Não te conheço](https://open.spotify.com/album/0JoxgIOnir9nk2aoy6LlXJ) | 3:25 |
+| 24 | [Não Te Conheço](https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Não Te Conheço](https://open.spotify.com/album/0JoxgIOnir9nk2aoy6LlXJ) | 3:25 |
 | 25 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 |
 | 26 | [Pocotó](https://open.spotify.com/track/41aZcrF6TnaxbZm6V5ot57) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Pocotó](https://open.spotify.com/album/0roLlyaXprnSd9LU6MaF74) | 2:26 |
 | 27 | [Vlife](https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd) | 2:40 |

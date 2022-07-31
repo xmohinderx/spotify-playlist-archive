@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 11107,
+  "num_followers": 11540,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMGYxY2YwNWY2NDA2MWI1NmUxY2FlZTYzMTM2YWEzYTFk",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDE2ZjhjOTc0ZGNmYWM0MDZiYTQ3MDY5MDUyMTEwYzM3",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Timeless EP",
         "url": "https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
       "artists": [
         {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -347,6 +331,22 @@
       "duration_ms": 229545,
       "name": "ME/AN",
       "url": "https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -475,6 +475,26 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Saw of Olympus",
         "url": "https://open.spotify.com/album/3vBR2vYlNvcqwYdpUfzsOn"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 272221,
       "name": "Saw of Olympus",
       "url": "https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        }
-      ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Sense EP",
-        "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
-      },
-      "artists": [
-        {
-          "name": "Drunken Kong",
-          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
-        }
-      ],
-      "duration_ms": 415077,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "Back for Rave",
         "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 438790,
       "name": "Back for Rave - Original Mix",
       "url": "https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Sense EP",
+        "url": "https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "duration_ms": 415077,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "How It Makes You Feel",
-        "url": "https://open.spotify.com/album/0IrIIRAzh0iG3wbZQJ8YnM"
+        "name": "Platia",
+        "url": "https://open.spotify.com/album/392IhxcdGrDfekRvmCREOl"
       },
       "artists": [
         {
-          "name": "Carl Cox",
-          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
-        },
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+          "name": "FOVOS",
+          "url": "https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8"
         }
       ],
-      "duration_ms": 526672,
-      "name": "How It Makes You Feel",
-      "url": "https://open.spotify.com/track/1VIaMdoWo7iNLoxdAJJoHK"
+      "duration_ms": 192380,
+      "name": "Platia",
+      "url": "https://open.spotify.com/track/6wbYCyePXvS1XCsMigiZTI"
     }
   ],
   "unique_name": "Techno Workout",

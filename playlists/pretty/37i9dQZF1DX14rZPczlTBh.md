@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for your Party.<br/>Cover : Nithiin
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,529 likes - 67 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,541 likes - 67 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 31 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 | 32 | [Mind Block](https://open.spotify.com/track/4q4PNCWRo90nUTILn6Y048) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Sarileru Neekevvaru](https://open.spotify.com/album/6vi0HnekV5nuzXB96NOAEL) | 4:24 |
 | 33 | [Ammadu Let's Do Kummudu](https://open.spotify.com/track/4jy2ORlpTbFqI07KO3LgWI) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 3:28 |
-| 34 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 |
-| 35 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 |
+| 34 | [Pilla Chao](https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 4:13 |
+| 35 | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Muqabla \(From "Street Dancer 3D"\) \[Telugu\]](https://open.spotify.com/album/49ngLrp5ds0ZQT0WeVqSWP) | 2:56 |
 | 36 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 |
 | 37 | [Family Party](https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr) | [MCA](https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN) | 4:00 |
 | 38 | [Bang Bang Bangkok](https://open.spotify.com/track/0A1chT9ef0Kn1NnQVnLoot) | [Devi Sri Prasad, Ranina Reddy, Rita](https://open.spotify.com/artist/6YGQ8Nt3ns8H02IkF3B3DO) | [Kumari 21 F](https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc) | 3:30 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 66 | [Let's Party All Night](https://open.spotify.com/track/2eAw9wwoNsqLXVv8VjQgSX) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Jaya Janaki Nayaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Jp6raaiCBdOWJMQofquHM) | 4:11 |
 | 67 | [Singilu Singilu DJ Song](https://open.spotify.com/track/5En5rG6YYgsZhXdc4a2Rmb) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [90ml \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FftqbTyf8wrm6PtogWefH) | 3:41 |
 
-Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMGY3MzYyYmUzOWEzMzExNTdiNzJmYWQyYzc1N2IyMzJj`
+Snapshot ID: `MTY1ODQ5Mzc2NywwMDAwMDAwMDNkYzY1MzdlMWQ1MDRjMjQ1Mjg5ZGM5NzkxYTQ2ZWZm`

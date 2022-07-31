@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 120584,
+  "num_followers": 120778,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM0NjgzMywwMDAwMDAwMGUyYzRiMWZkNDFhOTMzY2FjZDZiYjViMzkzZGNmNGVh",
+  "snapshot_id": "MTY0NzM0NjgzMywwMDAwMDAwMDQxMzljZDA3YjBiYWQzNjU0M2M2YzdiMTMwN2FhMWY2",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1257,22 +1257,6 @@
       "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Something / Anything?",
-        "url": "https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1"
-      },
-      "artists": [
-        {
-          "name": "Todd Rundgren",
-          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
-        }
-      ],
-      "duration_ms": 180280,
-      "name": "I Saw the Light - 2015 Remaster",
-      "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "ABC",
@@ -1287,6 +1271,22 @@
       "duration_ms": 177733,
       "name": "ABC",
       "url": "https://open.spotify.com/track/6wDviYDtmSDZ0S6TVMM9Vc"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Something / Anything?",
+        "url": "https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1"
+      },
+      "artists": [
+        {
+          "name": "Todd Rundgren",
+          "url": "https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb"
+        }
+      ],
+      "duration_ms": 180280,
+      "name": "I Saw the Light - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5uRkew0DtfAQmv0oEYNwFF"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1577,6 +1577,26 @@
       "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ"
     },
     {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Stumblin' In (2017 Remaster)",
+        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
+      },
+      "artists": [
+        {
+          "name": "Chris Norman",
+          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
+        },
+        {
+          "name": "Suzi Quatro",
+          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
+        }
+      ],
+      "duration_ms": 239611,
+      "name": "Stumblin' In - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
+    },
+    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "2 Hot!",
@@ -1639,26 +1659,6 @@
       "duration_ms": 172733,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Stumblin' In (2017 Remaster)",
-        "url": "https://open.spotify.com/album/70zwk7XkGn8CRIObD3a40F"
-      },
-      "artists": [
-        {
-          "name": "Chris Norman",
-          "url": "https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc"
-        },
-        {
-          "name": "Suzi Quatro",
-          "url": "https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ"
-        }
-      ],
-      "duration_ms": 239611,
-      "name": "Stumblin' In - 2017 Remaster",
-      "url": "https://open.spotify.com/track/2Pzhx26KqgTTKnko0uC7F7"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2137,6 +2137,22 @@
       "url": "https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Sky High",
+        "url": "https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW"
+      },
+      "artists": [
+        {
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
+        }
+      ],
+      "duration_ms": 393013,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "I've Got So Much To Give",
@@ -2167,22 +2183,6 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Sky High",
-        "url": "https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 393013,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2249,6 +2249,22 @@
       "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Peg",
+      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "AWB",
@@ -2299,22 +2315,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Peg",
-      "url": "https://open.spotify.com/track/2MaLglXXcouyoh03rUROQ2"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -2327,22 +2327,6 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Ringo",
-        "url": "https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "You're Sixteen (You\u2019re Beautiful And You\u2019re Mine)",
-      "url": "https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2395,6 +2379,38 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Ringo",
+        "url": "https://open.spotify.com/album/6zjenDV68SpvM3oEhorTDm"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "You're Sixteen (You\u2019re Beautiful And You\u2019re Mine)",
+      "url": "https://open.spotify.com/track/4MAxWahEbzU8m4bD6mSZg9"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
+      },
+      "artists": [
+        {
+          "name": "Andy Kim",
+          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Rock Me Gently",
+      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/04p4pcNAodBupBWhO2p0w8"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1yBUWYxGG5j1fjzSkrMY0C"
-      },
-      "artists": [
-        {
-          "name": "Andy Kim",
-          "url": "https://open.spotify.com/artist/5MYBNUKoFf9LAg30ByaBli"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Rock Me Gently",
-      "url": "https://open.spotify.com/track/2qh2VGAOYFXLsMbdATRf6w"
     }
   ],
   "unique_name": "70s Party",

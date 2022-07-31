@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,911 likes - 50 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,937 likes - 50 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 44 | [Tayakadın](https://open.spotify.com/track/1ZevLGcq0eXAPT5ZKrWdXN) | [Geeva Flava](https://open.spotify.com/artist/1gzLVGMn6ZcMIEnqOGLyQl), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Tayakadın](https://open.spotify.com/album/4Uu07mQBHdCZj4LTYJe4vz) | 8:16 |
 | 45 | [Tea Champ](https://open.spotify.com/track/59YqsVBEWPKQoTlBaxBrv6) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Tea Champ](https://open.spotify.com/album/7KVpT0JKtocfSeBaSdJ5kJ) | 4:49 |
 | 46 | [Meteor Stream](https://open.spotify.com/track/04SqwJdOlYCMuFZ6xxEggx) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Meteor Stream](https://open.spotify.com/album/0JLhkI3D3ZRtr3swzVqNqb) | 5:45 |
-| 47 | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5), [Chris Bullock](https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g) | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or) | 9:05 |
-| 48 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
+| 47 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 |
+| 48 | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/track/2LPvgbWHHy7evKFvqGh1yI) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5), [Chris Bullock](https://open.spotify.com/artist/38SvOojqE9VsTpoodD0N5g) | [Dirty Mindz \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron, Justin Stanton & Chris Bullock\)](https://open.spotify.com/album/2GfJbWrtq2pKRS8ugzi8or) | 9:05 |
 | 49 | [Earthrise](https://open.spotify.com/track/6piC8NdaOgfjcQ9jM1Od3S) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Mirage](https://open.spotify.com/album/33620GQZTMEMzOUZRMkBHf) | 6:41 |
 | 50 | [Kid](https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA) | [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv) | [Little Big](https://open.spotify.com/album/1go9cgw6AMhHv9Zcn9Xj3t) | 7:21 |
 
-Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMDM4MGM1ZWI2NWI2NTcxM2UzYjFmYjgzZjAyODY5OWNj`
+Snapshot ID: `MTY1OTA2NzMyMCwwMDAwMDAwMGEwMTZlMmQ5MDU4M2RjMWFjNzkxM2VlMmZmZjJkNGI4`

@@ -4,7 +4,7 @@
 
 > \\m/ ft\. Huddy
 
-284 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+285 songs - 14 hr 5 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,8 @@
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-05-26 |  |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-04-01 |
 | [Validation](https://open.spotify.com/track/1I1inSPAYCKKyi8CUk36DG) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Validation](https://open.spotify.com/album/02qo5nqVims1IsSJMjXXXb) | 2:43 | 2022-01-07 | 2022-03-25 |
-| [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 | 2022-06-09 |  |
+| [Video Girl](https://open.spotify.com/track/1PJMFgaRz7pW7NuTqks9S2) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 3:18 | 2022-07-29 |  |
+| [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 | 2022-06-09 | 2022-07-31 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-02 | 2022-07-22 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-01-21 | 2022-07-22 |
 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 | 2022-01-07 | 2022-03-25 |

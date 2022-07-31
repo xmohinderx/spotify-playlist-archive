@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,600 likes - 94 songs - 5 hr 0 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 32,616 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 7 | [Movie \(feat\. GABE ISAAC\)](https://open.spotify.com/track/4Dl4SJlsRMV60Km0TJKaLb) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [GABE ISAAC](https://open.spotify.com/artist/06r3I5cxbnTTLZp8kAyTBB) | [Movie \(feat\. GABE ISAAC\)](https://open.spotify.com/album/5zYGDLgR6SGDWefHxD2866) | 3:10 |
 | 8 | [30minutes to Soweto](https://open.spotify.com/track/6jfdGlzKaFgaSZESel9EQy) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [30minutes to Soweto](https://open.spotify.com/album/1eb8a1HGutT2c8EkJB92Oo) | 4:06 |
 | 9 | [Mom… It's Not a Phase](https://open.spotify.com/track/7MvOuMw8VpRmYp6jOgJtcC) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Mom… It's Not a Phase](https://open.spotify.com/album/1HHaOacZAFWrkJO6AK6XKs) | 1:45 |
-| 10 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:27 |
+| 10 | [act right](https://open.spotify.com/track/1Xwhdmv9VnPjYL4hAwLQjn) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [act right](https://open.spotify.com/album/66kLoEXcmlSRFkyEwjjpZW) | 3:26 |
 | 11 | [Baby Blue](https://open.spotify.com/track/1DXOc4mOSlvBQSFCR0h6GM) | [Brandon Stone](https://open.spotify.com/artist/2xLnJZODyKLRuxUrv63Qez), [George Myer](https://open.spotify.com/artist/0ibotk3IDoc9avhjDhY2IX) | [Baby Blue](https://open.spotify.com/album/1keOyQgALBtQqdRVUSm26v) | 3:48 |
 | 12 | [Pretty Privilege](https://open.spotify.com/track/3KS9JbakAG1q3de4fbeFHx) | [Psychs](https://open.spotify.com/artist/0D0QNhxAQhaPlbPqQi1XAx) | [Pretty Privilege](https://open.spotify.com/album/3aGLExigGnp75ivFLjInha) | 3:00 |
 | 13 | [Ballaz](https://open.spotify.com/track/5fGNtUOroR8t8rYOWpirm3) | [Keys the Prince](https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1) | [Ballaz](https://open.spotify.com/album/0FIMK0oGKVGxrEcY4hPS1z) | 2:39 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 85 | [Useless](https://open.spotify.com/track/400gKnEEJqjfLeFAz367bk) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v), [Johnny Apple](https://open.spotify.com/artist/39G1d15Jg3GI6LEaFAXMdk) | [Last Forever](https://open.spotify.com/album/3zYXoM5QerVGt0Xlmn3DaN) | 3:15 |
 | 86 | [Lazy](https://open.spotify.com/track/6w3qYvDQBFEFs4efpPaBaa) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S), [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Lazy](https://open.spotify.com/album/6SiHsBGhFwShIgUMzVZly5) | 3:34 |
 | 87 | [party for 2](https://open.spotify.com/track/6Qt0FvJWsLHOUtKlBVBpux) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [party for 2](https://open.spotify.com/album/7gI7Vj8qPJDgBcTODqaGBc) | 2:29 |
-| 88 | [The Beginning](https://open.spotify.com/track/0JMswRfSygAmgDYBRixocy) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [The Beginning](https://open.spotify.com/album/4pvw3Tfqgld7l1YJNNJ5R0) | 2:04 |
+| 88 | [The Beginning](https://open.spotify.com/track/0JMswRfSygAmgDYBRixocy) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [The Beginning](https://open.spotify.com/album/4pvw3Tfqgld7l1YJNNJ5R0) | 2:04 |
 | 89 | [No me olviden más \(feat\. Marina Sanjusto\)](https://open.spotify.com/track/2U3gcxNS3hmJJUWV9OZHcJ) | [ArtDéco](https://open.spotify.com/artist/4nge6ZhGTomzftpiswXdsf), [Marina Sanjusto](https://open.spotify.com/artist/5KOiqFEl5BImpHhEfaIGkv) | [No me olviden más \(feat\. Marina Sanjusto\)](https://open.spotify.com/album/3mgWjGqzhvXMNqpizdO66V) | 2:52 |
 | 90 | [Me Vale Madres](https://open.spotify.com/track/3aOdIJL9OtICaKfDQYQaqA) | [Dan Abedrop](https://open.spotify.com/artist/6Tivc3572NhJWiuOr4f7VR) | [Me Vale Madres](https://open.spotify.com/album/5r967LDxczmOloqvWqdWPt) | 3:17 |
 | 91 | [Promise Me](https://open.spotify.com/track/7drRHjBbUUD07tLV7UWgIr) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Promise Me](https://open.spotify.com/album/5LVm4PF2iNtfJrRvf42OHg) | 3:45 |

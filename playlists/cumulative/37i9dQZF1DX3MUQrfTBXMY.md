@@ -97,6 +97,6 @@
 | [Tomay Mone Pore](https://open.spotify.com/track/5wW1wMvFAYkG0PIA1XSPkf) | [Shafayet Badhon](https://open.spotify.com/artist/6IkPa1RHI4966Tmbos22Px), [Bayzid Rony](https://open.spotify.com/artist/0d9xrOzUVP4VRw0zeVqiDh) | [Project North Star, Vol\. 1](https://open.spotify.com/album/0eg9Gl97LB6NoSL9C01eMO) | 2:45 | 2022-06-16 | 2022-07-16 |
 | [Tumi, Ami O Bhor](https://open.spotify.com/track/12KuRGdlIUoPOYUmMqFiPa) | [Nemesis](https://open.spotify.com/artist/694bRUlAdfIh4BpiMWI3FF) | [Tumi, Ami O Bhor](https://open.spotify.com/album/0nGeQAJDGQnl3pYUUPEwCy) | 4:50 | 2022-06-16 |  |
 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 | 2022-06-16 |  |
-| [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 |  |
+| [ও মুরুব্বি](https://open.spotify.com/track/1Cn5z87cpiD0uxMIzcFE4b) | [Ariyan Khan](https://open.spotify.com/artist/28y51UfdmY0xm7lHLrDd34) | [ও মুরুব্বি](https://open.spotify.com/album/2bkb02lSyVRDdbPVjkZcER) | 3:43 | 2022-06-16 | 2022-07-31 |
 
 \*This playlist was first scraped on 2022-06-22. Prior content cannot be recovered.

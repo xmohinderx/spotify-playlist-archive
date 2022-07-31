@@ -4,7 +4,7 @@
 
 > baby all i wanna do is coast cover: Hailee Steinfeld
 
-1,199 songs - 2 day 14 hr 11 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,200 songs - 2 day 14 hr 14 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Brunette Caroline](https://open.spotify.com/track/0Bsh8T3J0S3vQSB8mrOo7S) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Through](https://open.spotify.com/album/4qDwe6lZPaM9YoV8Ei3pxd) | 3:08 | 2021-12-24 | 2022-01-15 |
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2021-02-15 | 2022-01-08 |
 | [Burn](https://open.spotify.com/track/0fK8FLKlFMNkTzIng9EQmI) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8) | [Burn](https://open.spotify.com/album/5KcuOcXkmO0zv1n7rkAQIs) | 3:13 | 2019-05-26\* | 2019-06-15 |
-| [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 |  |
+| [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-07-31 |
 | [Burning Up](https://open.spotify.com/track/1PMEK2UidGM6vR7ZvEqXQR) | [Harlo](https://open.spotify.com/artist/2BTTRieaquJC8M6b3WdsT5), [Holden Le Dinh](https://open.spotify.com/artist/5ip0l0E25zziwqZdOO1guY), [MP Crown](https://open.spotify.com/artist/1cUYtVsz3BxrGyDnN7ifnb) | [Burning Up](https://open.spotify.com/album/6WTMNU1vgcCD2fJMex0B2k) | 3:40 | 2019-05-26\* | 2020-04-16 |
 | [buttercup 2](https://open.spotify.com/track/0SIbpobQY9FQKCgvRQrKNO) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [buttercup 2](https://open.spotify.com/album/06KVsUFJEZSTPljvOsNNJY) | 2:16 | 2021-05-03 | 2021-10-12 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-06-07 |
@@ -629,6 +629,7 @@
 | [Lie](https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie](https://open.spotify.com/album/4v1f4kZMvCpwCSwkxC82ia) | 3:35 | 2019-05-26\* | 2019-08-13 |
 | [Lie \- Le Youth Remix](https://open.spotify.com/track/5g31YGEVbEI5gKWCey1mDZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie \(Le Youth Remix\)](https://open.spotify.com/album/3u1wNplNK7rdYvesrLoirN) | 3:38 | 2019-05-26\* | 2019-08-13 |
 | [Lie to Me](https://open.spotify.com/track/5xPqn733JeKtv7roQUEQb5) | [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lie to Me](https://open.spotify.com/album/0RRIGa0X03DIir2mnLsKTD) | 2:43 | 2021-03-21 | 2021-05-25 |
+| [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 | 2022-07-29 |  |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 |  |
 | [Light Me Up](https://open.spotify.com/track/3imS277wRbz1CFoDySgTff) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [NOVA](https://open.spotify.com/album/7GpuEZzRrPT4IGiEuWaBzy) | 3:21 | 2019-06-15 | 2020-01-16 |
 | [Light On](https://open.spotify.com/track/7o7BhlRuR2U1zPR7hfwTCA) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [DOUBLECAMP](https://open.spotify.com/album/4yn8DoQ55yUEKax3B6lPsi) | 3:01 | 2020-02-19 | 2021-05-19 |

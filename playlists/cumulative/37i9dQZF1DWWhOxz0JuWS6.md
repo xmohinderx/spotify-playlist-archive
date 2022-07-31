@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-503 songs - 1 day 12 hr 21 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
+504 songs - 1 day 12 hr 25 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [I Don't Believe In Love \- Remastered 2003](https://open.spotify.com/track/0U2TocFjqul3sis3sE5jZl) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Operation: Mindcrime \(Deluxe Edition\)](https://open.spotify.com/album/4eEQ3aNA8mptFIfbFdX79p) | 4:23 | 2020-12-08 |  |
 | [I Drink Alone](https://open.spotify.com/track/2nIDPfhjHZP8UOXPenLZUC) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Maverick](https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl) | 4:35 | 2020-12-08 |  |
 | [I Wanna Go Back](https://open.spotify.com/track/0gqy8H7byrHRhBVtKkMVKy) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:55 | 2020-12-08 |  |
+| [I Want A New Drug](https://open.spotify.com/track/2yWf3FJLwB0ytfOpgqLoa2) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41) | 4:45 | 2020-12-08 |  |
 | [I Want A New Drug](https://open.spotify.com/track/0epitox4b3cMzmYpJSBos8) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/0jwepuC4xIjFoFl4LCTElC) | 4:46 | 2020-12-08 | 2022-07-29 |
 | [I Want to Conquer the World](https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [No Control](https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle) | 2:17 | 2020-12-08 |  |
 | [I Want Your Love](https://open.spotify.com/track/55NBt1WuvShjsGE1grbi2v) | [Transvision Vamp](https://open.spotify.com/artist/7oIgcNOdEHNwP8NFl9tYWs) | [Pop Art](https://open.spotify.com/album/5QAE6zeYz3Z7O83UdPOJcX) | 3:29 | 2020-12-08 | 2022-07-23 |
@@ -332,7 +333,7 @@
 | [Red Rain](https://open.spotify.com/track/3T855kuZheheMdFvCo4txV) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:40 | 2022-03-28 | 2022-07-29 |
 | [Red Sector A](https://open.spotify.com/track/3PefhAnxRxxxeimzWetwnT) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Grace Under Pressure](https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT) | 5:09 | 2022-03-28 | 2022-07-29 |
 | [Red Sky](https://open.spotify.com/track/1y6HJqWv71bML3FEZNFOrS) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now](https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx) | 4:15 | 2020-12-08 | 2022-07-29 |
-| [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 | 2020-12-08 |  |
+| [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 | 2020-12-08 | 2022-07-31 |
 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 | 2020-12-08 |  |
 | [Rock and Roll Girls](https://open.spotify.com/track/5DeuAlTIDflXOomztXYM5D) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:26 | 2020-12-08 |  |
 | [Rock Me](https://open.spotify.com/track/0u6toDywZABXlUBq76iPKW) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz) | 7:19 | 2020-12-08 |  |

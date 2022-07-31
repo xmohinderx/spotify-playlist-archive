@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,546 likes - 60 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,763 likes - 60 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 39 | [Nitelife \- Armand Van Helden Retail Mix](https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN) | [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Nitelife \- Armand Van Helden Remixes](https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen) | 6:57 |
 | 40 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 |
 | 41 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
-| 42 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 3:47 |
-| 43 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
+| 42 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
+| 43 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [The Best Of Crystal Waters](https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg) | 3:47 |
 | 44 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
 | 45 | [Touch Me](https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Greatest Hits](https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS) | 3:47 |
 | 46 | [The Shelter \- Vocal](https://open.spotify.com/track/3QP0Ar3iRtS6GJMRcQryaf) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [GATE\-AH](https://open.spotify.com/album/2W6tSoWGY7ShtfjVYEvxgz) | 6:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [London Xpress](https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD) | [X\-Press 2](https://open.spotify.com/artist/1mlZXof4sEGLFspPzlQdFL) | [Raise Your Hands](https://open.spotify.com/album/4NS4zVtdf0k9jIsaOsonQV) | 6:46 |
 | 60 | [Servants Jaz House](https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT) | [Glenn Underground](https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc) | [The Jerusalem EP's](https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G) | 6:47 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGJmOGNlZjE4MzYzYjU1ZDE0ZThlMmE5ODdkZjdmOTMx`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGYyN2ViNWZiM2Q2OTNlNjI5Yjk5Mzg0MjBjZDA3YjMx`

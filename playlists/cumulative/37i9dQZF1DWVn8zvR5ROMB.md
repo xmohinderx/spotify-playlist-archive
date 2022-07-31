@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Dierks Bentley, Ingrid Andress, Chase Rice and more.
 
-1,335 songs - 3 day 0 hr 36 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+1,336 songs - 3 day 0 hr 39 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Coastin'](https://open.spotify.com/track/5E49Qnmu6bgoyENjCrlkPf) | [Jessi Pugh](https://open.spotify.com/artist/2ZHxXcyfeWRavwu5J9YsIk) | [Coastin'](https://open.spotify.com/album/6Q5Aj7X1f7oYfhfbwJpGPH) | 2:53 | 2022-06-03 | 2022-06-11 |
 | [COASTIN'](https://open.spotify.com/track/1zU19VzTdp3yPm2ZiQcdLK) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [COASTIN' \- EP](https://open.spotify.com/album/3XRFDkDNBBEQ5TJutSmfUz) | 2:51 | 2022-06-10 | 2022-06-18 |
 | [Coca Cola](https://open.spotify.com/track/6v6DFuJGLtNV7YAANw9JeT) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN), [TimmyRAY](https://open.spotify.com/artist/7rSSSCxo38P2L7Gr8snBgA) | [Coca Cola](https://open.spotify.com/album/6TYUiprYwt3yApdmkKnVgI) | 2:32 | 2022-07-08 | 2022-07-16 |
+| [Cold Beer & Country Music](https://open.spotify.com/track/6TeIbY9v3368lGKFl1Kj1a) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/6MRfIwQFTu8IPm7QvIngPN) | 3:06 | 2022-07-30 |  |
 | [Cold Beer Truth](https://open.spotify.com/track/4fb7ty1YugeZKQhCF6x6eK) | [Blane Rudd](https://open.spotify.com/artist/5RE1D7Dj0jwZOgbPw08HBq) | [Cold Beer Truth](https://open.spotify.com/album/1rW4xVEYv7kezerlkCmPz6) | 3:17 | 2022-04-15 | 2022-05-28 |
 | [Cold Beer Truth](https://open.spotify.com/track/1Aham4eyVWUkYoxyvoxaj0) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Cold Beer Truth](https://open.spotify.com/album/6MlvMbQu3E7bmEIjYfDowJ) | 2:53 | 2022-02-11 | 2022-02-19 |
 | [Cold Day In Tucson](https://open.spotify.com/track/77KXn1CiIXMKoGgsbBIZGX) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Cold Day In Tucson](https://open.spotify.com/album/6R3MAxK55wk5PYGW6dEk2Q) | 3:12 | 2022-03-25 | 2022-04-23 |
@@ -806,7 +807,7 @@
 | [Mean Something](https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Mean Something](https://open.spotify.com/album/5u7Aa2EgdoshTix08lz5Dx) | 3:20 | 2022-05-13 | 2022-05-20 |
 | [Memory to Drown](https://open.spotify.com/track/6hbJ8k0m9r5o3joqgsVRVq) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Memory to Drown](https://open.spotify.com/album/06CNL14Rqc6VkSLJeFoFWO) | 3:35 | 2022-02-04 | 2022-02-12 |
 | [Mess This Up](https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [Mess This Up](https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK) | 3:07 | 2022-01-14 | 2022-01-22 |
-| [Midnight on a Map Dot](https://open.spotify.com/track/3QoAp1I1ISwXRe8NxRdBnw) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Midnight on a Map Dot](https://open.spotify.com/album/3WXWicIsTxzGytDUE4nEnT) | 2:37 | 2022-07-29 |  |
+| [Midnight On A Map Dot](https://open.spotify.com/track/3QoAp1I1ISwXRe8NxRdBnw) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Midnight On A Map Dot](https://open.spotify.com/album/3WXWicIsTxzGytDUE4nEnT) | 2:37 | 2022-07-29 |  |
 | [MIDWEST, USA](https://open.spotify.com/track/2Y3FNBtK9p2C4FOd4lQr1U) | [Rob Mayes](https://open.spotify.com/artist/3P5tlX0dc1Y3oNWwgsojmt) | [MIDWEST, USA](https://open.spotify.com/album/7BoPjfmKuqpMcUxjNRZo9Z) | 3:36 | 2022-07-01 | 2022-07-09 |
 | [Mighta Just Met Her](https://open.spotify.com/track/4Ft2iYTf2c7l1Exp8UvYPk) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Mighta Just Met Her](https://open.spotify.com/album/5VqG4KP5TBi1xALBriQIDc) | 2:55 | 2022-07-22 |  |
 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 | 2022-07-15 | 2022-07-23 |

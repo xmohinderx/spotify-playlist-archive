@@ -4,7 +4,7 @@
 
 > Let yourself be sunkissed with beats to chill, relax, study, code, and focus.
 
-3,316 songs - 5 day 6 hr 29 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+3,318 songs - 5 day 6 hr 35 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-10-20 | 2022-04-24 |
 | [counting stars](https://open.spotify.com/track/2I0Y9S45ytIc5SSCwZU4MH) | [the sharp shooter](https://open.spotify.com/artist/5U1WPd2gl9JoyYNFq4s8EC) | [super sharp shots](https://open.spotify.com/album/7jBqXDmwdeZTo6UlqD0dj5) | 1:36 | 2021-01-25 | 2022-03-05 |
 | [Coupe\_90](https://open.spotify.com/track/3SagqXXt1KFUZY5vL7uzMd) | [Masked Man](https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5) | [Chillhop Daydreams](https://open.spotify.com/album/7qdepmAALqX7taS6nMz8v5) | 1:10 | 2019-09-10 | 2020-08-07 |
+| [Coves](https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Coves](https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr) | 2:45 | 2022-07-29 |  |
 | [Cozier](https://open.spotify.com/track/4dQkIxZr4Mx9WTOODMEkET) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz) | [Cozier](https://open.spotify.com/album/3bnzouzKMrNTz2h21ZSQbp) | 1:30 | 2020-06-24 | 2021-04-17 |
 | [Cozy](https://open.spotify.com/track/0gRZnSZ53Q3lMGAx5IMcXL) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Cozy](https://open.spotify.com/album/66MjnGl13VxwidORsKd6Vu) | 2:21 | 2022-05-27 |  |
 | [Cozy On The Sky](https://open.spotify.com/track/4gbRhISXzWAfgEaTDOtpDX) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [Cozy On The Sky](https://open.spotify.com/album/2cLV0jcukUGFSmhPQjwrnp) | 2:49 | 2022-04-08 |  |
@@ -976,6 +977,7 @@
 | [feel](https://open.spotify.com/track/27mDTC0vlah03ezVsuWRfi) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/0OTvxFZwmfmKoDGyFKWWNe) | 1:44 | 2019-06-06 | 2020-03-17 |
 | [Feel Free](https://open.spotify.com/track/6L8gNflQsaNQv7uY8IVjE4) | [Lichtboje](https://open.spotify.com/artist/5OEJiMPYAGd8sgyvA89ygr) | [Feel Free](https://open.spotify.com/album/2rMoeNbx0m4q9dhVDfxgBF) | 2:19 | 2022-04-23 |  |
 | [Feel Jolly](https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY) | [Matt Kaff](https://open.spotify.com/artist/4k9rFz2MLEyxG3GqdZ1Uqg) | [Feel Jolly](https://open.spotify.com/album/43mTxTivOAECBc4LcAaHz5) | 2:52 | 2021-10-20 | 2022-04-24 |
+| [Feelin' It](https://open.spotify.com/track/478E7Eaxc65sood3JWaFTt) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [Feelin' It](https://open.spotify.com/album/3kiYpt9k1QctA07ytRscLe) | 2:24 | 2022-07-29 |  |
 | [feeling alive in the dead of night](https://open.spotify.com/track/074qylDjMYcnLLa0XUzyhg) | [Beatmund Noise](https://open.spotify.com/artist/5ANEtiXOfqk6pGqOHj2suV), [mariussax](https://open.spotify.com/artist/5w7HPDu1t1FSCEfjEm3tKE), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT) | [feeling alive in the dead of night](https://open.spotify.com/album/5a9I5iLGeTBg6cOuEbNmPs) | 2:09 | 2022-04-23 |  |
 | [Feeling All Over It](https://open.spotify.com/track/3vRXX4bwUkVNpwXx0Ocvyw) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Superimposition](https://open.spotify.com/album/6AkVQhc6KbE5lhlGWmDnze) | 2:37 | 2022-07-08 |  |
 | [Feline Friends](https://open.spotify.com/track/69vmseeWrdd3fDdh1lCpC7) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD), [Yannik](https://open.spotify.com/artist/3HAFpxjlKatci4fTVPHwpJ) | [Feline Friends](https://open.spotify.com/album/3xX4k1sLIZHMIB0yFDBCpk) | 2:05 | 2020-10-27 | 2021-04-17 |
@@ -1587,7 +1589,7 @@
 | [Lakeside](https://open.spotify.com/track/6o4mGYhthbCxZQ7O42pLJS) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ) | [Lakeside](https://open.spotify.com/album/1o11e8IJyBjXdZzyIh2gO5) | 1:59 | 2022-06-10 |  |
 | [Lakeview](https://open.spotify.com/track/7conCb943zaCzfnjaBTpM7) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [Lakeview](https://open.spotify.com/album/5S1jBle8ANVAXnfSvhJf0e) | 1:54 | 2021-07-04 | 2022-03-12 |
 | [Lanterns](https://open.spotify.com/track/68vaAU5cIsDPu47auem0In) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Lanterns](https://open.spotify.com/album/1LMkckcPNJ2zwHktKn4IGg) | 1:22 | 2022-07-22 |  |
-| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 | 2022-07-30 |
+| [Larina](https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Larina](https://open.spotify.com/album/3YLntfGTS2T2jFBw1wDNy5) | 2:36 | 2022-07-29 |  |
 | [Lasagne](https://open.spotify.com/track/0YVUFizlbV0l7okjXGUTWu) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lasagne](https://open.spotify.com/album/747EgjI5KoDtHRvN8nB7MG) | 1:46 | 2020-11-10 | 2021-10-20 |
 | [Last Call](https://open.spotify.com/track/4ZH7eKeRIu9fEtVeOEukAj) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu), [Fayelo](https://open.spotify.com/artist/1K18BNpoYTlf251GQL1Mdz) | [Last Call](https://open.spotify.com/album/3KYrvXn0mZYypBHGbqOMQF) | 2:56 | 2021-08-29 | 2022-03-21 |
 | [Last Minute](https://open.spotify.com/track/4KY9vmJS55o2AAMbR5zDfg) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [High Jazz](https://open.spotify.com/album/1DdWGJ2V6GhO6cgaBx9WNj) | 1:17 | 2021-08-22 | 2022-03-21 |

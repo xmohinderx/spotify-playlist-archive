@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3452,
+  "num_followers": 3455,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI2MTAxMCwwMDAwMDAwMGI3ZjFmZjljYjlmYjdlZGJiMDY5YzBjYmRiY2Y1MWYz",
+  "snapshot_id": "MTY1NzI2MTAxMCwwMDAwMDAwMDgyZTk4NjgzNzcwZTAxYzdmMTEyOGRhMWU5ODI0NjY2",
   "tracks": [
     {
       "added_at": "2022-07-08 06:16:50",
@@ -307,26 +307,6 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "Like a Diamond",
-        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
-      },
-      "artists": [
-        {
-          "name": "KangHyeWon",
-          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
-        },
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "Like a Diamond (With. Stella Jang)",
-      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
         "name": "California Love",
         "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 228066,
       "name": "California Love (feat. JENO of NCT)",
       "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
+        "name": "Like a Diamond",
+        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
+      },
+      "artists": [
+        {
+          "name": "KangHyeWon",
+          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
+        },
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Like a Diamond (With. Stella Jang)",
+      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
     },
     {
       "added_at": "2022-07-08 06:16:50",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "Island Island!",
-        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
-      },
-      "artists": [
-        {
-          "name": "more",
-          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
-        }
-      ],
-      "duration_ms": 175300,
-      "name": "happen",
-      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
         "name": "#mood",
         "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
       },
@@ -491,38 +475,18 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
+        "name": "Island Island!",
+        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
       },
       "artists": [
         {
-          "name": "Summer Soul",
-          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
-        },
-        {
-          "name": "ROMderful",
-          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+          "name": "more",
+          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
         }
       ],
-      "duration_ms": 166863,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+      "duration_ms": 175300,
+      "name": "happen",
+      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
     },
     {
       "added_at": "2022-07-08 06:16:50",
@@ -547,6 +511,42 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        },
+        {
+          "name": "ROMderful",
+          "url": "https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU"
+        }
+      ],
+      "duration_ms": 166863,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
       },
@@ -563,26 +563,6 @@
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2022-07-08 06:16:50",
@@ -643,6 +623,26 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+        }
+      ],
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
         "name": "FALLIN",
         "url": "https://open.spotify.com/album/6Nl7KoPii9YCqFGtsNRtUf"
       },
@@ -731,38 +711,6 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "\ub0b4\uc77c (KSTAGE X \ud0dc\uc601 Of \ube14\ub799\ub808\ubca8)",
-        "url": "https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY"
-      },
-      "artists": [
-        {
-          "name": "\ud0dc\uc601",
-          "url": "https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv"
-        }
-      ],
-      "duration_ms": 240609,
-      "name": "\ub0b4\uc77c",
-      "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
-        "name": "\uc544\ubb34\uac83\ub3c4\ud558\uae30\uc2eb\uc5b4",
-        "url": "https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj"
-      },
-      "artists": [
-        {
-          "name": "\uc11c\uc601",
-          "url": "https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "\uc544\ubb34\uac83\ub3c4\ud558\uae30\uc2eb\uc5b4",
-      "url": "https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1"
-    },
-    {
-      "added_at": "2022-07-08 06:16:50",
-      "album": {
         "name": "Love Is Over",
         "url": "https://open.spotify.com/album/7pT9cfakGi2TnHHTFr7LCj"
       },
@@ -775,6 +723,22 @@
       "duration_ms": 200560,
       "name": "Please Don\u2032t Save Me",
       "url": "https://open.spotify.com/track/23vBocYQlxBdAhwbNbLPcd"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
+        "name": "\ub0b4\uc77c (KSTAGE X \ud0dc\uc601 Of \ube14\ub799\ub808\ubca8)",
+        "url": "https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY"
+      },
+      "artists": [
+        {
+          "name": "\ud0dc\uc601",
+          "url": "https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv"
+        }
+      ],
+      "duration_ms": 240609,
+      "name": "\ub0b4\uc77c",
+      "url": "https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj"
     },
     {
       "added_at": "2022-07-08 06:16:50",
@@ -795,6 +759,42 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
+        "name": "\uc544\ubb34\uac83\ub3c4\ud558\uae30\uc2eb\uc5b4",
+        "url": "https://open.spotify.com/album/0sfg7Vi4jNI6j1jbc0FZKj"
+      },
+      "artists": [
+        {
+          "name": "\uc11c\uc601",
+          "url": "https://open.spotify.com/artist/3qbgph1ZJa7HlDrXbTrpia"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "\uc544\ubb34\uac83\ub3c4\ud558\uae30\uc2eb\uc5b4",
+      "url": "https://open.spotify.com/track/1zcn4vFOiz7E0lkKJXJDn1"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+    },
+    {
+      "added_at": "2022-07-08 06:16:50",
+      "album": {
         "name": "TURNED",
         "url": "https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "Song of the rain",
-        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "Bambiroyalprince",
-          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 214556,
-      "name": "Song of the rain",
-      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2022-07-08 06:16:50",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-07-08 06:16:50",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "Song of the rain",
+        "url": "https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "Bambiroyalprince",
+          "url": "https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 214556,
+      "name": "Song of the rain",
+      "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
     },
     {
       "added_at": "2022-07-08 06:16:50",

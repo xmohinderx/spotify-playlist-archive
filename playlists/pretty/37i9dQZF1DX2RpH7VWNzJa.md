@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 
 > No te preocupes, feel it all here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,579 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,606 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 27 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
 | 28 | [Destino](https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Destino](https://open.spotify.com/album/2y2xsvO5g0sSo2ERMlsZNf) | 3:04 |
 | 29 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 |
-| 30 | [llueve](https://open.spotify.com/track/5NliUthcviXaUsZ2YELGq1) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:16 |
-| 31 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 |
-| 32 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 30 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
+| 31 | [llueve](https://open.spotify.com/track/5NliUthcviXaUsZ2YELGq1) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [ep2 🌧](https://open.spotify.com/album/3DBCFDPSsiPfFIBtJRchzm) | 3:16 |
+| 32 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 |
 | 33 | [No estás](https://open.spotify.com/track/32grtzU3DA9uwdSN1w7t7S) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [No estás](https://open.spotify.com/album/1DXTBoAItVHckR0DopqR30) | 2:46 |
 | 34 | [nada que decir](https://open.spotify.com/track/1qPf4Rl5l8QyK2BXsk1CJE) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [nada que decir](https://open.spotify.com/album/5YmFYvpGA85THfc1GYantK) | 3:06 |
 | 35 | [Sad Girl](https://open.spotify.com/track/3zm5AZiCm55YF39M9zSdCJ) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Sad Girl](https://open.spotify.com/album/3Imc13l8Rya9lpjaFQhOfW) | 3:28 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RpH7VWNzJa.md) - [plain]
 | 37 | [Dime la verdad](https://open.spotify.com/track/3h9Oea03Nxz2KBQu35IdvO) | [Jordan Boyd](https://open.spotify.com/artist/2giZslWrqgUxCXEcYbV3R0), [Drunk and Drops](https://open.spotify.com/artist/7GXCNFQuvcOb2TVQjtFOUG) | [Dime la verdad](https://open.spotify.com/album/2UysmvX5GsuNXZ3oTs1YrC) | 3:00 |
 | 38 | [he dejado de llamarte](https://open.spotify.com/track/1G9s7sbgxJ7jOR12NdXup2) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg) | [he dejado de llamarte](https://open.spotify.com/album/3TbPRXA5gmGgM5SlsYQTiH) | 2:25 |
 | 39 | [Dejarte Ir](https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Dejarte Ir](https://open.spotify.com/album/1ErvPibzFOYYaxCu0PgGVt) | 3:10 |
-| 40 | [Sabaneta](https://open.spotify.com/track/0KRgPFcbGovOB8cXZ88Eee) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Sabaneta](https://open.spotify.com/album/1KmHeewbt3p4TwXQGknXyO) | 2:52 |
-| 41 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
+| 40 | [Girasol](https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Girasol](https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd) | 3:24 |
+| 41 | [Sabaneta](https://open.spotify.com/track/0KRgPFcbGovOB8cXZ88Eee) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [Sabaneta](https://open.spotify.com/album/1KmHeewbt3p4TwXQGknXyO) | 2:52 |
 | 42 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 |
 | 43 | [un niño](https://open.spotify.com/track/1TXeqjCYIahhfooXkdb3aI) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [mensajes de voz](https://open.spotify.com/album/2JVdfTCrsfqvlCo43jkelD) | 3:05 |
 | 44 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 |
-| 45 | [Cacería](https://open.spotify.com/track/0kZKpOLObAOKeIM36VvScx) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Cacería](https://open.spotify.com/album/0ZjF6wG8buv9f5LLZ3KFR5) | 2:45 |
-| 46 | [Contándoles](https://open.spotify.com/track/0Vus5wQREmdEQw3dEPwb5c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Contándoles](https://open.spotify.com/album/0CvQp4I6RpU77hbQmZtIgw) | 3:08 |
-| 47 | [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 |
-| 48 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 |
-| 49 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
-| 50 | [Amanecer](https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Amanecer](https://open.spotify.com/album/7rjVDURaXjRbN21QQtwXY5) | 3:05 |
+| 45 | [Aire](https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to) | 2:54 |
+| 46 | [Cacería](https://open.spotify.com/track/0kZKpOLObAOKeIM36VvScx) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Cacería](https://open.spotify.com/album/0ZjF6wG8buv9f5LLZ3KFR5) | 2:45 |
+| 47 | [Contándoles](https://open.spotify.com/track/0Vus5wQREmdEQw3dEPwb5c) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Contándoles](https://open.spotify.com/album/0CvQp4I6RpU77hbQmZtIgw) | 3:08 |
+| 48 | [Ya No Es Igual](https://open.spotify.com/track/1jRm8Ajv9u915YwHEyHDV8) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [:\( EP](https://open.spotify.com/album/5acfrPOtHQxBSS7WUGl2hV) | 3:43 |
+| 49 | [El Club de los Ojos Tristes](https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R) | [Estrada](https://open.spotify.com/artist/1E7tZNnbAqVH2FL2B8JDVU), [Luis Díaz](https://open.spotify.com/artist/35PlzNU9nTOWZZzLzGYWsr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [El Club de los Ojos Tristes](https://open.spotify.com/album/05AdODG6bouWeGMGVVoqfp) | 4:22 |
+| 50 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
 
-Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMGJkYmI5NDE0YmUzMmI4YzIwNjM4NTg3NWZiYTM2ZTk4`
+Snapshot ID: `MTY0NTU2NDc3NSwwMDAwMDAwMGVkOTAwZThkZjE3Zjg4Y2IyMjJmYWYxMzNlZWY2MDVj`

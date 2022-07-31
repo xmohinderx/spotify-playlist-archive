@@ -4,7 +4,7 @@
 
 > Dance and electronic Arabic songs\. Cover: Nancy Ajram & Marshmello.
 
-58 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
+59 songs - 3 hr 53 min - [published](https://open.spotify.com/playlist/54atOgU6aSg6YDGd7DJtW1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Hadi Ya Baher](https://open.spotify.com/track/53Szvpaq39xEpsFFUQ6a7E) | [Palmtherapy by DrNR](https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho), [Mawal Lotfi](https://open.spotify.com/artist/3d9xYfE0pPF4VuZQMW7lAN) | [Hadi Ya Baher](https://open.spotify.com/album/6wGy4mcOpjbXhjLvOrwBEe) | 3:01 | 2022-03-30 |  |
 | [Haleq Maa'y](https://open.spotify.com/track/56o5roP1Xff5WUbBK6UaZM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl), [Mirelle Mokhtar](https://open.spotify.com/artist/72qojRuTcRlpvPehi30h7p) | [Haleq Maa'y](https://open.spotify.com/album/1FS3LAQp4oMKsCqMnI19OW) | 4:21 | 2022-03-30 |  |
 | [Hawlo \- Gaby Zgheib Remix](https://open.spotify.com/track/74cyl9q0lrXuySioeD10kB) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Gaby Zgheib](https://open.spotify.com/artist/2tAVxjSZZ5b5d1k360AWJr) | [Hawlo \(Gaby Zgheib Remix\)](https://open.spotify.com/album/4WKR4H1V39EMpgRaT6kzU0) | 4:46 | 2022-03-30 |  |
-| [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-02 |  |
+| [Hiya Hiya](https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H) | 3:37 | 2022-06-30 |  |
+| [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-06-02 | 2022-07-31 |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 |  |
 | [Kun](https://open.spotify.com/track/38p1aFLLRYT8XbNal1PbWT) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Kun](https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D) | 4:45 | 2022-03-30 |  |
 | [Laar Ya Laar](https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Laar Ya Laar](https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw) | 2:10 | 2022-03-30 |  |

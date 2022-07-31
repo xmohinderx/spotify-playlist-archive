@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 
 > Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,781 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,783 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 14 | [Obama](https://open.spotify.com/track/4Pe7K3i2JWTdL2x5ZmGW15) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Obama](https://open.spotify.com/album/1e6cbBUcVLlGDth1BLVAom) | 2:22 |
 | 15 | [Nadir](https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0YPuDIug1i3522246t1BVO) | 4:17 |
 | 16 | [Curado](https://open.spotify.com/track/3s3Da465rZm9rhGaxlAkZt) | [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [Curado](https://open.spotify.com/album/5OdV85nPdRmu2jqdHxys4e) | 2:50 |
-| 17 | [Rangos](https://open.spotify.com/track/3YS9LsXzgK7cAtrOPkZawe) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/0kStFMG9fptojUUifWVUCK) | 2:08 |
+| 17 | [Rangos](https://open.spotify.com/track/0ZeQFWUwICisBLXNFtlsAY) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Rangos](https://open.spotify.com/album/1cLqKrL2fed5ARiR8qJF3x) | 2:08 |
 | 18 | [No Soy Yo](https://open.spotify.com/track/64z5CqcwEqEqncSZ1iILQ4) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [No Soy Yo](https://open.spotify.com/album/4kJ0ZhiZJBEcQgULwrKpO8) | 2:56 |
 | 19 | [I.D.K.](https://open.spotify.com/track/0Et7R62PgWXXWPeA3N33g2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [I.D.K.](https://open.spotify.com/album/5ISGPxLsYX94QcADA2rum5) | 2:30 |
 | 20 | [Te Queria](https://open.spotify.com/track/6BIDdKBzJJdQgXYrrpN38M) | [Fosse](https://open.spotify.com/artist/2PCb69QCbQJvBJF9tuWcNo), [KKO](https://open.spotify.com/artist/5vqML5YrVETt2HBhovmnNv) | [Te Queria](https://open.spotify.com/album/62GbMKlsW0HJNDsQFW5f5o) | 3:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DGKC3XcKsx.md) - [plain]
 | 64 | [Ruleta Rusa](https://open.spotify.com/track/6X9IeZi3JXIsV9yAG6xq4j) | [Kloudy Koon](https://open.spotify.com/artist/5b1CYOC0HvTPzWSawMATPv) | [Ruleta Rusa](https://open.spotify.com/album/2Qie57F9y5BaktRn5ko5y1) | 2:36 |
 | 65 | [Ahora No Puedo Dormir](https://open.spotify.com/track/73d3mhXUHvzdoPT4kUncs6) | [Alain Verdier](https://open.spotify.com/artist/0GbTibx6jki0CWRaf9JLSa) | [Ahora No Puedo Dormir](https://open.spotify.com/album/0vQWHdxMrmhw2h8HxIc8hL) | 2:40 |
 
-Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMDYwYzIwNTkyNjg0MzAwODM3YTI5ZWE3ODQ2ZmI1ZGIz`
+Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDAwMGU1YzNmYTZiMDdjOWI3MTRmZDQwNTQxYTlmNjY4MTk3`

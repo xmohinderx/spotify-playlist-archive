@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,124 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,909 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 49 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 |
 | 50 | [Rooftop in Amsterdam](https://open.spotify.com/track/4n2YcXCH9G4TeCzAGyHWzw) | [Zwette](https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Rooftop in Amsterdam](https://open.spotify.com/album/6WJP5GynkcMG3RRuOxn9KI) | 3:01 |
 | 51 | [Dancing In The Lightning](https://open.spotify.com/track/4dCdxOWspPkiAydcdEaYQ3) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [Tyler Sjöström](https://open.spotify.com/artist/3JRrxifzOpGOalOfGHEJNB) | [Dancing In The Lightning](https://open.spotify.com/album/0Q1lEnpu0dhnJGzSEOdXvZ) | 3:05 |
-| 52 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 |
-| 53 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 |
+| 52 | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/track/1C4c6ojhV5NJDIS8KpDNNo) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Minke](https://open.spotify.com/artist/4fTWIwXX49PpfrhxBHfkkw) | [Sweet Nothings \(feat\. Minke\)](https://open.spotify.com/album/6ArVpsDw6r6FJZY5lCW0Mi) | 3:48 |
+| 53 | [Dopamine \(feat\. Eyelar\)](https://open.spotify.com/track/4gGWAqJkd3HyvJJZa4CXqN) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:36 |
 | 54 | [Still Love You](https://open.spotify.com/track/057SolKingTw6AEgBL7q9r) | [JAS1X](https://open.spotify.com/artist/1gE67JBAV50qI94fX4nz3F), [fuse.](https://open.spotify.com/artist/7yLOR62W5h5j5Y4M8nHnAY) | [Still Love You](https://open.spotify.com/album/5Q80IrelKfhPp0z63gXfV0) | 3:15 |
 | 55 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 |
 | 56 | [Human](https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Human](https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/track/3ArDS1f0uJjaotIuIkg2cJ) | [Marcus Brodowski](https://open.spotify.com/artist/3U5sS2ernX7nUjFZ9GSxWh), [Emily Sander](https://open.spotify.com/artist/3mysMigndcBXvVgkpa7gvc) | [The Scientist \(feat\. Emily Sander\)](https://open.spotify.com/album/3wgPs3nwytZ4mIXHuy9Z1L) | 3:34 |
 | 60 | [Feet Don't Touch](https://open.spotify.com/track/3VYER8HwBRBbyn72Zd5v4r) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Nicholas Roy](https://open.spotify.com/artist/5bBKSut3KtxJFIgxC4iS7o) | [Feet Don't Touch](https://open.spotify.com/album/6Lg3FgJmEw0oIghYSfX57G) | 3:10 |
 
-Snapshot ID: `MTY1NzI5NzgwMCwwMDAwMDAwMDNhNjhiMDQwYzg1OWM3OGViZWMwMzMwNTUzMDhkN2Vi`
+Snapshot ID: `MTY1NzI5NzgwMCwwMDAwMDAwMDk1Y2QzZTc2MmNjNTdjMmM5MmIwNTMyOTRlNmNhODEx`

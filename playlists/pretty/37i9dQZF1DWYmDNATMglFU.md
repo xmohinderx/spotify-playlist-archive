@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. Huddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,503 likes - 84 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,558 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 45 | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/track/13Tx6UXab7USWVm3logTKh) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Hallucinate \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3veRLhukp1m3SdpCiWcUlQ) | 3:31 |
 | 46 | [drivers license](https://open.spotify.com/track/6H7RUDjmjiGV4I9hE24Kk5) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [drivers license](https://open.spotify.com/album/0Hi8bTOS35xZM0zZ6S89hT) | 3:57 |
 | 47 | [BURNOUT](https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [BURNOUT](https://open.spotify.com/album/1oUXmEhwbTJ4InsEjZADla) | 2:52 |
-| 48 | [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 |
+| 48 | [Video Girl](https://open.spotify.com/track/1PJMFgaRz7pW7NuTqks9S2) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 3:18 |
 | 49 | [DIRTY WHITE VANS//](https://open.spotify.com/track/51tegOXmUxqJKWMh8l3Oxi) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [DIRTY WHITE VANS//](https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky) | 2:21 |
 | 50 | [Sleeping in Cars](https://open.spotify.com/track/20LGqs8akUvJKwn76nVAtC) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:36 |
 | 51 | [Beautiful Boy](https://open.spotify.com/track/1cmIa5VRsl9vOZl6zNRlHf) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [28 \(Songs for Cooper\)](https://open.spotify.com/album/1O8TQDjg48bsvgdGGNcQPY) | 2:38 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 83 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 |
 | 84 | [HOMESICK](https://open.spotify.com/track/4qP4kTX936djenzFcQIKrw) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [BUBBLEGUM EP](https://open.spotify.com/album/64BbfF6V1IuXhTzxPkwwg4) | 3:09 |
 
-Snapshot ID: `MTY1OTA5ODUxOSwwMDAwMDAwMDdkMjg3NzkwMjFmMzZmZDRhMmRjZTYxYTQzNWI1NDIw`
+Snapshot ID: `MTY1OTA5ODUxOSwwMDAwMDAwMGQ0NDY2YTk5Y2IzMTAyYjFhZDI1YmQ4MTZlNDc1ZDFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 > This is Rammstein\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,826 likes - 47 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065,624 likes - 47 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 46 | [Tier](https://open.spotify.com/track/0S2UfCA5A275xChEi9a6vU) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:46 |
 | 47 | [Zerstören](https://open.spotify.com/track/4HLcqGelHzQY7nAhxhh1hO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 5:28 |
 
-Snapshot ID: `Mjc2NTE2ODMsMDAwMDAwMDA5OWQ4NDc1YmUwODk5MmU1YTQ3ZTkzODA5ZTkyZjVjNQ==`
+Snapshot ID: `Mjc2NTMxNDgsMDAwMDAwMDBjZWQyZjM2YzkzMjZjMjZiODg1NDJmYzRmNGUwY2NiMA==`

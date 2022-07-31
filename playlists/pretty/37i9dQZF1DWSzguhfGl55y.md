@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > Die größten Hits der deutschen Hip\-Hop\-Geschichte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,077 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,202 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 28 | [Mit freundlichen Grüßen](https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [4:99 \- Jubiläums\-Edition](https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl) | 3:35 |
 | 29 | [Prison Break Anthem \(Ich glaub an Dich\) \(feat\. Adel Tawil\) \- Single Version](https://open.spotify.com/track/1ISVPhtR7F0DMluQkhq3mT) | [Azad](https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU), [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Blockschrift](https://open.spotify.com/album/4Rzr6mHoq3nUppphdbmxwj) | 4:04 |
 | 30 | [Im Ascheregen](https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Hinterland](https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p) | 4:59 |
-| 31 | [Easy](https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop +5](https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN) | 2:53 |
-| 32 | [Schwule Mädchen](https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1) | 3:25 |
+| 31 | [Schwule Mädchen](https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Demotape](https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1) | 3:25 |
+| 32 | [Easy](https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [Raop +5](https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN) | 2:53 |
 | 33 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
 | 34 | [Cruisen](https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy) | [Massive Töne](https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ) | [MT3](https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g) | 3:55 |
 | 35 | [Klar](https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg) | [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [Mercedes Dance](https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 49 | [Stumm \(Xenja\)](https://open.spotify.com/track/3MxUAsVtyFpJHObz3aeIws) | [Samy Deluxe](https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0) | [Dis Wo Ich Herkomm](https://open.spotify.com/album/5KCUTya0utfXxt1sXNq7kp) | 3:20 |
 | 50 | [Da draussen](https://open.spotify.com/track/4XpTJ3DkxlSMBNZXnaeayk) | [Fettes Brot](https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH) | [Fettes Brot lässt grüssen](https://open.spotify.com/album/3KB60zGxKC2w3cIIkWGlRD) | 5:20 |
 
-Snapshot ID: `MTY1ODM5MDczOCwwMDAwMDAwMDQ5ZjkwNGFkNmMyZDUxMzNhNzlmZjZkOWFkMzA4NGVj`
+Snapshot ID: `MTY1ODM5MDczOCwwMDAwMDAwMDljZmRkYjg5MTA0YmNmNDNhMTdmOGM2YWE3ODgxNDk1`

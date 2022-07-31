@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,545 likes - 69 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,589 likes - 69 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 64 | [Fluffy Clouds](https://open.spotify.com/track/46An1qrp2NBF7rP8CgmnpK) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Fluffy Clouds](https://open.spotify.com/album/3dWZLsrLsh8gcbnekWIg7H) | 5:44 |
 | 65 | [Wild Chamber](https://open.spotify.com/track/64jAqN4KeoMaiX11EXvXF4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Wild Chamber](https://open.spotify.com/album/7ow4bpiILldUbu975NRIx4) | 4:21 |
 | 66 | [Weight](https://open.spotify.com/track/3CDfX0qDBnTsYiEzmTGTFT) | [UMFANG](https://open.spotify.com/artist/1Tf0PpDLg4A8m7aidHGRG3) | [Symbolic Use Of Light](https://open.spotify.com/album/29MU5A39NfSLiCN6pjtGcn) | 4:31 |
-| 67 | [Talk Ur Talk](https://open.spotify.com/track/0J257nEinfevPktIMcFLE9) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1NVT1CyJZdyLVPYoBJtWoX) | 3:49 |
+| 67 | [Talk Ur Talk](https://open.spotify.com/track/7EUX8OCQiiMLp4QcZLoo3X) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:49 |
 | 68 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 |
 | 69 | [Inner Peace](https://open.spotify.com/track/0KbAf8GrFpAGdDatmTC4MJ) | [Nightwave](https://open.spotify.com/artist/21E32VFyiPAWjbOWWzZBOv) | [Inner Peace](https://open.spotify.com/album/3rFHUVsBf9FLu9q5yhA6Co) | 5:19 |
 
-Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMDMzMTIyMDM5NTE2ZDBkN2Q0ZDE0ZjRiNzhkMjFmM2Iz`
+Snapshot ID: `MTY0NjcyNjE4MCwwMDAwMDAwMGI0YTFjMWIxYmU5MGQ5YzE5N2EwYzFjOTQwYjUwYzhl`

@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 381846,
+  "num_followers": 381950,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDIwMzZkNmEwYTVhYTVkYmQ2ZjZmYjZiNWU2OWUwMWM3",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDI4OTk5NmZiMDVmNzE3YWIxNzBjZTIyMjg0ZDc2NThm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Flow State Vestida 4",
-        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
-      },
-      "artists": [
-        {
-          "name": "Danny Mulhern",
-          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Flow State Vestida 4",
-      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Over The Pines (from the Motion Picture \"Land\")",
         "url": "https://open.spotify.com/album/2tCF0m1P1g25NcPfv0Sfjj"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 191386,
       "name": "Over The Pines",
       "url": "https://open.spotify.com/track/2gAIy3MuCMOZUejECGPBUa"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Flow State Vestida 4",
+        "url": "https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE"
+      },
+      "artists": [
+        {
+          "name": "Danny Mulhern",
+          "url": "https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Flow State Vestida 4",
+      "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -563,18 +563,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
       },
       "artists": [
         {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
+      "duration_ms": 159837,
+      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -595,22 +599,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "The Invisible EP",
-        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 163861,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
@@ -623,6 +611,38 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "\u00c9closion",
+        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
+      },
+      "artists": [
+        {
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "\u00c9closion",
+      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "The Invisible EP",
+        "url": "https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 163861,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -903,22 +923,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "The Time It Takes",
-        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
-      },
-      "artists": [
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Respite",
-      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Clear Language",
         "url": "https://open.spotify.com/album/5z1mF6xLNvsKp132hNxqZ3"
       },
@@ -931,6 +935,22 @@
       "duration_ms": 193386,
       "name": "Clear Language",
       "url": "https://open.spotify.com/track/3wOktPNamu01hvLN36g9A0"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "The Time It Takes",
+        "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Respite",
+      "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1179,42 +1199,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Acqua",
-        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
-      },
-      "artists": [
-        {
-          "name": "Fabrizio Paterlini",
-          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "The Space Between",
-      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 159837,
-      "name": "Gnossienne: No.1 (Satie Reworks) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2iADUGfIsYKXNmZtkxScdH"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1231,22 +1215,34 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "As I Was (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+        "name": "Surface (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 305691,
-      "name": "As I Was - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
+      "duration_ms": 148432,
+      "name": "Surfaced - From \"Surface\"",
+      "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Acqua",
+        "url": "https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk"
+      },
+      "artists": [
+        {
+          "name": "Fabrizio Paterlini",
+          "url": "https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "The Space Between",
+      "url": "https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1287,6 +1283,26 @@
       "duration_ms": 386718,
       "name": "Flight from the City - V\u00edkingur \u00d3lafsson Rework",
       "url": "https://open.spotify.com/track/4eaBCGk2bT1spf1CruumMy"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "As I Was (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 305691,
+      "name": "As I Was - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1347,26 +1363,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Escape (Hania Rani Remix)",
-        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 267330,
-      "name": "Escape - Hania Rani Remix",
-      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Nomadland (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
@@ -1399,26 +1395,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Delicately",
-        "url": "https://open.spotify.com/album/7yh6bUD0zf7uDGeufUHh85"
+        "name": "Escape (Hania Rani Remix)",
+        "url": "https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ"
       },
       "artists": [
         {
-          "name": "Jim Perkins",
-          "url": "https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi"
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
         },
         {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Anna De Bruin",
-          "url": "https://open.spotify.com/artist/1VE5Yi7cxQZsCF044htLO4"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 123251,
-      "name": "Delicately",
-      "url": "https://open.spotify.com/track/4hL2tCFmEkRBfaVsZ8G7lC"
+      "duration_ms": 267330,
+      "name": "Escape - Hania Rani Remix",
+      "url": "https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG"
     }
   ],
   "unique_name": "Not Quite Classical",

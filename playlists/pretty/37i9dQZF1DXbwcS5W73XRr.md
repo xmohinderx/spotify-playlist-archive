@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,513 likes - 31 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,562 likes - 31 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 22 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 |
 | 23 | [Can You Feel The Bass?](https://open.spotify.com/track/0jeZ9aBy0mII4l0ENKU6lI) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 5:12 |
 | 24 | [String Free](https://open.spotify.com/track/7ohnm6Z5zI7BwUTIA49u4d) | [Phortune](https://open.spotify.com/artist/3SKiqrQqIsYjfR8KpY5WW3) | [Phuture and Other Classics from DJ Pierre](https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy) | 6:11 |
-| 25 | [Acid Pump Up London](https://open.spotify.com/track/0BAyTCUxqILTsEygX8DIpU) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:35 |
+| 25 | [Art Of Acid](https://open.spotify.com/track/7hHy4kIiwqHSxaHJAArRG4) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:34 |
 | 26 | [I Want You](https://open.spotify.com/track/1sF4BQ6SNpyJf3qI18Yk34) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh) | [The Godfathers of House \#1](https://open.spotify.com/album/4fhV8wDzdR1EfkhiCotons) | 7:46 |
 | 27 | [Bird in a Gilded Cage \- Radio Mix](https://open.spotify.com/track/7tB9afUddCKQpTwU5Zg56x) | [Jungle Wonz](https://open.spotify.com/artist/4ny8n9yM1Eko9j7oe8ZFXS) | [Bird in a Gilded Cage](https://open.spotify.com/album/2GxanZ4kE6gHZaNf6VefqF) | 4:02 |
 | 28 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 30 | [Pump Up the Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/5Nk6yokDV2LbWOoZdv1Oks) | [Michael Oliver](https://open.spotify.com/artist/7r11QZJAzMlhmSvRae4R3P) | [Jackin' the Acid](https://open.spotify.com/album/73G2j2LnFxvszt5FeNs9kb) | 6:19 |
 | 31 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv) | 4:01 |
 
-Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMDUwZTA3NGNmOWUzOTFhNjQwYjQ2MGE5NjZlZDljZjIx`
+Snapshot ID: `MTUyOTU3NjkwNSwwMDAwMDAwMGE0MGIxNDhkMTg1OTY1NGYzOGJmOGI0YjhmMzAyZmVi`

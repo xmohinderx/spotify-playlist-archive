@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,978 likes - 45 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,028 likes - 45 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 32 | [In My Element \- Skream Remix](https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW) | [The Clause](https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [In My Element \(Skream Remix\)](https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U) | 6:00 |
 | 33 | [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/4BOSCizWFzd97VoSNLc0yg) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7tcY0CDVVadBVksF727ITl) | 6:25 |
 | 34 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
-| 35 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
-| 36 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
+| 35 | [Hymnotic](https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu) | [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Hymnotic](https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk) | 4:22 |
+| 36 | [Faccia a faccia \- Italoconnection Remix Radio](https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Italoconnection](https://open.spotify.com/artist/2H89jjAoarp9VqMxT8W0et) | [Faccia a faccia \(Remixes\)](https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7) | 3:47 |
 | 37 | [Mirage \- Anoraak Extended Remix](https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Solar Nights \- The Remixes](https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV) | 5:58 |
 | 38 | [Know You](https://open.spotify.com/track/2TY85U8jDMquWwjz4WqyEm) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm) | 3:44 |
 | 39 | [Fantasia](https://open.spotify.com/track/2eQ5IRgLQAVwTgCx4IfBDE) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 6:33 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Trans Orient Express \- Adana Twins "A Night At EGO" Version \- Edit](https://open.spotify.com/track/58plpyX4e8T4oMWA5nsCF5) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Trans Orient Express \(Adana Twins "A Night At EGO" Version \- Edit\)](https://open.spotify.com/album/0vggTx5yZZiq1z7JupowtA) | 3:58 |
 | 45 | [Lyra \- Dusky Remix](https://open.spotify.com/track/3vZf4XO3DAXef9aOyx0SVW) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Lyra \(Dusky Remix\)](https://open.spotify.com/album/1NarEuoYt3DZ7CGFOPFFmb) | 5:13 |
 
-Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGU5MWE5YjYzNDMxNzcxNDk5MmI2NWQ2MTZmNWIzNDM0`
+Snapshot ID: `MTYzMDA3OTEwMSwwMDAwMDAwMGVlMDAwZTBhN2IzZDNhNWMxNzhjNzdhZjQ5MmNkMzVk`

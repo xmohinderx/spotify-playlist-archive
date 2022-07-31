@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 
 > Riscopri le più grandi hit del 2013! Cover: Avicii
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,441 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,447 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 20 | [Treasure](https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 2:58 |
 | 21 | [Mirrors](https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 8:04 |
 | 22 | [Royals](https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:10 |
-| 23 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
-| 24 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
+| 23 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
+| 24 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
 | 25 | [Best Song Ever](https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 |
 | 26 | [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 |
 | 27 | [The Monster](https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Marshall Mathers LP2](https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj) | 4:10 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 47 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
 | 48 | [It's a Beautiful Day](https://open.spotify.com/track/0mvkwaZMP2gAy2ApQLtZRv) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:19 |
 | 49 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
-| 50 | [One Way or Another \(Teenage Kicks\)](https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [One Way Or Another \(Teenage Kicks\)](https://open.spotify.com/album/3n2nA5YdK8OKujeHIqIlAd) | 2:37 |
-| 51 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
+| 50 | [This Is What It Feels Like](https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF) | 3:24 |
+| 51 | [One Way or Another \(Teenage Kicks\)](https://open.spotify.com/track/3jZomvOBa5qfTo5HkqI1p5) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [One Way Or Another \(Teenage Kicks\)](https://open.spotify.com/album/3n2nA5YdK8OKujeHIqIlAd) | 2:37 |
 | 52 | [Suit & Tie \(feat\. Jay\-Z\)](https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The 20/20 Experience \(Deluxe Version\)](https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu) | 5:26 |
 | 53 | [Berzerk](https://open.spotify.com/track/6Xk7PnitV9jCRorWt2LiVZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 3:58 |
 | 54 | [Burn](https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:51 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 81 | [Stardust](https://open.spotify.com/track/3trO6hc3NY7lDrfsKrulVa) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Chiara](https://open.spotify.com/artist/3DVxOsEJxFJeYWTqAUwKTi) | [Stardust](https://open.spotify.com/album/246PwDE7vIW0v6AyLEyuTw) | 3:24 |
 | 82 | [L'Anima Vola](https://open.spotify.com/track/0KgYcUcrDaUhqooqQReb0F) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [L'Anima Vola \(Deluxe Edition\)](https://open.spotify.com/album/6IWcTSqWt2Xd712WckzTp1) | 4:03 |
 | 83 | [Pronto a correre](https://open.spotify.com/track/7BYmOx8ouIHV7iVkgTI6Fp) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [\#PRONTOACORRERE](https://open.spotify.com/album/1a22miqSMba4FbUk9w50v2) | 3:48 |
-| 84 | [Il sale della terra](https://open.spotify.com/track/3jmhqUdrFYMfU8MgPRGLgH) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Mondovisione](https://open.spotify.com/album/53A8DHAKXPagVVuyFRZV45) | 3:58 |
-| 85 | [What I Might Do](https://open.spotify.com/track/2K34h28laoZsRtXP8EjVrD) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [Happy Deep House](https://open.spotify.com/album/1fXJPISF4pjl2EAO4IVSUu) | 3:15 |
+| 84 | [What I Might Do](https://open.spotify.com/track/2K34h28laoZsRtXP8EjVrD) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [Happy Deep House](https://open.spotify.com/album/1fXJPISF4pjl2EAO4IVSUu) | 3:15 |
+| 85 | [Il sale della terra](https://open.spotify.com/track/3jmhqUdrFYMfU8MgPRGLgH) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Mondovisione](https://open.spotify.com/album/53A8DHAKXPagVVuyFRZV45) | 3:58 |
 | 86 | [Se Si Potesse Non Morire](https://open.spotify.com/track/4zjBp0Jp1Ij3e1flAn2BPq) | [Modà](https://open.spotify.com/artist/3ALm6zJLaJMWV0r89kuYtu) | [Modà 2004 \- 2014 L'Originale](https://open.spotify.com/album/4PW5FUWDk0kdselXPHiq7y) | 4:18 |
 | 87 | [Baciami \(e portami a ballare\)](https://open.spotify.com/track/5vnNlW2AYqQOQM7rtjPbTI) | [Alex Britti](https://open.spotify.com/artist/2cNC9hjjdsMKLv0m2m9p1D) | [Bene così](https://open.spotify.com/album/2R1oLscPGP4jJfBgfPWPby) | 3:22 |
 | 88 | [My Head is a Jungle \- Radio Edit](https://open.spotify.com/track/1kGfsEeAvV7a2sxeDX7gc0) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/0VCc6QGh7rEPEGtOuUOUJ1) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7s5uLR8Bqkk.md) - [plain]
 | 99 | [Molto calmo](https://open.spotify.com/track/5iR5wz6QEeztfTzvjnE0ZU) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Molto calmo](https://open.spotify.com/album/3gw4CHycpl8mNDQvGPrnRa) | 4:01 |
 | 100 | [Estate](https://open.spotify.com/track/6dUPWpXhmexfAdZxNjG0Oa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Backup 1987 \- 2012](https://open.spotify.com/album/1oNnkbIz7o0JbA2KWI73l6) | 3:54 |
 
-Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMDJkY2U5ZGViNDc2ODA1NjVlNTExMjAzNjMxNjcyZmU0`
+Snapshot ID: `MTYwNDUwMDI2MSwwMDAwMDAwMGRlNzBkYzg4ZmQxYTE5OTJmMjYyMjZjYzA1ODZmNjBj`

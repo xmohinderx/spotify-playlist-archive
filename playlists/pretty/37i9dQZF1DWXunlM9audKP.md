@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXunlM9audKP.md) - [plain]
 
 > Riscopri le più grandi hit del 2017! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,494 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,500 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

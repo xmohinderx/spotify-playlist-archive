@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Alfredo Olivas en portada.",
-  "num_followers": 288314,
+  "num_followers": 288823,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMGMzYTBkYjk2ZWU3MmYxNzM5YWMwY2UxYmQzMGFiNDIz",
+  "snapshot_id": "MTY1Nzg2MTIwMCwwMDAwMDAwMGYwYjgyMWJkYWI4ZDY0YmNlN2IwYTA5NWI0NjBhZDc1",
   "tracks": [
     {
       "added_at": "2022-07-15 05:00:00",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "Huapango Amor Ranchero",
-        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
-      },
-      "artists": [
-        {
-          "name": "La Humildad De La Musica Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Huapango Amor Ranchero",
-      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
-    },
-    {
       "added_at": "2022-07-01 05:00:00",
       "album": {
         "name": "Hublot",
@@ -267,6 +251,22 @@
       "duration_ms": 225250,
       "name": "Hublot",
       "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+    },
+    {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0"
     },
     {
       "added_at": "2022-06-20 22:08:45",
@@ -829,20 +829,20 @@
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
     },
     {
-      "added_at": "2022-01-14 06:00:00",
+      "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+        "name": "Golpe de Estado (En Vivo)",
+        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
         }
       ],
-      "duration_ms": 232801,
-      "name": "Solo Un D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
+      "duration_ms": 135247,
+      "name": "El Compa Carlos - En Vivo",
+      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
     },
     {
       "added_at": "2022-04-15 05:00:00",
@@ -861,20 +861,20 @@
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-01-14 06:00:00",
       "album": {
-        "name": "Golpe de Estado (En Vivo)",
-        "url": "https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg"
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
       "artists": [
         {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 135247,
-      "name": "El Compa Carlos - En Vivo",
-      "url": "https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr"
+      "duration_ms": 232801,
+      "name": "Solo Un D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
     },
     {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
-        "name": "KDR",
-        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 201265,
-      "name": "KDR",
-      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
-    },
-    {
       "added_at": "2022-04-15 05:00:00",
       "album": {
         "name": "De Cuando Ac\u00e1",
@@ -987,6 +971,22 @@
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+    },
+    {
+      "added_at": "2022-04-29 05:00:00",
+      "album": {
+        "name": "KDR",
+        "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "KDR",
+      "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7"
     },
     {
+      "added_at": "2022-01-14 06:00:00",
+      "album": {
+        "name": "Cuervo Sierra",
+        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "Cuervo Sierra",
+      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
+    },
+    {
       "added_at": "2022-07-01 05:00:00",
       "album": {
         "name": "No Quiso Conmigo",
@@ -1509,22 +1525,6 @@
       "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
-        "name": "El Mayor",
-        "url": "https://open.spotify.com/album/3VwSLI8R7PAzDHfqG7pEWX"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 168233,
-      "name": "El Mayor",
-      "url": "https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP"
-    },
-    {
       "added_at": "2022-07-15 05:00:00",
       "album": {
         "name": "Cuando Me Besas",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
+        "name": "El Mayor",
+        "url": "https://open.spotify.com/album/3VwSLI8R7PAzDHfqG7pEWX"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 168233,
+      "name": "El Mayor",
+      "url": "https://open.spotify.com/track/1O6V373NcGqZ27jpCtGdsP"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
         "name": "El del Corvette",
         "url": "https://open.spotify.com/album/6RcemfWBoHCZBs7Zi4JTPq"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 208212,
       "name": "El del Corvette",
       "url": "https://open.spotify.com/track/1Sc2tm7aeKp7HeP54metL0"
-    },
-    {
-      "added_at": "2022-01-14 06:00:00",
-      "album": {
-        "name": "Cuervo Sierra",
-        "url": "https://open.spotify.com/album/5WjbMzzti4lF2YwoEquLrj"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "Cuervo Sierra",
-      "url": "https://open.spotify.com/track/4egR3W3kn5hcihVttAHtGL"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 189789,
+      "name": "Cuando Me Muera",
+      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
         "name": "El Seven",
         "url": "https://open.spotify.com/album/0kis2ZiuLEWN1ow98TR0f1"
       },
@@ -1627,34 +1643,18 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Ya Es Muy Tarde",
-        "url": "https://open.spotify.com/album/6eB15NGmsCyvNKUPwtzO1Z"
+        "name": "Nuestra Profec\u00eda",
+        "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 198388,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/7wEu9ssXquiC6OKt1GNtnW"
-    },
-    {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 189789,
-      "name": "Cuando Me Muera",
-      "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+      "duration_ms": 167866,
+      "name": "Nuestra Profec\u00eda",
+      "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
     }
   ],
   "unique_name": "Norte\u00f1o 2022",

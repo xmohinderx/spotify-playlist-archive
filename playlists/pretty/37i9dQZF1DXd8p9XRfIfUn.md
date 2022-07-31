@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Sael, Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,708 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,723 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [Moka](https://open.spotify.com/track/0YWNYdhTHfWkXw4fiWRbJH) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Moka](https://open.spotify.com/album/1ePn83tNOKrljAeDRekgTE) | 3:07 |
 | 57 | [Baby Soltera](https://open.spotify.com/track/7IPIDm1BR0UsKpFyW6rwbf) | [Ben3detti](https://open.spotify.com/artist/4RRP6RwZ4I8tnpnHgJ38yl), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Baby Soltera](https://open.spotify.com/album/70wR4hqzvs00gdVamMF2Tl) | 2:49 |
 | 58 | [La Práctica](https://open.spotify.com/track/0ZIfCr76uPGFOSZO2ex7Id) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [La Práctica](https://open.spotify.com/album/3TrQZwo5PY35HKhAdRRO5F) | 2:44 |
-| 59 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 |
-| 60 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
+| 59 | [Duro](https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo) | [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Duro](https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r) | 3:42 |
+| 60 | [Cada Vez](https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Cada Vez](https://open.spotify.com/album/31SngBc9PCn2qDix3g745R) | 3:37 |
 
-Snapshot ID: `MTY1NjY0NDQwMCwwMDAwMDAwMDUzMThlZDUyM2Q5NTI2NThmZTA4YWUxNzcxNDdiMDZk`
+Snapshot ID: `MTY1NjY0NDQwMCwwMDAwMDAwMGE0NTg0OTViNDE0ZWQ2YTU5MzFkNGZiOTM3MjBiYjRj`

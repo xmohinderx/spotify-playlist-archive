@@ -4,12 +4,13 @@
 
 > A trilha sonora perfeita pra te fazer companhia nesse dia chuvoso.
 
-65 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
+66 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/7gdMCDylrYOpHK5il6ycy3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 | 2021-12-15 |  |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 | 2021-12-15 |  |
+| [4 Seasons Of Loneliness](https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 4:52 | 2021-12-15 |  |
 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 | 2021-12-15 |  |
 | [Another Rainy Day](https://open.spotify.com/track/2IbYUmhSyZ1CZiPO6V7iFB) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Put Your Records On](https://open.spotify.com/album/3GfLFBVOXEUHqxAAKcBOtu) | 3:13 | 2021-12-15 | 2022-07-29 |
 | [Any Time, Any Place](https://open.spotify.com/track/0NulLVdwaImJOzzqvBOX2y) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Any Time, Any Place](https://open.spotify.com/album/2quuJthETllvyK8qkEreZO) | 4:42 | 2021-12-15 | 2022-07-29 |
@@ -46,7 +47,7 @@
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2021-12-15 |  |
 | [Naked \- Bonus Track](https://open.spotify.com/track/0SbOpoBzBBCqWIcvo94JeD) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:17 | 2021-12-15 |  |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2021-12-15 |  |
-| [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 | 2021-12-15 |  |
+| [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 | 2021-12-15 | 2022-07-31 |
 | [Paper Thin](https://open.spotify.com/track/6HDgpM7ETLbfrpWS2rixm7) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 4:58 | 2021-12-15 | 2022-07-29 |
 | [Pode Me Perdoar](https://open.spotify.com/track/2E2xwy79Vnm8bgJF57VtWX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Pode Me Perdoar](https://open.spotify.com/album/2apHQCdoB2WbmFg8iTkLhT) | 4:00 | 2021-12-15 | 2022-07-29 |
 | [Primetime \(feat\. Miguel\)](https://open.spotify.com/track/5dzV75f9qVXVvdXLTqIG4L) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [The Electric Lady](https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9) | 4:40 | 2021-12-15 |  |

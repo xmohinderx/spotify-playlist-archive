@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Quavo & Takeoff, Rod Wave, and Gucci Mane\. Cover: NAV
 
-1,142 songs - 2 day 5 hr 33 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,143 songs - 2 day 5 hr 36 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,7 +994,8 @@
 | [Tears of Joy](https://open.spotify.com/track/1BXcEvLfGf6AaoBeKkdG5h) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Rico Cartel](https://open.spotify.com/artist/0bgsCSm12Glnini09HIgnD) | [Mercury](https://open.spotify.com/album/2b0g5tSZMy56jobDxTEWdk) | 2:36 | 2022-03-04 | 2022-03-12 |
 | [Tears of Joy \(feat\. Hotboii, Rico Cartel\)](https://open.spotify.com/track/4YWbiOxHyIYTz37iX8WF7e) | [100k Track](https://open.spotify.com/artist/1egKFNqREi1l3EsTwRrvVR), [Rico Cartel](https://open.spotify.com/artist/0bgsCSm12Glnini09HIgnD), [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tears of Joy \(feat\. Hotboii, Rico Cartel\)](https://open.spotify.com/album/298ZEE5QPZGYArxjftHyna) | 2:36 | 2022-02-04 | 2022-02-12 |
 | [Tell 'Em](https://open.spotify.com/track/6IuN5rqcAeHmzK5d5r0RWL) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Tell 'Em](https://open.spotify.com/album/3c2WIynmh2CpSvLz96KpKI) | 1:59 | 2022-05-06 | 2022-05-14 |
-| [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 |  |
+| [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 | 2022-07-22 | 2022-07-31 |
+| [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 | 2022-07-29 |  |
 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 | 2022-01-28 | 2022-02-05 |
 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 | 2022-05-06 | 2022-05-28 |
 | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/5HUDU2YUTZ0R0ZmrIr4Dsz) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Tell Your Friends \(feat\. Kalan.FrFr\)](https://open.spotify.com/album/4uaR7U5YpO5yLGufMUtPuO) | 2:43 | 2022-05-06 | 2022-05-14 |

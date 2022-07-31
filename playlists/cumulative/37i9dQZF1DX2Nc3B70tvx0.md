@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Djo
 
-1,162 songs - 2 day 21 hr 32 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,163 songs - 2 day 21 hr 34 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,7 +929,7 @@
 | [Sucker](https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker](https://open.spotify.com/album/5LzeVIZgtEHrbLYwsBRalD) | 4:43 | 2020-06-12 | 2021-03-02 |
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-09-02 | 2022-05-21 |
 | [Sugar](https://open.spotify.com/track/79nkN1EmB1B03uZi9DcS4w) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 3:16 | 2022-07-08 |  |
-| [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 |  |
+| [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 | 2022-07-31 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2019-08-09 | 2020-02-28 |
 | [Summer Love](https://open.spotify.com/track/7GZyIOmzDRTSpUmfCN45GG) | [Muzz](https://open.spotify.com/artist/4nZTcwItN2j9H21sJBZ2Nq) | [Muzz](https://open.spotify.com/album/09xzMkaSBxY5qwcYXIY94i) | 4:02 | 2020-06-12 | 2020-12-04 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-10-22 | 2022-07-30 |
@@ -1061,6 +1061,7 @@
 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 | 2022-07-15 | 2022-07-30 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-30 | 2022-07-02 |
 | [Turning](https://open.spotify.com/track/6It2pydpSo0FUQ3HdQES97) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [Turning](https://open.spotify.com/album/614cwAiCbxTJz6QBafC4zm) | 2:53 | 2022-02-04 | 2022-04-17 |
+| [TVI](https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [TVI](https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN) | 2:41 | 2022-07-20 |  |
 | [Two Hands](https://open.spotify.com/track/6sScx7A12QirSJmHtb7pNJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 3:52 | 2019-10-19 | 2019-11-01 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2019-09-13 | 2019-12-13 |
 | [u dont kno me](https://open.spotify.com/track/1jbbnDJ54AGBRswmNm5PAw) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [u dont kno me](https://open.spotify.com/album/0agdvtc1hwwIydaYFwXdxp) | 3:59 | 2022-03-24 | 2022-04-30 |

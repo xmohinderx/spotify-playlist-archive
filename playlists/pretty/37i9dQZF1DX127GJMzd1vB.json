@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 39899,
+  "num_followers": 39937,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMDk4NDBlMzc3OWU4ZDgzNGJiZjc1NWJiYmQzNGNhMzhm",
+  "snapshot_id": "MTY0MDgyMTYxNywwMDAwMDAwMDZkNjkwMmIyZjNhMGY1NjI2Y2MxNjQ4YTQ3MWY2N2E0",
   "tracks": [
     {
       "added_at": "2021-12-29 23:46:57",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "El Concierto",
-        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Amaneci Entre Tus Brazos - En Vivo",
-      "url": "https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
         "name": "Con el Mariachi de Am\u00e9rica de Jes\u00fas Rodr\u00edguez de Hijar",
         "url": "https://open.spotify.com/album/1KyEwimgjlEeq4Ovc1D8ws"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 200280,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/0UjaaTDGZcDhNZITXW9nUI"
+    },
+    {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Amaneci Entre Tus Brazos - En Vivo",
+      "url": "https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m"
     },
     {
       "added_at": "2021-12-29 23:46:57",

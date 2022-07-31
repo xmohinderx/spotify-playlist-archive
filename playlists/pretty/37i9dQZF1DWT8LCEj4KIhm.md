@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 
 > Désormais, aucune raison de se faire ch\*\*r au gym.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,056 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,056 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 38 | [Trap \- Rompasso Remix](https://open.spotify.com/track/08pnZCD7bB3voKAA3ShGTw) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Trap \(Rompasso Remix\)](https://open.spotify.com/album/1s7yipr2OiICvvV8YAEMpv) | 2:48 |
 | 39 | [Detroit 3 AM \- Radio Edit](https://open.spotify.com/track/4d42DsNHiQipjONbwTYyEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Detroit 3 AM \(Radio Edit\)](https://open.spotify.com/album/7aMXzM3ZzgHBUYBr7LK9mI) | 3:08 |
 | 40 | [Who's Got Your Love](https://open.spotify.com/track/5EpR6BqAnwR9PPl6sIrzGy) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Who's Got Your Love](https://open.spotify.com/album/2ddicfthS1XeBDkhDqnWI3) | 2:37 |
-| 41 | [Aftertaste](https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:17 |
-| 42 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
+| 41 | [Oblivion](https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Oblivion](https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e) | 3:12 |
+| 42 | [Aftertaste](https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Nights Like This](https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk) | 3:17 |
 | 43 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
 | 44 | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/track/4jbWeX5w0Sa5BWBZpq5JU2) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [7 Skies](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5), [RebMoe](https://open.spotify.com/artist/1DNFG0VEHD2Vk5ESUEPuOM) | [My Frequency \(feat\. RebMoe\)](https://open.spotify.com/album/2ummn9lAG2z6GwpMurpkUJ) | 2:21 |
 | 45 | [Dancing In The Dark](https://open.spotify.com/track/1y9zOwyUjX3koxCsJ50VhA) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Dancing In The Dark](https://open.spotify.com/album/4D7F5kCUk9ME8Ip7mCcFb9) | 3:04 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8LCEj4KIhm.md) - [plain]
 | 72 | [Mandown](https://open.spotify.com/track/132YTq9H9lyKo0swHhAnqI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mandown](https://open.spotify.com/album/31h7LmPhUb1QiZWdB6RBVt) | 3:04 |
 | 73 | [Faire la fête](https://open.spotify.com/track/3IgiHFixYUbhXSWpEWlW0D) | [Jacobus](https://open.spotify.com/artist/1nNrgL7FuM2jY8DI5GdyZ7), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Faire la fête](https://open.spotify.com/album/1auuOciKDCZF7BVNXLRugS) | 3:19 |
 | 74 | [Girl Code](https://open.spotify.com/track/0pLRmqULQgr2WkAdgLN4mh) | [Mikalya](https://open.spotify.com/artist/7jv66bdVdkdIlPvEizxV1f), [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn), [Nissa Seych](https://open.spotify.com/artist/3LzKJ6aOX8uEf7b2rli5Uc) | [Girl Code](https://open.spotify.com/album/5uB4Q0FuEmGPweQ1pT83nr) | 2:23 |
-| 75 | [Sous les rivières](https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Le tournant \(Deluxe\)](https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW) | 3:38 |
+| 75 | [Première ministre](https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Première ministre](https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q) | 2:45 |
 
-Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDE0YmM2NzNlODM3NDJkYmVkYWU1NjliYjM1N2E3NTQy`
+Snapshot ID: `MTYzMzY2NTY2MCwwMDAwMDAwMDBiNjliOWExYzVmYzg4OTVhZmMyNmQ5ZjI5YWQwNTRj`

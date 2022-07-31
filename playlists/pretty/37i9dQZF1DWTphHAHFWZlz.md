@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > El sonido del nuevo rock argentino esta acá\. Foto: Las Sombras
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,354 likes - 97 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,358 likes - 97 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

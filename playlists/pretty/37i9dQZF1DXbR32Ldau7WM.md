@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: YUSUKE CHIBA \- SNAKE ON THE BEACH \-
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,291 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,334 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 44 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 |
 | 45 | [星路 \(みち\)](https://open.spotify.com/track/0TWwbu3qo6fglRBJerQ068) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD) | [星路 \(みち\)](https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx) | 3:36 |
 | 46 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 |
-| 47 | [てぃんがーら](https://open.spotify.com/track/21vUUai0ml8ydEDIb776om) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [愛彌々](https://open.spotify.com/album/5sQWqif17rMKy4LNifoXFx) | 4:55 |
+| 47 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
 | 48 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 |
 | 49 | [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 |
 | 50 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 |
 
-Snapshot ID: `MTY1OTAyMDQwMCwwMDAwMDAwMGFiMmI5ZGMzYzE2NjhiNjYxMzZkMTgyNmU0NGNmYWU4`
+Snapshot ID: `MTY1OTAyMDQwMCwwMDAwMDAwMGM0OTcyMDUzZjkwMjk3ZmY0MGExMmY2YjhlOGU3ZGUx`

@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-195 songs - 13 hr 57 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
+196 songs - 14 hr 1 min - [published](https://open.spotify.com/playlist/3nluuMc1ut66d8EDvyctJz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 | 2021-12-16 | 2022-07-29 |
 | [Fakin Jax](https://open.spotify.com/track/3ioow4HRcH86Jfx4NC4fmV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI) | 5:39 | 2021-12-21 | 2022-07-29 |
 | [Fall in Love](https://open.spotify.com/track/7f1KEQeZhfiigX131qdQbU) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic Vol\. 2.10](https://open.spotify.com/album/2Qte0SXVglEr7EI7rQFADp) | 3:55 | 2021-12-16 | 2022-07-29 |
-| [Fall In Love](https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:55 | 2022-07-13 |  |
+| [Fall In Love](https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:55 | 2022-07-13 | 2022-07-31 |
 | [Feel Me Flow](https://open.spotify.com/track/6Kp8tQd95YPSrSUTkll2Of) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Poverty's Paradise](https://open.spotify.com/album/3Ai35Zvh4C5ljBKZRLomkO) | 3:32 | 2021-12-16 | 2022-07-29 |
 | [Feel Me Flow](https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Poverty's Paradise \(25th Anniversary \- Remastered\)](https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV) | 3:32 | 2022-07-13 |  |
 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 | 2021-12-16 |  |
@@ -109,6 +109,7 @@
 | [Jazzy Belle](https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:11 | 2021-12-16 | 2022-07-29 |
 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 | 2021-12-16 |  |
 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 | 2022-07-13 |  |
+| [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 | 2022-07-13 |  |
 | [Just Don't Give A Fuck](https://open.spotify.com/track/0KkrT0y1iht0tqgh9vrGd3) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/1S2zX2EzIJPkcptERhrkGh) | 4:02 | 2021-12-16 | 2022-07-29 |
 | [Keep Their Heads Ringin'](https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5) | 5:05 | 2022-07-13 |  |
 | [Keep Their Heads Ringin'](https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [Keep Their Heads Ringin'](https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP) | 5:10 | 2021-12-16 | 2022-07-29 |

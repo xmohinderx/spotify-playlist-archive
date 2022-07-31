@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Lamb of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,846 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,987 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 38 | [Ronin](https://open.spotify.com/track/2xnrK3dwstn5I11XcS50uJ) | [The Gloom In The Corner](https://open.spotify.com/artist/4dJTtqdQ6GlgNr8TNkzh65), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Ronin](https://open.spotify.com/album/6FggS5aEBwMnRcjWj0raCw) | 3:38 |
 | 39 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 |
 | 40 | [Born of Satan's Flesh](https://open.spotify.com/track/0Rzmvz1zLlmO6lhN8ZMxSK) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Born of Satan's Flesh](https://open.spotify.com/album/0iecjoOhajVnZQyOO8Ccv9) | 4:08 |
-| 41 | [Misanthropist](https://open.spotify.com/track/0SK1Z1ewBm4jpfOJWTisIt) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj) | [Misantropist](https://open.spotify.com/album/0oBeYD4S7Uqr6qHxup53BB) | 3:46 |
+| 41 | [Misanthropist](https://open.spotify.com/track/0SK1Z1ewBm4jpfOJWTisIt) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj) | [Misanthropist](https://open.spotify.com/album/0oBeYD4S7Uqr6qHxup53BB) | 3:46 |
 | 42 | [Chasm](https://open.spotify.com/track/6BHqiA6bAdo544sqdeCTvy) | [Then It Ends](https://open.spotify.com/artist/5TiYxejPE7S8iWdWtjqyQQ), [Michael Felker](https://open.spotify.com/artist/5Q2CFlnuEPJfch1ss5top8) | [Chasm](https://open.spotify.com/album/1Gtldn9jGWjonq7XNNOgYT) | 3:20 |
 | 43 | [Fluorescent](https://open.spotify.com/track/3nEdiW50H2LNRFSfgAFbW1) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/6RHap8m4NlsvCq2v2fPvCP) | 3:40 |
 | 44 | [Demons](https://open.spotify.com/track/61K07qiWckei8QJQdQuU9Z) | [Dunderbeist](https://open.spotify.com/artist/3C58GRgq5hHpYE1EeY0ime) | [Demons](https://open.spotify.com/album/2P28xjar9nD3OHxeHAMJwi) | 2:34 |
 | 45 | [MALIZIA](https://open.spotify.com/track/1jFosWcZ0SQbvdUhKOS14S) | [HourHouse](https://open.spotify.com/artist/2gTGDMyJT449yCPyYSzQ4E) | [MALIZIA](https://open.spotify.com/album/7rtrTAtDq8S4vlxL2FpQdv) | 2:46 |
 | 46 | [Lovecraft](https://open.spotify.com/track/4qkm2L5ytrdyWZSSTCV8x5) | [Confessions of a Traitor](https://open.spotify.com/artist/3XxTiLhFGMsWvVfpZ7KlF9) | [Lovecraft](https://open.spotify.com/album/7JZIeHDXrDEUOwBBTpOZdC) | 3:43 |
-| 47 | [Slow Death](https://open.spotify.com/track/2p5HKz0hwDPSmRcvN1QyfM) | [Black Dog](https://open.spotify.com/artist/3JlJPTCHjn17rXJjb6b93t) | [Slow Death](https://open.spotify.com/album/3cf9BXb2BnTTePsUlusoaF) | 3:32 |
+| 47 | [Slow Death](https://open.spotify.com/track/2p5HKz0hwDPSmRcvN1QyfM) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death](https://open.spotify.com/album/3cf9BXb2BnTTePsUlusoaF) | 3:32 |
 | 48 | [The Call of Eden](https://open.spotify.com/track/6Yk6d0KhXXirOvZANzkNXj) | [Edenbridge](https://open.spotify.com/artist/4kRllkt5ryNVBqFinVjBQZ) | [The Call of Eden](https://open.spotify.com/album/2MxDFf4TRaX8s4fokpoYaP) | 3:49 |
 | 49 | [Into the Twilight](https://open.spotify.com/track/3GBxz8dCi3h9iRVb9kZEbA) | [Grima](https://open.spotify.com/artist/7KSPZyeCKkfkhMkX8rYIhD) | [Frostbitten](https://open.spotify.com/album/1WGeKDoeWt47eWOWEnM3HG) | 5:16 |
 | 50 | [Only](https://open.spotify.com/track/5N6h0dmnyZrrTf4sn6khPQ) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Only](https://open.spotify.com/album/7p2FtJJE5VQR7jJxCQCCZr) | 3:00 |

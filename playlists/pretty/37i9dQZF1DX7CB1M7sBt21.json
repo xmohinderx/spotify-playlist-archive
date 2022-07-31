@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 186910,
+  "num_followers": 186918,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMDBmMTg5ZDcwMTFjZWIyZTUwMWQxM2I0NTY5MjU0MmU1",
+  "snapshot_id": "MTY1OTA0NjI0NiwwMDAwMDAwMGYwZTI0ZmViZTE3ZWNjNjdmMDNhMjY1Mzg2YTFmNWZl",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
+        "name": "Bones (feat. OneRepublic)",
+        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 205792,
+      "name": "Bones (feat. OneRepublic)",
+      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
-        "name": "Bones (feat. OneRepublic)",
-        "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 205792,
-      "name": "Bones (feat. OneRepublic)",
-      "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1191,6 +1191,30 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
+        "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
+        "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 186804,
+      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
+      "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
         "name": "what would you do? (Galantis Remix)",
         "url": "https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 157171,
       "name": "Someone You Loved - Madism Radio Mix",
       "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
-        "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
-        "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 186804,
-      "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
-      "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
     },
     {
       "added_at": "2022-07-28 22:10:46",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-07-28 22:10:46",
       "album": {
-        "name": "Grown-ish",
-        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 195199,
-      "name": "Dance For The Hell Of It",
-      "url": "https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv"
-    },
-    {
-      "added_at": "2022-07-28 22:10:46",
-      "album": {
         "name": "Leave A Little Love",
         "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 187029,
       "name": "Leave A Little Love",
       "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
+    },
+    {
+      "added_at": "2022-07-28 22:10:46",
+      "album": {
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 195199,
+      "name": "Dance For The Hell Of It",
+      "url": "https://open.spotify.com/track/1G8nKybzD7qlBxfZYFSybv"
     },
     {
       "added_at": "2022-07-28 22:10:46",

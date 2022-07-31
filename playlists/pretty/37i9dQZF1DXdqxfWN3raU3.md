@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,667 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,724 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 81 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
 | 82 | [La Única](https://open.spotify.com/track/4trQa6ufHreQUiHMXsPIOt) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [La Única](https://open.spotify.com/album/0ZDzH2PWcA9yvAzFIFpabv) | 3:47 |
 | 83 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 |
-| 84 | [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 |
+| 84 | [Otra Vez](https://open.spotify.com/track/39ODVcFAUYHCPE1qOlrJqe) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu), [X3ON](https://open.spotify.com/artist/5EmpZL6gdhcyNuTRlyBdu6) | [Otra Vez](https://open.spotify.com/album/086d5t5KWRaHqyZTPnqfI4) | 3:12 |
 | 85 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
 | 86 | [Nébula](https://open.spotify.com/track/7tEjGRlhJmbMvn392vLNYm) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Nébula](https://open.spotify.com/album/1ZZwFyP0WM5IphedsSgS44) | 2:30 |
 | 87 | [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 |

@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 487795,
+  "num_followers": 488293,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzE5OTY2NSwwMDAwMDAwMDQxN2JlZmVhOWI4YTY4MDBjOWJmZjE3MzAzN2JkNDRh",
+  "snapshot_id": "MTY1NzE5OTY2NSwwMDAwMDAwMDUxYjdkMWExYjZkNWNkM2FkMmFjNjA3NGNmNjM1MDFi",
   "tracks": [
     {
       "added_at": "2022-06-17 10:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 223111,
       "name": "Destination Calabria - Radio Edit",
       "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Heroes (we could be)",
-      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "High On Life (feat. Bonn)",
         "url": "https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 230761,
       "name": "High On Life (feat. Bonn)",
       "url": "https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Off Of My Mind",
-        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 164739,
-      "name": "Off Of My Mind",
-      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Sweat (Snoop Dogg Vs. David Guetta) [Remix]",
         "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
       },
@@ -1055,22 +1035,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+        "name": "Off Of My Mind",
+        "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Memories (feat. Kid Cudi)",
-      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
+      "duration_ms": 164739,
+      "name": "Off Of My Mind",
+      "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1095,6 +1075,26 @@
       "duration_ms": 186805,
       "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
       "url": "https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "You Little Beauty",
+        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 206587,
+      "name": "You Little Beauty",
+      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/12qv1aPM9tCeCXk56qIqYv"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6L5eyrIlO6GkRJAdqQEThe"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "You Little Beauty",
-        "url": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 206587,
-      "name": "You Little Beauty",
-      "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Freaks - Radio Edit",
+      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Monster (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Freaks - Radio Edit",
-      "url": "https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 183518,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 183518,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Only Want You (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/7c9f6egxXKmO7tb0Hrhgrt"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 179150,
-      "name": "Only Want You - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "All Stars",
         "url": "https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 170322,
       "name": "All Stars",
       "url": "https://open.spotify.com/track/26haJjtanhamtf25RXH0MO"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Only Want You (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/7c9f6egxXKmO7tb0Hrhgrt"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 179150,
+      "name": "Only Want You - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/2wOVXsIRIoniqipE9I5ZVx"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 194490,
+      "name": "Magenta Riddim",
+      "url": "https://open.spotify.com/track/3dsyqPDiWYYilRZNBxgxHE"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 194490,
-      "name": "Magenta Riddim",
-      "url": "https://open.spotify.com/track/3dsyqPDiWYYilRZNBxgxHE"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -1907,6 +1907,30 @@
       "duration_ms": 268840,
       "name": "Desire - Gryffin Remix",
       "url": "https://open.spotify.com/track/6JzCO4ZzxAXhY86vTcqM1Q"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Love We Lost (with R3HAB)",
+        "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Simon Ward",
+          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Love We Lost (with R3HAB)",
+      "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2003,8 +2027,8 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Love We Lost (with R3HAB)",
-        "url": "https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG"
+        "name": "Great Spirit",
+        "url": "https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt"
       },
       "artists": [
         {
@@ -2012,17 +2036,17 @@
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         },
         {
-          "name": "Simon Ward",
-          "url": "https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP"
+          "name": "Hilight Tribe",
+          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Love We Lost (with R3HAB)",
-      "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
+      "duration_ms": 215773,
+      "name": "Great Spirit",
+      "url": "https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2175,30 +2199,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Great Spirit",
-        "url": "https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Hilight Tribe",
-          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Great Spirit",
-      "url": "https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg"
       },
@@ -2359,22 +2375,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Squid Game (Let's Play)",
-        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Squid Game (Let's Play)",
-      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI"
       },
@@ -2395,26 +2395,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Quechua",
-        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Thomas Gold",
-          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Quechua",
-      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE"
       },
@@ -2431,6 +2411,26 @@
       "duration_ms": 148837,
       "name": "Power",
       "url": "https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Quechua",
+        "url": "https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 179090,
+      "name": "Quechua",
+      "url": "https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2663,26 +2663,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Skippin",
-        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
-      },
-      "artists": [
-        {
-          "name": "MAXAM",
-          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
-        },
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Skippin",
-      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
       },
@@ -2703,6 +2683,26 @@
       "duration_ms": 247146,
       "name": "Something New",
       "url": "https://open.spotify.com/track/5C4NMi4fPpdFPnMZVsyG8H"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Skippin",
+        "url": "https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB"
+      },
+      "artists": [
+        {
+          "name": "MAXAM",
+          "url": "https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH"
+        },
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Skippin",
+      "url": "https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2767,22 +2767,26 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Into You (3LAU Remix)",
-        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
+        "name": "Call Me Papi (feat. Dawty Music)",
+        "url": "https://open.spotify.com/album/55BZcxEj7gn6yx7WIxZJgx"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
         },
         {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Dawty Music",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Into You - 3LAU Remix",
-      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+      "duration_ms": 140631,
+      "name": "Call Me Papi (feat. Dawty Music)",
+      "url": "https://open.spotify.com/track/0FXEr1tdiBcLsnLSG8ol2l"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2807,26 +2811,22 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Call Me Papi (feat. Dawty Music)",
-        "url": "https://open.spotify.com/album/55BZcxEj7gn6yx7WIxZJgx"
+        "name": "Into You (3LAU Remix)",
+        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
       },
       "artists": [
         {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Dawty Music",
-          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
         }
       ],
-      "duration_ms": 140631,
-      "name": "Call Me Papi (feat. Dawty Music)",
-      "url": "https://open.spotify.com/track/0FXEr1tdiBcLsnLSG8ol2l"
+      "duration_ms": 197146,
+      "name": "Into You - 3LAU Remix",
+      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -2875,26 +2875,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Intoxicated (Radio Edit)",
-        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
-      },
-      "artists": [
-        {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
-        },
-        {
-          "name": "Good Times Ahead",
-          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Intoxicated - Radio Edit",
-      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Blood, Sweat & 3 Years",
         "url": "https://open.spotify.com/album/1TgJXcoFJ7BN0NiViN7wtx"
       },
@@ -2911,6 +2891,26 @@
       "duration_ms": 206320,
       "name": "Take Me Home (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/2zMXH5k5NZy1Nw460bLvRh"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Intoxicated (Radio Edit)",
+        "url": "https://open.spotify.com/album/0vI4F2iMd1CM9Jw9WQuJyN"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Intoxicated - Radio Edit",
+      "url": "https://open.spotify.com/track/0dbQ4h3cs8QE5fOPMYdDrX"
     },
     {
       "added_at": "2022-06-17 10:00:00",
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2022-06-17 10:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/0zWvc1aeC3hsKjKYzP2m13"
-      },
-      "artists": [
-        {
-          "name": "SilkandStones",
-          "url": "https://open.spotify.com/artist/2iGG4lhqUPgM5g8bA6YKSj"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1ID6jmTBTWs6zs6mean2yW"
-    },
-    {
-      "added_at": "2022-06-17 10:00:00",
-      "album": {
         "name": "Silence (Ti\u00ebsto's Big Room Remix)",
         "url": "https://open.spotify.com/album/6VfxEu1SHtWOF5H9vGUMw5"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 202153,
       "name": "Silence - Ti\u00ebsto's Big Room Remix",
       "url": "https://open.spotify.com/track/3AUW7mAGx1BICBWqsuFgh4"
+    },
+    {
+      "added_at": "2022-06-17 10:00:00",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/0zWvc1aeC3hsKjKYzP2m13"
+      },
+      "artists": [
+        {
+          "name": "SilkandStones",
+          "url": "https://open.spotify.com/artist/2iGG4lhqUPgM5g8bA6YKSj"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1ID6jmTBTWs6zs6mean2yW"
     }
   ],
   "unique_name": "Energy Booster: Dance",

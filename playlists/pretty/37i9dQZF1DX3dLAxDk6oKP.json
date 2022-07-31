@@ -1,12 +1,12 @@
 {
   "description": "Al cien en la mamalona! ",
-  "num_followers": 180265,
+  "num_followers": 180682,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3OTExNSwwMDAwMDAwMGIxN2UzMjBhNmUzZGQwOTQwYjJjMWJiYmJhZTYyMzY3",
+  "snapshot_id": "MTY1OTA3OTExNSwwMDAwMDAwMGVhNjg2NDg3ZDM0MDM2ZjU4MjU4YzM0OTgxMjQ0ZWJk",
   "tracks": [
     {
       "added_at": "2022-07-29 07:18:35",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "El Cuestionario",
         "url": "https://open.spotify.com/album/4cxY9YgwMsAgXkXoktiTSW"
       },
@@ -1091,38 +1107,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Duetos Con La Clika",
         "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 218500,
       "name": "Ojos De Maniaco",
       "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Tirando la H",
-        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 119333,
-      "name": "Tirando la H",
-      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 180384,
       "name": "Soy Mencho",
       "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Tirando la H",
+        "url": "https://open.spotify.com/album/7uyYaGMsVlUEF0Uc10zyod"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Tirando la H",
+      "url": "https://open.spotify.com/track/0SLnqaBaYLFH3ncId7ClCU"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "El D\u00eda De Los Muertos",
+      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/3uxnlNzKbQfQcFZKleBKRe"
+        "name": "Estilo Sinaloa",
+        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 203800,
-      "name": "El D\u00eda De Los Muertos",
-      "url": "https://open.spotify.com/track/4u0XPm834TLSPBKbl9rWP3"
+      "duration_ms": 248208,
+      "name": "Estilo Sinaloa",
+      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1571,22 +1587,6 @@
       "duration_ms": 197585,
       "name": "No Soy Lo Que Piensas",
       "url": "https://open.spotify.com/track/6YviOFfwGAS5ZFLaWiVXNo"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
-        "name": "Estilo Sinaloa",
-        "url": "https://open.spotify.com/album/4Ag5vtuhhrVjHwPMZvYmJH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 248208,
-      "name": "Estilo Sinaloa",
-      "url": "https://open.spotify.com/track/4qvSmEbeJUkvFZG387UXgH"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "LoLo Felix",
+      "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
         "name": "Bien Motivados",
         "url": "https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 172338,
       "name": "Bien Motivados",
       "url": "https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "LoLo Felix",
-      "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "Malandro Enamorado",
-        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Y Su Equipo Escoltado",
-          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
-        }
-      ],
-      "duration_ms": 247198,
-      "name": "Ahogandome",
-      "url": "https://open.spotify.com/track/6k3n0JrUxNX2D5xh2EY1e3"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Desde Morro",
         "url": "https://open.spotify.com/album/0rYYFBxcXHqlz0Xqk8V3ux"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 146387,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/2bWpJItGLLM9cj8dvU2a0U"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "Malandro Enamorado",
+        "url": "https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Y Su Equipo Escoltado",
+          "url": "https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe"
+        }
+      ],
+      "duration_ms": 247198,
+      "name": "Ahogandome",
+      "url": "https://open.spotify.com/track/6k3n0JrUxNX2D5xh2EY1e3"
     },
     {
       "added_at": "2022-07-29 07:18:35",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-07-29 07:18:35",
       "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9"
-      },
-      "artists": [
-        {
-          "name": "Diamante Perez",
-          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
-        }
-      ],
-      "duration_ms": 237236,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL"
-    },
-    {
-      "added_at": "2022-07-29 07:18:35",
-      "album": {
         "name": "Vida Peligrosa",
         "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 127253,
       "name": "Arsenal Efectivo",
       "url": "https://open.spotify.com/track/48lGvpvrgmH0MHv07J9EUp"
+    },
+    {
+      "added_at": "2022-07-29 07:18:35",
+      "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/1u6tT1pGTGqdJXmBIagCT9"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        }
+      ],
+      "duration_ms": 237236,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4HNeDJOEoTQqQKUPy88rCL"
     },
     {
       "added_at": "2022-07-29 07:18:35",

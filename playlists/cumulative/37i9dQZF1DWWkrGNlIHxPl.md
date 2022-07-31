@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: ElGrandeToto x Ayra Starr.
 
-187 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
+188 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/6fGVta71tWekmtXgUIs2Fr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 | 2022-07-28 |  |
 | [2 Faced](https://open.spotify.com/track/6rj686UWAoxLaJuGznEUpP) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [2 Faced](https://open.spotify.com/album/3ZKdHHXi35uUwr7wrUjQXc) | 2:58 | 2021-12-16 | 2022-02-22 |
 | [98](https://open.spotify.com/track/6okHkR2LOhiG4N2TvzdBv1) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [98](https://open.spotify.com/album/0v3YroS2CONYOXrxxLICs2) | 2:26 | 2022-01-24 |  |
-| [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 | 2022-03-18 |  |
+| [A Thousand Nights](https://open.spotify.com/track/2KsUQYIfWwCCdltFt8LOzN) | [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [A Thousand Nights](https://open.spotify.com/album/2vRAzdHULVvt3NFZKekXqD) | 2:40 | 2022-03-18 | 2022-07-31 |
 | [Ah Ya Alby](https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Tamni Aleek](https://open.spotify.com/album/0yvqd8VJNcQqT1z6OAQhDk) | 3:57 | 2022-06-06 | 2022-06-24 |
 | [Alaoui \- live](https://open.spotify.com/track/1LyIdcBndNywjCzOAPKWaO) | [Orchestre National De Barbes](https://open.spotify.com/artist/5N3sPtDHs7cuLS1CUwc5Cw) | [en concert](https://open.spotify.com/album/3YE9FR1smbDWlubFqkHc49) | 7:02 | 2022-06-06 | 2022-06-24 |
 | [Allaoui](https://open.spotify.com/track/7AMdQRt35oIv44tXLMEH4l) | [Hanini](https://open.spotify.com/artist/3ZWO3AKohnk7e25w2kXTpn) | [Africains du Nord](https://open.spotify.com/album/0MyVuPEM6RaKtGXrPv8tC2) | 4:09 | 2022-06-06 | 2022-06-24 |
@@ -106,6 +106,7 @@
 | [Like That](https://open.spotify.com/track/57ckc64pkdrinysXmErndL) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [Like That](https://open.spotify.com/album/3tzNLXTx8mH1lPaFrIuKXx) | 3:19 | 2021-12-16 | 2022-03-08 |
 | [Lonely People](https://open.spotify.com/track/3fN7EGwo1y6qAQnT1U7IPn) | [Imen Siar](https://open.spotify.com/artist/36JmeaPYkStxoKLqPmUNVE) | [Lonely People](https://open.spotify.com/album/1j8KSKJtQwcjzdbylsGcAa) | 3:13 | 2022-03-18 |  |
 | [Look At That](https://open.spotify.com/track/0F8gOhtQtS5qB3mt1fPYTY) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [N1YAH](https://open.spotify.com/artist/6ELQ5765WA0hjpXSriZfU7) | [Look At That](https://open.spotify.com/album/4K2HpZ7tLBxtub1KrfpRiV) | 3:42 | 2021-12-16 |  |
+| [Lost Myself To You](https://open.spotify.com/track/2hZXL9FpkPhwvTGxwcl115) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Lost Myself To You](https://open.spotify.com/album/4qiIlnLxM53kB7Lrm5qnNV) | 2:28 | 2022-07-30 |  |
 | [love is crazy](https://open.spotify.com/track/5f5DAF99A0oAKXnthNXx89) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [love is crazy](https://open.spotify.com/album/4Co9H6TLDdLDed07lxzicu) | 2:26 | 2021-12-16 | 2022-06-07 |
 | [Love on the Comedown](https://open.spotify.com/track/16b3BqYPz4JSXrzkMMt72C) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Kawkab](https://open.spotify.com/album/1QanrS9FWN6yDgOwIf1Pmw) | 2:54 | 2021-12-16 | 2022-03-08 |
 | [Ma colombe \- Moroccan Remix](https://open.spotify.com/track/1MbHeoSYFMKzkbybU9FQtF) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Ma colombe \(Moroccan Remix\)](https://open.spotify.com/album/3Wrj1ika3KdChgr8UZFN09) | 3:09 | 2021-12-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da riascoltare in loop. Cover: Marracash",
-  "num_followers": 135001,
+  "num_followers": 135103,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzMjA4MSwwMDAwMDAwMDNiYzQ3NzcxNmY4OGE0MzZhMTUyZGFhZDYyMzAyNDA2",
+  "snapshot_id": "MTY1ODkzMjA4MSwwMDAwMDAwMDlmMDFiMDgzMjgyM2M2OWMyMzZlNGUwNTZmZmY5MGUw",
   "tracks": [
     {
       "added_at": "2022-07-27 14:28:01",
@@ -475,30 +475,6 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "DrefGold",
-          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
-      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
+      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
         "name": "Scialla Semper (Emodrill Repack)",
         "url": "https://open.spotify.com/album/6nIBGD2Z0TbFrNcFOfhHVJ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 249303,
       "name": "Polo nord - C+N Progressive Mix",
       "url": "https://open.spotify.com/track/1Wbc0N0X1zkFqnKGcj8Quh"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
         "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
         "url": "https://open.spotify.com/album/5UVfybchlA2ZhymqAXr9KS"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 209565,
       "name": "SEVEN 7oo (feat. Rondodasosa, Sacky, Vale Pain, Neima Ezza, Kilimoney, Keta, Nko)",
       "url": "https://open.spotify.com/track/2KYLg9El0wzvX4S13CDoZf"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2022-07-27 14:28:01",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-07-27 14:28:01",
       "album": {
+        "name": "Porto Cervo",
+        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 235425,
+      "name": "Porto Cervo",
+      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2022-07-27 14:28:01",
+      "album": {
         "name": "Non Lo So",
         "url": "https://open.spotify.com/album/6Fet7iydk3JT8R6SPZYXfa"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 184413,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2022-07-27 14:28:01",
-      "album": {
-        "name": "Porto Cervo",
-        "url": "https://open.spotify.com/album/1pNAKQCX4G0ckRX1uetoJZ"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 235425,
-      "name": "Porto Cervo",
-      "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
     },
     {
       "added_at": "2022-07-27 14:28:01",

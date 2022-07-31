@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Marcus Mumford
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,904 likes - 56 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,150 likes - 56 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 33 | [Loser \(Feat\. Bryce Fox\)](https://open.spotify.com/track/6YEzvO7aCFFGMNirdhymvn) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Loser \(Feat\. Bryce Fox\)](https://open.spotify.com/album/0QAyCkYa0x27HqqNrMouwX) | 3:00 |
 | 34 | [Make Me Wanna](https://open.spotify.com/track/1LcoGvOnn5XhD016aeDELU) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Make Me Wanna](https://open.spotify.com/album/0SbucIFxuOANgxW33sMluo) | 2:45 |
 | 35 | [Human Being](https://open.spotify.com/track/29KXecHnTOQ4hzISaZqNxN) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Human Being](https://open.spotify.com/album/7o3FZOUjBfex281SCdogaN) | 2:34 |
-| 36 | [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 |
+| 36 | [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 |
 | 37 | [Pamela Aniston](https://open.spotify.com/track/7tWtyj7MwPbLeolppDYkMw) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Real Rare Whale](https://open.spotify.com/album/6M6tCfmpVfgSPexYtSJZ8X) | 3:11 |
 | 38 | [Wine](https://open.spotify.com/track/6ESRu5Uh7r4T8xCSc4XxVV) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Future Lovers](https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl) | 4:52 |
 | 39 | [5 Days On \(2 Days Off\)](https://open.spotify.com/track/0kSw5ZY5BH7a4AwMVyUxTM) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [5 Days On \(2 Days Off\)](https://open.spotify.com/album/7nugmHTblI2ZfYEIpjuyNz) | 2:51 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 55 | [Tell Myself](https://open.spotify.com/track/4wPoSALUR5mxrTFvgpuC2e) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Tell Myself](https://open.spotify.com/album/1XmHuWK6XxcNkyJHZoIKck) | 2:29 |
 | 56 | [Buckley](https://open.spotify.com/track/3M68r2KfqzjWSKKvZmmWLw) | [Pianos Become The Teeth](https://open.spotify.com/artist/5gbwngeG3dwS4ARmtgud9C) | [Buckley](https://open.spotify.com/album/3yCxtkJ7edJyDiJDvNFy2V) | 4:17 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDA0NDZlODA0NzM3NmQ0ZTVlM2E2M2IwYzRmMmU0ZGE3`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGRlYzViZDgxMDhjNWUxMDFhMmM3MDRmZDkwMTNhMmY5`

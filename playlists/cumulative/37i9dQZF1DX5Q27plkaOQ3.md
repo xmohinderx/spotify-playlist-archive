@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Zomboy.
 
-211 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
+212 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/7euR9qztoNP72hm8d8RT1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [BUBBLE BASS](https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [BUBBLE BASS](https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ) | 2:48 | 2021-12-17 | 2022-05-07 |
 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 | 2021-12-17 |  |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 |  |
-| [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 |  |
+| [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 | 2022-07-31 |
 | [Bunker Buster](https://open.spotify.com/track/4sIb34wgeE5G0XXGTrpERP) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bunker Buster](https://open.spotify.com/album/41mKx6GIJU5WuxO6ucgvRa) | 3:53 | 2021-12-17 | 2022-03-12 |
 | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/track/7e9hK7EA6ErF1FfARROJQE) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk), [JV Rhymes](https://open.spotify.com/artist/3ZaDHRjorwqXosRgVoCYUG) | [Bussin Bussin \(feat\. JV Rhymes\)](https://open.spotify.com/album/1RVaWpU0bqwfPazcEjWacX) | 3:33 | 2022-03-04 |  |
 | [Bust Like](https://open.spotify.com/track/6mfmstNKIYNkRGaflvUrTq) | [Stoned LeveL](https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd) | [Bust Like](https://open.spotify.com/album/2a3H4gbuz0in7mHKUBOwmY) | 3:50 | 2022-07-15 | 2022-07-29 |
@@ -170,6 +170,7 @@
 | [Sapphire Channel](https://open.spotify.com/track/1X287ADgxHe8FIEZnmfQct) | [Tek Genesis](https://open.spotify.com/artist/1NDC66eYcuc127yFeBYbbs) | [Sapphire Channel](https://open.spotify.com/album/4BbfnEztMS9SeTffYj4baj) | 4:25 | 2022-05-06 | 2022-07-29 |
 | [Satellite](https://open.spotify.com/track/1dNEaEL6b6SrYmsmC2lwbW) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Satellite](https://open.spotify.com/album/6dxaFv8dPO6GXRNbBFAcuq) | 3:46 | 2022-07-22 |  |
 | [Scouts Honor](https://open.spotify.com/track/1LD0tIZELqjVcgoIvltR5V) | [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Scouts Honor](https://open.spotify.com/album/0Hpndb5MNHqbS09ATOLpHI) | 3:34 | 2022-03-11 |  |
+| [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2022-07-29 |  |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-12-17 | 2022-03-05 |
 | [Shadow \- Ace Aura Remix](https://open.spotify.com/track/4D99ZSyFPhnlBNTqoSuQoJ) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Calivania](https://open.spotify.com/artist/5BBJhaRxSKP3jeCjIoWdl1) | [Shadow \(Ace Aura Remix\)](https://open.spotify.com/album/3fSpTNOCjmCIuiEcpXa1Cb) | 4:28 | 2022-07-08 |  |
 | [Shimmer](https://open.spotify.com/track/123FqwqgRIRKpU5kPXprW0) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/0ce00WtByT2e6ecEjNMJom) | 3:25 | 2021-12-17 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.",
-  "num_followers": 638895,
+  "num_followers": 639211,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTIwNDQ3NSwwMDAwMDAwMDUyMzQwMjE4MjQzNDJkMDEzNzVhNTdkMTg0OTE5NDVk",
+  "snapshot_id": "MTY1NTIwNDQ3NSwwMDAwMDAwMGQ0ZTRjZWFlZTliZDU4YWE2YjYzMjIzZjc0NGI0ZDhk",
   "tracks": [
     {
       "added_at": "2022-06-14 11:01:14",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
         "name": "Oloro Nyager",
         "url": "https://open.spotify.com/album/7h4IpgcwRxbdcHGRCR2LCH"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -527,22 +511,18 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Nterini (Sparrow & Barbossa Remix)",
-        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
       "artists": [
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
         }
       ],
-      "duration_ms": 363765,
-      "name": "Nterini - Sparrow & Barbossa Remix",
-      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -563,6 +543,26 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Nterini (Sparrow & Barbossa Remix)",
+        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "duration_ms": 363765,
+      "name": "Nterini - Sparrow & Barbossa Remix",
+      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Seymour",
         "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 327750,
       "name": "Seymour",
       "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Ma Gally",
-        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
-      },
-      "artists": [
-        {
-          "name": "Hot Oasis",
-          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
-        },
-        {
-          "name": "Weam Ismail",
-          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
-        }
-      ],
-      "duration_ms": 433330,
-      "name": "Ya Nahar Ya Gamel",
-      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 385702,
       "name": "Flou",
       "url": "https://open.spotify.com/track/6srLB9vOq6BxQmxYAVH0xy"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Ma Gally",
+        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Weam Ismail",
+          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
+        }
+      ],
+      "duration_ms": 433330,
+      "name": "Ya Nahar Ya Gamel",
+      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Endless Forest",
-        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
-      },
-      "artists": [
-        {
-          "name": "Zuma Dionys",
-          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
-        }
-      ],
-      "duration_ms": 436857,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "Endless Forest",
+        "url": "https://open.spotify.com/album/5EE1o6sPngmmoL68oGZcBb"
+      },
+      "artists": [
+        {
+          "name": "Zuma Dionys",
+          "url": "https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd"
+        }
+      ],
+      "duration_ms": 436857,
+      "name": "Gamora",
+      "url": "https://open.spotify.com/track/3urFlzQr5f0jlGMGt84m76"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Bella Mar 06",
-        "url": "https://open.spotify.com/album/0odUijfBYymLIpDjsPrluU"
-      },
-      "artists": [
-        {
-          "name": "Danito & Athina",
-          "url": "https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o"
-        }
-      ],
-      "duration_ms": 434543,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/7FNGHqa1mcxaBBqiCr22sK"
-    },
-    {
-      "added_at": "2022-06-14 11:01:14",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/6XbjotcFUn4IhsYqqYm47B"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
+        "name": "Bella Mar 06",
+        "url": "https://open.spotify.com/album/0odUijfBYymLIpDjsPrluU"
       },
       "artists": [
         {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+          "name": "Danito & Athina",
+          "url": "https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o"
         }
       ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+      "duration_ms": 434543,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/7FNGHqa1mcxaBBqiCr22sK"
     },
     {
       "added_at": "2022-06-14 11:01:14",
@@ -1075,18 +1059,34 @@
     {
       "added_at": "2022-06-14 11:01:14",
       "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
       "artists": [
         {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
         }
       ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+    },
+    {
+      "added_at": "2022-06-14 11:01:14",
+      "album": {
+        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
+        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
+      },
+      "artists": [
+        {
+          "name": "Geju",
+          "url": "https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e"
+        }
+      ],
+      "duration_ms": 417587,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/7DlIf50uAWVSsf6X8nZ9L8"
     }
   ],
   "unique_name": "Org\u00e1nica",

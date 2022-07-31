@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 344449,
+  "num_followers": 344549,
   "original_name": "Soft + Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcyNjY4OCwwMDAwMDAwMDUwMDJjYWMyNWI4NWNlMDMzZTQ1ZjczZmEyMTVjYmUy",
+  "snapshot_id": "MTY1NDcyNjY4OCwwMDAwMDAwMDFiODQ2YWVjZWQxMDdkZjE3ZjJmNTAxOWZkODZiYWM1",
   "tracks": [
     {
       "added_at": "2022-05-27 13:54:38",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2022-05-27 13:54:38",
-      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/3WvXQcV3BhJqued0PYn23U"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/6FwkV9baY3ERqmxPsBLzYf"
+    },
+    {
+      "added_at": "2022-05-27 13:54:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -791,22 +791,18 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
         }
       ],
-      "duration_ms": 253888,
-      "name": "Bittersweet, TN",
-      "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -827,18 +823,22 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
       "artists": [
         {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        },
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
         }
       ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
+      "duration_ms": 253888,
+      "name": "Bittersweet, TN",
+      "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Sausalito",
-        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
-      },
-      "artists": [
-        {
-          "name": "Lydia Luce",
-          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
-        }
-      ],
-      "duration_ms": 222859,
-      "name": "Sausalito",
-      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
-    },
-    {
-      "added_at": "2022-05-27 13:54:38",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 229800,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU"
+    },
+    {
+      "added_at": "2022-05-27 13:54:38",
+      "album": {
+        "name": "Sausalito",
+        "url": "https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj"
+      },
+      "artists": [
+        {
+          "name": "Lydia Luce",
+          "url": "https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH"
+        }
+      ],
+      "duration_ms": 222859,
+      "name": "Sausalito",
+      "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
-    },
-    {
-      "added_at": "2022-05-27 13:54:38",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 197458,
       "name": "Call My Name - Acoustic",
       "url": "https://open.spotify.com/track/2TpebHjbc4D2OPrCar0119"
+    },
+    {
+      "added_at": "2022-05-27 13:54:38",
+      "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Spades & Roses",
-        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 212053,
-      "name": "Heart of Somebody",
-      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
-    },
-    {
-      "added_at": "2022-05-27 13:54:38",
-      "album": {
         "name": "I'm Around",
         "url": "https://open.spotify.com/album/2grUI8BnHMjjIxLjRMjxmj"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2022-05-27 13:54:38",
+      "album": {
+        "name": "Spades & Roses",
+        "url": "https://open.spotify.com/album/4kMU5M6qBNCiw8Z5nVY4mq"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 212053,
+      "name": "Heart of Somebody",
+      "url": "https://open.spotify.com/track/7jPSQZlOVALxgylW3ne4wH"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Dusty Eyes",
-      "url": "https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070"
-    },
-    {
-      "added_at": "2022-05-27 13:54:38",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2022-05-27 13:54:38",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Dusty Eyes",
+      "url": "https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070"
     },
     {
       "added_at": "2022-05-27 13:54:38",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2022-05-27 13:54:38",
       "album": {
-        "name": "Don't Let The Kids Win",
-        "url": "https://open.spotify.com/album/1BAQysvP0rnwlOqcFeijh3"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 255600,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/190WzVuLms9YUO0sx3RD9N"
+      "duration_ms": 214564,
+      "name": "Green Lights - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
     }
   ],
   "unique_name": "Soft + Slow",

@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 64991,
+  "num_followers": 64993,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMGU1MWYxNmM1M2ExN2ExYzRiNGM3MTFiM2UwZmI2YTgz",
+  "snapshot_id": "MTY1Nzg5NDYxMCwwMDAwMDAwMDNkZmQ1M2RlNWYxOWY1N2MyZDMwMmZjNGJkODI0MTcz",
   "tracks": [
     {
       "added_at": "2022-07-15 14:16:50",
@@ -195,22 +195,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "N\u00e4r solen g\u00e5r ner",
-        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
       "artists": [
-        {
-          "name": "AKI",
-          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
-        },
         {
           "name": "Kapten R\u00f6d",
           "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 221773,
-      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
-      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
+      "duration_ms": 226547,
+      "name": "1.000.000 Nollor",
+      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -267,18 +263,22 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+        "name": "N\u00e4r solen g\u00e5r ner",
+        "url": "https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h"
       },
       "artists": [
+        {
+          "name": "AKI",
+          "url": "https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv"
+        },
         {
           "name": "Kapten R\u00f6d",
           "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 226547,
-      "name": "1.000.000 Nollor",
-      "url": "https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p"
+      "duration_ms": 221773,
+      "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
+      "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -355,6 +355,26 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
+        "name": "Wayback",
+        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
+      },
+      "artists": [
+        {
+          "name": "O-Hund",
+          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+        }
+      ],
+      "duration_ms": 208551,
+      "name": "Wayback",
+      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
         "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
         "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
@@ -379,22 +399,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Wayback",
-        "url": "https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B"
+        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
+        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
       },
       "artists": [
         {
-          "name": "O-Hund",
-          "url": "https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
         }
       ],
-      "duration_ms": 208551,
-      "name": "Wayback",
-      "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
+      "duration_ms": 179251,
+      "name": "In Kommer Ting",
+      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -415,18 +431,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
       "artists": [
         {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 179251,
-      "name": "In Kommer Ting",
-      "url": "https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -443,22 +459,6 @@
       "duration_ms": 273813,
       "name": "Tribulations",
       "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "Som Salomos S\u00e5ng",
-        "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Bonus P\u00e5 Kortet",
-      "url": "https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "Class Brut\u00e1ls",
-        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
-      },
-      "artists": [
-        {
-          "name": "USCB Allstars",
-          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "12 Steps",
-      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
         "name": "The Tomtations Show",
         "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "Class Brut\u00e1ls",
+        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
+      },
+      "artists": [
+        {
+          "name": "USCB Allstars",
+          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
       },
       "artists": [
         {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 231473,
-      "name": "En God V\u00e4n",
-      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
+      "duration_ms": 237702,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -763,6 +763,22 @@
       "duration_ms": 240146,
       "name": "Vakter Och Polis Med Jr Erik, Eye'n`l & Kapten R\u00f6d",
       "url": "https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI"
+    },
+    {
+      "added_at": "2022-07-15 14:16:50",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        }
+      ],
+      "duration_ms": 231473,
+      "name": "En God V\u00e4n",
+      "url": "https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -803,22 +819,6 @@
       "duration_ms": 251000,
       "name": "Mediak\u00e5t feat. Timbuktu",
       "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
-    },
-    {
-      "added_at": "2022-07-15 14:16:50",
-      "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Jag Minns",
-      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
     },
     {
       "added_at": "2022-07-15 14:16:50",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-07-15 14:16:50",
       "album": {
-        "name": "S\u00e4g Till Mig",
-        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 260000,
-      "name": "S\u00e4g Till Mig",
-      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
     }
   ],
   "unique_name": "Svensk Reggae",

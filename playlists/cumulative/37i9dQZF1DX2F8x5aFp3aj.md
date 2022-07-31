@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. Foto: The Cure
 
-178 songs - 13 hr 27 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
+179 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/7MNQpJF8R2XZQsiwsBTSQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alive And Kicking](https://open.spotify.com/track/471SXWs7Ko4d2rkKOk7oPF) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 5:26 | 2021-09-28 |  |
 | [Alive And Kicking \- Remastered 2002](https://open.spotify.com/track/2gqpf4zPnByCcqxqGseqes) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time](https://open.spotify.com/album/5Q74XTJr0l3sVQXprBeoT1) | 5:26 | 2021-09-28 | 2022-07-29 |
 | [All Night Long](https://open.spotify.com/track/2Yc8IZFWqbXwNNd8BvlodL) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/2sgTn4jGWj7BzQYMqkSCRe) | 5:44 | 2021-09-28 | 2022-07-29 |
+| [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 | 2021-09-28 |  |
 | [Away](https://open.spotify.com/track/2GRL794l2R1SFJc3Z0pIlr) | [The Bolshoi](https://open.spotify.com/artist/30m0NFP0tHVmxcsUCvEN3K) | [Friends](https://open.spotify.com/album/1IZ1slyJWQT1BPfrX1u5Bb) | 4:55 | 2021-09-28 | 2022-06-27 |
 | [Back on the Chain Gang](https://open.spotify.com/track/4eDudjc2i0obi3f2b00qVj) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [The Singles](https://open.spotify.com/album/1Qo4xIO7aWMVcbelqpTdGY) | 3:52 | 2021-09-28 | 2022-07-29 |
 | [Back on the Chain Gang \- 2007 Remaster](https://open.spotify.com/track/4cMHCRLPNoEbpnl2rz6GS9) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:51 | 2021-09-28 |  |
@@ -98,7 +99,7 @@
 | [Kayleigh \- Single Edit](https://open.spotify.com/track/5wG0fxX1Ag3Xx4wACyUQMh) | [Marillion](https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28) | [Kayleigh And The Essential Marillion Collection](https://open.spotify.com/album/3iv8ibvmMi8odBqPAfc4se) | 3:34 | 2021-09-28 | 2022-07-10 |
 | [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 | 2021-09-28 |  |
 | [King Of Pain](https://open.spotify.com/track/5o4ueR3CNK3diNRp1UUyL3) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Message In A Box](https://open.spotify.com/album/34mwCckm6X3AigkTgxGead) | 4:59 | 2021-09-28 | 2022-07-29 |
-| [Land of Confusion \- 2007 Remaster](https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 4:45 | 2021-09-28 |  |
+| [Land of Confusion \- 2007 Remaster](https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 4:45 | 2021-09-28 | 2022-07-31 |
 | [Lips Like Sugar](https://open.spotify.com/track/6yjkduAGhMd0zGwDRr5kVL) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [The Best of Echo & The Bunnymen](https://open.spotify.com/album/0KJWnz3i4TZXzWQMSnKzSv) | 4:51 | 2021-09-28 | 2022-07-29 |
 | [Living in Another World \- 1997 Remaster](https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [The Colour of Spring](https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE) | 6:58 | 2021-09-28 | 2022-07-29 |
 | [Living In Oblivion](https://open.spotify.com/track/3YvWI3uLVvPjnWNgfgXht0) | [Anything Box](https://open.spotify.com/artist/0AEDwJyvLfojF4iKEmJDMT) | [Peace](https://open.spotify.com/album/5tnQAZJ6CgFPJ8mSgsNjHX) | 5:06 | 2021-09-28 | 2022-07-28 |

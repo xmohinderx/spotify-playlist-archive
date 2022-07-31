@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-127 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
+128 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/77bJtEBIOaCjByBFHduKkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2022-05-02 |  |
 | [Don't Let Me Down \(Instrumental\)](https://open.spotify.com/track/18RRTF9SbEOM9h3aoMKeNc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 | 2022-01-21 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-01-21 |  |
-| [Easy On Me](https://open.spotify.com/track/3BKfE41CiiGnSOpmiLU18M) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Easy On Me](https://open.spotify.com/album/6BFoRxiYOEnfPfTfzpU34m) | 3:11 | 2022-01-21 |  |
+| [Easy On Me](https://open.spotify.com/track/3BKfE41CiiGnSOpmiLU18M) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Easy On Me](https://open.spotify.com/album/6BFoRxiYOEnfPfTfzpU34m) | 3:11 | 2022-01-21 | 2022-07-31 |
+| [Easy On Me](https://open.spotify.com/track/3oxM8G1Bb0WWR4XTkJKndT) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:11 | 2022-07-27 |  |
 | [Everglow](https://open.spotify.com/track/0vu0tbVqCICerh2HG2LKJG) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Everglow](https://open.spotify.com/album/7hA5tFUhR00OnXN5OU7YM9) | 3:13 | 2022-01-21 |  |
 | [Every Breath You Take](https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Every Breath You Take](https://open.spotify.com/album/2OhAmXifsCYytlfNT5hRKB) | 3:47 | 2022-01-21 |  |
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2022-01-21 |  |

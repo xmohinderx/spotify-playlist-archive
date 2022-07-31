@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/7BbMlrhOzLqWAbf9o1yBw6"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/1uE7Gln68v4duncYy4QgQm"
+    },
+    {
+      "album": {
         "name": "Ahkelak",
         "url": "https://open.spotify.com/album/30DzaAannug4aragLVhSMA"
       },
@@ -739,6 +757,24 @@
     {
       "album": {
         "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "MAREED",
+      "url": "https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
         "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
       },
       "artists": [
@@ -749,7 +785,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 216710,
       "name": "MAREED",
       "url": "https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL"
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 249302,
       "name": "\u0628\u0627\u0634\u0627 \u0628\u0627\u0634\u0627",
       "url": "https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc"

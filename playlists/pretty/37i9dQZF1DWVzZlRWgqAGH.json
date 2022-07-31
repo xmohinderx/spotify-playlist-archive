@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: Steve Lacy",
-  "num_followers": 728447,
+  "num_followers": 728659,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMDhkNDQ3MzYxYzFjNTJiZTIxMjFlZTA0YTI5NzE4ZmQ2",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGY1NjgxYzhiZjAzM2IyZDUxZTVjODEyOWEyOTY5NTJk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -587,22 +587,26 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Sober (With Jeremih)",
-        "url": "https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq"
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
       "artists": [
         {
-          "name": "Nakkia Gold",
-          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
         },
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Whoeva?",
+          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
         }
       ],
-      "duration_ms": 253340,
-      "name": "Sober (With Jeremih)",
-      "url": "https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE"
+      "duration_ms": 201933,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -627,26 +631,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+        "name": "Sober (With Jeremih)",
+        "url": "https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+          "name": "Nakkia Gold",
+          "url": "https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET"
         },
         {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Whoeva?",
-          "url": "https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 201933,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8"
+      "duration_ms": 253340,
+      "name": "Sober (With Jeremih)",
+      "url": "https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "3000\u00b0",
         "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "quinn",
+        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 186485,
+      "name": "two door tiffany",
+      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 262466,
       "name": "Compassion (feat. Chiiild)",
       "url": "https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "quinn",
-        "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 186485,
-      "name": "two door tiffany",
-      "url": "https://open.spotify.com/track/6oxv6Isn0x28fZh43pviCn"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -923,6 +923,30 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 160506,
+      "name": "For South",
+      "url": "https://open.spotify.com/track/7K2HB4II7aUmaRchf9I2Yh"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 160506,
-      "name": "For South",
-      "url": "https://open.spotify.com/track/7K2HB4II7aUmaRchf9I2Yh"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Wind Parade",
-        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "Wind Parade",
-      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "Message (Better Days)",
         "url": "https://open.spotify.com/album/5HCqz8ovg4vqzD3NlYL2oO"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 214504,
       "name": "Message (Better Days)",
       "url": "https://open.spotify.com/track/0tZA4mQgeSJjRyjsU6Sujw"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Wind Parade",
+        "url": "https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "Wind Parade",
+      "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Idol Eyes",
+        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
+      },
+      "artists": [
+        {
+          "name": "Common Saints",
+          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Idol Eyes",
+      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "When Flowers Bloom",
         "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
@@ -1399,26 +1415,6 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
-        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
-      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1443,6 +1439,26 @@
       "duration_ms": 153028,
       "name": "MOVIN'",
       "url": "https://open.spotify.com/track/4Krp00IGilA38asZUpGDYu"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "Please Don't Make Me Cry (Jordan Rakei Remix)",
+        "url": "https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 262727,
+      "name": "Please Don't Make Me Cry - Jordan Rakei Remix",
+      "url": "https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 189333,
       "name": "My Sunrise",
       "url": "https://open.spotify.com/track/5YNqZH6TOzS2DkqxLKbwQT"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Idol Eyes",
-        "url": "https://open.spotify.com/album/3Ctte2z1vhnDZoxYpcvm6D"
-      },
-      "artists": [
-        {
-          "name": "Common Saints",
-          "url": "https://open.spotify.com/artist/5UA8O7xDhZ74ebRYT0XOxB"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Idol Eyes",
-      "url": "https://open.spotify.com/track/2gx8U4Ujtk3UL94tv8r8io"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 154768,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3oYeUbSldQgBtUHDOw0tXr"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 191428,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/5ITdn1OapyZLtqCyUQQEvN"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Problems",
-        "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
-      },
-      "artists": [
-        {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        }
-      ],
-      "duration_ms": 154768,
-      "name": "Problems",
-      "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "No Reply",
+        "url": "https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV"
+      },
+      "artists": [
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "No Reply",
+      "url": "https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "ocean tales",
         "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 188951,
       "name": "feather light",
       "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "No Reply",
-        "url": "https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV"
-      },
-      "artists": [
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 177653,
-      "name": "No Reply",
-      "url": "https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "COMPLEX OF KILLING A MAN",
-        "url": "https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG"
+        "name": "Thin Lines",
+        "url": "https://open.spotify.com/album/1hgO8TWFeOqBIcxJGsDPCO"
       },
       "artists": [
         {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
         }
       ],
-      "duration_ms": 191024,
-      "name": "COMPLEX OF KILLING A MAN",
-      "url": "https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn"
+      "duration_ms": 171016,
+      "name": "Thin Lines",
+      "url": "https://open.spotify.com/track/7DQExWAfGh6haF7grf6rzj"
     }
   ],
   "unique_name": "BUTTER",

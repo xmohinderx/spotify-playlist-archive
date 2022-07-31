@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 
 > <a href="https://www.instagram.com/pxssypalace/?hl=en">Pxssy Palace</a> creates a safe space for queer womxn, trans, non\-binary and intersex people of colour with their London\-based club night\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,622 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,630 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LSDXOXO\_TRUTH OR DARE\_123 BPM](https://open.spotify.com/track/6VTixntONK80zNv2HT2Tg4) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [TAKE ME A\_PART, THE REMIXES](https://open.spotify.com/album/00bR0PfkGVAizXpN05DYrs) | 4:53 |
-| 2 | [Bad Habits](https://open.spotify.com/track/6byIdjgogY3Cl9PKw6UnVw) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1NVT1CyJZdyLVPYoBJtWoX) | 3:30 |
+| 2 | [Bad Habits](https://open.spotify.com/track/5MOeskxHd3tFXAm2GbO3Rl) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:30 |
 | 3 | [Red As in Blue](https://open.spotify.com/track/1UuSsdLQkvvrKHb47NsQ3e) | [Ase Manual](https://open.spotify.com/artist/7d9PaRqnesvoUvMowJ2qoE) | [Lumi](https://open.spotify.com/album/7cG4yQiwZuftnuvmYdCLGT) | 3:50 |
 | 4 | [No Sleep](https://open.spotify.com/track/6UevNDpcrrAdZ5PSdTexnY) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz) | [Chippy Nonstop & dj genderfluid](https://open.spotify.com/album/3Vhrt89XhIFEKsRGnZldYF) | 4:17 |
 | 5 | [UCKERS](https://open.spotify.com/track/1tZAEXxVr3W1XHPQZslOEI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [UCKERS](https://open.spotify.com/album/3WG0rNIPHZAaFyVm77bKaM) | 1:55 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyLJd3LCGWc.md) - [plain]
 | 45 | [Bling Bling](https://open.spotify.com/track/62NhZM0i7RrAThbBmb2vsQ) | [Junglepussy](https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B) | [Satisfaction Guaranteed](https://open.spotify.com/album/1LGNcwOY4Ro9eEDJwohBez) | 2:45 |
 | 46 | [IN THE AIR](https://open.spotify.com/track/63Nh9nDjrK0YB3BaMDN9v6) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [CRY 4 HELP](https://open.spotify.com/album/3a9TkAd9pVKebwqaGrQw0n) | 4:21 |
 
-Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMGZmZDI5YjVlOGE5MDM0ZmIwOWU2OTU3YWU5ZGExNGUy`
+Snapshot ID: `MTYyMjU0MzA0MSwwMDAwMDAwMDA1ZjRjMGI2MjdhZmIyODY5NWYwMGQ3NDVlNzJjYmFm`

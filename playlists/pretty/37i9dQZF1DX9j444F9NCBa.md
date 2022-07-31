@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,714 likes - 114 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,969 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 11 | [Someone You Loved](https://open.spotify.com/track/00utEhrTFR6V4HEuLh2ncI) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Someone You Loved](https://open.spotify.com/album/0Tj7uPAbloKC8eyIaaOycN) | 3:05 |
 | 12 | [Don't Kill My Vibe](https://open.spotify.com/track/6vB8QDhABiypQcVNpEOuQV) | [Franz Schröder](https://open.spotify.com/artist/5eK0TWmJd1D9tqBEVUe7xf) | [Don't Kill My Vibe](https://open.spotify.com/album/1Rv2l98pHdPeY1P2a76264) | 3:07 |
 | 13 | [When You Believe](https://open.spotify.com/track/2EfjVCYTSVGWtBFh75r99F) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [When You Believe](https://open.spotify.com/album/0CIUvoJOwQMIjVTAXDGKLI) | 4:03 |
-| 14 | [Easy On Me](https://open.spotify.com/track/3BKfE41CiiGnSOpmiLU18M) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Easy On Me](https://open.spotify.com/album/6BFoRxiYOEnfPfTfzpU34m) | 3:11 |
+| 14 | [Easy On Me](https://open.spotify.com/track/3oxM8G1Bb0WWR4XTkJKndT) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:11 |
 | 15 | [Cold Heart](https://open.spotify.com/track/2JR1wrR7VqWbVHjwuXl6uG) | [Samantha Foster](https://open.spotify.com/artist/0YBUHAWLRIYv0e1aTE6lJx) | [Cold Heart](https://open.spotify.com/album/2MiytJKrSJKjN8pdleNbyS) | 3:02 |
 | 16 | [I Can't Make You Love Me](https://open.spotify.com/track/6gLTYTjk3Mip3RvCe0OgdF) | [Keely Lake](https://open.spotify.com/artist/3M2jLYh2aNK2FLSpU1o4ft) | [I Can't Make You Love Me](https://open.spotify.com/album/17dBpCsvl17rSZZsKyL5B1) | 3:20 |
 | 17 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 113 | [Closing Time](https://open.spotify.com/track/7IoK9oPMLUumpyJdWKxBX8) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Closing Time](https://open.spotify.com/album/2AL1JpefubgHaKg0nxZEb6) | 2:33 |
 | 114 | [Can't Stop The Feeling](https://open.spotify.com/track/5VgeeaV1T4nB79tqNnPti0) | [Nick Morales](https://open.spotify.com/artist/54hfWstQiYCPpIxmNFTWTa) | [Can't Stop The Feeling](https://open.spotify.com/album/72o6QQid3mYqEyMrHaTAUc) | 2:47 |
 
-Snapshot ID: `MTY1ODkyMDY5MywwMDAwMDAwMDgzOTUwMDFhMDkwYjk2YjI5MzY1MWUzYTMyMGI4NTQw`
+Snapshot ID: `MTY1ODkyMDY5MywwMDAwMDAwMDIwYjZhOTkwM2E5MDUxMTQ4MWRjNjk3ZTNhNDNlMWNk`

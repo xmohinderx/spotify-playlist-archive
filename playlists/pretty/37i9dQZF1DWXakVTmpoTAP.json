@@ -1,12 +1,12 @@
 {
   "description": "Songs that show your dad love and appreciation ",
-  "num_followers": 11004,
+  "num_followers": 11003,
   "original_name": "Father's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMGY1ZmJkMWE3YjU3NDgwN2FjODI1MTBkNTI3NmZhNzM1",
+  "snapshot_id": "MTY1NjAzMjI4MCwwMDAwMDAwMDQyNDBmZmEwMTc4Y2UxNDc0MDY0YWI1MTA0YjI1NDRk",
   "tracks": [
     {
       "added_at": "2022-06-15 19:48:26",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Simply Bob Carlisle",
-        "url": "https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn"
-      },
-      "artists": [
-        {
-          "name": "Bob Carlisle",
-          "url": "https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU"
-        }
-      ],
-      "duration_ms": 340600,
-      "name": "Butterfly Kisses",
-      "url": "https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU"
-    },
-    {
-      "added_at": "2022-06-09 16:13:45",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+    },
+    {
+      "added_at": "2022-06-09 16:13:45",
+      "album": {
+        "name": "Simply Bob Carlisle",
+        "url": "https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn"
+      },
+      "artists": [
+        {
+          "name": "Bob Carlisle",
+          "url": "https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU"
+        }
+      ],
+      "duration_ms": 340600,
+      "name": "Butterfly Kisses",
+      "url": "https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU"
     },
     {
       "added_at": "2022-06-09 16:13:45",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-06-09 16:13:45",
       "album": {
-        "name": "Greatest Hits Volume 3",
-        "url": "https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
         }
       ],
-      "duration_ms": 296400,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ"
+      "duration_ms": 234873,
+      "name": "My Old Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ"
     }
   ],
   "unique_name": "Father's Day Love",

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 寧音
 
-1,703 songs - 4 day 9 hr 0 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
+1,704 songs - 4 day 9 hr 3 min - [published](https://open.spotify.com/playlist/7vZo0GBGKfv8haIOHte1r4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [ANSWER](https://open.spotify.com/track/4tVdEeAPlAwFiGmONQ5hzR) | [フレデリック×須田景凪](https://open.spotify.com/artist/6eSGajYonAUblKtPGKTj1S), [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ANSWER](https://open.spotify.com/album/37gEuZYvOKOSwXQslCOecY) | 3:42 | 2021-11-10 | 2021-12-01 |
 | [antidote](https://open.spotify.com/track/01RsTBZYjhCZK0zpXZchBl) | [Mastarrja](https://open.spotify.com/artist/1WCRsxr7C2xVKovIr0tG4B) | [antidote](https://open.spotify.com/album/1AG9IoVUVmwF6NUou71kJC) | 3:48 | 2021-12-01 | 2021-12-21 |
 | [Apple \- Pandora Ver.](https://open.spotify.com/track/3EQ6cVncBNd27Y08MBpZ6G) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Be Alive](https://open.spotify.com/album/3Oqt5cx90ijeam3EhjxjSH) | 3:10 | 2022-06-14 | 2022-06-28 |
-| [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-25 |  |
+| [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 | 2022-07-25 |  |
+| [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 | 2022-07-25 | 2022-07-31 |
 | [Avid \(Haywyre Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/track/20hv3iEX2Ehmjt6MFK8RA1) | [SawanoHiroyuki\[nZk\]:mizuki](https://open.spotify.com/artist/3QWtKCUakFDZoosqTReaRS), [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Avid \(Haywyre Remix\) \- Sakura Chill Beats Singles](https://open.spotify.com/album/7wLF2qD0C13O5JxywzLtTB) | 3:38 | 2021-10-20 | 2021-10-27 |
 | [Awake Now](https://open.spotify.com/track/7MBhcb9p4z70uofoNxGXkG) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks) | [Awake Now](https://open.spotify.com/album/73AKllCZLqEq5kVsn4cdDW) | 3:16 | 2022-06-07 | 2022-06-21 |
 | [B.S.M.F \- \[Vocal : どんぐりず\] Funky Dubmental](https://open.spotify.com/track/6V0xQvXHydCXjVDN8IkQVh) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [B.S.M.F EP](https://open.spotify.com/album/6wYKRz2j3d7USqQevjMNc3) | 4:08 | 2022-04-05 | 2022-04-12 |

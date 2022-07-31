@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,973 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,992 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 39 | [Ganay Albreedo](https://open.spotify.com/track/0S45re7HsNZYqlktnE9niZ) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [Ganay Albreedo](https://open.spotify.com/album/1dntlbkIw0jZGk3HIDxu2q) | 5:35 |
 | 40 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 | 41 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 42 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
-| 43 | [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 |
+| 42 | [Waraga](https://open.spotify.com/track/5d7lKOsOxblM7m6uI4nz9J) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [O'd the EP](https://open.spotify.com/album/3yPFtPM6fwAlfbr1pLkp9I) | 5:13 |
+| 43 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 44 | [مكاني](https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0) | [Skinnyg](https://open.spotify.com/artist/7xMzHcQVj9mPV6W5fTq6go) | [مكاني](https://open.spotify.com/album/6VAAvWMaGOlREg2owEvsKE) | 3:32 |
 | 45 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
 | 46 | [Silsila](https://open.spotify.com/track/5KTy5Suuea5uBUID1pwKU5) | [ElKhaleefa](https://open.spotify.com/artist/3tREMnMFWzcm8nzHIPXnBG) | [Silsila](https://open.spotify.com/album/1P1feiWIo2Mtl6HGDS0Gqz) | 3:45 |
-| 47 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
-| 48 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
-| 49 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Baby](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 |
-| 50 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
+| 47 | [Picasso \(Outro\)](https://open.spotify.com/track/09foknzEQOePhFgW1wvxeb) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk) | [Picasso \(Outro\)](https://open.spotify.com/album/5FHpioMLjDuoJMvCg8GWQw) | 4:00 |
+| 48 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
+| 49 | [الحزن النبيل](https://open.spotify.com/track/4Mqiut95E3p232OapUrZ9I) | [Mostafa Sid Ahmed](https://open.spotify.com/artist/4Uh5nF1SKIp4no3YzmZyDO) | [الحزن النبيل](https://open.spotify.com/album/4VHzt5ldOK5UU3QAde1gOj) | 11:28 |
+| 50 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Baby](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 |
 
-Snapshot ID: `MTY1OTExMDAwMiwwMDAwMDAwMDQyZDczZGY1Y2ViMTc5Y2Q3YzE4ODRjYTc5NTMxNjk4`
+Snapshot ID: `MTY1OTExMDAwMiwwMDAwMDAwMGJlZTM4YmIyZjllYjE1NDE3YmZhOWVkOWQ5NzAxMDk3`

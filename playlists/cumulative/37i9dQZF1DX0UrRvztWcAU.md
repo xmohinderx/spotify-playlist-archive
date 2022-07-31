@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these awesome, happy songs!
 
-372 songs - 21 hr 0 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
+373 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,8 +314,9 @@
 | [Teenage Minds](https://open.spotify.com/track/5LVCtUQQOr1JmwdUufLaw7) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Teenage Minds](https://open.spotify.com/album/4X6gaQiQP0eSl6Qe3PzjA0) | 3:07 | 2021-12-16 | 2022-07-17 |
 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 | 2021-12-16 |  |
 | [Tell Me](https://open.spotify.com/track/2i16GU60FIhw9k5Wix4TMB) | [Stefan Tosovic](https://open.spotify.com/artist/1B0dXhcaPbzMP40bQQlqpW), [Cecilie Toth](https://open.spotify.com/artist/6DVD0hbEmINkFbAQ7o7DAB) | [Tell Me](https://open.spotify.com/album/3eoprEltYkcCuvWD9EIBfo) | 3:09 | 2022-02-22 | 2022-07-29 |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2022-07-08 |  |
 | [That Don't Impress Me Much](https://open.spotify.com/track/3acriFyHOVFW8heimUC0IW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4) | 3:58 | 2022-04-11 | 2022-05-16 |
-| [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2022-07-08 |  |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2022-07-08 | 2022-07-31 |
 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 | 2022-07-08 |  |
 | [The Most Beautiful Girl In the World](https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Gold Experience](https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks) | 4:25 | 2022-03-15 |  |
 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 | 2022-03-15 | 2022-03-31 |

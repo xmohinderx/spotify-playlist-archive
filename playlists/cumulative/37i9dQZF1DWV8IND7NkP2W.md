@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-485 songs - 21 hr 40 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+486 songs - 21 hr 43 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Nicely Nostalgic](https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Nicely Nostalgic](https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr) | 1:54 | 2022-02-10 |  |
 | [Night Crawl](https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Night Crawl](https://open.spotify.com/album/2UjBnYEd7L0XNWSLmkRrqu) | 2:52 | 2021-12-23 | 2022-07-28 |
 | [Night Lights](https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Night Lights](https://open.spotify.com/album/0zfibDEedhD4zQiJFEk0SC) | 2:37 | 2022-01-06 | 2022-07-17 |
-| [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 |  |
+| [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2022-07-31 |
 | [Night View](https://open.spotify.com/track/5fDXtT8xiVNZ0tAe8wYXPJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2), [交響都市](https://open.spotify.com/artist/3RzWlu98pODmrYSMwhMNeX) | [Night View](https://open.spotify.com/album/4bOSB7ra5IOKvqyJC2qbtT) | 3:01 | 2021-12-23 | 2022-01-28 |
 | [No.18 Sketch in the Shade](https://open.spotify.com/track/1pfF2n9ycLVPydzZNOJO6l) | [Masatomo Yoshizawa](https://open.spotify.com/artist/5AtXWRTyAGHgpdQSnt8jyL), [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi) | [Guitar Esquisse Volume One](https://open.spotify.com/album/65gNo2Y6rjpV7VIrTVkUw2) | 3:30 | 2021-12-23 | 2022-07-29 |
 | [Nomadic tribe \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Nomadic tribe \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx) | 4:05 | 2021-12-23 |  |
@@ -312,6 +312,7 @@
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 |  |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
+| [on the way home](https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW) | 2:48 | 2022-07-28 |  |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-26 |
 | [One Life](https://open.spotify.com/track/2p6i1rr0GeZrMHmqfnkRvJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2) | [One Life](https://open.spotify.com/album/03w2optnYiOIx9BAolMDKh) | 2:44 | 2021-12-23 | 2022-07-25 |
 | [one minute story 5](https://open.spotify.com/track/5OEFT0jFbvGfigGViE2U0m) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [one minute story 5](https://open.spotify.com/album/3j7tzKN7HpqIEgjQBybZol) | 1:00 | 2022-02-15 | 2022-07-29 |

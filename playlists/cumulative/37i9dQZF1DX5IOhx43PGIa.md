@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee.
 
-251 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+252 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [prologue](https://open.spotify.com/track/2CIe5Uv5DAXdozg8zj8VMn) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [okhissa](https://open.spotify.com/artist/3i1USTaXHzTXXET7iT7KeQ) | [prologue](https://open.spotify.com/album/6TtNPXL5qZCzMlamYm4fmU) | 3:20 | 2022-05-27 | 2022-07-29 |
 | [Puzzle](https://open.spotify.com/track/55pSVqJsuWGmktWi3W81W1) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Puzzle](https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN) | 2:58 | 2022-05-27 | 2022-07-29 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2022-05-27 | 2022-06-25 |
+| [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 |  |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2022-06-10 |  |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-05-27 | 2022-06-16 |
@@ -243,7 +244,7 @@
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 |  |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-05-27 | 2022-07-26 |
 | [WEST](https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WEST](https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS) | 2:49 | 2022-05-27 |  |
-| [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 |  |
+| [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 | 2022-07-31 |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-05-27 | 2022-07-02 |
 | [Whatchu Sayin'?](https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Whatchu Sayin'?](https://open.spotify.com/album/27HxLoxsWmYhjf7fWoZvjf) | 2:57 | 2022-06-24 | 2022-07-16 |
 | [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 | 2022-05-27 | 2022-07-29 |

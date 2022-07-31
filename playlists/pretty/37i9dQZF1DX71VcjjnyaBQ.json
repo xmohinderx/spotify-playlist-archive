@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 327854,
+  "num_followers": 327954,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5NjM4NiwwMDAwMDAwMDlmNDhiYzVlZmNiOTc4ZDc1MGI1NTlhNTE2MzY2MDA4",
+  "snapshot_id": "MTY1NjU5NjM4NiwwMDAwMDAwMGI3Yzc0N2I5NTAyMjdhMjEzMTI3YTc1NTU4MThlNjU1",
   "tracks": [
     {
       "added_at": "2022-06-30 13:39:45",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Future Stride",
-        "url": "https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk"
-      },
-      "artists": [
-        {
-          "name": "Emmet Cohen",
-          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
-        }
-      ],
-      "duration_ms": 324696,
-      "name": "Dardanella",
-      "url": "https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Kelly Blue (Keepnews Collection)",
         "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 393000,
       "name": "Softly As In A Morning Sunrise",
       "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Future Stride",
+        "url": "https://open.spotify.com/album/6nGurFCYFgfbZvyA7MB3sk"
+      },
+      "artists": [
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        }
+      ],
+      "duration_ms": 324696,
+      "name": "Dardanella",
+      "url": "https://open.spotify.com/track/0QTq57fazdnHads8lz3G9G"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Symphonie Pacifique",
         "url": "https://open.spotify.com/album/3sWTusjdqlAvrdFMMbnXEY"
       },
@@ -543,6 +559,22 @@
       "duration_ms": 294139,
       "name": "Symphonie Pacifique",
       "url": "https://open.spotify.com/track/1KFhl1VNM6z4bpqAQETzTN"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Alligator Bogaloo",
+        "url": "https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 443040,
+      "name": "Aw Shucks",
+      "url": "https://open.spotify.com/track/7dKeB695EtXaaAuvX3yQqm"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -579,22 +611,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Alligator Bogaloo",
-        "url": "https://open.spotify.com/album/4XBcW9JiDXOxXb9sfI1CiX"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 443040,
-      "name": "Aw Shucks",
-      "url": "https://open.spotify.com/track/7dKeB695EtXaaAuvX3yQqm"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Bijou voyou caillou",
         "url": "https://open.spotify.com/album/7e6x6o4pHIMPUgHkav3A14"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
-      },
-      "artists": [
-        {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
-        }
-      ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
       "artists": [
         {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -715,18 +715,18 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "Hegge",
-          "url": "https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 327146,
-      "name": "New Bromance",
-      "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -747,18 +747,38 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Hegge",
+          "url": "https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G"
         }
       ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+      "duration_ms": 327146,
+      "name": "New Bromance",
+      "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -791,26 +811,6 @@
       "duration_ms": 244191,
       "name": "Son binocle",
       "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -879,6 +879,58 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "StandArt",
+        "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        }
+      ],
+      "duration_ms": 433360,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Golden Treasures",
         "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
       },
@@ -907,22 +959,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "StandArt",
-        "url": "https://open.spotify.com/album/1j9abB0wpxOjBxSmdeNIbP"
-      },
-      "artists": [
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 433360,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/6gAtbVMWzbdLKhDR0Kblm2"
       },
@@ -935,42 +971,6 @@
       "duration_ms": 264367,
       "name": "Play The 4th Prime",
       "url": "https://open.spotify.com/track/3HpW5YWatfVXULfzQAEXms"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1119,38 +1119,6 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm"
-      },
-      "artists": [
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 322080,
-      "name": "Sometimes I Cry",
-      "url": "https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Ballad for K",
-        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
-      },
-      "artists": [
-        {
-          "name": "Ruhi Erdogan",
-          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Ballad for K",
-      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
         "name": "Lead Belly Reimagined",
         "url": "https://open.spotify.com/album/3PptUbT8wyVA5DcDDe8s3R"
       },
@@ -1163,6 +1131,22 @@
       "duration_ms": 287666,
       "name": "Laura",
       "url": "https://open.spotify.com/track/1Am0pclKtGRb8pPsjxOA9r"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm"
+      },
+      "artists": [
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 322080,
+      "name": "Sometimes I Cry",
+      "url": "https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "The Starter",
-        "url": "https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2"
+        "name": "Ballad for K",
+        "url": "https://open.spotify.com/album/0pKNfS9dVfw4fYRHYQeXZl"
       },
       "artists": [
         {
-          "name": "Per Thornberg",
-          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+          "name": "Ruhi Erdogan",
+          "url": "https://open.spotify.com/artist/4Zq1tQD7jF0vq34UndlvR9"
         }
       ],
-      "duration_ms": 375267,
-      "name": "The Starter",
-      "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
+      "duration_ms": 235360,
+      "name": "Ballad for K",
+      "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1219,6 +1203,22 @@
       "duration_ms": 329333,
       "name": "Strange Flower",
       "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "The Starter",
+        "url": "https://open.spotify.com/album/6uAqOGzZJOszPnpcoUHRL2"
+      },
+      "artists": [
+        {
+          "name": "Per Thornberg",
+          "url": "https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv"
+        }
+      ],
+      "duration_ms": 375267,
+      "name": "The Starter",
+      "url": "https://open.spotify.com/track/51UyPZRpvRZp9d4gRDrwzY"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 482693,
+      "name": "Softly, as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 323426,
       "name": "Some Gospel According to Matthew - Live",
       "url": "https://open.spotify.com/track/0mrE0qZaNsnTULsDF8Npp7"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 482693,
-      "name": "Softly, as in a Morning Sunrise",
-      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "Time to Swing",
+        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 450133,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -1479,34 +1495,6 @@
       "duration_ms": 224607,
       "name": "My Song",
       "url": "https://open.spotify.com/track/0lSLRJcWni4XX5UbCLJPy1"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "First Quartet",
-        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
-      },
-      "artists": [
-        {
-          "name": "James Kitchman",
-          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
-        },
-        {
-          "name": "Bruno Heinen",
-          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
-        },
-        {
-          "name": "Tom McCredie",
-          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
-        },
-        {
-          "name": "Shane Forbes",
-          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
-        }
-      ],
-      "duration_ms": 290506,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1567,18 +1555,30 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
-        "name": "Time to Swing",
-        "url": "https://open.spotify.com/album/7uc7Ti77VrrqITPsxLR0ue"
+        "name": "First Quartet",
+        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
       },
       "artists": [
         {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "James Kitchman",
+          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
+        },
+        {
+          "name": "Bruno Heinen",
+          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
+        },
+        {
+          "name": "Tom McCredie",
+          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
+        },
+        {
+          "name": "Shane Forbes",
+          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
         }
       ],
-      "duration_ms": 450133,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/2nWQ1vNWFScr1w8VCJj1tz"
+      "duration_ms": 290506,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1595,6 +1595,22 @@
       "duration_ms": 397306,
       "name": "Dear Don",
       "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1623,38 +1639,6 @@
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Trance",
-        "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
-      },
-      "artists": [
-        {
-          "name": "Steve Kuhn",
-          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "A Change Of Face",
-      "url": "https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2022-06-30 13:39:45",
       "album": {
+        "name": "Trance",
+        "url": "https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl"
+      },
+      "artists": [
+        {
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "A Change Of Face",
+      "url": "https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
         "name": "Standard Gonz",
         "url": "https://open.spotify.com/album/4jym5FR0j3jAdcazPDLLDa"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 434555,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5Z9BMdHdZVOX5GXUtzaxr3"
+    },
+    {
+      "added_at": "2022-06-30 13:39:45",
+      "album": {
+        "name": "Jennie / Gravol",
+        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
+      },
+      "artists": [
+        {
+          "name": "Hederosgruppen",
+          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
+        }
+      ],
+      "duration_ms": 364741,
+      "name": "Jennie",
+      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
     },
     {
       "added_at": "2022-06-30 13:39:45",
@@ -1767,22 +1783,6 @@
       "duration_ms": 231654,
       "name": "Dagen till a\u0308ra",
       "url": "https://open.spotify.com/track/3Sb7YhLgRrsfYqzcpNxkjJ"
-    },
-    {
-      "added_at": "2022-06-30 13:39:45",
-      "album": {
-        "name": "Jennie / Gravol",
-        "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
-      },
-      "artists": [
-        {
-          "name": "Hederosgruppen",
-          "url": "https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw"
-        }
-      ],
-      "duration_ms": 364741,
-      "name": "Jennie",
-      "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
     },
     {
       "added_at": "2022-06-30 13:39:45",

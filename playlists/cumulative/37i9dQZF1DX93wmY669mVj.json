@@ -888,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Liszt: Complete Hungarian Rhapsodies",
+        "url": "https://open.spotify.com/album/4PpLl9De7P7d1ZnndfT9Tv"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Michele Campanella",
+          "url": "https://open.spotify.com/artist/3yix4qwYrIJj2zbN5QZDeF"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580000,
+      "name": "Hungarian Rhapsody No. 2 in C sharp minor, S.244",
+      "url": "https://open.spotify.com/track/7eocs06QszmFJwnFwHe1GJ"
+    },
+    {
+      "album": {
         "name": "Liszt: Piano Concerto No.1; Piano Sonata in B",
         "url": "https://open.spotify.com/album/0Vms9kjFQ7p2RdDa2jvWw4"
       },
@@ -907,28 +929,6 @@
       "duration_ms": 382266,
       "name": "Hungarian Rhapsody No. 6 in D-Flat Major, S. 244",
       "url": "https://open.spotify.com/track/0mwn1hTGqC0luXpwI9EG3G"
-    },
-    {
-      "album": {
-        "name": "Liszt: Complete Hungarian Rhapsodies",
-        "url": "https://open.spotify.com/album/4PpLl9De7P7d1ZnndfT9Tv"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Michele Campanella",
-          "url": "https://open.spotify.com/artist/3yix4qwYrIJj2zbN5QZDeF"
-        }
-      ],
-      "date_added": "2021-08-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 580000,
-      "name": "Hungarian Rhapsody No.2 in C sharp minor, S.244",
-      "url": "https://open.spotify.com/track/7eocs06QszmFJwnFwHe1GJ"
     },
     {
       "album": {

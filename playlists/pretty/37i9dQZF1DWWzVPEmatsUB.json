@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 482735,
+  "num_followers": 483045,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDE4N2JiNjE2NTdmOWNlYWRmNzRjODIyMzkyM2IyMTE3",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGZkODM1OGMyMWUzNjFlOWExY2U1M2NiOTFhYWVmYWM0",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -357,26 +357,6 @@
       "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 195368,
-      "name": "Real Thing (feat. Tori Kelly)",
-      "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Lady Like",
@@ -407,6 +387,26 @@
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 195368,
+      "name": "Real Thing (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -497,26 +497,6 @@
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Midnight River (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 184242,
-      "name": "Midnight River (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Summer Moon (feat. Kevin Kaarl)",
@@ -539,6 +519,22 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213136,
+      "name": "Mad About You",
+      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
         "name": "Real Estate",
         "url": "https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI"
       },
@@ -553,20 +549,24 @@
       "url": "https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
+      "added_at": "2021-12-10 05:01:00",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+        "name": "Midnight River (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/6u037PKoI8rUCv4upVCKVx"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 213136,
-      "name": "Mad About You",
-      "url": "https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv"
+      "duration_ms": 184242,
+      "name": "Midnight River (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -599,22 +599,6 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -663,6 +647,22 @@
       "duration_ms": 251161,
       "name": "High Hope",
       "url": "https://open.spotify.com/track/51hx5VSyIkTzwRrs5DJjQ3"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -749,26 +749,6 @@
       "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
     },
     {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "Gold-Diggers Sound (Deluxe)",
-        "url": "https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 164038,
-      "name": "Summer Rain (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
-    },
-    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Weed Garden",
@@ -831,6 +811,26 @@
       "duration_ms": 211240,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "Gold-Diggers Sound (Deluxe)",
+        "url": "https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "Summer Rain (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marano",
-          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Smoke Alarm",
-      "url": "https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI"
-    },
-    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "once in a moon",
@@ -1055,6 +1039,22 @@
       "duration_ms": 245175,
       "name": "once in a moon",
       "url": "https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Smoke Alarm",
+      "url": "https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI"
     },
     {
       "added_at": "2021-11-19 15:05:45",
@@ -1189,6 +1189,22 @@
       "url": "https://open.spotify.com/track/3iWv5jxk4Qq2339O29I5lJ"
     },
     {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "Box of Regrets",
+        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 196731,
+      "name": "Box of Regrets",
+      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
+    },
+    {
       "added_at": "2022-02-11 05:02:00",
       "album": {
         "name": "Amazing (Strings Version)",
@@ -1203,22 +1219,6 @@
       "duration_ms": 178175,
       "name": "Amazing - Strings Version",
       "url": "https://open.spotify.com/track/4SMNGYvfWjebzsHXl5CyRE"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "magnolia",
-        "url": "https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6"
-      },
-      "artists": [
-        {
-          "name": "Zachary Knowles",
-          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
-        }
-      ],
-      "duration_ms": 211677,
-      "name": "for life",
-      "url": "https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy"
     }
   ],
   "unique_name": "Mellow Morning",

@@ -2066,6 +2066,28 @@
     },
     {
       "album": {
+        "name": "Discoth\u00e8que Records",
+        "url": "https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK"
+      },
+      "artists": [
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        },
+        {
+          "name": "Sly Phil",
+          "url": "https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190505,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/3DbGq0D8wNmJiVCX9cAGJ9"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/7zhqid6qc4aXhwxUpBDQqQ"
       },
@@ -2621,6 +2643,24 @@
       "duration_ms": 211771,
       "name": "Inner City",
       "url": "https://open.spotify.com/track/0h1icpllBUxPsbx434kbBh"
+    },
+    {
+      "album": {
+        "name": "Discoth\u00e8que Records",
+        "url": "https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK"
+      },
+      "artists": [
+        {
+          "name": "Cave Studio",
+          "url": "https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/2kPLoPQ6FjRHfCrAaAWpOu"
     },
     {
       "album": {

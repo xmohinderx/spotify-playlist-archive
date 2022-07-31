@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 94457,
+  "num_followers": 94535,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMDRkYzliZmZlNzU0NzBjMzU2Mzg1YjZhOTQyMzFiYWNi",
+  "snapshot_id": "MTY1NzgzNjEyMCwwMDAwMDAwMGMwZGYxODI1NWY4Y2E2OTZjNTFhOGUzZDI2OWE5YzE2",
   "tracks": [
     {
       "added_at": "2022-07-14 22:02:00",
@@ -719,38 +719,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Inner City Blues",
-        "url": "https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Don't Forget Me (When I'm Gone)",
         "url": "https://open.spotify.com/album/2cjK6kxgKI8C2cv4zYqezC"
       },
@@ -771,18 +739,34 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+        "name": "Inner City Blues",
+        "url": "https://open.spotify.com/album/0Tpbm8P52M6OLufUXwKZAY"
       },
       "artists": [
         {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
         }
       ],
-      "duration_ms": 240009,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
+      "duration_ms": 293466,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/0eBlhg6ObQW6sAu4UFjN5d"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+      },
+      "artists": [
+        {
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "There is a place",
         "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 247722,
       "name": "There is a place",
       "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -839,6 +855,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "Leave Me Be",
+        "url": "https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0"
+      },
+      "artists": [
+        {
+          "name": "Dearest Sister",
+          "url": "https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY"
+        }
+      ],
+      "duration_ms": 281453,
+      "name": "Leave Me Be",
+      "url": "https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Little Songs",
         "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 91613,
       "name": "Live Without You",
       "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Leave Me Be",
-        "url": "https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE"
-      },
-      "artists": [
-        {
-          "name": "Dearest Sister",
-          "url": "https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY"
-        }
-      ],
-      "duration_ms": 281453,
-      "name": "Leave Me Be",
-      "url": "https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -955,26 +955,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "My Soul Kitchen",
-        "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
+        "name": "I Never Can Say Goodbye",
+        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
       },
       "artists": [
         {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        },
-        {
-          "name": "Stockholm Underground",
-          "url": "https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
         }
       ],
-      "duration_ms": 274091,
-      "name": "I Have Nothing Left for You",
-      "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
+      "duration_ms": 253816,
+      "name": "I Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1015,18 +1007,26 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "I Never Can Say Goodbye",
-        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
+        "name": "My Soul Kitchen",
+        "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
       "artists": [
         {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        },
+        {
+          "name": "Stockholm Underground",
+          "url": "https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 253816,
-      "name": "I Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
+      "duration_ms": 274091,
+      "name": "I Have Nothing Left for You",
+      "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "We Might As Well Dance",
-        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 194309,
-      "name": "We Might As Well Dance",
-      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 249860,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "We Might As Well Dance",
+        "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 194309,
+      "name": "We Might As Well Dance",
+      "url": "https://open.spotify.com/track/0j6HTHh9GKD1t19jHYIvDz"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Time to Love Again",
         "url": "https://open.spotify.com/album/5lFWqbLV5EG4qthImhlwV6"
       },
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
       "artists": [
         {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1595,18 +1611,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
         }
       ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "Kettle",
         "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 264000,
       "name": "Kettle",
       "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "When The Stars Align",
         "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
       },
@@ -1827,6 +1827,22 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Dynamite EP",
+        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
+      },
+      "artists": [
+        {
+          "name": "Equal Echo",
+          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1879,22 +1895,6 @@
       "duration_ms": 138320,
       "name": "Lime",
       "url": "https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Dynamite EP",
-        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
-      },
-      "artists": [
-        {
-          "name": "Equal Echo",
-          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
-        }
-      ],
-      "duration_ms": 210454,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
       "artists": [
         {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
         }
       ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
       },
       "artists": [
         {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
         }
       ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2359,6 +2359,26 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
+        "name": "Collusion",
+        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+      },
+      "artists": [
+        {
+          "name": "Apollinare Rossi",
+          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+        },
+        {
+          "name": "Jules Renauld",
+          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+        }
+      ],
+      "duration_ms": 267302,
+      "name": "Let's Go to Bed",
+      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
         "name": "Softly Loudly",
         "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 235539,
       "name": "Love is Easy",
       "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Same Way Home",
-        "url": "https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL"
-      },
-      "artists": [
-        {
-          "name": "Rotem Sivan",
-          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
-        },
-        {
-          "name": "Mike Goldstein",
-          "url": "https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "Same Way Home",
-      "url": "https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2415,22 +2415,78 @@
     {
       "added_at": "2022-07-14 22:02:00",
       "album": {
-        "name": "Collusion",
-        "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
+        "name": "Same Way Home",
+        "url": "https://open.spotify.com/album/7qNO6QXzhsJarTBHXXlhwL"
       },
       "artists": [
         {
-          "name": "Apollinare Rossi",
-          "url": "https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU"
+          "name": "Rotem Sivan",
+          "url": "https://open.spotify.com/artist/2OfJOtcTmunKs2iIXGC9Ak"
         },
         {
-          "name": "Jules Renauld",
-          "url": "https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM"
+          "name": "Mike Goldstein",
+          "url": "https://open.spotify.com/artist/3RWaekYNAXDp02OgSXeyW7"
         }
       ],
-      "duration_ms": 267302,
-      "name": "Let's Go to Bed",
-      "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+      "duration_ms": 178786,
+      "name": "Same Way Home",
+      "url": "https://open.spotify.com/track/5ja2Rt6qki0on26cKUOrbG"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Fly Again",
+        "url": "https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk"
+      },
+      "artists": [
+        {
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+        }
+      ],
+      "duration_ms": 201101,
+      "name": "Fly Again",
+      "url": "https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+      },
+      "artists": [
+        {
+          "name": "JP Maurice",
+          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
+        },
+        {
+          "name": "Pyper Geddes",
+          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
+    },
+    {
+      "added_at": "2022-07-14 22:02:00",
+      "album": {
+        "name": "A Happy Thought (feat. Stu Mindeman)",
+        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stu Mindeman",
+          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "A Happy Thought (feat. Stu Mindeman)",
+      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
     },
     {
       "added_at": "2022-07-14 22:02:00",
@@ -2467,62 +2523,6 @@
       "duration_ms": 189688,
       "name": "Best Time Of The Year",
       "url": "https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Fly Again",
-        "url": "https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk"
-      },
-      "artists": [
-        {
-          "name": "Tom Petrone",
-          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
-        }
-      ],
-      "duration_ms": 201101,
-      "name": "Fly Again",
-      "url": "https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "A Happy Thought (feat. Stu Mindeman)",
-        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stu Mindeman",
-          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "A Happy Thought (feat. Stu Mindeman)",
-      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
-    },
-    {
-      "added_at": "2022-07-14 22:02:00",
-      "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
-      },
-      "artists": [
-        {
-          "name": "JP Maurice",
-          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
-        },
-        {
-          "name": "Pyper Geddes",
-          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
-        }
-      ],
-      "duration_ms": 188273,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
     },
     {
       "added_at": "2022-07-14 22:02:00",

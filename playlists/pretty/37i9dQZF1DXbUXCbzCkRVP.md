@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,580 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,628 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Albatross \- 2018 Master](https://open.spotify.com/track/3iTkd7x5X2LIVKu7JNwqHR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2KOI69X6VG66offffHQvjg) | 3:11 |
 | 2 | [Scuttle Buttin'](https://open.spotify.com/track/18PhtDBBYxE0vN4YvsZnMy) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 1:51 |
 | 3 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
-| 4 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 |
-| 5 | [Stop](https://open.spotify.com/track/4aWZIBCBMQEgMna9JpgW90) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:18 |
+| 4 | [Stop](https://open.spotify.com/track/4aWZIBCBMQEgMna9JpgW90) | [Mike Bloomfield](https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH), [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Super Session \(with Al Kooper & Stephen Stills\)](https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj) | 4:18 |
+| 5 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 |
 | 6 | [Purple](https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 7:08 |
 | 7 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 |
 | 8 | [Whammer Jammer](https://open.spotify.com/track/6ED55VLiJwnaWEuo45f6MF) | [The J\. Geils Band](https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F) | [The Morning After](https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8) | 2:38 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 38 | [Screamin'](https://open.spotify.com/track/5wQPmEoKg2Z05jV9FI0Z6p) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:36 |
 | 39 | [Overall Junction](https://open.spotify.com/track/1mRpxrgL9La7awQ8LvlHGF) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 8:20 |
 | 40 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 |
-| 41 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
-| 42 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
-| 43 | [Part Time Blues](https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:19 |
+| 41 | [Part Time Blues](https://open.spotify.com/track/5kqntu2ajqzuIMZP0aZFnW) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:19 |
+| 42 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
+| 43 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 |
 | 44 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 |
 | 45 | [The Stumble](https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 3:14 |
 | 46 | [Sweet Ginny](https://open.spotify.com/track/4zV9LoMlAnPeHS1kvKJ2ea) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Screamin' the Blues](https://open.spotify.com/album/6N4DLp1wZDmJyV08vB9vHY) | 3:08 |
 | 47 | [Avalanche](https://open.spotify.com/track/4XtHlG9bac0BxNGSJkuK3J) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 2:39 |
 | 48 | [Night Train](https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Night Train](https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s) | 2:59 |
-| 49 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
-| 50 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 |
+| 49 | [Thank You Mr\. Poobah](https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Paul Butterfield Blues Band](https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG) | 4:05 |
+| 50 | [The Creeper Returns](https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c) | [Little Sonny](https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 4:13 |
 
-Snapshot ID: `MTY1OTEwNTUzMiwwMDAwMDAwMGQ2ZTkxZWQ1ZDAyYzMzNjg3YzVhNTk3OTVkZTU5ODRm`
+Snapshot ID: `MTY1OTEwNTUzMiwwMDAwMDAwMDIwYmE4ZDg4ZDdjZGI2MzQ4ZmFkYzQ4MTgxYWI1ODU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQ+ artists and allies join this fiesta\. <br/>Cover: Nicole Zignago
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,965 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,961 likes - 130 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 71 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
 | 72 | [Mequetrefe](https://open.spotify.com/track/6RJiY28t9jWpdy1JkUhNgK) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:20 |
 | 73 | [Amar Así](https://open.spotify.com/track/4e6eL4Iv54MzHC6Ce9lL5C) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:57 |
-| 74 | [Me, Myself](https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
-| 75 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
-| 76 | [Nieve](https://open.spotify.com/track/0UpRvHU7t1YJgDhUdyyhWG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Nieve](https://open.spotify.com/album/1vS4rhkCD3imZeCXBEvxCl) | 2:49 |
-| 77 | [Tímida](https://open.spotify.com/track/4UMnUuQ9cYTSdv9FNy9uWb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Tímida](https://open.spotify.com/album/4ZOJtA52YPtxDuT0YmyWKl) | 2:37 |
-| 78 | [Veneno \- A COLORS SHOW](https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno \- A COLORS SHOW](https://open.spotify.com/album/1nnRPpAwjfhtXUGYkqsFWZ) | 2:39 |
-| 79 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
+| 74 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
+| 75 | [Me, Myself](https://open.spotify.com/track/3GCPuPA5qv2kjLw0PAVgQH) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
+| 76 | [Tímida](https://open.spotify.com/track/4UMnUuQ9cYTSdv9FNy9uWb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Tímida](https://open.spotify.com/album/4ZOJtA52YPtxDuT0YmyWKl) | 2:37 |
+| 77 | [Nieve](https://open.spotify.com/track/0UpRvHU7t1YJgDhUdyyhWG) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Nieve](https://open.spotify.com/album/1vS4rhkCD3imZeCXBEvxCl) | 2:49 |
+| 78 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
+| 79 | [Veneno \- A COLORS SHOW](https://open.spotify.com/track/3NQNJcX6jLyiZfNWKVcgyH) | [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [Veneno \- A COLORS SHOW](https://open.spotify.com/album/1nnRPpAwjfhtXUGYkqsFWZ) | 2:39 |
 | 80 | [Soy el Hit](https://open.spotify.com/track/5eZcNtcQYhCk1drbSvzkrK) | [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [Vol\. Súbele](https://open.spotify.com/album/0zwzY98dQ3cwJKSvnZ8iX6) | 3:45 |
 | 81 | [Love \(Es Nuestro Idioma\)](https://open.spotify.com/track/5FT2fFKLeY6V7iQCt2eMzY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:47 |
 | 82 | [Man's World \(Empress Of Remix\) \[feat\. Pabllo Vittar\]](https://open.spotify.com/track/6cLfN8cCTh7x4Mu6DpEtfL) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Man's World \(Empress Of Remix\) \[feat\. Pabllo Vittar\]](https://open.spotify.com/album/6XrUdv4rCaHrpvvQmEJaTc) | 3:10 |
@@ -137,6 +137,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 127 | [cambiarte](https://open.spotify.com/track/4WnGtjG4gnE49sXLBJbiHN) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [cambiarte](https://open.spotify.com/album/0PuUNo37BZ2P0M0ajTo0GG) | 2:43 |
 | 128 | [Luces](https://open.spotify.com/track/5ZbZqPiTSQJzKvkMHyZoYi) | [ARIA](https://open.spotify.com/artist/6W4UUzoroQt4P9pjHnauHt), [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j) | [Luces](https://open.spotify.com/album/1fTA11dukn2IrHiFyNb3qD) | 3:26 |
 | 129 | [Cocaino](https://open.spotify.com/track/3IhSU4z3ddjQWqFaTivzbo) | [Nomi Ruiz](https://open.spotify.com/artist/5VNCplADfySxatpXe5jjDM) | [Cocaino](https://open.spotify.com/album/6JBmwp8Kx38Pzj2YgABAoh) | 3:52 |
-| 130 | [Por un Beso](https://open.spotify.com/track/58oFJ52eIebXuzeOVDmU7E) | [Luis Gamarra](https://open.spotify.com/artist/67mrElx1TmrDTest8SRyGr) | [Por un Beso](https://open.spotify.com/album/26N5QgwKVy7uX1ppcdcskX) | 2:59 |
+| 130 | [Nada Es Seguro](https://open.spotify.com/track/2ZP6NbiA4bcMu2n4AuTQmM) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [SAFEPLACE \(Safer Edition\)](https://open.spotify.com/album/4K32T8piHzWlyfdRE4yXPK) | 3:24 |
 
-Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMGNlYzY4NDE3MWM3YjlmOGQyYzVmNWUxNjJlODE3MDJl`
+Snapshot ID: `MTY1NzA0ODgwNCwwMDAwMDAwMDUxZjFjZDdlZjA1YzExZDRkNzU5Nzc0Y2IyNzliODA0`

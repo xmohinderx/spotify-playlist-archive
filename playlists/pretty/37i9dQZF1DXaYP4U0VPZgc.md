@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,385 likes - 67 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,395 likes - 67 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 45 | [heavenly blue](https://open.spotify.com/track/5qpUyii8Sh8DZay1IoVFtj) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:20 |
 | 46 | [edge](https://open.spotify.com/track/7jyqWifqQ5iqhVIR1q2Lqp) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [edge / 黄昏の海](https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6) | 3:28 |
 | 47 | [romanesque](https://open.spotify.com/track/3aO4zQR7NDnJqbJ1WIDr0T) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『エル・カザド』 EDテーマ romanesque](https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva) | 4:23 |
-| 48 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 |
+| 48 | [Emerald Green](https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:27 |
 | 49 | [深海の孤独](https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [深海の孤独](https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv) | 4:00 |
 | 50 | [君の銀の庭](https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [THE BEST “Blue”](https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm) | 5:06 |
 | 51 | [静かな夜に](https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [静かな夜に](https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw) | 4:53 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYP4U0VPZgc.md) - [plain]
 | 55 | [Fields of hope](https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [Fields of hope](https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC) | 5:09 |
 | 56 | [輝く空の静寂には](https://open.spotify.com/track/3n4MLZyy29Cqpa2SNxGSWv) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [After Eden](https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e) | 4:14 |
 | 57 | [open your heart\~reprise](https://open.spotify.com/track/1RZlGWYqsmESn0XmKdMUkW) | [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem) | [.hack//SIGN ORIGINAL SOUND & SONG TRACK2](https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y) | 4:37 |
-| 58 | [君がいた物語](https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:07 |
+| 58 | [君がいた物語](https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [「.hack//Liminality 3」オープニングテーマ 君がいた物語/「.hack//黄昏の腕輪伝説」エンディングテーマ Emerald Green](https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR) | 5:07 |
 | 59 | [blaze](https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Kalafina All Time Best 2008\-2018](https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc) | 4:03 |
 | 60 | [Goodbye, my friend](https://open.spotify.com/track/454C51zL7IiekSmRb1koet) | [Syoko Suzuki](https://open.spotify.com/artist/1dQ7xDSEzOfKvhoc7ehei5) | [RADIO GENIC](https://open.spotify.com/album/1h5kmMoLw8h15IN3nzfSih) | 3:42 |
 | 61 | [storia](https://open.spotify.com/track/57W3wuQ2Igq10ed6ILflyw) | [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy) | [Red Moon](https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF) | 3:38 |

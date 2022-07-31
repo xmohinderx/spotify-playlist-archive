@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. En portada: Los Panchos
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,865 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,076 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 26 | [Noche No Te Vayas](https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0a7XFwltXqVxLHjgYp5rOQ) | 2:58 |
 | 27 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 28 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
-| 29 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
-| 30 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
+| 29 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
+| 30 | [Como un Duende](https://open.spotify.com/track/5rjxLGoHgUg5P1IsvHRYQM) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:58 |
 | 31 | [La Gloria Eres Tú](https://open.spotify.com/track/3cLKEKUpFKhlLXCTwZ9IrM) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:51 |
 | 32 | [Cerezo Rosa](https://open.spotify.com/track/37Z7PlwDB0OUv2VWHO3tPw) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Los Tecolines: Bolero Romantico](https://open.spotify.com/album/2HaemXURrtkV1aOjGgXq2S) | 3:02 |
 | 33 | [Azul](https://open.spotify.com/track/5hhvxPUnjYZzymr58T5E6H) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Homenaje a Agustin Lara \- Toña La Negra](https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L) | 3:17 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 89 | [Adoro](https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Adoro](https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4) | 2:25 |
 | 90 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 |
 | 91 | [Cuando Me Lo Pidas](https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:55 |
-| 92 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
-| 93 | [Guantanamera](https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Vamos a la Cumbancha](https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb) | 3:18 |
-| 94 | [Sabra Dios](https://open.spotify.com/track/7fcXNUtZSgh9VrKW58Bjuz) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 3:06 |
+| 92 | [Sabra Dios](https://open.spotify.com/track/7fcXNUtZSgh9VrKW58Bjuz) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 3:06 |
+| 93 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
+| 94 | [Guantanamera](https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Vamos a la Cumbancha](https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb) | 3:18 |
 | 95 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 |
 | 96 | [Esta Melodia](https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 |
 | 97 | [Cuando Me Vaya](https://open.spotify.com/track/0fTYREc0bWpuqWekaUaLuI) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 99 | [Flor de Azalea](https://open.spotify.com/track/0nOH0n5WdeoCR0mDbyye5x) | [Trio Calaveras](https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs) | [Pedro Infante y Jorge Negrete](https://open.spotify.com/album/3bH1s1EX0DRoKpJBqGI0UX) | 3:25 |
 | 100 | [Luna de octubre](https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Antología..\. Hermanos Michel](https://open.spotify.com/album/23mRY0I2uks3s0xZABmTPL) | 2:43 |
 
-Snapshot ID: `MTY0MDUxODEyOSwwMDAwMDAwMGRhYTE2NzQ2OTY0OGM1N2E1MmJlMGQzMDQ1NzIyYjEx`
+Snapshot ID: `MTY0MDUxODEyOSwwMDAwMDAwMGQyYjEzZDViM2EzMjI2M2JlYWEyYTBhMjNmMzUxNjZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 94,478 likes - 150 songs - 9 hr 40 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 95,739 likes - 144 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,23 +140,17 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 130 | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/track/07twUUK8jWUCVsrSoEgbLW) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Back At It \(feat\. Lil Baby\)](https://open.spotify.com/album/1C9zDYqWpx7Lqcsu81DV6Y) | 2:36 |
 | 131 | [UN DIA \(ONE DAY\)](https://open.spotify.com/track/2WI0AMgzaEdKs2hcoN21vF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Vacation](https://open.spotify.com/album/2sqLIvbunhtQbmK0OyUjx2) | 3:52 |
 | 132 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 |
-| 133 | [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 |
-| 134 | [Space + Space](https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space + Space](https://open.spotify.com/album/6iy2XpKwyal7CXGgtrcidK) | 4:37 |
-| 135 | [u don't know my name](https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil) | 3:28 |
+| 133 | [Space + Space](https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space + Space](https://open.spotify.com/album/6iy2XpKwyal7CXGgtrcidK) | 4:37 |
+| 134 | [u don't know my name](https://open.spotify.com/track/6Q7C4kqq3mHbFPzE8SJqXf) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [u don't know my name](https://open.spotify.com/album/55kBLybdomiHYzO3uRmpil) | 3:28 |
+| 135 | [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 |
 | 136 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
-| 137 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 |
-| 138 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 |
-| 139 | [Day After Day](https://open.spotify.com/track/5TH4YDNqAY5fxQPC1Ff6AE) | [Ann Weberg](https://open.spotify.com/artist/5Juk5AwsPsXNGYYuBEGXWO) | [Day After Day](https://open.spotify.com/album/3oOsVssbG4IgKSEGLx8962) | 4:17 |
-| 140 | [Let Me In](https://open.spotify.com/track/4Yvc45rphVERJgGmUELCD3) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Let Me In](https://open.spotify.com/album/3Jr961DPotjYYddmNMehKN) | 3:06 |
-| 141 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
-| 142 | [Orange](https://open.spotify.com/track/78I7REFKs4WPEd0JuQJgxm) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Orange](https://open.spotify.com/album/4gYV6DMYozgUcTT8gORd0y) | 3:13 |
-| 143 | [Cruel Erosion](https://open.spotify.com/track/4Os9pd2O2BggN62wQn0TQK) | [Only in the Mornings](https://open.spotify.com/artist/5HCwmkzMb29AE70hpCuNQJ) | [Cruel Erosion](https://open.spotify.com/album/2cshHtjdZgz3miuywlk4ao) | 4:04 |
-| 144 | [The Truth](https://open.spotify.com/track/17ybzhdF7J5r7r9VTOCw1r) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk), [Kon Boogie](https://open.spotify.com/artist/6RsnRHy5qbXfKbtr1GjI2c) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:56 |
-| 145 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
-| 146 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
-| 147 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
-| 148 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 |
-| 149 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 |
-| 150 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 |
+| 137 | [Balloon](https://open.spotify.com/track/2nqaiaUUonSNcuNlcpSUsu) | [Hang Ten](https://open.spotify.com/artist/7LxAasrYADIsYsRyyzSN7i) | [Balloon](https://open.spotify.com/album/32zNKWHt0ew1Hw26DfMJVy) | 3:26 |
+| 138 | [NO LIES](https://open.spotify.com/track/4knf2ZPO6w5KlqfXG5Wj4y) | [zions.camp](https://open.spotify.com/artist/0h5D9wagd5zMNuVVBnUtng) | [NO LIES](https://open.spotify.com/album/3waPigay3Up5wvSYI1TGQt) | 3:39 |
+| 139 | [Mood](https://open.spotify.com/track/7JANWjf0KPaNP3v2MI26Fz) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Mood](https://open.spotify.com/album/0L9sIht9F9hUrNSP9LgrdS) | 2:59 |
+| 140 | [The Things I Wish I Said](https://open.spotify.com/track/3YiJTHHwxVxZL1mL2rmOFc) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [The Things I Wish I Said](https://open.spotify.com/album/3bjK2UQH0hiWCiYI9QFog9) | 3:46 |
+| 141 | [See The World](https://open.spotify.com/track/6gnE5AGR8ynn4D58LWFsKJ) | [Garrett Adair](https://open.spotify.com/artist/3h1Yoz6jZ6kWDRQaA7v1t1) | [See The World](https://open.spotify.com/album/6bukwAKaGfaderNGId0b1e) | 3:44 |
+| 142 | [Purple Fog](https://open.spotify.com/track/1875SOvAgcm7XgcJzUcigr) | [Electronic Ghost Machine](https://open.spotify.com/artist/71ziaQGPpNbEeUWkxB621i) | [Purple Fog](https://open.spotify.com/album/3mXFHLoB1DzZJjI2vM94AD) | 3:23 |
+| 143 | [Feel Loved \- Piano Solo](https://open.spotify.com/track/50H3hwlivXkBpMLJhyMakh) | [Jade Ashtangini](https://open.spotify.com/artist/17PiYKoaZCMCi0O1Tfy2UN) | [Feel Loved](https://open.spotify.com/album/3w454UbKUD4u7vxgqw6YJ2) | 4:44 |
+| 144 | [What Comes Around](https://open.spotify.com/track/5hGbinUKGdHreb5qjfCq6V) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [What Comes Around](https://open.spotify.com/album/0sIKhZMW2hv6EXEHejtlKV) | 3:29 |
 
-Snapshot ID: `MzI1NyxiNGZjYTA3YjBkMTYzYWNhZTRiOGQ2N2I0MmFlYTM4MzRlMjExN2Y0`
+Snapshot ID: `MzI2Myw1OGJiZjc5MjVjOWIzODUzZjJjNThmYjE3ZjIyOGUxMjc0YWJlOGY5`

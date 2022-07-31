@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 
 > All eyes on you\. Cover: Bo Burnham
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,136 likes - 95 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,940 likes - 95 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 50 | [Numb Little Bug \- Piano Version](https://open.spotify.com/track/7zQs5RxMWQBVDTW9zl9CHu) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug \(Piano Version\)](https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv) | 2:45 |
 | 51 | [mold](https://open.spotify.com/track/5qH0wXpyaWpXl0bn9gUK81) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [mold](https://open.spotify.com/album/6WwFcQVjSQQE4QUFttiB8P) | 4:03 |
 | 52 | [Black Sheep \- Brie Larson Vocal Version](https://open.spotify.com/track/60TThBDrPpek5k520l0W0L) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Brie Larson](https://open.spotify.com/artist/7g77hiv179GYIwhfCgETGy) | [Black Sheep \(Brie Larson Vocal Version\)](https://open.spotify.com/album/3blvQlrV0IeDBOWqDz2yYd) | 4:54 |
-| 53 | [I Don't Want to Die Tonight](https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/5tJcS8lOJYMD3EOHbQfQyJ) | 3:17 |
+| 53 | [I Don't Want to Die Tonight](https://open.spotify.com/track/55uo07VOaxz3idi6p34Wsa) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/6onHzf3tLLdBEABZF4JxE7) | 3:17 |
 | 54 | [In The Kitchen](https://open.spotify.com/track/0XmN2KXDcNbcpeeUoB1HTV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [In The Kitchen](https://open.spotify.com/album/3AjfnMxAc6JajluGMxja3Q) | 3:47 |
 | 55 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
 | 56 | [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bKKZsnMo7c.md) - [plain]
 | 94 | [Cheater \(Original\)](https://open.spotify.com/track/0dhSUoBbHS34DsO2zexW89) | [Alex Diab](https://open.spotify.com/artist/3RKRICpUG70f1MN4J1hhxX) | [Cheater \(Original\)](https://open.spotify.com/album/4X41xqxzdWmUJqm2ITEAkL) | 2:33 |
 | 95 | [Miss Rhode Island](https://open.spotify.com/track/3TuRAkB0OueGVYfUTbCaVN) | [Elizabeth Gerardi](https://open.spotify.com/artist/01VYmP8UHNPe52WfMgsb4n) | [Miss Rhode Island](https://open.spotify.com/album/5CGv2NNFJPOqrtzT73eRL1) | 2:48 |
 
-Snapshot ID: `MTY1OTAyNjI3OCwwMDAwMDAwMDA1ODhiZDAzNDE0NDdhMTc5YzNjMTEwZDcwNjY1ZTcx`
+Snapshot ID: `MTY1OTAyNjI3OCwwMDAwMDAwMGY2NmE4NDcyMzAyYmU3MmU1OTgzZDJiNjhlYzczODE1`

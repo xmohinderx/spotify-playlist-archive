@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-307 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
+308 songs - 17 hr 40 min - [published](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [As Long as You Love Me](https://open.spotify.com/track/1tlYEixIaixxBrsEYFOEQ4) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [As Long as You Love Me](https://open.spotify.com/album/3jyAmeckEV9bX0N7Nw3iqD) | 3:24 | 2021-12-17 | 2022-04-16 |
 | [As Long as You Love Me](https://open.spotify.com/track/2vLHinYk689HDnLkrsCZGF) | [Erato](https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o), [Charlotte Almgren](https://open.spotify.com/artist/0XlZ7ymNRBhsLCUpX8fBua) | [As Long as You Love Me](https://open.spotify.com/album/04rhSa4vZfd4ySpEFVL0l1) | 2:31 | 2021-12-17 | 2022-05-02 |
 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 | 2021-12-17 |  |
-| [Baby, I Love Your Way](https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Soft Pop Hits](https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX) | 3:02 | 2022-07-08 |  |
+| [Baby, I Love Your Way](https://open.spotify.com/track/3PIr6sxC8KCzy6s7ARbizI) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Lovers on a Trip](https://open.spotify.com/album/3pA1FWte5URT8Vh1eKStV2) | 3:02 | 2022-07-29 |  |
+| [Baby, I Love Your Way](https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Soft Pop Hits](https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX) | 3:02 | 2022-07-08 | 2022-07-31 |
 | [Baby, I Love Your Way](https://open.spotify.com/track/6fipVVf98jGBLhUe779cWR) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Baby, I Love Your Way](https://open.spotify.com/album/61CTRjI6CydoliZXDwCDce) | 3:02 | 2021-12-17 | 2022-07-29 |
 | [Backseat \(Kiss Me\)](https://open.spotify.com/track/7dbnw3cDgeDxOxJJ7QiAiD) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Backseat \(Kiss Me\)](https://open.spotify.com/album/4Ki0gJB5VxRcU6NUziCIfN) | 2:46 | 2021-12-17 | 2022-04-15 |
 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 | 2022-03-25 | 2022-04-16 |

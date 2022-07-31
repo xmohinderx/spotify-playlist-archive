@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Tomorrowland Music takes over the Guest List playlist! On the day of the return of the biggest dance festival, the label behind the iconic dance imprint has curated a great mix of their releases with some big tunes from Lucas & Steve including their brand\-new single “SICK”
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,845 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,099 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

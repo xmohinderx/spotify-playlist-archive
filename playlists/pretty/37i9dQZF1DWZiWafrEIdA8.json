@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 4271,
+  "num_followers": 4273,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjM1NSwwMDAwMDAwMGE0YjkxZDJmOWE1Y2I4NTdhMTc4OGUxNmNhNTY3ZjY1",
+  "snapshot_id": "MTY1ODQ4MjM1NSwwMDAwMDAwMDYyODQ4ODBmNzE5ZDkzNWFjZDI5MmE2YzIzNGZjYjE2",
   "tracks": [
     {
       "added_at": "2022-07-22 09:32:35",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-22 09:32:35",
       "album": {
-        "name": "Never give up, Pt. 6 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
-      },
-      "artists": [
-        {
-          "name": "Jeong Dong Won",
-          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "My dream",
-      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
-    },
-    {
-      "added_at": "2022-07-22 09:32:35",
-      "album": {
         "name": "Dingo X DAMOIM Pt. 2",
         "url": "https://open.spotify.com/album/7u4kbKGYSYvRcdfSlkHPAB"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 345620,
       "name": "\uc544\ub9c8\ub450 (feat. \uc6b0\uc6d0\uc7ac, \uae40\ud6a8\uc740, \ub109\uc0b4 & \ud5c8\ud074\ubca0\ub9ac\ud53c)",
       "url": "https://open.spotify.com/track/7z4TxEA4mXG1ChgxXp7Mj3"
+    },
+    {
+      "added_at": "2022-07-22 09:32:35",
+      "album": {
+        "name": "Never give up, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Un96cPPobRlzsFwLbfdTp"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "My dream",
+      "url": "https://open.spotify.com/track/3QvGWdhF7IesvO9b2MSmzS"
     },
     {
       "added_at": "2022-07-22 09:32:35",

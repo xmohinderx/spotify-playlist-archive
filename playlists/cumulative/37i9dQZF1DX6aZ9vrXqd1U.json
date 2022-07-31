@@ -2430,6 +2430,24 @@
     },
     {
       "album": {
+        "name": "Do You Know ?",
+        "url": "https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0"
+      },
+      "artists": [
+        {
+          "name": "nobodyknows+",
+          "url": "https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb -original version-",
+      "url": "https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU"
+    },
+    {
+      "album": {
         "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb -original version- / Hero's Come Back!! BEST\u30bf\u30c3\u30b0",
         "url": "https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR"
       },
@@ -2441,7 +2459,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 253533,
       "name": "\u30b3\u30b3\u30ed\u30aa\u30c9\u30eb -original version-",
       "url": "https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd"

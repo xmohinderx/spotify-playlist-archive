@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: にしな
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,767 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,788 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,18 +68,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 58 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 |
 | 59 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 |
 | 60 | [U+](https://open.spotify.com/track/0MGLjahQGLLVCNRw7bWPE8) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 2:38 |
-| 61 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
+| 61 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 |
 | 62 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 |
 | 63 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
-| 64 | [Hikare Inochi](https://open.spotify.com/track/0ltIx8PLjtWoS9zn9PqsZW) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/18uE4ky7hhYtS1j9QY7p14) | 5:22 |
-| 65 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 |
-| 66 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
+| 64 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 |
+| 65 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
+| 66 | [Flow](https://open.spotify.com/track/55HzAX2f4rVNpJ0XzyNHkP) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Flow](https://open.spotify.com/album/2gZy7QaMw8yS4JlJn1NuAE) | 3:04 |
 | 67 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
 | 68 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 |
-| 69 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
+| 69 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
 | 70 | [スローモーション](https://open.spotify.com/track/16nRrNuQ2JfiDS92k3ioyw) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:46 |
 | 71 | [17さいのうた。](https://open.spotify.com/track/1Fwv9oA5Jje4sBE0rcXHiP) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [17さいのうた。](https://open.spotify.com/album/4agwJEKwQwlZnWCIbgYggO) | 5:09 |
-| 72 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
+| 72 | [違う曲にしようよ](https://open.spotify.com/track/7abFHUH53rYlZwmsjZCvND) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [伸び仕草懲りて暇乞い](https://open.spotify.com/album/4SnYZt2Wjitj8qgT58e3VJ) | 3:39 |
 | 73 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 |
 | 74 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 |
 | 75 | [ダイナマイト](https://open.spotify.com/track/1fYp7sbbY8iiPVmkQ5R1RP) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [ダイナマイト](https://open.spotify.com/album/6FnpfHUAb6eca7168HPMw6) | 3:13 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 79 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 |
 | 80 | [1999](https://open.spotify.com/track/2pUMDJAZrM2qKx4tCJD1jK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:04 |
 | 81 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
-| 82 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
-| 83 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 |
+| 82 | [大人になって](https://open.spotify.com/track/50QZPjbeLQB9lQgRwJuppl) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [大人になって](https://open.spotify.com/album/7jvVYxNzMnAGGXUBOOojjA) | 4:00 |
+| 83 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
 | 84 | [SEVENTH HEAVEN](https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:57 |
 | 85 | [Voice](https://open.spotify.com/track/3kpvLEb1RrLPRwtuzS15u1) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Voice](https://open.spotify.com/album/4klegJeSCAMEI1FjRvPcLs) | 4:41 |
 | 86 | [Bloom](https://open.spotify.com/track/6pt9fZEfESI6uluywicYnz) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Bloom](https://open.spotify.com/album/5ZkZOSUTwVRWrYh3JArLNv) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [Crazy for you](https://open.spotify.com/track/4PKWGR4LoNll7GXII66Cjn) | [sino R fine](https://open.spotify.com/artist/7sMfrVvoWbVIeLKkn9cxoO) | [Crazy for you](https://open.spotify.com/album/4ZwDbtFEE7G6zcowuWTBzx) | 3:50 |
 | 100 | [ワンルーム](https://open.spotify.com/track/1IZjP9p8OvqJ6Niar0KIEK) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 5:35 |
 
-Snapshot ID: `MTY1OTAyMDQwMCwwMDAwMDAwMDQ4YjFiMmU0ZTExMzAwNjBiNjEwMmI4NjA0NzVjZDlh`
+Snapshot ID: `MTY1OTAyMDQwMCwwMDAwMDAwMGRlM2FhMWJhNGM5Zjg5ZGM2MGEyNDE0M2YxNjkwZWZj`

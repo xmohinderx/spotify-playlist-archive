@@ -1,12 +1,12 @@
 {
   "description": "A trilha sonora do ver\u00e3o.",
-  "num_followers": 76833,
+  "num_followers": 76988,
   "original_name": "Ver\u00e3o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQwOTU1MywwMDAwMDAwMGEyZjAyOTBkMjU2OWI5OWUxNDIzNTcwMWQ5MDVlY2Q1",
+  "snapshot_id": "MTY1ODQwOTU1MywwMDAwMDAwMGQ0YzBlZTJmMWFmYTkwZDc2ZjMxOTkxOGM5NjUxYTc2",
   "tracks": [
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2022-07-21 13:19:13",
       "album": {
+        "name": "Do It Better (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 170045,
+      "name": "Do It Better (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
+    },
+    {
+      "added_at": "2022-07-21 13:19:13",
+      "album": {
         "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
         "url": "https://open.spotify.com/album/4aLn9qslaoycfYA4NzXLp4"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 115846,
       "name": "Desenrola Bate Joga de Ladin (feat. DJ Biel do Furduncinho)",
       "url": "https://open.spotify.com/track/4SIBZgMomGFnrIWjmq7Np8"
-    },
-    {
-      "added_at": "2022-07-21 13:19:13",
-      "album": {
-        "name": "Do It Better (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 170045,
-      "name": "Do It Better (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk"
     },
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-07-21 13:19:13",
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
+    },
+    {
+      "added_at": "2022-07-21 13:19:13",
+      "album": {
         "name": "Senta Danada",
         "url": "https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 172621,
       "name": "Senta Danada",
       "url": "https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL"
-    },
-    {
-      "added_at": "2022-07-21 13:19:13",
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/3S4px9f4lceWdKf0gWciFu"
     },
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1555,30 +1555,22 @@
     {
       "added_at": "2022-07-21 13:19:13",
       "album": {
-        "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
-        "url": "https://open.spotify.com/album/0Om1PwKKwmPRPhlZrUf0KJ"
+        "name": "ME PASE (feat. Farruko)",
+        "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
       },
       "artists": [
         {
-          "name": "DJ Patrick Muniz",
-          "url": "https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         },
         {
-          "name": "Dj Olliver",
-          "url": "https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        },
-        {
-          "name": "Mc Rennan",
-          "url": "https://open.spotify.com/artist/6ZiGAU6TJQEyidFQ22eIOS"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 214270,
-      "name": "Trava na Pose, Chama no Zoom, D\u00e1 um Close (feat. Mc Rennan)",
-      "url": "https://open.spotify.com/track/0DsPj89zlY3Us7xb5cXK5h"
+      "duration_ms": 181573,
+      "name": "ME PASE (feat. Farruko)",
+      "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
     },
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1599,26 +1591,6 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2022-07-21 13:19:13",
-      "album": {
-        "name": "ME PASE (feat. Farruko)",
-        "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "ME PASE (feat. Farruko)",
-      "url": "https://open.spotify.com/track/4JgSGk8yY0hQE9aENUSqVm"
     },
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1807,22 +1779,6 @@
     {
       "added_at": "2022-07-21 13:19:13",
       "album": {
-        "name": "LOKKO",
-        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "LOKKO",
-      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
-    },
-    {
-      "added_at": "2022-07-21 13:19:13",
-      "album": {
         "name": "Cara Que Engana",
         "url": "https://open.spotify.com/album/0xtL6QER4C37WbjNRkhhC5"
       },
@@ -1839,6 +1795,22 @@
       "duration_ms": 179314,
       "name": "Cara Que Engana",
       "url": "https://open.spotify.com/track/1DHSj9pjlwGsVTQ2A2Z8gk"
+    },
+    {
+      "added_at": "2022-07-21 13:19:13",
+      "album": {
+        "name": "LOKKO",
+        "url": "https://open.spotify.com/album/4rnvgJNI65psp1SwM4gzve"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "LOKKO",
+      "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
     },
     {
       "added_at": "2022-07-21 13:19:13",
@@ -1947,6 +1919,22 @@
       "duration_ms": 258223,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"
+    },
+    {
+      "added_at": "2022-07-21 13:19:13",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     }
   ],
   "unique_name": "Ver\u00e3o 2022",

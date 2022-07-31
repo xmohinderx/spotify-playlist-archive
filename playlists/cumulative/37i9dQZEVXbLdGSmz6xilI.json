@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 198600,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi"
@@ -2427,7 +2427,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -3465,7 +3465,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 282628,
       "name": "G\u00e1c L\u1ea1i \u00c2u Lo (feat. Miu L\u00ea)",
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
@@ -5299,6 +5299,28 @@
       "duration_ms": 306306,
       "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6Vx29sLFwzT8yvRhzP2Fge"
+    },
+    {
+      "album": {
+        "name": "H\u01b0\u01a1ng M\u00f9a H\u00e8",
+        "url": "https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV"
+      },
+      "artists": [
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259114,
+      "name": "l\u1eddi t\u1ea1m bi\u1ec7t ch\u01b0a n\u00f3i",
+      "url": "https://open.spotify.com/track/3AejRjgBsFV4HWHjJmmEP7"
     },
     {
       "album": {
@@ -9541,6 +9563,24 @@
       "duration_ms": 202084,
       "name": "\u0110i \u0110\u1ec3 Tr\u1edf V\u1ec1",
       "url": "https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R"
+    },
+    {
+      "album": {
+        "name": "\u0110o\u1ea1n K\u1ebft M\u1edbi",
+        "url": "https://open.spotify.com/album/7w0mZIHzcZYyN60yMdMjYw"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "\u0110o\u1ea1n K\u1ebft M\u1edbi",
+      "url": "https://open.spotify.com/track/7GcnpaGXpoIT3TWYloSsSO"
     },
     {
       "album": {

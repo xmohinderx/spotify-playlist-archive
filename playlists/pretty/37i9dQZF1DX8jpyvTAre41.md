@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: Arkells, Lights
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,268 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,301 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 14 | [Save Yourself](https://open.spotify.com/track/6jZp2rNTYVlKwt20aMIcot) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
 | 15 | [False Dichotomy](https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:39 |
 | 16 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 |
-| 17 | [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 |
+| 17 | [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 |
 | 18 | [Gran Hotel \- Edit](https://open.spotify.com/track/1PSsNgjS3WWRGpk4igwpTU) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Gran Hotel](https://open.spotify.com/album/5PtYVRHFCQw4EfVJ5JFGlJ) | 3:24 |
 | 19 | [my ex](https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Pierre Bouvier](https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ) | [my ex](https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq) | 2:48 |
 | 20 | [Just To See You Smile](https://open.spotify.com/track/31fAlCZ3eVL0981LG2hOVi) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Just To See You Smile](https://open.spotify.com/album/58c9WlRAThSshA0zPJlv1x) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [Cage](https://open.spotify.com/track/0iRtJVpWxeij92O7dEeQJg) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Uncaged](https://open.spotify.com/album/6FIzbi06xxtrTfzjLOdG7p) | 3:03 |
 | 100 | [Pretty Little Broken Thing](https://open.spotify.com/track/0jxLZhSgfMX7zRucYH91lT) | [The Standstills](https://open.spotify.com/artist/2OCAyLpPne0X14kjvE535s) | [Pretty Little Broken Thing](https://open.spotify.com/album/3JNedfD7pj76tYf4Nt8QvG) | 2:36 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDUyNjJkOTllZDE5YmE2ZmNlZDIxZmI2YjczZGFjNzY3`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGZjZWQ3YWU0OWZkMjgyYzlhMDE5MTdjNjk5NmE5NTUx`

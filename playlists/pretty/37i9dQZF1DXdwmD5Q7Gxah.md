@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > maggie :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,747 likes - 98 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,828 likes - 98 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

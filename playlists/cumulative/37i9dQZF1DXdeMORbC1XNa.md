@@ -4,7 +4,7 @@
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: King Promise
 
-283 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
+284 songs - 15 hr 16 min - [published](https://open.spotify.com/playlist/60Bw7Cwgr0oH9rAK1w2wYZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Everything Nice \(feat\. Haile\)](https://open.spotify.com/track/5bM9BQznXZ4zAvrDlaws6m) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [EDNA](https://open.spotify.com/album/066XCkY2VUxaJHf5g3tHJx) | 3:39 | 2021-12-20 | 2022-06-06 |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-07-12 |  |
 | [Fake Fake Fake](https://open.spotify.com/track/73aRCBN6lo8EfkScG4zyzH) | [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Fake Fake Fake](https://open.spotify.com/album/055UQ8MKLNrWYvnqlU6z7X) | 2:57 | 2022-07-12 | 2022-07-18 |
+| [Fantasy](https://open.spotify.com/track/7jqiKvhHkFlNsaDfoAfGmz) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Fantasy](https://open.spotify.com/album/0RxQrRBkuZYmNqJw1nqiyD) | 2:36 | 2022-07-21 |  |
 | [Feelings](https://open.spotify.com/track/2KzIR1FI5GLsF5UK2HF73L) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Feelings](https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r) | 3:22 | 2022-02-11 | 2022-07-28 |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2022-03-09 | 2022-07-29 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-07-21 |  |
@@ -209,7 +210,7 @@
 | [PRESS](https://open.spotify.com/track/4oOHLldeSQn3WVwcyrN4zm) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:43 | 2022-03-14 | 2022-07-28 |
 | [Pressure](https://open.spotify.com/track/2cjn17ZzFbT8IaSY0POZxg) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pressure](https://open.spotify.com/album/4xddNgNiuNaRRSuiHzcuyy) | 3:29 | 2021-12-20 | 2022-06-12 |
 | [PRETTY SUIT](https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6) | [Runkus](https://open.spotify.com/artist/3HtqLmblZBFHozJBuKZTzQ), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [OUT:SIDE](https://open.spotify.com/album/3rPlEhJ2xkEM1zqrYczjzn) | 2:48 | 2022-07-21 |  |
-| [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 | 2021-12-20 |  |
+| [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 | 2021-12-20 | 2022-07-31 |
 | [Problem](https://open.spotify.com/track/3XO6obY9mhE8EklqXFblTA) | [The Compozers](https://open.spotify.com/artist/3JZIYIz1tu8IgQA6Fu4CaM), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Problem](https://open.spotify.com/album/0qYg8VHQqjdyW8aG1zc5fJ) | 3:57 | 2021-12-20 | 2022-06-14 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-05-06 | 2022-07-27 |
 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 | 2021-12-20 | 2022-03-18 |

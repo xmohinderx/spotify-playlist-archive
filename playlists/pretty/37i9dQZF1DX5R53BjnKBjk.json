@@ -1,12 +1,12 @@
 {
   "description": "As novidades dos artistas independentes que voc\u00ea precisa conhecer. Foto: Ceci Reis. Arte: Isu Kim",
-  "num_followers": 11270,
+  "num_followers": 11277,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2MzYwMCwwMDAwMDAwMGJkNzk1ODU3Y2E0N2ZhNmEyMGU4MGUyYjViNDc5MzRh",
+  "snapshot_id": "MTY1OTA2MzYwMCwwMDAwMDAwMDJmMmFjMzllZjZlZjU0NDM3ZTgxNTNhNThlOThmNGFj",
   "tracks": [
     {
       "added_at": "2022-07-29 03:00:00",
@@ -187,6 +187,26 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "Desejos de um Le\u00e3o",
+        "url": "https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2"
+      },
+      "artists": [
+        {
+          "name": "Uiu Lopes",
+          "url": "https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ"
+        },
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Desejos de um Le\u00e3o",
+      "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "Diga-me",
         "url": "https://open.spotify.com/album/6NrL8zeO6CKcwdFnC2ooS0"
       },
@@ -235,42 +255,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Desejos de um Le\u00e3o",
-        "url": "https://open.spotify.com/album/6dV9NQKeqBQbhhx1Z5xRp2"
+        "name": "Da Vida",
+        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
       },
       "artists": [
         {
-          "name": "Uiu Lopes",
-          "url": "https://open.spotify.com/artist/3weJGyLwPPBBvrarb0XjSZ"
+          "name": "M\u00e1rcio Lug\u00f3",
+          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
         },
         {
-          "name": "Walfredo em Busca da Simbiose",
-          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
         }
       ],
-      "duration_ms": 193950,
-      "name": "Desejos de um Le\u00e3o",
-      "url": "https://open.spotify.com/track/2iMyTW8yaGvIEl5ntwv76U"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "Sem Leme",
-        "url": "https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz"
-      },
-      "artists": [
-        {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Akilla",
-          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Sem Leme",
-      "url": "https://open.spotify.com/track/54vPD639848uvG5f8WtQev"
+      "duration_ms": 180680,
+      "name": "Da Vida",
+      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -295,22 +295,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Da Vida",
-        "url": "https://open.spotify.com/album/4ySNj63Ce3q3TFm3B9DwQb"
+        "name": "Sem Leme",
+        "url": "https://open.spotify.com/album/5dY1FS6gwocGRlboNeWRVz"
       },
       "artists": [
         {
-          "name": "M\u00e1rcio Lug\u00f3",
-          "url": "https://open.spotify.com/artist/4dp2Ihu4Jlv9RzcfV5P9JM"
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
         },
         {
-          "name": "Hugo Branquinho",
-          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+          "name": "Akilla",
+          "url": "https://open.spotify.com/artist/4AlpcXJqYvX4ovs4zEb2UB"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Da Vida",
-      "url": "https://open.spotify.com/track/7fgr78dwmw3FpXVtfeWLn6"
+      "duration_ms": 161400,
+      "name": "Sem Leme",
+      "url": "https://open.spotify.com/track/54vPD639848uvG5f8WtQev"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "<del>",
+        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
+      },
+      "artists": [
+        {
+          "name": "DeLuca",
+          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
+        }
+      ],
+      "duration_ms": 114081,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/3F7FW2LB4qer0U8EwrVtVU"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 145297,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/1q4tX8F4m7D0LoaAr4woSv"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "<del>",
-        "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
-      },
-      "artists": [
-        {
-          "name": "DeLuca",
-          "url": "https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG"
-        }
-      ],
-      "duration_ms": 114081,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "DEPRIMIDA",
+        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
+      },
+      "artists": [
+        {
+          "name": "Julia Joia",
+          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "DEPRIMIDA",
+      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "Enchente",
         "url": "https://open.spotify.com/album/5YvudFtZ5FcMEL3hpVCsrY"
       },
@@ -455,6 +471,26 @@
       "duration_ms": 252750,
       "name": "Ver\u00e1",
       "url": "https://open.spotify.com/track/5319dvKuNaay3efQn794i0"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "A ROSA DOS VENTOS",
+        "url": "https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf"
+      },
+      "artists": [
+        {
+          "name": "Osvaldinho",
+          "url": "https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c"
+        },
+        {
+          "name": "Circulad\u00f4 de Ful\u00f4",
+          "url": "https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW"
+        }
+      ],
+      "duration_ms": 181051,
+      "name": "A ROSA DOS VENTOS",
+      "url": "https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -539,26 +575,6 @@
       "duration_ms": 199580,
       "name": "Transtornos",
       "url": "https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "A ROSA DOS VENTOS",
-        "url": "https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf"
-      },
-      "artists": [
-        {
-          "name": "Osvaldinho",
-          "url": "https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c"
-        },
-        {
-          "name": "Circulad\u00f4 de Ful\u00f4",
-          "url": "https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW"
-        }
-      ],
-      "duration_ms": 181051,
-      "name": "A ROSA DOS VENTOS",
-      "url": "https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -655,6 +671,22 @@
       "duration_ms": 146805,
       "name": "Indireta",
       "url": "https://open.spotify.com/track/7Fz357zrN9hTOPIEMPMuLl"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "AUGE",
+        "url": "https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Meu Foco",
+      "url": "https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -759,22 +791,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Espectro do Tempo",
-        "url": "https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S"
-      },
-      "artists": [
-        {
-          "name": "In\u00eas \u00e9 Morta",
-          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
-        }
-      ],
-      "duration_ms": 273239,
-      "name": "Espectro do Tempo",
-      "url": "https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Eu N\u00e3o Aceito",
         "url": "https://open.spotify.com/album/5zebXVQ8TXmCJbD7ntaYcg"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "Espectro do Tempo",
+        "url": "https://open.spotify.com/album/7e2qIwqu2BubJgoskGFQ7S"
+      },
+      "artists": [
+        {
+          "name": "In\u00eas \u00e9 Morta",
+          "url": "https://open.spotify.com/artist/1Rwzjpa4kxQeapTZ8snYdG"
+        }
+      ],
+      "duration_ms": 273239,
+      "name": "Espectro do Tempo",
+      "url": "https://open.spotify.com/track/2ro19IYp4o8PIhNmpZzSxO"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "Sedu\u00e7\u00e3o Vegetal",
         "url": "https://open.spotify.com/album/5FwyfOFjaVL5jrpU5wVyeh"
       },
@@ -823,6 +855,22 @@
       "duration_ms": 335164,
       "name": "Sedu\u00e7\u00e3o Vegetal",
       "url": "https://open.spotify.com/track/31QqEJdMXREfM9LiiiXjzO"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "Desapego",
+        "url": "https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU"
+      },
+      "artists": [
+        {
+          "name": "Sandyal\u00ea",
+          "url": "https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v"
+        }
+      ],
+      "duration_ms": 207844,
+      "name": "Pensando em Mim",
+      "url": "https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -855,22 +903,6 @@
       "duration_ms": 201134,
       "name": "Mulher",
       "url": "https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "Desapego",
-        "url": "https://open.spotify.com/album/1SkhJ5w2ZTxXXC37NIMgJU"
-      },
-      "artists": [
-        {
-          "name": "Sandyal\u00ea",
-          "url": "https://open.spotify.com/artist/0S2198EHOgRJ1k1A8pnp3v"
-        }
-      ],
-      "duration_ms": 207844,
-      "name": "Pensando em Mim",
-      "url": "https://open.spotify.com/track/1uEwqigJMPy6jwdoO9n2Xd"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -991,22 +1023,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "DEPRIMIDA",
-        "url": "https://open.spotify.com/album/2GvTSF9E4v4CWlUY0liQgp"
-      },
-      "artists": [
-        {
-          "name": "Julia Joia",
-          "url": "https://open.spotify.com/artist/1Fyk7p0wTiShyRUg1dVrkQ"
-        }
-      ],
-      "duration_ms": 155733,
-      "name": "DEPRIMIDA",
-      "url": "https://open.spotify.com/track/6zaz7b82CZhMzhAnWG127g"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Capsula do Tempo",
         "url": "https://open.spotify.com/album/5DFSztWFj6wfvm19f2jSSA"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Fuga",
-        "url": "https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1"
-      },
-      "artists": [
-        {
-          "name": "Karla",
-          "url": "https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Mozamba",
         "url": "https://open.spotify.com/album/1Bowmic2a700xN2Np4T3hS"
       },
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Paris, Bahia",
-        "url": "https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn"
+        "name": "Fuga",
+        "url": "https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1"
       },
       "artists": [
         {
-          "name": "CARU",
-          "url": "https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl"
+          "name": "Karla",
+          "url": "https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Nuvem (Ai Claud)",
-      "url": "https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM"
+      "duration_ms": 216000,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1143,34 +1143,18 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "true love suicide",
-        "url": "https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0"
+        "name": "Paris, Bahia",
+        "url": "https://open.spotify.com/album/57RT4ZObq8DrHxvBevuSZn"
       },
       "artists": [
         {
-          "name": "cas\u00fc",
-          "url": "https://open.spotify.com/artist/3E78iP3DznJ3bz2sBZJNuL"
+          "name": "CARU",
+          "url": "https://open.spotify.com/artist/1ydgPMXuGFMb7d6KFcMWVl"
         }
       ],
-      "duration_ms": 256000,
-      "name": "p\u00f3s t\u00e9rmino",
-      "url": "https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
-        "name": "Voc\u00ea Deveria Saber",
-        "url": "https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Arcanjo",
-          "url": "https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS"
-        }
-      ],
-      "duration_ms": 204985,
-      "name": "Voc\u00ea Deveria Saber",
-      "url": "https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe"
+      "duration_ms": 188360,
+      "name": "Nuvem (Ai Claud)",
+      "url": "https://open.spotify.com/track/6KqJZwBKJSeFxQZ8OxZhzM"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
+        "name": "Voc\u00ea Deveria Saber",
+        "url": "https://open.spotify.com/album/41s7qY4qhz77MgprH4wYJ5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arcanjo",
+          "url": "https://open.spotify.com/artist/5pEeF9Rqc5QgLrVYeSR8MS"
+        }
+      ],
+      "duration_ms": 204985,
+      "name": "Voc\u00ea Deveria Saber",
+      "url": "https://open.spotify.com/track/6bt69Qzr4sj6kPNH3oMQFe"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
         "name": "T\u00e3o Perto e T\u00e3o Longe",
         "url": "https://open.spotify.com/album/7ARx511vO11RKrsvwjFA2O"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 168107,
       "name": "T\u00e3o Perto e T\u00e3o Longe",
       "url": "https://open.spotify.com/track/2qIAX1Ww0761lDie4kQe0A"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "true love suicide",
+        "url": "https://open.spotify.com/album/3ztx2AD3oSBOx0FPdkZoi0"
+      },
+      "artists": [
+        {
+          "name": "cas\u00fc",
+          "url": "https://open.spotify.com/artist/3E78iP3DznJ3bz2sBZJNuL"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "p\u00f3s t\u00e9rmino",
+      "url": "https://open.spotify.com/track/0OChPc6tW4MSzhuoLBVnVa"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "tudo bem",
-        "url": "https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER"
-      },
-      "artists": [
-        {
-          "name": "mucci",
-          "url": "https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "tudo bem",
-      "url": "https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "mo\u00e7a, veja bem",
         "url": "https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 278585,
       "name": "mo\u00e7a, veja bem",
       "url": "https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I"
+    },
+    {
+      "added_at": "2022-07-29 03:00:00",
+      "album": {
+        "name": "tudo bem",
+        "url": "https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER"
+      },
+      "artists": [
+        {
+          "name": "mucci",
+          "url": "https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "tudo bem",
+      "url": "https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi"
     },
     {
       "added_at": "2022-07-29 03:00:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Tudo Vai Bem",
-        "url": "https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb"
-      },
-      "artists": [
-        {
-          "name": "Stvz",
-          "url": "https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu"
-        }
-      ],
-      "duration_ms": 214047,
-      "name": "Tudo Vai Bem",
-      "url": "https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd"
-    },
-    {
-      "added_at": "2022-07-29 03:00:00",
-      "album": {
         "name": "Do Jeito Mais Simples",
         "url": "https://open.spotify.com/album/6Ss5f7BqspeOWZAf6cJW12"
       },
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2022-07-29 03:00:00",
       "album": {
-        "name": "Longe Daqui",
-        "url": "https://open.spotify.com/album/4TMd5W0fAfdYAwWB4lEHqi"
+        "name": "Tudo Vai Bem",
+        "url": "https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb"
       },
       "artists": [
         {
-          "name": "Tuany",
-          "url": "https://open.spotify.com/artist/2Duysb9mqQW8ds4D0F6Knb"
+          "name": "Stvz",
+          "url": "https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Florian\u00f3polis",
-      "url": "https://open.spotify.com/track/4cyzdFwju6h0gXmxSDb2gk"
+      "duration_ms": 214047,
+      "name": "Tudo Vai Bem",
+      "url": "https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd"
     },
     {
       "added_at": "2022-07-29 03:00:00",

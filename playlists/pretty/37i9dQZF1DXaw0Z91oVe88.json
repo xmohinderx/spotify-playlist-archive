@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 955,
+  "num_followers": 970,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjgxNiwwMDAwMDAwMDY4MTBmODQxZDdkMGYzMGY0NGYwMTcyYzkzNzJlYzZi",
+  "snapshot_id": "MTY1ODQ4MjgxNiwwMDAwMDAwMDhlZDk0ZTNjZTBjY2IyZWIyMDhlNTE0MmEzODMzZDli",
   "tracks": [
     {
       "added_at": "2022-07-22 09:40:16",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
+      },
+      "artists": [
+        {
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
+        }
+      ],
+      "duration_ms": 218902,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
+    },
+    {
+      "added_at": "2022-07-22 09:40:16",
+      "album": {
         "name": "You Erase Me",
         "url": "https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 282118,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G"
-    },
-    {
-      "added_at": "2022-07-22 09:40:16",
-      "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 218902,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/7hvYi0RTv6dNyVSto45C71"
     },
     {
       "added_at": "2022-07-22 09:40:16",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
+      },
+      "artists": [
+        {
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
+        }
+      ],
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
+    },
+    {
+      "added_at": "2022-07-22 09:40:16",
+      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 116000,
       "name": "Go Your Way",
       "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
-    },
-    {
-      "added_at": "2022-07-22 09:40:16",
-      "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2022-07-22 09:40:16",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-22 09:40:16",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4jcW7dMVX8ESpPQ9U3XvWp"
-    },
-    {
-      "added_at": "2022-07-22 09:40:16",
-      "album": {
         "name": "Let\u2019s Dance For Me",
         "url": "https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes"
       },
@@ -831,6 +815,26 @@
       "duration_ms": 187906,
       "name": "Green War",
       "url": "https://open.spotify.com/track/4fzcXQTr4IAk4VvNoJZfdW"
+    },
+    {
+      "added_at": "2022-07-22 09:40:16",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/12uF0c7dYHt9qpKoQ7GIH9"
+      },
+      "artists": [
+        {
+          "name": "Lean Lean",
+          "url": "https://open.spotify.com/artist/6IprxsitojRXQLHOLyizzb"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 185514,
+      "name": "Blues (feat. CAMO)",
+      "url": "https://open.spotify.com/track/71NOT7CjEYZBg7aZtVhLPp"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

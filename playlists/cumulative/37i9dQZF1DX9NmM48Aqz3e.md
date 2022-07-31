@@ -4,7 +4,7 @@
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-72 songs - 5 hr 7 min - [published](https://open.spotify.com/playlist/6CgEUIUlkREuwgdQRBCDcG)
+73 songs - 5 hr 10 min - [published](https://open.spotify.com/playlist/6CgEUIUlkREuwgdQRBCDcG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,8 +68,9 @@
 | [Summerlong](https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Public](https://open.spotify.com/album/5fkfYGSKTOnx1JN8th9gzj) | 3:53 | 2020-10-29\* |  |
 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 | 2021-09-21 |  |
 | [Superman's Dead](https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M) | 4:15 | 2020-10-29\* | 2022-07-29 |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2021-09-21 |  |
 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 | 2020-10-29\* | 2022-07-29 |
-| [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-09-21 |  |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-09-21 | 2022-07-31 |
 | [That Song](https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:04 | 2020-10-29\* | 2022-07-29 |
 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 | 2021-09-21 |  |
 | [The Future](https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 6:41 | 2021-09-21 |  |

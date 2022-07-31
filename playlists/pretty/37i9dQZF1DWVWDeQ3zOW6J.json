@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 25200,
+  "num_followers": 25219,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGRlYmY5YjMyZjk3ZDRhYzE4ZWFjMTA5NjA3OTU1Mzgz",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDk4YWU4Nzc5NzljZmM3MWQxZTNjZmZhMDEwYjIzNTk1",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Pa' Bravo Yo",
         "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 224826,
       "name": "Pa' Bravo Yo",
       "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+        "name": "Siguen Pa' Lante y Pa' Lante",
+        "url": "https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm"
       },
       "artists": [
         {
-          "name": "Orquesta Arag\u00f3n De Cuba",
-          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
+          "name": "Kako y Totico",
+          "url": "https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w"
         }
       ],
-      "duration_ms": 181506,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
+      "duration_ms": 233506,
+      "name": "\u00bfQu\u00e9 Quiere la Ni\u00f1a?",
+      "url": "https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV"
     }
   ],
   "unique_name": "Cocina con Salsa",

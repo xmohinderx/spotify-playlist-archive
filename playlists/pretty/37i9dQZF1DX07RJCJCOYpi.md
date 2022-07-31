@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The leading wave of Latin Electronic music\. Cover: Samantha Sánchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,740,979 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,740,953 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 16 | [LAS 12](https://open.spotify.com/track/0EpdLuptraYGFZ6J7HNSLc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LAS 12](https://open.spotify.com/album/1hmsYXkobJ54BGe1sBVv5O) | 2:45 |
 | 17 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 |
 | 18 | [Provenza](https://open.spotify.com/track/4cgKV8PTmNHIillgrxI0J8) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Provenza](https://open.spotify.com/album/3KJslj1QLLn1VO6QZPcSie) | 3:52 |
-| 19 | [Stay With Me](https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Stay With Me](https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl) | 3:16 |
+| 19 | [Stay With Me](https://open.spotify.com/track/6Xdpx96oFxS35VeGSbOjxO) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE) | [Stay With Me](https://open.spotify.com/album/5EtTgPcghle0Nna7MKRwBl) | 3:04 |
 | 20 | [La Tarde](https://open.spotify.com/track/0v2uMRnqJRCLGgnboVtq6A) | [Jose De Mara](https://open.spotify.com/artist/7ycNpmCg2CMaCLsOz830lV), [Fissure](https://open.spotify.com/artist/6TfNUv2LVCy7ep22sni9yV) | [La Tarde](https://open.spotify.com/album/2Gtkz11XYN5wtzafQFS8As) | 3:01 |
 | 21 | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/track/32igAB8n9KMEQkz6jEs5yq) | [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Iwaro](https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Campeona \(feat\. Nicky Jam\)](https://open.spotify.com/album/0Somt7nMoN8nsNXz0i3Xts) | 3:37 |
 | 22 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 |

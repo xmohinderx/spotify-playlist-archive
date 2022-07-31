@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,383 likes - 50 songs - 2 hr 47 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 31,392 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 25 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 |
 | 26 | [Old Dogs Groove](https://open.spotify.com/track/2DFDqK6DZgboonzKhGjhdr) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Old Dogs Groove / Pure NRG](https://open.spotify.com/album/2UphPjQMbhOQ4QaLSTdb5s) | 5:06 |
 | 27 | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/track/1zCJFNkdm3AzIK1Cxp0rQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Birds \(feat\. Emmanuel Jal\)](https://open.spotify.com/album/6yYFiDyjQeQbAf52eArJh8) | 4:02 |
-| 28 | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
+| 28 | [Jiggle Jiggle \(Jason Derulo x Duke & Jones x Louis Theroux x Amelia Dimz\)](https://open.spotify.com/track/332xSCN5xTnJYnuyobZmy7) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv), [Amelia Dimz](https://open.spotify.com/artist/5fu8luyyPmbJ5VAqKMaOSu) | [Jiggle Jiggle \(Jason Derulo x Duke & Jones x Louis Theroux x Amelia Dimz\)](https://open.spotify.com/album/3MtKD6F45VZMHmeAdVLqgB) | 2:07 |
 | 29 | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/track/0Y067MfwJgUQEGXs289QUs) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Loud Tiger](https://open.spotify.com/artist/2J74jx8m4zVdsMYXdrwV7Y) | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/album/7Cy8eXNq5ZEU74KYZttmTD) | 2:31 |
 | 30 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 | 31 | [The Preacher \- Sammy Porter Remix](https://open.spotify.com/track/44S2otXl8vsclQk3CCQVPQ) | [Wongo](https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [The Preacher \(Sammy Porter Remix\)](https://open.spotify.com/album/63eNLxpgrHM0bxfAvHm08R) | 4:00 |

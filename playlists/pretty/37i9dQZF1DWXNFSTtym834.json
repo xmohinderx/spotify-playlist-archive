@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 743138,
+  "num_followers": 743859,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyODg5MCwwMDAwMDAwMDBhOWY1OTcxNjg3YWRiZGM4ODRlYjBmZTlkN2RjNTE3",
+  "snapshot_id": "MTY1NzgyODg5MCwwMDAwMDAwMGFmMGI3MzEwMDM5OThiMDZkMzg2MjI5ODRjNDgxZTU0",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Die MF Die",
-      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 244773,
       "name": "My Curse",
       "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Die MF Die",
+      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Worlds Collide",
-        "url": "https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF"
+        "name": "Ashes of the Wake (15th Anniversary)",
+        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 237346,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk"
+      "duration_ms": 230127,
+      "name": "Laid to Rest",
+      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -479,34 +475,22 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Ashes of the Wake (15th Anniversary)",
-        "url": "https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m"
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/1rcVwAd9FXK9ONouJVeRSF"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 230127,
-      "name": "Laid to Rest",
-      "url": "https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Black Rain (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
-      },
-      "artists": [
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 239826,
-      "name": "I Don't Wanna Stop",
-      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
+      "duration_ms": 237346,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/4eD48Ur3heQtP8ZGzl7buk"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -523,6 +507,22 @@
       "duration_ms": 226706,
       "name": "Too Much, Too Young, Too Fast",
       "url": "https://open.spotify.com/track/2LQbBzrXkgQHnCDUmHjReH"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Black Rain (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "I Don't Wanna Stop",
+      "url": "https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 426680,
-      "name": "Vicarious",
-      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "As Daylight Dies (Special Edition)",
@@ -603,6 +587,22 @@
       "duration_ms": 250253,
       "name": "Holy Diver",
       "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "The Poison",
-        "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
-      },
-      "artists": [
-        {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
-        }
-      ],
-      "duration_ms": 348386,
-      "name": "Tears Don't Fall",
-      "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Lateralus",
         "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 562706,
       "name": "Lateralus",
       "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "The Poison",
+        "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 348386,
+      "name": "Tears Don't Fall",
+      "url": "https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Sacrament",
         "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220880,
       "name": "Redneck",
       "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Octavarium",
-        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 493026,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Reinventing the Steel",
         "url": "https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 316493,
       "name": "Revolution Is My Name",
       "url": "https://open.spotify.com/track/6LhUsJiXAuxoalUz01evh0"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Octavarium",
+        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 493026,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
     },
     {
       "added_at": "2022-07-13 14:03:23",

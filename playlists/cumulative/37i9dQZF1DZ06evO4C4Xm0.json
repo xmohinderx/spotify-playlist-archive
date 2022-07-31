@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 244181,
       "name": "Always Returning - Remastered 2005",
       "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 204680,
       "name": "Among Fields Of Crystal - Remastered 2004",
       "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-10",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Delta Rain Dream",
       "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Drift - Remastered 2005",
       "url": "https://open.spotify.com/track/4WLDFjesbUHfZpf2xvnQyK"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 232440,
       "name": "Foreshadowed - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 274306,
       "name": "Lizard Point - Remastered 2004",
       "url": "https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 261560,
       "name": "Lost In The Humming Air - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/0Xf8nLzbt3TXW0DejZhHTy"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 89813,
       "name": "Steal Away - Remastered 2004",
       "url": "https://open.spotify.com/track/5tAb6fBqO5zgUKlhqMyxfr"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 252346,
       "name": "Still Return - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/28KcS7Otucbm1uRQs8k21t"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 379066,
       "name": "The Belldog",
       "url": "https://open.spotify.com/track/0d2HX14emol25j4C8yL7SP"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 194453,
       "name": "The Pearl - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/4dUIwKF5cQ4efJELwG8cpm"
@@ -1373,7 +1373,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 211253,
       "name": "The Silver Ball - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/2FA6ZLzJ2f5ZhX1qzoGfWA"
@@ -1395,10 +1395,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Their Memories - 2005 Digital Remaster",
       "url": "https://open.spotify.com/track/3FoozOVAViraoaiCQpjE2U"
+    },
+    {
+      "album": {
+        "name": "There Were Bells",
+        "url": "https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "There Were Bells",
+      "url": "https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l"
     },
     {
       "album": {
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 243306,
       "name": "Verdigris",
       "url": "https://open.spotify.com/track/6VSIleZcNhbmW03rAheUWp"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 193280,
       "name": "Wind On Wind",
       "url": "https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl"

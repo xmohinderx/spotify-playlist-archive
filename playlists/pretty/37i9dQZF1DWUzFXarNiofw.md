@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,776 likes - 61 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,070 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

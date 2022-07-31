@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-415 songs - 1 day 0 hr 20 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+416 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [จากนี้ \- BFF](https://open.spotify.com/track/0WP8Hwr2s3Fhwu14ehgUUT) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [จากนี้ \(BFF\)](https://open.spotify.com/album/1xoOdcpmOYbkLxHLvvt4Uk) | 4:21 | 2022-02-15 | 2022-03-17 |
 | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/track/1iK2nyld8wTLJv2dRIowSY) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/album/2BKeUulZXv8hntkksz0V0w) | 3:40 | 2021-03-27\* | 2021-05-03 |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2021-03-27\* | 2022-02-05 |
+| [จินตนาการ](https://open.spotify.com/track/5dJ0BoobBBkSIDm7yeXZZ1) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [จินตนาการ](https://open.spotify.com/album/5FX1VjfySHopZxJt4icIPu) | 3:25 | 2022-07-30 |  |
 | [จีบ](https://open.spotify.com/track/5bvgLLWn7IFu6mOa46XaoV) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [จีบ](https://open.spotify.com/album/5eN8G60BJAtnKXZO9asSRI) | 3:44 | 2021-03-27\* | 2021-08-18 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-01-15 |  |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-29 |  |
@@ -406,7 +407,7 @@
 | [แปลไม่ออก \- Ost\. แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/3ADD6eZhJPHrRKAQ2MWBD5) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลไม่ออก \(Ost\. แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6MYoCHe5eeOEJKuJIzQbDv) | 4:18 | 2021-03-27\* | 2021-06-27 |
 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/3n2uyCMmpnZ1jGwc3yUh1T) | 4:21 | 2022-01-27 | 2022-02-23 |
 | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/track/6GDI4Y8fOsptYwSW2iIUbe) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo), [Juné](https://open.spotify.com/artist/648qaETeMdDvSgFZjfjS5x) | [แปะหัวใจ \(14th Feb\)](https://open.spotify.com/album/6Vhm8CSoT99fiJSbhLSwEj) | 4:21 | 2021-03-27\* | 2022-01-28 |
-| [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2021-08-11 |  |
+| [แฟนเก่าคนโปรด](https://open.spotify.com/track/0AQkjLgo2ATGnv8EO2xKyJ) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [แฟนเก่าคนโปรด](https://open.spotify.com/album/1DNoigGZ9lI8p4lbjGd86P) | 3:36 | 2021-08-11 | 2022-07-31 |
 | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD) | 2:53 | 2021-03-27\* | 2021-09-12 |
 | [โคตรพิเศษ \- \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From “แปลรักฉันด้วยใจเธอ”\)](https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p) | 3:58 | 2021-03-27\* | 2021-08-03 |
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/7vnw2nU0xpc9RABEgc3pxQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [โคตรพิเศษ \(From แปลรักฉันด้วยใจเธอ\)](https://open.spotify.com/album/6RRpP4CaftCir8eUBwG5mh) | 3:57 | 2021-08-03 | 2021-11-17 |

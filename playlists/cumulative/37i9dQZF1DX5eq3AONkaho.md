@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-798 songs - 1 day 21 hr 24 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
+799 songs - 1 day 21 hr 28 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-11-17 |  |
 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 | 2021-11-17 | 2022-07-08 |
 | [Lion Heart](https://open.spotify.com/track/17gohmCYDlZSYxp41xqVQ8) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/5NlwMhwLycO4kyzphjhM3e) | 3:44 | 2021-11-17 | 2022-07-27 |
+| [Lion Heart](https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Lion Heart \- The 5th Album](https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB) | 3:44 | 2022-07-08 |  |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-11-17 |  |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-08 |  |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-11-17 | 2022-07-29 |
@@ -687,7 +688,7 @@
 | [The Real \- Heung Version](https://open.spotify.com/track/36pZ33EaTBFSl4n0asZYNU) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER EPILOGUE](https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v) | 3:30 | 2022-02-03 |  |
 | [Think About Me](https://open.spotify.com/track/32Le9Id5nHZRYBoOADDbVu) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Think About Me \- SM STATION](https://open.spotify.com/album/6QtFTapfqH40al5lsCJzMr) | 2:50 | 2021-11-17 | 2022-07-26 |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2022-07-08 |  |
-| [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2021-11-17 |  |
+| [THRILL RIDE](https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 6TH MINI ALBUM \[THRILL\-ING\]](https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E) | 3:16 | 2021-11-17 | 2022-07-31 |
 | [Thunderous](https://open.spotify.com/track/0nwTMzpatarzvLvtwwzdCt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj) | 3:03 | 2022-07-08 |  |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-11-17 | 2022-07-24 |
 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 | 2022-02-03 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 10178,
+  "num_followers": 10198,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDExYWI0NWI1NTg1NDkxNmVmZGJhMDM5YmYzNjQyOTEz",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDk4NzE0ODM2N2U1YTljOWU1ZDg3OTVhMTE1OTIxNjEx",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Lo Mejor De To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 272653,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Los A\u00f1os Dorados de Sergio Vargas",
         "url": "https://open.spotify.com/album/3UseWPr14T9M4Vizzd70b7"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 284866,
       "name": "Si Alg\u00fan D\u00eda la Ves",
       "url": "https://open.spotify.com/track/3E7KCWu2HzLeI4J32B00DR"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Lo Mejor De To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 272653,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -495,18 +495,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Otro Dia Mas Sin Verte",
-        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
+        "name": "Acusame",
+        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
       },
       "artists": [
         {
-          "name": "Sandy Reyes",
-          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+          "name": "Raffy Matias",
+          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
         }
       ],
-      "duration_ms": 287623,
-      "name": "Mi Novia, Mi Amante y Mujer",
-      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
+      "duration_ms": 281400,
+      "name": "Quiero Saber de T\u00ed",
+      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Acusame",
-        "url": "https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI"
+        "name": "Otro Dia Mas Sin Verte",
+        "url": "https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP"
       },
       "artists": [
         {
-          "name": "Raffy Matias",
-          "url": "https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l"
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
         }
       ],
-      "duration_ms": 281400,
-      "name": "Quiero Saber de T\u00ed",
-      "url": "https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw"
+      "duration_ms": 287623,
+      "name": "Mi Novia, Mi Amante y Mujer",
+      "url": "https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "Coraz\u00f3n De Nadie",
-      "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224634,
       "name": "Palabritas",
       "url": "https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "Coraz\u00f3n De Nadie",
+      "url": "https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn"
     },
     {
       "added_at": "2021-10-19 17:28:22",

@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-242 songs - 17 hr 39 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
+243 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/7Ikp1eJdB44De7llN3Rd4M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Baby Sweet Berry Love](https://open.spotify.com/track/4kloLdsaoe8UQHf5n4Ex7F) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5WSYF1uz2bWL9XO7sKoCG2) | 4:04 | 2022-05-17 | 2022-07-29 |
 | [Beautiful Birthday](https://open.spotify.com/track/0CqlIR5fcvENyg0jyPmUdS) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 4:16 | 2022-05-17 | 2022-07-29 |
 | [BLACK SHOUT](https://open.spotify.com/track/2DTM7VgdT2WrMxdbJDL0pK) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 4:06 | 2022-06-23 | 2022-07-18 |
-| [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 | 2022-06-23 |  |
+| [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 | 2022-06-23 | 2022-07-31 |
 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 | 2022-06-23 |  |
 | [Blessing Chord](https://open.spotify.com/track/7nMYeKL40J7wNBxm0i5ruo) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/2arFvScgLYEZL9jlYa0u3m) | 4:37 | 2022-05-17 | 2022-07-24 |
 | [Bloom Bloom](https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:36 | 2022-06-23 |  |
@@ -112,6 +112,7 @@
 | [R·I·O·T](https://open.spotify.com/track/6qtsdJ8eSKi68ieKo43mOg) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [R·I·O·T](https://open.spotify.com/album/7971vL4vk2LncWMC0bioe3) | 5:01 | 2022-06-23 | 2022-07-24 |
 | [R・I・O・T](https://open.spotify.com/track/1WcM5RgshQS5bZQEOMOHE8) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:04 | 2022-06-23 |  |
 | [R・I・O・T](https://open.spotify.com/track/33YWfM5NU39MoVXyhbTEVp) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/28b3WsvQkZZvOZYN95BdSi) | 5:04 | 2022-06-23 | 2022-06-29 |
+| [Sacred world](https://open.spotify.com/track/0V3WhvVVbRFEtzSDSv2ePr) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred world](https://open.spotify.com/album/0cfxwaRmmOsIxnXvFGiwan) | 5:00 | 2022-06-23 |  |
 | [Sacred world](https://open.spotify.com/track/0j0UzZIX3D5NjvALPdG6Te) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred world](https://open.spotify.com/album/6tetrII2FIwPTRew3ogFEw) | 5:00 | 2022-05-17 | 2022-07-29 |
 | [Safe and Sound](https://open.spotify.com/track/1c9nUsUbEMT9xyh8Hl5Gmk) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Safe and Sound](https://open.spotify.com/album/36ShywSeUlxbIckvlvdTmt) | 4:18 | 2022-05-17 | 2022-06-19 |
 | [SAKURA MEMORIES](https://open.spotify.com/track/1sl3YDl4iWhkVBXEksXjcz) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [イニシャル/夢を撃ち抜く瞬間に! \(Special Edition\)](https://open.spotify.com/album/5Ou7gzfqsGIwhii2xYHYS3) | 4:13 | 2022-05-17 | 2022-07-23 |

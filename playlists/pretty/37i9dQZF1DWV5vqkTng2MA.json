@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
-  "num_followers": 327145,
+  "num_followers": 327231,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1MDA2MiwwMDAwMDAwMGUwOTdiYzQ4ZGUxZDI2ZTA1MDFmNDJkZTA4N2NjNmNm",
+  "snapshot_id": "MTY1NTc1MDA2MiwwMDAwMDAwMDYzYjc5ZmViMWE1ZDYyZWY1Mzc0Y2Q0NTRjNmQ0MjUw",
   "tracks": [
     {
       "added_at": "2022-06-01 21:56:36",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/3LcrBMmEejUO09Lrmyixzb"
     },
     {
-      "added_at": "2022-06-01 21:56:36",
-      "album": {
-        "name": "A Light That Never Dies",
-        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
-      },
-      "artists": [
-        {
-          "name": "KaiL Baxley",
-          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
-        }
-      ],
-      "duration_ms": 173366,
-      "name": "The Ballad of Johnny",
-      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
-    },
-    {
       "added_at": "2022-06-20 18:34:22",
       "album": {
         "name": "Life and Life Only",
@@ -795,6 +779,22 @@
       "duration_ms": 266106,
       "name": "Go Down River",
       "url": "https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC"
+    },
+    {
+      "added_at": "2022-06-01 21:56:36",
+      "album": {
+        "name": "A Light That Never Dies",
+        "url": "https://open.spotify.com/album/7LH0Sg7HCq6DRKwjloezQ1"
+      },
+      "artists": [
+        {
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
+        }
+      ],
+      "duration_ms": 173366,
+      "name": "The Ballad of Johnny",
+      "url": "https://open.spotify.com/track/2A32JdgX32o5yUloJMq4Q3"
     },
     {
       "added_at": "2022-06-01 21:56:36",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-06-01 21:56:36",
       "album": {
-        "name": "First Flower",
-        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 227092,
-      "name": "To the Boys",
-      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
-    },
-    {
-      "added_at": "2022-06-01 21:56:36",
-      "album": {
         "name": "Alta Falls",
         "url": "https://open.spotify.com/album/1cVZMnYMB105JUmmCJPL7X"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 281893,
       "name": "Never Been a Captain",
       "url": "https://open.spotify.com/track/3XagkwVGPBOrbmvEd6aNf3"
+    },
+    {
+      "added_at": "2022-06-01 21:56:36",
+      "album": {
+        "name": "First Flower",
+        "url": "https://open.spotify.com/album/47MqY7dbFvsNZZKHj7BRup"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "To the Boys",
+      "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
     },
     {
       "added_at": "2022-06-01 21:56:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-06-01 21:56:36",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Irene",
-      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
-    },
-    {
-      "added_at": "2022-06-01 21:56:36",
-      "album": {
         "name": "Max Jury",
         "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 250414,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
+    },
+    {
+      "added_at": "2022-06-01 21:56:36",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Irene",
+      "url": "https://open.spotify.com/track/1wEn59siJY4vNOYJUwHqL3"
     },
     {
       "added_at": "2022-06-01 21:56:36",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-01 21:56:36",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2022-06-01 21:56:36",
-      "album": {
         "name": "The Muse",
         "url": "https://open.spotify.com/album/2xkAdEXW7nGQAJMptaOk2d"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 179253,
       "name": "Wastin' My Mind",
       "url": "https://open.spotify.com/track/3VqCUJv72SIoDMd6ZT29fS"
+    },
+    {
+      "added_at": "2022-06-01 21:56:36",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2022-06-01 21:56:36",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-01 21:56:36",
       "album": {
-        "name": "Gold Shadow",
-        "url": "https://open.spotify.com/album/5SnyFVHXPnQLzqys1O0kWe"
-      },
-      "artists": [
-        {
-          "name": "Asaf Avidan",
-          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
-        }
-      ],
-      "duration_ms": 156993,
-      "name": "Over My Head",
-      "url": "https://open.spotify.com/track/1EyXf42GbGpw2BlW9oWUXV"
-    },
-    {
-      "added_at": "2022-06-01 21:56:36",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 146493,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
+    },
+    {
+      "added_at": "2022-06-01 21:56:36",
+      "album": {
+        "name": "Gold Shadow",
+        "url": "https://open.spotify.com/album/5SnyFVHXPnQLzqys1O0kWe"
+      },
+      "artists": [
+        {
+          "name": "Asaf Avidan",
+          "url": "https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME"
+        }
+      ],
+      "duration_ms": 156993,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/1EyXf42GbGpw2BlW9oWUXV"
     },
     {
       "added_at": "2022-06-01 21:56:36",

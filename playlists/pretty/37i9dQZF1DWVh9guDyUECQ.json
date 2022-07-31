@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Jaydan",
-  "num_followers": 145379,
+  "num_followers": 145443,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTIyMjA5NiwwMDAwMDAwMGYyNzVjYmUzZmNmMjlmZjE5Y2M1YzNiZmNkMzY5ZWU4",
+  "snapshot_id": "MTY1MTIyMjA5NiwwMDAwMDAwMDI1OGYxNTQ2YWMyNzZlZjgxYTM5MTJjYTZiMDJkYTM4",
   "tracks": [
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
+        "name": "El Babii",
+        "url": "https://open.spotify.com/album/79oL8wQzMJfmaymXyG9InS"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 136071,
+      "name": "Kingdom Babii",
+      "url": "https://open.spotify.com/track/7E9BKOc3DPivAlUwBriAXA"
+    },
+    {
+      "added_at": "2022-04-29 08:48:16",
+      "album": {
         "name": "La Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/22jwCbokKmKS8nJWJU2Cyv"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 207333,
       "name": "La Cumbia del Pueblo",
       "url": "https://open.spotify.com/track/47DqucSNOYX7TCehMcsuhj"
-    },
-    {
-      "added_at": "2022-04-29 08:48:16",
-      "album": {
-        "name": "El Babii",
-        "url": "https://open.spotify.com/album/79oL8wQzMJfmaymXyG9InS"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 136071,
-      "name": "Kingdom Babii",
-      "url": "https://open.spotify.com/track/7E9BKOc3DPivAlUwBriAXA"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1383,26 +1383,18 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
-        "name": "Latidos",
-        "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
+        "name": "Rap Alto Calibre",
+        "url": "https://open.spotify.com/album/5UkxRZH6F8tcLtBtXOgjNh"
       },
       "artists": [
         {
-          "name": "Fer Ariza",
-          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
-        },
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         }
       ],
-      "duration_ms": 184138,
-      "name": "Latidos",
-      "url": "https://open.spotify.com/track/6okYVMIELsaHstd49DaQME"
+      "duration_ms": 229565,
+      "name": "Rap Alto Calibre",
+      "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1427,18 +1419,26 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
-        "name": "Rap Alto Calibre",
-        "url": "https://open.spotify.com/album/5UkxRZH6F8tcLtBtXOgjNh"
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
       "artists": [
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+          "name": "Fer Ariza",
+          "url": "https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j"
+        },
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Rap Alto Calibre",
-      "url": "https://open.spotify.com/track/1CYnbb0bssIW40gu5kWgBI"
+      "duration_ms": 184138,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/6okYVMIELsaHstd49DaQME"
     },
     {
       "added_at": "2022-04-29 08:48:16",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2022-04-29 08:48:16",
       "album": {
-        "name": "Radiograf\u00eda",
-        "url": "https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2"
-      },
-      "artists": [
-        {
-          "name": "Romy Ram",
-          "url": "https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs"
-        },
-        {
-          "name": "Julio Sarante",
-          "url": "https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73"
-    },
-    {
-      "added_at": "2022-04-29 08:48:16",
-      "album": {
         "name": "Sin Exigir",
         "url": "https://open.spotify.com/album/6wWz7xuIroiNesMDa22SBd"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 213798,
       "name": "Sin Exigir",
       "url": "https://open.spotify.com/track/2ryqtwvpQWCsys0DAXl1In"
+    },
+    {
+      "added_at": "2022-04-29 08:48:16",
+      "album": {
+        "name": "Radiograf\u00eda",
+        "url": "https://open.spotify.com/album/2MpaU3M0t3LadwkqkR2tr2"
+      },
+      "artists": [
+        {
+          "name": "Romy Ram",
+          "url": "https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs"
+        },
+        {
+          "name": "Julio Sarante",
+          "url": "https://open.spotify.com/artist/4vB7YsbaJTHnbIaWAR34Zg"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/1LJ6pG7p0SMWBQ0oo4Jb73"
     },
     {
       "added_at": "2022-04-29 08:48:16",

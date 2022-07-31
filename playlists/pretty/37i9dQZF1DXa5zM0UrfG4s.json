@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 86273,
+  "num_followers": 86321,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDUxOWI3MzM3N2M5NzA1ZmIxNGJjYzcwZDNiNWMwMzY0",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMDZjNWU5ZGQ3NjY3ZWM0NjJjMTlmOGIyMGIwOTMyNGU0",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
-        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
-      },
-      "artists": [
-        {
-          "name": "Mr Melk",
-          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
-        }
-      ],
-      "duration_ms": 133457,
-      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
-      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Den fineste Tesla\u00b4n",
         "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 184377,
       "name": "Den fineste Tesla\u00b4n",
       "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Fredag (Digg \u00e5 v\u00e6re norsk)",
+        "url": "https://open.spotify.com/album/57GAgDviI8h3PrV5QCHqFy"
+      },
+      "artists": [
+        {
+          "name": "Mr Melk",
+          "url": "https://open.spotify.com/artist/2sfYCaSe6ZMDYZxmhA0ujD"
+        }
+      ],
+      "duration_ms": 133457,
+      "name": "Fredag - Digg \u00e5 v\u00e6re norsk",
+      "url": "https://open.spotify.com/track/3EzeIilO4QWtrGRqG9TVqB"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -731,30 +731,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "FREDAG",
-        "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
-      },
-      "artists": [
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "FREDAG",
-      "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "FREDAG",
+        "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 168398,
+      "name": "FREDAG",
+      "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/0sCju8X4V2Ys9cRT2fuKY9"
+      },
+      "artists": [
+        {
+          "name": "KL\u00d8BB x FEED",
+          "url": "https://open.spotify.com/artist/2MnF2E84PKJiRM88LfP1Gu"
+        },
+        {
+          "name": "Mr. Millionish",
+          "url": "https://open.spotify.com/artist/1HhLrlaAvKHqM1e6Lew5Ii"
+        }
+      ],
+      "duration_ms": 120812,
+      "name": "MILLION",
+      "url": "https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Levva Livet!",
         "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
@@ -1047,30 +1067,6 @@
       "duration_ms": 274053,
       "name": "Levva Livet",
       "url": "https://open.spotify.com/track/56C8jz11WNH1PM677aq6ez"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Helt Sykt VOL2",
-        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
-      },
-      "artists": [
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 185884,
-      "name": "En Siste Gang",
-      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1107,22 +1103,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Evig vandring",
-        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
       },
       "artists": [
         {
-          "name": "Kjetil Nordfjeld",
-          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
         },
         {
-          "name": "Christiania",
-          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 170135,
-      "name": "Evig vandring",
-      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1143,22 +1143,38 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/0sCju8X4V2Ys9cRT2fuKY9"
+        "name": "S\u00e5nn So Det Va F\u00f8r",
+        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
       },
       "artists": [
         {
-          "name": "KL\u00d8BB x FEED",
-          "url": "https://open.spotify.com/artist/2MnF2E84PKJiRM88LfP1Gu"
-        },
-        {
-          "name": "Mr. Millionish",
-          "url": "https://open.spotify.com/artist/1HhLrlaAvKHqM1e6Lew5Ii"
+          "name": "Vassendgutane",
+          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
         }
       ],
-      "duration_ms": 120812,
-      "name": "MILLION",
-      "url": "https://open.spotify.com/track/1BN63Kxnw30peKSp5xLVNl"
+      "duration_ms": 278457,
+      "name": "S\u00e5nn So Det Va F\u00f8r",
+      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Evig vandring",
+        "url": "https://open.spotify.com/album/6AY7A80QxX3IXnsd3DmeXE"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Nordfjeld",
+          "url": "https://open.spotify.com/artist/2eoGNggcBAhOgj4yoEgFBO"
+        },
+        {
+          "name": "Christiania",
+          "url": "https://open.spotify.com/artist/4qVDyvfYIuFduBWEAvuEhu"
+        }
+      ],
+      "duration_ms": 170135,
+      "name": "Evig vandring",
+      "url": "https://open.spotify.com/track/7Hk8n5KY7Npva23Nk03bOr"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1175,22 +1191,6 @@
       "duration_ms": 167991,
       "name": "Du f\u00e5r aldri se meg naken igjen",
       "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "S\u00e5nn So Det Va F\u00f8r",
-        "url": "https://open.spotify.com/album/2rFaiP1auuPxt7AdDRwnDm"
-      },
-      "artists": [
-        {
-          "name": "Vassendgutane",
-          "url": "https://open.spotify.com/artist/5sSnMyOXFRHWNFcC2LgdT2"
-        }
-      ],
-      "duration_ms": 278457,
-      "name": "S\u00e5nn So Det Va F\u00f8r",
-      "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Partyjoik",
-        "url": "https://open.spotify.com/album/0y18OXhsVZFe0xVABQO1g1"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 154951,
-      "name": "Partyjoik",
-      "url": "https://open.spotify.com/track/74mJCN9Yr4aTxRM7AbS4FI"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Baksetefylla",
         "url": "https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe"
       },
@@ -1295,6 +1275,22 @@
       "duration_ms": 149926,
       "name": "Baksetefylla",
       "url": "https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

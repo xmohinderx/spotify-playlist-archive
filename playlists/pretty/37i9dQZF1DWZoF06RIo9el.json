@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones Latinas de julio 2022.",
-  "num_followers": 1483151,
+  "num_followers": 1483434,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwODYzMywwMDAwMDAwMGZjOGUxZDQ0MDU5N2U2ZWFjNDE1ZGU3MzMzMmQyMTcy",
+  "snapshot_id": "MTY1ODUwODYzMywwMDAwMDAwMGVmZDI5NTczMWI4MTNlODQ3YjYwY2IzNDg1OGExMDg5",
   "tracks": [
     {
       "added_at": "2022-07-22 16:50:33",
@@ -239,26 +239,6 @@
     {
       "added_at": "2022-07-22 16:50:33",
       "album": {
-        "name": "mariposas",
-        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "mariposas",
-      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
-    },
-    {
-      "added_at": "2022-07-22 16:50:33",
-      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "added_at": "2022-07-22 16:50:33",
+      "album": {
+        "name": "mariposas",
+        "url": "https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "mariposas",
+      "url": "https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y"
     },
     {
       "added_at": "2022-07-22 16:50:33",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-07-22 16:50:33",
       "album": {
+        "name": "Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 160399,
+      "name": "Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil"
+    },
+    {
+      "added_at": "2022-07-22 16:50:33",
+      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 166050,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V"
-    },
-    {
-      "added_at": "2022-07-22 16:50:33",
-      "album": {
-        "name": "Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 160399,
-      "name": "Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/6QcufVgK2QrevhJyFSBKil"
     },
     {
       "added_at": "2022-07-22 16:50:33",

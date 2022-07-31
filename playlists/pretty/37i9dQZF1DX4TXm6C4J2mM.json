@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157339,
+  "num_followers": 157336,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDE5YzEyYjdkYjE2MjNkOWFlYjI4MmY2ZDQ0NWE1NDQ2",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGZmNzExYjEwZDI4ZTVlYmQyODY2ZTcyNjEwNmFjMTNm",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
+      },
+      "artists": [
+        {
+          "name": "Eight Waters",
+          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Menage A Trois",
         "url": "https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 168508,
       "name": "Menage A Trois",
       "url": "https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "To The Moon & Back",
-        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
-      },
-      "artists": [
-        {
-          "name": "Eight Waters",
-          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "To The Moon & Back",
-      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
+      },
+      "artists": [
+        {
+          "name": "Danny Avila",
+          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
+        }
+      ],
+      "duration_ms": 158854,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Where You Wanna Be",
         "url": "https://open.spotify.com/album/2qXOVTnMDCsnulrqfX4QDu"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 158709,
       "name": "Where You Wanna Be",
       "url": "https://open.spotify.com/track/7qbjS6uKZlv7K08CNcEqYR"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Fast Forward",
-        "url": "https://open.spotify.com/album/6BfFBok2yGTgwBiA5OkxXN"
-      },
-      "artists": [
-        {
-          "name": "Danny Avila",
-          "url": "https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH"
-        }
-      ],
-      "duration_ms": 158854,
-      "name": "Fast Forward",
-      "url": "https://open.spotify.com/track/3tTCORojBSXdr6eEITzN91"
     },
     {
       "added_at": "2022-07-15 14:10:44",

@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 337431,
       "name": "Bordre",
       "url": "https://open.spotify.com/track/1WbMSCLAHjhrgmPTKjn9Cw"
@@ -3734,6 +3734,28 @@
     },
     {
       "album": {
+        "name": "On My Knees (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452000,
+      "name": "On My Knees - Adriatique Remix",
+      "url": "https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk"
+    },
+    {
+      "album": {
         "name": "Evaporate EP",
         "url": "https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1"
       },
@@ -3875,7 +3897,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 516000,
       "name": "Oud Imperial",
       "url": "https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF"
@@ -4049,6 +4071,28 @@
       "duration_ms": 345823,
       "name": "Pink Elephant",
       "url": "https://open.spotify.com/track/5PYE614MlfD0iWdug1SjcX"
+    },
+    {
+      "album": {
+        "name": "Pliva",
+        "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244570,
+      "name": "Pliva",
+      "url": "https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk"
     },
     {
       "album": {

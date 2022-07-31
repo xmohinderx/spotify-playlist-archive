@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: We The Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,514 likes - 99 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,566 likes - 99 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 28 | [I Can't Stop Praising](https://open.spotify.com/track/14JXhGPj4HFkppOCH4Q9HR) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [The Kadosh \(Live\)](https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY) | 3:36 |
 | 29 | [Fading Thrills](https://open.spotify.com/track/1Wl8pCH0IxMb9LG21tjCWJ) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Fading Thrills](https://open.spotify.com/album/78wWtbuVmB0AqMcjKllPAD) | 2:29 |
 | 30 | [Still Blessed](https://open.spotify.com/track/6D2re3VXyUdjuTCSY2pJmL) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Nathanael](https://open.spotify.com/artist/51A0nSOeTdS9Z0fVtDNFEs) | [Still Blessed](https://open.spotify.com/album/61qxBk4OxpnuR2o5WnK4Qt) | 2:55 |
-| 31 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [LEGACY](https://open.spotify.com/artist/6PDOhuTlQgb9jWwkZ3YwM5) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
+| 31 | [Pepper Dem](https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [Pepper Dem](https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW) | 2:48 |
 | 32 | [Lotta Things](https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Lotta Things](https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5) | 2:36 |
 | 33 | [Marty Mcfly](https://open.spotify.com/track/0VEWtaWmA0ATE9KlL4ifOF) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB) | [Marty Mcfly](https://open.spotify.com/album/5Avq3HMzjkuIRm85VpqpQ0) | 2:11 |
 | 34 | [In Christ](https://open.spotify.com/track/5tpdyvZ3cRVPPR6koEyg6H) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci), [Akavelli](https://open.spotify.com/artist/5XBo0wn5x7ihlMmOgQhz48), [Tomi Abdon](https://open.spotify.com/artist/2v23fSvuZcejW9PbcWqyux) | [In Christ](https://open.spotify.com/album/7rDG8GrtObQcl9AH2XtFzu) | 3:07 |

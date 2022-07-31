@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 481623,
+  "num_followers": 482092,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDgwMCwwMDAwMDAwMDE1MWM4NTBjMjczZjkwNjRjOTZhNmQ5MjNkMDgwNmFh",
+  "snapshot_id": "MTY1ODQ0MDgwMCwwMDAwMDAwMGQ5MjI4MzQ2MzEwNWUxZmEzNWU0MjIwOGQwYzA4MTdh",
   "tracks": [
     {
       "added_at": "2022-07-21 22:00:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/6OYxfg1u6ltNaciFUxduEY"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1CM16VHSXw4CcvZUPsa8CU"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Only For A Moment",
-        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
       "artists": [
         {
-          "name": "Lola Marsh",
-          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Only For A Moment",
-      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
+      "duration_ms": 218999,
+      "name": "don't get caught up",
+      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Only For A Moment",
+        "url": "https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Lola Marsh",
+          "url": "https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD"
         }
       ],
-      "duration_ms": 218999,
-      "name": "don't get caught up",
-      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
+      "duration_ms": 167333,
+      "name": "Only For A Moment",
+      "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Through Water",
-        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
-      },
-      "artists": [
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Speaking of the End",
-      "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Through Water",
+        "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
+      },
+      "artists": [
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Speaking of the End",
+      "url": "https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Chin Up",
         "url": "https://open.spotify.com/album/2W0l4M80ykkBI8WkPtHf7T"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "All That You Are",
-        "url": "https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 251271,
-      "name": "All That You Are",
-      "url": "https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Californian Soil",
         "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 221387,
       "name": "Californian Soil",
       "url": "https://open.spotify.com/track/1YhJTm664ZT5xheQLBDgd1"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "All That You Are",
+        "url": "https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 251271,
+      "name": "All That You Are",
+      "url": "https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 399082,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Spiders",
-        "url": "https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
       "artists": [
         {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Spiders",
-      "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
+      "duration_ms": 399082,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
         "name": "No Goodbye",
         "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
       },
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-07-21 22:00:00",
       "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK"
       },
       "artists": [
         {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
         }
       ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -1287,6 +1287,22 @@
       "duration_ms": 199453,
       "name": "Comment Allez-Vous?",
       "url": "https://open.spotify.com/track/6IAP7FxeaJrTqM3ZU354wH"
+    },
+    {
+      "added_at": "2022-07-21 22:00:00",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
     },
     {
       "added_at": "2022-07-21 22:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
-    },
-    {
-      "added_at": "2022-07-21 22:00:00",
-      "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6maswXqaxmZmrVnr2B82ii"
     },
     {
       "added_at": "2022-07-21 22:00:00",

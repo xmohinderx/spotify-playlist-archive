@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Maddie & Tae
 
-274 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
+275 songs - 15 hr 6 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [My Bar](https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [My Bar](https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP) | 3:13 | 2022-02-11 |  |
 | [My Left Hand](https://open.spotify.com/track/4xvjIj6hR1HNv5G0ooi0CG) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand](https://open.spotify.com/album/4auLkhQRuYKdmz2EBDvPDH) | 3:07 | 2022-06-04 | 2022-07-25 |
 | [Neon Healing](https://open.spotify.com/track/61gH3z9LvJgP4rbhaF4haQ) | [Genevieve Fisher](https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73) | [Neon Healing](https://open.spotify.com/album/3bh4TegHtVUxuk5PWXDMZD) | 2:48 | 2022-03-25 | 2022-04-21 |
+| [Never Been in Love](https://open.spotify.com/track/3gq98hzXfMGQ5VFIGJ1DoB) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/6cps0yIKzYYVyHTW0TsEvN) | 2:59 | 2022-07-22 |  |
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-04-15 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-01 | 2022-07-29 |
 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
@@ -250,7 +251,7 @@
 | [To Hell & Back](https://open.spotify.com/track/4Yy1VOdLAX7MuKQOcivV4O) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:15 | 2022-07-22 |  |
 | [Trippin'](https://open.spotify.com/track/7hEVupgH8dwFemNPxTXscc) | [Amy Nelson](https://open.spotify.com/artist/1DN2RGLfpo8AxGwLw7Jw2w) | [Trippin'](https://open.spotify.com/album/4HEPilU7MKEtHoAzSFCT6R) | 3:23 | 2022-03-25 | 2022-04-18 |
 | [Turn Up the Night](https://open.spotify.com/track/5OZQEBXuSyDndyhLSmfsO4) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Turn Up the Night](https://open.spotify.com/album/4567kBWJTp2BWkwczE46fy) | 3:18 | 2022-03-25 | 2022-04-18 |
-| [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 |  |
+| [Us](https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Us](https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb) | 3:03 | 2021-12-01 | 2022-07-31 |
 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 | 2022-07-22 |  |
 | [Villain](https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Villain](https://open.spotify.com/album/3qdprgT9HXDTzav58XtZpN) | 2:56 | 2021-12-01 | 2022-07-29 |
 | [Villain in Me](https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Villain in Me](https://open.spotify.com/album/4CoXWcHp6KDoKJW4ypKTRY) | 3:37 | 2021-12-01 | 2022-07-29 |

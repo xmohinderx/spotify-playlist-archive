@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 198500,
       "name": "247",
       "url": "https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-24",
+      "date_removed": null,
       "duration_ms": 195590,
       "name": "Gone Gurl",
       "url": "https://open.spotify.com/track/2iD5UfAQlZQulHzgaV1BKW"
@@ -229,24 +229,6 @@
       "duration_ms": 187021,
       "name": "I'll Do It How You Like It",
       "url": "https://open.spotify.com/track/0GEfa5zT6C6ryDExkiJ2Zh"
-    },
-    {
-      "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/5FX1VjfySHopZxJt4icIPu"
-      },
-      "artists": [
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "date_added": "2022-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205982,
-      "name": "IMAGINE",
-      "url": "https://open.spotify.com/track/5dJ0BoobBBkSIDm7yeXZZ1"
     },
     {
       "album": {
@@ -980,6 +962,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32\u0e01\u0e32\u0e23",
+        "url": "https://open.spotify.com/album/5FX1VjfySHopZxJt4icIPu"
+      },
+      "artists": [
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205982,
+      "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32\u0e01\u0e32\u0e23",
+      "url": "https://open.spotify.com/track/5dJ0BoobBBkSIDm7yeXZZ1"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e34\u0e19\u0e15\u0e19\u0e32\u0e01\u0e32\u0e23\u0e2a\u0e33\u0e04\u0e31\u0e0d\u0e01\u0e27\u0e48\u0e32\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 (remain)",
         "url": "https://open.spotify.com/album/1qPHzpbDw7caeZ2uRGkLmj"
       },
@@ -1303,6 +1303,24 @@
       "duration_ms": 246935,
       "name": "\u0e15\u0e49\u0e2d\u0e07\u0e0a\u0e2d\u0e1a\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19 (First Love)",
       "url": "https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e39\u0e01\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e43\u0e2b\u0e49\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG"
+      },
+      "artists": [
+        {
+          "name": "ROOFTOP",
+          "url": "https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "\u0e16\u0e39\u0e01\u0e2d\u0e2d\u0e01\u0e41\u0e1a\u0e1a\u0e43\u0e2b\u0e49\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/1ke1sGWrCPDyXtZy6xXzAq"
     },
     {
       "album": {
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 201666,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e43\u0e08 - Liar",
       "url": "https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW"

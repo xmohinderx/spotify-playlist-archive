@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Presentamos a Nicole Favre, nuestra artista Radar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,232 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,238 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 46 | [Tiempo al Tiempo](https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:24 |
 | 47 | [Entes](https://open.spotify.com/track/1AZrJoYxgwoJOnVh8TZc8Y) | [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [Entes](https://open.spotify.com/album/21stBXZTFEuFydbOKDnOdA) | 4:19 |
 | 48 | [Cuéntame de Ti](https://open.spotify.com/track/54lDDgMnq3UWwjxaXWd6bE) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Cuéntame de Ti](https://open.spotify.com/album/56Zy1G6xSyp69FPSEC3SEB) | 3:21 |
-| 49 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
-| 50 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 |
+| 49 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 |
+| 50 | [Ángel](https://open.spotify.com/track/30Kue3jRZhbA8137mDXp31) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Ángel](https://open.spotify.com/album/38ua5FjwtylCAwx5GJgMeI) | 2:58 |
 
-Snapshot ID: `MTY1NTc0NDE3MywwMDAwMDAwMDkwMGI2YjA3ZTc0OWRmYTJiZGE2ODA3ZjYzNTY2OGU2`
+Snapshot ID: `MTY1NTc0NDE3MywwMDAwMDAwMGI4N2U3NjcyOTczOTczZmEwNmE5MTM2YmIwMjhmOGFm`

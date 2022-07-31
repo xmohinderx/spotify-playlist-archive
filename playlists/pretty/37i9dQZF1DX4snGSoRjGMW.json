@@ -1,12 +1,12 @@
 {
   "description": "Soul meets blues. Cover: Bettye LaVette",
-  "num_followers": 4357,
+  "num_followers": 4378,
   "original_name": "Soul Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMDgzMTZkODgzMDY1MDBmYzdhNzhlMzI4MDY1NjQzYTZj",
+  "snapshot_id": "MTYyMTU2OTY2MCwwMDAwMDAwMGQ4ZWUyN2E4ODVjNzgxZmNkYmEwZGJkZGI1MmEyOWQ2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Bridge to a Legacy",
+        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+      },
+      "artists": [
+        {
+          "name": "Syl Johnson",
+          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Who's Still in Love",
+      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Midnight In Memphis",
         "url": "https://open.spotify.com/album/69umcBTHWhRf3fqo97ydAx"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 269000,
       "name": "Baby I Will",
       "url": "https://open.spotify.com/track/5ep51jd4xhZusf8QnaTfor"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Talkin' About Chicago",
-        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
-      },
-      "artists": [
-        {
-          "name": "Syl Johnson",
-          "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Sweet Dynamite!",
-      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Today I Sing The Blues",
-        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Lawson",
-          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Stop Doggin Me Around",
-      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "I've Got My Own Hell To Raise",
         "url": "https://open.spotify.com/album/0JTNbX0ZE6zvhxk02nfLLC"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 206466,
       "name": "On The Surface",
       "url": "https://open.spotify.com/track/0qQTdGIA3YPcC1L3kaJpm4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Today I Sing The Blues",
+        "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
+      },
+      "artists": [
+        {
+          "name": "Joyce Lawson",
+          "url": "https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Stop Doggin Me Around",
+      "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -763,8 +763,8 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Bridge to a Legacy",
-        "url": "https://open.spotify.com/album/54yFLgnlVPvkTIz6qpo01H"
+        "name": "Talkin' About Chicago",
+        "url": "https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Who's Still in Love",
-      "url": "https://open.spotify.com/track/2QMQh6SlJWA6oz1S0D4Jja"
+      "duration_ms": 271426,
+      "name": "Sweet Dynamite!",
+      "url": "https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "People Love The Blues",
-        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
-      },
-      "artists": [
-        {
-          "name": "Sista Monica",
-          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "You're Only Good For One Thang Baby",
-      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 288400,
       "name": "I'm So Proud",
       "url": "https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "People Love The Blues",
+        "url": "https://open.spotify.com/album/7bfoTZkMiZ6GzNvTydX9ax"
+      },
+      "artists": [
+        {
+          "name": "Sista Monica",
+          "url": "https://open.spotify.com/artist/22FdZlPVKxIeNwRHvx74A7"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "You're Only Good For One Thang Baby",
+      "url": "https://open.spotify.com/track/0CLPTSldV2Dp016RKyBUqi"
     },
     {
       "added_at": "2020-12-01 05:01:00",

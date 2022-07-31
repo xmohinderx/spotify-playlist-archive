@@ -1,12 +1,12 @@
 {
   "description": "Welcome, you belong here.",
-  "num_followers": 995,
+  "num_followers": 1049,
   "original_name": "Virtual Reality",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MTUwNSwwMDAwMDAwMGNjYjU3NWYxZDc2Y2E2YTM2ZDM2NDUyZjU5N2U4ZDQy",
+  "snapshot_id": "MTY1Nzg2MTUwNSwwMDAwMDAwMDkyOGVkMTc5MWE0MWE3MGFlNmM2ZTA1NGExMWU0MjQ2",
   "tracks": [
     {
       "added_at": "2021-10-06 02:11:31",
@@ -179,6 +179,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Love In The Time Of Lexapro",
+        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 246129,
+      "name": "Love In The Time Of Lexapro",
+      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/3NYrAcJbXmXGZFLjbufmHc"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 255747,
       "name": "E d e n T r a n s i t",
       "url": "https://open.spotify.com/track/57LzKQoQDo4hWv7tdf894l"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Love In The Time Of Lexapro",
-        "url": "https://open.spotify.com/album/6LLrxzLTVeD4BXtie45q21"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 246129,
-      "name": "Love In The Time Of Lexapro",
-      "url": "https://open.spotify.com/track/16KyaozBg8WxDTmawnSuCm"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Tyyni",
-        "url": "https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 298475,
-      "name": "Anarkian kuvajainen",
-      "url": "https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Urban Myth",
         "url": "https://open.spotify.com/album/3FkIMzwA0Y08PaCoyyuIjt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 253708,
       "name": "Urban Myth",
       "url": "https://open.spotify.com/track/2k2mzXBWNGgyUFaoloLFfM"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Tyyni",
+        "url": "https://open.spotify.com/album/7utUB4dW47RqaFjuZ2zwIm"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 298475,
+      "name": "Anarkian kuvajainen",
+      "url": "https://open.spotify.com/track/7EIMEIJRjWJpYmJCd5pwuN"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Angel Tears in Sunlight",
-        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 270539,
-      "name": "Marking Time",
-      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Especies Afines",
         "url": "https://open.spotify.com/album/31XwRvy0U28EMB3Yqb6I1g"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 348000,
       "name": "Loba",
       "url": "https://open.spotify.com/track/2Ou5kaMPS1GW0S06y584s3"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 270539,
+      "name": "Marking Time",
+      "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -555,22 +555,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Square Wave Adventures",
-        "url": "https://open.spotify.com/album/6kBFfxws5OZegPO96eMr5F"
+        "name": "Hotel Hastings (Music by Alejandro Morse for a Book by Eduardo Padilla)",
+        "url": "https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0"
       },
       "artists": [
         {
-          "name": "Torb The Roach",
-          "url": "https://open.spotify.com/artist/1mLi2u2pdQqPOPsAx6mxKd"
-        },
-        {
-          "name": "Floppy MacSpace",
-          "url": "https://open.spotify.com/artist/0UtbQpfdpW6vO0d3C7qy62"
+          "name": "Alejandro Morse",
+          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Rullerytme",
-      "url": "https://open.spotify.com/track/0eccVOeOHpb24hBYLQD6sX"
+      "duration_ms": 235921,
+      "name": "Back to Hastings",
+      "url": "https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN"
     },
     {
       "added_at": "2022-04-07 04:03:47",
@@ -591,18 +587,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Hotel Hastings (Music by Alejandro Morse for a Book by Eduardo Padilla)",
-        "url": "https://open.spotify.com/album/3huFNw9r8hP0s7SqTRApN0"
+        "name": "Square Wave Adventures",
+        "url": "https://open.spotify.com/album/6kBFfxws5OZegPO96eMr5F"
       },
       "artists": [
         {
-          "name": "Alejandro Morse",
-          "url": "https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6"
+          "name": "Torb The Roach",
+          "url": "https://open.spotify.com/artist/1mLi2u2pdQqPOPsAx6mxKd"
+        },
+        {
+          "name": "Floppy MacSpace",
+          "url": "https://open.spotify.com/artist/0UtbQpfdpW6vO0d3C7qy62"
         }
       ],
-      "duration_ms": 235921,
-      "name": "Back to Hastings",
-      "url": "https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN"
+      "duration_ms": 162333,
+      "name": "Rullerytme",
+      "url": "https://open.spotify.com/track/0eccVOeOHpb24hBYLQD6sX"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ"
     },
     {
-      "added_at": "2022-01-14 02:01:09",
-      "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 209112,
-      "name": "Fiction Of A Sea",
-      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Cocoon Crush",
@@ -791,6 +775,22 @@
       "duration_ms": 152000,
       "name": "Lost and Found (Lost Mix)",
       "url": "https://open.spotify.com/track/0t0hsYPyMuE4siG7GkDded"
+    },
+    {
+      "added_at": "2022-01-14 02:01:09",
+      "album": {
+        "name": "Acrobatic Thoughts",
+        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 209112,
+      "name": "Fiction Of A Sea",
+      "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/6bNA5yC5I0NPJBISlFZKcB"
     },
     {
-      "added_at": "2022-04-12 01:34:51",
-      "album": {
-        "name": "I Can't Die as Well",
-        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 145774,
-      "name": "I Can't Die as Well",
-      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
-    },
-    {
       "added_at": "2021-10-06 02:11:31",
       "album": {
         "name": "Toothbrush / Booth Thrust",
@@ -923,6 +907,22 @@
       "duration_ms": 364439,
       "name": "Sensou v3",
       "url": "https://open.spotify.com/track/5e3KCTkAZVUSS2ZfuiuTuy"
+    },
+    {
+      "added_at": "2022-04-12 01:34:51",
+      "album": {
+        "name": "I Can't Die as Well",
+        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 145774,
+      "name": "I Can't Die as Well",
+      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/3fy1TdDdHihdwb6HIEnzZ2"
     },
     {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Brainfeeder X",
+        "url": "https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 335205,
+      "name": "Squaz",
+      "url": "https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ"
+    },
+    {
       "added_at": "2022-04-06 03:57:04",
       "album": {
         "name": "Trans-Aeon Express",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Brainfeeder X",
-        "url": "https://open.spotify.com/album/3o2065Z31P88vws4lA3cc4"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 335205,
-      "name": "Squaz",
-      "url": "https://open.spotify.com/track/3oWnubwEmwkZOlI3SxYekZ"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Starstuff",
         "url": "https://open.spotify.com/album/2XoRKXr7y9755Auuvh9n1h"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 234000,
       "name": "Starstuff - Single Edit",
       "url": "https://open.spotify.com/track/5LJ7a0wX9Ezslbqkbrwyrd"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Unlit Signals",
+        "url": "https://open.spotify.com/album/4VA5lelPeYTDivRo2rf8ah"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        }
+      ],
+      "duration_ms": 316645,
+      "name": "Pax Cultura",
+      "url": "https://open.spotify.com/track/3VCZmy8zxp1Bz7BQYTqEIS"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Unlit Signals",
-        "url": "https://open.spotify.com/album/4VA5lelPeYTDivRo2rf8ah"
+        "name": "Primary Pluck",
+        "url": "https://open.spotify.com/album/037XvMu4OtzsPh1Wpu7yTo"
       },
       "artists": [
         {
-          "name": "Ploy",
-          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
         }
       ],
-      "duration_ms": 316645,
-      "name": "Pax Cultura",
-      "url": "https://open.spotify.com/track/3VCZmy8zxp1Bz7BQYTqEIS"
+      "duration_ms": 150423,
+      "name": "Primary Pluck",
+      "url": "https://open.spotify.com/track/6Bw8a467QjF0a4Jf1cZbTv"
     },
     {
       "added_at": "2022-03-30 05:31:11",
@@ -1143,22 +1159,6 @@
       "duration_ms": 234401,
       "name": "Okra Ooze",
       "url": "https://open.spotify.com/track/65XrhSXZKHhBz9V8gMNhKL"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Primary Pluck",
-        "url": "https://open.spotify.com/album/037XvMu4OtzsPh1Wpu7yTo"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 150423,
-      "name": "Primary Pluck",
-      "url": "https://open.spotify.com/track/6Bw8a467QjF0a4Jf1cZbTv"
     },
     {
       "added_at": "2022-02-25 04:01:21",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
-        "name": "Crystal Fantasy",
-        "url": "https://open.spotify.com/album/34UpoK24E13czwERrCUqfM"
-      },
-      "artists": [
-        {
-          "name": "Michel Genest",
-          "url": "https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x"
-        }
-      ],
-      "duration_ms": 160264,
-      "name": "Magical Iridescence",
-      "url": "https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
         "name": "Nihon No Ongaku / \u65e5\u672c\u306e\u97f3\u697d\u300d",
         "url": "https://open.spotify.com/album/1JzzU8fkEAmWGw9RJGhMP9"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 316755,
       "name": "Arazaramu",
       "url": "https://open.spotify.com/track/7t2SwkamdQdGfJ7vLnXVtt"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
+        "name": "Crystal Fantasy",
+        "url": "https://open.spotify.com/album/34UpoK24E13czwERrCUqfM"
+      },
+      "artists": [
+        {
+          "name": "Michel Genest",
+          "url": "https://open.spotify.com/artist/51R7qjp3MIY8mBq4vYvu0x"
+        }
+      ],
+      "duration_ms": 160264,
+      "name": "Magical Iridescence",
+      "url": "https://open.spotify.com/track/6eM5mq1xnuvB6NWGOSBp84"
     },
     {
       "added_at": "2021-10-06 02:11:31",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2021-10-06 02:11:31",
       "album": {
+        "name": "Pulse Of Defiance",
+        "url": "https://open.spotify.com/album/2Mzg1QV077rvng9vsE7YqK"
+      },
+      "artists": [
+        {
+          "name": "Yoshinori Hayashi",
+          "url": "https://open.spotify.com/artist/5phJ4rEG8FXMwj9MIH0shu"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Make up One\u2019s Mind",
+      "url": "https://open.spotify.com/track/5e6rtGfLufY2pc4ZgoHnh5"
+    },
+    {
+      "added_at": "2021-10-06 02:11:31",
+      "album": {
         "name": "& Baga Man EP",
         "url": "https://open.spotify.com/album/0LCFTBp50RU2idUWjBzuZI"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 163230,
       "name": "Baga DMs",
       "url": "https://open.spotify.com/track/01AYJhBXuVhWXxDZKhnl2p"
-    },
-    {
-      "added_at": "2021-10-06 02:11:31",
-      "album": {
-        "name": "Pulse Of Defiance",
-        "url": "https://open.spotify.com/album/2Mzg1QV077rvng9vsE7YqK"
-      },
-      "artists": [
-        {
-          "name": "Yoshinori Hayashi",
-          "url": "https://open.spotify.com/artist/5phJ4rEG8FXMwj9MIH0shu"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Make up One\u2019s Mind",
-      "url": "https://open.spotify.com/track/5e6rtGfLufY2pc4ZgoHnh5"
     },
     {
       "added_at": "2021-10-06 02:11:31",

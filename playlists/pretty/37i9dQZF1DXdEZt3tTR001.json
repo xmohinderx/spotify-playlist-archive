@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 69115,
+  "num_followers": 69243,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMDMwNDQyNWU2NjkxM2ZmNTE4NWQzYzQ5Y2U0N2E5MTM3",
+  "snapshot_id": "MTY1OTA1MjM5OSwwMDAwMDAwMDFkNDRiYjU3MjM3YmY4OWQ2MzlmYzk5Y2U2MmUxZGFh",
   "tracks": [
     {
       "added_at": "2022-07-28 23:53:19",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-28 23:53:19",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
-    },
-    {
-      "added_at": "2022-07-28 23:53:19",
-      "album": {
         "name": "A Real Romantic",
         "url": "https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 269354,
       "name": "Livid",
       "url": "https://open.spotify.com/track/6cYqxLD2d6zdNXIJU3CAbR"
+    },
+    {
+      "added_at": "2022-07-28 23:53:19",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/7lBETHInBVdFrKhC9J24H0"
     },
     {
       "added_at": "2022-07-28 23:53:19",

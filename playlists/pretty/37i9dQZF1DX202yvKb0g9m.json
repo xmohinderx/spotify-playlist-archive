@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 45345,
+  "num_followers": 45475,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDcxOGQxYzUwMjY4OTViNDkyOTQxZDc2NWIwZGE5ODlm",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDU4ZDVkMDVlMzM4MDE2OTlhMDcxZTRhNWM0MjhiMGYx",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 134840,
-      "name": "Cornish Acid",
-      "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Do I Do",
         "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 434999,
       "name": "Do I Do - Extended Mix",
       "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 134840,
+      "name": "Cornish Acid",
+      "url": "https://open.spotify.com/track/5c3ZNT6iY8Kz6nHBATTeRs"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
-      },
-      "artists": [
-        {
-          "name": "Recloose",
-          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
-        }
-      ],
-      "duration_ms": 345640,
-      "name": "Cardiology (Isol\u00e9e Mix) - Mixed",
-      "url": "https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Electronic Body Music",
         "url": "https://open.spotify.com/album/0XJ6C268pcL4F5QjxFt0Ec"
       },
@@ -511,18 +495,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Acid Tracks",
-        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+        "name": "DJ-Kicks (Motor City Drum Ensemble) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx"
       },
       "artists": [
         {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+          "name": "Recloose",
+          "url": "https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S"
         }
       ],
-      "duration_ms": 739626,
-      "name": "Acid Tracks",
-      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
+      "duration_ms": 345640,
+      "name": "Cardiology (Isol\u00e9e Mix) - Mixed",
+      "url": "https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -539,6 +523,22 @@
       "duration_ms": 241875,
       "name": "The Garden of Eden (A Himalayan Song)",
       "url": "https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Acid Tracks",
+        "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 739626,
+      "name": "Acid Tracks",
+      "url": "https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU"
     },
     {
       "added_at": "2021-10-22 11:07:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Beyoncé 🐝
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,064 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,076 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 18 | [In My Bed](https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [In My Bed](https://open.spotify.com/album/7Dw7n5YeIAb1IQ5klyRIae) | 3:45 |
 | 19 | [Cowboy](https://open.spotify.com/track/1k6se62N5i3mQCqQYnaBQh) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Hay is for Horses](https://open.spotify.com/album/77bFNeeZ1Z2vQvCSZOWkm1) | 2:55 |
 | 20 | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/track/6x3gud5JkOSGYJpRUYN1Gg) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Us vs\. Them \(feat\. Gucci Mane\)](https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls) | 3:36 |
-| 21 | [inovein](https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines X](https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco) | 3:10 |
+| 21 | [x inovein](https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines X](https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco) | 3:10 |
 | 22 | [Top](https://open.spotify.com/track/7L25Tg4Jxxk1Q5tS59QfUB) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Top](https://open.spotify.com/album/5CyS1dpJOA6CAts78IybcG) | 4:01 |
 | 23 | [Waste My Love \(feat\. Georgi Kay\)](https://open.spotify.com/track/2lQb0fKNvxhsWBD4Jbo5mk) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [Waste My Love \(feat\. Georgi Kay\)](https://open.spotify.com/album/18Otr1XRIsD6HkVNvdCIUE) | 2:44 |
 | 24 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
 | 25 | [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 |
 | 26 | [Hold The Girl](https://open.spotify.com/track/3Scmiyh1EaCkOmi3Ru86F1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0ua112UCbolB2roGsqtsXw) | 4:05 |
 | 27 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 28 | [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 |
+| 28 | [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 |
 | 29 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 |
 | 30 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 |
 | 31 | [Woman Like Me](https://open.spotify.com/track/4URM6vR7wq8mCYGsXUZ8bl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Woman Like Me](https://open.spotify.com/album/45669KXKJTIm7zAkg1WpLf) | 3:22 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 101 | [Miss Miss Miss](https://open.spotify.com/track/2C2ThMDcEbG3exx1nHmW9g) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Miss Miss Miss](https://open.spotify.com/album/29368c8WE9XT7lsmkPG5GY) | 3:37 |
 | 102 | [Crazy He Calls Me](https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Crazy He Calls Me](https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx) | 2:30 |
 
-Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMDcxMTQ3NWYxMjQ4YmQ2OWI4MmM0MGY1NTI4ZWQ5ZGZk`
+Snapshot ID: `MTY1OTA2ODkzOSwwMDAwMDAwMGQ4Y2Y2N2JhN2VhM2Y0N2Q0NjE1OWI4ZDUzMjdiMTYw`

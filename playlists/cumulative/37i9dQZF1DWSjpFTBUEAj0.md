@@ -4,12 +4,12 @@
 
 > A total apocalypse of the heart.
 
-126 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/1CtDWZwUz2r2X3MQ27jzF2)
+127 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/1CtDWZwUz2r2X3MQ27jzF2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1932\-33.\(1\)](https://open.spotify.com/track/56SYy4SoveQ8Eowdg2ZJcC) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [Beröringen](https://open.spotify.com/album/55WI5Qrk6B5TXmbIMUT7Bn) | 2:53 | 2022-05-25 |  |
-| [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 | 2022-05-25 |  |
+| [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 | 2022-05-25 | 2022-07-31 |
 | [A Feast Before The Drought](https://open.spotify.com/track/27vaKc2RsGCIC56OsEzL3g) | [Puce Mary](https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6) | [The Drought](https://open.spotify.com/album/30TrRJ7rD8qyEogM9xdwe0) | 6:44 | 2022-05-25 | 2022-07-29 |
 | [A Feast Before The Drought](https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j) | [Puce Mary](https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6) | [The Drought](https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG) | 6:44 | 2022-07-01 |  |
 | [A Hidden Star](https://open.spotify.com/track/58l1vmhAbYJYhzFMVEu4ms) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [A Hidden Star](https://open.spotify.com/album/76ACHyE2ULYkcCdBkUqMNt) | 4:42 | 2022-05-25 | 2022-07-26 |
@@ -33,6 +33,7 @@
 | [Barsa\-Kelmes \- Actress Remix](https://open.spotify.com/track/7kiLrRSwh0dzxwAurhWZLR) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Aralkum Aralas](https://open.spotify.com/album/5qDLQcRYJAp3lKRlZoaiPx) | 3:25 | 2022-05-25 | 2022-07-28 |
 | [Because It Speaks](https://open.spotify.com/track/1Rn0XikOTy75toIqnbXuRH) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [Split Series 24](https://open.spotify.com/album/3t0PEjGdNi244WZBZR65vp) | 18:23 | 2022-05-25 | 2022-07-28 |
 | [Bend](https://open.spotify.com/track/2mAMLOH99UI4Rb34GouT5y) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 3:16 | 2022-05-25 | 2022-07-25 |
+| [Bend](https://open.spotify.com/track/3nZGMUJSx5uA8BdaVA3Nl7) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 3:16 | 2022-07-29 |  |
 | [Bite The Bolster](https://open.spotify.com/track/5G409XrdJQBEurmgxn4AMG) | [Ramleh](https://open.spotify.com/artist/4cZ1kxYzzWA4WZYxFlQMHM) | [Hole in the Heart](https://open.spotify.com/album/6EsKaEdZdnvwdDFZpWG1C8) | 5:13 | 2022-05-25 |  |
 | [Blooming Flower and My Shadow](https://open.spotify.com/track/4Q289SfFaoBbBlgpbbyaHF) | [KAGAMI Smile](https://open.spotify.com/artist/50UZGMLw8KvbU4E5lw6Bw0) | [Blooming Flower and My Shadow](https://open.spotify.com/album/0Pk3imcBUh1E3FkWRNZW1U) | 8:44 | 2022-05-25 | 2022-07-25 |
 | [Blue To Black](https://open.spotify.com/track/1fDxuV4tMVjXzC41XP5KYQ) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK) | 4:23 | 2022-05-25 | 2022-07-27 |
@@ -75,9 +76,9 @@
 | [Honey](https://open.spotify.com/track/15B8scX6MZbS3DcWYY3mUS) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/2lZt4WuEVJQs8LgvG2oppf) | 6:09 | 2022-05-25 | 2022-07-28 |
 | [Honey](https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 6:09 | 2022-07-01 |  |
 | [I Might Be Dead](https://open.spotify.com/track/3CrugDkT5hrxchw6rZenYU) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [I Might Be Dead](https://open.spotify.com/album/5m9aBbCjvJ7vUT8A3gT3hZ) | 2:42 | 2022-05-25 |  |
-| [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 | 2022-05-25 |  |
+| [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 | 2022-05-25 | 2022-07-31 |
 | [Inevitable Truth](https://open.spotify.com/track/3UBlpER8dYeArWgFk9xgJD) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 4:26 | 2022-05-25 | 2022-07-29 |
-| [Intro](https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC) | [Simulacrum](https://open.spotify.com/album/1JoOzfSC6Jh9mxxhvWhVTh) | 4:17 | 2022-05-25 | 2022-07-28 |
+| [Intro](https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC) | [Simulacrum](https://open.spotify.com/album/1JoOzfSC6Jh9mxxhvWhVTh) | 4:17 | 2022-05-25 |  |
 | [Isolation Tank](https://open.spotify.com/track/4lLNOoPLe1dUjpMG7nxjmz) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Isolation Tank](https://open.spotify.com/album/33WYg9FkoBFkrUtOqg2wq5) | 6:23 | 2022-05-25 | 2022-07-29 |
 | [Kiamat Wahyu](https://open.spotify.com/track/0L44KQoQW1yUIqIBwVpmwJ) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ), [Black To Comm](https://open.spotify.com/artist/1j1YJWmnDC3NXNJJ81xKUb) | [Alkisah Versi Hitam](https://open.spotify.com/album/1L38TwoRZ87l5dWeFEYmy9) | 4:45 | 2022-05-25 | 2022-07-25 |
 | [Listen and See as They Take](https://open.spotify.com/track/5aaJjmQ4lUVZGkdDt4A2Em) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Lifetime](https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY) | 5:02 | 2022-05-25 |  |

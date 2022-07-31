@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 192936,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/6XvKF7H5ESlpsQNDYax1sQ"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230303,
+      "name": "Saliste De Mi Mente",
+      "url": "https://open.spotify.com/track/4ox1UpoN1U5bUOfU79aHmn"
+    },
+    {
+      "album": {
         "name": "Seguimos Avanzando",
         "url": "https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC"
       },
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 160250,
       "name": "Soy Para Ti",
       "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 167568,
       "name": "Tolin Infante",
       "url": "https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg"

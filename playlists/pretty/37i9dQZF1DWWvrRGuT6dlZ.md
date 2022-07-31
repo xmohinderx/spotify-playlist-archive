@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Tiara Maimun\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,437 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,438 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What About Me](https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [What About Me](https://open.spotify.com/album/3eecVVjE70mnWV4R4uari7) | 3:25 |
 | 2 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 |
 | 3 | [Picture Perfect Frame](https://open.spotify.com/track/4WmqgA6QIb2onisiT3lf8H) | [Priscilla Tan](https://open.spotify.com/artist/6NQvsrsNDtJZvnEkB5fJ4e) | [Picture Perfect Frame](https://open.spotify.com/album/3U8rqvPjX9zy5zJSIa009Z) | 3:15 |
-| 4 | [Safety First](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [Safety First](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 |
+| 4 | [SAFETY FIRST](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [SAFETY FIRST](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 |
 | 5 | [Understand](https://open.spotify.com/track/1R3S9HZQP9jJjodyD4BtMe) | [Chara Kai\-Le](https://open.spotify.com/artist/0S6PVCIrYIIr2nmdaVTg3n) | [Understand](https://open.spotify.com/album/4YUBwu5YknZvRrBqhYCT1J) | 3:37 |
 | 6 | [Wildflowers](https://open.spotify.com/track/6SsVJAITuwh481i3tpORfD) | [Amberhill](https://open.spotify.com/artist/0G93dqirCSNtPadCSv4NRU) | [Wildflowers](https://open.spotify.com/album/3F2tsdyv2E8NHXmSBUD8pk) | 3:16 |
 | 7 | [Fool for you](https://open.spotify.com/track/0mfGdHtobRpsdOXU3AbenA) | [Soft soft pillow](https://open.spotify.com/artist/3qxL7EZEKRWpKQppOOG1KO), [Yoki Ng](https://open.spotify.com/artist/3iSgvirbXcxg2u3ZfpmyJl) | [Fool for you](https://open.spotify.com/album/7M4eXAFRYUBgQfxI6iMvhj) | 4:01 |

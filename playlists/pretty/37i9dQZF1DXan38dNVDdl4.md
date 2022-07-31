@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > Timeless Dancehall music Curated by the 876 GUD Popcaan for Carnival Sounds 2022
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,045 likes - 69 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,299 likes - 69 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

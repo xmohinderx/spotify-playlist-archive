@@ -668,6 +668,32 @@
     },
     {
       "album": {
+        "name": "FADE UP",
+        "url": "https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr"
+      },
+      "artists": [
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219187,
+      "name": "FADE UP",
+      "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -1251,7 +1277,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 185293,
       "name": "On a mis d\u2019la lumi\u00e8re",
       "url": "https://open.spotify.com/track/44q2BOX0z5eN7F1EpCRKjP"

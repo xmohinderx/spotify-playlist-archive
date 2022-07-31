@@ -4,7 +4,7 @@
 
 > The best jazz pianists today\. Cover: Julius Rodriguez
 
-346 songs - 1 day 7 hr 24 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
+347 songs - 1 day 7 hr 28 min - [published](https://open.spotify.com/playlist/1myRvVzCuNFZ2oz3g9ebfk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Falling Mercy](https://open.spotify.com/track/0ufgPuVmBhgAtEjXhy6Foe) | [Noé Sécula](https://open.spotify.com/artist/42oNZcA15gTKwBDdGtH6qZ), [Felipe Silva Mena](https://open.spotify.com/artist/2i0hPQxQGiEvHLoyvctR4w), [Adrien Bernet](https://open.spotify.com/artist/1JAA7WXzR8qUv2qgObX0yS) | [Eternity in Human Flesh](https://open.spotify.com/album/45vcrmhmHGuAkTQoescY1z) | 5:12 | 2022-02-10 | 2022-07-29 |
 | [Family](https://open.spotify.com/track/6M2hoBo4ht5YeNMt2tgSgo) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Family](https://open.spotify.com/album/5ByTI6yusgbPzvAhHi0Qaq) | 3:20 | 2022-05-20 |  |
 | [Farbenlehre](https://open.spotify.com/track/04P9FtFkN7rHipt52aM6E5) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Christian Weber](https://open.spotify.com/artist/6p18gAI7K7nuCFyqbqJcmZ), [Eric Schaefer](https://open.spotify.com/artist/78fgcTfahAcbrhArWRfzVg) | [Oslo](https://open.spotify.com/album/2221mPPi9Hcd2AQQBBQ5ab) | 3:21 | 2022-02-10 | 2022-07-22 |
-| [Fascinating Rhythm.](https://open.spotify.com/track/71NarEYn0jwMqcvdq9Uq2z) | [Guy Mintus Trio](https://open.spotify.com/artist/6AV0yd6NDoecPNG1HvFyvt) | [A Gershwin Playground](https://open.spotify.com/album/0DC58UO1vzq92evwau1rNu) | 10:21 | 2022-02-10 |  |
+| [Fascinating Rhythm.](https://open.spotify.com/track/71NarEYn0jwMqcvdq9Uq2z) | [Guy Mintus Trio](https://open.spotify.com/artist/6AV0yd6NDoecPNG1HvFyvt) | [A Gershwin Playground](https://open.spotify.com/album/0DC58UO1vzq92evwau1rNu) | 10:21 | 2022-02-10 | 2022-07-31 |
 | [Feira de Mangaio](https://open.spotify.com/track/0GZ5ZjDvAK0axUAFVDnHNK) | [Trio Corrente](https://open.spotify.com/artist/2CJ5GDZmO801WYjUTvSAis), [Edu Ribeiro](https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX), [Fabio Torres](https://open.spotify.com/artist/5TJUHR3NQ7KfmQq7VI8Fnh), [Paulo Paulelli](https://open.spotify.com/artist/2sDrOc8O7YX0q5axUkOG2Y) | [Sincronia](https://open.spotify.com/album/6CTxoODL8KCHRg4HLuLmo0) | 6:35 | 2022-02-10 |  |
 | [Fellowship](https://open.spotify.com/track/1QA6L3kxug6hTpPIOInH7r) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/3YTvz5YwqUCGOQhbvk1aEs) | 6:57 | 2022-02-10 | 2022-07-29 |
 | [Fellowship](https://open.spotify.com/track/5rxQWZpWoXrc9P4VfXJFR1) | [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W) | [Fellowship](https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF) | 6:57 | 2022-02-10 |  |
@@ -320,6 +320,7 @@
 | [Turning Around](https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p) | [Gauthier Toux](https://open.spotify.com/artist/7IDfdcPGVTXSWIG5ZtQmVW), [Maxence Sibille](https://open.spotify.com/artist/2qniG8aGnYc6CQJ59CsKlP), [Simon Tailleu](https://open.spotify.com/artist/1NYeTK44a3YpVx5MGHv78d) | [Turning Around](https://open.spotify.com/album/1eQB09l2HbQH6fraSQIDxL) | 4:06 | 2022-02-10 |  |
 | [Twisted Fiction](https://open.spotify.com/track/0N3QZbwp9icxQQVnBwrBgw) | [Alistair Martin](https://open.spotify.com/artist/2fDpiP8x5yGXehZ6WrZFig) | [Twisted Fiction](https://open.spotify.com/album/5B8GTjO15snmX1m5gXYGLp) | 4:30 | 2022-02-10 | 2022-07-27 |
 | [Two](https://open.spotify.com/track/4IPZvd4N9DQ1LwaDpl5cvA) | [Sebastian Zawadzki Trio](https://open.spotify.com/artist/2Fg5IvEZuzdn4gSU4Ih2cX) | [Two](https://open.spotify.com/album/57W35LFjs2NkEcMlw2U30C) | 3:56 | 2022-02-10 | 2022-07-28 |
+| [Two \- Live](https://open.spotify.com/track/06TIJwjzb8uvDiXtb0kW9R) | [Sebastian Zawadzki Trio](https://open.spotify.com/artist/2Fg5IvEZuzdn4gSU4Ih2cX) | [Live in Metronomen](https://open.spotify.com/album/0r4ln9MpRp2NuhA4c6IGS8) | 3:56 | 2022-02-10 |  |
 | [Two Peas](https://open.spotify.com/track/4K64feWTbBSByHlq9Pjc5Z) | [Gary Versace](https://open.spotify.com/artist/3bklSQEy3caQzQT5GQ5Nhp) | [All for Now](https://open.spotify.com/album/3uxISlfTO6t1gQaxx7zTUh) | 6:42 | 2022-02-10 | 2022-07-23 |
 | [Two Sleepy People](https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX) | [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot) | [Stride](https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg) | 6:36 | 2022-02-10 |  |
 | [Under The Sun](https://open.spotify.com/track/300ojMIOfDbiwWVKJjFAGq) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Under The Sun](https://open.spotify.com/album/7Ih1WAEQfMzVJ5htH2J2fd) | 7:55 | 2022-02-10 |  |

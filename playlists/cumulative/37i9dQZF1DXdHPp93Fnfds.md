@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(H\)olas](https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 1:39 | 2022-01-21 | 2022-07-27 |
+| [\(H\)olas](https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 1:39 | 2022-01-21 |  |
 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 | 2022-02-11 | 2022-07-12 |
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-02-11 |  |
 | [150m\_km](https://open.spotify.com/track/6P2XLxadDqdwl4ehiRtGCa) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [150m\_km](https://open.spotify.com/album/2VVPP5O4YiRXwaPXNlw5Zp) | 3:33 | 2022-01-21 | 2022-07-23 |
@@ -377,7 +377,7 @@
 | [Te Queria](https://open.spotify.com/track/4nkStFVaOEAz6BEtoNb3YN) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Te Queria](https://open.spotify.com/album/14hqEl8VjNWqXfBWW7hmJX) | 4:02 | 2022-01-21 | 2022-07-27 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-01-21 |  |
 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 | 2022-01-21 | 2022-07-27 |
-| [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 | 2022-01-14 |  |
+| [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 | 2022-01-14 | 2022-07-31 |
 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 | 2022-01-21 |  |
 | [Tiempo Depositado](https://open.spotify.com/track/7lsEHCKL7LAiogk47W5GjN) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Tiempo Depositado](https://open.spotify.com/album/70oousLTJjM45ICpS6sOWg) | 2:44 | 2022-06-03 | 2022-06-17 |
 | [Tiempo Libre](https://open.spotify.com/track/1HF8TD9Q9SHKu2469cb1m8) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Tiempo Libre](https://open.spotify.com/album/1vWfmy02XiHhEXHPIMJ24E) | 4:30 | 2022-01-21 | 2022-06-24 |

@@ -4,7 +4,7 @@
 
 > A collection of classics and recent tracks from the world of black and dark metal\. Cover: Behemoth
 
-287 songs - 1 day 1 hr 14 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
+288 songs - 1 day 1 hr 23 min - [published](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Acclamation of Bonds](https://open.spotify.com/track/1KKcGv11n6RVa2l7Edi5ZY) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [Acclamation of Bonds](https://open.spotify.com/album/0BBiyOZILxrh1WvVp0TfGb) | 6:00 | 2022-06-10 | 2022-07-19 |
 | [Age Of The Ordeal Of Iron](https://open.spotify.com/track/6PpdiS1ITIfNn2CN2dGVfM) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [Age Of The Ordeal Of Iron](https://open.spotify.com/album/2f59CKxRPx3HOc96WcCL4q) | 5:53 | 2022-05-13 | 2022-07-28 |
 | [Agnus Dei](https://open.spotify.com/track/0fGhJvH67AJzNbdmDI0VDc) | [Funeral Mist](https://open.spotify.com/artist/2HDKz66BGq7RI2wEoMgPcv) | [Salvation](https://open.spotify.com/album/4aa0c088fBY0PYvrhKVEp2) | 4:33 | 2022-07-13 | 2022-07-27 |
-| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 |  |
+| [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 | 2022-07-31 |
 | [Among the Unseen Ones](https://open.spotify.com/track/23h8JMaMMLe414X17cJaWF) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [While the Gods Are Sleeping](https://open.spotify.com/album/7qVN7yi6GFqfsItbmaqWbJ) | 5:39 | 2022-05-06 | 2022-06-11 |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
@@ -30,6 +30,7 @@
 | [Beheading of the Circus Director](https://open.spotify.com/track/5jMXAsU5zf0JwRk521rI71) | [Sarke](https://open.spotify.com/artist/3sJXLmH6J5IDiJpxJt8NSN) | [Beheading of the Circus Director](https://open.spotify.com/album/6jluDbYTif6ZoEQSLkkM1j) | 4:34 | 2021-12-17 | 2022-05-21 |
 | [Belie All Gods](https://open.spotify.com/track/0QvLYw1dPsNCvLmGcooCGV) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Belie All Gods](https://open.spotify.com/album/0Em2sY5Yr5fKxP0iKtzW7f) | 5:05 | 2022-04-29 | 2022-05-28 |
 | [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/0i1xhn4lNnR2G3hUwybhW7) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/0IzZybUYqSYhCnt1FI5SWz) | 8:06 | 2022-07-13 | 2022-07-28 |
+| [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/54gobTrNsykhJzLP2hL1ju) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 8:06 | 2022-07-13 |  |
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |

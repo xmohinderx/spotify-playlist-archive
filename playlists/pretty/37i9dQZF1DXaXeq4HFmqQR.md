@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Myriam Hernandez y más mujeres, a todo volumen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,993 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,992 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 29 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:40 |
 | 30 | [Espero](https://open.spotify.com/track/05fzteOLEheflpw2UEb6LY) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [O Marineros](https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I) | 4:26 |
 | 31 | [Bachata Rosa](https://open.spotify.com/track/09CNlvNraPXfr7HqyzSItD) | [Consuelo Schuster](https://open.spotify.com/artist/1wZ9Xc5xzw5ag4rpHBdMTk) | [Esta Vez](https://open.spotify.com/album/3hzH1IMsH8PXbBIYJUXUYl) | 3:45 |
-| 32 | [Esta Canción](https://open.spotify.com/track/6n9ddGXxuun1jTX2bxYilp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:14 |
-| 33 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
+| 32 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
+| 33 | [Esta Canción](https://open.spotify.com/track/6n9ddGXxuun1jTX2bxYilp) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Monstruo](https://open.spotify.com/album/5SGrWFF8xTjF4BTK8K6zCt) | 3:14 |
 | 34 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 | 35 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
 | 36 | [Por Que Se Fue la Paloma](https://open.spotify.com/track/7MfqQD9POKCfuxn5GxEO7Y) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Por Que Se Fue la Paloma](https://open.spotify.com/album/3TW1yBSvYhoFflREstW8Cd) | 4:03 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 39 | [Corazón Astral](https://open.spotify.com/track/6POeNaMCaqfJZIgA11NR7T) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Corazón Astral](https://open.spotify.com/album/47FP5YVqwPrrOAOVhNfY4T) | 3:11 |
 | 40 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 |
 | 41 | [Foto Pa Ti](https://open.spotify.com/track/6fZVXHccQe6EbXavK9FLHg) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Foto Pa Ti](https://open.spotify.com/album/3blG9mBh5tpX9u8SWWYCTb) | 3:06 |
-| 42 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 |
-| 43 | [Quiero Que Seas Tú](https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Quiero Que Seas Tú](https://open.spotify.com/album/42SkhzG4LsVSPfpa0nEiZ5) | 2:58 |
+| 42 | [Quiero Que Seas Tú](https://open.spotify.com/track/0qBn4QfRGYx8KKbpYTzbcm) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Quiero Que Seas Tú](https://open.spotify.com/album/42SkhzG4LsVSPfpa0nEiZ5) | 2:58 |
+| 43 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 |
 | 44 | [Pasión Aka Ilusión](https://open.spotify.com/track/7jhPBSMQy1uFfoIRqwQCXt) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [I\. Entusiasmo \(Deluxe\)](https://open.spotify.com/album/0o4jDvbgrcERBrAFhVIrE9) | 3:15 |
 | 45 | [Dale Mami](https://open.spotify.com/track/5YNNsFjx3bDuwFYIOb8cTs) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Dale Mami](https://open.spotify.com/album/1Irv7ASqWf7m6Yyy7RBuaR) | 3:08 |
 | 46 | [Es Real](https://open.spotify.com/track/48mDMIRYbrVEcHjt5y7vpK) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Es Real](https://open.spotify.com/album/7L7hGH6oMXQ7J8uFceyvFz) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [en diciembre \(me haces falta\)](https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [en diciembre \(me haces falta\)](https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK) | 3:57 |
 | 50 | [Te Traigo Flores](https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Te Traigo Flores](https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7) | 3:51 |
 
-Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMGJiNzVjY2M4NTJkNTU2ZjM4NzBmYTEwZGYwZDA0MDA2`
+Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMDI1OTZhYzg0Zjg2MDc3Njg4MzhiNzZkZDViZGNkZmJl`

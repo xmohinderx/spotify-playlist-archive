@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Marcianeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,173 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,216 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [X Dinero](https://open.spotify.com/track/5rqOopoA9X1ybr0Yfk9YOx) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Trap Life](https://open.spotify.com/album/20TTxQ5tBU35RYiAghI6uf) | 2:54 |
-| 2 | [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Donner](https://open.spotify.com/artist/0lMC6m6mH2gDFTtZMsw833) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 |
+| 2 | [Haciendo Billete](https://open.spotify.com/track/4MQp8Cw2tLo2MJYDR5GUdg) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [DONNER](https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6) | [Haciendo Billete](https://open.spotify.com/album/0xxvVt3drEUc0xIHy18n6C) | 2:34 |
 | 3 | [Ninja](https://open.spotify.com/track/1KA0rapksWOFfakg6nWxCz) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Ninja](https://open.spotify.com/album/7wzvfaRD20FC9S5yJYNlxQ) | 2:20 |
 | 4 | [Singapur \(feat\. Yung Beef\)](https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:49 |
 | 5 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 |

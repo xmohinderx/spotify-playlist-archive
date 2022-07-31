@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 70s.",
-  "num_followers": 1133838,
+  "num_followers": 1134364,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODcxMTMyOCwwMDAwMDAwMGU0MzNhOTI4ZWExN2ZjM2MxMjgxMGFiMDBkNDNkNmQ5",
+  "snapshot_id": "MTY1ODcxMTMyOCwwMDAwMDAwMGY3M2Q5YzE2NWQ1ZGIyMDNmMjAxNzUwZTU2NDBlZDQ3",
   "tracks": [
     {
       "added_at": "2022-07-25 01:08:48",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-25 01:08:48",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-07-25 01:08:48",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 258411,
       "name": "You're so Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2022-07-25 01:08:48",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-07-25 01:08:48",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-07-25 01:08:48",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2022-07-25 01:08:48",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "added_at": "2022-07-25 01:08:48",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2022-07-25 01:08:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-25 01:08:48",
       "album": {
-        "name": "The Best: Loggins & Messina Sittin' In Again",
-        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
-      },
-      "artists": [
-        {
-          "name": "Loggins & Messina",
-          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Danny's Song",
-      "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
-    },
-    {
-      "added_at": "2022-07-25 01:08:48",
-      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 313373,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2022-07-25 01:08:48",
+      "album": {
+        "name": "The Best: Loggins & Messina Sittin' In Again",
+        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
+      },
+      "artists": [
+        {
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "Danny's Song",
+      "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
     },
     {
       "added_at": "2022-07-25 01:08:48",

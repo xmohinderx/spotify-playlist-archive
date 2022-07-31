@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,933 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,990 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 37 | [Station Six](https://open.spotify.com/track/4RUphASXlXEs8SJQvES7N0) | [Dualistic](https://open.spotify.com/artist/5kVFEq0ZL9wPGx6nnJDcm8) | [Station Six](https://open.spotify.com/album/15jLSYp2WsQVPI6GWjq4Al) | 5:00 |
 | 38 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
 | 39 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
-| 40 | [Closer](https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Closer](https://open.spotify.com/album/5YlSfO92YJjjEJWUVMlsUG) | 3:24 |
-| 41 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
+| 40 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
+| 41 | [Closer](https://open.spotify.com/track/6YoCno4k5HHDJmTl7i8MAY) | [Sofia](https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb) | [Closer](https://open.spotify.com/album/5YlSfO92YJjjEJWUVMlsUG) | 3:24 |
 | 42 | [Nautic](https://open.spotify.com/track/3Pevs0j3N02qNVFSqyyz0L) | [nusonix](https://open.spotify.com/artist/2UhBoQ9QOO6zarmuQs5NdU) | [Nautic](https://open.spotify.com/album/05SCpmOlyRi3XnrAySMnHu) | 3:56 |
 | 43 | [Lonely Night \- Zero T's Setting Sun Remix](https://open.spotify.com/track/62xrslsJ8crkaQ8jdm3C35) | [Mango](https://open.spotify.com/artist/3bCIW0Hzkeswmblop0PGHD), [Mathman](https://open.spotify.com/artist/1AWZ73rKG01b9UNJ8dG8m6) | [Lonely Night \(Zero T's Setting Sun Remix\)](https://open.spotify.com/album/4SMiTZjeFG0O7kCO8AyZtQ) | 4:04 |
 | 44 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 46 | [Here With Me](https://open.spotify.com/track/4p4MvXHTOdvfuP1tgmQqtK) | [LSB](https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN) | [Here With Me](https://open.spotify.com/album/7LtL72Re65c3wbBEmtF1tC) | 6:48 |
 | 47 | [Friend](https://open.spotify.com/track/5f2arlFLA9GaQ1Ka48fWgp) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Friend](https://open.spotify.com/album/0AFzj8NngCJNwNzke4VxpC) | 3:47 |
 | 48 | [Save Me From You](https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Passage](https://open.spotify.com/album/15P7PptbdFFnrVcP0MwYh6) | 4:01 |
-| 49 | [Without You](https://open.spotify.com/track/7wCFdwCbImHKnPhUvEfd6W) | [Leniz](https://open.spotify.com/artist/1qHvK5Yi7L8CUDuK9HahoX), [Painted Skies](https://open.spotify.com/artist/1fVaN6BKS36rUE3pYojHAp) | [Without You](https://open.spotify.com/album/1BHUOavRJFkE1XwUxuqFIZ) | 5:42 |
+| 49 | [Evolving](https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx) | [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Evolving](https://open.spotify.com/album/7fvxLFTtlCn5FwQaDzpz0b) | 3:40 |
 | 50 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 
-Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMGM2Mzc0ZTAxYmYwZmEzYTRiZmZiNWYyYzdkZTdhZWMw`
+Snapshot ID: `MTY1NTIwNjk4OCwwMDAwMDAwMGMxMWMyOTUzNjJlNDQxYmUxZjE5ZDMzODYyNjNkNTNj`

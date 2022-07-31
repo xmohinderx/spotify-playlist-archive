@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Luchè, Sfera Ebbasta, Rhove, Paky e tanti altri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,749 likes - 97 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,774 likes - 97 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 8 | [Sarabamba \(feat\. Guè & Crookers\)](https://open.spotify.com/track/4ts969TgdnzsYvadQ5TTm2) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Sarabamba \(feat\. Guè & Crookers\)](https://open.spotify.com/album/0885yPqvgNKCwcjvfSqGpK) | 4:01 |
 | 9 | [Game Over](https://open.spotify.com/track/3ZQ7r3RCWJCPyPTV0nFFrn) | [Blito](https://open.spotify.com/artist/3Bk8w4bGBA3Wy9Uprczikc) | [Game Over](https://open.spotify.com/album/12gN8jxbq9WohnOVqc8opK) | 2:56 |
 | 10 | [Sole Di Fine Estate](https://open.spotify.com/track/7LnmTuGOt6jO9u4fGtk7KY) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sole Di Fine Estate](https://open.spotify.com/album/5AgCmGU3wXyXgA60tNXoSp) | 2:39 |
-| 11 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Ciko](https://open.spotify.com/artist/1D7ppoTFTx2fi5bgx2Mrmg), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr Monty](https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ), [DamianK](https://open.spotify.com/artist/7EMurL6dl6HOnbjp0Il3h8) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 |
+| 11 | [McRione](https://open.spotify.com/track/4Bv58XK0LLfMbY4OCYzIEl) | [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [Inkiostro](https://open.spotify.com/artist/5jeEXySnPyzHkNJ7K7ZcLx), [Mr Monty](https://open.spotify.com/artist/7JcNTjkikbcE2kXFdlEySZ), [DamianK](https://open.spotify.com/artist/7EMurL6dl6HOnbjp0Il3h8) | [Fuck Pop](https://open.spotify.com/album/2I9OQRqMr5HCOxId5EbqRV) | 2:48 |
 | 12 | [LEBLOCK](https://open.spotify.com/track/7xLGsEwGAImqfR520S5lmO) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs) | [LEBLOCK](https://open.spotify.com/album/2RXAXFkxyPxoK6mz2QtNNS) | 2:37 |
 | 13 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 |
 | 14 | [TRENCHES](https://open.spotify.com/track/30Dvav5aDOVbMxBow9H2dR) | [Pablo CT1](https://open.spotify.com/artist/7MgujiE0xHTeS5tqBNKRfe) | [TRENCHES](https://open.spotify.com/album/0yHDhz1SKtKgwWtFy8Xp22) | 2:53 |

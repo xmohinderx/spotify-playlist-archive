@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women from Belgium, at full volume\. Cover: WAYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,687 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,690 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 6 | [Summerbody](https://open.spotify.com/track/1obpOT8Jvwccc8O8i0tRKD) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Summerbody](https://open.spotify.com/album/5mjR8Ou90Es3mgwAPInEdd) | 2:18 |
 | 7 | [Geen Tranen Meer Over](https://open.spotify.com/track/4V2eYSKckdvIbb3t20K3ga) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Geen Tranen Meer Over](https://open.spotify.com/album/6H3SqoeRWd16mbKQYOdKEW) | 3:18 |
 | 8 | [Come Out and Play \- Single Version](https://open.spotify.com/track/7oxaCdx65RLFH42bciD8TG) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Come Out and Play](https://open.spotify.com/album/1y47df8pGZdCDpj10AQB9i) | 3:36 |
-| 9 | [Hate You](https://open.spotify.com/track/5fvorAQup5Z61u1TdZNQff) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/75w9NF1ZtnSE7ChqrdPMk9) | 3:24 |
+| 9 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 |
 | 10 | [Jealousy](https://open.spotify.com/track/3KQ8SBEm0np5qrRGNeqYJl) | [Maude](https://open.spotify.com/artist/3V0aYZvJGDE2SZwNNv80Xa) | [Jealousy](https://open.spotify.com/album/2p4vNjnAh48geqt17O9IhS) | 3:32 |
 | 11 | [L'ère de rien](https://open.spotify.com/track/7lf93GrBgy08lvRTaZYsey) | [Olive](https://open.spotify.com/artist/6vAVYxk3IayFetuFPhSuVw) | [L'ère de rien](https://open.spotify.com/album/3dLof71mxOmsAOXd816oDD) | 3:02 |
 | 12 | [JUNE 30](https://open.spotify.com/track/7bDnsAy1jE7ZmLdLjUuCbs) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [CONSCIOUS](https://open.spotify.com/album/6F8CsdcDuAzx59RqzCZLXy) | 2:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 | 48 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 |
 | 49 | [Overkant](https://open.spotify.com/track/4gYedJwGoOcFPWEvgB5g2B) | [IKRAAAN](https://open.spotify.com/artist/2tCegOPiGh8HZLAy1fmi8A) | [Geestelijke Gezondheidszorg](https://open.spotify.com/album/3WTHD1uF2jkLEDVtRdNQ8x) | 2:40 |
 
-Snapshot ID: `MTY1ODIzOTA3MCwwMDAwMDAwMDIxODg5NTFhZjRjZmNhZDc1YjNjYmNkODJmNTU0MmVm`
+Snapshot ID: `MTY1ODIzOTA3MCwwMDAwMDAwMDZjZDgxNDE5NjMyMTZhZGQ1ZjMzYWNjMzMyYjg3M2E1`

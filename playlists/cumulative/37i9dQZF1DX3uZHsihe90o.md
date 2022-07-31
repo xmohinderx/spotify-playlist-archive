@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-130 songs - 5 hr 37 min - [published](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
+131 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 | 2021-12-16 |  |
 | [Mud Puddle](https://open.spotify.com/track/4aOVkC8IPmOFw963gwu6iI) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Big Shiny Spoons](https://open.spotify.com/album/48MhlB2X3QT0WP5hZ1pe9y) | 3:46 | 2021-12-16 | 2022-07-19 |
 | [My Country Tis of Thee](https://open.spotify.com/track/7I8OOfdIvHnvLUJ09BQBU3) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/03QD54RAeTky8OoxIUxHxs) | 1:42 | 2021-12-16 | 2022-07-28 |
+| [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re), [Graham Nash](https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 | 2022-04-15 |  |
 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 | 2021-12-16 |  |
 | [New Friend](https://open.spotify.com/track/75SQ8xYtyY7kiKb6oefoV1) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [The Full Circle](https://open.spotify.com/album/60ghiOTP0JVoCg8lvnd9P3) | 2:22 | 2021-12-16 | 2022-07-25 |
 | [Oh, Susanna](https://open.spotify.com/track/3nj18sxe1CA0eohDsDirrm) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [American Favorite Ballads, Vol\. 1](https://open.spotify.com/album/7tOP92RZSo7e896sPIOPY8) | 1:17 | 2021-12-16 |  |
@@ -107,7 +108,7 @@
 | [Shoobeedoo \(We Go Together\)](https://open.spotify.com/track/0bbtmAAVUxxWBZPn3z92bM) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Little Steps Big Adventures](https://open.spotify.com/album/40hZGwdhnrfNcfE6HqWjte) | 3:24 | 2022-04-15 |  |
 | [Shoobeedoo \(We Go Together\)](https://open.spotify.com/track/7JPUkMOrayjfYdoIHRe1aM) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Little Steps Big Adventures](https://open.spotify.com/album/0xiG2oOtHBERV0uaAEmXWx) | 3:24 | 2021-12-16 | 2022-07-29 |
 | [Shortnin Bread](https://open.spotify.com/track/0brcPEEXtaXOD9jPZs639u) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n), [Fysah Thomas](https://open.spotify.com/artist/5rCquw5nHKi2hyekBM9uLm) | [Here I Am!](https://open.spotify.com/album/5rjEdo4OAe1uOuH6jvX4bN) | 1:47 | 2021-12-16 |  |
-| [Skip to My Lou](https://open.spotify.com/track/5mbwoWoIUulWO7M8ojU3RV) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Cisco Houston](https://open.spotify.com/album/1PBjD5r7GmDGdXv47bQMZi) | 2:51 | 2022-04-15 |  |
+| [Skip to My Lou](https://open.spotify.com/track/5mbwoWoIUulWO7M8ojU3RV) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Cisco Houston](https://open.spotify.com/album/1PBjD5r7GmDGdXv47bQMZi) | 2:51 | 2022-04-15 | 2022-07-31 |
 | [Skip To My Lou](https://open.spotify.com/track/1ycZhe1J06t6RZ0OK383f6) | [Cisco Houston](https://open.spotify.com/artist/1N5hj4BNumkXa8D3fyfMYE) | [Folk Songs For Kids](https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB) | 2:55 | 2021-12-16 | 2022-07-29 |
 | [Stop and Go](https://open.spotify.com/track/6UFUBoYk4c1bvVFFKfa1Fs) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [Get Moving With Ella Jenkins](https://open.spotify.com/album/0ApVj2H8jZn9NiPV7al4xb) | 3:45 | 2021-12-16 |  |
 | [Summer Days](https://open.spotify.com/track/0ETcX26w2dtcPeL4gL7o4P) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Summer Days](https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u) | 2:20 | 2021-12-31 |  |

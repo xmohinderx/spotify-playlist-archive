@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,787 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,790 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 37 | [1984](https://open.spotify.com/track/0F0j6ff6MBiwasFfBhrYuB) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:45 |
 | 38 | [Narcissist](https://open.spotify.com/track/0LkAjjrokJbccAfz5yftS1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 2:10 |
 | 39 | [Goodbye Sky Harbor](https://open.spotify.com/track/0xQXxwlG5KBXycQmcWDW3v) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 16:13 |
-| 40 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
-| 41 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 40 | [Literature Lovers](https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV) | [Jose Vanders](https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7) | [Literature Lovers](https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW) | 4:40 |
+| 41 | [The Joy of D.H\. Lawrence](https://open.spotify.com/track/77KyNPhCUXjkBaj5yQ9GY9) | [Erik Enocksson](https://open.spotify.com/artist/1ot4IWvtkwWLAYwNUJYZex) | [Kning Disk 2005\-2012 Box Set](https://open.spotify.com/album/7n0Ml88mIWDPvEBjDVlq8r) | 4:04 |
 | 42 | [Black Blade](https://open.spotify.com/track/4Nyx3c0IPFITNo42yodlrh) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Cultosaurus Erectus](https://open.spotify.com/album/2w9ox8f1PSz30Ayanrm9C4) | 6:39 |
 | 43 | [Shalott](https://open.spotify.com/track/1mCm0Tb2pLTlJ26SxqrAFY) | [Emilie Autumn](https://open.spotify.com/artist/1K6L6Hw4HibspToNP1FeBC) | [Opheliac \(The Deluxe Edition\)](https://open.spotify.com/album/7FDaA4N8rvotYVci2updNR) | 4:04 |
 | 44 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 |
 | 50 | [Orpheo Looks Back](https://open.spotify.com/track/4JAMwBOzLF61hZVndX0oGQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Break It Yourself](https://open.spotify.com/album/4t062fa39U8W9MBz1sdJjQ) | 4:53 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDQ4MzYwNTJiMDNhOTdkNzIxN2EyNmZmMDQ3ZWUxMjAw`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGU3ODM2YzJmZDcwNjBiNTJkZGJiZGJmMGI0Mjg4ODZk`

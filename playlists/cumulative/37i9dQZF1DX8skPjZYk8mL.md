@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-465 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
+466 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2021-11-08 |  |
 | [Going on a trip](https://open.spotify.com/track/145u5e0k2ZlZwXOp8y2K4h) | [Fabiana Elder](https://open.spotify.com/artist/7AOIK81gV4ThccuqX7ITzC) | [In mom's purse](https://open.spotify.com/album/1BqOFw0TujOG2uf63uT57H) | 1:29 | 2022-05-13 |  |
 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 | 2021-11-08 |  |
-| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2021-11-08 |  |
+| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2021-11-08 | 2022-07-31 |
+| [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2022-07-29 |  |
 | [Good Night Hug](https://open.spotify.com/track/5wiOuGEIWtgcBrt134k4lF) | [Bella Wonder](https://open.spotify.com/artist/4anNtmalUlxmPp1vCwLS8a) | [Good Night Hug](https://open.spotify.com/album/4S6vHbsrpruKvkyQBqB4yD) | 1:56 | 2021-11-08 |  |
 | [Good Night to All](https://open.spotify.com/track/77aADUCyj7qIARkUn61U1Q) | [Norton Lamb](https://open.spotify.com/artist/6utcrNkoGuFBgRTGffKOSr) | [Good Night to All](https://open.spotify.com/album/47eJeHJ75olaQwEyumMNHc) | 1:29 | 2021-11-08 |  |
 | [Good Night, Everyone](https://open.spotify.com/track/47Ehr3NNx21NOO1ggFIVFT) | [Morty Platt](https://open.spotify.com/artist/5OCwYaGPaxkqChAiKEGxOH) | [Good Night, Everyone](https://open.spotify.com/album/2ZGoTWS6V5VWCpgWuVoMni) | 1:15 | 2021-11-08 |  |

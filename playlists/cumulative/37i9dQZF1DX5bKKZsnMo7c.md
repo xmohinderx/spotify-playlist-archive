@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-141 songs - 7 hr 54 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
+142 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/04RUTcmGoLXt8vaCbdBnpU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Hermit the Frog](https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:35 | 2022-05-17 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2022-05-17 |  |
 | [I Deserve to Bleed](https://open.spotify.com/track/27cw0tNJKQQW2CJMGcCfZb) | [Sushi Soucy](https://open.spotify.com/artist/1EbbJiG9LzlH2i7fCjhkvv) | [I Deserve to Bleed](https://open.spotify.com/album/4ckUf8kp5DxcJRRsy0yjXm) | 1:44 | 2022-05-17 |  |
-| [I Don't Want to Die Tonight](https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/5tJcS8lOJYMD3EOHbQfQyJ) | 3:17 | 2022-07-22 |  |
+| [I Don't Want to Die Tonight](https://open.spotify.com/track/55uo07VOaxz3idi6p34Wsa) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/6onHzf3tLLdBEABZF4JxE7) | 3:17 | 2022-07-22 |  |
+| [I Don't Want to Die Tonight](https://open.spotify.com/track/72Vm3AzrhKYJr4ZOwV2Uvh) | [Anthony Green](https://open.spotify.com/artist/0hxmHf6CqXsOLWgGXjmr7I) | [Boom\. Done.](https://open.spotify.com/album/5tJcS8lOJYMD3EOHbQfQyJ) | 3:17 | 2022-07-22 | 2022-07-31 |
 | [I Fucked Yr Mom](https://open.spotify.com/track/70WFvp0yF9m1asIb60gKcj) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Juno Goes to the Big House](https://open.spotify.com/album/0bPiaza1NaQbzdg8s1CJOn) | 2:32 | 2022-05-17 |  |
 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2022-05-17 |  |

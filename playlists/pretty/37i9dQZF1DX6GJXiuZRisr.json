@@ -1,12 +1,12 @@
 {
   "description": "Dark and moody progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1373335,
+  "num_followers": 1373715,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDcyNTMzNGNjZDVlNjNhMTZjNDk4ZDNhM2JmMGIyYzI0",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGUyZDIwNGVkNGI2N2Q3MjdjZTNjYzI2Y2NkODY3ZTU1",
   "tracks": [
     {
       "added_at": "2022-07-01 11:37:35",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        }
-      ],
-      "duration_ms": 250587,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "The World You See",
         "url": "https://open.spotify.com/album/0V9gdn8ZnhvkpRAvdnkT7I"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 217515,
       "name": "The World You See",
       "url": "https://open.spotify.com/track/4TQgbkv9CF1Qy4GIfpZeSO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "duration_ms": 250587,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Gamma",
+        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        }
+      ],
+      "duration_ms": 381254,
+      "name": "Gamma",
+      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Thermal / Oblivion",
@@ -951,6 +967,30 @@
       "duration_ms": 229440,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/49KOIOQPegsRJM9gYhfCw3"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Shall Ocin",
+          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "duration_ms": 460780,
+      "name": "Origin",
+      "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1029,46 +1069,6 @@
       "url": "https://open.spotify.com/track/6giM7T99H6Xr4O2q4i4MQS"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Gamma",
-        "url": "https://open.spotify.com/album/3Drkk9lFZi6LdgXG32kW9C"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 381254,
-      "name": "Gamma",
-      "url": "https://open.spotify.com/track/0oIbkBXuNKpRGrePp7cAeo"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Shall Ocin",
-          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
-        },
-        {
-          "name": "braev",
-          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
-        }
-      ],
-      "duration_ms": 460780,
-      "name": "Origin",
-      "url": "https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc"
-    },
-    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Should Have Seen It Coming",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 245881,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Reminiscing",
         "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1143,6 +1143,22 @@
       "duration_ms": 209081,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Turning Away",
@@ -1239,6 +1239,22 @@
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1263,6 +1279,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Our Space",
+        "url": "https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Dino Lenny",
+          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
+        }
+      ],
+      "duration_ms": 309677,
+      "name": "Our Space - Edit",
+      "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Deep State",
         "url": "https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo"
       },
@@ -1275,22 +1311,6 @@
       "duration_ms": 337500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1387,26 +1407,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Our Space",
-        "url": "https://open.spotify.com/album/5LDTX7O86bPNIQrEfiSiON"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Dino Lenny",
-          "url": "https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L"
-        }
-      ],
-      "duration_ms": 309677,
-      "name": "Our Space - Edit",
-      "url": "https://open.spotify.com/track/41rjAEQbD85oUdFX9uPGqG"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
       },
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Paradise (feat. Lucas Ariel)",
-        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
-      },
-      "artists": [
-        {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
-        },
-        {
-          "name": "Lucas Ariel",
-          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
-        }
-      ],
-      "duration_ms": 232740,
-      "name": "Paradise (feat. Lucas Ariel)",
-      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/36BFn54Z3fFYVBXMCG99qZ"
       },
@@ -1487,6 +1467,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Paradise (feat. Lucas Ariel)",
+        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
+      },
+      "artists": [
+        {
+          "name": "Luis Torres",
+          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+        },
+        {
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+        }
+      ],
+      "duration_ms": 232740,
+      "name": "Paradise (feat. Lucas Ariel)",
+      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Kensh\u014d",
         "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Vommuli",
-        "url": "https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Vommuli",
-      "url": "https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "To The Ground",
         "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 233440,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Vommuli",
+        "url": "https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Vommuli",
+      "url": "https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Jack Dawson",
-          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "My Stripes",
         "url": "https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 267488,
       "name": "My Stripes",
       "url": "https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Spectacle",
-        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        },
-        {
-          "name": "Dezza",
-          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
-        }
-      ],
-      "duration_ms": 193563,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Kochi EP",
         "url": "https://open.spotify.com/album/0g8ukB0hRj9nW6bfJUUdfd"
       },
@@ -1863,22 +1843,6 @@
       "duration_ms": 289672,
       "name": "Kochi",
       "url": "https://open.spotify.com/track/3qda6E8ABSxAXfyxQtdtwF"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/7hFb7LV5ylY7sGEWzKuK95"
-      },
-      "artists": [
-        {
-          "name": "Kiismin",
-          "url": "https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/3iC26Le1kk7MrqUipyjzlk"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1899,6 +1863,22 @@
       "duration_ms": 177597,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/3SXRZuCEGbbxsPiHyqwWuG"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/7hFb7LV5ylY7sGEWzKuK95"
+      },
+      "artists": [
+        {
+          "name": "Kiismin",
+          "url": "https://open.spotify.com/artist/1FbUnq2UlNRgUmpMx98NMe"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/3iC26Le1kk7MrqUipyjzlk"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1935,6 +1915,26 @@
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        },
+        {
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
+        }
+      ],
+      "duration_ms": 193563,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
     }
   ],
   "unique_name": "Night Rider",

@@ -625,6 +625,24 @@
     {
       "album": {
         "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216710,
+      "name": "MAREED",
+      "url": "https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
         "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
       },
       "artists": [
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 216710,
       "name": "MAREED",
       "url": "https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL"
@@ -901,6 +919,24 @@
     {
       "album": {
         "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177551,
+      "name": "SAN STEFANO",
+      "url": "https://open.spotify.com/track/2iFj2z7KNZjQfYZHVk02ZT"
+    },
+    {
+      "album": {
+        "name": "SAN STEFANO",
         "url": "https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1"
       },
       "artists": [
@@ -911,7 +947,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 177551,
       "name": "SAN STEFANO",
       "url": "https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC"
@@ -1106,6 +1142,28 @@
     },
     {
       "album": {
+        "name": "SAN STEFANO",
+        "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "DizzyTooSkinny",
+          "url": "https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157402,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7"
+    },
+    {
+      "album": {
         "name": "VALENTINO",
         "url": "https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4"
       },
@@ -1143,7 +1201,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 157402,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM"

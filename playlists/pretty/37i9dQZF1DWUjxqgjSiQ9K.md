@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto: Un Corazón
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,062 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,174 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 43 | [Vuelo](https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Vuelo](https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV) | 2:05 |
 | 44 | [Me Has Cambiado](https://open.spotify.com/track/0NSKiywwGZyL8dvvljO4Vi) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [River](https://open.spotify.com/artist/0m0a8tOXrM3wJD6IrCuPtg), [Reuben Van Lierop](https://open.spotify.com/artist/2qWla13Grfc74uuLk08d1R) | [Me Has Cambiado](https://open.spotify.com/album/6pTATPNGGnPjf3s9nbBcuP) | 2:36 |
 | 45 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 |
-| 46 | [Guíame](https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn) | [Gabriel EMC](https://open.spotify.com/artist/5YPRs7QLcwMYhLJni1fnjx) | [Guiame](https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu) | 3:20 |
+| 46 | [Guíame](https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Guiame](https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu) | 3:20 |
 | 47 | [Indestructible](https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw) | [El Leo Pa´](https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt) | [Indestructible](https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z) | 4:04 |
 | 48 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 | 49 | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/track/4eSTVukNr08v0IMbso7gCo) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [JMV The Producer](https://open.spotify.com/artist/5cFyv6N31ohxAL5NEbEhHx), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5) | [Siempre Ha Estado Aquí \(Remix\)](https://open.spotify.com/album/2hQULmsldbuwZrRTHC0Yzy) | 3:05 |

@@ -4,7 +4,7 @@
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-137 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/0PLlaQFb6drzj3TvrPayc8)
+138 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/0PLlaQFb6drzj3TvrPayc8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/track/47zBTlbsiXs9ooyPo7Z7VT) | [Nego do Borel](https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Contatinho \(feat\. Luan Santana\)](https://open.spotify.com/album/2HYVLeXZVCgSTrwBxtV9za) | 3:00 | 2022-02-18 | 2022-07-25 |
 | [Corpo Sensual \(feat\. Mateus Carrilho\)](https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:50 | 2022-02-18 | 2022-07-27 |
 | [Cê Acredita](https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Cê Acredita](https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY) | 2:50 | 2022-02-18 | 2022-07-28 |
+| [Deixa Ela Beijar](https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4) | 2:46 | 2022-03-24 |  |
 | [Deixa Ela Beijar](https://open.spotify.com/track/7q5agbUOzZnVF4Yes3AD7I) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Deixa Ela Beijar](https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov) | 2:46 | 2022-02-18 | 2022-07-29 |
 | [Deixa em Off \- Ao Vivo](https://open.spotify.com/track/5sudtP2ME6aIHN20glKW0k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma do Pagode XV Anos \(Ao Vivo\)](https://open.spotify.com/album/6VLXyeH6GWVBqgntHlK5NW) | 2:53 | 2022-02-18 |  |
 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 | 2022-03-24 | 2022-04-21 |
@@ -57,7 +58,7 @@
 | [Ela Me Faz](https://open.spotify.com/track/2B5AbenHFTVtThonFDvg9x) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/2YWDBpZGMXcvkCu05Zb87z) | 2:59 | 2022-03-24 |  |
 | [Ela Me Faz](https://open.spotify.com/track/2hxWfUcyttEpiMRkntMxvE) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Ainda Bem Que Eu Segui as Batidas do Meu Coração](https://open.spotify.com/album/5JvurTycAm8BCyBdJ69SEU) | 2:59 | 2022-03-24 | 2022-07-28 |
 | [Ela É do Tipo](https://open.spotify.com/track/2x8TNY9KwNvD19gVGs4WOP) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Ela É do Tipo](https://open.spotify.com/album/1hG0rwH2mYAzpWhGEYBRS8) | 3:24 | 2022-03-24 |  |
-| [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 | 2022-03-24 |  |
+| [Embrasa](https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Vitão](https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8) | 4:03 | 2022-03-24 | 2022-07-31 |
 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 | 2022-02-18 | 2022-07-17 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-24 |  |
 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 | 2022-02-18 |  |

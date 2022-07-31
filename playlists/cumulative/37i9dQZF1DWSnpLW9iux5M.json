@@ -1403,7 +1403,7 @@
     {
       "album": {
         "name": "O Holy Night (Amapiano)",
-        "url": "https://open.spotify.com/album/7IWxsAiyW3GnBaM2gWW81T"
+        "url": "https://open.spotify.com/album/1DOZF7MPZV7oIHfRKfOVwi"
       },
       "artists": [
         {
@@ -1418,6 +1418,28 @@
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 369014,
+      "name": "O Holy Night - Amapiano",
+      "url": "https://open.spotify.com/track/2nygE7wq6PU04FZB0x9OGb"
+    },
+    {
+      "album": {
+        "name": "O Holy Night (Amapiano)",
+        "url": "https://open.spotify.com/album/7IWxsAiyW3GnBaM2gWW81T"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "P-Tempo",
+          "url": "https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
       "duration_ms": 369014,
       "name": "O Holy Night - Amapiano",
       "url": "https://open.spotify.com/track/3QI8wVjDKqVMJAc5jDfHei"

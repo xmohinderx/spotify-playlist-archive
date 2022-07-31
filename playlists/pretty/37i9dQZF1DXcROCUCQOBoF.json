@@ -1,12 +1,12 @@
 {
   "description": "Riscopri le pi\u00f9 grandi hit del 2015! Cover: Marco Mengoni",
-  "num_followers": 4696,
+  "num_followers": 4704,
   "original_name": "Le Hit Del 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNDUwMDIzOCwwMDAwMDAwMGFhZDUzMmY4YjYyMTBmZjY0OTI1ODVlODVlNTU3ZTYz",
+  "snapshot_id": "MTYwNDUwMDIzOCwwMDAwMDAwMDhjOGVlNGEyNGYyZWE5ZjU1YTlmZDE2M2EwMzZhMDA4",
   "tracks": [
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
+        "name": "Lorenzo 2015 CC.",
+        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "Sabato",
+      "url": "https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
         "name": "We the Generation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0sztwpDG0COJ1HoJRD74bn"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 242440,
       "name": "Lay It All on Me (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/38ismoqQYn75ruDSQ2Jtx8"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
-        "name": "Lorenzo 2015 CC.",
-        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "Sabato",
-      "url": "https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt"
     },
     {
       "added_at": "2020-11-04 14:30:38",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2020-11-04 14:30:38",
       "album": {
-        "name": "Lorenzo 2015 CC.",
-        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
-      },
-      "artists": [
-        {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
-        }
-      ],
-      "duration_ms": 231306,
-      "name": "Gli Immortali",
-      "url": "https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd"
-    },
-    {
-      "added_at": "2020-11-04 14:30:38",
-      "album": {
         "name": "Pop-hoolista",
         "url": "https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 258880,
       "name": "L'amore eternit (feat. Noemi)",
       "url": "https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt"
+    },
+    {
+      "added_at": "2020-11-04 14:30:38",
+      "album": {
+        "name": "Lorenzo 2015 CC.",
+        "url": "https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Gli Immortali",
+      "url": "https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd"
     },
     {
       "added_at": "2020-11-04 14:30:38",

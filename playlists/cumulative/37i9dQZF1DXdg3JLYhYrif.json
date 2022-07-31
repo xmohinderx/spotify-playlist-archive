@@ -773,6 +773,28 @@
     {
       "album": {
         "name": "Deixa Ela Beijar",
+        "url": "https://open.spotify.com/album/0cRh2xyjTOdUSVBNk84nd4"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166410,
+      "name": "Deixa Ela Beijar",
+      "url": "https://open.spotify.com/track/2KxHe4qxNgeFcKpE2r2aBt"
+    },
+    {
+      "album": {
+        "name": "Deixa Ela Beijar",
         "url": "https://open.spotify.com/album/3ZPrHZ58I5eh9jtOBsFcov"
       },
       "artists": [
@@ -1009,7 +1031,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 243020,
       "name": "Embrasa",
       "url": "https://open.spotify.com/track/4iANxSIDT3kGekiquMSAgT"

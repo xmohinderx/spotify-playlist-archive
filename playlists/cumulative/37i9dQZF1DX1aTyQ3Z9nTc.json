@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 219520,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2jCSd2lOtWQKtwb7FdfvPQ"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
@@ -663,6 +663,42 @@
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r"
+    },
+    {
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260551,
+      "name": "Body Pump",
+      "url": "https://open.spotify.com/track/7qxqsahO7eTkJpaJZUNfws"
+    },
+    {
+      "album": {
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "album": {
@@ -703,10 +739,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96133,
+      "name": "Break it off - Bonus",
+      "url": "https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1"
     },
     {
       "album": {
@@ -800,6 +854,28 @@
     },
     {
       "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
         "name": "Coconut Oil",
         "url": "https://open.spotify.com/album/24otSlk8g6JzdO6vNpCUD5"
       },
@@ -859,7 +935,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 206681,
       "name": "Coming Closer",
       "url": "https://open.spotify.com/track/238p3EKRYESqsZdgE5DCDR"
@@ -1093,10 +1169,32 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 173666,
       "name": "Disco Pantz",
       "url": "https://open.spotify.com/track/2V6kqAgUXFhgjP2gx9IvfL"
+    },
+    {
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "album": {
@@ -1147,7 +1245,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -1217,7 +1315,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 207327,
       "name": "FEEL SOMETHING DIFFERENT",
       "url": "https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY"
@@ -1243,10 +1341,32 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 189720,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/0XX56sCCGr5uxSmtdmySRB"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Melo-X",
+          "url": "https://open.spotify.com/artist/6AxHPycFTjxDROqK1pzsAE"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216339,
+      "name": "FIND YOUR WAY BACK - MELO-X Remix",
+      "url": "https://open.spotify.com/track/1g0k1bFcLKyIrdsdUkF3eW"
     },
     {
       "album": {
@@ -1626,6 +1746,54 @@
     },
     {
       "album": {
+        "name": "333 (Deluxe)",
+        "url": "https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247117,
+      "name": "HMU for a Good Time",
+      "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
+    },
+    {
+      "album": {
+        "name": "hollaback bitch (with Shygirl & Channel Tres)",
+        "url": "https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203549,
+      "name": "hollaback bitch (with Shygirl & Channel Tres)",
+      "url": "https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/6sgNwrXm2CNwUtSNV7cSM0"
       },
@@ -1685,7 +1853,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 155224,
       "name": "How's Life?",
       "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
@@ -2207,7 +2375,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
@@ -2344,6 +2512,50 @@
     },
     {
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "album": {
+        "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/65Xj1lewlRP7RB5LiCeNBV"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198839,
+      "name": "Midnight Hour with Boys Noize & Ty Dolla $ign",
+      "url": "https://open.spotify.com/track/5AFrctm65wWIqJsjHPPx85"
+    },
+    {
+      "album": {
         "name": "Miss The Days",
         "url": "https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J"
       },
@@ -2377,7 +2589,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 244861,
       "name": "Move Like This",
       "url": "https://open.spotify.com/track/3Jw0dL0zh6zAYHpXa0sbrA"
@@ -2516,6 +2728,24 @@
     },
     {
       "album": {
+        "name": "SG8*",
+        "url": "https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "No Chill",
+      "url": "https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq"
+    },
+    {
+      "album": {
         "name": "No Fear No More (Remix)",
         "url": "https://open.spotify.com/album/23NyPBINwg9BI8WgtgEu5t"
       },
@@ -2531,7 +2761,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 174682,
       "name": "No Fear No More (Remix)",
       "url": "https://open.spotify.com/track/36X1P3v7N1dv06bh2aPtMF"
@@ -2831,7 +3061,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 153000,
       "name": "OVERDOSE",
       "url": "https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl"
@@ -2857,6 +3087,28 @@
       "duration_ms": 149302,
       "name": "Overstayed",
       "url": "https://open.spotify.com/track/0GqhoSy21Qhp6036saeWLx"
+    },
+    {
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "album": {
@@ -2919,6 +3171,24 @@
       "duration_ms": 182960,
       "name": "Parachute - Big Gigantic Remix",
       "url": "https://open.spotify.com/track/1ZkK9XVWBM3OlbJelK0mK2"
+    },
+    {
+      "album": {
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/0QezBrYzFFT0f68zK6EvZI"
     },
     {
       "album": {
@@ -2999,6 +3269,24 @@
       "duration_ms": 188000,
       "name": "Power Power (feat. Shaun Ross)",
       "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156737,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo"
     },
     {
       "album": {
@@ -3170,6 +3458,28 @@
     },
     {
       "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/6YIohFFdeMmUqjMXLoe4Iq"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178218,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4Tla2jt77nO70DgGwFejbK"
+    },
+    {
+      "album": {
         "name": "Studio Monk",
         "url": "https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO"
       },
@@ -3189,6 +3499,32 @@
       "duration_ms": 206699,
       "name": "Sad Face Emojis (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/3qxpBIh54FCi2uGbYZ4ZMB"
+    },
+    {
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
     },
     {
       "album": {
@@ -3229,7 +3565,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 233658,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
@@ -3265,7 +3601,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 178713,
       "name": "skeletons",
       "url": "https://open.spotify.com/track/0K0JJ3QZEHYhBwkE21L2HZ"
@@ -3443,7 +3779,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 229765,
       "name": "STAY UP",
       "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
@@ -3469,10 +3805,28 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
       "album": {
@@ -3491,10 +3845,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "album": {
+        "name": "Streets (Remixes)",
+        "url": "https://open.spotify.com/album/2bztR3sQyvs9HxlraqZMRD"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Streets - DJ Sliink Remix",
+      "url": "https://open.spotify.com/track/2OlXEjn4FufYIVL9KC1FHO"
     },
     {
       "album": {
@@ -3575,7 +3951,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 154500,
       "name": "Sun Moon",
       "url": "https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn"
@@ -3629,7 +4005,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 144868,
       "name": "Taco",
       "url": "https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI"
@@ -3651,7 +4027,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 187964,
       "name": "Take It All",
       "url": "https://open.spotify.com/track/2sBRjpaBeItdrjSYLkyYQA"
@@ -3775,7 +4151,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 163560,
       "name": "The Vibe (feat. FUEG)",
       "url": "https://open.spotify.com/track/1KQB30IDcuG2cnNJh7UGH6"
@@ -3950,6 +4326,28 @@
     },
     {
       "album": {
+        "name": "Too Much (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215397,
+      "name": "Too Much (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj"
+    },
+    {
+      "album": {
         "name": "Channel Tres",
         "url": "https://open.spotify.com/album/4pbf36fsCW0oe7myRLZEtz"
       },
@@ -4096,6 +4494,28 @@
     },
     {
       "album": {
+        "name": "U Are My High (with Future)",
+        "url": "https://open.spotify.com/album/3fG4IID2LEPJ7iBSsnVvuG"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "U Are My High (with Future)",
+      "url": "https://open.spotify.com/track/0ITaSRuI0L1RNL7ZNYTTi7"
+    },
+    {
+      "album": {
         "name": "U.",
         "url": "https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB"
       },
@@ -4115,6 +4535,24 @@
       "duration_ms": 157304,
       "name": "U.",
       "url": "https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o"
+    },
+    {
+      "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "album": {
@@ -4184,6 +4622,28 @@
     },
     {
       "album": {
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        },
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+    },
+    {
+      "album": {
         "name": "VOCES",
         "url": "https://open.spotify.com/album/2MWf4eWrRmV39ju55H9FMQ"
       },
@@ -4239,7 +4699,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 175508,
       "name": "Walk The Beat",
       "url": "https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql"
@@ -4309,6 +4769,36 @@
       "duration_ms": 192801,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/58e40p8zCiVLRwFF6oX9iY"
+    },
+    {
+      "album": {
+        "name": "What Would You Do? (feat. Bryson Tiller) [KC Lights Remix]",
+        "url": "https://open.spotify.com/album/7oUToHEuM9v5h1I2vsA7xH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196848,
+      "name": "What Would You Do? (feat. Bryson Tiller) - KC Lights Remix",
+      "url": "https://open.spotify.com/track/79NSe4NDp0fzv49uMMVg9j"
     },
     {
       "album": {
@@ -4429,7 +4919,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 264000,
       "name": "Wild Side (feat. KAYTRANADA) - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/2smDPFcFsLTxDrckkOL2gR"
@@ -4557,6 +5047,24 @@
       "duration_ms": 227706,
       "name": "YOU'RE THE ONE",
       "url": "https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "album": {
+        "name": "Simple.",
+        "url": "https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136444,
+      "name": "Zaza Tree",
+      "url": "https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1aTyQ3Z9nTc"

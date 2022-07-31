@@ -4,7 +4,7 @@
 
 > Relive the good ol' days with these cheery 60s and more.
 
-104 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
+105 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [ABC](https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:57 | 2021-01-05 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 | 2021-01-05 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2022-07-26 |  |
-| [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical "Hair"](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 | 2022-07-26 |  |
+| [Aquarius/Let The Sunshine In \(The Flesh Failures\) \- From the Musical "Hair"](https://open.spotify.com/track/0HZlND4giwzgolBpaNIRGV) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 4:49 | 2022-07-26 | 2022-07-31 |
 | [Baby Love](https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:38 | 2021-01-05 |  |
 | [Baby Now That I've Found You](https://open.spotify.com/track/3QU7LEmu0j98vtsZfRk22n) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7L4PxKHUb1h85IjRwFJ5Fh) | 2:32 | 2021-01-05 | 2022-07-21 |
 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 | 2021-01-05 |  |
@@ -100,6 +100,7 @@
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-07-26 |  |
 | [That'll Be The Day \- Decca Version](https://open.spotify.com/track/6w40zjwprgA1s99VUxvuMx) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [The Great Buddy Holly](https://open.spotify.com/album/2YFdtCUiNcDIPUNdazX2Mg) | 2:30 | 2021-01-05 | 2022-07-06 |
 | [The Loco\-Motion](https://open.spotify.com/track/78X60f17Lbn4zfN7gxQLSH) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion](https://open.spotify.com/album/6tm67XDibv0P4PZPqRC2mf) | 2:25 | 2021-01-05 | 2022-07-24 |
+| [The Locomotion](https://open.spotify.com/track/5xzdDMhFYiuUONB0Mha9VS) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:19 | 2022-07-26 |  |
 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 | 2021-01-05 | 2022-07-29 |
 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 | 2021-01-05 | 2022-06-16 |
 | [This Will Be \(An Everlasting Love\) \- 2003 Remaster](https://open.spotify.com/track/241RmK77gecJ1y7jOoQ5lu) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Natalie Cole Anthology](https://open.spotify.com/album/64J3qlh1WF6x8DnrB8chqb) | 2:51 | 2021-01-05 |  |

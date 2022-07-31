@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,171 likes - 44 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,234 likes - 44 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 14 | [Adagietto \(From "Symphony No\. 5 in C\-Sharp Minor"\) \[Live\]](https://open.spotify.com/track/7p5NYxs2LzmRFdlAt2kJGm) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Uri Caine Ensemble](https://open.spotify.com/artist/36kkRaYrdhkQ9h3XVQ7qaR) | [Gustav Mahler in Toblach](https://open.spotify.com/album/6zJn2RYauCrm284UPcHMkT) | 12:42 |
 | 15 | [Erbarme dich, mein Gott \(From the St\. Matthew Passion\)](https://open.spotify.com/track/0fCw1m9tPATGUWLZSRXvNz) | [Eugen Cicero](https://open.spotify.com/artist/4EhSymJa7VCq6Wm1lZ8OVi) | [Swinging the Classics On MPS](https://open.spotify.com/album/4F2ApYDxzFRvN4XN2NNAYX) | 5:54 |
 | 16 | [Passacaglia](https://open.spotify.com/track/5BD9SqJecAsPUI717asNV6) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Tigran](https://open.spotify.com/artist/5aIfDT5vYjvLA47OUCv8eJ), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Liberetto II](https://open.spotify.com/album/52f8OH2v1jtqemCOI4VFvt) | 4:28 |
-| 17 | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/1uWXjkaWw8l4y5sP1wdhd4) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/album/76QAlWkYwv50dBTyK2VEGc) | 2:25 |
+| 17 | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/track/1uWXjkaWw8l4y5sP1wdhd4) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Harry Baker](https://open.spotify.com/artist/2RkoJJUnAtEYUXNNrSmixL) | [Cry Me a River \(Arr\. for Cello and Piano\)](https://open.spotify.com/album/76QAlWkYwv50dBTyK2VEGc) | 2:25 |
 | 18 | [Bach à la jazz](https://open.spotify.com/track/18mefzc19revZMMDVPxMPT) | [Matt Herskowitz](https://open.spotify.com/artist/4qixXDBzpahvfXrHux93Ck) | [Les triplettes de Belleville \(Bande originale du film\)](https://open.spotify.com/album/1HTooPlkTxGohRy43IvZ3c) | 1:20 |
 | 19 | [Aria / Goldberg Variation No\. 1](https://open.spotify.com/track/3JZCddd48NgLYgHvLkLylo) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [My History of Jazz](https://open.spotify.com/album/7ahVUrtlbmVq29CPbt1J85) | 4:42 |
 | 20 | [Promenade from "Pictures of an exhibition" \- Jazz Version](https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl) | [Modest Mussorgsky](https://open.spotify.com/artist/2L37nYywvAZEGNI63WepZc), [Pietro Beltrani](https://open.spotify.com/artist/4leQT1pQeSNV91sEiJfmu5) | [Promenade from "Pictures of an exhibition" \(Jazz Version\)](https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW) | 5:07 |

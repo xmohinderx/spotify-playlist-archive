@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,422 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,507 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 71 | [Some Kind Of Love](https://open.spotify.com/track/4UkpYAxwW1ccMWAhNiyeaW) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Some Kind Of Love](https://open.spotify.com/album/1bH8H3VIEETtPH1pPzIysT) | 3:48 |
 | 72 | [Hollow](https://open.spotify.com/track/2tCL2T0TTIOS0s70HCJP3L) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Hollow](https://open.spotify.com/album/1clRfpGP6mkk4TxW33YEfO) | 3:03 |
 | 73 | [Headstart](https://open.spotify.com/track/4hvogg26QxhiwZejv9nNae) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Headstart](https://open.spotify.com/album/2MFtg3BQopMqFiEYXQZ9q2) | 2:22 |
-| 74 | [Steady My Bones](https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb) | 4:26 |
-| 75 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 |
-| 76 | [James](https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Kairos](https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k) | 3:31 |
-| 77 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 |
+| 74 | [Hear It Again](https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 3:53 |
+| 75 | [James](https://open.spotify.com/track/64PvmmEK0qTUaVUVvrYR7W) | [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Kairos](https://open.spotify.com/album/1pL3wgi9NPJFviJ6dnNs8k) | 3:31 |
+| 76 | [When We Were Young](https://open.spotify.com/track/5OxWNIpnedq0bhdUhmNrJT) | [Falls](https://open.spotify.com/artist/0SP0jz4htYhpiCuNEvKr0l) | [Omaha](https://open.spotify.com/album/7BfVNstl3oipb2ZGWyKQxH) | 3:18 |
+| 77 | [Steady My Bones](https://open.spotify.com/track/4POCRz9y99h0byT7T3LDYd) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/59eAStsno6TrLM8Zwc18Eb) | 4:26 |
 | 78 | [Searching](https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Searching](https://open.spotify.com/album/6b4Az2MguoWdDlB9Jm2815) | 2:24 |
 | 79 | [Ten Steps Back](https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:27 |
-| 80 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
-| 81 | [Revolution \(feat\. First Aid Kit\)](https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul) | [Van William](https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Countries](https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe) | 3:56 |
+| 80 | [Revolution \(feat\. First Aid Kit\)](https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul) | [Van William](https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Countries](https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe) | 3:56 |
+| 81 | [The Worth Of The Wait](https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd) | [Ivan & Alyosha](https://open.spotify.com/artist/3D1IyJznpDnWnnFrzjuWnh) | [The Worth Of The Wait](https://open.spotify.com/album/0jNqBHYpxtWq8CfHQxA7Rd) | 2:51 |
 | 82 | [Crazy World \(Judgement Day\)](https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 4:40 |
 | 83 | [Coffee](https://open.spotify.com/track/6Pxyb7fZ6uksEd5XnjQvHZ) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Coffee](https://open.spotify.com/album/4WW1X6S0bh1A17DiwQ4daj) | 3:05 |
 | 84 | [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Change Is Coming \- Acoustic Live](https://open.spotify.com/track/1ZTSU2rupKuLXTDLVwWvXQ) | [Winter Woods](https://open.spotify.com/artist/2vtKH5PTmi8s2ABdlgxuVG) | [Change Is Coming \(Acoustic Live\)](https://open.spotify.com/album/1YiePx83xEpTcX7Jodu7Ty) | 5:30 |
 | 100 | [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 |
 
-Snapshot ID: `MTY0NzEyOTE5MiwwMDAwMDAwMGRiYTBkY2NiMzRmZTgxNmY5ZmZjYzJjMTk4NGYyZDUw`
+Snapshot ID: `MTY0NzEyOTE5MiwwMDAwMDAwMGNmMWY4YzVkMWUzNWNiMDMyMWFmMzRjYjNmMDFlMjll`

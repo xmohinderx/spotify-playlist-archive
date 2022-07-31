@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 224606,
+  "num_followers": 224915,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMDg4ZjdlYWJkODQzYzk3YjAwMGEyMTI0NTE5MWJjN2Y4",
+  "snapshot_id": "MTY1NTkyOTkxMCwwMDAwMDAwMGQ4MDgzOGVlYTIwNzFkNjdiOGJmMWM4ZjUyNjJkOGJj",
   "tracks": [
     {
       "added_at": "2022-05-30 13:24:46",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Turning Page",
         "url": "https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 255893,
       "name": "Turning Page",
       "url": "https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Lost With You",
-        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 175644,
-      "name": "Lost With You",
-      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Lost With You",
+        "url": "https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 175644,
+      "name": "Lost With You",
+      "url": "https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        }
-      ],
-      "duration_ms": 268455,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/1GxNPd5r7D1zChEMuMhue0"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "London's Song",
         "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Dark in the City",
-        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 250547,
-      "name": "Love & War in Your Twenties",
-      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1GxNPd5r7D1zChEMuMhue0"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -971,6 +955,22 @@
       "duration_ms": 232618,
       "name": "Maine",
       "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Dark in the City",
+        "url": "https://open.spotify.com/album/0L9K2iqQGwfEhY96aHDiUB"
+      },
+      "artists": [
+        {
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+        }
+      ],
+      "duration_ms": 250547,
+      "name": "Love & War in Your Twenties",
+      "url": "https://open.spotify.com/track/3FFpGDzfkwJGjfIqM6BNMC"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "2030",
         "url": "https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 209711,
       "name": "Coast",
       "url": "https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 223400,
       "name": "Michigan Cherry",
       "url": "https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Apple Tree Blues",
-        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Apple Tree Blues",
-      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/7tHozOPmH2LN2gha4mnTDV"
       },
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Apple Tree Blues",
+        "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Apple Tree Blues",
+      "url": "https://open.spotify.com/track/62lLZOUN0AmYBaw6es63l5"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
+      },
+      "artists": [
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Sugar in the Creek",
-        "url": "https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Nightshade",
         "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 265506,
       "name": "Spectrum",
       "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Sugar in the Creek",
+        "url": "https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1901,22 +1901,6 @@
       "url": "https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45"
     },
     {
-      "added_at": "2022-06-14 16:16:12",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 325066,
-      "name": "Go Home",
-      "url": "https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl"
-    },
-    {
       "added_at": "2022-05-25 14:24:00",
       "album": {
         "name": "Time in the Sun",
@@ -1931,6 +1915,22 @@
       "duration_ms": 184300,
       "name": "Life Is Suffering",
       "url": "https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu"
+    },
+    {
+      "added_at": "2022-06-14 16:16:12",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 325066,
+      "name": "Go Home",
+      "url": "https://open.spotify.com/track/5qbHBepTowbMldhK8RVhTl"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/7wC9pX406TglFwy4ALYYy4"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 261523,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/41UWHXKrP9VaNuLHNlWEV2"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "The Gods We Can Touch",
-        "url": "https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld"
     },
     {
       "added_at": "2022-05-25 14:24:00",

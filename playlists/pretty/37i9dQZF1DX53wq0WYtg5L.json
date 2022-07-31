@@ -1,12 +1,12 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 504436,
+  "num_followers": 504486,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NDgyMCwwMDAwMDAwMDUzN2EwZmQ4ZTQ0OTAwZTFiNWNkN2VkYzYwZTJmM2Yx",
+  "snapshot_id": "MTY0MzE1NDgyMCwwMDAwMDAwMDRmZGNkNzNmZWVkMWNlZDI5MzdlZGJkMjA4OTc1MDRh",
   "tracks": [
     {
       "added_at": "2022-01-25 23:53:40",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 145653,
-      "name": "Ay jalisco",
-      "url": "https://open.spotify.com/track/0qp8CfpKpNbT6P8wLoF3fC"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
         "name": "Mariachi Sol: Viva Mexico",
         "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 120600,
       "name": "El Caballito",
       "url": "https://open.spotify.com/track/5kjGfKsHvI8zk0hd1NyJb5"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 145653,
+      "name": "Ay jalisco",
+      "url": "https://open.spotify.com/track/0qp8CfpKpNbT6P8wLoF3fC"
     },
     {
       "added_at": "2022-01-25 23:53:40",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "El Jarabe Tapatio",
+      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
         "name": "Mariachi Azteca",
         "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 176844,
       "name": "El Son de Mi Tierra",
       "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "El Jarabe Tapatio",
-      "url": "https://open.spotify.com/track/3dXcdWFJjgTB9jE7baetjm"
     },
     {
       "added_at": "2022-01-25 23:53:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
-        "name": "Mariachi from Mexico",
-        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Los machetes",
-      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
         "name": "Mexico Canta",
         "url": "https://open.spotify.com/album/6MAG1SRuZ89o6s0o04SZW8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 110973,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/3OjgCwP9AAawKHQ26S8PGq"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
+        "name": "Mariachi from Mexico",
+        "url": "https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Los machetes",
+      "url": "https://open.spotify.com/track/5C2t9rhH6dcS1Vj7m2ix3n"
     },
     {
       "added_at": "2022-01-25 23:53:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Las alazanas",
-      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
         "name": "Tradici\u00f3n, Arte y Pasi\u00f3n",
         "url": "https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 165506,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
         "name": "Cuando M\u00e9xico Canta",
         "url": "https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW"
       },
@@ -959,6 +927,22 @@
       "duration_ms": 149289,
       "name": "Toro Relajo",
       "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Las alazanas",
+      "url": "https://open.spotify.com/track/53OZ46nxUyq94rZDGxbb3I"
     },
     {
       "added_at": "2022-01-25 23:53:40",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 165506,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/67kE2nwzQzr9v7OOWfireQ"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
         "name": "Sones",
         "url": "https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V"
       },
@@ -1023,54 +1023,6 @@
       "duration_ms": 204538,
       "name": "Fiesta Charra",
       "url": "https://open.spotify.com/track/5YVxMf12hVXHLWoNssn1In"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
-        "name": "Cl\u00e1sicas Con Mariachi",
-        "url": "https://open.spotify.com/album/3pgIyqbCRzufa5q2oGICl1"
-      },
-      "artists": [
-        {
-          "name": "Mariachi America",
-          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
-        }
-      ],
-      "duration_ms": 509538,
-      "name": "Huapango",
-      "url": "https://open.spotify.com/track/3e8ti8qmE5Tyuazz0jvqJM"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
-    },
-    {
-      "added_at": "2022-01-25 23:53:40",
-      "album": {
-        "name": "Mariachi Sol: Viva Mexico",
-        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol",
-          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Jesucita en Chihuahua",
-      "url": "https://open.spotify.com/track/0FB1dzNYU2blChwDT0s0Bd"
     },
     {
       "added_at": "2022-01-25 23:53:40",
@@ -1091,6 +1043,22 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
+        "name": "Cl\u00e1sicas Con Mariachi",
+        "url": "https://open.spotify.com/album/3pgIyqbCRzufa5q2oGICl1"
+      },
+      "artists": [
+        {
+          "name": "Mariachi America",
+          "url": "https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2"
+        }
+      ],
+      "duration_ms": 509538,
+      "name": "Huapango",
+      "url": "https://open.spotify.com/track/3e8ti8qmE5Tyuazz0jvqJM"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
         "name": "Estampas De Mexico: Traditional Music From Mexico",
         "url": "https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm"
       },
@@ -1107,6 +1075,22 @@
     {
       "added_at": "2022-01-25 23:53:40",
       "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 136672,
       "name": "Gavilancito Sangre Cruzada",
       "url": "https://open.spotify.com/track/2Mr3fyUMHVHOWh5KTD1QG8"
+    },
+    {
+      "added_at": "2022-01-25 23:53:40",
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Jesucita en Chihuahua",
+      "url": "https://open.spotify.com/track/0FB1dzNYU2blChwDT0s0Bd"
     },
     {
       "added_at": "2022-01-25 23:53:40",

@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: TSHA
 
-94 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
+95 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/2qMeWuSU5XkH0w2mb2bXO8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Start Over \- Album Edit](https://open.spotify.com/track/6NiUjNWHzjvPWLwvXQrFdU) | [VONDA7](https://open.spotify.com/artist/0Glk45UpQ9Tz1yp6GvhUBM) | [Start Over](https://open.spotify.com/album/7vKiOU01DT6ZkwRaelLlOn) | 4:27 | 2021-03-01 |  |
 | [Stingray Shuffle](https://open.spotify.com/track/0NRQU03YgYNli44FANtQDN) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/7JsfdXH01XsWF2uVqvpPOk) | 2:43 | 2022-03-08 |  |
 | [Stingray Shuffle](https://open.spotify.com/track/2J09O7CPiXmSpdoPMRJGTq) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [After Hours](https://open.spotify.com/album/06w1pVdYAlr4Bg1czQZ5fu) | 2:43 | 2021-03-01 | 2022-07-29 |
-| [Talk Ur Talk](https://open.spotify.com/track/0J257nEinfevPktIMcFLE9) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1NVT1CyJZdyLVPYoBJtWoX) | 3:49 | 2021-03-01 |  |
+| [Talk Ur Talk](https://open.spotify.com/track/0J257nEinfevPktIMcFLE9) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/1NVT1CyJZdyLVPYoBJtWoX) | 3:49 | 2021-03-01 | 2022-07-31 |
+| [Talk Ur Talk](https://open.spotify.com/track/7EUX8OCQiiMLp4QcZLoo3X) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Powerplay](https://open.spotify.com/album/7LUKLf5ipWFL58Y558hNly) | 3:49 | 2022-03-08 |  |
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2021-03-01 |  |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK) | 4:30 | 2022-03-08 | 2022-07-29 |
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/2ruYajRlSa2ODHn7mxxNRk) | 4:30 | 2022-03-08 |  |

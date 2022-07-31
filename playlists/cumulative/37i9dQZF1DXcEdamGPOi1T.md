@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-230 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
+231 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/4DQfzKopxCv8ROmYvt7sGj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 | 2022-07-26 |  |
 | [Broken \- Radio Edit](https://open.spotify.com/track/3f5w7CK8pCKwlijBz0vann) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Ses Plus Grands Succès](https://open.spotify.com/album/2VERbKTPxuqen1yO2ISCaH) | 2:41 | 2022-05-27 |  |
 | [C'est tout](https://open.spotify.com/track/4GJE2R4A0VGUQjndarcFuq) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Grouillades](https://open.spotify.com/album/4v00M4ceOB1ZNO6Hq3xcty) | 2:37 | 2022-05-27 | 2022-07-29 |
-| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-05-27 |  |
+| [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-05-27 | 2022-07-31 |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-09 |  |
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2022-05-27 | 2022-07-14 |
 | [Carrousel](https://open.spotify.com/track/2XJIhWia7PAnGSIScf6rTg) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Carrousel](https://open.spotify.com/album/4mVeizjCI2mwMDDvsDxn77) | 3:02 | 2022-05-27 | 2022-06-09 |
@@ -57,6 +57,7 @@
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-05-27 |  |
 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 | 2022-05-27 | 2022-06-27 |
 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 | 2022-07-26 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 |  |
 | [Diamant](https://open.spotify.com/track/3b4wIxzd5f8C9k8azA9hPx) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Diamant](https://open.spotify.com/album/72SQDw88bPAybqZ1wICJ9e) | 3:31 | 2022-05-27 | 2022-07-29 |
 | [Diamonds](https://open.spotify.com/track/1hJIbOjWpid6LtnozHmzRS) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:33 | 2022-05-27 | 2022-06-18 |
 | [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2022-07-26 |  |

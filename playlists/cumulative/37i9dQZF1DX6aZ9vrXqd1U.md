@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ガンダムシリーズを彩る楽曲を1つのプレイリストで。
 
-175 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
+176 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/5csRzl68dHYFsVirM9G7Hj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [ククルス・ドアンの島 メインタイトル](https://open.spotify.com/track/5GAGl2Qzz7zH37Ptak269c) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [機動戦士ガンダム ククルス・ドアンの島 \(オリジナルサウンドトラック\)](https://open.spotify.com/album/3qhoqjiqYZxeOGBAz2ftNX) | 1:59 | 2022-07-27 | 2022-07-29 |
 | [コガネゾラ](https://open.spotify.com/track/5IOg7tk7Kx7PXDvdoEwTmR) | [ハコニワリリィ](https://open.spotify.com/artist/2rsT3GtKdBr9qBYXEn8lEZ) | [コガネゾラ](https://open.spotify.com/album/4CINcYYU40D6bmu0Pyfxgy) | 3:23 | 2022-07-27 |  |
 | [ココロオドル \-original version\-](https://open.spotify.com/track/0zmBxLyCOMoiZY1VOFFNhd) | [nobody knows](https://open.spotify.com/artist/2PVGbMoPm6obTURqmnRTbp) | [best of nobodyknows+](https://open.spotify.com/album/1nmW5Xs5x64Rvd4tDfzHoI) | 4:12 | 2022-07-27 | 2022-07-29 |
-| [ココロオドル \-original version\-](https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル \-original version\- / Hero's Come Back!! BESTタッグ](https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR) | 4:13 | 2022-07-27 |  |
+| [ココロオドル \-original version\-](https://open.spotify.com/track/424ekFg5fk3v0vmf9K85mU) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [Do You Know ?](https://open.spotify.com/album/1VwAzqa6biqAwybsDXsnm0) | 4:11 | 2022-07-27 |  |
+| [ココロオドル \-original version\-](https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル \-original version\- / Hero's Come Back!! BESTタッグ](https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR) | 4:13 | 2022-07-27 | 2022-07-31 |
 | [サイレント・ヴォイス](https://open.spotify.com/track/1tcqBAxR9btqR2ftS7Rrfu) | [ひろえ純](https://open.spotify.com/artist/299meviLTEj3ZjYBQg2I6V) | [サイレント・ヴォイス](https://open.spotify.com/album/2qMZFLQ4JuNIr9Iu9nQk3q) | 4:26 | 2022-07-27 |  |
 | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/track/0m0H7NxmPiRv1E7yDHYb6F) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Naoko Terai](https://open.spotify.com/artist/7otmuCdy15HH4CXtXeRxVM) | [サイレント・ヴォイス / with 寺井尚子](https://open.spotify.com/album/5SEsi8e78FRTZakCm4QaJF) | 4:55 | 2022-07-27 | 2022-07-29 |
 | [ターンAターン](https://open.spotify.com/track/0lp2im335v7JrKpkjz65iD) | [Hideki Saijo](https://open.spotify.com/artist/0NftkVrfzvCddFaDAmkBxh) | [ターンAターン](https://open.spotify.com/album/6YEt5QWFkDNJkUxrPMwnRL) | 4:46 | 2022-07-27 |  |

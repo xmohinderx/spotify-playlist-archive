@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Justin Morales en portada.",
-  "num_followers": 41633,
+  "num_followers": 41705,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMDhjMDYwZDM2MmExYzJhYWQ3ZmRhODI3ZGY1ZjYxNmRk",
+  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMDNmNjM3NzhiMGI2ZDVjZjM2ZmIxOWRhMDYxMDliYTFm",
   "tracks": [
     {
       "added_at": "2022-02-23 16:41:23",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
-      "added_at": "2022-06-17 17:30:56",
-      "album": {
-        "name": "Lo Que Construimos - Spotify Singles",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
       "added_at": "2021-12-27 20:28:17",
       "album": {
         "name": "Me Gusta Mi Vida",
@@ -431,6 +415,22 @@
       "duration_ms": 227726,
       "name": "Me Gusta Mi Vida",
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
+    },
+    {
+      "added_at": "2022-06-17 17:30:56",
+      "album": {
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-02-23 16:41:23",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/4dpvDZEeipCA9bbI1I6a47"
     },
     {
-      "added_at": "2022-06-07 16:00:00",
-      "album": {
-        "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
-        "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 240100,
-      "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
-      "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
-    },
-    {
       "added_at": "2022-07-08 05:00:00",
       "album": {
         "name": "Por Apodo Soy Sobrino (En Vivo)",
@@ -579,6 +559,26 @@
       "duration_ms": 206000,
       "name": "Por Apodo Soy Sobrino (En Vivo)",
       "url": "https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3"
+    },
+    {
+      "added_at": "2022-06-07 16:00:00",
+      "album": {
+        "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+        "url": "https://open.spotify.com/album/1qc0uWlaS1bswH57YVEZHU"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 240100,
+      "name": "No Te Lo Voy a Negar (feat. HERNAN TREJO)",
+      "url": "https://open.spotify.com/track/340OYprIslmjNCuJZKRjwn"
     },
     {
       "added_at": "2021-12-27 20:28:17",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-04-29 05:00:00",
       "album": {
-        "name": "Pedacito de Tierra",
-        "url": "https://open.spotify.com/album/68GIhg1AYzoarOghUnGfDq"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 248402,
-      "name": "Pedacito de Tierra",
-      "url": "https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq"
-    },
-    {
-      "added_at": "2022-04-29 05:00:00",
-      "album": {
         "name": "Pa Los Que Hoy",
         "url": "https://open.spotify.com/album/36xEtIBvLwYCUrtHsw9rbU"
       },
@@ -1099,18 +1079,38 @@
     {
       "added_at": "2022-04-29 05:00:00",
       "album": {
-        "name": "Yo Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm"
+        "name": "Pedacito de Tierra",
+        "url": "https://open.spotify.com/album/68GIhg1AYzoarOghUnGfDq"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 170363,
-      "name": "Yo Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey"
+      "duration_ms": 248402,
+      "name": "Pedacito de Tierra",
+      "url": "https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq"
+    },
+    {
+      "added_at": "2022-07-08 05:00:00",
+      "album": {
+        "name": "Despues De Ti",
+        "url": "https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 135185,
+      "name": "Despues De Ti",
+      "url": "https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF"
     },
     {
       "added_at": "2022-07-08 05:00:00",
@@ -1129,20 +1129,20 @@
       "url": "https://open.spotify.com/track/1AEvAdtH4tOzVElQF88FDO"
     },
     {
-      "added_at": "2022-07-08 05:00:00",
+      "added_at": "2022-04-29 05:00:00",
       "album": {
-        "name": "Despues De Ti",
-        "url": "https://open.spotify.com/album/3mhfl1thpSC4HEvooCfwqx"
+        "name": "Yo Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm"
       },
       "artists": [
         {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 135185,
-      "name": "Despues De Ti",
-      "url": "https://open.spotify.com/track/3NvmjLWLihMep2IXcm9TuF"
+      "duration_ms": 170363,
+      "name": "Yo Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey"
     },
     {
       "added_at": "2022-02-23 16:41:23",

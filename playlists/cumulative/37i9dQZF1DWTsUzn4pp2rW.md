@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-200 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+201 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/track/4VEApzvhECrSVK3v4tRDnX) | [Quiana Lynell](https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48) | [Just A Little Lovin' \(Early In The Mornin'\)](https://open.spotify.com/album/5Itcp6z0DJ1F2DXQFk85gI) | 3:20 | 2021-11-19 | 2022-07-29 |
 | [Kettle](https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Kettle](https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG) | 4:24 | 2022-07-14 |  |
 | [Kettle](https://open.spotify.com/track/1cNgHg7pkufDZRT6A9zgaR) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM), [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Kettle](https://open.spotify.com/album/0G5T0KwJy5Psa57XIDR7qJ) | 4:24 | 2021-11-19 | 2022-07-29 |
-| [Leave Me Be](https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE) | 4:41 | 2022-05-20 |  |
+| [Leave Me Be](https://open.spotify.com/track/2Y7Hj6WOx5yZQgQzPNdowj) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/5xzepLZ4dkvgdr0aJ1T7t0) | 4:41 | 2022-07-14 |  |
+| [Leave Me Be](https://open.spotify.com/track/7gN8Gzui3dHpYHELOZYpza) | [Dearest Sister](https://open.spotify.com/artist/0Rj4QSL8GRrkpJFlM2JNiY) | [Leave Me Be](https://open.spotify.com/album/0SiuiSehAPDk7tqX4zdSPE) | 4:41 | 2022-05-20 | 2022-07-31 |
 | [Let's Get Lost](https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM) | [Johnny Summers](https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX) | [Let's Get Lost](https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx) | 3:10 | 2021-11-19 |  |
 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 | 2021-11-19 |  |
 | [Lime](https://open.spotify.com/track/5mHRBuwBWpbqUDcqiWGbvN) | [Ella Frank](https://open.spotify.com/artist/73vkRuqONSf8tm9TaE9iEM) | [Sorrows Into Silk](https://open.spotify.com/album/7GW1xaezd0MGJOEVf54sEB) | 2:18 | 2021-11-19 |  |

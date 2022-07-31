@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring SBTRKT",
-  "num_followers": 803937,
+  "num_followers": 804011,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExODgyOSwwMDAwMDAwMDA5YmY4NmFiNDViNzlkNDE1ZTRkMmYxNTJlZGFkNWZl",
+  "snapshot_id": "MTY1OTExODgyOSwwMDAwMDAwMDRkMTg0MTRhMmZiYWQ1MGY2MmE5YmViZDgyOTczMTkw",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -625,26 +625,6 @@
       "url": "https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs"
     },
     {
-      "added_at": "2022-03-18 13:56:10",
-      "album": {
-        "name": "Iced Tea",
-        "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Iced Tea",
-      "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
-    },
-    {
       "added_at": "2021-07-16 04:00:00",
       "album": {
         "name": "ADOLESCENCE",
@@ -663,6 +643,26 @@
       "duration_ms": 192138,
       "name": "Esther",
       "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
+    },
+    {
+      "added_at": "2022-03-18 13:56:10",
+      "album": {
+        "name": "Iced Tea",
+        "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Iced Tea",
+      "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
     },
     {
       "added_at": "2022-02-18 05:01:00",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Love Brand New",
-        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "Love Brand New",
-      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
-    },
-    {
       "added_at": "2021-09-17 15:22:19",
       "album": {
         "name": "Joy",
@@ -731,6 +715,22 @@
       "duration_ms": 281381,
       "name": "Joy",
       "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Love Brand New",
+        "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "Love Brand New",
+      "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
     },
     {
       "added_at": "2022-06-03 04:01:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
     },
     {
-      "added_at": "2021-05-28 21:12:16",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
-    },
-    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "To The Floor",
@@ -911,6 +895,22 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
+    },
+    {
+      "added_at": "2021-05-28 21:12:16",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2021-06-25 04:00:00",
@@ -951,6 +951,22 @@
       "duration_ms": 195706,
       "name": "Butterflies (with Starrah & Four Tet)",
       "url": "https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE"
+    },
+    {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 263418,
+      "name": "Tunnel of You",
+      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -999,22 +1015,6 @@
       "duration_ms": 166779,
       "name": "WATER. (feat. Bryce Vine)",
       "url": "https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 263418,
-      "name": "Tunnel of You",
-      "url": "https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY"
     },
     {
       "added_at": "2021-09-10 19:20:08",
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
     },
     {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
+    },
+    {
       "added_at": "2021-09-17 15:29:19",
       "album": {
         "name": "EXCEPTIONAL",
@@ -1097,22 +1113,6 @@
       "url": "https://open.spotify.com/track/2zg3Y2hKzNeo2qIVXkbKUf"
     },
     {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
       "added_at": "2021-06-04 19:30:55",
       "album": {
         "name": "Tunnel",
@@ -1131,6 +1131,22 @@
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2021-12-03 05:35:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Just Can't Get Enough",
-        "url": "https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "OnlyL",
@@ -1275,6 +1259,22 @@
       "duration_ms": 227543,
       "name": "OnlyL",
       "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/2VNR4FAD2u60AeJDXL8a9x"
     },
     {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "EYEYE",
-        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "5D",
-      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
-    },
-    {
       "added_at": "2021-05-21 18:23:13",
       "album": {
         "name": "bb u ok?",
@@ -1457,6 +1441,22 @@
       "url": "https://open.spotify.com/track/3LnoLo62GjfKDYIN7eJpPB"
     },
     {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "EYEYE",
+        "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "5D",
+      "url": "https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D"
+    },
+    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Reborn",
@@ -1475,6 +1475,42 @@
       "duration_ms": 259972,
       "name": "Cameo",
       "url": "https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH"
+    },
+    {
+      "added_at": "2022-05-20 04:01:00",
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 182561,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF"
+    },
+    {
+      "added_at": "2022-04-29 04:01:00",
+      "album": {
+        "name": "I Go (Remixes)",
+        "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 410880,
+      "name": "I Go - Soulwax Remix",
+      "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
     },
     {
       "added_at": "2021-09-10 19:20:08",
@@ -1505,40 +1541,24 @@
       "url": "https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT"
     },
     {
-      "added_at": "2022-04-29 04:01:00",
+      "added_at": "2021-07-30 04:25:17",
       "album": {
-        "name": "I Go (Remixes)",
-        "url": "https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj"
+        "name": "I Found You (feat. Benjamin Ingrosso)",
+        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
         },
         {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
         }
       ],
-      "duration_ms": 410880,
-      "name": "I Go - Soulwax Remix",
-      "url": "https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS"
-    },
-    {
-      "added_at": "2022-05-20 04:01:00",
-      "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 182561,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF"
+      "duration_ms": 152195,
+      "name": "I Found You (feat. Benjamin Ingrosso)",
+      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
     },
     {
       "added_at": "2021-10-15 20:09:37",
@@ -1583,26 +1603,6 @@
       "duration_ms": 247117,
       "name": "HMU for a Good Time",
       "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
-    },
-    {
-      "added_at": "2021-07-30 04:25:17",
-      "album": {
-        "name": "I Found You (feat. Benjamin Ingrosso)",
-        "url": "https://open.spotify.com/album/60lJNYQojtQvJwz6ZsBarb"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "I Found You (feat. Benjamin Ingrosso)",
-      "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1717,26 +1717,6 @@
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        }
-      ],
-      "duration_ms": 171786,
-      "name": "Turn The Table",
-      "url": "https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "BMW Track / So U Kno",
@@ -1769,22 +1749,6 @@
       "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
-      "added_at": "2021-08-27 21:11:05",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "In My Arms - Edit",
-      "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
-    },
-    {
       "added_at": "2022-02-18 05:01:00",
       "album": {
         "name": "There's Only One (feat. Genesis Owusu)",
@@ -1803,6 +1767,22 @@
       "duration_ms": 189939,
       "name": "There's Only One (feat. Genesis Owusu)",
       "url": "https://open.spotify.com/track/3FypeFOz4MXOMaC20j1mBg"
+    },
+    {
+      "added_at": "2021-08-27 21:11:05",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "In My Arms - Edit",
+      "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -1839,6 +1819,26 @@
       "duration_ms": 237368,
       "name": "EASE YOUR MIND",
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        }
+      ],
+      "duration_ms": 171786,
+      "name": "Turn The Table",
+      "url": "https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC"
     },
     {
       "added_at": "2022-07-01 04:02:00",

@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: mxmtoon
 
-330 songs - 20 hr 28 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+331 songs - 20 hr 32 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [a long december](https://open.spotify.com/track/6AJUq174xQvhXvRLbLvFml) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [a long december](https://open.spotify.com/album/4BEcYq7POg39BXzScVb4qE) | 4:11 | 2022-01-28 | 2022-07-26 |
 | [Ain't No Sunshine](https://open.spotify.com/track/7oIr9pjTvm9FKMEQwZvEiv) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Ain't No Sunshine](https://open.spotify.com/album/6aPAue76teQzfiZTliyHIE) | 2:31 | 2021-03-12 | 2022-06-26 |
 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 | 2022-05-20 | 2022-07-25 |
-| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 |  |
+| [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-03-12 | 2022-07-31 |
 | [Alaska](https://open.spotify.com/track/36U3x7FsoB17GsOKAJKl7b) | [The Fretless](https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F), [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Alaska](https://open.spotify.com/album/3y5VfET7NXVwdcgvluZ4vV) | 3:49 | 2021-04-19 | 2022-07-29 |
 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 | 2021-03-12 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/5BfNjlCclZMXlCv6o1PSQA) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [Angel](https://open.spotify.com/album/2oNUBA3KULK55FUlzDBBxm) | 2:49 | 2022-02-25 | 2022-04-21 |
@@ -145,6 +145,7 @@
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/10e8OyV77FnTWvWhO1x6n6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/4gQm0leB5zXLbAfqXWMhCp) | 3:31 | 2021-03-12 | 2022-07-28 |
 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/6rqDjmVNJmhQx8EuhADWGA) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/3qGl4FvJjw7TBktMSfxiPu) | 3:38 | 2021-03-12 | 2022-07-13 |
 | [I Want to Know What Love Is](https://open.spotify.com/track/3HszEQiMdPTNcglWcnMGk3) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [California Airport Love](https://open.spotify.com/album/4a8neICiUnSWTBd5SP2sn9) | 4:06 | 2021-03-12 | 2022-04-17 |
+| [I Will Follow You Into The Dark](https://open.spotify.com/track/2uRDhUTXYoEYop4goR3lsa) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [I Will Follow You Into The Dark](https://open.spotify.com/album/1JItKcFYW0tNHqFHO4qqxo) | 3:53 | 2021-03-12 |  |
 | [I Will Follow You Into the Dark](https://open.spotify.com/track/7e3SROp6VaekpMnbFKJjqt) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Looking for Alaska \(Music from the Original Series\)](https://open.spotify.com/album/4hRgz8S5EEyuVn2vUGwubS) | 3:53 | 2021-03-12 | 2022-07-29 |
 | [I Would Die 4 U](https://open.spotify.com/track/2t3dEAfAPpCOyxFwN55UTz) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [I Would Die 4 U](https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA) | 3:19 | 2022-01-07 | 2022-05-19 |
 | [I'm a Mess](https://open.spotify.com/track/1YGYnoIL8boFOsuq2bgah9) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [I'm a Mess](https://open.spotify.com/album/5P53hGjHbBBYcQEyEKzR5Z) | 2:59 | 2022-02-25 | 2022-07-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Sofía Reyes, Los Angeles Azules, Esteman
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,179 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,258 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 25 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 26 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
 | 27 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
-| 28 | [Si Me Tomo una Cerveza \- Remix](https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Si Me Tomo una Cerveza \(Remix\)](https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks) | 3:57 |
-| 29 | [Quizás Si, Quizás No](https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Memorias](https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce) | 3:12 |
+| 28 | [Quizás Si, Quizás No](https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Memorias](https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce) | 3:12 |
+| 29 | [Si Me Tomo una Cerveza \- Remix](https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Si Me Tomo una Cerveza \(Remix\)](https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks) | 3:57 |
 | 30 | [Echarme Al Olvido](https://open.spotify.com/track/4mxSPzxq7VDUIDgALWsrKB) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 4:41 |
 | 31 | [Amor Secreto](https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:04 |
 | 32 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Pajaro Cenzontle](https://open.spotify.com/track/05NDHplkvd0j8hg0XxwPFX) | [Grupo Kual? Dinastia Pedraza](https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq) | [El Poder de la Cumbia](https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae) | 4:28 |
 | 100 | [Soledad](https://open.spotify.com/track/1aZsbm8cm5qHHDQTLwHHYk) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Soledad](https://open.spotify.com/album/1vJZfykeuEwQKqEiZlaXGe) | 3:45 |
 
-Snapshot ID: `MTY1MTIwMDYwNCwwMDAwMDAwMDMyY2U1MDk3NmU5NjQxZjE3YjlhNTY3NjZlOTllYWQz`
+Snapshot ID: `MTY1MTIwMDYwNCwwMDAwMDAwMGYxM2U3Yjk0YjUzY2IzZDE3YWQ4ZGRiODE4MGQ1ZmU0`

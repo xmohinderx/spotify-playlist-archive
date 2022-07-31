@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Demi Lovato",
-  "num_followers": 811466,
+  "num_followers": 811496,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5MzcxMywwMDAwMDAwMDI3MmQ0MTZlOGJiMjI4NTAwYjA1YzExOGIyNDk2MzJh",
+  "snapshot_id": "MTY1ODc5MzcxMywwMDAwMDAwMDI5NTM4OTIwNGI4NTc1OTFhOTgyNzZlMmNiZDBmYzg2",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Her Body Is Bible",
-        "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Her Body Is Bible",
-      "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "LEIL\u00c3O",
@@ -255,6 +239,22 @@
       "duration_ms": 187619,
       "name": "LEIL\u00c3O",
       "url": "https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Her Body Is Bible",
+        "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Her Body Is Bible",
+      "url": "https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -525,20 +525,24 @@
       "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
+      "added_at": "2022-04-15 04:01:00",
       "album": {
-        "name": "Love You When You\u2019re Gone",
-        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         }
       ],
-      "duration_ms": 184166,
-      "name": "Love You When You\u2019re Gone",
-      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -561,24 +565,20 @@
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
+      "added_at": "2022-07-01 04:00:00",
       "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+        "name": "Love You When You\u2019re Gone",
+        "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+      "duration_ms": 184166,
+      "name": "Love You When You\u2019re Gone",
+      "url": "https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2"
     },
     {
       "added_at": "2022-06-17 04:00:00",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "heartbreak honeymoon",
+        "url": "https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 170328,
+      "name": "heartbreak honeymoon",
+      "url": "https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy"
+    },
+    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "Blue Dream Baby",
@@ -647,22 +663,6 @@
       "duration_ms": 176427,
       "name": "Blue Dream Baby",
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "heartbreak honeymoon",
-        "url": "https://open.spotify.com/album/0BBy35QpH4SqoAbwxLZypl"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 170328,
-      "name": "heartbreak honeymoon",
-      "url": "https://open.spotify.com/track/58QZNN5P9UC8moU8mWVzNy"
     },
     {
       "added_at": "2022-02-25 05:00:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "deep in the woods",
-        "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "deep in the woods",
-      "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
-    },
-    {
       "added_at": "2022-03-22 13:50:56",
       "album": {
         "name": "Bronco",
@@ -751,6 +735,22 @@
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "deep in the woods",
+        "url": "https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "deep in the woods",
+      "url": "https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -817,6 +817,22 @@
       "url": "https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6"
     },
     {
+      "added_at": "2022-03-25 04:00:00",
+      "album": {
+        "name": "Puppy Pound",
+        "url": "https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 200488,
+      "name": "Puppy Pound",
+      "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Sometimes, Forever",
@@ -847,22 +863,6 @@
       "duration_ms": 200322,
       "name": "Sooner Or Later",
       "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
-    },
-    {
-      "added_at": "2022-03-25 04:00:00",
-      "album": {
-        "name": "Puppy Pound",
-        "url": "https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ"
-      },
-      "artists": [
-        {
-          "name": "Jazmin Bean",
-          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
-        }
-      ],
-      "duration_ms": 200488,
-      "name": "Puppy Pound",
-      "url": "https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8"
     },
     {
       "added_at": "2022-03-12 21:29:16",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
     },
     {
+      "added_at": "2022-05-09 15:31:21",
+      "album": {
+        "name": "Peaches & Cream",
+        "url": "https://open.spotify.com/album/5FFS3PuaUUDPW1u4ugHSqx"
+      },
+      "artists": [
+        {
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/5SkKyC7IWhUW3MlrZPo12o"
+    },
+    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "just another song",
@@ -947,22 +963,6 @@
       "duration_ms": 168700,
       "name": "just another song",
       "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
-      "added_at": "2022-05-09 15:31:21",
-      "album": {
-        "name": "Peaches & Cream",
-        "url": "https://open.spotify.com/album/5FFS3PuaUUDPW1u4ugHSqx"
-      },
-      "artists": [
-        {
-          "name": "Noah Davis",
-          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/5SkKyC7IWhUW3MlrZPo12o"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "I THINK YOU TURNED ME",
-        "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
-      },
-      "artists": [
-        {
-          "name": "Chandler Leighton",
-          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
-        }
-      ],
-      "duration_ms": 132250,
-      "name": "I THINK YOU TURNED ME",
-      "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
-    },
-    {
       "added_at": "2022-03-22 13:50:56",
       "album": {
         "name": "Change the Locks",
@@ -1063,6 +1047,22 @@
       "duration_ms": 215621,
       "name": "For My Friends",
       "url": "https://open.spotify.com/track/3yMbQSMN738HPm5gSRwUPq"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "I THINK YOU TURNED ME",
+        "url": "https://open.spotify.com/album/3vEwn7lE02KAqyueIsflyl"
+      },
+      "artists": [
+        {
+          "name": "Chandler Leighton",
+          "url": "https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C"
+        }
+      ],
+      "duration_ms": 132250,
+      "name": "I THINK YOU TURNED ME",
+      "url": "https://open.spotify.com/track/60WZdX2EIKz5QWt6KXcgd0"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Change the Locks",
+        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 173440,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1"
+    },
+    {
       "added_at": "2022-04-22 04:00:00",
       "album": {
         "name": "American Teenager",
@@ -1191,22 +1207,6 @@
       "duration_ms": 161673,
       "name": "Go Home!",
       "url": "https://open.spotify.com/track/5lMMj6wp1O5POGMrrJLjzy"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Change the Locks",
-        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/4miWVN59HLU10fv9f3fwp1"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1241,20 +1241,20 @@
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-05-13 13:40:12",
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
       "artists": [
         {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
+      "duration_ms": 188915,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
     }
   ],
   "unique_name": "Out Now",

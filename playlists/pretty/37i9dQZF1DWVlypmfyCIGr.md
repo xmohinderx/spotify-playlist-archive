@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 寧音
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,365 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,389 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 60 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 |
 | 61 | [How to use silence](https://open.spotify.com/track/1YRUVpVq5ksi6IOWvZfqJt) | [★STAR GUiTAR](https://open.spotify.com/artist/2c2u1DQ1MHOkHL1tVMV3n6) | [How to use silence](https://open.spotify.com/album/2k79TPj4Fk9z5HmBVoj4mZ) | 3:13 |
 | 62 | [ヤ\-bye](https://open.spotify.com/track/0AhGqLt07OsILmg7FdC8QP) | [どうせ未だ知ラナイ](https://open.spotify.com/artist/2lKN3OHN3jyTfIZIPxUibp) | [ヤ\-bye](https://open.spotify.com/album/5mnJOK58zTG0n4PJLvfZ69) | 3:36 |
-| 63 | [Atami](https://open.spotify.com/track/63EQJKpCgUk3eKmOnT9H9L) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Atami](https://open.spotify.com/album/3zZVCf9z9XMDmTSLXhTMNX) | 3:58 |
+| 63 | [Atami](https://open.spotify.com/track/1vpLyRGHaRbVE1DkJXnPQY) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 3:58 |
 | 64 | [チャプター](https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:18 |
 | 65 | [ガラスが割れた!!](https://open.spotify.com/track/367jwubxXh3834vcMVb3ii) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ガラスが割れた!!](https://open.spotify.com/album/0AyG1T4anvvrdADtJvfwIv) | 2:57 |
 | 66 | [I won't go to the live house anymore](https://open.spotify.com/track/04PwHBiph0yT3JMRa1LlvB) | [milkyway](https://open.spotify.com/artist/7F8CUMuI6T42hdxqVsD80F) | [I won't go to the live house anymore](https://open.spotify.com/album/5qSMnc5MYaD69XL58lZ14G) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Harmonic Girl \- Tatsuki Okadarim '90s House Club Mix](https://open.spotify.com/track/2obDGv3zmuEK6lYhLigcm1) | [Tatsuki Okadarim](https://open.spotify.com/artist/6ZTOtqDRwcjOnubXSP1AVj), [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH) | [Harmonic Girl \(Tatsuki Okadarim '90s House Club Mix\)](https://open.spotify.com/album/57IZ2j3nOKPGewFhJVDDyZ) | 4:53 |
 | 80 | [リセット症候群](https://open.spotify.com/track/4LSGiBpY39U737kuUW9POq) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [リセット症候群](https://open.spotify.com/album/1q4SKYBWbXBBFZRdZC3nW6) | 3:16 |
 
-Snapshot ID: `MTY1ODc2MTIwMCwwMDAwMDAwMDA2ZTQ2NjNmMDE4NjBiNGVlMTlkY2NkZGFjMjViODBl`
+Snapshot ID: `MTY1ODc2MTIwMCwwMDAwMDAwMDYwN2ZmMzY2ZjA5NWFmOTVkY2NhNjRlZTJhZjc4NGE0`

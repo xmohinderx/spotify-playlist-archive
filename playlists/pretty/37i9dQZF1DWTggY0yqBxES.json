@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Ben Reilly",
-  "num_followers": 875682,
+  "num_followers": 875933,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNjg2MSwwMDAwMDAwMDJjMzA4MzIwZjRmNzYwZGRmN2ViZmMyMzg5Nzk1OGY0",
+  "snapshot_id": "MTY1OTEwNjg2MSwwMDAwMDAwMGZiYjY1ZTc4MTFkODYxZjU5ODJhOWIzZmU5OGY4YWFl",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -819,6 +819,38 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 102397,
+      "name": "ROUND HERE (PART ONE)",
+      "url": "https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "FATHER'S DAY",
+        "url": "https://open.spotify.com/album/39gFwU1cBpRZK05zRRFGkD"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 253232,
+      "name": "FATHER'S DAY",
+      "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Get Used To It",
         "url": "https://open.spotify.com/album/3mNfeGxCFJ3fRZotZ7UhSO"
       },
@@ -843,54 +875,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "FATHER'S DAY",
-        "url": "https://open.spotify.com/album/39gFwU1cBpRZK05zRRFGkD"
+        "name": "Barely Miss",
+        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
         }
       ],
-      "duration_ms": 253232,
-      "name": "FATHER'S DAY",
-      "url": "https://open.spotify.com/track/6umZfXvscE1GxzTG2SDiol"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/3ZFgX4IgUylPhDOKFatHKL"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 102397,
-      "name": "ROUND HERE (PART ONE)",
-      "url": "https://open.spotify.com/track/3rGkm51Yn7ynxGmGcNC5De"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Psychedelic Views (feat. IDK)",
-        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        },
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Psychedelic Views (feat. IDK)",
-      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
+      "duration_ms": 193656,
+      "name": "Barely Miss",
+      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -915,18 +911,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Barely Miss",
-        "url": "https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA"
+        "name": "Psychedelic Views (feat. IDK)",
+        "url": "https://open.spotify.com/album/4dGOwkXOA2MzysErvXsKEC"
       },
       "artists": [
         {
-          "name": "REASON",
-          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 193656,
-      "name": "Barely Miss",
-      "url": "https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC"
+      "duration_ms": 280000,
+      "name": "Psychedelic Views (feat. IDK)",
+      "url": "https://open.spotify.com/track/528i4G2yPIJDetyAsndzFw"
     },
     {
       "added_at": "2022-07-29 04:00:00",

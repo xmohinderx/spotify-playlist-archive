@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Luísa Sonza e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,462 likes - 48 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,532 likes - 48 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Dar Uma Deitchada](https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Dar Uma Deitchada](https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3) | 3:12 |
 | 26 | [Desapaixonar](https://open.spotify.com/track/4GL2GTaFhPInsjmhNMSFd9) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Desapaixonar](https://open.spotify.com/album/0t3IQv7Y2zvBumYHhht8Gv) | 3:49 |
 | 27 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
-| 28 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 |
-| 29 | [Tem Dias](https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:01 |
+| 28 | [Tem Dias](https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:01 |
+| 29 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 |
 | 30 | [Beijo De Judas](https://open.spotify.com/track/1FBLziBYf0gJ2yKC1CruTw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:21 |
 | 31 | [Faixa Rosa](https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Faixa Rosa](https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs) | 3:02 |
 | 32 | [Bruta](https://open.spotify.com/track/3mQSEDjzQnlvL4wPZbIGxY) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv) | [Bruta](https://open.spotify.com/album/5R9BgwbDW54Y7ijTpolkep) | 2:16 |
@@ -47,14 +47,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 37 | [Perdeu](https://open.spotify.com/track/5Y3tgOf8Dbp5ja44Qh5vhw) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa) | [Perdeu](https://open.spotify.com/album/2hG7gG84BDPGy98WjZKjBX) | 2:06 |
 | 38 | [Éden](https://open.spotify.com/track/70BE8zAy2Odekx0zNnT9vO) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Éden](https://open.spotify.com/album/7GD9Q2dIsisdNZTIDAae18) | 2:58 |
 | 39 | [TO PRONTA!](https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:43 |
-| 40 | [PPK](https://open.spotify.com/track/51kIcTMf2Y7gcTLRuvGhWc) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [PPK](https://open.spotify.com/album/5ktEOdI85D9b7lriLMC83o) | 2:20 |
-| 41 | [Número 1](https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Número 1](https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3) | 2:03 |
+| 40 | [Número 1](https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Número 1](https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3) | 2:03 |
+| 41 | [PPK](https://open.spotify.com/track/51kIcTMf2Y7gcTLRuvGhWc) | [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R) | [PPK](https://open.spotify.com/album/5ktEOdI85D9b7lriLMC83o) | 2:20 |
 | 42 | [Me Come e Some](https://open.spotify.com/track/7Fp4SHrl8yqek0wSbWFYmo) | [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [LARINHX](https://open.spotify.com/artist/0BZubN18kenflCcFQE4aJN), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Me Come e Some](https://open.spotify.com/album/4Cz1XB6dk2X8RWL5GMwfIr) | 2:36 |
 | 43 | [Brinco Muito](https://open.spotify.com/track/4wlnIEgKh6HjUb413AzHK4) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Brinco Muito](https://open.spotify.com/album/7epgvJOimE2lSwW5bczStJ) | 2:53 |
 | 44 | [Shonda D+](https://open.spotify.com/track/7c7Q6JPViG0X4VDpUx50gL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Shonda D+](https://open.spotify.com/album/0suGmBaRPl2eUAt37mh8z8) | 4:08 |
 | 45 | [TODOS OLHOS EM MIM](https://open.spotify.com/track/6hwv7Ig9erql3yqEkEzJTR) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [BÁRBARA](https://open.spotify.com/album/5OisNDqNx4ezH9Fdw7iKgi) | 2:22 |
 | 46 | [convoca \(Prod\. Maikinho\)](https://open.spotify.com/track/4vlKtPzQTQiHh918NEDcl7) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:02 |
-| 47 | [Racha](https://open.spotify.com/track/0i6oeAMzpqkcgp5rSjtPZf) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:32 |
-| 48 | [Embalagem](https://open.spotify.com/track/0YT1YdhHUTiltVHzwtDRpx) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Embalagem](https://open.spotify.com/album/0kUH8BTiWf2b1xu4sLkIcI) | 2:30 |
+| 47 | [Embalagem](https://open.spotify.com/track/0YT1YdhHUTiltVHzwtDRpx) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Embalagem](https://open.spotify.com/album/0kUH8BTiWf2b1xu4sLkIcI) | 2:30 |
+| 48 | [Racha](https://open.spotify.com/track/0i6oeAMzpqkcgp5rSjtPZf) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [FÚRIA PT1](https://open.spotify.com/album/3vd866Wmu5RHmtuKk0YoCZ) | 2:32 |
 
-Snapshot ID: `MTY1ODE4ODgwMCwwMDAwMDAwMGM1NzRkNTdkNjRjYWJkY2MwZmJiNzBjODIyYzZiMjlh`
+Snapshot ID: `MTY1ODE4ODgwMCwwMDAwMDAwMDEzNDk0NzEyZDZhODE2M2QxZmEwNjQ0Y2FhMDExMmE0`

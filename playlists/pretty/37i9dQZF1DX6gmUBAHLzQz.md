@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. トップアイドルを目指す少女達の物語、<a href="http://www.aikatsu.net/01/">アイカツ！</a>の煌めく世界へ。\(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,334 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,344 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 47 | [ひとりじゃない! \- あいね & みお ver.](https://open.spotify.com/track/66ITNhiFXDfXRZh33dWO7p) | [あいね from BEST FRIENDS!](https://open.spotify.com/artist/3V19PPW9AbnRrNHQMmwAw3), [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67) | [アイカツ!シリーズ 10th Anniversary Album Vol.02「Pure Sweet Harmony」](https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ) | 4:01 |
 | 48 | [Sweet Sp!ce](https://open.spotify.com/track/7rmJRLhAoH6J10Nont5GBl) | [ふうり・わか from STAR☆ANIS](https://open.spotify.com/artist/2iHXT032sB3RIuxCMdr0d4) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS8](https://open.spotify.com/album/532eAwNEHArrJe9zqLgawh) | 3:45 |
 | 49 | [stranger alien](https://open.spotify.com/track/3brEBiNJ2l6bwKRTbRXG0e) | [ふうり・ゆな from STAR☆ANIS](https://open.spotify.com/artist/2ZsTyDZDZtDiAe0gdNrUwb) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:42 |
-| 50 | [6cm上の景色](https://open.spotify.com/track/5aSTYs2lZdHRFB1SiZOIW7) | [みお from BEST FRIENDS!](https://open.spotify.com/artist/7yCtHmaXb2JMePfcu2Vj67) | [アイカツ!シリーズ 10th Anniversary Album Vol.02「Pure Sweet Harmony」](https://open.spotify.com/album/0s4s4OoWbvfLgiCnp07JAZ) | 4:39 |
+| 50 | [放課後ポニーテール](https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm) | [れみ from STAR☆ANIS](https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec) | [TVアニメ/データカードダス『アイカツ!』COMPLETE SONGS7](https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2) | 4:32 |
 
-Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMGVjNTRkNTE2ZTBmMDJlYjFlMGM0YTBlZGExMGEwYmQ1`
+Snapshot ID: `MTY1ODg1MjIxNiwwMDAwMDAwMGRlNWJjMGIyOGFmMGVjNzE2ZGRlNTcyNTcyMTMzNjll`

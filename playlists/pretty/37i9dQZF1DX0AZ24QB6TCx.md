@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,349 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,473 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 30 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 |
 | 31 | [Peace](https://open.spotify.com/track/0JsdRVcOPmk5MqlifhWPQl) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Peace](https://open.spotify.com/album/2OEzkuJirqao61dblPqLuX) | 7:47 |
 | 32 | [High On Beat](https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [High On Beat](https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP) | 3:26 |
-| 33 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 |
-| 34 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 33 | [Copal](https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Copal](https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn) | 6:04 |
+| 34 | [Killing Time](https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Boy Wolf](https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM) | [Killing Time](https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX) | 5:32 |
 | 35 | [Wellenlänge](https://open.spotify.com/track/6dhY3WUqryHUh8aPDYxQxh) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Wellenlänge](https://open.spotify.com/album/0oVcTDdNLjp3vieIbawJOm) | 3:38 |
 | 36 | [Yuregine Deprem](https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Yuregine Deprem](https://open.spotify.com/album/6zgNxbXp8mi1c3WxG28F99) | 3:47 |
 | 37 | [Just To Hear You Say](https://open.spotify.com/track/1SJsKYhiDRLLddBnGzGgbW) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Just To Hear You Say](https://open.spotify.com/album/7MxJMLEo4D1Jej3TYPPG95) | 3:33 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 67 | [Air](https://open.spotify.com/track/4dbftegZLAdj8BZYxz0Jf8) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Ten Ven](https://open.spotify.com/artist/0ZSLz27xUnI816MMtYfLMI) | [Home / Air](https://open.spotify.com/album/1rvnW8k7TnL9VeR98P7Dfw) | 9:07 |
 | 68 | [Escape](https://open.spotify.com/track/7hYT9hqQWoqV2FsCnd3eOX) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Escape](https://open.spotify.com/album/1xUg5I48NFmsizQGSNrcsP) | 3:04 |
 | 69 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
-| 70 | [Unfold](https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Unfold](https://open.spotify.com/album/2OrQip9HLqtmBJb9r4hcU9) | 3:41 |
+| 70 | [Undecided](https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Undecided](https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD) | 4:06 |
 
-Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMDFiNWJhOWU4NTZmNDFhNzc1YjFiZThmNjBlMWE4NGY0`
+Snapshot ID: `MTY1NTQ3OTgwMSwwMDAwMDAwMGNlNmViOTQ2NDFiMjRhZmFkNWYxMDM1Mzk1OWUxMTY3`

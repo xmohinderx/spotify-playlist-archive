@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,270 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,462 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 97 | [Trainwreck 1979 \- Moulder Mix with in/out fades](https://open.spotify.com/track/06vOVdH94mIEjIgIhHdhdO) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/22sYnou2SavBZHHFVUTmWs) | 3:46 |
 | 98 | [Main Offender](https://open.spotify.com/track/4N9NC8JCz2hSimtbspc6Ng) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 2:33 |
 | 99 | [Human Performance](https://open.spotify.com/track/6gCdeGEhXZbAracd6B977r) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Human Performance](https://open.spotify.com/album/234xgzAxSozAKfXeLb2ofh) | 4:15 |
-| 100 | [The Age Of The Understatement](https://open.spotify.com/track/39az7WzBipIvzCCTfpwtGa) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/4fxflUQfRpsSPzVVBMZLQm) | 3:09 |
+| 100 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMGQwZWY1Mjc4MTVjYTJkMTlkNzdlZmUxZjc0MDBjMDdh`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDgyMDRiMmFkN2I4NmZmNDEyMTVmZDBhM2NiMDBjMTE5`

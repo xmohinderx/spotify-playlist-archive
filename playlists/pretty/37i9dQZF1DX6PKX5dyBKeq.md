@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The best of UK Rap & Drill\.  Cover: K\-Trap
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,573 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,430 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 3 | [Busy](https://open.spotify.com/track/1uX8TkVO7QxSoleWuAV8qg) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Busy](https://open.spotify.com/album/493CafGxRu4siJcEN04Yg2) | 2:26 |
 | 4 | [Seoul](https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Seoul](https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv) | 2:51 |
 | 5 | [BABA \(Toma Tussi\)](https://open.spotify.com/track/5ZRM9cNzt2CS9eZyzEyRtZ) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [BABA \(Toma Tussi\)](https://open.spotify.com/album/1r9EOOBPe9kHk4NibkZcmK) | 2:00 |
-| 6 | [Talk to Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk to Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
+| 6 | [Talk To Me Nice](https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Talk To Me Nice](https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z) | 2:28 |
 | 7 | [Drip](https://open.spotify.com/track/42xiqaFveo5HY3tWNjSrh9) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bank Statement](https://open.spotify.com/album/0Ytf68szpup3NtusbOcg0v) | 2:34 |
 | 8 | [IFTK](https://open.spotify.com/track/7e1WjNmwjzNsbQeg2CGlgF) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [IFTK](https://open.spotify.com/album/6UtuXgjAgX8C06C0FbdlCG) | 3:10 |
 | 9 | [Je M'appelle \(feat\. Tion Wayne & French Montana\) \- Remix](https://open.spotify.com/track/203uVLn0YRikqOgI4axq8n) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Je M'appelle \(Remix\)](https://open.spotify.com/album/7wAprxpngbUpq9Ch0nfY9A) | 2:30 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 34 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 |
 | 35 | [Step Out.](https://open.spotify.com/track/2oLgGxj5Hk9LqZggVDg1VW) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [YPB: The Archive](https://open.spotify.com/album/3E5DWj3A0oXBTwdrrBcKHu) | 3:57 |
 | 36 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 |
-| 37 | [Out In The O](https://open.spotify.com/track/6O5IFn25x2UsSjDzkhGaJo) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm) | [Out In The O](https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4) | 2:16 |
+| 37 | [Out In The O](https://open.spotify.com/track/6O5IFn25x2UsSjDzkhGaJo) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Out In The O](https://open.spotify.com/album/65vlxXW8XRny2aaCOXStT4) | 2:16 |
 | 38 | [Losing My Mind](https://open.spotify.com/track/3r8CCfyS77ctGk08AOsofX) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Losing My Mind](https://open.spotify.com/album/42IwFNi51o5xk2uIhnvR9b) | 3:01 |
 | 39 | [Reasonable](https://open.spotify.com/track/5cDqRUZtDLktKVX5LcrToQ) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Reasonable](https://open.spotify.com/album/2xfgn7HrLEx3XSlWKS3vjO) | 3:22 |
 | 40 | [Streets Don't Love You](https://open.spotify.com/track/6bhqJ5yX9hVb3S6teuds0p) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Streets Don't Love You](https://open.spotify.com/album/1qCoZgTDAAYFp0bBh1YpFh) | 2:56 |

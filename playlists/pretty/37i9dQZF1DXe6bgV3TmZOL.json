@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 1982424,
+  "num_followers": 1982905,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMGQ0MDkxOTRlMzE3ZDBjNGY4NGRiMjFmM2M5NjgzYjE3",
+  "snapshot_id": "MTY1ODkzNTQ4NCwwMDAwMDAwMDRhZGIwNTAwMmM5YzAwYWMwMmNhZjczYWM3ZmNiMjM5",
   "tracks": [
     {
       "added_at": "2022-06-17 05:27:54",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
         }
       ],
-      "duration_ms": 263080,
-      "name": "A Warrior's Call",
-      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
+      "duration_ms": 179181,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -315,22 +319,18 @@
     {
       "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
+        "name": "Beyond Hell / Above Heaven",
+        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
       },
       "artists": [
         {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Caleb Shomo",
-          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
         }
       ],
-      "duration_ms": 179181,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
+      "duration_ms": 263080,
+      "name": "A Warrior's Call",
+      "url": "https://open.spotify.com/track/4o6k1XHlrIZay8v1m5VU83"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW"
     },
     {
-      "added_at": "2022-07-13 15:59:27",
-      "album": {
-        "name": "Dysfunction",
-        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "Mudshovel",
-      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
-    },
-    {
       "added_at": "2022-06-17 05:27:54",
       "album": {
         "name": "Magma",
@@ -747,6 +731,22 @@
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "added_at": "2022-07-13 15:59:27",
+      "album": {
+        "name": "Dysfunction",
+        "url": "https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "Mudshovel",
+      "url": "https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
         "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
         "url": "https://open.spotify.com/album/3ktq0tDEeyn6FIdVyJvw87"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 175603,
       "name": "Scars That I'm Hiding (feat. Anders Frid\u00e9n of In Flames)",
       "url": "https://open.spotify.com/track/0UOtF2ojhKGYEjvZ28ZA6d"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 243913,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Deceiver, Deceiver",
-        "url": "https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Deceiver, Deceiver",
-      "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Dark Connection",
         "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 214134,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Deceiver, Deceiver",
+        "url": "https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
     },
     {
       "added_at": "2022-07-13 15:59:27",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Violent Noise",
-        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Why Am I Like This?",
-      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 225263,
       "name": "Remember We Die",
       "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Violent Noise",
+        "url": "https://open.spotify.com/album/7J66HLhb0QYzZ5P19tHcZP"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Why Am I Like This?",
+      "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-06-17 05:27:54",
       "album": {
-        "name": "Obsolete",
-        "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "Obsolete",
-      "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
-    },
-    {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 183437,
       "name": "You Never Know",
       "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Obsolete",
+        "url": "https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "Obsolete",
+      "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2045,22 +2045,6 @@
       "url": "https://open.spotify.com/track/4kRDWcWcBlkcQNoWyWSkTg"
     },
     {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
-    },
-    {
       "added_at": "2022-07-13 15:59:27",
       "album": {
         "name": "Around the Fur",
@@ -2075,6 +2059,22 @@
       "duration_ms": 162866,
       "name": "Rickets",
       "url": "https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2317,22 +2317,6 @@
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
     },
     {
-      "added_at": "2022-06-17 05:27:54",
-      "album": {
-        "name": "I Am Damnation",
-        "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "I Am Damnation",
-      "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
-    },
-    {
       "added_at": "2022-07-13 15:59:27",
       "album": {
         "name": "Wisconsin Death Trip",
@@ -2347,6 +2331,22 @@
       "duration_ms": 225400,
       "name": "Bled for Days",
       "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
+    },
+    {
+      "added_at": "2022-06-17 05:27:54",
+      "album": {
+        "name": "I Am Damnation",
+        "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "I Am Damnation",
+      "url": "https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ"
     },
     {
       "added_at": "2022-06-17 05:27:54",
@@ -2449,20 +2449,20 @@
       "url": "https://open.spotify.com/track/4Htt3QaBWdLggq88rJI5MU"
     },
     {
-      "added_at": "2022-06-17 05:27:54",
+      "added_at": "2022-07-13 15:59:27",
       "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/2S2fJjhwJknUU0GoBLMrmb"
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
       "artists": [
         {
-          "name": "Kingdom Collapse",
-          "url": "https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 159566,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/0UKIP5PzRX6WY0rURFxxqQ"
+      "duration_ms": 396634,
+      "name": "New Found",
+      "url": "https://open.spotify.com/track/3Kl4f3sVKb8iwQ8ZffHim6"
     }
   ],
   "unique_name": "Adrenaline Workout",

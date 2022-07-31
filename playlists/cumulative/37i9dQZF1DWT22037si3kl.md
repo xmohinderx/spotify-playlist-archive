@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Salaga, Clara Lima
 
-113 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
+115 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/5jkslhwBFHauhbdOEgkwD4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Pingente Novo](https://open.spotify.com/track/2gdIbUAmKQlFmvTaZ3mN4b) | [CH Wallan](https://open.spotify.com/artist/7lRr6awlJ9CMgjEVWXJOcH), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Pingente Novo](https://open.spotify.com/album/0ooGNs10KcCXMu6j9r0bQF) | 3:20 | 2022-04-08 | 2022-04-16 |
 | [PISANDO FOFO](https://open.spotify.com/track/5piCfoJLleAaccELaQHGbz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 4:14 | 2022-03-18 | 2022-04-29 |
 | [Pitbull](https://open.spotify.com/track/4BbZUFzlbx4mVR1r0Z35x2) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Pitbull](https://open.spotify.com/album/6EwvwqxByg8Ll9VJmeqBcc) | 2:50 | 2022-05-06 |  |
+| [PLACA DE HXX](https://open.spotify.com/track/1lS4JGGWHaq9MlVnqtkUtG) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Ckzin](https://open.spotify.com/artist/1SHMA4jxjtF97jFERazZ7A), [Bruno Porto](https://open.spotify.com/artist/4jaWy35cXazVmoQW2OX6dU) | [PLACA DE HXX](https://open.spotify.com/album/4a7w9dGDmOhTMmlAFC5OU9) | 2:04 | 2022-07-29 |  |
 | [Polo](https://open.spotify.com/track/0qZCXSCeZZB238Vmk28XMC) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Trap de Quebra \(Deluxe\)](https://open.spotify.com/album/19fuY6ljpmJaymifBNFqDf) | 2:05 | 2022-07-08 |  |
 | [Preto e Dinheiro](https://open.spotify.com/track/3kHxuY36nCmcKJ4GddBjIe) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Preto e Dinheiro](https://open.spotify.com/album/1nLXyI7gsmzdfU3Il7kaTk) | 3:17 | 2022-03-18 |  |
 | [Progresso](https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Progresso](https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN) | 2:41 | 2022-03-18 |  |
@@ -118,6 +119,7 @@
 | [VISÃO DA GRANA](https://open.spotify.com/track/4aA9kIJBGeu1SuBtGLA3vW) | [Pack Music](https://open.spotify.com/artist/65m9BcegfjKhWK84AP8RqZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [K2R](https://open.spotify.com/artist/0MJk6Hhne3m9Dd35WuHBxi) | [VISÃO DA GRANA](https://open.spotify.com/album/1N3Jq2n1vRKkQbI8nsi4yA) | 3:47 | 2022-05-06 | 2022-07-09 |
 | [Vlife](https://open.spotify.com/track/2evcFxT2aW4FZznh6DyEwK) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/47on59OkWHDwxyP2zBjhwd) | 2:40 | 2022-07-01 |  |
 | [Vlife](https://open.spotify.com/track/5iR6O7EKag8BRlOVj5hx2L) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Vlife](https://open.spotify.com/album/6FBfqGRQu7uD6F1cPFrnF6) | 2:40 | 2022-06-13 | 2022-07-02 |
+| [Volvo](https://open.spotify.com/track/2MfvRyM7Z8MVj8XSRBFEsR) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Volvo](https://open.spotify.com/album/4YyGlum109B6TRYQaIinWc) | 2:31 | 2022-07-29 |  |
 | [X1](https://open.spotify.com/track/0dcHD9QhnWRA41zoLnC83X) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:08 | 2022-06-17 |  |
 | [Ópera](https://open.spotify.com/track/0EZElfTGRs71pvssBOtYpd) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ópera](https://open.spotify.com/album/6e0uBH47OSftxZsLXk3Zb7) | 2:46 | 2022-04-08 | 2022-04-13 |
 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-13 | 2022-06-04 |

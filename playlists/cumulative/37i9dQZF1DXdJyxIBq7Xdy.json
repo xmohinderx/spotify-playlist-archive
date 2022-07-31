@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "WEDDING CEREMONY MUSIC",
+        "url": "https://open.spotify.com/album/3Rsf9NCUUALZNz6moKCrkM"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "date_added": "2019-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234800,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/0iSrfG3WOzSBE4eOsXHsrj"
+    },
+    {
+      "album": {
         "name": "'80s Pop #1's",
         "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
       },
@@ -297,7 +315,7 @@
       ],
       "date_added": "2019-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 245413,
       "name": "Funkytown - Single Version",
       "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"

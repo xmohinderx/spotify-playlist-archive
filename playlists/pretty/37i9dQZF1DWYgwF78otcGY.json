@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDUwZjVmY2UxOGY3YmI0ZWI1MmE2ZTVkNWM0NGQyMjUz",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDU1OWU5MDQxOTVlNmFkOTZiODkyOWNhMjEwOTczOGQx",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/3aLrYDY9T8OObu2IY3sC90"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/1RNAAIqorcSpk3nY2dxLRB"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
         "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 176213,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/3aLrYDY9T8OObu2IY3sC90"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/1RNAAIqorcSpk3nY2dxLRB"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -411,22 +411,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
+      },
+      "artists": [
+        {
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "La Dolce Vita",
         "url": "https://open.spotify.com/album/0CXSCEO8p04h1FRxFUGsIl"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 180800,
       "name": "La Dolce Vita",
       "url": "https://open.spotify.com/track/5QQz3p0cnmlOYsfyAmgwkw"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Gamla Stan",
-        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "M\u00f6t mig i Gamla Stan",
-      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Busy Doin' Nothin'",
         "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Gamla Stan",
+        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
     },
     {
       "added_at": "2019-02-28 12:57:58",

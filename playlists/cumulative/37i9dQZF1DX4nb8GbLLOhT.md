@@ -4,7 +4,7 @@
 
 > Classic songs like you've never heard before\. Cover: Shawn Mendes, Maddie & Tae, and John Legend.
 
-158 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/6htxeTktsAlJEOJdgEWnsz)
+159 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/6htxeTktsAlJEOJdgEWnsz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,9 +19,10 @@
 | [Ain't No Way \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IeHwRsVM3L6Kvotagrt9P) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles](https://open.spotify.com/album/5qeR1l2kCx9GnJmEHQIOH7) | 4:10 | 2022-06-21 |  |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-06-21 | 2022-07-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 | 2021-10-21 | 2022-07-29 |
+| [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 | 2022-06-21 |  |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-06-21 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-10-21 | 2022-07-29 |
-| [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 | 2021-10-21 |  |
+| [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 | 2021-10-21 | 2022-07-31 |
 | [Ballad of a Thin Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/25iR1fL2TQwkO7QG5UWZxf) | [Brother Ali](https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx) | [Spotify Singles](https://open.spotify.com/album/7Kk6sx9YaaYs3LQ6FlnZui) | 5:01 | 2021-10-21 | 2022-07-29 |
 | [Be Kind To Me \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6jcPLlygnVZ4ZUfinbtVIn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Spotify Singles](https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB) | 3:17 | 2021-10-21 |  |
 | [Bennie And The Jets \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/144y07SeEatHOBswM3BZHk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 6:01 | 2021-10-21 |  |

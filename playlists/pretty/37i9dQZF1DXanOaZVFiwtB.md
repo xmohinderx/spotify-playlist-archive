@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,196 likes - 42 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,306 likes - 42 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 2 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 |
 | 3 | [1/2](https://open.spotify.com/track/30RyPOEySEbfoHsd2UELNb) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx) | [川本真琴](https://open.spotify.com/album/2h51mctnS9OjJFqs6HT0Ip) | 5:15 |
 | 4 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
-| 5 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [gumi](https://open.spotify.com/artist/7EpnSFEhtEQmIOXPDwGXQ5) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
+| 5 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [gumi](https://open.spotify.com/artist/7EpnSFEhtEQmIOXPDwGXQ5) | [カードキャプターさくら ソングコレクション 1998.4\~1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
 | 6 | [運命のルーレット廻して](https://open.spotify.com/track/36LFRJKinf0TWJjHg6SmHg) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [運命のルーレット廻して](https://open.spotify.com/album/0am0AmvgNvxLx0swxwyQVx) | 5:00 |
 | 7 | [Hohoemi no Bakudan](https://open.spotify.com/track/5BG5LEDS1Q24SZuofpWSBG) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [Hohoemi no Bakudan](https://open.spotify.com/album/5t1KlykzXKaYZIn75048c3) | 4:14 |
 | 8 | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\) \(ドラゴンボールZ\)](https://open.spotify.com/track/40rB6GShOHTdu8ZZZZtVG8) | [Hironobu Kageyama](https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8) | [CHA\-LA HEAD\-CHA\-LA \(2005 ver.\)](https://open.spotify.com/album/6ODDOBJd06l5Cb5qTbS5qt) | 4:13 |

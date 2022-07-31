@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,132 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,149 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 20 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 |
 | 21 | [me gustas mas que un bigmac](https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [me gustas mas que un bigmac](https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq) | 3:19 |
 | 22 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 |
-| 23 | [Piedad](https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Piedad](https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf) | 2:05 |
-| 24 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 |
+| 23 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 |
+| 24 | [Piedad](https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Piedad](https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf) | 2:05 |
 | 25 | [Inercia](https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Lombardía 22](https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi) | 2:59 |
 | 26 | [Malos Hábitos](https://open.spotify.com/track/0RifTE9442lVRpBz7NSzjL) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Malos Hábitos](https://open.spotify.com/album/19EWEllS3yQpo8CM5Cxuqr) | 3:12 |
 | 27 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
 | 28 | [Pablo](https://open.spotify.com/track/3RyLLnuLXce8JUdnaSyJNE) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Pablo](https://open.spotify.com/album/3JbYVEqXpE1CbYyVl3t2Zg) | 3:07 |
 | 29 | [A W](https://open.spotify.com/track/4mLDXE5bvaYcblXYmmtSu6) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [A W](https://open.spotify.com/album/48LBK4hbxM0RmMD0ywK5vL) | 2:15 |
 | 30 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 |
-| 31 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
-| 32 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
+| 31 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 |
+| 32 | [AMARILLO MI CORAZÓN](https://open.spotify.com/track/0P2yIpAaEyOjxMfH4CrYyB) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [AMARILLO MI CORAZÓN](https://open.spotify.com/album/2PJLX9PXiQ7hG3nILSDlXu) | 3:06 |
 | 33 | [un poco sí...](https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un poco sí...](https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD) | 2:59 |
 | 34 | [Disneyland Paris](https://open.spotify.com/track/2AeMKItKccbghNb24kruJB) | [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Disneyland Paris](https://open.spotify.com/album/1nl8pRMZ9d59YWbNyrzanG) | 2:24 |
 | 35 | [La Lluvia](https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [La Lluvia](https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDVlNTNlMjBhOTlhNjNlYzNhYjNlNmRhZmYwM2UxNmI4`
+Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDQ0MWU5ZGNlZGVhMGNiZWNlMzBjY2VmMmZkOTg1Y2Y4`

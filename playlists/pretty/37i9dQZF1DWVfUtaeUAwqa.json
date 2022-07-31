@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 6039,
+  "num_followers": 6046,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMGU1N2VjMjYwYjk2ZDNkMTRmOTBjMDZmODAxOWQyODg1",
+  "snapshot_id": "MTU5NzkyNzAwMiwwMDAwMDAwMDgzMzE4NmFjOGYxNGJhMzVhZjhiMGI3MjQ3Y2I0MDVh",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Presenting Eddie Condon",
-        "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
-      },
-      "artists": [
-        {
-          "name": "Eddie Condon",
-          "url": "https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS"
-        }
-      ],
-      "duration_ms": 217520,
-      "name": "I'm Gonna Stomp, Mr Henry Lee",
-      "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Sounds Of New Orleans Vol. 9",
         "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 335280,
       "name": "Original Dixieland One Step",
       "url": "https://open.spotify.com/track/3XznXMnnySIGCKSs6wktIA"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "Presenting Eddie Condon",
+        "url": "https://open.spotify.com/album/7h3lmjqS435xPobsUcIcRC"
+      },
+      "artists": [
+        {
+          "name": "Eddie Condon",
+          "url": "https://open.spotify.com/artist/1YaB5mqH5zlJqvJaKIsBrS"
+        }
+      ],
+      "duration_ms": 217520,
+      "name": "I'm Gonna Stomp, Mr Henry Lee",
+      "url": "https://open.spotify.com/track/7bKWw5CgBrV8mkkjJ23Fxf"
     },
     {
       "added_at": "2020-08-19 17:19:14",

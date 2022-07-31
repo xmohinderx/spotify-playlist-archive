@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 329644,
+  "num_followers": 329718,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDk2ZWM3YmMwYjEyMGEzNDVjNTg0NjMyZWE4NjIwODhh",
+  "snapshot_id": "MTY0NzAxNTcyNSwwMDAwMDAwMDc4MzQyOWU1MTI5NDA2NjEzMmFhZGE3ZGY5Y2I4MWU4",
   "tracks": [
     {
       "added_at": "2022-03-11 16:22:05",
@@ -527,26 +527,6 @@
     {
       "added_at": "2022-03-11 16:22:05",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
         "name": "Turn Around (Hey What\u2019s Wrong With You) [Remixes]",
         "url": "https://open.spotify.com/album/2hx53vnNPRvQku4tAbWMSf"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 197243,
       "name": "Turn Around (Hey What's Wrong With You) - Robosonic Remix",
       "url": "https://open.spotify.com/track/17gnbzWdHVTpyZP6FUvo0E"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2022-03-11 16:22:05",
@@ -924,6 +924,22 @@
       "added_at": "2022-03-11 16:22:05",
       "album": {
         "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
+      },
+      "artists": [
+        {
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "On My Mind - Radio Mix",
+      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
+    },
+    {
+      "added_at": "2022-03-11 16:22:05",
+      "album": {
+        "name": "On My Mind",
         "url": "https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB"
       },
       "artists": [
@@ -951,22 +967,6 @@
       "duration_ms": 250862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
-    },
-    {
-      "added_at": "2022-03-11 16:22:05",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
-      },
-      "artists": [
-        {
-          "name": "Sandy's Groove",
-          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "On My Mind - Radio Mix",
-      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
     },
     {
       "added_at": "2022-03-11 16:22:05",

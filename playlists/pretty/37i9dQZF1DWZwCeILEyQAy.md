@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,858 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,920 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 2 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 |
-| 3 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
-| 4 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
+| 3 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
+| 4 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 |
 | 5 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 6 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 7 | [PUSSY](https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [PUSSY](https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib) | 2:21 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 46 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
 | 47 | [Bankrupt](https://open.spotify.com/track/1mnQEp3ySFIn18UpKUiQCw) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Aaliyah Keef](https://open.spotify.com/album/7bgJfdpf6ciPAFW27o2rc5) | 3:01 |
 | 48 | [Join Em](https://open.spotify.com/track/03h3onzQ3mkndoFCWIIgMd) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Hard On A 304](https://open.spotify.com/album/6a6DFsmuYzp39qKtn3UJ3P) | 2:50 |
-| 49 | [Nunnadet Shit \- Remix](https://open.spotify.com/track/58cqFvlwb5uljBwtDgpJg9) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Rubi Rose](https://open.spotify.com/artist/2yYkiWf3rovtdrvqiaLV1m), [Dream Doll](https://open.spotify.com/artist/4zObDORMaBODHRPMRKuWzH), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Ivorian Doll](https://open.spotify.com/artist/5kiOT8NdmUdCgB9l94GaYz) | [Nunnadet Shit \(Remix\)](https://open.spotify.com/album/1loyx1hQOMMyI2fZsIst7R) | 4:16 |
-| 50 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 |
+| 49 | [Want Sum](https://open.spotify.com/track/0sZVQUB6jYpTDAEKSbj4PE) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Want Sum](https://open.spotify.com/album/5se07VxKwmmum9LNtZdnZU) | 2:07 |
+| 50 | [Nunnadet Shit \- Remix](https://open.spotify.com/track/58cqFvlwb5uljBwtDgpJg9) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [Rubi Rose](https://open.spotify.com/artist/2yYkiWf3rovtdrvqiaLV1m), [Dream Doll](https://open.spotify.com/artist/4zObDORMaBODHRPMRKuWzH), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Ivorian Doll](https://open.spotify.com/artist/5kiOT8NdmUdCgB9l94GaYz) | [Nunnadet Shit \(Remix\)](https://open.spotify.com/album/1loyx1hQOMMyI2fZsIst7R) | 4:16 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMDM5OWUxYzkyZTE5ZTlkYzBiODhmYTRiNmIyNmEzODQy`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGRiZTk4YmMzMzFkNjNjZjE5ZjY1N2RkODE2MjYyYjFk`

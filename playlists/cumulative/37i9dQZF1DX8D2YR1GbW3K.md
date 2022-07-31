@@ -4,7 +4,7 @@
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-181 songs - 12 hr 11 min - [published](https://open.spotify.com/playlist/32yWo5rps1QJ3QtObrBl8L)
+182 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/32yWo5rps1QJ3QtObrBl8L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Save The World](https://open.spotify.com/track/65hRZOQkVjmBdusz1N7aOv) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Save The World](https://open.spotify.com/album/728voOLBbJUBgK2vooghcS) | 3:33 | 2021-04-16 |  |
 | [Scary Monsters and Nice Sprites](https://open.spotify.com/track/4rwpZEcnalkuhPyGkEdhu0) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 4:03 | 2021-04-16 |  |
 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/6hL8PxitrG9hSXUmgWkG3N) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/5zhHMMz0YT13BKa7ULPxGX) | 3:04 | 2021-04-16 |  |
-| [Spaceman](https://open.spotify.com/track/1Ca2ELRlvACAeI7xz9c9jR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/14SHciJYQ4DnKzprcUzE1z) | 6:19 | 2021-04-16 |  |
+| [Spaceman](https://open.spotify.com/track/1Ca2ELRlvACAeI7xz9c9jR) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Spaceman](https://open.spotify.com/album/14SHciJYQ4DnKzprcUzE1z) | 6:19 | 2021-04-16 | 2022-07-31 |
+| [Spaceman](https://open.spotify.com/track/3Ki1bFwSTFmZWI7TKu5DNF) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Hardwell Presents Revealed Volume 3](https://open.spotify.com/album/2dAoLe5veWKjPuVd0Tl5mL) | 6:19 | 2022-06-09 |  |
 | [Spectrum](https://open.spotify.com/track/1dFkD1JfRMzwO6hwUsE8aS) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:03 | 2021-04-16 |  |
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/1c478uMN61yF2JOXXEtsdw) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Spectrum \(Say My Name\) EP](https://open.spotify.com/album/2cwJklonI65VsnAw9Z0bIu) | 3:38 | 2022-06-09 |  |
 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 | 2021-04-16 | 2022-07-29 |

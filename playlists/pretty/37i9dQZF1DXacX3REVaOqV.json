@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 130029,
+  "num_followers": 130194,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMDQ3MWYwMmY2OTY5ZDA4NjQwZWJjZjhjNWE2OTczZGM3",
+  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMGNkZmZhNTZlMzU0MDBhZWI4YjM2M2E3ZDljMmNlYWE1",
   "tracks": [
     {
       "added_at": "2022-07-28 18:23:20",
@@ -491,18 +491,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Paris City Jazz",
-        "url": "https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS"
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
       },
       "artists": [
         {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
-      "duration_ms": 343911,
-      "name": "Paris City Jazz",
-      "url": "https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4"
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -531,22 +535,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+        "name": "Paris City Jazz",
+        "url": "https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS"
       },
       "artists": [
         {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
         }
       ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
+      "duration_ms": 343911,
+      "name": "Paris City Jazz",
+      "url": "https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Hipcats",
-        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Hipcats",
-      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Hold U (feat. James Tone)",
         "url": "https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 208355,
       "name": "Hold U (feat. James Tone)",
       "url": "https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Hipcats",
+        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Hipcats",
+      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "It's A Killa (Shermanology Edit)",
-        "url": "https://open.spotify.com/album/0Jpf5CNcJnn5KH5MU1h8tz"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "It's A Killa - Shermanology Edit",
-      "url": "https://open.spotify.com/track/46Ev3TqSeRhxWku5Mi4sQJ"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Spotlight (feat. Sarah Ikumu)",
         "url": "https://open.spotify.com/album/5RM0IfpJdzkJpdii10rRod"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "It's A Killa (Shermanology Edit)",
+        "url": "https://open.spotify.com/album/0Jpf5CNcJnn5KH5MU1h8tz"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "It's A Killa - Shermanology Edit",
+      "url": "https://open.spotify.com/track/46Ev3TqSeRhxWku5Mi4sQJ"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Woman Like You",
+        "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 245750,
+      "name": "Woman Like You",
+      "url": "https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Down (Franky Rizardo Remix)",
         "url": "https://open.spotify.com/album/3EFFBLCi8oHdn3GlwUCaLL"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 238026,
       "name": "Down - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/0U65qiH70mcfB1wyF0Mal0"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Woman Like You",
-        "url": "https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 245750,
-      "name": "Woman Like You",
-      "url": "https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1887,22 +1887,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Boiling Point",
-        "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
+        "name": "Marvins Touch",
+        "url": "https://open.spotify.com/album/63nZDkAJQqNz41aHF9d4CD"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Mica Paris",
-          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
+          "name": "T.Markakis",
+          "url": "https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu"
         }
       ],
-      "duration_ms": 152683,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
+      "duration_ms": 333220,
+      "name": "Marvins Touch",
+      "url": "https://open.spotify.com/track/2AuKpfuRP1UYeKsXLXr6no"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1927,34 +1923,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Marvins Touch",
-        "url": "https://open.spotify.com/album/63nZDkAJQqNz41aHF9d4CD"
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
       },
       "artists": [
         {
-          "name": "T.Markakis",
-          "url": "https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu"
-        }
-      ],
-      "duration_ms": 333220,
-      "name": "Marvins Touch",
-      "url": "https://open.spotify.com/track/2AuKpfuRP1UYeKsXLXr6no"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "D.A.N.C.E.",
-        "url": "https://open.spotify.com/album/0qaub7PZVrrkzZ0A99YsAn"
-      },
-      "artists": [
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
         {
-          "name": "Superlover",
-          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
+          "name": "Mica Paris",
+          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
         }
       ],
-      "duration_ms": 275322,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/2mhRsvVVfukHWklTrRpnCB"
+      "duration_ms": 152683,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -1975,6 +1959,22 @@
       "duration_ms": 453973,
       "name": "Momma's Groove - Jimpster's Hip Replacement Mix",
       "url": "https://open.spotify.com/track/6HjdHMNIFf6OLGE14LfqWW"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "D.A.N.C.E.",
+        "url": "https://open.spotify.com/album/0qaub7PZVrrkzZ0A99YsAn"
+      },
+      "artists": [
+        {
+          "name": "Superlover",
+          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
+        }
+      ],
+      "duration_ms": 275322,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/2mhRsvVVfukHWklTrRpnCB"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2155,26 +2155,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Feel This Way (Remixes)",
-        "url": "https://open.spotify.com/album/4XRFlOQxoRBg5usdDvbOlu"
+        "name": "Testify / Can't U",
+        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
       },
       "artists": [
         {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        },
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Sameed",
+          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
         }
       ],
-      "duration_ms": 188201,
-      "name": "Feel This Way - andhim Remix",
-      "url": "https://open.spotify.com/track/7cNaS3EG9wM8QGfJ7n4Upp"
+      "duration_ms": 353899,
+      "name": "Dusty Jazz",
+      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2199,22 +2191,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Testify / Can't U",
-        "url": "https://open.spotify.com/album/2dtu0vms59TWMfLYCfzuit"
-      },
-      "artists": [
-        {
-          "name": "Sameed",
-          "url": "https://open.spotify.com/artist/0wnRXxrm2uHNau9KLzQONa"
-        }
-      ],
-      "duration_ms": 353899,
-      "name": "Dusty Jazz",
-      "url": "https://open.spotify.com/track/3JpvBva0TwiWMVFebNqtTL"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -2235,6 +2211,30 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Feel This Way (Remixes)",
+        "url": "https://open.spotify.com/album/4XRFlOQxoRBg5usdDvbOlu"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        },
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 188201,
+      "name": "Feel This Way - andhim Remix",
+      "url": "https://open.spotify.com/track/7cNaS3EG9wM8QGfJ7n4Upp"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Who Is He? (feat. Kevin Haden)",
         "url": "https://open.spotify.com/album/3fR6uK85kD08zDg0ECaogD"
       },
@@ -2395,6 +2379,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "krypt. vol2",
         "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
       },
@@ -2407,30 +2407,6 @@
       "duration_ms": 348000,
       "name": "Olvidar",
       "url": "https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Harder (With Busta Rhymes) - Shermanology Remix",
-        "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Harder (Shermanology Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2455,6 +2431,30 @@
       "duration_ms": 365806,
       "name": "Petu - Masalo Remix",
       "url": "https://open.spotify.com/track/2pc9WL236HA0GekuhMw8f7"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Harder (With Busta Rhymes) - Shermanology Remix",
+        "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Harder (Shermanology Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2531,26 +2531,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
-        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
+        "name": "Nice To Arise",
+        "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
       },
       "artists": [
         {
-          "name": "Billon",
-          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
-        },
-        {
-          "name": "Rationale",
-          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
-        },
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
         }
       ],
-      "duration_ms": 180223,
-      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
-      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
+      "duration_ms": 241875,
+      "name": "Nice To Arise - Edit",
+      "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2575,34 +2567,42 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Nice To Arise",
-        "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
+        "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
+        "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
       "artists": [
         {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+          "name": "Billon",
+          "url": "https://open.spotify.com/artist/3O1pwCWEGC95srREtbTFy1"
+        },
+        {
+          "name": "Rationale",
+          "url": "https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy"
+        },
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
         }
       ],
-      "duration_ms": 241875,
-      "name": "Nice To Arise - Edit",
-      "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
+      "duration_ms": 180223,
+      "name": "Release Me (feat. Rationale) - Jess Bays Remix",
+      "url": "https://open.spotify.com/track/6stPuBpZMA4zqgAHOFNEzC"
     },
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Sinfonia Della Notte",
-        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
+        "name": "Swimming Places",
+        "url": "https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W"
       },
       "artists": [
         {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
         }
       ],
-      "duration_ms": 445946,
-      "name": "Sinfonia Della Notte",
-      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
+      "duration_ms": 644413,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2627,18 +2627,18 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Swimming Places",
-        "url": "https://open.spotify.com/album/4k3c2mFtwycTt2ZbOYLu4W"
+        "name": "Sinfonia Della Notte",
+        "url": "https://open.spotify.com/album/1XcxMqr1XRN1h7k07aXpoR"
       },
       "artists": [
         {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
         }
       ],
-      "duration_ms": 644413,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/77cTXHD1QjXpoMDBysPU0Y"
+      "duration_ms": 445946,
+      "name": "Sinfonia Della Notte",
+      "url": "https://open.spotify.com/track/14iTtRdW9NJ1K3TKn7KR4T"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2723,6 +2723,22 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
+        "name": "Move On Up",
+        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 217741,
+      "name": "Move On Up",
+      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
         "name": "Envision Remixes",
         "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
       },
@@ -2743,22 +2759,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Cito",
-          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Sunset Jam",
         "url": "https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM"
       },
@@ -2771,6 +2771,22 @@
       "duration_ms": 281824,
       "name": "Sunset Jam",
       "url": "https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Cito",
+          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
     },
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2819,22 +2835,6 @@
       "duration_ms": 220161,
       "name": "Not for Me",
       "url": "https://open.spotify.com/track/6wPA0m2bjRpXIUuKjbHjzF"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
-        "name": "Move On Up",
-        "url": "https://open.spotify.com/album/0Y036kJi773Vx3ibIsAehS"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 217741,
-      "name": "Move On Up",
-      "url": "https://open.spotify.com/track/2IOwbfcWNtA80y2ib0iy5Z"
     },
     {
       "added_at": "2022-07-28 18:23:20",

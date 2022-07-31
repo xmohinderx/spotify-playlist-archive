@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-454 songs - 1 day 2 hr 33 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+455 songs - 1 day 2 hr 36 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/track/2VHqaQTtaTFkBRNbbghdRR) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Desde Mis Ojos \(Lo Mas Pegado\)](https://open.spotify.com/album/3aokBWzSw8bDbwG9x7jjQt) | 2:49 | 2022-03-16 | 2022-03-21 |
 | [Desde Mis Ojos \- Remix](https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desde Mis Ojos \(Remix\)](https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL) | 3:43 | 2022-05-13 |  |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2021-12-13 |  |
+| [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-30 |  |
 | [Despeinada](https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:44 | 2021-03-27\* | 2021-04-21 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 |  |
 | [Dictadura](https://open.spotify.com/track/16RRpUyUDjkIept8AymRiL) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:27 | 2021-11-28 | 2021-12-05 |
@@ -284,7 +285,7 @@
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/1mJV1jFzGsipSA6qzuGMZJ) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6ToxQqhJUFAQJMKKEfx3O3) | [Grandes Exitos](https://open.spotify.com/album/1yJZHcHfrVITrAiLvDszmN) | 4:27 | 2021-12-25 | 2022-01-04 |
 | [No lo pillas](https://open.spotify.com/track/5SO3nXcGKt5TWIsqTyzxvj) | [Nawi](https://open.spotify.com/artist/2RdpAXHWszhho7JCRo0LKF) | [No lo pillas](https://open.spotify.com/album/0DgaTlnauNvpd2PVSKmTbJ) | 2:38 | 2022-07-26 |  |
 | [No Me Importa un Carajo](https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:10 | 2021-12-05 | 2021-12-06 |
-| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 |  |
+| [No Me Ronquen Freestyle](https://open.spotify.com/track/6PqF5IRfQEYcieE4wk0v9A) | [Chrisanti](https://open.spotify.com/artist/4PDBUe0k2wtX1OiICrGvay) | [No Me Ronquen Freestyle](https://open.spotify.com/album/7ihRxJYsNitN07gbsA4xNv) | 2:30 | 2022-06-27 | 2022-07-31 |
 | [No Nos Casamo](https://open.spotify.com/track/6pEnJKFCXVNIYRMk6tisBm) | [Lil Dan](https://open.spotify.com/artist/1vC9FxvClViL2IGb6TRUcG) | [No Nos Casamo](https://open.spotify.com/album/6CmUyPGeCKdbciJHYUIkJO) | 2:50 | 2022-07-20 |  |
 | [No Se Que](https://open.spotify.com/track/0ObJj8ziTqdwe44Ot7csxL) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:28 | 2022-03-12 | 2022-03-26 |
 | [No Se Que](https://open.spotify.com/track/6IXx1EoraLU3mFBYCXh1av) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Ella](https://open.spotify.com/album/4u2A6aHOyCOyG6yiCFM7rU) | 3:28 | 2021-04-18 | 2021-08-29 |

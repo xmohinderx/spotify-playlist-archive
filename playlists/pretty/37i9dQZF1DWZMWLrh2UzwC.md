@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Beyoncé
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,016 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,015 likes - 88 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 31 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 3:07 |
 | 32 | [Somebody!](https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Somebody](https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN) | 2:57 |
 | 33 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
-| 34 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 |
+| 34 | [Road](https://open.spotify.com/track/1zvYrvy4ucwfPlBr2RLUif) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus Pt\. 1: Kaleidoscope](https://open.spotify.com/album/7htimrPXHpXUEehmi902CA) | 4:00 |
 | 35 | [Life Sux](https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Life Sux](https://open.spotify.com/album/0PLBxxxm3JBEGoUCkTUVBJ) | 2:54 |
 | 36 | [123](https://open.spotify.com/track/0u6msjxXxXiuxLy23wYMDO) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [123](https://open.spotify.com/album/2t1QLVopApzBJKfusyXKnk) | 2:17 |
 | 37 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 42 | [Walls](https://open.spotify.com/track/623cbIA3pSCSyLFdGta2Os) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Walls](https://open.spotify.com/album/21pyw1LVPz53orSLYZ9HBA) | 3:57 |
 | 43 | [Don't Let Go](https://open.spotify.com/track/6mjeNjXJNbZv1Iz95j0LNM) | [Icebox](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Don't Let Go](https://open.spotify.com/album/4iXE8fqGORCWqVuh2f4H4y) | 3:21 |
 | 44 | [Say Goodbye](https://open.spotify.com/track/7GM01UKDQg5PrEC968PgEo) | [ZEHLO](https://open.spotify.com/artist/0SNkCYiWaGhCNlUUqF6Y5u), [Virgo's Child](https://open.spotify.com/artist/2An9jABsB4sGREMIdIwHHp) | [Say Goodbye](https://open.spotify.com/album/6dpTculAm9CNkF9qSBTTzR) | 2:26 |
-| 45 | [Safety First](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [Safety First](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 |
+| 45 | [SAFETY FIRST](https://open.spotify.com/track/2qpQJOmQwANHsGToFrtOfO) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [SAFETY FIRST](https://open.spotify.com/album/6e3AFdBnFabQuxAUnjI2ph) | 2:48 |
 | 46 | [That's all I'm saying](https://open.spotify.com/track/2fziAh8GECzOzuWl3TtuHV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:02 |
 | 47 | [ハテナビト](https://open.spotify.com/track/5jMnAGIF26bzAcKf2OeUQM) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 2:57 |
 | 48 | [BRB](https://open.spotify.com/track/620yE97rij2snTka7EbKH0) | [H1GHR MUSIC](https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K) | [BRB](https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2) | 5:04 |

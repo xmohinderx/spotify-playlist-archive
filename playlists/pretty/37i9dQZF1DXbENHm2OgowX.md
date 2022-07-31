@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,648 likes - 50 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,697 likes - 50 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 13 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 |
 | 14 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
 | 15 | [No One Is Ever Going to Want Me](https://open.spotify.com/track/4McullpiOd45TwEHlOISgs) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 8:06 |
-| 16 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
-| 17 | [Storm](https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 22:32 |
+| 16 | [Storm](https://open.spotify.com/track/1HfJV18PHF2UQqh4TuySBJ) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Lift Your Skinny Fists Like Antennas to Heaven](https://open.spotify.com/album/2rT82YYlV9UoxBYLIezkRq) | 22:32 |
+| 17 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 18 | [Shadowplay \- 2007 Remaster](https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:53 |
 | 19 | [Sea Creatures](https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Tourist](https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX) | 4:16 |
 | 20 | [Earthmover](https://open.spotify.com/track/77yGZRjuWfSzbDT0ROSSUG) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 11:28 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 42 | [The Haunting Presence](https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 7:57 |
 | 43 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/4QTLMYj1dHVMgIihKvbidY) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Gold of the Azure \(Marconi Union Remix\)](https://open.spotify.com/album/43cP2xH2L43NJBDgMslzWZ) | 6:36 |
 | 44 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
-| 45 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 |
-| 46 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 |
-| 47 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 45 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 46 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 |
+| 47 | [My Body Betrayed Me](https://open.spotify.com/track/4qYG7y2tM6tm78Ygx42Ci3) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 5:02 |
 | 48 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 |
 | 49 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
 | 50 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 |
 
-Snapshot ID: `MTY1NzI5MDc4OCwwMDAwMDAwMGI4N2I2NWQ4OGMxYTUzZWVhNTljNjNhM2Y3OGI2NTY4`
+Snapshot ID: `MTY1NzI5MDc4OCwwMDAwMDAwMDY4MDJmYzIwZmFmYjdmYWIxNjBjZDY2ZTAwODRiMjEz`

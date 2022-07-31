@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,246 likes - 100 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,373 likes - 100 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 29 | [Why](https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Soup for One \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rC8ILJkAi4b0p3uqaxZrK) | 4:08 |
 | 30 | [Only You](https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:21 |
 | 31 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 |
-| 32 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
-| 33 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
+| 32 | [You Could Be More As You Are](https://open.spotify.com/track/1z4wF1YNe3FphOqyD2eRqY) | [Saâda Bonaire](https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg) | [Saâda Bonaire](https://open.spotify.com/album/0POnlLnYjmV7QIGKgmx1W8) | 5:56 |
+| 33 | [Another Star](https://open.spotify.com/track/5owFj7EOftzR9x5zciL0Bm) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 8:28 |
 | 34 | [Slave To The Rhythm \- Hot Blooded Version](https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Private Life: The Compass Point Sessions](https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf) | 8:18 |
 | 35 | [Going Back to My Roots](https://open.spotify.com/track/6PFsub5iIJwrBb8qBRqmiV) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Connections](https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef) | 5:03 |
 | 36 | [Looking Up to You](https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4) | [Michael Wycoff](https://open.spotify.com/artist/03WrOkxi8Ktm2tBYI1Z7vV) | [Love Conquers All \(Expanded Edition\)](https://open.spotify.com/album/0CqVEdJUYqyHp1rlI07Fab) | 5:20 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 47 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
 | 48 | [Disco Dancer](https://open.spotify.com/track/297SLwXcZw0ZUourOzPQpU) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0p1PYyKaMEsDboqHmERvZu) | 6:56 |
 | 49 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
-| 50 | [First True Love Affair \- Larry Levan Remix](https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair](https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq) | 7:08 |
-| 51 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
+| 50 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 |
+| 51 | [First True Love Affair \- Larry Levan Remix](https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd) | [Jimmy Ross](https://open.spotify.com/artist/0FR28XfyaJnxGnoDFHcktX) | [First True Love Affair](https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq) | 7:08 |
 | 52 | [Crushed Ice](https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0) | 4:40 |
 | 53 | [Your Sweet Lovin'](https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [What A Woman Needs](https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm) | 3:39 |
 | 54 | [I Believe In Miracles](https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr) | [Jackson Sisters](https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ) | [Funk / Soul / Disco](https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj) | 2:57 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 67 | [Get It Right](https://open.spotify.com/track/0Q3vW513PoBhndb8MszDP2) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Get It Right \(Expanded Edition\)](https://open.spotify.com/album/1P5mbihG8FF4vfu3hhiMVH) | 6:15 |
 | 68 | [Face 2 Face](https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR) | [Silk Rhodes](https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY) | [Silk Rhodes](https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr) | 2:25 |
 | 69 | [Enjoy Your Life](https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:16 |
-| 70 | [Whistle Bump](https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Love Island](https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT) | 4:32 |
-| 71 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
+| 70 | [Kiss Me Again \- Mix Edit](https://open.spotify.com/track/5BwqngWtzzZCL0XiuHcMeQ) | [Dinosaur](https://open.spotify.com/artist/1DrIvq4XBoCgiQcv3w5tRu) | [Kiss Me Again](https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK) | 3:01 |
+| 71 | [Whistle Bump](https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Love Island](https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT) | 4:32 |
 | 72 | [For Your Precious Love](https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:38 |
 | 73 | [Groovin' You \- 12" Version](https://open.spotify.com/track/7Flx0S453i52pgZxpin1Qg) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 6:16 |
 | 74 | [Sunny](https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz) | [Yambu](https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY) | [Al Santiago Presents Yambú](https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX) | 4:32 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 82 | [Disco Fantasy](https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE) | [Rahaan](https://open.spotify.com/artist/1LxBgL2B6o2WASVrFPx0Iu) | [Chicago Service](https://open.spotify.com/album/098htENdjaFFSWNegkNoWe) | 5:28 |
 | 83 | [Hold Tight \- Full Length Album Mix](https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE) | [Magical Night \(Greatest Hits Special Price\)](https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f) | 4:28 |
 | 84 | [Agb'oju L'ogun \- Original 12" Version](https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV) | [Shina Williams & His African Percussionists](https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe) | [Agb'oju L'ogun](https://open.spotify.com/album/72S9ok10nlp6jIxzDNC5Rk) | 11:42 |
-| 85 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
-| 86 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 85 | [Stop Your Life \- Original Album](https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 4:38 |
+| 86 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 |
 | 87 | [Brothers on the Slide \- Brooklyn Mix](https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP) | [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Early Recordings](https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs) | 5:30 |
 | 88 | [On the Beat \- Full Length Mix](https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o) | [The B\. B\. & Q\. Band](https://open.spotify.com/artist/0daNFtsGDQpGNgj9ZbH5Lb) | [The Brooklyn, Bronx & Queens Band](https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy) | 5:57 |
 | 89 | [Lypso Illusion](https://open.spotify.com/track/3RuJDWfcSwS5JqPtg9isZs) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/26rGYscuFwQ7GKb9pgek6n) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Just This One Night](https://open.spotify.com/track/0h0SlHDuNtu02pO2mvzXku) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Happy Hour](https://open.spotify.com/album/7N3FyIi7LrcIiLSnoBlCKE) | 5:03 |
 | 100 | [Put Your Body In It \- 12" Version](https://open.spotify.com/track/5abxwASaBFQDyZVh983qRD) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Disco Funk \(Disco Nights Vol.2\)](https://open.spotify.com/album/58STS86oy7HcgvP6yt6mca) | 6:02 |
 
-Snapshot ID: `MTY0NDUxODMyMiwwMDAwMDAwMGM4NGM1NDAxMmI5NjljYTI5M2FhMmM3ODBkMWExMjc3`
+Snapshot ID: `MTY0NDUxODMyMiwwMDAwMDAwMDE5OTgwNjg5OWEwNDlhNzRhNjBlMjJiMDU0NzgyZWEw`

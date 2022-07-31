@@ -4,7 +4,7 @@
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-74 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
+75 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/7s0i33BBUjQHA9lPvjbnaK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [ACiD \- Pierre's ACiD FACE Mix](https://open.spotify.com/track/6u4REq4x66khAf6gjYY4k6) | [D.J\. Pierre](https://open.spotify.com/artist/6kfuLLbtWi4hOnZh7gMxt0) | [ACiD / Jack Da Groove](https://open.spotify.com/album/75n6hE7jUDaym4NHiNdGiM) | 6:18 | 2018-06-21 |  |
 | [ACiD \- Pierre's ACiD FACE Mix](https://open.spotify.com/track/1yVY0hp0VfezKlb1EnK33m) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [ACiD / Jack Da Groove](https://open.spotify.com/album/3Syew1H1p0a90YkosTcDvS) | 6:18 | 2018-06-21 | 2022-07-29 |
 | [Acid Party \- Aciied Groove Mix](https://open.spotify.com/track/7DTiUdHw6qpBnHsfJaET2D) | [Mr\. Matey](https://open.spotify.com/artist/6hRl74574bLVOIXqxMV39j) | [Acid Party](https://open.spotify.com/album/0TI0cnrDRe10x0kX0oWQN4) | 6:02 | 2018-06-21 |  |
-| [Acid Pump Up London](https://open.spotify.com/track/0BAyTCUxqILTsEygX8DIpU) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:35 | 2018-06-21 |  |
+| [Acid Pump Up London](https://open.spotify.com/track/0BAyTCUxqILTsEygX8DIpU) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:35 | 2018-06-21 | 2022-07-31 |
 | [Acid Tracks](https://open.spotify.com/track/05kXJj11PCg7aIWvQxp683) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/2ytfCSG1WHfz2LP2rGjQ1x) | 12:17 | 2018-06-21 | 2022-07-29 |
 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 | 2018-06-21 |  |
+| [Art Of Acid](https://open.spotify.com/track/7hHy4kIiwqHSxaHJAArRG4) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/6yDvk7cGZ15ZR6BXHjHFuU) | 8:34 | 2018-06-21 |  |
 | [Art Of Acid](https://open.spotify.com/track/11TtU6MrBsNAWb19KsGwTx) | [Mr\. Lee](https://open.spotify.com/artist/7GXl7JNlpliaLZhSVRLQKu) | [The Acid Fantaslee](https://open.spotify.com/album/5ZYA22qkb6WNDznZW8tgHc) | 8:34 | 2018-06-21 | 2022-07-29 |
 | [As Acid Turns \- Remastered](https://open.spotify.com/track/6ifUZhFHTdlbfMbnZHMr4R) | [Liddell Townsell](https://open.spotify.com/artist/0xOcbgGtO2dW15jRS1sTWo) | [Traxbox \(Trax Records Remastered\)](https://open.spotify.com/album/0W9YJK5QTGJdGLwybMJh3w) | 5:12 | 2018-06-21 | 2022-07-29 |
 | [Bango Acid](https://open.spotify.com/track/6xInVVhRj1jTWtWUs0UW2z) | [Mike](https://open.spotify.com/artist/440CnoykSB1CSrJcHRczqV) | [Trax Records: Acid Classics](https://open.spotify.com/album/6s3RtH9fxAKATbB3yMKxX6) | 4:21 | 2018-06-21 | 2022-07-29 |

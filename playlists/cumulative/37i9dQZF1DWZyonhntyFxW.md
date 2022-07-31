@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري! غلاف: ابيوسف
 
-75 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
+78 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/6yEdqmm0KWZqYgvxTRioiU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Malyan](https://open.spotify.com/track/0Z8F28QfH9fApYKHdqlaqH) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Kazakairo](https://open.spotify.com/album/0GEzH1TbUceyz6DT0BBikR) | 2:43 | 2022-05-10 | 2022-07-07 |
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-05-10 |  |
 | [Mareed](https://open.spotify.com/track/0y7wbWzryoiE8df3a0n25S) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Mareed](https://open.spotify.com/album/2tAimubevzvKSylQiwm6Om) | 3:36 | 2022-06-20 | 2022-07-29 |
-| [MAREED](https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:36 | 2022-07-28 |  |
+| [MAREED](https://open.spotify.com/track/2Mv3lhZmdcCFjSWpMKf70i) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:36 | 2022-07-30 |  |
+| [MAREED](https://open.spotify.com/track/7oNfKLvHUu7tIe5AUIlhrL) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:36 | 2022-07-28 | 2022-07-31 |
 | [Matgreesh](https://open.spotify.com/track/3RKzFNbYS8iiBGJCrfbVbb) | [VLI WEEZY](https://open.spotify.com/artist/3Iw5H9JOZLZR2Hk8viWF4i), [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [Matgreesh](https://open.spotify.com/album/0ChMqRWMDlD6RVyl1EOguu) | 3:24 | 2022-05-10 |  |
 | [Matkhafesh Yamma](https://open.spotify.com/track/0johwiyFvPcTbM1miBvaUh) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Ouzzy](https://open.spotify.com/artist/1IRIol7Z2UlCtpj2MYuwU5) | [Matkhafesh Yamma](https://open.spotify.com/album/4r5fdLwRblr3wlbItBYJ75) | 2:43 | 2022-05-10 |  |
 | [MESH ZAY ELE 7ASO](https://open.spotify.com/track/7f9GYz8Hcb58pKxOddasNR) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [MESH ZAY ELE 7ASO](https://open.spotify.com/album/4FYA7i61BUnjbgfoVCLBnC) | 3:00 | 2022-05-10 |  |
@@ -52,7 +53,8 @@
 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 | 2022-05-16 |  |
 | [SAFINA](https://open.spotify.com/track/2imCmZa01FzAv5j0BiD9ab) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba](https://open.spotify.com/album/3YLhKiHp1tyCZWM5OnkpPt) | 3:07 | 2022-05-10 | 2022-05-17 |
 | [SAN STEFANO](https://open.spotify.com/track/0B6AYBv6KlwUwHtAIj9lzF) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/6KKkeRpV3Nf7QVouHOyqNR) | 2:57 | 2022-06-17 | 2022-07-29 |
-| [SAN STEFANO](https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:57 | 2022-07-28 |  |
+| [SAN STEFANO](https://open.spotify.com/track/2iFj2z7KNZjQfYZHVk02ZT) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:57 | 2022-07-30 |  |
+| [SAN STEFANO](https://open.spotify.com/track/3uuBWISXaoIBP5qzBGRHkC) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:57 | 2022-07-28 | 2022-07-31 |
 | [Santos](https://open.spotify.com/track/0JOKHiIoVwxgYLE3Xi9azJ) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santos](https://open.spotify.com/album/0kEbWvFpD1zQDvm4b6aEwb) | 3:04 | 2022-05-10 |  |
 | [Shhh](https://open.spotify.com/track/2urY8lQMD0G3XOMSZHhLE5) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [5 X El Wesh](https://open.spotify.com/album/00cFCDHS48GY9LlaEThN9T) | 2:59 | 2022-05-10 | 2022-06-15 |
 | [Sou2 El Cassette](https://open.spotify.com/track/0rcmK0SOLV0AjOFeWAxZD3) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Sou2 El Cassette](https://open.spotify.com/album/5viBtz4OjlluWWxNXqUnmb) | 2:43 | 2022-05-10 | 2022-06-21 |
@@ -63,8 +65,9 @@
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 |  |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
+| [VALENTINO](https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:37 | 2022-07-30 |  |
 | [VALENTINO](https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [VALENTINO](https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4) | 2:37 | 2022-05-10 | 2022-07-29 |
-| [VALENTINO](https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:37 | 2022-07-28 |  |
+| [VALENTINO](https://open.spotify.com/track/5rhnOrcnOwsfxqWkGQLHHM) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:37 | 2022-07-28 | 2022-07-31 |
 | [Ya Wa3dy](https://open.spotify.com/track/6j88kr0UP2Fof1HzhKbCA9) | [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky) | [Ya Wa3dy](https://open.spotify.com/album/4I8Wyq7R75sBcFSIoqytZ7) | 3:01 | 2022-05-10 |  |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-05-10 |  |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-05-10 |  |

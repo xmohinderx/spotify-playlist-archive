@@ -4363,7 +4363,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -8361,6 +8361,32 @@
       "duration_ms": 283969,
       "name": "\u95f4\u8ddd",
       "url": "https://open.spotify.com/track/4U0bL1ouvksMgvXU2aKq4O"
+    },
+    {
+      "album": {
+        "name": "\u4e2d\u570b\u8aaa\u5531\u5dd4\u5cf0\u5c0d\u6c7a \u7b2c\u56db\u671f",
+        "url": "https://open.spotify.com/album/49zgQLPXHka2uFR62BOzsq"
+      },
+      "artists": [
+        {
+          "name": "\u76db\u5b87DamnShine",
+          "url": "https://open.spotify.com/artist/6aHqXgbCmijW9Tthh1yidE"
+        },
+        {
+          "name": "KEY.L\u5218\u806a",
+          "url": "https://open.spotify.com/artist/4vvCGXDAaBukbf2dI2slRT"
+        },
+        {
+          "name": "ICE",
+          "url": "https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219354,
+      "name": "\u9686\u88e1\u96fb\u7d72",
+      "url": "https://open.spotify.com/track/6XrnEjYDnm9JUeoDE4efvA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,428 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,561 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 25 | [Walkin Man](https://open.spotify.com/track/3lw5QiH1GDqRFVtpQpOd4g) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [I Started Out With Nothin And I Still Got Most Of It Left](https://open.spotify.com/album/39xS8gFSSGE8iyMGICg5Yr) | 2:42 |
 | 26 | [Lost & Lonesome](https://open.spotify.com/track/5nVK0rgBaHqRioBoWBWS8f) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:42 |
 | 27 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
-| 28 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 |
-| 29 | [Summertime](https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0) | [Doc & Merle Watson](https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU) | [Elementary Doctor Watson](https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS) | 3:27 |
+| 28 | [Summertime](https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0) | [Doc & Merle Watson](https://open.spotify.com/artist/7GekK1oMVU35jfChgIP2PU) | [Elementary Doctor Watson](https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS) | 3:27 |
+| 29 | [Jumper Hanging Out On the Line](https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Mississippi Blues](https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6) | 2:32 |
 | 30 | [Six Blade Knife](https://open.spotify.com/track/7f8mgCngOGhoRNAmhN6GIo) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:13 |
 | 31 | [Coffee Blues](https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX) | [Mississippi John Hurt](https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA) | [Rediscovered](https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p) | 3:46 |
 | 32 | [Natural Blues](https://open.spotify.com/track/5zakPCpl4O2v1UEow7Qv29) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Discover](https://open.spotify.com/album/2A6HIKxsKtWuUhsqJzdzJl) | 4:07 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 43 | [Fishin' Blues](https://open.spotify.com/track/4jh6QSj0uHqxTEU1o0DmB6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Giant Steps/De Old Folks At Home](https://open.spotify.com/album/2K4jHu8XV4HrgWlmOGwJty) | 3:04 |
 | 44 | [Every Morning](https://open.spotify.com/track/6WmwvYaVSod4whIXGWEvBR) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:59 |
 | 45 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
-| 46 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
-| 47 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
+| 46 | [Till the Real Thing Comes Along](https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 3:07 |
+| 47 | [Born Of A Woman](https://open.spotify.com/track/6NMY2CP95XrD8ZkecH8IXA) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Shaneeka Simon](https://open.spotify.com/artist/5Ppc0aChlO1gqw6s3yZNwN) | [Dear America](https://open.spotify.com/album/3lrysOZwArhHFtnI1JEBtZ) | 3:47 |
 | 48 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 49 | [Hard Times](https://open.spotify.com/track/11BX1F2ao0DQTgW86W6H5B) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:08 |
 | 50 | [Walking My Troubles Away](https://open.spotify.com/track/6FXNwy7mpnt9jbC2S7Lfl9) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:54 |
 
-Snapshot ID: `MTY1OTEwNTU3MiwwMDAwMDAwMDkyMjNiMjM1MDc3NzJhNmZhYzc0YzYyMWQ1ZThiMzNl`
+Snapshot ID: `MTY1OTEwNTU3MiwwMDAwMDAwMDgxYTQ3MzEzOWRkZTY5MGQ3MmJiZjBiOTJhMWE2NDNi`

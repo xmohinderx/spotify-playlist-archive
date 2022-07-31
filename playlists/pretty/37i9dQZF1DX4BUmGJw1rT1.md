@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,601 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,653 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 22 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 |
 | 23 | [Blues Deluxe](https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 7:20 |
 | 24 | [Slip\-In Mules](https://open.spotify.com/track/6csem6tEhhkajgNUhIDFB1) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 2:47 |
-| 25 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
-| 26 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 |
+| 25 | [Set Sail part I \(featuring Lamar Williams Jr.\)](https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 4:57 |
+| 26 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
 | 27 | [Same Old Blues](https://open.spotify.com/track/1vkEVT81wJQtMZ23FJ1q1i) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:59 |
-| 28 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
-| 29 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 |
+| 28 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 |
+| 29 | [Forget What I Said](https://open.spotify.com/track/0yJNGGGZ9eQj4vmvmeornZ) | [Noora Noor](https://open.spotify.com/artist/50V1rySVqHjoqJTi9iy3xl) | [Soul Deep](https://open.spotify.com/album/1GHZSCmUsDkrJwxzX0zGm6) | 3:19 |
 | 30 | [Sleep On It](https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:02 |
 | 31 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 |
 | 32 | [Tell Her You Belong To Me](https://open.spotify.com/track/2faP8xcrcrfm24iDF3Qs1P) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Better Than Home \(Deluxe Edition\)](https://open.spotify.com/album/45blvARBYrViZz3eYg50sH) | 5:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 44 | [Set Me Free](https://open.spotify.com/track/6Azn3tb7ESz1J7NRRemeYB) | [Soulmate](https://open.spotify.com/artist/6LIdpnR12HZc07v8FcVxPk) | [Moving On](https://open.spotify.com/album/1qY0nhVKw2rSpWMcp6KfSP) | 4:55 |
 | 45 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
 | 46 | [Singing the Blues](https://open.spotify.com/track/6IevgQPwNyD73SMi8nLWb1) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Promise of a Brand New Day](https://open.spotify.com/album/18QNLSpGZgj4aePM9STq2q) | 3:45 |
-| 47 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
-| 48 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
-| 49 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 |
-| 50 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
+| 47 | [Stone Cold](https://open.spotify.com/track/3u0XGkluU4XVZkhfBP5gbW) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Hindsight](https://open.spotify.com/album/3fxrONvogsCFsJJHDxvm0j) | 6:52 |
+| 48 | [Stand Up](https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:50 |
+| 49 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 |
+| 50 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 |
 
-Snapshot ID: `MTY1OTEwNTU0MCwwMDAwMDAwMDhhZDIwNDhmNzEzNjc4NGMzYThhZTUyYWY2YjJjNTJj`
+Snapshot ID: `MTY1OTEwNTU0MCwwMDAwMDAwMGMyODY4MzU3NGI1ZTQxNjRmZDEwNDJjZTkzMzVkY2Fh`

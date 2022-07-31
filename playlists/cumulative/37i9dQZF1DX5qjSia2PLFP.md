@@ -4,11 +4,11 @@
 
 > New music breaking waves\.  Cover: Rican Da Menace
 
-130 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
+131 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/74YlDMgCbNeMMptS6g5iCD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 |  |
+| [1500 $ir](https://open.spotify.com/track/136jJk0hLz67A7m1DeUGpR) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3vxJZwF2wCNH3fAjBnkP5O) | 2:25 | 2022-05-20 | 2022-07-31 |
 | [1500 $ir](https://open.spotify.com/track/58yOnzLBHLzEXc8EUIj0Pv) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Rich Forever](https://open.spotify.com/album/3TfvnvmemM0CI4UOxkTokJ) | 2:25 | 2022-05-20 | 2022-07-29 |
 | [2much \- YCO Jay Remix](https://open.spotify.com/track/31c1ogOXzjQb0dVHly4UT4) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [yung dastard](https://open.spotify.com/artist/29QmqvNrylI5sgRYsCvdUU), [YCO Jay](https://open.spotify.com/artist/1ySQjU8BZWZLMQD317oF2C) | [2much \(YCO Jay Remix\)](https://open.spotify.com/album/0szOMBJCj3bT35xlKq6IjA) | 3:31 | 2021-12-28 | 2022-03-26 |
 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 | 2022-06-24 |  |
@@ -128,7 +128,8 @@
 | [Too Deep](https://open.spotify.com/track/3qOYmmCabW28q5QQJvac42) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Too Deep](https://open.spotify.com/album/00hxzABSuhHgM4fkrBX8rn) | 2:52 | 2022-03-25 | 2022-05-21 |
 | [Too Much, Too Fast](https://open.spotify.com/track/5oXSyMpfGALEQYh4PVuHLm) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH) | [Too Much, Too Fast](https://open.spotify.com/album/7cFFL0TmlLzxl2INKQGlxy) | 2:34 | 2021-08-20 | 2022-03-05 |
 | [Try Hard](https://open.spotify.com/track/1Y0WL6KqYm78Fn8eIlStyR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Try Hard](https://open.spotify.com/album/0HEoy02ph3KqkAg5OW5iIH) | 2:28 | 2022-05-27 |  |
-| [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 | 2022-03-04 |  |
+| [Unsigned Hype](https://open.spotify.com/track/7Lag47FQLHc2NBqw7VZPMm) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/5xqqtdZ8cijaGURKosIVYC) | 2:29 | 2022-03-04 |  |
+| [Unsigned Hype](https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6), [Denaro Love](https://open.spotify.com/artist/3UQ4t7zbgnxHGuNuuVlewc) | [Unsigned Hype](https://open.spotify.com/album/0FEYaz2fMu7xOEeFACjng5) | 2:29 | 2022-03-04 | 2022-07-31 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2021-07-06 | 2022-03-05 |
 | [way bak](https://open.spotify.com/track/4tPgYatSFxJtHGn3z8we4N) | [Skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [way bak](https://open.spotify.com/album/3bl8WWjvwlGgWeVu9n4uH6) | 2:21 | 2021-08-20 | 2022-03-05 |
 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 | 2022-02-25 | 2022-03-26 |

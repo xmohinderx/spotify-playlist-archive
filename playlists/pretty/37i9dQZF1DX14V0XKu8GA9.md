@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,824 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,829 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [P's Up](https://open.spotify.com/track/3qGC7ogRmw21BK7EBvSfVu) | [Jali$co](https://open.spotify.com/artist/7Kygh8W8b3jq0rnIQ1Go83), [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [La Mafia Paga](https://open.spotify.com/album/1svf3BA1GzU6nkUhwupotC) | 1:54 |
 | 40 | [Phases](https://open.spotify.com/track/26RyrFyZ7G63xX3SFHFnLB) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Phases](https://open.spotify.com/album/6SvYsW2oRwF5WcrJT36jbM) | 3:33 |
 | 41 | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/track/2TWmbQKpAPXudKaTZkk544) | [MoneySign $uede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 2:36 |
-| 42 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
-| 43 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 42 | [Rich $outh Sider](https://open.spotify.com/track/1eScTpjsghD4Ppsi7hLD0w) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:13 |
+| 43 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
 | 44 | [Deep End](https://open.spotify.com/track/68l3AHETwLT381pxp70aUa) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Deep End](https://open.spotify.com/album/1nkLY3g1EoOogeyb7Hxehx) | 3:11 |
 | 45 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
 | 46 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 56 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
 | 57 | [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 |
 | 58 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
-| 59 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
-| 60 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
+| 59 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
+| 60 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
 | 61 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
 | 62 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 |
 | 63 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDMxYWJhNmY2ZTBmYjYyNjAzYTQ3YzAzMzdiNTc3N2M3`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDBjMTYwMjc1MDQ2OGE4MjE4MTljY2UxYTgwMzU2OGNk`

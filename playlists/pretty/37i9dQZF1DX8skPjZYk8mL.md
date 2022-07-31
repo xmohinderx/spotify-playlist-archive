@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,374 likes - 439 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,520 likes - 439 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 29 | [Flat Out Tired](https://open.spotify.com/track/3FUSlmcxGqDSrqg498rXhS) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Flat Out Tired](https://open.spotify.com/album/4WHUZ6mUIhKoeEOJeUi0gV) | 1:41 |
 | 30 | [A Mother's Heart](https://open.spotify.com/track/24D5wWWgW6BoCtJNdpJZzk) | [Susie Helmick](https://open.spotify.com/artist/6Ri49QRsA8vnFUhtUiXipF) | [A Mother's Heart](https://open.spotify.com/album/1ATFQZOKu1iwKfezW8k6Fk) | 1:34 |
 | 31 | [My name is Sue](https://open.spotify.com/track/05qmZG60q8wpsBate4bfAq) | [Solomon Sparks](https://open.spotify.com/artist/7JjiRaeb3qDpBU9p3Ye7DX) | [My name is Sue](https://open.spotify.com/album/1bsFXc2mI2oEveM9nNkMiv) | 1:17 |
-| 32 | [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 |
+| 32 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 |
 | 33 | [When You Say Goodnight](https://open.spotify.com/track/79NuT2YtlM18mndrxJ07dN) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [Happiness Is](https://open.spotify.com/album/69B8GVczeTLiAc8SCVTP3J) | 1:23 |
 | 34 | [Best Friends](https://open.spotify.com/track/7JYP1qkUvm7pq3Mb3UxSk3) | [Mirela Rubio](https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA) | [Best Friends](https://open.spotify.com/album/17alm7Ps8Mi7HRhbTzbMOw) | 1:34 |
 | 35 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 |
@@ -448,4 +448,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 438 | [Skymningsvisan](https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg) | [Rigmor Ljungman](https://open.spotify.com/artist/7sIlNeR6xW9xfJ65yOKH8Z) | [Skymningsvisan](https://open.spotify.com/album/1s8qEltYoiq8U80SzLuEoi) | 1:47 |
 | 439 | [Zwischen den Wolken](https://open.spotify.com/track/1Pj9dbQQIvLWeKqWcvJc0s) | [Frieda Ross](https://open.spotify.com/artist/4FRt5PBGXsp49kDLecV7CI) | [Zwischen den Wolken](https://open.spotify.com/album/1zGqaaJoPrBXs78IpfElLH) | 1:37 |
 
-Snapshot ID: `MTY1OTA5MzUwNywwMDAwMDAwMGE2NzBjZTQxMDI0NjdlOGI2ZWMzYWQ5MjEwYjI1NWM0`
+Snapshot ID: `MTY1OTA5MzUwNywwMDAwMDAwMDgwODRjOTM1MzQwZmRhMTM4YzI5YjEzMTYyNzNiNWE2`

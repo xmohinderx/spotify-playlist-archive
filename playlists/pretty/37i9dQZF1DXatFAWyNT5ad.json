@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 84282,
+  "num_followers": 84321,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDAwMDQ1ZjkyOWZmM2IwMTU1NDZkZTk3YThmZTE2ZTdkNDhm",
+  "snapshot_id": "MTY1NzIzMTI2MCwwMDAwMDAwMDRkZTQzM2VmYWFjN2JjNWNkNTc4MjAzNzRiOTBlNzFj",
   "tracks": [
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "ur just horny",
-        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+        "name": "i\u2019m too pretty for this",
+        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 178787,
-      "name": "ur just horny",
-      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+      "duration_ms": 166037,
+      "name": "i'm too pretty for this",
+      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "i\u2019m too pretty for this",
-        "url": "https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF"
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 166037,
-      "name": "i'm too pretty for this",
-      "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+      "duration_ms": 178787,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "added_at": "2022-07-07 22:01:00",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2022-07-07 22:01:00",
       "album": {
-        "name": "thought it was",
-        "url": "https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        },
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 172600,
-      "name": "thought it was",
-      "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
-    },
-    {
-      "added_at": "2022-07-07 22:01:00",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 186754,
       "name": "All You Ever Wanted",
       "url": "https://open.spotify.com/track/7nX1m12HTyIyiATwrcHCUh"
+    },
+    {
+      "added_at": "2022-07-07 22:01:00",
+      "album": {
+        "name": "thought it was",
+        "url": "https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 172600,
+      "name": "thought it was",
+      "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
     },
     {
       "added_at": "2022-07-07 22:01:00",

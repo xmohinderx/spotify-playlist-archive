@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Nahee(\ub098\ud788)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 24630,
+  "num_followers": 24698,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjUzMSwwMDAwMDAwMGVjMjRiOWZiNzg0N2RjMzg2MDJjMTBiYmQ5YjAwODZj",
+  "snapshot_id": "MTY1ODQ4MjUzMSwwMDAwMDAwMGQzMDVmOWNmNWVlYTEwMDVhYzlmYTUxNWI1Yzk5NTk2",
   "tracks": [
     {
       "added_at": "2022-07-22 09:35:31",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
-        "name": "nokdu ep vol.1",
-        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
-      },
-      "artists": [
-        {
-          "name": "nokdu",
-          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
-        }
-      ],
-      "duration_ms": 232298,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
         "name": "SOUL LADY",
         "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 245320,
       "name": "Cherries Jubiles",
       "url": "https://open.spotify.com/track/1NiriEqpk9oOcL4QGzBDmU"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
+        "name": "nokdu ep vol.1",
+        "url": "https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v"
+      },
+      "artists": [
+        {
+          "name": "nokdu",
+          "url": "https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D"
+        }
+      ],
+      "duration_ms": 232298,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/3TZqRuhG11jMJ02UnEZI9o"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 211149,
+      "name": "Scent",
+      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/5ub9WgwYDknUaigTqwnf2G"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 211149,
-      "name": "Scent",
-      "url": "https://open.spotify.com/track/1QHhyQMvuCrN1xrtLZttxk"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
+        "name": "SOUL LADY",
+        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 215693,
+      "name": "SOUL LADY",
+      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
         "name": "FREE`SM",
         "url": "https://open.spotify.com/album/0yiGt1K8gQZEtbgEU0Aeut"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 210042,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2YtNFUkfxnYtg6ts8zfq93"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
-        "name": "SOUL LADY",
-        "url": "https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "SOUL LADY",
-      "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
-        "name": "WJ STAY?",
-        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 214847,
-      "name": "You Got",
-      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
         "name": "Drive to 1980 Love",
         "url": "https://open.spotify.com/album/5njlZ2Q1ftJUUx6OQ5yKtT"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 191103,
       "name": "Drive to 1980 Love",
       "url": "https://open.spotify.com/track/0zUPlJsBcM5XQiJltgRIYF"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
+        "name": "WJ STAY?",
+        "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 214847,
+      "name": "You Got",
+      "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
         "name": "Onstage Digging Club Seoul Part.03",
         "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 234000,
       "name": "It's Beautiful",
       "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
+        "name": "\ube5b\uacfc \uc18c\uae08",
+        "url": "https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7"
+      },
+      "artists": [
+        {
+          "name": "Light & Salt",
+          "url": "https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "\uc0f4\ud478\uc758 \uc694\uc815",
+      "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
-        "name": "\ube5b\uacfc \uc18c\uae08",
-        "url": "https://open.spotify.com/album/43StLW2LdY30M1GIf7xSh7"
-      },
-      "artists": [
-        {
-          "name": "Light & Salt",
-          "url": "https://open.spotify.com/artist/0jhgI3xU8n2o1W6EOw9dIf"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "\uc0f4\ud478\uc758 \uc694\uc815",
-      "url": "https://open.spotify.com/track/6V9C5rcCQkf3eJSmcAkCf4"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
     },
     {
       "added_at": "2022-07-22 09:35:31",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-07-22 09:35:31",
       "album": {
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+    },
+    {
+      "added_at": "2022-07-22 09:35:31",
+      "album": {
         "name": "New Wave City",
         "url": "https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 207398,
       "name": "I Can't Let You Go (feat. Space Cowboy)",
       "url": "https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th"
-    },
-    {
-      "added_at": "2022-07-22 09:35:31",
-      "album": {
-        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 294700,
-      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2022-07-22 09:35:31",

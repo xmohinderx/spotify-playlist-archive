@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kamau
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,461 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,506 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 9 | [Mensagem 2](https://open.spotify.com/track/3iZEhKaTMWl2W9IPh8mITL) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ Negret](https://open.spotify.com/artist/2QjuiqjrRDISMbPYSNKRna) | [Mensagem 2](https://open.spotify.com/album/1Onvt9GCYQ46aruicT8QLM) | 2:31 |
 | 10 | [Mãe](https://open.spotify.com/track/2MdFps9irVKcxED5AjzUX1) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Mãe](https://open.spotify.com/album/2FJeD0R0UU8CN6NBO8SeYV) | 2:19 |
 | 11 | [Outro Patamar](https://open.spotify.com/track/2857Zdt1A03QnnkhGXC1hP) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Outro Patamar](https://open.spotify.com/album/7KH6ZeR3Iwnv9Uh9qIukBZ) | 3:45 |
-| 12 | [SEGUND4](https://open.spotify.com/track/48TFuGu8HiOn0nlqZ3Tc7u) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Dukes](https://open.spotify.com/artist/3YClW5lySLy4E7GKmKZdBY), [VG](https://open.spotify.com/artist/1qEO5y5bMMzchvG6fhUEaa) | [SEGUND4](https://open.spotify.com/album/7fYz6eNFRTqJkZ60Ac3x7W) | 3:09 |
+| 12 | [SEGUND4](https://open.spotify.com/track/48TFuGu8HiOn0nlqZ3Tc7u) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Spvic](https://open.spotify.com/artist/446NPc9EAgsxmeoj3YzXAs), [Dukes1Soldado](https://open.spotify.com/artist/2fOcfLmY2VQi6NEOMNKqdJ), [VG](https://open.spotify.com/artist/1qEO5y5bMMzchvG6fhUEaa) | [SEGUND4](https://open.spotify.com/album/7fYz6eNFRTqJkZ60Ac3x7W) | 3:09 |
 | 13 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
 | 14 | [IRRESPONSÁVEL](https://open.spotify.com/track/7kFfbrq3grPXKjVFoYQaae) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO) | [OUTONO](https://open.spotify.com/album/6kXvAOthjnPQHhxpCQSZFT) | 3:01 |
 | 15 | [Ressurreição](https://open.spotify.com/track/2HfKdMsIyBHDsfjIBb2qdP) | [Alves](https://open.spotify.com/artist/2zS9YaAB6eGPZYhHdFeMvN) | [Ressurreição](https://open.spotify.com/album/0fH7ocHH1lW3g80e1kd4fh) | 3:34 |

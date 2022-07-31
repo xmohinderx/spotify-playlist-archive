@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,946 likes - 146 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,954 likes - 146 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

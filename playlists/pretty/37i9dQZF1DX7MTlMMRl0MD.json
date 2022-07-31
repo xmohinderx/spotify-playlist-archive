@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata. Cover: Manuel Turizo",
-  "num_followers": 1815573,
+  "num_followers": 1815781,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIxNzU0NCwwMDAwMDAwMDdlMjI4YTI5NjliMDBlZTM3ZjdiNWFhYTQyMWExMTMz",
+  "snapshot_id": "MTY1ODIxNzU0NCwwMDAwMDAwMDIxMGZiOTc5NjM5OTFkNTlkODMxNGRhMDZiYTMyNDRj",
   "tracks": [
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Cuentale",
-        "url": "https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM"
+        "name": "It's Vicky",
+        "url": "https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6"
       },
       "artists": [
         {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "Manny Manz",
-          "url": "https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY"
+          "name": "Vicky Corbacho",
+          "url": "https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Cuentale",
-      "url": "https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs"
+      "duration_ms": 228869,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1579,34 +1575,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "It's Vicky",
-        "url": "https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6"
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM"
       },
       "artists": [
         {
-          "name": "Vicky Corbacho",
-          "url": "https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k"
-        }
-      ],
-      "duration_ms": 228869,
-      "name": "Lloro",
-      "url": "https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
-        "name": "Pa Que Tu Me Llamas",
-        "url": "https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3"
-      },
-      "artists": [
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        },
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Manny Manz",
+          "url": "https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY"
         }
       ],
-      "duration_ms": 235228,
-      "name": "Pa Que Tu Me Llamas",
-      "url": "https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn"
+      "duration_ms": 220500,
+      "name": "Cuentale",
+      "url": "https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1623,6 +1607,22 @@
       "duration_ms": 267600,
       "name": "Perdidos - Bachata",
       "url": "https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
+        "name": "Pa Que Tu Me Llamas",
+        "url": "https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 235228,
+      "name": "Pa Que Tu Me Llamas",
+      "url": "https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
+        "name": "Bailemos Despacio",
+        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Bailemos Despacio",
+      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
         "name": "No Te Dejo De Pensar (feat. 24 Horas)",
         "url": "https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 223417,
       "name": "No Te Dejo De Pensar (feat. 24 Horas)",
       "url": "https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
-        "name": "Bailemos Despacio",
-        "url": "https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje"
-      },
-      "artists": [
-        {
-          "name": "Dani J",
-          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Bailemos Despacio",
-      "url": "https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW"
     },
     {
       "added_at": "2022-07-19 07:59:04",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-07-19 07:59:04",
       "album": {
-        "name": "Rompe Corazones",
-        "url": "https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Rompe Corazones",
-      "url": "https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA"
-    },
-    {
-      "added_at": "2022-07-19 07:59:04",
-      "album": {
         "name": "Reina de Corazones",
         "url": "https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 236330,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d"
+    },
+    {
+      "added_at": "2022-07-19 07:59:04",
+      "album": {
+        "name": "Rompe Corazones",
+        "url": "https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0"
+      },
+      "artists": [
+        {
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Rompe Corazones",
+      "url": "https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA"
     },
     {
       "added_at": "2022-07-19 07:59:04",

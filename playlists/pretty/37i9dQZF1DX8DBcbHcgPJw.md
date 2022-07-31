@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: TINI TINI TINI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,364 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,484 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 66 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 |
 | 67 | [No Aguanto Más](https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [No Aguanto Más](https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF) | 3:14 |
 | 68 | [Tomate el Palo \(feat\. Leo García\)](https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Miau](https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY) | 3:25 |
-| 69 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 |
-| 70 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 |
+| 69 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 |
+| 70 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 |
 | 71 | [Bésame \- Remix](https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [Bésame \(Remix\)](https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX) | 3:09 |
 | 72 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
 | 73 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Enganchado \#TocoParaVos \- Cumbia Mix](https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [Enganchado \#TocoParaVos \(Cumbia mix\)](https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy) | 3:00 |
 | 100 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 |
 
-Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMDBkYmE0NjE3YWIyNTdhZDdlNDAwMWJmN2YyOWUzOGFl`
+Snapshot ID: `MTY1OTEzMzUyOSwwMDAwMDAwMGM0ZjhlODAyMjM3NmNlYWYwMjQzYjg5M2U5N2RjYTZi`

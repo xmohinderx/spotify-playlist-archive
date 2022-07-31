@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2OeXDYwOkCD.md) - [plain]
 
 > Si te gustan por separado, ¿cómo no te van a gustar juntos?
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,560 likes - 91 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,713 likes - 91 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

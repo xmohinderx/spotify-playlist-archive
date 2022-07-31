@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 21482,
+  "num_followers": 21517,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMDYyNTNlNDhhNzBiNWZiOGJmODUyNjI3YWViOTkzMTJi",
+  "snapshot_id": "MTY1MDA3NTA1OCwwMDAwMDAwMDM1NmMwYjk3ODk3OTYwNGRlOTNhYzc5YTdjM2M5Nzhi",
   "tracks": [
     {
       "added_at": "2022-04-16 02:10:58",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 204956,
       "name": "212",
       "url": "https://open.spotify.com/track/16EMONl2vH3rt9f4ehTG8g"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6hKHpD9mnIjiJWmAunnQT8"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/73ucpKq91TuejrLHgzDNHK"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "I Will Never Let You Down",
+        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "I Will Never Let You Down",
+      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "I Will Never Let You Down",
-        "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "I Will Never Let You Down",
-      "url": "https://open.spotify.com/track/2ia7iiEtpiOL2ZVuWxBZGB"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 214133,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 242160,
-      "name": "What Dreams Are Made Of",
-      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Gourmandises",
         "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 264282,
       "name": "Moi... Lolita",
       "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Pink Friday ... Roman Reloaded",
-        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Pound The Alarm",
-      "url": "https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Better Mistakes",
         "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 160871,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Pound The Alarm",
+      "url": "https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Welcome to the Dollhouse",
         "url": "https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 161332,
       "name": "Lgbt",
       "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "What I Need (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Kill the Lights",
-      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "I Don't Want It At All",
         "url": "https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "Kill the Lights",
+      "url": "https://open.spotify.com/track/263w5yLLnexUUOMc5Py9m5"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Meaning of Life",
         "url": "https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2"
       },
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Perfect Day Single",
-        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
-      },
-      "artists": [
-        {
-          "name": "Hoku",
-          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
-        }
-      ],
-      "duration_ms": 208613,
-      "name": "Perfect Day",
-      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Love Angel Music Baby (Deluxe Version)",
         "url": "https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN"
       },
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "Perfect Day Single",
+        "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
+      },
+      "artists": [
+        {
+          "name": "Hoku",
+          "url": "https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK"
+        }
+      ],
+      "duration_ms": 208613,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "Daddy AF",
         "url": "https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV"
       },
@@ -1747,26 +1747,6 @@
       "duration_ms": 151866,
       "name": "Daddy AF",
       "url": "https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "Glory (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 213534,
-      "name": "Slumber Party feat. Tinashe",
-      "url": "https://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1803,18 +1783,18 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 251320,
-      "name": "Run Away With Me",
-      "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
+      "duration_ms": 189772,
+      "name": "Cry About It Later",
+      "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1835,34 +1815,38 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/38hfmutL8qSnflpigbMoLw"
+        "name": "Glory (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7gALIuQHKvpZR8EtbNZ7qK"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 189772,
-      "name": "Cry About It Later",
-      "url": "https://open.spotify.com/track/1RsD951uUUlJx0MRioZfev"
+      "duration_ms": 213534,
+      "name": "Slumber Party feat. Tinashe",
+      "url": "https://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA"
     },
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV"
       },
       "artists": [
         {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
+      "duration_ms": 251320,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -1891,6 +1875,22 @@
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+      },
+      "artists": [
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "It's the Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2015,6 +2015,30 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
+        "name": "It\u2019s About Time",
+        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
+      },
+      "artists": [
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
         "name": "WandaVision: Episode 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza"
       },
@@ -2051,30 +2075,6 @@
       "duration_ms": 62613,
       "name": "Agatha All Along",
       "url": "https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
-        "name": "It\u2019s About Time",
-        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
-      },
-      "artists": [
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
     },
     {
       "added_at": "2022-04-16 02:10:58",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-04-16 02:10:58",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Nothing in This World",
-      "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
-    },
-    {
-      "added_at": "2022-04-16 02:10:58",
-      "album": {
         "name": "Bop!",
         "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 156581,
       "name": "Bop!",
       "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
+    },
+    {
+      "added_at": "2022-04-16 02:10:58",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Nothing in This World",
+      "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
     },
     {
       "added_at": "2022-04-16 02:10:58",

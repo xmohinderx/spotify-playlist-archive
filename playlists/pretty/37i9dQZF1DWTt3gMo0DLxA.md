@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Step Up for this Top Hit Telugu songs
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,106 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,123 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 20 | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/track/7Ft65MCYElRCDo7jOekQFs) | [Ramya Behra](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/album/33bGNKG4SqamfmuenEbtcn) | 4:13 |
 | 21 | [Whattey Beauty \- Telugu](https://open.spotify.com/track/3KUD3u6xFEIewEQVppwXbH) | [Dhanunjay Seepana](https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/6AQtdnP4yOGeHGfVLU6J50) | 3:54 |
 | 22 | [Cinema Choopistha Mama](https://open.spotify.com/track/4HTDl31KMbRxWrH778ffvV) | [Simha Yadgiri](https://open.spotify.com/artist/32Uwf51gH5NnFG96viJNUZ), [Malavika](https://open.spotify.com/artist/2KYWcjtMcKmqEWjpjB6XpT), [Mansi](https://open.spotify.com/artist/1wQJ1Ayact7i3gzsfCfGhw), [Monisha](https://open.spotify.com/artist/7zflVRASfYKDym83CqIsur) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 4:30 |
-| 23 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 |
-| 24 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
+| 23 | [Dimaak Kharaab](https://open.spotify.com/track/1elXc8r6RHfMCwm0QSJRC0) | [Keerthana Sharma](https://open.spotify.com/artist/3MVZmcDNyoI81ZmAu0YiF7), [Saketh](https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:40 |
+| 24 | [Jwala Reddy](https://open.spotify.com/track/3sJsBrmu3pVEbxSW5vMQoi) | [Shankar Babu](https://open.spotify.com/artist/0gXtTHD29pO85I6glSfzDD), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Seetimaarr](https://open.spotify.com/album/5QkCmd6LakXYNkzKhDDBsV) | 4:05 |
 | 25 | [Reddy Ikkada Soodu](https://open.spotify.com/track/0AC0O74oBjVfCp0SHr3kQ6) | [Daler Mehndi](https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx), [Anjana Sowmya](https://open.spotify.com/artist/1MRWm9vbsdOdqD1GYQEihD) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 4:04 |
 | 26 | [Drunk and Drive](https://open.spotify.com/track/13AC9I9D1SMZDxoZBXkiUV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 4:12 |
 | 27 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 50 | [Hola Chica \(Hi Girl\)](https://open.spotify.com/track/6BfsuH0mceuShQkrEa6QHE) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Alludu Adhurs](https://open.spotify.com/album/3wI4njxJGFMbyxMI2rOsK6) | 4:05 |
 | 51 | [Love Dhebba](https://open.spotify.com/track/3voVT9SGPZCT6tYXVbwAao) | [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk) | [Nannaku Prematho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/15sBWVMRroxX2xMq3rNQoI) | 3:56 |
 
-Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDE1ZTU0NzJhZGI1MDc3OWZmZGY2YjQ2N2E4MTJlMTdj`
+Snapshot ID: `MTY1MTkzMjA5NywwMDAwMDAwMDc5YzZkYjcxZjE4ZDUyOGI3NjFjNDFlYjAzNTVkYjY3`

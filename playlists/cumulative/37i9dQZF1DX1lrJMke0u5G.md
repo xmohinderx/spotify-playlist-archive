@@ -4,7 +4,7 @@
 
 > ¡Vuelve el Cosquín Rock! 12 y 13 de Febrero, Aeródromo Santa María de Punilla, Córdoba.
 
-107 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
+108 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/0FtiJzGWVQsaojRwqozUF7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 | 2022-02-07 |  |
 | [Esperanza](https://open.spotify.com/track/7ugvyWakyeEWOuPqVRXSHm) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/3ywDdbpaDiZQOfhme2Tv3s) | 2:56 | 2022-02-07 | 2022-07-29 |
 | [Extranjero](https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Los Años Futuros](https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc) | 3:07 | 2022-02-07 |  |
-| [Felicidad](https://open.spotify.com/track/3yAaXDb3MoBz0UO8DeYIoa) | [Nagual](https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u) | [Pacto de Sangre](https://open.spotify.com/album/37wDopGLEsC6WlCCGIYamH) | 4:02 | 2022-02-07 |  |
+| [Felicidad](https://open.spotify.com/track/3yAaXDb3MoBz0UO8DeYIoa) | [Nagual](https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u) | [Pacto de Sangre](https://open.spotify.com/album/37wDopGLEsC6WlCCGIYamH) | 4:02 | 2022-02-07 | 2022-07-31 |
+| [Felicidad](https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK) | [Nagual](https://open.spotify.com/artist/0EHTNOyiEIqOIkE5tlnV4u) | [Pacto de Sangre](https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT) | 4:03 | 2022-02-07 |  |
 | [Fijate](https://open.spotify.com/track/07o3nk0mDAspJ2qgU0qOtn) | [Micky Rodriguez](https://open.spotify.com/artist/0QXzxmIHIeQEYvRCOmJ0vB) | [Fijate](https://open.spotify.com/album/3E6wu3CunRtERaWHh3klj8) | 3:54 | 2022-02-07 |  |
 | [Funeral](https://open.spotify.com/track/1ueLYdeuGMAwUiaezLDObD) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Funeral](https://open.spotify.com/album/3hykNzTPJLYxvNxY4gGvHk) | 3:41 | 2022-02-07 |  |
 | [Ganas](https://open.spotify.com/track/54JWFISolUGIbtNeANGp2B) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:14 | 2022-02-07 |  |

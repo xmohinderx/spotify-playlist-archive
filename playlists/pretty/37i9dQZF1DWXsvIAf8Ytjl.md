@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,036 likes - 46 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,080 likes - 46 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 25 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 6:59 |
 | 26 | [I Wanna Ride You](https://open.spotify.com/track/1zJDoUYkc0nEE0uCeWOphX) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Uninvisible](https://open.spotify.com/album/0Vq79tx5GtV8hxrTccSguA) | 3:28 |
 | 27 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 |
-| 28 | [Paint It, Black](https://open.spotify.com/track/0hBZCHzVNvboVLWS7aNKRO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:22 |
-| 29 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 28 | [Aja](https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Aja](https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa) | 8:00 |
+| 29 | [Paint It, Black](https://open.spotify.com/track/0hBZCHzVNvboVLWS7aNKRO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:22 |
 | 30 | [Message In A Bottle](https://open.spotify.com/track/7A27Rj3872xK0LcUMI8aAl) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:49 |
 | 31 | [Karn Evil 9 1st Impression, Pt\. 2 \- Alternate Version](https://open.spotify.com/track/7dl8eQGk8e7ZN6vNLo4KAg) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1ktDHin7DUwgCxU463mz8n) | 4:48 |
 | 32 | [School \- Live At Pavillon de Paris/1979](https://open.spotify.com/track/7o4pyJOfb2LN6mLKqesGfF) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Paris](https://open.spotify.com/album/0LnGhdkTo5SEoIosiydUaR) | 5:41 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 45 | [Soul Sacrifice \- Live](https://open.spotify.com/track/258S3Wyb21XJLasu0NcBUF) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/5GHkjPVlwVaHIqI5e2O9rV) | 4:52 |
 | 46 | [The Oh Kee Pa Ceremony \- Live in Brooklyn](https://open.spotify.com/track/174K2TV5eQ2pxtr83emEVL) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Live in Brooklyn](https://open.spotify.com/album/6s1HK0rSOZc4LHMu4JBC0r) | 1:47 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDZhNmU4ZDg1N2ViMmQzNTE1MDcwZTk5YmQ4NjBiZDAy`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMGMwMzZjOWI1MjcwOGZmM2E0ZGU4MWU5M2VmNDkzMDA3`

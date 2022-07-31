@@ -4,14 +4,14 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-88 songs - 4 hr 42 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
+89 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Minutos](https://open.spotify.com/track/7EbZqc1rELPFw89Y4uhpYK) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [10 Minutos](https://open.spotify.com/album/5S9iQ1vKSkrToyFKS9INLM) | 2:43 | 2022-02-26 | 2022-07-03 |
 | [360](https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [360](https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T) | 3:15 | 2022-02-19 | 2022-07-24 |
 | [A Contracorriente](https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [A Contracorriente](https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4) | 3:14 | 2022-01-22 | 2022-05-15 |
-| [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-15 |  |
+| [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-15 | 2022-07-31 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-06-11 |  |
 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 | 2022-05-28 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-16 |  |
@@ -25,6 +25,7 @@
 | [Clima Tropical](https://open.spotify.com/track/7wD6WAp1lowdxnvEfgyvNV) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Clima Tropical](https://open.spotify.com/album/7IwvYCnGWrQRGwFbpZQkPk) | 3:29 | 2022-01-15 | 2022-01-23 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-01-15 | 2022-04-17 |
 | [Colorín Colorado](https://open.spotify.com/track/2WSLiFW6zmSsPWWDmG8IOi) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Colorín Colorado](https://open.spotify.com/album/6BUZ3G4ECoOwOwn4w77LKA) | 3:14 | 2022-03-26 |  |
+| [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-07-30 |  |
 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 | 2022-01-15 | 2022-04-24 |
 | [De Perreo](https://open.spotify.com/track/7Men0McTVqAHxfVrRCzb41) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [De Perreo](https://open.spotify.com/album/07o7LzZmecQhaGtVV239OB) | 2:53 | 2022-03-05 | 2022-06-12 |
 | [Dile a los demás](https://open.spotify.com/track/4iK6NFBfZ94xd6UJ0dHVoh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Dile a los demás](https://open.spotify.com/album/2aUw6q2WS0r9QeOGdfOOCP) | 3:29 | 2022-01-29 |  |

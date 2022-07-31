@@ -1,12 +1,12 @@
 {
   "description": "This week's top new releases. Cover: Beyonc\u00e9",
-  "num_followers": 33944,
+  "num_followers": 33951,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4Mjk3MCwwMDAwMDAwMDAzMWZmMDc0N2QwNjU3ZGY3MzlkMjMwYzVlY2EyNWRl",
+  "snapshot_id": "MTY1OTA4Mjk3MCwwMDAwMDAwMGI5OTA3MmFjYTdhZmMyY2U2MzcyMTRjNDE5NTg2Mjdi",
   "tracks": [
     {
       "added_at": "2022-07-29 08:22:50",
@@ -247,6 +247,22 @@
       "duration_ms": 166720,
       "name": "Coast (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB"
+    },
+    {
+      "added_at": "2022-07-29 08:22:50",
+      "album": {
+        "name": "Zwei Menschen",
+        "url": "https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 204367,
+      "name": "Zwei Menschen",
+      "url": "https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz"
     },
     {
       "added_at": "2022-07-29 08:22:50",
@@ -627,6 +643,26 @@
     {
       "added_at": "2022-07-29 08:22:50",
       "album": {
+        "name": "KMKD",
+        "url": "https://open.spotify.com/album/5DBh1pDGFZNIXLCvJKpnL8"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        }
+      ],
+      "duration_ms": 249195,
+      "name": "KMKD",
+      "url": "https://open.spotify.com/track/5XMTKhI2YnpAX9TwsZL3ap"
+    },
+    {
+      "added_at": "2022-07-29 08:22:50",
+      "album": {
         "name": "Us vs. Them (feat. Gucci Mane)",
         "url": "https://open.spotify.com/album/0lpk5TUY4VN3X5Y4iOwJls"
       },
@@ -835,7 +871,7 @@
     {
       "added_at": "2022-07-29 08:22:50",
       "album": {
-        "name": "Talk to Me Nice",
+        "name": "Talk To Me Nice",
         "url": "https://open.spotify.com/album/4wt9ueqBx4ngkdrD3Rd41Z"
       },
       "artists": [
@@ -845,7 +881,7 @@
         }
       ],
       "duration_ms": 148000,
-      "name": "Talk to Me Nice",
+      "name": "Talk To Me Nice",
       "url": "https://open.spotify.com/track/1JTnvQEXkqf0ZovtKPDh9j"
     },
     {
@@ -1367,7 +1403,7 @@
     {
       "added_at": "2022-07-29 08:22:50",
       "album": {
-        "name": "Andere Welt",
+        "name": "Andere Welt (feat. Bukahara)",
         "url": "https://open.spotify.com/album/7yXPPSWH5j1M6D7V4jhNnN"
       },
       "artists": [
@@ -1381,7 +1417,7 @@
         }
       ],
       "duration_ms": 180759,
-      "name": "Andere Welt",
+      "name": "Andere Welt (feat. Bukahara)",
       "url": "https://open.spotify.com/track/6iqFJjOqavt20gfjiBxSow"
     },
     {

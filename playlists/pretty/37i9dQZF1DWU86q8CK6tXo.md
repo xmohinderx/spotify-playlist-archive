@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Female\-identifying only grooves  with a few of  <a href=“spotify:artist:12Zk1DFhCbHY6v3xep2ZjI”>070 Shake's</a> personally picked tunes\. Cover: 070 Shake
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,460 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,479 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 26 | [Olympus](https://open.spotify.com/track/4yTFuPeN2UHzboAyUhgqIk) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Olympus](https://open.spotify.com/album/7pTDGUWMPGL6Z62Prx4jZ4) | 3:44 |
 | 27 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
 | 28 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
-| 29 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 |
-| 30 | [When It Hurts so Bad](https://open.spotify.com/track/3CNSWn2mISh7Ll3yJQbVEw) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:42 |
+| 29 | [When It Hurts so Bad](https://open.spotify.com/track/3CNSWn2mISh7Ll3yJQbVEw) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:42 |
+| 30 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 |
 | 31 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 |
 | 32 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 |
 | 33 | [if we lived on the moon](https://open.spotify.com/track/4Es7s4qHHonILWnqDkN7cA) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6vKGgTS4yEAm8DlnQd5c7P) | 2:31 |
 | 34 | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/track/0B8f2tTSavL7PzDy2X9jnB) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype \(feat\. Oli Sykes\)](https://open.spotify.com/album/4YNUo0hHtFFlZztIDWzD4u) | 2:47 |
 | 35 | [FOOL 4 U](https://open.spotify.com/track/28a8bRus9o9qT6OwSfIHWy) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:17 |
-| 36 | [Crop Circles](https://open.spotify.com/track/7uKFDF9cW3Zcj3dJs1eOW1) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/1VLQ2jNQVoXMszkjhZoeqD) | 3:46 |
-| 37 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 |
+| 36 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 |
+| 37 | [Crop Circles](https://open.spotify.com/track/7uKFDF9cW3Zcj3dJs1eOW1) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/1VLQ2jNQVoXMszkjhZoeqD) | 3:46 |
 | 38 | [Radio Silence](https://open.spotify.com/track/4tcnIv79tX5g75R07XA4l3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Radio Silence](https://open.spotify.com/album/7k3bC0IL0dnWI6u5ObSEQg) | 3:59 |
 | 39 | [Motorbike](https://open.spotify.com/track/5JYygTGD21lSETNIm09f5G) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 3:21 |
 | 40 | [Take It To Jesus \- Live](https://open.spotify.com/track/62XGXRqEEYg9xH6GAIQMQN) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0OeLfaYbSMZkabIGz88oY6) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [23rd Street](https://open.spotify.com/track/2aaiBUwcWHkAgpn1UNNHFc) | [Companion](https://open.spotify.com/artist/3xsRxXPgnP6NdckQPo1doE) | [Second Day Of Spring](https://open.spotify.com/album/0z5stKBwZ19uFVrixkTbus) | 3:03 |
 | 50 | [Home Maker \(Edit\)](https://open.spotify.com/track/3mx0cDx1nwx6RlbPGgfjL7) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 3:52 |
 
-Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMGNjMWE0ZDZiZDA0ODQwZDBjMzE5ZjczNDQ3NTM3N2Nk`
+Snapshot ID: `MTY1NzA4MDAwMCwwMDAwMDAwMGY4YjhkMDA3YTQ0N2EyZTliODVjNzU1ZDY5ODI0ZDM1`

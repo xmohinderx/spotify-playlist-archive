@@ -1,12 +1,12 @@
 {
   "description": "We hear you",
-  "num_followers": 866652,
+  "num_followers": 867288,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3Mzg2MCwwMDAwMDAwMDNkNjZkM2EwOWEyZjYzMDc2ZDg0OTkyZTA4NTk1MmE4",
+  "snapshot_id": "MTY1OTA3Mzg2MCwwMDAwMDAwMDUxNDlkYjZjZDVhZDY5Y2E4ZTY4Y2Q2OWVmY2M5ZWYw",
   "tracks": [
     {
       "added_at": "2022-07-29 05:51:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 172672,
       "name": "HONEST",
       "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -623,22 +623,18 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -659,18 +655,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
         "name": "Sometimes (Backwood)",
         "url": "https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn"
       },
@@ -787,6 +803,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Big Black Car",
+      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
         "name": "Love Is the Same as Sadness",
         "url": "https://open.spotify.com/album/4JcORch57yBGLItxgest7E"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 87411,
       "name": "Dance with Me",
       "url": "https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Big Black Car",
-      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
       },
@@ -999,18 +1015,18 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+        "name": "Rx",
+        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+      "duration_ms": 178120,
+      "name": "neverletyougo",
+      "url": "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "Rx",
-        "url": "https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "neverletyougo",
-      "url": "https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 391829,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
+        "name": "Simply The Best",
+        "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Simply The Best",
+      "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
-        "name": "Simply The Best",
-        "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Simply The Best",
-      "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
         "name": "this body means nothing to me",
         "url": "https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 131437,
       "name": "this body means nothing to me",
       "url": "https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2022-07-29 05:51:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-07-29 05:51:00",
       "album": {
-        "name": "always",
-        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 184011,
-      "name": "more",
-      "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
-    },
-    {
-      "added_at": "2022-07-29 05:51:00",
-      "album": {
         "name": "What If I Told You That I Love You",
         "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 193667,
       "name": "What If I Told You That I Love You",
       "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
+    },
+    {
+      "added_at": "2022-07-29 05:51:00",
+      "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 184011,
+      "name": "more",
+      "url": "https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK"
     },
     {
       "added_at": "2022-07-29 05:51:00",

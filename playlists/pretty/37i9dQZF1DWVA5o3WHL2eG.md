@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Loredana
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,060 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,058 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 3 | [Schmetterling](https://open.spotify.com/track/0pZ9CVpntp64dBWsIUg9sG) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Schmetterling](https://open.spotify.com/album/5Y24DcwuZGIkoVXy2CnxAN) | 2:23 |
 | 4 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 |
 | 5 | [Another Heart](https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Another Heart](https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d) | 2:22 |
-| 6 | [Stories](https://open.spotify.com/track/5ojRucwd93evX3j6XzIid8) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Stories](https://open.spotify.com/album/3Jpv4tjQUyOiMFtEDfDTTl) | 2:16 |
-| 7 | [sad = sexy](https://open.spotify.com/track/4Si4fa44T9B3ur1QCZCjnU) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [sad = sexy](https://open.spotify.com/album/4x4u2Q7kVCUe6YVAyc2heC) | 2:09 |
+| 6 | [sad = sexy](https://open.spotify.com/track/4Si4fa44T9B3ur1QCZCjnU) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [sad = sexy](https://open.spotify.com/album/4x4u2Q7kVCUe6YVAyc2heC) | 2:09 |
+| 7 | [Stories](https://open.spotify.com/track/5ojRucwd93evX3j6XzIid8) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L), [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Stories](https://open.spotify.com/album/3Jpv4tjQUyOiMFtEDfDTTl) | 2:16 |
 | 8 | [Shutdown](https://open.spotify.com/track/5EBYnmDtqwK5o0nHddAFgl) | [Paula Douglas](https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ) | [Shutdown](https://open.spotify.com/album/4xlYy4DDtx32POwZaJbVhq) | 2:22 |
 | 9 | [We Can Be Just Friends](https://open.spotify.com/track/057imKEFcRqQNJkGhZ6wqT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [We Can Be Just Friends](https://open.spotify.com/album/56U3Wkr8ts148ZnLTnoHN2) | 2:44 |
 | 10 | [Schwarzes Bandana](https://open.spotify.com/track/2kdK2Sn7Ca6sWI1OyRxAB7) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [Schwarzes Bandana](https://open.spotify.com/album/6PlZt3NkJ564oSEJ6FZ526) | 2:16 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Kalter Kaffee](https://open.spotify.com/track/0Odqsl0KguIIrHe5d11czH) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Kalter Kaffee](https://open.spotify.com/album/7om3rOSXXX68Ny7b5pSDc8) | 2:03 |
 | 17 | [Intro](https://open.spotify.com/track/08JNVaWt7RAEs4e043M852) | [KeKe](https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF) | [Intro](https://open.spotify.com/album/0uM1UIvWLbzTgLIanS1VXK) | 2:10 |
 | 18 | [<3core](https://open.spotify.com/track/2OhTPWJOToqCMUAua8zx6Z) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [<3core](https://open.spotify.com/album/42a7AJAwyRYVTTp8JhHBLv) | 3:00 |
-| 19 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
-| 20 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 |
+| 19 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 |
+| 20 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 |
 | 21 | [Harley Quinn](https://open.spotify.com/track/40cLuVN3G96ZcGjWluuBAQ) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Harley Quinn](https://open.spotify.com/album/1GeXEh6XRAv8tvnC7W8hZD) | 2:07 |
 | 22 | [Sunday Service](https://open.spotify.com/track/3jS8O4mbzowbNVgxKxyFgR) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Sunday Service](https://open.spotify.com/album/4BGe5o73hToBzQ0yQpRX0z) | 2:45 |
 | 23 | [Gotta Do This, Gurl](https://open.spotify.com/track/1fiwPnzU3b50IhhhgDVorQ) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Gotta Do This, Gurl](https://open.spotify.com/album/5e2bl6tZIjQogNIy34S7c3) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [My Body Is The Only Place](https://open.spotify.com/track/0z9Pv1rOJiRbsutrQHNU22) | [Kira Hummen](https://open.spotify.com/artist/2Xb59cTmrizcuBigliz8Hl) | [My Body Is The Only Place](https://open.spotify.com/album/3QSAkwsNnd084waFESgguy) | 2:59 |
 | 50 | [I AM WHAT I AM \- Original version](https://open.spotify.com/track/5ME8Ct0K0fxGEYqt4W9WRF) | [KARMA SHE](https://open.spotify.com/artist/6kuuHVyXGEt2Zcj67hoxlf) | [I AM WHAT I AM](https://open.spotify.com/album/4Mqh8LvAWrOYGa4WEvDRAE) | 6:18 |
 
-Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAwMGY1OTFjYmU1NTFjOWUyNmVlNzI1N2JkZmZlOTM0ZDBi`
+Snapshot ID: `MTY1NzA1ODQwMCwwMDAwMDAwMDFiMjZmMDA5MTQzNGY0Mjk2MzRiOWJkOTNlMDkyMzE1`

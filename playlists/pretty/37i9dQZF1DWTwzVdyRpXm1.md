@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Desi hits from South Asia\. Cover: Shae Gill, Ali Sethi
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,323 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,205 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

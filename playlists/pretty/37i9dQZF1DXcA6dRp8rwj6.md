@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Warren Hue \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,270 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,327 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 29 | [Conceited](https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Conceited](https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV) | 2:26 |
 | 30 | [Ain't My Dog](https://open.spotify.com/track/55yPlote432saxAHYwlqp4) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [Ain't My Dog](https://open.spotify.com/album/3W0OjgFTPdNZJqLUCdcdYT) | 3:44 |
 | 31 | [All Blue](https://open.spotify.com/track/17mVb5scsMo19AmV1r5rNr) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [All Blue](https://open.spotify.com/album/6HE5aKHcsorSzReD3VCFWq) | 2:28 |
-| 32 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 |
+| 32 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 |
 | 33 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 |
 | 34 | [WHAT WOULD I DO?](https://open.spotify.com/track/1sFXoIocM3iQQs21Kw6mb7) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [WHAT WOULD I DO?](https://open.spotify.com/album/7tm9KvtZYiQCi1S7LJtd3y) | 3:23 |
 | 35 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 73 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 | 74 | [Any Attack](https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Any Attack](https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg) | 1:53 |
 
-Snapshot ID: `MTY1OTAyNDQzMSwwMDAwMDAwMDBjYzcyYzBlMWVjYzc3OTcwNzEwZjMwZDY4NDM1ZjM0`
+Snapshot ID: `MTY1OTAyNDQzMSwwMDAwMDAwMDA1ZTI3ZThhMjIyNTIyZGNmZWE4N2VlZWFlYjQ2YjIx`

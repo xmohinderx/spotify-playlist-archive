@@ -1,12 +1,12 @@
 {
   "description": "Instrumental jazz to set the mood for a relaxed evening.",
-  "num_followers": 386780,
+  "num_followers": 386821,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTcyMCwwMDAwMDAwMGNiMDM0NGMyMjBkMzI4ZmZlOWZiNWNlM2IwODAyYmIz",
+  "snapshot_id": "MTY1OTA0NTcyMCwwMDAwMDAwMDFiNTRiYzkxYzM3MjRjMzU3YzM5NzZmNjI2ODQ1OTA4",
   "tracks": [
     {
       "added_at": "2022-07-28 22:02:00",
@@ -255,6 +255,50 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "My Old Flame",
+        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
+      },
+      "artists": [
+        {
+          "name": "Walt Weiskopf",
+          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Andreas Lang",
+          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
+        }
+      ],
+      "duration_ms": 347377,
+      "name": "Other Jewels",
+      "url": "https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
+        "name": "Ode",
+        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 402013,
+      "name": "Bee Blues",
+      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "The Comedian (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt"
       },
@@ -283,22 +327,6 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Ode",
-        "url": "https://open.spotify.com/album/2HJHKIUdO0f4QlKwznVC3e"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 402013,
-      "name": "Bee Blues",
-      "url": "https://open.spotify.com/track/6keKDGemOj5o7VJHNVaeYl"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -315,34 +343,6 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "My Old Flame",
-        "url": "https://open.spotify.com/album/0CnUlsfhJYEk4ZYfQJl0Qo"
-      },
-      "artists": [
-        {
-          "name": "Walt Weiskopf",
-          "url": "https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Andreas Lang",
-          "url": "https://open.spotify.com/artist/4KYU7uyGCtySFvXrFnsJbe"
-        }
-      ],
-      "duration_ms": 347377,
-      "name": "Other Jewels",
-      "url": "https://open.spotify.com/track/5t2AP2RpJc9p0zS5gdsCHF"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -619,6 +619,26 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Left Alone",
+        "url": "https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV"
+      },
+      "artists": [
+        {
+          "name": "Pekka Pylkkanen",
+          "url": "https://open.spotify.com/artist/3FhDOgA2Mmistm9ml8kMur"
+        },
+        {
+          "name": "Eric Ineke",
+          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
+        }
+      ],
+      "duration_ms": 630280,
+      "name": "Left Alone",
+      "url": "https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "The Impulse Story",
         "url": "https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5"
       },
@@ -631,6 +651,22 @@
       "duration_ms": 328506,
       "name": "Groove Waltz",
       "url": "https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
+        "name": "Where Do You Start",
+        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 607733,
+      "name": "Baby Plays Around",
+      "url": "https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -655,42 +691,6 @@
       "duration_ms": 466600,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0g13WtzfAwcHPSdcZnMbxH"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Where Do You Start",
-        "url": "https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 607733,
-      "name": "Baby Plays Around",
-      "url": "https://open.spotify.com/track/4yOHkrkJHqE7sruMEgDJBb"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Left Alone",
-        "url": "https://open.spotify.com/album/0AwwQi9FYLGVav6LSZxzJV"
-      },
-      "artists": [
-        {
-          "name": "Pekka Pylkkanen",
-          "url": "https://open.spotify.com/artist/3FhDOgA2Mmistm9ml8kMur"
-        },
-        {
-          "name": "Eric Ineke",
-          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
-        }
-      ],
-      "duration_ms": 630280,
-      "name": "Left Alone",
-      "url": "https://open.spotify.com/track/5niuB6LyaMlfOizwxsLAlZ"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 329653,
+      "name": "Blues for Sharpie",
+      "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 423538,
       "name": "I Think of You",
       "url": "https://open.spotify.com/track/5O7gq2BSiX0UhDgPMLbayr"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 329653,
-      "name": "Blues for Sharpie",
-      "url": "https://open.spotify.com/track/3gPr9tbx4jSM0nS6O9J5UZ"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Another Standard",
-        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
-      },
-      "artists": [
-        {
-          "name": "Bob Berg",
-          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
         "name": "I Love Jan Lundgren Trio",
         "url": "https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 291861,
       "name": "Garden of Delight",
       "url": "https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
+        "name": "Another Standard",
+        "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
+      },
+      "artists": [
+        {
+          "name": "Bob Berg",
+          "url": "https://open.spotify.com/artist/1gqL9JWgVW2O87KbYWPNbC"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9"
+      },
+      "artists": [
+        {
+          "name": "Corey Christopher Wright",
+          "url": "https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk"
+        }
+      ],
+      "duration_ms": 212889,
+      "name": "Nostalgia in Times Square",
+      "url": "https://open.spotify.com/track/0x4Sfme5P4VPNMDGW8126A"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 462208,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/5OBeTA1kfNzIin9tBeV1s3"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/78X3XqhFT1W9qTUO506Bm9"
-      },
-      "artists": [
-        {
-          "name": "Corey Christopher Wright",
-          "url": "https://open.spotify.com/artist/76chtyg3RNKYtVaNv2waQk"
-        }
-      ],
-      "duration_ms": 212889,
-      "name": "Nostalgia in Times Square",
-      "url": "https://open.spotify.com/track/0x4Sfme5P4VPNMDGW8126A"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Ambivalence",
+        "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "Luiz",
+      "url": "https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "The End of a Bug Affair",
         "url": "https://open.spotify.com/album/1vVUQWQsuJM5yeCSx5MhOZ"
       },
@@ -1759,6 +1775,22 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
+        "name": "Time For Ballads - The Studio Sessions",
+        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
+      },
+      "artists": [
+        {
+          "name": "Rob Van Bavel",
+          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
+        }
+      ],
+      "duration_ms": 263285,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
         "name": "Introducing Brad Mehldau",
         "url": "https://open.spotify.com/album/3Xof3jYaVXRtGnmiREePG1"
       },
@@ -1771,6 +1803,30 @@
       "duration_ms": 422066,
       "name": "London Blues",
       "url": "https://open.spotify.com/track/5x0knlH4sCOHjw2GjEZPEB"
+    },
+    {
+      "added_at": "2022-07-28 22:02:00",
+      "album": {
+        "name": "Live at Unity",
+        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kallerdahl",
+          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
+        },
+        {
+          "name": "Albin Lindg\u00e5rd",
+          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
+        },
+        {
+          "name": "Ossian Ward",
+          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
+        }
+      ],
+      "duration_ms": 382453,
+      "name": "Masthuggsgruppen - Live",
+      "url": "https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0"
     },
     {
       "added_at": "2022-07-28 22:02:00",
@@ -1811,46 +1867,6 @@
     {
       "added_at": "2022-07-28 22:02:00",
       "album": {
-        "name": "Ambivalence",
-        "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "Luiz",
-      "url": "https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Live at Unity",
-        "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
-      },
-      "artists": [
-        {
-          "name": "Fabian Kallerdahl",
-          "url": "https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU"
-        },
-        {
-          "name": "Albin Lindg\u00e5rd",
-          "url": "https://open.spotify.com/artist/2VlkNl0iG5Hoil0m4oBm84"
-        },
-        {
-          "name": "Ossian Ward",
-          "url": "https://open.spotify.com/artist/25fgNI6A7XEHdPmAoLV2xo"
-        }
-      ],
-      "duration_ms": 382453,
-      "name": "Masthuggsgruppen - Live",
-      "url": "https://open.spotify.com/track/3sTcMXmNCg2pLwhBJtLaU0"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
         "name": "The Time is Now",
         "url": "https://open.spotify.com/album/6rbxPC5MijiKjZo5C7VPtd"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 293582,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/6YliyU9qRaWIS1YuQXOe3t"
-    },
-    {
-      "added_at": "2022-07-28 22:02:00",
-      "album": {
-        "name": "Time For Ballads - The Studio Sessions",
-        "url": "https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q"
-      },
-      "artists": [
-        {
-          "name": "Rob Van Bavel",
-          "url": "https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN"
-        }
-      ],
-      "duration_ms": 263285,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0"
     }
   ],
   "unique_name": "Jazzy Dinner",

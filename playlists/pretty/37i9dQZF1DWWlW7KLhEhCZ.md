@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Elicê, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,746 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,766 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 8 | [Malokeragem](https://open.spotify.com/track/4xdMBPkevffdDNHv1VsiQo) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0) | [Malokeragem](https://open.spotify.com/album/7AJ5F18Xp1EWst3lLu6eeR) | 2:53 |
 | 9 | [Fênix](https://open.spotify.com/track/3oY4819e0cRWvtcq9OfaBB) | [Drako](https://open.spotify.com/artist/0t8ncMSqGZOIly3U2hlbMp), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Fênix](https://open.spotify.com/album/3K2paot8Plo8rKawCxsJUZ) | 2:26 |
 | 10 | [Meu Mundo](https://open.spotify.com/track/0UbuoewSfbeKlzaHXNzIFa) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF) | [Meu Mundo](https://open.spotify.com/album/7IoTpNoubIPLY25VfhJI7W) | 2:46 |
-| 11 | [Não te conheço](https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Não te conheço](https://open.spotify.com/album/0JoxgIOnir9nk2aoy6LlXJ) | 3:25 |
+| 11 | [Não Te Conheço](https://open.spotify.com/track/4QuoYG9mKIm2UOK94UXst5) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK) | [Não Te Conheço](https://open.spotify.com/album/0JoxgIOnir9nk2aoy6LlXJ) | 3:25 |
 | 12 | [Maldade das Ruas \(feat\. Did Brock, Murillo Zenki, Phantom Mob & Caju Clã\)](https://open.spotify.com/track/3DETeSP0LRVbp0Hldq32SC) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [B.I.G Carter](https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558), [Murillo Zenki](https://open.spotify.com/artist/4sn4agFKcZRLswKocRvpI3), [Phantom Mob](https://open.spotify.com/artist/5uIQliKMyGkfEwn9JA9S8T), [Caju Clã](https://open.spotify.com/artist/1zCRmLWPpfEQTERVLcOhnz) | [Maldade das Ruas \(feat\. Did Brock, Murillo Zenki, Phantom Mob & Caju Clã\)](https://open.spotify.com/album/2U6xSBZFEGOEzh9tEzsJLC) | 4:42 |
 | 13 | [Cada Vez Mais High](https://open.spotify.com/track/0eYNaqwlF2QfhKNTgvTsz7) | [Slow Gang](https://open.spotify.com/artist/7yeB6oM65lMbOBhPsu5fzq), [Droso 08](https://open.spotify.com/artist/6ldzMYF94YeCpiQuRFyJpw), [Jeromx](https://open.spotify.com/artist/1JsO6jl39B2T5atgizV44y) | [Cada Vez Mais High](https://open.spotify.com/album/7FCHFePNCMgNYNL4XjiLL5) | 3:21 |
 | 14 | [Atira\-Dores](https://open.spotify.com/track/7MEETou6OvTMUHDb2jnpGf) | [Baby Internet](https://open.spotify.com/artist/1U8cr7P5lETm3Zz5QMC4Dh), [lil bice](https://open.spotify.com/artist/6GxBOVqs6I8reTdyXl2g5L) | [Atira\-Dores](https://open.spotify.com/album/15xHVWawVu7xabQRHMfH9d) | 3:01 |

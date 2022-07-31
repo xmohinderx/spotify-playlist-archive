@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Desde El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7EkI7XSphLL1Mt1XAlYc9R"
+      },
+      "artists": [
+        {
+          "name": "B. BC Music",
+          "url": "https://open.spotify.com/artist/4NlbzjHlSyEbBvYLyjKn3r"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127145,
+      "name": "Desde El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4CT0yC1FJnOWmp0lxNgMT2"
+    },
+    {
+      "album": {
         "name": "M\u00e1s de un Siglo",
         "url": "https://open.spotify.com/album/0kTaCeKofQWaCUnXUPx6eW"
       },

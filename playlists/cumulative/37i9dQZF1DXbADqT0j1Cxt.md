@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-345 songs - 10 hr 20 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
+346 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/0QYwaZb9tNnA0EzmNKC1Pf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Godnat min skat](https://open.spotify.com/track/3nIAPDblNehwcKzMmckknw) | [Grete Rosenkjær](https://open.spotify.com/artist/0R9BrQPB75F1VgukWfwXHw) | [Godnat min skat](https://open.spotify.com/album/5Pbg0ie2phwJOea0hvLwdw) | 1:07 | 2021-10-07 |  |
 | [Golden Slumbers](https://open.spotify.com/track/4PbD6tkvzVgwZcAQgUPxka) | [Gina Welper](https://open.spotify.com/artist/0t4QhpN4QfxhPTj0Qy7NNn) | [Golden Slumbers](https://open.spotify.com/album/5YFzaNU55WsVvHZZilzrnP) | 1:06 | 2021-10-07 |  |
 | [Gone Fishing](https://open.spotify.com/track/1iMnJYHMfk2ledh8jxypzl) | [Harper Gomez](https://open.spotify.com/artist/54HcGYTrzcGNYHa5cU9v6S) | [Gone Fishing](https://open.spotify.com/album/5GT0g5Pwv6HnAzvzahKD7q) | 1:44 | 2021-10-07 |  |
-| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2021-10-07 |  |
+| [good 4 u](https://open.spotify.com/track/2QhEuuK0jdjWrhUrouMIuz) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [good 4 u](https://open.spotify.com/album/3WjUXzSAY62ypc7b7ON8e6) | 3:21 | 2021-10-07 | 2022-07-31 |
+| [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2022-07-27 |  |
 | [Grandma’s Glasses](https://open.spotify.com/track/2BR8GLIPPjkljm7nr9UnCk) | [Janell Stallings](https://open.spotify.com/artist/5pAwiiwEYIYJtDLJwi4TbV) | [Grandma’s Glasses](https://open.spotify.com/album/6cooTVwXenEWDgAoq3k7IL) | 1:56 | 2021-10-07 |  |
 | [Grandma’s Song](https://open.spotify.com/track/12cNto2PJOzdzSLWb0LKeq) | [Isadore Sargent](https://open.spotify.com/artist/02IBHWwjAEhx7xZJQDyx0K) | [Grandma’s Song](https://open.spotify.com/album/29teXxE4oqjsWN9zsKKaWn) | 1:04 | 2021-10-07 |  |
 | [Gute Nacht mein Kind](https://open.spotify.com/track/1kzyrRsnjUk0v1jCqZ1Es2) | [Katrin Bauer](https://open.spotify.com/artist/59Y2eW7PPRJAO53sxZ3Bvd) | [Gute Nacht mein Kind](https://open.spotify.com/album/7J8SBjSlBoclMcEz6TUrMQ) | 1:56 | 2021-10-07 |  |

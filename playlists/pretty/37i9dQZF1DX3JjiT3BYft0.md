@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,083 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,142 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 17 | [Hey\-day狂騒曲\(カプリチオ\)](https://open.spotify.com/track/5hxe8V1SssFYZMCQvHxwvh) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 3:53 |
 | 18 | [EXIST](https://open.spotify.com/track/1X8tDqqCiYIfysEq6q795h) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [EXIST](https://open.spotify.com/album/5r6axlxmInCbsuuXrVwuG5) | 3:59 |
 | 19 | [Zettai Sengen 〜Recital〜](https://open.spotify.com/track/2VQiGQTq0MJT4OymCMAuTB) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Kyu〜Mai\*Flower](https://open.spotify.com/album/6naufY9Fgybtu507eHRlmM) | 4:01 |
-| 20 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
+| 20 | [Wacha\-Mocha Pettan March](https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [I need you!](https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA) | 3:53 |
 | 21 | [ZEAL of proud](https://open.spotify.com/track/2OHctF8boBgJOEECY8RHeA) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:39 |
 | 22 | [Tear Drops](https://open.spotify.com/track/7aPl1DIA0XeMu9yqXNUOH8) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Poppin'on!](https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL) | 3:38 |
 | 23 | [ONE OF US](https://open.spotify.com/track/3XwMtNKatIHz7fOpCIaixE) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 4:41 |
-| 24 | [Wacha\-Mocha Pettan March](https://open.spotify.com/track/5XtTvwA9Scux2pdUs2WcVl) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [I need you!](https://open.spotify.com/album/1bD3P5yTAFAqE6rYGRG9IA) | 3:53 |
+| 24 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/6a11f21Xj5oHDroreiDd35), [花音](https://open.spotify.com/artist/0CP7lmqWkyfS6eltp2vsTf), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 25 | [chAngE](https://open.spotify.com/track/2as6oi3XXxxFj1p9TYGl4L) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection2](https://open.spotify.com/album/5ph0IVhPZd70PoRnuwbkkc) | 4:10 |
 | 26 | [Blessing Chord](https://open.spotify.com/track/2q6DCS4KiXsi9Uq0qDIRvP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [ZEAL of proud](https://open.spotify.com/album/7J7hJQW7POnSWG7FUrSx4J) | 4:37 |
 | 27 | [A DECLARATION OF ×××](https://open.spotify.com/track/2zidm9e4RyoubevfU7VHYM) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [ERA](https://open.spotify.com/album/62C2FYnrqee7cqVlrn24yk) | 5:15 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 29 | [Hello! Wink!](https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 4:40 |
 | 30 | [CATASTROPHE BANQUET](https://open.spotify.com/track/5LPzzl5G24SqCP0Wzjzf5y) | [レイヤ](https://open.spotify.com/artist/7gKb7riZkXgWq1DMSc4J4V), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [沙綾](https://open.spotify.com/artist/6L53bP8ui7Ed6Sk1swU2lc), [ミッシェル](https://open.spotify.com/artist/5qvySlwwYvONn471kyIrJl), [瑠唯](https://open.spotify.com/artist/7CttnSnreAHT90ryxQDafh) | [BanG Dream! Dreamer's Best](https://open.spotify.com/album/2zO2Ptv0rub8ZkxYiJt71d) | 4:22 |
 | 31 | [えがお・シング・あ・ソング](https://open.spotify.com/track/3K25B2LGZnEOLXSMTf19ty) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [にこにこねくと!](https://open.spotify.com/album/5TVSmT5HcpQ5TxfAp8KwGF) | 4:08 |
-| 32 | [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 |
+| 32 | [Sacred world](https://open.spotify.com/track/0V3WhvVVbRFEtzSDSv2ePr) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred world](https://open.spotify.com/album/0cfxwaRmmOsIxnXvFGiwan) | 5:00 |
 | 33 | [雨上がりの夢](https://open.spotify.com/track/2d14KGRep1k9dPlTSM2kn8) | [湊 友希那](https://open.spotify.com/artist/1jyXuZcKGRbmIUN1W6e0Me) | [劇場版「BanG Dream! Episode of Roselia」Theme Songs Collection](https://open.spotify.com/album/6QLlnhussxhVSmUBvyKbBh) | 2:55 |
 | 34 | [Don't be afraid!](https://open.spotify.com/track/4q9QnIxZH4FR4Z543vkA85) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:57 |
 | 35 | [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [Bloom Bloom](https://open.spotify.com/track/4cX6425aZsH2bBJoODN0eE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [Bloom Bloom](https://open.spotify.com/album/6a8ECUWLbDseAr1t9V5jhf) | 4:36 |
 | 50 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 |
 
-Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMGVlZDFhYjg5OTU3Y2I3YjYzYmNkODg4MmYxMTQyOTFi`
+Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMGZlNTAzMDk5YTI3ZWVmMWU1MGNkZGFmZmIxMmY4ZTFj`

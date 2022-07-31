@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,957 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,011 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 32 | [Roll 'Em Pete](https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Jumpin' With Joe](https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM) | 2:55 |
 | 33 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 34 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
-| 35 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
+| 35 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
 | 36 | [Boogie Woogie Baby](https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Blues Kingpin](https://open.spotify.com/album/2X3vE9Ha8prWqWl4rIzaD3) | 2:19 |
-| 37 | [Blue Lamp](https://open.spotify.com/track/3GPEPvxXoFf5GYZzlulpvz) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [Piano](https://open.spotify.com/album/0VafiJdDMi3vB2H40Xrwvv) | 3:01 |
-| 38 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
+| 37 | [Hastings Street](https://open.spotify.com/track/4VPvooErbxiLpiG8TzdTtg) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Ragtime Guitar's Foremost Fingerpicker](https://open.spotify.com/album/1YLQpIA8TAdpAQapN41BiN) | 3:13 |
+| 38 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 |
 | 39 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
-| 40 | [Sue's Boogie](https://open.spotify.com/track/1ARHw0RdJKh9OOGVuXtPqP) | [Sue Palmer](https://open.spotify.com/artist/0J2G5v2i3XSUUytnb8WX3v) | [Boogie Woogie Motel Swing](https://open.spotify.com/album/0EmDWj8gCidHysCCqaqluP) | 2:03 |
+| 40 | [Slider](https://open.spotify.com/track/4CTpTImixJkWNI9gUIMz8J) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:08 |
 | 41 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
 | 42 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
 | 43 | [Caroline's Boogie](https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:21 |
 | 44 | [Rocket Boogie "88" \(Pt\. 1\)](https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7), [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Tell Me Pretty Baby](https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk) | 2:50 |
-| 45 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
-| 46 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
-| 47 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
-| 48 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
+| 45 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
+| 46 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
+| 47 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
+| 48 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 | 49 | [Memphis Blues](https://open.spotify.com/track/0wX7APzteSLd07TL8St7iY) | [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz) | [Barrelhouse, Blues & Boogie Woogie, Vol\. 4](https://open.spotify.com/album/6F0PGqrZc1OGHxSEsXdg6P) | 3:41 |
 | 50 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
 
-Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDRmYjYxMzk5NTg5OWJhYjFlZjA1Mjk4MjRjZDIxYTk5`
+Snapshot ID: `MTY1OTA5MTAwNiwwMDAwMDAwMDdiN2ZlNGQ2Y2RlODBiNWI2MmNkMzVmMjAxYTAxZDE3`

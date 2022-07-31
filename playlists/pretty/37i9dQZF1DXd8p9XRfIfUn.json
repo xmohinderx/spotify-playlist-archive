@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Sael, Emilia",
-  "num_followers": 57708,
+  "num_followers": 57723,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0NDQwMCwwMDAwMDAwMDUzMThlZDUyM2Q5NTI2NThmZTA4YWUxNzcxNDdiMDZk",
+  "snapshot_id": "MTY1NjY0NDQwMCwwMDAwMDAwMGE0NTg0OTViNDE0ZWQ2YTU5MzFkNGZiOTM3MjBiYjRj",
   "tracks": [
     {
       "added_at": "2022-07-01 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-01 03:00:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
-      },
-      "artists": [
-        {
-          "name": "Igna",
-          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
-        }
-      ],
-      "duration_ms": 185699,
-      "name": "Buen Rato",
-      "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
-    },
-    {
-      "added_at": "2022-07-01 03:00:00",
-      "album": {
         "name": "Duro",
         "url": "https://open.spotify.com/album/5NMbnNAo4I9o0KoWD3th5r"
       },
@@ -1259,6 +1243,30 @@
       "duration_ms": 222127,
       "name": "Duro",
       "url": "https://open.spotify.com/track/4imyclPGCjS5foojdAzsIo"
+    },
+    {
+      "added_at": "2022-07-01 03:00:00",
+      "album": {
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
+      },
+      "artists": [
+        {
+          "name": "Young Martino",
+          "url": "https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

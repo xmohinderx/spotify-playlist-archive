@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Nat King Cole",
-  "num_followers": 454709,
+  "num_followers": 454682,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMDE4NGM3ZTFkY2EwZmM1ZmU4MjBmMDg4NzU5ZWE3MGFh",
+  "snapshot_id": "MTYzOTExMjQ2MCwwMDAwMDAwMGJlYzYyYWI0NWNkMGIxMGZhYjUxMGQ0NTk4N2RhYzE0",
   "tracks": [
     {
       "added_at": "2021-11-12 15:48:58",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Christmas With The Puppini Sisters",
+        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+      },
+      "artists": [
+        {
+          "name": "The Puppini Sisters",
+          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A Sentimental Christmas With Nat King Cole And Friends: Cole Classics Reimagined",
         "url": "https://open.spotify.com/album/0rXnrMJWA2eVoKaEyXQare"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Christmas With The Puppini Sisters",
-        "url": "https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "The Puppini Sisters",
-          "url": "https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 181773,
-      "name": "Here Comes Santa Claus",
-      "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
+      "duration_ms": 286533,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -643,22 +659,6 @@
       "duration_ms": 150412,
       "name": "Show Me The Magic",
       "url": "https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -811,6 +811,22 @@
     {
       "added_at": "2021-11-12 15:48:58",
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Cool Yule",
+      "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
         "name": "A New Orleans Christmas Carol (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ts9XnU0lMg6SpiCelP0ba"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 256973,
       "name": "The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis)",
       "url": "https://open.spotify.com/track/2ApiBIDqdv5kBukv666Qhf"
-    },
-    {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Cool Yule",
-      "url": "https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9"
     }
   ],
   "unique_name": "Christmas Jazz",

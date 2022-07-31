@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 34008,
+  "num_followers": 34040,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMGUwNDE5ZWFlZjExZWE5MWI3ZDQwNGFiMTU0MjVkNTBk",
+  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMDYwZjQ1YzE4MjI5ZmIwZTc1M2Q1MzgxOTg3ZTBkYzZm",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "The Walls Are Way Too Thin",
         "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/6A6A6VJtMLsPKyHxNlYT5h"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 153504,
+      "name": "Christine",
+      "url": "https://open.spotify.com/track/0eYSzApMKixJLlYPnk3gBW"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 153504,
-      "name": "Christine",
-      "url": "https://open.spotify.com/track/0eYSzApMKixJLlYPnk3gBW"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 212634,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Surprise, Surprise",
-        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 236276,
-      "name": "Surprise, Surprise",
-      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 236813,
       "name": "Lose This Number",
       "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Surprise, Surprise",
+        "url": "https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 236276,
+      "name": "Surprise, Surprise",
+      "url": "https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "I Can Go With You",
-        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "I Can Go With You",
-      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 189427,
       "name": "Air Forces",
       "url": "https://open.spotify.com/track/0FoUOS7ExFM2FmEuyGBxOP"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "I Can Go With You",
+        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "I Can Go With You",
+      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Head of Roses",
-        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
-      },
-      "artists": [
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Awake for the Sunrise",
-      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 237493,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Head of Roses",
+        "url": "https://open.spotify.com/album/3GQfoIqcz1eNgQXsPkzVk0"
+      },
+      "artists": [
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Awake for the Sunrise",
+      "url": "https://open.spotify.com/track/6f8Z7xDKhliHAqWpoFdYXr"
     },
     {
       "added_at": "2022-01-12 17:58:24",

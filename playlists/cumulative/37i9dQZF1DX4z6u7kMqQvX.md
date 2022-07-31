@@ -4,12 +4,12 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-378 songs - 21 hr 38 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+379 songs - 21 hr 41 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-01-28 |  |
-| [24/7](https://open.spotify.com/track/2RbKvhGdnmr5jAVcQ6dD8T) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/0yxSN0F7F2eR8iuyoUTn3I) | 3:04 | 2022-01-07 |  |
+| [24/7](https://open.spotify.com/track/2RbKvhGdnmr5jAVcQ6dD8T) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/0yxSN0F7F2eR8iuyoUTn3I) | 3:04 | 2022-01-07 | 2022-07-31 |
 | [31 de Febrero](https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [31 de Febrero](https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp) | 3:09 | 2022-04-01 | 2022-04-18 |
 | [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
@@ -262,6 +262,7 @@
 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2022-01-07 |  |
 | [Para Mí](https://open.spotify.com/track/6GtnxNS9Y4L5R14l9LMMzZ) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6), [Pablo Dazán](https://open.spotify.com/artist/5JnWZtst5VQxEy3MtP2mnF) | [Para Mí](https://open.spotify.com/album/4whaDppy4KYRXa1Voy3Ydi) | 3:18 | 2022-01-07 | 2022-07-29 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2022-01-28 | 2022-07-27 |
+| [Para Vivir Mejor](https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Para Vivir Mejor](https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs) | 2:31 | 2022-07-29 |  |
 | [Paralelos](https://open.spotify.com/track/0uUSAVzlKwQCjpsB21Qlg7) | [Universos](https://open.spotify.com/artist/2Rx84pqygIYad4A1PaHu1l), [Ellen Pub](https://open.spotify.com/artist/0G4Y5ivygdqDzmlzHXjpIo) | [Paralelos](https://open.spotify.com/album/1YEdetwDrFjHKwIV5F8ukb) | 4:30 | 2022-01-07 | 2022-07-28 |
 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 | 2022-01-07 |  |
 | [Pasaporte](https://open.spotify.com/track/0inTPQg9l3wU7euDEn0OL5) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [Pasaporte](https://open.spotify.com/album/4dGsrCh3YI8HnLKgfr27Iy) | 2:59 | 2022-01-07 | 2022-07-28 |

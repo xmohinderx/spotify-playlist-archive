@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Arrolladora Banda El Lim\u00f3n De Rene Camacho y Alejandro Fern\u00e1ndez en portada.",
-  "num_followers": 1034698,
+  "num_followers": 1034846,
   "original_name": "Banda 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDExMTdhYzM2MjY1NzhjZjJjOGQzODFlZmVlMzcyYTkz",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMGMyOGVkNmIwNmJhNWQxNzNjNmRlZTA3ZjVkMDE5YjI0",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Ajeno",
+        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 180106,
+      "name": "Prov\u00f3came",
+      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/0O3qFMWiXTVzZcSsoaerhJ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Ajeno",
-        "url": "https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "Prov\u00f3came",
-      "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
     },
     {
       "added_at": "2022-07-15 04:00:00",

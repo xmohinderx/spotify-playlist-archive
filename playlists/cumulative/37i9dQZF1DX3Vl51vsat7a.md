@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: JOPLYN
 
-119 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
+120 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 |  |
 | [Zimmer](https://open.spotify.com/track/4SN5MyYZbiYhNHEQC51gh3) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen](https://open.spotify.com/album/4DnP7qkS1KlDKixC4jNf3L) | 2:57 | 2021-12-16 | 2022-05-13 |
+| [Zwei Menschen](https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zwei Menschen](https://open.spotify.com/album/5bAj7lNz2BQ3Z6MyZyWHNU) | 3:24 | 2022-07-28 |  |
 | [„Hahaha“](https://open.spotify.com/track/3d6qirAvHEpdM6Ky5OKFQ8) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [„Hahaha“](https://open.spotify.com/album/0SDmMQMIeuKkkMFvNZhOCb) | 2:07 | 2021-12-16 | 2022-05-13 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

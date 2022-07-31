@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcROCUCQOBoF.md) - [plain]
 
 > Riscopri le più grandi hit del 2015! Cover: Marco Mengoni
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,696 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,704 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcROCUCQOBoF.md) - [plain]
 | 85 | [La Vita Com'è](https://open.spotify.com/track/053trmldheiFgDGCGgZ4WW) | [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Maximilian](https://open.spotify.com/album/15gGqbI9XtUGoClVR33kmn) | 3:53 |
 | 86 | [Reality](https://open.spotify.com/track/6rHROoXjEfuxYVw1nd7plQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/5HXThyoACKMuMdRU5HosWH) | 2:38 |
 | 87 | [Senza Fare Sul Serio](https://open.spotify.com/track/2bxrrNseIuu3tGslKZrTsy) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Naif](https://open.spotify.com/album/6gCjTE0z9FOhPLG2N5FlXK) | 3:34 |
-| 88 | [Lay It All on Me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/38ismoqQYn75ruDSQ2Jtx8) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/0sztwpDG0COJ1HoJRD74bn) | 4:02 |
-| 89 | [Sabato](https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:06 |
+| 88 | [Sabato](https://open.spotify.com/track/6DhRYmgbtdXQlJ638xaHGt) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:06 |
+| 89 | [Lay It All on Me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/38ismoqQYn75ruDSQ2Jtx8) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/0sztwpDG0COJ1HoJRD74bn) | 4:02 |
 | 90 | [Io ti aspetto](https://open.spotify.com/track/6bBTzGx5EQ73EIF9ZrtEMX) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Parole in circolo](https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD) | 3:47 |
 | 91 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
 | 92 | [Dangerous \(feat\. Sam Martin\)](https://open.spotify.com/track/2w2lfwoTELQyN940qM7Nfd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 3:23 |
 | 93 | [Attenta](https://open.spotify.com/track/6BuD1i98DGRDrbLUOqUo3I) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Rivoluzione Sta Arrivando](https://open.spotify.com/album/57WRsytuIm4lKqt46xs69f) | 4:40 |
-| 94 | [Gli Immortali](https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 3:51 |
-| 95 | [L'amore eternit \(feat\. Noemi\)](https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Pop\-hoolista](https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl) | 4:18 |
+| 94 | [L'amore eternit \(feat\. Noemi\)](https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Pop\-hoolista](https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl) | 4:18 |
+| 95 | [Gli Immortali](https://open.spotify.com/track/2KAdlibMw9xWLIIHt1dzsd) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 3:51 |
 | 96 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
 | 97 | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/track/1XlRA078Zp2Q0IfWliK42q) | [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Don't Worry \(feat\. Ray Dalton\)](https://open.spotify.com/album/6etykI54jWMVrshv5wCm4P) | 3:34 |
 | 98 | [Esseri umani](https://open.spotify.com/track/1tefUBqLAW9l6HC10qOtCA) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Parole in circolo](https://open.spotify.com/album/0XZk3coJHXIQnpj1J7R3FD) | 3:32 |
 | 99 | [Occhi Profondi](https://open.spotify.com/track/5Z9glBJNve5V3iFigLkQjx) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Adesso](https://open.spotify.com/album/4hZLzgYLayEhQ80Pntssak) | 3:09 |
 | 100 | [Il Gioco](https://open.spotify.com/track/7BVYN0YSChfa2tYtgONGbi) | [Negrita](https://open.spotify.com/artist/0Tuudqq2NACRXkvTQGazY2) | [9](https://open.spotify.com/album/3UY2lYxVreyoGxgHuqjAIL) | 3:37 |
 
-Snapshot ID: `MTYwNDUwMDIzOCwwMDAwMDAwMGFhZDUzMmY4YjYyMTBmZjY0OTI1ODVlODVlNTU3ZTYz`
+Snapshot ID: `MTYwNDUwMDIzOCwwMDAwMDAwMDhjOGVlNGEyNGYyZWE5ZjU1YTlmZDE2M2EwMzZhMDA4`

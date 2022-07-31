@@ -4,7 +4,7 @@
 
 > Soft acoustic songs that gives you a gentle start of the day.
 
-174 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+175 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Sending Light \(For Lucas\)](https://open.spotify.com/track/2YyiusQW8kLLyz4f5kYyJc) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Sending Light \(For Lucas\)](https://open.spotify.com/album/5AUid2DhC3kqOsq0lnLqo0) | 3:14 | 2022-05-30 | 2022-07-29 |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-05-30 |  |
 | [Should I Stay or Should I Go](https://open.spotify.com/track/0ljFJVvG0WbqscLQANJ5no) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay or Should I Go](https://open.spotify.com/album/1OzMgxZdiLlysjDNDQvb9P) | 2:37 | 2022-05-30 | 2022-07-29 |
+| [Should I Stay Or Should I Go](https://open.spotify.com/track/2FEa7a9fEAfqlW3hx7MQAC) | [Ofelia](https://open.spotify.com/artist/3JJykf1FPCxClLzswrKxPr) | [Should I Stay Or Should I Go](https://open.spotify.com/album/6Gq8DXdAYBC7R3kzFCztNz) | 2:37 | 2022-06-24 |  |
 | [So Sick \- Acoustic](https://open.spotify.com/track/7A7G7vxAStaMrO0FDPRblu) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words \(Deluxe 15th Anniversary Edition\)](https://open.spotify.com/album/4uQ89DNW3sb8WxzmlI7jP1) | 3:02 | 2022-06-24 |  |
 | [Sorrow](https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe) | 3:12 | 2022-06-24 |  |
 | [Sorrow](https://open.spotify.com/track/33ry67NZycIR011igWIFD3) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Mystery](https://open.spotify.com/album/377tGSk9SCvV34DAhTqb0P) | 3:12 | 2022-05-30 | 2022-07-29 |
@@ -157,7 +158,7 @@
 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 | 2022-05-30 | 2022-07-29 |
 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 | 2022-06-24 |  |
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2022-05-30 |  |
-| [The Book Of Love \(Acoustic\)](https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [The Book Of Love \(Acoustic\)](https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX) | 3:36 | 2022-05-30 |  |
+| [The Book Of Love \(Acoustic\)](https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [The Book Of Love \(Acoustic\)](https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX) | 3:36 | 2022-05-30 | 2022-07-31 |
 | [The One I Love](https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [The One I Love](https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol) | 3:11 | 2022-05-30 |  |
 | [Think It Over](https://open.spotify.com/track/7u3rJLxEp9ZsQpSq5Pun79) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [Where the Roses Bloom](https://open.spotify.com/album/1MOwfsFWRW2suEzEnbo19Q) | 3:14 | 2022-05-30 | 2022-07-29 |
 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 | 2022-06-24 |  |

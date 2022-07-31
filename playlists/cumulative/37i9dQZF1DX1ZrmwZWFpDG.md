@@ -4,7 +4,7 @@
 
 > Let's end the year with a bang\. These are the ultimate floorfillers for your New Year's party!
 
-62 songs - 4 hr 5 min - [published](https://open.spotify.com/playlist/2jkrQYbakoIZ1jH5waVymP)
+63 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/2jkrQYbakoIZ1jH5waVymP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Latch](https://open.spotify.com/track/2rii3qbrh96XDqMhs6cLlg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Latch](https://open.spotify.com/album/02OPsiIr8adBH3SqL5SDSI) | 4:16 | 2013-12-20 | 2022-07-29 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2013-12-20 |  |
 | [Live Till I Die](https://open.spotify.com/track/3Jauu3MzVAw652B2LSgOVI) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Live Till I Die](https://open.spotify.com/album/3lUuSmPoS3eN2OdpmTczt9) | 3:05 | 2013-12-20 | 2022-07-29 |
-| [Live Till I Die](https://open.spotify.com/track/2uvT6FX83vqPiCTS8BqcXM) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Live Till I Die](https://open.spotify.com/album/6fgTcuz0CObteAYLqrqp1g) | 3:05 | 2022-07-29 |  |
+| [Live Till I Die](https://open.spotify.com/track/2uvT6FX83vqPiCTS8BqcXM) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Live Till I Die](https://open.spotify.com/album/6fgTcuz0CObteAYLqrqp1g) | 3:05 | 2022-07-29 | 2022-07-31 |
+| [Live Till I Die](https://open.spotify.com/track/5uLhxRmdwNsXAi2vxIlEbv) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [A Good Idea \(International Version\)](https://open.spotify.com/album/47K6wDuAN3YG5cc2pZdQId) | 3:05 | 2022-07-31 |  |
 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 | 2013-12-20 |  |
 | [Love Like You've Never Been Hurt Before](https://open.spotify.com/track/5BLOO0Tv08arWiZsgXzaW6) | [Orion](https://open.spotify.com/artist/4z5iNl5gkDue3cr1Yyh9wo), [Hedvig](https://open.spotify.com/artist/1R2q63hxPfTKNql9hD6nJs) | [Love Like You've Never Been Hurt Before](https://open.spotify.com/album/1VlM1DVDepPSxAkrcCfLJI) | 4:14 | 2013-12-20 |  |
 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 | 2022-07-29 |  |

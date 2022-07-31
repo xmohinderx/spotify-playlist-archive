@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-08",
+      "date_removed": null,
       "duration_ms": 196841,
       "name": "3D",
       "url": "https://open.spotify.com/track/5mmWXDatUx0Kjcb7d1YY61"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -2173,6 +2173,24 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ"
+    },
+    {
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278281,
+      "name": "BREAK MY SOUL",
+      "url": "https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn"
     },
     {
       "album": {
@@ -5271,7 +5289,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-06-20",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -8361,7 +8379,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 205208,
       "name": "Lieka \u0160tuka",
       "url": "https://open.spotify.com/track/540XF3v1vZaYRt7JWnCtQQ"
@@ -9739,7 +9757,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 121972,
       "name": "MIDNIGHT",
       "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
@@ -12111,7 +12129,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-09",
+      "date_removed": null,
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -13621,7 +13639,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
@@ -14111,10 +14129,28 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {
@@ -14355,7 +14391,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
@@ -16181,7 +16217,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 281380,
       "name": "TV",
       "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
@@ -16257,7 +16293,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 184613,
       "name": "Under The Influence",
       "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
@@ -17045,7 +17081,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
@@ -17960,6 +17996,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u0410\u041b\u042b\u041d\u0410",
+        "url": "https://open.spotify.com/album/33S1lk05LfbX87kSg6zgKb"
+      },
+      "artists": [
+        {
+          "name": "LOVV66",
+          "url": "https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms"
+        },
+        {
+          "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120827,
+      "name": "\u0412\u0410\u041b\u042b\u041d\u0410",
+      "url": "https://open.spotify.com/track/1slchF9M94s4KRvvG6aOOd"
+    },
+    {
+      "album": {
         "name": "Sosa Muzik",
         "url": "https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh"
       },
@@ -18195,6 +18253,28 @@
       "duration_ms": 104680,
       "name": "\u0417\u0430 \u0432\u0441\u0435\u0445",
       "url": "https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430\u0431\u0435\u0440\u0443",
+        "url": "https://open.spotify.com/album/4dtecqifIz46iyCuVGvIyZ"
+      },
+      "artists": [
+        {
+          "name": "uglystephan",
+          "url": "https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO"
+        },
+        {
+          "name": "Scally Milano",
+          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "\u0417\u0430\u0431\u0435\u0440\u0443",
+      "url": "https://open.spotify.com/track/3pzr7iKQpV9QjLGcLcd2ic"
     },
     {
       "album": {

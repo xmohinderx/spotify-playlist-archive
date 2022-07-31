@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-74 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
+75 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/1P9HnMPWIfefmYhkHJJ7tn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Al Taller del Maestro](https://open.spotify.com/track/54CynAndjIh7EPZgbtrTDs) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller Del Maestro](https://open.spotify.com/album/7rHmQdyQkVqyt7w2HmRRM4) | 5:12 | 2020-11-24 |  |
 | [Al Taller del Maestro](https://open.spotify.com/track/7kJa3VuFpzlbzqHh0Jd54L) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller del Maestro](https://open.spotify.com/album/4u6CuWNHKdv07TnoTQ2aE1) | 5:12 | 2020-11-24 | 2022-07-29 |
 | [Ancla](https://open.spotify.com/track/5OkXPEznoByT1MPBlRkmpG) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ancla](https://open.spotify.com/album/7LX8tXMflp3SkBxWub7SZn) | 3:27 | 2020-11-24 | 2022-07-29 |
+| [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 | 2020-11-24 |  |
 | [Autor](https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:57 | 2020-11-24 |  |
 | [Batugozo](https://open.spotify.com/track/0PfoClrD2Aa4pubTEmcaR6) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/6B5PDRhgDzf8qf5098F8sV) | 3:55 | 2020-11-24 | 2022-07-29 |
 | [Batugozo](https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko) | [Batuqueadora](https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw) | [Los Revolucionarios](https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH) | 3:55 | 2020-11-24 |  |
@@ -33,7 +34,7 @@
 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 | 2020-11-24 |  |
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 |  |
-| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 |  |
+| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 | 2022-07-31 |
 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 | 2022-07-29 |
 | [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2022-07-29 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |

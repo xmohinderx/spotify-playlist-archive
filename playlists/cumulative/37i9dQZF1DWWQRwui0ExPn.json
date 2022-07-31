@@ -12760,6 +12760,24 @@
     },
     {
       "album": {
+        "name": "Coves",
+        "url": "https://open.spotify.com/album/5CktapTCXcKqzkC87d9jXr"
+      },
+      "artists": [
+        {
+          "name": "Lou Vega",
+          "url": "https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Coves",
+      "url": "https://open.spotify.com/track/4eMrVEWUgbd7CSeD1TDQuy"
+    },
+    {
+      "album": {
         "name": "Cozier",
         "url": "https://open.spotify.com/album/3bnzouzKMrNTz2h21ZSQbp"
       },
@@ -18909,6 +18927,24 @@
       "duration_ms": 172450,
       "name": "Feel Jolly",
       "url": "https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY"
+    },
+    {
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/3kiYpt9k1QctA07ytRscLe"
+      },
+      "artists": [
+        {
+          "name": "Aviscerall",
+          "url": "https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/478E7Eaxc65sood3JWaFTt"
     },
     {
       "album": {
@@ -30901,7 +30937,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 156333,
       "name": "Larina",
       "url": "https://open.spotify.com/track/2wB1OguijxeqOEgiC2ZCSQ"

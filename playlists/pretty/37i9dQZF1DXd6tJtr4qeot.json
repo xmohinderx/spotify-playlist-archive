@@ -1,12 +1,12 @@
 {
   "description": "Punk rock from the 90s and 00s that you need in your life. Cover: Rancid",
-  "num_followers": 825561,
+  "num_followers": 825782,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTgzOTQwOCwwMDAwMDAwMGVjMWMxMjZkZTEyYTRjNTM3NTRjN2I3YTI1MTQxMmJj",
+  "snapshot_id": "MTY1NTgzOTQwOCwwMDAwMDAwMDI3ZDM5YjEwMWY1N2EyNGUyYTdkZTAwMTUwYzkyMTY0",
   "tracks": [
     {
       "added_at": "2021-10-05 20:40:13",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-10-05 20:40:13",
       "album": {
-        "name": "Ixnay On The Hombre",
-        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
-    },
-    {
-      "added_at": "2021-10-05 20:40:13",
-      "album": {
         "name": "Sing The Sorrow",
         "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+    },
+    {
+      "added_at": "2021-10-05 20:40:13",
+      "album": {
+        "name": "Ixnay On The Hombre",
+        "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
       "added_at": "2021-10-05 20:40:13",

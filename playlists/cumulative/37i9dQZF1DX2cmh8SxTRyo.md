@@ -4,7 +4,7 @@
 
 > A gaming playlist for the whole family.
 
-85 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/0UtZrGsgzeG2WCvz7kuWpz)
+86 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/0UtZrGsgzeG2WCvz7kuWpz)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Closer](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Closer](https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE) | 4:04 | 2021-03-04 |  |
 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 | 2021-03-04 |  |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2021-03-04 |  |
+| [Desde El Corazón](https://open.spotify.com/track/4CT0yC1FJnOWmp0lxNgMT2) | [B\. BC Music](https://open.spotify.com/artist/4NlbzjHlSyEbBvYLyjKn3r) | [Desde El Corazón](https://open.spotify.com/album/7EkI7XSphLL1Mt1XAlYc9R) | 2:07 | 2021-03-04 |  |
 | [Desde el Corazón](https://open.spotify.com/track/1R2mapMAUiYqre6jcFX57g) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Más de un Siglo](https://open.spotify.com/album/0kTaCeKofQWaCUnXUPx6eW) | 2:07 | 2021-03-04 | 2022-07-29 |
 | [Don't Let Me Down](https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Let Me Down](https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf) | 3:28 | 2021-03-04 |  |
 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 | 2021-03-04 |  |

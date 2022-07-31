@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,089 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,168 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,26 +57,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 47 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 |
 | 48 | [Let's Go \(feat\. DA:ON, Gunjae & H!\)](https://open.spotify.com/track/6mtNKbzf60GX22QiHfX4cE) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [DA:ON](https://open.spotify.com/artist/6vdOplmzMU7t1fGRRzTZcY), [Gunjae](https://open.spotify.com/artist/4i1Cf2H3jiYAaA8iJznkRt), [H!](https://open.spotify.com/artist/0VwH1YpRJDhqULKTKjPWX0) | [SeoulVibes, GROCERY](https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX) | 2:51 |
 | 49 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
-| 50 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 |
+| 50 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
 | 51 | [With Me](https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [It's Real](https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu) | 3:30 |
-| 52 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 |
+| 52 | [All That Jazz](https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:58 |
 | 53 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 |
-| 54 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
-| 55 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 |
+| 54 | [SMILE](https://open.spotify.com/track/5Wy03J4ACV1DR3L1J7tm51) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [SMILE](https://open.spotify.com/album/3yEWD0rZiVt46ZdmD1kznx) | 3:48 |
+| 55 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
 | 56 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
 | 57 | [Back Home](https://open.spotify.com/track/0bBSTlbrMxVjdJKKqDq7cc) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi) | [Light](https://open.spotify.com/album/5aqbXCdWUdRsKSvbGoZNta) | 3:48 |
 | 58 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 |
 | 59 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 |
 | 60 | [Even Though My Heart Breaks](https://open.spotify.com/track/6oUnqotL3a95tbuMTmafPj) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:23 |
-| 61 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
-| 62 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
-| 63 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 |
-| 64 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
+| 61 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 |
+| 62 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 |
+| 63 | [After The Rain](https://open.spotify.com/track/4ryDa9xL9jajOZ5zbW5wjN) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [Night Mood](https://open.spotify.com/album/2HWU6jTBDcSLU41QhomIMq) | 4:14 |
+| 64 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 |
 | 65 | [Our Cinema \#2 \- Dancing](https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Cinema \#2 \- Dancing](https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC) | 3:30 |
-| 66 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [dyhe](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
+| 66 | [No Worries](https://open.spotify.com/track/0S4wrclgzJLWeCAAPNqxCk) | [Dyhe](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [No Worries](https://open.spotify.com/album/14U4o40m1Rp0Sk9sHd0nkU) | 2:54 |
 | 67 | [Dancing Universe](https://open.spotify.com/track/21GmIfb64BYbDSqCr5jf8K) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [LOVER](https://open.spotify.com/album/5BYA62etDUYPIQZHbKizeu) | 4:25 |
 | 68 | [Wish](https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:59 |
 | 69 | [My Journey](https://open.spotify.com/track/67STgZHPb0ShricGZvb1dg) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [My Journey](https://open.spotify.com/album/2mT65W98g0OtfHnj1OaOtG) | 3:23 |
 | 70 | [Habit](https://open.spotify.com/track/1uSQi3nx2YAA2LfTLMbAZB) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [\[Vol.134\] You Hee yul's Sketchbook With you : 87th Voice 'Sketchbook X CHEEZE'](https://open.spotify.com/album/7AbVFx2oHmJ42ISOfAC3Uw) | 3:32 |
 
-Snapshot ID: `MTY1ODQ4Mjg0MywwMDAwMDAwMDY1Yjk1NTM0YmI5MmM3NmI0YjYxNWIyZDkzNjUyNmFl`
+Snapshot ID: `MTY1ODQ4Mjg0MywwMDAwMDAwMGE1MjIyNzFhN2MyOGUyYTliOWQwOTgyNmExM2I3NDNl`

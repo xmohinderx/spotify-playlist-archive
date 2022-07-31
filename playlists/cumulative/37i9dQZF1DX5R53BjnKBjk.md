@@ -4,7 +4,7 @@
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Ceci Reis\. Arte: Isu Kim
 
-129 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
+130 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/67GFnJVXnyWY0MjhTSXEEJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Eu Voltei](https://open.spotify.com/track/3NLlQqrUUCHkRtqjl5UIly) | [Versa Libertália](https://open.spotify.com/artist/3oyRcui3kEHDq4LNvvR4ht) | [Uma Nova Forma de Enxergar a Vida](https://open.spotify.com/album/0XtsARQNFAuGxChVgyMMgl) | 3:51 | 2022-04-01 |  |
 | [faking it](https://open.spotify.com/track/4Kk5FikZ0xNUhXm3s5MTZH) | [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU) | [faking it](https://open.spotify.com/album/6jrsAhgiUnsXTVxYeHpSLN) | 2:31 | 2022-02-25 |  |
 | [Fire](https://open.spotify.com/track/2H4uSHGHRwmye5AAsycdOv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Fire](https://open.spotify.com/album/4rbFqaLd2gRytJuQU2zVjT) | 2:14 | 2022-02-04 |  |
-| [Florianópolis](https://open.spotify.com/track/4cyzdFwju6h0gXmxSDb2gk) | [Tuany](https://open.spotify.com/artist/2Duysb9mqQW8ds4D0F6Knb) | [Longe Daqui](https://open.spotify.com/album/4TMd5W0fAfdYAwWB4lEHqi) | 4:04 | 2022-01-07 |  |
+| [Florianópolis](https://open.spotify.com/track/4cyzdFwju6h0gXmxSDb2gk) | [Tuany](https://open.spotify.com/artist/2Duysb9mqQW8ds4D0F6Knb) | [Longe Daqui](https://open.spotify.com/album/4TMd5W0fAfdYAwWB4lEHqi) | 4:04 | 2022-01-07 | 2022-07-31 |
 | [Fuga](https://open.spotify.com/track/2fsUMYtYOVfZbTqMw0bpOC) | [Karla](https://open.spotify.com/artist/3aM66YTgWf67QaT8HVg3ck) | [Fuga](https://open.spotify.com/album/5DWzUkiahHCRG1X1GsWNA1) | 3:36 | 2022-01-14 |  |
 | [Fugir da Miragem](https://open.spotify.com/track/1pwYWr1LQ1D3l5Y9Xmgy3I) | [zebidart](https://open.spotify.com/artist/6MXfdmayzycpV03KZAfBBw), [Magno Brito](https://open.spotify.com/artist/6PBnyjnpLiQIhicjCOV8dX), [Raíssa Leal](https://open.spotify.com/artist/72ig3Ygi4pm50DjZXJm0tY) | [Fugir da Miragem](https://open.spotify.com/album/12V2fGjtCL440oPef3NBDv) | 3:26 | 2022-01-07 | 2022-07-23 |
 | [Fundo Azul](https://open.spotify.com/track/6hJ5xJA0c5P6C3wrdeqDvP) | [Guilherme Simon](https://open.spotify.com/artist/3Tp96mCSKhM8Uf6DsDLadW) | [Fundo Azul](https://open.spotify.com/album/4iIlN7xm4zlqxq10wX716A) | 3:05 | 2022-01-07 | 2022-02-19 |
@@ -69,6 +69,7 @@
 | [Menina Erê](https://open.spotify.com/track/2XSwUili6c6hRKkGaq541V) | [Nobat](https://open.spotify.com/artist/1xAXVaLirdVzOJvXamSIMK) | [Menina Erê](https://open.spotify.com/album/2Pl5B2KkwSPn6yyYkFfPaN) | 4:12 | 2022-02-18 | 2022-05-17 |
 | [MENINO](https://open.spotify.com/track/5WYr2jBHdaHYGqiX77CMxM) | [RROCHA](https://open.spotify.com/artist/6Dtjq6vMmraShujDGCgbya), [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q) | [Conterrâneos Estrangeiros](https://open.spotify.com/album/6aXcddKHHP4dcie5R6UPgg) | 3:59 | 2022-01-07 |  |
 | [Mestre Jandaraí](https://open.spotify.com/track/4nO4BI5Z4V38AaLxPSAALf) | [Numa Gama](https://open.spotify.com/artist/3ysogI5DJYxHA5oU5Rjkjh) | [Memórias de Oneyda](https://open.spotify.com/album/3pCYN8unhawhhsRFOVqmiA) | 2:47 | 2022-01-07 | 2022-05-17 |
+| [Meu Foco](https://open.spotify.com/track/7zqP95UI5KJ23hay7tbKLI) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS) | [AUGE](https://open.spotify.com/album/5YCOF4fgoJiuqX4rWapYAJ) | 3:14 | 2022-07-29 |  |
 | [Meu Lado da História](https://open.spotify.com/track/5kFyrAvheuFhikFnt94ZJX) | [Catha](https://open.spotify.com/artist/0ltaoYyGomMweUTHbdyFB6) | [Meu Lado da História](https://open.spotify.com/album/5YH8uZvTacXAtFXCH3RjKM) | 2:25 | 2022-01-28 | 2022-03-26 |
 | [moça, veja bem](https://open.spotify.com/track/114lB3tT536isbSrvU9h94) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/22lanaZBTPz6Ya0rZQZIjZ) | 4:38 | 2022-01-07 | 2022-07-29 |
 | [moça, veja bem](https://open.spotify.com/track/2QeUAohcBgrtawcQSybt8I) | [Lina Tag](https://open.spotify.com/artist/66HUKh6DzYSoenHozBYCZO) | [moça, veja bem](https://open.spotify.com/album/0JvXCZpHR706YVvpafApFh) | 4:38 | 2022-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Women who define the past, present and future of music\. Listen at full volume\. Cover: Baby Queen
 
-337 songs - 19 hr 39 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
+338 songs - 19 hr 42 min - [published](https://open.spotify.com/playlist/3E6O9qsApi3ubzDwdkIdkL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,8 @@
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-04-06 | 2022-05-05 |
 | [Vampires](https://open.spotify.com/track/0btyrnJOCj7mzl3YZxRIbM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Vampires](https://open.spotify.com/album/3L2H74ifH8nL4AlHWb1c4b) | 3:15 | 2021-12-08 | 2022-03-09 |
 | [Vegas](https://open.spotify.com/track/4sjqR16V0sXJ26WlrC2Llk) | [The Let Go](https://open.spotify.com/artist/1AnTOrEmKXxMwrBMEQnq3S) | [Vegas](https://open.spotify.com/album/0c6bbJ2dKB8ojrBjOX4h6e) | 3:20 | 2021-12-08 | 2022-03-09 |
-| [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 | 2022-07-06 |  |
+| [Video Girl](https://open.spotify.com/track/1PJMFgaRz7pW7NuTqks9S2) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 3:18 | 2022-07-06 |  |
+| [Video Girl](https://open.spotify.com/track/4TbpDBsU2xVgKOwVBZF3SL) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3EU7HxpevdtN0NC6LOQE0r) | 3:19 | 2022-07-06 | 2022-07-31 |
 | [Voices](https://open.spotify.com/track/4t77cSxZdEtp6omykJw51C) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Voices](https://open.spotify.com/album/391AEoRTvfolxxXc6TOWYs) | 4:27 | 2021-12-08 | 2022-01-05 |
 | [Wait / Pause \(feat\. Cristale\)](https://open.spotify.com/track/5WdlkirloFeqU1QnFONP9V) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn), [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Wait / Pause \(feat\. Cristale\)](https://open.spotify.com/album/5YrgspXl4uM2WNffOhNESA) | 2:22 | 2022-03-08 | 2022-04-06 |
 | [Wannabe](https://open.spotify.com/track/6tKG1a40gvBQXNpATbqlfN) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Wannabe](https://open.spotify.com/album/69vN2qVlOrzPtvI7lX2mLE) | 3:33 | 2021-12-08 | 2022-03-09 |

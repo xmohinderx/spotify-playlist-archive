@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92LuBHmd192.md) - [plain]
 
 > Riscopri le più grandi hit del 2016! Cover: Justin Bieber
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,685 likes - 122 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 122 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to women from Belgium, at full volume\. Cover: WAYI
 
-182 songs - 9 hr 54 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
+183 songs - 9 hr 58 min - [published](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Gisteren](https://open.spotify.com/track/2PBAAdFjCNNGDXIrBEE799) | [MEDS](https://open.spotify.com/artist/7iZqPUnWpyo0EPjAObpZUj) | [Half Hemel, Half Hel](https://open.spotify.com/album/6Ch54bTgrcLwVgAs07jKVZ) | 3:07 | 2021-12-08 | 2022-02-03 |
 | [HAHA](https://open.spotify.com/track/7k9H3WoUqdFregA6eUMoTf) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl) | [HAHA](https://open.spotify.com/album/7aoLfHa37PKzEZp8niIv6O) | 3:26 | 2021-12-08 | 2022-02-03 |
 | [Half of You](https://open.spotify.com/track/5RZ2MjXgIxWmPVVNtKnw5V) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3) | [Half of You](https://open.spotify.com/album/53k2wf1HX6ivrs0QdNVk9j) | 3:17 | 2022-07-05 |  |
-| [Hate You](https://open.spotify.com/track/5fvorAQup5Z61u1TdZNQff) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/75w9NF1ZtnSE7ChqrdPMk9) | 3:24 | 2022-07-05 |  |
+| [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 | 2022-07-05 |  |
+| [Hate You](https://open.spotify.com/track/5fvorAQup5Z61u1TdZNQff) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/75w9NF1ZtnSE7ChqrdPMk9) | 3:24 | 2022-07-05 | 2022-07-31 |
 | [Hellballad](https://open.spotify.com/track/7rj0cDDr8dyeZVb0R3lsIc) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Hellballad](https://open.spotify.com/album/0aYdX9kUcY4frUo46vXfKr) | 3:37 | 2022-04-05 | 2022-07-06 |
 | [High Low](https://open.spotify.com/track/2m0LAWjoqdPqLAgr2xovFO) | [Marigo Bay](https://open.spotify.com/artist/59E09Es8P8Kj2ANWsqS6h3), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [High Low](https://open.spotify.com/album/0wetGoXsxmiY7Ol11z4aSn) | 3:18 | 2021-12-08 | 2022-03-08 |
 | [Home](https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI) | 3:03 | 2022-03-07 | 2022-06-01 |

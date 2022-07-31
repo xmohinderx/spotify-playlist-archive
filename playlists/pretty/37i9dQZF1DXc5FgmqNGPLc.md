@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Erroll Garner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,899 likes - 82 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,903 likes - 82 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 59 | [Strollin' \- Live](https://open.spotify.com/track/0kJukmNUjDGh1pfTymS1Fz) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [John Horler](https://open.spotify.com/artist/6Ha15AYMJf1Uqs1XW9UZCc), [Jim Richardson](https://open.spotify.com/artist/0QK2QcHnt4N9vdSdzX33om), [Tony Mann](https://open.spotify.com/artist/5qIWMD9r0RT8wanM7Nguty) | [Chet Baker Live in London Volume II](https://open.spotify.com/album/5RLWN5witv7DE0oOhk6yD3) | 10:13 |
 | 60 | [Prayer for Passive Resistance \- Live Version](https://open.spotify.com/track/4OWaNn8uChWyXcw0OXLsy4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus At Antibes](https://open.spotify.com/album/2gMTsMOwF9WHh9jx9vGnPz) | 8:23 |
 | 61 | [The Prophet \- Live](https://open.spotify.com/track/4e9XzXMa094Kw40320Htjw) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Eric Dolphy At The Five Spot \- Vol\. 1](https://open.spotify.com/album/2QmssU0RNrWDa0YIJwDcb7) | 21:25 |
-| 62 | [Mediterranean Sundance / Rio Ancho \- Live at Warfield Theatre, San Francisco, CA \- December 5, 1980](https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Friday Night in San Francisco \(16\-bit, 24/88.2, 24/176.4 ADM, DSD\)](https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT) | 11:31 |
+| 62 | [Mediterranean Sundance / Rio Ancho \- Live at Warfield Theatre, San Francisco, CA \- December 5, 1980](https://open.spotify.com/track/0og2U8tsBAR7NJysRR6uBU) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Friday Night in San Francisco](https://open.spotify.com/album/2zJMxui25tclR2FYj8jDYT) | 11:31 |
 | 63 | [December in New York](https://open.spotify.com/track/3rXiWzhHkG5QPVyDQroix8) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Live at Union Chapel](https://open.spotify.com/album/4o85w82Kto6QbSKHTmBSRN) | 5:16 |
 | 64 | [Mahogany Hall Stomp \- Live At Symphony Hall, Boston, MA/1947](https://open.spotify.com/track/1dmzpoQdOq11XR62yFxs4i) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo At Symphony Hall](https://open.spotify.com/album/3NksAuGTtVtAo1fYFwhO6D) | 3:53 |
 | 65 | [Open Country](https://open.spotify.com/track/6KLjvezsrwtrl2UW4PwflN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 5:46 |

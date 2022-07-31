@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Pau Laggies
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,766 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,824 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 41 | [FWEGO](https://open.spotify.com/track/56k3h7yVCSJgCeqh3f53PZ) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [FWEGO](https://open.spotify.com/album/0YS43LsRpzZsw9Im7BL5nt) | 3:07 |
 | 42 | [FEROZ](https://open.spotify.com/track/404rDc5fmLVJkI7S5bbMdw) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [FEROZ](https://open.spotify.com/album/0BzXQTDJfQqy7Q0mjj0ecV) | 2:55 |
 | 43 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
-| 44 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
-| 45 | [Celular](https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Celular](https://open.spotify.com/album/596veIoeFm89apz1MbGoNE) | 2:46 |
+| 44 | [Celular](https://open.spotify.com/track/52SOOJbQK43ThZpzJPkjbQ) | [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Celular](https://open.spotify.com/album/596veIoeFm89apz1MbGoNE) | 2:46 |
+| 45 | [Apodos](https://open.spotify.com/track/6j3eHgouvrPZsc195RkHGd) | [Aloisio](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [Apodos](https://open.spotify.com/album/1QUaGILRvCs7Iqo8h9ysBP) | 2:39 |
 
-Snapshot ID: `MTY1OTAyMjUzMiwwMDAwMDAwMGMwNGE2ZDI3OTYwMWU1ZTZjNTg0YjA1YjYyNjgxMGNj`
+Snapshot ID: `MTY1OTAyMjUzMiwwMDAwMDAwMDc3MDFmMTVmODAwZTE0YzU3YTMzY2UzNjA1NmE3MzVi`

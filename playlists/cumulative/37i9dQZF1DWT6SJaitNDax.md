@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\.  Cover: <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=BTR6ApmMTNm\_3xNhhimsFw">Tems</a>
 
-316 songs - 17 hr 8 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
+317 songs - 17 hr 10 min - [published](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [E Be Mad](https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 2:54 | 2021-09-10 | 2022-07-29 |
 | [ELI](https://open.spotify.com/track/264tFYse4A4qbgmaur6Pxd) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [ELI](https://open.spotify.com/album/75qC7RhHJoEvbBrGKHobb9) | 2:52 | 2021-09-10 | 2022-07-27 |
 | [End Of The Wicked \(feat\. Octavian\)](https://open.spotify.com/track/44wbg5P53VGNBCtg9nxYtm) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Octavian](https://open.spotify.com/artist/5zfEatKLDdRkgbw6sdLBAQ) | [End Of The Wicked \(feat\. Octavian\)](https://open.spotify.com/album/2vmesnUCYuJIc4ROqDN8vJ) | 3:06 | 2022-03-25 | 2022-06-30 |
+| [ENERGY](https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 1:56 | 2022-07-29 |  |
 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 | 2021-09-10 |  |
 | [Englishman / African in New York \(with Shirazee\)](https://open.spotify.com/track/5KJMmTsCWVHRsuvCvn5WEr) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shirazee](https://open.spotify.com/artist/3yZDwFnQlK2pgG8hu5knnu) | [Englishman / African in New York \(with Shirazee\)](https://open.spotify.com/album/0uTaOqtY70GUseoOCds5kD) | 3:13 | 2022-03-25 | 2022-04-21 |
 | [Enjoyment](https://open.spotify.com/track/0C1wC8uhOzENMF59dxYmnK) | [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Enjoyment](https://open.spotify.com/album/5OCy2YLDVn8yNVwxVVW7E1) | 3:06 | 2021-09-10 | 2022-07-13 |
@@ -242,7 +243,7 @@
 | [Repeat \(feat\. Koffee\)](https://open.spotify.com/track/4kW3JNDqbqntaASB9lbhXV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Big Conspiracy](https://open.spotify.com/album/4aveS935cOYHDIGnb2RT5M) | 2:33 | 2021-09-10 | 2022-06-14 |
 | [Repeat \(feat\. Koffee\)](https://open.spotify.com/track/6Yblv6BbZHIkyrpYl4E0Zk) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 2:33 | 2022-07-25 |  |
 | [REQUIRE \(with Olamide\)](https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [REQUIRE \(with Olamide\)](https://open.spotify.com/album/1Sdrty8ZkaNRbZqjhrHKYt) | 3:43 | 2021-09-10 | 2022-07-29 |
-| [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 | 2021-09-10 |  |
+| [Risky](https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Risky](https://open.spotify.com/album/5xqH5tZFoMLLJL8NbmTFBu) | 4:30 | 2021-09-10 | 2022-07-31 |
 | [Roadblock](https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Roadblock](https://open.spotify.com/album/5Iqujhk1y4Q4KoQILNzvgS) | 3:53 | 2022-05-06 |  |
 | [Roll It](https://open.spotify.com/track/0L8HgGwvChw7Ftmn9AXhWd) | [Richie Benson](https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Roll It](https://open.spotify.com/album/5jtqQMGNyrbDCcH2HgmpH8) | 3:22 | 2021-09-10 | 2022-06-02 |
 | [Rollin'](https://open.spotify.com/track/6CqXPacVmbCC4JeKBX3Yzb) | [Trifecta](https://open.spotify.com/artist/4eU1y1C4Jxr7eFA56Aivwf), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Rollin'](https://open.spotify.com/album/6Qz5tfMQildFmdwjBT9YEA) | 3:23 | 2022-03-25 | 2022-04-20 |

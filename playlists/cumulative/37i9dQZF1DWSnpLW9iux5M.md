@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-99 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/0vVrKPue9z9QkuqZM5OJDu)
+100 songs - 6 hr 54 min - [published](https://open.spotify.com/playlist/0vVrKPue9z9QkuqZM5OJDu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [O Come O Come Emmanuel](https://open.spotify.com/track/2rMq0mJtZhgXwwn46qFGLK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 3:06 | 2021-12-24 |  |
 | [O Holy Night](https://open.spotify.com/track/6w8pIZZHREBSk1qpHuA7cB) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 5:18 | 2021-12-24 |  |
 | [O Holy Night \(feat\. Melvin Crispell III & Mav City Gospel Choir\)](https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 6:19 | 2021-12-24 |  |
-| [O Holy Night \- Amapiano](https://open.spotify.com/track/3QI8wVjDKqVMJAc5jDfHei) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/7IWxsAiyW3GnBaM2gWW81T) | 6:09 | 2021-12-24 |  |
+| [O Holy Night \- Amapiano](https://open.spotify.com/track/2nygE7wq6PU04FZB0x9OGb) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/1DOZF7MPZV7oIHfRKfOVwi) | 6:09 | 2021-12-24 |  |
+| [O Holy Night \- Amapiano](https://open.spotify.com/track/3QI8wVjDKqVMJAc5jDfHei) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [P\-Tempo](https://open.spotify.com/artist/6XZsA5edNiT1XXJ36ANxd7) | [O Holy Night \(Amapiano\)](https://open.spotify.com/album/7IWxsAiyW3GnBaM2gWW81T) | 6:09 | 2021-12-24 | 2022-07-31 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/68edTo4Prl09iToMTtqanW) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Silent Night: Songs For Christmas](https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp) | 3:54 | 2021-12-24 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 | 2021-12-24 |  |
 | [O What A Night \(with Vision\)](https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Rejoice](https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97) | 5:40 | 2021-12-24 | 2022-07-29 |

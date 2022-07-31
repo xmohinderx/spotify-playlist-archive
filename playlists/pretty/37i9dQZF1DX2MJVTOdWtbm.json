@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
-  "num_followers": 98981,
+  "num_followers": 99015,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMGQ4MDBhM2MyNmIxZDgzOGNlOGNjYWJiY2FlZDEyZTFj",
+  "snapshot_id": "MTY1ODg1NDY5MCwwMDAwMDAwMDllYWI1Y2JlY2ViMzM1YjUwOGMzNGI3NDVkYmVlM2M0",
   "tracks": [
     {
       "added_at": "2022-07-26 16:58:10",
@@ -311,6 +311,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Limo",
+        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Limo",
+      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Galerna",
         "url": "https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 188901,
       "name": "Galerna",
       "url": "https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "Limo",
-        "url": "https://open.spotify.com/album/7EnuItH74MB3aNwab4WTni"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Limo",
-      "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
-      },
-      "artists": [
-        {
-          "name": "Kimberley Tell",
-          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR"
       },
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
+      },
+      "artists": [
+        {
+          "name": "Kimberley Tell",
+          "url": "https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Potion",
         "url": "https://open.spotify.com/album/4oq3z64mnf0l3GHLJHsvFk"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 175542,
       "name": "Potion",
       "url": "https://open.spotify.com/track/3agEscWdLfv8XEttP6OZMP"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/0USMnz3z3Mwgw8VonkL9x5"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 223847,
-      "name": "Sola - Remix",
-      "url": "https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -579,6 +559,26 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/0USMnz3z3Mwgw8VonkL9x5"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 223847,
+      "name": "Sola - Remix",
+      "url": "https://open.spotify.com/track/0RaHJJEltK9qqXPVuxhrwq"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Metadona",
-        "url": "https://open.spotify.com/album/5GXTM6c57KdkBZR6Jt85IO"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
       "artists": [
         {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
         }
       ],
-      "duration_ms": 213934,
-      "name": "Sin M\u00ed",
-      "url": "https://open.spotify.com/track/5aFg2kDnb52QyvoMD35c2o"
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+        "name": "Metadona",
+        "url": "https://open.spotify.com/album/5GXTM6c57KdkBZR6Jt85IO"
       },
       "artists": [
         {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
         }
       ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+      "duration_ms": 213934,
+      "name": "Sin M\u00ed",
+      "url": "https://open.spotify.com/track/5aFg2kDnb52QyvoMD35c2o"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Ninf\u00f3manos",
-        "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
-      },
-      "artists": [
-        {
-          "name": "Moffa",
-          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Ninf\u00f3manos",
-      "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Ninf\u00f3manos",
+        "url": "https://open.spotify.com/album/5KAXW9PX9uqiepPG9wCtac"
+      },
+      "artists": [
+        {
+          "name": "Moffa",
+          "url": "https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Ninf\u00f3manos",
+      "url": "https://open.spotify.com/track/7dsCME5KU7kN9Cwo3CO3wA"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Tu Boca",
-        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
-      },
-      "artists": [
-        {
-          "name": "HAL\u00c9",
-          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
-        }
-      ],
-      "duration_ms": 182281,
-      "name": "Tu Boca",
-      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Direction",
         "url": "https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 225454,
       "name": "Direction",
       "url": "https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Tu Boca",
+        "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
+      },
+      "artists": [
+        {
+          "name": "HAL\u00c9",
+          "url": "https://open.spotify.com/artist/0wWRmiISCSkPHDqQFIXBii"
+        }
+      ],
+      "duration_ms": 182281,
+      "name": "Tu Boca",
+      "url": "https://open.spotify.com/track/3uIfaA9Xe5yHXt5sIxVYsh"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
+        "name": "Deli\u0107",
+        "url": "https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 273023,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
         "name": "Lo Que Muere No Acaba",
         "url": "https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 212000,
       "name": "En un Rinconcito",
       "url": "https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
-        "name": "Deli\u0107",
-        "url": "https://open.spotify.com/album/0iUdBhoYOF9yCCTlxt0Rnx"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 273023,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/7Dcx1HLlsCTUlsJSlZDwid"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Beso Picor",
-        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
-      },
-      "artists": [
-        {
-          "name": "Itzel Noyz",
-          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Beso Picor",
-      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Consentida (Kat Dahlia Duet)",
         "url": "https://open.spotify.com/album/4KgFDZMY6jSFHZVDEq7CTf"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
+        "name": "Beso Picor",
+        "url": "https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR"
       },
       "artists": [
         {
-          "name": "Fer Altuzar",
-          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+          "name": "Itzel Noyz",
+          "url": "https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Sobrenatural",
-      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
+      "duration_ms": 226500,
+      "name": "Beso Picor",
+      "url": "https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1291,6 +1275,22 @@
       "duration_ms": 196499,
       "name": "Desilusion\u00e1ndome",
       "url": "https://open.spotify.com/track/2R8w2f2gBJPCI6zYXNYLYz"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/3h8wbkxQjCDliRvRbWGPFs"
+      },
+      "artists": [
+        {
+          "name": "Fer Altuzar",
+          "url": "https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Sobrenatural",
+      "url": "https://open.spotify.com/track/66La9NfMHL7hh34uj9iVeS"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "sed de ti",
-        "url": "https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3"
-      },
-      "artists": [
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "sed de ti",
-      "url": "https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Lluvia de Verano",
         "url": "https://open.spotify.com/album/0XmxvGBUc7KYEuhXBmv83R"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 157380,
       "name": "Lluvia de Verano",
       "url": "https://open.spotify.com/track/2mQMfGmg6hiCYKyhUVj2t0"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "sed de ti",
+        "url": "https://open.spotify.com/album/2LkgT4vephhVSHnoAu5wr3"
+      },
+      "artists": [
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "sed de ti",
+      "url": "https://open.spotify.com/track/05cjfY52W42O47Y1kljg2c"
     },
     {
       "added_at": "2022-07-26 16:58:10",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-07-26 16:58:10",
       "album": {
-        "name": "Mi Cama",
-        "url": "https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT"
-      },
-      "artists": [
-        {
-          "name": "Iza",
-          "url": "https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Mi Cama",
-      "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
-    },
-    {
-      "added_at": "2022-07-26 16:58:10",
-      "album": {
         "name": "Ojos Tristes (feat. Karin B.)",
         "url": "https://open.spotify.com/album/2pyPc0slNJ0OLxrN3owx9E"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 218218,
       "name": "Ojos Tristes (feat. Karin B.)",
       "url": "https://open.spotify.com/track/4LyInTQ5BgnQuDud2JAUdf"
+    },
+    {
+      "added_at": "2022-07-26 16:58:10",
+      "album": {
+        "name": "Mi Cama",
+        "url": "https://open.spotify.com/album/4GqnDhhhYDasj34XJMIHrT"
+      },
+      "artists": [
+        {
+          "name": "Iza",
+          "url": "https://open.spotify.com/artist/6UEg14BmF105iMIZcz9Bw7"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Mi Cama",
+      "url": "https://open.spotify.com/track/3aCuRkhwq3gTII6b3WWESK"
     }
   ],
   "unique_name": "Latin R&B",

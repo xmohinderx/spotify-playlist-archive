@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo & Takeoff, Rod Wave, and Gucci Mane\. Cover: NAV
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,792 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,926 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |
 | 22 | [Tony Montana Flow](https://open.spotify.com/track/53PRah50n7xf7mJlzAmaDH) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Akachi](https://open.spotify.com/artist/0qm8T0Qee8ZITAOwUTfXgJ) | [Tony Montana Flow](https://open.spotify.com/album/4PoNcoh9yRZ6FSyCQSDSEp) | 2:22 |
 | 23 | [Red Flag](https://open.spotify.com/track/1zTsj09nN6RamZRO8W8Ssb) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin Vol\. 2](https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu) | 1:58 |
-| 24 | [Tell Me Bout It](https://open.spotify.com/track/075xUauQM35Gy05rKlcR4t) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/41xZE41ET9KyHg6sVT849o) | 2:55 |
+| 24 | [Tell Me Bout It](https://open.spotify.com/track/6xPoAC5B0aYJnmvVKm0L9P) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Tell Me Bout It](https://open.spotify.com/album/7MtKcyfzFBWMHqlWDm4Q2W) | 2:56 |
 | 25 | [If These Walls Could Talk](https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:02 |
 | 26 | [Patience \(feat\. Lil Baby\)](https://open.spotify.com/track/7ci1R1e89Zw0HumjHSN5XF) | [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [From Trap To Rap 2](https://open.spotify.com/album/1tgH9psuYmcbLZPMX6yFAO) | 2:41 |
 | 27 | [Holy Spirit](https://open.spotify.com/track/6UmbEhrCtEHtUGcIBYoegg) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Holy Spirit](https://open.spotify.com/album/6OpBXPTvTiBwyaS9C4Z50d) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [John Madden](https://open.spotify.com/track/11KwAIwVAJBBu11EZSs4bx) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Rage](https://open.spotify.com/album/6GSQB5UGNrBtsbebop239n) | 2:27 |
 | 49 | [Lost Me](https://open.spotify.com/track/1gKDstFnwZNgvrE01YG7AA) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [Lost Me](https://open.spotify.com/album/0jXMtfh2sdBtRZ1Fu3UJwY) | 2:35 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDk4ODc3ZWNmY2YyYjVjNWVmZDc4MjExMWM4ZDY0MGM3`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGZhYjMxODVlZDI3ZTYyNTA2N2JlZTVmZThiYTI4NGMy`

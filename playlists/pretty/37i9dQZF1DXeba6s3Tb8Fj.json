@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 3656,
+  "num_followers": 3674,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGY2YjI5NTMxODY3MmRmNjJkYTFhZTNjNzZlZDI5MDEz",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDZjMDUzYzJjNDU0NDk0Y2FjNDcxMzNiMjMwODc1ZDM5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Samba",
         "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 338292,
       "name": "Bonheur",
       "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 230666,
       "name": "Ana's Song (Open Fire) - Acoustic Re-Mix",
       "url": "https://open.spotify.com/track/4FM8TeKWsro8yjzbpDwocN"
@@ -1187,6 +1187,24 @@
       "duration_ms": 230200,
       "name": "If I Lose Myself - Acoustic",
       "url": "https://open.spotify.com/track/5QPg2mhf4lXe53bj4hhuO7"
+    },
+    {
+      "album": {
+        "name": "In Bloom: Versions",
+        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212534,
+      "name": "In Bloom (Acoustic)",
+      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "album": {

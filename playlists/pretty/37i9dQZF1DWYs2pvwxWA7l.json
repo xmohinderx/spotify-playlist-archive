@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=gewfR37ORauKspbe5byFCA\"> Sha Sha </a>  and <a href=\"https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE?si=DxxB0XwMTe2e3eXbzo1Fgw\"> Ami Faku </a> ",
-  "num_followers": 340932,
+  "num_followers": 341258,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA4MTA0NCwwMDAwMDAwMDkyNGNkM2Y0YjhhMTZlNWM5MzJmNThhMDU3MWU1OTRi",
+  "snapshot_id": "MTY1OTA4MTA0NCwwMDAwMDAwMDZlNzE2ZGFiZGE2ZTYxZjE2MDg1NTM3ZjI2NTNiNWIw",
   "tracks": [
     {
       "added_at": "2022-06-08 08:17:45",
@@ -465,6 +465,22 @@
       "url": "https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "Bounce",
@@ -483,22 +499,6 @@
       "duration_ms": 201247,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 168742,
       "name": "woman",
       "url": "https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -731,6 +731,30 @@
       "duration_ms": 174117,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -829,24 +853,24 @@
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
-      "added_at": "2022-06-08 08:17:45",
+      "added_at": "2022-07-21 23:00:00",
       "album": {
-        "name": "Water & Garri",
-        "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
+        "name": "5 Star",
+        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 218130,
-      "name": "Somebody\u2019s Son (Ft Brandy)",
-      "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
+      "duration_ms": 177067,
+      "name": "10 Toes (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -887,22 +911,42 @@
     {
       "added_at": "2022-07-21 23:00:00",
       "album": {
-        "name": "5 Star",
-        "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
+        "name": "Kenkele",
+        "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
       },
       "artists": [
         {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 177067,
-      "name": "10 Toes (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+      "duration_ms": 213600,
+      "name": "Kenkele",
+      "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
+    },
+    {
+      "added_at": "2022-06-08 08:17:45",
+      "album": {
+        "name": "Water & Garri",
+        "url": "https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Somebody\u2019s Son (Ft Brandy)",
+      "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -939,26 +983,6 @@
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2022-07-21 23:00:00",
-      "album": {
-        "name": "Kenkele",
-        "url": "https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Kenkele",
-      "url": "https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1079,22 +1103,6 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/00ZYd7GYdFrNZFQP5O5T5m"
-    },
-    {
-      "added_at": "2022-06-08 08:17:45",
-      "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 151014,
-      "name": "Something sweet",
-      "url": "https://open.spotify.com/track/3oYQD6byDpOCx4hQzcY7GL"
     }
   ],
   "unique_name": "Afropop",

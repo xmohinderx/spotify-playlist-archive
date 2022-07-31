@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 180947,
+  "num_followers": 181000,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMDA4YTMyOWRjNGRkYzA2YjExMGYzYTUxN2NjNGIxM2I5",
+  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMGMxNTdlOTQ2YTA3MDIwMTg3MDE0MWYzNmE2ODdmNzll",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 211000,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Ooo Baby Baby",
+      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/3FAdNzCY6H7I8V8TrNwFoI"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 281200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Ooo Baby Baby",
-      "url": "https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 226493,
       "name": "Too Hot - Single Version",
       "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Do Me Baby",
         "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 317400,
       "name": "Do Me Baby",
       "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Hurry Up This Way Again",
-        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Hurry Up This Way Again",
-      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
         "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 221426,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Hurry Up This Way Again",
+        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Hurry Up This Way Again",
+      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 333133,
+      "name": "New York State Of Mind",
+      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Very Best of Otis Redding",
         "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
       },
@@ -1815,18 +1831,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 333133,
-      "name": "New York State Of Mind",
-      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+      "duration_ms": 206053,
+      "name": "When She Was My Girl",
+      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1847,22 +1863,6 @@
       "duration_ms": 395493,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "When She Was My Girl",
-      "url": "https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 254960,
       "name": "A Change Is Gonna Come - Mono; 2008 Remaster",
       "url": "https://open.spotify.com/track/2IkM8zrt6Y1F344CNfaDA0"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Gold - '80s Soul",
         "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Smooth Soul",
         "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Come Share My Love",
-        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
-      },
-      "artists": [
-        {
-          "name": "Miki Howard",
-          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
-        }
-      ],
-      "duration_ms": 290533,
-      "name": "Come Share My Love",
-      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Come Share My Love",
+        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
+      },
+      "artists": [
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        }
+      ],
+      "duration_ms": 290533,
+      "name": "Come Share My Love",
+      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/2bHCdSDRwnlUNPq4fT2CC1"
+      },
+      "artists": [
+        {
+          "name": "Frank Jade",
+          "url": "https://open.spotify.com/artist/1iQF0ZU8ldhYP98YwcRHhb"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Young Free and Single",
+      "url": "https://open.spotify.com/track/2f28m5YwEAh9aHOG14ajDD"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -2427,22 +2443,6 @@
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/2bHCdSDRwnlUNPq4fT2CC1"
-      },
-      "artists": [
-        {
-          "name": "Frank Jade",
-          "url": "https://open.spotify.com/artist/1iQF0ZU8ldhYP98YwcRHhb"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Young Free and Single",
-      "url": "https://open.spotify.com/track/2f28m5YwEAh9aHOG14ajDD"
     },
     {
       "added_at": "2022-05-11 12:25:18",

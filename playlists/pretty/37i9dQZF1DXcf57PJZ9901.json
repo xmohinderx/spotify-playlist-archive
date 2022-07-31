@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 2010s.",
-  "num_followers": 56769,
+  "num_followers": 56874,
   "original_name": "10s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMGI4ZTA5Y2ZjYTIwMGQ3OGNjNGYzOWNlODNjOWY0ZTZj",
+  "snapshot_id": "MTY1NDE3NzIzOCwwMDAwMDAwMGEzMzVmOWJlYWI4MTg0YWFiZTZhNjkxNGE3YjUzNjk0",
   "tracks": [
     {
       "added_at": "2020-12-08 17:53:04",
@@ -931,22 +931,6 @@
     {
       "added_at": "2020-12-08 17:53:04",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Move Together",
-      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
-    },
-    {
-      "added_at": "2020-12-08 17:53:04",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 241400,
       "name": "Landlady",
       "url": "https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO"
+    },
+    {
+      "added_at": "2020-12-08 17:53:04",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Move Together",
+      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
     },
     {
       "added_at": "2020-12-08 17:53:04",

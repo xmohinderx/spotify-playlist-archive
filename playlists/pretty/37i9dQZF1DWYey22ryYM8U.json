@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Prince Royce, Nicky Jam & Jay Wheeler",
-  "num_followers": 523760,
+  "num_followers": 523872,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMDk1YTMzNDRiYTM4Y2Q2MWM3NmY0ZjEzMjRiOGQ4ZTU1",
+  "snapshot_id": "MTY1ODIxODIxOCwwMDAwMDAwMDc1ZTEyMDc0MzU3YjI2ODUwYTQ1ZGQ2NGZiZDNjZWVi",
   "tracks": [
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Si Tu Te Atreves",
+        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 226821,
+      "name": "Si Tu Te Atreves",
+      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Tuki Tuki",
         "url": "https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 192452,
       "name": "Tuki Tuki",
       "url": "https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Si Tu Te Atreves",
-        "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 226821,
-      "name": "Si Tu Te Atreves",
-      "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        },
-        {
-          "name": "Tony Succar",
-          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
-      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 260431,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/77zrNNK2FcNwjtGXOsH4R2"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
+        "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/3BuFuLP7IIPlu5GqORitBQ"
+      },
+      "artists": [
+        {
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
+        },
+        {
+          "name": "Tony Succar",
+          "url": "https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "\u00bf Y Ahora Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3jOpw80FiCU3N49m1CV2zL"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
+        "name": "Matilde Lina",
+        "url": "https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 230279,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn"
+    },
+    {
+      "added_at": "2022-07-19 08:10:18",
+      "album": {
         "name": "Multitudes",
         "url": "https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 262933,
       "name": "Tiburona",
       "url": "https://open.spotify.com/track/35QguPAF5pYFlS2I66C7m0"
-    },
-    {
-      "added_at": "2022-07-19 08:10:18",
-      "album": {
-        "name": "Matilde Lina",
-        "url": "https://open.spotify.com/album/1uHVJ9nYkGjoVNrSAeVV7C"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 230279,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/3np5gFTTf2SYxfW5zf0lQn"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Ziriguidum",
-        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
+        "name": "Si Fuera M\u00eda",
+        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
       },
       "artists": [
         {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
         }
       ],
-      "duration_ms": 201250,
-      "name": "Ziriguidum",
-      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
+      "duration_ms": 203135,
+      "name": "Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
     },
     {
       "added_at": "2022-07-19 08:10:18",
@@ -2039,18 +2039,18 @@
     {
       "added_at": "2022-07-19 08:10:18",
       "album": {
-        "name": "Si Fuera M\u00eda",
-        "url": "https://open.spotify.com/album/2JdSZ73pd1XebSWbzaLqw7"
+        "name": "Ziriguidum",
+        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
       },
       "artists": [
         {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
         }
       ],
-      "duration_ms": 203135,
-      "name": "Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/5IdGYOdbqCALcfeNz06Y7k"
+      "duration_ms": 201250,
+      "name": "Ziriguidum",
+      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
     },
     {
       "added_at": "2022-07-19 08:10:18",

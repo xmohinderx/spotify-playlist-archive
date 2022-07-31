@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 23434,
+  "num_followers": 23459,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTkyMCwwMDAwMDAwMDdhODViZjRmNTU4ZmM1NTkxNTlmMTRhM2JkYTViOWQ1",
+  "snapshot_id": "MTY1OTEwNTkyMCwwMDAwMDAwMGZjZTg4OGUyNDE4NDhhN2JlNTZiMGZjNDgzNDhkZTcy",
   "tracks": [
     {
       "added_at": "2022-07-29 14:45:20",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "My People Have Deep Roots",
-        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
-      },
-      "artists": [
-        {
-          "name": "Arushi Jain",
-          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "My People Have Deep Roots",
-      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
-    },
-    {
-      "added_at": "2022-07-29 14:45:20",
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231624,
       "name": "Pale Interior",
       "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2022-07-29 14:45:20",
+      "album": {
+        "name": "My People Have Deep Roots",
+        "url": "https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "My People Have Deep Roots",
+      "url": "https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+        "name": "The Man Who Died in His Boat",
+        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
       },
       "artists": [
         {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+      "duration_ms": 285866,
+      "name": "Being Her Shadow",
+      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
-        "name": "The Man Who Died in His Boat",
-        "url": "https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e"
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 285866,
-      "name": "Being Her Shadow",
-      "url": "https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh"
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2022-07-29 14:45:20",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-07-29 14:45:20",
       "album": {
+        "name": "Hill, Flower, Fog",
+        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        }
+      ],
+      "duration_ms": 347680,
+      "name": "Moon View",
+      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
+    },
+    {
+      "added_at": "2022-07-29 14:45:20",
+      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 239232,
       "name": "You Make It Look so Easy - Reverbed by Malibu",
       "url": "https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a"
-    },
-    {
-      "added_at": "2022-07-29 14:45:20",
-      "album": {
-        "name": "Hill, Flower, Fog",
-        "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
-      },
-      "artists": [
-        {
-          "name": "Emily A. Sprague",
-          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
-        }
-      ],
-      "duration_ms": 347680,
-      "name": "Moon View",
-      "url": "https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8"
     },
     {
       "added_at": "2022-07-29 14:45:20",

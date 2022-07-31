@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phương Ly
 
-93 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+94 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Em Day Chang Phai Thuy Kieu](https://open.spotify.com/track/031jyNUkkD02vrkgZDGJxu) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoang](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:34 | 2021-12-31 |  |
 | [Em Hát Ai Nghe](https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Em Hát Ai Nghe](https://open.spotify.com/album/484MnMltSafY73ocrCoKgv) | 4:39 | 2021-12-07 |  |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-12-07 |  |
-| [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/2WEGXC92GQ1w6gMC4n6i6I) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3Q5X1Ye28iIRVKATFQrFpS) | 3:48 | 2022-07-24 |  |
+| [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 | 2022-07-24 |  |
+| [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/2WEGXC92GQ1w6gMC4n6i6I) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3Q5X1Ye28iIRVKATFQrFpS) | 3:48 | 2022-07-24 | 2022-07-31 |
 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/6jS9KdVErfIauI0XXX64sw) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3MN286Nzodk9pQecwhTIwZ) | 3:48 | 2021-12-07 | 2022-07-29 |
 | [Em Đã Biết](https://open.spotify.com/track/74dZm72WtQx122nyIFhJAB) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Em Đã Biết](https://open.spotify.com/album/5JJ6XjiB1dqJHorDCqqIz5) | 4:21 | 2021-12-07 |  |
 | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Người cũ](https://open.spotify.com/artist/17tMDCxssUUhEVWExf8y8N) | [Em Đã Có Người Mới \(feat\. Người cũ\)](https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729) | 3:20 | 2022-01-04 |  |

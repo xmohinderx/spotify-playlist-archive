@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,148 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,152 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 36 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 37 | [Every Little Thing](https://open.spotify.com/track/3skkHSk5KA7akip3Ey6Xjx) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [III](https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C) | 3:22 |
 | 38 | [i don't know if we can be friends](https://open.spotify.com/track/5ldNf0PbjXkxadKws2Rgkt) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [bye, sad girl.](https://open.spotify.com/album/2Lr9QDoRTlW8CKp4q3A6JJ) | 3:01 |
-| 39 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
-| 40 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
+| 39 | [neverfade](https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [neverfade](https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7) | 2:59 |
+| 40 | [Just Want You](https://open.spotify.com/track/0jm6UoOxeX1rtYKLrG7pnj) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:32 |
 | 41 | [One More Day](https://open.spotify.com/track/6Iu1RH6TuDAnxXDsJ6UbxV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [One More Day](https://open.spotify.com/album/7ozw8j9l3KhVi4wnP6wwar) | 3:14 |
 | 42 | [Never Gonna Let Me Go](https://open.spotify.com/track/79AIg6qrqHw6XN3PUj9ctE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:02 |
 | 43 | [He Still Does \(Miracles\)](https://open.spotify.com/track/6TcXTbYh4mHq994p3oOibU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Miracles](https://open.spotify.com/album/7BLdYEQPbahBMFF2E4ZUgU) | 3:34 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 86 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
 | 87 | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/track/3Mqp9pFEaLqMdR3zouGWOJ) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Kinn](https://open.spotify.com/artist/09qJ9dcanr8ZWQpnWdkViV) | [Do or Die \(feat\. Kinn\)](https://open.spotify.com/album/0QDZHhQvQ9JmvPPm2vampA) | 3:54 |
 | 88 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
-| 89 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
-| 90 | [¡hola!](https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [¡hola!](https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe) | 3:15 |
+| 89 | [¡hola!](https://open.spotify.com/track/6vM0MZDQ3cjd5oR9IGNdIm) | [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [¡hola!](https://open.spotify.com/album/0sUWrDj3EHzCQtXJF9rFTe) | 3:15 |
+| 90 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
 | 91 | [Let It Be Love](https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Let It Be Love](https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t) | 2:57 |
 | 92 | [Whatever It Takes](https://open.spotify.com/track/7dZSnaAGuBSgi69OWCTQcL) | [Manwell](https://open.spotify.com/artist/3HWMxHfbtrP3H39BnsquW8), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Whatever It Takes](https://open.spotify.com/album/6zSIkly50OdBZGydPYA9JR) | 3:29 |
 | 93 | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/track/7I88hIH03Z3px9khXQZDob) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [City Lights \(feat\. Mitch Wong\)](https://open.spotify.com/album/1L1lD9JwiIAK06qIG6DSI9) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 99 | [Can't Help Myself](https://open.spotify.com/track/0ul6k0oWpARwwd5WU1M7J5) | [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b), [The Boys & Girls Club of the Gulf Coast](https://open.spotify.com/artist/3D60aniZnT8Bcdq7RYzGps) | [Can't Help Myself](https://open.spotify.com/album/3ZB5Pd99GsNFKGuGjsl3kq) | 1:50 |
 | 100 | [No Other Love](https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff) | [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [Fearless](https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY) | 3:27 |
 
-Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMDgzMjJkNGE3NmI0MzMxNDQ0ZDQ3ODE4NTJmNDRhZWRk`
+Snapshot ID: `MTU5NzMyOTU0MCwwMDAwMDAwMDRiMmNmOGI0NmRkMDAwMzJkNzBlZjBkZGQwZTI3ZDk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,264 likes - 110 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,297 likes - 110 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 36 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
 | 37 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 38 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
-| 39 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
-| 40 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 39 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
+| 40 | [The Upswing](https://open.spotify.com/track/2W0bzuej3umee9qrmJ9oYL) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/3yXgDtquomtcp1AnU41fLs) | 4:59 |
 | 41 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 42 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 43 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 67 | [Boy 1904](https://open.spotify.com/track/3oww3hQ0kv9b2QjEkvyer0) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Riceboy Sleeps](https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf) | 5:03 |
 | 68 | [Fire\-scene](https://open.spotify.com/track/3gMm2hNU0B9vMiJJGSMWfk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Range of Light](https://open.spotify.com/album/1vZXJuVIRT18sZjea6ME2H) | 4:35 |
 | 69 | [Made of Gold](https://open.spotify.com/track/2HdZcT7RL1cgVz5sbvmyQ5) | [Albert af Ekenstam](https://open.spotify.com/artist/4c6Qf7d1Zjv5ChEK9TTztG) | [Ashes](https://open.spotify.com/album/16NqLbiucfHH7W7yzDUNSA) | 3:49 |
-| 70 | [Slack Jaw \- Echo Mountain Sessions](https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 3:30 |
-| 71 | [We Will Run](https://open.spotify.com/track/1hQlbRsNxOtave3WLskh61) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/7KQFTx2G2w7IeH9eoZyzwV) | 3:43 |
+| 70 | [We Will Run](https://open.spotify.com/track/1hQlbRsNxOtave3WLskh61) | [Jens Kuross](https://open.spotify.com/artist/0tkBS89wZe0goJeNXZMCK6) | [We Will Run](https://open.spotify.com/album/7KQFTx2G2w7IeH9eoZyzwV) | 3:43 |
+| 71 | [Slack Jaw \- Echo Mountain Sessions](https://open.spotify.com/track/2tgzwqArTmTiVD76fbHlWs) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 3:30 |
 | 72 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
 | 73 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
 | 74 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 |
@@ -95,16 +95,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 85 | [Better Man](https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Better Man](https://open.spotify.com/album/16Qyxh5RzD90SCLNazBqQr) | 4:55 |
 | 86 | [The Magic Place](https://open.spotify.com/track/2DDEwBhKW7yvQJedcb9CT7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Magic Place](https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7) | 3:51 |
 | 87 | [Bones](https://open.spotify.com/track/0C9X3O7dYZ36kTtyF4RDQi) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófríõur Ákadóttir](https://open.spotify.com/artist/2gNKNQJFNtwUAi7IH4HA2V) | [Bones](https://open.spotify.com/album/76PbBNOBUO3BcyTx3ltuUR) | 2:49 |
-| 88 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 |
-| 89 | [Cold Wave](https://open.spotify.com/track/4HVdVA4dUhUgPBa9hj8JZY) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Another Picture](https://open.spotify.com/album/5tsP7DKJAWQCjKbrp00Wzx) | 4:28 |
+| 88 | [Cold Wave](https://open.spotify.com/track/4HVdVA4dUhUgPBa9hj8JZY) | [Dear Criminals](https://open.spotify.com/artist/0RRHsaFaNgJg9vHSWsQ4kg) | [Another Picture](https://open.spotify.com/album/5tsP7DKJAWQCjKbrp00Wzx) | 4:28 |
+| 89 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 |
 | 90 | [Half\-Light \(feat\. Kelly Zutrau\) \- Instupendo Remix](https://open.spotify.com/track/47Muud0OYLe0a5B2LiE6nR) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Kelly Zutrau](https://open.spotify.com/artist/2gaJCrcUIWj6bQyiszAAdY), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Half\-Light Remixes: EP1](https://open.spotify.com/album/66VEN2zYHfOvggPZPZlyUB) | 3:34 |
-| 91 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
-| 92 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
+| 91 | [Baiulus](https://open.spotify.com/track/4WrMtEJz0usjxG5ZbHe8HW) | [The Black Atlantic](https://open.spotify.com/artist/33kge1mmCkHoYWJ4kJe6BC) | [Reverence for Fallen Trees](https://open.spotify.com/album/5oWfY3VNTnAJzSauzsn2Qh) | 1:36 |
+| 92 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
 | 93 | [Flume](https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 3:42 |
 | 94 | [Low Roar](https://open.spotify.com/track/1PmzEt6a77dRdFtjLD2ZrW) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 2:15 |
 | 95 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 |
-| 96 | [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Dntel](https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS) | [Glen Rose Formation](https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d) | 4:01 |
-| 97 | [Juniper](https://open.spotify.com/track/2hydT7CjDeOfmzEQMwVKxo) | [Nearly Oratorio](https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi) | [A Comforting Fact](https://open.spotify.com/album/4wP6C0ZAL1TiMFPrUVxEI3) | 4:19 |
+| 96 | [Juniper](https://open.spotify.com/track/2hydT7CjDeOfmzEQMwVKxo) | [Nearly Oratorio](https://open.spotify.com/artist/30daoc0SCzQpNd6ZWjaoZi) | [A Comforting Fact](https://open.spotify.com/album/4wP6C0ZAL1TiMFPrUVxEI3) | 4:19 |
+| 97 | [Formation 1, Revisited \- Dntel Remix](https://open.spotify.com/track/0HsWlDCHz8UPj3Ksyw3gn8) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Dntel](https://open.spotify.com/artist/1jf3CssdtSksxNa3uIpPzS) | [Glen Rose Formation](https://open.spotify.com/album/2d2xXCrfPXaZcl5lxnGv9d) | 4:01 |
 | 98 | [Comply](https://open.spotify.com/track/5wJVRxZ0PozaBePGEEYylP) | [Llynks](https://open.spotify.com/artist/6hZmTXUiBvYnUAEKtWUom8) | [Comply](https://open.spotify.com/album/0VcMzAIpzRzAbWeEMwQB8I) | 3:26 |
 | 99 | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/track/2hu4tx7VeoED1HN6Lo2ods) | [Jaws of Love.](https://open.spotify.com/artist/165BHXMlW522HMz0sLhGtq) | [Giving Up Is Not The Easiest Way Out](https://open.spotify.com/album/7CvKDSfsSZvV3LvvRnlSLK) | 4:06 |
 | 100 | [Bird](https://open.spotify.com/track/1wvEfwDjSc7iZAqCqKKhz2) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird Songs of a Killjoy](https://open.spotify.com/album/1bCtRHoZQt4SUzaMbXUU2d) | 5:17 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [First Weeks](https://open.spotify.com/track/5B4chrLWhupcxEqOQu0aqg) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 6:24 |
 | 110 | [My Dove, My Lamb](https://open.spotify.com/track/2XhWwcxr9BJCZsCqVyeswH) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 9:25 |
 
-Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMGEzNTQ2M2FiOGIyMDkxMDBmYjExNjg1OTJlZGU5NDBi`
+Snapshot ID: `MTYwMjc5Mzk0MiwwMDAwMDAwMDFlMzY1YzE1OGNhMTY2MTE0MGRlMzA3ZGM4N2I5ODNl`

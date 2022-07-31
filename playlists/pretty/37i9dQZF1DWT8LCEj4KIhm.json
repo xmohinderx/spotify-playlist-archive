@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDE0YmM2NzNlODM3NDJkYmVkYWU1NjliYjM1N2E3NTQy",
+  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDBiNjliOWExYzVmYzg4OTVhZmMyNmQ5ZjI5YWQwNTRj",
   "tracks": [
     {
       "added_at": "2021-10-08 04:01:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Nights Like This",
-        "url": "https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 197082,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/2ndjPY1ikcXxg9ZueXkq2e"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 192296,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/4sjs502JILjXEv7Xtf1h5q"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/6bz7aXy1ov5S4Hz46mnjBk"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "duration_ms": 197082,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/6n0rhPWs1KpjnFg3WQRNZn"
     },
     {
       "added_at": "2021-10-08 04:01:00",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Le tournant (Deluxe)",
-        "url": "https://open.spotify.com/album/3aTjsAPRs4s8KShwk8wIDW"
+        "name": "Premi\u00e8re ministre",
+        "url": "https://open.spotify.com/album/12ROayPFNHCQowWjJvdr6Q"
       },
       "artists": [
         {
-          "name": "Amay Laoni",
-          "url": "https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp"
-        },
-        {
-          "name": "Marie-Mai",
-          "url": "https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa"
+          "name": "Laurence Nerbonne",
+          "url": "https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ"
         }
       ],
-      "duration_ms": 218616,
-      "name": "Sous les rivi\u00e8res",
-      "url": "https://open.spotify.com/track/3tQUAxWJ1OQVg6E5QmU2W4"
+      "duration_ms": 165386,
+      "name": "Premi\u00e8re ministre",
+      "url": "https://open.spotify.com/track/25eiHmARIEqh9yaUQthf0s"
     }
   ],
   "unique_name": "Donne-to\u00e9",

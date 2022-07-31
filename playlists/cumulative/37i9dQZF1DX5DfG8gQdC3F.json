@@ -27216,24 +27216,6 @@
     },
     {
       "album": {
-        "name": "shrines X",
-        "url": "https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "date_added": "2022-07-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190918,
-      "name": "inovein",
-      "url": "https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk"
-    },
-    {
-      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9"
       },
@@ -35621,10 +35603,28 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 174122,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd"
+    },
+    {
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174122,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq"
     },
     {
       "album": {
@@ -60265,6 +60265,24 @@
       "duration_ms": 168768,
       "name": "Wurk",
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
+    },
+    {
+      "album": {
+        "name": "shrines X",
+        "url": "https://open.spotify.com/album/34qsY2V9hsXviGPlq5tvco"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190918,
+      "name": "x inovein",
+      "url": "https://open.spotify.com/track/2TH2IpzwN3Pc4kSgscpXWk"
     },
     {
       "album": {

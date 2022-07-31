@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 367304,
       "name": "22.8.15",
       "url": "https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo"
@@ -479,6 +479,24 @@
       "duration_ms": 196266,
       "name": "Bend",
       "url": "https://open.spotify.com/track/2mAMLOH99UI4Rb34GouT5y"
+    },
+    {
+      "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/3nZGMUJSx5uA8BdaVA3Nl7"
     },
     {
       "album": {
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 234835,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 257500,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX"

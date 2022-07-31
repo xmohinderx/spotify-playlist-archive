@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata\. Cover: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,815,573 likes - 130 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,815,781 likes - 130 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 88 | [No Es una Novela](https://open.spotify.com/track/6PqaUk1aS7KXHXBr8iELKb) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 3:40 |
 | 89 | [Cuando Se Acaba el Placer](https://open.spotify.com/track/4PcyHWQiux9kwZ43cUJA9W) | [Ephrem J](https://open.spotify.com/artist/4TtPGFl8psQJgMDEcI5oWZ) | [Cuando Se Acaba el Placer](https://open.spotify.com/album/1LUcYZ8M4G8mYtvxQIg5wd) | 4:03 |
 | 90 | [La Misma Mentira](https://open.spotify.com/track/6wwRmRSc9OP9RdovSj7CZi) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [This Is My Time](https://open.spotify.com/album/0n71AqZVvgoRuxW1pSSTsA) | 3:48 |
-| 91 | [Cuentale](https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Cuentale](https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM) | 3:40 |
+| 91 | [Lloro](https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [It's Vicky](https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6) | 3:48 |
 | 92 | [Besos a Escondidas](https://open.spotify.com/track/2Xhlix5Adgb9GOavFElFcq) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Besos a Escondidas](https://open.spotify.com/album/346eT9YtGMHvvv2yTM6YqB) | 4:03 |
-| 93 | [Lloro](https://open.spotify.com/track/2sTX3hC5bHV9SGPbkobO77) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [It's Vicky](https://open.spotify.com/album/4pHze5AUg6FcPewqsXAEs6) | 3:48 |
-| 94 | [Pa Que Tu Me Llamas](https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Pa Que Tu Me Llamas](https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3) | 3:55 |
-| 95 | [Perdidos \- Bachata](https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hasta El Fin](https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02) | 4:27 |
+| 93 | [Cuentale](https://open.spotify.com/track/6DPdMLNGI66ALjWGhYgfRs) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Manny Manz](https://open.spotify.com/artist/6IWrWGkjGZAy2uquDetqdY) | [Cuentale](https://open.spotify.com/album/0jEBcvahgdKM8FVzRZhiXM) | 3:40 |
+| 94 | [Perdidos \- Bachata](https://open.spotify.com/track/44ayrb3kbN6jwX9WWdoTcV) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hasta El Fin](https://open.spotify.com/album/4iHyju83xno9hKLGfdPs02) | 4:27 |
+| 95 | [Pa Que Tu Me Llamas](https://open.spotify.com/track/0927bjIAHt0dnGFI48sRyn) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Pa Que Tu Me Llamas](https://open.spotify.com/album/68BpJtPQwgegYqEp57knQ3) | 3:55 |
 | 96 | [Saborearte de Nuevo](https://open.spotify.com/track/5NvuNnG0LOe7VXjdoX5ZXl) | [Bori](https://open.spotify.com/artist/2Oe9eh730bCc6KpqVo4ugt) | [Saborearte de Nuevo](https://open.spotify.com/album/7mUe69AI4KYHKg7elasxYd) | 3:36 |
 | 97 | [Siempre](https://open.spotify.com/track/3QIJyPebjIAKfmLcZxf4t2) | [Urbano Prodigy](https://open.spotify.com/artist/29fI2Jf2U5PjWxjimztdMt) | [Siempre](https://open.spotify.com/album/5CSN9MnCDb6upSxFVlQTHU) | 3:50 |
 | 98 | [Brindemos por Ellas](https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Ronny Mercedes](https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2) | [Brindemos por Ellas](https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2) | 3:39 |
-| 99 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 |
-| 100 | [Bailemos Despacio](https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Bailemos Despacio](https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje) | 3:08 |
+| 99 | [Bailemos Despacio](https://open.spotify.com/track/4fkOo3hEaC0VRu86zgFZRW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Bailemos Despacio](https://open.spotify.com/album/0vmyINKhEFQmuqUiyNkMje) | 3:08 |
+| 100 | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/track/6JD9rQMWvkYCTOCjt8w0oz) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [No Te Dejo De Pensar \(feat\. 24 Horas\)](https://open.spotify.com/album/6E0w7lk0RQrHtUGX2uOgA8) | 3:43 |
 | 101 | [Te Lo Pido por Favor](https://open.spotify.com/track/64VA99RfGvRGN2WqNbOZCa) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Lo Pido por Favor](https://open.spotify.com/album/1xFDS9mqpiXVyhs9u4C7vu) | 2:50 |
 | 102 | [Volvieron a Darme las 6](https://open.spotify.com/track/6XBhB6lKrqeAnKn4CB0sVz) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 4:10 |
 | 103 | [Traiganme Alcohol](https://open.spotify.com/track/483stYH6hNRad4b5qeyI9K) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Pa' Que Te Duela](https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7) | 3:54 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 119 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 |
 | 120 | [El Guión](https://open.spotify.com/track/50BYSpPCSxT9Uy5ZjarBMt) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [My Destiny](https://open.spotify.com/album/2DjM5pDh6eQxjHOKRSg29X) | 3:29 |
 | 121 | [Como Lo Niego](https://open.spotify.com/track/7BqMg9Xg1dTOwboB2uGJ2k) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 3:44 |
-| 122 | [Rompe Corazones](https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Rompe Corazones](https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0) | 3:44 |
-| 123 | [Si Supieras](https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Reina de Corazones](https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR) | 3:56 |
+| 122 | [Si Supieras](https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Reina de Corazones](https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR) | 3:56 |
+| 123 | [Rompe Corazones](https://open.spotify.com/track/273PhAJBPwivxS10XzU8NA) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Rompe Corazones](https://open.spotify.com/album/2u5LpbdpT26zsaKYBfsxT0) | 3:44 |
 | 124 | [Yo Tengo Un Angel](https://open.spotify.com/track/2Wp00eqjQ0Z9IlE26Ls5yG) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo Tengo Un Angel](https://open.spotify.com/album/6J7lnjPKdPcZXvsw6dZWSu) | 4:03 |
 | 125 | [Batalla Perdida](https://open.spotify.com/track/1Nk2GBBfdskHJgEgATcHkz) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 |
 | 126 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/5SYyFYbEVvwgKUEkAFXcQB) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Se Me Olvidó Otra Vez](https://open.spotify.com/album/0cMIPSoZNwGg0lsIEcXLxH) | 3:19 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 129 | [Era Mentira](https://open.spotify.com/track/205UQMjPr9vVthUghoqynT) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Era Mentira](https://open.spotify.com/album/0Jq5HRj6AT5UgwDioSOG4Z) | 4:10 |
 | 130 | [Mi Santa \(feat\. Tomatito\)](https://open.spotify.com/track/4EbAftNM732UGLF8gmIIsX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Tomatito](https://open.spotify.com/artist/3wxFXeuHQEq4NubZunCIMe) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:51 |
 
-Snapshot ID: `MTY1ODIxNzU0NCwwMDAwMDAwMDdlMjI4YTI5NjliMDBlZTM3ZjdiNWFhYTQyMWExMTMz`
+Snapshot ID: `MTY1ODIxNzU0NCwwMDAwMDAwMDIxMGZiOTc5NjM5OTFkNTlkODMxNGRhMDZiYTMyNDRj`

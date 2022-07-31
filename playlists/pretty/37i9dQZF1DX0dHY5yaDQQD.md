@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dHY5yaDQQD.md) - [plain]
 
 > TECHNO / GABBER / RAVE / APOCALYPSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,593 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,608 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

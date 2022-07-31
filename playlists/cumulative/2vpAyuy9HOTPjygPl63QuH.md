@@ -4,7 +4,7 @@
 
 > The freshest tech house, bass house and four on the floor records, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-304 songs - 17 hr 26 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+306 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Furious!](https://open.spotify.com/track/1h7ZTFVfo67wpcoWchqvZv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Hooders](https://open.spotify.com/artist/0dSLFM6XsMwI9U64CyxFVS) | [Furious!](https://open.spotify.com/album/7aQPZJolEV6D1oikzZyW49) | 3:18 | 2022-05-21 | 2022-06-04 |
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-06-17 | 2022-06-25 |
 | [Get Down](https://open.spotify.com/track/228gxHWEjaZGS9OXOeINmr) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Get Down](https://open.spotify.com/album/2QJXVB6YAdrQxz4nsOol67) | 2:49 | 2022-06-24 | 2022-07-02 |
+| [Get Down](https://open.spotify.com/track/3DbGq0D8wNmJiVCX9cAGJ9) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Sly Phil](https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48) | [Discothèque Records](https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK) | 3:10 | 2022-07-30 |  |
 | [Getaway](https://open.spotify.com/track/3mREWT3SWgL5eNevye37bG) | [Poolhaus](https://open.spotify.com/artist/1tD9iofjoSqExWwVRhBKGH), [SELCO \(BE\)](https://open.spotify.com/artist/0GXQS4aBpAGNNvbGM9qSFt) | [Getaway](https://open.spotify.com/album/7zhqid6qc4aXhwxUpBDQqQ) | 3:50 | 2022-07-15 | 2022-07-30 |
 | [Goin](https://open.spotify.com/track/0aTEPIRV4B5iOrylV8FFcH) | [ToMix](https://open.spotify.com/artist/2huaButoWP7CiTeaYzKgIR) | [Goin](https://open.spotify.com/album/4AOSGqUXGexegI7tjWymO5) | 2:45 | 2022-06-03 | 2022-06-11 |
 | [Going Places](https://open.spotify.com/track/6xp2qxepIZRsBzMrLLpy9K) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2), [IDA fLO](https://open.spotify.com/artist/1lnuLr8sTuDB4ghdZZ4uHV) | [Going Places](https://open.spotify.com/album/5henp4Gbh2RjENoRVRiLxs) | 3:50 | 2022-06-03 | 2022-06-11 |
@@ -138,6 +139,7 @@
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-13 | 2022-05-30 |
 | [In My Head](https://open.spotify.com/track/2U7ePu00JjIu04rLM0EZFn) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [In My Head](https://open.spotify.com/album/3P9NfGR1yGOkPdAU1ZJRRs) | 4:30 | 2022-05-29 | 2022-06-04 |
 | [Inner City](https://open.spotify.com/track/0h1icpllBUxPsbx434kbBh) | [HODA](https://open.spotify.com/artist/6947jU93LuBHWx7OLAh9gx), [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1) | [Inner City](https://open.spotify.com/album/4o2xDsgNS5RoEd0nQXgkjn) | 3:31 | 2022-07-15 | 2022-07-30 |
+| [Insane](https://open.spotify.com/track/2kPLoPQ6FjRHfCrAaAWpOu) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Discothèque Records](https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK) | 3:37 | 2022-07-30 |  |
 | [Intro To The Anthem](https://open.spotify.com/track/7zEOLbjfVd6jvEK7roRBvn) | [Ben Miller \(Aus\)](https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J) | [Intro To The Anthem](https://open.spotify.com/album/35nX4nWahP8YjnuxHfJ2Ow) | 3:29 | 2022-06-03 | 2022-06-11 |
 | [Jumpman](https://open.spotify.com/track/3sWJfExp0jAqvOlfoAfpFA) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [It's Ecstasy EP](https://open.spotify.com/album/0iY9cBd95XTzOSxuUykGsZ) | 3:18 | 2022-06-11 | 2022-06-18 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-29 |  |

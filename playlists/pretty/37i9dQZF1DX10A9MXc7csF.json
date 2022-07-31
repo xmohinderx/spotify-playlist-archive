@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: El Proyecto",
-  "num_followers": 93117,
+  "num_followers": 93133,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMDA2NGI2MmFkYjgyM2Q3MDMyMjk2ZDdlYWVjMzM1NmUw",
+  "snapshot_id": "MTY1ODQ2MjQwMCwwMDAwMDAwMDZjYjBlYWYxYTgwODE3MmZmMzhjYmQ4ZGNjOGJjNTIw",
   "tracks": [
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Si Me Ven Tomar",
-        "url": "https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "Si Me Ven Tomar",
-      "url": "https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Las Guerras de Califas",
         "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 215402,
       "name": "Las Guerras de Califas",
       "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Si Me Ven Tomar",
+        "url": "https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "Si Me Ven Tomar",
+      "url": "https://open.spotify.com/track/4YtK6d4nvS7Z40Z12dYqZu"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "Tu Coraz\u00f3n A Mi Me Falta",
-        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 155326,
-      "name": "Tu Coraz\u00f3n A Mi Me Falta",
-      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Pasajes Negros",
         "url": "https://open.spotify.com/album/4trLYsGUm6UmLuhdlMAC7A"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 140839,
       "name": "Mis Travesuras",
       "url": "https://open.spotify.com/track/19gfnvZCia2fknfk9utMgB"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "Tu Coraz\u00f3n A Mi Me Falta",
+        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 155326,
+      "name": "Tu Coraz\u00f3n A Mi Me Falta",
+      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 166512,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
         "name": "Temporadas Emocionales",
         "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 187430,
       "name": "Gabriel Ornelas",
       "url": "https://open.spotify.com/track/0PTsO5t4kFPX8M7Qf6iO2y"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/133UPGEfQOugLFIIurBTTy"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 166512,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6E2UlKRAx8hj0tSHpUGGEX"
     },
     {
       "added_at": "2022-07-22 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-07-22 04:00:00",
       "album": {
-        "name": "En Vivo Desde La Angelina",
-        "url": "https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF"
-      },
-      "artists": [
-        {
-          "name": "Uriel Gaxiola",
-          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
-        }
-      ],
-      "duration_ms": 163343,
-      "name": "Una Rosa y Un Beso - En Vivo",
-      "url": "https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi"
-    },
-    {
-      "added_at": "2022-07-22 04:00:00",
-      "album": {
         "name": "Enfocado",
         "url": "https://open.spotify.com/album/2V3kJFrjyFBF9ihFxE4IyY"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 152914,
       "name": "Enfocado",
       "url": "https://open.spotify.com/track/1UiJpPR0eiUDVuqVorR92j"
+    },
+    {
+      "added_at": "2022-07-22 04:00:00",
+      "album": {
+        "name": "En Vivo Desde La Angelina",
+        "url": "https://open.spotify.com/album/61N8v3Zws2PXt6bZT5lYlF"
+      },
+      "artists": [
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        }
+      ],
+      "duration_ms": 163343,
+      "name": "Una Rosa y Un Beso - En Vivo",
+      "url": "https://open.spotify.com/track/4xb2NaEONZraXK4LCnDdmi"
     },
     {
       "added_at": "2022-07-22 04:00:00",

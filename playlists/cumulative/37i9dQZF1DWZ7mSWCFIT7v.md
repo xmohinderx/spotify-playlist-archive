@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-253 songs - 20 hr 45 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+254 songs - 20 hr 50 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Climbing Up](https://open.spotify.com/track/5ohckOzltNPpAnD0NRZvI0) | [Cool Maritime](https://open.spotify.com/artist/1B5MGDIt38Z6cUdghq8SaV) | [Climbing Up](https://open.spotify.com/album/3XTJoBHsc1J6kgVM294lgW) | 4:19 | 2021-10-06 | 2022-07-17 |
 | [Cloud Cover \- Andrew Weatherall Remix](https://open.spotify.com/track/5MUjW4dKNA5EHnFZ0vQDxH) | [Glok](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq), [Andrew Weatherall](https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn) | [The Citadel EP](https://open.spotify.com/album/0aWvSmTezkoPwXmCp9uctn) | 6:27 | 2021-10-06 | 2022-07-29 |
 | [Cold Water \- Kaitlyn Aurelia Smith Remix](https://open.spotify.com/track/2hfvLyKQrHVceDuUXUSknG) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS), [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Cold Water \(Kaitlyn Aurelia Smith Remix\)](https://open.spotify.com/album/3VR6QgtemW3FBIpqFzQDoI) | 3:30 | 2021-10-06 | 2022-07-26 |
-| [Conga Album](https://open.spotify.com/track/0jKm3XkCLqhgdIqQO1HG3P) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Conga Album](https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX) | 4:10 | 2021-10-06 |  |
+| [Conga Album](https://open.spotify.com/track/0jKm3XkCLqhgdIqQO1HG3P) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Conga Album](https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX) | 4:10 | 2021-10-06 | 2022-07-31 |
 | [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2022-07-29 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 |  |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 |  |
@@ -181,6 +181,7 @@
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 | 2022-07-29 |
 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 | 2022-07-20 |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2022-07-29 |
+| [Roaming](https://open.spotify.com/track/7t4uL4L6vYw2IpT8FGRodQ) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/585bbNLL4KitR1jNWXvRxL) | 4:50 | 2021-10-06 |  |
 | [Roses](https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 1:48 | 2021-10-06 |  |
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-10-06 | 2022-07-28 |
 | [Rotterdambi](https://open.spotify.com/track/7amYhgypF2tsCax09u80oF) | [Dubokaj](https://open.spotify.com/artist/4LpipxyhaUntlQyGXKmsQL) | [Daydreamflix](https://open.spotify.com/album/0lTJ1VWKgf6fhDiHvoQ7fq) | 2:17 | 2022-03-30 | 2022-07-27 |

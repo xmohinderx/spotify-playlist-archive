@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Phương Ly
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,346 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 4 | [Missing You](https://open.spotify.com/track/1AAGvzJRWMTKx7PNfeTvP4) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [Missing You](https://open.spotify.com/album/1b60c7XKSLPW7s1f0CBWqF) | 4:02 |
 | 5 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 |
 | 6 | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh \(feat\. Touliver\)](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 |
-| 7 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/2WEGXC92GQ1w6gMC4n6i6I) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/3Q5X1Ye28iIRVKATFQrFpS) | 3:48 |
+| 7 | [Em Mới Là Người Yêu Anh](https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Em Mới Là Người Yêu Anh](https://open.spotify.com/album/2hHic1AMDTtCmK072fentL) | 3:48 |
 | 8 | [Em Đã Biết](https://open.spotify.com/track/74dZm72WtQx122nyIFhJAB) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Em Đã Biết](https://open.spotify.com/album/5JJ6XjiB1dqJHorDCqqIz5) | 4:21 |
 | 9 | [Sunday Love](https://open.spotify.com/track/6bJyBH7HDV4wVW2EMkAFCO) | [Hoàng Rob](https://open.spotify.com/artist/43qZrcVKZleWlmoBVRBPO8), [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9), [SlimV](https://open.spotify.com/artist/2m8Bk9or6quybzoQbM0zQt) | [Sunday Love](https://open.spotify.com/album/7pl5E0rNJ79gO1lgLTSet8) | 4:00 |
 | 10 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp) | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/album/2oi3L0ZJrhi4n1SNlZeJjX) | 4:27 |
 | 50 | [Siren](https://open.spotify.com/track/1c0LbgYt51JeBUMAzofjkq) | [TGSN](https://open.spotify.com/artist/2OkxNsNz7QXCBwlME0fSsk), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [RZ Mas](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [Siren](https://open.spotify.com/album/0Cb2HIaYbo2in1yXeDoxv0) | 2:37 |
 
-Snapshot ID: `MTY1ODY2ODY5NiwwMDAwMDAwMDhlMWExZjE2ZWM0NzA0ZTIxMTgzZTlmYjM0NWI4NzY5`
+Snapshot ID: `MTY1ODY2ODY5NiwwMDAwMDAwMDNjZDhhMTkzNGI5YzUwZGNhY2Q3YTMxMGQzMTUxMzY2`

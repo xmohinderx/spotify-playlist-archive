@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292400,
+      "name": "4 Seasons Of Loneliness",
+      "url": "https://open.spotify.com/track/027tq4cWr0kRxLTfdxvM1L"
+    },
+    {
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -723,7 +741,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-07-31",
       "duration_ms": 179373,
       "name": "Old Memories (Originals)",
       "url": "https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVJTis2pglk.md) - [plain]
 
 > Riscopri le più grandi hit del 2008! Cover: Giusy Ferreri
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,062 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,064 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

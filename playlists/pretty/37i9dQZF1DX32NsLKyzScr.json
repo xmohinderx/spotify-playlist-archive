@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2170150,
+  "num_followers": 2170845,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDlhYWMwN2ZkOGVkY2ZmNmIzMmFiZjg2MTc4NTgzZTMz",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDk0NDQwMzFmM2VjOWYxM2Q3OTU4M2YyZjA2ODJiNzZk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Young Right Now",
-        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 186140,
-      "name": "Young Right Now",
-      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Young Right Now",
+        "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 186140,
+      "name": "Young Right Now",
+      "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 190217,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "The Drum",
         "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 188731,
       "name": "Run",
       "url": "https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 190217,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Walkerverse, Pt. I",
-        "url": "https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 191098,
-      "name": "Somebody Like U",
-      "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Walkerverse, Pt. I",
+        "url": "https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 191098,
+      "name": "Somebody Like U",
+      "url": "https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Off The Ground",
+        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 242750,
+      "name": "Off The Ground",
+      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "My Feelings For You (Don Diablo Remix)",
         "url": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 205714,
       "name": "My Feelings For You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7brRnnzMQtAPybNOwbmRms"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Off The Ground",
-        "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 242750,
-      "name": "Off The Ground",
-      "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Who Do You Love",
-        "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        },
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 169523,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Who Do You Love",
+        "url": "https://open.spotify.com/album/1r4sDUkdHzyP6li28uad6c"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
+        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
+      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/0vo1z2pTCnhlzrXgEmNlXw"
       },
@@ -1743,26 +1763,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "B.O.T.A. (Baddest Of Them All) / Move To The",
-        "url": "https://open.spotify.com/album/3XMyH5bRALw62b6z6ufASR"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "B.O.T.A. (Baddest Of Them All) - Edit",
-      "url": "https://open.spotify.com/track/7M1125M74qeHedad25bx4U"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Chromatic",
         "url": "https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA"
       },
@@ -1775,6 +1775,38 @@
       "duration_ms": 202524,
       "name": "Chromatic",
       "url": "https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Life Like This",
+        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 187214,
+      "name": "Life Like This",
+      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1803,22 +1835,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Life Like This",
-        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 187214,
-      "name": "Life Like This",
-      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Till The End (Jonas Blue & Sam Feldt Present Endless Summer)",
         "url": "https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 188571,
       "name": "Till The End - Jonas Blue & Sam Feldt Present Endless Summer",
       "url": "https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1991,18 +1991,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Drag Me Out",
-        "url": "https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs"
+        "name": "Won't Forget You (Remixes)",
+        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
       },
       "artists": [
         {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
         }
       ],
-      "duration_ms": 139615,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
+      "duration_ms": 184888,
+      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
+      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2031,22 +2035,18 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Won't Forget You (Remixes)",
-        "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
+        "name": "Drag Me Out",
+        "url": "https://open.spotify.com/album/2ulgg6hyu3NPgjpURpNYfs"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
         }
       ],
-      "duration_ms": 184888,
-      "name": "Won't Forget You (Felix Jaehn Remix Edit)",
-      "url": "https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK"
+      "duration_ms": 139615,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/2SDG2dYcoW5ksPGsiFGt7V"
     },
     {
       "added_at": "2022-07-29 04:01:00",

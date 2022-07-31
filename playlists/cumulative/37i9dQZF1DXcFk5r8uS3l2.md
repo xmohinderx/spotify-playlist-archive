@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Cedric Burnside
 
-187 songs - 11 hr 58 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
+188 songs - 12 hr 1 min - [published](https://open.spotify.com/playlist/3G1eoqHvHRUa7LJeikn6w5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 | 2022-06-24 |
 | [I Ran Down Every Dream](https://open.spotify.com/track/43UMMNyNRnDao4nqqXz5SL) | [Tommy McLain](https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [I Ran Down Every Dream](https://open.spotify.com/album/62sA97QyEIuDWovqknXQ8J) | 3:22 | 2022-04-22 | 2022-07-29 |
-| [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 |  |
+| [I Walk On Guilded Splinters](https://open.spotify.com/track/0un5nhtFkx4GF6QMjuQQ0f) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [I Walk On Guilded Splinters](https://open.spotify.com/album/0iS2DhekYLvmmY2eylbJgc) | 4:53 | 2022-05-06 | 2022-07-31 |
 | [I'll Come Running Back To You](https://open.spotify.com/track/4rDmjHyy754Js2SaojUVjZ) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [I'll Come Running Back To You](https://open.spotify.com/album/5FwYTrkDxnTwmKIZ54CGzh) | 4:11 | 2022-03-11 | 2022-06-12 |
 | [Ice Cream & Cigarettes](https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [Ice Cream & Cigarettes](https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM) | 2:52 | 2021-12-17 |  |
 | [If These Walls Could Talk](https://open.spotify.com/track/4yYzxF8zUXEG5bsnebYxXe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/0JP5Rmp9tMhI1M6wa44XRU) | 3:24 | 2022-04-22 | 2022-05-07 |
@@ -162,6 +162,7 @@
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-01-28 |  |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-12-17 | 2022-07-29 |
 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 | 2021-12-17 | 2022-07-29 |
+| [Sure Don't Miss You](https://open.spotify.com/track/0lEWIegMNMQ7W1ooB1zWT2) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 2:54 | 2022-05-27 |  |
 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [Take Me Down](https://open.spotify.com/track/5NFV5HquTXQXR3q384YMhc) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Take Me Down](https://open.spotify.com/album/6aNOScaYORjI8CSliGxUql) | 4:47 | 2021-12-17 | 2022-01-29 |
 | [Take Me In](https://open.spotify.com/track/4AAFd6yIz0UwjxKsmStjrR) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Take Me In](https://open.spotify.com/album/1rIO1N6XbLqEbh5hgUgf8Z) | 3:47 | 2021-12-17 | 2022-06-11 |

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Dayglow",
-  "num_followers": 1704827,
+  "num_followers": 1704974,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwNzQwMCwwMDAwMDAwMDc2NGM2ZDlkZDhiNWEzZTZjMDYyNDI3MmFlNDY4MmU2",
+  "snapshot_id": "MTY1ODUwNzQwMCwwMDAwMDAwMDBjNGY4NjQyZGFkODgwYzQ3Y2M1ZDFiNTBkODY4MzMy",
   "tracks": [
     {
       "added_at": "2022-06-17 08:01:00",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
     },
     {
-      "added_at": "2022-06-17 08:01:00",
+      "added_at": "2022-06-24 04:00:00",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW"
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "Neptune",
+          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
         }
       ],
-      "duration_ms": 176480,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
+      "duration_ms": 166588,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -571,6 +571,22 @@
       "duration_ms": 249494,
       "name": "Block me out",
       "url": "https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/4gV9MDYWSaZV9OYL8l1vqW"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4aHrviUXxabPdIgWxdYQLt"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -603,22 +619,6 @@
       "duration_ms": 199512,
       "name": "avalanche",
       "url": "https://open.spotify.com/track/1RlmAzI27AlIpvoRN3u6Iy"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/5GIgKmHgOWhwRXsRUPoiqV"
-      },
-      "artists": [
-        {
-          "name": "Neptune",
-          "url": "https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N"
-        }
-      ],
-      "duration_ms": 166588,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/0VlNBqGgNFR8Kp022pyp2f"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
+      },
+      "artists": [
+        {
+          "name": "Michele Leigh",
+          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
         "name": "Line Without a Hook (feat. mxmtoon)",
         "url": "https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk"
-      },
-      "artists": [
-        {
-          "name": "Michele Leigh",
-          "url": "https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN"
     },
     {
       "added_at": "2022-07-01 04:00:00",
@@ -961,26 +961,6 @@
       "url": "https://open.spotify.com/track/7xXUNbWepi09rzwW1Il61B"
     },
     {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
-        "name": "hate to be lame",
-        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 156798,
-      "name": "hate to be lame (feat. FINNEAS)",
-      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
-    },
-    {
       "added_at": "2022-07-01 04:00:00",
       "album": {
         "name": "slow down",
@@ -1003,6 +983,26 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
+        "name": "hate to be lame",
+        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 156798,
+      "name": "hate to be lame (feat. FINNEAS)",
+      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
         "name": "Anything But Me",
         "url": "https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1039,26 +1059,6 @@
       "duration_ms": 158240,
       "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
-        "name": "Hope You're Not Happy",
-        "url": "https://open.spotify.com/album/2ZFpCXmoAfNySog0Tin8Sb"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 164403,
-      "name": "Hope You're Not Happy",
-      "url": "https://open.spotify.com/track/6hPY9GJkHWjeIyGWGV9dyN"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+        "name": "Hope You're Not Happy",
+        "url": "https://open.spotify.com/album/2ZFpCXmoAfNySog0Tin8Sb"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+      "duration_ms": 164403,
+      "name": "Hope You're Not Happy",
+      "url": "https://open.spotify.com/track/6hPY9GJkHWjeIyGWGV9dyN"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
+        "name": "MESS U MADE",
+        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "MESS U MADE",
+      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
         "name": "Hannah Montana",
         "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
       },
@@ -1517,20 +1517,20 @@
       "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
     },
     {
-      "added_at": "2022-06-24 04:00:00",
+      "added_at": "2022-07-22 16:30:00",
       "album": {
-        "name": "True Romance",
-        "url": "https://open.spotify.com/album/2oUN5vlr2v62mQ4lJTLJdT"
+        "name": "Probabilities",
+        "url": "https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ"
       },
       "artists": [
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 182722,
-      "name": "True Romance",
-      "url": "https://open.spotify.com/track/5HtApUGrSqWVbGHeQNHzET"
+      "duration_ms": 148905,
+      "name": "Probabilities",
+      "url": "https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
     },
     {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "True Romance",
+        "url": "https://open.spotify.com/album/2oUN5vlr2v62mQ4lJTLJdT"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 182722,
+      "name": "True Romance",
+      "url": "https://open.spotify.com/track/5HtApUGrSqWVbGHeQNHzET"
+    },
+    {
       "added_at": "2022-06-17 08:01:00",
       "album": {
         "name": "Dance When You Cry",
@@ -1599,22 +1615,6 @@
       "duration_ms": 172204,
       "name": "Dance When You Cry",
       "url": "https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T"
-    },
-    {
-      "added_at": "2022-07-22 16:30:00",
-      "album": {
-        "name": "Probabilities",
-        "url": "https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 148905,
-      "name": "Probabilities",
-      "url": "https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
-        "name": "the lifeboat's empty!",
-        "url": "https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "the lifeboat's empty!",
-      "url": "https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
         "name": "Brad Pitt",
         "url": "https://open.spotify.com/album/2b1tEVkENOaP3ptVK0Zo9D"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 216187,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/5F1TZVziCp4TuXIMCsIxwM"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "the lifeboat's empty!",
+        "url": "https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 174278,
+      "name": "the lifeboat's empty!",
+      "url": "https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
-        "name": "landline",
-        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
-      },
-      "artists": [
-        {
-          "name": "Arlie",
-          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "landline",
-      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
         "name": "CUTiE",
         "url": "https://open.spotify.com/album/5bH4FxZ9Ujp27RWl44hISH"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
+        "name": "landline",
+        "url": "https://open.spotify.com/album/5eRHo1TtNV7v3M8X5hJ5Op"
+      },
+      "artists": [
+        {
+          "name": "Arlie",
+          "url": "https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -1791,22 +1791,6 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
-        "name": "I Think I Met You In A Dream",
-        "url": "https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 189511,
-      "name": "I Think I Met You In A Dream",
-      "url": "https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1839,6 +1823,22 @@
       "duration_ms": 148778,
       "name": "Cure",
       "url": "https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "I Think I Met You In A Dream",
+        "url": "https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 189511,
+      "name": "I Think I Met You In A Dream",
+      "url": "https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -1889,6 +1889,42 @@
       "url": "https://open.spotify.com/track/2nx6I5R9C8nfBofUdlXoRA"
     },
     {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "sucks to see you doing better (extended)",
+        "url": "https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO"
+    },
+    {
+      "added_at": "2022-07-22 16:30:00",
+      "album": {
+        "name": "Pastel Auras",
+        "url": "https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        },
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Pastel Auras",
+      "url": "https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4"
+    },
+    {
       "added_at": "2022-07-22 16:30:00",
       "album": {
         "name": "World Wide Pop",
@@ -1919,22 +1955,6 @@
     {
       "added_at": "2022-06-17 08:01:00",
       "album": {
-        "name": "sucks to see you doing better (extended)",
-        "url": "https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "homebody",
-      "url": "https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/5U2Q1Z8FtcW5UPXKLK5753"
       },
@@ -1947,58 +1967,6 @@
       "duration_ms": 161749,
       "name": "Lola",
       "url": "https://open.spotify.com/track/5VDmaEUjH0SGBDDjYgoxHW"
-    },
-    {
-      "added_at": "2022-06-24 04:00:00",
-      "album": {
-        "name": "Baby Don't Go",
-        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Malcolm",
-          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
-        }
-      ],
-      "duration_ms": 152230,
-      "name": "Baby Don't Go",
-      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
-    },
-    {
-      "added_at": "2022-06-17 08:01:00",
-      "album": {
-        "name": "Deadpan Love (Deluxe)",
-        "url": "https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 158066,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF"
-    },
-    {
-      "added_at": "2022-07-22 16:30:00",
-      "album": {
-        "name": "Pastel Auras",
-        "url": "https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        },
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "Pastel Auras",
-      "url": "https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4"
     },
     {
       "added_at": "2022-06-17 08:01:00",
@@ -2035,6 +2003,38 @@
       "duration_ms": 213906,
       "name": "Everything Matters",
       "url": "https://open.spotify.com/track/6YFos93VQcZFMTEKFYjuAK"
+    },
+    {
+      "added_at": "2022-06-24 04:00:00",
+      "album": {
+        "name": "Baby Don't Go",
+        "url": "https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Malcolm",
+          "url": "https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK"
+        }
+      ],
+      "duration_ms": 152230,
+      "name": "Baby Don't Go",
+      "url": "https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF"
+    },
+    {
+      "added_at": "2022-06-17 08:01:00",
+      "album": {
+        "name": "Deadpan Love (Deluxe)",
+        "url": "https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 158066,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF"
     },
     {
       "added_at": "2022-06-17 08:01:00",

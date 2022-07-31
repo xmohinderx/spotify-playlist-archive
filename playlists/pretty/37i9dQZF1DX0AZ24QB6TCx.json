@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 262349,
+  "num_followers": 262473,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMDFiNWJhOWU4NTZmNDFhNzc1YjFiZThmNjBlMWE4NGY0",
+  "snapshot_id": "MTY1NTQ3OTgwMSwwMDAwMDAwMGNlNmViOTQ2NDFiMjRhZmFkNWYxMDM1Mzk1OWUxMTY3",
   "tracks": [
     {
       "added_at": "2022-06-17 15:30:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
+        "name": "Copal",
+        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        }
+      ],
+      "duration_ms": 364543,
+      "name": "Copal",
+      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
+    },
+    {
+      "added_at": "2022-06-17 15:30:00",
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 332000,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/3Qgr5fOPZ0ug2kt6yfP7oX"
-    },
-    {
-      "added_at": "2022-06-17 15:30:00",
-      "album": {
-        "name": "Copal",
-        "url": "https://open.spotify.com/album/0cIbZmg4f802O0OvRCEZpn"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        }
-      ],
-      "duration_ms": 364543,
-      "name": "Copal",
-      "url": "https://open.spotify.com/track/6TqYadgz6qObDRYkcQe21L"
     },
     {
       "added_at": "2022-06-17 15:30:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-06-17 15:30:00",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/2OrQip9HLqtmBJb9r4hcU9"
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/1Ybr2PycNvqre2mpj35VRD"
       },
       "artists": [
         {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
         }
       ],
-      "duration_ms": 221479,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf"
+      "duration_ms": 246000,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT"
     }
   ],
   "unique_name": "Afterhours",

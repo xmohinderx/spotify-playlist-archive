@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 568077,
+  "num_followers": 568202,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM5MDczOCwwMDAwMDAwMDQ5ZjkwNGFkNmMyZDUxMzNhNzlmZjZkOWFkMzA4NGVj",
+  "snapshot_id": "MTY1ODM5MDczOCwwMDAwMDAwMDljZmRkYjg5MTA0YmNmNDNhMTdmOGM2YWE3ODgxNDk1",
   "tracks": [
     {
       "added_at": "2022-07-21 08:05:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-07-21 08:05:38",
       "album": {
-        "name": "Raop +5",
-        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
-    },
-    {
-      "added_at": "2022-07-21 08:05:38",
-      "album": {
         "name": "Demotape",
         "url": "https://open.spotify.com/album/6QwV2M3WxXxapiLNJ7Vfx1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/3dKPA3BeuIF5yvv2xUVh0z"
+    },
+    {
+      "added_at": "2022-07-21 08:05:38",
+      "album": {
+        "name": "Raop +5",
+        "url": "https://open.spotify.com/album/1ziNkIHkCp5WTkduPnjebN"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2yQBDZfOxUudxE1wYUfeuq"
     },
     {
       "added_at": "2022-07-21 08:05:38",

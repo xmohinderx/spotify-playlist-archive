@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 
 > Songs that show your dad love and appreciation
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,004 likes - 36 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,003 likes - 36 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 13 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 |
 | 14 | [My Old Man](https://open.spotify.com/track/4ewRM5SP4YhmlfKhi5uSjS) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:41 |
 | 15 | [Father and Daughter](https://open.spotify.com/track/4aU1zq0W9Ftg1UAQSj4aHN) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Surprise](https://open.spotify.com/album/3BgJSYve7Hvp80NZ6JWTmK) | 4:11 |
-| 16 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
-| 17 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
+| 16 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 |
+| 17 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
 | 18 | [Just Fishin'](https://open.spotify.com/track/1ZxNwqYsJA41CKf2YEhmIK) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Proud To Be Here \(Deluxe Edition\)](https://open.spotify.com/album/0FXZIMW55PBOpCGPS5mW8R) | 3:30 |
 | 19 | [My Father's Eyes](https://open.spotify.com/track/7zXqmgoZNRHNFgFAOoxhx6) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/3NciWxb2An4XoNC0AaYyNK) | 5:23 |
 | 20 | [Daughter](https://open.spotify.com/track/3p58uPQ08nLtr8IwVGdYKg) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:32 |
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXakVTmpoTAP.md) - [plain]
 | 33 | [Color Him Father](https://open.spotify.com/track/4qlk1U68B90hEi37NvCJRK) | [The Winstons](https://open.spotify.com/artist/1VePrTOSgCLcaBecBs7i2q) | [Color Him Father](https://open.spotify.com/album/5Ups4qqJu7BegTd8JoOU4M) | 3:10 |
 | 34 | [Daddy's Little Girl](https://open.spotify.com/track/2XDxDUxTOMWRoeyl322oG8) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Vintage](https://open.spotify.com/album/0JADWCVegOaq8ECTdGtDPy) | 2:12 |
 | 35 | [Song For Dad](https://open.spotify.com/track/0l2G2yxjpE9zgUA8rJlAMu) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:56 |
-| 36 | [Forever Young](https://open.spotify.com/track/1qli6fjEVdmMgssWy55eiZ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Greatest Hits Volume 3](https://open.spotify.com/album/3R4p0qCYhtK1YdPtvlDD7T) | 4:56 |
+| 36 | [My Old Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6hJ7gAxu3QqYBfvaTV3ZOQ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 3:54 |
 
-Snapshot ID: `MTY1NjAzMjI4MCwwMDAwMDAwMGY1ZmJkMWE3YjU3NDgwN2FjODI1MTBkNTI3NmZhNzM1`
+Snapshot ID: `MTY1NjAzMjI4MCwwMDAwMDAwMDQyNDBmZmEwMTc4Y2UxNDc0MDY0YWI1MTA0YjI1NDRk`

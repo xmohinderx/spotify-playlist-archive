@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Marcus Mumford
 
-1,556 songs - 3 day 17 hr 36 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
+1,557 songs - 3 day 17 hr 39 min - [published](https://open.spotify.com/playlist/48vgkrE0s2mfpgNewZs3ZM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,7 +900,8 @@
 | [Mother](https://open.spotify.com/track/4dI5Ir2YOjfKIuymFJmyI7) | [Gnarlah](https://open.spotify.com/artist/5PWdH4Kq3yHxP0CwaDFBB4) | [Mother](https://open.spotify.com/album/3xI6MEzSpoWzI2TycrwXnm) | 3:22 | 2022-06-30 | 2022-07-09 |
 | [Motorbike](https://open.spotify.com/track/3tXshiCzdCiwVXE7LKeX1J) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Motorbike](https://open.spotify.com/album/5BAb9XB8KHaO1KZRwE3Cuw) | 3:21 | 2022-06-30 | 2022-07-09 |
 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0fcGYLNBOEydUC79wZ70MM) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Mouth Shut](https://open.spotify.com/album/09GOubmt67sIzzVxhBe3VH) | 2:41 | 2022-04-28 | 2022-05-13 |
-| [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 | 2022-07-29 |  |
+| [Moving On](https://open.spotify.com/track/5V50qXrS7hPKdPXhVJPTvd) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/3XOAhdRa7u2CLFjoS1JLf5) | 2:54 | 2022-07-29 | 2022-07-31 |
+| [Moving On](https://open.spotify.com/track/6qLlzkFrpVuVPLjlfG1nnq) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Moving On](https://open.spotify.com/album/7oVDyTDWFtog2DSBhsQZiT) | 2:54 | 2022-07-29 |  |
 | [Ms\. Dramatic](https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:01 | 2022-07-29 |  |
 | [Murder](https://open.spotify.com/track/5BUozph1oBmczQwizzdbwy) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Murder](https://open.spotify.com/album/03OVjaA9hDPXDpBm6S8Fns) | 3:07 | 2022-06-30 | 2022-07-09 |
 | [MURDER ME](https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MURDER ME](https://open.spotify.com/album/6u2wZGyeP9BHs1wYThOCfn) | 3:34 | 2022-01-06 | 2022-01-14 |
